@@ -1,0 +1,345 @@
+# Benutzerhandbuch
+
+[Anweisungsbeispiele](user-instructions/Anweisungsbeispiele.md) · [Beispiel einer Erklärung zur KI-Unterstützung](ai-disclosure-example.md) · [Beispiel einer Veröffentlichungsseite](publication-example.md) · [Repository-Beispiele](https://github.com/vtejdn/acme/discussions/1)
+
+## ACME: Autonomous and Collaborative Mathematical Exploration
+
+ACME ist ein schlankes Rahmenwerk für autonome und kollaborative mathematische Forschung.
+Es verbindet Markdown-Regeln für [KI-Agenten](#notion-agent) mit unterstützenden Skripten, um längerfristige Untersuchungen zu ermöglichen und Forschungsergebnisse so festzuhalten, dass sie geprüft, wiederverwendet und weiterentwickelt werden können.
+Es verfolgt zwei Hauptziele: autonome KI-Agenten unter der Anleitung menschlicher Mathematiker forschen zu lassen und die Zusammenarbeit zwischen menschlichen Autoren zu unterstützen.
+
+### Menschliche Mathematiker
+
+Menschliche Mathematiker sind dafür verantwortlich:
+
+1. Forschungsfragen, ihren freigegebenen Umfang und Abschlusskriterien festzulegen, um [Forschungsaufgaben (Task)](#material-task) anzustoßen.
+2. Gemeinsam mit [Agenten](#notion-agent) die Entwicklung von [Forschungsstrategien](#material-strategy) zu steuern.
+3. Ideen beizutragen, mathematische Absichten zu präzisieren, wissenschaftliche Prioritäten zu setzen, Argumente zu hinterfragen, Fragen zu verfeinern und Untersuchungen neu auszurichten.
+4. Die Forschungsergebnisse zu verstehen und die Grenzen des mathematischen Wissens zu erkunden.
+5. Verantwortung für die mathematischen Ergebnisse zu übernehmen.
+
+### Auf [LLMs](#notion-llm) basierende Agenten
+
+Innerhalb des freigegebenen Umfangs sind autonome [Agenten](#notion-agent) dafür verantwortlich:
+
+1. Literatur zu studieren und die für die Untersuchung benötigten Ergebnisse zu überprüfen.
+2. [Forschungsstrategien](#material-strategy) zu entwickeln und zu bewerten, Lücken zu erkennen und im Rahmen des Auftrags gewöhnliche methodische Entscheidungen selbstständig zu treffen.
+3. Offene Fragestellungen zu untersuchen und den Geltungsbereich sowie die Grenzen sich abzeichnender Ergebnisse zu klären.
+4. Beweise und Gegenbeispiele für konkrete Fragen zu suchen und reproduzierbare Berechnungen durchzuführen, um Beobachtungen, Belege und Einsichten zu gewinnen.
+5. Voraussetzungen, Argumente, Belege, Abhängigkeiten, aufschlussreiche gescheiterte Ansätze, offene Fragen und den wesentlichen Forschungsverlauf in geeigneten Forschungsmaterialien festzuhalten, darunter [Claims](#material-claim) und [Ledgers](#material-ledger).
+6. Bei Bedarf unabhängige [Prüfungen](#material-review) zu veranlassen und deren Umfang, Befunde und Grenzen zu dokumentieren.
+7. Manuskripte nach allgemeinen Standards mathematischen Schreibens und den Präferenzen des verantwortlichen Autors auszuarbeiten und zu prüfen.
+
+### Zusammenarbeit
+
+Mathematiker können über ein gemeinsames [Git-Repository](git-repository.md#notion-git-repository) [zusammenarbeiten](#joint-task), Forschungsmaterialien teilen und die Ergebnisse der anderen wiederverwenden.
+Das Repository kann auf einer Plattform wie [GitHub](git-repository.md#notion-github) gehostet werden, sodass die Mitwirkenden auf ihren eigenen Geräten arbeiten und Änderungen synchronisieren können.
+Siehe die [Abbildung zur Zusammenarbeit über ein Git-Repository](git-repo.png).
+
+Verschiedene Mathematiker oder Teams können auch über Repository-Grenzen hinweg zusammenarbeiten, indem sie ausgewählte Materialien durch [Intake](#notion-intake) übernehmen; siehe die [Abbildung zur repositoryübergreifenden Zusammenarbeit](collaboration.jpg).
+
+### Arbeitsablauf
+
+Forschung beginnt mit einem von Menschen festgelegten [Task](#material-task), der Abschlusskriterien vorgibt.
+[Agenten](#notion-agent) sichten zunächst einschlägige lokale Forschungsmaterialien und Literatur und verwenden sie wieder; bei Bedarf suchen sie anschließend im Internet nach weiteren Quellen.
+Sie prüfen die Anwendbarkeit von Ergebnissen, entwickeln [Forschungsstrategien](#material-strategy) und wechseln wiederholt zwischen Beweisversuchen, Berechnungen und der Suche nach Gegenbeispielen.
+Jeder Versuch liefert Erkenntnisse für den nächsten: nützliche Befunde, Fehlschläge und offene Fragen werden in geeigneten Forschungsmaterialien festgehalten, darunter [Claims](#material-claim) und [Ledgers](#material-ledger).
+Strategien werden innerhalb des freigegebenen Ziels angepasst.
+Ergebniskandidaten werden einer mathematischen [Prüfung](#material-review) unterzogen; ob ein Task abgeschlossen ist, wird anhand der ursprünglichen Kriterien beurteilt.
+
+Siehe die [Abbildung zum Arbeitsablauf](workflow.jpg).
+
+## <a id="setup"></a>Einrichtung
+
+Für ein neues Forschungsprojekt führen Sie die folgenden Schritte I–III aus.
+Wenn Sie einer bestehenden Zusammenarbeit beitreten, richten Sie zunächst [Ihre Arbeitsumgebung](#setup-workplace) ein und folgen Sie dann den [Schritten zum Beitritt](#setup-collaboration).
+
+### Schritt I. Geeignete [LLMs](#notion-llm) wählen
+
+Vergleichen Sie die Leistung von LLMs bei mathematischen Aufgaben auf Forschungsniveau.
+Nutzen Sie [FrontierMath Tier 4](https://epoch.ai/frontiermath/tiers-1-4?tier=Tier+4+%28v2%29&view=graph&tab=leaderboard), [MathArena](https://matharena.ai/models), [Riemann-bench](https://surgehq.ai/benchmarks/riemann-bench) und weitere einschlägige Bewertungen als Orientierung.
+Wählen Sie Modelle für mathematische Forschung und Verwaltungsaufgaben unter Berücksichtigung ihrer Quelloffenheit, Zugänglichkeit und Kosten.
+
+### <a id="setup-workplace"></a>Schritt II. Arbeitsumgebung einrichten
+
+Für individuelle Forschung auf einem einzelnen Gerät verwenden Sie eine geeignete [Agenten-Laufzeitumgebung](agent-harness.md) mit Zugang zu einem leistungsfähigen [LLM](#notion-llm).
+
+1. Installieren Sie eine Agenten-Laufzeitumgebung als eigenständige Anwendung oder innerhalb einer [IDE](agent-harness.md#notion-ide) und melden Sie sich an, sofern dies erforderlich oder gewünscht ist.
+2. Wählen Sie auf Ihrem Gerät einen Ordner für das Rahmenwerk und spätere Forschungsmaterialien.
+3. Wählen Sie das Modell und den Anbieter in den Einstellungen oder der Modellauswahl.
+
+Ohne [Git](git-repository.md#notion-git) ist persönliche Forschung auf Ihrem lokalen Gerät der Standard.
+Um Arbeit zwischen Geräten zu synchronisieren oder über ein gemeinsames [Git-Repository](git-repository.md#notion-git-repository) zusammenzuarbeiten, können Sie eine Hosting-Plattform wie [GitHub](git-repository.md#notion-github) wählen.
+Das Hochladen von Forschungsaufzeichnungen und das öffentliche Bereitstellen eines Repositorys sind getrennte Entscheidungen.
+
+4. (Optional) Installieren Sie Git auf Ihrem Gerät oder bitten Sie einen [Agenten](#notion-agent) in Ihrer gewählten Laufzeitumgebung darum.
+5. (Optional) Erstellen Sie ein Konto bei einem Repository-Hosting-Dienst oder melden Sie sich dort an und verbinden Sie sich anschließend mit einem vorhandenen Repository oder erstellen Sie ein neues.
+
+- Siehe die [Anweisungsbeispiele zur Einrichtung](user-instructions/Anweisungsbeispiele.md#setup).
+
+### Schritt III. Rahmenwerk installieren und initialisieren
+
+Wenn Sie einem bestehenden Forschungs-Repository beitreten, das bereits ACME enthält, folgen Sie stattdessen den Schritten im nächsten Abschnitt.
+
+1. Bitten Sie einen [Agenten](#notion-agent), das [ACME-Rahmenwerk](https://github.com/vtejdn/acme) in Ihren Projektordner herunterzuladen oder dessen Repository zu [klonen](#notion-clone), wenn Sie [Git](git-repository.md#notion-git) verwenden.
+2. Wählen Sie einen eindeutigen Autorenschlüssel, etwa `Alice` oder `Ali`, und wählen Sie unabhängig davon den Namen für die Namensnennung in `LICENSE`.
+   Bitten Sie einen Agenten, Sie als Autor zu registrieren und diese Namensnennung hinzuzufügen.
+   In einer Git-Arbeitsumgebung bitten Sie den Agenten außerdem, diese Arbeitskopie mit Ihrem Autorenschlüssel zu verknüpfen, damit neue Einträge dem richtigen Autor zugeordnet werden.
+3. (Bei Verwendung von Git) Konfigurieren Sie den Namen und die E-Mail-Adresse für Ihre [Commits](#notion-commit) oder bitten Sie einen Agenten darum.
+4. (Bei Verwendung von Git) Wählen oder bestätigen Sie einen kurzen Namen für Ihr Forschungs-[Repository](git-repository.md#notion-git-repository) und bitten Sie einen Agenten, sicherzustellen, dass er im Rahmenwerk korrekt erfasst ist.
+5. (Optional) Wenn es angemessen ist, empfehlen wir nachdrücklich, Ihre Forschungsaufzeichnungen über ein öffentliches Repository zu teilen.
+
+- Siehe die [Anweisungsbeispiele zur Einrichtung](user-instructions/Anweisungsbeispiele.md#setup).
+
+### <a id="setup-collaboration"></a>Einem bestehenden [Git-Repository](git-repository.md#notion-git-repository) als Mitwirkender beitreten
+
+1. Melden Sie sich bei der Repository-Hosting-Plattform an und nehmen Sie die Einladung Ihres Mitautors an.
+2. Bitten Sie einen [Agenten](#notion-agent), Ihnen beim Einrichten des Zugriffs auf das gemeinsame Repository zu helfen.
+3. Geben Sie dem Agenten die Repository-Adresse und bitten Sie ihn, das Repository in einen neuen lokalen Ordner zu [klonen](#notion-clone).
+   Öffnen Sie diesen Ordner in Ihrer Agenten-Laufzeitumgebung.
+4. Wenn Sie im Forschungs-Repository noch nicht registriert sind, wählen Sie einen Autorenschlüssel, der sich von denen Ihrer Mitwirkenden unterscheidet, und unabhängig davon den Namen für die Namensnennung in `LICENSE`;
+   bitten Sie dann einen Agenten, Sie zu registrieren und diese Namensnennung hinzuzufügen.
+   Bitten Sie den Agenten, diese Arbeitskopie in ACME mit Ihrem Autorenschlüssel zu verknüpfen.
+5. Konfigurieren Sie den Namen und die E-Mail-Adresse für Ihre [Git](git-repository.md#notion-git)-[Commits](#notion-commit) oder bitten Sie einen Agenten darum.
+
+- Siehe die [Anweisungsbeispiele zur Einrichtung](user-instructions/Anweisungsbeispiele.md#setup).
+
+## Erste Schritte
+
+### Einen [Task](#material-task) beginnen
+
+1. (Optional) Stellen Sie einschlägige Literatur bereit oder bitten Sie einen [Agenten](#notion-agent), sie zu suchen.
+   Bitten Sie den Agenten, Quelldateien im [lokalen Literaturordner](../mathematics/literature/pdf) zu speichern und die angegebenen Teile einschlägiger Artikel in der gewünschten Tiefe zu prüfen.
+2. Legen Sie im Gespräch mit Agenten einen Task fest und bestimmen Sie die Fragen, Einschränkungen und Abschlusskriterien.
+   Sie können einen [Forschungslinien-Buchstaben](#notion-research-line-letter) wählen, um den Task und seine zugehörigen Materialien zu ordnen.
+3. Legen Sie für längerfristige autonome Arbeit Ausführungsgrenzen und Abbruchbedingungen fest oder übernehmen Sie bestehende.
+4. Genehmigen Sie notwendige Werkzeugaktionen, wenn Sie dazu aufgefordert werden, und beantworten Sie Fragen der Agenten.
+5. Durchdenken und verstehen Sie die von Agenten erarbeiteten mathematischen Materialien; kein Agent kann Ihnen dies abnehmen.
+   Besprechen Sie die Mathematik mit Agenten, um Ihr Verständnis zu vertiefen und schneller voranzukommen.
+   Bitten Sie um einschlägige Literaturangaben und hinterfragen Sie die Quellen von Argumenten und Ideen im sokratischen Gespräch, insbesondere wenn ein Argument ohne ausdrückliche Quellenbelege auf Modellwissen beruht.
+6. (Optional, bei Verwendung von [Git](git-repository.md#notion-git)) Halten Sie Änderungen, die Sie bewahren möchten, in einem [Commit](#notion-commit) fest; machen Sie bei Bedarf lokale Bearbeitungen rückgängig oder setzen Sie Commits durch einen Revert zurück.
+
+- Siehe die [Anweisungsbeispiele zur Forschung](user-instructions/Anweisungsbeispiele.md#research-instructions).
+
+### <a id="joint-task"></a>Einen gemeinsamen [Task](#material-task) beginnen
+
+Mitwirkende im selben Repository können für ein gemeinsames mathematisches Ziel einen gemeinsamen Task einrichten und dabei die gemeinsame Fragestellung, Annahmen, den Umfang und die Abschlusskriterien festlegen; jede teilnehmende Person treibt die Forschung mithilfe ihres eigenen Task voran.
+
+1. Bitten Sie einen [Agenten](#notion-agent), einen gemeinsamen Task einzurichten; hat ein Mitwirkender bereits einen geeigneten gemeinsamen Task eingerichtet, können Sie direkt zum nächsten Schritt übergehen.
+2. Bitten Sie den Agenten, Ihren individuellen Task einzurichten oder wiederzuverwenden, ihn mit dem gemeinsamen Task zu verknüpfen, dessen Übernahme Sie mit Ihren Mitwirkenden vereinbart haben, und Ihren Beteiligungsumfang sowie Ihre persönlichen Abschlusskriterien festzulegen.
+   Der individuelle Task kann die gemeinsame Fragestellung ganz oder teilweise abdecken; seine Abschlusskriterien können denen des gemeinsamen Task entsprechen oder sich nach Ihrem Beteiligungsumfang richten.
+   Die Teilnehmenden können sich auch die Arbeit an derselben Frage teilen: Eine Person versucht, einen Beweis zu finden, während eine andere nach einem Gegenbeispiel sucht.
+   Es empfiehlt sich, in Absprache mit den Mitwirkenden unterschiedliche [Forschungsstrategien (Strategy)](#material-strategy) zu wählen, um doppelte mathematische Arbeit zu verringern und KI-Rechenressourcen effizienter zu nutzen.
+   Für unabhängige Überprüfung, Replikation oder gegenseitige Kontrolle kann bewusst derselbe Forschungsansatz gewählt werden.
+3. Bei gemeinsamer Forschung synchronisiert der [leitende Forschungsagent](#notion-main-research-agent) vor jeder Runde die Aktualisierungen der Mitwirkenden durch Vorgänge wie [Pulls](#notion-pull) und [Merges](#notion-merge);
+   Forschungsfortschritte, die geteilt werden können, hält er zu geeigneten Zeitpunkten in [Commits](#notion-commit) fest und überträgt sie per [Push](#notion-push).
+   Administrative Konflikte bearbeitet der Agent im Rahmen seiner Befugnisse; bei wesentlichen mathematischen Meinungsverschiedenheiten erläutert er das Problem und nimmt eine erneute Prüfung vor, soweit dafür bereits eine Genehmigung vorliegt oder nachdem er die erforderliche Genehmigung eingeholt hat.
+   Sie können Pushes, Pulls, Merges und andere Synchronisationsvorgänge auch selbst anfordern.
+
+### Hinweise
+
+- [Agenten](#notion-agent) versuchen, öffentlich zugängliche Literatur in den [lokalen Literaturordner](../mathematics/literature/pdf) herunterzuladen.
+  Dieses Verzeichnis wird standardmäßig von [Git](git-repository.md#notion-git) ignoriert.
+  Wenn Sie dort eigene private Materialien ablegen, stellen Sie sicher, dass Git dieses Verzeichnis ignoriert und es nicht in ein öffentliches Repository hochgeladen wird.
+- Wenn Mitwirkende sonst denselben Autorenschlüssel verwenden würden, vereinbaren Sie unterschiedliche Schlüssel, etwa `Wang1` und `Wang2`.
+- Verwenden Sie unterschiedliche [Forschungslinien-Buchstaben](#notion-research-line-letter) für [Tasks](#material-task), die gleichzeitig von getrennten leitenden Forschungsagenten vorangetrieben werden.
+  Wählen Sie die Buchstaben beim Einrichten der Tasks, um die Materialnummerierung zu trennen und Schreibkonflikte zu verringern.
+  Bitten Sie die Agenten, Änderungen an gemeinsam genutzten Dateien abzustimmen, darunter Indizes, Bibliografie und Repository-Identitätseinträge.
+  Zusätzliche parallele Forschungs-Worktrees werden nicht empfohlen; das Rahmenwerk legt dafür keinen Verwaltungsablauf fest.
+- ACME leitet Agenten durch schriftliche Regeln und unterstützende Werkzeuge an.
+  Wenn ein Agent von Ihren Anweisungen oder den Regeln des Rahmenwerks abweicht, bitten Sie ihn, die Abweichung zu erklären und die betroffene Arbeit zu korrigieren.
+- Die Regeln des Rahmenwerks können Mehrdeutigkeiten, Widersprüche oder Lücken enthalten.
+  Sie können einen Agenten bitten, die Regeln des Rahmenwerks zu überarbeiten, wenn Sie dies für angemessen halten.
+  Sie können sich damit auch an den [Autor](https://github.com/vtejdn) des ACME-Rahmenwerks wenden.
+
+### Nützliche Gewohnheiten
+
+- Fragen Sie einen [Agenten](#notion-agent), wenn Sie Fragen zum Rahmenwerk haben.
+- Wenn Sie Literatur in einem lokalen, von einem Cloud-Dienst synchronisierten Verzeichnis aufbewahren, bitten Sie einen Agenten, den [lokalen Literaturordner](../mathematics/literature/pdf) über eine Verzeichnisverknüpfung (Directory Junction) damit zu verbinden.
+  Erteilen Sie dem Agenten die Berechtigungen, die er zum Lesen und Verwalten der Dateien in diesem Verzeichnis benötigt.
+- Wenn Agenten zugehörige Aufgaben automatisieren, bei denen Zugangsdaten verwendet werden, bewahren Sie Geheimnisse angemessen auf und schließen Sie sie von [Git](git-repository.md#notion-git) aus.
+
+### <a id="manuscript-writing"></a>Ein Manuskript verfassen
+
+In Arbeit.
+
+### <a id="lean-formalization"></a>Formalisierung in Lean
+
+In Arbeit.
+
+## Nützliche Informationen
+
+### Version des Rahmenwerks
+
+Die aktuelle Version des Rahmenwerks ist 0.9.2.
+
+Wenn automatische Prüfungen aktiviert sind und Netzwerkzugriff erlaubt ist,
+prüft der [Agent](#notion-agent) zu Arbeitsbeginn höchstens einmal pro UTC-Tag, ob eine neuere Version des [offiziellen ACME-Rahmenwerks](https://github.com/vtejdn/acme) verfügbar ist.
+Ist eine neuere Version verfügbar, nennt er die installierte und die verfügbare Version und fragt, ob ein Upgrade vorbereitet werden soll; Ihre laufende Arbeit kann während Ihrer Entscheidung fortgesetzt werden.
+Eine Erinnerung installiert oder aktualisiert keine Dateien, und Sie können das Upgrade zurückstellen.
+Sie können die automatischen Prüfungen für dieses Repository deaktivieren oder aktivieren lassen, eine sofortige erneute Prüfung oder ausdrücklich ein Upgrade anfordern.
+
+### <a id="common-instructions"></a>Anweisungsbeispiele
+
+Die [Anweisungsbeispiele](user-instructions/Anweisungsbeispiele.md) veranschaulichen häufige Anweisungen und erläutern, welche Ergebnisse Sie erwarten können.
+
+### Verzeichnisse und Dateien im Stammverzeichnis
+
+Die folgenden Tabellen beschreiben die wichtigsten Dateien und Verzeichnisse im Stammverzeichnis des Repositorys.
+Einige Verzeichnisse werden erst bei Bedarf angelegt.
+
+| Pfad | Zweck |
+| --- | --- |
+| `.tmp/` | Enthält temporäre Eingaben und Nebenprodukte, die von [Agenten](#notion-agent) erstellt und nach Gebrauch entfernt werden. |
+| `execution/` | Dokumentiert den aktuellen Ausführungszustand, Grenzen und Abbruchbedingungen individueller Forschungs-[Tasks](#material-task). |
+| [`framework/`](../framework/readme.md) | Enthält Regeln des Rahmenwerks, Materialvorlagen, Formatvorgaben und Versionshinweise. |
+| `intake/` | Dokumentiert, welche Materialien aus anderen [Repositories](git-repository.md#notion-git-repository) übernommen wurden, ihre Quellen und den Umfang jeder Übernahme. |
+| [`mathematics/`](../mathematics/readme.md) | Enthält Forschungsmaterialien, Literatureinträge, Berechnungen, Manuskripte und Präsentationen. |
+| `profiles/` | Enthält persönliche Forschungsrichtlinien, Ausführungspräferenzen und Vorgaben für mathematisches Schreiben. |
+| [`repository/`](../repository/readme.md) | Speichert Repository-Einstellungen, Autorenregistrierungen und Zuordnungen zu externen Repositories und Autoren. |
+| [`scripts/`](../scripts/readme.md) | Bietet optionale Befehlszeilenwerkzeuge für Einrichtung, Materialverwaltung, Navigation und Prüfungen. |
+| [`user-manual/`](./) | Enthält Benutzeranleitungen, Erläuterungen zur Einrichtung und Anweisungsbeispiele. |
+| `.gitattributes` | Konfiguriert die Behandlung von Text- und Binärdateien durch [Git](git-repository.md#notion-git), einschließlich Zeilenenden. |
+| `.gitignore` | Legt fest, welche nicht versionierten Dateien und Verzeichnisse Git ignorieren soll. |
+| `AGENTS.md` | Enthält Einstiegsanweisungen, die Agenten zu den einschlägigen Regeln und Materialien des Rahmenwerks führen. |
+| `LICENSE` | Enthält die Lizenzbedingungen und Hinweise des Repositorys. |
+| `readme.md` | Stellt das Repository vor und verlinkt auf das Benutzerhandbuch, die Regeln des Rahmenwerks und Forschungsmaterialien. |
+
+Abhängig von Ihren Werkzeugen und Einstellungen können außerdem die folgenden Verzeichnisse vorhanden sein.
+
+| Pfad | Zweck |
+| --- | --- |
+| `.agents/` | Enthält Agenten-Skills für dieses Repository. |
+| `.claude/` | Enthält lokale Claude-Code-Einstellungen für diesen Arbeitsbereich. |
+| `.codex/` | Enthält die lokale Codex-Konfiguration für diesen Arbeitsbereich. |
+| `.git/` | Enthält die Git-Historie, Referenzen, Konfiguration und weitere Metadaten der Versionsverwaltung. |
+| `.venv/` | Enthält die lokale virtuelle Python-Umgebung und deren installierte Abhängigkeiten. |
+| `.vscode/` | Enthält die VS-Code-Arbeitsbereichskonfiguration und Erweiterungsempfehlungen. |
+
+### Kategorien von Forschungsmaterialien
+
+| Kürzel | Material | Speicherort | Zweck |
+| --- | --- | --- | --- |
+| T | [Forschungsaufgabe (Task)](#material-task) | [`mathematics/tasks/`](../mathematics/tasks/index.md) | Legt eine Forschungsfrage, ihren freigegebenen Umfang und Abschlusskriterien fest und dokumentiert Entscheidungen über ihren Lebenszyklus. |
+| S | [Forschungsstrategie (Strategy)](#material-strategy) | [`mathematics/strategies/`](../mathematics/strategies/index.md) | Entwickelt und bewertet einen Forschungsweg, ordnet Prioritäten und benennt Hindernisse sowie nächste Schritte. |
+| C | [Mathematische Aussage (Claim)](#material-claim) | [`mathematics/claims/`](../mathematics/claims/index.md) | Formuliert präzise mathematische Aussagen, bewahrt ihre Argumente und Abhängigkeiten und dokumentiert ihre mathematischen Bewertungen und Prüfungsbefunde. |
+| R | [Prüfbericht (Review)](#material-review) | [`mathematics/audits/reviews/`](../mathematics/audits/reviews/readme.md) | Dokumentiert mathematische Prüfungen bestimmter projektinterner Argumente, einschließlich der geprüften Eingaben, Befunde, Organisation der Prüfung und Grenzen. |
+| D | Entwurf (Draft) | [`mathematics/drafts/`](../mathematics/drafts/readme.md) | Bietet einen Arbeitsbereich für die Entwicklung mathematischer Argumente, Rechnungen und Alternativen, die noch untersucht werden. |
+| L | [Explorationsprotokoll (Ledger)](#material-ledger) | [`mathematics/ledger/`](../mathematics/ledger/readme.md) | Bewahrt nützliche Untersuchungen, Vergleiche, Synthesen und gescheiterte Ansätze sowie die Gründe und Ergebnisse wesentlicher mathematischer Änderungen. |
+| J | Berechnung (Computation) | [`mathematics/computations/programs/`](../mathematics/computations/readme.md) | Organisiert Programme und erforderliche Eingaben für reproduzierbare Berechnungen und dokumentiert Ausführungsstatus, Ergebnisse und Grenzen. |
+| U | Literaturprüfungseinheit (Literature audit unit) | [`mathematics/audits/literature/`](../mathematics/audits/literature/readme.md) | Macht geprüfte Literatur wiederverwendbar, indem sie Quellenausgabe und Textstellen, mathematischen Inhalt, Anwendbarkeit und Prüfungsgrenzen festhält. |
+| — | Manuskript (Manuscript) | [`mathematics/manuscripts/`](../mathematics/manuscripts/index.md) | Dient der Ausarbeitung von Aufsätzen und zugehörigen mathematischen Dokumenten, einschließlich Darstellung, Zitaten, Schreibvorgaben und Kompilierungsprotokollen. |
+| — | Präsentation (Presentation) | [`mathematics/presentations/`](../mathematics/presentations/readme.md) | Dient der Ausarbeitung von Vorträgen und Folien für ein bestimmtes Publikum, einschließlich Quelldateien, Schreibvorgaben, Kompilierungsinformationen und Prüfberichten. |
+
+- Jede Berechnung hat ein nummeriertes J-Verzeichnis mit ihren Programmen, erforderlichen Eingaben und einer `readme.md`.
+  Erzeugte Ausgaben werden getrennt unter dem lokalen, von [Git](git-repository.md#notion-git) ignorierten Pfad `mathematics/computations/outputs/<J>/` gespeichert.
+- Literaturprüfungseinheiten sind unter `mathematics/audits/literature/` nach Zitierschlüsseln gruppiert.
+- Der [Definitionsindex](../mathematics/definitions/index.md) ordnet Definitionen, Terminologie und Symbole nach Begriffen und verlinkt auf die vollständigen Formulierungen in den zuständigen C-, L- oder U-Materialien.
+- Die maßgebliche [Bibliografie](../mathematics/literature/references.bib) dokumentiert die Identität von Veröffentlichungen und deren Zitierschlüssel.
+  Nützliche Hinweise zu Quellen und Ausgaben können in den von den jeweiligen Autoren verantworteten Abschnitten von `mathematics/audits/literature/<SourceKey>/readme.md` festgehalten werden.
+
+### Grundbegriffe
+
+| Begriff | Bedeutung |
+| --- | --- |
+| <a id="notion-llm"></a>LLM (Large Language Model) | Ein auf großen Textmengen trainiertes KI-Modell, das Sprache verarbeitet und erzeugt, darunter mathematische Erläuterungen und Computercode. |
+| <a id="notion-agent"></a>Agent | Ein von einem [LLM](#notion-llm) angetriebenes KI-System, das Aufgaben planen und ausführen, Werkzeuge verwenden und seine Handlungen anhand der Ergebnisse anpassen kann. Es arbeitet über eine [Agenten-Laufzeitumgebung](agent-harness.md) innerhalb des vom Menschen freigegebenen Umfangs und der festgelegten Grenzen. Es hat sich noch nicht zu einem [Agent](https://de.wikipedia.org/wiki/Matrix_%28Film%29#Handlung) weiterentwickelt. |
+| <a id="notion-context"></a>Kontext (Context) | Die Informationen, die einem LLM bei einem Modellaufruf zur Verfügung stehen, darunter Anweisungen, Gesprächsverlauf, bereitgestellte Materialien und Werkzeugergebnisse. Der aktuelle Kontext kann nur eine Auswahl oder Zusammenfassung des vollständigen [Sitzungsverlaufs](#notion-session) enthalten. |
+| <a id="notion-context-length"></a>Kontextlänge (Context length) | Die maximale Gesamtlänge aus Ein- und Ausgabe, die ein LLM auf einmal verarbeiten kann, üblicherweise in Tokens gemessen, also kleinen Texteinheiten. Dazu zählen Anweisungen, Gesprächsverlauf, bereitgestellte Materialien und die erzeugte Antwort. |
+| <a id="notion-session"></a>Sitzung (Session) | Eine fortlaufende Interaktion mit einem [Agenten](#notion-agent), die von einer [Agenten-Laufzeitumgebung](agent-harness.md) verwaltet wird. Sie kann mehrere Gesprächsrunden enthalten, die jeweils typischerweise mit einer Benutzernachricht beginnen und die Antworten des Agenten sowie Werkzeugaufrufe umfassen. Die Laufzeitumgebung verwaltet den Gesprächsverlauf und bereitet den [Kontext](#notion-context) für jeden Modellaufruf vor; um die [Kontextlänge](#notion-context-length) des Modells einzuhalten, kann sie frühere Teile des Verlaufs auswählen oder zusammenfassen. |
+| Materialkennung | Eine strukturierte Referenz, die ein Material und gegebenenfalls dessen Version bezeichnet. Beispielsweise kennzeichnet `Alice_C_F0007_v1.md` einen [Claim](#material-claim) durch Autor, Materialart, Forschungslinie, laufende Nummer und Version. |
+| <a id="notion-research-line-letter"></a>Forschungslinien-Buchstabe | Ein Buchstabe, etwa `F` in `Alice_C_F0007_v1.md`, mit dem nummerierte Forschungsmaterialien geordnet werden. Von einem Task abgeleitete Materialien übernehmen dessen Buchstaben, erhalten jedoch eigene laufende Nummern. Ohne Angabe einer Linie wird standardmäßig `A` verwendet. |
+| Autorenschlüssel | Ein stabiler registrierter Schlüssel für einen menschlichen Autor, etwa `Alice`, der in Materialkennungen und Autoreneinträgen verwendet wird. |
+| Materialfamilie | Die aufbewahrten Versionen desselben Materials, etwa `Alice_C_F0007_v1.md` und `Alice_C_F0007_v2.md`. |
+| Materialversion | Eine bestimmte aufbewahrte Überarbeitung eines Materials, etwa die Version `v1` oder `v2` eines Claims. |
+| <a id="notion-main-research-agent"></a>Leitender Forschungsagent | Der Agent, der die Arbeit an einem [Task](#material-task) leitet, beteiligte Unteragenten koordiniert und die Forschungsaufzeichnungen konsistent hält. |
+| Task-Runde | Ein Arbeitsabschnitt zu einem Task, der mit einer Aufzeichnung des Fortschritts, offener Fragen und eines Ansatzpunkts für die Fortsetzung endet. |
+| <a id="notion-git-branch"></a>Git-Branch | Eine benannte Entwicklungslinie in einem [Git-Repository](git-repository.md#notion-git-repository), auf der Änderungen getrennt von anderen Arbeitslinien entwickelt werden können. |
+| <a id="notion-clone"></a>Klonen (Clone) | Ein bestehendes Git-Repository einschließlich seiner Dateien und Versionshistorie in einen neuen lokalen Ordner kopieren. |
+| <a id="notion-commit"></a>Commit | Ein in der lokalen [Git](git-repository.md#notion-git)-Historie gespeicherter Stand, der ausgewählte Änderungen mit einer erläuternden Nachricht festhält. |
+| <a id="notion-push"></a>Push | Lokale Commits an ein entferntes Git-Repository senden, damit die aufgezeichnete Arbeit dort verfügbar ist. |
+| <a id="notion-pull"></a>Pull | Änderungen aus einem entfernten Git-Repository abrufen und in die lokale Arbeit integrieren. |
+| <a id="notion-merge"></a>Merge | Änderungen aus einem anderen [Branch](#notion-git-branch) in den aktuellen Git-Branch zusammenführen und dabei widersprüchliche Bearbeitungen bei Bedarf auflösen. |
+| <a id="notion-intake"></a>Übernahme (Intake) | Ausgewählte Forschungsmaterialien aus einem anderen öffentlichen ACME-Repository in das eigene übernehmen und dabei Autorenschaft, Herkunft und Prüfungsgrenzen bewahren. |
+| <a id="notion-import"></a>Import | Eigene ausgewählte Forschungsmaterialien, Manuskripte oder anwendbare persönliche Einstellungen aus einem anderen Ordner oder Repository in den aktuellen Arbeitsbereich übernehmen, dabei die Autorenschaft bewahren und ausreichende vorhandene Materialien wiederverwenden. Benötigte Materialien anderer Autoren werden durch [Übernahme (Intake)](#notion-intake) bezogen. |
+| Zitierschlüssel | Eine kurze Kennung für ein Werk in der Bibliografie, mit der es in Forschungsaufzeichnungen und Manuskripten einheitlich zitiert werden kann. |
+
+### <a id="material-task"></a>Forschungsaufgabe (Task)
+
+Ein Task organisiert Forschung um ein präzises mathematisches Ziel, seinen freigegebenen Umfang und vereinbarte Abschlusskriterien.
+
+| Task-Status | Bedeutung für den Leser |
+| --- | --- |
+| `proposed` | Eine Forschungsfrage wurde vorgeschlagen, ist aber noch kein aktives Forschungsziel. |
+| `active` | Die Untersuchung ist freigegeben und wird weitergeführt. |
+| `paused` | Die Untersuchung ist bewusst unterbrochen; die Absicht und eine ausdrücklich genannte Grundlage zur Fortsetzung sind festgehalten. |
+| `blocked` | Eine konkret fehlende Eingabe oder unerfüllte Voraussetzung verhindert den nächsten notwendigen Schritt. Der Eintrag erläutert, was für weitere Fortschritte benötigt wird. |
+| `completed` | Die vereinbarten Abschlusskriterien sind mit unterstützenden mathematischen Belegen und der erforderlichen Prüfung erfüllt. |
+| `retired` | Die Untersuchung wurde eingestellt. Gründe, nützliche Befunde und unvollendete Teile bleiben dokumentiert. |
+
+- Ein Task kann aktiv bleiben, auch wenn gerade kein [Agent](#notion-agent) daran arbeitet.
+- Ein Task führt die Forschungsmaterialien zusammen, die Ihre Untersuchung unterstützen.
+  Zugehörige Manuskripte, Fortschrittsberichte und andere von Ihnen angeforderte Dokumente können in einem Projekt wie `mathematics/manuscripts/Alice_T_A0007/` gesammelt werden.
+- Sie können darum bitten, einen abgeschlossenen Task für weitere Arbeit am betreffenden Forschungsziel zu reaktivieren.
+  Erläutern Sie, was Sie als Nächstes untersuchen möchten und welche Änderungen an Umfang oder Grenzen vorgesehen sind.
+  Ein wesentlich anderes Forschungsziel sollte als neuer Task angelegt werden.
+
+### <a id="material-strategy"></a>Forschungsstrategie (Strategy)
+
+Eine Strategy beschreibt einen konkreten Weg zu einem Forschungsziel, einschließlich ihres Mechanismus, verbleibender Hindernisse und der nächsten sinnvollen Schritte.
+
+| Strategy-Status | Bedeutung für den Leser |
+| --- | --- |
+| `proposed` | Ein möglicher Ansatz wurde erkannt, aber noch nicht für die aktuelle Untersuchung ausgewählt. |
+| `active` | Der Weg ist derzeit für die Forschung am Ziel des Tasks ausgewählt. |
+| `paused` | Der Weg ist wegen Prioritäten, Arbeitsreihenfolge oder verfügbarer Ressourcen vorübergehend zurückgestellt. Dies bedeutet keinen mathematischen Fehlschlag. |
+| `blocked` | Eine konkrete unerfüllte Voraussetzung verhindert den nächsten geplanten Schritt. Der Eintrag benennt das Hindernis und die Bedingungen, unter denen der Weg fortgesetzt werden könnte. |
+| `completed` | Der Weg hat sein angegebenes Ergebnis oder seinen Beitrag mit den erforderlichen Belegen erbracht. Zum Abschluss des Tasks kann weitere Arbeit nötig sein. |
+| `refuted` | Geprüfte mathematische Belege schließen den dokumentierten Mechanismus oder eine dafür erforderliche Hilfsaussage unter den genannten Voraussetzungen aus. |
+| `superseded` | Der Weg wurde durch benannte Nachfolgestrategien ersetzt oder in einen anderen Weg aufgenommen. Seine Geschichte und nützlichen Befunde bleiben zugänglich. |
+
+- Ein [Task](#material-task) kann mehrere Strategien haben, entweder als Alternativen oder als Bestandteile eines kombinierten Ansatzes.
+  Der Abschluss, die Unterbrechung oder der Ausschluss einer einzelnen Strategie bestimmt für sich genommen nicht den Status des gesamten Tasks.
+- Sie können Ansätze vorschlagen, den [Agenten](#notion-agent) um einen Vergleich von Alternativen bitten oder Prioritäten vorgeben.
+  Geben Sie ausdrücklich an, wenn eine Priorität oder Reihenfolge unverändert bleiben muss; andernfalls kann der Agent seine Auswahl von Wegen innerhalb des vereinbarten Umfangs anpassen.
+- Innerhalb des freigegebenen Umfangs dürfen autonome Agenten Strategien je nach Befunden und Ressourcen hinzufügen, überarbeiten, neu priorisieren, aufteilen, zusammenführen, unterbrechen oder erneut aufnehmen.
+- Ein gescheiterter Weg kann dennoch aufschlussreich sein.
+  Er kann ein Hindernis aufdecken, einen Ansatz ausschließen oder zeigen, wo eine zusätzliche Voraussetzung nötig wäre.
+
+### <a id="material-claim"></a>Mathematische Aussage (Claim)
+
+Ein Claim dokumentiert eine wichtige, präzise mathematische Aussage und den aktuellen Kenntnisstand zu ihrer Gültigkeit.
+
+| Mathematischer Status | Bedeutung für den Leser |
+| --- | --- |
+| `open` | Die genaue Aussage ist weiterhin ungeklärt. Es können Teilergebnisse, Reduktionen oder ein vorläufiges Argument vorliegen, doch die Bedingungen für `proved` oder `refuted` sind noch nicht erfüllt. |
+| `proved` | Ein vollständiger Beweis begründet die genaue Aussage unter ihren angegebenen Voraussetzungen. Alle notwendigen unterstützenden Ergebnisse sind gesichert und anwendbar; eine dokumentierte mathematische [Prüfung](#material-review) hat keine verbleibende Lücke festgestellt. |
+| `refuted` | Ein geprüftes Gegenbeispiel oder Argument widerlegt die genaue Aussage innerhalb ihres angegebenen Geltungsbereichs. Alle notwendigen unterstützenden Ergebnisse sind gesichert und anwendbar; eine dokumentierte mathematische Prüfung hat keine verbleibende Lücke festgestellt. |
+
+### <a id="material-review"></a>Prüfbericht (Review)
+
+Ein Review dokumentiert die Prüfung einer mathematischen Aussage oder eines Arguments durch einen [Agenten](#notion-agent), einschließlich der genauen Eingaben und des Umfangs, der Befunde und verbleibender Einschränkungen.
+
+| Prüfungsverhältnis | Bedeutung für den Leser |
+| --- | --- |
+| `self-reviewed` | Der Beweis wurde von einem Agenten geprüft, der an seiner Entwicklung beteiligt war oder mit der mathematischen Diskussion vertraut ist, aus der er hervorgegangen ist. |
+| `independently reviewed` | Ein anderer Agent prüfte den Beweis, ohne an dessen Entwicklung beteiligt gewesen zu sein oder die Entwicklungsdiskussion als eigenen [Kontext](#notion-context) erhalten zu haben. |
+| `unknown` | Das tatsächliche Verhältnis einer älteren oder aus einer Quelle stammenden Prüfung ist nicht geklärt; dies bedeutet weder einen Fehler noch eine unabhängige Prüfung. |
+
+- Diese Bezeichnungen beschreiben das Verhältnis der prüfenden Agenten zum Beweis, nicht dessen Richtigkeit.
+  Eine fehlende Angabe des Prüfungsverhältnisses unterscheidet sich von `unknown`; ist keine Prüfung ausgewählt, verwendet der Claim keine Prüfungsbelege.
+- Auch die Prüfung durch einen anderen Agenten gilt als Selbstprüfung, wenn dieser Diskussionen zur Beweisentwicklung, mathematische Zusammenfassungen, Erläuterungen des Autors oder frühere Prüfungsbefunde übernimmt.
+  Eine andere [Sitzung](#notion-session) oder ein anderes Modell allein begründet keine Unabhängigkeit.
+- Der [leitende Forschungsagent](#notion-main-research-agent) veranlasst unabhängige Prüfungen an zentralen Beweisstellen und nach Abschluss des [Task](#material-task) für die gesamte logische Kette.
+  Sie können auch die Prüfung eines bestimmten Ergebnisses oder Beweisschritts anfordern.
+
+### <a id="material-ledger"></a>Explorationsprotokoll (Ledger)
+
+Ein Ledger bewahrt nützliche mathematische Untersuchungen, darunter Vergleiche, gescheiterte Ansätze und Gründe für Richtungsänderungen.
+Ein Eintrag kann erläutern, was unter welchen Voraussetzungen untersucht wurde, was versucht wurde, was die Argumentation oder die Belege zeigten und was offenbleibt.
+
+Ein Ledger kann Teilargumente und nützliche Einsichten bewahren, auch wenn eine Untersuchung noch keinen eigenständigen [Claim](#material-claim) hervorgebracht hat.
+Gescheiterte oder ergebnisoffene Versuche können beispielsweise Hindernisse sichtbar machen, Ansätze voneinander abgrenzen oder helfen, wiederholte Arbeit zu vermeiden.
+
+- Sie können einen [Agenten](#notion-agent) bitten, [Strategien](#material-strategy) zu vergleichen, einen gescheiterten Versuch zu erklären, Erkenntnisse aus mehreren Quellen zusammenzuführen oder einen nützlichen Gedankengang für spätere Arbeit festzuhalten.
+- Sie können einen Agenten auch bitten, alles festzuhalten, was Sie für mathematisch wesentlich und aufzeichnungswürdig halten.

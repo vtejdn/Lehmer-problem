@@ -1,0 +1,19 @@
+# Computations
+
+Before creating or retaining J, apply the [common content decision](../../framework/rules/records.md#substantive-material-retention), then its native reproduction obligations.
+Preserve useful failed or continuing code/data with honest status; routine file operations and disposable trials need no J archive.
+Follow the [kind-specific rules](../../framework/rules/computations.md#when-to-retain-a-computation-record).
+
+Programs, verification programs, required original inputs and the concise README use `programs/<J>/`.
+Generated results, certificates and verification data use the Git-ignored `mathematics/computations/outputs/<J>/`.
+Generated data needed as indispensable fixed proof/check/computation input uses the responsible J's tracked native inputs instead; recover genuinely needed missing input within the actual assignment under the [recovery rule](../../framework/rules/computations.md#recovery-of-necessary-fixed-inputs).
+Both homes retain the exact same J identity, including receiving authorN/repoN and the established receiving serial for acquired groups.
+Use the [README template](../../framework/templates/mathematics/computation.md) and [computation rules](../../framework/rules/computations.md).
+Keep logs only for troubleshooting and checkpoints only for useful continuation.
+Preserve necessary mathematics, inputs, finite results, actual checking relationships and reproduction limits in existing responsible materials.
+
+The [current index](index.md) provides navigation.
+Follow the program README to actual files, required inputs, command order, results and limitations.
+Generic discovery and common-framework copying exclude generated output; a clone can lack it.
+[J intake](../../framework/rules/intake.md#computation-programs-and-inputs) receives selected fixed programs and necessary inputs; outputs remain local, with source-only references and separately authorized reproduction when needed.
+A surviving dataset needs no invented program, and an unknown generator remains unknown.

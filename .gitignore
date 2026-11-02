@@ -1,0 +1,23 @@
+/.tmp/
+/.generated/
+/execution/
+/.vscode/
+/.codex/
+/.pytest_cache/
+/.venv/
+/repository/.lock
+/repository/framework-update-check.json
+# Local credentials must not enter Git history.
+/profiles/*/secrets.md
+__pycache__/
+*.py[cod]
+/mathematics/computations/outputs/
+
+# Literature PDF directory/junction and external source bytes are machine-local, not Git or LFS objects.
+/mathematics/literature/pdf
+/mathematics/literature/**/*.pdf
+
+# Manuscript and presentation outputs use collection-local .gitignore rules.
+
+# Machine-local Windows cache artifacts.
+/%SystemDrive%/
