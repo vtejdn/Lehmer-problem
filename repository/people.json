@@ -1,3 +1,10 @@
 {
-  "people": []
+  "people": [
+    {
+      "display_name": "Sheng Yin",
+      "git_identities": [],
+      "github_accounts": [],
+      "id": "Yin"
+    }
+  ]
 }
