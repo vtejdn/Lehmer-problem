@@ -15,6 +15,7 @@ No rolling cross-Task progress narrative or completion-edit duty is maintained h
 - [Computations](computations/readme.md)
 - [Talks and presentations](presentations/readme.md)
 - [Material maintenance](maintenance.md)
+- [Mathematical errata](erratum.md)
 
 Create actual material through the [material interface](../framework/material-format.md).
 C owns Claim arguments and selected assessments; T owns its contract and lifecycle; independent project-review accounts belong to R.
