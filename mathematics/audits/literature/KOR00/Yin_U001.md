@@ -13,7 +13,9 @@ Source edition: K.H. Kim, N.S. Ormes and F.W. Roush, The spectra of nonnegative 
 
 Passages: Net-trace definition p.773, necessity explanation p.774 and Main Theorem2.2 p.776.
 
-Inspection: Original2026-10-07 statement/applicability reading by assigned AI review_matrix_completion for Yin, retained from the original README. The displayed journal header, authors, exact definition and theorem were read in accessible HTML. Original proof Sections4--6 remain unreviewed. This organization performs no new source reading or acquisition.
+Inspection: Original2026-10-07 statement/applicability reading by assigned AI review_matrix_completion for Yin.
+The displayed journal header, authors, exact definition and theorem were read in accessible HTML.
+Original proof Sections4--6 remain unreviewed.
 
 
 ## Exact accepted statement
@@ -49,4 +51,11 @@ No dimension, zero-padding size, integral unimodularity or edge-excess bound fol
 A necessary net-trace test alone does not supply those missing complexity controls.
 The attribution is Kim--Ormes--Roush2000 for the integer case, rather than solely Boyle--Handelman1991.
 The accessible rendering identifies the published article; no PDF was retained by the original reviewer and no local is claimed for this scope.
-Exact failed requests and the empty TeX response remain at their existing acquisition accounts; they do not establish that every alternative source is unavailable.
+
+<a id="retained-original-check"></a>
+## Selected-page check of the retained journal original
+
+The [identified journal original](readme.md#retained-original), printed pp. 773–774 and 776, was text-read and visually inspected.
+The net trace has the stated Mobius sum without division by n; the graph explanation counts length-n loops not obtained by repetition of a shorter loop.
+Main Theorem 2.2 gives the retained integral-coefficient, strict Perron-root and all-net-trace conditions, with the equivalent determinant formulation allowing additional zero eigenvalues.
+This check preserves the accepted statement/applicability scope and supplies no dimension or complexity bound or audit of proof Sections 4–6.

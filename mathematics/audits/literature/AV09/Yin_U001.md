@@ -2,27 +2,24 @@
 author: Yin
 ---
 
-# AV09: located improved nondegenerate-equation count and access boundary
+# AV09: improved nondegenerate-equation count and adoption boundary
 
-Date: 2026-10-07.
-Bounded follow-up by assigned AI ms25_source for Yin.
-This source unit records a located source and an explicit access limitation; its external theorem is not adopted.
+The primary statement is read at the scope below; its external theorem is not adopted for the project by this maintenance.
 
 <a id="av09-u001"></a>
 ## Source and inspection
 
 [Source and edition notes](readme.md).
 
-Source edition: Francesco Amoroso and Evelina Viada, *Small points on subvarieties of a torus*, Duke Mathematical Journal 150 (2009), no.3, 407--442, DOI `10.1215/00127094-2009-056`. The [Torino institutional record](https://iris.unito.it/handle/2318/1944876?mode=complete) identifies its open Duke5.pdf attachment as the author's final postprint. An [author-hosted published rendering](https://amoroso.users.lmno.cnrs.fr/files-heightGmn/Duke.pdf) was also located. No local PDF was obtained; neither artifact has a verified local hash.
+Source edition: the [HAL hal-00424769v1 author manuscript](readme.md#retained-original) of Francesco Amoroso and Evelina Viada, *Small points on subvarieties of a torus*.
+The source notes distinguish that manuscript from the earlier Torino locator and the published Duke edition.
 
-Passages: Theorem 6.2, equation (6.24), internally numbered p.26 of the institutional postprint. This locator and the complete theorem wording appeared in the primary PDF's search extraction. The journal page mapping has not been verified.
+Passages: Theorem 6.2 and equation (6.24), internal p. 26, PDF p. 27 of the retained HAL manuscript.
+Its journal-page correspondence has not been established.
 
-Inspection: Publisher identity was cross-checked through the institutional record and the author's indexed title page. The complete theorem paragraph and its following proof paragraph were located in a primary-source search extraction. Attempts to open the underlying PDFs failed, so this record does not yet label the original theorem statement as read/accepted. No visual source inspection or source-proof audit occurred.
-
-
-**Located, with an access limitation.**
-A search extract alone is not silently upgraded to an inspected original theorem under the repository's literature rules.
-The exact displayed candidate and its direct consequence are preserved below so that a successful original-page inspection can resolve this one specific remaining input.
+Earlier project reviews had only a primary-source search extraction and did not inspect the original theorem page or audit its proof.
+The retained manuscript's statement was subsequently text-read and visually inspected at the [scope below](#retained-primary-statement).
+The stronger-window project use remains conditional on the explicit shape bound.
 The already inspected ESS bound remains available independently.
 
 <a id="av09-located-count"></a>
@@ -54,22 +51,18 @@ This would materially improve growing-order consequences of a block-counting arg
 It still does not by itself establish a high-moment bound with one constant C for orders proportional to time, and it gives no direct Lehmer gap.
 No assertion that (1) is the current best available bound is made.
 
-## Bounded acquisition outcome
+## Project adoption and review limits
 
-The following public primary routes were attempted without disabling TLS verification or contacting the authors:
-
-- The author-hosted published PDF URL returned an HTTP 302 redirect loop, both through the web reader and a direct Python HTTPS request.
-- The Torino UUID endpoint `https://iris.unito.it/retrieve/92f49bf5-bb0c-4d6e-a1b5-1022e0f59195/Duke5.pdf` returned HTTP 403 to direct acquisition.
-- The already indexed Torino bitstream endpoint `https://iris.unito.it/bitstream/2318/1944876/1/Duke5.pdf` also returned HTTP 403.
-
-No AV09.pdf was created.
-
-The institutional metadata itself was successfully read.
-No repeated identical requests, third source adoption or recursive reference acquisition followed these bounded attempts.
-The unresolved step is an actual original theorem-page inspection, not a mathematical objection to the stated formula.
-
-The coordinator checked the complete record and the conditional parameter substitution.
-Its further attempts to open the located primary PDF endpoints also failed, without resolving the original-page inspection.
-The explicit exception remains Located.
+The original coordinator checked the conditional parameter substitution.
 [C_G276](../../../claims/Yin_C_G0276_v1.md#conditional-polynomial-shape-window) retains the complete stronger-window proof conditional on precisely (2); it does not adopt (1) as an inspected source theorem.
 The [actual original targeted check](../../reviews/Yin_R_G0534_v1.md#historical-block-conditional-targeted-finding) retains its fixed L85 input and unknown initial-context relationship; the [current whole finding](../../reviews/Yin_R_G0534_v1.md#current-block-energy-finding) is self-reviewed.
+
+<a id="retained-primary-statement"></a>
+## Primary statement in the retained HAL manuscript
+
+The [HAL manuscript identity and pagination](readme.md#retained-original) were checked, and internal p. 26, PDF p. 27, was text-read and visually inspected.
+Theorem 6.2 and equation (6.24) state exactly the candidate (1): K is algebraically closed of characteristic zero, every a_i is nonzero, Gamma is a subgroup of (K*)^n of finite rank r, and only nondegenerate solutions are counted.
+The bound is (8n)^[4n^4(n+r+1)], with tuple-group rank rather than scalar-group rank.
+This establishes an actual primary-statement reading beyond the original search extraction.
+The surrounding proof has unresolved references in this manuscript and has not been audited.
+The maintenance neither establishes edition equivalence nor adopts this theorem for C_G276; its stronger window remains an implication from the displayed sharper-shape hypothesis, and the earlier reviews retain their original inputs and limits.

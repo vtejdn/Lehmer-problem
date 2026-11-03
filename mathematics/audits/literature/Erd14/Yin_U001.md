@@ -8,11 +8,13 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: Erd14, actual online arXiv:1406.2233v1,9June2014,12-page primary preprint, identified by the received PDF header; no local artifact or equivalence to a later edition is asserted.
+Source edition: arXiv:1406.2233v1, 9 June 2014, 12-page primary preprint, identified by the received PDF header and the [retained original](readme.md#retained-original).
+The original online reading retained no local artifact; equivalence to a later edition is not established.
 
 Passages: Section1, printed/PDFpp2–3: P0=Q0=1, displayed two paired recursions, degree/coefficient statements and equation(1.1).
 
-Inspection: 2026-10-22, Yin; the authorized isolated reviewer text-read these passages after its initial autonomous complete G179 findings. No inspectable screenshot, visual reading, source-wide proof audit or reading minute is claimed.
+Inspection: The original authorized isolated reviewer for Yin text-read these passages after its initial complete G179 findings.
+That reading supplied no retained screenshot, visual inspection or source-wide proof audit.
 
 
 <a id="erd14-u001"></a>
@@ -35,11 +37,15 @@ The source supplies no new137/20 certificate, input-uniform cutoff or Mahler-gap
 Its Theorems2.1–2.3, Mahler lower/asymptotic results, original source proofs and historical first-priority question were not consumed.
 Neither Shapiro’s thesis nor Golay’s original work was read.
 
-## Actual access and remaining limits
+## Review and edition limits
 
-The holding and access records the one narrow primary-source identification and actual received v1 header.
-The direct versioned PDF request was unavailable, while [the primary unversioned PDF](https://arxiv.org/pdf/1406.2233) was text-readable and explicitly identified v1.
-No local download, artifact metadata, screenshot pixels or visual inspection is asserted.
-No source-reading minute was captured; a later R date or this allocation is not that minute.
-This source check occurred after the reviewer’s initial autonomous mathematical findings and added attribution, not substantive proof repair or prior author explanation.
-No claim of equivalence to later preprints or publication and no broader literature survey is made.
+The original source check used online v1 text without retained screenshot pixels or visual inspection.
+It followed the reviewer's initial mathematical findings and supplied attribution, without substantive proof repair or prior author explanation.
+Equivalence to later preprints or publication and a broader literature survey are not established.
+
+<a id="retained-original-check"></a>
+## Selected-page check of the retained v1
+
+The [retained v1 header and page correspondence](readme.md#retained-original) were checked, and Section 1, printed/PDF pp. 2–3, was text-read and visually inspected.
+The initial conditions, both paired recursions, degree and coefficient statements, and equation (1.1) agree with the formulas retained above.
+This is a later recursion/attribution check, without changing the original text-only inspection facts, adopting the paper's Mahler-measure results or establishing equivalence to later editions.

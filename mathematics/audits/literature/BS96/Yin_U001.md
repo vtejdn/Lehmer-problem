@@ -4,12 +4,8 @@ author: Yin
 
 # BS96-U001: effective split-prime interface
 
-Date: 2026-10-07.
-Source inspection by assigned AI ms25_source for Yin, during [G0001](../../../tasks/Yin_T_G0001_v1.md#contract).
-Bibliography and acquisition.
-
 <a id="bs96-u001"></a>
-## BS96: conditional upper bound, statement scope and access exception
+## BS96: conditional upper bound and statement scope
 
 **Read; accepted conditional external statement.**
 No full analytic-proof or numerical-certificate audit is claimed.
@@ -18,7 +14,8 @@ No full analytic-proof or numerical-certificate audit is claimed.
 
 [Source and edition notes](readme.md).
 
-Source edition: Eric Bach and Jonathan Sorenson, *Explicit bounds for primes in residue classes*, Mathematics of Computation65(216)(1996),1717--1735, DOI10.1090/S0025-5718-96-00763-6. Readable online original journal article,19 pages; no retained local PDF.
+Source edition: Eric Bach and Jonathan Sorenson, *Explicit bounds for primes in residue classes*, Mathematics of Computation65(216)(1996),1717--1735, DOI10.1090/S0025-5718-96-00763-6.
+The original inspection used a readable online journal article, 19 pages, without retaining a local PDF at that time.
 
 Passages: Printed pp.1717,1720--1721: absolute degree/discriminant conventions, ERH condition, Theorem3.1 and Corollary3.3; p.1729/PDF13: Theorem5.1.
 
@@ -39,11 +36,6 @@ The identity class must be applied in the normal closure of a non-Galois field.
 Substituting the original generator's degree or polynomial discriminant for n or D_E is not justified.
 This is the consequential normalization finding; no defect in the source theorem is asserted.
 
-Acquisition exception: publisher PDF web openings failed; one PowerShell direct attempt returned a null-reference failure and retained no artifact.
-The university's full-text link redirected to its retired SelectedWorks service.
-The original article at the author-profile ResearchGate PDF URL remained readable via the web index, but a direct CPython urllib request returned HTTP403 at 2026-10-06T23:04.
-No hash or local PDF is claimed, and no further access attempts were made.
-
 ## Actual review
 
 The source agent completed the stated inspection and self-checked the convention comparison and direct deductions.
@@ -53,3 +45,10 @@ The coordinator also read the original BS96 web PDF's p.1720 ERH condition, p.17
 That review acquired no local BS96 artifact and did not audit the external analytic proofs.
 Assigned AI assess_shortness_route separately read both assembled drafts completely and checked their mathematical normalization, scope and direct deductions.
 This independent written review found no substantive defect; it did not newly inspect the original articles, recalculate artifact metadata or reproduce the separate degree22 experiment.
+
+<a id="retained-original-check"></a>
+## Selected-page check of the retained original
+
+Printed pp. 1717, 1720–1721 and 1729 of the [identified journal original](readme.md#retained-original) were text-read and visually inspected.
+The absolute degree/discriminant conventions, the ERH condition for the zeta functions of E and Q, Theorem 3.1, Corollary 3.3 and Theorem 5.1 agree with the retained statement scope.
+This later check leaves the earlier no-rendering facts intact and supplies no analytic-proof, numerical-certificate or table/program audit.

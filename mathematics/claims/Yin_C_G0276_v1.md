@@ -52,7 +52,7 @@ For u=log n>=2^14 and r=floor[(u/(1024log u))^(1/5)], r>=1, Dtilde_r<=sqrt(n), t
 
     H2_binary(n)>=(log n)^(6/5)/(16(log log n)^(1/5))-log3.
 
-The AV09 original-page limitation remains Located; this is an implication from an explicit hypothesis, not adoption of its theorem.
+The sharper window retains its original conditional scope; the [later AV09 primary-statement inspection](../audits/literature/AV09/Yin_U001.md#retained-primary-statement) does not adopt that theorem for this Claim.
 For the coarse ESS constant, log log D_r=6rlog r+O(r); its coefficient1/6 boundary describes this chosen upper-bound formula, not the true energy or optimal known source.
 No common-C moment estimate at linear order, asymptotic entropy gap, disproof of such an estimate or finite-capture conclusion is established.
 

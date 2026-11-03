@@ -23,27 +23,9 @@ The consumer supplies its full proof and precise remaining degree/content costs;
 <a id="gaussian-theta-attribution-20261010"></a>
 ## Gaussian theta transformation, 2026-10-10
 
-The complete original author and separate reviewer occurrences, exact formula depth and actual403/no-artifact boundaries are retained in [Nat26-U003](Yin_U003.md#nat26-u003), without enlarging any earlier unit.
-
-The G0001 coordinator read the official [Nat26, DLMF20.2.3](https://dlmf.nist.gov/20.2.E3) Fourier series and [20.7.32](https://dlmf.nist.gov/20.7.E32) theta_3 modular transformation, with the surrounding upper-half-plane, nome and principal-square-root conventions.
-Both online sections display version1.2.8, released2026-09-15.
-This is acceptance of these classical formulas at statement/applicability depth, not a review of their cited historical book proofs.
-The purpose is a one-dimensional shifted Gaussian-sum maximum in the coefficient-Gram collision argument.
-
-For a>0 and real x the consumer substitutes tau=i a/pi, z=i a x, tau'=i pi/a.
-Multiplication by exp(-a x^2) gives the real periodic Gaussian sum with Fourier coefficients sqrt(pi/a) exp(-pi^2 n^2/a).
-Those coefficients are nonnegative.
-The consumer proves its three-consecutive-point truncation by convexity of the omitted tail, and proves its own integer polynomial elimination; neither assertion is attributed to the source.
-No source-wide scope, arithmetic gap or source-proof audit is claimed.
-
-Both acquisition attempts failed; no local source files were retained for this scope.
-Existing Nat26 artifacts and fixed U scopes are unchanged.
-
-The original separate noncontributor reviewer of [L_G256](../../../ledger/Yin_L_G0256_v1.md#three-point-gaussian-maximum) directly read these two formulas and [20.1's notation](https://dlmf.nist.gov/20.1), including q=exp(i pi tau), Im(tau)>0 and the principal-square-root normalization, and checked the entire local specialization.
-That original review accepted the classical formulas at statement/applicability depth and checked the consumer proof.
-Its exact whole project scope and UNKNOWN initial arrangement are retained in [R_G653's later historical comparison](../../reviews/Yin_R_G0653_v1.md#return-projection-isolated-whole), without changing the distinct original source-reading occurrence retained in U009.
-It is not a source-book proof audit.
-The additional Section 20.1 acquisition attempt returned HTTP 403.
+The theta formulas, complete local specialization, distinct original author/reviewer readings and their statement/application limits belong to [Nat26-U003](Yin_U003.md#nat26-u003).
+The exact whole project review scope and unknown initial arrangement belong to [R_G653's historical comparison](../../reviews/Yin_R_G0653_v1.md#return-projection-isolated-whole).
+The [retained page editions](#retained-selected-pages) do not enlarge those earlier reviews or establish a source-book proof audit.
 
 
 <a id="christoffel-darboux-attribution-20261010"></a>
@@ -88,3 +70,17 @@ The original author and separate reviewer readings of DLMF18.12.9 belong to [Nat
 
 U010 records the finite Chu--Vandermonde identity at a nonpositive denominator parameter, with the exact terminating interpretation and C_W0476 specialization.
 The separate original HTML sections 15.4 and 15.2 retain this inspected source scope; no source-wide proof audit is claimed.
+
+<a id="retained-selected-pages"></a>
+## Yin: retained editions for the selected formulas
+
+These original official HTML pages display DLMF version 1.2.8, released 15 September 2026.
+They retain native anchors, embedded MathML and TeX alternate text, with the directly referenced stylesheets and Section 20.2's two page figures in the same local work group.
+The selection supplies these pages and their mathematical reading resources, without mirroring other chapters or the site's interactive services.
+
+- [Section 18.19](../../../literature/pdf/Nat26/section-18-19-20261103.html#T1) contains Tables 18.19.1 and 18.19.2 used by [U001](Yin_U001.md#retained-original-check).
+- [Section 18.12](../../../literature/pdf/Nat26/section-18-12-20261103.html#E9) contains equation 18.12.9 and its Szegő source note, checked in [U002](Yin_U002.md#retained-original-check).
+  This retained page's displayed release does not identify the unrecorded release of the original U002 readings.
+- [Section 20.2](../../../literature/pdf/Nat26/section-20-2-20261103.html#E3), [Section 20.7](../../../literature/pdf/Nat26/section-20-7-20261103.html#E32) and [Section 20.1](../../../literature/pdf/Nat26/section-20-1-20261103.html) supply the theta formulas and notation checked in [U003](Yin_U003.md#retained-original-check).
+
+The supplied section contents are transcribed for [20.2](../../../literature/contents/Nat26/section-20-2-20261103.html.md) and [20.7](../../../literature/contents/Nat26/section-20-7-20261103.html.md).

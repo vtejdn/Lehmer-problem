@@ -13,7 +13,8 @@ Source edition: NIST Digital Library of Mathematical Functions, online version1.
 
 Passages: Section18.19, [Table18.19.1](https://dlmf.nist.gov/18.19#T1) and [Table18.19.2](https://dlmf.nist.gov/18.19#T2), specifically Hahn weight, squared norm and leading coefficient at alpha=beta=0 and grid endpointN-1.
 
-Inspection: Original2026-10-07 reading by assigned AI ms25_source and the coordinator for Yin, retained from the complete L57 source-normalization account. Exact formula and normalization reading only; the underlying book references and their proofs were not audited. This organization performs no new source reading.
+Inspection: Original2026-10-07 reading by assigned AI ms25_source and the coordinator for Yin, at exact formula and normalization depth.
+The underlying book references and their proofs were not audited.
 
 
 ## Exact inspected specialization
@@ -43,4 +44,12 @@ The local determinant/entropy deductions and their original proof-review scopes 
 The original bounded lookup stopped after verifying the table normalization.
 The retained evidence establishes the exact displayed source formulas and applicability of this specialization; it does not establish a full proof audit of the DLMF table, the underlying Hahn literature or the rest of DLMF.
 The two named agents' reading does not by itself certify a formal independent proof-review arrangement.
-The fixed Nat26-U001 Euler/Jacobi product scope is a separate unit and supplies none of these Hahn formulas.
+
+<a id="retained-original-check"></a>
+## Selected tables in the retained original
+
+Tables 18.19.1 and 18.19.2, including their Hahn rows and parameter constraints, were read in the [retained official Section 18.19](readme.md#retained-selected-pages).
+The displayed edition is version 1.2.8, released 15 September 2026.
+With the source's grid endpoint replaced by N-1, alpha=beta=0 and degree j, its weight, squared norm and leading coefficient agree with the specialization above.
+Embedded MathML and TeX alternate text expose the complete selected formulas.
+This later formula check neither supplies an original snapshot for the earlier readers nor audits the underlying references or their proofs.
