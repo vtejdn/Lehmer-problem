@@ -2,7 +2,12 @@
   "people": [
     {
       "display_name": "Sheng Yin",
-      "git_identities": [],
+      "git_identities": [
+        {
+          "name": "Yin",
+          "email": "vtejdn@outlook.com"
+        }
+      ],
       "github_accounts": [],
       "id": "Yin"
     }
