@@ -39,7 +39,7 @@ No Bilu strictness or joint multiplicative independence of the input tuple is as
 ### Reuse boundary
 
 The accepted [ESS02 nondegenerate-equation statement](../ESS02/Yin_U001.md#ess-exact-counting-bound) counts nondegenerate solutions inside a fixed finite-rank multiplicative tuple group.
-The [AV09 located improvement](../AV09/Yin_U001.md#av09-located-count) remains unaccepted at its recorded original-page access boundary.
+The [AV09 sharper count](../AV09/Yin_U001.md#retained-primary-statement) is not adopted for this application.
 Neither count is needed here, and neither is silently converted into the present degree-uniform height assertion.
 Pairwise nontorsion ratios are not the same hypothesis as the absence of every vanishing proper subsum.
 No fixed finite-rank group or subsum-nondegeneracy assumption is imposed below.

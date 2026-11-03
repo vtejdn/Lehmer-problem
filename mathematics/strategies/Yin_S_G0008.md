@@ -1934,8 +1934,8 @@ Further uniform arithmetic input must go beyond these relaxations on the small s
 [ESS02-U001](../audits/literature/ESS02/Yin_U001.md#ess-normalized-power-shapes) accepts ESS Thm1.1 at original-statement depth and independently checks the k-1 tuple-rank normalization.
 [C G0277](../claims/Yin_C_G0276_v1.md#uniform-fixed-moment-energy) proves the ensuing minimal-block energy expansion, carefully retaining repeated exponents, unbalanced sign blocks and the diagonal deficit.
 Its explicit growing-order window is far below linear.
-[AV09-U001](../audits/literature/AV09/Yin_U001.md#av09-u001) remains Located after failed public PDF access; the stronger formula is used only in a clearly conditional calculation.
-A source inspection could resolve that input but would still not reach the required linear scale.
+[AV09-U001](../audits/literature/AV09/Yin_U001.md#retained-primary-statement) records the primary-statement reading and its edition/proof limits; the stronger formula retains its [conditional Claim scope](../claims/Yin_C_G0276_v1.md#conditional-polynomial-shape-window).
+The resulting moment window still does not reach the required linear scale.
 
 [C G0278](../claims/Yin_C_G0277_v1.md#linear-moment-necessary-cost) shows that any common linear-order Gaussian-type bound must already pay for m through C>=exp(-m/kappa)/kappa.
 The exact direct-torus bound removes finite-quotient overhead from this diagnosis.

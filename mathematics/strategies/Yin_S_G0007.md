@@ -499,7 +499,7 @@ A common bounded-color theorem would already give a gap directly through maximum
 [C G0277](../claims/Yin_C_G0276_v1.md#uniform-fixed-moment-energy) now proves a uniform fixed-order expansion A_(n,r)=r!n^r+O(D_r n^(r-1)) by partitioning arbitrary signed relations into minimal zero blocks.
 The accepted [ESS statement](../audits/literature/ESS02/Yin_U001.md#ess-normalized-power-shapes) uses tuple rank k-1 for k-term normalized shapes, not rank one.
 Its explicit constants permit a slowly growing moment order and a superpolynomial binary collision bound directly on the original torus; the normalized lower entropy bound still tends to zero.
-The larger [conditional window](../claims/Yin_C_G0276_v1.md#conditional-polynomial-shape-window) assumes a specified sharper formula whose AV09 original page remains uninspected.
+The larger [conditional window](../claims/Yin_C_G0276_v1.md#conditional-polynomial-shape-window) assumes the specified sharper formula without adopting the [AV09 theorem](../audits/literature/AV09/Yin_U001.md#retained-primary-statement).
 Neither estimate reaches linear order.
 
 [C G0278](../claims/Yin_C_G0277_v1.md#linear-moment-necessary-cost) identifies the exact difficulty of the remaining target: A_(n,r)<=(C r n)^r along r/n->kappa forces m>=kappa log(1/(C kappa)) by a direct near-zero torus-volume bound.

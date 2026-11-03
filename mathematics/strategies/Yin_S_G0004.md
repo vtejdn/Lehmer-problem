@@ -1865,7 +1865,7 @@ Earlier fixed findings, experimental limits and historical decisions are preserv
   L G0086 proves the necessary Mahler cost, an input-dependent all-order bound and exact Poisson comparisons.
   Both received complete independent written review.
   ESS02's exact original theorem statement was inspected and accepted without re-auditing its proof.
-  AV09 remains Located with a registered acquisition exception; its sharper formula is only a conditional hypothesis.
+  The sharper AV09 formula is only a conditional hypothesis; its [source and inspection limits](../audits/literature/AV09/Yin_U001.md#av09-u001) belong to the source unit.
   No new computation, Task contract, or permanent stopping-rule change.
 
 - **2026-10-07 — Binary attainment boundary and averaged arithmetic target.**
