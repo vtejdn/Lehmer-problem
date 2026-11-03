@@ -1,0 +1,595 @@
+\section{Arithmetic heights, auxiliary polynomials and cyclic resultants}
+\label{sec:arithmetic}
+
+The arithmetic approach compares a nonzero integer resultant with an analytic upper bound for the same resultant.
+The central development is that auxiliary polynomials of degree less than twice the original degree and with a uniform positive arithmetic surplus can be constructed for every noncyclotomic algebraic unit.
+Their existence is therefore no longer the missing step.
+The remaining difficulty is to control the correlations of their coefficients uniformly as the original degree grows.
+We give the constructions and estimates that make this distinction precise, then explain what the finite optimizations have established.
+
+Multiplicativity reduces the problem to primitive irreducible polynomials.
+A leading coefficient of absolute value at least two already gives $m\ge\log2$.
+For a monic irreducible polynomial with nonzero constant coefficient of absolute value at least two, the product of the roots gives the same bound.
+The classical nonreciprocal lower bound reduces a possible sequence with $m\to0^+$ further to reciprocal noncyclotomic units; see \citet[\S5.1]{Smy08}.
+A reciprocal polynomial has its roots, with multiplicity, invariant under inversion.
+A nontorsion algebraic unit is an algebraic integer whose inverse is integral and which is not a root of unity.
+Its minimal polynomial is monic with constant coefficient $\pm1$.
+The word ``unit'' in the arithmetic sections always has this meaning.
+
+The reciprocal reduction does not restrict the problem to Salem numbers.
+
+Throughout this section, unless stated otherwise, $P\in\Z[t]$ is monic and irreducible, has degree $d$, constant term $\pm1$, and has no root of unity.
+Its roots are $\alpha_1,\ldots,\alpha_d$, and $m=m(P)>0$ is its \emph{total} logarithmic Mahler measure.
+Thus
+\begin{equation}
+ \sum_{i=1}^d\log^+|\alpha_i|=m,
+ \qquad \sum_{i=1}^d\bigl|\log|\alpha_i|\bigr|=2m.
+ \label{ar:unit-radial}
+\end{equation}
+No reciprocal or Salem hypothesis is imposed on these general results.
+For monic $P$, the resultant used below is $\Res(P,F)=\prod_{i=1}^d F(\alpha_i)$; all original roots enter this product.
+
+\subsection{Cyclic-norm coverage and arithmetic certificate costs}
+\label{sec:arithmetic-certificates}
+
+This subsidiary strategy keeps the income, exponent, coefficient and correlation expenses of the same original input together.
+The cyclic and auxiliary mechanisms below are distinct sufficient routes within it.
+
+\subsubsection{Cyclic norms at degree-linear exponents}
+\label{ar:cyclic}
+
+Fix a root $\alpha$ of $P$ and define
+\[
+ C_n=\left|\operatorname{N}_{\Q(\alpha)/\Q}
+                         (\alpha^n-1)\right|,\qquad n\ge1.
+\]
+This is a positive integer.
+A possible arithmetic proof would give enough prime divisibility in one such integer to contradict its archimedean size.
+The following upper bound identifies the scale that such divisibility would have to reach.
+
+\begin{proposition}\label{ar:cyclic-cost}
+For each fixed $C>0$, uniformly over the above polynomials and all integers $1\le n\le Cd$,
+\[
+ \frac{\log C_n}{d}\longrightarrow0\qquad\text{as }m(P)\longrightarrow0.
+\]
+The assertion is conditional on approaching this regime; it does not assert the existence of a sequence with $m(P)\to0$.
+\end{proposition}
+
+\begin{proof}
+Set $\beta=\alpha^n$, $D=[\Q(\beta):\Q]$, and $h=h_{\rm abs}(\beta)=nm/d$, where absolute logarithmic height is Mahler measure divided by the minimal-polynomial degree.
+The norm tower and the height identity give
+\begin{equation}
+ \frac{\log C_n}{d}=\frac1D\sum_{j=1}^D\log|1-\beta_j|,
+ \qquad h=\frac1D\sum_{j=1}^D\log^+|\beta_j|.
+ \label{ar:powered-norm}
+\end{equation}
+Each conjugate of $\beta$ occurs $d/D$ times among the $\alpha_i^n$.
+In particular, powering need not preserve degree.
+
+We use Pritsker's discrepancy estimate \cite[Theorem~3.1]{Pri11} for the monic minimal polynomial of $\beta$, whose roots are simple.
+If $D\ge55$ and a real $A$-Lipschitz function $\varphi$ is supported in the disk of radius $R_0$, then
+\begin{equation}
+ \left|\frac1D\sum_j\varphi(\beta_j)-\int\varphi\,d\mu\right|
+ \le A(2R_0+1)
+       \sqrt{\max\{\log D/D,h\}}.
+ \label{ar:pritsker}
+\end{equation}
+Here $\mu$ is normalized arclength on the unit circle and $h$ is the absolute logarithmic height of $\beta$ in the present application.
+
+The logarithm in \eqref{ar:powered-norm} requires a truncation before this estimate can be used.
+Put
+\[
+ u(z)=\frac{|1-z|}{\max\{1,|z|\}},\qquad f(z)=\log u(z).
+\]
+The function $u$ is $3$-Lipschitz and lies in $[0,2]$.
+For $T\ge1$ and $R\ge2$, let $f_T=\log\max\{u,e^{-T}\}$ and multiply it by the radial cutoff $\chi_R$ which is one up to radius $R$, decreases linearly to zero at radius $2R$, and then vanishes.
+The resulting function $\varphi=\chi_R f_T$ is supported in radius $2R$ and satisfies
+\[
+ \operatorname{Lip}(\varphi)\le3e^T+T/R,
+ \qquad f\le\varphi+1/R,
+ \qquad 0\le\int\varphi\,d\mu\le\tfrac12e^{-T}.
+\]
+For the middle inequality, outside the radius-$R$ disk negative values only increase under the cutoff, whereas positive values have size at most $\log(1+1/R)$.
+For the last inequality use $\int\log|1-e^{i\theta}|\,d\mu=0$ and $|1-e^{i\theta}|\ge2|\theta|/\pi$ for $|\theta|\le\pi$.
+Integrating the truncated negative part bounds it by $e^{-T}/2$.
+Consequently,
+\begin{equation}
+ 0\le\frac{\log C_n}{d}
+ \le h+\frac{e^{-T}}2+\frac1R
+ +(3e^T+T/R)(4R+1)\sqrt{\max\{\log D/D,h\}}.
+ \label{ar:cyclic-explicit}
+\end{equation}
+
+It remains to justify that the \emph{actual} powered degree $D$ grows uniformly.
+For each fixed $B$, nontorsion algebraic units of degree at most $B$ have a positive lower height bound.
+Indeed, those with height at most one have minimal-polynomial coefficients bounded by $\binom Dj e^D\le\binom Dj3^D$, so only finitely many polynomials occur.
+Kronecker's theorem gives positive height for each noncyclotomic member \cite[p.~322]{Smy08}.
+Thus $h\le Cm\to0$ forces $D\to\infty$ uniformly.
+First hold $T,R$ fixed in \eqref{ar:cyclic-explicit}, and then let $T,R\to\infty$.
+This proves the claim.
+\end{proof}
+
+\begin{corollary}\label{ar:same-exponent}
+Fix $C,\eta>0$.
+There is $m_0>0$ such that any above input admitting an integer $n\le Cd$ and a certified lower bound
+\[
+ \eta d\le A(n)\le\log C_n
+\]
+satisfies $m(P)>m_0$.
+\end{corollary}
+
+The unresolved arithmetic requirement in this formulation is a positive linear amount of income at the \emph{same exponent}.
+Lower bounds for different integers $C_{n_1},C_{n_2},\ldots$ do not add to a lower bound for one $C_n$ without an additional divisibility argument.
+
+\subsubsection{Uniform positive surplus from a coefficient projection}
+\label{ar:auxiliary}
+
+Recall the coefficient norms $S_1,S_2$ from the overall summary.
+The scale-invariant quantity $\rho(F)$ measures effective coefficient support.
+It is at most the number of nonzero coefficients.
+An auxiliary will be useful only if its resultant income is compared with the coefficient cost of that very polynomial.
+
+We now prove the uniform-surplus theorem stated in the overall summary.
+
+\begin{proof}[Proof of Theorem~\ref{ar:uniform-auxiliary}]
+Identify polynomials of degree at most $2d-1$ with $\R^{2d}$ using their full coefficient vectors.
+Let $A$ have columns $P,tP,\ldots,t^{d-1}P$.
+Distinct leading positions show that these columns are independent.
+Hence
+\[
+ \Pi=A(A^{\mathsf T}A)^{-1}A^{\mathsf T}
+\]
+is a rational orthogonal projection of rank $d$.
+For the standard coordinate vectors $e_j$ put $v_j=(I-\Pi)e_j$.
+Then
+\[
+ \sum_{j=0}^{2d-1}\|v_j\|_2^2=\operatorname{Tr}(I-\Pi)=d.
+\]
+Choose $j$ with $\|v_j\|_2^2\le1/2$.
+The vector $v_j$ is nonzero: otherwise the monomial $t^j$ would be a multiple of $P$ and would vanish at a nonzero root of $P$.
+
+Write $\Pi e_j=Ab$ with $b\in\Q^d$.
+If $q$ clears the denominators of $b$, the polynomial with coefficient vector $qv_j$ is
+\begin{equation}
+ F=q t^j-PU,\qquad U\in\Z[t],\qquad
+ S_2(F)\le q/\sqrt2.
+ \label{ar:projection-aux}
+\end{equation}
+It has $F(\alpha_i)=q\alpha_i^j$ and full absolute resultant $q^d$.
+This proves the asserted surplus before primitive normalization.
+
+To prescribe a power of two, put $B=S_2(P)^2$ and choose the least dyadic $q=2^s$ with $q\ge d\sqrt B$.
+Round each coordinate of $qb$ to an integer $u_k$, and set $U=\sum_k u_kt^k$.
+Now
+\[
+ F=qt^j-PU=qv_j-A(u-qb),\qquad
+ \|A(u-qb)\|_2\le\tfrac12d\sqrt B\le q/2.
+\]
+The two vectors on the right are perpendicular.
+Therefore
+\begin{equation}
+ S_2(F)^2\le q^2/2+q^2/4=3q^2/4.
+ \label{ar:rounding}
+\end{equation}
+The evaluation $F(\alpha_i)=q\alpha_i^j$ remains exact.
+
+Let $c$ be the positive coefficient content of either constructed $F$.
+Since $\alpha^{-1}\in\Z[\alpha]$,
+\[
+ q/c=(F/c)(\alpha)\alpha^{-j}\in\Z[\alpha]\cap\Q=\Z.
+\]
+Thus $c\mid q$.
+Set $F_0=F/c$ and $Q=q/c$.
+Then $F_0(\alpha_i)=Q\alpha_i^j$ at every original root, and
+\[
+ |\Res(P,F_0)|=Q^d,\qquad
+ \log Q-\log S_2(F_0)=\log q-\log S_2(F).
+\]
+The strict inequality $S_2(F_0)<Q$ forces $Q\ge2$.
+In the dyadic case $Q=2^r$ with $r\ge1$.
+If $j=0$, a constant $F_0$ would equal $Q$ and contradict this norm inequality.
+If $j>0$, a constant $F_0$ would make $\alpha^j$ a rational algebraic unit, hence $\pm1$, contrary to nontorsion.
+Finally Cauchy--Schwarz on the $2d$ coefficient positions gives $\rho(F_0)\le2d$.
+\end{proof}
+
+This proof retains the actual order $\Z[\alpha]$, all original roots, and the full rounding error.
+It proves a uniform surplus, but its support estimate grows with $d$.
+The next estimate shows both why this matters and how combining several auxiliaries improves the loss.
+
+\subsubsection{Angular control and signed auxiliary bundles}
+\label{ar:bundles}
+
+Write $\alpha_i=r_i z_i$, with $r_i>0$ and $|z_i|=1$.
+We first record the finite-frequency estimate used in the argument.
+Define
+\begin{equation}
+ \begin{split}
+ c_0&=\tfrac14\log2,\qquad u_0=c_0e^{-20},\\
+ b(u)&=\max\{u,\sqrt{u/c_0}\log\sqrt{c_0/u}\},\\
+ \varepsilon(u)&=\min\{1,15\sqrt{b(u)}+4u\},
+                    \qquad 0<u\le u_0.
+ \end{split}
+ \label{ar:epsilon}
+\end{equation}
+These functions are increasing on the indicated interval and $\varepsilon(u)=O(u^{1/4}\sqrt{1+\log(1/u)})$ as $u\downarrow0$.
+
+\begin{lemma}\label{ar:angular}
+If $T\ge1$ is an integer and $0<u=Tm/d\le u_0$, then for every integer $1\le h\le T$,
+\[
+ \left|\frac1d\sum_{i=1}^d z_i^h\right|\le\varepsilon(u).
+\]
+\end{lemma}
+
+\begin{proof}
+For $\beta=\alpha^h$ let $D$ be its actual degree and $v=h_{\rm abs}(\beta)=hm/d\le u$.
+The house bound $\max_j|\beta_j|\ge2^{1/(4D)}$ from the cited version of Dimitrov's theorem \cite[Theorem~1]{Dim19} implies $v\ge c_0/D^2$.
+Thus $D\ge\sqrt{c_0/v}>55$, and $\max\{\log D/D,v\}\le b(v)\le b(u)$.
+
+For any angle $\theta$, let $\chi$ be one in radius one, linear down to zero at radius two, and zero afterwards.
+The function
+\[
+ \varphi_\theta(z)=\chi(z)\operatorname{Re}
+          \left(e^{-i\theta}\frac{z}{\max\{1,|z|\}}\right)
+\]
+is globally $3$-Lipschitz, supported in radius two, and has circle mean zero.
+Equation~\eqref{ar:pritsker} bounds its conjugate average by $15\sqrt{b(v)}$.
+Its pointwise difference from $\cos(\arg z-\theta)$ is at most $2|\log|z||$.
+The average error at the unit conjugates is therefore at most $4v$, by \eqref{ar:unit-radial} applied to $\beta$.
+Choose $\theta$ to be the argument of the complex angular average and also use its trivial bound one.
+The $d/D$ multiplicities identify this average with the one in the statement.
+\end{proof}
+
+\begin{definition}\label{ar:signed-bundle}
+For real $F(t)=\sum_{j=0}^T f_jt^j$, including zero endpoint coefficients, define
+\[
+ E_F=\sum_jf_j^2,\qquad
+ A_h(F)=\sum_{j=0}^{T-h}f_jf_{j+h}\quad(1\le h\le T).
+\]
+The $A_h(F)$ are signed coefficient correlations.
+For a finite family $F_1,\ldots,F_s\in\Z[t]$ of degree at most $T$, with all resultants nonzero, take positive real weights $w_a$ summing to one and set
+\begin{equation}
+ \begin{aligned}
+ E&=\sum_aw_a E_{F_a},&
+ A_h&=\sum_aw_a A_h(F_a),\\
+ \kappa&=\frac{2\sum_{h=1}^T|A_h|}{E},&
+ I&=\frac1d\sum_aw_a\log|\Res(P,F_a)|,\\
+ \eta&=I-\tfrac12\log E.
+ \end{aligned}
+ \label{ar:bundle-data}
+\end{equation}
+\end{definition}
+Zero weights may simply be omitted.
+The order of operations matters: the signed correlations are added across the family before absolute values are taken.
+The number $\kappa$ is a coefficient-correlation cost, not a Mahler measure or an entropy.
+
+\begin{theorem}\label{ar:bundle-bound}
+For the above family, if $0<u=Tm/d\le u_0$, then
+\begin{equation}
+ \eta\le u+\tfrac12\log\bigl(1+\kappa[\varepsilon(u)+2u]\bigr).
+ \label{ar:bundle-inequality}
+\end{equation}
+If $A_h=0$ for every $h\ge1$, the stronger inequality $\eta\le Tm/d$ holds for every $m>0$.
+\end{theorem}
+
+\begin{proof}
+The disk Poisson kernel, whose normalization and reproduction property are recalled in \cite[Chapter~1]{ABR01}, gives for $0\le r\le1$ and $|z|=1$ the elementary polynomial inequality
+\begin{equation}
+ |F(rz)|^2\le E_F+2\operatorname{Re}
+                 \sum_{h=1}^T A_h(F)r^hz^h.
+ \label{ar:poisson-square}
+\end{equation}
+Indeed $K_r(\theta)=(1-r^2)/|1-re^{i\theta}|^2$ is a positive probability kernel with Fourier coefficients $r^{|h|}$.
+Its average of $F$ is $F(rz)$ and its average of $|F|^2$ is the right side; Cauchy--Schwarz proves the inequality.
+At $r=1$ it is the exact finite Fourier expansion.
+
+The fixed-window reverse $F^*(t)=t^TF(t^{-1})$ has the same energy and correlations as $F$.
+Real coefficients give $r^{-T}|F(rz)|=|F^*(r^{-1}z)|$.
+Thus, putting $t_i=e^{-|\log r_i|}$, \eqref{ar:poisson-square} applies at every original root in the form
+\[
+ \frac{|F(\alpha_i)|^2}{\max\{1,r_i\}^{2T}}
+ \le E_F+2\operatorname{Re}\sum_{h=1}^T A_h(F)t_i^hz_i^h.
+\]
+Lemma~\ref{ar:angular}, \eqref{ar:unit-radial}, and $1-e^{-x}\le x$ show that
+\[
+ \left|\frac1d\sum_i t_i^hz_i^h\right|
+ \le\varepsilon(u)+\frac1d\sum_i(1-t_i^h)
+ \le\varepsilon(u)+2u.
+\]
+Sum over $a$ before taking absolute values, then average over $i$.
+The resulting mean square is at most $E+2[\varepsilon(u)+2u]\sum_h|A_h|$.
+On the other hand, with $B_{a,i}=F_a(\alpha_i)/\max\{1,r_i\}^T$,
+\[
+ I=u+\sum_{a,i}\frac{w_a}{d}\log|B_{a,i}|
+ \le u+\frac12\log\left(\sum_{a,i}\frac{w_a}{d}|B_{a,i}|^2\right).
+\]
+All $B_{a,i}$ are nonzero.
+This proves \eqref{ar:bundle-inequality}.
+When all aggregate correlations vanish, the weighted square bound is $E$ separately at each root, so the last argument needs no angular estimate or small-$u$ restriction.
+\end{proof}
+
+\begin{corollary}\label{ar:conditional-gap}
+Fix $C,K,\eta_0>0$.
+Suppose every input in a class admits a family as above with $T\le Cd$, $\kappa\le K$, and $I-\frac12\log E\ge\eta_0$.
+Then $m(P)$ is bounded below by a positive constant throughout that class.
+With exact cancellation $A_h=0$, the bound is $m(P)\ge\eta_0/C$.
+\end{corollary}
+
+\begin{proof}
+Choose $0<u_*\le u_0$ such that $u_*+\frac12\log(1+K[\varepsilon(u_*)+2u_*])<\eta_0$.
+Monotonicity in \eqref{ar:bundle-inequality} excludes $m(P)\le u_*/C$.
+The exact-cancellation case follows from the last assertion of Theorem~\ref{ar:bundle-bound}.
+\end{proof}
+
+\subsubsection{All projection columns and a square-root degree loss}
+\label{ar:all-columns}
+
+The projection construction supplies a concrete family on every input.
+Choose $N>d$, let $A$ now have columns $P,tP,\ldots,t^{N-d-1}P$ in $\R^N$, and put
+\[
+ R=I_N-A(A^{\mathsf T}A)^{-1}A^{\mathsf T}.
+\]
+It is a rational orthogonal projection of rank $d$.
+Choose one positive integer $q$ clearing the denominators of $R$ and $(A^{\mathsf T}A)^{-1}A^{\mathsf T}$.
+For $0\le j<N$ let $F_j$ have coefficient vector $qRe_j$.
+Then
+\[
+ F_j=qt^j-PU_j,\quad U_j\in\Z[t],\qquad
+ |\Res(P,F_j)|=q^d.
+\]
+Keep all columns with weights $1/N$ and their original contents.
+The identity $R^2=R$ gives
+\begin{equation}
+ \begin{split}
+ E&=q^2d/N,\qquad I=\log q,\qquad
+ \eta=\tfrac12\log(N/d),\\
+ a_h&=\sum_{j=0}^{N-1-h}R_{j,j+h},\qquad
+ A_h=(q^2/N)a_h,\qquad
+ \kappa_R=\frac2d\sum_{h=1}^{N-1}|a_h|.
+ \end{split}
+ \label{ar:projection-bundle}
+\end{equation}
+
+\begin{proposition}\label{ar:sqrt-bound}
+Every such projection satisfies
+\begin{equation}
+ \kappa_R\le\sqrt{\frac{(N-1)(N-d)}d}.
+ \label{ar:sqrt-degree}
+\end{equation}
+If $0<u=(N-1)m/d\le u_0$, it also satisfies
+\begin{equation}
+ \kappa_R[\varepsilon(u)+2u]\ge (N/d)e^{-2u}-1.
+ \label{ar:necessary-correlation}
+\end{equation}
+\end{proposition}
+
+\begin{proof}
+Twice applying Cauchy--Schwarz gives
+\[
+ \sum_h|a_h|
+ \le\left(\frac{N(N-1)}2\sum_{j<k}R_{jk}^2\right)^{1/2}.
+\]
+Since $\sum_{j,k}R_{jk}^2=d$ and $\sum_jR_{jj}^2\ge d^2/N$, substitution proves \eqref{ar:sqrt-degree}.
+Insert \eqref{ar:projection-bundle} into \eqref{ar:bundle-inequality} and exponentiate to obtain \eqref{ar:necessary-correlation}.
+\end{proof}
+
+At $N=2d$, the surplus is $\frac12\log2$ and the bound is $\kappa_R\le\sqrt{2d-1}$.
+This improves a linear degree loss to a square-root loss, but it is not a uniform bound.
+If $m(P)\to0$ along a hypothetical sequence and $N/d$ stays bounded above and bounded away from one, \eqref{ar:necessary-correlation} forces $\kappa_R\to\infty$.
+Uniform control of these actual signed diagonal sums would instead exclude the sequence by Corollary~\ref{ar:conditional-gap}.
+
+\begin{remark}\label{ar:failed-complementary}
+Two simple ways to impose cancellation do not supply the missing surplus.
+If $\sum_aw_a|G_a(z)|^2$ is constant on the circle, the family $FG_a$ has the same normalized correlations as the single polynomial $F$; only its degree and resultant expenses change.
+For the pair $1+t^h,1-t^h$ with equal weights, $E=2$ and $\kappa=0$, but
+\[
+ \eta=\frac{\log C_{2h}}{2d}-\frac12\log2
+       \longrightarrow-\frac12\log2
+\]
+uniformly for $h\le Cd$ as $m\to0$, by Proposition~\ref{ar:cyclic-cost}.
+Perfect coefficient cancellation alone therefore does not provide positive arithmetic surplus.
+\end{remark}
+
+\subsubsection{Finite optimization: true surplus and sufficient budgets}
+\label{ar:finite}
+
+Finite experiments test whether nonmonomial directions improve the projection family.
+They retain $P,N,q$ and integer seeds $B_j$ with
+\[
+ F_j=qB_j-PU_j,\quad \deg F_j<N,\quad
+ D_j=|\Res(P,B_j)|\ge1.
+\]
+Define $e_j=S_2(F_j)^2/q^2$ and the matrix $H_{hj}=A_h(F_j)/q^2$.
+For nonnegative masses $v_j$ satisfying $e\cdot v=1$, let $S=\sum_jv_j$ and $w_j=v_j/S$.
+The exact formulas are
+\begin{equation}
+ E=q^2/S,\qquad
+ \eta=\tfrac12\log S+\frac{\sum_jv_j\log D_j}{dS},\qquad
+ \kappa=2\|Hv\|_1.
+ \label{ar:finite-normalization}
+\end{equation}
+These are quantities for the original integer auxiliaries, including their contents.
+Rational weights can be realized by integer multiplicities: if $M$ is their least common denominator and $m_j=Mw_j$, the full arithmetic product is
+\[
+ \prod_j|\Res(P,F_j)|^{m_j}
+       =q^{dM}\prod_jD_j^{m_j}.
+\]
+The common radial expense in Theorem~\ref{ar:bundle-bound} remains $(N-1)m(P)/d$.
+
+For certified rational lower bounds $0\le\ell_j\le d^{-1}\log D_j$, put $L=\sum_j\ell_jv_j$.
+The linear constraint
+\begin{equation}
+ S+2L\ge2
+ \label{ar:sufficient-budget}
+\end{equation}
+is sufficient for $\eta\ge\frac12\log2$, because, with $x=S/2>0$,
+\[
+ 2\eta-\log2\ge\log x+x^{-1}-1\ge0.
+\]
+It is generally stricter than the true nonlinear surplus condition.
+For a fixed family the rational linear program minimizes $2\|Hv\|_1$ subject to $v\ge0$, $e\cdot v=1$, and $a\cdot v\ge2$, where $a_j=1+2\ell_j$.
+A dual certificate consists of
+\begin{equation}
+ |y_h|\le1,\quad \mu\ge0,\quad
+ 2H^{\mathsf T}y-\lambda e-\mu a\ge0.
+ \label{ar:dual}
+\end{equation}
+\begin{proposition}\label{ar:finite-certificate}
+For the specified finite family, every triple $(y,\lambda,\mu)$ satisfying \eqref{ar:dual} gives the lower bound $\kappa(v)\ge\lambda+2\mu$ on every feasible real weight vector.
+A feasible primal vector with equality is a global minimizer on that family.
+\end{proposition}
+
+\begin{proof}
+Multiply the last inequality in \eqref{ar:dual} by $v\ge0$ to obtain
+\[
+ 2\|Hv\|_1\ge2y\cdot Hv
+ \ge\lambda(e\cdot v)+\mu(a\cdot v)\ge\lambda+2\mu.
+\]
+Equality at a feasible vector proves the assertion.
+\end{proof}
+This is the elementary weak-duality principle \cite[Section~5.1.3, equation~(5.2)]{BV04}.
+A floating candidate or a zero algebraic objective gap without feasibility does not establish optimality.
+
+The three fixed inputs used for the comparisons are
+\begin{align*}
+ P_{10}(t)&=t^{10}+t^9-t^7-t^6-t^5-t^4-t^3+t+1,\\
+ P_{n+2}(t)&=\frac{t^n(t^3-t-1)+1-t^2-t^3}{t+1},
+                         \qquad n\in\{18,30\}.
+\end{align*}
+Their respective degrees are $10,20,32$; their irreducibility is part of the exact input checks.
+The degree-ten input has one real exterior root between $1.17$ and $1.18$, its reciprocal, and eight circle roots, so $m(P_{10})\in(\log1.17,\log1.18)$.
+Also $m(P_{20})>\log1.3$.
+These are fixed positive-measure tests.
+The windows are $N=2d$, and the common integer scales are $26487$, $36887312$, and $257188436220$.
+Besides all $N$ monomial columns, the finite lists consist of $d$ rows of a verified integral unimodular basis of the residual lattice and the $2(d-1)$ signed sums of adjacent rows.
+This gives $48,98,158$ labelled directions before any norm and energy filters.
+The basis selection supplies candidates; no shortest-vector or exhaustive-lattice assertion is involved.
+
+\begin{proposition}\label{ar:true-surplus-gap}
+For the $98$-direction family at $P_{20}$, matched exact primal and dual certificates give a sufficient-budget optimum in $[3.7055,3.7056)$.
+A further exact step on the \emph{same} family retains true surplus and gives
+\begin{equation}
+ \kappa_{\rm new}\in[3.7016,3.7017),\qquad
+ \eta_{\rm new}-\tfrac12\log2\ge\frac{13395}{10^6},
+ \label{ar:true-surplus-improvement}
+\end{equation}
+with an objective decrease at least $3916/10^6$.
+This proves a strict gap between the two optimization domains.
+It does not identify the true-surplus global optimum.
+\end{proposition}
+
+The mechanism of this strict improvement can be stated without relying on a numerical derivative.
+Change variables to $u_j=a_jv_j$, put $r_j=e_j/a_j$ and $H'_{hj}=H_{hj}/a_j$, and start at a matched optimum $u^*$ with $\sum_j u_j^*=2$ and dual multiplier $\mu>0$.
+On its positive support, assume the matrix with rows $r$, the constant row, and all zero-correlation rows of $H'$ is square and invertible.
+It determines a unique direction $\delta$ satisfying
+\[
+ r\cdot\delta=0,\qquad \sum_j\delta_j=-1,\qquad
+ (H'\delta)_h=0\ \text{whenever }(H'u^*)_h=0.
+\]
+Complementarity in the weak-duality equality gives $\kappa(u^*+t\delta)=\kappa(u^*)-\mu t$ until a positive mass or a nonzero correlation first reaches zero.
+Set
+\[
+ S_0=\sum_j u_j^*/a_j<2,\quad
+ \sigma=\sum_j\delta_j/a_j,\quad
+ M_0=(2-S_0)^2/4,\quad D_0=1+|\sigma|(2/S_0-1).
+\]
+The convex function $S\log(S/2)$ and $r-1-\log r\ge(r-1)^2/(2r)$ for $r>1$ show that the true surplus numerator along the direction is at least $M_0-tD_0$.
+Taking a positive rational $t\le M_0/(2D_0)$ and below all the mass and correlation sign bounds proves $\eta-\frac12\log2\ge M_0/(4S)>0$ while strictly lowering $\kappa$.
+The verified finite input satisfies these hypotheses.
+The step is input-dependent and may shrink as the additional norm income disappears.
+
+\subsubsection{Unit-norm comparisons and the failed sixth certificate}
+\label{ar:unit-comparisons}
+
+The most recent comparison asks whether genuine improvement remains when nonunit norm income is removed.
+Keep every original monomial and admit only directions in the above retained lists with $D_j=1$ and $e_j\le1$.
+Equation~\eqref{ar:finite-normalization} then simplifies to
+\begin{equation}
+ \eta=\tfrac12\log S,
+ \qquad \eta\ge\tfrac12\log2\ \Longleftrightarrow\ S\ge2.
+ \label{ar:unit-exact-domain}
+\end{equation}
+Thus the linear program now describes the \emph{true} surplus domain exactly, including its boundary.
+The common feasible point on the monomial columns is $v_j=1/d$: the projection diagonal entries sum to $d$, and $N=2d$.
+The energy constraint therefore holds and $S=2$.
+
+The filters retain $19,23,41$ nonmonomial labels respectively.
+The five completed primal--dual certificates and the incomplete last comparison are as follows.
+Each displayed interval is certified by rational comparison; none is a floating error bar.
+\begin{table}[htbp]
+\centering
+\begin{tabular}{llrl}
+\toprule
+Input & Family & Columns & Certified $\kappa$ interval\\
+\midrule
+$P_{10}$ & Monomial &20&$[3.0845,3.0846)$\\
+$P_{10}$ & Unit enlargement &39&$[3.0617,3.0618)$\\
+$P_{20}$ & Monomial &40&$[4.0386,4.0387)$\\
+$P_{20}$ & Unit enlargement &63&$[4.0185,4.0186)$\\
+$P_{32}$ & Monomial &64&$[4.6211,4.6212)$\\
+$P_{32}$ & Unit enlargement &105&No optimum certified\\
+\bottomrule
+\end{tabular}
+\caption{Unit-norm comparisons at the same true surplus target $\eta\ge\frac12\log2$.
+The first five rows have complete exact optimality certificates.}
+\label{ar:unit-comparison}
+\end{table}
+\begin{proposition}\label{ar:unit-optima}
+All five completed optima in Table~\ref{ar:unit-comparison} have $S=2$ and hence surplus exactly $\frac12\log2$.
+The first two pairs prove strict improvement over the \emph{optimized} monomial baselines.
+\end{proposition}
+These conclusions follow from Proposition~\ref{ar:finite-certificate} and the exact primal--dual witnesses verified in the standalone supplement.
+At $P_{10}$ the exact values are
+\[
+ K_{\rm mon}=\frac{48507669494542}{15726261655503},\qquad
+ K_{\rm unit}=\frac{3891813173848329936}{1271097706518260747}.
+\]
+The two nonmonomial seeds receiving positive weight there are
+\[
+ B_1=-1+t^3+t^5+t^6+t^7,\qquad
+ B_2=-1-t+t^5+t^6+t^7,
+\]
+with signed full norms $+1$ and $-1$.
+Their original auxiliaries have contents $3$ and $1$ respectively.
+The first was not replaced by its primitive part while retaining the old weights and income.
+
+For the $105$-column family at $P_{32}$, the reconstructed rational primal is feasible and has $S=2$, so its objective is a valid upper bound.
+The reconstructed dual has $y_9>1$ and fails \eqref{ar:dual}, although its algebraic objective gap is zero.
+A separate check also found that the saved floating basis tableau did not satisfy its original equations at the declared tolerance.
+The failed dual and this numerical inconsistency are retained as failures.
+They imply neither infeasibility of the underlying problem nor absence of improvement; the sixth optimum remains uncertified.
+The accompanying standard-library verification supplement checks the 304 original directions, the exact selector, all five optimum certificates and their integer multiplicities and aggregate polynomials, both strict comparisons, and the sixth primal and failed dual constraint.
+It does not rerun the optimizer or the historical floating-tableau consistency check.
+
+\begin{remark}\label{ar:finite-boundary}
+The unit-only optima and the sufficient-budget optima solve different problems.
+For example, the $48$-direction sufficient-budget problem at $P_{10}$ has a certified optimum in $[3.0277,3.0278)$ using a direction of full norm $9$.
+This smaller value does not contradict the unit-only value above.
+Similarly, a value below four is a useful finite comparison, not a distinguished universal gap threshold.
+In every case $\kappa$ measures correlations of a chosen auxiliary family.
+A Lehmer conclusion requires uniform coverage in Corollary~\ref{ar:conditional-gap}, with all input measures tending to zero allowed and every degree, coefficient and norm cost retained.
+The finite results establish neither this coverage nor an optimum over all units or all integer points of an energy ellipsoid.
+\end{remark}
+
+\paragraph{The remaining arithmetic input.}
+The present arithmetic programme has a complete conditional closure criterion.
+At degree at most $Cd$, one needs a family of actual integer auxiliaries with a positive surplus bounded below independently of the input, together with sufficiently small aggregate autocorrelation cost.
+The first requirement is available on every nontorsion unit.
+The full projection family has an explicit square-root-in-degree upper bound for the second, which is not enough when degree is unrestricted.
+
+\begin{question}\label{out:coherence}
+Can actual integer directions and weights be chosen, on every sufficiently small positive total-Mahler-measure input, so that their degree is at most $Cd$, their resultant-minus-energy surplus is at least $\eta>0$, and their aggregate autocorrelation cost is at most $K$, for absolute constants $C,\eta,K$?
+\end{question}
+The more general product criterion in Section~\ref{sec:arithmetic} also allows controlled growth of the cost.
+The question is about the same original polynomial and all of its conjugates.
+Combining income from different auxiliaries while charging only one set of coefficients would not satisfy it.
+
+The finite norm-one comparisons provide a useful discriminator.
+They establish that low-energy integer directions beyond monomials can improve the genuinely optimized baseline without buying additional norm income.
+The next mathematical issue is whether such gains persist on genuinely varying inputs and control the full signed aggregate at a useful uniform scale.
+The selected finite lists do not enumerate the complete energy ellipsoid.
+A failed dual certificate cannot establish a negative conclusion about that ellipsoid or about all units.
+Likewise a radical lift of one fixed polynomial keeps its total Mahler measure fixed and cannot by itself supply evidence of near-zero-total-measure coverage.
+
+The earlier cyclic-norm route remains a separate sufficient mechanism: linear arithmetic income must occur at an exponent of order the original degree, or in an aggregate whose normalization implies such income.
+A linear unweighted sum over many times is weaker.
+Full resultant divisibility cannot be transferred to one cyclic time without checking the actual local factors and depths.

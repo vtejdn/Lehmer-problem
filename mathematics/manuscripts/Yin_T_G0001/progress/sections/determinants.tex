@@ -1,0 +1,73 @@
+\section{Group determinants and the scalar Lehmer gap}\label{sec:determinants}
+
+The determinant strategy seeks operator or geometric information that returns to the same scalar gap.
+For the infinite cyclic group this return is exact.
+More general groups, singular operators and rectangular matrices require their own comparison; their determinant constants cannot be silently substituted for the classical one \cite{Luc22}.
+
+Let $S^1$ carry normalized arclength.
+Fourier transformation identifies the group von Neumann algebra $\mathcal N(\Z)$ with the multiplication algebra $L^\infty(S^1)$ on $L^2(S^1)$.
+A matrix $A\in M_r(\Z[t,t^{-1}])$ acts on $L^2(S^1)^r$ by multiplication by $A(e^{i\theta})$.
+
+\begin{definition}
+Such an operator is a weak isomorphism if it is injective and has dense image.
+For a weak isomorphism, write $|A|=(A^*A)^{1/2}$ and let $\mu_{|A|}$ be its spectral measure for the circle trace and the unnormalized matrix trace $\operatorname{tr}_r(B)=\sum_{j=1}^rB_{jj}$.
+Its Fuglede--Kadison determinant is
+\[
+ \det_{\mathcal N(\Z)}(A)
+   =\exp\left(\int_{(0,\infty)}\log s\,d\mu_{|A|}(s)\right).
+\]
+\end{definition}
+These are the weak-isomorphism and trace conventions of \citet{Luc22}.
+In particular, the matrix trace is not divided by $r$.
+
+\begin{proposition}\label{det:scalar-return}
+For $A\in M_r(\Z[t,t^{-1}])$, the corresponding multiplication operator is a weak isomorphism exactly when $\det A$ is not identically zero.
+In that case
+\[
+ \log\det_{\mathcal N(\Z)}(A)
+  =\frac1{2\pi}\int_0^{2\pi}\log|\det A(e^{i\theta})|\,d\theta
+  =m(\det A).
+\]
+For a Laurent polynomial, $m$ is defined by multiplying by a monomial to obtain an ordinary polynomial; the value is independent of that choice.
+The infimum of the positive logarithmic determinants of these square weak isomorphisms, over all $r$, equals $\mathfrak L$.
+\end{proposition}
+\begin{proof}
+A nonzero Laurent determinant vanishes at only finitely many points of the circle.
+The matrix is consequently invertible almost everywhere, so both it and its adjoint have zero kernel.
+Conversely an identically zero determinant gives a nontrivial measurable kernel.
+At each invertible point, the unnormalized trace of $\log|A|$ is $\log|\det A|$, by the product of singular values.
+Integrating proves the first equality; the scalar Mahler integral proves the second.
+The integral is finite because a polynomial has only logarithmic singularities at its circle zeros.
+Every determinant can be made an integer polynomial by a monomial shift, while every nonzero integer polynomial occurs as a $1$-by-$1$ example.
+This proves the infimum claim.
+\end{proof}
+
+The normalization is essential.
+Division by $r$ would produce $m(\det A)/r$, which changes the gap question when matrix size varies.
+Proposition~\ref{det:scalar-return} also explains why the full scalar polynomial must be retained in an integer construction.
+
+\begin{corollary}\label{det:full-cost}
+If the full Laurent determinant of a square integer weak isomorphism is $c\,t^jP(t)Q(t)$, with $c\in\Z\setminus\{0\}$ and nonzero $P,Q\in\Z[t]$, then
+\[
+ \log\det_{\mathcal N(\Z)}(A)
+   =\log|c|+m(P)+m(Q).
+\]
+Thus the complementary factor is an additional nonnegative expense.
+\end{corollary}
+\begin{proof}
+Apply Proposition~\ref{det:scalar-return} and multiplicativity of Mahler measure.
+A monomial has zero logarithmic measure.
+\end{proof}
+
+The literal signed two-sheet construction in Subsection~\ref{sec:structures} is a concrete application: its complete scalar is $p_Vp_{V^-}$, so the absolute companion cost $m(p_{V^-})$ is compulsory.
+The repeated-cell theorem \ref{str:uniform-cost} pays this cost for every selected subset.
+Proposition~\ref{str:changed-cost} shows that an actual change of bulk recurrence can make isolated cells neutral while complete couplings still cost more than $k\log2$.
+These results inform both the completion and determinant strategies; the full constructions are stated once in Subsection~\ref{sec:structures}.
+
+\begin{question}\label{det:completion-question}
+Can an actual integral completion, change of basis or operator construction control every complementary scalar factor and all couplings at a useful uniform scale, while preserving the original small-measure input and its unnormalized scalar return?
+\end{question}
+An answer must specify the complete polynomial and the actual integral realization.
+Neutral factors still affect rank and attachments even when they have zero Mahler measure.
+Bounds on height or entry energy are separate from bounds on the full determinant.
+The two established matrix-family obstructions leave other integral bases and completion mechanisms open; neither optimizes over the entire integer class.

@@ -1,0 +1,1626 @@
+{
+  "source_mask": 819,
+  "branch": 2,
+  "target": [
+    22541367390851344,
+    1315861,
+    12084617
+  ],
+  "terms": [
+    {
+      "kind": "endpoint",
+      "trace_degree": 1,
+      "index": 0,
+      "exponent": 211,
+      "degree_contribution": 211
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 3,
+      "index": 1,
+      "exponent": 316,
+      "degree_contribution": 948
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 9,
+      "index": 2,
+      "exponent": 120,
+      "degree_contribution": 1080
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 15,
+      "index": 3,
+      "exponent": 45,
+      "degree_contribution": 675
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 27,
+      "index": 4,
+      "exponent": 450,
+      "degree_contribution": 12150
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 45,
+      "index": 5,
+      "exponent": 375,
+      "degree_contribution": 16875
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 75,
+      "index": 6,
+      "exponent": 330,
+      "degree_contribution": 24750
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 81,
+      "index": 7,
+      "exponent": 195,
+      "degree_contribution": 15795
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 45,
+      "a": 2,
+      "b": 1,
+      "trace_degree": 135,
+      "index": 8,
+      "exponent": 360,
+      "degree_contribution": 48600
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 75,
+      "a": 1,
+      "b": 2,
+      "trace_degree": 225,
+      "index": 9,
+      "exponent": 60,
+      "degree_contribution": 13500
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 243,
+      "index": 10,
+      "exponent": 375,
+      "degree_contribution": 91125
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 125,
+      "a": 0,
+      "b": 3,
+      "trace_degree": 375,
+      "index": 11,
+      "exponent": 150,
+      "degree_contribution": 56250
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 135,
+      "a": 3,
+      "b": 1,
+      "trace_degree": 405,
+      "index": 12,
+      "exponent": 450,
+      "degree_contribution": 182250
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 225,
+      "a": 2,
+      "b": 2,
+      "trace_degree": 675,
+      "index": 13,
+      "exponent": 30,
+      "degree_contribution": 20250
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 5,
+      "index": 34,
+      "exponent": 451,
+      "degree_contribution": 2255
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 15,
+      "index": 35,
+      "exponent": 150,
+      "degree_contribution": 2250
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 25,
+      "index": 36,
+      "exponent": 450,
+      "degree_contribution": 11250
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 45,
+      "index": 37,
+      "exponent": 240,
+      "degree_contribution": 10800
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 75,
+      "index": 38,
+      "exponent": 405,
+      "degree_contribution": 30375
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 125,
+      "index": 39,
+      "exponent": 450,
+      "degree_contribution": 56250
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 135,
+      "index": 40,
+      "exponent": 270,
+      "degree_contribution": 36450
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 45,
+      "a": 2,
+      "b": 1,
+      "trace_degree": 225,
+      "index": 41,
+      "exponent": 360,
+      "degree_contribution": 81000
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 405,
+      "index": 43,
+      "exponent": 165,
+      "degree_contribution": 66825
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 125,
+      "a": 0,
+      "b": 3,
+      "trace_degree": 625,
+      "index": 44,
+      "exponent": 240,
+      "degree_contribution": 150000
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 625,
+      "a": 0,
+      "b": 4,
+      "trace_degree": 3125,
+      "index": 50,
+      "exponent": 225,
+      "degree_contribution": 703125
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 6,
+      "index": 67,
+      "exponent": 105,
+      "degree_contribution": 630
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 18,
+      "index": 68,
+      "exponent": 270,
+      "degree_contribution": 4860
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 30,
+      "index": 69,
+      "exponent": 165,
+      "degree_contribution": 4950
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 54,
+      "index": 70,
+      "exponent": 15,
+      "degree_contribution": 810
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 150,
+      "index": 72,
+      "exponent": 450,
+      "degree_contribution": 67500
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 162,
+      "index": 73,
+      "exponent": 300,
+      "degree_contribution": 48600
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 486,
+      "index": 76,
+      "exponent": 435,
+      "degree_contribution": 211410
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 8,
+      "index": 100,
+      "exponent": 285,
+      "degree_contribution": 2280
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 24,
+      "index": 101,
+      "exponent": 180,
+      "degree_contribution": 4320
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 120,
+      "index": 104,
+      "exponent": 285,
+      "degree_contribution": 34200
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 216,
+      "index": 106,
+      "exponent": 345,
+      "degree_contribution": 74520
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 648,
+      "index": 109,
+      "exponent": 180,
+      "degree_contribution": 116640
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 9,
+      "index": 133,
+      "exponent": 390,
+      "degree_contribution": 3510
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 27,
+      "index": 134,
+      "exponent": 30,
+      "degree_contribution": 810
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 45,
+      "index": 135,
+      "exponent": 390,
+      "degree_contribution": 17550
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 225,
+      "index": 138,
+      "exponent": 30,
+      "degree_contribution": 6750
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 243,
+      "index": 139,
+      "exponent": 195,
+      "degree_contribution": 47385
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 729,
+      "index": 142,
+      "exponent": 105,
+      "degree_contribution": 76545
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 11,
+      "index": 166,
+      "exponent": 225,
+      "degree_contribution": 2475
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 33,
+      "index": 167,
+      "exponent": 225,
+      "degree_contribution": 7425
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 55,
+      "index": 168,
+      "exponent": 225,
+      "degree_contribution": 12375
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 99,
+      "index": 169,
+      "exponent": 450,
+      "degree_contribution": 44550
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 297,
+      "index": 172,
+      "exponent": 285,
+      "degree_contribution": 84645
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 891,
+      "index": 175,
+      "exponent": 255,
+      "degree_contribution": 227205
+    },
+    {
+      "kind": "rectangle",
+      "n": 29,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 14,
+      "index": 199,
+      "exponent": 30,
+      "degree_contribution": 420
+    },
+    {
+      "kind": "rectangle",
+      "n": 29,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 42,
+      "index": 200,
+      "exponent": 225,
+      "degree_contribution": 9450
+    },
+    {
+      "kind": "rectangle",
+      "n": 31,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 1215,
+      "index": 241,
+      "exponent": 450,
+      "degree_contribution": 546750
+    },
+    {
+      "kind": "rectangle",
+      "n": 37,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 18,
+      "index": 265,
+      "exponent": 30,
+      "degree_contribution": 540
+    },
+    {
+      "kind": "rectangle",
+      "n": 41,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 20,
+      "index": 298,
+      "exponent": 450,
+      "degree_contribution": 9000
+    },
+    {
+      "kind": "rectangle",
+      "n": 43,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 21,
+      "index": 331,
+      "exponent": 255,
+      "degree_contribution": 5355
+    },
+    {
+      "kind": "rectangle",
+      "n": 49,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 24,
+      "index": 397,
+      "exponent": 450,
+      "degree_contribution": 10800
+    },
+    {
+      "kind": "rectangle",
+      "n": 53,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 26,
+      "index": 430,
+      "exponent": 30,
+      "degree_contribution": 780
+    },
+    {
+      "kind": "rectangle",
+      "n": 59,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 29,
+      "index": 463,
+      "exponent": 450,
+      "degree_contribution": 13050
+    },
+    {
+      "kind": "rectangle",
+      "n": 61,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 30,
+      "index": 496,
+      "exponent": 255,
+      "degree_contribution": 7650
+    },
+    {
+      "kind": "rectangle",
+      "n": 71,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 35,
+      "index": 562,
+      "exponent": 255,
+      "degree_contribution": 8925
+    },
+    {
+      "kind": "rectangle",
+      "n": 73,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 36,
+      "index": 595,
+      "exponent": 255,
+      "degree_contribution": 9180
+    },
+    {
+      "kind": "rectangle",
+      "n": 77,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 38,
+      "index": 628,
+      "exponent": 255,
+      "degree_contribution": 9690
+    },
+    {
+      "kind": "rectangle",
+      "n": 83,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 41,
+      "index": 694,
+      "exponent": 225,
+      "degree_contribution": 9225
+    },
+    {
+      "kind": "rectangle",
+      "n": 91,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 45,
+      "index": 760,
+      "exponent": 30,
+      "degree_contribution": 1350
+    },
+    {
+      "kind": "rectangle",
+      "n": 103,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 51,
+      "index": 859,
+      "exponent": 225,
+      "degree_contribution": 11475
+    }
+  ],
+  "word": [
+    [
+      0,
+      211
+    ],
+    [
+      1,
+      316
+    ],
+    [
+      2,
+      120
+    ],
+    [
+      3,
+      45
+    ],
+    [
+      4,
+      450
+    ],
+    [
+      5,
+      375
+    ],
+    [
+      6,
+      330
+    ],
+    [
+      7,
+      195
+    ],
+    [
+      8,
+      360
+    ],
+    [
+      9,
+      60
+    ],
+    [
+      10,
+      375
+    ],
+    [
+      11,
+      150
+    ],
+    [
+      12,
+      450
+    ],
+    [
+      13,
+      30
+    ],
+    [
+      34,
+      451
+    ],
+    [
+      35,
+      150
+    ],
+    [
+      36,
+      450
+    ],
+    [
+      37,
+      240
+    ],
+    [
+      38,
+      405
+    ],
+    [
+      39,
+      450
+    ],
+    [
+      40,
+      270
+    ],
+    [
+      41,
+      360
+    ],
+    [
+      43,
+      165
+    ],
+    [
+      44,
+      240
+    ],
+    [
+      50,
+      225
+    ],
+    [
+      67,
+      105
+    ],
+    [
+      68,
+      270
+    ],
+    [
+      69,
+      165
+    ],
+    [
+      70,
+      15
+    ],
+    [
+      72,
+      450
+    ],
+    [
+      73,
+      300
+    ],
+    [
+      76,
+      435
+    ],
+    [
+      100,
+      285
+    ],
+    [
+      101,
+      180
+    ],
+    [
+      104,
+      285
+    ],
+    [
+      106,
+      345
+    ],
+    [
+      109,
+      180
+    ],
+    [
+      133,
+      390
+    ],
+    [
+      134,
+      30
+    ],
+    [
+      135,
+      390
+    ],
+    [
+      138,
+      30
+    ],
+    [
+      139,
+      195
+    ],
+    [
+      142,
+      105
+    ],
+    [
+      166,
+      225
+    ],
+    [
+      167,
+      225
+    ],
+    [
+      168,
+      225
+    ],
+    [
+      169,
+      450
+    ],
+    [
+      172,
+      285
+    ],
+    [
+      175,
+      255
+    ],
+    [
+      199,
+      30
+    ],
+    [
+      200,
+      225
+    ],
+    [
+      241,
+      450
+    ],
+    [
+      265,
+      30
+    ],
+    [
+      298,
+      450
+    ],
+    [
+      331,
+      255
+    ],
+    [
+      397,
+      450
+    ],
+    [
+      430,
+      30
+    ],
+    [
+      463,
+      450
+    ],
+    [
+      496,
+      255
+    ],
+    [
+      562,
+      255
+    ],
+    [
+      595,
+      255
+    ],
+    [
+      628,
+      255
+    ],
+    [
+      694,
+      225
+    ],
+    [
+      760,
+      30
+    ],
+    [
+      859,
+      225
+    ]
+  ],
+  "costs": {
+    "endpoint_exponent": 211,
+    "nonzero_terms": 65,
+    "cofactor_trace_degree": 3390624,
+    "original_trace_degree": 3390998,
+    "original_reciprocal_degree": 6781996
+  },
+  "full_trace_factor_multiplicities": [
+    {
+      "order": 3,
+      "multiplicity": 4
+    },
+    {
+      "order": 5,
+      "multiplicity": 6
+    },
+    {
+      "order": 7,
+      "multiplicity": 3991
+    },
+    {
+      "order": 9,
+      "multiplicity": 8
+    },
+    {
+      "order": 11,
+      "multiplicity": 3663
+    },
+    {
+      "order": 13,
+      "multiplicity": 1770
+    },
+    {
+      "order": 15,
+      "multiplicity": 4
+    },
+    {
+      "order": 17,
+      "multiplicity": 1277
+    },
+    {
+      "order": 19,
+      "multiplicity": 1140
+    },
+    {
+      "order": 21,
+      "multiplicity": 2415
+    },
+    {
+      "order": 23,
+      "multiplicity": 1665
+    },
+    {
+      "order": 29,
+      "multiplicity": 255
+    },
+    {
+      "order": 31,
+      "multiplicity": 450
+    },
+    {
+      "order": 33,
+      "multiplicity": 1590
+    },
+    {
+      "order": 35,
+      "multiplicity": 1800
+    },
+    {
+      "order": 37,
+      "multiplicity": 30
+    },
+    {
+      "order": 39,
+      "multiplicity": 1020
+    },
+    {
+      "order": 41,
+      "multiplicity": 450
+    },
+    {
+      "order": 43,
+      "multiplicity": 255
+    },
+    {
+      "order": 49,
+      "multiplicity": 450
+    },
+    {
+      "order": 51,
+      "multiplicity": 990
+    },
+    {
+      "order": 53,
+      "multiplicity": 30
+    },
+    {
+      "order": 55,
+      "multiplicity": 2130
+    },
+    {
+      "order": 57,
+      "multiplicity": 330
+    },
+    {
+      "order": 59,
+      "multiplicity": 450
+    },
+    {
+      "order": 61,
+      "multiplicity": 255
+    },
+    {
+      "order": 63,
+      "multiplicity": 1860
+    },
+    {
+      "order": 65,
+      "multiplicity": 615
+    },
+    {
+      "order": 69,
+      "multiplicity": 1215
+    },
+    {
+      "order": 71,
+      "multiplicity": 255
+    },
+    {
+      "order": 73,
+      "multiplicity": 255
+    },
+    {
+      "order": 77,
+      "multiplicity": 255
+    },
+    {
+      "order": 83,
+      "multiplicity": 225
+    },
+    {
+      "order": 85,
+      "multiplicity": 285
+    },
+    {
+      "order": 87,
+      "multiplicity": 225
+    },
+    {
+      "order": 91,
+      "multiplicity": 30
+    },
+    {
+      "order": 93,
+      "multiplicity": 450
+    },
+    {
+      "order": 95,
+      "multiplicity": 420
+    },
+    {
+      "order": 99,
+      "multiplicity": 1035
+    },
+    {
+      "order": 103,
+      "multiplicity": 225
+    },
+    {
+      "order": 105,
+      "multiplicity": 1275
+    },
+    {
+      "order": 115,
+      "multiplicity": 225
+    },
+    {
+      "order": 117,
+      "multiplicity": 750
+    },
+    {
+      "order": 153,
+      "multiplicity": 525
+    },
+    {
+      "order": 165,
+      "multiplicity": 765
+    },
+    {
+      "order": 171,
+      "multiplicity": 300
+    },
+    {
+      "order": 175,
+      "multiplicity": 570
+    },
+    {
+      "order": 187,
+      "multiplicity": 2
+    },
+    {
+      "order": 189,
+      "multiplicity": 1020
+    },
+    {
+      "order": 207,
+      "multiplicity": 990
+    },
+    {
+      "order": 255,
+      "multiplicity": 285
+    },
+    {
+      "order": 275,
+      "multiplicity": 915
+    },
+    {
+      "order": 279,
+      "multiplicity": 450
+    },
+    {
+      "order": 297,
+      "multiplicity": 435
+    },
+    {
+      "order": 315,
+      "multiplicity": 840
+    },
+    {
+      "order": 325,
+      "multiplicity": 450
+    },
+    {
+      "order": 351,
+      "multiplicity": 735
+    },
+    {
+      "order": 459,
+      "multiplicity": 525
+    },
+    {
+      "order": 475,
+      "multiplicity": 30
+    },
+    {
+      "order": 495,
+      "multiplicity": 360
+    },
+    {
+      "order": 513,
+      "multiplicity": 300
+    },
+    {
+      "order": 525,
+      "multiplicity": 90
+    },
+    {
+      "order": 567,
+      "multiplicity": 375
+    },
+    {
+      "order": 621,
+      "multiplicity": 540
+    },
+    {
+      "order": 837,
+      "multiplicity": 450
+    },
+    {
+      "order": 875,
+      "multiplicity": 150
+    },
+    {
+      "order": 891,
+      "multiplicity": 165
+    },
+    {
+      "order": 945,
+      "multiplicity": 450
+    },
+    {
+      "order": 960,
+      "multiplicity": 1
+    },
+    {
+      "order": 1053,
+      "multiplicity": 435
+    },
+    {
+      "order": 1375,
+      "multiplicity": 465
+    },
+    {
+      "order": 1377,
+      "multiplicity": 180
+    },
+    {
+      "order": 1539,
+      "multiplicity": 105
+    },
+    {
+      "order": 1575,
+      "multiplicity": 30
+    },
+    {
+      "order": 1863,
+      "multiplicity": 255
+    },
+    {
+      "order": 2511,
+      "multiplicity": 450
+    },
+    {
+      "order": 6875,
+      "multiplicity": 225
+    }
+  ],
+  "full_endpoint_trace_multiplicity": 215,
+  "full_reciprocal_cyclotomic_multiplicities": [
+    {
+      "order": 1,
+      "multiplicity": 430
+    },
+    {
+      "order": 3,
+      "multiplicity": 4
+    },
+    {
+      "order": 5,
+      "multiplicity": 6
+    },
+    {
+      "order": 7,
+      "multiplicity": 3991
+    },
+    {
+      "order": 9,
+      "multiplicity": 8
+    },
+    {
+      "order": 11,
+      "multiplicity": 3663
+    },
+    {
+      "order": 13,
+      "multiplicity": 1770
+    },
+    {
+      "order": 15,
+      "multiplicity": 4
+    },
+    {
+      "order": 17,
+      "multiplicity": 1277
+    },
+    {
+      "order": 19,
+      "multiplicity": 1140
+    },
+    {
+      "order": 21,
+      "multiplicity": 2415
+    },
+    {
+      "order": 23,
+      "multiplicity": 1665
+    },
+    {
+      "order": 29,
+      "multiplicity": 255
+    },
+    {
+      "order": 31,
+      "multiplicity": 450
+    },
+    {
+      "order": 33,
+      "multiplicity": 1590
+    },
+    {
+      "order": 35,
+      "multiplicity": 1800
+    },
+    {
+      "order": 37,
+      "multiplicity": 30
+    },
+    {
+      "order": 39,
+      "multiplicity": 1020
+    },
+    {
+      "order": 41,
+      "multiplicity": 450
+    },
+    {
+      "order": 43,
+      "multiplicity": 255
+    },
+    {
+      "order": 49,
+      "multiplicity": 450
+    },
+    {
+      "order": 51,
+      "multiplicity": 990
+    },
+    {
+      "order": 53,
+      "multiplicity": 30
+    },
+    {
+      "order": 55,
+      "multiplicity": 2130
+    },
+    {
+      "order": 57,
+      "multiplicity": 330
+    },
+    {
+      "order": 59,
+      "multiplicity": 450
+    },
+    {
+      "order": 61,
+      "multiplicity": 255
+    },
+    {
+      "order": 63,
+      "multiplicity": 1860
+    },
+    {
+      "order": 65,
+      "multiplicity": 615
+    },
+    {
+      "order": 69,
+      "multiplicity": 1215
+    },
+    {
+      "order": 71,
+      "multiplicity": 255
+    },
+    {
+      "order": 73,
+      "multiplicity": 255
+    },
+    {
+      "order": 77,
+      "multiplicity": 255
+    },
+    {
+      "order": 83,
+      "multiplicity": 225
+    },
+    {
+      "order": 85,
+      "multiplicity": 285
+    },
+    {
+      "order": 87,
+      "multiplicity": 225
+    },
+    {
+      "order": 91,
+      "multiplicity": 30
+    },
+    {
+      "order": 93,
+      "multiplicity": 450
+    },
+    {
+      "order": 95,
+      "multiplicity": 420
+    },
+    {
+      "order": 99,
+      "multiplicity": 1035
+    },
+    {
+      "order": 103,
+      "multiplicity": 225
+    },
+    {
+      "order": 105,
+      "multiplicity": 1275
+    },
+    {
+      "order": 115,
+      "multiplicity": 225
+    },
+    {
+      "order": 117,
+      "multiplicity": 750
+    },
+    {
+      "order": 153,
+      "multiplicity": 525
+    },
+    {
+      "order": 165,
+      "multiplicity": 765
+    },
+    {
+      "order": 171,
+      "multiplicity": 300
+    },
+    {
+      "order": 175,
+      "multiplicity": 570
+    },
+    {
+      "order": 187,
+      "multiplicity": 2
+    },
+    {
+      "order": 189,
+      "multiplicity": 1020
+    },
+    {
+      "order": 207,
+      "multiplicity": 990
+    },
+    {
+      "order": 255,
+      "multiplicity": 285
+    },
+    {
+      "order": 275,
+      "multiplicity": 915
+    },
+    {
+      "order": 279,
+      "multiplicity": 450
+    },
+    {
+      "order": 297,
+      "multiplicity": 435
+    },
+    {
+      "order": 315,
+      "multiplicity": 840
+    },
+    {
+      "order": 325,
+      "multiplicity": 450
+    },
+    {
+      "order": 351,
+      "multiplicity": 735
+    },
+    {
+      "order": 459,
+      "multiplicity": 525
+    },
+    {
+      "order": 475,
+      "multiplicity": 30
+    },
+    {
+      "order": 495,
+      "multiplicity": 360
+    },
+    {
+      "order": 513,
+      "multiplicity": 300
+    },
+    {
+      "order": 525,
+      "multiplicity": 90
+    },
+    {
+      "order": 567,
+      "multiplicity": 375
+    },
+    {
+      "order": 621,
+      "multiplicity": 540
+    },
+    {
+      "order": 837,
+      "multiplicity": 450
+    },
+    {
+      "order": 875,
+      "multiplicity": 150
+    },
+    {
+      "order": 891,
+      "multiplicity": 165
+    },
+    {
+      "order": 945,
+      "multiplicity": 450
+    },
+    {
+      "order": 960,
+      "multiplicity": 1
+    },
+    {
+      "order": 1053,
+      "multiplicity": 435
+    },
+    {
+      "order": 1375,
+      "multiplicity": 465
+    },
+    {
+      "order": 1377,
+      "multiplicity": 180
+    },
+    {
+      "order": 1539,
+      "multiplicity": 105
+    },
+    {
+      "order": 1575,
+      "multiplicity": 30
+    },
+    {
+      "order": 1863,
+      "multiplicity": 255
+    },
+    {
+      "order": 2511,
+      "multiplicity": 450
+    },
+    {
+      "order": 6875,
+      "multiplicity": 225
+    }
+  ],
+  "maximal_global_binary_Frobenius_exponent": 1,
+  "no_original_mod4_residual_probe": false,
+  "no_full_integer_word_expansion": true,
+  "input_scope": "one selected actual65-term endpoint/rectangle word; full Xi and ORIGINAL mod8 residual diagnostic completed; no full integer-word expansion",
+  "source_certificate": "mathematics/computations/outputs/Yin_J_G0132/endpoint_full_triple_image.json",
+  "integer_base": "F15^4 F960 H0^2",
+  "actual_endpoint_factor": "X-2",
+  "selection_scope": "lowest degree among the32 recovered certificate words; no global optimality",
+  "original_mod8_residual_diagnostic": "mathematics/computations/outputs/Yin_J_G0132/endpoint_word_mod8.json",
+  "different_mod8_verification": "mathematics/computations/outputs/Yin_J_G0132/endpoint_word_mod8_verification.json"
+}

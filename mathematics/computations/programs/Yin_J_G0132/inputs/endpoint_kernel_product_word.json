@@ -1,0 +1,2513 @@
+{
+  "scope": "ONLY literal product of adopted65-term Q and specified73-term h189 kernel K",
+  "source_Q": "inputs/endpoint_full_triple_positive_word.json",
+  "source_K": "inputs/augmented_endpoint_kernel_positive_word.json",
+  "source_mask": 819,
+  "branch": 2,
+  "required_kernel_h": 189,
+  "terms": [
+    {
+      "kind": "endpoint",
+      "trace_degree": 1,
+      "index": 0,
+      "exponent": 211,
+      "degree_contribution": 211,
+      "source_word": "Q",
+      "source_term_position": 0
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 3,
+      "index": 1,
+      "exponent": 316,
+      "degree_contribution": 948,
+      "source_word": "Q",
+      "source_term_position": 1
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 9,
+      "index": 2,
+      "exponent": 120,
+      "degree_contribution": 1080,
+      "source_word": "Q",
+      "source_term_position": 2
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 15,
+      "index": 3,
+      "exponent": 45,
+      "degree_contribution": 675,
+      "source_word": "Q",
+      "source_term_position": 3
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 27,
+      "index": 4,
+      "exponent": 450,
+      "degree_contribution": 12150,
+      "source_word": "Q",
+      "source_term_position": 4
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 45,
+      "index": 5,
+      "exponent": 375,
+      "degree_contribution": 16875,
+      "source_word": "Q",
+      "source_term_position": 5
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 75,
+      "index": 6,
+      "exponent": 330,
+      "degree_contribution": 24750,
+      "source_word": "Q",
+      "source_term_position": 6
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 81,
+      "index": 7,
+      "exponent": 195,
+      "degree_contribution": 15795,
+      "source_word": "Q",
+      "source_term_position": 7
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 45,
+      "a": 2,
+      "b": 1,
+      "trace_degree": 135,
+      "index": 8,
+      "exponent": 360,
+      "degree_contribution": 48600,
+      "source_word": "Q",
+      "source_term_position": 8
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 75,
+      "a": 1,
+      "b": 2,
+      "trace_degree": 225,
+      "index": 9,
+      "exponent": 60,
+      "degree_contribution": 13500,
+      "source_word": "Q",
+      "source_term_position": 9
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 243,
+      "index": 10,
+      "exponent": 375,
+      "degree_contribution": 91125,
+      "source_word": "Q",
+      "source_term_position": 10
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 125,
+      "a": 0,
+      "b": 3,
+      "trace_degree": 375,
+      "index": 11,
+      "exponent": 150,
+      "degree_contribution": 56250,
+      "source_word": "Q",
+      "source_term_position": 11
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 135,
+      "a": 3,
+      "b": 1,
+      "trace_degree": 405,
+      "index": 12,
+      "exponent": 450,
+      "degree_contribution": 182250,
+      "source_word": "Q",
+      "source_term_position": 12
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 225,
+      "a": 2,
+      "b": 2,
+      "trace_degree": 675,
+      "index": 13,
+      "exponent": 30,
+      "degree_contribution": 20250,
+      "source_word": "Q",
+      "source_term_position": 13
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 5,
+      "index": 34,
+      "exponent": 451,
+      "degree_contribution": 2255,
+      "source_word": "Q",
+      "source_term_position": 14
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 15,
+      "index": 35,
+      "exponent": 150,
+      "degree_contribution": 2250,
+      "source_word": "Q",
+      "source_term_position": 15
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 25,
+      "index": 36,
+      "exponent": 450,
+      "degree_contribution": 11250,
+      "source_word": "Q",
+      "source_term_position": 16
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 45,
+      "index": 37,
+      "exponent": 240,
+      "degree_contribution": 10800,
+      "source_word": "Q",
+      "source_term_position": 17
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 75,
+      "index": 38,
+      "exponent": 405,
+      "degree_contribution": 30375,
+      "source_word": "Q",
+      "source_term_position": 18
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 125,
+      "index": 39,
+      "exponent": 450,
+      "degree_contribution": 56250,
+      "source_word": "Q",
+      "source_term_position": 19
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 135,
+      "index": 40,
+      "exponent": 270,
+      "degree_contribution": 36450,
+      "source_word": "Q",
+      "source_term_position": 20
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 45,
+      "a": 2,
+      "b": 1,
+      "trace_degree": 225,
+      "index": 41,
+      "exponent": 360,
+      "degree_contribution": 81000,
+      "source_word": "Q",
+      "source_term_position": 21
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 405,
+      "index": 43,
+      "exponent": 165,
+      "degree_contribution": 66825,
+      "source_word": "Q",
+      "source_term_position": 22
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 125,
+      "a": 0,
+      "b": 3,
+      "trace_degree": 625,
+      "index": 44,
+      "exponent": 240,
+      "degree_contribution": 150000,
+      "source_word": "Q",
+      "source_term_position": 23
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 625,
+      "a": 0,
+      "b": 4,
+      "trace_degree": 3125,
+      "index": 50,
+      "exponent": 225,
+      "degree_contribution": 703125,
+      "source_word": "Q",
+      "source_term_position": 24
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 6,
+      "index": 67,
+      "exponent": 105,
+      "degree_contribution": 630,
+      "source_word": "Q",
+      "source_term_position": 25
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 18,
+      "index": 68,
+      "exponent": 270,
+      "degree_contribution": 4860,
+      "source_word": "Q",
+      "source_term_position": 26
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 30,
+      "index": 69,
+      "exponent": 165,
+      "degree_contribution": 4950,
+      "source_word": "Q",
+      "source_term_position": 27
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 54,
+      "index": 70,
+      "exponent": 15,
+      "degree_contribution": 810,
+      "source_word": "Q",
+      "source_term_position": 28
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 150,
+      "index": 72,
+      "exponent": 450,
+      "degree_contribution": 67500,
+      "source_word": "Q",
+      "source_term_position": 29
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 162,
+      "index": 73,
+      "exponent": 300,
+      "degree_contribution": 48600,
+      "source_word": "Q",
+      "source_term_position": 30
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 486,
+      "index": 76,
+      "exponent": 435,
+      "degree_contribution": 211410,
+      "source_word": "Q",
+      "source_term_position": 31
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 8,
+      "index": 100,
+      "exponent": 285,
+      "degree_contribution": 2280,
+      "source_word": "Q",
+      "source_term_position": 32
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 24,
+      "index": 101,
+      "exponent": 180,
+      "degree_contribution": 4320,
+      "source_word": "Q",
+      "source_term_position": 33
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 120,
+      "index": 104,
+      "exponent": 285,
+      "degree_contribution": 34200,
+      "source_word": "Q",
+      "source_term_position": 34
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 216,
+      "index": 106,
+      "exponent": 345,
+      "degree_contribution": 74520,
+      "source_word": "Q",
+      "source_term_position": 35
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 648,
+      "index": 109,
+      "exponent": 180,
+      "degree_contribution": 116640,
+      "source_word": "Q",
+      "source_term_position": 36
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 9,
+      "index": 133,
+      "exponent": 390,
+      "degree_contribution": 3510,
+      "source_word": "Q",
+      "source_term_position": 37
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 27,
+      "index": 134,
+      "exponent": 30,
+      "degree_contribution": 810,
+      "source_word": "Q",
+      "source_term_position": 38
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 45,
+      "index": 135,
+      "exponent": 390,
+      "degree_contribution": 17550,
+      "source_word": "Q",
+      "source_term_position": 39
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 225,
+      "index": 138,
+      "exponent": 30,
+      "degree_contribution": 6750,
+      "source_word": "Q",
+      "source_term_position": 40
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 243,
+      "index": 139,
+      "exponent": 195,
+      "degree_contribution": 47385,
+      "source_word": "Q",
+      "source_term_position": 41
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 729,
+      "index": 142,
+      "exponent": 105,
+      "degree_contribution": 76545,
+      "source_word": "Q",
+      "source_term_position": 42
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 11,
+      "index": 166,
+      "exponent": 225,
+      "degree_contribution": 2475,
+      "source_word": "Q",
+      "source_term_position": 43
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 33,
+      "index": 167,
+      "exponent": 225,
+      "degree_contribution": 7425,
+      "source_word": "Q",
+      "source_term_position": 44
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 55,
+      "index": 168,
+      "exponent": 225,
+      "degree_contribution": 12375,
+      "source_word": "Q",
+      "source_term_position": 45
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 99,
+      "index": 169,
+      "exponent": 450,
+      "degree_contribution": 44550,
+      "source_word": "Q",
+      "source_term_position": 46
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 297,
+      "index": 172,
+      "exponent": 285,
+      "degree_contribution": 84645,
+      "source_word": "Q",
+      "source_term_position": 47
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 891,
+      "index": 175,
+      "exponent": 255,
+      "degree_contribution": 227205,
+      "source_word": "Q",
+      "source_term_position": 48
+    },
+    {
+      "kind": "rectangle",
+      "n": 29,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 14,
+      "index": 199,
+      "exponent": 30,
+      "degree_contribution": 420,
+      "source_word": "Q",
+      "source_term_position": 49
+    },
+    {
+      "kind": "rectangle",
+      "n": 29,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 42,
+      "index": 200,
+      "exponent": 225,
+      "degree_contribution": 9450,
+      "source_word": "Q",
+      "source_term_position": 50
+    },
+    {
+      "kind": "rectangle",
+      "n": 31,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 1215,
+      "index": 241,
+      "exponent": 450,
+      "degree_contribution": 546750,
+      "source_word": "Q",
+      "source_term_position": 51
+    },
+    {
+      "kind": "rectangle",
+      "n": 37,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 18,
+      "index": 265,
+      "exponent": 30,
+      "degree_contribution": 540,
+      "source_word": "Q",
+      "source_term_position": 52
+    },
+    {
+      "kind": "rectangle",
+      "n": 41,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 20,
+      "index": 298,
+      "exponent": 450,
+      "degree_contribution": 9000,
+      "source_word": "Q",
+      "source_term_position": 53
+    },
+    {
+      "kind": "rectangle",
+      "n": 43,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 21,
+      "index": 331,
+      "exponent": 255,
+      "degree_contribution": 5355,
+      "source_word": "Q",
+      "source_term_position": 54
+    },
+    {
+      "kind": "rectangle",
+      "n": 49,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 24,
+      "index": 397,
+      "exponent": 450,
+      "degree_contribution": 10800,
+      "source_word": "Q",
+      "source_term_position": 55
+    },
+    {
+      "kind": "rectangle",
+      "n": 53,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 26,
+      "index": 430,
+      "exponent": 30,
+      "degree_contribution": 780,
+      "source_word": "Q",
+      "source_term_position": 56
+    },
+    {
+      "kind": "rectangle",
+      "n": 59,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 29,
+      "index": 463,
+      "exponent": 450,
+      "degree_contribution": 13050,
+      "source_word": "Q",
+      "source_term_position": 57
+    },
+    {
+      "kind": "rectangle",
+      "n": 61,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 30,
+      "index": 496,
+      "exponent": 255,
+      "degree_contribution": 7650,
+      "source_word": "Q",
+      "source_term_position": 58
+    },
+    {
+      "kind": "rectangle",
+      "n": 71,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 35,
+      "index": 562,
+      "exponent": 255,
+      "degree_contribution": 8925,
+      "source_word": "Q",
+      "source_term_position": 59
+    },
+    {
+      "kind": "rectangle",
+      "n": 73,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 36,
+      "index": 595,
+      "exponent": 255,
+      "degree_contribution": 9180,
+      "source_word": "Q",
+      "source_term_position": 60
+    },
+    {
+      "kind": "rectangle",
+      "n": 77,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 38,
+      "index": 628,
+      "exponent": 255,
+      "degree_contribution": 9690,
+      "source_word": "Q",
+      "source_term_position": 61
+    },
+    {
+      "kind": "rectangle",
+      "n": 83,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 41,
+      "index": 694,
+      "exponent": 225,
+      "degree_contribution": 9225,
+      "source_word": "Q",
+      "source_term_position": 62
+    },
+    {
+      "kind": "rectangle",
+      "n": 91,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 45,
+      "index": 760,
+      "exponent": 30,
+      "degree_contribution": 1350,
+      "source_word": "Q",
+      "source_term_position": 63
+    },
+    {
+      "kind": "rectangle",
+      "n": 103,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 51,
+      "index": 859,
+      "exponent": 225,
+      "degree_contribution": 11475,
+      "source_word": "Q",
+      "source_term_position": 64
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 3,
+      "index": 1,
+      "exponent": 300,
+      "degree_contribution": 900,
+      "source_word": "K",
+      "source_term_position": 0
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 9,
+      "index": 2,
+      "exponent": 225,
+      "degree_contribution": 2025,
+      "source_word": "K",
+      "source_term_position": 1
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 15,
+      "index": 3,
+      "exponent": 315,
+      "degree_contribution": 4725,
+      "source_word": "K",
+      "source_term_position": 2
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 27,
+      "index": 4,
+      "exponent": 300,
+      "degree_contribution": 8100,
+      "source_word": "K",
+      "source_term_position": 3
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 45,
+      "index": 5,
+      "exponent": 180,
+      "degree_contribution": 8100,
+      "source_word": "K",
+      "source_term_position": 4
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 75,
+      "index": 6,
+      "exponent": 375,
+      "degree_contribution": 28125,
+      "source_word": "K",
+      "source_term_position": 5
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 81,
+      "index": 7,
+      "exponent": 75,
+      "degree_contribution": 6075,
+      "source_word": "K",
+      "source_term_position": 6
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 45,
+      "a": 2,
+      "b": 1,
+      "trace_degree": 135,
+      "index": 8,
+      "exponent": 30,
+      "degree_contribution": 4050,
+      "source_word": "K",
+      "source_term_position": 7
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 75,
+      "a": 1,
+      "b": 2,
+      "trace_degree": 225,
+      "index": 9,
+      "exponent": 210,
+      "degree_contribution": 47250,
+      "source_word": "K",
+      "source_term_position": 8
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 243,
+      "index": 10,
+      "exponent": 165,
+      "degree_contribution": 40095,
+      "source_word": "K",
+      "source_term_position": 9
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 125,
+      "a": 0,
+      "b": 3,
+      "trace_degree": 375,
+      "index": 11,
+      "exponent": 90,
+      "degree_contribution": 33750,
+      "source_word": "K",
+      "source_term_position": 10
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 135,
+      "a": 3,
+      "b": 1,
+      "trace_degree": 405,
+      "index": 12,
+      "exponent": 30,
+      "degree_contribution": 12150,
+      "source_word": "K",
+      "source_term_position": 11
+    },
+    {
+      "kind": "rectangle",
+      "n": 7,
+      "q": 225,
+      "a": 2,
+      "b": 2,
+      "trace_degree": 675,
+      "index": 13,
+      "exponent": 450,
+      "degree_contribution": 303750,
+      "source_word": "K",
+      "source_term_position": 12
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 5,
+      "index": 34,
+      "exponent": 450,
+      "degree_contribution": 2250,
+      "source_word": "K",
+      "source_term_position": 13
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 15,
+      "index": 35,
+      "exponent": 60,
+      "degree_contribution": 900,
+      "source_word": "K",
+      "source_term_position": 14
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 25,
+      "index": 36,
+      "exponent": 60,
+      "degree_contribution": 1500,
+      "source_word": "K",
+      "source_term_position": 15
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 45,
+      "index": 37,
+      "exponent": 390,
+      "degree_contribution": 17550,
+      "source_word": "K",
+      "source_term_position": 16
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 75,
+      "index": 38,
+      "exponent": 105,
+      "degree_contribution": 7875,
+      "source_word": "K",
+      "source_term_position": 17
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 125,
+      "index": 39,
+      "exponent": 135,
+      "degree_contribution": 16875,
+      "source_word": "K",
+      "source_term_position": 18
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 135,
+      "index": 40,
+      "exponent": 180,
+      "degree_contribution": 24300,
+      "source_word": "K",
+      "source_term_position": 19
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 45,
+      "a": 2,
+      "b": 1,
+      "trace_degree": 225,
+      "index": 41,
+      "exponent": 45,
+      "degree_contribution": 10125,
+      "source_word": "K",
+      "source_term_position": 20
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 405,
+      "index": 43,
+      "exponent": 465,
+      "degree_contribution": 188325,
+      "source_word": "K",
+      "source_term_position": 21
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 125,
+      "a": 0,
+      "b": 3,
+      "trace_degree": 625,
+      "index": 44,
+      "exponent": 120,
+      "degree_contribution": 75000,
+      "source_word": "K",
+      "source_term_position": 22
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 135,
+      "a": 3,
+      "b": 1,
+      "trace_degree": 675,
+      "index": 45,
+      "exponent": 30,
+      "degree_contribution": 20250,
+      "source_word": "K",
+      "source_term_position": 23
+    },
+    {
+      "kind": "rectangle",
+      "n": 11,
+      "q": 625,
+      "a": 0,
+      "b": 4,
+      "trace_degree": 3125,
+      "index": 50,
+      "exponent": 255,
+      "degree_contribution": 796875,
+      "source_word": "K",
+      "source_term_position": 24
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 6,
+      "index": 67,
+      "exponent": 450,
+      "degree_contribution": 2700,
+      "source_word": "K",
+      "source_term_position": 25
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 18,
+      "index": 68,
+      "exponent": 180,
+      "degree_contribution": 3240,
+      "source_word": "K",
+      "source_term_position": 26
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 54,
+      "index": 70,
+      "exponent": 135,
+      "degree_contribution": 7290,
+      "source_word": "K",
+      "source_term_position": 27
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 25,
+      "a": 0,
+      "b": 2,
+      "trace_degree": 150,
+      "index": 72,
+      "exponent": 30,
+      "degree_contribution": 4500,
+      "source_word": "K",
+      "source_term_position": 28
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 162,
+      "index": 73,
+      "exponent": 300,
+      "degree_contribution": 48600,
+      "source_word": "K",
+      "source_term_position": 29
+    },
+    {
+      "kind": "rectangle",
+      "n": 13,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 486,
+      "index": 76,
+      "exponent": 75,
+      "degree_contribution": 36450,
+      "source_word": "K",
+      "source_term_position": 30
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 8,
+      "index": 100,
+      "exponent": 285,
+      "degree_contribution": 2280,
+      "source_word": "K",
+      "source_term_position": 31
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 24,
+      "index": 101,
+      "exponent": 285,
+      "degree_contribution": 6840,
+      "source_word": "K",
+      "source_term_position": 32
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 72,
+      "index": 103,
+      "exponent": 15,
+      "degree_contribution": 1080,
+      "source_word": "K",
+      "source_term_position": 33
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 15,
+      "a": 1,
+      "b": 1,
+      "trace_degree": 120,
+      "index": 104,
+      "exponent": 225,
+      "degree_contribution": 27000,
+      "source_word": "K",
+      "source_term_position": 34
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 216,
+      "index": 106,
+      "exponent": 465,
+      "degree_contribution": 100440,
+      "source_word": "K",
+      "source_term_position": 35
+    },
+    {
+      "kind": "rectangle",
+      "n": 17,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 648,
+      "index": 109,
+      "exponent": 450,
+      "degree_contribution": 291600,
+      "source_word": "K",
+      "source_term_position": 36
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 9,
+      "index": 133,
+      "exponent": 195,
+      "degree_contribution": 1755,
+      "source_word": "K",
+      "source_term_position": 37
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 27,
+      "index": 134,
+      "exponent": 285,
+      "degree_contribution": 7695,
+      "source_word": "K",
+      "source_term_position": 38
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 5,
+      "a": 0,
+      "b": 1,
+      "trace_degree": 45,
+      "index": 135,
+      "exponent": 450,
+      "degree_contribution": 20250,
+      "source_word": "K",
+      "source_term_position": 39
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 81,
+      "index": 136,
+      "exponent": 135,
+      "degree_contribution": 10935,
+      "source_word": "K",
+      "source_term_position": 40
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 243,
+      "index": 139,
+      "exponent": 390,
+      "degree_contribution": 94770,
+      "source_word": "K",
+      "source_term_position": 41
+    },
+    {
+      "kind": "rectangle",
+      "n": 19,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 729,
+      "index": 142,
+      "exponent": 195,
+      "degree_contribution": 142155,
+      "source_word": "K",
+      "source_term_position": 42
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 11,
+      "index": 166,
+      "exponent": 450,
+      "degree_contribution": 4950,
+      "source_word": "K",
+      "source_term_position": 43
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 33,
+      "index": 167,
+      "exponent": 450,
+      "degree_contribution": 14850,
+      "source_word": "K",
+      "source_term_position": 44
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 99,
+      "index": 169,
+      "exponent": 195,
+      "degree_contribution": 19305,
+      "source_word": "K",
+      "source_term_position": 45
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 297,
+      "index": 172,
+      "exponent": 420,
+      "degree_contribution": 124740,
+      "source_word": "K",
+      "source_term_position": 46
+    },
+    {
+      "kind": "rectangle",
+      "n": 23,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 891,
+      "index": 175,
+      "exponent": 195,
+      "degree_contribution": 173745,
+      "source_word": "K",
+      "source_term_position": 47
+    },
+    {
+      "kind": "rectangle",
+      "n": 29,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 14,
+      "index": 199,
+      "exponent": 135,
+      "degree_contribution": 1890,
+      "source_word": "K",
+      "source_term_position": 48
+    },
+    {
+      "kind": "rectangle",
+      "n": 29,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 42,
+      "index": 200,
+      "exponent": 285,
+      "degree_contribution": 11970,
+      "source_word": "K",
+      "source_term_position": 49
+    },
+    {
+      "kind": "rectangle",
+      "n": 29,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 126,
+      "index": 202,
+      "exponent": 255,
+      "degree_contribution": 32130,
+      "source_word": "K",
+      "source_term_position": 50
+    },
+    {
+      "kind": "rectangle",
+      "n": 29,
+      "q": 27,
+      "a": 3,
+      "b": 0,
+      "trace_degree": 378,
+      "index": 205,
+      "exponent": 60,
+      "degree_contribution": 22680,
+      "source_word": "K",
+      "source_term_position": 51
+    },
+    {
+      "kind": "rectangle",
+      "n": 31,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 15,
+      "index": 232,
+      "exponent": 255,
+      "degree_contribution": 3825,
+      "source_word": "K",
+      "source_term_position": 52
+    },
+    {
+      "kind": "rectangle",
+      "n": 31,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 45,
+      "index": 233,
+      "exponent": 285,
+      "degree_contribution": 12825,
+      "source_word": "K",
+      "source_term_position": 53
+    },
+    {
+      "kind": "rectangle",
+      "n": 31,
+      "q": 9,
+      "a": 2,
+      "b": 0,
+      "trace_degree": 135,
+      "index": 235,
+      "exponent": 225,
+      "degree_contribution": 30375,
+      "source_word": "K",
+      "source_term_position": 54
+    },
+    {
+      "kind": "rectangle",
+      "n": 31,
+      "q": 81,
+      "a": 4,
+      "b": 0,
+      "trace_degree": 1215,
+      "index": 241,
+      "exponent": 30,
+      "degree_contribution": 36450,
+      "source_word": "K",
+      "source_term_position": 55
+    },
+    {
+      "kind": "rectangle",
+      "n": 37,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 18,
+      "index": 265,
+      "exponent": 60,
+      "degree_contribution": 1080,
+      "source_word": "K",
+      "source_term_position": 56
+    },
+    {
+      "kind": "rectangle",
+      "n": 37,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 54,
+      "index": 266,
+      "exponent": 450,
+      "degree_contribution": 24300,
+      "source_word": "K",
+      "source_term_position": 57
+    },
+    {
+      "kind": "rectangle",
+      "n": 41,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 20,
+      "index": 298,
+      "exponent": 255,
+      "degree_contribution": 5100,
+      "source_word": "K",
+      "source_term_position": 58
+    },
+    {
+      "kind": "rectangle",
+      "n": 41,
+      "q": 3,
+      "a": 1,
+      "b": 0,
+      "trace_degree": 60,
+      "index": 299,
+      "exponent": 450,
+      "degree_contribution": 27000,
+      "source_word": "K",
+      "source_term_position": 59
+    },
+    {
+      "kind": "rectangle",
+      "n": 43,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 21,
+      "index": 331,
+      "exponent": 450,
+      "degree_contribution": 9450,
+      "source_word": "K",
+      "source_term_position": 60
+    },
+    {
+      "kind": "rectangle",
+      "n": 47,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 23,
+      "index": 364,
+      "exponent": 285,
+      "degree_contribution": 6555,
+      "source_word": "K",
+      "source_term_position": 61
+    },
+    {
+      "kind": "rectangle",
+      "n": 49,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 24,
+      "index": 397,
+      "exponent": 450,
+      "degree_contribution": 10800,
+      "source_word": "K",
+      "source_term_position": 62
+    },
+    {
+      "kind": "rectangle",
+      "n": 53,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 26,
+      "index": 430,
+      "exponent": 285,
+      "degree_contribution": 7410,
+      "source_word": "K",
+      "source_term_position": 63
+    },
+    {
+      "kind": "rectangle",
+      "n": 59,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 29,
+      "index": 463,
+      "exponent": 255,
+      "degree_contribution": 7395,
+      "source_word": "K",
+      "source_term_position": 64
+    },
+    {
+      "kind": "rectangle",
+      "n": 61,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 30,
+      "index": 496,
+      "exponent": 255,
+      "degree_contribution": 7650,
+      "source_word": "K",
+      "source_term_position": 65
+    },
+    {
+      "kind": "rectangle",
+      "n": 71,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 35,
+      "index": 562,
+      "exponent": 225,
+      "degree_contribution": 7875,
+      "source_word": "K",
+      "source_term_position": 66
+    },
+    {
+      "kind": "rectangle",
+      "n": 73,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 36,
+      "index": 595,
+      "exponent": 30,
+      "degree_contribution": 1080,
+      "source_word": "K",
+      "source_term_position": 67
+    },
+    {
+      "kind": "rectangle",
+      "n": 77,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 38,
+      "index": 628,
+      "exponent": 225,
+      "degree_contribution": 8550,
+      "source_word": "K",
+      "source_term_position": 68
+    },
+    {
+      "kind": "rectangle",
+      "n": 79,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 39,
+      "index": 661,
+      "exponent": 255,
+      "degree_contribution": 9945,
+      "source_word": "K",
+      "source_term_position": 69
+    },
+    {
+      "kind": "rectangle",
+      "n": 89,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 44,
+      "index": 727,
+      "exponent": 255,
+      "degree_contribution": 11220,
+      "source_word": "K",
+      "source_term_position": 70
+    },
+    {
+      "kind": "rectangle",
+      "n": 97,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 48,
+      "index": 793,
+      "exponent": 255,
+      "degree_contribution": 12240,
+      "source_word": "K",
+      "source_term_position": 71
+    },
+    {
+      "kind": "rectangle",
+      "n": 103,
+      "q": 1,
+      "a": 0,
+      "b": 0,
+      "trace_degree": 51,
+      "index": 859,
+      "exponent": 225,
+      "degree_contribution": 11475,
+      "source_word": "K",
+      "source_term_position": 72
+    }
+  ],
+  "actual_endpoint_factor": "X-2",
+  "original_exponents_retained_without_mod480": true,
+  "actual_q_not_residue": true,
+  "costs": {
+    "endpoint_exponent": 211,
+    "nonzero_terms": 138,
+    "cofactor_trace_degree": 6519984,
+    "original_trace_degree": 6520358,
+    "original_reciprocal_degree": 13040716
+  },
+  "full_trace_factor_multiplicities": [
+    {
+      "order": 3,
+      "multiplicity": 4
+    },
+    {
+      "order": 5,
+      "multiplicity": 6
+    },
+    {
+      "order": 7,
+      "multiplicity": 7411
+    },
+    {
+      "order": 9,
+      "multiplicity": 8
+    },
+    {
+      "order": 11,
+      "multiplicity": 6183
+    },
+    {
+      "order": 13,
+      "multiplicity": 2940
+    },
+    {
+      "order": 15,
+      "multiplicity": 4
+    },
+    {
+      "order": 17,
+      "multiplicity": 3002
+    },
+    {
+      "order": 19,
+      "multiplicity": 2790
+    },
+    {
+      "order": 21,
+      "multiplicity": 4080
+    },
+    {
+      "order": 23,
+      "multiplicity": 3375
+    },
+    {
+      "order": 29,
+      "multiplicity": 990
+    },
+    {
+      "order": 31,
+      "multiplicity": 1245
+    },
+    {
+      "order": 33,
+      "multiplicity": 2865
+    },
+    {
+      "order": 35,
+      "multiplicity": 3480
+    },
+    {
+      "order": 37,
+      "multiplicity": 540
+    },
+    {
+      "order": 39,
+      "multiplicity": 1710
+    },
+    {
+      "order": 41,
+      "multiplicity": 1155
+    },
+    {
+      "order": 43,
+      "multiplicity": 705
+    },
+    {
+      "order": 47,
+      "multiplicity": 285
+    },
+    {
+      "order": 49,
+      "multiplicity": 900
+    },
+    {
+      "order": 51,
+      "multiplicity": 2430
+    },
+    {
+      "order": 53,
+      "multiplicity": 315
+    },
+    {
+      "order": 55,
+      "multiplicity": 2880
+    },
+    {
+      "order": 57,
+      "multiplicity": 1335
+    },
+    {
+      "order": 59,
+      "multiplicity": 705
+    },
+    {
+      "order": 61,
+      "multiplicity": 510
+    },
+    {
+      "order": 63,
+      "multiplicity": 2910
+    },
+    {
+      "order": 65,
+      "multiplicity": 645
+    },
+    {
+      "order": 69,
+      "multiplicity": 2475
+    },
+    {
+      "order": 71,
+      "multiplicity": 480
+    },
+    {
+      "order": 73,
+      "multiplicity": 285
+    },
+    {
+      "order": 77,
+      "multiplicity": 480
+    },
+    {
+      "order": 79,
+      "multiplicity": 255
+    },
+    {
+      "order": 83,
+      "multiplicity": 225
+    },
+    {
+      "order": 85,
+      "multiplicity": 510
+    },
+    {
+      "order": 87,
+      "multiplicity": 825
+    },
+    {
+      "order": 89,
+      "multiplicity": 255
+    },
+    {
+      "order": 91,
+      "multiplicity": 30
+    },
+    {
+      "order": 93,
+      "multiplicity": 990
+    },
+    {
+      "order": 95,
+      "multiplicity": 870
+    },
+    {
+      "order": 97,
+      "multiplicity": 255
+    },
+    {
+      "order": 99,
+      "multiplicity": 2145
+    },
+    {
+      "order": 103,
+      "multiplicity": 450
+    },
+    {
+      "order": 105,
+      "multiplicity": 2175
+    },
+    {
+      "order": 111,
+      "multiplicity": 450
+    },
+    {
+      "order": 115,
+      "multiplicity": 225
+    },
+    {
+      "order": 117,
+      "multiplicity": 1260
+    },
+    {
+      "order": 123,
+      "multiplicity": 450
+    },
+    {
+      "order": 153,
+      "multiplicity": 1455
+    },
+    {
+      "order": 165,
+      "multiplicity": 945
+    },
+    {
+      "order": 171,
+      "multiplicity": 1020
+    },
+    {
+      "order": 175,
+      "multiplicity": 1695
+    },
+    {
+      "order": 187,
+      "multiplicity": 2
+    },
+    {
+      "order": 189,
+      "multiplicity": 1290
+    },
+    {
+      "order": 207,
+      "multiplicity": 1800
+    },
+    {
+      "order": 255,
+      "multiplicity": 510
+    },
+    {
+      "order": 261,
+      "multiplicity": 315
+    },
+    {
+      "order": 275,
+      "multiplicity": 1425
+    },
+    {
+      "order": 279,
+      "multiplicity": 705
+    },
+    {
+      "order": 297,
+      "multiplicity": 1110
+    },
+    {
+      "order": 315,
+      "multiplicity": 1350
+    },
+    {
+      "order": 325,
+      "multiplicity": 480
+    },
+    {
+      "order": 351,
+      "multiplicity": 1110
+    },
+    {
+      "order": 459,
+      "multiplicity": 1440
+    },
+    {
+      "order": 475,
+      "multiplicity": 30
+    },
+    {
+      "order": 495,
+      "multiplicity": 435
+    },
+    {
+      "order": 513,
+      "multiplicity": 885
+    },
+    {
+      "order": 525,
+      "multiplicity": 750
+    },
+    {
+      "order": 567,
+      "multiplicity": 540
+    },
+    {
+      "order": 621,
+      "multiplicity": 1155
+    },
+    {
+      "order": 783,
+      "multiplicity": 60
+    },
+    {
+      "order": 837,
+      "multiplicity": 480
+    },
+    {
+      "order": 875,
+      "multiplicity": 240
+    },
+    {
+      "order": 891,
+      "multiplicity": 630
+    },
+    {
+      "order": 945,
+      "multiplicity": 480
+    },
+    {
+      "order": 960,
+      "multiplicity": 1
+    },
+    {
+      "order": 1053,
+      "multiplicity": 510
+    },
+    {
+      "order": 1375,
+      "multiplicity": 840
+    },
+    {
+      "order": 1377,
+      "multiplicity": 630
+    },
+    {
+      "order": 1485,
+      "multiplicity": 30
+    },
+    {
+      "order": 1539,
+      "multiplicity": 300
+    },
+    {
+      "order": 1575,
+      "multiplicity": 480
+    },
+    {
+      "order": 1863,
+      "multiplicity": 450
+    },
+    {
+      "order": 2511,
+      "multiplicity": 480
+    },
+    {
+      "order": 6875,
+      "multiplicity": 480
+    }
+  ],
+  "full_endpoint_trace_multiplicity": 215,
+  "full_reciprocal_cyclotomic_multiplicities": [
+    {
+      "order": 1,
+      "multiplicity": 430
+    },
+    {
+      "order": 3,
+      "multiplicity": 4
+    },
+    {
+      "order": 5,
+      "multiplicity": 6
+    },
+    {
+      "order": 7,
+      "multiplicity": 7411
+    },
+    {
+      "order": 9,
+      "multiplicity": 8
+    },
+    {
+      "order": 11,
+      "multiplicity": 6183
+    },
+    {
+      "order": 13,
+      "multiplicity": 2940
+    },
+    {
+      "order": 15,
+      "multiplicity": 4
+    },
+    {
+      "order": 17,
+      "multiplicity": 3002
+    },
+    {
+      "order": 19,
+      "multiplicity": 2790
+    },
+    {
+      "order": 21,
+      "multiplicity": 4080
+    },
+    {
+      "order": 23,
+      "multiplicity": 3375
+    },
+    {
+      "order": 29,
+      "multiplicity": 990
+    },
+    {
+      "order": 31,
+      "multiplicity": 1245
+    },
+    {
+      "order": 33,
+      "multiplicity": 2865
+    },
+    {
+      "order": 35,
+      "multiplicity": 3480
+    },
+    {
+      "order": 37,
+      "multiplicity": 540
+    },
+    {
+      "order": 39,
+      "multiplicity": 1710
+    },
+    {
+      "order": 41,
+      "multiplicity": 1155
+    },
+    {
+      "order": 43,
+      "multiplicity": 705
+    },
+    {
+      "order": 47,
+      "multiplicity": 285
+    },
+    {
+      "order": 49,
+      "multiplicity": 900
+    },
+    {
+      "order": 51,
+      "multiplicity": 2430
+    },
+    {
+      "order": 53,
+      "multiplicity": 315
+    },
+    {
+      "order": 55,
+      "multiplicity": 2880
+    },
+    {
+      "order": 57,
+      "multiplicity": 1335
+    },
+    {
+      "order": 59,
+      "multiplicity": 705
+    },
+    {
+      "order": 61,
+      "multiplicity": 510
+    },
+    {
+      "order": 63,
+      "multiplicity": 2910
+    },
+    {
+      "order": 65,
+      "multiplicity": 645
+    },
+    {
+      "order": 69,
+      "multiplicity": 2475
+    },
+    {
+      "order": 71,
+      "multiplicity": 480
+    },
+    {
+      "order": 73,
+      "multiplicity": 285
+    },
+    {
+      "order": 77,
+      "multiplicity": 480
+    },
+    {
+      "order": 79,
+      "multiplicity": 255
+    },
+    {
+      "order": 83,
+      "multiplicity": 225
+    },
+    {
+      "order": 85,
+      "multiplicity": 510
+    },
+    {
+      "order": 87,
+      "multiplicity": 825
+    },
+    {
+      "order": 89,
+      "multiplicity": 255
+    },
+    {
+      "order": 91,
+      "multiplicity": 30
+    },
+    {
+      "order": 93,
+      "multiplicity": 990
+    },
+    {
+      "order": 95,
+      "multiplicity": 870
+    },
+    {
+      "order": 97,
+      "multiplicity": 255
+    },
+    {
+      "order": 99,
+      "multiplicity": 2145
+    },
+    {
+      "order": 103,
+      "multiplicity": 450
+    },
+    {
+      "order": 105,
+      "multiplicity": 2175
+    },
+    {
+      "order": 111,
+      "multiplicity": 450
+    },
+    {
+      "order": 115,
+      "multiplicity": 225
+    },
+    {
+      "order": 117,
+      "multiplicity": 1260
+    },
+    {
+      "order": 123,
+      "multiplicity": 450
+    },
+    {
+      "order": 153,
+      "multiplicity": 1455
+    },
+    {
+      "order": 165,
+      "multiplicity": 945
+    },
+    {
+      "order": 171,
+      "multiplicity": 1020
+    },
+    {
+      "order": 175,
+      "multiplicity": 1695
+    },
+    {
+      "order": 187,
+      "multiplicity": 2
+    },
+    {
+      "order": 189,
+      "multiplicity": 1290
+    },
+    {
+      "order": 207,
+      "multiplicity": 1800
+    },
+    {
+      "order": 255,
+      "multiplicity": 510
+    },
+    {
+      "order": 261,
+      "multiplicity": 315
+    },
+    {
+      "order": 275,
+      "multiplicity": 1425
+    },
+    {
+      "order": 279,
+      "multiplicity": 705
+    },
+    {
+      "order": 297,
+      "multiplicity": 1110
+    },
+    {
+      "order": 315,
+      "multiplicity": 1350
+    },
+    {
+      "order": 325,
+      "multiplicity": 480
+    },
+    {
+      "order": 351,
+      "multiplicity": 1110
+    },
+    {
+      "order": 459,
+      "multiplicity": 1440
+    },
+    {
+      "order": 475,
+      "multiplicity": 30
+    },
+    {
+      "order": 495,
+      "multiplicity": 435
+    },
+    {
+      "order": 513,
+      "multiplicity": 885
+    },
+    {
+      "order": 525,
+      "multiplicity": 750
+    },
+    {
+      "order": 567,
+      "multiplicity": 540
+    },
+    {
+      "order": 621,
+      "multiplicity": 1155
+    },
+    {
+      "order": 783,
+      "multiplicity": 60
+    },
+    {
+      "order": 837,
+      "multiplicity": 480
+    },
+    {
+      "order": 875,
+      "multiplicity": 240
+    },
+    {
+      "order": 891,
+      "multiplicity": 630
+    },
+    {
+      "order": 945,
+      "multiplicity": 480
+    },
+    {
+      "order": 960,
+      "multiplicity": 1
+    },
+    {
+      "order": 1053,
+      "multiplicity": 510
+    },
+    {
+      "order": 1375,
+      "multiplicity": 840
+    },
+    {
+      "order": 1377,
+      "multiplicity": 630
+    },
+    {
+      "order": 1485,
+      "multiplicity": 30
+    },
+    {
+      "order": 1539,
+      "multiplicity": 300
+    },
+    {
+      "order": 1575,
+      "multiplicity": 480
+    },
+    {
+      "order": 1863,
+      "multiplicity": 450
+    },
+    {
+      "order": 2511,
+      "multiplicity": 480
+    },
+    {
+      "order": 6875,
+      "multiplicity": 480
+    }
+  ],
+  "maximal_global_binary_Frobenius_exponent": 1,
+  "original_mod8_diagnostic": "completed; exact first-eighth and both second-quarter failures retained",
+  "no_full_integer_word_expansion": true,
+  "no_other_word_or_profile": true,
+  "original_mod8_result": "mathematics/computations/outputs/Yin_J_G0132/endpoint_kernel_product_mod8.json",
+  "different_mod8_verification": "mathematics/computations/outputs/Yin_J_G0132/endpoint_kernel_product_mod8_verification.json"
+}

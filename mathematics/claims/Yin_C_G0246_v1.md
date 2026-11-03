@@ -1,0 +1,248 @@
+---
+author: Yin
+---
+
+# Complete integral and all-prime transfer of the published auxiliary constant
+
+This retains the complete original 2026-10-07 proof of [L69](../ledger/Yin_L_G0069_v1.md), including its subsequently added arbitrary-prime section.
+The original R21 dyadic-interface finding and later authorship/cross-checking remain separate; the published supremum margin is not recertified.
+
+## Statement
+
+Let alpha be any nonzero nontorsion algebraic integer of degree d, let a>=1 be an integer, beta=alpha^a, and suppose (beta-1)/2 is an algebraic integer.
+Use natural logarithms and absolute logarithmic Weil height, with h(alpha)=log M(P_alpha)/d and h(beta)=a h(alpha), even when beta has smaller degree.
+Accept only the published safely rounded evaluation c_0=0.427800=2139/5000 for the exact GIM+10 polynomial/expression below, at that source unit's recorded statement-level numerical-input boundary.
+Then
+
+    h(beta)>=c_0,
+    log M(P_alpha)>=c_0 d/a.
+
+No exclusion of a factor t-1 in P_alpha mod2, unit condition, odd-coefficient completion or power-degree preservation is needed for this dyadic integral-input statement.
+The complete local proof checks integrality/nonvanishing and the exact source-expression normalization, rather than assuming identity with the source's original factor/degree hypotheses.
+
+For g, the seven full integer factors and exponents are displayed in the retained proof:
+
+    (k,l,t,w,c,e,s)=(3977,780,328,96,24,16,16),
+    D=deg g=6005,
+    A=2k+l+4t+8w+3c+8e+12s=11206.
+
+Their values at beta^2 have respective divisibility floors 4,2,16,256,8,256,4096, so g(beta^2)/2^A is integral.
+All auxiliary roots lie on the unit circle, by the complete quadratic/quartic/sextic trace-root checks; Kronecker proves nonvanishing for the stated integral nontorsion domain.
+If L is the exact nonnegative circle polynomial maximum displayed in the proof, the independently retained exact expression is
+
+    h(beta)>=[(2A-D)log 2-log L]/(4D)
+            =[16407 log 2-log L]/24020.
+
+The published numerical evaluation 0.4278003111... and its rounded c_0 are accepted external data for this expression; no source code, exact interval certificate, fresh maximization or independent numerical-margin audit is asserted.
+The exact expression remains available without that numerical adoption.
+
+For the arbitrary-prime consequence impose the algebraic-unit hypothesis.
+If any rational prime p and nonzero scalar residue c satisfy (beta-c)/p integral in the number field, then h(beta)>=c_0 and m(P_alpha)>=(d/a)c_0.
+The representative of c is immaterial; divisibility in Z[alpha] is sufficient but not required.
+For p=2 use the preceding transfer.
+For p=3 the exact degree 10 auxiliary F_epsilon(t)=(t-epsilon)^9(t+epsilon), epsilon in {1,-1}, has C(F_epsilon)=2^10 3^9/10^5 and proves
+
+    h(beta)>=log(sqrt(10)/2)>3/7>c_0.
+
+For p>=5 a balanced representative proves
+
+    h(beta)>=log[p/(1+abs(c))]>=log[2p/(p+1)]
+            >=log(5/3)>1/2>c_0.
+
+The strict comparisons are exact rational/integral inequalities, without another numerical source input.
+Hence any fixed budget a<=Cd in this class gives m(P_alpha)>=c_0/C, with no bounded-prime or powered-degree condition.
+Squarefree complete reduced-root collapse supplies the stronger power-order congruence via C244; no equivalence with mere maximal-order integrality, full small-Mahler coverage or unrestricted gap is claimed.
+
+## Current assessment
+[Selected decision](#decision-complete-retained-proof-adoption)
+
+## Assessment history
+
+### Decision retained-registration
+
+| Field | Value |
+| --- | --- |
+| date | 2026-10-21T05:01 |
+| status | open |
+| reason | Register the entire original proof with all exact domains, costs and source/evidence limits; actual current full review and adoption follow separately. No registration itself supplies independent review, new research, original-source proof audit or numerical certification. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| statement | [Full exact statement](#statement) | Dyadic nonunit integral-input transfer, exact source-expression alternative, arbitrary-prime unit scalar consequence, precise external numerical acceptance and all exponent/order/degree limits. |
+| argument | [Entire retained proof](#argument) | All seven literal divisibility identities and weights, complete auxiliary nonvanishing, circle/height normalization, p3 exact maximum and rational comparisons, balanced p>=5 proof and original-degree conclusion. |
+| dependency | [Accepted published calculation](../audits/literature/GIM+10/Yin_U001.md#gim%2B10-u001) | Only the displayed seven-factor polynomial/expression and safely rounded 0.427800 evaluation at the original printed373--375 scope; numerical margin is external, not independently certified or currently-best. |
+| dependency | [Integral norm/height interface](../audits/literature/Sam07/Yin_U001.md#sam07-u001) | Retained complete direct integral specialization, all original embeddings, classical Kronecker and height normalization; no general local-approximation or algebraic-coefficient proof audit. |
+| support | [Exact root/matrix/power-order congruence](Yin_C_G0244_v1.md#scalar-collapse-root-matrix-interface) | Squarefree full reduced-root collapse implies divisibility in the actual power order, which implies the weaker field-integrality condition; no converse is asserted. |
+
+
+### Decision complete-retained-proof-adoption
+
+| Field | Value |
+| --- | --- |
+| date | 2026-10-21T05:05 |
+| status | proved |
+| reason | Adopt the entire dyadic integral transfer and subsequent all-prime unit proof after actual full current self-review of all seven factor identities, weights, auxiliary nonvanishing, circle/height normalization and exact odd-prime estimates. The safely rounded0.427800 remains precisely the accepted external published evaluation, not a recertified numerical margin; R21 retains its original staged inputs and no new independent review is claimed. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| statement | [Statement](#statement) | Dyadic nonunit integral-input transfer, exact source-expression alternative, arbitrary-prime unit scalar consequence, precise external numerical acceptance and all exponent/order/degree limits. |
+| argument | [Argument](#argument) | All seven literal divisibility identities and weights, complete auxiliary nonvanishing, circle/height normalization, p3 exact maximum and rational comparisons, balanced p>=5 proof and original-degree conclusion. |
+| dependency | [Dependency](../audits/literature/GIM+10/Yin_U001.md#gim%2B10-u001) | Only the displayed seven-factor polynomial/expression and safely rounded 0.427800 evaluation at the original printed373--375 scope; numerical margin is external, not independently certified or currently-best. |
+| dependency | [Dependency](../audits/literature/Sam07/Yin_U001.md#sam07-u001) | Retained complete direct integral specialization, all original embeddings, classical Kronecker and height normalization; no general local-approximation or algebraic-coefficient proof audit. |
+| support | [Support](Yin_C_G0244_v1.md#scalar-collapse-root-matrix-interface) | Squarefree full reduced-root collapse implies divisibility in the actual power order, which implies the weaker field-integrality condition; no converse is asserted. |
+| review | [Actual complete current self-review](../audits/reviews/Yin_R_G0522_v1.md#current-published-transfer-finding) | Entire current statement, complete retained argument and every selected interface, self-reviewed; historical findings stay tied to the original inputs and exact stages. |
+
+## Complete retained argument
+
+<a id="argument"></a>
+
+All original mathematical sections and local equation numbers are retained in full.
+Only heading depth and established current responsible proof locators change.
+
+<a id="gim+10-integral-congruence-transfer"></a>
+### Transfer domain, without an odd-completion degree loss
+
+Let alpha be a nonzero nontorsion algebraic integer of degree d, let a>=1 be an integer, and assume `(alpha^a-1)/2` is integral.
+Put beta=alpha^a.
+Use natural logarithms and the absolute logarithmic Weil height; in particular h(alpha)=log M(P_alpha)/d and h(beta)=a h(alpha).
+The claim obtained from the inspected source calculation is
+
+    h(beta)>=0.427800,
+    log M(P_alpha)>=0.427800 d/a.                     (1)
+
+This does not require P_alpha mod2 to avoid t-1, nor preservation of degree under any power.
+We do not deduce it by constructing an odd-coefficient multiple: such a construction can need a larger degree.
+Instead we check the exact proof interface.
+
+The source auxiliary is
+
+    g(z)=(z-1)^k(z+1)^l(5z^2+6z+5)^t
+         (29z^4+60z^3+78z^2+60z+29)^w
+         (3z^2+2z+3)^c
+         (33z^4+60z^3+70z^2+60z+33)^e
+         (169z^6+490z^5+871z^4+1036z^3+871z^2+490z+169)^s,
+
+    (k,l,t,w,c,e,s)=(3977,780,328,96,24,16,16).
+
+Write D=deg g=k+l+2t+4w+2c+4e+6s=6005 and A=2k+l+4t+8w+3c+8e+12s=11206.
+Since beta-1 is divisible by2, u=beta^2-1 is divisible by4.
+The seven factors of g(beta^2) are divisible by `4,2,16,256,8,256,4096`, respectively.
+For the quartics, use
+
+    a u^4 + 16 b beta^2 u^2 + 256 beta^4,
+    (a,b)=(29,11) or (33,12).
+
+For the sextic, use
+
+    169u^6+16*94 beta^2 u^4+256*17 beta^4 u^2+4096 beta^6.
+
+The quadratic identities are `5u^2+16 beta^2` and `3u^2+8 beta^2`.
+These are literal polynomial identities, so `g(beta^2)/2^A` is integral.
+No probabilistic independence or coprimality between factors is needed.
+
+<a id="gim+10-auxiliary-nonvanishing"></a>
+### Direct nonvanishing check for integral inputs
+
+Each auxiliary factor has all its roots on the unit circle.
+For the two quadratics this follows from reciprocal trace values -6/5 and -2/3.
+The quartic trace polynomials are
+
+    29x^2+60x+20,          33x^2+60x+4,
+
+whose two roots are in (-2,2).
+The sextic trace polynomial is
+
+    169x^3+490x^2+364x+56.
+
+At x=-2,-1,-1/2,0 its values are respectively `-64,13,-197/8,56`, so all three roots lie in (-2,0).
+The standard reciprocal substitution z+z^(-1)=x now proves the unit-circle claim.
+If g(beta^2)=0, the minimal polynomial of the algebraic integer beta^2 divides g, so all its conjugates have modulus1.
+Kronecker makes beta, and then alpha, torsion, a contradiction.
+This replaces the source's degree-based irreducibility/nonvanishing argument only for our integral domain.
+It does not upgrade its claim for arbitrary algebraic numbers.
+
+<a id="gim+10-external-constant"></a>
+### The retained external calculation
+
+On the unit circle, `||g||^2=2^D L`, where
+
+    L=max_{-1<=x<=1} (1-x)^k(1+x)^l(5x+3)^(2t)
+      (29x^2+30x+5)^(2w)(3x+1)^(2c)
+      (33x^2+30x+1)^(2e)(169x^3+245x^2+91x+7)^(2s).
+
+The nonzero norm argument, or the product formula, gives
+
+    h(beta)>=[(2A-D)log2-log L]/(4D).                  (2)
+
+This is precisely source equation(3.5), with `2A-D=16407`.
+The source reports a numerical supremum computation producing `0.4278003111...` and states the safely rounded theorem value `0.427800`.
+Adoption of that latter rational number in(1) relies on the published evaluation as an external input.
+No exact interval certificate, original computation code, fresh supremum calculation or independent audit of that numerical margin has been obtained in this bounded inspection.
+The exact expression(2) remains available independently of that numerical acceptance.
+Since h(alpha^a)=a h(alpha), (1) then follows with the original degree d.
+
+<a id="gim+10-arbitrary-prime-scalar-transfer"></a>
+### The same published constant covers scalar congruences at every prime
+
+Return to the primary algebraic-unit domain.
+Let alpha be a nontorsion algebraic unit of degree d, let beta=alpha^a, and suppose that, for some rational prime p and a nonzero scalar residue c,
+
+    (beta-c)/p is integral.                          (3)
+
+The integer representative chosen for c does not affect this condition.
+It may be divisibility in Z[alpha], or merely integrality of this quotient in the number field.
+Put c_0=0.427800=2139/5000.
+Then the transferred statement is
+
+    h(beta)>=c_0,
+    m(P_alpha)>=(d/a)c_0.                            (4)
+
+For p=2 the only nonzero residue is 1, so (4) is exactly (1).
+The other primes are covered by elementary norm estimates strictly stronger than c_0, without adopting any further numerical source calculation.
+
+For p=3 choose epsilon in {1,-1} representing c and set
+
+    F_epsilon(t)=(t-epsilon)^9(t+epsilon),
+    deg F_epsilon=10.
+
+The value is nonzero because beta is not a root of unity, and F_epsilon(beta)/3^9 is integral.
+Taking the norm over Q(alpha), with all d embeddings retained, gives the lower bound 3^(9d).
+The exact unit-circle supremum, the same for both signs, is
+
+    C(F_epsilon)=2^10 3^9/10^5.
+
+Indeed for epsilon=1 and t=exp(2iu), the squared modulus is 2^20 x^9(1-x), where x=sin^2 u.
+Its maximum occurs at x=9/10.
+The change t -> -t proves the other sign.
+Applying the circle bound inside and outside the unit disk, then multiplying over the embeddings, yields
+
+    3^(9d)<=C(F_epsilon)^d M(P_alpha)^(10a),
+    h(beta)>=log(sqrt(10)/2).                        (5)
+
+This constant exceeds c_0 by an exact rational comparison.
+The identity (log x)/2=integral_0^((x-1)/(x+1)) dt/(1-t^2) for x>1 gives
+
+    log(sqrt(10)/2)=log(5/2)/2
+       >3/7>2139/5000.
+
+For p>=5 choose a balanced representative with 1<=|c|<=(p-1)/2.
+The value beta-c is nonzero: if a rational integer were equal to the unit beta it would be 1 or -1, contrary to nontorsion.
+Its nonzero norm is therefore at least p^d, whereas
+
+    |Norm(beta-c)|<=(1+|c|)^d M(P_alpha)^a.
+
+Consequently
+
+    h(beta)>=log[p/(1+|c|)]
+       >=log[2p/(p+1)]>=log(5/3)>1/2>c_0.           (6)
+
+The strict inequality log(5/3)>1/2 follows from the same integral formula, now with (x-1)/(x+1)=1/4.
+Equations (1), (5) and (6) prove (4) for every prime.
+In particular, if a<=Cd for a fixed C>0, the scalar-congruence class has the uniform bound
+
+    m(P_alpha)>=0.427800/C.                          (7)
+
+No bounded-prime hypothesis or power-degree guard is used.
+The separate [scalar-congruence norm proof](Yin_C_G0244_v1.md#scalar-collapse-root-matrix-interface) shows how squarefree full reduced-root collision implies the stronger order congruence beta-c in p Z[alpha], equivalent to its displayed companion-matrix and polynomial-divisibility conditions.
+That stronger condition implies (3); no equivalence with mere maximal-order integrality is asserted here.
+This paragraph proves a restricted-class bound, not coverage of the small-Mahler core by exponents a<=Cd.

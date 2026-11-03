@@ -1,0 +1,47 @@
+{
+  "original_u": [
+    -2,
+    -1,
+    1,
+    2
+  ],
+  "original_v": [
+    -2,
+    -1,
+    1,
+    2
+  ],
+  "original_s": [
+    -1,
+    1
+  ],
+  "denominator": 3,
+  "representatives": [
+    [
+      1,
+      2,
+      -1
+    ],
+    [
+      -1,
+      2,
+      -1
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      -2,
+      1,
+      1
+    ]
+  ],
+  "remaining_degree": 5,
+  "limits": {
+    "per_case_seconds": 15,
+    "whole_pass_seconds": 60,
+    "output_bytes": 67108864
+  }
+}

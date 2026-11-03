@@ -1,0 +1,8 @@
+{
+  "polynomial_ascending": [1, -1, -1, -1, 1],
+  "root_input": "mathematics/computations/programs/Yin_J_G0118/inputs.json",
+  "pair_input": "mathematics/computations/outputs/Yin_J_G0121/certificate.json",
+  "source_columns": [-1, 0, 1],
+  "expected_lambda_zero_pairs_per_order": 147,
+  "output_limit_bytes": 2097152
+}

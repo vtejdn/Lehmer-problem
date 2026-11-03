@@ -1,0 +1,104 @@
+\section{Overall progress}\label{sec:scope}
+
+The investigation has one common objective: decide whether positive total logarithmic Mahler measures of integer polynomials are separated from zero.
+The four strategies below address that objective through different structures.
+Their intermediate achievements must be compared with the same unrestricted quantifiers.
+
+\begin{definition}\label{sec:formulations}
+For a nonzero integer polynomial $P(t)=a_d\prod_{i=1}^d(t-\alpha_i)$, its Mahler measure and logarithmic Mahler measure are
+\begin{equation}\label{fo:mahler}
+ M(P)=|a_d|\prod_{i=1}^d\max\{1,|\alpha_i|\},\qquad m(P)=\log M(P).
+\end{equation}
+Roots are counted with multiplicity, and logarithms are natural.
+\end{definition}
+We use the usual convention of \citet[\S1]{Smy08}.
+The target is to determine whether
+\begin{equation}\label{fo:gap}
+ \mathfrak L=\inf\{m(P):P\in\Z[t]\setminus\{0\},\ m(P)>0\}
+\end{equation}
+is positive or zero, with degree and coefficient size unrestricted.
+Here $m(P)$ is total measure, not the degree-normalized height $m(P)/d$.
+The investigation remains mathematically unresolved and is presently paused after the completed finite norm-one comparison.
+
+The strongest general arithmetic change is that positive auxiliary surplus is available on every nontorsion algebraic unit.
+To state it, for $F(t)=\sum_jf_jt^j\ne0$ put
+\[
+ S_2(F)=\Bigl(\sum_jf_j^2\Bigr)^{1/2},\qquad
+ S_1(F)=\sum_j|f_j|,\qquad \rho(F)=S_1(F)^2/S_2(F)^2.
+\]
+These are norms of the complete coefficient vector.
+A nontorsion algebraic unit is an algebraic integer with integral inverse which is not a root of unity.
+
+\begin{theorem}\label{ar:uniform-auxiliary}
+Let $P\in\Z[t]$ be monic and irreducible of degree $d$, with constant term $\pm1$ and no root of unity, and let $\alpha_1,\ldots,\alpha_d$ be all its roots.
+There are a primitive nonconstant $F\in\Z[t]$, integers $r\ge1$ and $0\le j<2d$ such that
+\begin{align}
+ \deg F&\le2d-1,&
+ F(\alpha_i)&=2^r\alpha_i^j\quad(1\le i\le d),\notag\\
+ |\Res(P,F)|&=2^{rd},&
+ \log(2^r)-\log S_2(F)&\ge\log(2/\sqrt3),\qquad \rho(F)\le2d.
+ \label{ar:dyadic-output}
+\end{align}
+Allowing an arbitrary positive integer $Q$ instead of a power of two, the surplus can be at least $\frac12\log2$.
+\end{theorem}
+
+The proof in Section~\ref{ar:auxiliary} uses a finite rational projection, integer rounding and primitive normalization.
+This theorem separates existence of positive surplus from the remaining cost of using that surplus at all conjugates.
+Signed aggregation gives a square-root degree bound on the latter cost, but the unrestricted problem requires a useful input-uniform estimate.
+The exact finite comparisons show that genuine unit directions can improve optimized monomial baselines; they do not establish varying-input coverage.
+
+Table~\ref{ov:routes} summarizes the four strategies.
+The subsequent sections explain their results, proof mechanisms and unresolved interfaces.
+Two subsidiary strategies sit inside algebraic entropy, one inside linear-group growth, and one inside arithmetic.
+
+\begin{table}[htbp]
+\centering\small
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{.18\textwidth}
+ >{\raggedright\arraybackslash}p{.37\textwidth}
+ >{\raggedright\arraybackslash}p{.37\textwidth}@{}}
+\toprule
+Strategy & Principal established progress & Remaining interface\\
+\midrule
+Algebraic entropy
+& Rational primary decomposition; the quantitative Shannon comparison
+and conditional critical Fourier regularity; complete costs for two
+integer completion families.
+& A uniform orbit constraint or a finite-capture mechanism that survives
+unbounded complexity.\\[5pt]
+Linear-group growth
+& The original Lehmer return core is infinite; stationary laws have a
+necessary diffusion scale; paid block certificates and Gaussian
+comparison losses have precise fixed-input bounds.
+& Control of the complete original weighted law, especially neutral
+coordinates, uniformly over varying small-measure inputs.\\[5pt]
+Group determinants
+& An exact scalar return for square Laurent weak isomorphisms; full
+companion and coupling costs are retained in integer constructions.
+& A useful completion or operator estimate with every extra scalar
+factor and its full cost controlled.\\[5pt]
+Arithmetic
+& Uniform positive auxiliary surplus, a signed bundle inequality and
+square-root projection cost; five exact finite optima and two strict
+unit-only improvements.
+& Uniform aggregate correlation control, or same-exponent linear
+cyclic-norm income, on all sufficiently small-measure inputs.\\
+\bottomrule
+\end{tabular}
+\caption{Progress and the missing uniformity in each strategy.
+Conditional statements and finite certificates retain their stated hypotheses and domains.}
+\label{ov:routes}
+\end{table}
+
+\paragraph{What the current results decide.}\label{sec:outlook}
+The original degree-ten return-core theorem concerns one fixed input.
+The block-certificate bounds concern a specified way of obtaining a lower covariance bound.
+The completion theorems cover specified complete families of integer matrices.
+The five finite optima concern explicitly retained direction lists; the sixth enlarged optimum remains uncertified.
+These distinct scopes do not prove a positive value of $\mathfrak L$ or construct positive measures tending to zero.
+
+\paragraph{Proof and review scope.}
+The report gives complete elementary reductions and the principal arithmetic arguments, and explicitly identifies outlines of longer adopted proofs.
+Results have recorded reviews of their actual inputs, with self-review and separately organized AI review distinguished.
+This report does not assert independent human certification, formal verification or novelty for every intermediate argument.
+Mathematical sources are cited where used.
+The standalone exact-arithmetic supplement verifies the finite comparison, including the retained failed dual; its success does not certify an optimum beyond those finite families.

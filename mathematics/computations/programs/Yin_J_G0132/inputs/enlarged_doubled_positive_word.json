@@ -1,0 +1,629 @@
+{
+  "terms": [
+    {
+      "family": "B",
+      "n": 7,
+      "exponent": 75,
+      "degree_contribution": 225
+    },
+    {
+      "family": "Gamma",
+      "n": 7,
+      "exponent": 210,
+      "degree_contribution": 1890
+    },
+    {
+      "family": "B",
+      "n": 11,
+      "exponent": 105,
+      "degree_contribution": 525
+    },
+    {
+      "family": "Gamma",
+      "n": 11,
+      "exponent": 90,
+      "degree_contribution": 1350
+    },
+    {
+      "family": "B",
+      "n": 13,
+      "exponent": 120,
+      "degree_contribution": 720
+    },
+    {
+      "family": "Gamma",
+      "n": 13,
+      "exponent": 210,
+      "degree_contribution": 3780
+    },
+    {
+      "family": "B",
+      "n": 17,
+      "exponent": 120,
+      "degree_contribution": 960
+    },
+    {
+      "family": "Gamma",
+      "n": 17,
+      "exponent": 165,
+      "degree_contribution": 3960
+    },
+    {
+      "family": "B",
+      "n": 19,
+      "exponent": 60,
+      "degree_contribution": 540
+    },
+    {
+      "family": "Gamma",
+      "n": 19,
+      "exponent": 105,
+      "degree_contribution": 2835
+    },
+    {
+      "family": "B",
+      "n": 23,
+      "exponent": 180,
+      "degree_contribution": 1980
+    },
+    {
+      "family": "Gamma",
+      "n": 23,
+      "exponent": 180,
+      "degree_contribution": 5940
+    },
+    {
+      "family": "B",
+      "n": 29,
+      "exponent": 75,
+      "degree_contribution": 1050
+    },
+    {
+      "family": "Gamma",
+      "n": 29,
+      "exponent": 30,
+      "degree_contribution": 1260
+    },
+    {
+      "family": "B",
+      "n": 31,
+      "exponent": 60,
+      "degree_contribution": 900
+    },
+    {
+      "family": "Gamma",
+      "n": 31,
+      "exponent": 210,
+      "degree_contribution": 9450
+    },
+    {
+      "family": "B",
+      "n": 37,
+      "exponent": 180,
+      "degree_contribution": 3240
+    },
+    {
+      "family": "B",
+      "n": 41,
+      "exponent": 15,
+      "degree_contribution": 300
+    },
+    {
+      "family": "Gamma",
+      "n": 41,
+      "exponent": 30,
+      "degree_contribution": 1800
+    },
+    {
+      "family": "B",
+      "n": 47,
+      "exponent": 30,
+      "degree_contribution": 690
+    },
+    {
+      "family": "Gamma",
+      "n": 47,
+      "exponent": 225,
+      "degree_contribution": 15525
+    },
+    {
+      "family": "B",
+      "n": 49,
+      "exponent": 225,
+      "degree_contribution": 5400
+    },
+    {
+      "family": "B",
+      "n": 53,
+      "exponent": 210,
+      "degree_contribution": 5460
+    },
+    {
+      "family": "Gamma",
+      "n": 53,
+      "exponent": 225,
+      "degree_contribution": 17550
+    },
+    {
+      "family": "B",
+      "n": 59,
+      "exponent": 225,
+      "degree_contribution": 6525
+    },
+    {
+      "family": "Gamma",
+      "n": 59,
+      "exponent": 15,
+      "degree_contribution": 1305
+    },
+    {
+      "family": "B",
+      "n": 61,
+      "exponent": 225,
+      "degree_contribution": 6750
+    },
+    {
+      "family": "B",
+      "n": 67,
+      "exponent": 30,
+      "degree_contribution": 990
+    },
+    {
+      "family": "B",
+      "n": 71,
+      "exponent": 15,
+      "degree_contribution": 525
+    },
+    {
+      "family": "B",
+      "n": 73,
+      "exponent": 225,
+      "degree_contribution": 8100
+    },
+    {
+      "family": "B",
+      "n": 77,
+      "exponent": 30,
+      "degree_contribution": 1140
+    }
+  ],
+  "cofactor_degree": 112665,
+  "cofactor_trace_factor_multiplicities": [
+    {
+      "order": 7,
+      "multiplicity": 540
+    },
+    {
+      "order": 11,
+      "multiplicity": 225
+    },
+    {
+      "order": 13,
+      "multiplicity": 330
+    },
+    {
+      "order": 17,
+      "multiplicity": 285
+    },
+    {
+      "order": 19,
+      "multiplicity": 165
+    },
+    {
+      "order": 21,
+      "multiplicity": 210
+    },
+    {
+      "order": 23,
+      "multiplicity": 360
+    },
+    {
+      "order": 29,
+      "multiplicity": 105
+    },
+    {
+      "order": 31,
+      "multiplicity": 270
+    },
+    {
+      "order": 33,
+      "multiplicity": 90
+    },
+    {
+      "order": 37,
+      "multiplicity": 180
+    },
+    {
+      "order": 39,
+      "multiplicity": 210
+    },
+    {
+      "order": 41,
+      "multiplicity": 45
+    },
+    {
+      "order": 47,
+      "multiplicity": 255
+    },
+    {
+      "order": 49,
+      "multiplicity": 225
+    },
+    {
+      "order": 51,
+      "multiplicity": 165
+    },
+    {
+      "order": 53,
+      "multiplicity": 435
+    },
+    {
+      "order": 57,
+      "multiplicity": 105
+    },
+    {
+      "order": 59,
+      "multiplicity": 240
+    },
+    {
+      "order": 61,
+      "multiplicity": 225
+    },
+    {
+      "order": 67,
+      "multiplicity": 30
+    },
+    {
+      "order": 69,
+      "multiplicity": 180
+    },
+    {
+      "order": 71,
+      "multiplicity": 15
+    },
+    {
+      "order": 73,
+      "multiplicity": 225
+    },
+    {
+      "order": 77,
+      "multiplicity": 30
+    },
+    {
+      "order": 87,
+      "multiplicity": 30
+    },
+    {
+      "order": 93,
+      "multiplicity": 210
+    },
+    {
+      "order": 123,
+      "multiplicity": 30
+    },
+    {
+      "order": 141,
+      "multiplicity": 225
+    },
+    {
+      "order": 159,
+      "multiplicity": 225
+    },
+    {
+      "order": 177,
+      "multiplicity": 15
+    }
+  ],
+  "complete_reciprocal_cyclotomic_multiplicities": [
+    {
+      "order": 1,
+      "multiplicity": 8
+    },
+    {
+      "order": 3,
+      "multiplicity": 4
+    },
+    {
+      "order": 5,
+      "multiplicity": 6
+    },
+    {
+      "order": 7,
+      "multiplicity": 540
+    },
+    {
+      "order": 9,
+      "multiplicity": 8
+    },
+    {
+      "order": 11,
+      "multiplicity": 227
+    },
+    {
+      "order": 13,
+      "multiplicity": 330
+    },
+    {
+      "order": 15,
+      "multiplicity": 4
+    },
+    {
+      "order": 17,
+      "multiplicity": 287
+    },
+    {
+      "order": 19,
+      "multiplicity": 165
+    },
+    {
+      "order": 21,
+      "multiplicity": 210
+    },
+    {
+      "order": 23,
+      "multiplicity": 360
+    },
+    {
+      "order": 29,
+      "multiplicity": 105
+    },
+    {
+      "order": 31,
+      "multiplicity": 270
+    },
+    {
+      "order": 33,
+      "multiplicity": 90
+    },
+    {
+      "order": 37,
+      "multiplicity": 180
+    },
+    {
+      "order": 39,
+      "multiplicity": 210
+    },
+    {
+      "order": 41,
+      "multiplicity": 45
+    },
+    {
+      "order": 47,
+      "multiplicity": 255
+    },
+    {
+      "order": 49,
+      "multiplicity": 225
+    },
+    {
+      "order": 51,
+      "multiplicity": 165
+    },
+    {
+      "order": 53,
+      "multiplicity": 435
+    },
+    {
+      "order": 57,
+      "multiplicity": 105
+    },
+    {
+      "order": 59,
+      "multiplicity": 240
+    },
+    {
+      "order": 61,
+      "multiplicity": 225
+    },
+    {
+      "order": 67,
+      "multiplicity": 30
+    },
+    {
+      "order": 69,
+      "multiplicity": 180
+    },
+    {
+      "order": 71,
+      "multiplicity": 15
+    },
+    {
+      "order": 73,
+      "multiplicity": 225
+    },
+    {
+      "order": 77,
+      "multiplicity": 30
+    },
+    {
+      "order": 87,
+      "multiplicity": 30
+    },
+    {
+      "order": 93,
+      "multiplicity": 210
+    },
+    {
+      "order": 123,
+      "multiplicity": 30
+    },
+    {
+      "order": 141,
+      "multiplicity": 225
+    },
+    {
+      "order": 159,
+      "multiplicity": 225
+    },
+    {
+      "order": 177,
+      "multiplicity": 15
+    },
+    {
+      "order": 187,
+      "multiplicity": 2
+    },
+    {
+      "order": 960,
+      "multiplicity": 1
+    }
+  ],
+  "binary_endpoint_exponent": 4,
+  "complete_binary_odd_order_exponents": [
+    {
+      "odd_order": 3,
+      "exponent": 4
+    },
+    {
+      "odd_order": 5,
+      "exponent": 6
+    },
+    {
+      "odd_order": 7,
+      "exponent": 540
+    },
+    {
+      "odd_order": 9,
+      "exponent": 8
+    },
+    {
+      "odd_order": 11,
+      "exponent": 227
+    },
+    {
+      "odd_order": 13,
+      "exponent": 330
+    },
+    {
+      "odd_order": 15,
+      "exponent": 36
+    },
+    {
+      "odd_order": 17,
+      "exponent": 287
+    },
+    {
+      "odd_order": 19,
+      "exponent": 165
+    },
+    {
+      "odd_order": 21,
+      "exponent": 210
+    },
+    {
+      "odd_order": 23,
+      "exponent": 360
+    },
+    {
+      "odd_order": 29,
+      "exponent": 105
+    },
+    {
+      "odd_order": 31,
+      "exponent": 270
+    },
+    {
+      "odd_order": 33,
+      "exponent": 90
+    },
+    {
+      "odd_order": 37,
+      "exponent": 180
+    },
+    {
+      "odd_order": 39,
+      "exponent": 210
+    },
+    {
+      "odd_order": 41,
+      "exponent": 45
+    },
+    {
+      "odd_order": 47,
+      "exponent": 255
+    },
+    {
+      "odd_order": 49,
+      "exponent": 225
+    },
+    {
+      "odd_order": 51,
+      "exponent": 165
+    },
+    {
+      "odd_order": 53,
+      "exponent": 435
+    },
+    {
+      "odd_order": 57,
+      "exponent": 105
+    },
+    {
+      "odd_order": 59,
+      "exponent": 240
+    },
+    {
+      "odd_order": 61,
+      "exponent": 225
+    },
+    {
+      "odd_order": 67,
+      "exponent": 30
+    },
+    {
+      "odd_order": 69,
+      "exponent": 180
+    },
+    {
+      "odd_order": 71,
+      "exponent": 15
+    },
+    {
+      "odd_order": 73,
+      "exponent": 225
+    },
+    {
+      "odd_order": 77,
+      "exponent": 30
+    },
+    {
+      "odd_order": 87,
+      "exponent": 30
+    },
+    {
+      "odd_order": 93,
+      "exponent": 210
+    },
+    {
+      "odd_order": 123,
+      "exponent": 30
+    },
+    {
+      "odd_order": 141,
+      "exponent": 225
+    },
+    {
+      "odd_order": 159,
+      "exponent": 225
+    },
+    {
+      "odd_order": 177,
+      "exponent": 15
+    },
+    {
+      "odd_order": 187,
+      "exponent": 2
+    }
+  ],
+  "maximal_binary_Frobenius_exponent": 1,
+  "full_binary_radical_degree": 801,
+  "original_trace_degree": 113039,
+  "original_reciprocal_degree": 226078,
+  "first_gate_only": true,
+  "second_gate_not_tested": true,
+  "input_scope": "one exact31-term enlarged doubled F4 word; no second residual verdict",
+  "actual_base": "F15^4 F960 H0^2, H0=(X-2)^2 F3^2 F5^3 F9^4 B187",
+  "actual_single_F960": true,
+  "target_bits": 19232663035708480,
+  "source_certificate": "mathematics/computations/outputs/Yin_J_G0132/enlarged_doubled_gate_group.json"
+}

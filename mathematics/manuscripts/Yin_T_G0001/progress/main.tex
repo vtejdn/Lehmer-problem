@@ -1,0 +1,69 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=27mm]{geometry}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{microtype,enumitem,booktabs,longtable,array}
+\usepackage[numbers,sort&compress]{natbib}
+\usepackage{xurl,xcolor}
+\usepackage[colorlinks=true,linkcolor=blue!45!black,citecolor=blue!45!black,urlcolor=blue!45!black]{hyperref}
+\newcommand{\R}{\mathbb R}
+\newcommand{\C}{\mathbb C}
+\newcommand{\Q}{\mathbb Q}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\N}{\mathbb N}
+\newcommand{\E}{\mathbb E}
+\newcommand{\Prob}{\mathbb P}
+\DeclareMathOperator{\Var}{Var}
+\DeclareMathOperator{\Cov}{Cov}
+\DeclareMathOperator{\Tr}{Tr}
+\DeclareMathOperator{\Norm}{Norm}
+\DeclareMathOperator{\supp}{supp}
+\DeclareMathOperator{\Res}{Res}
+\DeclareMathOperator{\diag}{diag}
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator{\Vol}{Vol}
+\DeclareMathOperator{\dist}{dist}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{question}[theorem]{Question}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+\numberwithin{equation}{section}
+\setlist{topsep=5pt,itemsep=3pt}
+\setlength{\emergencystretch}{2em}
+\setcounter{tocdepth}{2}
+\hypersetup{pdftitle={Lehmer's problem: progress across four research strategies},pdfauthor={Research progress report},pdfsubject={Strategy-structured report dated 11 October 2026; mathematics through the completed finite comparison}}
+\title{Lehmer's problem:\protect\\ progress across four research strategies\protect\\[6pt]\large A mathematical progress report}
+\author{}
+\date{11 October 2026}
+\begin{document}
+\maketitle
+\begin{abstract}
+We summarize progress on the unrestricted positive-gap problem for logarithmic Mahler measure through algebraic entropy, linear-group growth, group determinants and arithmetic.
+Integer auxiliaries of degree linear in the input degree have a uniform positive arithmetic surplus; their remaining correlation cost is not uniformly controlled.
+Exact finite certificates show improvements using directions of norm one.
+Parallel results describe original return laws, conditional Fourier regularity and the full costs of integer completions.
+Neither a positive universal gap nor a zero-gap family has been established.
+\end{abstract}
+\newpage
+\tableofcontents
+\newpage
+\input{sections/overview}
+\clearpage
+\input{sections/entropy}
+\input{sections/growth}
+\input{sections/determinants}
+\input{sections/arithmetic}
+\bibliographystyle{plainnat}
+\begingroup
+\small
+\raggedright
+\bibliography{references}
+\endgroup
+\end{document}

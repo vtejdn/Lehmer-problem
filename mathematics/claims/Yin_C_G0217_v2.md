@@ -1,0 +1,276 @@
+---
+author: Yin
+---
+
+# Frobenius orbit-minor transfers, bounded-length gaps and restricted rational capture
+
+This retains the complete original 2026-10-06 [L12](../ledger/Yin_L_G0012_v1.md) argument, at its classical attribution and actual source depth.
+The bounded-length conclusion is already known in Mig78; no novelty, general uniform gap or Task resumption is asserted.
+
+## Statement
+
+Let p in Z[t] be monic irreducible noncyclotomic of positive degree d, with p(0) nonzero, and let ell be any prime.
+Set S=norm(p)_1, let A be its integer companion, and retain all d powered conjugates in Q_ell.
+Then D_ell=det p(A^ell) is nonzero and divisible by ell^d, with every sign and multiplicity in formula(1), and
+
+    m(p)>=log(ell/S)/ell.
+
+For each positive finite fixed S0, choosing one prime ell>S0 gives a positive lower bound log(ell/S0)/ell for every p with S<=S0.
+In particular S<=5 gives log(13/5)/13; the sharper attributed Mig78 bound log(2)/(2S) has its stated Bertrand input.
+For the exact orbit Gram G_N, the actual long-window coefficient matrix E_ell at N=(ell+1)d satisfies formulas(4)–(5), including every q=0 residue block and exact coefficient-Gram expense.
+At the short window N=2d−1, the powered-difference columns have common factor ell and formula(6) cancels the full ell^(2d) gain before Hadamard; retaining only integer nonvanishing yields no improvement over G_N>=1.
+The separate root-pair estimate gives b_d(ell)=(log ell−d log2)/(ell+1), whose positive range and every finite prime-product weighted average are bounded above by 1/(e 2^d).
+For every rational endomorphism of an arbitrary-dimensional Q-vector space with finite entropy, if all occurring positive-weight monic primitive primary factors have one uniform positive finite coefficient-length bound S0, the full entropy is carried by a finite-dimensional invariant rational subspace and attained by a finite set.
+Nonmonic primitive factors pay at least log2; zero-weight components may have arbitrary dimension and zero entropy uses F={0}.
+No unrestricted finite attainment, general abelian primary decomposition, coefficient-height-only gap, all-methods obstruction or degree-independent conclusion for unbounded coefficient length follows.
+
+## Current assessment
+[Selected decision](#decision-complete-retained-proof-adoption)
+
+## Assessment history
+
+### Decision retained-registration
+
+| Field | Value |
+| --- | --- |
+| date | 2026-10-21T02:44 |
+| status | open |
+| reason | Register the exact retained statement and complete argument; actual current statement-and-proof checking and adoption follow separately. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| statement | [Statement](#statement) | Every monic integer irreducible noncyclotomic p with nonzero constant and every prime ell; all stated degree, window, coefficient-norm and bounded-primary rational-flow quantifiers, including zero entropy. |
+| argument | [Argument](#argument) | Complete original Sections1–6 and formulas1–7: signed powered-conjugate resultant, fixed-length lower bound, actual long-window minors/residue blocks, exact short-window cancellation, optimized pairwise loss and restricted finite capture. |
+| dependency | [Corrected powered-conjugate input](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Full original multiplicities and nonzero resultant; the companion proof here also derives the exact divisibility. |
+| dependency | [Mig78 exact source scope](../audits/literature/Mig78/Yin_U001.md#mig78-u001) | Existing Proposition5/Lemma1 identification; Bertrand remains accepted externally for the sharper stated source constant. The fixed-prime local proof does not need its interval bound. |
+| dependency | [Rational primary entropy and finite realization](Yin_C_G0205_v1.md#rational-primary-formula) | Exact finite-entropy rational endomorphism formula and finite-dimensional realization, with nonmonic primitive leading-coefficient costs retained. |
+| dependency | [Actual orbit Gram certificate](Yin_C_G0209_v1.md#gram-lower-certificate) | Complete actual maximal-minor Gram identity, not a generic matrix certificate. |
+| dependency | [Integer actual-orbit notation](Yin_C_G0215_v1.md#integer-orbit-constraints) | Integer companion columns and actual maximal minors; no sufficient determinant lower bound imported. |
+
+
+### Decision complete-retained-proof-adoption
+
+| Field | Value |
+| --- | --- |
+| date | 2026-10-21T02:46 |
+| status | proved |
+| reason | Adopt the complete revised fixed-prime, orbit-minor and restricted-capture theorem after actual whole self-review; the coefficient bound is explicitly positive, classical attribution/source limits remain, and no unrestricted uniform conclusion follows. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| statement | [Statement](#statement) | Every monic integer irreducible noncyclotomic p with nonzero constant and every prime ell; all stated degree, window, coefficient-norm and bounded-primary rational-flow quantifiers, including zero entropy. S0 is positive and finite. |
+| argument | [Argument](#argument) | Complete original Sections1–6 and formulas1–7: signed powered-conjugate resultant, fixed-length lower bound, actual long-window minors/residue blocks, exact short-window cancellation, optimized pairwise loss and restricted finite capture. |
+| dependency | [Corrected powered-conjugate input](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Full original multiplicities and nonzero resultant; the companion proof here also derives the exact divisibility. |
+| dependency | [Mig78 exact source scope](../audits/literature/Mig78/Yin_U001.md#mig78-u001) | Existing Proposition5/Lemma1 identification; Bertrand remains accepted externally for the sharper stated source constant. The fixed-prime local proof does not need its interval bound. |
+| dependency | [Rational primary entropy and finite realization](Yin_C_G0205_v1.md#rational-primary-formula) | Exact finite-entropy rational endomorphism formula and finite-dimensional realization, with nonmonic primitive leading-coefficient costs retained. |
+| dependency | [Actual orbit Gram certificate](Yin_C_G0209_v1.md#gram-lower-certificate) | Complete actual maximal-minor Gram identity, not a generic matrix certificate. |
+| dependency | [Integer actual-orbit notation](Yin_C_G0215_v1.md#integer-orbit-constraints) | Integer companion columns and actual maximal minors; no sufficient determinant lower bound imported. |
+| review | [Complete current Frobenius finding](../audits/reviews/Yin_R_G0508_v1.md#current-frobenius-minor-finding) | Actual entire v2 statement and argument inspection, including positive-S0 clarification and every actual-window/source/finite-rational boundary; self-reviewed. |
+
+## Complete retained argument
+
+<a id="argument"></a>
+
+## 1. The same resultant, with multiplicity and the correct sign
+
+Let \(p(t)=\sum_{r=0}^d a_rt^r\in\mathbb Z[t]\) be monic irreducible, with nonzero constant coefficient, and not cyclotomic.
+The unit hypothesis \(a_0=\pm1\) can be retained for the Task but is not needed in this section.
+Let \(\alpha_i\) be its conjugate roots, \(A\) its integral companion matrix, and \(\ell\) a prime.
+Define
+\[
+Q_\ell(z)=\prod_{i=1}^d(z-\alpha_i^\ell).
+\]
+The source input retains all \(d\) factors, including coincidences.
+Equivalently,
+\[
+Q_\ell=P_{\alpha^\ell}^{[\mathbb Q(\alpha):\mathbb Q(\alpha^\ell)]}.
+\]
+Replacing it by the minimal polynomial without that exponent can destroy the \(\ell^d\) divisibility.
+
+Since the powers of \(A\) commute, Frobenius modulo \(\ell\) gives
+\[
+p(A^\ell)\equiv p(A)^\ell=0\pmod\ell.
+\]
+Thus \(B_\ell=p(A^\ell)/\ell\) is an integer matrix.
+Its determinant satisfies
+\[
+D_\ell:=\det p(A^\ell)
+=\prod_i p(\alpha_i^\ell)
+=\operatorname{Res}(p(t),p(t^\ell))
+=\operatorname{Res}(Q_\ell,p)
+=(-1)^d\operatorname{Res}(p,Q_\ell). \tag{1}
+\]
+The last sign is the interchange sign for two degree-\(d\) polynomials.
+It is positive in the even-degree reciprocal core, but need not be silently omitted in the general domain stated here.
+
+The determinant is nonzero.
+A zero would give \(\alpha_i^\ell=\alpha_j\) for two conjugates.
+A Galois automorphism of the normal closure sending \(\alpha_i\) to \(\alpha_j\), iterated through its finite order, would give \(\alpha_i^{\ell^k-1}=1\).
+That contradicts irreducibility and noncyclotomicity.
+Consequently
+\[
+0\ne D_\ell\in\ell^d\mathbb Z,\qquad |D_\ell|\ge\ell^d,\qquad
+0\ne\det B_\ell\in\mathbb Z. \tag{2}
+\]
+This is the audited Frobenius resultant interface in an actual companion-matrix representation, not an independent new source theorem.
+
+<a id="bounded-length-gap"></a>
+## 2. A positive restricted conclusion from coefficient length
+
+Put \(S=\|p\|_1=\sum_r|a_r|\).
+For each conjugate,
+\[
+|p(\alpha_i^\ell)|\le S\max(1,|\alpha_i|)^{\ell d}.
+\]
+Multiplication over \(i\), together with (2), yields
+\[
+\ell^d\le |D_\ell|\le S^d M(p)^{\ell d},
+\qquad
+m(p)\ge\frac{\log(\ell/S)}{\ell}. \tag{3}
+\]
+Thus for every fixed finite \(S_0\), choosing one prime \(\ell>S_0\) gives a positive degree-independent lower bound throughout the family \(S\le S_0\).
+For example,
+\[
+S\le5\quad\Longrightarrow\quad m(p)\ge\frac{\log(13/5)}{13}>0.
+\]
+This is a restricted closure, not merely a failed estimate.
+The fixed coefficient-length family \(t^{2r}-4t^r+1\) has \(S=6\), consistently with its constant entropy in C214.
+
+**Known-result identification.** The coordinator followed the existing Smy08 Section 5.4 report to the already retained Mig78.
+[Proposition 5 and its proof](../audits/literature/Mig78/Yin_U001.md#proposition-5-length), printed 39-04 / PDF p.5, were freshly read and visually checked.
+They use this same prime-norm argument and state the explicit bound \(m(p)\ge\log(2)/(2S)\), choosing a prime between \(2S\) and \(4S\).
+The original prime-existence input is the standard Bertrand theorem, not newly proved here.
+This is a verified attribution of the bounded-length mechanism; equation (3)'s fixed-prime proof above is complete without that interval theorem.
+The local entropy and Gram deductions below remain separately proved, and no novelty is asserted for them.
+
+The full reciprocal-unit core has no bound on \(S\).
+A bound on the individual coefficient height alone does not bound \(S\) independently of degree.
+In particular (3) does not settle Lehmer.
+Any hypothetical sequence of positive measures tending to zero must have \(S\to\infty\); this necessary condition follows by applying (3) for each fixed \(S_0\).
+No new assertion about the existence of such a sequence is made.
+
+## 3. The direct long-window orbit-minor interface
+
+Let \(v_j=A^je_0\), and let \(V_N\) have these columns for \(0\le j<N\).
+Choose
+\[
+N=(\ell+1)d.
+\]
+Let \(E_\ell\) be the integer \(N\times d\) matrix whose \(j\)-th column is the coefficient vector of \(t^j p(t^\ell)\), \(0\le j<d\), padded with zeros.
+Its largest possible exponent is \(\ell d+d-1=N-1\).
+Reduction modulo \(p\) gives the exact matrix identity
+\[
+V_NE_\ell=p(A^\ell).
+\]
+Applying Cauchy--Binet and then Cauchy--Schwarz to the maximal minors gives
+\[
+|D_\ell|^2
+\le\left(\sum_{|I|=d}\det(V_N[:,I])^2\right)
+     \left(\sum_{|I|=d}\det(E_\ell[I,:])^2\right)
+=G_N\det(E_\ell^{\mathsf T}E_\ell).
+\]
+Hence
+\[
+G_{(\ell+1)d}\det(E_\ell^{\mathsf T}E_\ell)\ge\ell^{2d}. \tag{4}
+\]
+This involves precisely the actual minors used in C215, not minors of a generic matrix.
+
+The coefficient cost is explicit.
+Write \(D_n(p)\) for the Gram determinant of the coefficient vectors of \(p,tp,\ldots,t^{n-1}p\), and \(D_0(p)=1\).
+If \(d=q\ell+s\), \(0\le s<\ell\), then
+\[
+\det(E_\ell^{\mathsf T}E_\ell)
+=D_{q+1}(p)^sD_q(p)^{\ell-s}. \tag{5}
+\]
+Indeed the columns with different indices modulo \(\ell\) have disjoint supports.
+Within one residue class, deleting the common residue and dividing exponents by \(\ell\) gives the usual shifted coefficient vectors of \(p\).
+There are \(s\) blocks of size \(q+1\) and \(\ell-s\) blocks of size \(q\), including empty blocks.
+
+For \(\ell\ge d\), (5) is \(\|p\|_2^{2d}\).
+In general Hadamard also gives the bound \(\det(E_\ell^{\mathsf T}E_\ell)\le\|p\|_2^{2d}\).
+The prime gain survives in (4), but at a window growing with \(\ell d\) and with this coefficient/Gram cost.
+No estimate making its resulting entropy certificate uniform over the full core was obtained.
+
+<a id="short-window-cancellation"></a>
+## 4. Why the most direct short-window transfer loses the prime factor
+
+The alternative source representation is \(F_\ell=Q_\ell-p=\ell R_\ell\), with \(R_\ell\in\mathbb Z[t]\), \(\deg R_\ell\le d-1\).
+It is nonzero because \(D_\ell\ne0\).
+At
+\[
+N=2d-1,
+\]
+form \(E_F\) from the coefficient columns \(t^jF_\ell\), \(0\le j<d\), and \(E_R=E_F/\ell\).
+The exponent bound is \(j+\deg F_\ell\le2d-2=N-1\).
+Thus
+\[
+V_NE_F=F_\ell(A)=Q_\ell(A),\qquad E_F=\ell E_R.
+\]
+Using the same maximal-minor inequality and \(|\det Q_\ell(A)|=|D_\ell|\) gives
+\[
+G_N\ge
+\frac{|\det R_\ell(A)|^2}{\det(E_R^{\mathsf T}E_R)}. \tag{6}
+\]
+All factors \(\ell^{2d}\) have canceled **before** any Hadamard bound.
+The \(d\) shifts of a nonzero polynomial are linearly independent, so \(\det(E_R^{\mathsf T}E_R)\) is a positive integer.
+Keeping only the known lower bound \(|\det R_\ell(A)|\ge1\) supplies \(1/\det(E_R^{\mathsf T}E_R)\le1\), no improvement on the existing \(G_N\ge1\).
+
+The cruder coefficient version exhibits the same cancellation:
+\[
+G_N\ge\frac{\ell^{2d}}{\|F_\ell\|_2^{2d}}
+=\|R_\ell\|_2^{-2d}\le1.
+\]
+This locates the missing information: a stronger comparison would have to retain a quantitatively large \(\det R_\ell(A)\), use a sharper joint collection of primes, or exploit the actual minor correlations.
+Merely repeating divisibility after dividing every column by \(\ell\) cannot do it.
+This is a limitation of this specific transfer, not of all resultant methods.
+
+## 5.
+The separate pairwise estimate and its exact loss
+
+For comparison, the root-by-root estimate is
+\[
+|D_\ell|=\prod_{i,j}|\alpha_i^\ell-\alpha_j|
+\le2^{d^2}M(p)^{d(\ell+1)}.
+\]
+Combined with (2), it yields only
+\[
+m(p)\ge b_d(\ell):=\frac{\log\ell-d\log2}{\ell+1}. \tag{7}
+\]
+This lower bound is positive only for \(\ell>2^d\).
+Put \(y=\ell/2^d>1\); then
+\[
+b_d(\ell)\le\frac{\log y}{2^d y}\le\frac1{e\,2^d}.
+\]
+Thus even optimizing the prime in this particular bound cannot produce a degree-independent positive constant.
+Multiplying these same separate upper and lower bounds over any finite nonempty multiset of primes gives the \((\ell+1)\)-weighted average of the numbers \(b_d(\ell)\), so it has the same obstruction.
+This does not address joint determinant estimates that remove some of the \(d^2\log2\) cost.
+
+<a id="restricted-rational-capture"></a>
+## 6. Return to the primary entropy route under the same restriction
+
+Use exactly the rational finite-entropy setting of [C205](Yin_C_G0205_v1.md#rational-primary-formula): a rational vector space \(V\) of arbitrary dimension, a rational linear endomorphism \(T\), and \(h(T)<\infty\).
+For each monic irreducible primary polynomial \(q\in\mathbb Q[t]\), write \(q_{\mathbb Z}\) for its primitive integral associate with positive leading coefficient, \(w_q=m(q_{\mathbb Z})\), and \(\ell_q\) for its positive-weight composition multiplicity.
+
+Assume there is one fixed positive finite \(S_0\) such that **every occurring positive-weight primary factor whose primitive integral associate is monic** satisfies \(\|q_{\mathbb Z}\|_1\le S_0\).
+Choose one prime \(\ell>S_0\) and put
+\[
+c=\frac{\log(\ell/S_0)}{\ell}>0,\qquad
+\eta=\min(c,\log2)>0.
+\]
+Equation (3) gives \(w_q\ge c\) for all these monic factors.
+If nonmonic primitive integral factors are also allowed, their positive integral leading coefficient is at least 2, so \(w_q\ge\log2\).
+Thus every positive weight is at least \(\eta\).
+The exact formula in C205 gives
+\[
+h(T)=\sum_{w_q>0}\ell_qw_q
+\ge\eta\sum_{w_q>0}\ell_q,\qquad
+\sum_{w_q>0}\ell_q\le h(T)/\eta<\infty.
+\]
+There are consequently only finitely many positive primary components, with finite total composition multiplicity.
+Their sum is a finite-dimensional invariant rational space carrying the entire entropy; C205's accepted finite-dimensional realization interface supplies a finite set \(F\) with \(H(T,F)=h(T)\).
+Zero-weight primary components may still have arbitrary dimension.
+When \(h(T)=0\), \(F=\{0\}\) suffices.
+
+This closes the indicated **bounded-coefficient-length class of rational flows**, not all finite-entropy flows.
+The full Task lacks the uniform \(S_0\) hypothesis.
+No bound on the entire group's rank, no general abelian primary decomposition, and no unrestricted finite-attainment theorem is inferred.

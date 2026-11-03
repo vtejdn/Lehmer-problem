@@ -1,0 +1,124 @@
+{
+  "rank": 7,
+  "strict_upper_values": [
+    0,
+    1
+  ],
+  "upper_positions": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "target_polynomials": {
+    "phi2_phi6_p4": [
+      1,
+      -1,
+      -1,
+      0,
+      0,
+      -1,
+      -1,
+      1
+    ],
+    "phi2_p6": [
+      1,
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      1
+    ]
+  },
+  "caps": {
+    "seconds": 300,
+    "worker_memory_bytes": 536870912,
+    "output_bytes": 67108864
+  },
+  "selection": "minimum strict-upper squared-entry energy; smallest mask tie-break",
+  "integer_domain_size": 2097152,
+  "coefficient_dtype": "int32",
+  "mask_dtype": "uint32"
+}

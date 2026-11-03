@@ -1,0 +1,421 @@
+\section{Algebraic entropy: uniform gaps and finite-set attainment}
+\label{sec:entropy}
+
+The algebraic-entropy strategy replaces the scalar question by a uniform gap for discrete abelian flows and by finite-set attainment.
+Its subsidiary directions seek additional control of actual power orbits through Fourier estimates, or a finite-capture mechanism through neutral completion and graph compression.
+Both directions must retain unrestricted group and rank.
+
+\begin{definition}\label{fo:algebraic-entropy}
+For an endomorphism $\phi$ of a discrete abelian group $G$ and a nonempty finite subset $F\subset G$, put
+\[
+ T_n(\phi,F)=F+\phi(F)+\cdots+\phi^{n-1}(F),\qquad
+ H(\phi,F)=\lim_{n\to\infty}\frac{\log|T_n(\phi,F)|}{n},
+\]
+and define $h_{\rm alg}(\phi)=\sup_F H(\phi,F)$.
+\end{definition}
+Subadditivity gives the limit.
+This is the finite-subset algebraic entropy of \citet{DGB16}; the sets $F$ need not be subgroups.
+
+\begin{proposition}\label{fo:entropy-bridge}
+The infimum of the positive values of this entropy over all abelian groups and endomorphisms equals~\eqref{fo:gap} \cite[Theorem~1.5]{DGB16}.
+\end{proposition}
+
+\begin{proposition}\label{fo:yuzvinski-formula}
+For a rational linear map $A$ on $\Q^d$, the rational algebraic Yuzvinski formula is
+\begin{equation}\label{fo:yuzvinski}
+ h_{\rm alg}(A)=m(\chi_{A,\Z}),
+\end{equation}
+where $\chi_{A,\Z}$ is the primitive integer associate, with positive leading coefficient, of the rational characteristic polynomial \cite[Theorem~4.17 in the consulted preprint]{GBV15}.
+\end{proposition}
+Clearing denominators contributes to Mahler measure; a sum over expanding archimedean eigenvalues alone would omit that contribution.
+
+The associated attainment question concerns a finite set in the same flow, rather than another flow with the same entropy value.
+\begin{proposition}\label{fo:attainment-implication}
+If $\mathfrak L>0$, every discrete abelian flow $(G,\phi)$ of finite algebraic entropy has a nonempty finite $F\subset G$ with $H(\phi,F)=h_{\rm alg}(\phi)$ \cite[Theorem~1.7]{DGB16}.
+\end{proposition}
+A direct construction explains the opposite obstruction without needing a description of the entire entropy spectrum: if positive Mahler measures tend to zero, choose distinct irreducible companion flows with summable positive entropies.
+Their direct sum has finite positive entropy, but every finite set lies in finitely many summands and misses a positive tail.
+The addition and directed-continuity properties used here are those of \citet{DGB16}.
+
+\begin{proposition}\label{fo:primary}
+Let a rational vector space $V$, with endomorphism $A$, have finite algebraic entropy.
+Regard $V$ as a $\Q[t]$-module by $t\cdot v=Av$.
+For every monic irreducible $p\in\Q[t]$, let
+\[
+ V_p=\{v:p(A)^jv=0\text{ for some }j\ge1\},\quad
+ d_p=\deg p,\quad w_p=m(p_{\Z}).
+\]
+Here $p_{\Z}$ is the primitive integer associate of $p$ with positive leading coefficient.
+Then $V=\bigoplus_pV_p$ and
+\begin{equation}\label{fo:primary-sum}
+ h_{\rm alg}(A)=\sum_{p:w_p>0}\ell_pw_p,
+ \qquad \ell_p=\dim_{\Q}(V_p)/d_p.
+\end{equation}
+Each positive-weight multiplicity is a finite integer.
+Finite-set attainment holds exactly when only finitely many positive-weight primary components occur.
+Zero-weight components may have infinite dimension.
+\end{proposition}
+\begin{proof}
+A vector with linearly independent forward iterates supports an integer shift, whose finite alphabets have arbitrarily large entropy.
+Monotonicity therefore makes every vector polynomially torsion.
+Bezout identities split each vector into the primary components of an annihilating polynomial.
+A finite set consequently generates a finite-dimensional invariant rational space.
+Formula~\eqref{fo:yuzvinski}, additivity and directed continuity yield~\eqref{fo:primary-sum}.
+An infinite positive-weight multiplicity would give infinite entropy.
+If only finitely many positive components occur, their finite-dimensional sum captures all the entropy and the finite-dimensional attainment theorem applies.
+Otherwise every finite set misses at least one positive component.
+\end{proof}
+
+The proposition rules out obtaining nonattainment merely by increasing Jordan lengths at one positive-weight polynomial.
+It does not exclude a summable family of distinct positive Mahler weights.
+That arithmetic question retains the difficulty of the original problem.
+
+
+\subsection{Finite-window Fourier budgets and actual transition amplitudes}
+\label{sec:fourier}
+
+This subsidiary strategy compares a complete finite-window Fourier contribution with the small entropy deficit already proved for the actual power-orbit law.
+The probability law must be specified before one can use that deficit; it is different from algebraic entropy.
+
+\begin{definition}\label{fo:binary-law}
+Let $\alpha\ne0$ be an algebraic integer, write $P$ for its minimal polynomial, $d=\deg P$ and $m=m(P)$, and let $\varepsilon_j$ be independent, each taking the values $0,1$ with probability $1/2$.
+Define
+\[
+ S_n=\sum_{j=0}^{n-1}\varepsilon_j\alpha^j,
+ \qquad \mu_n(x)=\Prob(S_n=x).
+\]
+For its finite distribution use the support, Shannon and collision entropies, in the standard R\'enyi conventions \cite[p.~1]{Li26},
+\[
+ H_0(n)=\log|\supp\mu_n|,\quad
+ H_1(n)=-\sum_x\mu_n(x)\log\mu_n(x),\quad
+ H_2(n)=-\log\sum_x\mu_n(x)^2.
+\]
+\end{definition}
+The limits $h_j=\lim_n H_j(n)/n$ exist by block subadditivity.
+These are entropies of one specified probability law, distinct from $h_{\rm alg}$.
+Let $\eta_j=\varepsilon_j-\varepsilon'_j$, where the primed family is an independent copy.
+The collision probability is an actual return probability:
+\begin{equation}\label{fo:collision-return}
+ p_n:=\sum_x\mu_n(x)^2
+ =\Prob\left(\sum_{j=0}^{n-1}\eta_j\alpha^j=0\right),
+ \qquad \Prob(\eta_j=-1,0,1)=(1/4,1/2,1/4).
+\end{equation}
+Thus $h_2=-\lim_n n^{-1}\log p_n$.
+Changing this original digit law or counting only selected return words changes the object whose rate must be controlled.
+
+\subsubsection{A quantitative baseline retained from the earlier work}
+\begin{theorem}\label{fo:convolution-comparison}
+For $k\ge1$, replace each digit by the sum of $k$ independent fair signs, and denote the Shannon rate by $h_1^{[k]}$.
+The following comparison holds for every nonzero algebraic integer, including those with unit-circle conjugates.
+Put
+\[
+ a=e^{2m}-1,\qquad C(m)=\frac{5a^2}{12}\bigl(1-(1+a)^{-2}\bigr).
+\]
+Then
+\begin{equation}\label{fo:convolution-rate}
+ 0\le m-h_1^{[k]}\le\frac{C(m)}{k^2},\qquad
+ h_1^{[k]}\nearrow m,\qquad
+ C(m)=\frac{20}{3}m^3+O(m^4)\quad(m\to0).
+\end{equation}
+\end{theorem}
+For $k=1$ this is the original binary Shannon rate.
+For clarity, the convolved digit distribution is not uniform on its alphabet.
+
+\begin{proof}[Proof outline]
+The mechanism behind the quantitative statement is as follows.
+Represent $1,\alpha,\ldots,\alpha^{n-1}$ in a rational power basis, with coefficient columns $v_j$, and let $W_{n-1}=\sum_{j<n-1}v_jv_j^T$.
+For $n>d$ the endpoint quantity $a_n=v_{n-1}^TW_{n-1}^{-1}v_{n-1}$ satisfies $a_n\ge e^{2m}-1$ by a finite Gram determinant and polynomial Jensen argument.
+Revealing the endpoint signs successively leaves the exact leverage values $a_n/(k+ra_n)$, $1\le r\le k$.
+For a fair-sign linear observation, the posterior second- and fourth-moment bounds give mutual information at least
+\[
+ F(\ell)=\frac\ell2+\frac{\ell^2(3-2\ell)^4}{324}.
+\]
+The chain rule therefore bounds each limiting rate below by $\sum_{r=1}^kF(a/(k+ra))$.
+Summing the resulting rational remainder estimate gives~\eqref{fo:convolution-rate}.
+Independent convolution increases entropy, while the norm-grid bound supplies the upper bound $m$.
+No limiting posterior distribution or hyperbolicity assumption is needed.
+\end{proof}
+
+\begin{remark}
+Closeness to the Mahler scale does not separate that scale from zero.
+Equation~\eqref{fo:convolution-rate} is compatible with both $m\to0$ and $h_1\to0$.
+A new entropy argument must produce an additional uniform constraint on the actual power-orbit law.
+Strictness at a finite time, or a generic posterior identity detached from that orbit, is insufficient.
+\end{remark}
+\subsubsection{A fixed-input transition obstruction}
+\label{fo:transition}
+
+The following result limits a particular single-multiplier Fourier construction.
+Fix a nontorsion algebraic unit $\alpha$ with minimal polynomial $P$ and at least one unit-circle conjugate.
+Put $K=\Q(\alpha)$ and let $\mathcal O_K$ be its ring of algebraic integers.
+For $\theta\in\mathcal O_K\setminus\{0\}$ and $j\in\Z$, define the stable, expanding and central weighted traces
+\[
+ u_j=\sum_{|\sigma(\alpha)|<1}\sigma(\theta)\sigma(\alpha)^j,\quad
+ v_j=\sum_{|\sigma(\alpha)|>1}\sigma(\theta)\sigma(\alpha)^j,\quad
+ w_j=\sum_{|\sigma(\alpha)|=1}\sigma(\theta)\sigma(\alpha)^j.
+\]
+Every embedding is counted, including both members of a complex pair, so these traces are real and $u_j+v_j+w_j$ is an integer.
+Call $J\ge0$ admissible if $|u_{J+r}|,|v_{-J-r}|\le1/16$ for every integer $r\ge1$.
+
+\begin{proposition}\label{fo:transition-collapse}
+For every sequence $\theta_n\in\mathcal O_K\setminus\{0\}$ whose central conjugates all tend to zero, and every sequence of admissible integers $J_n$, one has
+\[
+ \prod_{j=-J_n}^{-1}|\cos(2\pi v_j)|
+ \prod_{j=0}^{J_n}|\cos(2\pi(u_j+w_j))|
+ \longrightarrow0,
+\]
+where the traces in the $n$th product use $\theta_n$.
+No height bound on $\theta_n$ or prescribed growth of $J_n$ is required.
+\end{proposition}
+\begin{proof}[Proof outline]
+Suppose the products have a positive lower bound.
+Admissibility and the fixed Vandermonde matrices of the hyperbolic conjugates give uniformly square-summable tails.
+On the core, the inequality $-\log\cos(\pi x)\ge\pi^2x^2/2$ bounds the squared nearest-integer errors.
+Removing the vanishing central tail leaves a bounded $\ell^2(\Z)$ sequence.
+Its nonzero integer defect under the recurrence $P$ can be translated to the origin.
+A diagonal limit then gives a decaying response strictly inside the nearest-integer cube with a nonzero integer defect, contradicting the fixed-polynomial integer-defect rigidity used in the complete argument.
+The translation includes defects near the window boundary and does not require spatial tightness.
+\end{proof}
+This is a fixed-$P$ statement without an effective decay modulus.
+It leaves changed finite windows, jointly chosen multipliers and varying-input estimates as separate questions.
+
+\subsubsection{A conditional critical regularity theorem}
+\label{ret:fractional}
+
+Return to an algebraic unit $\alpha$ and put $\mathcal O=\Z[\alpha]$.
+For the original walk $X_0=0$, $X_{n+1}=\alpha X_n+\eta_n$, let $f_n$ be the complete first positive return probabilities and put
+\[
+ R=e^{h_2},\qquad U(t)=\sum_{n\geq0}p_nt^n
+       =\frac1{1-F(t)},\qquad F(t)=\sum_{n\geq1}f_nt^n.
+\]
+Identify the compact dual $\widehat{\mathcal O}=\operatorname{Hom}(\mathcal O,\R/\Z)$ with the $d$-torus using the integral power basis.
+Its Haar probability $H$ is normalized Lebesgue measure in these coordinates; this is the Pontryagin-dual convention used in \citet{DGB16}.
+On this group, write $(T\theta)(x)=\theta(\alpha x)$ and $w(\theta)=\cos^2(\pi\theta(1))$.
+The products $W_n=\prod_{j=0}^{n-1}w\circ T^j$ and $V_n=\prod_{j=1}^{n}w\circ T^{-j}$ both integrate to $p_n$.
+Under the additional hypothesis $U(R)<\infty$, define the probability densities
+\[
+ u_R=U(R)^{-1}\sum R^nW_n,\quad
+ v_R=U(R)^{-1}\sum R^nV_n,\quad C_R=u_R*v_R.
+\]
+The convolution is already in $L^1(H)$ by transience.
+
+\begin{theorem}\label{ret:critical-regularity}
+If, in addition,
+\begin{equation}\label{ret:fractional-premise}
+ \sum_{n\geq1} n^aR^np_n<\infty\qquad(0<a<1),
+\end{equation}
+then $C_R$ belongs to weak $L^{1/(1-a)}$ and to every strong $L^p$ with $1\leq p<1/(1-a)$.
+Weak $L^q$ means $\sup_{y>0}y^qH\{|C_R|>y\}<\infty$; the strong endpoint is not asserted.
+\end{theorem}
+\begin{proof}[Proof outline]
+For $\delta>0$, the complete Abel deficit $U(R)-U(Re^{-\delta})$ is $O(\delta^a)$, giving an $O(\delta^a)$ error in $L^1$ and an $O(\delta^{a-1})$ bound for the one-sided subcritical convolution.
+Balancing these estimates proves the distribution bound; dyadic differences give the $L^p$ approximation rate $O(\delta^{a-1+1/p})$.
+\end{proof}
+
+\begin{proposition}\label{ret:first-return-moment}
+Writing $\eta_R=1/U(R)$, the complete first-return moment is equivalent:
+\[
+ \sum n^aR^nf_n\ \leq\ \sum n^aR^np_n
+       \ \leq\ \eta_R^{-2}\sum n^aR^nf_n.
+\]
+\end{proposition}
+\begin{proof}
+The renewal identity gives $p_n\ge f_n$ and $U=\sum_{k\ge0}F^k$.
+Since $0<a<1$, $(n_1+\cdots+n_k)^a\le\sum_jn_j^a$.
+Applying this to each convolution coefficient bounds the complete moment by $\sum_{k\ge1}kF(R)^{k-1}\sum_n n^aR^nf_n$.
+Here $1-F(R)=\eta_R>0$, so the first sum is $\eta_R^{-2}$.
+\end{proof}
+
+These are conditional statements about the entire return law.
+Neither critical transience nor \eqref{ret:fractional-premise} is known here for an arbitrary infinite nontorsion core.
+The torsion control $\alpha^4=-1$ illustrates why the distinction matters: its critical convolution is unbounded but satisfies $\int e^{C_R/64}\,dH\leq4e^{17/32}$ and hence every finite $L^p$ bound.
+Infinite critical mean alone therefore does not imply poor finite-$p$ regularity, and finite-$p$ regularity alone does not resolve the gap.
+
+\paragraph{The remaining Fourier input.}
+A complete fractional return moment supplies the regularity just stated, but its existence on an arbitrary nontorsion infinite core remains an additional mathematical obligation.
+A useful finite-window witness must retain its frequency separation, multiplier and smoothing costs.
+In particular, varying the original input must not erase the uniform scale required by the gap question.
+
+\subsection{Neutral completion, graph compression and finite capture}
+\label{sec:structures}
+
+This subsidiary strategy asks whether an actual integer or graph construction can retain the original entropy while removing the unbounded complexity that prevents finite capture.
+A local neutral block is a possible building element; all connections to the rest of the construction must be paid.
+The following complete families make that distinction concrete and also inform the determinant strategy in Section~\ref{sec:determinants}.
+
+\subsubsection{A concrete presentation and its absolute companion}
+\label{str:conventions}
+
+\begin{definition}\label{str:proper-presentation}
+Let $V$ be an integral upper triangular matrix with every diagonal entry equal to one; we call this a proper presentation.
+Set
+\[
+ p_V(t)=\det(tV+V^T),\qquad
+ V^-_{ii}=1,\quad V^-_{ij}=-|V_{ij}|\quad(i<j).
+\]
+The logarithmic measure $m(p_V)$ uses every factor of this monic reciprocal polynomial.
+For later cost comparisons write $E(V)=\sum_{i<j}V_{ij}^2$ and $H(V)=\max_{i,j}|V_{ij}|$.
+\end{definition}
+The literal signed two-sheet construction $W(V)$ doubles the rank and is again integral upper triangular with diagonal one.
+To specify it, interlace two copies of each ordered vertex.
+Replace an entry $v=V_{ij}$ by the $2\times2$ block
+\[
+ \begin{pmatrix}(v-|v|)/2&-(v+|v|)/2\\
+                 -(v+|v|)/2&(v-|v|)/2\end{pmatrix}.
+\]
+\begin{proposition}\label{str:signed-cover}
+On the symmetric and antisymmetric subspaces this block acts by $-|v|$ and $v$, respectively.
+Thus
+\begin{equation}\label{str:cover}
+ p_{W(V)}=p_Vp_{V^-},\qquad
+ m(p_{W(V)})=m(p_V)+m(p_{V^-}),\qquad E(W(V))=2E(V).
+\end{equation}
+\end{proposition}
+The proposition follows by decomposing the two sheets into their symmetric and antisymmetric parts.
+The companion is a genuine extra expense.
+Neutral factors have zero Mahler measure but remain part of the matrix identity.
+
+\subsubsection{A family where every repeated local change has linear cost}
+\label{str:repeated}
+
+For $k\geq3$ use the ordered vertices
+\[
+ (a_0,b_0,c_0),\ldots,(a_{k-1},b_{k-1},c_{k-1}),
+ z_1,\ldots,z_k,a_k.
+\]
+Define $V_k$ by diagonal entries one, the diamond entries
+\[
+ V_k(a_i,b_i)=V_k(a_i,c_i)=V_k(b_i,a_{i+1})=-1,
+ \qquad V_k(c_i,a_{i+1})=1,
+\]
+the corner $V_k(a_0,a_k)=-1$, and entries $-1$ along $a_0,z_1,\ldots,z_k,a_k$.
+All remaining strict entries are zero.
+\begin{proposition}\label{str:base-family}
+This is a connected height-one presentation of rank $4k+1$ and energy $5k+2$.
+Its complete scalar is
+\begin{equation}\label{str:original}
+ p_{V_k}(t)=(t+1)^{k-1}(t-1)^{2k-2}F_k(t),\qquad
+ F_k(t)=\frac{t^{k+1}A(t)-A^*(t)}{t-1},
+\end{equation}
+where $A=t^4-4t^3-2t^2+1$ and $A^*=t^4-2t^2-4t+1$.
+The quotient is a polynomial identity, including $t=1$.
+The unique exterior root $\lambda_k$ of $F_k$ lies in $(4,5)$, and
+\begin{equation}\label{str:original-cost}
+ m(p_{V_k})=\log\lambda_k\in(\log4,\log5).
+\end{equation}
+\end{proposition}
+Thus the varying positive factor does not supply a sequence of measures tending to zero.
+
+Choose any subset $S\subseteq\{0,\ldots,k-1\}$.
+In each selected cell replace $(a_i,b_i,c_i)$ by $(b_i,c_i,a_i+b_i+c_i)$, using
+\[
+ Q_3=\begin{pmatrix}0&0&1\\1&0&1\\0&1&1\end{pmatrix}.
+\]
+The resulting block-diagonal determinant-one matrix $Q_S$ gives $X_{k,S}=Q_S^TV_kQ_S$.
+Every intercell and endpoint attachment is transformed along with the cell.
+The result is still an upper unitriangular integral matrix of the same rank, height and energy, with the entire scalar \eqref{str:original} unchanged.
+
+\begin{theorem}\label{str:uniform-cost}
+Uniformly over every subset $S$, including all cells and all growing cardinalities,
+\[
+ \frac{m(p_{X_{k,S}^-})}{k}\longrightarrow\log2,
+ \qquad
+ \frac{m(p_{W(X_{k,S})})}{k}\longrightarrow\log2.
+\]
+For every $k\geq3$ one also has $m(p_{X_{k,S}^-})\leq k\log2+\log(20k^2+4k)$.
+\end{theorem}
+
+The complete companion depends only on $|S|$.
+Eliminating the two middle vertices of a cell leaves the same matching recurrence
+\[
+ T_{-1}=0,\quad T_0=1,\quad T_1=(t-1)^2,\qquad
+ T_j=(t-1)^2T_{j-1}-4t^2T_{j-2}.
+\]
+Selection changes the two oriented cycle exponents, but not this bulk recurrence.
+Proving the theorem for a growing number of selected cells requires the full circle integral, rather than finitely many leading coefficients.
+On each circle $|t|=r>1$, the two recurrence roots have different moduli away from the real axis.
+Comparing the dominant root with all cycle terms, including possible exponential ties, gives the lower exponential rate.
+The negative logarithmic parts are uniformly integrable because, for any angular set of measure $\delta$, each linear factor contributes at most $\delta[1+\log(2/\delta)]$ to its negative integral.
+The exact Mahler integral \cite{Smy08} then pays the whole radial expense $(4k+1)\log r$ before $r$ decreases to one.
+This establishes all subset quantifiers; it does not establish optimality over other integer bases of the same congruence class.
+
+\subsubsection{Changing the bulk: neutral cells still have costly couplings}
+\label{str:changed}
+
+A different actual basis does change the recurrence.
+In every cell set
+\[
+ (u_i,r_i,w_i)=(c_i,a_i+b_i+c_i,-a_i-c_i),\qquad
+ R_3=\begin{pmatrix}0&1&-1\\0&1&0\\1&1&-1\end{pmatrix},
+ \quad\det R_3=1.
+\]
+Let $Y_k=Q^TV_kQ$ with these blocks and identity on the remaining vertices.
+Its internal block is $\left(\begin{smallmatrix}1&1&-1\\0&1&-1\\0&0&1\end{smallmatrix}\right)$; its adjacent block is $(1,0,-1)^T(0,1,-1)$.
+The transformed initial attachments have row $-(0,1,-1)$, the final attachment has column $(1,0,-1)^T$, and the $z$ path is unchanged.
+These specify all couplings.
+The matrix is proper, has height one, rank $4k+1$, and energy $8k+2$, paying an increase of $3k$.
+Its original polynomial remains \eqref{str:original}.
+
+Write $U_k=Y_k^-$.
+Each isolated absolute cell is
+\[
+ T_3=\begin{pmatrix}1&-1&-1\\0&1&-1\\0&0&1\end{pmatrix},
+ \qquad\det(tT_3+T_3^T)=(t+1)(t-1)^2.
+\]
+Although this cell is neutral, it does not split from its neighbors.
+Put $u=(1,0,1)^T$, $v=(0,1,1)^T$ and $B=tT_3+T_3^T$.
+The open $j$-cell pencil $K_j$ has diagonal blocks $B$, upper blocks $-tuv^T$ and lower blocks $-vu^T$.
+Its determinant is $(t+1)^jh_j$, where
+\begin{equation}\label{str:changed-recurrence}
+ h_0=1,\quad h_1=(t-1)^2,\qquad
+ h_j=(t^2-6t+1)h_{j-1}
+       -4t(2t+1)(t+2)h_{j-2}.
+\end{equation}
+This genuinely differs from the previous recurrence.
+The open chain, however, is not the complete companion.
+
+For an explicit closed formula put $C_j=\sum_{h=0}^jt^h$, $b=tC_{k-1}/C_k$, and let $f$ be $v$ in the first cell and zero in the others, while $g$ is $u$ in the last cell.
+Schur elimination of the whole endpoint path \cite[Appendix~A.5.5]{BV04} gives
+\begin{equation}\label{str:closed}
+ p_{U_k}=C_k\det
+ \begin{pmatrix}
+ K_k-bff^T&-tg-(t+t^{k+1}/C_k)f\\
+ -g^T-(1+1/C_k)f^T&t+1-b
+ \end{pmatrix}.
+\end{equation}
+This is a full polynomial identity after clearing denominators.
+Its factor $C_k$, corner terms, and exceptional denominator roots remain; no claim that the open determinant divides $p_{U_k}$ is used.
+
+\begin{proposition}\label{str:changed-cost}
+For every $k\geq3$,
+\[
+ \Tr(-U_k^{-1}U_k^T)=2^k+13k,\qquad
+ m(p_{U_k})\geq\log(2^k+9k+2)>k\log2.
+\]
+Moreover,
+\[
+ m(p_{U_k})\leq\tfrac12\bigl[(k-1)\log6+2\log7
+                   +(2k-1)\log8+2\log9+(k-1)\log10\bigr].
+\]
+The full cover adds $\log\lambda_k$ to these companion costs and has rank $8k+2$ and energy $16k+4$.
+\end{proposition}
+
+The trace identity counts every alternative increasing path between the endpoints of each existing edge.
+The long connections contribute the term $2^k$; omitting them would erase the obstruction.
+For a real monic reciprocal polynomial of odd degree $n$, remove one forced root $-1$ for the estimate and pair all other roots reciprocally.
+Their real trace is at most $n-4+2\cosh m$.
+With $n=4k+1$, the exact trace therefore gives $e^m\geq2^k+9k+2$.
+The upper bound follows from the complete support-degree histogram and Hadamard's inequality integrated on the unit circle.
+
+The useful conclusion is specific: this changed basis makes every isolated absolute cell neutral, yet its actual couplings still cost linearly in $k$.
+Neither this family nor the repeated-cell family optimizes over all proper integral bases, all completions, or all scalar targets.
+A new structural construction would have to control the full closed determinant and its attachments, while preserving the scalar return to the unrestricted Mahler problem.
+
+\paragraph{The remaining completion input.}
+A successful structural construction must retain the original scalar factor, all complementary factors, the integral realization and the chosen trace normalization.
+The repeated-cell results and the changed-basis example show that neutral local cells can retain a linear full coupling cost.
+They do not optimize over every integral change of basis or every possible completion.
+
+
+For finite-set attainment, Proposition~\ref{fo:primary} gives a useful test: lengthening one positive primary component does not create a finite-entropy nonattainment example.
+A completion mechanism must handle the actual unrestricted flow or supply a new quantitative restriction on distinct positive weights.

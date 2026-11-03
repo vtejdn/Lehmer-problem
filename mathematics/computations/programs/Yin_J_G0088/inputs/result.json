@@ -1,0 +1,431 @@
+{
+  "status": "complete",
+  "coefficients": [
+    1,
+    1,
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    0,
+    1,
+    1
+  ],
+  "d": 10,
+  "allowed_T": 10,
+  "N": 11,
+  "parameters": {
+    "ternary_coordinates": 10,
+    "first_nonzero": 1,
+    "k": [
+      -2,
+      -1,
+      0,
+      1,
+      2
+    ],
+    "coefficient_denominator_divides": 9,
+    "atom_energy_cap": 4,
+    "pivot_cap": 2000,
+    "reduced_cost_tolerance": 1e-09,
+    "pivot_tolerance": 1e-10,
+    "ratio_tie_tolerance": 1e-10
+  },
+  "generated_labels": 147631,
+  "distinct_atoms": 13197,
+  "initial_basis": [
+    9704,
+    9703,
+    10793,
+    12979,
+    9660,
+    12426,
+    12879,
+    3650,
+    10525,
+    8640,
+    8673
+  ],
+  "floating_lead": {
+    "pivot_count": 897,
+    "basis": [
+      9704,
+      9703,
+      10793,
+      12979,
+      9660,
+      12426,
+      12879,
+      3650,
+      10525,
+      8640,
+      8673
+    ],
+    "basis_weights": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "objective": 1.0,
+    "minimum_nonbasic_reduced_cost": -5.9392490925347374e-12,
+    "status": "candidate-only"
+  },
+  "outcome": "no-below-one-witness-returned",
+  "A_rows": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      -1
+    ]
+  ],
+  "packet": [
+    {
+      "atom_index": 9704,
+      "generator_label": {
+        "r": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "k": 1
+      },
+      "coefficients": [
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "weight": [
+        1,
+        1
+      ],
+      "integer_residue": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "numerator_coefficients": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "content": 1,
+      "signed_residue_norm": 1,
+      "signed_numerator_resultant": 1,
+      "multiplicity": 1,
+      "energy": [
+        1,
+        1
+      ],
+      "autocorrelations": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "energy": [
+    1,
+    1
+  ],
+  "all_lags": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "actual_coefficient_denominator": 1,
+  "actual_weight_denominator": 1,
+  "integer_numerator_energy_S": [
+    1,
+    1
+  ],
+  "actual_union_width": 0,
+  "copied_full_signed_product": {
+    "sign": 1,
+    "scalar_factor": [
+      1,
+      10
+    ],
+    "absolute_residue_factors": [
+      [
+        1,
+        1
+      ]
+    ]
+  },
+  "norm_income_formula": "log(q)+(1/d)*sum_b omega_b log(abs(D_b))",
+  "surplus_formula": "(1/d)*sum_b omega_b log(abs(D_b))-(1/2)*log(E)",
+  "expense_formula": "(actual_width/d)*m(P)",
+  "limits": "One exact finite packet only; floating discovery proves neither finite-family optimality nor full-capacity attainment, uniformity or gap."
+}

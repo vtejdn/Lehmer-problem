@@ -1,0 +1,11 @@
+{
+  "schema": "g106-input-v1",
+  "polynomial_ascending": [1, -1, -1, -1, 1],
+  "digits": [-1, 0, 1],
+  "integer_digit_weights": [1, 2, 1],
+  "n_values": [5, 6, 7, 8, 9, 10],
+  "b": 2,
+  "wall_seconds": 60,
+  "worker_memory_bytes": 536870912,
+  "author_output_bytes": 67108864
+}

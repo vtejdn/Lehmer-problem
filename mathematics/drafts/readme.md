@@ -74,3 +74,18 @@ Authored bodies are revised only by the established same human; another human re
 Substantive contributions use the responsible human's own numbered materials linked to the original under the [identity rule](../../framework/rules/identity.md).
 Tool capability does not authorize a substantive cross-author rewrite or taking over another human's Task/E.
 Received originals retain their separate provenance and feedback boundary.
+
+## Current working material
+
+| Draft | Question and scope |
+| --- | --- |
+| [Yin_D_G0001](Yin_D_G0001.md) | Positive arithmetic and the unresolved original-root logarithmic comparison |
+| [Yin_D_G0002](Yin_D_G0002.md) | Original count comparison and the remaining uniform sign-flow load |
+| [Yin_D_G0003](Yin_D_G0003.md) | Nontrivial five-adic trace-cluster cycles remain |
+| [Yin_D_G0004](Yin_D_G0004.md) | Original-degree contact layers and balanced prime separation |
+| [Yin_D_G0005](Yin_D_G0005.md) | Complete trace products satisfy the large dyadic positive-character and degree conditions |
+| [Yin_D_G0006](Yin_D_G0006.md) | Controlled characteristic-zero realization of the canonical trace system |
+| [Yin_D_G0007](Yin_D_G0007.md) | Sign complexity and total Mahler control in the copied height-one family |
+| [Yin_D_G0008](Yin_D_G0008.md) | Total Mahler control inside the actual primitive global-eight sign family |
+| [Yin_D_G0009](Yin_D_G0009.md) | Actual reciprocal log-harmonic payment and the remaining block-entropy gap |
+| [Yin_D_G0010](Yin_D_G0010.md) | Corrected local-phase development |

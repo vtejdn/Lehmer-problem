@@ -1,0 +1,324 @@
+\section{Linear-group growth and the affine Lehmer model}
+\label{sec:growth}
+
+The growth strategy seeks a gap at fixed matrix dimension, uniform over the subgroup and finite generating set.
+The affine model gives a concrete return to the scalar objective.
+Its subsidiary strategy studies all original orbit collisions and their complete weights.
+
+\begin{definition}\label{gr:word-growth}
+For a nonempty finite $S\subset GL_r(\C)$, let $S^n$ contain products of exactly $n$ elements and set
+\[
+ \rho(S)=\lim_{n\to\infty}\frac1n\log|S^n|.
+\]
+\end{definition}
+\begin{proposition}\label{gr:gap-equivalence}
+The inequality $\mathfrak L>0$ is equivalent to the following statement:
+for each fixed $r\ge1$ there is $\delta_r>0$ such that every nonempty finite $S\subset GL_r(\C)$ satisfies $\rho(S)=0$ or $\rho(S)\ge\delta_r$.
+\end{proposition}
+This equivalence uses the structural reduction of \citet[Theorem~4]{BV20}.
+For $\alpha\ne0$, the particular family
+\[
+ S_\alpha=\left\{
+ \begin{pmatrix}\alpha&1\\0&1\end{pmatrix},
+ \begin{pmatrix}\alpha&-1\\0&1\end{pmatrix}\right\},
+\]
+already has matrix dimension two, although the algebraic degree of $\alpha$ is unrestricted.
+A sequence in increasing matrix dimensions would not negate a fixed-dimension gap.
+
+\begin{proposition}\label{gr:entropy-comparison}
+For a nonzero algebraic integer $\alpha$, the original binary rates of Definition~\ref{fo:binary-law} satisfy the following comparison, with an absolute $c>0$:
+\begin{equation}\label{fo:entropy-order}
+ c\min\{m,\log2\}\le h_1\le h_0=\rho(S_\alpha)\le m,
+ \qquad h_2\le h_1.
+\end{equation}
+\end{proposition}
+The lower bound uses \cite[Theorem~5]{BV20}; signs and bits give the same fibers by an invertible affine transformation.
+The last bound also has a direct full-embedding norm-grid proof: the number of possible sums is at most $(4n)^d\exp((n-1)m)$.
+
+
+\subsection{Original-orbit collisions and affine binary growth}
+\label{sec:returns}
+
+The binary affine model has a useful exact difference process.
+Let $\alpha$ be an algebraic unit, $\mathcal O=\Z[\alpha]$, and let $\eta_j=\varepsilon_j-\varepsilon'_j$, where the two binary families are independent and fair.
+Thus
+\[
+ \Prob(\eta_j=0)=\tfrac12,\qquad
+ \Prob(\eta_j=1)=\Prob(\eta_j=-1)=\tfrac14.
+\]
+The probability $p_n=\Prob(\sum_{j<n}\eta_j\alpha^j=0)$ is the collision probability of the binary sum.
+Equivalently it is the zero-return probability of $X_{j+1}=\alpha X_j+\eta_j$, started at zero.
+Reversing the independent digit order identifies these two conventions.
+All probabilities in this subsection use this law unless a change is expressly specified.
+
+\subsubsection{An infinite core for the original Lehmer number}
+\label{ret:core}
+
+A Salem number is a real algebraic unit $\beta>1$ whose other conjugates are $\beta^{-1}$ and points of the unit circle, with at least one such unit-circle conjugate \cite[\S8]{Smy08}.
+\begin{definition}\label{ret:return-core}
+The \emph{return core} $\mathcal D\subseteq\mathcal O$ consists of states lying on finite paths from zero back to zero.
+It records possible paths, whereas $p_n$ counts them with their original weights.
+This distinction remains important even when the core has an exact geometric description.
+\end{definition}
+
+\begin{theorem}\label{ret:lehmer-core}
+Let $\beta>1$ be the expanding root of
+\[
+ P_L(t)=t^{10}+t^9-t^7-t^6-t^5-t^4-t^3+t+1.
+\]
+Put $B=(\beta-1)^{-1}$, $S=\beta/(\beta-1)$, and write $x_+=x(\beta)$, $x_-=x(\beta^{-1})$ for $x\in\Z[\beta]$.
+Then the original return core is
+\begin{equation}\label{ret:strip}
+ \mathcal D=\{x\in\Z[\beta]: |x_+|<B,\ |x_-|<S\}.
+\end{equation}
+If $\zeta_1,\ldots,\zeta_4$ are one representative from each conjugate pair on the unit circle and $\rho(x)^2=\sum_{j=1}^4|x(\zeta_j)|^2$, then
+\[
+ cR^8\leq\#\{x\in\mathcal D:\rho(x)\leq R\}
+       \leq C(R+1)^8\qquad(R\geq R_0)
+\]
+for positive constants depending on this fixed polynomial.
+\end{theorem}
+
+The main input to this theorem is a complete co-return certificate: every actual state with $|x_+|\leq1$ and $|x_-|\leq S$ reaches zero.
+It was proved by a joint eight-dimensional neutral descent, followed by a complete finite residue check.
+For a digit word $w$ of length $\ell$, its neutral displacement before the endpoint rotation is
+\[
+ c_w=\left(\sum_{i=1}^{\ell}\eta_i\zeta_j^{-i}\right)_{j=1}^4.
+\]
+The normalized vectors $c_w/\lVert c_w\rVert^2$, rather than the unnormalized displacements, give the useful descent certificate.
+On each of the expanding intervals $[1/2,3/4]$ and $[3/4,1]$, exact convex containment certificates using words of length at most eleven imply a squared-radius decrease of at least $57/100$ when $\rho\geq8$.
+The complete compact enumeration contains $797507$ candidate states; exact paths and certified exclusions cover it.
+Separate computations checked the containment, complete enumeration, paths and final assembly.
+These are certificates for $P_L$ itself.
+Mercat's earlier descent and finite-residue method concerns the different quartic $t^4-2t^3+t^2-2t+1$ \cite[Proposition~4.23]{Mer13}; its numerical certificate is not being transferred to $P_L$.
+
+The passage from narrow co-return to \eqref{ret:strip} is elementary.
+While $1<|x_+|<B$, choose the digit opposite to its sign; then $|x_+|$ changes to $\beta|x_+|-1$ and reaches the narrow strip in finitely many steps.
+The stable bound is preserved.
+Reciprocal conjugation, followed by multiplication by $\beta^{-1}$, reverses zero-ending words and supplies reachability from zero.
+Conversely, the geometric sums along a finite incoming and outgoing word give the two strict inequalities in \eqref{ret:strip}.
+The state count follows from the full embedding lattice, using a cylinder for the upper bound and differences of coefficient-box points for the lower bound.
+It is not a count of equally probable words.
+
+A later control argument improves the original selected-word estimate to linear length.
+\begin{proposition}\label{ret:linear-control}
+For the fixed $\beta$ of Theorem~\ref{ret:lehmer-core}, every state with $|x_+|\le1$ and $|x_-|\le S$ has a zero-ending word of length at most $A_\beta\rho(x)+B_\beta$, for finite constants depending only on $\beta$.
+\end{proposition}
+A finite directional cover with nonzero endpoint margins gives a fixed radial decrease per bounded-length block; the initial zero prefix costs only $O_\beta(\log(1+\rho))$ by the integer norm.
+The finite termination certificate above closes the argument.
+The same control is conditional on compact termination for a general Salem number below the golden ratio.
+
+This connects selected paths with an all-path statement.
+For a fixed Salem number $1<\beta<2$ of degree $2s+2$, define $\rho$ using its $s$ unit-circle conjugate pairs and set
+\[
+ \gamma_\beta=\frac{\log2\log\beta}{\log(1+\beta)},\qquad
+ H(x)=\Prob_x(\tau<\infty),\quad
+ \tau=\inf\{n\ge1:X_n=0\}\quad(x\ne0).
+\]
+\begin{proposition}\label{ret:hitting-rate}
+There is a finite $D_\beta>0$ such that every nonzero $x\in\Z[\beta]$ satisfies
+\begin{equation}\label{ret:hitting}
+ H(x)\le\min\{1,D_\beta
+           e^{-\gamma_\beta\lceil\rho(x)/\sqrt{s}\rceil}\}.
+\end{equation}
+If every state in the narrow strip $|x(\beta)|\le1$, $|x(\beta^{-1})|\le\beta/(\beta-1)$ admits a zero-ending word of length at most $A_\beta\rho(x)+B_\beta$, then on that strip $H(x)\ge e^{-a_\beta\rho(x)-b_\beta}$ and $\E_x[\tau\mid\tau<\infty]=O_\beta(1+\rho(x))$.
+\end{proposition}
+\begin{proof}[Proof outline]
+The maximum-atom collision estimate and the necessary length $n\ge\rho(x)/\sqrt{s}$ give the upper bound.
+An admissible selected word of linear length has original probability at least its $4^{-\text{length}}$ weight, giving the lower bound.
+Dividing the complete hitting tail by that lower bound gives a full exponential conditional tail after an input-dependent linear time and hence the conditional mean estimate.
+\end{proof}
+This conditional law is different from the original unconditioned walk.
+The constants, and already $\gamma_\beta$, do not yield a positive uniform bound as $\beta\downarrow1$.
+
+\subsubsection{A necessary diffusion scale for stationary laws}
+\label{ret:small-ball}
+
+Let $\alpha$ now be any algebraic unit with $s\ge1$ selected unit-circle embeddings, and put $Z(x)=(\sigma_1(x),\ldots,\sigma_s(x))\in\C^s$.
+Consider an irreducible positive recurrent Markov chain on a subset of the actual return core containing zero, using only the original edges $x\mapsto\alpha x+\eta$.
+If its transition probabilities are $q_x(\eta)$ and invariant probability is $\pi$, its information cost per step relative to the original law is
+\[
+ I=\sum_x\pi(x)\sum_{\eta=-1}^1q_x(\eta)
+           \log\frac{q_x(\eta)}{\nu_\eta},
+ \qquad(\nu_{-1},\nu_0,\nu_1)=(\tfrac14,\tfrac12,\tfrac14).
+\]
+Zero terms have value zero.
+The comparison below includes the full original paths, even when they leave the recurrent subset.
+
+\begin{proposition}\label{ret:stationary-radius}
+For every such chain, every $c\in\C^s$ and $r\ge0$,
+\begin{equation}\label{ret:smallball-bound}
+ \pi\{\lVert Z(x)-c\rVert\le r\}
+ \le 6\bigl[I(1+r^2/s)\bigr]^{1/4}+\sqrt{I/2}.
+\end{equation}
+No finite-support or moment assumption is needed.
+In particular, a ball of mass at least $u>0$, with $0<I\le u^2/8$, must satisfy $r^2/s\ge u^4/(4096I)-1$.
+\end{proposition}
+
+The proof uses a dimension-free separated-sum argument of Greene and Kleitman \cite[Section~9]{GK78}.
+For deterministic Hilbert-space vectors of common norm $a$ and the original independent digits,
+\[
+ \Prob\left\{\sum_{j=1}^n\eta_jv_j\in\overline B(c,r)\right\}
+ \le\min\left\{1,\sqrt{\frac{24+96r^2/a^2}{n}}\right\}.
+\]
+Grouping into independent blocks gives a positive probability of a displacement longer than $r$; the separated-sum bound then controls their independently chosen signs.
+In the neutral embedding $a^2=s$.
+Compare the stationary path of length $n$ with the original independent-digit process started from the same initial distribution $\pi$.
+Their relative entropy is exactly $nI$.
+Endpoint comparison adds $\sqrt{nI/2}$ to the displayed concentration estimate.
+Optimizing the integer $n$ proves \eqref{ret:smallball-bound}.
+If $I=0$, letting $n$ tend to infinity before optimization would give zero mass to every finite-radius ball, which is impossible for a probability law on these finite-dimensional neutral coordinates.
+
+Thus, along any hypothetical $m(\alpha)\to0$ sequence with admissible laws satisfying $I\le2m(\alpha)$, every radius $r=o(\sqrt{s/m(\alpha)})$ has uniformly vanishing mass, uniformly in its center.
+This is a necessary spatial scale, not a contradiction: an explicit stationary law for the torsion control $\alpha=-1$ attains the corresponding low-information scale.
+A further arithmetic or original-return restriction is needed to exclude it for the relevant nontorsion inputs.
+
+\subsubsection{What lower covariance certificates can establish}
+\label{ret:blocks}
+
+Fix a nontorsion algebraic unit $\alpha$ and a length $2n$ word.
+For $A\subseteq\Omega=\{0,\ldots,2n-1\}$ define
+\[
+ U_A=\sum_{j\in A}\eta_j\alpha^j,\qquad
+ Y_A=-\alpha^{-n}\sum_{j\in A,\ j<n}\eta_j\alpha^j,
+ \qquad p_A=\Prob(U_A=0).
+\]
+On $U_A=0$, the second expression for $Y_A$ is $\sum_{j\in A,\ j\ge n}\eta_j\alpha^{j-n}$.
+For $A=\Omega$ this is the original midpoint under the complete return condition.
+Let $\Phi$ denote all real Minkowski coordinates, using real and imaginary parts once for each complex pair.
+
+\begin{proposition}\label{ret:block-lower}
+For pairwise disjoint nonempty supports $A$, conditional covariance gives the positive-semidefinite inequality
+\begin{equation}\label{ret:block-certificate}
+ \Cov(\Phi(Y_\Omega)\mid U_\Omega=0)
+ \succeq\sum_Ap_A\Cov(\Phi(Y_A)\mid U_A=0).
+\end{equation}
+\end{proposition}
+Indeed, condition first on all block endpoints.
+Internal words then remain independent.
+Keeping only each block's zero endpoint pays at least its original mass $p_A$, since a difference of two identical binary laws has its largest atom at zero.
+Overlapping supports cannot be added without an additional averaging factor.
+For the primitive quartic $t^4-t^3-t^2-t+1$, identify its neutral embedding with its two real coordinates $Z$.
+This mechanism gives the actual neutral midpoint covariance bound
+\[
+ \Cov(Z(Y_\Omega)\mid U_\Omega=0)
+       \succeq\frac{5-\sqrt{13}}{4096}I_2\qquad(n\ge4).
+\]
+This is a constant floor, not a diffusive lower bound.
+
+\begin{proposition}\label{ret:bounded-certificate}
+For every fixed nontorsion algebraic unit, the trace of the right side of \eqref{ret:block-certificate} is bounded independently of $n$ and of the disjoint supports.
+Its neutral contribution from supports at distance at least $G$ from the midpoint cut decreases doubly exponentially in $G$.
+The full contribution also has nonneutral exponential terms.
+All constants depend on the algebraic input.
+\end{proposition}
+
+Here is the arithmetic reason for the bound.
+Write $d_0$ for the real neutral dimension, $m=m(\alpha)$, and $r_i$ for all conjugate moduli, counting both complex partners in products.
+Put $C=\prod_{r_i\ne1}|r_i-1|^{-1}$.
+If a returned support has cardinality $\ell$, closest distance $g$ from the cut, and nonzero midpoint, the full integer norm gives
+\begin{equation}\label{ret:block-norm}
+ 1\le|\Norm(Y_A)|\le Ce^{-2mg}(\ell/2)^{d_0}.
+\end{equation}
+Meanwhile, choosing an expanding modulus $r_*$ and $k=\min\{j\ge1:r_*^j>2\}$ gives $p_A\le e^{-a\ell}$, $a=(\log2)/k$, by injectivity of a separated binary subcube.
+For $d_0>0$, \eqref{ret:block-norm} forces $\ell\ge2C^{-1/d_0}e^{2mg/d_0}$ whenever the midpoint contributes.
+Its neutral squared norm is at most $d_0\ell^2/8$.
+At most two disjoint supports have any prescribed closest distance, so summing these paid contributions proves the assertion.
+When $d_0=0$ the neutral term is absent; geometric bounds at every expanding and contracting place directly bound the actual full covariance.
+
+The exact improved coefficient in \eqref{ret:block-certificate} is $p_A\alpha_A$, where
+\[
+ \alpha_A=\frac{p_{\Omega\setminus A}}{p_\Omega},
+ \qquad1\le\alpha_A\le2^{|A|}.
+\]
+If $\alpha_A\le Ke^{\gamma|A|}$ for all contributing blocks and some $\gamma<a$, the same argument still gives a bounded certificate.
+Unbounded refined certificates therefore require positive neutral dimension and $\limsup\log\alpha_A/|A|\ge a$ along growing supports.
+This necessary amplification is not sufficient: taking the whole word as one block already meets it, but merely reproduces the unknown actual covariance.
+An upper bound on these lower certificates does not bound the actual neutral covariance from above.
+
+\subsubsection{Localizing the Gaussian comparison loss}
+\label{ret:neutral-rank}
+
+An independent upper-comparison argument locates another precise remaining difficulty.
+Let $X$ be an integral $d\times b$ matrix of full row rank, $Q=XX^T$, $S_X=X\eta$ and $p=\Prob(S_X=0)$.
+For $0<W\preceq I_d$, set $a=\log2$, $D=(W^{-1}+Q)^{-1}$ and
+\[
+ G(u)=e^{au^TDu}\E e^{-a(S_X+u)^TW(S_X+u)}.
+\]
+\begin{proposition}\label{ret:gaussian-profile}
+The proved original atom profile has coefficient $1/2$:
+$\Prob(S_X=z)\le pe^{-z^TQ^{-1}z/2}$.
+Completing the Gaussian leaves a positive mismatch:
+\begin{align*}
+ G(u)&\le K_d\det(W)^{-1/2}p\,e^{u^TR_0u},\\
+ R_0&=a\bigl[(W^{-1}+Q)^{-1}-(W^{-1}+2aQ)^{-1}\bigr],
+ \qquad K_d=2^{d/4}(2\pi/a)^{d/2}.
+\end{align*}
+One has $0\preceq R_0\preceq(a-1/2)Q^{-1}$.
+\end{proposition}
+\begin{proof}[Proof outline]
+The original half-Gaussian atom profile is applied before completing the square.
+Completing it against the factor with coefficient $a=\log2$ gives the stated resolvent difference.
+Comparing the complete shifted lattice sum with its unit cubes gives $K_d\det(W)^{-1/2}$.
+Conjugation by $Q^{1/2}$ gives the two positive-semidefinite comparisons for $R_0$.
+\end{proof}
+
+For the actual power-basis columns of a fixed nonzero algebraic integer, let $M$ be multiplication by that integer, let $v$ represent $1$, and put $A_i=[-M^dv,\ldots,-M^{d+i-1}v]$, with $A_0$ empty.
+Use $X=[-M^{d+i}v,\ldots,-M^{d+i+b-1}v]$ and $W=(I+A_iA_i^T)^{-1}$, where $b\geq d$.
+If $H_h$ is the full hyperbolic coordinate map, set
+\[
+ Q_h=H_hQH_h^T,\quad C_N=Q-QH_h^TQ_h^{-1}H_hQ,\quad
+ R_N=a\bigl[D-(D^{-1}+(2a-1)C_N)^{-1}\bigr].
+\]
+Absent hyperbolic coordinates mean that the subtracted term is zero.
+Let $d_0$ be the real neutral dimension.
+The normalized projected energy of an endpoint $z$ is $(H_hz)^TQ_h^{-1}(H_hz)$, or zero when hyperbolic coordinates are absent.
+For these actual columns, write $G_{i,b}$ for $G$ and note that $p=p_b$.
+
+\begin{theorem}\label{ret:neutral-localization}
+For every fixed nonzero algebraic integer, the entire hyperbolic projected support has normalized energy at most a finite $M_h$, independent of $i\ge0$ and $b\ge d$.
+With $\delta=a-1/2$ one has
+\[
+ G(u)\le e^{\delta M_h}K_d\det(W)^{-1/2}p\,e^{u^TR_Nu},
+ \qquad \operatorname{rank}R_N=d_0,\quad
+ \ker R_N=D^{-1}\operatorname{range}(H_h^T).
+\]
+If $i_b=o(b)$ and $t_b\ge0$ with $t_b=o(b)$, every zero-containing set $\mathcal V_b\subset\{u:u^TR_Nu\le t_b\}$ satisfies
+\[
+ \lim_{b\to\infty}-\frac1b\log\sup_{u\in\mathcal V_b}G_{i_b,b}(u)=h_2.
+\]
+The complete prefix expense $\det(I+A_iA_i^T)^{1/2}$ is included.
+After undoing prefix multiplication, pure-neutral translations of radius $o(b)$ also preserve this rate.
+\end{theorem}
+\begin{proof}[Proof outline]
+On the full original support, pay the bounded projected energy once.
+The resulting atom profile has coefficient $a$ on hyperbolic coordinates and $1/2$ on their complement.
+Square completion gives $R_N$ exactly.
+Whitening $Q$ identifies $C_N$ as a positive form of rank $d_0$; its resolvent difference has the same rank and the displayed kernel.
+At fixed input, the full hyperbolic Gram matrices have a positive spectral floor after rescaling, uniformly in prefix and word length.
+The prefix determinant has sublinear logarithm when $i=o(b)$, so the finite cylinder bound preserves the collision exponent.
+The pure-neutral domain additionally uses the complete phase-Gram and cross-Schur bounds.
+\end{proof}
+Macroscopic neutral translations remain outside this conclusion.
+The fixed-input limit does not identify $h_2$ with $m$ or supply input-uniform constants.
+
+
+\paragraph{The remaining original-law input.}
+The return-core theorems identify actual states and admissible words.
+The probabilistic objective concerns all such words with their original weights.
+An infinite core, a path to zero from each state, and a stationary law obtained by conditioning are different results, with different quantitative costs.
+The current fixed-input estimates do not provide a positive entropy gap uniform in the algebraic input.
+
+\begin{question}\label{out:neutral}
+Which arithmetic constraints on the complete original return law force useful neutral-coordinate occupation or moment estimates, with constants that remain effective as total Mahler measure decreases and degree grows?
+\end{question}
+The returned-block analysis gives a concrete test for proposed lower bounds.
+A disjoint certificate carrying only its original block mass has a fixed-input ceiling.
+Conditioning may amplify that mass, but the exact complementary return ratio must be estimated.
+Conditioning on the whole word already restores a tautological identity and supplies no growth estimate by itself.
+On the Fourier side, a complete fractional return moment yields useful critical regularity, but that moment is an additional premise which still has to be proved for the relevant nontorsion process.
+
+
+The fully optimized long-window collective-column sufficient certificate has a small-measure ceiling.
+This limits that certificate, not the true entropy or complete pressure.
+Shorter scales, joint orbit information and arithmetic constraints on the full neutral law remain distinct questions.
