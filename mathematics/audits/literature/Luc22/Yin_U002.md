@@ -11,9 +11,13 @@ author: Yin
 
 Source edition: Luc22, [retained PDF](../../../literature/pdf/Luc22.pdf), arXiv:1901.00827v2, 16 September 2020.
 
-Passages: Section 6, pp.10--11; Section 8, pp.15--19; Sections 10--13, pp.19--20. The unit uses the determinant conventions in U001 and distinguishes Section 7's separate approximation conjecture.
+Passages: Section 6, pp.10--11; Section 8, pp.15--19; Sections 10--13, pp.19--20.
+The unit uses the determinant conventions in U001 and distinguishes Section 7's separate approximation conjecture.
 
-Inspection: 2026-10-06T06:51, human record author Yin. The assigned AI reviewer read the complete mathematical body and checked all in-paper proof mechanisms in this scope, including the iterated-limit order, rank preservation and determinant normalization. Rendered pp.11 and 17 were inspected. A separately assigned AI reviewer checked the late-section complex-coefficient interface and limit/constant implications, then shared findings; this is a targeted second check, not a second full-paper audit or human review.
+Inspection: 2026-10-06T06:51, human record author Yin.
+The assigned AI reviewer read the complete mathematical body and checked all in-paper proof mechanisms in this scope, including the iterated-limit order, rank preservation and determinant normalization.
+Rendered pp.11 and 17 were inspected.
+A separately assigned AI reviewer checked the late-section complex-coefficient interface and limit/constant implications, then shared findings; this is a targeted second check, not a second full-paper audit or human review.
 
 
 ## Assessment

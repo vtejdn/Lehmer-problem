@@ -159,7 +159,7 @@ But the full normalized gate and low-X condition force Y to one of C608's two CR
 This contradiction proves the complete formal support assertion, and C199v5's complete-group bridge gives its original-input application at every original q.
 No existence of an actual T or a smaller normalized characteristic-zero polynomial is assumed to produce the contradiction.
 
-The SAME-T coefficient search on A_0=2 is therefore unnecessary if this candidate is confirmed: its full old support premises already have no solution, before either the C624 first error or the separate K_T error needs to be solved.
+The SAME-T coefficient search on A_0=2 is therefore unnecessary if this candidate is confirmed: its full old support premises already have no solution, before either the C603 first error or the separate K_T error needs to be solved.
 This makes no claim that FE5 is independently stronger on another branch or that the unrestricted original-root/Haar comparison is complete.
 The present bounded discriminator stops at this full A_0=2 support result and does not begin an A_0>=4 classification.
 

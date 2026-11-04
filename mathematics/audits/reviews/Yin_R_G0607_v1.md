@@ -16,7 +16,7 @@ It then read C399 from lehmer-infinite-core-theorem to the actual Original contr
 It independently read the original L170 lehmer-joint-neutral-descent Sections1--4 and Section5 through its actual successful verifier-run statement.
 The whole original radius1500 proof was therefore checked directly rather than replaced by the later stronger result.
 Exact necessary C372 and C396 mathematical interfaces, complete necessary programs, word/matrix certificates and original saved finite verification reports were direct fixed inputs.
-The reviewer sent complete initial mathematical findings before opening R69/R750, target assessment/contribution histories or the complete outer L170 account.
+The reviewer sent complete initial mathematical findings before opening R69/R603, target assessment/contribution histories or the complete outer L170 account.
 No mathematical gap requiring a repair was found, and the reviewer supplied no substantive repair.
 
 An initial headings/review-keyword search of the J readmes accidentally displayed the labels "complete SELF ... review", the statement that a linked original R records complete proof review as SELF after earlier substantive target inputs, and J29's disclosure that author explanations and component findings had been available to its original reviewer.
@@ -27,7 +27,7 @@ The supplied context contained the assignment and fixed input locators, without 
 No persistent memory, blueprint, maintenance handbook, acceptance account or construction discussion was consulted.
 The three findings below record this actual separately organized isolated inspection and are independently reviewed.
 
-After those initial findings, the second phase read the complete 1024-line L170, complete current 762-line R69, complete 144-line R750, full C399/C400 metadata and contribution accounts, all seven J readmes and necessary retained source accounts.
+After those initial findings, the second phase read the complete 1024-line L170, complete current 762-line R69, complete 144-line R603, full C399/C400 metadata and contribution accounts, all seven J readmes and necessary retained source accounts.
 It compared every original whole/targeted scope, useful negative or partial finding, date, precision, contribution and recorded execution.
 Agreement with those later accounts did not supply the initial derivations.
 The fixed C396 narrow co-return theorem and C372 equivalences are reused at their accepted exact interfaces; their complete upstream proof/certificate chains and the ESS original proof are not newly audited here.
@@ -260,7 +260,7 @@ Item3's nonzero prime-support clarification matches C372 and its actual later re
 | 2026-10-09T16:22 | D27 item3 nonzero-state wording reread only; self-reviewed in the known shared-chain arrangement. | It remains targeted, while the current complete C399 proof has now been checked independently. |
 
 The original fixed-retention act at 2026-10-09T16:24 remains a separate coordinating adoption, not C acceptance or Task completion.
-R750's two whole findings at 2026-10-21T17:16 remain self-reviewed under inherited context and target Claim authorship.
+R603's two whole findings at 2026-10-21T17:16 remain self-reviewed under inherited context and target Claim authorship.
 They agree with the independent initial findings but were read only afterwards and do not themselves close either historical unknown arrangement.
 Historical accounts identify author Python 3.13.15 and reviewer Python 3.12.14, and the original J28 NumPy 2.3.5/SymPy 1.14.0/python-flint 0.9.0 environment.
 Current JSON retains the mathematical payload/precision; no missing historical runtime field or current rerun is invented.
@@ -285,4 +285,4 @@ The original conventional rational/integer executions and separate implementatio
 No producer, native/million-scale verification, mathematical experiment, finite enumeration, new original-source/PDF acquisition or inspection, proof-assistant build or formal verification was performed.
 No old C/L/R, global index, source account, native program/output or Task/E was edited by this reviewer.
 Only this new fixed R and its formal allocator state are authored.
-The three findings supply evidence for coordinating adoption; they do not select a C assessment, retire R69/R750 or complete G0001.
+The three findings supply evidence for coordinating adoption; they do not select a C assessment, retire R69/R603 or complete G0001.

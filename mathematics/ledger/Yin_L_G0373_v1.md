@@ -13,7 +13,7 @@ No unrestricted Mahler gap, canonical Claim or Task completion is asserted.
 ## Fixed scope and preservation
 
 The current complete theorem and all necessary source/support/discrepancy/finite-degree proofs are retained at [C411](../claims/Yin_C_G0411_v1.md#argument), after the [whole current SELF finding](../audits/reviews/Yin_R_G0612_v1.md#current-fixed-constant-whole-finding).
-The original author body, self-check, 21:32 freeze, canonical source clarification and R198 source-reading history remain below unchanged.
+The original author body, self-check, 2026-10-11T13:32 freeze, canonical source clarification and R198 source-reading history remain below unchanged.
 This navigation supplies no new research authority or claim of independent target review.
 
 The entire author account follows, with only title depth, navigation and final blank-line normalization.

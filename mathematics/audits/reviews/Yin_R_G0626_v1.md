@@ -6,7 +6,7 @@ author: Yin
 
 Date: 2026-10-21T19:16.
 Human operator: Yin.
-The checking agent read the complete sole L179 version and original R78, the entire actual published C424v1/C425v1 statements/arguments/decisions, exact needed C415/C416/Den09-U002/C272 interfaces and both complete native programs/readmes/outputs.
+The checking agent read the complete sole L179 version and original R78, the entire actual published C424v1/C425v1 statements/arguments/decisions, exact needed C415/C416/Den09-U002/C271 interfaces and both complete native programs/readmes/outputs.
 All126 original root-ball records and every report field were read.
 The current mathematical chains were rederived, including all logarithmic integrability, exact sign bounds, quantitative averaging and native/source limitations.
 Only the displayed small integer/rational proof parameters were directly recomputed; no J37/J38 root isolation, enlarged enumeration, numerical integration or high-degree specialization was run.
@@ -45,7 +45,7 @@ Coprimality makes every integer relation a multiple of(a-b,-b), hence q=max(b,a-
 The retained Den09-U002 statement is the full all-vector Lawton theorem including zeros, not its invertible-only determinant substitute.
 Applying it to the two fixed nonzero polynomials and taking logarithms gives one constant for every unbounded primitive exponent sequence.
 A hypothetical sequence of offset exceptions contradicts that same limit, proving uniformity without any convergence of b/a or effective rate.
-I read the exact accepted source interface and the C272 all-vector uniformity method; no original Lawton proof or PDF was newly read.
+I read the exact accepted source interface and the C271 all-vector uniformity method; no original Lawton proof or PDF was newly read.
 
 On the two-torus H=uv*conjugate(F), so the complete phase ratio has modulus one almost everywhere.
 The factorization into F^2 F(u^2,v^2) and the full phase term retains the factor two and three copies of m(F).

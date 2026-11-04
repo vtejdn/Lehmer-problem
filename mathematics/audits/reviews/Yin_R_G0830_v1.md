@@ -11,7 +11,7 @@ The target is the entire fixed [C627 statement](../../claims/Yin_C_G0627_v1.md#s
 The reviewer is a separate agent outside the substantive development of C627.
 Only the fixed target, assignment and operational metadata were supplied; no development dialogue, mathematical summary, author explanation or previous C627 verdict was supplied or consulted.
 The reviewer read the entire fixed proof and the actual dependency passages directly and did not consult the development draft or other agents' conversations.
-The same reviewer previously inspected C645 in [R826](Yin_R_G0826_v1.md#whole-z0-connectivity-independent-finding) and C625 in [R828](Yin_R_G0828_v1.md#current-mass-sign-paths-whole-independent-finding).
+The same reviewer previously inspected C623 in [R826](Yin_R_G0826_v1.md#whole-z0-connectivity-independent-finding) and C625 in [R828](Yin_R_G0828_v1.md#current-mass-sign-paths-whole-independent-finding).
 Those findings retain their exact earlier physical scopes; the new conditional-tail comparison and randomized lift were checked independently as new arguments.
 No historical SELF or UNKNOWN relationship is changed, and no C adoption is made by this R.
 
@@ -222,7 +222,7 @@ It identifies the inspected arXiv version and equations and retains that neither
 C627 supplies the finite conditional-projection reasoning actually needed here; this R does not extend that source inspection or import a generic mixing bound from it.
 The prior C514v2 transfer and C519 fixed-hub account were checked at their comparison scopes and are not treated as a supplied growing-family bound.
 
-C625, C645 and their accepted all-core/native inputs keep the exact scopes and limitations recorded in R828 and R826.
+C625, C623 and their accepted all-core/native inputs keep the exact scopes and limitations recorded in R828 and R826.
 The C204 fixed-radius-to-mean implication is used as an accepted input only after its all-late fixed finite-set hypothesis is explicitly restored.
 No new source acquisition, external theorem, numerical experiment, native rerun, graph scan or formal proof-assistant verification was used.
 No substantive repair or target-proof edit was made during this review.

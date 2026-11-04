@@ -24,11 +24,15 @@ It is an exercise statement, not a worked proof of nonzero algebraic residues or
 The previously browsed Kim--Koepf abstract is not a premise.
 Root's source intake changes no frozen D3 mathematical content or author history.
 
+The initial context explicitly included author progress summaries, a reuse correction and the final outcome for this target, beyond its fixed statement and proof.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole finding](#dyadic-capacity-and-denominator-whole-finding) | independently reviewed |
+| [Whole finding](#dyadic-capacity-and-denominator-whole-finding) | self-reviewed |
 
 ## Review bindings
 

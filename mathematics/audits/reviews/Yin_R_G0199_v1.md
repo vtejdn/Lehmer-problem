@@ -7,13 +7,13 @@ author: Yin
 Date and attribution: 2026-10-11T13:48; human record author Yin.
 The integer_symbol_review AI performs a separately organized initial whole-proof review of the integer_bundle_research author's D_G0018.
 It supplied none of D18's candidate selection, multi-unit derivations, mean-three example, signed-energy inequalities or quartic unit identity.
-It previously authored the independent R272 review of the reused L370 mean-two theorem and, subsequently, the separate general-mean D19 argument.
+It previously authored the independent R196 review of the reused L370 mean-two theorem and, subsequently, the separate general-mean D19 argument.
 Neither D19 nor its Littlewood source is a premise of D18, and neither activity supplied this author's proof.
 Root's assignment alone is not treated as independent checking evidence.
 
 Inputs and sequence: the reviewer received the exact D18 freeze and requested scope, read the complete author body including its self-check, enumerated the obligations and reconstructed all equations before consulting any earlier D18 review conclusion; no such conclusion, author explanatory exchange or proof-generation dialogue was supplied or consulted.
 Reused inputs were read at the actual interfaces identified below.
-The earlier R272 relationship is disclosed rather than implying a blind review of its already checked theorem.
+The earlier R196 relationship is disclosed rather than implying a blind review of its already checked theorem.
 
 Artifact and scope: [D_G0018 entire author freeze](../../ledger/Yin_L_G0372_v1.md#mixed-unit-entire-author-freeze), 2026-10-11T13:35, complete assigned scope, reuse/provenance and Sections1--8, equations(1)--(15).
 This covers the entire multi-unit quotient, intrinsic-versus-original denominators, exact mean-three square obstruction/repair, full signed trace deficits, negative-energy charges, accepted quartic domain, explicit actual units, all-window unshifted failure and common-twist bounds.
@@ -21,7 +21,7 @@ It is a whole local mathematical review with fixed-input applicability checking,
 
 Current relationship clarification recorded 2026-10-21T18:08.
 The original input sequence explicitly says that the complete author body, including its mathematical self-check, was read before obligations were enumerated and equations reconstructed.
-This establishes SELF for this whole finding under the current proof-audit rule; the reviewer's separate R272 and D19 activities do not themselves decide this target relationship.
+This establishes SELF for this whole finding under the current proof-audit rule; the reviewer's separate R196 and D19 activities do not themselves decide this target relationship.
 The original date, entire theorem and negative scope, all original bindings, source depth and actual absence of a native run are retained unchanged.
 
 ## Review relationships
@@ -43,7 +43,7 @@ The original date, entire theorem and negative scope, all original bindings, sou
 | [Whole mixed-unit argument](#mixed-unit-whole-finding) | [Actual quartic units and failures](../../ledger/Yin_L_G0372_v1.md#new-quartic-mixed-unit-identity) | Accepted a2 quartic, both integral unit representatives/inverses/full norm signs, exact mixed profile, strict all-window20/27 energy failure and both common-twist endpoint costs, equations(12)--(15). |
 | [Whole mixed-unit argument](#mixed-unit-whole-finding) | [Complete original costs](../../ledger/Yin_L_G0372_v1.md#mixed-unit-costs-and-boundary) | Intrinsic L versus original M/q, full original conjugates, signed integer-copy parity, primitive contents, remaining signed correlations and actual radial degree charge. |
 | [Whole mixed-unit argument](#mixed-unit-whole-finding) | [L367 actual quotient](../../ledger/Yin_L_G0367_v1.md#one-unit-trace-quotient-identity) | Accepted actual B-module decomposition, relative-norm representatives, all-original-root polynomial identity and residual normalization; finite linear extension to several actual units checked anew. |
-| [Whole mixed-unit argument](#mixed-unit-whole-finding) | [L370 integer mean-two theorem](../../ledger/Yin_L_G0370_v1.md#integer-mean-two-classification) | Exact nonnegative integer symmetric Laurent symbol, strict coefficient consequence and complete mean-two classification with actual circle zeros; original R272 proof/source limits retained. |
+| [Whole mixed-unit argument](#mixed-unit-whole-finding) | [L370 integer mean-two theorem](../../ledger/Yin_L_G0370_v1.md#integer-mean-two-classification) | Exact nonnegative integer symmetric Laurent symbol, strict coefficient consequence and complete mean-two classification with actual circle zeros; original R196 proof/source limits retained. |
 | [Whole mixed-unit argument](#mixed-unit-whole-finding) | [L357 norm and damping input](../../ledger/Yin_L_G0357_v1.md#positive-norm-trace-penalty) | Full signed Norm_F(c)=Norm_K(u), genuine Salem trace signs, same-window reversal/Poisson upper bound and optional damped angular estimate. Its inverse-pair lower theorem is not applied to a general mixed bundle. |
 | [Whole mixed-unit argument](#mixed-unit-whole-finding) | [L265 actual quartic family](../../ledger/Yin_L_G0265_v1.md#actual-quartic-trace-unit-family) | Only a=2 accepted actual irreducible quartic, both trace roots, original Salem root configuration, actual order and fixed positive total measure; no orbit-energy result imported. |
 | [Whole mixed-unit argument](#mixed-unit-whole-finding) | [L318 Poisson input](../../ledger/Yin_L_G0318_v1.md#polynomial-poisson-majorant) | Exact polynomial square majorant and preservation of complete signed autocorrelations under fixed-window reversal, used by the damped upper interface. |
@@ -154,7 +154,7 @@ The decisive mathematical rechecks in this original SELF arrangement are as foll
 ## Dependencies, original costs and review limits
 
 The reviewer directly read the complete frozen D18 and the relevant fixed L367, L370, L357, L265, L318 and L229 interfaces.
-L370's whole classification/source audit is reused within the earlier independent R272 scope; its new mean-one/two denominator invocations and zero/strict-positive endpoints were checked here.
+L370's whole classification/source audit is reused within the earlier independent R196 scope; its new mean-one/two denominator invocations and zero/strict-positive endpoints were checked here.
 L357's norm-sign identity and reversal/Poisson upper calculation were reconstructed, while its inverse-pair lower theorem was not mistakenly extended to this mixed family.
 L265 supplies only the accepted a2 original input; no trace-unit orbit optimization is a hidden premise.
 L362's actual-versus-weight-only boundary remains unchanged.

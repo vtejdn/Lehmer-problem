@@ -13,7 +13,7 @@ Root supplied the substantive actual-unit, logarithmic-cone and limiting-matrix 
 The paraunitary author checked and wrote it.
 Neither is represented as this noncontributor reviewer.
 This reviewer supplied none of that candidate, its positive-weight proof or rationality argument.
-Its earlier R288 reviewed the distinct trace-sign obstruction now fixed in L386; that previous checking and its unrelated D27/J87 implementation supply no new proof of the present converse.
+Its earlier R212 reviewed the distinct trace-sign obstruction now fixed in L386; that previous checking and its unrelated D27/J87 implementation supply no new proof of the present converse.
 
 Inputs and arrangement: the assignment included the claimed criterion and principal proof ingredients and actual-order/source boundary.
 The allocation text, then the complete developed body, and finally the entire23:58 freeze were read.
@@ -31,7 +31,7 @@ This is not formal verification or an unrestricted G0001 completion audit.
 Current relationship clarification (2026-10-21T21:36): the initial assignment supplied the claimed criterion and principal mathematical proof ingredients before autonomous reconstruction, and the actual full author-check exposure is disclosed in the original sequence.
 The concrete initially supplied target proof ingredients establish SELF under the current isolation rule, without inferring it from an upstream review or unrelated implementation.
 The original00:00 review date, complete bindings/mathematics, reused-address boundary and actual selected primary Con26 proof-reading facts remain unchanged.
-The already adequate C9 selection and its R296 SELF account supply the current registered theorem; this clarification performs no new mathematical review.
+The already adequate C9 selection and its R220 SELF account supply the current registered theorem; this clarification performs no new mathematical review.
 
 ## Review relationships
 
@@ -209,7 +209,7 @@ Minkowski, Euclidean-lattice foundations and the rest of the notes were not newl
 No older rank-one source inspection is retroactively enlarged.
 
 L372 is reused only for its accepted positive-norm constant-profile obstruction.
-The L386 comparison retains the reviewer's earlier R288 scope and supplies no new converse.
+The L386 comparison retains the reviewer's earlier R212 scope and supplies no new converse.
 L269 is an explicitly narrower subgroup/cost comparison, not the source of a general unit-cone theorem.
 The new cone selection, finite linear system, positivity, rationality and denominator argument were all checked directly above.
 

@@ -14,7 +14,7 @@ This is a complete author argument prepared for separate whole review; no indepe
 <a id="salem-mobius-reuse"></a>
 ## Reuse, source scope and target boundary
 
-The [Bil97 fixed-function input](../audits/literature/Bil97/Yin_U001.md#fixed-rational-function-height-gap) only supplies a constant for each FIXED rational graph.
+The [Bil97 fixed-function input](Yin_C_G0852_v1.md#fixed-rational-function-height-gap) only supplies a constant for each FIXED rational graph.
 Its [Theorem5.1 complement](../audits/literature/Bil97/Yin_U001.md#torus-bogomolov-complement) and complete graph application are accepted at the source unit's explicit statement/applicability scope, without a new audit of Bilu's proof or the original Zhang/Bombieri--Zannier arguments.
 This draft uses it only for the single exceptional graph F(X)=(3X+1)/(X+3), after an elementary argument covers all other coefficient pairs uniformly.
 The family a,b otherwise varies freely subject to the exact hypotheses below.
@@ -311,7 +311,7 @@ The recorded review description was `unreviewed`.
 | --- | --- |
 | date | 2026-10-18T12:43 |
 | status | proved |
-| reason | Adopt the complete uniform source-height floor after R393 whole noncontributor review, retaining the separately independently checked R537 upstream application and its disclosed authorship. All coefficient pairs, content valuations, original-root norm costs, the single fixed-graph exception, classical primitive-source exclusion and exact nonempty control are covered. This is a source-height obstruction, not a varying-output gap or resolution of G0001. |
+| reason | Adopt the complete uniform source-height floor after R393 whole noncontributor review, retaining the separately independently checked R392 upstream application and its disclosed authorship. All coefficient pairs, content valuations, original-root norm costs, the single fixed-graph exception, classical primitive-source exclusion and exact nonempty control are covered. This is a source-height obstruction, not a varying-output gap or resolution of G0001. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -323,7 +323,7 @@ The recorded review description was `unreviewed`.
 | dependency | [Classical fixed Salem field structure](../audits/literature/Smy15/Yin_U001.md#smy15-u001) | Same-field Salem numbers are positive powers of the smallest generator, excluding primitive sources, and powers retain Salem degree in the nonempty control; no degree-uniform fundamental-unit or height bound is inferred. |
 | dependency | [Existing exact quartic input](../ledger/Yin_L_G0169_v1.md#quartic-neutral-descent) | Only the algebraic degree-four Salem input R=X^4-X^3-X^2-X+1; the relation beta=F_(2,1)(beta^4) is proved here, and no return-core computation is used. |
 | support | [Earlier actual-order relative-unit account](../ledger/Yin_L_G0385_v1.md#actual-order-relative-unit-generator) | Reuse comparison for primitive Salem power structure and order distinctions; the present full-field integral contraction does not assume membership in the original power-basis order. |
-| review | [Whole contraction finding](../audits/reviews/Yin_R_G0393_v1.md#integral-contraction-whole-independent-finding) | Complete statement, all six argument sections and every declared dependency/support; upstream Bil97 authorship and independently accepted R537 source/application evidence are explicitly separated. |
+| review | [Whole contraction finding](../audits/reviews/Yin_R_G0393_v1.md#integral-contraction-whole-independent-finding) | Complete statement, all six argument sections and every declared dependency/support; upstream Bil97 authorship and independently accepted R392 source/application evidence are explicitly separated. |
 
 
 ### Decision current-quartic-input-proof-home
@@ -344,7 +344,7 @@ The recorded review description was `unreviewed`.
 | dependency | [Exact retained dependency](../audits/literature/Smy15/Yin_U001.md#smy15-u001) | Same-field Salem numbers are positive powers of the smallest generator, excluding primitive sources, and powers retain Salem degree in the nonempty control; no degree-uniform fundamental-unit or height bound is inferred. |
 | dependency | [Exact retained dependency](Yin_C_G0396_v1.md#quartic-neutral-descent) | Only the algebraic degree-four Salem input R=X^4-X^3-X^2-X+1; the relation beta=F_(2,1)(beta^4) is proved here, and no return-core computation is used. |
 | support | [Exact retained support](../ledger/Yin_L_G0385_v1.md#actual-order-relative-unit-generator) | Reuse comparison for primitive Salem power structure and order distinctions; the present full-field integral contraction does not assume membership in the original power-basis order. |
-| review | [Exact retained review](../audits/reviews/Yin_R_G0393_v1.md#integral-contraction-whole-independent-finding) | Complete statement, all six argument sections and every declared dependency/support; upstream Bil97 authorship and independently accepted R537 source/application evidence are explicitly separated. |
+| review | [Exact retained review](../audits/reviews/Yin_R_G0393_v1.md#integral-contraction-whole-independent-finding) | Complete statement, all six argument sections and every declared dependency/support; upstream Bil97 authorship and independently accepted R392 source/application evidence are explicitly separated. |
 
 ### Decision current-actual-order-relative-unit-proof-home
 
@@ -364,5 +364,5 @@ The recorded review description was `unreviewed`.
 | dependency | [Exact dependency](../audits/literature/Smy15/Yin_U001.md#smy15-u001) | Same-field Salem numbers are positive powers of the smallest generator, excluding primitive sources, and powers retain Salem degree in the nonempty control; no degree-uniform fundamental-unit or height bound is inferred. |
 | dependency | [Exact dependency](Yin_C_G0396_v1.md#quartic-neutral-descent) | Only the algebraic degree-four Salem input R=X^4-X^3-X^2-X+1; the relation beta=F_(2,1)(beta^4) is proved here, and no return-core computation is used. |
 | support | [Exact support](Yin_C_G0454_v1.md#actual-order-relative-unit-generator) | Reuse comparison for primitive Salem power structure and order distinctions; the present full-field integral contraction does not assume membership in the original power-basis order. |
-| review | [Exact review](../audits/reviews/Yin_R_G0393_v1.md#integral-contraction-whole-independent-finding) | Complete statement, all six argument sections and every declared dependency/support; upstream Bil97 authorship and independently accepted R537 source/application evidence are explicitly separated. |
+| review | [Exact review](../audits/reviews/Yin_R_G0393_v1.md#integral-contraction-whole-independent-finding) | Complete statement, all six argument sections and every declared dependency/support; upstream Bil97 authorship and independently accepted R392 source/application evidence are explicitly separated. |
 

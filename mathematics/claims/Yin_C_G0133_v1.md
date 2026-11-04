@@ -5,10 +5,10 @@ author: Yin
 
 Date: 2026-10-15.
 Human author Yin.
-New G0001 author round by g_bridge_audit after independently reviewing actual C132.
+New G0001 author round by g_bridge_audit after separately reconstructing actual C132.
 Root supplied only the question of applying the new chain norm to C114's non-core residual mechanism or obtaining a new original-law inverse.
 Root supplied no proof step below.
-C132 now actually selects its whole-reviewed decision adopting R487; the author's prior squarefree contribution and independent new-chain review remain separately disclosed in their actual records.
+C132 now actually selects its whole-reviewed decision adopting R353; the author's prior squarefree contribution and separate new-chain reconstruction remain disclosed, and R353's whole finding is self-reviewed.
 
 ## Responsible question and bounded reuse
 
@@ -31,7 +31,7 @@ These exact candidate bounds will be proved directly with all zero/real-weight/e
 The bounded exact-term search over G Claims and ledgers found no existing inverse-square-root incidence or harmonic-heavy-core estimate; the returned C111 fractional factor and unrelated harmonic-dynamics record do not supply it.
 This is a bounded reuse finding, not a novelty claim.
 The actual new deductions are recorded below.
-[C132](Yin_C_G0132_v1.md#decision-whole-reviewed-2026-10-15) is adopted with R487 before this argument uses it.
+[C132](Yin_C_G0132_v1.md#decision-whole-reviewed-2026-10-15) is adopted with R353 before this argument uses it.
 
 <a id="statement"></a>
 ## 1. Harmonic cores, a weighted original-law moment, and exact capture
@@ -371,7 +371,7 @@ In particular it does not close general capacity capture or the unrestricted G00
 The outer-chain canonical tree of C124 is not being reaggregated here, and no inclusion of all its terminal-support hypotheses is asserted.
 L396's prime-independent strong counterexample remains intact; this proof uses C132 only on the finite core operator with its full cost, after a separate actual residual-capacity estimate.
 
-C132's author is root; this author independently reviewed that fixed extension in R487 and now invokes its already adopted chain/tensor theorem as a proof input, not as independent evidence for this new combination.
+C132's author is root; this author separately reconstructed that fixed extension in the self-reviewed R353 finding and now invokes its already adopted chain/tensor theorem as a proof input, not as independent evidence for this new combination.
 The earlier C114, C116 and C124 author contributions remain disclosed in those materials.
 Root supplied the present direction but no packing, q-norm substitution, core selection, incidence inverse or pruning proof step.
 A noncontributor whole review of the eventual actual fixed result remains necessary.
@@ -430,7 +430,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T09:50 |
 | status | proved |
-| reason | Adopt R489 actual noncontributor whole review. Harmonic-cost cores permit unrestricted external orders; bounded original inverse-square-root incidence gives constructed-core capture, and low original capture gives a quantitative incidence inverse. Full original norm and adaptive-core/fixed-threshold escapes are proved. Automatic actual coverage and unrestricted capacity capture remain open. |
+| reason | Adopt [R798 original harmonic-core](../audits/reviews/Yin_R_G0798_v1.md#harmonic-core-whole-independent-finding) actual noncontributor whole review. Harmonic-cost cores permit unrestricted external orders; bounded original inverse-square-root incidence gives constructed-core capture, and low original capture gives a quantitative incidence inverse. Full original norm and adaptive-core/fixed-threshold escapes are proved. Automatic actual coverage and unrestricted capacity capture remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

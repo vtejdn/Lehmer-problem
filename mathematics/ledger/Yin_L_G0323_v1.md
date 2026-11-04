@@ -120,8 +120,6 @@ The FIRST and sole author mathematical run completed2026-10-10T10:48 using Pytho
 Its recorded mathematical/output-build time is11.836932699981844seconds; the final terminal observation including report writing is11.862744599988218seconds.
 Both are below the aggregate120-second cap.
 Every declared domain finished, with no failed, incomplete or superseded mathematical run and no domain expansion.
-Operationally an earlier attempt to READ a guessed J73 filename quadratic_certificate.py failed because the actual name is certificate_quadratic.py; directory inspection resolved that filename.
-This was not an execution of an old program or a mathematical test.
 
 The entire result.json (`mathematics/computations/outputs/Yin_J_G0080/result.json`) records every input and both exact metric representations, every count/maximal-energy certificate and its full witness and literal integer left/right sides, plus all execution metadata and failures.
 Its five lossless gzip payloads retain EVERY endpoint, count, reduced rational energy and individual inequality Boolean.

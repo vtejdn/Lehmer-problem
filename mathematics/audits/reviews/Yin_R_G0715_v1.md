@@ -69,12 +69,12 @@ The exact finite joint symbol and original d interfaces are at C499/L321, and th
 DMS84-U001 was read in full as an existing source record: the first appended author-manuscript contribution, specified text/visual passages and original attribution depth are retained, with no published-edition equivalence or original approximation-proof audit.
 The local proof imports none of DMS84's bounded-inverse theorem or quantitative constants; this run opened no PDF and executed no mathematical producer, matrix or spectral computation.
 
-Original R554 inspected L406 at2026-10-18T14:56 and recorded its whole result22:58, not the later C506.
-It disclosed separate assignment, no target contribution, upstream L402 authorship/R547 reuse and R550 fixed dependency review; those facts alone neither create SELF nor defeat a new target inspection.
+Original R409 inspected L406 at2026-10-18T14:56 and recorded its whole result22:58, not the later C506.
+It disclosed separate assignment, no target contribution, upstream L402 authorship/R402 reuse and R405 fixed dependency review; those facts alone neither create SELF nor defeat a new target inspection.
 Its actual account also made the complete author draft, contribution messages and shared project context available, without establishing the additional target-mathematical content and the order of an isolated first judgment.
 The whole relationship therefore remains genuinely unestablished under the current rule; the administrative UNKNOWN clarification does not erase its original independent declaration, complete positive mathematical findings, exact old bindings, date, source limits or no-repair result.
 This new adequate whole SELF does not discharge any separately pending isolated replacement of that old UNKNOWN finding.
-No independent proof-gap repair was requested in R554 or found in this current inspection; the explicit later-C171 scope clarification is not a repair of the retained cutoff proof.
+No independent proof-gap repair was requested in R409 or found in this current inspection; the explicit later-C171 scope clarification is not a repair of the retained cutoff proof.
 
 <a id="complete-neutral-factor-whole-self-finding"></a>
 ## Complete neutral-factor whole self finding evidence
@@ -105,8 +105,8 @@ The original dated comparison left the different moving-family coherence unresol
 The one-sided sufficient criterion remains valid, bounded exceptional rank/trace is not necessary on this control, and no unrestricted near-one arithmetic coverage or arbitrary-polynomial statement follows.
 The actual DMS84-U001 record is reused at its author-manuscript attribution depth; no source proof, edition equivalence, new source constant, PDF acquisition or native computation is claimed.
 
-Original R557 reviewed L407 dated2026-10-18T15:10 and recorded its whole result23:24.
-It disclosed root as sole target contributor, no reviewer target proof step/repair, direct frozen argument reading after editorial retention, upstream C160/DMS84 authorship with accepted R530 reuse, and fixed L406/R554 interfaces.
+Original R411 reviewed L407 dated2026-10-18T15:10 and recorded its whole result23:24.
+It disclosed root as sole target contributor, no reviewer target proof step/repair, direct frozen argument reading after editorial retention, upstream C160/DMS84 authorship with accepted R385 reuse, and fixed L406/R409 interfaces.
 It also made shared project context available and supplied another agent's passed precheck announcement before this inspection; the extra mathematical content of that context/precheck and the order needed for an isolated first judgment were not established.
 Neither a generic PASS announcement, upstream authorship nor the nonblind label alone is classified as substantive sharing; the precise historical relationship is genuinely UNKNOWN at that unresolved scope rather than automatically SELF.
 Its original independent declaration, all eighteen old bindings, complete positive mathematical verdict, dates, no-repair result and source/native limits remain preserved.

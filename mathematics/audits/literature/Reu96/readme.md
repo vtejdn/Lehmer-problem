@@ -37,7 +37,6 @@ Historical priority claims and every cited language-theory result were not indep
 ## Artifact and Version Evidence
 
 - Local artifact: 17 PDF pages, printed pp. 93-109; **printed page = PDF page + 92**.
--.
 - The title page identifies Christophe Reutenauer, the 1996 Selecta Mathematica article.
   The user supplied it under the unregistered filename `DR97.pdf` and explicitly approved the correction to `Reu96.pdf`.
   Renaming preserved its bytes.
@@ -112,8 +111,7 @@ A future proof depending on a still-secondhand book interface should inspect tha
 | Internal mathematical review | Local proof reconstructions in U002-U006; the coordinating agent checked integration, hypotheses, key source errors, generic pairing, and coefficient order. |
 | Independent AI cross-review | the reviewing agent checked U002-U004: critical-support cutoffs, family order, star construction, p. 104 repairs, minimality transfer, and Schur/size induction. the Section 3 reviewer checked U005-U006: generic pairing, tensor-degree obstruction, scalar extension, and the real/complex example. the Section 4 reviewer independently checked U001, source identity, hashes, and the integrated scope/dependency boundary. Exact coverage is recorded in the units. These are independent readings within one AI team, not external peer review. |
 | Artifact checks | Repository Markdown links and anchors checked by a local validator; source hashes and byte lengths recomputed; new records checked for English text and trailing whitespace; `git diff --check` passed. See the completion review. |
-| Mathematical computation | Not performed.
-The source arguments were checked symbolically in prose; no finite numerical experiment is used as proof evidence. |
+| Mathematical computation | Not performed. The source arguments were checked symbolically in prose; no finite numerical experiment is used as proof evidence. |
 | Formal verification | Not performed; no proof-assistant artifact or trusted-axiom audit. |
 | External review and novelty | Not performed. Published source status does not certify these audit repairs, and the audit makes no priority or new-theorem claim. |
 
@@ -205,40 +203,3 @@ State the infinitude assumptions needed for the characterization separately from
 
 - 2026-09-08: the user resolved the identity mismatch by choosing the supplied Reutenauer article and approving Reu96 as its key.
   This corrects the file identity; it does not substitute the distinct Duchamp-Reutenauer work for the chosen source.
-
-<a id="decision-candidate-0001"></a>
-<a id="decision-candidate-0002"></a>
-<a id="decision-candidate-0003"></a>
-<a id="decision-candidate-0004"></a>
-## Historical recorded completion
-
-The four historical publications `Reu96 free-field source audit_v1` through `Reu96 free-field source audit_v4` retain one unchanged source-audit disposition: **completed within the original assignment scope**.
-The substantive inspection and completion dates remain those stated in the audit and contract above.
-The record registration time is 2026-09-14T01:14; it is not a new inspection or inferred historical completion date.
-
-Recorded by: Yin.
-Recorded event: 2026-09-14T01:14.
-Original transition: no prior recorded disposition to `completed`.
-No resumption condition was recorded.
-
-Contract: [original audit assignment, physical v1](#historical-contract-v1).
-Selected completion evidence: [Source-audit completion review](#goal-completion-review).
-Covered materials are this source audit and that assignment.
-Original reviewed publication: `Reu96 free-field source audit_v1`.
-The evidence basis is the recorded completion review; its actual inspection relationship and limitations remain in the review itself.
-No separately declared fixed dependencies or independent review classification is invented.
-
-Recorded scope: The original completion criteria and limitations in the cited completion comparison for Reu96 free-field source audit.
-Preserve recorded lifecycle and completion evidence; historical review classification is not inferred.
-
-Recorded reason: Preserve the completed disposition already recorded at registration; this timestamp is registration, not an inferred historical completion date.
-
-Recorded authority: initial recorded disposition in `Reu96 free-field source audit_v1`, preserving the [original assignment and criteria](#historical-contract-v1).
-This is a historical account of the retired registration, not a new audit-task lifecycle.
-
-| Historical publication | Recorded update | Meaning of the recording |
-| --- | --- | --- |
-| `Reu96 free-field source audit_v1` | 2026-09-14T02:10 | Yin, 2026-09-14T01:14: registration |
-| `Reu96 free-field source audit_v2` | 2026-09-14T04:01 | Yin, 2026-09-14T04:01: Register previously selected proof/review support; verified legacy correspondence, no new mathematical audit |
-| `Reu96 free-field source audit_v3` | 2026-09-14T14:42 | Yin, 2026-09-14T14:42: Approved framework separation: relocate mathematical material and rebase local documentation locators; preserve mathematics, assessments and historical evidence. |
-| `Reu96 free-field source audit_v4` | 2026-09-15T08:24 | Yin, 2026-09-15T08:24: Separate execution metadata from existing Task bodies; preserve mathematical contracts, lifecycle, historical evidence and prior review classification. |

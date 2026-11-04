@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T20:31.
 Human operator: Yin.
 For this04:31 check the agent read all269original L187 lines and the original R86 whole D55 Sections1--5/formulas(1)--(9) account as then available, together with the entire391-line actual published open C447 statement, argument, decision and remaining boundary.
-It checked the needed complete normalized descent/strict real guard at C420, beta<phi sparse interval/global compact reduction at C432, and actual finite compact/quotient/fractional-module interfaces at C439.
+It checked the needed complete normalized descent/strict real guard at C416, beta<phi sparse interval/global compact reduction at C428, and actual finite compact/quotient/fractional-module interfaces at C435.
 It found no sufficient existing Claim covering the whole new ideal-control bridge, residue count and sparse-label/permutation proof.
 The entire original12664-character necessary Sections1--5 mathematical body is retained modulo same-object input homes, one spacing correction, original-screen history wording and explicit exclusion of zero normalized displacements.
 The exact original alphabet/cocycle, automatic beta<2 cover guard, zero-prefix rotated-direction choice and backward real estimate are displayed fully.

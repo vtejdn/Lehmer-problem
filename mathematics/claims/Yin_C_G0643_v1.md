@@ -408,7 +408,7 @@ The zero-Haar integer cyclotomic factorization has leading coefficient1 or-1, so
 The original maximal q then gives precisely the degree identities in the statement.
 No factor, surplus, field degree or original layer is removed to obtain the contradiction.
 The global nonsquareness of U_0,R_0 remains C199's actual normalization conclusion, not an inference from either local cube or endpoint parity.
-This theorem needs no later finite full-jet exclusion, and does not use C667's remaining-range result.
+This theorem needs no later finite full-jet exclusion, and does not use C640's remaining-range result.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-23)

@@ -4,6 +4,10 @@ author: Yin
 
 # Exact central scattering and finite-window product decay
 
+Current checking scope is owned by [R549](../audits/reviews/Yin_R_G0549_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct continuation of G0001 by the assigned AI assess_shortness_route for Yin.
 The coordinator and assigned agent derived the same causal center kernel and scattering normalization.

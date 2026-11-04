@@ -93,7 +93,7 @@ They are not presented as new results here.
 The changed transfer tests an actual polynomial MULTIPLE of H35, with all multiplier costs and all numerator coefficients retained.
 Its final analytic implication is an explicit application of the complete [C196v5 norm-only theorem](Yin_C_G0196_v5.md#norm-only-sparse-transfer), not a replacement theorem or a claim to have proved its source inputs again.
 
-The reuse screen read C195v2 and C587v2 completely, C196v5's complete NF1--NF8 argument and canonical-factor scope, C175's completed moving-test boundary, C159's finite weighted angular statement, C585v2's positivity/interlacing boundary, C605v2's actual trace-field and composition boundaries, and C200's complete torsion calibration.
+The reuse screen read C195v2 and C587v2 completely, C196v5's complete NF1--NF8 argument and canonical-factor scope, C175's completed moving-test boundary, C159's finite weighted angular statement, C585v2's positivity/interlacing boundary, C586v2's actual trace-field and composition boundaries, and C200's complete torsion calibration.
 A targeted search of existing G Claims and ledger records for primitive H35/H25, content at 7/11, exterior H35 roots and cyclotomic sparse multiples located no exact proof of A or B.
 This bounded search makes no literature novelty assertion.
 The already accepted finite norm, scalar Mahler and elementary polynomial interfaces suffice for the deductions.

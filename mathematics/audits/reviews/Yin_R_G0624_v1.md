@@ -21,12 +21,12 @@ Both findings here are SELF, with no new independent relationship or mathematica
 | --- | --- | --- |
 | [Current complete local-curvature moment and tail finding](#current-local-curvature-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0422_v1.md#statement) | Entire exact genuine Salem Statement, all curvature/coefficient/radius/partition definitions, all integers k>=1 and N>=1, rho boundary, exact symbolic quartic and all conditional cost/uniformity restrictions. |
 | [Current complete local-curvature moment and tail finding](#current-local-curvature-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0422_v1.md#argument) | Complete necessary Sections1–7/equations(1)–(14), every stationary/cusp/off-circle/endpoint/first-second-fourth derivative step, normalized full-circle sums/tails/lower sign, exact quartic and source/nonexecution limits. |
-| [Current complete local-curvature moment and tail finding](#current-local-curvature-whole-finding) | [Exact fixed input](Yin_R_G0200_v1.md#whole-local-curvature-finding) | Entire original22:11 whole account and nine exact bindings, actual initial whole author-check exposure, exact source depth and unchanged mathematics/verdict. |
+| [Current complete local-curvature moment and tail finding](#current-local-curvature-whole-finding) | [Exact fixed input](Yin_R_G0200_v1.md#whole-local-curvature-finding) | Entire original 2026-10-11T14:11 whole account and nine exact bindings, actual initial whole author-check exposure, exact source depth and unchanged mathematics/verdict. |
 | [Current complete local-curvature moment and tail finding](#current-local-curvature-whole-finding) | [Exact fixed input](../literature/Tao26/Yin_U002.md#tao26-u002) | Original exact higher-derivative Lemma2.5 p.5 statement text/visual method attribution; explicit8and32 locally proved, original source/date/proof limits preserved and no new primary read. |
 | [Current complete local-curvature moment and tail finding](#current-local-curvature-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0398_v1.md#unregularized-integer-moment-certificate) | Exact accepted canceled g/cusp and original phi/mu/unregularized logarithmic identity, all original normalizations. |
 | [Current complete local-curvature moment and tail finding](#current-local-curvature-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0402_v1.md#salem-interlacing-critical-orders) | Only actual genuine Salem root/derivative configuration, smooth/cusp orders, original-degree and quartic interfaces. |
 | [Current complete local-curvature moment and tail finding](#current-local-curvature-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0406_v1.md#salem-nearest-product-exponential-cost) | Earlier specific global-product expense obstruction as comparison only, not a lower bound on these distinct local costs. |
-| [Original entire local-curvature author self-check](#original-local-curvature-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0375_v1.md#local-curvature-entire-author-freeze) | Complete original author self-check, actual22:05 whole freeze and all source/allocation/unrun restrictions; account/retention dates remain distinct. |
+| [Original entire local-curvature author self-check](#original-local-curvature-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0375_v1.md#local-curvature-entire-author-freeze) | Complete original author self-check, actual 2026-10-11T14:05 whole freeze and all source/allocation/unrun restrictions; account/retention dates remain distinct. |
 
 <a id="current-local-curvature-whole-finding"></a>
 ## Current complete local-curvature moment and tail finding evidence
@@ -71,14 +71,14 @@ No substantive defect was found in the complete current proof.
 
 The distinct existing Tao26-U001 Lemma2.4 proof is not retroactively expanded.
 New U002 preserves the original Lemma2.5 text/visual statement and attribution occurrence only; no new PDF, proof or guessed reading minute is supplied.
-The original R200 whole is SELF because its first whole reading included the actual full author self-check; original source check, date22:11 and all mathematical scopes remain unchanged.
+The original R200 whole is SELF because its first whole reading included the actual full author self-check; original source check, date 2026-10-11T14:11 and all mathematical scopes remain unchanged.
 This is actual current construction self-review, not an independent replacement, new research run, Task/E selection or release acceptance.
 
 <a id="original-local-curvature-author-check-finding"></a>
 ## Original entire local-curvature author self-check evidence
 
-The original author developed and froze the complete Sections1–7/equations(1)–(14) on2026-10-11T14:05.
-The account21:59 and retained-record22:34 times do not supply a new source-reading minute.
+The original author developed and froze the complete Sections1–7/equations(1)–(14) on 2026-10-11T14:05.
+The account 2026-10-11T13:59 and retained-record 2026-10-11T14:34 times do not supply a new source-reading minute.
 The original whole self-check, not an invented coordinator whole, is retained verbatim below.
 
 2026-10-11T14:05 author freeze.

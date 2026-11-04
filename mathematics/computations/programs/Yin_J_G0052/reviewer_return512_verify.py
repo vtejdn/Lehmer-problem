@@ -245,7 +245,7 @@ def main():
         sys.set_int_max_str_digits(0)
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--author-input', type=Path, default=OUTPUT/'return_midpoint_512.json')
-    parser.add_argument('--old-prefix-input', type=Path, default=OUTPUT/'midpoint_continuation.json')
+    parser.add_argument('--old-prefix-input', type=Path, default=HERE/'inputs/return_weights_512.json')
     parser.add_argument('--output', type=Path, default=OUTPUT/'reviewer_return512_result.json')
     args = parser.parse_args()
     try:
@@ -262,11 +262,11 @@ def main():
             'memory_checks_graph_states': 4096, 'memory_checks_dp_steps': 16,
             'real_strip_coefficient_scale': SCALE, 'pressure_root_bisections': 40}.items():
             assert author['scope'][k] == v, k
-        assert old['scope']['complete_return_times'] == [1,256]
+        assert old['scope']['complete_return_times_including_zero'] == [0,512]
         assert old['scope']['digit_integer_weights'] == {'-1':1,'0':2,'1':1} and old['scope']['digit_denominator'] == 4
         for key in ('complete_return_integer_weights', 'complete_first_return_integer_weights'):
             assert len(result[key]) == 513 and result[key] == author[key]
-            assert result[key][:257] == old[key] and len(old[key]) == 257
+            assert result[key][:257] == old[key][:257] and len(old[key]) == 513
         for key in ('midpoint', 'pressure_beta_interval', 'partial_first_return_at_beta_lower_bracket',
                     'partial_first_return_at_beta_upper_bracket', 'partial_first_return_beta_interval_display',
                     'selected_complete_returns', 'all_times_fail_strict_pressure_crossing',

@@ -20,7 +20,7 @@ This finding therefore has an unknown checking relationship under the current is
 
 The reviewer previously whole-reviewed/authored C90's wrapper, and has similar ancestor review/wrapper roles for C84/C87/C89 and the C74 ancestor.
 These are disclosed accepted-input roles, not contributions to D47's new phase-energy proof.
-C90's separate actual extraction R433 and adopted decision supply its inherited status; this finding does not independently certify the reviewer's own earlier wrapper by role.
+C90's separate actual extraction R323 and adopted decision supply its inherited status; this finding does not independently certify the reviewer's own earlier wrapper by role.
 This is internal independent AI mathematical review, not external refereeing, a source-wide proof audit or formal verification.
 
 ## Review relationships
@@ -45,7 +45,7 @@ This is internal independent AI mathematical review, not external refereeing, a 
 | [Whole angular finding](#angular-annihilator-whole-independent-finding) | [L229 radial/nonzero boundary](../../ledger/Yin_L_G0229_v1.md#actual-resultant-coefficient-energy-bound) | Comparison and credited pointwise radial mechanism ONLY. Its norm-log theorem requires nonzero resultant and is NOT applied to the annihilator; D47 reproves its own radial error before logs. |
 | [Whole angular finding](#angular-annihilator-whole-independent-finding) | [C74 all-r threshold](../../claims/Yin_C_G0074_v1.md#multiplicity-delay-explicit-threshold) | Every integer r>=1 eta_r, h0 domain and exp(2eta_r)[4/5+8r epsilon(eta_r)+32r eta_r]<1; no older word theorem supplies the new independence argument. |
 | [Whole angular finding](#angular-annihilator-whole-independent-finding) | [C90 exact fixed-rank statement](../../claims/Yin_C_G0090_v1.md#statement) | Whole actual quotient/index/q-dividing-I and rational-weight packet/word interface, with original O0/nonzero/current-independence/cumulative-cost premises supplied before use. |
-| [Whole angular finding](#angular-annihilator-whole-independent-finding) | [C90 actual adopted decision](../../claims/Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual02:08 adoption after corrected whole R431 and distinct actual extraction R433, preserving R429 and author corrections. Its direct graph contains no D47. |
+| [Whole angular finding](#angular-annihilator-whole-independent-finding) | [C90 actual adopted decision](../../claims/Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual02:08 adoption after corrected whole R321 and distinct actual extraction R323, preserving R320 and author corrections. Its direct graph contains no D47. |
 | [Whole angular finding](#angular-annihilator-whole-independent-finding) | [C84 permitted delay class](../../claims/Yin_C_G0084_v1.md#statement) | Exact primitive weighted binary signed delays and optional one-coordinate shifts inherited through C90, TRUE-polynomial/all-stage O0/fixed-weight/cumulative-cost scope. |
 | [Whole angular finding](#angular-annihilator-whole-independent-finding) | [C87 old control and small-r comparison](../../claims/Yin_C_G0087_v1.md#statement) | Golden input/control only and stronger same-K0 three-power result as comparison; not a premise proving general-r independence. |
 | [Whole angular finding](#angular-annihilator-whole-independent-finding) | [C89 four-power comparison](../../claims/Yin_C_G0089_v1.md#statement) | Accepted same-K0 O0 four-power result only as a stronger small-r comparison, not an input to the new phase proof. |
@@ -138,7 +138,7 @@ The DS17 comparison also remains correct: a lower bound on TOTAL m(F) for a spar
 
 ## Actual C90 adoption and the complete resolved assembly
 
-C90's selected organized-reviewed decision was actually read: it is dated02:08 and adopts corrected original R431 plus separate actual extraction R433, retaining original negative R429 and the two dated author repairs.
+C90's selected organized-reviewed decision was actually read: it is dated02:08 and adopts corrected original R321 plus separate actual extraction R323, retaining original negative R320 and the two dated author repairs.
 The D47 final freeze is later, at02:09:31.
 Section5's earlier conditional paragraph is preserved as development history and Section6 explicitly resolves it; there is no prospective acceptance or backdated finding.
 

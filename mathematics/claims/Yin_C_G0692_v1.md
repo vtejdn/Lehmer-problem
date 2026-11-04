@@ -8,7 +8,7 @@ The [active G0001 Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resum
 Root proposed the actual two-term dyadic identity and its use with the doubled-support C691 family.
 Same_trace verified that identity, constructed the entire bounded strong-root coefficient input, and derived the complete first-quarter obstruction and both modulo4 sign conditions below.
 This is author mathematics, not independent review.
-Focused reuse read the adopted C691 full family, C686 actual multi-correction scope, C689 whole next-layer criterion and the exact C603/C699/C672 integer-half interfaces.
+Focused reuse read the adopted C691 full family, C686 actual multi-correction scope, C689 whole next-layer criterion and the exact C603/C669/C672 integer-half interfaces.
 No native computation, coefficient enumeration or external source theorem is used.
 The content is a rigorous failure of a proposed simplification, not a claim that the full modulo16 problem or the original Task is impossible.
 
@@ -165,7 +165,7 @@ Suppose lambda=2+4t and write T_lambda=mathcal_H Phi^(7A)+2Phi^A K+4W with W=tP.
 All C672 inputs hold by TT1 and TT7: the actual factorized base has full even exponents, both global forward divisibilities hold, the stronger root includes the required root, and the low odd coefficient condition follows from X^(3A/2)|k.
 In particular F(T_lambda)=0 modulo4 for every t, on every primary.
 
-Use the actual C699/C672 divisions
+Use the actual C669/C672 divisions
 
     sC^3-K^6=Phi^A L_s+2M_s,
     D_K=Delta(K)bar+k^2=k^2.
@@ -188,7 +188,7 @@ Substitution in the exact error, with every remaining term retained, gives
 For the negative equality, the bracket has numerator divisible by phi^A before reduction.
 But Wbar=tbar phi^A k, hence Wbar^2=tbar phi^(2A)k^2.
 The positive target is nonzero in that quotient, since k is a unit and2A<3A.
-C699/C672's all-primary iff now gives exactly TT5.
+C669/C672's all-primary iff now gives exactly TT5.
 This step confirms that the relevant failure below is not merely an unverified modulo4 base.
 
 ### TT5: the actual first half-remainder and the uncancelled first quarter

@@ -123,7 +123,7 @@ There is no new numerical run, external source theorem, source-proof audit, arit
 | --- | --- |
 | date | 2026-10-22T04:54 |
 | status | proved |
-| reason | Adopt after actual complete whole SELF formed12:53 of the exact current Statement and entire original proof, with both product directions, every prime/depth/index guard, finite integral CRT, normalized full-kernel price, compatible tokens, one-time original norm and complete odd-j countercontrol. No substantive defect or proof repair was found. All original author contributions and prior R561 mathematical/date/input scope remain; missing old context is not reconstructed. Automatic near-one coverage, new computation, source-proof audit and Task/E continuation are not asserted. |
+| reason | Adopt after actual complete whole SELF formed12:53 of the exact current Statement and entire original proof, with both product directions, every prime/depth/index guard, finite integral CRT, normalized full-kernel price, compatible tokens, one-time original norm and complete odd-j countercontrol. No substantive defect or proof repair was found. All original author contributions and prior R415 mathematical/date/input scope remain; missing old context is not reconstructed. Automatic near-one coverage, new computation, source-proof audit and Task/E continuation are not asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -162,7 +162,7 @@ No numerical program, factorization run, B3 extension or graph scan is used.
 Its [finite exact local table](Yin_C_G0256_v1.md#finite-exact-local-cyclic-table) already reconstructs every local norm valuation by nonnegative events, without an individual-event totient capacity assertion.
 [C532](Yin_C_G0532_v1.md#local-multiplicity-scaled-depth-capture) already captures multiplicity-scaled depths using order-adapted auxiliaries at possibly different times.
 [L65](Yin_C_G0242_v1.md#collision-layers-and-frobenius-defect) already distinguishes higher Smith layers of a DIFFERENT mixed-resultant operator from its first collision nullity.
-The new [L409 first-depth law](Yin_C_G0513_v1.md#nonreduced-layer-definition) gives exact nonnegative phi-capacity labels for the original companion modulo every prime, including repeated reduction.
+The new [L408 first-depth law](Yin_C_G0513_v1.md#nonreduced-layer-definition) gives exact nonnegative phi-capacity labels for the original companion modulo every prime, including repeated reduction.
 Those full-norm, depth and first-layer results are not claimed anew.
 
 A bounded G-line search/read of higher Smith depth, liftable kernels, depth/capacity and layer interfaces found no retained proof that EACH higher Smith threshold admits the same capacity, nor the normalized truncated-kernel capacity below.
@@ -310,7 +310,7 @@ In characteristic p one has Phi_(p^b)(t)=(t-1)^phi(p^b).
 On the cyclic primary module F_p[t]/phi^e, the factor phi occurs with multiplicity exactly 1 in t^o-1, since p does not divide o.
 Multiplication by (t^o-1)^v therefore has kernel dimension f_phi min(e_phi,v).
 For completeness, multiplication by any q on F_p[t]/H has kernel dimension deg gcd(H,q): after writing H=g H1 and q=g q1 with coprime H1,q1, its kernel consists precisely of H1 times the polynomials of degree below deg g.
-This is the original companion calculation used in L409, and does not replace a primary multiplicity by a ramification index.
+This is the original companion calculation used in L408, and does not replace a primary multiplicity by a ramification index.
 Applying (2) on M_o now gives
 
     w_(o*p^b)^(k)
@@ -332,7 +332,7 @@ The weights are intrinsically unique: ordinary divisor inversion of (10) gives
 
 Indeed summing the right side over r dividing n leaves coefficient sum_(a|n/s) mu(a), which is 1 for s=n and 0 otherwise.
 Thus choices of K, CRT exponent, idempotent polynomials and block bases do not change the weights.
-At k=1, the primary count is g_(1,o)(b)=sum_(phi:o_phi=o) f_phi min(e_phi,p^b), so (7) recovers EXACTLY L409's first-depth law.
+At k=1, the primary count is g_(1,o)(b)=sum_(phi:o_phi=o) f_phi min(e_phi,p^b), so (7) recovers EXACTLY L408's first-depth law.
 The new assertion is its liftable higher-threshold counterpart, not a second proof of first-depth arithmetic coverage.
 
 The determinant and the actual Smith exponents s_i(n) are those of the ORIGINAL integer matrix:
@@ -474,7 +474,7 @@ The first K depths give label-one mass min(K,j), which likewise need not obey ph
 Its normalized value min(K,j)/K obeys (15), with the factor K paid in the norm income.
 This is an actual reciprocal original-field example of the failure, not an arbitrary Smith matrix or a selected subnorm.
 The complete original norm at n=1 has absolute value 3^j.
-Modulo 3 the polynomial is (t-1)^2, so its first-depth nilpotent law still agrees with L409.
+Modulo 3 the polynomial is (t-1)^2, so its first-depth nilpotent law still agrees with L408.
 
 This family is FAR from a small-measure counterexample.
 From alpha+alpha^(-1)=2+3^j and alpha>1 one obtains
@@ -492,7 +492,7 @@ Root and loglog_cyclic_review are contributors to the complete argument above.
 No numerical program, prime scan, maximal-order computation or new external source was used.
 
 L74 already supplies full original local income aggregation; L221 already handles its distinct order-adapted depth capture.
-L409's explicit first-depth law is recovered at k=1, and its arithmetic positive-density problem is not solved here.
+L408's explicit first-depth law is recovered at k=1, and its arithmetic positive-density problem is not solved here.
 The new retained interface is the exact per-threshold capacity and its compatible transport, together with the normalized truncated-kernel capacity and explicit depth price.
 Only the conditional capture and inversion in Section5 consume the fixed C142v2 and C147v5 theorems.
 Their proofs and inherited source constants are not re-audited or improved here.

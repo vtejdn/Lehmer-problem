@@ -9,7 +9,7 @@ The separately selected [Hun74-U007](Yin_U007.md#hun74-u007) retains the 2026-09
 
 The later selected [Hun74-U006](Yin_U006.md#hun74-u006) retains the Chapter V finite-field extension, irreducible-degree and Frobenius interfaces inspected for the actual Salem construction.
 Its statement/applicability scope does not extend the earlier Chapter IV proof audit.
-The [actual realization consumer](../../../claims/Yin_C_G0164_v1.md#argument) uses that interface separately from the PID decomposition in U006.
+The [actual realization consumer](../../../claims/Yin_C_G0164_v1.md#argument) uses that interface separately from the PID decomposition in U005.
 
 <a id="psi-left-module-terminology"></a>
 ### Left-module homomorphism terminology, 2026-10-12
@@ -51,11 +51,12 @@ This is neither a whole-book audit nor an independent or formal verification.
 
 | Need | Exact reusable source interface | Current use boundary |
 | --- | --- | --- |
-| A basis containing a prescribed independent set over a division ring | [IV.2.4](Yin_U002.md#division-ring-bases), p. 183; right-module conversion is explicit | Supplies the already-used standard basis theorem in Yin_C_F0035-P1. |
-| A coefficient functional and the induced tensor map | [IV.4.11](Yin_U004.md#algebraic-dual), p. 204; IV.5.2, p. 209 | Same Yin_C_F0035 source supplement identifies the existing algebraic argument; no continuity or boundedness of the functional is asserted. |
+| A basis containing a prescribed independent set over a division ring | [IV.2.4](Yin_U002.md#division-ring-bases), p. 183; right-module conversion is explicit | Accepted source input for the right-basis extension reported under former Yin_C_F0035-P1; that project proof home remains unlocated. |
+| A coefficient functional and the induced tensor map | [IV.4.11](Yin_U004.md#algebraic-dual), p. 204; IV.5.2, p. 209 | The former Yin_C_F0035 source supplement reports this algebraic use; its project proof/review homes remain unlocated. No continuity or boundedness of the functional is asserted. |
 | Module, bimodule, Hom, dual, algebra and tensor terminology | [Definition-group index](../../../definitions/index.md#modules-hom-and-algebraic-tensors) | Definitions remain in these source units. Concrete choices of M, affiliated algebra or division subring remain with each consuming theorem. |
 
-The tensor equalizer itself is a project argument in Yin_C_F0035; Hungerford is not cited as stating that exact equalizer theorem.
+The tensor equalizer was reported as a project argument under former Yin_C_F0035, whose original fixed proof/review homes remain unlocated in the current retained F-family collection.
+Hungerford is not cited as stating that exact equalizer theorem, and the accepted basis/functional inputs alone supply no currently reusable project equalizer proof.
 No new C IDs, mathematical Roles or proof-status promotions result from this audit.
 The book's terminology role does not make it a style model or certify uninspected chapters.
 
@@ -72,7 +73,7 @@ The book's terminology role does not make it a style model or certify uninspecte
   No Hilbert/Banach completion or bounded extension follows from this chapter.
 - **PID results:** Section IV.6 requires its commutative PID and unitary-module hypotheses.
   Its prime decompositions are indexed by associate classes.
-  Two compressed proof cases are completed in U006.
+  Two compressed proof cases are completed in U005.
 
 Search record: local primary pages supplied the mathematical evidence.
 A publisher search on 2026-09-10 verified the work identity and chapter span at the [Springer record](https://link.springer.com/book/10.1007/978-1-4612-6101-8).
@@ -84,9 +85,9 @@ The search stopped because the direct primary reading and elementary counterchec
 
 This source audit is the authoritative record of the source-reading operation, corrections and acceptance scopes.
 The central audit index registers the seven unit IDs; the definition index supplies navigation; the role indexes record the user's designation.
-A dated source supplement at Yin_C_F0035 attaches the accepted standard inputs to its unchanged proof.
-Its extraction provenance and existing independent review remain separate.
-Historical audits retain their original evidence scopes; the supplement clarifies that candidate-stage review wording in the preserved proof was superseded by the completed review already linked from the Claim index.
+The earlier account reports a dated source supplement and completed independent review under former Yin_C_F0035.
+Their original project proof/review homes have not been located; these historical reports do not establish a current fixed theorem or review selection.
+The source-reading and source-attribution scopes retained here remain separate.
 
 Documentation validation: `python scripts/check-research-records.py` passed for 252 Markdown files and 3,431 local links/anchors; `git diff --check` passed.
 Comparison with the pre-integration snapshot verified that the complete preceding fraction/tensor ledger text is preserved.

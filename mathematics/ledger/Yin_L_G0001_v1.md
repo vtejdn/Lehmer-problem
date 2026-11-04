@@ -11,7 +11,7 @@ This fixes the evidence behind revisions of [S G0001](../strategies/Yin_S_G0001.
 It claims neither a new Lehmer bound nor a counterexample.
 The human ordering remains algebraic entropy first, affine growth second, determinant methods third.
 The complete current zero-gap reverse proof is owned by [C G0207](../claims/Yin_C_G0207_v1.md#argument), and the exact affine short-free-pair proof by [C G0208](../claims/Yin_C_G0208_v1.md#argument).
-The original body below preserves the dated route/source assessment and the actual L1 input inspected by R G0529; its historical review does not become a review of those later Claim wrappers.
+The original body below preserves the dated route/source assessment and the original L1 Section 1 reverse implication inspected by [R384](../audits/reviews/Yin_R_G0384_v1.md#zero-gap-direct-sum-independent-finding); its historical review does not become a review of those later Claim wrappers.
 
 ## 1. Finite capture locates the difficulty; it does not weaken it
 

@@ -101,7 +101,7 @@ The nonempty final fiber therefore has exactly2^(d-3A) distinct classes modulo51
 
 ### Source costs and evidence limits
 
-C725 JP8 supplies the accepted complete C724 source and its original degree, gap, fresh-factor maximality and separate synthetic-layer data.
+C725 JP8 supplies the accepted complete C691 source and its original degree, gap, fresh-factor maximality and separate synthetic-layer data.
 All new corrections have degree below d and are even, so they retain Tbar and the odd canonical reduction G(T)bar.
 Consequently the formulas q(30m_src+degY), the displayed cubic-Q upper bound, q(m_src-8-5degH_aux)>5qm_src/256, maximal common q, reciprocal degree2d and separate layer12m_src q transfer with exactly the stated scope.
 This is reuse of the accepted source construction and its checked interface, not a new independent derivation of every earlier source cost.

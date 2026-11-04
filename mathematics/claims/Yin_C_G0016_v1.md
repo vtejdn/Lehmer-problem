@@ -112,7 +112,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T18:51 |
 | status | proved |
-| reason | Adopt the exact complete current Statement and Argument with R741's actual separately assigned isolated whole finding. The new review covers every domain, proof step, selected interface, equality/control and original arithmetic cost, with no theorem repair or expanded source/native scope. The earlier R301 UNKNOWN and current R883 SELF remain at their actual dates and relationships; no original context or coverage is backfilled, and no general dual-completeness, optimizer or uniform-gap conclusion is adopted. |
+| reason | Adopt the exact complete current Statement and Argument with R741's actual separately assigned isolated whole finding. The new review covers every domain, proof step, selected interface, equality/control and original arithmetic cost, with no theorem repair or expanded source/native scope. The earlier R301 UNKNOWN and current R736 SELF remain at their actual dates and relationships; no original context or coverage is backfilled, and no general dual-completeness, optimizer or uniform-gap conclusion is adopted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -120,7 +120,7 @@ The recorded review description was `under review`.
 | argument | [Exact retained argument](#argument) | Complete frozen Sections1--9, Theorem1, Propositions2--3, equations1--19, exact singular/noise/density proofs, control/equality/norm accounting and all limits. |
 | dependency | [Exact retained dependency](Yin_C_G0014_v2.md#short-width-power-order-obstruction) | Unique monogenic integer coordinates and the exact short-window endpoint; no inference that a norm floor replaces actual order membership. |
 | dependency | [Exact retained dependency](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Full finite Poisson/reversal/log proof with all original nonzero resultants and the actual common window; this subsection does not impose reciprocity on the present generic monic input. |
-| review | [Complete current isolated finding](../audits/reviews/Yin_R_G0741_v1.md#current-c16-complete-isolated-independent-finding) | Entire current Statement A--E and complete Argument Sections1--9, Theorem1/Propositions2--3/equations1--19, all directly used C14/C10 interfaces, singular realization/density/full-lattice/control/overorder/norm costs and every unresolved boundary; initial complete judgment precedes old R301/R883 comparison at actual2026-10-22T18:40. |
+| review | [Complete current isolated finding](../audits/reviews/Yin_R_G0741_v1.md#current-c16-complete-isolated-independent-finding) | Entire current Statement A--E and complete Argument Sections1--9, Theorem1/Propositions2--3/equations1--19, all directly used C14/C10 interfaces, singular realization/density/full-lattice/control/overorder/norm costs and every unresolved boundary; initial complete judgment precedes old R301/R736 comparison at actual 2026-10-22T18:40. |
 
 ## Argument
 

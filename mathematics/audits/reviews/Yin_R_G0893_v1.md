@@ -8,7 +8,7 @@ Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of C672 and this square-input argument.
 This is the reviewer's first whole review of the fixed C672 v1 statement and all five proof sections, including SQ1--SQ8.
 The fixed target was read before forming the findings, followed by the entire fixed C669 statement and argument and the precise adopted C667/C668 application inputs.
-The reviewer retains its own [C698 whole review](Yin_R_G0890_v1.md#synthetic-canonical-v2-whole); the current fixed C668 mathematics was reread and compared with that actual reviewed scope before reuse.
+The reviewer retains its own [C668 whole review](Yin_R_G0890_v1.md#synthetic-canonical-v2-whole); the current fixed C668 mathematics was reread and compared with that actual reviewed scope before reuse.
 No author draft, proof-development conversation or summary, other-agent inventory, native output or another reviewer's R was consulted.
 C701 was not read or used: its mention in the target is comparison provenance, not a premise.
 The adopted source decisions identify the accepted inputs but do not replace the mathematical interface checks below.

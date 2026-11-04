@@ -4,9 +4,10 @@ author: Yin
 # Actual extraction review of uniform weighted binary-delay rigidity
 
 Date: 2026-10-12T16:45.
-Human record author Yin. g0001_review_recovery inspects the ACTUAL new C82 statement/wrapper authored by g0001_matrix_recovery and the complete retained D37 proof authored by rounding-recovery.
+Human record author Yin.
+g0001_review_recovery inspects the ACTUAL new C82 statement/wrapper authored by g0001_matrix_recovery and the complete retained D37 proof authored by rounding-recovery.
 This reviewer contributed neither that new proof nor this wrapper.
-The reviewer previously whole/actual-reviewed accepted C71 in R392/R393, actual-reviewed C74 in R399, and actual-reviewed C77 in R404; those are disclosed ancestor review roles, not proof contributions or automatic coverage of this artifact.
+The reviewer previously whole/actual-reviewed accepted C71 in [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding)/[R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding), actual-reviewed C74 in [R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding), and actual-reviewed C77 in R301; those are disclosed ancestor review roles, not proof contributions or automatic coverage of this artifact.
 Other unrelated Claim-wrapper roles supply no authority here.
 Root's broad assignment and the C82 wrapper were supplied, and R308's original whole review was consulted during the present actual-extraction inspection.
 No blind-review claim is made.

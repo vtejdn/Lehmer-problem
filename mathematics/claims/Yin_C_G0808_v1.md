@@ -8,11 +8,11 @@ Human author Yin.
 The author agent semigroup_source_preparation derived the coefficient normalization, regularized averaging estimate, explicit cutoff and varying-source consequences below.
 Root checked the retained Proposition 4.10 interface and the one-sided cutoff constants as an author-side assessment.
 These are substantive author/checking roles, not independent review.
-This complete candidate is OPEN for isolated whole review and separate adoption.
+At author registration, this complete candidate was OPEN for isolated whole review and separate adoption.
 
 ## Statement
 
-For each source independently, retain any complete ACTUAL primitive C842 source and its C844 globalF8/selected-X8 outputs in the domain of [adopted C804](Yin_C_G0804_v1.md#decision-whole-reviewed-2026-10-26).
+For each source independently, retain any complete ACTUAL primitive C799 source and its C801 globalF8/selected-X8 outputs in the domain of [adopted C804](Yin_C_G0804_v1.md#decision-whole-reviewed-2026-10-26).
 Retain all original source factors and multiplicities, canonical divisor, sign choice, degree, gap, period, padding and full-product/core distinctions.
 Write \(h,D,P_8,w_H\) for that source's original constants and \(N=1+2B_{\rm step}\Delta_{\rm crit}s\) for an ORIGINAL parameter with \(s\ge s_{\min}\).
 The positive integers \(B_{\rm step},\Delta_{\rm crit}\) and the minimum \(s_{\min}\) are the actual source values, not newly chosen progression data.

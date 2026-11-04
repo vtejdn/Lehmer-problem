@@ -186,7 +186,7 @@ No larger guessed constant is promoted in its place.
 <a id="h4-complete-finite-family-outcome"></a>
 ### 3. Entire declared family, including unsuccessful certifications
 
-The first and sole mathematical author run began2026-10-10T11:10 using Python3.12.14/SymPy1.14.0.
+The first and sole mathematical author run began 2026-10-10T11:10 using Python3.12.14/SymPy1.14.0.
 All29 declared n values completed in3.6048141999926884seconds internally and5.3175031seconds at the shell, below180seconds.
 There was no failed or partial mathematical run, repeated execution, extra n/prime/grid point or adaptive expansion.
 The original declaration's19:11 minute label was rounded ahead of that actual execution timestamp; J79 explicitly retains the correction and the actual save-before-run ordering.
@@ -268,8 +268,8 @@ The original gap Task remains active and unresolved, as do any appropriately sta
 No new arbitrary constant is substituted for H4.
 The retained finite-Gram theorem of L321 is unaffected because the witness has theta>1.
 
-ENTIRE AUTHOR FREEZE at2026-10-10T11:14: Sections1--4, equations(1)--(8), the complete29-row family table, explicit actual degree20 H4 counterexample, all arithmetic/metric/measure costs, failed certificates and exact source/reuse limits.
-The complete author body is ready for whole separately organized noncontributor review; the J79 family program/output were already frozen at19:12.
+ENTIRE AUTHOR FREEZE at 2026-10-10T11:14: Sections1--4, equations(1)--(8), the complete29-row family table, explicit actual degree20 H4 counterexample, all arithmetic/metric/measure costs, failed certificates and exact source/reuse limits.
+The complete author body is ready for whole separately organized noncontributor review; the J79 family program/output were already frozen at 2026-10-10T11:12.
 No further author mutation is planned before review.
 
 

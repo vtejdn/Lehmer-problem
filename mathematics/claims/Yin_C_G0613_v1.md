@@ -9,9 +9,9 @@ The [D1 author section](../drafts/Yin_D_G0001.md#remaining-normalized-uniform-co
 The question is whether the remaining normalized A_0>=4 range is controlled by derivative, endpoint parity, complete support and canonical C3/C5 identities alone.
 The construction answers that proposed weakening negatively on an unbounded exact family, while the full C197 unit condition excludes every monic integer lift of each specified whole reduction.
 This is not a next-multiplicity cutoff, an order scan, a numerical example or an inference of global Frobenius normalization from a local jet.
-The reuse check inspected C197v3, C199v4/v5, C609v2 and C601's earlier finite controls and conditional multiplicity-two closure.
+The reuse check inspected C197v3, C199v4/v5, C609v2 and C583's earlier finite controls and conditional multiplicity-two closure.
 The earlier fixed scopes remain unchanged; this construction explicitly supplies its whole family, integer lift expense and unresolved actual-input boundary.
-The material is open pending separate whole mathematical review.
+At initial registration, the material was open pending separate whole mathematical review.
 
 ## Statement
 

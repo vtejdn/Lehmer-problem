@@ -17,7 +17,7 @@ Root's assignment and author self-check were visible; no previous independent D2
 Every substantive calculation was independently reconstructed by hand.
 
 The actual C66 statement and exact pair-product/small-measure proofs, L229's full original powered-angular interface and its inherited source limits, and L10's formal power-sum supplement were read at their used scopes.
-C66's actual selected decision was inspected after it became organized-reviewed at20:43 with R384v2; D24's earlier pending-adoption paragraph remains true allocation history.
+C66's actual selected decision was inspected after it became organized-reviewed at20:43 with R289 v2; D24's earlier pending-adoption paragraph remains true allocation history.
 Section4 is expressly conditional on its angular interface in any event.
 This review does not re-audit the original Pri11/Dim19 proofs or resolve the recorded historical primary-attribution limit for the locally derived Newton formula.
 
@@ -54,7 +54,8 @@ The original draft remains unedited.
 ## Original whole finding: changes required
 
 **[P2] Section6 conflates algebraic homogeneity with admissibility after rescaling.**
-Its active sentence is `For a common positive rational scalar c, the same sigma is obtained ONLY if BOTH c(a+/-b alpha^h) are nonzero actual O0 integers.` The ONLY IF implication is false: scaling both field values by ANY positive rational c changes each full norm by c^d and energy by c^2, so the two logc contributions cancel algebraically even when the resulting values are not in O0.
+Its active sentence is `For a common positive rational scalar c, the same sigma is obtained ONLY if BOTH c(a+/-b alpha^h) are nonzero actual O0 integers.`
+The ONLY IF implication is false: scaling both field values by ANY positive rational c changes each full norm by c^d and energy by c^2, so the two logc contributions cancel algebraically even when the resulting values are not in O0.
 Actual integrality is the condition for staying in the declared admissible packet class and invoking the nonnegative integer-norm floor; it is not necessary for equality of the algebraic full surplus.
 
 An exact counterexample uses the draft's OWN actual irreducible P=t^4+5t^2+1, h1 and a=b=1.

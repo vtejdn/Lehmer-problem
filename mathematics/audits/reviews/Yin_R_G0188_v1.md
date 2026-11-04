@@ -8,7 +8,7 @@ Date and attribution:2026-10-11T11:23.
 Human record author Yin.
 Root separately assigned the integer_bundle_research AI to review [D_G0007's entire freeze](../../ledger/Yin_L_G0361_v1.md#circle-derivative-author-freeze), dated2026-10-11T11:20, Sections1--7 and equations(1)--(20).
 This reviewer supplied none of the derivative-error, trace-discriminant, padding or actual-input derivations.
-The reviewer previously reviewed the accepted generic single-Haar certificate now fixed in [L358](../../ledger/Yin_L_G0358_v1.md) as R260; that prior role is disclosed and is not claimed as independent of its own earlier review.
+The reviewer previously reviewed the accepted generic single-Haar certificate now fixed in [L358](../../ledger/Yin_L_G0358_v1.md) as R184; that prior role is disclosed and is not claimed as independent of its own earlier review.
 L358 is a reused prior input, while the new D7 proof is independently reconstructed here.
 
 Inputs and sequence: shared conversation/repository context, root's assignment and the author's freeze/locator handoff were supplied.

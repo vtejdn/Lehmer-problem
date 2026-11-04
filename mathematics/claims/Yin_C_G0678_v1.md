@@ -142,7 +142,7 @@ For EVERY finite Gamma in the CLOSED integer box[-M,M]^3,
 The original images are distinct, and the bound includes empty sets, signed and zero indices, and all endpoints.
 The five terms are the original comparison, TWO regularizations and TWO smoothings, on their respective actual probability spaces.
 All regularization estimates allow rho/tau>1.
-The statement supplies no lower bound for a selected mass of the new Fourier coefficients, no new width-divergence exponent and no transfer of C665's four-coordinate bands to this three-coordinate cap.
+The statement supplies no lower bound for a selected mass of the new Fourier coefficients, no new width-divergence exponent and no transfer of C629 v6's four-coordinate bands to this three-coordinate cap.
 It leaves the explicit new band-capture problem at the precise finite price(WT8).
 The fixed positive measure interval(WT3) also excludes any near-one or unrestricted G0001 conclusion.
 
@@ -580,7 +580,7 @@ The full original projection has rank d and integral h_orig=1/2; at every circle
 For tau<=1, f<=1-h_orig, proving the contact margin stated above.
 
 The new3/4 amplitude order and p=3/2 finite return are fully established, but a lower bound for a useful finite sum of NEW Fhat_tau remains an additional obligation.
-The old C665 proof has two independently varying phase coordinates beyond its fixed z witness, whereas the present phase has only(z,u).
+The old C629 v6 proof has two independently varying phase coordinates beyond its fixed z witness, whereas the present phase has only(z,u).
 Neither its integer centers nor its k,m rectangles and cardinality are asserted to carry over.
 Any future width-divergence claim must construct its actual new bands, pay their whole support in(WT8), and then substitute the actual degree(WT9) and original epsilon(WT5).
 The present family has positive measure above log2 and cannot be used as an unproved near-one family.
@@ -600,7 +600,7 @@ C641 supplies equal-modulus pointwise derivative and event-first FTC mechanisms;
 The classical event norm and height splitting retain C641's existing attribution account to Tao's245C Notes1, Section2 equation(9)/Exercise17 and the two-height decomposition in Section3 Theorem27.
 That source account covers1<p<infinity for the event-integral norm; it is attribution only, while the present p=3/2 constants and all needed finite Fourier estimates are proved in Sections6--7.
 No new primary inspection of those Tao passages or general interpolation proof is claimed in this round.
-No old C659 amplitude function, C665 selected support or old-family degree theorem is silently substituted.
+No C633 v2 two-sided amplitude function, C629 v6 four-coordinate witnesses, C635/C639 selected-support conclusion or old-family degree theorem is silently substituted.
 
 ## Assessment history
 

@@ -94,7 +94,7 @@ def target(u,v):
 def main():
     home=Path(__file__).resolve().parent
     outputs=home.parents[2]/'computations'/'outputs'
-    data=json.loads((outputs/'Yin_J_G0126'/'certificate.json').read_text(encoding='utf-8'))
+    data=json.loads((home.parent/'Yin_J_G0126'/'inputs'/'certificate.json').read_text(encoding='utf-8'))
     group=data['group']
     assert data['M']==M and len(group['generators'])==96
     assert len(group['pivots'])==34 and group['order']==3*2**34
@@ -108,7 +108,7 @@ def main():
         results.append(result)
     out=outputs/home.name
     out.mkdir(parents=True,exist_ok=True)
-    cert={'fixed_input':'mathematics/computations/outputs/Yin_J_G0126/certificate.json',
+    cert={'fixed_input':'mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json',
           'modulus':M,'parameters':[[0,1],[1,0],[1,1]],'results':results}
     (out/'certificate.json').write_text(json.dumps(cert,indent=2)+'\n',encoding='utf-8')
     print(json.dumps([{'u':r['u'],'v':r['v'],'target':hex(r['target']),'member':r['member'],

@@ -13,12 +13,11 @@ The recorded authorship, checking relationship, inputs, verdicts and limitations
 ## Complete independent written review and adoption
 
 On 2026-10-09 the assigned execution_and_deliverables AI completed noncontributor independent written review of Sections 1--5 and all equations (1)--(13).
-It initially read the complete 269-line candidate,
+It initially read the complete 269-line candidate.
 It checked the actual pair stabilizer, index-two character and induced representations; trace normalization and trivial multiplicity;
 full/even Salem kernel and irreducible signed representation; every genuine-character decomposition's dimension constraint; all three quadratic Euler factors including ramification; and the known permutation-zeta/conductor convention at JR17's stated scope.
 
-It also checked the complete rational prime-power coefficients, coefficient positivity and upper bound, equivalence of rational unramifiedness in K and its normal closure, both parts of the finite removal error and the conditional error transfer, the exact even threshold and small-degree exception, and the actual-group scalar-
-mean countermodel with its conjugation averaging and limitations.
+It also checked the complete rational prime-power coefficients, coefficient positivity and upper bound, equivalence of rational unramifiedness in K and its normal closure, both parts of the finite removal error and the conditional error transfer, the exact even threshold and small-degree exception, and the actual-group scalar-mean countermodel with its conjugation averaging and limitations.
 The five original local links resolved; the reviewer also read the new JR17 compact/registration and checked its retained byte hash.
 No new source-wide proof audit or mathematical computation was run.
 

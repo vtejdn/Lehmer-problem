@@ -6,8 +6,8 @@ author: Yin
 
 Date: 2026-10-10.
 
-Current responsible mathematical home: [C490](../claims/Yin_C_G0490_v1.md#statement), proved by selected2026-10-22T00:36 after the [R702 entire whole SELF](../audits/reviews/Yin_R_G0702_v1.md#paid-threshold-whole-self-finding).
-The ENTIRE [original R127 finding](../audits/reviews/Yin_R_G0127_v1.md#paid-inverse-detection-complete-independent-review) remains UNKNOWN; original complete author SELF has day precision,10:21 is its body freeze and10:33 the separate whole review.
+Current responsible mathematical home: [C490](../claims/Yin_C_G0490_v1.md#statement), proved by selected 2026-10-22T00:36 after the [R702 entire whole SELF](../audits/reviews/Yin_R_G0702_v1.md#paid-threshold-whole-self-finding).
+The ENTIRE [original R127 finding](../audits/reviews/Yin_R_G0127_v1.md#paid-inverse-detection-complete-independent-review) remains UNKNOWN; original complete author SELF has day precision,2026-10-10T02:21 is its body freeze and 2026-10-10T02:33 the separate whole review.
 The full meaningful assembly/optimization/actual control/source/contribution/negative history and dated fixed inputs below remain unchanged; historical active/pending/independent wording grants no current Task/E authority or isolated coverage.
 The coordinating AI for Yin adopts this restricted result after complete separately organized noncontributor review under the continuing G0001 authorization.
 This is fixed mathematical retention, not Task completion or acceptance of an unrestricted Claim.
@@ -320,7 +320,7 @@ Such a mechanism must retain the original probability law, all independent const
 Arithmetic and matrix alternatives remain active, and the unrestricted G0001 contract remains unresolved.
 
 
-Complete author body frozen at2026-10-10T02:21 for separately organized full noncontributor review.
+Complete author body frozen at 2026-10-10T02:21 for separately organized full noncontributor review.
 The exact whole-threshold asymptotic, finite original-law formula and actual residue control are all included in the frozen scope.
 No new mathematical run is pending.
 

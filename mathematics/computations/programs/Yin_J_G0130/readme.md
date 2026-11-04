@@ -9,7 +9,8 @@ Same_trace supplied a bounded author-side algebraic sanity check of the periods,
 These are author contributions, not independent review.
 Status: the declared generation and separate author verification both completed after explicit execution authorization.
 Both prescribed full targets are nonmembers of the complete image.
-Their original mathematical consequence remains subject to fresh isolated whole review and the responsible fixed Claim decision.
+At initial native retention, their mathematical consequence still required fresh isolated whole review and the responsible fixed Claim decision.
+The later R861/C651 reconstruction and adoption below own the completed scope.
 
 ## Question and scope
 
@@ -180,7 +181,7 @@ For each target the certificate and checker establish target=(full generator-vec
 No declared check failed or timed out.
 These are two author implementations, not independent agent review.
 C649v1 is an adopted fixed proof input; the original A_0=16 exclusion uses its complete hypotheses and actual factor bridge, followed by this verified all-order obstruction.
-It still requires the new fixed result's own applicable whole review and adoption.
+At that author-stage checkpoint, the new fixed result still required its own applicable whole review and adoption; the completed R861/C651 account below is separate.
 The full fixed statement, analytic certificate argument and original consequence are retained in [C651v1](../../../claims/Yin_C_G0651_v1.md#statement), initially open for that review.
 No characteristic-zero P/T, all-primary canonical witness, nonsquareness, maximal q or original layer realization is constructed.
 No A_0=14 input, other modulus, additional order search, invisible-factor insertion or huge witness construction is part of this contract.

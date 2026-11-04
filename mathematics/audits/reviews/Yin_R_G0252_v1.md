@@ -26,11 +26,15 @@ Only those exact interfaces are reused.
 No unproved diffusive lower bound, critical-mean conclusion, new source theorem or Gaussian comparison is a premise.
 No native enumeration or symbolic mathematical program was run; the finite polynomial and probability calculations below were checked directly by hand.
 
+The initial complete C51 input included the author complete-coverage and midpoint validation summaries beyond the necessary proof.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole decimation finding](#quartic-decimation-whole-independent-finding) | independently reviewed |
+| [Whole decimation finding](#quartic-decimation-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -38,7 +42,7 @@ No native enumeration or symbolic mathematical program was run; the finite polyn
 | --- | --- | --- |
 | [Whole decimation finding](#quartic-decimation-whole-independent-finding) | [D4 entire author freeze](../../claims/Yin_C_G0051_v1.md#decimation-entire-author-freeze) | Exact16:53 ENTIRE Sections1--8/Lemmas1--3/Theorem4/equations1--16, source/contribution history, original-law expenses, failed mechanism and precise all-time limits; no future Claim extraction. |
 | [Whole decimation finding](#quartic-decimation-whole-independent-finding) | [D4 reuse and changed test](../../claims/Yin_C_G0051_v1.md#decimation-reuse-and-changed-test) | Regular-decimation candidate, precise actual matching issue, old versus new dominance thresholds and bounded source/search scope. |
-| [Whole decimation finding](#quartic-decimation-whole-independent-finding) | [D4 actual squared input and order](../../claims/Yin_C_G0051_v1.md#actual-quartic-power-and-order) | Exact original P/squared Q/embeddings and base bounds, beta卤1 expressions, O2 intersection beta O2 ideal/index, gamma-unit shift invariance and original parity law. |
+| [Whole decimation finding](#quartic-decimation-whole-independent-finding) | [D4 actual squared input and order](../../claims/Yin_C_G0051_v1.md#actual-quartic-power-and-order) | Exact original P/squared Q/embeddings and base bounds, beta and beta^-1 expressions, O2 intersection beta O2 ideal/index, gamma-unit shift invariance and original parity law. |
 | [Whole decimation finding](#quartic-decimation-whole-independent-finding) | [D4 coarse decimation](../../claims/Yin_C_G0051_v1.md#coarse-decimation-no-compression) | Difference-coefficient2 injectivity at base>=3, arbitrary residue strides>=3, original entropy and covariance-of-means tautology boundary. |
 | [Whole decimation finding](#quartic-decimation-whole-independent-finding) | [D4 shortest ambiguities](../../claims/Yin_C_G0051_v1.md#shortest-powered-ambiguities) | ALL quotient/difference vectors through length6, four and only four two-word fibers, distinct nonzero endpoints, actual digit probabilities and conditional weights. |
 | [Whole decimation finding](#quartic-decimation-whole-independent-finding) | [D4 no matching complement](../../claims/Yin_C_G0051_v1.md#shortest-fibers-unmatchable) | Both order-excluded fibers, exact Y for the other two, contracting-place negative-exponent exclusion, expanding degree cutoff, all ternary degree4 possibilities, every integer shift and finite complement length. |
@@ -104,7 +108,7 @@ At degree4 an integer multiple aQ has coefficient-3a, impossible under absolute 
 At degree<=5 monic integer division gives Q(a+bt) with integer a,b and precisely(a,b-3a,a-3b,b-3a,a-3b,b).
 Endpoint bounds give |a|,|b|<=2; absolute2 forces a middle absolute value>=4.
 One nonzero value among a,b in{-1,0,1} forces3, and opposite signs force4.
-Only a=b=卤1 remains, giving 卤D exactly.
+Only a=b=±1 remains, giving ±D exactly.
 
 The four middle differences-2 fix digit pairs(-1,1), and the two end differences+1 independently give the two choices stated in(6).
 Thus exactly four oriented pairs are produced.
@@ -122,7 +126,7 @@ These nonzero ambiguous fibers do not contradict uniqueness of the ZERO endpoint
 For A!=B, evaluating the representative(7) at-1 gives A-B modulo3.
 Lemma1 rejects both endpoints and all their gamma shifts from the required order, for any complement length.
 
-For A=B the endpoints are卤x with x=4gamma^3+4gamma-1.
+For A=B the endpoints are ±x with x=4gamma^3+4gamma-1.
 Multiplying the proposed Y=2gamma^3+gamma^2+2gamma by gamma^2-gamma+1 and subtracting(gamma+1)x gives2gamma^5-5gamma^4-gamma^3-5gamma^2-gamma+1, which reduces to zero by Q.
 Hence beta^-1x=Y exactly.
 These two fibers pass the order test, so the stronger digit argument is needed.
@@ -139,7 +143,7 @@ Q reduces L_5 to4gamma^3+4gamma-3, whose difference from Y is2gamma^3-gamma^2+2g
 Therefore a representation would have degree<=4.
 Its difference from Y is aQ with integer a; the leading ternary coefficient restricts a to-1,0,1.
 The resulting five coefficients(a,2-3a,1+a,2-3a,a) fail the ternary bound in all three cases.
-No finite Laurent representation of卤Y exists.
+No finite Laurent representation of ±Y exists.
 Multiplying a hypothetical representation of gamma^jY by gamma^-j would remain finite Laurent, so EVERY integer shift and EVERY finite odd-block length is excluded.
 Arbitrary ADDITIVE translations are correctly left outside the theorem.
 

@@ -12,7 +12,7 @@ This reviewer contributed neither D42's new circular-gap/residual-bucket proof n
 Root supplied the broad review scope and no verdict.
 
 This reviewer DID author the earlier D38 mathematics now accepted in C83.
-That is disclosed as an accepted-antecedent contribution: C83 is used only for the comparison in C86 F and the retained Section6, after its original R415 and separate actual extraction R417 were selected by its adopted decision.
+That is disclosed as an accepted-antecedent contribution: C83 is used only for the comparison in C86 F and the retained Section6, after its original R309 and separate actual extraction [R794 v2 original C83 extraction](Yin_R_G0794_v2.md#c83-pairwise-binary-actual-extraction-finding) were selected by its adopted decision.
 This finding checks the new comparison's invocation and does not independently re-certify the reviewer's own C83 proof.
 Other earlier roles, including the unrelated C87 wrapper, are not C86 proof contributions or premises.
 
@@ -55,7 +55,7 @@ The original date, mathematical inspection and precise scope remain unchanged.
 | [Whole actual extraction finding](#c86-triple-synchronization-actual-extraction-finding) | [L168 finite height floor](../../ledger/Yin_L_G0168_v1.md#bounded-power-degree-escape) | Positive epsilon_(B_ana) from the finite coefficient list, actual powered-degree escape and no executed enumeration/numerical value. |
 | [Whole actual extraction finding](#c86-triple-synchronization-actual-extraction-finding) | [L168 original tower](../../ledger/Yin_L_G0168_v1.md#general-unit-actual-product-cost) | All original norms, d/N repetition and h(alpha^n)=nm/d, without degree preservation. |
 | [Whole actual extraction finding](#c86-triple-synchronization-actual-extraction-finding) | [C83 actual comparison](../../claims/Yin_C_G0083_v1.md#statement) | ONLY original all-pair n<=8d, complete-depth sublinear2-primary income on every fixed linear window, at least three occurring groups and full Theta(d) measure. Reviewer's original author role disclosed. |
-| [Whole actual extraction finding](#c86-triple-synchronization-actual-extraction-finding) | [C83 adopted scope](../../claims/Yin_C_G0083_v1.md#decision-organized-reviewed) | Actual adopted independent R415/R417 support for the comparison antecedent, not independent re-certification by this antecedent's author. |
+| [Whole actual extraction finding](#c86-triple-synchronization-actual-extraction-finding) | [C83 adopted scope](../../claims/Yin_C_G0083_v1.md#decision-organized-reviewed) | Actual adopted independent R309/[R794 v2 original C83 extraction](Yin_R_G0794_v2.md#c83-pairwise-binary-actual-extraction-finding) support for the comparison antecedent, not independent re-certification by this antecedent's author. Referenced finding relationship: unknown. |
 | [Whole actual extraction finding](#c86-triple-synchronization-actual-extraction-finding) | [L159 radical control](../../ledger/Yin_L_G0159_v1.md#irreducible-lehmer-radical-control) | Actual irreducible P_Lehmer(t^q), degree10q, fixed full measure and accepted house-source irreducibility scope; control only. |
 | [Whole actual extraction finding](#c86-triple-synchronization-actual-extraction-finding) | [L159 full return control](../../ledger/Yin_L_G0159_v1.md#actual-isolated-linear-return-certificate) | Base prime3 orders4/82 and masses2/8, good-prime preservation, n164q and automatic full return floor; new classification narrows to q>41. |
 | [Whole actual extraction finding](#c86-triple-synchronization-actual-extraction-finding) | [J11 retained verification](../../computations/programs/Yin_J_G0011/readme.md#exact-reductions-and-verification) | Accepted existing exact Lehmer/prime3 factor/order/squarefreeness data, actual result.json row and recorded independent verification inspected; no new run or program audit. |
@@ -173,7 +173,7 @@ The control keeps fixed positive total measure, q expanding roots and a q-th-pow
 The Dim19 source is confined to this old control's irreducibility and is not used in the new criterion.
 
 C83 is an actually adopted antecedent with separately performed findings, despite this reviewer's authorship of its original mathematics.
-The earlier independent designation of its R417 extraction finding is now unknown for unestablished initial context; C83's proved status and exact comparison scope remain unchanged.
+The earlier independent designation of its [R794 v2 original C83 extraction](Yin_R_G0794_v2.md#c83-pairwise-binary-actual-extraction-finding) extraction finding is now unknown for unestablished initial context; C83's proved status and exact comparison scope remain unchanged.
 This finding supplies no new independent coverage of that antecedent.
 Its current statement was inspected: all-pair lcm<=8d, exact all-depth2-primary norm formula, uniform A2(n)/d->0 on EVERY fixed n<=Cd window, all original roots and m(P)=Theta(d).
 Its set contains at least three groups for Q>=64.

@@ -15,7 +15,7 @@ No subsequent author continuation or mutable draft is part of this review.
 
 The reviewer independently reviewed the actual C199v3/v4 chain in R489 and the generalized C197v3 consumer in R477, but authored neither of those new proofs.
 The reviewer's older C196 graph, C197v1/v2 and C196v4 closure contributions remain disclosed in those records and are not independently re-audited here.
-Their actual R620/R621/R622 and R629/R624 evidence remains at the exact inherited scopes recorded in R489/R477.
+Their actual R474/R475/R476 and R483/R478 evidence remains at the exact inherited scopes recorded in R489/R477.
 The present review checks every new QC deduction and all applications of the fixed predecessor, not an independent reproof of those older authored inputs.
 The actual v4 adoption at00:38, its full R489 scope, and C197v3 QX20 including the derivative order were read back.
 No new source inspection, mathematical program, coefficient/order enumeration, numerical calculation or formal verification was performed.

@@ -10,7 +10,7 @@ It contributed none of the new critical-level geometry, weighted-density tail, q
 It DID author the upstream D25/L379 recurrence and J86 implementation, with root supplying that older core.
 That contribution is disclosed: the unchanged upstream theorem/program are reused under the separate independent R205 finding, not presented as a new independent review of the reviewer's own proof.
 L379 neither depends on D27 nor supplies its new geometry/tail.
-The reviewer previously independently checked L378's positive-series input in R278.
+The reviewer previously independently checked L378's positive-series input in R202.
 
 Inputs and sequence: root supplied the exact scope.
 The reviewer first read and reconstructed D27 Sections1--7 and its pre-run declaration while the replacement author completed the one authorized run.
@@ -49,7 +49,7 @@ The old description of this as independent records its original designation, not
 | [Whole critical-level certificate](#critical-positive-tail-whole-finding) | [J87 complete declaration](../../computations/programs/Yin_J_G0087/readme.md) | Whole original and revised declarations, source/reuse/author handoff, exact current executed scope and truthful UNRUN alternative. |
 | [Whole critical-level certificate](#critical-positive-tail-whole-finding) | [J87 supervisor](../../computations/programs/Yin_J_G0087/main.py) | Whole one-child/no-argument/no-retry dispatch, aggregate180second timeout and truthful complete/failure certificate publication. |
 | [Whole critical-level certificate](#critical-positive-tail-whole-finding) | [J87 worker](../../computations/programs/Yin_J_G0087/worker.py) | Whole input/overlap gates, exact root isolation/cells/constants/direct control, reused recurrence and all assertions/rounding/output publication; no author command rerun. |
-| [Whole critical-level certificate](#critical-positive-tail-whole-finding) | [Positive-series input](../../ledger/Yin_L_G0378_v1.md#positive-log-moment-identity) | Existing exact original positive logarithmic identity and upper-partial-sum/lower-tail distinction, at unchanged R278 scope. |
+| [Whole critical-level certificate](#critical-positive-tail-whole-finding) | [Positive-series input](../../ledger/Yin_L_G0378_v1.md#positive-log-moment-identity) | Existing exact original positive logarithmic identity and upper-partial-sum/lower-tail distinction, at unchanged R202 scope. |
 | [Whole critical-level certificate](#critical-positive-tail-whole-finding) | [Upstream recurrence](../../ledger/Yin_L_G0379_v1.md#triangular-integration-by-parts-reduction) | Exact input/normalization/integer recurrence used at its prior independent R205 scope; current interface and separate implementation checked, no new independent judgment of the reviewer's original derivation claimed. |
 | [Whole critical-level certificate](#critical-positive-tail-whole-finding) | [Upstream independent finding](Yin_R_G0205_v1.md#finite-arcsine-state-whole-finding) | Accepted complete recurrence/proof/program and n64/n1024 separate-implementation coverage, including absence of a direct-convolution oracle above64 and absence of D27 tail coverage. |
 | [Whole critical-level certificate](#critical-positive-tail-whole-finding) | [Reused J86 code](../../computations/programs/Yin_J_G0086/fast.py) | Unchanged actual implementation imported by author J87; relationship disclosed, own new verification imports no author module. |

@@ -4,17 +4,18 @@ author: Yin
 # Whole independent review of circular link density and one-time capture
 
 Date: 2026-10-12T17:39.
-Human record author Yin. g0001_review_recovery separately WHOLE-reviews rounding-recovery's complete D44.
+Human record author Yin.
+g0001_review_recovery separately WHOLE-reviews rounding-recovery's complete D44.
 Root supplied only the broad coverage question and review assignment.
 This reviewer supplied no score formula, edge argument, trimming bound, smaller-window control or proof step.
 It waited for the actual final author freeze before reading the developing mathematics.
 Its preparation read only the existing C86/L159 interfaces and communicated C86's actual then-pending status, not a mathematical suggestion.
 
-The reviewer earlier whole-reviewed the original D42 in R422 and subsequently AUTHORED its C86 extraction wrapper.
+The reviewer earlier whole-reviewed the original D42 in R314 and subsequently AUTHORED its C86 extraction wrapper.
 That prior review/extraction role is explicitly disclosed: this finding is not an independent actual review of the reviewer's own C86 wrapper.
 D44 treats the relocated D42 links as SAME-PROOF ancestry and supplies every finite argument needed for the score theorem locally.
 No prospective C86 acceptance is a premise.
-The reviewer also actual-reviewed C83 in R417; that old finding is reused only at its unchanged accepted scope, not extended automatically to D44.
+The reviewer also actual-reviewed C83 in [R794 v2 original C83 extraction](Yin_R_G0794_v2.md#c83-pairwise-binary-actual-extraction-finding); that old finding is reused only at its unchanged accepted scope, not extended automatically to D44.
 
 ## Actual complete target and method
 

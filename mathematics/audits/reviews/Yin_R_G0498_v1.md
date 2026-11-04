@@ -6,9 +6,9 @@ author: Yin
 
 Date: 2026-10-21T00:08.
 Human record author: Yin.
-The material-organizing agent read the entire L G0001 route assessment, the complete R G0529 finding and its original inputs, the new C G0207/G0208 statements and arguments, and the exact retained DGB16/GBV15/Smy08/Bre07 source interfaces used below.
+The material-organizing agent read the entire L G0001 route assessment, the complete R G0384 finding and its original inputs, the new C G0207/G0208 statements and arguments, and the exact retained DGB16/GBV15/Smy08/Bre07 source interfaces used below.
 It selected and organized these C proofs and shared their earlier mathematical context, so both findings are self-reviewed.
-This actual inspection is distinct from the older R G0529 review and does not establish that older reviewer's context isolation.
+This actual inspection is distinct from the older R G0384 review and does not establish that older reviewer's context isolation.
 No mathematical program, native computation, new source search/acquisition, original external-proof audit or independent review was performed.
 [G0001 remains paused](../../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-closeout).
 
@@ -49,7 +49,7 @@ No subtraction of infinite quantities occurs.
 
 The source interfaces match the exact discrete finite-subset and primitive-normalization domains.
 GBV15 finite-set realization and DGB16's externally cited exact-spectrum theorem are unnecessary.
-R G0529's extra normalization details are physically retained in the C proof; its original date and L1 input are not rewritten to claim review of C207.
+R G0384's extra normalization details are physically retained in the C proof; its original date and L1 input are not rewritten to claim review of C207.
 The precise conditional theorem has a complete checked argument and supports proved with this self-reviewed finding.
 No unconditional small-measure sequence, nonattaining flow, opposite implication or completed Task is established.
 

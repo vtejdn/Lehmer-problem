@@ -30,8 +30,8 @@ author: Yin
 ## Complete current theorem finding
 
 Date: 2026-10-21T19:26.
-The maintaining agent developed this proof home and read the original L254/R153 before this check, so this is whole SELF rather than a fresh isolated finding.
-It read all of original L254/R153, every one of the eleven J55 program/readme/native files, the full needed seed/reflection/endpoint and signed-cover interfaces, and the actual complete C429 statement and argument.
+The maintaining agent developed this proof home and read the original L254/R117 before this check, so this is whole SELF rather than a fresh isolated finding.
+It read all of original L254/R117, every one of the eleven J55 program/readme/native files, the full needed seed/reflection/endpoint and signed-cover interfaces, and the actual complete C429 statement and argument.
 The original L191/L246 full comparison mechanisms were already read and remain unchanged fixed inputs.
 
 The explicit C0 squared identity fixes det G0=-1 and the actual path coordinate suffix sums.
@@ -65,7 +65,7 @@ No author producer, enlarged box/order/sample, new source/PDF passage or floatin
 The general written proofs, rather than these samples or finite residue observations, own the general symmetry/cover assertions.
 
 The complete theorem passes at this whole SELF scope, with no newly identified original mathematical defect or required author repair.
-Original R153 is also whole SELF because its actual shared target counts and limits preceded the initial finding; its distinct implementation and no-author-contribution account remain true.
+Original R117 is also whole SELF because its actual shared target counts and limits preceded the initial finding; its distinct implementation and no-author-contribution account remain true.
 Upstream D9 authorship or earlier reviews alone are not the reason for that relationship.
 Unrestricted second-root elimination, arbitrary reorderings of discarded controls, other roots/lattices/neutral multipliers, new target realization, cost optimization and near-one coverage remain unproved.
 
@@ -76,7 +76,7 @@ Original date: 2026-10-10T00:39.
 The orbit_research author supplied the original two-column/symmetry/scalar/cost derivations, all four author programs and outcomes; its full author checking is known SELF.
 The coordinator supplied the broad task, allocation, scope discipline and review assignment, with no current derivation attributed to it.
 The author checked complete Sections1--6/equations1--6: signed minor, both norms, full reciprocal targets, all dependent/singular integer cases, sign normalization, discarded controls,60-order coverage of both companions, finite caps/counts and histograms, the entire secondary trace-field/root proof and literal-cover/coarse-measure costs.
-Its additional4320 full polynomial expansions, three full cover lists and39 integer cover values were SAME-author checks, distinct from subsequent R153.
+Its additional4320 full polynomial expansions, three full cover lists and39 integer cover values were SAME-author checks, distinct from subsequent R117.
 The failed optional PDF extraction and unadopted snippets supplied no passage or proof premise.
 Separate review and adoption were pending at this original freeze; no later C or present replay is made an original input.
 

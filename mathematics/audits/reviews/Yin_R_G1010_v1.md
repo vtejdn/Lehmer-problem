@@ -9,7 +9,7 @@ The responsible human record author is Yin.
 This is an initial whole review of C790 by a separate agent outside both named contributors' substantive proof development.
 The entire fixed statement and complete argument were read before the directly needed additional fixed inputs.
 No C790 development dialogue, mutable draft, author explanation outside the fixed materials or earlier C790 review conclusion was supplied or consulted.
-The reviewer had previously performed the independent C823, C826 and C828 reviews in [R1000](Yin_R_G1000_v1.md#whole-nonnegative-level-finding), [R1002](Yin_R_G1002_v1.md#whole-level-flat-harmonic-finding) and [R1005](Yin_R_G1005_v1.md#whole-zero-level-renewal-finding).
+The reviewer had previously performed the independent C780, C783 and C785 reviews in [R1000](Yin_R_G1000_v1.md#whole-nonnegative-level-finding), [R1002](Yin_R_G1002_v1.md#whole-level-flat-harmonic-finding) and [R1005](Yin_R_G1005_v1.md#whole-zero-level-renewal-finding).
 Their unchanged fixed-quartic/core background was available and is disclosed here; every new unit-cell, covolume, error, Gaussian-count and dyadic deduction was checked anew.
 No persistent memory or substantive repair was used.
 

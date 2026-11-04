@@ -271,7 +271,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T23:10 |
 | status | proved |
-| reason | Adopt the separately organized current fixed-target finding after complete statement and retained-argument inspection, including late extensions, actual costs, controls, necessary mathematical interfaces and source limits, while excluding credited comparison scopes first separately checked after old-review exposure. The initial mathematical conclusion was formed at 2026-10-22T22:49 UTC before old-target review comparison. The finding records the exact interface and later credited-comparison reading sequence. Preserve fixed mathematics, historical decisions, all non-review premises and their scopes; retain known sufficient independent findings in their original homes and original unknown findings at their actual checking scope. This selects current review evidence and supplies no new research, Task completion or execution resumption. |
+| reason | The current finding is SELF because its initial complete argument input included author-validation conclusions beyond the necessary derivation. Adopt the separately organized current fixed-target finding after complete statement and retained-argument inspection, including late extensions, actual costs, controls, necessary mathematical interfaces and source limits, while excluding credited comparison scopes first separately checked after old-review exposure. The initial mathematical conclusion was formed at 2026-10-22T22:49 UTC before old-target review comparison. The finding records the exact interface and later credited-comparison reading sequence. Preserve fixed mathematics, historical decisions, all non-review premises and their scopes; retain earlier findings in their original homes at their actual recorded relationships and checking scopes. This selects current review evidence and supplies no new research, Task completion or execution resumption. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -284,8 +284,8 @@ The recorded review description was `under review`.
 | dependency | [Dependency: general-unit-actual-product-cost](Yin_C_G0391_v1.md#general-unit-actual-product-cost) | Exact d/N repetition and h(alpha^n)=n*m/d; the new reciprocal proof also gives its actual N2 specialization locally. No upper cost is treated as arithmetic income. |
 | dependency | [Dependency: statement](Yin_C_G0084_v1.md#statement) | Only actual primitive weighted binary signed delays and optional one-coordinate shifts, TRUE-polynomial classification at K0, fixed weights and all-stage nonzero O0 legality; the mixed consumer retains cumulative expense. |
 | dependency | [Dependency: direct-exact-covariance-window-inequality](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Finite calculation for the supplied packet over all original roots and actual final width, giving only Lambda<=T_final*m/d, not a construction or a reciprocal-only hypothesis for this analytic use. |
-| support | [Support: three-power-whole-independent-finding](../audits/reviews/Yin_R_G0315_v1.md#three-power-whole-independent-finding) | ENTIRE actual D41 final01:16 freeze including new Sections7--9 and direct interfaces. That reviewer now authors this wrapper; R315 does not prospectively cover this extraction or adopt it. |
-| review | [Current isolated finding](../audits/reviews/Yin_R_G0794_v2.md#g87-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:49 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
+| support | [Recorded original finding](../audits/reviews/Yin_R_G0315_v1.md#three-power-whole-independent-finding) | ENTIRE actual D41 final01:16 freeze including new Sections7--9 and direct interfaces. That reviewer now authors this wrapper; R315 does not prospectively cover this extraction or adopt it. Finding relationship: self-reviewed. |
+| review | [Current SELF finding](../audits/reviews/Yin_R_G0794_v2.md#g87-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:49 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
 
 ## Registration and complete preservation
 
@@ -672,7 +672,7 @@ This observation uses the genuine Salem circle pair and is not asserted for all 
 <a id="small-block-constant-and-binary-delay-frontier"></a>
 ## 8. Resolved mixed-word theorem and precise new boundary
 
-The all-height binary delay proof originally referenced in Section5 is 2026-10-12T17:13 the actually adopted [C84](Yin_C_G0084_v1.md#statement), selected organized-reviewed after original whole R418 and separate actual extraction R420.
+The all-height binary delay proof originally referenced in Section5 is 2026-10-12T17:13 the actually adopted [C84](Yin_C_G0084_v1.md#statement), selected organized-reviewed after original whole R311 and separate actual extraction [R794 v2 original C84 extraction](../audits/reviews/Yin_R_G0794_v2.md#c84-binary-height-actual-extraction-finding).
 Root is its proof author, and the new consumer uses this already independently accepted interface.
 This resolves the historical conditional label in Section5; no source or reviewer finding is backdated.
 

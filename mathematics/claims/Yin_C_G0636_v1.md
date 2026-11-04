@@ -302,7 +302,7 @@ These prove the mandatory target (MC4) independently of epsilon.
 
 ### Three declared native tests and complete coset comparison
 
-Use the [adopted C621v2 exact image and normal forms](Yin_C_G0621_v2.md#argument) and its unchanged J126 certificate (`mathematics/computations/outputs/Yin_J_G0126/certificate.json`).
+Use the [adopted C621v2 exact image and normal forms](Yin_C_G0621_v2.md#argument) and its unchanged J126 certificate (`mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json`).
 The group has96 complete generators and34 principal pivots, with every complete odd order other than5 covered by its period/divisor proof.
 No new source-order bound or approximation to that group is used.
 

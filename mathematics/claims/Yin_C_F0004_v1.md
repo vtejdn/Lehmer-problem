@@ -16,8 +16,8 @@ Record kind: authoritative statement and complete proof of [Yin_C_F0004](#decisi
 Date: 2026-09-13.
 Author: yin_t_f0008-contract agent, in collaboration with root.
 Goal: Yin_T_F0008.
-The [selected assessment](#decision-candidate-0004) records the mathematical and review assessments, and the [independent audit](../audits/reviews/Yin_R_F0002_v1.md) records verification.
-No mathematical Role is assigned.
+The [selected assessment](#decision-finding-owned-review) records the current mathematical and review assessment.
+The [original audit](../audits/reviews/Yin_R_F0002_v1.md) records its actual self-reviewed shared-context verification; the candidate decision retains its historical scope.
 
 This is an independent continuation of the signed Schur route.
 The proof does not use Spe26 or Yin_C_F0082.

@@ -49,7 +49,7 @@ Combining these ACTUAL equations with adopted C795 and the separately fixed C797
 
 The C797 interpretation remains subject to its responsible independent whole review and adoption; ST1--ST2 are constructed from adopted inputs directly.
 This is actual attainment of the complete lower high gate at the new source and genuine signs.
-No high coordinate at order2A-2 or above is asserted to lie in C835's correction image.
+No high coordinate at order2A-2 or above is asserted to lie in C792's correction image.
 There is no full high square-image success, unconditional global selected-X8, higher compatible lift, own-core precision inheritance, irreducible input, nearzero measure or unrestricted G0001 conclusion.
 
 ## Complete argument
@@ -183,15 +183,15 @@ It follows for the complete final source that
 
 All original source/canonical/forward/gcd/degree/period/core costs remain intact, and the actual support is used in every later period rather than borrowing an old lcm.
 
-This NEW witness also meets every5A finite jet and source/cost hypothesis used in C795: its r target projects to the identical low Ltilde^2 and high conductor pair at5A, its row cutoff is unchanged, and RS5 is stronger than the C8341320Q^3 bound.
+This NEW witness also meets every5A finite jet and source/cost hypothesis used in C795: its r target projects to the identical low Ltilde^2 and high conductor pair at5A, its row cutoff is unchanged, and RS5 is stronger than the C791 1320Q^3 bound.
 The C795 proof may therefore be applied by its checked actual hypotheses, not by silently calling a different construction an old row-selection output.
 Its exact8A+30/31 source terms are still present and do not establish the remaining high square condition.
 
 ### RS4. A longer actual low-k jet in the ORIGINAL binary plateau
 
 Fix any original s at this new source and any separately selected sign sigma.
-Keep the normalized full reference and an actual C809 target seed k_0.
-C816 supplies k_0'=0 modulo X^(A-2).
+Keep the normalized full reference and an actual C767 target seed k_0.
+C773 OF1--OF2 supplies k_0'=0 modulo X^(A-2).
 Define the ACTUAL target derivative
 
     U_ext(X)=X^A phi(X)^(6A)H_even,3A(X)
@@ -232,13 +232,13 @@ The three moduli are coprime, so CRT and the actual columns give a genuine heigh
 
     k=Z_0 modulo phi^(4A), k=k_low modulo X^(4A-2),        (RS13)
 
-the full C809 target and every original source/sign expense.
+the full C767 target and every original source/sign expense.
 These are actual sign bits, not an unrestricted local coefficient polynomial.
 
 ### RS5. Preserve the longer jet through every actual repair
 
 Reducing RS8 modulo X^(3A) gives exactly C787's original low-k condition: the added H_even,3A terms begin too high to contribute there.
-It therefore implies C816's actual second-four repairability condition as in C789 SF4.
+It therefore implies C773 OF4's actual second-four repairability condition at the C768 local interface, as in C789 SF4.
 Apply the adopted C772 actual supported second-four construction.
 Its desired auxiliary differs by4W_corr and its actual supported output differs by16H_1+2X^B Phi^B Q_1, B=32A.
 After taking the TRUE half and binary K quotient, the only change is X^Bphi^(B-A)Q_1bar.
@@ -271,7 +271,7 @@ Combining them with the separately fixed C795/C797 exact coordinate proofs gives
 
 This is actual attainment of the whole lower high gate, with new source and genuine signs fully paid.
 The C797 coordinate interpretation remains subject to its responsible independent whole review and selected adoption; C795 is adopted.
-No high coordinate at2A-2 or above has been evaluated to lie in C835's correction image, so no unconditional global selected-X8, further lift, own-core inheritance or unrestricted G0001 result follows.
+No high coordinate at2A-2 or above has been evaluated to lie in C792's correction image, so no unconditional global selected-X8, further lift, own-core inheritance or unrestricted G0001 result follows.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-26)
@@ -331,7 +331,7 @@ No high coordinate at2A-2 or above has been evaluated to lie in C835's correctio
 | dependency | [Adopted actual first-eight transfer](Yin_C_G0778_v1.md#decision-whole-reviewed-2026-10-26) | Full canonical comparison, all nonphiF8 and actual global height-one realization at the original costs. |
 | dependency | [Adopted actual low-quarter removal](Yin_C_G0787_v1.md#decision-whole-reviewed-2026-10-26) | Exact low source/k gate, actual integer CI correction with X^B H_Y factor, full supported transfer and final original7D lowercount. |
 | dependency | [Adopted exact lower high coordinates](Yin_C_G0795_v1.md#decision-whole-reviewed-2026-10-26) | Complete actual HG identity and source precision, reapplied only after checking the new witness satisfies every actual finite-jet/source hypothesis. |
-| dependency | [Adopted actual copied-factor J_h vanishing](Yin_C_G0797_v1.md#decision-whole-reviewed-2026-10-26) | Unchanged complete C797 mathematics, now adopted through R1201, for ST3 at the checked original actual low-zero source domain; no higher coordinate is imported. |
+| dependency | [Adopted actual copied-factor J_h vanishing](Yin_C_G0797_v1.md#decision-whole-reviewed-2026-10-26) | Unchanged complete C797 mathematics, now adopted through R1016, for ST3 at the checked original actual low-zero source domain; no higher coordinate is imported. |
 | dependency | [Adopted original complete copied costs](Yin_C_G0774_v1.md#decision-whole-reviewed-2026-10-26) | All original degrees/core/measure/noncyclotomic/own-core/coefficient/circle accounts and opposite-sign boundary. |
 | review | [Independent whole lower-high-gate attainment](../audits/reviews/Yin_R_G1018_v1.md#whole-lower-high-gate-attainment-finding) | Entire ST1--ST3 and RS1--RS5, every source and sign interface, all actual repairs and final counts, checked C795/C797 domain and complete retained cost/limit scope. |
 

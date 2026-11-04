@@ -3,7 +3,7 @@ author: Yin
 ---
 # Mixed-defect screens and direct original-polynomial transfer costs
 
-The complete current statement and necessary original argument are adopted in [C_G0606_v2](../claims/Yin_C_G0587_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g445-complete-self-finding).
+The complete current statement and necessary original argument are adopted in [C587_v2](../claims/Yin_C_G0587_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g445-complete-self-finding).
 Every original physical-version mathematical domain, contribution, source/native boundary, useful failure and historical review scope remains below.
 
 
@@ -11,7 +11,7 @@ Date: 2026-10-20T17:27.
 Human author Yin.
 This substantive v2 continues the same mixed-defect and paid-transfer comparison as [physical L444v1](Yin_L_G0444_v1.md).
 It preserves that entire account and adds the full original-residual simplification DR1--DR12 below, with its actual mathematical date and authorship.
-The previous [complete independent R487](../audits/reviews/Yin_R_G0487_v1.md#component-schur-whole-independent-finding) remains evidence only for the unchanged v1.
+The previous [complete R487, actual UNKNOWN](../audits/reviews/Yin_R_G0487_v1.md#component-schur-whole-independent-finding) remains evidence only for the unchanged v1.
 Root directed the new same-input divisibility check and retained_methods_audit completed its derivation; both are contributors, and the latter's earlier R487 is not an independent review of this new work.
 No old material, original source inspection or earlier review scope is rewritten or enlarged.
 This version requires a separate whole review of its current complete scope and exact predecessor consumption.
@@ -202,7 +202,7 @@ The direct normalization and exact divisibilities are retained as simplification
 | Input | Exact role |
 | --- | --- |
 | [Complete physical v1](Yin_L_G0444_v1.md) | All retained component, Schur, buffered and paid comparisons with every exact original input and boundary; old mathematics is reused rather than recopied or silently strengthened. |
-| [Whole predecessor R487](../audits/reviews/Yin_R_G0487_v1.md#component-schur-whole-independent-finding) | Independent coverage of unchanged v1 only; its reviewer contributes to DR1--DR12 and does not review this version. |
+| [Whole predecessor R487](../audits/reviews/Yin_R_G0487_v1.md#component-schur-whole-independent-finding) | Checked coverage of unchanged v1 at its UNKNOWN relationship only; its reviewer contributes to DR1--DR12 and does not review this version. |
 | [C191v2 actual residual norm](../claims/Yin_C_G0191_v2.md#statement) | Full original degree d, |Norm_K g|>=2^(6d/11), nonzero g and unchanged actual trace-field hypotheses. |
 | [C195v2 original contact comparison](../claims/Yin_C_G0195_v2.md#c195-original-contact-decomposition) | SAME unreduced H23/H25/H35, their original values, J_G, D_G and full original degree, with all zero-g and contact distinctions preserved. |
 | [C196v5 norm-only proof](../claims/Yin_C_G0196_v5.md#norm-only-sparse-transfer) | Existing NF1--NF8 with explicit nonzero full norm, fixed term/coefficient/degree budgets and eta_0; no normalized-value integrality requirement. |

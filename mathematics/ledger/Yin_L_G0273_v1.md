@@ -6,9 +6,9 @@ author: Yin
 
 Date: 2026-10-10.
 
-The complete current formal home is [C492](../claims/Yin_C_G0492_v1.md#statement), selected on2026-10-22T00:47 after [the entire current whole SELF finding](../audits/reviews/Yin_R_G0704_v1.md#nonunit-capacity-whole-self-finding).
+The complete current formal home is [C492](../claims/Yin_C_G0492_v1.md#statement), selected on 2026-10-22T00:47 after [the entire current whole SELF finding](../audits/reviews/Yin_R_G0704_v1.md#nonunit-capacity-whole-self-finding).
 The [ENTIRE original R128 whole finding](../audits/reviews/Yin_R_G0128_v1.md#nonunit-capacity-complete-independent-review) remains UNKNOWN because the exact additional initial target context/order is unestablished; the original text below remains its fixed input, not a retrospectively isolated review.
-The [original complete author SELF](../audits/reviews/Yin_R_G0704_v1.md#nonunit-capacity-original-author-finding) has2026-10-10 day precision;11:02 is the subsequent freeze,11:14 the separate [cubic-norm/sextic-resultant wording clarification and re-freeze](../audits/reviews/Yin_R_G0704_v1.md#nonunit-content-clarification-original-finding), and11:17 the separate whole review.
+The [original complete author SELF](../audits/reviews/Yin_R_G0704_v1.md#nonunit-capacity-original-author-finding) has2026-10-10 day precision;2026-10-10T03:02 is the subsequent freeze,2026-10-10T03:14 the separate [cubic-norm/sextic-resultant wording clarification and re-freeze](../audits/reviews/Yin_R_G0704_v1.md#nonunit-content-clarification-original-finding), and 2026-10-10T03:17 the separate whole review.
 All six sections/18equations/four-critical-root table/meaningful capacity and nonunit comparison/native/source/contribution/clarification/negative history below remain original; active or proposed-test wording below supplies no current Task/E authority.
 
 The coordinating AI for Yin adopts this restricted result after complete separately organized noncontributor review under the continuing G0001 authorization.

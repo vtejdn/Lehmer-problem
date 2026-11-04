@@ -133,7 +133,7 @@ Summing all pairs proves the degree-linear lower cost, while the complete coeffi
 The thresholds apply eventually because d tends to infinity, and TOTAL m(P*) is Theta(d), not near zero.
 
 The sole external analytic input remains Pri11-U001 at its accepted statement/applicability scope; its original potential-theory proof was not newly audited.
-L64/L74 local algebra and the explicit C83 mechanism were read at the required interfaces, together with C83's original R415 and actual R417 review scopes.
+L64/L74 local algebra and the explicit C83 mechanism were read at the required interfaces, together with C83's original R309 and actual [R794 v2 original C83 extraction](Yin_R_G0794_v2.md#c83-pairwise-binary-actual-extraction-finding) review scopes.
 L17's elementary divergence proof and existing DLMF attribution were checked, with no rate imported.
 The finite-moment method is expressly credited to the C96 author.
 Search leads are unused and no novelty claim is asserted.

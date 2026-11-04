@@ -6,7 +6,7 @@ author: Yin
 
 Date: 2026-10-21T13:30.
 Human operator: Yin.
-The current agent actually read complete L149/L150, their original contribution/review accounts, both complete new statements and retained arguments, and the directly used scopes of C217v2/C257/C266/C267/C329/C336/C337/C338/C349/C351/C352v2/C355v2.
+The current agent actually read complete L149/L150, their original contribution/review accounts, both complete new statements and retained arguments, and the directly used scopes of C217v2/C257/C266/C267/C329/C335/C336/C337/C349/C351/C351v2/C354v2.
 Unchanged adequate proofs already read in this maintenance were reused at their exact scopes.
 The whole mathematical checks rederived every norm, finite index, floor, valuation, exponent and scope implication below, rather than inferring success from retained text or an old review label.
 The agent inherited substantive maintenance context and read original review conclusions before forming its current findings, so both new whole findings are self-reviewed.
@@ -59,7 +59,7 @@ For the old recursion the first K-1 increments, and for the balanced recursion i
 Their final L evaluations therefore give the same strict lower R_0 for both recipes and their minimum, separately under each budget, without asserting tower growth or an attained defect count.
 The Lambda comparison retains pi^4 and every m,B,Phi factor, and the hypothetical near-one asymptotic does not assume an input family exists.
 The full U(M)/M decreases on M>=3, so the exact condition on the same P,N propagates from M_0 to every guaranteed window while retaining b_P,C_P and allowing its integer range to be empty.
-The actual C338 envelope is exactly one there, but earlier windows remain outside that conclusion.
+The actual C337 envelope is exactly one there, but earlier windows remain outside that conclusion.
 For B>B_m, g_B^2<B and strict E_(R_use)>B give the exact sufficient N_suff cost and make equality harmless; every multiplier/window and separate full-Fourier guard remains as stated.
 The distinct wider-domain real-point products use a closest central root and its nonreal conjugate, not the closest central pair.
 Their integer P(1),P(-1) bounds retain the exponential degree cost and imply m^2>2^(-(d-1)).
@@ -85,7 +85,7 @@ The elementary sequence (a+1)/2^a has exactly its two maximal values at a=0,1, p
 Negative and zero surplus cannot improve that positive maximum.
 The increasing 2^k/(2k+2) sequence gives the exact diverging time/mass ratio and the fixed-epsilon target retains its ceiling.
 The named Lehmer control is reused through its adequate exact polynomial/module proof, without a new computation.
-At n=3N the end-seed mass is only log2; comparison with the full linear mass is confined to C337's selected successful subsequence, so its new ideals can lie above an already used rational prime.
+At n=3N the end-seed mass is only log2; comparison with the full linear mass is confined to C336's selected successful subsequence, so its new ideals can lie above an already used rational prime.
 The complete result concerns this restricted lower-certificate mechanism, not an upper bound on full norms, Mahler measures or a sufficiently smaller near-one class.
 No mathematical defect, missing guard or correction was found.
 

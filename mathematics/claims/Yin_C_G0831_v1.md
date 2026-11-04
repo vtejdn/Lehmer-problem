@@ -176,7 +176,7 @@ The actual trace degrees range from61761887 to102098754, and the full reciprocal
 These are the extrema among the explicitly selected64 words, not optimal costs for their fibers.
 All factors and multiplicities remain cyclotomic, so the total logarithmic Mahler measure is0 and the fixed base remains reducible.
 No irreducible reciprocal nontorsion integer-unit input with controlled positive total measure is constructed.
-Local f-order improvement is not additional global coefficient precision, and this result does not improve C757's same-input degree/precision certificate or resolve the unrestricted G0001 Task.
+Local f-order improvement is not additional global coefficient precision, and this result does not improve C720's same-input degree/precision certificate or resolve the unrestricted G0001 Task.
 
 ## Complete argument
 
@@ -281,7 +281,7 @@ In particular the zero g2 at mask1843/coset0 merely marks a later nonzero half t
 
 The calculation rules out32 exact Theta alternatives and demonstrates that this ambient next-half screen does not close any of the16 remaining old fibers.
 It neither determines Sigma_2 nor solves complete X4.
-Its large-degree, reducible, total-measure-zero inputs remain outside the irreducible positive-measure domain of C757.
+Its large-degree, reducible, total-measure-zero inputs remain outside the irreducible positive-measure domain of C720.
 No automatic further precision or image iteration is part of the conclusion.
 
 ### 6. Selected native inputs and reproduction boundary

@@ -113,7 +113,7 @@ No universal maximizing integer,uniform amplitude lower bound,original-binary en
 <a id="argument"></a>
 Let alpha be an algebraic unit with monic irreducible polynomial P, with no unit-circle conjugate, and put m=log M(P)>0.
 Let d=deg P, and s the real dimension of its stable embedding space.
-Use the normal real stable matrix A, stable embedding iota, and product bodies K_N of [C G0298](Yin_C_G0297_v1.md#disjoint-smoothing-relative-entropy).
+Use the normal real stable matrix A, stable embedding iota, and product bodies K_N of [C297](Yin_C_G0297_v1.md#disjoint-smoothing-relative-entropy).
 Let k>=1 be a fixed integer, and let eta_j be independent, each distributed as a sum of k independent fair signs.
 Set
 
@@ -172,7 +172,7 @@ Consequently h_k<=m, independently of the lower convergence estimate used later.
 <a id="convolution-fourier-deficit"></a>
 ### The same frequency spacing and the k-th power amplitude
 
-For theta in O_K minus {0}, use the exact trace multiplier and frequencies from [C G0299](Yin_C_G0298_v1.md#algebraic-trace-multiplier).
+For theta in O_K minus {0}, use the exact trace multiplier and frequencies from [C298](Yin_C_G0298_v1.md#algebraic-trace-multiplier).
 The k independent signs in each digit give
 
     |hat law(Y_(N,k))(zeta_(theta,t))|
@@ -216,7 +216,7 @@ Write
 
     c_opt(P)=sup_(theta in O_K minus {0}) c_P(theta).
 
-The uniform multiplier caps of L G0103, strengthened in [C G0305](Yin_C_G0304_v1.md#two-unit-defect-energy-floor), give 0<c_opt(P)<1.
+The uniform multiplier caps of L G0103, strengthened in [C304](Yin_C_G0304_v1.md#two-unit-defect-energy-floor), give 0<c_opt(P)<1.
 No maximum or optimizing multiplier is asserted to exist.
 Since the left side of (7) and its spacing are independent of theta, continuity and monotonicity permit taking this supremum after the fixed-multiplier bounds:
 

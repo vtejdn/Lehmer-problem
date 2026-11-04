@@ -15,8 +15,8 @@ No later mutable argument is included in either finding.
 The reviewer authored the older CG graph in C196v3, C197v1/v2 and the separate older C196v4 joint closure.
 Those contributions are NOT independently re-audited here.
 Actual R474 supplies the generic/graph coverage; R475 and R476 retain the older QR and local-module/error scopes, and R477 supplies the complete new-QX consumer coverage over those rules.
-The reviewer was the QX reviewer in R477 and the v1/v2 C199 reviewer in R627/R483, not an author of those newer proofs.
-R483 explicitly carries the older closure reuse through R624; this chain is not converted into self-review by the present application.
+The reviewer was the QX reviewer in R477 and the v1/v2 C199 reviewer in R481/R483, not an author of those newer proofs.
+R483 explicitly carries the older closure reuse through R478; this chain is not converted into self-review by the present application.
 The actual C197 root, two-lift, localized3A relation and4A support condition and their exact R477/R476 interfaces were read back.
 R468 remains the recorded C191 whole evidence, preserving the present candidate author's old original-return contribution.
 The new v3 consumer applications and all v4 deductions are independently checked below; none is assigned advance coverage by these older reviews.
@@ -30,7 +30,7 @@ Neither candidate was edited, adopted or entered into shared navigation by this 
 The actual frozen author descriptions and shared initial context do not establish isolation sufficiently before the first mathematical judgment on the new v3/v4 proofs.
 The fixed proofs and explicit interface obligations are legitimate inputs, and the reviewer's own earlier findings and authorship of already fixed upstream interfaces do not themselves establish contribution to these successor arguments.
 Both the complete physical-v3 finding and the separate complete physical-v4 finding therefore have unknown relationships at their distinct exact domains and binding scopes.
-Their original date, full checks and raw bindings are retained without a new review; R474/R475/R476/R477/R624/R627/R483/R468 also retain unknown initial context at their respective older scopes.
+Their original date, full checks and raw bindings are retained without a new review; R474/R475/R476/R477/R478/R481/R483/R468 also retain unknown initial context at their respective older scopes.
 
 ## Review relationships
 
@@ -66,8 +66,8 @@ Their original date, full checks and raw bindings are retained without a new rev
 | [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](../../ledger/Yin_L_G0066_v1.md#reciprocal-trace-domain) | dependency: Integer reciprocal Laurent basis, actual trace field and full quadratic tower; local polynomial-basis mechanism checked at the cyclotomic use. |
 | [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](../literature/Con26e/Yin_U001.md#con26e-u001) | dependency: Accepted complete-field simple-root existence/uniqueness inside K_q, with unchanged source-proof limits. |
 | [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](../literature/The26b/Yin_U001.md#the26b-u001) | dependency: Actual e/f/value-group normalization and complete separable degree sums; no new ancestor-proof audit. |
-| [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](../../claims/Yin_C_G0199_v1.md#argument) | support: Physical retained KC predecessor only, with its original R627 scope. |
-| [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](Yin_R_G0483_v1.md#joint-order-cancellation-consumer-whole-finding) | support: Entire old v2 independent consumer finding, including its disclosed R624 reuse for author-overlapping older closure; no new-block coverage attributed to it. |
+| [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](../../claims/Yin_C_G0199_v1.md#argument) | support: Physical retained KC predecessor only, with its original R481 scope. |
+| [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](Yin_R_G0483_v1.md#joint-order-cancellation-consumer-whole-finding) | support: Entire old v2 consumer finding at its unknown relationship, including its disclosed R478 reuse for author-overlapping older closure; no new-block coverage attributed to it. |
 | [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](Yin_R_G0477_v1.md#quadratic-primary-generalized-consumer-whole-finding) | support: Actual complete QX consumer review, not authorship of QX or advance coverage of new unit gates. |
 | [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](Yin_R_G0474_v1.md#canonical-degree28-whole-finding) | support: Actual independent generic half-difference and canonical-graph scope, including this reviewer's older CG contribution. |
 | [Whole finding](#cyclotomic-unit-v3-whole-chain-finding) | [Exact fixed input](Yin_R_G0468_v1.md#actual-trace-cluster-and-return-whole-finding) | support: Actual whole periodic/cluster/norm evidence, preserving the current author's old return contribution. |

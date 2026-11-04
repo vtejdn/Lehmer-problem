@@ -17,7 +17,7 @@ At the report's 11 October 2026 scope, the [recorded Task decision](../../tasks/
 This report records that historical scope and does not authorize further exploration or revise any fixed mathematical result.
 Arithmetic has primary attention within the retained parallel allocation; the eight candidate routes are not eight executing tasks.
 
-The 28-page report is written for human mathematicians in English.
+The 29-page report is written for human mathematicians in English.
 Its first section summarizes overall progress; the remaining main sections follow the four parent strategies, with the four subsidiary strategies as subsections.
 Important results use mathematical result environments, and the report follows Yin's four writing layers.
 Internal material identifiers are excluded from the compiled article.
@@ -36,6 +36,6 @@ The [standalone computation attachment](progress/supplement/readme.md) supplies 
 | Actual return core and general-unit covariance certificate limits | [L_G170](../../ledger/Yin_L_G0170_v1.md#lehmer-infinite-core-theorem), [L_G353](../../ledger/Yin_L_G0353_v1.md#general-returned-block-fixed-scope), with supporting results mapped in the editorial record. |
 | Complete structural costs | [L_G349](../../ledger/Yin_L_G0349_v1.md#all-count-cost-fixed-scope), [L_G352](../../ledger/Yin_L_G0352_v1.md#changed-bulk-fixed-scope), [R_G174](../../audits/reviews/Yin_R_G0174_v1.md), [R_G177](../../audits/reviews/Yin_R_G0177_v1.md). |
 
-The [current authoring check and build record](progress/readme.md#authoring-check-of-the-strategy-revision) concern the strategy-structured revision.
+The [current build record](progress/readme.md#local-build-verification) concerns the strategy-structured revision.
 The [manuscript review](progress/review.md#strategy-revision-authoring-check) records that revision's presentation and consistency check, its attachment verification and its review limits.
 This is a progress document, not a claimed solution or a journal submission.

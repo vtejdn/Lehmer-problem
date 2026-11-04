@@ -156,12 +156,15 @@ The record explicitly identifies the supplied mathematical construction and full
 <a id="historical-contributed-field-proof-check-finding"></a>
 ## Original L81 drafting-agent field-proof check
 
-The record explicitly reports this separate full check before incorporation. Its initial substantive context for that contributed subproof is unestablished. Drafting other surrounding sections does not by itself certify or refute isolation for this precise subproof, so the relationship remains unknown.
+The record explicitly reports this separate full check before incorporation.
+Its initial substantive context for that contributed subproof is unestablished.
+Drafting other surrounding sections does not by itself certify or refute isolation for this precise subproof, so the relationship remains unknown.
 
 <a id="historical-primitive-initial-coordinator-finding"></a>
 ## Original L81 coordinator initial whole check
 
-The earlier proposal named the binary-trajectory target and the old record reports a real full(1)–(13) check, but does not establish its initial substantive context. The later contributed(14)–(17) do not retrospectively make this earlier fixed-scope check self or establish its isolation, so it remains unknown.
+The earlier proposal named the binary-trajectory target and the old record reports a real full(1)–(13) check, but does not establish its initial substantive context.
+The later contributed(14)–(17) do not retrospectively make this earlier fixed-scope check self or establish its isolation, so it remains unknown.
 
 <a id="historical-short-faithful-contributor-finding"></a>
 ## Original L81 short faithful transfer contribution
@@ -171,12 +174,14 @@ The coordinator supplied the necessary actual mathematical argument at this exac
 <a id="historical-contributed-faithful-proof-check-finding"></a>
 ## Original L81 drafting-agent faithful-proof check
 
-The old record reports a complete actual check of this supplied addition, but gives no sufficient initial substantive-context arrangement for that precise check. Authorship of the earlier surrounding argument is not by itself a proof contribution to the new addition, so this relationship remains unknown.
+The old record reports a complete actual check of this supplied addition, but gives no sufficient initial substantive-context arrangement for that precise check.
+Authorship of the earlier surrounding argument is not by itself a proof contribution to the new addition, so this relationship remains unknown.
 
 <a id="historical-primitive-binary-whole-finding"></a>
 ## Original L81 separate final whole check
 
-The actual complete check and its two successive fixed inputs are retained. The original independent wording establishes no sufficient initial substantive-context arrangement, and no specific same-target proof contribution is recorded for this reviewer, so the relationship remains unknown.
+The actual complete check and its two successive fixed inputs are retained.
+The original independent wording establishes no sufficient initial substantive-context arrangement, and no specific same-target proof contribution is recorded for this reviewer, so the relationship remains unknown.
 
 <a id="historical-mercat-author-finding"></a>
 ## Original L82 author whole check
@@ -186,12 +191,14 @@ The author developed and checked this complete reconstruction, so the finding is
 <a id="historical-mercat-coordinator-finding"></a>
 ## Original L82 coordinator whole check and contribution
 
-The coordinator actually supplied the necessary mathematical collision reduction before drafting and then checked the assembled argument. Its scope is self-review; no full native-code audit is inferred merely from reading the independent computation.
+The coordinator actually supplied the necessary mathematical collision reduction before drafting and then checked the assembled argument.
+Its scope is self-review; no full native-code audit is inferred merely from reading the independent computation.
 
 <a id="historical-mercat-whole-finding"></a>
 ## Original L82 separate whole check
 
-The complete substantive no-defect review and its explicit limits are retained, but its initial mathematical context is unestablished. There is no record of this reviewer’s actual contribution to the target, so this finding remains unknown rather than inferred self or isolated.
+The complete substantive no-defect review and its explicit limits are retained, but its initial mathematical context is unestablished.
+There is no record of this reviewer’s actual contribution to the target, so this finding remains unknown rather than inferred self or isolated.
 
 <a id="historical-volume-author-finding"></a>
 ## Original L83 author whole check
@@ -201,17 +208,20 @@ The agent authored, developed and checked the complete proof, so this finding is
 <a id="historical-volume-focused-coordinator-finding"></a>
 ## Original L83 coordinator focused assembly checks
 
-The old wording records concrete focused checks, without saying the coordinator supplied a new derivation or necessary proof repair. Such verification does not automatically become a proof contribution, while its initial substantive context is unestablished, so the relationship is unknown.
+The old wording records concrete focused checks, without saying the coordinator supplied a new derivation or necessary proof repair.
+Such verification does not automatically become a proof contribution, while its initial substantive context is unestablished, so the relationship is unknown.
 
 <a id="historical-volume-whole-finding"></a>
 ## Original L83 separate whole check
 
-The actual full review and its retained root-count input are recorded, but sufficient initial substantive-context facts are not. No contribution is specified for this reviewer, so the relationship remains unknown.
+The actual full review and its retained root-count input are recorded, but sufficient initial substantive-context facts are not.
+No contribution is specified for this reviewer, so the relationship remains unknown.
 
 <a id="historical-volume-coordinator-whole-finding"></a>
 ## Original L83 coordinator final whole check
 
-The actual complete check followed focused verification of the same argument. Those checks and its own prior findings do not alone establish substantive authorship or isolated initial context; neither is sufficiently recorded, so this exact whole finding remains unknown.
+The actual complete check followed focused verification of the same argument.
+Those checks and its own prior findings do not alone establish substantive authorship or isolated initial context; neither is sufficiently recorded, so this exact whole finding remains unknown.
 
 <a id="historical-fourier-author-finding"></a>
 ## Original L84 author whole check
@@ -226,7 +236,8 @@ The exact new normalization and shrinking-body mathematical development are expl
 <a id="historical-fourier-whole-finding"></a>
 ## Original L84 separate whole check
 
-Absence of a contribution is explicitly recorded, but the initial substantive author/reviewer context is not sufficiently established. The old independent wording is not an isolation record, so this complete finding remains unknown.
+Absence of a contribution is explicitly recorded, but the initial substantive author/reviewer context is not sufficiently established.
+The old independent wording is not an isolation record, so this complete finding remains unknown.
 
 ## Complete original L81 checking account
 

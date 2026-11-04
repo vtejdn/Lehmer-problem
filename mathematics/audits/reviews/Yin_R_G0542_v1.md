@@ -26,7 +26,7 @@ The fixed C/L/J inputs necessarily exposed their authored self-checks, old revie
 These were read as supplied text and audit objects, not as correctness evidence or certificates of an old agent's isolation.
 In particular the J readmes already disclosed old shared-context limits and historical/current counter differences.
 No separate R body was opened before the complete initial mathematical findings were formed and reported.
-Only then were the entire R_G0232_v1, R_G0233_v1 and R_G0687_v1 accounts read and compared with those findings.
+Only then were the entire R_G0158_v1, R_G0159_v1 and R_G0540_v1 accounts read and compared with those findings.
 Their historical checking arrangements, claimed executions and original author-prefix observations were not reconstructed from undisclosed old context or unavailable historical bytes.
 
 The new conclusions below are independent agent reviews of the fixed mathematics under this actual arrangement.
@@ -267,22 +267,22 @@ Its current scalar count23259 differs from the saved23264, while the8 matrices,3
 The old saved strict counts were neither patched nor called equal to these new counts.
 The current read-only checks establish the present fixed mathematics and protocol observations, not an undocumented history of which source bytes generated every old count.
 
-The complete old R_G0232_v1 account, completed after its original native review at 2026-10-10T11:56, has the same original Sections1--5/(1)--(13), complete real feasible domain and cost/source/native scope now checked above.
+The complete old R_G0158_v1 account, completed after its original native review at 2026-10-10T11:56, has the same original Sections1--5/(1)--(13), complete real feasible domain and cost/source/native scope now checked above.
 Its necessary negative and limited findings remain explicit here: the earlier180second simplex supplied no candidate or lower obstruction, the direct step was not a global optimum, floating discovery does not certify exact mathematics, mirror splits prevent full-vector uniqueness/stability, and the below2 endpoint is necessary rather than attainable.
 Its original quotient-Gram, convolution and adjugate implementation and claimed run are historical evidence at their recorded scope, not a second fresh independent review supplied by this replay.
 Its upstream L326/L328 authorship neither proves a new-result repair contribution nor establishes the original isolation.
 Its shared-context content and ordering remain unestablished.
 
-The whole R_G0233_v1 account was completed at 2026-10-10T12:01, after its claimed binary run at 2026-10-10T12:00, with recorded 0.028866799984825775 seconds and 23264 comparisons.
+The whole R_G0159_v1 account was completed at 2026-10-10T12:01, after its claimed binary run at 2026-10-10T12:00, with recorded 0.028866799984825775 seconds and 23264 comparisons.
 The graph, every all-k equation and parity boundary, native payload, source-depth and cost assertions were compared with the new full checks, rather than inherited from its PASS.
 Its useful limitations remain explicit: only the same stabilization block is covered, this particular Z is excluded, cheaper alternatives within V's class remain possible, binary rank is incomplete as a classifier, and L330's scalar/measure chain is accepted input rather than freshly audited old author work.
 The old author-prefix byte observation, original timer accounting, six-file contemporaneous observations, no-failure/no-extra-k statements and claimed first-run order remain statements of that original account.
 This review neither reconstructs absent past byte images nor remeasures that historical execution.
 The visible shared summaries and their initial order remain unknown; upstream L330 authorship and previous review activity do not decide that relationship.
 
-R_G0687_v1 records a complete self-check at 2026-10-21T08:05 of these same C statements/arguments, with current native diagnostic checks.
-Its first16:00 wrapper assertions of complete equality with the historical reports failed on strict-comparison counters; those failures are real report-equality failures, not mathematical counterexamples.
-Its16:01 diagnostic replays identified only83644 versus83648 and23259 versus23264, with every mathematical field and other counter equal.
+R_G0540_v1 records a complete self-check at 2026-10-21T08:05 of these same C statements/arguments, with current native diagnostic checks.
+Its first 2026-10-21T08:00 wrapper assertions of complete equality with the historical reports failed on strict-comparison counters; those failures are real report-equality failures, not mathematical counterexamples.
+Its 2026-10-21T08:01 diagnostic replays identified only83644 versus83648 and23259 versus23264, with every mathematical field and other counter equal.
 The present fresh checks reproduce those present protocol outcomes independently of consulting that R body, but do not certify the claimed historical execution sequence from that agreement.
 The self-reviewed relationship and the two older unknown relationships remain their actual facts; no old R is relabelled or backdated here.
 

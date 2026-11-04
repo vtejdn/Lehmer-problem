@@ -8,7 +8,7 @@ Human author Yin.
 Root proposes the C147v5 substitution into the actual C146 own-ratio-field interface; shear_arithmetic checks the finite branches, inverse threshold, escape formula and comparison constants.
 Both are contributors and cannot independently review this consumer.
 This complete consumer argument was developed in D40 while C147v5 awaited its separate review; its necessary mathematics is now retained here.
-Before the present whole freeze the author verified its actual18:34 adopted decision, proved and independently reviewed via R381; the new direct premise is now resolved.
+Before the present whole freeze the author verified its actual18:34 adopted decision, proved via the selected R381 whole finding, whose relationship is now explicitly unknown; the new direct premise is now resolved.
 The current successor preserves C146v4 and its older proof families through explicit accepted dependencies, while adding the sharper complete-cyclic-norm consequences below.
 No numerical inversion, native mathematical program, new source acquisition or computation is performed.
 
@@ -219,7 +219,7 @@ The recorded review description was `under review`.
 | argument | [Entire new consumer proof](#argument) | All eleven displayed formulas and every subsequent proof section: actual ratio and original norm costs, finite branches and monotonic ratio, cutoff, complete cap/strictness, inverse asymptotic and exact factor32 comparison. |
 | dependency | [Accepted own-ratio and original norm interface](Yin_C_G0146_v4.md#argument) | Section1 equations4--5 only: nontorsion integral unit rho, actual fields D,d', all norm fibers and income, strict u<H, complete original signed norm and all n,pn,rpn/term costs. |
 | dependency | [Preserved accepted families and old comparison](Yin_C_G0146_v4.md#statement) | All prior fixed-q/source-parameter, numerical quarter and cubic finite criteria, cutoffs and capped inverse bounds remain valid at their original scopes; equation28 supplies the exact old g3 comparison, not the new log-log estimate. |
-| dependency | [Accepted complete cyclic log-log theorem](Yin_C_G0147_v5.md#statement) | Constant86 complete norm modulus on h<=exp(-40), strict monotonicity, full original-powered degree multiplicities, capped threshold H5 and exact asymptotic constant1/(128*86^2), adopted by its actual18:34 decision/R381. |
+| dependency | [Accepted complete cyclic log-log theorem](Yin_C_G0147_v5.md#statement) | Constant86 complete norm modulus on h<=exp(-40), strict monotonicity, full original-powered degree multiplicities, capped threshold H5 and exact asymptotic constant1/(128*86^2), adopted by its actual18:34 decision/R381 at that finding's unknown relationship. |
 
 ### Decision whole-reviewed-2026-10-18
 
@@ -235,6 +235,6 @@ The recorded review description was `under review`.
 | argument | [Entire new consumer proof](#argument) | All eleven displayed formulas and every subsequent proof section: actual ratio and original norm costs, finite branches and monotonic ratio, cutoff, complete cap/strictness, inverse asymptotic and exact factor32 comparison. |
 | dependency | [Accepted own-ratio and original norm interface](Yin_C_G0146_v4.md#argument) | Section1 equations4--5 only: nontorsion integral unit rho, actual fields D,d', all norm fibers and income, strict u<H, complete original signed norm and all n,pn,rpn/term costs. |
 | dependency | [Preserved accepted families and old comparison](Yin_C_G0146_v4.md#statement) | All prior fixed-q/source-parameter, numerical quarter and cubic finite criteria, cutoffs and capped inverse bounds remain valid at their original scopes; equation28 supplies the exact old g3 comparison, not the new log-log estimate. |
-| dependency | [Accepted complete cyclic log-log theorem](Yin_C_G0147_v5.md#statement) | Constant86 complete norm modulus on h<=exp(-40), strict monotonicity, full original-powered degree multiplicities, capped threshold H5 and exact asymptotic constant1/(128*86^2), adopted by its actual18:34 decision/R381. |
-| review | [Whole independent consumer finding](../audits/reviews/Yin_R_G0383_v1.md#frobenius-loglog-whole-independent-finding) | Entire statement and argument, all three declared direct dependencies, actual original-field multiplicities and costs, finite monotonicity and cutoffs, cap/strictness and both asymptotic constants. |
+| dependency | [Accepted complete cyclic log-log theorem](Yin_C_G0147_v5.md#statement) | Constant86 complete norm modulus on h<=exp(-40), strict monotonicity, full original-powered degree multiplicities, capped threshold H5 and exact asymptotic constant1/(128*86^2), adopted by its actual18:34 decision/R381 at that finding's unknown relationship. |
+| review | [Whole consumer finding with unknown relationship](../audits/reviews/Yin_R_G0383_v1.md#frobenius-loglog-whole-independent-finding) | Entire statement and argument, all three declared direct dependencies, actual original-field multiplicities and costs, finite monotonicity and cutoffs, cap/strictness and both asymptotic constants. |
 

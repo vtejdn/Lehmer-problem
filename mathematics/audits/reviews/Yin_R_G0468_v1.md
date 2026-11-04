@@ -43,7 +43,7 @@ R467 now declares unknown context for Sections1--4 and self-review for the separ
 | [Whole actual-trace finding](#actual-trace-cluster-and-return-whole-finding) | [R467 independent arithmetic finding](Yin_R_G0467_v1.md#all-prime-trace-arithmetic-finding) | support: Compatible independent whole Sections1--4 checking after this reviewer's own reconstruction; not the separately self-reviewed Section5 and not a whole-version verdict by that contributor. |
 | [Whole actual-trace finding](#actual-trace-cluster-and-return-whole-finding) | [L438 original family](../../ledger/Yin_L_G0438_v1.md#unbuffered-balanced-reassessment) | support: Actual earlier formula/contributor attribution only; this review independently checks the new fixed Section5 without treating preservation as proof adoption. |
 | [Whole actual-trace finding](#actual-trace-cluster-and-return-whole-finding) | [C191v2 inputs and boundaries](../../claims/Yin_C_G0191_v2.md#inputs-and-boundaries) | support: All six input rows, standard local-linear-algebra applicability, truthful original-return contributions and exact no-transfer/no-abstract-realization boundary. |
-| [Whole actual-trace finding](#actual-trace-cluster-and-return-whole-finding) | [Actual second-version declaration](../../claims/Yin_C_G0191_v2.md#decision-initial) | Complete actual statement/argument, all five dependency rows and support; v1 and R611 remain restricted to their own earlier scope. |
+| [Whole actual-trace finding](#actual-trace-cluster-and-return-whole-finding) | [Actual second-version declaration](../../claims/Yin_C_G0191_v2.md#decision-initial) | Complete actual statement/argument, all five dependency rows and support; v1 and R465 remain restricted to their own earlier scope. |
 
 <a id="actual-trace-cluster-and-return-whole-finding"></a>
 ## Whole finding
@@ -164,7 +164,7 @@ The current text accurately attributes the old return to its earlier authors and
 This reviewer's preservation of those earlier formulas in L438 does not make it their author; no proof change was supplied during extraction.
 The standard completion, unique-valuation and free-lattice facts apply to actual finite extensions of Q_2, while the characteristic-polynomial filtration and every new cluster inequality are proved in C191 itself.
 The accepted Con26e and The26b source scopes are not expanded into new foundational proof audits.
-The earlier v1/R611 findings are not retroactively applied to the enlarged all-prime theorem.
+The earlier v1/R465 findings are not retroactively applied to the enlarged all-prime theorem.
 
 The result concerns actual quotients from a single original T and P.
 Realizing an abstract triple field as some Salem trace field would not realize these three prescribed quotient values, so C192's abstract unit examples do not contradict this theorem.

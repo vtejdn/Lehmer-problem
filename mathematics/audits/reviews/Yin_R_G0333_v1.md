@@ -8,7 +8,7 @@ Human record author Yin.
 The averaged_lcm subagent separately reviews the ENTIRE actual_income author's D24 frozen2026-10-13T04:22.
 The reviewer supplied none of its covering construction, statement, proof or repairs.
 The reviewer received root's broad assignment, shared G0001 context and the description that this was a coverage/cost result before inspection; no D24 author dialogue or previous D24 review finding was supplied.
-The unrelated R443 about the reviewer's own D23 was read for record format and its separate scope, not as mathematical evidence for D24.
+The unrelated R332 about the reviewer's own D23 was read for record format and its separate scope, not as mathematical evidence for D24.
 This review is not claimed blind.
 The reviewer enumerated the covering, density, actual norm and asymptotic obligations and read the complete actual original before forming this finding.
 

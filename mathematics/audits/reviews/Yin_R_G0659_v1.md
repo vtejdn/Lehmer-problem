@@ -32,7 +32,7 @@ No pair existence, new native evidence or independent mathematical-context isola
 ## Complete actual-order affine Salem profile and width escape evidence
 
 PASS for the entire exact current Statement/Argument and original Sections1–5/equations1–8, including every original embedding, actual-order subgroup, integral-unit/sign/constant case, generator-variable distinction, full norm/energy/ideal/cost and uniform-quantifier limitation.
-The constructor read complete L385/R211, full Smy15-U001, the exact C238 order/involution and C391 uniform bounded-power-cost interfaces and complete motivating C457 construction.
+The constructor read complete L385/R211, full Smy15-U001, the exact C238 order/involution and C391 uniform bounded-power-cost interfaces and complete motivating C453 construction.
 It read the original full author self-check and old findings before this reconstruction, so this is SELF with no new context isolation or substantive target repair.
 No native mathematical program, source retrieval, PDF/source-proof audit, scan or solver was used.
 
@@ -82,7 +82,7 @@ The original23:29 whole review and23:31 retention remain2026-10-11 events; the a
 Original R211 actually read the selected primary Smy15 printed/PDF pp2–4 text, including the complete displayed Lemma2/Proposition3 proofs and final strengthening note.
 The responsible U001 separately records the original root selected text/proof reading and visual p3 scope, not a current new source inspection.
 Power-degree preservation, quotient Salem behavior, fixed-field discreteness/generator and removal of the earlier full-degree assumption were accepted exactly there; original cited Salem-publication proofs, other survey sections, uniform smallest units, regulator bounds and algorithms were not adopted.
-C238 contributes only the involution/order convention, C391 only its accepted actual-degree uniform expense, and the C445/C457 motivation supplies no proof premise for the classification.
+C238 contributes only the involution/order convention, C391 only its accepted actual-degree uniform expense, and the C441/C453 motivation supplies no proof premise for the classification.
 The complete conditional affine theorem is supported at this scope, with no arbitrary-pair existence, cheap near-one width, unrestricted gap or Task/E resumption.
 
 <a id="original-affine-salem-profile-author-check-finding"></a>

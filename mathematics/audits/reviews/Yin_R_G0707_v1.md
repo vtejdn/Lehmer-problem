@@ -33,7 +33,7 @@ author: Yin
 ## Current entire form-specific proof and certificate
 
 Date: 2026-10-22T01:20.
-The maintaining agent supplied C496 after the full only L274 version/ENTIRE R173, sufficient actual fixed mechanisms and complete J63 source/native reading, so this ENTIRE finding is SELF.
+The maintaining agent supplied C496 after the full only L274 version and ENTIRE original R173 account retained in [R720](Yin_R_G0720_v1.md#natural-comparison-with-the-original-whole-review-and-retained-limits), sufficient actual fixed mechanisms and complete J63 source/native reading, so this ENTIRE finding is SELF.
 It covers the whole exact statement and original starting question/Sections1--6/equations1--11/every finite/cost/source/contribution/failure/negative boundary, not only the displayed sample.
 
 Direct addition gives the stated three hyperbolic pairs, det V0=1 and det(V0+V0^T)=-1.

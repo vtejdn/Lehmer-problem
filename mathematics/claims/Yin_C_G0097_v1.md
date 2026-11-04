@@ -131,7 +131,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-13T04:31 |
 | status | proved |
-| reason | Adopt entire original R333 and distinct actual extraction R446 for the finite common-prime-pool cover, weighted pair/triple capture, full same-exponent arithmetic income, finite Mahler consequence and conditional quantitative prime-pool growth. The union-support and actual density hypotheses remain explicit; neither automatic near-one coverage nor the unrestricted G0001 gap is proved. Root did not contribute a covering proof or wrapper and independently inspected the actual extraction; all original history and source limits remain. |
+| reason | Adopt entire original R333 and distinct actual extraction [R796 original C97 extraction](../audits/reviews/Yin_R_G0796_v1.md#c97-bounded-pool-actual-extraction-finding) for the finite common-prime-pool cover, weighted pair/triple capture, full same-exponent arithmetic income, finite Mahler consequence and conditional quantitative prime-pool growth. The union-support and actual density hypotheses remain explicit; neither automatic near-one coverage nor the unrestricted G0001 gap is proved. Root did not contribute a covering proof or wrapper and independently inspected the actual extraction; all original history and source limits remain. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -258,7 +258,7 @@ The recorded review description was `under review`.
 
 ## Organization after adoption
 
-After original whole R333 and actual extraction R446, the selected decision adopts the exact fixed result.
+After original whole R333 and actual extraction [R796 original C97 extraction](../audits/reviews/Yin_R_G0796_v1.md#c97-bounded-pool-actual-extraction-finding), the selected decision adopts the exact fixed result.
 Root compared the entire original body under the declared frontmatter/title/newline normalization, repaired exact incoming locators to the retained anchors, and retired the redundant working draft.
 All original mathematical, failed-transfer, source and freeze text remains below.
 

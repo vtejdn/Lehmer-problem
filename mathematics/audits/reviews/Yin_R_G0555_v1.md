@@ -5,7 +5,7 @@ author: Yin
 # Complete finite-family feasibility correction and affected joint-budget chain
 
 Recorded 2026-10-21T09:40 for human author Yin.
-The constructor read the entire C325v1 Sections1–6, including5.1/5.2 and equations(1)–(14), and its original complete R243 before preparing the physical v2 repair.
+The constructor read the entire C325v1 Sections1–6, including5.1/5.2 and equations(1)–(14), and its original complete R169 before preparing the physical v2 repair.
 The isolated reviewer’s newly reported arbitrary-family scope objection was available; the constructor supplied the correction, so this is self-review and cannot discharge the separate context-isolated repaired-chain obligation.
 No source PDF, solver, lattice reduction, producer, expanded domain or new numerical execution was used.
 
@@ -42,7 +42,7 @@ The n30 complete158-direction matrices remain a genuine incomplete phase2/10000-
 This constructor check inspected the complete written certificate chain and fixed provenance; it did not rerun the native verifiers and does not authenticate the old execution history.
 The nonlinear/all-lattice domains, source depths, total-positive-measure control and missing input-uniform near-one construction remain excluded.
 
-The original v1 body and R243 positive account are not rewritten, and the new objection must be retained in the isolated finding at its real scope.
+The original v1 body and R169 positive account are not rewritten, and the new objection must be retained in the isolated finding at its real scope.
 A fresh context-isolated agent must independently inspect the complete v2 statement, argument, necessary fixed inputs and the entire affected corrected chain, before comparing this account and old findings.
 G0001 remains paused and unresolved; none of this maintenance selects or resumes its Task/E.
 

@@ -43,7 +43,7 @@ The normal equations identify the least denominator with precisely ord([b]) in t
 The Smith exponent and cardinality give only divisibility, and the reduced residual denominator divides k_n squared only in the stated necessary direction.
 Full integer product energy and scalar content are retained.
 
-The fixed-input zero-free rational approximation and Jensen lower inequality in current C383v3 give decreasing r_n tending to M(P)^2.
+The fixed-input zero-free rational approximation and Jensen lower inequality in current C380v3 give decreasing r_n tending to M(P)^2.
 For nonmonomial P finite equality would make the integer product a monomial, so all attained finite values exceed the limit.
 For any fixed integer K, denominators k<=K and energies bounded by K squared times r_0 give only finitely many possible rational values, each attained value strictly above the limit.
 Convergence excludes them after some n and proves k_n tends to infinity without monotonicity or a uniform rate.

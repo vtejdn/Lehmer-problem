@@ -14,11 +14,13 @@ It received the four exact physical C paths, literal Statement/complete Argument
 It read the fixed mathematical bodies directly and reconstructed their obligations and necessary inputs.
 The assignment is a bounded review under blueprint/0.17.0.md Sections29--33, not a research Task/E selection or resumption.
 
-Direct target mathematics reading began at2026-10-21T22:29.
-The first findings were formed at06:32, before reading any target R account, J readme or native program.
+Direct target mathematics reading began at 2026-10-21T22:29.
+The retained phase caption places the first findings at "06:32", before reading any target R account, J readme or native program.
+That short caption has no explicit date or timezone in this account, so it supplies no independently established UTC minute.
 The initial analytic findings found no gap; saved finite counters, matrices and rational certificate values remained explicit obligations for the following native stage.
 The original native programs and results were then inspected, with only the existing verifier mathematics replayed in the original finite domains.
-Reading and comparison of the target old R accounts began at06:34 and finished at06:36.
+The retained old-account comparison captions are "06:34"--"06:36", likewise without an explicit date or timezone.
+The stated sequence is preserved: direct target reading, initial findings, then old-account comparison; those captions are not converted into additional UTC events from the offset alone.
 
 A narrowly scoped search in necessary upstream C436, C296 and C421 also displayed their own historical selection/review-scope prose before the first findings.
 Those passages concerned the fixed upstream results themselves and supplied no review verdict, mathematical summary or additional author explanation for C466/C467/C469/C470.
@@ -501,7 +503,7 @@ The separate current independent whole finding covers the clarified theorem and 
 The entire original R94 residue-entry finding, R95 interlaced finding, R166 Gaussian finding and R165 binary finding were read after the initial target findings.
 The comparison included their entire whole prose, mathematical obligations, direct input/source/native scopes, useful negatives, contributor disclosures and original execution limits.
 It did not reduce an old whole finding to a new short scope label or rely on its PASS as evidence.
-R821/R822/R677/R825 were also compared in full at their current SELF and narrow authoring scopes.
+R674/R675/R677/R678 were also compared in full at their current SELF and narrow authoring scopes.
 
 | Old account | Actual retained relationship | Content now rechecked and historical boundary preserved |
 | --- | --- | --- |
@@ -509,7 +511,7 @@ R821/R822/R677/R825 were also compared in full at their current SELF and narrow 
 | R95, interlaced-quartic-independent-review | Whole UNKNOWN; separately listed original author checks SELF. | All original four-section determinant/irreducibility/order/root/full-measure/cost/asymptotic scope is covered above, with every restricted-class and nonexecution limit. The coordinating role supplied the broad question without derivation, while exact prior target shared context remains unestablished. |
 | R166, robust-block-loss-complete-independent-review | Entire original whole UNKNOWN. | All original Sections1--7/equations1--22, scalar/KL/conditionals/events/original nonunit law/limits/controls/source/contribution/negative scopes are covered above. Shared G0001 history and a generic brief do not establish exact initial target content/order; upstream roles alone do not settle the relationship. |
 | R165, binary-terminal-complete-independent-review | Entire original whole SELF. | All original Sections1--6/equations1--7, source/native/all-n/whole-cost/proper-correction/negative scopes are covered above. Its own account explicitly says the initial brief and author messages described claimed outcomes, establishing substantive shared target context; separate verifier authorship does not convert this into independence. |
-| R821/R822/R677/R825 current findings | SELF at their stated whole and narrow scopes. | Their actual authored/current whole checks, original author facts, factor correction, Statement precision and original SELF/UNKNOWN distinctions remain historical evidence; this new review neither backdates itself nor rewrites their relationships. |
+| R674/R675/R677/R678 current findings | SELF at their stated whole and narrow scopes. | Their actual authored/current whole checks, original author facts, factor correction, Statement precision and original SELF/UNKNOWN distinctions remain historical evidence; this new review neither backdates itself nor rewrites their relationships. |
 
 <a id="l195-and-r94"></a>
 The original `Yin_R_G0094_v1#residue-overlap-control-independent-review` records the complete L195/D59 Sections1--5/equations(1)--(4), all17 supplied words and the original five author J39 files: main.py, verify.py, certificate.json, verification.json and readme.md.
@@ -530,15 +532,15 @@ The whole original no-defect/no-correction finding covered every integer weight 
 The [original listed author checks](Yin_R_G0095_v1.md#interlaced-original-author-check-finding) remain SELF with their complete no-numerical-or-J and then-pending account.
 
 <a id="l267-and-r166"></a>
-The original `Yin_R_G0166_v1#robust-block-loss-complete-independent-review` was completed at2026-10-10T01:59 by orbit_research for Yin and covered entire L267/D134 Sections1--7/equations(1)--(22), every control, contribution disclosure and author self-check.
+The original `Yin_R_G0166_v1#robust-block-loss-complete-independent-review` was completed at 2026-10-10T01:59 by orbit_research for Yin and covered entire L267/D134 Sections1--7/equations(1)--(22), every control, contribution disclosure and author self-check.
 It reported no defect or author repair and attested retaining the 24,036-byte author prefix by direct append without creating a material hash.
 The reviewer contributed none of the new block/rate derivations; shared G0001 history, the generic coordinator brief and earlier L259/L263 reviewing or other upstream roles do not establish the exact initial target contents, ordering or isolation.
 Its source reading was the retained Nat26 supplemental account at the accepted theta formula/application scope, not fresh primary passages, a historical book proof or a source-wide audit.
 Its finite variational and Pinsker inputs, nonunit original-law transfer, fixed-lag/onset/order-of-limits, saturation and actual radical controls retain exactly the scopes checked above; no unfinished D135, direct Blaschke square-sum or GMR18 derivative theorem supplies the inverse-pole step.
-The [original complete author SELF](Yin_R_G0677_v1.md#arbitrary-coupling-original-author-finding) remains at its actual 2026-10-10 day precision, with no author-check or freeze minute inferred from the separate 09:59 review.
+The [original complete author SELF](Yin_R_G0677_v1.md#arbitrary-coupling-original-author-finding) remains at its actual 2026-10-10 day precision, with no author-check or freeze minute inferred from the separate 2026-10-10T01:59 review.
 No program, numerical simulation, J rerun or formalization was performed in that analytic review.
 
-The original R165 author body freeze09:56 and separate review completion10:00, and R166 completion09:59 on2026-10-10, retain those actual roles and precisions.
+The original R165 author body freeze 2026-10-10T01:56 and separate review completion 2026-10-10T02:00, and R166 completion 2026-10-10T01:59 on2026-10-10, retain those actual roles and precisions.
 The R94/R95 reviews and original author-check occurrences retain only their recorded day precision; no author inspection/freeze minute is inferred.
 The old whole pass/no-correction verdicts are preserved as past findings on their actual inputs, not promoted to new-version whole coverage.
 New current independent checking does not reconstruct the old reviewer's context or certify old independence.

@@ -154,7 +154,7 @@ C G0001 and L G0059 supply the mixed-resultant interface.
 This is an acyclic chain; there is no mathematical dependency on a mutable draft.
 Its source-construction screen and unresolved conjecture are now preserved in [C G0008](Yin_C_G0008_v1.md#arbitrary-trace-construction-measure-screen).
 This is a relocation/navigation link, not an added dependency; the selected fixed support appendix below remains unchanged.
-The later AM01 screen is outside the 23:51 review and outside the Claim.
+The later AM01 screen is outside the 2026-10-09T15:51 review and outside the Claim.
 
 ### Organization and extraction provenance
 

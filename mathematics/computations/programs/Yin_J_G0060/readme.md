@@ -12,7 +12,8 @@ Both global field tests nevertheless find positive triangular bases, so the loca
 A separate all-parameter control proves that necessary integer pivot size can grow without bound, despite a fixed scalar polynomial.
 The complete separately organized noncontributor review passed; its actual scope and independent implementation are recorded below.
 
-The current complete [R674 SELF finding](../../../audits/reviews/Yin_R_G0674_v1.md#binary-current-whole-self-finding) preserves every original domain, full matrix/factor/cost and historical-control boundary.
+The earlier complete [R674 SELF finding](../../../audits/reviews/Yin_R_G0674_v1.md#binary-current-whole-self-finding) preserves its original domain, matrix/factor/cost and historical-control boundary.
+The actual current C466v2 decision selects [R682's binary finding](../../../audits/reviews/Yin_R_G0682_v1.md#binary-isolated-whole), without backdating that later review into the earlier native act.
 The [original R125 whole account](../../../audits/reviews/Yin_R_G0125_v1.md#binary-terminal-complete-independent-review) is SELF because the initial brief and author messages contained claimed outcomes; its dated complete review and separately implemented checker remain historical facts, without new isolation.
 Only that fixed reviewer run() was replayed stdout-only in its original scope, reproducing every native report field with all11 original files unchanged during checking; no producer/historical script or enlarged experiment ran.
 

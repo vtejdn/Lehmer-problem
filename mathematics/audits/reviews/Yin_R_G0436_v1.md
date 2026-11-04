@@ -11,7 +11,7 @@ The arrangement is nonblind: the author-ready draft, root's scope explanation an
 The reviewer first reconstructed all ten formulas and the six actual input roles, then retained the complete unchanged body in L424 and read that actual fixed file before recording this finding.
 Retention added no theorem wrapper or mathematical assertion.
 
-The reviewer previously supplied only L282/BSS17 source pointers for C170, as disclosed by its independent R556, and did not author C170's new mathematics.
+The reviewer previously supplied only L282/BSS17 source pointers for C170, as disclosed by its independent [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding), and did not author C170's new mathematics.
 The reviewer DID contribute to upstream L409 with root.
 L409's independently accepted R414 scope is therefore reused, not presented as an independent re-review of the reviewer's own argument.
 The reviewer also authored the separate C169 mechanism, which is not a premise of the present result.
@@ -38,11 +38,11 @@ No program, numerical graph, enlarged overlap range, external-source proof audit
 | [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [R803 accepted C170 review](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Whole independently checked original operator scope and explicit source-pointer relationship; reused at the present interface. |
 | [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [L417 actual all-overlap onset](../../ledger/Yin_L_G0417_v1.md#all-fixed-overlap-onset) | Each fixed B has actual isolated union edges, a nonzero field midpoint and full-word appearance for all sufficiently large n; the onset is not uniform in B. |
 | [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [L417 complete internal fibers](../../ledger/Yin_L_G0417_v1.md#isolated-component-energy-defect) | Unique middle word and complete conditional tail product fibers make each endpoint edge one full communicating component; no new total-mass estimate is inferred. |
-| [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [R427 accepted L418 review](Yin_R_G0427_v1.md#isolated-mass-whole-independent-finding) | Previously complete independent classification, original normalization and finite-onset review; no recursive source-proof upgrade. |
+| [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [R427 accepted L417 review](Yin_R_G0427_v1.md#isolated-mass-whole-independent-finding) | Previously complete independent classification, original normalization and finite-onset review; no recursive source-proof upgrade. |
 | [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [C76 comparison](../../claims/Yin_C_G0076_v1.md#statement) | Existing averaged conditional-variance nesting for a different operator; its n>=7 local bounds are not extended to the new n>=5 domain. |
 | [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [C70 comparison](../../claims/Yin_C_G0070_v1.md#statement) | Returned-interval sign reflections and their specified selection clock remain different from full endpoint-conditioned heat baths. |
 | [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [L409 fixed-defect boundary](../../ledger/Yin_L_G0409_v1.md#bulk-component-defect) | Exact finite-component defect and nonuniform within-component constants; comparison only, without inferring an all-late weak inequality. |
-| [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [R414 accepted L410 review](Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Independently reviewed upstream result authored partly by this reviewer, reused at its recorded scope rather than reclassified as new independent review. |
+| [Whole overlap-mixture finding](#overlap-mixture-whole-independent-finding) | [R414 accepted L409 review](Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Independently reviewed upstream result authored partly by this reviewer, reused at its recorded scope rather than reclassified as new independent review. |
 
 <a id="overlap-mixture-whole-independent-finding"></a>
 ## Whole fixed finding

@@ -18,7 +18,7 @@ Keep every original angle, radial root, degree-escape cost, truncation error and
 
 ## Exact starting inputs and scope
 
-Use C123's actual scalar-parameter construction and its separate R478 whole review at their adopted scope; L382's geometric-mean supporting-line method; L229's uniform FINITE-frequency actual angular-moment estimate and its retained Pri11/Dim19 statement-inspection limits; and C107's original endpoint integer product for the elementary degree escape.
+Use C123's actual scalar-parameter construction and its separate [R798 original trace-residual](../audits/reviews/Yin_R_G0798_v1.md#trace-residual-whole-independent-finding) whole review at their adopted scope; L382's geometric-mean supporting-line method; L229's uniform FINITE-frequency actual angular-moment estimate and its retained Pri11/Dim19 statement-inspection limits; and C107's original endpoint integer product for the elementary degree escape.
 C107's rational minor-norm floors are not the new mechanism.
 The preceding read-only local search found no existing fixed-parameter/all-scale/positive-mixture obstruction.
 These inputs suffice for the candidate mechanisms; no new source theorem or native mathematical program is proposed.
@@ -508,7 +508,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T08:11 |
 | status | proved |
-| reason | Adopt R480 actual whole noncontributor review. Every correction scale and arbitrary finite positive mixture of the specific C123 packets obeys the exact residual threshold; near-one positive Salem inputs force exponential far-parameter weight/gain loss and collapse of raw Q00 whenever actual mixed income is positive. Different cross-term/factor constructions and unrestricted G0001 remain open. |
+| reason | Adopt [R798 original relative-mixture](../audits/reviews/Yin_R_G0798_v1.md#relative-mixture-whole-independent-finding) actual whole noncontributor review. Every correction scale and arbitrary finite positive mixture of the specific C123 packets obeys the exact residual threshold; near-one positive Salem inputs force exponential far-parameter weight/gain loss and collapse of raw Q00 whenever actual mixed income is positive. Different cross-term/factor constructions and unrestricted G0001 remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

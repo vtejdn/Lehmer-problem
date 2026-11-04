@@ -43,7 +43,9 @@ For each prime ell, q(alpha^ell) is divisible by ell in the integer order and is
 Its norm has degree d while its coefficient exponent has degree D, so the exact d/D loss is indispensable.
 The fixed constants are positive finite S0 and C>=1; one fixed ell>S0 gives the stated positive certificate.
 The two polynomial blocks of(t^N−1)p are disjoint for N>d and fix length while D/d grows, so only the automatic degree claim fails.
-C210’s fixed-input support bound forces a height-one relation for M<2 but does not control its support, first collision or quotient entropy; the multiplicative inequality points in the stated one-way direction.
+The all-unit fixed-input packing estimate forces a height-one relation for M<2 but does not control its support, first collision or quotient entropy; the multiplicative inequality points in the stated one-way direction.
+The original C210 attribution was too narrow for this general-unit use.
+The current C221 attribution is [BV20-U001 proof-route item 6](../literature/BV20/Yin_U001.md#bv20-u001), whose all-expanding-place packing bound applies to the fixed algebraic unit; this maintenance correction does not claim that the original reviewer newly inspected BV20 or audited its source proof.
 For sparse completions DS17 applies to the actual nonzero integer q, since m(q)>0; all degree/height and irreducibility restrictions remain absent from that external source theorem.
 The inequality m(q)<= (1+A)m(p) then gives the exact gap without a degree ratio.
 Along vanishing sequences the same gap forces eventual absolute overhead at least eta_K/2 and relative overhead diverging, proving the support minimum escapes every fixed K.

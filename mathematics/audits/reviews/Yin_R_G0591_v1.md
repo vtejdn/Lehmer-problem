@@ -42,7 +42,7 @@ The exact current statement and full seven-section proof pass.
 For each nearest actual circle root, other circle factors pay one-half and every off-circle factor pays its exact radial ratio; the original leading coefficient cancels against that root derivative.
 The measurable tie partition, kernel monotonicity and enlargement of nonnegative integrals give the complete all-epsilon sum of asinh terms.
 The no-circle-root branch instead keeps the positive full product modulus and its quadratic error.
-The actual all-root integral and finite lower certificate are reused from C382 at their exact normalization and sign; subtracting this upper error preserves the lower direction.
+The actual all-root integral and finite lower certificate are reused from C379 at their exact normalization and sign; subtracting this upper error preserves the lower direction.
 
 Taylor's complex-valued remainder uses the full coefficient second-derivative bound and paid disjoint arcs.
 Their complementary product bound stays positive, retaining leading and off-circle factors.

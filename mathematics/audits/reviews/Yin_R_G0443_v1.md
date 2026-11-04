@@ -16,15 +16,20 @@ The obligations were the actual subgroup and degree indices, residue action at t
 All fourteen numbered formulas, eight input rows, local/global warning and final coverage qualifications were examined.
 The coordinator previously contributed to C147, and the initial powered author performed the AZ10 source inspection.
 Those roles are not converted into new independent upstream proof audits here.
-The accepted C147v5/R526 and C146v5/R528 scopes, L205/R104 finding, and exact existing source statements are reused with their actual limits.
+The accepted C147v5/R381 and C146v5/R383 scopes, L205/R104 finding, and exact existing source statements are reused with their actual limits.
 No new source acquisition, external search, mathematical program, numerical inversion, example search or formal verification was performed.
 The existing adequate inputs are retained in place; this R records the missing whole review of their new powered composition.
+
+The author's target-result summary and coordinator scope discussion were supplied before the initial obligation list and findings, with shared substantive context and prior conclusions.
+That actual supplied development context remains despite separate reconstruction.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole powered-ratio finding](#powered-ratio-whole-independent-finding) | independently reviewed |
+| [Whole powered-ratio finding](#powered-ratio-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

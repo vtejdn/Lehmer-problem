@@ -4,11 +4,12 @@ author: Yin
 # Whole independent review of three-group residue synchronization
 
 Date: 2026-10-12T17:18.
-Human record author Yin. g0001_review_recovery separately WHOLE-reviews the new D42 proof authored by rounding-recovery.
+Human record author Yin.
+g0001_review_recovery separately WHOLE-reviews the new D42 proof authored by rounding-recovery.
 The reviewer's only pre-proof role was a bounded READ-ONLY existing C/L lookup, reporting actual locators and old scopes for L159, L74, C83, L217 and L225.
 That lookup supplied no new circular-gap argument, residual bucket construction, formula, intended verdict or proof step.
 The reviewer contributed none of the new proof.
-It previously actual-reviewed C83 in R417; that accepted ancestor role is disclosed and does not prospectively certify D42.
+It previously actual-reviewed C83 in [R794 v2 original C83 extraction](Yin_R_G0794_v2.md#c83-pairwise-binary-actual-extraction-finding); that accepted ancestor role is disclosed and does not prospectively certify D42.
 Root supplied the broad question and review scope only.
 
 The actual frozen proof and assignment were supplied.
@@ -81,7 +82,7 @@ The literal three-distinct condition alone is vacuous on one or two groups; the 
 
 Choose a,b attaining L.
 The identity lcm(L,o)=L*o/gcd(o,L) is exact, so r(o)=o/gcd(o,L) is a positive integer.
-For either anchor r1; every other group participates in the actual triple(a,b,o), implying r(o)<=X/L and hence r(o)<=B.
+For either anchor r(o)=1; every other group participates in the actual triple(a,b,o), implying r(o)<=X/L and hence r(o)<=B.
 All selected orders and L are prime to p, so every occurring r is prime to p.
 
 The B disjoint buckets retain their full INTEGER masses and sum to W.

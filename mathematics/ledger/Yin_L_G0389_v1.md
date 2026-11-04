@@ -12,7 +12,7 @@ No unrestricted Mahler gap, canonical Claim or Task completion is asserted.
 <a id="coupled-method-fixed-scope"></a>
 The complete necessary packet-cost proof already has an adequate home in [C10v2](../claims/Yin_C_G0010_v2.md#exact-covariance-distinguished-product-width-bound), whose selected [R220 finding](../audits/reviews/Yin_R_G0220_v1.md#c10-conditional-lift-cost-finding) is SELF at its exact fixed-input and final-weight scope.
 The entire15208-character original author account below is retained unchanged inside that C, including every independent twist/common-window/q/M/full-sign/content/asymptotic restriction; no duplicate Claim or repeated whole finding is needed.
-Original R215 is SELF because the initial assignment supplied the actual claimed inequalities and mathematical normalization boundaries; the00:05 author freeze,00:07 review and00:19 retention on2026-10-12 remain distinct.
+Original R215 is SELF because the initial assignment supplied the actual claimed inequalities and mathematical normalization boundaries; the 2026-10-11T16:05 author freeze,2026-10-11T16:07 review and 2026-10-11T16:19 retention on2026-10-11 remain distinct.
 No original result is promoted to uniform near-one covariance, and this maintenance supplies no Task/E resumption.
 
 ## Fixed scope and preservation
@@ -38,11 +38,11 @@ No native mathematical program, scan or new J was used.
 <a id="trace-packet-cost-reuse-and-conditional-input"></a>
 ## 1. Reuse, current packet and actual scope
 
-This account concerns the CURRENT new [D2 field-profile construction, now fixed in L388](Yin_L_G0388_v1.md#negative-unit-profile-entire-author-freeze), whole author freeze2026-10-11T15:58, especially its [actual trace-unit directions](Yin_L_G0388_v1.md#actual-order-units-in-every-log-cone), [positive rational profiles](Yin_L_G0388_v1.md#positive-rational-field-profile-construction) and [weight asymptotics and costs](Yin_L_G0388_v1.md#rational-weight-denominators-and-original-costs).
+This account concerns the CURRENT new [D2 field-profile construction, now fixed in L388](Yin_L_G0388_v1.md#negative-unit-profile-entire-author-freeze), whole author freeze 2026-10-11T15:58, especially its [actual trace-unit directions](Yin_L_G0388_v1.md#actual-order-units-in-every-log-cone), [positive rational profiles](Yin_L_G0388_v1.md#positive-rational-field-profile-construction) and [weight asymptotics and costs](Yin_L_G0388_v1.md#rational-weight-denominators-and-original-costs).
 That rolling address was reused for the distinct argument and inherits no retired D2 evidence.
 Its entire saved argument was read before this cost derivation.
 The packet was then pending whole noncontributor review; the completed [R214 whole finding](../audits/reviews/Yin_R_G0214_v1.md#negative-unit-rational-profile-whole-finding) now supports the unchanged fixed L388 account.
-This locator/status maintenance preserves the cost mathematics and its00:05 author freeze.
+This locator/status maintenance preserves the cost mathematics and its 2026-10-11T16:05 author freeze.
 Pending-input wording below records the initial review boundary; the packet dependency is now resolved at R214's actual scope.
 The finite estimates hold for every actual packet satisfying their stated hypotheses.
 This author neither supplies that packet proof nor claims an independent review of it.
@@ -241,6 +241,6 @@ The author self-check covers the original Salem real pair and total measure; act
 
 No native mathematical program, scan, solver or J occurred.
 Scoped material validation passed for D3 and the exact current D2 input; it verifies structure and locators, not mathematical correctness.
-The complete Sections1--6/equations(1)--(10) are frozen at2026-10-11T16:05 for a separate whole noncontributor review.
+The complete Sections1--6/equations(1)--(10) are frozen at 2026-10-11T16:05 for a separate whole noncontributor review.
 
 No exact Laurent-covariance existence, least-energy residual covariance, uniform height/denominator/window bound or unrestricted G0001 completion is asserted.

@@ -40,7 +40,7 @@ The target, older evidence, C/T/E/S, shared indices, adoption decisions and comm
 | [Whole finding](#whole-five-source-distribution-finding) | [C657 actual adoption](../../claims/Yin_C_G0657_v1.md#decision-whole-reviewed-2026-10-24) | Fixed accepted conductor/lifting result and its bounded complete equality, without an all-depth converse. |
 | [Whole finding](#whole-five-source-distribution-finding) | [C659 exact old mechanism](../../claims/Yin_C_G0659_v1.md#statement) | The exact four-family H_N, J_N on each family, independent delta_N, dimension5N-2, h_0/h_* and the bounded complete-membership interpretation. |
 | [Whole finding](#whole-five-source-distribution-finding) | [C659 actual adoption](../../claims/Yin_C_G0659_v1.md#decision-whole-reviewed-2026-10-24) | Adopted unchanged S1--S8 interface, including the clarified three-ratio-unit referent. |
-| [Whole finding](#whole-five-source-distribution-finding) | [Prior own whole C688 finding](Yin_R_G0877_v1.md#whole-trace-shift-annular-failure-finding) | Only the actually unchanged predecessor mechanism and functional certificate; no coverage of C662's new distributions or completed section is inferred from it. |
+| [Whole finding](#whole-five-source-distribution-finding) | [Prior own whole C659 finding](Yin_R_G0877_v1.md#whole-trace-shift-annular-failure-finding) | Only the actually unchanged predecessor mechanism and functional certificate; no coverage of C662's new distributions or completed section is inferred from it. |
 | [Whole finding](#whole-five-source-distribution-finding) | [C655 original domain and remaining set](../../claims/Yin_C_G0655_v1.md#statement) | The same original reciprocal characteristic-zero input, actual maximal q, canonical layers/complement, finite Y and costs, and remaining A_0 set; C662 adds no exclusion or realization. |
 
 <a id="whole-five-source-distribution-finding"></a>
@@ -251,7 +251,7 @@ The C659 review remains bound to C659, and the new calculations above supply the
 
 C657's equality for r<=32 remains based on its original accepted exact finite evidence and uniform projection theorem.
 No old J program was rerun, no certificate range or predivision period was enlarged, and no fresh native evidence is claimed.
-The C197/C199 ancestry retains its existing Smy08/Bel17 source limits and all historical SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries.
+The inherited C197/C199 Smy08/Bel17 source limits and historical SELF/UNKNOWN relationships remain at their actual scopes, including R477's C197v3 and R489's separate C199v3/v4 UNKNOWN initial-context findings; no later physical input inherits a broader finding.
 No original classical proof was reacquired or fully re-audited, and no historical relationship was relabelled.
 This is not an adoption, Task-completion finding or all-depth kernel theorem.
 The main agent separately maintains the review index and decides whether to adopt this exact finding.

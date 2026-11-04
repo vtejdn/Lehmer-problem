@@ -22,7 +22,7 @@ C655 T1 requires H in F_2[t], H(0)=1 and5deg H<5m-Q, where Q is a power of2 in(2
 It does NOT require the primitive support orders of H to be prime to3, or require H to be prime to1+t.
 C652 N5 explicitly permits all odd complete orders other than5, with no coprimality-to3 restriction.
 Thus W_3=1+t is permitted in this formal H domain.
-The coprime-three representatives in C693 are an additional choice in another construction, not an extra H hypothesis here; C693 is not used as a dependency.
+The coprime-three representatives in C664 are an additional choice in another construction, not an extra H hypothesis here; C664 is not used as a dependency.
 The present formal assertion is not an assertion that an actual C655 input with epsilon1 exists.
 All original q, integer layers, canonical Y/U/R, full gate, zero-Haar, original-field and characteristic-zero residual requirements remain separate obligations.
 
@@ -237,7 +237,7 @@ Because chi has degree5 and H_m is monic,
 
 At either root of phi, chi=0 and H_m(chi)=H_m(0)=1, while X is a unit; hence B_form,m is prime to phi.
 Its order3 and order15 factors are permitted by C652's complete-product domain.
-The mere fact that C693 can select certain representatives prime to3 does not impose that optional property on H or B_form,m here.
+The mere fact that C664 can select certain representatives prime to3 does not impose that optional property on H or B_form,m here.
 
 Only the H-character, whole-factor polynomial construction and strict degree conditions have been solved.
 C655 also imposes an actual maximal q, actual integer layer data and epsilon, the same canonical Y/U/R, two full CRT conditions, corrected root and full gate, and characteristic-zero original polynomial/field/residual hypotheses.
@@ -266,7 +266,7 @@ This exact family shows that the isolated necessary character and degree conditi
 | dependency | [Adopted calibrated character](Yin_C_G0652_v1.md#decision-whole-reviewed-2026-10-23) | Exact continuous character/additivity and ell(B_d)=(1-chi4(d)d)/4, full B/W definitions and allowed complete orders; no sufficiency for an entire target is imported. |
 | dependency | [Adopted exact H and dyadic branch](Yin_C_G0655_v1.md#decision-whole-reviewed-2026-10-23) | Only T1's formal H/degree domain and T6's necessary epsilon1 character congruence at Q=4m, while every original layer/canonical/root/gate/field/residual hypothesis remains an unconstructed additional obligation. |
 | dependency | [Complete primitive trace roots and divisors](Yin_C_G0608_v1.md#argument) | Complete primitive trace polynomials, disjoint inverse-pair root sets, constant terms and complete divisor partition only; no finite native certificate, A0=2 gate or all-order group sufficiency is a premise. |
-| support | [Exact question and scope](#exact-question-inputs-and-scope) | The task is formal compatibility of selected necessary character/degree conditions, not an actual original-input construction; C693 is not a dependency and its optional coprime-three representative choice is not imposed on H. |
+| support | [Exact question and scope](#exact-question-inputs-and-scope) | The task is formal compatibility of selected necessary character/degree conditions, not an actual original-input construction; C664 is not a dependency and its optional coprime-three representative choice is not imposed on H. |
 
 ### Decision whole-reviewed-2026-10-24
 
@@ -283,6 +283,6 @@ This exact family shows that the isolated necessary character and degree conditi
 | dependency | [Adopted calibrated character](Yin_C_G0652_v1.md#decision-whole-reviewed-2026-10-23) | Exact continuous character/additivity and ell(B_d)=(1-chi4(d)d)/4, full B/W definitions and allowed complete orders; no sufficiency for an entire target is imported. |
 | dependency | [Adopted exact H and dyadic branch](Yin_C_G0655_v1.md#decision-whole-reviewed-2026-10-23) | Only T1's formal H/degree domain and T6's necessary epsilon1 character congruence at Q=4m, while every original layer/canonical/root/gate/field/residual hypothesis remains an unconstructed additional obligation. |
 | dependency | [Complete primitive trace roots and divisors](Yin_C_G0608_v1.md#argument) | Complete primitive trace polynomials, disjoint inverse-pair root sets, constant terms and complete divisor partition only; no finite native certificate, A0=2 gate or all-order group sufficiency is a premise. |
-| support | [Exact question and scope](#exact-question-inputs-and-scope) | The task is formal compatibility of selected necessary character/degree conditions, not an actual original-input construction; C693 is not a dependency and its optional coprime-three representative choice is not imposed on H. |
+| support | [Exact question and scope](#exact-question-inputs-and-scope) | The task is formal compatibility of selected necessary character/degree conditions, not an actual original-input construction; C664 is not a dependency and its optional coprime-three representative choice is not imposed on H. |
 | review | [Independent entire finding](../audits/reviews/Yin_R_G0886_v1.md#large-dyadic-complete-h-whole) | Whole LH1--LH7 and all five proof sections, exact source domains, every prime/character/ratio/threshold operation, complete substituted factors and necessary-only realization boundaries. |
 

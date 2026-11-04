@@ -406,11 +406,11 @@ The unreviewed structural report is a direction cue only; all assertions (19)-(2
 
 ### Actual whole checking and source boundary
 
-The maintaining agent read the complete original L264/R163 and compared the actual C296 closure/Wiener/strong projection, C445 residual normalization and C212 norm-tower/product mechanisms.
+The maintaining agent read the complete original L264/R123 and compared the actual C296 closure/Wiener/strong projection, C445 residual normalization and C212 norm-tower/product mechanisms.
 It checked every circle differentiation/mean/squared-mass identity, normalization/ceiling/phase/first-lag/moment sign and radius, actual rational residual/all-future fixed-input quantifier, both complete controls, certificate-only bound, genuine inverse poles/limsup/house/threshold costs and every arithmetic/non-arithmetic/original-law limitation.
 GMR18-U001 retains the actual original author and separate reviewer passage/version/render facts; neither source passage/PDF nor source proof was newly read.
 No code, numerical experiment, producer or new J/native artifact was used.
-R163 explicitly received a brief stating the question AND claimed outcomes before checking, so its entire original review relationship is known SELF; prior upstream roles alone are not the reason.
+R123 explicitly received a brief stating the question AND claimed outcomes before checking, so its entire original review relationship is known SELF; prior upstream roles alone are not the reason.
 The author verification is recorded at day precision; the frozen-body09:22 and separate whole review09:30 are preserved as distinct actual events, without inventing a self-check minute.
 This maintaining-agent whole SELF supplies no fresh isolation, original-law gain, effective uniform onset or unrestricted gap.
 
@@ -442,7 +442,7 @@ This maintaining-agent whole SELF supplies no fresh isolation, original-law gain
 | --- | --- |
 | date | 2026-10-21T21:34 |
 | status | proved |
-| reason | Adopt after the actual C461/R667 whole SELF check of all original Sections1--7/equations1--24, every actual root/degree/normalization and differentiated-circle/Parseval/Wiener budget, both quantitative lag bounds/ceilings, formal moment/radius and actual finite rational residual limit, full norm-tower/actual versus analytic controls, aggregate-certificate limits and genuine inverse poles/limsup/house/threshold costs. Adequate C296/C445/C212 and original GMR18 passage accounts are preserved at actual scopes; no source-proof/PDF/producer/numerical/Task execution. Original R163 is known whole SELF from pre-supplied claimed outcomes, with original full pass/date/no-repair and author-day/frozen09:22/review09:30 facts distinct. No fresh isolation, original-law conversion or uniform gap follows. |
+| reason | Adopt after the actual C461/R667 whole SELF check of all original Sections1--7/equations1--24, every actual root/degree/normalization and differentiated-circle/Parseval/Wiener budget, both quantitative lag bounds/ceilings, formal moment/radius and actual finite rational residual limit, full norm-tower/actual versus analytic controls, aggregate-certificate limits and genuine inverse poles/limsup/house/threshold costs. Adequate C296/C445/C212 and original GMR18 passage accounts are preserved at actual scopes; no source-proof/PDF/producer/numerical/Task execution. Original R123 is known whole SELF from pre-supplied claimed outcomes, with original full pass/date/no-repair and author-day/frozen09:22/review09:30 facts distinct. No fresh isolation, original-law conversion or uniform gap follows. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

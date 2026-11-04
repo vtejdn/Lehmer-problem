@@ -38,9 +38,9 @@ No C/T/E/S, target, shared index, old review/native material, adoption decision 
 | [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C654 lift and composition proof](../../claims/Yin_C_G0654_v1.md#argument) | Every-lift precision, completed phi algebra, density and finite removal, exact all-order source definitions; K1's reverse image inclusion and new projection consequences are proved afresh here. |
 | [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C651 complete N32 image](../../claims/Yin_C_G0651_v1.md#statement) | Entire all-allowed-order subgroup in X^32phi^64, ambient order3*2^157 and subgroup order3*2^152/index32 only; no source-order cutoff or new native execution. |
 | [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C651 accepted decision](../../claims/Yin_C_G0651_v1.md#decision-whole-reviewed-2026-10-23) | Actual adopted whole N32 image and exact evidence selection, the sole finite-image premise for K4. |
-| [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C680 fixed review](Yin_R_G0863_v1.md#whole-formal-unit-norm-obstruction-finding) | Accepted character/algebra/divisor interfaces and existing source limits only, not prior coverage of the relative quadratic witness. |
-| [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C682 fixed review](Yin_R_G0866_v1.md#whole-density-refined-finite-character-finding) | Accepted all-N containment, finite precision and complete composition density; its former three-point kernel scope is preserved, while C657 supplies the new projection theorem. |
-| [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C679 whole native review](Yin_R_G0861_v1.md#whole-a16-full-support-native-finding) | Existing complete640-source/152-pivot J130 reconstruction at N32 only; reused through the accepted index theorem, not rerun or enlarged. |
+| [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C652 fixed review](Yin_R_G0863_v1.md#whole-formal-unit-norm-obstruction-finding) | Accepted character/algebra/divisor interfaces and existing source limits only, not prior coverage of the relative quadratic witness. |
+| [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C654 fixed review](Yin_R_G0866_v1.md#whole-density-refined-finite-character-finding) | Accepted all-N containment, finite precision and complete composition density; its former three-point kernel scope is preserved, while C657 supplies the new projection theorem. |
+| [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C651 whole native review](Yin_R_G0861_v1.md#whole-a16-full-support-native-finding) | Existing complete640-source/152-pivot J130 reconstruction at N32 only; reused through the accepted index theorem, not rerun or enlarged. |
 | [Whole finding](#whole-optimal-conductor-kernel-lifting-finding) | [C655 original-domain boundary](../../claims/Yin_C_G0655_v1.md#statement) | Boundary reference only: its adopted remaining set, actual q, canonical degrees, fields and integer layers are unchanged by these characteristic-two group theorems. |
 
 <a id="whole-optimal-conductor-kernel-lifting-finding"></a>
@@ -292,7 +292,7 @@ The old exact indices at N8 and N24 are not additional finite premises of K4.
 These are finite and completed characteristic-two group results.
 A completed kernel lift need not be a global polynomial or a complete support representative.
 No original P,T, actual Frobenius q, canonical remainder, integer layer, degree cost or C655 remaining-domain conclusion is changed.
-The inherited C197/C199 Smy08/Bel17 source limits and all SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries, remain untouched.
+The inherited C197/C199 Smy08/Bel17 source limits and historical SELF/UNKNOWN relationships remain at their actual scopes, including R477's C197v3 and R489's separate C199v3/v4 UNKNOWN initial-context findings; no later physical input inherits a broader finding.
 No classical original proof was reacquired or fully re-audited.
 No N>32 complete-image equality, uniform generation, original realization, adoption or unrestricted Task completion is asserted.
 The main agent separately maintains the R index and decides whether to adopt this exact finding.

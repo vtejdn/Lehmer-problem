@@ -4,8 +4,8 @@ author: Yin
 # The exact common-window bridge and the failure of projection energy to force return spread
 
 The complete current mathematical home is [C495](../claims/Yin_C_G0495_v1.md#statement), adopted with [R706 current whole SELF](../audits/reviews/Yin_R_G0706_v1.md#complete-common-window-whole-self-finding).
-The original full proof, fixed inputs, original-law comparisons and true contribution/source/time boundaries remain below as R551's actual fixed input.
-Its complete original R551 finding and own-upstream input roles keep their actual scope/date; the new SELF does not backdate another isolated event or alter a research Task/E.
+The original full proof, fixed inputs, original-law comparisons and true contribution/source/time boundaries remain below as R406's actual fixed input.
+Its complete original R406 finding and own-upstream input roles keep their actual scope/date; the new SELF does not backdate another isolated event or alter a research Task/E.
 
 Date: 2026-10-18T14:23.
 Human author Yin.

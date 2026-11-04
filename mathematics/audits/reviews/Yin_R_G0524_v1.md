@@ -8,7 +8,7 @@ Date:2026-10-21T05:13.
 The coordinating constructor for Yin read the complete fixed L36--L40 mathematics, necessary accepted-source units and native evidence entrances, then checked the full current retained statements and proofs.
 The three current findings below are actual constructor self-review, not isolated independent review or a new source-proof audit.
 They reuse exact previously retained native evidence at its declared scope; no program is rerun, new original source acquired or Task/E resumed by these findings.
-C248's separate fresh independent review is being performed on its fixed proof/source inputs and is not replaced by a constructor badge here.
+C247's separate fresh independent review is being performed on its fixed proof/source inputs and is not replaced by a constructor badge here.
 
 ## Review relationships
 

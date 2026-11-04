@@ -13,7 +13,10 @@ Source edition: Ope26c; [retained PDF](../../../literature/pdf/Ope26c.pdf).
 
 Passages: Manuscript dated 3 October 2026 at fixed upstream commit `adc7f1241b42e322a6451854ab7e4b4c146bf78a`; complete Sections 2--4, Theorem 2.1 through Propositions 4.1--4.2, printed/PDF pp. 3--11.
 
-Inspection: 2026-10-07, AI reviewers working for human author Yin at his explicit request to acquire and audit OpenAI Math families 153 and 148. Separately assigned reviewer read all of classification.tex, rederived the proof interfaces and visually checked PDF pp. 8--10. It did not develop the source proof or rely on a prior mathematical review. The coordinator checked the statement and adopted the report at this exact scope; no second full classification review or formal check is claimed.
+Inspection: 2026-10-07, AI reviewers working for human author Yin at his explicit request to acquire and audit OpenAI Math families 153 and 148.
+Separately assigned reviewer read all of classification.tex, rederived the proof interfaces and visually checked PDF pp. 8--10.
+It did not develop the source proof or rely on a prior mathematical review.
+The coordinator checked the statement and adopted the report at this exact scope; no second full classification review or formal check is claimed.
 
 
 ## Statement and conventions

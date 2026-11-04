@@ -9,7 +9,7 @@ Human author: Yin.
 Provenance: mixed project deductions and the explicitly accepted external inputs below.
 Internal reusable-result organization under [G0001](../tasks/Yin_T_G0001_v1.md#decision-weekly-resume-2026-10-11); no manuscript main-theorem designation or objective change.
 
-The [original listed author and development checks](../audits/reviews/Yin_R_G0218_v1.md#fixed-seed-original-author-check-finding) remain SELF at their stated scope; [R673's mathematical comparison](../audits/reviews/Yin_R_G0673_v1.md#l392-and-r294) retains the exact original whole UNKNOWN identity, 00:41 freeze, 01:02 review and 01:11 retention without changing the historical choices below.
+The [original listed author and development checks](../audits/reviews/Yin_R_G0218_v1.md#fixed-seed-original-author-check-finding) remain SELF at their stated scope; [R673's retained original whole account](../audits/reviews/Yin_R_G0673_v1.md#l392-and-r294) records the distinct original whole finding as SELF because of its initially visible author checks, with the 16:41 UTC freeze, 17:02 UTC review and 17:11 UTC retention without changing the historical choices below.
 
 ## Statement
 
@@ -96,7 +96,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-21T22:21 |
 | status | proved |
-| reason | Adopt the new R673 isolated whole finding after complete coordinator reading, covering all actual seed/exterior-place/unit endpoint/principal ideal/valuation/nonunit matrix/degree-two/nonzero lift/final weight/content/support and window arguments with exact repaired C10v2 interfaces. Preserve R218 whole UNKNOWN and listed author SELF, R220 SELF, actual historical choices/source depths and all nonuniform/trace-domain limits; current new coverage does not establish the old unknown arrangement. |
+| reason | Adopt the new R673 isolated whole finding after complete coordinator reading, covering all actual seed/exterior-place/unit endpoint/principal ideal/valuation/nonunit matrix/degree-two/nonzero lift/final weight/content/support and window arguments with exact repaired C10v2 interfaces. Preserve the retained original L392 whole SELF and distinct R218 listed author SELF, R220 SELF, actual historical choices/source depths and all nonuniform/trace-domain limits; current new coverage does not retroactively supply an isolated original arrangement. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -134,7 +134,7 @@ No native mathematical program, scan or new J occurred.
 The complete fixed [L390 lifting proof](../ledger/Yin_L_G0390_v1.md#complementary-unit-lift-reuse-and-domain) and [R216 whole review](../audits/reviews/Yin_R_G0216_v1.md#rational-complementary-unit-lift-whole-finding) were read, including all correction/damping/Gram/repair and support/cost arguments.
 They concern unit targets.
 Section4 below checks the new precise extension to arbitrary NONZERO targets; original unit inverses are not used in those structural steps.
-[L388's actual-order cone and matrix packet](../ledger/Yin_L_G0388_v1.md#positive-rational-field-profile-construction) and its whole R290 supply the retained finite method.
+[L388's actual-order cone and matrix packet](../ledger/Yin_L_G0388_v1.md#positive-rational-field-profile-construction) and its whole R214 supply the retained finite method.
 Section3 explicitly checks the changed nonunit seed premise, without assuming a pending generalization.
 No fixed L or R is edited.
 

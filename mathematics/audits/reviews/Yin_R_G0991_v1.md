@@ -144,7 +144,7 @@ The argument correctly treats that as failure of this particular upper certifica
 The required additional estimate is an outstanding obligation, not a proved construction.
 
 The numerical value c_0=2139/5000 retains C765's accepted published auxiliary-evaluation boundary.
-C247's underlying transfer remains adopted at its disclosed self-reviewed relationship, and the auxiliary supremum or numerical margin has not been recertified in this review.
+C246's underlying transfer remains adopted at its disclosed self-reviewed relationship, and the auxiliary supremum or numerical margin has not been recertified in this review.
 Those limits are preserved rather than relabelled independent source-proof verification.
 
 ### 5. Actual dyadic raising and complete multiplicities
@@ -165,7 +165,7 @@ The separate C767 dyadic covariance supplies the full residual, maximal-binary-p
 ## Accepted inputs, attribution and limits
 
 The four exact adopted project inputs C762, C764, C765 and C767 are used at the interfaces identified above.
-Their fixed statements and the relevant arguments were read; no new recursive audit of C801, C792, C247, their original proof chains or their R findings is claimed.
+Their fixed statements and the relevant arguments were read; no new recursive audit of C759, C752, C246, their original proof chains or their R findings is claimed.
 C767 provides the complete original source and its already established global target consequences, while this review checks the new sign changes really remain in that target for each permitted parameter.
 The inspected C221 support-escape section supplies prior attribution only and does not transfer its irreducibility hypothesis to the present polynomial.
 The actual sparse theorem is applied afresh to f at its accepted U scope.

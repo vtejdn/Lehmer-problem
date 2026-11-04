@@ -7,7 +7,7 @@ Human author Yin.
 The same_trace contributor derived SG1--SG11 and authored the exact finite certificate under the [current G0001 all-strategy continuation](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23).
 The [D1 author section](../drafts/Yin_D_G0001.md#full-gate-coprime-five-support-certificate) is extraction provenance, not a logical input.
 The result fixes a complete support obstruction before an actual monic coefficient test is possible on the proposed coprime15 support family.
-It does not decide C624 FE5 independence for the remaining support classes.
+It does not decide C603 FE5 independence for the remaining support classes.
 The reuse check inspected C199v5's full normalized gate and complete support bridge, C199v2's exact-order group definitions, the previous Mersenne-support failure and the conditional coprime15 construction.
 The new target reduction and separating character are not supplied by those earlier interfaces.
 The argument uses exact polynomial arithmetic only; the selected assessment owns its separate whole mathematical and native review and adoption.

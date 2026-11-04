@@ -9,7 +9,7 @@ Root separately assigned loglog_cyclic_review to review the complete J103 protoc
 Root authored the calculation; root and entropy_attainment_bridge authored the separately adopted C167 gate.
 This reviewer supplied no proof step, repair or mathematical edit to that gate or author computation.
 The reviewer authored and executed only the separate verification program, whose reconstruction is evidence for this finding.
-The earlier R542 review and later author work on the D36 positive-form extension do not supply a signed-form premise here or extend their scopes into J103.
+The earlier R397 review and later author work on the D36 positive-form extension do not supply a signed-form premise here or extend their scopes into J103.
 
 The arrangement is non-blind.
 The reviewer inspected main.py and the declared protocol before execution, prepared verify.py without executing mathematics while the signed gate was pending, and was told the author's selected forms and approximate values before the independent run.

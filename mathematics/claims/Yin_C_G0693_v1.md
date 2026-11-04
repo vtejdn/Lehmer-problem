@@ -439,7 +439,7 @@ The full linear-frequency applicability check, including unbounded parameters ou
 C637 supplies the already checked positive finite kernel/approximate-identity facts; the two-dimensional finite Fourier manipulations are explicit above.
 C681 supplies the exact weighted phase formula and scalar coefficient mechanism only; its moving thin-contact frequency-band proof is not substituted for the new curvature band.
 C684 supplies precisely the unchanged actual family, its full original2d/cyclic/Gram/translated-law interfaces, all five errors, closed aliases and actual degree.
-The distinct two-factor C714 family and its original laws play no role.
+The distinct two-factor C682 family and its original laws play no role.
 The constants may be large and the sufficiently large fixed enlargement threshold is not claimed sharp.
 The actual positive Mahler interval and unresolved small-enlargement, improved-power, near-one and unrestricted Task boundaries remain explicit.
 

@@ -19,7 +19,7 @@ Quotient real capacities are not complete groups of a new polynomial; every retu
 The bounded local screen read [L395](../ledger/Yin_L_G0395_v1.md#single-core-exact-window) in full, including its exact common-factor capacity phi(ga)<=g phi(a), its prime-power/relative-core positive class and the failed bounded-star-cover induction.
 C101 supplies the already accepted GCD-graph-derived logarithmic scale estimate, not an uncharged density increment.
 C114 supplies the exact paid finite-core theorem.
-C116 was fixed for independent whole review at the initial source check; before this freeze its actual [whole-reviewed decision](Yin_C_G0116_v1.md#decision-whole-reviewed-2026-10-15) adopted R471.
+C116 was fixed for independent whole review at the initial source check; before this freeze its actual [whole-reviewed decision](Yin_C_G0116_v1.md#decision-whole-reviewed-2026-10-15) adopted [R800 original actual-prime-budget](../audits/reviews/Yin_R_G0800_v1.md#actual-prime-budget-whole-independent-finding).
 Its intermediate collision picture motivates the new question but is not a logical input in the positive proof below.
 The needed new conclusion concerns arbitrary common-divisor conditional density and cumulative mass costs, beyond L395's already supplied transport.
 A broader keyword search was truncated and supplies no absence evidence.
@@ -299,7 +299,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-14T21:13 |
 | status | proved |
-| reason | Adopt R473 complete noncontributor review of the actual whole conditional certificate and every direct input. The squared-mass density invariant pays arbitrary-depth selections when the ACTUAL cumulative retention product stays positive; physical time, original weights and full norm costs are restored exactly. Automatic retention, general localization and near-one coverage remain open. Root's mechanism contribution is explicitly separated from independent review. |
+| reason | Adopt [R797 original paid-conditioning](../audits/reviews/Yin_R_G0797_v1.md#paid-conditioning-whole-independent-finding) complete noncontributor review of the actual whole conditional certificate and every direct input. The squared-mass density invariant pays arbitrary-depth selections when the ACTUAL cumulative retention product stays positive; physical time, original weights and full norm costs are restored exactly. Automatic retention, general localization and near-one coverage remain open. Root's mechanism contribution is explicitly separated from independent review. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

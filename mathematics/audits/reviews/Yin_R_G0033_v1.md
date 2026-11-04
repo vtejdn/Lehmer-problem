@@ -53,4 +53,4 @@ This is collaborator review.
 The separate reviewer review_matrix_completion independently read the complete (1)--(8) and found no mathematical defect.
 Its check covered the unit-norm guard H>=1, both candidate integer tails, the factor 4, both actual window lower costs, the strict pigeonhole differences, the log-cosine tail estimate, the bound sigma_0>=exp(-m), the all-J worst-case failure, and the precise scope of the central product size cost.
 It treated the previously adopted L G0107 energy floor as a premise, not a newly reviewed source theorem.
-No computation, source acquisition, identifier allocation or fixed-material edit was performed.
+No computation or source acquisition was performed.

@@ -26,11 +26,15 @@ Their current selected decisions are organized-reviewed.
 The LP17 ordinary attribution account was read: full second-edition PDF acquisition remains unavailable, and the earlier indexed-text observations are only partial naming/method attribution.
 No unread source mixing theorem is invoked.
 
+The initial C76 input included its author validation checklist and conclusions beyond the necessary derivation.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole six-digit finding](#six-digit-whole-independent-finding) | independently reviewed |
+| [Whole six-digit finding](#six-digit-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

@@ -146,7 +146,7 @@ The recorded review description was `under review`.
 | dependency | [Rational Chebyshev filter](Yin_C_G0043_v2.md#statement) | Exact rational jets/positive whole-interval remainder and finite pairing; sharper s-radius support budget proved locally. |
 | dependency | [Supplied positive-margin alternative](Yin_C_G0048_v1.md#statement) | Exact A,B hypothesis and local finite general-energy construction; selector availability is new local work. |
 | dependency | [Full original-root inequality](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Complete nonzero integer values, all roots, actual final weights/norms and common physical width. |
-| support | [Entire original author review](../audits/reviews/Yin_R_G0258_v1.md#positive-circle-selection-whole-finding) | New independent whole review of original17:28 mathematics plus17:34 source context; no interrupted-message verdict substitutes for this fixed finding. |
+| support | [Entire original author review](../audits/reviews/Yin_R_G0258_v1.md#positive-circle-selection-whole-finding) | Whole self-review of original17:28 mathematics plus17:34 source context; no interrupted-message verdict substitutes for this fixed finding. |
 | review | [Actual extraction](../audits/reviews/Yin_R_G0259_v1.md#c52-no-circle-actual-extraction-finding) | Actual statement, complete retained proof, preservation and present direct interfaces, separate from original whole scope. |
 
 ## Registration and complete preservation

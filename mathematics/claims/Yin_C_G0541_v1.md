@@ -100,7 +100,7 @@ No near-one coverage, new-prime inventory, bounded-measure simultaneous-prime si
 Date: 2026-10-18T16:47.
 Human author Yin.
 Contributing author agents are root and loglog_cyclic_review: root supplied the sparse reciprocal family and the direction toward complete adaptive-prime income; loglog_cyclic_review developed the same-time norm identity and its paid consequences here.
-This author material is separate from the factor-profile proof retained in L417 and supplies no independent review of that input.
+This author material is separate from the factor-profile proof retained in L416 and supplies no independent review of that input.
 No numerical program, prime scan or new source acquisition is involved.
 
 <a id="same-time-quadratic-reuse"></a>
@@ -229,7 +229,7 @@ Hence EVERY actual factor has
     log C_n(P)/D >= (1/2)log(a-9/2)
                   >=tau0=(1/2)log(3/2)>0.            (9)
 
-The factor-degree calculation in L417 uses the accepted Dim19 house statement to give
+The factor-degree calculation in L416 uses the accepted Dim19 house statement to give
 
     D>=(n-1)log2/[4log(a+3)].
 
@@ -252,7 +252,7 @@ C147v5 supplies the consequent certificate
 
 in the general range(8), with its usual capped threshold and no numerical inversion.
 Indeed h=n m(P)/D>H_5(tau0) and(10) applies.
-L417 ALREADY proves the stronger explicit positive total-measure floor (log2)^2/[16log(a+3)] in this range.
+L416 ALREADY proves the stronger explicit positive total-measure floor (log2)^2/[16log(a+3)] in this range.
 Thus(12) is a transparent income-to-expense comparison, not a new gap class or an improved lower bound.
 The new result is the actual same-time integer norm identity and income location.
 
@@ -310,7 +310,7 @@ A search solely for another fixed prime with a long first-return order would not
 ## Author checks and exact interfaces
 
 The same-time identity and full income argument are current author work.
-The reused factor-degree theorem is retained in L417; its separate review does not independently review the present new argument.
+The reused factor-degree theorem is retained in L416; its separate review does not independently review the present new argument.
 Its sole external house input is already accepted at [Smy08-U001](../audits/literature/Smy08/Yin_U001.md#smy08-house), without a new source-proof audit.
 L74/L78/L79/L188, Ste12 and C142 are comparisons explaining why the chosen statement is not a renamed existing aggregate or prefix criterion.
 C147v5 is used only for(12), not for the norm lower bound.
@@ -321,9 +321,9 @@ C147v5 is used only for(12), not for the norm lower bound.
 
 | Input | Actual role and limit |
 | --- | --- |
-| [L417 factor profile](Yin_C_G0539_v1.md#sparse-trace-factor-profile), whole [R425](../audits/reviews/Yin_R_G0425_v1.md#sparse-trace-whole-independent-finding) | Actual-factor unit/nontorsion status, original degree bound and already stronger positive-measure floor; no selected-factor reciprocity or new near-one family. |
+| [L416 factor profile](Yin_C_G0539_v1.md#sparse-trace-factor-profile), whole [R425](../audits/reviews/Yin_R_G0425_v1.md#sparse-trace-whole-independent-finding) | Actual-factor unit/nontorsion status, original degree bound and already stronger positive-measure floor; no selected-factor reciprocity or new near-one family. |
 | [C147v5](Yin_C_G0147_v5.md#statement), selected [whole-reviewed decision](Yin_C_G0147_v5.md#decision-whole-reviewed-2026-10-18) | Only the strict capped H_5 consequence(12) from actual supplied same-time norm income, retaining original powered-degree multiplicity; not a premise of(1)--(11). |
-| [Smy08-U001 house statement](../audits/literature/Smy08/Yin_U001.md#smy08-house) | Accepted Dim19 2019v1 statement as already consumed by L417; no new original proof audit or later-version comparison. |
+| [Smy08-U001 house statement](../audits/literature/Smy08/Yin_U001.md#smy08-house) | Accepted Dim19 2019v1 statement as already consumed by L416; no new original proof audit or later-version comparison. |
 | [L74 aggregate norm criterion](../ledger/Yin_L_G0074_v1.md#aggregate-cyclic-norm-criterion) | Existing adaptive-prime full-norm accounting and paid different-time boundary, comparison only. |
 | [L78 finite-set escape](../ledger/Yin_L_G0078_v1.md#finite-set-primitive-norm-escape) | Existing primitive certificate outside a supplied finite prime set, with its measure-dependent time; comparison only. |
 | [L79 primitive module](../ledger/Yin_L_G0079_v1.md#cyclotomic-exact-period-away-from-index) | Existing n+1 floor for a nontrivial primitive module away from primes dividing n, not proportional original-degree income or an unconditional orbit statement at index primes. |

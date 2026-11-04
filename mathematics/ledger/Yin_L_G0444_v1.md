@@ -3,7 +3,7 @@ author: Yin
 ---
 # Retained-component and Schur screens for mixed defect logarithms
 
-The complete current statement and necessary original argument are adopted in [C_G0606_v2](../claims/Yin_C_G0587_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g445-complete-self-finding).
+The complete current statement and necessary original argument are adopted in [C587_v2](../claims/Yin_C_G0587_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g445-complete-self-finding).
 Every original physical-version mathematical domain, contribution, source/native boundary, useful failure and historical review scope remains below.
 
 
@@ -183,4 +183,4 @@ A favorable circle logarithm alone therefore leaves an actual original-root tran
 The [C175 positive completion](../claims/Yin_C_G0175_v1.md#statement) already gives fixed-input negative Haar cost with nonnegative full original norm and a necessary moving-test discrepancy.
 The [C145 dense-kernel contact result](../claims/Yin_C_G0145_v1.md#logarithmic-contact-discrepancy) concerns its different normalized residual kernels and does not automatically cover these mixed defects.
 Neither fixed comparison provides the missing uniform budget for an arbitrary changed form.
-The original retained-component, Schur and parameter screens preceded the later whole R633 and current complete constructor SELF review, each at its actual stated scope.
+The original retained-component, Schur and parameter screens preceded the later whole R487 and current complete constructor SELF review, each at its actual stated scope.

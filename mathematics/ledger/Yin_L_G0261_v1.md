@@ -335,5 +335,5 @@ This self-check is not that independent review and does not adopt a fixed result
 
 
 
-The original 2026-10-10T01:29 full review of the 09:28 clarified scope and its adoption above remain past facts, with their UNKNOWN arrangement, preliminary wording qualification, complete original inputs and all root/cost/source/native limits retained in [R669's later historical comparison](../audits/reviews/Yin_R_G0669_v1.md#l261-r160-and-r803).
+The original 2026-10-10T01:29 full review of the 2026-10-10T01:28 clarified scope and its adoption above remain past facts, with their UNKNOWN arrangement, preliminary wording qualification, complete original inputs and all root/cost/source/native limits retained in [R669's later historical comparison](../audits/reviews/Yin_R_G0669_v1.md#l261-r160-and-r803).
 That later review was not an input to the original adoption.

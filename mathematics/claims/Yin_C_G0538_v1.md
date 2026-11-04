@@ -128,7 +128,7 @@ The canonical even-kernel congruence class is excluded for every integer couplin
 It is not a universal rank-seven theorem, since an arbitrary target matrix need not have a principal core with that polynomial.
 The present investigation must check any core hypothesis before using that criterion.
 
-[L413](Yin_C_G0525_v1.md#two-adic-complete-realization) supplies a coherent Z2 solution already inside the old three-entry slice, but its [integral boundary](Yin_C_G0525_v1.md#two-adic-realization-boundaries) supplies no integer point or bounded height.
+[L412](Yin_C_G0525_v1.md#two-adic-complete-realization) supplies a coherent Z2 solution already inside the old three-entry slice, but its [integral boundary](Yin_C_G0525_v1.md#two-adic-realization-boundaries) supplies no integer point or bounded height.
 The J108 modulo3 exclusion proves concretely that this local solution does not suffice.
 Releasing w genuinely changes the coefficient map; no conclusion is inferred from the old residue test at w=2.
 The same complete target, rank and integer constraints remain mandatory.
@@ -359,7 +359,7 @@ It is stronger than checking another coordinate box and does not merely repeat J
 No new prime or modulus was tested.
 
 The proof assumes the stated17 strict-upper entries remain fixed and does not exclude different rank-seven families or a presentation with additional entries changed.
-It does not infer any rational or real nonexistence, nor does it refute L413's two-adic realization.
+It does not infer any rational or real nonexistence, nor does it refute L412's two-adic realization.
 L287 remains a separate conditional all-core constructor/exclusion criterion; no unverified principal-core hypothesis was inserted into this argument.
 Because no actual target matrix is found, no companion or literal-cover cost is assigned or optimized.
 If another family supplies a target, its original/absolute/cover ranks and full factors must still be retained independently.
@@ -375,8 +375,8 @@ No unrestricted rank-seven or Mahler-gap conclusion is made.
 | Input | Actual role |
 | --- | --- |
 | [L287 all-core criterion](Yin_C_G0544_v1.md#all-core-quartic-factor-retention) | Reused comparison and exact conditional constructor boundary; no principal-core hypothesis is assumed for the present family. |
-| [L413 fixed matrix](Yin_C_G0525_v1.md#two-adic-fixed-witness) | Original integer seed and unchanged full target; releasing its fourth indicated entry defines the new family explicitly. |
-| [L413 local-versus-integral boundary](Yin_C_G0525_v1.md#two-adic-realization-boundaries) | Earlier Z2 realization remains valid and supplies no integer point, fixed height or companion cost. |
+| [L412 fixed matrix](Yin_C_G0525_v1.md#two-adic-fixed-witness) | Original integer seed and unchanged full target; releasing its fourth indicated entry defines the new family explicitly. |
+| [L412 local-versus-integral boundary](Yin_C_G0525_v1.md#two-adic-realization-boundaries) | Earlier Z2 realization remains valid and supplies no integer point, fixed height or companion cost. |
 | [J108 full old slice](../computations/programs/Yin_J_G0108/readme.md#three-entry-author-results), [R422](../audits/reviews/Yin_R_G0422_v1.md#three-entry-j108-whole-independent-finding) | Accepted exact w=2 coefficient map and its modulo3 exclusion only; the current author supplied J108's independent verifier/review, not the original map. |
 | [J109 declared symbolic domain](../computations/programs/Yin_J_G0109/readme.md#four-entry-symbolic-protocol) | All four integer variables retained formally,5040 determinant terms and a separate polynomial Laplace author check; no parameter scan or independent-review claim. |
 | [J109 native inputs](../computations/programs/Yin_J_G0109/inputs.json) and [program](../computations/programs/Yin_J_G0109/main.py) | Exact matrix positions, parameter meaning, original target, complete integer polynomial algorithms and resource guard. |

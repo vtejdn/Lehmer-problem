@@ -31,15 +31,15 @@ Initial whole judgement: 2026-10-22T20:42 UTC.
 
 The complete Statement and argument pass at the literal rational-multiple scope.
 Coefficient collection and monomial removal give a genuine primitive-root zero.
-C263v2's checked minimal rational vanishing component at exponent zero, with repeated evaluated roots allowed, gives N_o dividing some Q_k a_j.
-Disjoint order assignment, k−1 genuine times, full C540 root depths and pigeonhole retain every original multiplicity, including ramification/index primes.
+C262v2's checked minimal rational vanishing component at exponent zero, with repeated evaluated roots allowed, gives N_o dividing some Q_k a_j.
+Disjoint order assignment, k−1 genuine times, full C532 root depths and pigeonhole retain every original multiplicity, including ramification/index primes.
 The entire H divides the product of those binomials, with its complete monic integral complementary J_F, degree and nonzero norm; no resultant of unrestricted F is assumed nonzero.
-C508 uses the actual powered degree and h=Q_k Tm/d.
+C504 uses the actual powered degree and h=Q_k Tm/d.
 Its monotone modulus charges every separate time and later p-power height/depth increment.
 The fixed K,C,mass bridge uses log p≥log2; the all-k proof bounds Q_k≤16^k before the monotone small-height/logarithmic estimate, giving exactly the conditional liminf.
-C535's actual growing-measure family and the ramified quadratic check all full depths.
+C527's actual growing-measure family and the ramified quadratic check all full depths.
 The universal lcm binomial pays its entire degree/time, with no sparse degree-linear coverage inferred.
-Necessary fixed C540/C508/C535/C263v2 interfaces were read directly.
+Necessary fixed C532/C504/C527/C262v2 interfaces were read directly.
 Pri11/Dim19 remain accepted inputs at existing source-proof depths; Man65 metadata is no external theorem proof.
 No source reacquisition, original source-proof audit or native execution occurred.
 Post-initial comparison agrees with the entire original L225 finding.

@@ -4,6 +4,16 @@ author: Yin
 
 # One changed-residue original-Lehmer first-window construction
 
+## Native input availability
+
+The original eleven basic columns/indices and the selected native seed/anchor and congruence certificate are unavailable in this checkout and its selected local Git history.
+The complete ten positive packet numerators and exact weights remain explicitly reconstructible from [C31's standalone table](../../../claims/Yin_C_G0031_v1.md#highs-original-lehmer-explicit-packet).
+That complete standalone mathematical witness does not determine the eleventh zero-weight basic column or the original ordered HiGHS indices.
+The displayed generator rules and packet therefore do not uniquely determine the selected original basis.
+J90 cannot currently replay this selected native certificate.
+Supply that minimum payload at this group's tracked inputs/ and repair J90's actual consumers; the full762150-atom store, floating log and incidental progress data are unnecessary.
+The original3000-pivot failure, absent Phase-A final basis and unreached branches remain the recorded limits; rerunning a solver is not recovery of that evidence.
+
 ## Question and scope
 
 For the original Lehmer P=[1,1,0,-1,-1,-1,-1,-1,0,1,1], degree 10 and allowed window T=10, construct a rational complementary packet outside the restricted [J88](../Yin_J_G0088/readme.md) atom family.

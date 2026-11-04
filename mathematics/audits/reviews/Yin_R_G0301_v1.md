@@ -8,14 +8,14 @@ Human record author Yin.
 Separately assigned noncontributor AI reviewer g0001_review_recovery.
 Root authored both the complete D32 mathematics and the actual C77 wrapper.
 This reviewer contributed neither.
-The reviewer previously performed C74's actual extraction review R399, with no contribution to that ancestor's mathematics or wrapper; this is disclosed accepted-input history and does not automatically cover C77.
-R402 is a different reviewer's whole finding on actual22:16 D32 only.
+The reviewer previously performed C74's actual extraction review [R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding), with no contribution to that ancestor's mathematics or wrapper; this is disclosed accepted-input history and does not automatically cover C77.
+R300 is a different reviewer's whole finding on actual22:16 D32 only.
 The present finding supplies new actual extraction coverage, not external human refereeing or formal verification.
 
 ## Actual inputs, sequence and complete preservation
 
 The reviewer read the actual22:25 C77 statement A--E, its current initial decision and every retained original paragraph, then the original D32 independently in full and the exact adopted C74 statement, explicit threshold, local proof and true-cost interfaces.
-R402 was consulted during this changed-interface inspection, with its scope kept at original D32.
+R300 was consulted during this changed-interface inspection, with its scope kept at original D32.
 The reviewer reconstructed all new algebra, excess estimates, pre-step indices, sharp example and arithmetic normalization rather than taking that earlier verdict as proof.
 The other reviewer's same-target whole finding was nevertheless consulted during this actual changed-interface inspection.
 This supplied mathematical review context makes the actual extraction finding self-reviewed; reconstructing the proof and not taking the prior verdict as proof do not remove that shared context.
@@ -61,7 +61,7 @@ C77 is initially proof draft/under review; this review does not alter that decis
 PASS for the ENTIRE actual22:25 C77 A--E, its complete retained argument and exact direct interfaces.
 No mathematical, extraction, endpoint, sign, multiplicity, true/clean representation or source-scope defect was found.
 The new statement is supported by the actual original proof and inherited C74 premises at their precise scopes.
-R402 remains original whole evidence only, while this separate finding binds the actual allocated Claim.
+R300 remains original whole evidence only, while this separate finding binds the actual allocated Claim.
 No adoption or future-revision approval is made.
 
 ## Exact classification and local arithmetic interface

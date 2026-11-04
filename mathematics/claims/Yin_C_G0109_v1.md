@@ -386,7 +386,7 @@ The recorded review description was `under review`.
 | date | 2026-10-14T20:11 |
 | status | proved |
 | review-status | independently reviewed |
-| reason | Adopt R463 complete independent review of the actual four-prime row obstruction and all finite/density/efficiency boundaries. The constructed arrays have vanishing triple density and escape every common-base fixed efficiency bound, so the averaged and fixed-efficiency alternatives remain open. The unrestricted G0001 objective remains unresolved. |
+| reason | Adopt [R796 original four-prime](../audits/reviews/Yin_R_G0796_v1.md#four-prime-whole-independent-finding) complete independent review of the actual four-prime row obstruction and all finite/density/efficiency boundaries. The constructed arrays have vanishing triple density and escape every common-base fixed efficiency bound, so the averaged and fixed-efficiency alternatives remain open. The unrestricted G0001 objective remains unresolved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

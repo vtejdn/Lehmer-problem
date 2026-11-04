@@ -7,7 +7,7 @@ author: Yin
 ## Question and scope
 
 Retain exact polynomial identities reducing the primitive plastic family complete doubling resultant to a plus-cyclic norm of the original Lehmer polynomial.
-The responsible [C409 complete argument](../../../claims/Yin_C_G0409_v1.md#plastic-lehmer-resultant-reduction) owns the all-N derivation and the use of the already accepted [Dim16 all-index cyclic-norm bound](../../../audits/literature/Dim16/Yin_U001.md#dim16-cyclic-all-index).
+The responsible [C409 complete argument](../../../claims/Yin_C_G0409_v1.md#plastic-lehmer-resultant-reduction) owns the all-N derivation and the use of the already accepted [Dim16 all-index cyclic-norm bound](../../../claims/Yin_C_G0854_v1.md#dim16-cyclic-all-index).
 The program certifies the sign and size of the resulting fixed energy constant without evaluating an infinite Fourier tail.
 
 ## Programs and evidence

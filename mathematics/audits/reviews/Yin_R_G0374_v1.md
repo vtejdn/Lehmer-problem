@@ -16,11 +16,16 @@ After the separate arithmetic had passed, the reviewer read the whole author pro
 Both programs use the same installed SymPy 1.14.0 for rational irreducibility checking; the independent value, remainder, norm, root-count, interval and linear-system calculations use separately implemented Fraction arithmetic.
 This is a separately organized computational review with that shared-library boundary, not formal verification or human proof inspection.
 
+The author's subsequent numerical-result summary was explicitly supplied before the initial findings, beyond the fixed polynomial inputs and prescribed test definitions.
+The separate Fraction reconstruction, whole-fiber checks and successful arithmetic execution remain independent implementations, rather than an isolated mathematical-review context.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Finite computational finding](#fixed-2d-finite-finding) | independently reviewed |
+| [Finite computational finding](#fixed-2d-finite-finding) | self-reviewed |
 
 ## Review bindings
 

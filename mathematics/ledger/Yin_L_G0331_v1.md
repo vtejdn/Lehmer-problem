@@ -340,7 +340,6 @@ The labelled finite-state identity is the changed exact mechanism of this round;
 
 The author self-check covered actual irreducibility, unit norm, both embeddings and total measure; full state exhaustion including strict boundary exclusions; integral transition signs, every original digit weight, complete path/fiber equivalence and representative independence; all rank-deficient small windows, the Fibonacci Gram induction, inverse normalization, embedding covariance and fixed-endpoint limit; complete convolution support/normalization, every representative and carry count, class maxima and all114072 comparison decisions; the positive series-tail bound, fixed-point rounding and negative-coefficient interval order; old b<=4 reuse, every prefix/full-coordinate transfer, complete L286 tail domain and exact prefix determinant; and the distinction between a proved all-window identity, finite inequalities and an unresolved all-window comparison.
 No new source premise or mathematical failure remains hidden.
-Earlier operational file-search attempts used a nonexistent shell brace-expanded filename and guessed bibliography path; both were read-only lookup errors resolved by exact local filenames, not mathematical executions.
 
 Root will organize the complete noncontributor proof and genuinely different whole native computation review.
 The author's two counting representations and self-checks are not called independent review.

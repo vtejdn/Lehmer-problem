@@ -5,7 +5,7 @@ author: Yin
 
 Human author Yin.
 The same_trace contributor owns this new exact support question and its native implementations.
-The fixed C621/J125 coprime5 obstruction and C638/J123 phi-primary image are retained unchanged.
+The fixed C621/J125 coprime5 obstruction and C617/J123 phi-primary image are retained unchanged.
 This group addresses a distinct combined-quotient image with all complete odd orders other than5, while choosing global representatives that already satisfy the needed downward multiplicity constraints.
 
 ## Question and scope
@@ -114,7 +114,7 @@ This remains a normalized canonical support and full local-gate test, not an act
 | --- | --- |
 | [main.py](main.py) | Exact combined/predivision recurrence,96 complete representatives, bounded subgroup certificate and the two fixed target tests. |
 | [verify.py](verify.py) | Separate dense arithmetic, Euclidean inverses, direct Laurent reconstruction, exact divided compositions and full finite group/nonmembership certificate verification. |
-| certificate.json (`mathematics/computations/outputs/Yin_J_G0126/certificate.json`) | All96 source and lifted representatives,34 pivots with full exponent vectors, exact group size and both failed target reductions. |
+| [inputs/certificate.json](inputs/certificate.json) | Fixed native input: all96 source and lifted representatives,34 pivots with full exponent vectors, exact group size and both failed target reductions. |
 | verification.json (`mathematics/computations/outputs/Yin_J_G0126/verification.json`) | Complete second-implementation result for the declared negative calculation. |
 
 The elementary arithmetic kernels and filtration interfaces are copied into this new group from the same contributor's J125 implementations.
@@ -122,6 +122,13 @@ These programs import no J125 source or output and do not alter any fixed predec
 The successful-witness branch is retained as the predeclared construction rule but was not executed; no witness-dependent normalized-gate or integer-coefficient verification is reported as passed.
 
 ## Reproduction
+
+The indispensable all-order native input is retained once as [inputs/certificate.json](inputs/certificate.json).
+It contains all96 complete representatives,34 pivots and their full generator expressions, closure checks and both target reductions.
+The certificate was deterministically reconstructed with the fixed generator and checked by both distinct arithmetic implementations; this is current reproduction, not a claim that the original execution file was recovered.
+The two verification programs read this tracked input, and J127/J128 reuse the same file directly.
+Their verification commands need no old J126 output.
+Generation still writes a replaceable output certificate; compare its parsed mathematical object with the retained input before adopting a change.
 
 Run from the repository root in this order:
 

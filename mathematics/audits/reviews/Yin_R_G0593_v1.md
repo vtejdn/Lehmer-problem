@@ -6,7 +6,8 @@ author: Yin
 
 Date: 2026-10-21T16:18.
 Human operator: Yin.
-The agent read complete original L165/L166 and R64/R65, all actual contribution and review statements, the complete published C388v1/C389v1 statements and retained arguments, and every used C244/C257/C260/C267/C379v2/C385/C386/C390v2/J11 and GM16-U001 interface within its actual scope.
+The agent read complete original L165/L166 and R64/R65, all actual contribution and review statements, the complete published C388v1/C389v1 statements and retained arguments, and every used reciprocal trace-domain, norm/lifting, discriminant-cost, good-prime, Salem pair-kernel, matching-character and finite-error interface within its actual scope.
+The exact same-interface homes are the dependencies selected by [C388](../../claims/Yin_C_G0388_v1.md#decision-complete-current-self-adoption) and [C389](../../claims/Yin_C_G0389_v1.md#decision-complete-current-self-adoption); C376v2/J11 remain the separate compatible Lehmer control, and GM16-U001 retains its actual source-reading scope.
 Unchanged sufficient fixed inputs already read during this maintenance were reused.
 The complete existing GM16 source unit and source entrance were read, including the original v2/v4, selected statement/visual inspection, GRH, range, acquisition/search and proof/program limits; no source PDF or artifact hash was newly inspected or recalculated.
 Both whole current checks rederived the exact actual-group support equivalence, every finite error sign and full analytic-constant/norm consequence below.
@@ -55,7 +56,7 @@ The E functions remain additional unproved inputs, and the full common-B prime/e
 The complete retained Lehmer trace expansion reduces to z Phi_5 mod3; ord_5(3)=4 proves the quartic orbit and irreducibility, with separability/disjointness and nonzero endpoint traces giving good P reduction.
 The actual1+4 trace Frobenius is nonregular, and sign projection supplies two actual lifts with matching counts0 and2 at fixed count1.
 Their probability mixture is a group-support diagnostic rather than the actual Frobenius at3, a prime-distribution model, a varying-degree near-one family or a Galois-software computation.
-The old J11 and C379 mod3 evidence is only attributed compatible fixed input, not newly reproduced or required in place of the manual proof.
+The old J11 and C376 mod3 evidence is only attributed compatible fixed input, not newly reproduced or required in place of the manual proof.
 No substantive defect or missing hypothesis was found.
 The full current check is self-reviewed; the original R64 separate whole relationship remains unknown for complete fresh isolated M04 coverage.
 

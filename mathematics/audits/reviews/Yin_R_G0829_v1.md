@@ -40,7 +40,7 @@ No Claim, Task, strategy, execution record or shared index was edited.
 | [Whole finding](#whole-a4-complement-classification-finding) | [Endpoint bound](../../claims/Yin_C_G0199_v3.md#unique-quadratic-unsaturated-frobenius-parity) | UP8--UP9 give only M_X>=A_0; no endpoint equality or preselected list is assumed. |
 | [Whole finding](#whole-a4-complement-classification-finding) | [Small cube calculation](../../claims/Yin_C_G0199_v5.md#normalized-a2-exact-complement) | QC9--QC13 algebra rechecked with E and v replacing its small B and y_2; no original A_0=2 input imported. |
 | [Whole finding](#whole-a4-complement-classification-finding) | [Whole parity review](Yin_R_G0812_v1.md#whole-trace-parity-finding) | Accepted independent C609v2 evidence at its exact domain, preserving its predecessor/source limits. |
-| [Whole finding](#whole-a4-complement-classification-finding) | [Whole C643v2 review](Yin_R_G0825_v2.md#a4-v2-whole-proof-and-native-finding) | Accepted independent C621v2/J126 theorem evidence only; no native extension, rerun or prospective coverage of LC1--LC8. |
+| [Whole finding](#whole-a4-complement-classification-finding) | [Whole C621v2 review](Yin_R_G0825_v2.md#a4-v2-whole-proof-and-native-finding) | Accepted independent C621v2/J126 theorem evidence only; no native extension, rerun or prospective coverage of LC1--LC8. |
 | [Whole finding](#whole-a4-complement-classification-finding) | [Earlier interface review](Yin_R_G0825_v1.md#a4-whole-proof-and-native-finding) | Unchanged C197/C199 original interfaces and preserved historical SELF/UNKNOWN and classical-source boundaries. |
 
 <a id="whole-a4-complement-classification-finding"></a>

@@ -698,7 +698,7 @@ The unit assumption in L390 was needed for its later exact income simplification
 
 ## Extraction operation and preserved history
 
-2026-10-11T17:29: reusable mathematical registration extracts L390, L389 and L392 Section4; direct exact-covariance inequality from the L318 branch, with historical R292/R291/R294 coverage retained.
+2026-10-11T17:29: reusable mathematical registration extracts L390, L389 and L392 Section4; direct exact-covariance inequality from the L318 branch, with historical R216/R215 coverage and the original L392 whole finding retained in R673 preserved.
 Fixed L originals and R findings are preserved.
 The complete author accounts below retain their original freezes, contribution disclosures, corrections, comparisons and historical pending statements.
 The present decision controls current assessment; copied historical pending prose is not an alternative selection.

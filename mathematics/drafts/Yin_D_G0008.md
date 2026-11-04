@@ -12,15 +12,15 @@ New work below does not assign full-product residual precision to an equal-Mahle
 <a id="global-eight-total-mahler-domain"></a>
 ## Fixed complete domain
 
-Keep the adopted C799 complete source, C844 actual globalF8/selected-X8 condition, C804 exact equal-Mahler factorization and C817 original degree/core/cost limits.
+Keep the adopted C799 complete source, C801 actual globalF8/selected-X8 condition, C804 exact equal-Mahler factorization and C774 original degree/core/cost limits.
 The complete retained domain is in [C804](../claims/Yin_C_G0804_v1.md#global-eight-total-mahler-domain).
-C814/C818's raw-flip, bounded-template and integer-energy failures remain at their exact scopes.
+C771/C775's raw-flip, bounded-template and integer-energy failures remain at their exact scopes.
 The unrestricted global8 fiber and varying-source total measure remain unresolved.
 
 <a id="bounded-global-eight-bivariate-limit"></a>
 ## Fixed exact logarithmic limit and empty exception
 
-The complete ML1--ML4 proof is fixed OPEN in [C804](../claims/Yin_C_G0804_v1.md#bounded-global-eight-bivariate-limit).
+The complete ML1--ML4 proof is fixed and adopted through R1024 in [C804](../claims/Yin_C_G0804_v1.md#bounded-global-eight-bivariate-limit).
 It retains the exact F_A(z,z^N) template, actual integer A_H reciprocity, accepted Lawton depth, Jensen/Fubini argument and nonempty-mask limit at leastlog2.
 The possible empty reference has exact fixed m(A_H) and a constant full noncyclotomic part; its actual global8 admissibility remains unproved.
 No effective or source-uniform threshold is supplied.
@@ -28,7 +28,7 @@ No effective or source-uniform threshold is supplied.
 <a id="global-eight-full-degree-frontier"></a>
 ## Fixed full degree cost in the original window
 
-The complete NC1--NC5 proof is fixed OPEN in [C804](../claims/Yin_C_G0804_v1.md#global-eight-full-degree-frontier).
+The complete NC1--NC5 proof is fixed and adopted through R1024 in [C804](../claims/Yin_C_G0804_v1.md#global-eight-full-degree-frontier).
 It pays every torsion order and multiplicity through the explicit C_b constant and gives D_nc(K)>=7N+h-C_b for nonempty window masks.
 At a fixed source their full noncyclotomic proportion tends to1, uniformly over changing masks in that window.
 The entire primitive-factor and core scope, empty exception and sufficient varying-source growth condition remain explicit there.
@@ -36,7 +36,7 @@ The entire primitive-factor and core scope, empty exception and sufficient varyi
 <a id="guaranteed-nonempty-global-eight-window"></a>
 ## Fixed actual nonempty families and extra-bit costs
 
-The complete NE1--NE3 proof is fixed OPEN in [C804](../claims/Yin_C_G0804_v1.md#guaranteed-nonempty-global-eight-window).
+The complete NE1--NE3 proof is fixed and adopted through R1024 in [C804](../claims/Yin_C_G0804_v1.md#guaranteed-nonempty-global-eight-window).
 The genuine P_8>=40D bound supplies a legal unused bit and guaranteed nonempty global8 representatives with at most7D+1 flips.
 The larger original-window family has its separately paid7P_8 budget and at least2^[7(P_8-D)]-1 nonempty outputs.
 No old7D support constant is reused for those larger budgets.
@@ -47,13 +47,13 @@ Root's substantive construction contribution is retained in that fixed home.
 
 The fixed-window families have a proved total-measure and full-degree obstruction to a fixed-source nearzero limit.
 A possible route beyond them must create genuine cyclotomic cancellation on a growing portion of the core, or provide an actual logarithmic-deficit estimate for unbounded global8 masks.
-Every such sign change must preserve the true modulo8 sign residue; a binary C809 kernel identity alone is insufficient.
+Every such sign change must preserve the true modulo8 sign residue; a binary C767 kernel identity alone is insufficient.
 The complete original total measure and all source-dependent costs remain the quantities to control.
 
 <a id="cyclotomic-rich-separable-sign-rigidity"></a>
 ## Fixed actual separable-candidate tests and unresolved source evaluation
 
-The complete SF1--SF8 argument is fixed OPEN in [C807](../claims/Yin_C_G0807_v1.md#complete-argument), with its exact [statement and witness-evaluation limits](../claims/Yin_C_G0807_v1.md#statement).
+The complete SF1--SF8 argument is fixed and adopted through R1027 in [C807](../claims/Yin_C_G0807_v1.md#complete-argument), with its exact [statement and witness-evaluation limits](../claims/Yin_C_G0807_v1.md#statement).
 It retains the height-one rigidity R=A_H, both true integer trace factorizations, full source-half target, global binary iff test, genuine first-coordinate failure checksum, and the two conditional X4/F8 separations with all monic-divisor carries.
 The contribution of global8_core_factor to the true remainder and signed-count tests is retained there.
 The actual C799 source checksum remains unevaluated, and neither separable candidate has been shown to pass global8.
@@ -97,7 +97,7 @@ Thus their truncated phi-orders are equal, including simultaneous vanishing of t
 The full7a assertion is legitimate with P_phi fixed: changing any nonphi reference lift changes its half by a multiple of phi^(7a), so it does not change either local class.
 If d=1 modulo phi^(4a), the entire source half modulo phi^(4a) is unchanged.
 For two sources satisfying the SAME Q, H_aux/B_src and original source-unit jet X^aY_1=B_src^(-7) modulo phi^(8a), a multiplicative replacement Y_(1,new)=Y_1d necessarily has d=1 modulo phi^(8a).
-In that actual fixed-auxiliary scope, the complete phi part of C807's C809 target is therefore unchanged, including its specified Z_0.
+In that actual fixed-auxiliary scope, the complete phi part of C807's C767 target is therefore unchanged, including its specified Z_0.
 For an arbitrary phi-unit d or changed auxiliary, only the proved vanishing/order invariance is asserted; a whole specified unit target is not declared invariant without the stated extra jet.
 No new source is admitted, and no changed degree, lcm, sign cost or nonphi target is supplied by this direct multiplication argument.
 
@@ -183,7 +183,7 @@ The arbitrary-bit product below supplies a height-one realization at every fifth
 Root proposed the explicit arbitrary-bit construction and local-order screen; primitive_second_eight checked the complete argument as a substantive author.
 This is not an independent review, a new admitted source or an extension of fixed C807.
 The general cyclotomic trace and largest-weight mechanisms are reused from [adopted C752 CY3--CY4](../claims/Yin_C_G0752_v1.md#decision-whole-reviewed-2026-10-25), whose complete CY3--CY7 argument was read for this application.
-The relevant C800/C802 half-unit and largest-weight arguments were also inspected; their more general conclusions are not reproved or registered here.
+The relevant C758/C760 half-unit and largest-weight arguments were also inspected; their more general conclusions are not reproved or registered here.
 The explicit digit-subset indicator below is proved directly and is not assumed to be a numerical semigroup or automatically covered by Mor14.
 
 ### DB1. Exact alternating height-one realization for every E
@@ -318,12 +318,12 @@ Its additional trace degree is exactly72Q, so
 
     degY_pre,new<1055Q^3+72Q<1320Q^3.
 
-This pays the original C799/C834 pre-source bound directly.
+This pays the original C799/C791 pre-source bound directly.
 All primitive row orders remain below240Q.
 The SAME original K_bound and n_star rule therefore still supply the SAME fresh order, since they depend on the unchanged B_src and the cutoff remains below that n_star.
 No factor of B_7 can have order n_star>240Q, so the selected fresh factor still has exact multiplicity3 in Y_new=Y_pre,new B_nstar^3 and in Y_new B_src.
 The source remains nonsquare with original maximal Frobenius exponent1.
-All original finite source identities and the same positive gap follow through the unchanged complete C724/C834 interfaces.
+All original finite source identities and the same positive gap follow through the unchanged [C691 source identities](../claims/Yin_C_G0691_v1.md#statement) and [C791 finite target](../claims/Yin_C_G0791_v1.md#statement).
 The stronger derivative X^r|Y_pre,new' also follows directly because24Q is even, as well as from the retained finite target.
 
 A fivefold version B_7^(120Q) is separately available at exact extra degree360Q, still satisfying1055Q^3+360Q<1320Q^3 and the same finite target.
@@ -363,7 +363,7 @@ The original C759 B_step,n_0,g,Delta_crit and s_min must be evaluated at this AC
 Their original formulas and proved bounds apply; old numerical padding parameters or supported-sign columns are not silently reused.
 The same full degree, period and7D sign-cost formulas use their corresponding new-source parameters.
 
-C753's B_7 correction has even exponent and zero derivative; its n_ext row and C759's n_s row have derivative order at least4Q-2>r by the retained C799/C834 complete-row formula.
+C753's B_7 correction has even exponent and zero derivative; its n_ext row and C759's n_s row have derivative order at least4Q-2>r by the retained C799/C791 complete-row formula.
 Thus the actual Y_(1,new), and every corresponding original outer source, retain the r derivative condition and all the required original source-unit/gap/fresh-factor properties.
 The exact G_r target assertion in NR1 concerns the PRE-source stage.
 No extra high finite-jet equality for the final C753-corrected Y_1 is asserted beyond the actual C799 interface.

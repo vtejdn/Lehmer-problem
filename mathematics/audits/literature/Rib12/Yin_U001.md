@@ -21,7 +21,7 @@ Passages: Printed/PDF pages4--5: Definitions2.2.1--2.2.2, Proposition2.2.3, rank
 Inspection: Read the complete named definitions/statements, universal-property construction and the open-subgroup theorem with its stated scope. The two proofs referred to [RZ] by the source were not independently audited; the standard theorem is accepted at its finite2-group specialization.
 
 
-The [actual lecture PDF](../../../literature/pdf/Rib12--lecture2.pdf) and its acquisition.
+The [actual lecture PDF](../../../literature/pdf/Rib12--lecture2.pdf) is the inspected source edition.
 The source's complete seven-part opening contents are retained at [the native contents transcription](../../../literature/contents/Rib12--lecture2.md).
 Only the named passages are used; this is not an audit of every lecture topic or of the unacquired [RZ] reference.
 

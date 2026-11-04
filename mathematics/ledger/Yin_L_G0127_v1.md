@@ -4,12 +4,16 @@ author: Yin
 
 # A universal ceiling for the retained finite-window Fourier certificate
 
+Current checking scope is owned by [R37](../audits/reviews/Yin_R_G0037_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Direct G0001 derivation by the coordinating Codex AI for Yin, under Yin's instruction to begin exploration with G0001 as the goal.
 This is the bounded feasibility test assigned by [S G0005](../strategies/Yin_S_G0005.md#bounded-next-test).
 It tests the exact constants already retained in [L G0123](Yin_L_G0123_v1.md#finite-transition-product-consistency-test), before any new multiplier enumeration.
 No external source, numerical experiment, or novelty claim is involved.
-The completed independent review is recorded below.
+The completed checking account is retained below at its responsible finding scope.
 
 <a id="retained-certificate-universal-ceiling"></a>
 ## Statement and exact scope

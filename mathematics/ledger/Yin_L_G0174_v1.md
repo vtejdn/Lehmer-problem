@@ -305,7 +305,7 @@ The complete exact reduction proved below is
 In fact both sides before taking absolute values are positive in this domain.
 Consequently the normalized Frobenius quotient is precisely a plus-cyclic norm of the fixed Lehmer unit; it is not an isolated Fourier mode or an estimate with omitted conjugates.
 
-The already accepted [Dim16 all-index cyclic-norm bound](../audits/literature/Dim16/Yin_U001.md#dim16-cyclic-all-index) then gives
+The already accepted [Dim16 all-index cyclic-norm bound](../claims/Yin_C_G0854_v1.md#dim16-cyclic-all-index) then gives
 
     log|R_(1,2)(P_N)|=d_N log2+q mu+O(log q).          (2)
 

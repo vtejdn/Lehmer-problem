@@ -18,7 +18,7 @@ The applicable operator was the registered and worktree-bound Yin.
 
 The initial mathematical inspection began at 2026-10-21T07:46.
 Its complete conclusions were formed and sent to the coordinating agent at 2026-10-21T07:52.
-Only afterwards, beginning at 2026-10-21T07:53, did this reviewer open and read in full the old whole accounts R_G0230_v1 and R_G0231_v1 and the current constructing-agent account R_G0683_v1.
+Only afterwards, beginning at 2026-10-21T07:53, did this reviewer open and read in full the old whole accounts R_G0156_v1 and R_G0157_v1 and the current constructing-agent account R_G0536_v1.
 Comparison of all their useful mathematical findings, negative observations and corrected boundaries was completed at 2026-10-21T07:55.
 Those later accounts changed neither initial mathematical conclusion.
 
@@ -353,9 +353,9 @@ All those necessary mathematical scopes have been checked here against the actua
 The source/reuse distinctions and original implementation facts are preserved above.
 The old midpoint whole account checked the entire corrected L332 Sections1-7/(1)-(18) after the reported earlier full freeze, and preserved both its negative auxiliary-domain observation and its final corrected conclusion.
 Those corrected mathematical scopes and the actual former domain error have likewise been covered here, without claiming access to an unavailable old uncorrected byte image.
-The R_G0683_v1 constructing-agent account covers the current C bodies and its own nonwriting replay; its mathematical scope is covered, while its actual contributor self-review remains separate from this new independent inspection.
+The R_G0536_v1 constructing-agent account covers the current C bodies and its own nonwriting replay; its mathematical scope is covered, while its actual contributor self-review remains separate from this new independent inspection.
 
-The original R_G0230_v1 and R_G0231_v1 descriptions leave the initial shared context's substantive content and order genuinely unestablished.
+The original R_G0156_v1 and R_G0157_v1 descriptions leave the initial shared context's substantive content and order genuinely unestablished.
 Their earlier branch authorship, earlier reviews, implementation labels and the gap-finding role do not by themselves classify those whole findings as self-reviewed or independent.
 This new review does not reconstruct or certify their original independence.
 Reading them after the first-stage conclusion is an explicit comparison activity, not their adoption as the starting verdict.

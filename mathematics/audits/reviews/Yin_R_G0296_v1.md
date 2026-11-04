@@ -8,7 +8,7 @@ Human record author Yin.
 Root performs a separately organized WHOLE review of rounding-recovery's actual21:23 D27.
 Root supplied the broad growing-denominator question and an expressly OLD C53 zero-residual substitution, not the new all-height bound, exact endpoint proof, formulas5--10 or their derivations.
 Root is a contributor to ancestor C53's wrapper and D26's all-weight selector, now registered in C71; those ancestors cannot be independently reviewed by root.
-Their actual stated scopes and the separate original whole D26 finding R392 are disclosed.
+Their actual stated scopes and the separate original whole D26 finding [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) are disclosed.
 The present noncontributor finding concerns the new D27 derivation and its explicit conditional dependency boundary.
 It is internal AI mathematical review, not external human refereeing or formal verification.
 
@@ -20,18 +20,22 @@ No earlier independent D27 verdict was provided.
 Author self-check is not an independent premise.
 
 The actual C53 original-order factor/gate and full-cost statement, L229's full coefficient-energy inequality and exact small-parameter domain, C10's generic original-root expense, and D26's entire21:10 all-weight theorem were read.
-Root also read the separate R392 actual full D26 finding, which was authored by a genuine noncontributor.
+Root also read the separate [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) actual full D26 finding, which was authored by a genuine noncontributor.
 D27 explicitly records that its small-s corollary uses D26 while that new material was pending Claim adoption.
 The same proof is now preserved in actual C71, whose separate actual-extraction review is being arranged.
 This finding does not itself adopt or independently re-review root's own ancestor theorem.
 Theorem2 at s>=5 is independent of D26; the all-s corollary is a logically correct application of the precisely stated all-weight theorem, at its explicit input status.
 Later fixed assembly must resolve the actual selected dependency and receive its own extraction review.
 
+The initial C72 input included its author validation checklist and conclusions beyond the necessary derivation.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Single-delay whole finding](#single-delay-whole-independent-finding) | independently reviewed |
+| [Single-delay whole finding](#single-delay-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -47,7 +51,7 @@ Later fixed assembly must resolve the actual selected dependency and receive its
 | [Single-delay whole finding](#single-delay-whole-independent-finding) | [Exact angular function](../../ledger/Yin_L_G0229_v1.md#uniform-powered-angular-coherence) | Exact c,h0,b,epsilon, monotonicity and zero limit, preserving prior Pri11/Dim19 statement-level inspection limits. |
 | [Single-delay whole finding](#single-delay-whole-independent-finding) | [Old factor and order gate](../../claims/Yin_C_G0053_v1.md#statement) | Credited rank-one projection mechanism, particular-vector integrality and no automatic coordinate norm-product invariance; not an all-k universal classification. |
 | [Single-delay whole finding](#single-delay-whole-independent-finding) | [Precisely supplied all-weight theorem](../../claims/Yin_C_G0071_v1.md#all-weight-unit-energy-product-theorem) | ONLY the small-s corollary: full E1 finite positive rational weights, actual q, actual common width and q^8 bound; original pending Claim status retained. |
-| [Single-delay whole finding](#single-delay-whole-independent-finding) | [Separate ancestor whole finding](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | Actual independent original D26 full proof review by a noncontributor; root does not claim to independently review its own ancestor contribution. |
+| [Single-delay whole finding](#single-delay-whole-independent-finding) | [Separate ancestor whole finding](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | Actual original D26 full proof review by a noncontributor; root does not claim to independently review its own ancestor contribution. Referenced finding relationship: unknown. |
 | [Single-delay whole finding](#single-delay-whole-independent-finding) | [Generic actual packet expense](../../claims/Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Original degree/full norms, actual final weights and common width after genuine complementarity only. |
 
 ## Exact algebra, membership and denominator
@@ -148,7 +152,8 @@ Structural validation is separate from the manual mathematical reconstruction.
 <a id="single-delay-whole-independent-finding"></a>
 PASS for the ENTIRE actual21:23 D27 author body at its explicitly stated independent and conditional input scopes.
 The s>=5 nonzero-residual theorem is supplied by accepted L229 and the local proof.
-The all-s positive-income corollary is a correct application of the precisely supplied D26 theorem, with its then-pending Claim selection kept explicit and separately independently whole-reviewed in R392.
+The all-s positive-income corollary is a correct application of the precisely supplied D26 theorem, with its then-pending Claim selection kept explicit and separately whole-reviewed in [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding).
+Referenced finding relationship: unknown.
 This finding neither adopts root's own ancestor work nor automatically covers a later C wrapper or dependency-resolution assembly.
 A fixed extraction still needs actual independent review.
 Arbitrary composites, repeated exponents, weighted seeds, higher-rank projections, negative delays, changed orders and unrestricted G0001 remain outside the theorem.

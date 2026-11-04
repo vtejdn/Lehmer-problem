@@ -8,7 +8,7 @@ Date: 2026-10-21T21:11.
 Human operator: Yin.
 The checking agent read all277original L190 lines, all100original R89 lines and the entire actual391-line published open C455 statement, argument, decision and remaining limits.
 It read the entire457-line fixed C2, including the exact determinant/signed-cover proof and original classical endpoint source occurrence.
-The complete C441v2 cycle and C444v2 positive-cover comparisons are adequate fixed homes already read at their full relevant scopes; they do not supply a universal realization premise.
+The complete C437v2 cycle and C440v2 positive-cover comparisons are adequate fixed homes already read at their full relevant scopes; they do not supply a universal realization premise.
 It also read the exact dlP19 original source occurrence, sole registry acquisition/bibliography facts and the actual retained U001.
 The original12300-character necessary reuse/Sections1--5/equations(1)--(11) mathematical body is retained modulo adequate same-object input homes and the source-attribution locator.
 One purely grammatical Statement convention sentence was clarified after the full read, without changing mathematics.

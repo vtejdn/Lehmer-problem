@@ -4,6 +4,9 @@ author: Yin
 
 # Isolated reviews of holomorphic realization, finite-index transfer and affine attainment
 
+This file retains and binds the C_F0005 affine-attainment finding.
+The original combined assignment also read former C_F0017/C_F0041 and other background proofs; those fixed proof homes are not located in the current retained F-family collection, and their labels create no current-target correspondence.
+
 ## Arrangement and inspected inputs
 
 The separate reviewing agent took no part in developing these proofs and received only the assignment, fixed mathematical input locations and governing rules.

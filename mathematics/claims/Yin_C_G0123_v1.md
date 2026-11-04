@@ -18,7 +18,7 @@ A computable sufficient criterion is not unrestricted near-one coverage; a varyi
 
 ## Starting inputs and bounded reuse
 
-Read the actual adopted C122 and R476, C110 v2, C113's localized correction, C120 and C103's quadratic seed identity at their exact domains.
+Read the actual adopted C122 and R351, C110 v2, C113's localized correction, C120 and C103's quadratic seed identity at their exact domains.
 The known C122 family and its already positive class gap are not new results to repeat.
 A targeted local search for central residuals, trace-polynomial division, relative-symbol PSD corrections and general seed constructions found no prior statement for the candidate below.
 L174 supplies a separate plastic-seed Salem family and fixed-seed phase mechanism, a possible later discriminator rather than a premise for the initial algebra.
@@ -522,7 +522,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T07:45 |
 | status | proved |
-| reason | Adopt R478 actual whole noncontributor review of the exact rational trace-residual construction, relative-symbol correction, coefficient-only admission, complete positive Salem input coverage at an input-dependent income and full arithmetic costs. No uniform income, new number-theoretic gap or unrestricted Task completion follows. |
+| reason | Adopt [R798 original trace-residual](../audits/reviews/Yin_R_G0798_v1.md#trace-residual-whole-independent-finding) actual whole noncontributor review of the exact rational trace-residual construction, relative-symbol correction, coefficient-only admission, complete positive Salem input coverage at an input-dependent income and full arithmetic costs. No uniform income, new number-theoretic gap or unrestricted Task completion follows. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

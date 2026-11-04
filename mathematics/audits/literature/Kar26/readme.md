@@ -1,6 +1,6 @@
 # Kar26: Private shifted-matrix-semicircle manuscript audit
 
-The identifies Vladislav Kargin's *Fuglede-Kadison Determinants of Shifted Matrix Semicircles*, retained as the exact [60-page Kar26.pdf](../../../literature/pdf/Kar26.pdf).
+The inspected manuscript is Vladislav Kargin's *Fuglede-Kadison Determinants of Shifted Matrix Semicircles*, retained as the exact [60-page Kar26.pdf](../../../literature/pdf/Kar26.pdf).
 Printed and PDF pages agree.
 No printed draft date or revision label was found; the user-designated key is retained with that limitation.
 The manuscript and these revealing audit records are **restricted to local research**.
@@ -11,10 +11,13 @@ This review identifies **five actionable source findings**, including two P2 for
 With the faithful/GNS ambient convention and the local corrections below, no further gap was found in the inspected internal proof of the global variational formula.
 That assessment retains the exact external foundations described in the units; it is not formal verification or an audit of every original proof in the bibliography.
 
-## Coverage and assessment
+## Retained overview and presently locatable evidence
 
-| Exact source scope | Responsible unit | Checked result and limits |
-| --- | --- | --- |
+The overview below records the 2026-10-06 inspection and its restrictions.
+The current Kar26 directory contains this overview but no U001--U004 bodies or detailed F01--F05 findings.
+Those detailed mathematical/review accounts have not been located in the selected public materials, so their old inspection cannot be reused as presently inspectable complete proof evidence.
+Recover or otherwise adequately prepare the particular required account before relying on it; this limitation establishes neither that the original inspection was false nor that the source theorem fails.
+The later public lead below remains a separate edition with its own limited reading.
 
 The title, abstract, contents, introduction and bibliography on pp.59-60 were also read.
 Overlapping section-boundary pages are divided by the passage locators in the units.
@@ -28,8 +31,7 @@ The bounded repository search found no earlier Kar26 registration, assessment or
 Existing Claim and Task decisions are unchanged.
 Detailed triggers, impact, exact reproductions and recommendations are retained at the linked locations.
 
-| Finding | Severity and source location | Reproduction, impact and recommended correction |
-| --- | --- | --- |
+The detailed five findings are not currently located; the following overview preserves only its actual recorded mathematical limits.
 
 Two smaller notation slips are recorded with their local arguments: Lemma 3.7's undefined operator label on pp.16-17 in U001, and the reversed order of the two kernel summands on p.41 in U003/U004.
 Their corrections do not change the calculations.
@@ -98,7 +100,7 @@ This is lightweight source discovery/reading, not a new accepted theorem or a fu
 It therefore supplies no current G0001 Haar-to-original-root transfer.
 
 No local public artifact was acquired.
-The60-page private artifact, its restriction, four exact units and five findings remain unchanged; none is transferred to the public version.
+The60-page private edition and its restriction remain distinct; this retained overview does not locate the four unit bodies or five detailed findings, and transfers no private inspection to the public version.
 The no-public-release observation was made on 2026-10-06; it is not a current publication-status check.
 A future use must separately compare the relevant public statements/proofs and record that edition.
 No private text was used in an external query or uploaded.

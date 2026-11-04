@@ -11,6 +11,12 @@ Root and the responsible author contributed construction, solver scope and arith
 Both complete D3 Phase A and D5 Phase B author accounts are retained below, with their separate declarations, terminal outcomes and limits.
 Separate whole and independently reconstructed native findings are pending actual selection; a numerical solver status supplies no optimality theorem.
 
+## Native input replay limits
+
+The complete ten-coordinate standalone packet below remains available in [its exact table](#highs-original-lehmer-explicit-packet).
+The [J89 original eleven-column basis selection](../computations/programs/Yin_J_G0089/readme.md#native-input-availability), including its zero-weight column and ordered original indices, is unavailable for J90's historical native replay.
+That missing selection does not erase the displayed packet or turn a new solver result into the original run.
+
 ## Statement
 
 Let P=t^10+t^9-t^7-t^6-t^5-t^4-t^3+t+1 be the ACTUAL original irreducible degree10 Lehmer polynomial, alpha its actual algebraic unit, K=Q(alpha) and O_0=Z[alpha].
@@ -56,7 +62,7 @@ The NEW degree9R_* is distinct from C30's earlier degree8r_minus, whose norm rem
 
     451609/508032 <= E_10(P) <= 680/681 < 1.
 
-The successful packet uses ACTUAL residue/energy classes excluded by C24/J88: row8 has energy14/3>4 and row10 has nonternary residue R_* with coefficient energy164.
+The successful packet uses ACTUAL residue/energy classes excluded by C24/J88: row8 has energy14/3>4 and row10 has nonternary residue R_* with squared coefficient norm196, while its rational representative f_10=(9R_*-16P)/9 has coefficient energy164.
 The selected scalar offsets already belong to the old denominator9grid.
 This proves neither equality with the full capacity nor a finite-family optimum, minimum possibleq/M, all-input construction or uniform near-one deficit.
 The first3000pivot-cap search remains incomplete; the second different mechanism produced the exact packet on the IDENTICAL declared family with no solver retry or scope enlargement.
@@ -143,7 +149,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T21:33 |
 | status | proved |
-| reason | Adopt the separately assigned isolated complete mathematical inspection of this actual fixed statement and entire selected argument. Its recorded initial finding preceded all old target verdicts and substantive target-development context was not shared. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
+| reason | Adopt the separately assigned complete mathematical inspection of this actual fixed statement and entire selected argument at its actual SELF relationship. Its recorded initial finding preceded old target verdict comparison, but the initial fixed argument included completed author-validation conclusions beyond the necessary mathematical derivation. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -157,12 +163,12 @@ The recorded review description was `under review`.
 | support | [Support](Yin_C_G0025_v1.md#statement) | Necessary q>=5, not the construction or exactq optimum. |
 | support | [Support](Yin_C_G0028_v1.md#statement) | Actual reciprocal ME integer/deficit and q-versus-M convention, not assumed availability or uniform bound. |
 | support | [Support](../computations/programs/Yin_J_G0089/readme.md#completed-phase-b-exact-packet) | Declared identical-family generation, one pinned IPM/crossover run, returned lead before exact reconstruction, complete saved exact result; numerical optimum not adopted. |
-| review | [Isolated complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-lehmer-complete-packet) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial independent reconstruction precedes old target verdict comparison. |
+| review | [Complete current SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-lehmer-complete-packet) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial direct reconstruction precedes old target verdict comparison. |
 
 ## Argument
 
 The complete original Phase A and Phase B author accounts follow.
-The original retention comparison is recorded in R321; current source-layout and storage maintenance does not supply a new review.
+The original retention comparison is recorded in [R790](../audits/reviews/Yin_R_G0790_v1.md#original-g0321-account); current source-layout and storage maintenance does not supply a new review.
 Every original declaration, failed-cap and missing-checkpoint limit, actual returned lead/evidence, proof and author history remains.
 The standalone covariance/norm proof and actual rational certificate support A--C; the retained search history does not enlarge those statements.
 Root is a contributor and cannot provide the independent whole finding.
@@ -584,7 +590,7 @@ Let S_(a,b)(t)=sum_(j=a)^b t^j.
 Define f_b=F_b/9 and omega_b=m_b/2043 by the following COMPLETE table.
 The last column is the ordinary integer coefficient squared norm of F_b, with no primitive rescaling.
 
-| b | Exact ORIGINAL integer numerator F_b | m_b | content(F_b) | Norm(f_b(alpha)) | ||F_b||^2 |
+| b | Exact ORIGINAL integer numerator F_b | m_b | content(F_b) | Norm(f_b(alpha)) | \|\|F_b\|\|^2 |
 | --- | --- | ---: | ---: | ---: | ---: |
 | 1 | P-9t^9 | 155 | 1 | 1 | 72 |
 | 2 | P+9t^8 | 172 | 1 | 1 | 90 |
@@ -735,7 +741,7 @@ The SAME scalarlog9 cancels in income and coefficient energy.
 This is one fixed-input normalized-surplus calibration; no input-uniform lower bound or new strongest original-Lehmer estimate is claimed.
 
 The changed construction has q9although the declared family allowed denominators dividing36: all selected scalar_l are0,4or8, so their offsets already belong to the old denominator9scalar grid.
-Row8's energy14/3exceeds J88's old energy4cap, and row10's actual nonternary residue has energy164and signed norm-269.
+Row8's energy14/3exceeds J88's old energy4cap, and row10's actual nonternary residue R_* has squared coefficient norm196 and signed norm-269, while its rational representative f_10 has coefficient energy164.
 Its seed was the declared adjacent-orbit sum of the native negative anchor.
 These ACTUAL excluded classes explain why the new packet does not contradict C24's old restricted minimum1.
 Changing only scalar representatives on old fixed residues was not credited with this success.

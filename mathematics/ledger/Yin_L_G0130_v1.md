@@ -4,12 +4,16 @@ author: Yin
 
 # An effective finite-energy modulus for central-small transition collapse
 
+Current checking scope is owned by [R556](../audits/reviews/Yin_R_G0556_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Direct derivation by the coordinating Codex AI for Yin, under the current G0001 exploration instruction.
 This supplies a terminating finite rational algorithm for the modulus left unspecified in [L G0125](Yin_L_G0125_v1.md#central-small-transition-collapse).
 It does not supply a practical running-time bound, a degree-uniform decay rate, or a positive Mahler gap.
 No numerical experiment, new source or novelty assertion is a premise.
-Completed independent review is recorded below.
+The completed checking account is retained below at its responsible finding scope.
 
 ## Domain and question
 

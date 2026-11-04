@@ -3,11 +3,11 @@ author: Yin
 ---
 # Actual trace positivity: interlacing costs and two rational boundary controls
 
-The complete current statement and necessary original argument are adopted in [C_G0604_v2](../claims/Yin_C_G0585_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g443-complete-self-finding).
+The complete current statement and necessary original argument are adopted in [C585_v2](../claims/Yin_C_G0585_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g443-complete-self-finding).
 Every original physical-version mathematical domain, contribution, source/native boundary, useful failure and historical review scope remains below.
 
 
-Original mathematical dates: 2026-10-20T10:34,2026-10-20T12:30 and2026-10-20T14:38, as separated below.
+Original mathematical dates: 2026-10-20T10:34,2026-10-20T12:30 and 2026-10-20T14:38, as separated below.
 Fixed content extraction: 2026-10-20T15:51.
 Human author Yin.
 Root and draft_inventory_later authored the original interlacing, integer quartic and paid-height comparison; the original source inspection is attributed within that section.
@@ -24,7 +24,7 @@ DC retains that positivity along a different rational family with resultant tend
 Neither rational control is an original integer-unit or full-residual counterexample, and they cannot replace one another.
 Their full denominator, height, norm, irreducibility and embedding proofs remain below.
 
-The original18:34 norm estimate(38)/(42) is retained at its valid weaker scope.
+The original 2026-10-20T10:34 norm estimate(38)/(42) is retained at its valid weaker scope.
 The later adopted [C191v2](../claims/Yin_C_G0191_v2.md#statement) proves the stronger actual f=0 norm/resultant income with all dyadic clusters.
 It does not convert either rational family into an original input, or supply the missing logarithmic upper estimate.
 The present L makes no new arithmetic-theorem adoption.

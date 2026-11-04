@@ -32,7 +32,7 @@ author: Yin
 | --- | --- |
 | date | 2026-10-21T10:11 |
 | status | proved |
-| reason | Adopt the actual whole original arithmetic proof and complete fixed-native self-check, preserving finite versus infinite quantifiers, all original costs and the distinct comparison tallies; old R244 unknown context remains pending isolated coverage. |
+| reason | Adopt the actual whole original arithmetic proof and complete fixed-native self-check, preserving finite versus infinite quantifiers, all original costs and the distinct comparison tallies; old R170 unknown context remains pending isolated coverage. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ author: Yin
 | --- | --- |
 | date | 2026-10-21T10:28 |
 | status | proved |
-| reason | Adopt the actual fresh math-first whole independent finding after complete mathematical and fixed-native review, followed by complete R244/R559 comparison. Original unknown/self relationships and distinct saved/current counters remain historical facts; no broader unit-group, near-one or Task conclusion follows. |
+| reason | Adopt the actual fresh math-first whole independent finding after complete mathematical and fixed-native review, followed by complete R170/R559 comparison. Original unknown/self relationships and distinct saved/current counters remain historical facts; no broader unit-group, near-one or Task conclusion follows. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ author: Yin
 | --- | --- |
 | date | 2026-10-21T10:40 |
 | status | proved |
-| reason | Retain the actually supported complete theorem on the adequate whole R559 and R561 self findings. R561 corrected its relationship on2026-10-21T10:38 after confirming that old conclusion summaries were read in J documentation before initial mathematical findings; its earlier independent-coverage assertion is withdrawn. The earlier18:28 adoption remains historical evidence of that mistaken classification and supplies no current isolated coverage. Mathematical statements, proofs, native facts and all original boundaries are unchanged; R244 unknown coverage still needs a genuinely isolated replacement. |
+| reason | Retain the actually supported complete theorem on the adequate whole R559 and R561 self findings. R561 corrected its relationship on 2026-10-21T10:38 after confirming that old conclusion summaries were read in J documentation before initial mathematical findings; its earlier independent-coverage assertion is withdrawn. The earlier18:28 adoption remains historical evidence of that mistaken classification and supplies no current isolated coverage. Mathematical statements, proofs, native facts and all original boundaries are unchanged; R170 unknown coverage still needs a genuinely isolated replacement. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

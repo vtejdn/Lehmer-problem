@@ -4,7 +4,7 @@ author: Yin
 # Complete original endpoint-conditioned Gaussian bounds and full-state costs
 
 This retains all original L251 mathematical conclusions and necessary arguments, with the consumed exact quotient/height mechanisms explicit below.
-Original exploration, author checking and old R150 inputs remain fixed; no research Task or execution resumes.
+Original exploration, author checking and old R115 inputs remain fixed; no research Task or execution resumes.
 
 ## Statement
 
@@ -656,7 +656,7 @@ The unrestricted G0001 conclusion remains unresolved.
 | --- | --- |
 | date | 2026-10-21T19:05 |
 | status | proved |
-| reason | Adopt after the actual complete C419/R621 whole self-check of the original conditional Fourier inequality, all exact quotient/height/binomial interfaces, dyadic full-time relative cutoff, translated Gaussian row/column sums, same-space norm/block/entropy directions, all original quartic arithmetic and variance/torsion controls. Every real/complex multiplicity, zero-variance/q0/N1 case and input-dependent cost remains explicit. Reuse C405 and the exact original finite p64 at their existing scopes; no J52 execution, new source theorem, independent-coverage claim or Task/E resumption is supplied. Original R150 remains whole UNKNOWN. |
+| reason | Adopt after the actual complete C419/R621 whole self-check of the original conditional Fourier inequality, all exact quotient/height/binomial interfaces, dyadic full-time relative cutoff, translated Gaussian row/column sums, same-space norm/block/entropy directions, all original quartic arithmetic and variance/torsion controls. Every real/complex multiplicity, zero-variance/q0/N1 case and input-dependent cost remains explicit. Reuse C405 and the exact original finite p64 at their existing scopes; no J52 execution, new source theorem, independent-coverage claim or Task/E resumption is supplied. Original R115 remains whole UNKNOWN. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

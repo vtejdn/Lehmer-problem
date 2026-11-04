@@ -116,7 +116,7 @@ belongs to this Hilbert space and satisfies
 The infinitely many distinct C give an infinite orthonormal family and an infinite-dimensional subspace on which Q preserves the one-step norm.
 These are singular modes, not a claim that e_C is an eigenvector of Q.
 No conclusion about powers Q^m, spectral radius, convergence rate, finite/infinite mu, linear bridge-level growth or an unrestricted Mahler gap is asserted.
-The older counting-measure l2(P_D) norm and two-step bounds remain at C203/C408's different scope.
+The older counting-measure l2(P_D) norm and two-step bounds remain at C203/C405's different scope.
 
 ## Complete argument
 
@@ -127,11 +127,11 @@ C203 already proves edge reversal, the reflected raw kernel A=mathsf J P_D, pair
 It also proves counting-measure one-step norms and a strict raw two-step loss; those are not estimates for the actual H-transformed Q.
 Only its exact algebraic geometry and original edge weights are reused here.
 
-The [C400 fixed-quartic strict-core theorem](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption), using its C399 narrow co-return premise, identifies the strip with the actual accessible/coaccessible core and supplies its infinitude.
+The [C400 fixed-quartic strict-core theorem](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption), using its C396 narrow co-return premise, identifies the strip with the actual accessible/coaccessible core and supplies its infinitude.
 The [C599 actual critical interface](Yin_C_G0599_v1.md#decision-complete-isolated-whole-adoption) supplies positive H<=1, true R, H=R P_D H and stochastic Q without a mean assumption.
 The [C563 canonical occupation and reciprocity](Yin_C_G0563_v1.md#decision-complete-isolated-whole-adoption) supplies sigma=H(H composed with J), sigma composed with J=sigma and its extended total mu.
 
-The bounded reuse screen also inspected C448's raw reciprocal edge reversal, C599's monotone radial obstruction, C847's arbitrary fixed-horizon invariant-endpoint construction, and C745's separate obstruction to reversible realizations of the original return sequence.
+The bounded reuse screen also inspected C444v2's raw reciprocal edge reversal, C599's monotone radial obstruction, C803's arbitrary fixed-horizon invariant-endpoint construction, and C709's separate obstruction to reversible realizations of the original return sequence.
 Targeted searches by reflected kernel, paired integer cosets, finite reversible blocks, J-invariant drift, weighted square and singular modes found no adequate true-H block account of RB2--RB10.
 C203 supplies the geometric part, so its proof is not recast as a new discovery.
 The new weighted conclusions below are direct finite-row, finite-matrix and nonnegative-sum calculations from these inputs.
@@ -301,7 +301,7 @@ The finite block system RB5--RB8 is an actual-H-sensitive constraint and an exac
 The obstruction identifies a necessary reciprocal asymmetry that every successful one-step witness must pay.
 It neither constructs such a witness nor controls how the full process moves between reflection blocks.
 
-The total mass mu=sum_D sigma, C828's positive-level derivative g'(R), and the positive linear complete-bridge K premise remain undecided by these identities.
+The total mass mu=sum_D sigma, C785's positive-level derivative g'(R), and the positive linear complete-bridge K premise remain undecided by these identities.
 A finite block can always be normalized locally, which supplies no normalization of the infinite union.
 Likewise infinitely many unit singular modes of one step do not classify recurrence or the mean.
 No larger graph, unseen return prefix, alternative stationary law or unrestricted G0001 conclusion is introduced.
@@ -324,7 +324,7 @@ No larger graph, unseen return prefix, alternative stationary law or unrestricte
 | statement | [Entire actual critical reflection statement](#statement) | RB1--RB10, actual original law/core/H/sigma, finite components and all pointwise function quantifiers, finite matrix/certificate and weighted one-step singular modes, with every stated limitation. |
 | argument | [Complete argument](#complete-argument) | Complete RB1--RB12 derivation, exact old/new scope, fixed kernel convention and core geometry, finite detailed balance/payment, arbitrary invariant-function obstruction, actual-H matrix energy and certificate, and global weighted operator/domain proof. |
 | dependency | [Existing raw reflection and paired cosets](Yin_C_G0203_v1.md#decision-isolated-quartic-certificate-review-20261023) | Adopted full-strip original kernel, raw edge reversal/reflection convention and finite paired integer-coset geometry. Raw counting-l2 norms and two-step loss are not imported as Q estimates. |
-| dependency | [Actual entire quartic core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed-quartic strict strip equals original accessible/coaccessible O-core through C399's complete narrow co-return premise; actual infinitude and all embedding conventions, without a new timing assertion. |
+| dependency | [Actual entire quartic core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed-quartic strict strip equals original accessible/coaccessible O-core through C396's complete narrow co-return premise; actual infinitude and all embedding conventions, without a new timing assertion. |
 | dependency | [True harmonic critical kernel](Yin_C_G0599_v1.md#decision-complete-isolated-whole-adoption) | Actual true R, positive H<=1, full H=R P_D H and stochastic Q with original p_e in either mean branch; no successful Lyapunov witness or stationary normalization. |
 | dependency | [Actual reciprocal occupation weights](Yin_C_G0563_v1.md#decision-complete-isolated-whole-adoption) | Actual sigma=H(H composed with J), positive finite state weights, J-invariance and extended total mu; canonical factors and occupation refer to the original whole law. |
 
@@ -341,7 +341,7 @@ No larger graph, unseen return prefix, alternative stationary law or unrestricte
 | statement | [Entire actual critical reflection statement](#statement) | RB1--RB10, actual original law/core/H/sigma, finite components and all pointwise function quantifiers, finite matrix/certificate and weighted one-step singular modes, with every stated limitation. |
 | argument | [Complete argument](#complete-argument) | Complete RB1--RB12 derivation, exact old/new scope, fixed kernel convention and core geometry, finite detailed balance/payment, arbitrary invariant-function obstruction, actual-H matrix energy and certificate, and global weighted operator/domain proof. |
 | dependency | [Existing raw reflection and paired cosets](Yin_C_G0203_v1.md#decision-isolated-quartic-certificate-review-20261023) | Adopted full-strip original kernel, raw edge reversal/reflection convention and finite paired integer-coset geometry. Raw counting-l2 norms and two-step loss are not imported as Q estimates. |
-| dependency | [Actual entire quartic core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed-quartic strict strip equals original accessible/coaccessible O-core through C399's complete narrow co-return premise; actual infinitude and all embedding conventions, without a new timing assertion. |
+| dependency | [Actual entire quartic core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed-quartic strict strip equals original accessible/coaccessible O-core through C396's complete narrow co-return premise; actual infinitude and all embedding conventions, without a new timing assertion. |
 | dependency | [True harmonic critical kernel](Yin_C_G0599_v1.md#decision-complete-isolated-whole-adoption) | Actual true R, positive H<=1, full H=R P_D H and stochastic Q with original p_e in either mean branch; no successful Lyapunov witness or stationary normalization. |
 | dependency | [Actual reciprocal occupation weights](Yin_C_G0563_v1.md#decision-complete-isolated-whole-adoption) | Actual sigma=H(H composed with J), positive finite state weights, J-invariance and extended total mu; canonical factors and occupation refer to the original whole law. |
 | review | [Whole independent critical-reflection finding](../audits/reviews/Yin_R_G1025_v1.md#whole-critical-reflection-finding) | Complete fixed RB1--RB12 statement and argument, all four dependency interfaces, finite/killed function quantifiers and infinite-mass operator domains; independent analytic review without new native execution or formal verification. |

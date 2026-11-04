@@ -5,7 +5,7 @@ author: Yin
 # Complete one-negative-line binary criterion, rank-three classification and all companion costs
 
 This actual one-negative-line/rank3 object retains ALL THREE complete [L312](../ledger/Yin_L_G0312_v1.md), [L314](../ledger/Yin_L_G0314_v1.md) and [L317](../ledger/Yin_L_G0317_v1.md) mathematical arguments, including the real corrected block-scope and every full proper/relaxed expense.
-Original whole review findings and actual input/independence/author/source histories remain at R141/R213/R216.
+Original whole review findings and actual input/independence/author/source histories remain at R141/R143/R789.
 
 <a id="statement"></a>
 ## Complete statement
@@ -19,7 +19,7 @@ The zero triple is positive identity with alternating kernel rank3 and no negati
 The primitive generator has norm-1 IFF after diagonal sign congruence V=V(4X,4Y,4Z), where X,Y,Z are the positive integer solutions
     X²+Y²+Z²+1=4XYZ.
 ALL such solutions are precisely the permutations/Vieta orbit of(1,1,1), Z->4XY-Z, and are odd/primitive.
-The complete unrestricted positive-integer proof also establishes that X²+Y²+Z²+1=gXYZ can hold only for g4.
+The complete unrestricted positive-integer proof also establishes that X²+Y²+Z²+1=gXYZ can hold only for g=4.
 Every resulting proper matrix has FULL F=(t+1)Q_-,Q_-=t²+18t+1.
 A scalar equality alone is not substituted for the primitive-kernel norm hypothesis.
 
@@ -63,7 +63,7 @@ Exactly one neutral degree is attained, and Phi2 is the only degree-one neutral 
 Its roots are -9±4sqrt5 and ell18=log(9+4sqrt5)>0.
 The exact ordered block class [[I_r,C],[0,I_s]] with any integral rectangular C has reciprocal traces sigma_j²-2>=-2, so Q_- cannot occur there at any rank or with neutral padding.
 This is ONLY that ordered BLOCK class, not arbitrary bipartite support orderings.
-The original broader bipartite exclusion was WITHDRAWN by the actual2026-10-10T09:18 author scope repair and completely rechecked by original R2112026-10-10T09:21 independent finding.
+The original broader bipartite exclusion was WITHDRAWN by the actual 2026-10-10T09:18 author scope repair and completely rechecked by original [R141 corrected-whole finding](../audits/reviews/Yin_R_G0141_v1.md#negative-line-complete-independent-review) at 2026-10-10T09:21.
 The changed/unchanged proof interfaces and whole original objection remain.
 
 For the classified family set Pprod=XYZ>=1.
@@ -873,8 +873,8 @@ No mathematical proof gap or unresolved source-attribution identification remain
 | dependency | [Full-entry relaxed sheet proof](Yin_C_G0456_v1.md#relaxed-bilinear-complete-absolute-cost) | Every ordered entry including diagonal/lower blocks, complete transpose/sheet splitting; no proper normalization. |
 | support | [Actual positive-half and block determinant boundary](Yin_C_G0579_v1.md#statement) | Only positive integral-half obstruction and full actual ordered rectangular block singular-value factors; arbitrary bipartite support excluded from its claim. |
 | support | [Original complete L312](../ledger/Yin_L_G0312_v1.md#complete-retained-proof-and-review) | Whole rank3 classification/split/realization/optimum and actual2026-10-10T09:18 block-scope repair, corrected whole R141 input. |
-| support | [Original complete L314](../ledger/Yin_L_G0314_v1.md#complete-retained-proof-and-review) | Whole intrinsic parity/odd same-scalar/relaxed full-cost proof and original R213 input. |
-| support | [Original complete L317](../ledger/Yin_L_G0317_v1.md#complete-retained-proof-and-review) | Whole discriminant5/actual bilinear orientation/iff/full-cost proof and all Dum21 method/source-error boundaries, original R216 input. |
+| support | [Original complete L314](../ledger/Yin_L_G0314_v1.md#complete-retained-proof-and-review) | Whole intrinsic parity/odd same-scalar/relaxed full-cost proof and original R143 input. |
+| support | [Original complete L317](../ledger/Yin_L_G0317_v1.md#complete-retained-proof-and-review) | Whole discriminant5/actual bilinear orientation/iff/full-cost proof and all Dum21 method/source-error boundaries, original R789 original-g0216/even-binary finding input. |
 | support | [Original corrected independent scope](../audits/reviews/Yin_R_G0141_v1.md#negative-line-complete-independent-review) | Exact original whole corrected L312 and its actual affected repair/interfaces, with all old5bindings and known independent relationship preserved; not a backdated finding on this new physical C. |
 
 ### Decision complete-current-whole-self-adoption
@@ -893,8 +893,8 @@ No mathematical proof gap or unresolved source-attribution identification remain
 | dependency | [Full-entry relaxed sheet proof](Yin_C_G0456_v1.md#relaxed-bilinear-complete-absolute-cost) | Every ordered entry including diagonal/lower blocks, complete transpose/sheet splitting; no proper normalization. |
 | support | [Actual positive-half and block determinant boundary](Yin_C_G0579_v1.md#statement) | Only positive integral-half obstruction and full actual ordered rectangular block singular-value factors; arbitrary bipartite support excluded from its claim. |
 | support | [Original complete L312](../ledger/Yin_L_G0312_v1.md#complete-retained-proof-and-review) | Whole rank3 classification/split/realization/optimum and actual2026-10-10T09:18 block-scope repair, corrected whole R141 input. |
-| support | [Original complete L314](../ledger/Yin_L_G0314_v1.md#complete-retained-proof-and-review) | Whole intrinsic parity/odd same-scalar/relaxed full-cost proof and original R213 input. |
-| support | [Original complete L317](../ledger/Yin_L_G0317_v1.md#complete-retained-proof-and-review) | Whole discriminant5/actual bilinear orientation/iff/full-cost proof and all Dum21 method/source-error boundaries, original R216 input. |
+| support | [Original complete L314](../ledger/Yin_L_G0314_v1.md#complete-retained-proof-and-review) | Whole intrinsic parity/odd same-scalar/relaxed full-cost proof and original R143 input. |
+| support | [Original complete L317](../ledger/Yin_L_G0317_v1.md#complete-retained-proof-and-review) | Whole discriminant5/actual bilinear orientation/iff/full-cost proof and all Dum21 method/source-error boundaries, original R789 original-g0216/even-binary finding input. |
 | support | [Original corrected independent scope](../audits/reviews/Yin_R_G0141_v1.md#negative-line-complete-independent-review) | Exact original whole corrected L312 and its actual affected repair/interfaces, with all old5bindings and known independent relationship preserved; not a backdated finding on this new physical C. |
 | review | [Actual whole current SELF](../audits/reviews/Yin_R_G0766_v1.md#whole-negative-line-binary-self) | Entire current Statement and all three complete arguments with every all-basis/primitive/parity/orientation/full-cost/source domain; SELF only, no new isolated arrangement or backfilled historical review. |
 
@@ -915,8 +915,8 @@ No mathematical proof gap or unresolved source-attribution identification remain
 | dependency | [Exact retained input](Yin_C_G0456_v1.md#relaxed-bilinear-complete-absolute-cost) | Every ordered entry including diagonal/lower blocks, complete transpose/sheet splitting; no proper normalization. |
 | support | [Exact retained input](Yin_C_G0579_v1.md#statement) | Only positive integral-half obstruction and full actual ordered rectangular block singular-value factors; arbitrary bipartite support excluded from its claim. |
 | support | [Exact retained input](../ledger/Yin_L_G0312_v1.md#complete-retained-proof-and-review) | Whole rank3 classification/split/realization/optimum and actual2026-10-10T09:18 block-scope repair, corrected whole R141 input. |
-| support | [Exact retained input](../ledger/Yin_L_G0314_v1.md#complete-retained-proof-and-review) | Whole intrinsic parity/odd same-scalar/relaxed full-cost proof and original R213 input. |
-| support | [Exact retained input](../ledger/Yin_L_G0317_v1.md#complete-retained-proof-and-review) | Whole discriminant5/actual bilinear orientation/iff/full-cost proof and all Dum21 method/source-error boundaries, original R216 input. |
+| support | [Exact retained input](../ledger/Yin_L_G0314_v1.md#complete-retained-proof-and-review) | Whole intrinsic parity/odd same-scalar/relaxed full-cost proof and original R143 input. |
+| support | [Exact retained input](../ledger/Yin_L_G0317_v1.md#complete-retained-proof-and-review) | Whole discriminant5/actual bilinear orientation/iff/full-cost proof and all Dum21 method/source-error boundaries, original R789 original-g0216/even-binary finding input. |
 | support | [Exact retained input](../audits/reviews/Yin_R_G0141_v1.md#negative-line-complete-independent-review) | Exact original whole corrected L312 and its actual affected repair/interfaces, with all old5bindings and known independent relationship preserved; not a backdated finding on this new physical C. |
 | review | [Actual complete isolated finding](../audits/reviews/Yin_R_G0789_v1.md#whole-negative-line-binary-independent-finding) | Entire current mathematical Statement and complete selected Argument, every actual parameter, domain, cost, negative boundary and necessary interface; whole independent inspection first completed 2026-10-22T21:22, before original findings and correction history were compared. |
 

@@ -8,13 +8,13 @@ Human author Yin.
 The agent primitive_second_eight developed the actual canonical-quarter variation, nonsquare quotient cancellation, automatic low divisibility and remaining exact derivative test.
 Root identified the question of earlier-four invariance and read the formed EF/AL argument before fixation.
 Both are substantive contributors, not independent reviewers.
-C736's square-input variation suggested the method, but its global square hypothesis and conclusion are not applied to this primitive source.
+C702's square-input variation suggested the method, but its global square hypothesis and conclusion are not applied to this primitive source.
 This complete candidate is initially OPEN for independent whole review and separate adoption.
 No native computation, new external source or dyadic replacement is used.
 
 ## Statement
 
-Keep ANY complete actual C809 source and EVERY original s>=s_min, its full copied height-one target, every original factor and exponent, and its OWN canonical a,b,c,F,G,X_sigma with integer prime divisions before reduction.
+Keep ANY complete actual C767 source and EVERY original s>=s_min, its full copied height-one target, every original factor and exponent, and its OWN canonical a,b,c,F,G,X_sigma with integer prime divisions before reduction.
 Write A=2m, Phi=X^2+X+1 over Z, phi=Phibar, U=H_0phi^(7A) and d_out=degT.
 Normalize P_X=X and use the SAME actual decomposition
 
@@ -77,7 +77,7 @@ The value of ST1 on actual primitive seeds, changes under earlier2K/4W coupled m
 
 This is new author work by primitive_second_eight after the fixed C781 boundary, not part of C781's fixed proof or independent review.
 The question is whether a4V change of an ACTUAL primitive F8/selected-X4 input can alter the low part of its true selected quarter.
-The C736 EB2 mechanism is checked below at the primitive nonsquare reference, without importing its global square hypotheses.
+The C702 EB2 mechanism is checked below at the primitive nonsquare reference, without importing its global square hypotheses.
 
 Keep the same actual seed, H,K,W and canonical quotients as C781, and write
 
@@ -111,7 +111,7 @@ Because alpha^2v^2=0, the indicated canonical remainder below is even, and its l
                              in F_2[X]/phi^(7A).     (EF1)
 
 Replacing the divisor T' by T in this HALF changes its coefficients by a multiple of2 after division, since the divisors differ by4V.
-This is the same true canonical-half mechanism as C736 EB10, now restricted to the actual primitive phi component.
+This is the same true canonical-half mechanism as C702 EB10, now restricted to the actual primitive phi component.
 
 Modulo4 the full integer identity Phi(C_2)^r=Phi^(2r) holds because r is even.
 Also a^2=Phi^(4A)K^4 modulo4 in the local algebra, by C781 PQ5.
@@ -176,7 +176,7 @@ The exact actual low quarter still needs evaluation, and an earlier2K change may
 
 This is new author work by primitive_second_eight, using the complete C781 PQ formula and general reference-half lemma at their actual primitive scope.
 No square-source or higher Frobenius theorem is applied.
-In fact this part only requires an ACTUAL primitive C809 target whose selected X_sigma is globally0 modulo4; C778's first8 hypothesis is unnecessary for the first divisibility conclusion.
+In fact this part only requires an ACTUAL primitive C767 target whose selected X_sigma is globally0 modulo4; C778's first8 hypothesis is unnecessary for the first divisibility conclusion.
 Use its genuine H,K,W decomposition and all actual PQ1--PQ2 auxiliaries.
 The same proof of PQ3 applies because A is divisible by4 and the genuine selected quarter exists.
 

@@ -6,7 +6,7 @@ author: Yin
 Date: 2026-10-15.
 Human author Yin.
 The g_bridge_audit AI authors this new bounded leap after the complete C124 terminal-support proof was fixed.
-At allocation C124 was under review; it has since been adopted with whole independent R479.
+At allocation C124 was under review; it has since been adopted with the whole self-reviewed R352 finding.
 Root supplied the unrestricted target and the optional intersecting-family source lead, not a proof step for the layer argument below.
 
 <a id="general-capture-responsible-question"></a>
@@ -26,7 +26,7 @@ Neither a diverging pair-energy ratio nor a single finite failure of a sharper c
 
 ## Bounded reuse and limits
 
-Read C96's exact full-squarefree pair-energy counterfamily and its missing positive-triple premise; C99's full-squarefree-threshold positive capture; C104's sharp product weak moment and paid finite envelopes; C105's exact full-ideal extremal reduction and proper-divisor witness; C108 v2's nested near-Cauchy counterexamples and excluded-prime deficit; C115's simultaneous compression/rounding at near-global fractional extremality; and C124's complete terminal-support proof, now adopted after R479.
+Read C96's exact full-squarefree pair-energy counterfamily and its missing positive-triple premise; C99's full-squarefree-threshold positive capture; C104's sharp product weak moment and paid finite envelopes; C105's exact full-ideal extremal reduction and proper-divisor witness; C108 v2's nested near-Cauchy counterexamples and excluded-prime deficit; C115's simultaneous compression/rounding at near-global fractional extremality; and C124's complete terminal-support proof, now adopted after R352.
 None supplies an unrestricted bound, and the FALSE universal linear short-pair premise and strong-norm shortcuts remain excluded.
 
 This inquiry will test a concrete new mechanism or family while retaining phi capacity, original W, fixed-positive delta, linear X and a truly fixed enlarged window.

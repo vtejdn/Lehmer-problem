@@ -6,7 +6,7 @@ author: Yin
 
 The complete original mathematical argument is retained from [L423](../ledger/Yin_L_G0423_v1.md#odd-defect-reuse).
 Its original contributions, fixed inputs, useful failures, source inspection and native-execution limits are preserved.
-The [original review](../audits/reviews/Yin_R_G0435_v1.md#odd-component-whole-independent-finding) keeps its actual original L/J/source bindings, date, relationship declaration and checked scope; it is not retrospectively bound to this C.
+The [original review](../audits/reviews/Yin_R_G0435_v1.md#odd-component-whole-independent-finding) keeps its actual original L/J/source bindings and date, with its actual SELF core scope and the reviewer-contributed comparison covered separately by its SELF countercontrol; it is not retrospectively bound to this C.
 The current constructor has read the original proof and historical reviews; any current whole finding by this constructor is SELF.
 
 ## Statement
@@ -92,7 +92,7 @@ Neither actual all-late mass nor its uniform odd coefficient, actual mean classi
 
 Date: 2026-10-18T17:30.
 Human author Yin.
-Root asks for a probability-level reassessment of the L410 fixed-defect interface after the fixed-overlap disconnections and local graph exclusions.
+Root asks for a probability-level reassessment of the L409 fixed-defect interface after the fixed-overlap disconnections and local graph exclusions.
 The entropy_attainment_bridge agent proposes and authors the sign-odd restriction, its exact finite theorem and the original-law application below.
 Root's requested scope checks contribute no proof step.
 No new graph length, numerical experiment, component enumeration or source acquisition is used.
@@ -101,16 +101,16 @@ No new graph length, numerical experiment, component enumeration or source acqui
 <a id="odd-defect-reuse"></a>
 ## Reuse and the single selected question
 
-[L410](Yin_C_G0514_v2.md#bulk-component-defect) identifies the least defect for ALL real test functions by optimizing every component union, and its [clipped-midpoint argument](Yin_C_G0514_v2.md#bulk-one-defect-midpoint-capture) actually uses only globally sign-odd functions.
-[L418](Yin_C_G0540_v2.md#isolated-component-energy-defect) controls all persistent isolated components internally and bounds their total original mass by1/9 at b2.
-[L420](Yin_C_G0542_v2.md#branching-original-mass) gives5/13 for low-degree edge mass and8/13 for high-high edges; neither set is automatically a complete component.
-[L422](Yin_C_G0550_v1.md#branching-core-original-costs) and L423's small-component exclusion do not supply a component-mass tail or sign invariance.
-[L412](Yin_C_G0519_v1.md#seed-fixed-support-boundary) prices a fixed complete-fiber hub at order1/D_k and proves that its retained mass degenerates on the hypothetical null subsequence.
+[L409](Yin_C_G0514_v2.md#bulk-component-defect) identifies the least defect for ALL real test functions by optimizing every component union, and its [clipped-midpoint argument](Yin_C_G0514_v2.md#bulk-one-defect-midpoint-capture) actually uses only globally sign-odd functions.
+[L417](Yin_C_G0540_v2.md#isolated-component-energy-defect) controls all persistent isolated components internally and bounds their total original mass by1/9 at b2.
+[L419](Yin_C_G0542_v2.md#branching-original-mass) gives5/13 for low-degree edge mass and8/13 for high-high edges; neither set is automatically a complete component.
+[L421](Yin_C_G0550_v1.md#branching-core-original-costs) and L422's small-component exclusion do not supply a component-mass tail or sign invariance.
+[L411](Yin_C_G0519_v1.md#seed-fixed-support-boundary) prices a fixed complete-fiber hub at order1/D_k and proves that its retained mass degenerates on the hypothetical null subsequence.
 [L329](Yin_C_G0204_v1.md#null-branch-original-bridge-escape) distinguishes that subsequence from an all-time assertion.
 The earlier C68/C81 component-mean obstructions concern a different short-block operator and supply no uniform component-mean control for C170.
 
 The selected new question is whether the actual original law puts uniformly positive mass in sign-invariant COMPLETE components on which the ODD part has a uniform energy coefficient.
-The odd fixed-defect INEQUALITY uses a weaker test class than L410's all-function inequality.
+The odd fixed-defect INEQUALITY uses a weaker test class than L409's all-function inequality.
 The particular structural sufficient condition selected here separately asks for a zero-defect odd energy coefficient on selected self-sign components.
 It is NOT asserted to follow from an arbitrary all-function fixed-defect inequality, nor to be weaker than every possible mechanism proving that inequality.
 Its mass requirement is a positive fraction rather than a majority, once its stated component energy input is supplied.
@@ -204,7 +204,7 @@ The actual neutral midpoint is
     Z_n=-zeta^-n sum_(j<n)eta_j zeta^j.
 
 It obeys Z_n(S eta)=-Z_n(eta).
-For every real angle theta and R>0 the ACTUAL L410 test
+For every real angle theta and R>0 the ACTUAL L409 test
 
     f_(theta,R)(eta)=clip(Re(exp(-i theta)Z_n(eta))/R,-1,1)
 
@@ -247,7 +247,7 @@ No single neutral coordinate, pointwise angle or untruncated moment has replaced
 
 The algebraic midpoint Y_n has the two fixed real-place bounds |Y_(n,+)|<B_real=1/(beta-1), |Y_(n,-)|<S_real=beta/(beta-1).
 The actual rank-four Minkowski order therefore gives a FIXED finite set F_delta with those real bounds and neutral radius at most a_delta R_delta.
-The full original midpoint law is exactly the L329 law b_n, so(9) and the accepted L410/L329 finite-capture implication yield
+The full original midpoint law is exactly the L329 law b_n, so(9) and the accepted L409/L329 finite-capture implication yield
 
     mu<infinity, mu<=|F_delta|/eta_delta.              (10)
 
@@ -257,7 +257,7 @@ It does not give their values or an unconditional mean conclusion.
 
 For the digit-work slowdown K_n^cost=(1-1/(n+2))I+K_n/(n+2), every Dirichlet form is divided by n+2 and the same odd coefficient becomes(n+2)B.
 The factors cancel in(7).
-This is the identical accounting clock used by C170/L410, not a uniform cost-clock gap or a new sampler claim.
+This is the identical accounting clock used by C170/L409, not a uniform cost-clock gap or a new sampler claim.
 
 <a id="zero-component-complete-original-mass"></a>
 ## 4. What the original law actually supplies automatically
@@ -290,7 +290,7 @@ These paid selected-path bounds do not replace the COMPLETE mass(11) and do not 
 The L329 null-branch alternative supplies a common subsequence with D_n tending to infinity if the actual critical mean is infinite.
 Thus the automatically available lower bound1/D_n degenerates on that hypothetical subsequence; this does NOT prove s_n or q_(0,n) tends to zero.
 Finite mean gives D_n tending to mu and hence an eventual positive lower bound, but assuming that branch to supply(12) would be circular for proving finite mean.
-The fixed finite hub in L412 has exactly the same paid normalization obstruction, even though it uses every later endpoint representation.
+The fixed finite hub in L411 has exactly the same paid normalization obstruction, even though it uses every later endpoint representation.
 
 For the already verified J106 controls, n5,6,7 have one self-sign zero component and a pair of distinct sign-exchanged components of mass q each, where q=1/383,1/456,4/2195 respectively.
 Their two noncentral midpoint means are nonzero opposites, and the native complete component lists identify the exchange.
@@ -302,7 +302,7 @@ These are direct consequences of the already whole-reviewed finite lists, not ne
 ## 5. Precise unresolved interface
 
 The existing persistent isolated components are sign-exchanged pairs, so their nonzero invariant means create an odd defect contribution.
-For the all-minus isolated edge, L418's midpoint formula gives Y_+>B_real-beta^-2>0; global sign reversal gives the opposite nonzero midpoint, so such a component cannot be self-sign.
+For the all-minus isolated edge, L417's midpoint formula gives Y_+>B_real-beta^-2>0; global sign reversal gives the opposite nonzero midpoint, so such a component cannot be self-sign.
 Their total mass upper bound1/9 does not lower-bound s_n: other components could also be exchanged.
 Likewise the8/13 mass on H--H edges and the minimum-degree/cycle restrictions do not make their components self-sign.
 Counting larger components does not estimate their ORIGINAL probability or whether negation stays inside them.
@@ -318,13 +318,13 @@ No larger carry scan, new target, probability substitution or critical-mean assu
 
 | Input | Actual role |
 | --- | --- |
-| [L410 component defect](Yin_C_G0514_v2.md#bulk-component-defect), [R414](../audits/reviews/Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | All-function finite component comparison, actual odd clipped consumer and original all-late/energy/clock conventions; new odd minimum and selection rule proved here. |
+| [L409 component defect](Yin_C_G0514_v2.md#bulk-component-defect), [R414](../audits/reviews/Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | All-function finite component comparison, actual odd clipped consumer and original all-late/energy/clock conventions; new odd minimum and selection rule proved here. |
 | [C170 full law](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Complete original word fibers, reversible conditional expectations, true midpoint energy and digit-work clock; author contributed C170 and reuses its separate review. |
 | [L329 midpoint law](Yin_C_G0204_v1.md#complete-midpoint-tightness-test), [null subsequence](Yin_C_G0204_v1.md#null-branch-original-bridge-escape) | Original D_n and finite-capture/mean interface, with the precise all-late versus subsequence distinction. |
-| [L412 complete-fiber hub](Yin_C_G0519_v1.md#seed-fixed-support-boundary), [R416](../audits/reviews/Yin_R_G0416_v1.md#fixed-hub-whole-independent-finding) | Existing paid normalization and why a short/finite hub does not automatically supply uniform original mass. |
-| [L418 isolated components](Yin_C_G0540_v2.md#isolated-component-energy-defect) | Actual isolated product components and original mass upper bound, not a bound on all non-self-sign components. |
+| [L411 complete-fiber hub](Yin_C_G0519_v1.md#seed-fixed-support-boundary), [R416](../audits/reviews/Yin_R_G0416_v1.md#fixed-hub-whole-independent-finding) | Existing paid normalization and why a short/finite hub does not automatically supply uniform original mass. |
+| [L417 isolated components](Yin_C_G0540_v2.md#isolated-component-energy-defect) | Actual isolated product components and original mass upper bound, not a bound on all non-self-sign components. |
 | [J106 full finite controls](../computations/programs/Yin_J_G0106/readme.md#complete-six-case-results), [R412](../audits/reviews/Yin_R_G0412_v1.md#carry-j106-whole-independent-finding) | Complete n5--10 component masses, means and sign exchange reused only for those already verified inputs; no native rerun. |
-| [L420 full edge mass](Yin_C_G0542_v2.md#branching-original-mass), [L422 core](Yin_C_G0550_v1.md#branching-core-original-costs) | Local topology and original edge-mass boundaries, without component sign-invariance or concentration. |
+| [L419 full edge mass](Yin_C_G0542_v2.md#branching-original-mass), [L421 core](Yin_C_G0550_v1.md#branching-core-original-costs) | Local topology and original edge-mass boundaries, without component sign-invariance or concentration. |
 
 All new proof steps are by entropy_attainment_bridge; root supplied the question and review obligations only.
 During independent pre-review, loglog_cyclic_review identified an overbroad comparison between the selected structural sufficient condition and arbitrary all-function fixed-defect hypotheses.

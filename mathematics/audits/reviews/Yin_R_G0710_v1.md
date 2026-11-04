@@ -48,7 +48,7 @@ A finite-order expanding character would contradict the already proved dual neut
 For the information bound, every full successor has expanding coordinate bounded by B+2 and nonnegative cosine, so killing decreases the sum in the required direction.
 Every supported Q row makes Kf positive.
 The normalized positive row weights and log-sum inequality, followed by bounded stationary log-f cancellation, prove I(Q)>=-log kappa.
-Only the exact rooted C483 variational infimum gives the collision bound.
+Only the exact rooted C479 variational infimum gives the collision bound.
 Its quadratic beta-minus-one asymptotic and lack of improvement over the accepted symbolic linear-in-m bound remain explicit.
 
 All three J44 programs and all four native JSON accounts were read completely.

@@ -202,7 +202,7 @@ Neither amplitude sharpness nor any of these sufficient Fourier estimates proves
 
 The complete actual C637 positive-kernel and finite-projection theorem, adopted C633v2 amplitude bounds, C632 derivative identities and C565 original comparison and closed alias interfaces were read before the refinement.
 A focused local search found no previous uniform translated-circle or relative-derivative mean theorem at this scope.
-The finite mixed-norm calculation in C512v2 is related but is not a substitute for the present continuous translated-curve argument.
+The finite mixed-norm calculation in C508v2 is related but is not a substitute for the present continuous translated-curve argument.
 
 The bounded L2 integral triangle inequality is proved directly below from Fubini and Cauchy--Schwarz.
 For its classical attribution, the primary [Terence Tao, 245C Notes1: Interpolation of Lp spaces, 2009-03-30](https://terrytao.wordpress.com/2009/03/30/245c-notes-1-interpolation-of-lp-spaces/) was checked at Section4, the opening endpoint estimate in the proof of Lemma37.

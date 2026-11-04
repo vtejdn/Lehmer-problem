@@ -53,7 +53,7 @@ The original bound d_1<=14400Q^3+1206Q^2+884Q, exact source gap, fresh triple fa
 The actual K_odd is recomputed from the complete new support; no smaller lcm or old numerical witness is borrowed.
 
 The proof constructs an actual finite complete polynomial by explicit finite group and row choices, with every exponent and expense bounded, without numerically expanding its enormous coefficients.
-It provides a passing5A source input for C832's low-quarter attainability mechanism.
+It provides a passing5A source input for C789's low-quarter attainability mechanism.
 No arbitrary old source is claimed to pass5A, and no high square-image success, global selected-X8, compatible infinite lift, own-core precision inheritance, irreducible input, nearzero measure or unrestricted G0001 conclusion is asserted.
 
 ## Complete argument
@@ -247,7 +247,7 @@ The original C759 bound
     d_1<=14400Q^3+1206Q^2+884Q
 
 remains valid by FS7 and the same396Q/360Q increments.
-Its original N,n,g,s_min and full source costs are computed from this actual d_1 and K_odd, exactly as required by C759/C809.
+Its original N,n,g,s_min and full source costs are computed from this actual d_1 and K_odd, exactly as required by C759/C767.
 
 For EVERY original s>=s_min at this new witness, N=1+2B_step Delta_crit s is1 modulo40Q, so its full B_N row satisfies FS8.
 The other outer factor B_n^2 has derivative zero in characteristic2.
@@ -256,12 +256,12 @@ Therefore the final complete polynomial
     Y_out=Y_1 B_N^rho B_n^2
 
 satisfies X^(5A)|Y_out', with every original and added multiplicity retained.
-All C759/C809 source, reference, degree, gap and actual-period requirements are met at the original numerical bounds.
+All C759/C767 source, reference, degree, gap and actual-period requirements are met at the original numerical bounds.
 The primitive source remains nonsquare because psi_star still has exact multiplicity3; no increase in the maximal binary Frobenius exponent is involved.
 
 This proves existence of a NEW stronger original-budget source for every original Q>=2^82, and5A passage for every corresponding original s.
-Combining it with the fixed source-attainability theorem C832 would give unconditional actual primitive height-one F8/selected-X4 with its whole low quarter removed, at the original counts and7D budget.
-That assembled consequence still requires independent review of this new source theorem and its exact C832 interface.
+Combining it with the fixed source-attainability theorem C789 would give unconditional actual primitive height-one F8/selected-X4 with its whole low quarter removed, at the original counts and7D budget.
+That assembled consequence still requires independent review of this new source theorem and its exact C789 interface.
 No high square-image success or global selected-X8 is inferred.
 
 

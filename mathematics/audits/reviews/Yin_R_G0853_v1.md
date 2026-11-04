@@ -282,6 +282,6 @@ The new gcd/divisibility, actual-degree, finite-termination and four-root argume
 C634's uniform theorem, C636's module basis and C609's actual parity theorem are accepted only at their precise R840, R844 and R812 scopes.
 Their finite computations are not rerun, expanded or relabelled as proof of the new general statements.
 R849 stays attached to C643v1; the present finding is a new whole-v2 review, not a retroactive amendment of that evidence.
-C197/C199 original graph, valuation, scalar and complete-support inputs retain the existing Smy08/Bel17 source limits and all historical SELF/UNKNOWN boundaries, including the recorded unknown R635/R638 initial-context relationships.
+The C197/C199 ancestry retains the recorded Smy08/Bel17 source limits and R477's actual C197v3 finding and R489's separate C199v3/v4 findings, all at their original UNKNOWN initial-context scopes; the selected C199v5 original-domain input separately retains R492's own UNKNOWN scope without importing its later complement conclusions.
 No classical source was reacquired or completely re-audited, and no ancestor receives a new whole-proof verdict.
 No mathematical native experiment, formal proof assistant, originality claim, characteristic-zero construction or unrestricted Task completion is asserted.

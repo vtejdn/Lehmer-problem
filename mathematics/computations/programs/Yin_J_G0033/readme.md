@@ -5,6 +5,13 @@ author: Yin
 
 Context: [fixed quantitative argument](../../../claims/Yin_C_G0203_v1.md#quartic-two-step-certified-bound) develops a bounded quantitative pilot for the full original-law two-step strip kernel, using the finite block decomposition in [full-strip decomposition](../../../claims/Yin_C_G0203_v1.md#reciprocal-kernel-two-step-loss).
 
+## Native input availability
+
+The adopted138 positive integer vectors and actual lower-vector certificate are unavailable in this checkout and its selected local Git history.
+The fixed program reconstructs the phase matrices, but the documented NumPy discovery and the scalar Rayleigh quotient do not determine those selected native vectors.
+verify.py and the cross-J J34 verifier cannot currently check that complete selected certificate.
+Supply the minimum original matrix-to-vector and actual lower-witness payload at this group's tracked inputs/ and point both exact consumers there; do not describe a newly selected positive vector as the original evidence.
+
 ## Question and scope
 
 Cover every two-real phase for the quartic input by an exact finite arrangement and certify a rational upper bound on every integer matrix 16K^2.

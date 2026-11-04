@@ -292,7 +292,7 @@ The unproved unrestricted coverage would be a uniform delta in(9), not bounded o
 For a more precise necessary boundary, put D(u)=epsilon(u)+2u and u=(2d-1)m/d.
 If0<u<=h_0 and theta_d<1, L318 and(7) yield
 
-    [2exp(-2u)-1](../ledger/1-theta_d)
+    [2exp(-2u)-1](1-theta_d)
        <=(3theta_d+2/B)D(u)<=4D(u).                 (11)
 
 When additionally u<=log(4/3)/2, the bracket is at least1/2 and therefore

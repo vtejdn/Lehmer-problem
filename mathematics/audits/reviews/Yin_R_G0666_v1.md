@@ -30,7 +30,7 @@ Shared author/outcome context is SELF; original signed norms, common window and 
 | [Complete exact bundle applications and quantitative width costs](#current-constant-covariance-applications-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0454_v1.md#binomial-laurent-lift-and-parameter-change) | Complete actual affine-unit hypothesis, both signs/distinct exponents/norm/energy/width/variable-nontransfer proof. |
 | [Complete exact bundle applications and quantitative width costs](#current-constant-covariance-applications-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0407_v1.md#mixed-unit-costs-and-boundary) | Exact quotient profile/coefficient covariance/actual weights/denominator/residual distinctions only. |
 | [Complete exact bundle applications and quantitative width costs](#current-constant-covariance-applications-whole-finding) | [Exact fixed input](../../ledger/Yin_L_G0318_v1.md#weighted-integral-bundle-bound) | Prior exact complementary all-positive-m equation7 and method credit only, not its separate restricted discrepancy machinery or new inherited-isolation verdict. |
-| [Exact original constant-bundle author check and freeze](#original-constant-covariance-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0387_v1.md#constant-bundle-application-entire-author-freeze) | Exact full original Section6 author self-check and23:38 freeze for all Sections1–6/equations1–9. |
+| [Exact original constant-bundle author check and freeze](#original-constant-covariance-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0387_v1.md#constant-bundle-application-entire-author-freeze) | Exact full original Section6 author self-check and 2026-10-11T15:38 freeze for all Sections1–6/equations1–9. |
 
 <a id="current-constant-covariance-applications-whole-finding"></a>
 ## Complete exact bundle applications and quantitative width costs evidence
@@ -81,14 +81,14 @@ The exponents l,ak are distinct by the zero-unit/forbidden(2/3)^d constant cases
 For both epsilon signs, energies5,2 and signed lag products2epsilon,-epsilon cancel identically, with full absolute norms3^d and signed norms preserved by Norm(eta)=1.
 Applying the finite theorem to the actual minimal polynomial of eta gives n/d>=log3/(2m(eta))=a log3/(2m(alpha)).
 The actual a can vary or grow and is not discarded.
-Both signs are handled directly without doubling; the separately valid earlier epsilon-minus cyclic doubling and C394 qualitative argument are retained rather than corrected or used as a hidden premise.
+Both signs are handled directly without doubling; the separately valid earlier epsilon-minus cyclic doubling and C391 qualitative argument are retained rather than corrected or used as a hidden premise.
 For a>1 this is width in eta only; t^(1/a) supplies no rational Laurent original-alpha lift.
 Existence of the actual affine unit pair and hypothetical near-one sequence are not asserted.
 
 The entire original R213 whole finding, all original bindings and source/reuse distinctions were compared.
 Its initial assignment supplied the actual proposed conclusions/reuse distinction and the complete initial body included the explicit author mathematical self-check, so the old whole relationship is SELF under current rules.
-Earlier upstream R286/L384 review is not itself target contribution, and unrelated positive-log implementation is not a SELF reason.
-Original23:38 author freeze,23:40 review and23:45 retention on2026-10-11 remain distinct.
+Earlier upstream R210/L384 review is not itself target contribution, and unrelated positive-log implementation is not a SELF reason.
+Original 2026-10-11T15:38 author freeze,2026-10-11T15:40 review and 2026-10-11T15:45 retention on2026-10-11 remain distinct.
 Original R213 read complete L318/R217 including their separate projection/discrepancy/failed-filter context; that actual historical read is preserved without claiming a new whole audit of those older branches.
 The adequate ABR01 account retains original printed12–15/PDF20–23 selected statements/displayed proofs and rendered20/22/23, including the precise unreaudited earlier-book dependencies; this round reuses that account and the full local polynomial proof, without a fresh book PDF or source unit.
 Smy15-U001 is used only through the unchanged accepted C454 actual-order generator, retaining its selected proof-reading limits and no regulator/general-source audit.
@@ -97,7 +97,7 @@ The complete applications are valid at this exact scope, with no new uniform aux
 <a id="original-constant-covariance-author-check-finding"></a>
 ## Exact original constant-bundle author check and freeze evidence
 
-The exact original Section6 author mathematical check and23:38 freeze follow, without any new isolated review.
+The exact original Section6 author mathematical check and 2026-10-11T15:38 freeze follow, without any new isolated review.
 Root substantive scout/application contributions remain explicit; later review/retention clocks are not substituted.
 
 <a id="constant-bundle-application-entire-author-freeze"></a>
@@ -112,4 +112,4 @@ Root's scout contribution and the reused theorem/source boundaries are disclosed
 The author self-check covers the actual Laurent union normalization and signed norm factor, arbitrary real positive weights versus rational integer copies, all original embeddings and total measure, Poisson/reverse endpoints and padded degree, nonzero logarithms, q-unit integrality and exact norms, q versus actual energy, m=0/T=0 exclusion under positive surplus, primitive-content costs, full negative-norm multiplicities, the actual quartic's exact width/energy/resultants and strict constant comparison, and the eta-variable/a-factor/no-transfer boundary.
 No native mathematical program or scan occurred.
 Scoped material validation passed for this draft; it is a structural check, not proof evidence.
-The complete Sections1--6/equations(1)--(9) are frozen at2026-10-11T15:38 for a separately organized whole noncontributor review.
+The complete Sections1--6/equations(1)--(9) are frozen at 2026-10-11T15:38 for a separately organized whole noncontributor review.

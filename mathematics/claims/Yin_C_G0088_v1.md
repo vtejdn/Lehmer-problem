@@ -219,7 +219,7 @@ The recorded review description was `under review`.
 | dependency | [Pri11-U001](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | ONLY accepted compact real Lipschitz discrepancy statement through L168 at its actual powered degree and source-proof limits. |
 | dependency | [Smy08-U001](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Normalization/Kronecker conventions through L168; separately ONLY retained house subsection Dim19 v1 statement for the old radical-control irreducibility, not the new score criterion. |
 | support | [Original whole independent finding](../audits/reviews/Yin_R_G0317_v1.md#circular-link-whole-independent-finding) | ENTIRE actual final01:36:12 D44 and direct/source/control interfaces. Its reviewer now authors this wrapper, so no prospective actual extraction review or adoption is supplied. |
-| support | [C86 retained original ancestry](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R425; the new score argument fully supplies every needed finite step locally. |
+| support | [C86 retained original ancestry](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R316; the new score argument fully supplies every needed finite step locally. |
 | support | [J11 retained verification](../computations/programs/Yin_J_G0011/readme.md#exact-reductions-and-verification) | Existing exact base Lehmer prime3 factor/order evidence at its original independently verified scope; programs/full outputs remain solely in J and are not rerun. |
 
 
@@ -246,7 +246,7 @@ The recorded review description was `under review`.
 | dependency | [Pri11-U001](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | ONLY accepted compact real Lipschitz discrepancy statement through L168 at its actual powered degree and source-proof limits. |
 | dependency | [Smy08-U001](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Normalization/Kronecker conventions through L168; separately ONLY retained house subsection Dim19 v1 statement for the old radical-control irreducibility, not the new score criterion. |
 | support | [Original whole independent finding](../audits/reviews/Yin_R_G0317_v1.md#circular-link-whole-independent-finding) | ENTIRE actual final01:36:12 D44 and direct/source/control interfaces. Its reviewer now authors this wrapper, so no prospective actual extraction review or adoption is supplied. |
-| support | [C86 retained original ancestry](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R425; the new score argument fully supplies every needed finite step locally. |
+| support | [C86 retained original ancestry](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R316; the new score argument fully supplies every needed finite step locally. |
 | support | [J11 retained verification](../computations/programs/Yin_J_G0011/readme.md#exact-reductions-and-verification) | Existing exact base Lehmer prime3 factor/order evidence at its original independently verified scope; programs/full outputs remain solely in J and are not rerun. |
 | review | [Actual extraction finding](../audits/reviews/Yin_R_G0319_v1.md#c88-circular-link-actual-extraction-finding) | Entire actual C88 A--F and retained original, every direct/source/control/cost interface; separate root noncontributor. |
 
@@ -274,7 +274,7 @@ The recorded review description was `under review`.
 | dependency | [Dependency](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | ONLY accepted compact real Lipschitz discrepancy statement through L168 at its actual powered degree and source-proof limits. |
 | dependency | [Dependency](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Normalization/Kronecker conventions through L168; separately ONLY retained house subsection Dim19 v1 statement for the old radical-control irreducibility, not the new score criterion. |
 | support | [Support](../audits/reviews/Yin_R_G0317_v1.md#circular-link-whole-independent-finding) | ENTIRE actual final01:36:12 D44 and direct/source/control interfaces. Its reviewer now authors this wrapper, so no prospective actual extraction review or adoption is supplied. |
-| support | [Support](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R425; the new score argument fully supplies every needed finite step locally. |
+| support | [Support](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R316; the new score argument fully supplies every needed finite step locally. |
 | support | [Support](../computations/programs/Yin_J_G0011/readme.md#exact-reductions-and-verification) | Existing exact base Lehmer prime3 factor/order evidence at its original independently verified scope; programs/full outputs remain solely in J and are not rerun. |
 | review | [Review](../audits/reviews/Yin_R_G0319_v1.md#c88-circular-link-actual-extraction-finding) | Entire actual C88 A--F and retained original, every direct/source/control/cost interface; separate root noncontributor. |
 
@@ -302,7 +302,7 @@ The recorded review description was `under review`.
 | dependency | [Exact retained dependency](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | ONLY accepted compact real Lipschitz discrepancy statement through L168 at its actual powered degree and source-proof limits. |
 | dependency | [Exact retained dependency](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Normalization/Kronecker conventions through L168; separately ONLY retained house subsection Dim19 v1 statement for the old radical-control irreducibility, not the new score criterion. |
 | support | [Exact retained support](../audits/reviews/Yin_R_G0317_v1.md#circular-link-whole-independent-finding) | ENTIRE actual final01:36:12 D44 and direct/source/control interfaces. Its reviewer now authors this wrapper, so no prospective actual extraction review or adoption is supplied. |
-| support | [Exact retained support](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R425; the new score argument fully supplies every needed finite step locally. |
+| support | [Exact retained support](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R316; the new score argument fully supplies every needed finite step locally. |
 | support | [Exact retained support](../computations/programs/Yin_J_G0011/readme.md#exact-reductions-and-verification) | Existing exact base Lehmer prime3 factor/order evidence at its original independently verified scope; programs/full outputs remain solely in J and are not rerun. |
 | review | [Exact retained review](../audits/reviews/Yin_R_G0319_v1.md#c88-circular-link-actual-extraction-finding) | Entire actual C88 A--F and retained original, every direct/source/control/cost interface; separate root noncontributor. |
 
@@ -330,7 +330,7 @@ The recorded review description was `under review`.
 | dependency | [Exact retained dependency](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | ONLY accepted compact real Lipschitz discrepancy statement through L168 at its actual powered degree and source-proof limits. |
 | dependency | [Exact retained dependency](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Normalization/Kronecker conventions through L168; separately ONLY retained house subsection Dim19 v1 statement for the old radical-control irreducibility, not the new score criterion. |
 | support | [Exact retained support](../audits/reviews/Yin_R_G0317_v1.md#circular-link-whole-independent-finding) | ENTIRE actual final01:36:12 D44 and direct/source/control interfaces. Its reviewer now authors this wrapper, so no prospective actual extraction review or adoption is supplied. |
-| support | [Exact retained support](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R425; the new score argument fully supplies every needed finite step locally. |
+| support | [Exact retained support](Yin_C_G0086_v1.md#triple-anchored-residual-cover) | Credited SAME-PROOF D42 gap/residual antecedent, now adopted after R316; the new score argument fully supplies every needed finite step locally. |
 | support | [Exact retained support](../computations/programs/Yin_J_G0011/readme.md#exact-reductions-and-verification) | Existing exact base Lehmer prime3 factor/order evidence at its original independently verified scope; programs/full outputs remain solely in J and are not rerun. |
 | review | [Exact retained review](../audits/reviews/Yin_R_G0319_v1.md#c88-circular-link-actual-extraction-finding) | Entire actual C88 A--F and retained original, every direct/source/control/cost interface; separate root noncontributor. |
 
@@ -348,7 +348,7 @@ This new statement/extraction makes review-recovery a contributor to THIS artifa
 The root supplied no new proof or wrapper and may arrange that inspection.
 The original D44 remains unchanged and unretired.
 
-At this registration C86 actually selects its2026-10-13T01:39 organized-reviewed decision after separate R425 actual review.
+At this registration C86 actually selects its2026-10-13T01:39 organized-reviewed decision after separate R316 actual review.
 The historical C86-under-review observations in D44 and R317 remain true at their original reading times and are NOT silently rewritten.
 D44's complete finite score proof already avoids any reliance on prospective acceptance; the current C86 adoption introduces no new premise or changed result here.
 

@@ -10,8 +10,8 @@ The coordinator authored the new argument; the resultant_research AI reviewed it
 Earlier dependency contributions and the shared review context remain disclosed in the retained finding.
 
 <a id="radical-critical-fixed-scope"></a>
-The complete current formal home is [C493](../claims/Yin_C_G0493_v1.md#statement), whose2026-10-22T03:03 decision adopted [the new whole independent finding](../audits/reviews/Yin_R_G0716_v1.md#radical-core-attainment-whole-independent-finding).
-The [complete original R716 comparison](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves the2026-10-09T19:58 review of original D75/L206, all checked claims/source/controls/negative limits and its UNKNOWN initial arrangement, without backdating the new inspection.
+The complete current formal home is [C493](../claims/Yin_C_G0493_v1.md#statement), whose 2026-10-22T03:03 decision adopted [the new whole independent finding](../audits/reviews/Yin_R_G0716_v1.md#radical-core-attainment-whole-independent-finding).
+The [complete original R716 comparison](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves the 2026-10-09T19:58 review of original D75/L206, all checked claims/source/controls/negative limits and its UNKNOWN initial arrangement, without backdating the new inspection.
 The [original complete author SELF](../audits/reviews/Yin_R_G0105_v1.md#radical-critical-original-author-check-finding) retains its original day precision, contribution/check/dependency account and then-pending wording.
 The original fixed adoption and historical pending/active statements below supply no present research Task/E authority.
 
@@ -318,11 +318,11 @@ The unrestricted G0001 conclusion remains unresolved.
 
 
 
-The [complete original whole-review comparison](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves the actual03:58 review of this original fixed input and its UNKNOWN relationship, separately from the new independent inspection.
+The [complete original whole-review comparison](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves the actual 2026-10-09T19:58 review of this original fixed input and its UNKNOWN relationship, separately from the new independent inspection.
 
 ## Retention and review scope
 
-The [complete original review comparison](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves the2026-10-10T03:58 whole finding on the entire [retained argument](#retained-radical-critical-proof), including the actual core and kernel product, complete critical sums, both directions of attainment, all controls/source-use boundaries and its UNKNOWN relationship.
+The [complete original review comparison](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves the 2026-10-09T19:58 whole finding on the entire [retained argument](#retained-radical-critical-proof), including the actual core and kernel product, complete critical sums, both directions of attainment, all controls/source-use boundaries and its UNKNOWN relationship.
 The original review reused the earlier dependencies at their explicitly disclosed roles and did not recertify their unrelated proofs or computational records.
 
 The complete D75 author argument remains fixed here; the original review's necessary substance, actual date and UNKNOWN relationship remain at the complete comparison above.

@@ -228,7 +228,7 @@ In particular, M(P)<=2 implies c_P(theta)<=exp(-pi^2/8)<1/2, uniformly over all 
 The strict numerical comparison already follows from pi>3 and log2<1.
 This applies on the small-measure target interval without selecting a short polynomial multiple or estimating its coefficient norm.
 
-There is a direct consequence for the exact envelope in [C G0307](Yin_C_G0306_v1.md#optimizing-convolution-fourier-tests).
+There is a direct consequence for the exact envelope in [C306](Yin_C_G0306_v1.md#optimizing-convolution-fourier-tests).
 That record proves that k^2 g(c^k) is nonincreasing in the positive integer k whenever 0<c<=1/2.
 Taking the supremum in (8) over integral multipliers therefore shows, throughout the hyperbolic unit domain M(P)<=2,
 

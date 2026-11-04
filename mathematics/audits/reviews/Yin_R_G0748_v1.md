@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: digit-accessible sharp profiles and nonlinear full-tail bounds
 
 Recorded 2026-10-22T19:19 after the maintaining Yin agent read the actual published OPEN C561v1 and C562v1 complete Statements and entire Arguments.
-The same agent read the full L294/L298 originals, R193/R197 and J73 scope notes and necessary fixed C560/C537/C523/C423/C436 interfaces before checking.
+The same agent read the full L294/L298 originals, R193/R197 and J73 scope notes and necessary fixed C547/C529/C517/C419/C432 interfaces before checking.
 Both findings are SELF; prior proof and review context were available.
 No isolated arrangement, new research derivation, source PDF reading, acquisition or native execution is claimed.
 The original full J73 proof-certificate evidence is retained, rather than rerun or expanded.
@@ -33,7 +33,7 @@ Differences of two original ternary words lie in the integral kernel cube[-2,2]^
 Thus K_short gives exactly the same partition, while its smaller kernel increases the minimum real preimage norm.
 The implication direction is consequently from the quotient sharp profile to X.
 This uses no full-kernel nullity assumption.
-C560's one-relation and disjoint-support result applies to the smaller quotient at its actual integer/saturation hypotheses.
+C547's one-relation and disjoint-support result applies to the smaller quotient at its actual integer/saturation hypotheses.
 
 For quadratic length4 the exact relation is(br,ar+bs,r+as,s).
 The large-constant, large-linear and a=3 bounds exhaust all coefficients after the symmetric t-to-minus-t change.
@@ -47,8 +47,8 @@ The155 irreducible-polynomial box is not used as a general theorem premise.
 The q-residue decomposition uses disjoint original digits, factors all atoms/central masses and adds minimum preimage norms.
 Actual irreducibility of P implies irreducibility of R, not the converse.
 A nonzero-alpha prefix is invertible over the field/reals even for a nonunit.
-C537 then applies for d<=B<=2d only, with every positive completion, K_d/Delta, discriminant and prefix expense.
-The actual nontorsion family has no unit-circle conjugate, so C311's prior hyperbolic rate is not newly reproved as a neutral classification.
+C529 then applies for d<=B<=2d only, with every positive completion, K_d/Delta, discriminant and prefix expense.
+The actual nontorsion family has no unit-circle conjugate, so C310's prior hyperbolic rate is not newly reproved as a neutral classification.
 Finding: the entire C561 Statement and Argument are proved at their exact domains under current whole SELF.
 General higher-degree/long-window C1 remains open.
 
@@ -59,7 +59,7 @@ The conditional finite-word entropy identity includes zero marginal probabilitie
 The original one-digit cosh-squared generating function has Legendre cost I, including point-mass endpoints.
 J is increasing and strictly convex because its displayed derivative has positive derivative; Jensen and the minimum-real-preimage property give the absolute profile for singular Q as well.
 
-The exact C423/C436 relative estimate uses the SAME actual zero atom and covariance twice the original variance.
+The exact C419/C432 relative estimate uses the SAME actual zero atom and covariance twice the original variance.
 Its coefficient is1/2.
 The two increasing/decreasing branches meet uniquely below1, since J(v)-v/2 has derivative at least1/2 and its endpoint exceeds log2.
 Their full minimum is exactly Psi(r), with the stated strict bounds, positive derivative and limiting ratio kappa.
@@ -69,7 +69,7 @@ For arbitrary nonzero actual algebraic integers, every d consecutive full power 
 The complete quadratic completion retains matrix order and cancels the POSITIVE outside factor exactly.
 Enlarging only nonnegative sums and integrating all translated unit cubes pays the complete K_d sqrt(Delta_i).
 The zero atom supplies the matching lower bound; no maximizer or interchange of a supremum and a matrix limit is assumed.
-C523's actual determinant/discriminant estimate includes d=1/i=0 and all neutral/complex dimensions.
+C517's actual determinant/discriminant estimate includes d=1/i=0 and all neutral/complex dimensions.
 At FIXED input, i_B=o(B) removes only this explicit cost divided by B.
 It yields the stated liminf/limsup bracket and h=0 limit, not a full h>0 limit or equality to h.
 The near-zero ratio remains kappa<1.

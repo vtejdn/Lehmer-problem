@@ -15,21 +15,27 @@ Its earlier D48 review and C93 wrapper are separate objects, not premises or con
 
 The assignment, exact actual Claim and original freeze locators, contributors' roles and R328's original-whole scope were supplied.
 The reviewer first read C94's complete statement A--D and the complete original D49, reconstructed the finite witness and general row/tensor obligations, and then read C91's actual accepted statement and exact finite/conditional arguments, L17's divergence passage and R328.
-C91's selected acceptance and its actual R435 review scope were checked.
+C91's selected acceptance and its actual R325 review scope were checked.
 No original proof-generation dialogue, author repair or additional candidate derivation was supplied.
 The target's own author-check narrative and source-search account were encountered within the original proof.
 This was a separately organized actual extraction review, not blind review, formal verification or an external human referee report.
 
-[R328](Yin_R_G0328_v1.md#short-pair-whole-independent-finding) is reused only as independent evidence for the original 11:40 D49 and its stated source/applicability boundaries.
+[R328](Yin_R_G0328_v1.md#short-pair-whole-independent-finding) is reused only as checked evidence for the original 11:40 D49 and its stated source/applicability boundaries.
+Referenced finding relationship: self-reviewed.
 Its author subsequently contributed C94's wrapper, so it supplies no prospective actual-extraction verdict.
 The present reviewer independently checks the registered statement, complete preservation and each present invocation below.
 The statement/argument are accepted only at their finite lower-bound, row-obstruction and conditional-tensor scope; the averaged uniform-K problem remains open.
+
+The initial complete C94 original argument included the author checking narrative beyond the necessary derivation.
+The record also does not establish that a complete initial finding preceded its subsequent reuse of R328; no missing order is invented.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Actual C94 extraction finding](#c94-short-lcm-actual-extraction-finding) | independently reviewed |
+| [Actual C94 extraction finding](#c94-short-lcm-actual-extraction-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -149,7 +155,7 @@ No suitable infinite collection of disjoint strict witnesses, divergent product 
 
 ## Exact C91 interface, arithmetic limitations and statement D
 
-C91's selected decision is organized-reviewed at its stated PARTIAL/CONDITIONAL scope, with original R432 and actual R435 evidence.
+C91's selected decision is organized-reviewed at its stated PARTIAL/CONDITIONAL scope, with original R322 and actual R325 evidence.
 Its definition of M_N matches C94 exactly: real variables in [0,phi(a)], ordered pairs and diagonals, and division by positive total mass.
 The finite objective extends by zero continuously, since its numerator is at most the squared total mass.
 The endpoint argument and missing-divisor derivative argument yield an actual full INTEGER divisor-closed maximizer.

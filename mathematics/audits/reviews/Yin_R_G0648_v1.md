@@ -6,8 +6,8 @@ author: Yin
 
 Date: 2026-10-21T20:20.
 Human operator: Yin.
-For this04:20 check the agent read all339original L186 lines and the original R85 whole D53 notation/Sections1--5/equations(1)--(21) account as then available, together with the entire actual C444v1/C444v2 statements, arguments, decisions and remaining limits.
-It retained and checked the needed complete general involution, collision/rank/norm-grid/radius/max-atom/exhaustion, finite spectral/Doob/occupation and accepted Smyth interfaces at C214/C368/C282/C408/C422/C435/Smy08-U002.
+For this 2026-10-21T20:20 check the agent read all339original L186 lines and the original R85 whole D53 notation/Sections1--5/equations(1)--(21) account as then available, together with the entire actual C444v1/C444v2 statements, arguments, decisions and remaining limits.
+It retained and checked the needed complete general involution, collision/rank/norm-grid/radius/max-atom/exhaustion, finite spectral/Doob/occupation and accepted Smyth interfaces at C214/C365/C281/C405/C418/C431/Smy08-U002.
 It read the original L1 Section2 elementary near-one reduction and its exact source boundary.
 The current Claim retains that necessary reduction explicitly, including integer source polynomials, eventual primitive content, coefficient finiteness and degree tending to infinity.
 The v2 also names the existing actual collision-rate limit and repairs one relocated input sentence's grammar.
@@ -17,7 +17,7 @@ It authored the current Claim, inherited substantive target context and read old
 
 The original separate whole arrangement remains UNKNOWN.
 Its ordinary fixed L173 authorship is not new-target participation, while generic shared context/assigned focus does not establish actual initial D53 mathematics or isolation.
-That historical whole input and its L186 binding covered every general, finite-chain, short-state, Laurent and near-one scope; none of those scopes was omitted from this04:20 check.
+That historical whole input and its L186 binding covered every general, finite-chain, short-state, Laurent and near-one scope; none of those scopes was omitted from this 2026-10-21T20:20 check.
 The exact699-character listed author-check account is separately SELF with original2026-10-10day precision; no extra original whole author-review event is invented.
 No actual coordinator whole check is inferred from the original hypothetical contributor-aware-check sentence.
 The existing ESS accepted scope and Smyth survey-statement acceptance remain distinct from uninspected original source proofs.
@@ -58,14 +58,14 @@ No uniform positive lower bound on c or right-square bound at general x is assum
 
 The original fair-binary support bound applies to every algebraic-integer root configuration and uses full M(P).
 Its collision consequence p_n>=(4n)^-d M(P)^-(n-1), with each fixed degree/input, gives h2<=m on taking the actual rate limit.
-C408 supplies existence and actual-core radius exp(-h2).
+C405 supplies existence and actual-core radius exp(-h2).
 Symmetrizing finite prime sets preserves cofinality.
 Finite radii approach the actual radius from below, and exp(-m)>exp(-2m) for m>0.
 All sufficiently large symmetric approximants therefore satisfy the lower finite-radius threshold.
 There is no degree-varying convergence exchange or upper full-radius inference from one truncation.
 
-Under d>=12 and0<m<=log(4/3)/2, r_S>=exp(-2m)>=3/4 makes the core nontrivial and h_S<=2m, while C422 gives r_S<1.
-The finite Q normalization/occupation/Jensen argument of C435 is general; its separate old Salem comparison is replaced here by the just-proved general reversal.
+Under d>=12 and0<m<=log(4/3)/2, r_S>=exp(-2m)>=3/4 makes the core nontrivial and h_S<=2m, while C418 gives r_S<1.
+The finite Q normalization/occupation/Jensen argument of C431 is general; its separate old Salem comparison is replaced here by the just-proved general reversal.
 The exact original nontrivial first-return mass T_d and zero one-step mass give b=1-1/(2r_S)>=1/3.
 The retained d12 induction(13/3)d<=2^(d/2) and coefficient13/9 prove3T_d<=2^-d/2.
 Thus log(b/T_d)>=d log2/2>0, yielding exactly the zero bounds12m/(d log2) and auxiliary mean lower bound.

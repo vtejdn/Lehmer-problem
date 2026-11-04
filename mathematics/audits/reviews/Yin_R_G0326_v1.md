@@ -24,7 +24,7 @@ Thus this was a separately organized review, not a claim of blind review.
 After reading D48, the reviewer enumerated the obligations below and reconstructed the local mathematics before consulting separate R findings.
 The direct accepted inputs L229, C71, C74 and C84 were then read at their actual uses, including their adoption/role information.
 L229's preserved author account and reference to its earlier review were encountered in that direct-input read.
-After the initial local reconstruction, the reviewer consulted R128, R393, R399 and R420 for their exact accepted-input coverage and source-proof limits.
+After the initial local reconstruction, the reviewer consulted [R781 original joint-coefficient](Yin_R_G0781_v1.md#joint-coefficient-energy-complete-independent-review), [R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding), [R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) and [R794 v2 original C84 extraction](Yin_R_G0794_v2.md#c84-binary-height-actual-extraction-finding) for their exact accepted-input coverage and source-proof limits.
 Their conclusions were not substituted for checking D48.
 C87's retained golden-unit control and selected acceptance were also checked; the control is independently recomputed below.
 No earlier independent D48 finding was supplied or relied on.
@@ -33,11 +33,15 @@ The review applies to the actual preserved freeze identified above.
 Section 9's accounts of earlier saving, pause receipt and author checks remain attributed historical reports; this mathematical review does not independently authenticate earlier conversation timing.
 The author-complete freeze resolves the initial candidate's historical incomplete label, while this R supplies the first separately organized whole finding at the assigned scope.
 
+The initial entire C93 input included its Section 9 author verification checklist beyond the necessary derivation.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Entire seven-power finding](#seven-power-entire-independent-finding) | independently reviewed |
+| [Entire seven-power finding](#seven-power-entire-independent-finding) | self-reviewed |
 
 ## Review bindings
 

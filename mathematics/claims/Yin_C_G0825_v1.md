@@ -116,7 +116,7 @@ The complete classification is:
 | 189 | 179,307,691,819,1227,1355,1739,1867 | 21524 | 8748 | No |
 
 Integers in polynomial columns encode coefficient X^j by bit j.
-The source-mask column keeps C861/C818's original11-bit convention.
+The source-mask column keeps C815/C818's original11-bit convention.
 Put delta=(V-P^32)/2 over Z and beta_i=b_(R_i)bar/f^6.
 The ambient response is
 
@@ -417,7 +417,7 @@ The four distinct required values and their exact outcomes are:
 | 166 | 235,363,747,875,1171,1299,1683,1811 | 21505 | 26169 | Member; unresolved |
 | 189 | 179,307,691,819,1227,1355,1739,1867 | 21524 | 8748 | Nonmember; entire required fiber excluded |
 
-An integer in this table encodes coefficient X^i by bit i, with the original source-mask convention of C861/C818 retained.
+An integer in this table encodes coefficient X^i by bit i, with the original source-mask convention of C815/C818 retained.
 Every reference R_i has zero lowest second-half class modulo f^4 and the SAME response coefficients in R_4:
 
     deltabar=257=1+X^8,

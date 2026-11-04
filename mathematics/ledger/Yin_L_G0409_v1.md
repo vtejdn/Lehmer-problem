@@ -33,7 +33,7 @@ Root's all-angle clipping argument is checked below against the exact original f
 The other immediate structural test is whether normalized endpoint support embeds under zero padding, and whether that inclusion pays a useful amount of original conditional probability.
 Support connectivity alone must not be promoted to a weighted contraction.
 
-Read [C76](../claims/Yin_C_G0076_v1.md#statement), [C80](../claims/Yin_C_G0080_v1.md#statement), C170/R556, J106's full stated six-case scope and L329's exact eventual capture interface.
+Read [C76](../claims/Yin_C_G0076_v1.md#statement), [C80](../claims/Yin_C_G0080_v1.md#statement), C170/R803, J106's full stated six-case scope and L329's exact eventual capture interface.
 C80's infinite frozen family belongs to its six-digit operator and does not transfer to C170.
 Its tiny original masses and bounded padding limits remain relevant cautions.
 A bounded G-line search found earlier component-centered obstructions and paid zero padding, but no retained fixed-defect/all-angle criterion for this new weighted carry operator.

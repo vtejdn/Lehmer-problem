@@ -4,10 +4,11 @@ author: Yin
 # Independent whole review of arbitrary-height binary weighted delay rigidity
 
 Date: 2026-10-12T16:53.
-Human record author Yin. g0001_matrix_recovery separately WHOLE-reviews the new unequal-height argument authored solely by root in D40.
+Human record author Yin.
+g0001_matrix_recovery separately WHOLE-reviews the new unequal-height argument authored solely by root in D40.
 The reviewer supplied no second auxiliary, coefficient inequality, proof step or candidate to D40.
 Root is a contributor to the already adopted C71/C74 ancestors; their accepted interfaces are reused here, not independently re-certified by an authorship label.
-The reviewer previously independently reviewed the original C74 antecedent and authored C82's extraction wrapper after reading the separate unit-direction D37/R414.
+The reviewer previously independently reviewed the original C74 antecedent and authored C82's extraction wrapper after reading the separate unit-direction D37/R308.
 That history is disclosed; C82/D37 is comparison and motivation only, NOT an input used to prove D40's arbitrary-height conclusion.
 
 ## Actual scope, supplied context and method
@@ -17,7 +18,7 @@ The inspected saved body has24393 characters,231 lines and7 explicit anchors.
 Reviewed mathematics is identified by the canonical material and exact anchors below, not by a persistent mathematical digest.
 
 Root's review assignment and checklist were supplied together with the actual frozen proof.
-The reviewer had prior context from D37 and R414 while authoring C82, but no prior D40 independent finding was consulted.
+The reviewer had prior context from D37 and R308 while authoring C82, but no prior D40 independent finding was consulted.
 The complete D40 was read first, its obligations reconstructed by hand, then the actual L229 coefficient-energy theorem and domain, C71 selector, C74 numerical section and C10 direct covariance proof were reread.
 L380's stated metric-specific factor mechanism and C53's actual-order gate were also inspected as credited antecedents; D40 rederives the needed general weighted identities directly.
 This is not a blind review or a new independent audit of those accepted ancestors.

@@ -11,7 +11,7 @@ This is not a new Claim argument selected to establish a uniform bound.
 <a id="radial-profile-exploration-outcome"></a>
 The complete proved necessary estimate and its exact limitation now have a responsible home in [C468](../claims/Yin_C_G0468_v1.md#complete-full-signature-radial-price), with the actual [R676 whole SELF finding](../audits/reviews/Yin_R_G0676_v1.md#complete-radial-whole-self-finding).
 The original inquiry, initial delta_r candidate, pre-freeze r-versus-w correction, failed-discriminator comparison and explicit branch stop remain here as meaningful exploration; no research Task/E is resumed.
-Original13:07 freeze,13:09 R239 review and13:15 retention remain distinct; none is a new checking or source-reading time.
+Original 2026-10-12T05:07 freeze,2026-10-12T05:09 R239 review and 2026-10-12T05:15 retention remain distinct; none is a new checking or source-reading time.
 
 ## Reviewed exploration outcome
 
@@ -20,7 +20,7 @@ Stop constant tuning of that coarse majorant as a purported new discriminator.
 The smaller actual-radius estimate, finer radial distributions and different constructions are not refuted.
 No input-uniform upper choice, hypothetical near-one family or unrestricted Lehmer resolution is asserted.
 
-The separately organized noncontributor [whole finding](../audits/reviews/Yin_R_G0239_v1.md#full-signature-radial-whole-author-finding) covers the ENTIRE actual13:07 D5 freeze, including the original candidate, pre-freeze r-versus-w repair, full proof, source boundaries and precise failure.
+The separately organized noncontributor [whole finding](../audits/reviews/Yin_R_G0239_v1.md#full-signature-radial-whole-author-finding) covers the ENTIRE actual 2026-10-12T05:07 D5 freeze, including the original candidate, pre-freeze r-versus-w repair, full proof, source boundaries and precise failure.
 Its actual relationship is SELF because the original initial assignment supplied the target mathematical outcome about the dominated regime; the original complete mathematical finding and source limits remain unchanged.
 The present relocation retains the same complete argument and anchors; fixed retention and source attribution do not assert novelty.
 
@@ -231,5 +231,4 @@ The next author inquiry has changed to the explicit C37 damping mechanism in a d
 
 2026-10-12T05:15.
 The complete original author body is retained after only frontmatter removal, first-title depth and final-whitespace normalization.
-The responsible draft is retired only after exact preservation comparison, incoming-link repair and scoped checking.
 Root retains all unrelated research and native evidence.

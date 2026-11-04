@@ -32,7 +32,7 @@ Current proof checking, original author checking, original distinct implementati
 | [Complete finite arcsine integer-state finding](#current-finite-arcsine-whole-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0086/main.py) | Entire fixed original file, declared input/range/gates/guards/implementation/output behavior and all paid scope boundaries. |
 | [Complete finite arcsine integer-state finding](#current-finite-arcsine-whole-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0086/inputs.json) | Entire fixed original file, declared input/range/gates/guards/implementation/output behavior and all paid scope boundaries. |
 | [Complete finite arcsine integer-state finding](#current-finite-arcsine-whole-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0084/main.py) | Only actual original four CASES lists; no old Chebyshev output or broader original program audit. |
-| [Exact original finite arcsine author check](#original-finite-arcsine-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0379_v1.md#fast-positive-moment-entire-author-freeze) | Exact original complete Section7 check and actual22:44 author freeze, original then-pending review and source/native limits. |
+| [Exact original finite arcsine author check](#original-finite-arcsine-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0379_v1.md#fast-positive-moment-entire-author-freeze) | Exact original complete Section7 check and actual 2026-10-11T14:44 author freeze, original then-pending review and source/native limits. |
 | [Complete finite arcsine integer-state finding](#current-finite-arcsine-whole-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0086/readme.md#recorded-runs) | Complete original saved input, every retained mathematical value/counter/bit bound and metadata scope; new read-only reconstruction only within original finite domain. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0086/comparison.json`; this target locates that original run's computation account. |
 | [Complete finite arcsine integer-state finding](#current-finite-arcsine-whole-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0086/readme.md#recorded-runs) | Complete original saved input, every retained mathematical value/counter/bit bound and metadata scope; new read-only reconstruction only within original finite domain. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0086/lehmer1024.json`; this target locates that original run's computation account. |
 
@@ -70,7 +70,7 @@ The direct Fourier bound uses the nonnegative Z^n circle integral, not coefficie
 The historical worker mode's complete-input prerequisite is not itself another independent replay.
 J84 was consumed only at its actual four CASES lists; old Chebyshev outputs are not new positive-moment evidence.
 
-One original-domain read-only stdin reconstruction actually started at2026-10-21T19:59 and finished at2026-10-21T19:59, elapsed0.35078239999711514 seconds, exit0 under an explicit30-second loop/process bound.
+One original-domain read-only stdin reconstruction actually started at 2026-10-21T19:59 and finished at 2026-10-21T19:59, elapsed0.35078239999711514 seconds, exit0 under an explicit30-second loop/process bound.
 It reconstructed R by descending binomial Laurent-basis elimination and generated each annihilator through generic polynomial differentiation/multiplication.
 This separately written implementation was checked against direct original-Laurent products through64 and against every saved scalar/vector/counter value at its precise retained scope.
 Its actual method is disclosed as constructor SELF; it supplies no extra agent isolation.
@@ -90,11 +90,11 @@ Beyond64 this is a separately implemented recurrence verification of retained re
 Both original native files were read before/after and remain byte identical; their historical false flag for independent verification beyond64 remains the original author's run fact.
 No new hash is substituted for actual values.
 
-All of original R205 was then compared at its full17-binding scope: original formula/check obligations, both finite executions, source unit reading, exact original22:50:17.653407 checker event/0.25seconds and original22:53 review date remain distinct.
+All of original R205 was then compared at its full17-binding scope: original formula/check obligations, both finite executions, source unit reading, exact original 2026-10-11T14:50 checker event/0.25seconds and original 2026-10-11T14:53 review date remain distinct.
 The original review explicitly read the whole author account including its mathematical self-check before review; its actual relationship is SELF under the current isolation rule.
 Its separately written checker/direct algorithm facts remain valid and are not discarded or relabeled as no execution.
 This new run does not retroactively attest original machine timings, absence of external runs or source reading minutes.
-The original author22:44 freeze and22:56 ledger retention remain different events.
+The original author 2026-10-11T14:44 freeze and 2026-10-11T14:56 ledger retention remain different events.
 
 AZ90-U001 fully retains the original author/root selected pp1–4/p2 visual occurrence, metadata reconciliation and source-boundary limitations.
 Only that unit, not the external PDF, was read in this round and in original R205 at its stated depth.
@@ -106,7 +106,7 @@ No source acquisition, new input/depth, producer run, native edit, allowance or 
 ## Exact original finite arcsine author check evidence
 
 The following complete original author self-check and 2026-10-11T14:44 freeze is retained verbatim from L379.
-The22:56 ledger retention and22:53 review completion are not its reading or native execution minutes.
+The 2026-10-11T14:56 ledger retention and 2026-10-11T14:53 review completion are not its reading or native execution minutes.
 
 ## 7. Author self-check and readiness
 

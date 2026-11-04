@@ -8,7 +8,8 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: Registered supplied 434-page publisher-layout NS06.pdf; printed pages equal PDF pages minus 17. No source bytes or artifact facts changed.
+Source edition: Registered supplied 434-page publisher-layout NS06.pdf; printed pages equal PDF pages minus 17.
+No source bytes or artifact facts changed.
 
 Passages: Definitions 1.1/1.3/1.12,2.16,5.3,11.3,15.3; Theorem 11.12, Proposition 11.25, Proposition 12.11 and Theorems 14.18/14.20 at the exact locators retained below.
 
@@ -19,8 +20,9 @@ Inspection: Separate original readings: 2026-09-10 selected definitions with the
 ## Exact retained scope
 
 The complete selected definition account and finite matrix-model source adaptation below were retained at 2026-10-21T01:47 from L_F0091 and L_F0090.
-Existing NS06-U001 polar/product, U002 inverse-Cauchy and U003 semicircular-compression units were actually checked and do not contain these complete general definitions or finite rectangular circular-matrix reconstruction.
-They retain their separate actual source depths.
+The earlier NS06 polar/product, inverse-Cauchy and semicircular-compression accounts were checked at that retention stage.
+The current U001 owns the Haar-product/polar interface, and this U002 owns the selected general definitions and finite rectangular circular-matrix reconstruction.
+The former inverse-Cauchy and semicircular-compression labels do not identify extra current units or enlarge either present source scope.
 The matrix construction uses the stated established cumulant/compression interfaces, proves the consumed rates and joint freeness directly, and is not a new project theorem about general rational operators.
 This retention performs no new source opening, computation, formal review or acquisition.
 

@@ -37,14 +37,14 @@ No target, C/T/E/S, shared index, old review, adoption or commit was changed.
 | [Whole finding](#whole-balanced-forward-mod-four-finding) | [C669 actual local statement](../../claims/Yin_C_G0669_v1.md#statement) | Only the factorized-base phi root/error/square-image/sign interfaces at their checked local hypotheses; its stronger off-phi conclusion is replaced by C676's new proof. |
 | [Whole finding](#whole-balanced-forward-mod-four-finding) | [C669 actual argument](../../claims/Yin_C_G0669_v1.md#argument) | MT1--MT5, actual monic divisor, ann(2), the precise additive half, first residual, C5 cube, changing-divisor contribution and full local iff. |
 | [Whole finding](#whole-balanced-forward-mod-four-finding) | [C669 adopted decision](../../claims/Yin_C_G0669_v1.md#decision-whole-reviewed-2026-10-24) | Exact already accepted calculation, with its historical source and actual-integer limitations. |
-| [Whole finding](#whole-balanced-forward-mod-four-finding) | [Own prior C699 finding](Yin_R_G0889_v1.md#whole-same-coefficient-mod-four-finding) | Unchanged previously inspected local mechanism and source boundaries only; no prospective coverage of weakened forward assumptions. |
+| [Whole finding](#whole-balanced-forward-mod-four-finding) | [Own prior C669 finding](Yin_R_G0889_v1.md#whole-same-coefficient-mod-four-finding) | Unchanged previously inspected local mechanism and source boundaries only; no prospective coverage of weakened forward assumptions. |
 | [Whole finding](#whole-balanced-forward-mod-four-finding) | [C672 square-input statement](../../claims/Yin_C_G0672_v1.md#statement) | Exact integer square, square half-remainder, low coefficient condition and counts, with all hypotheses rechecked for the new local use. |
-| [Whole finding](#whole-balanced-forward-mod-four-finding) | [C672 square-input proof](../../claims/Yin_C_G0672_v1.md#argument) | Sections2--4 integer half-remainder, complete derivative, coefficient independence and bounded construction; its C697/C698 application families are not premises for the C676 application. |
+| [Whole finding](#whole-balanced-forward-mod-four-finding) | [C672 square-input proof](../../claims/Yin_C_G0672_v1.md#argument) | Sections2--4 integer half-remainder, complete derivative, coefficient independence and bounded construction; its C667/C668 application families are not premises for the C676 application. |
 | [Whole finding](#whole-balanced-forward-mod-four-finding) | [C672 actual adoption](../../claims/Yin_C_G0672_v1.md#decision-whole-reviewed-2026-10-24) | Adopted square-input interface dated2026-10-24T02:45; no automatic extension of its original strong forward conditions. |
 | [Whole finding](#whole-balanced-forward-mod-four-finding) | [C674 full application input](../../claims/Yin_C_G0674_v1.md#partial-h-completion-statement) | Exact H/target/complete-product construction, all global canonical/root/gate/q/odd-part/layer/Haar properties, paid degree bounds and order31 obstruction. |
 | [Whole finding](#whole-balanced-forward-mod-four-finding) | [C674 construction proof](../../claims/Yin_C_G0674_v1.md#partial-h-completion-argument) | Actual smooth and nonsmooth orders, complete row/fresh factors and costs; the enlarged E_pad is separately checked in this new review. |
 | [Whole finding](#whole-balanced-forward-mod-four-finding) | [C674 actual adoption](../../claims/Yin_C_G0674_v1.md#decision-whole-reviewed-2026-10-24) | Selected adoption dated2026-10-24T02:54 uses only corrected R895v2 and preserves all earlier source/native and realization boundaries. |
-| [Whole finding](#whole-balanced-forward-mod-four-finding) | [Own corrected C704 finding](Yin_R_G0895_v2.md#whole-partial-h-canonical-haar-v2-finding) | Exact unchanged PH1--PH11/PC1--PC9 input and inherited source boundaries; empty M has C_comp=J and Y_seed=1, not necessarily C_comp=1. |
+| [Whole finding](#whole-balanced-forward-mod-four-finding) | [Own corrected C674 finding](Yin_R_G0895_v2.md#whole-partial-h-canonical-haar-v2-finding) | Exact unchanged PH1--PH11/PC1--PC9 input and inherited source boundaries; empty M has C_comp=J and Y_seed=1, not necessarily C_comp=1. |
 
 <a id="whole-balanced-forward-mod-four-finding"></a>
 ## Whole finding
@@ -251,12 +251,12 @@ Thus the new modulo4 solutions are consistent with the retained strong-C3 obstru
 
 The new argument consists of the integer expansions and effective multiplicity calculations retained above.
 The only adopted project inputs used are the explicitly bound C669 local calculation, C672 square-base mechanism and C674 construction.
-C672's separate C698 applications are not needed for this proof and were not promoted into a new application premise.
-C674's C700 facts, native provenance and classical integer trace/Haar source chain remain at the scope of the corrected prior review.
+C672's separate C668 applications are not needed for this proof and were not promoted into a new application premise.
+C674's C670 exact f31 facts, native provenance and classical integer trace/Haar source chain remain at the scope of the corrected prior review.
 No native certificate was rerun or newly reviewed, and no external paper or book proof was inspected in this round.
 All historical SELF/UNKNOWN relationships, actual source-inspection limits and earlier mathematical boundaries remain unchanged.
 
-Actual work consisted of direct fixed-file Get-Content/rg inspection, the symbolic reconstruction above, public material.py creation, full R readback and a scoped material.py check.
+The symbolic reconstruction above was checked against the fixed inputs.
 The structural check concerns the record and its explicit declarations, not mathematical correctness.
 The new positive result is actual simultaneous same-T coefficientwise modulo4 solvability in the stated family.
 It provides no q1 application, residual solution modulo8, characteristic-zero residual equations, irreducibility, total reality, original nonzero field values, G_int=G_can or original A_0=24 realization.

@@ -67,8 +67,8 @@ No normal-closure degree is inserted into its total measure.
 
 The [all-signature unit source](../audits/literature/Con26/Yin_U002.md#con26-u002) has its actual retained edition, inspected lattice proof and classical-foundation limits.
 Only its rank and finite-kernel consequence is used here; no effective heights, generators or regulator bounds are assumed.
-The actual dyadic field noncontainment is independently accepted in [C183](Yin_C_G0183_v1.md#decision-whole-reviewed-2026-10-20) through [R455](../audits/reviews/Yin_R_G0455_v1.md#dyadic-fixed-radical-noncontainment-whole-finding).
-The automatic original-measure theorem is independently accepted in [C181](Yin_C_G0181_v1.md#decision-whole-reviewed-2026-10-20) through its whole R600 and actual source-declaration readback.
+The actual dyadic field noncontainment is accepted in [C183](Yin_C_G0183_v1.md#decision-whole-reviewed-2026-10-20) through [R455](../audits/reviews/Yin_R_G0455_v1.md#dyadic-fixed-radical-noncontainment-whole-finding) at its explicitly unknown relationship.
+The automatic original-measure theorem is accepted in [C181](Yin_C_G0181_v1.md#decision-whole-reviewed-2026-10-20) through its whole R454 and actual source-declaration readback, both with explicitly unknown relationships.
 These accepted results are reused, not independently re-reviewed by their contributing author.
 
 For each fixed K,Gamma this result provides original nontorsion units outside that fixed radical field, not merely a larger field containing possibly no new units.

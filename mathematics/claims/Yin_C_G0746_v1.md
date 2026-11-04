@@ -12,7 +12,7 @@ Earlier_bit_obstruction read the exact C683/C686, C695/C699 and C725/C730 intege
 Both are contributors, not independent reviewers.
 The [D5 development](../drafts/Yin_D_G0005.md#general-source-power-replay-candidate) is provenance only; the entire actual source proof is included here and has no mutable-D dependency.
 Adopted C743 is used for its generic full-primary and degree conclusions after the actual factors and target hypotheses are verified, not as a source-existence assertion.
-C780 is comparison at kappa=5 only; the general construction is proved from the complete actual maps below.
+C742 is comparison at kappa=5 only; the general construction is proved from the complete actual maps below.
 GS0--GS4 prove the actual BOTH8 source; GS5 is retained separately as a CONDITIONAL downstream budget and is not a proved higher global construction or a premise of the source proof.
 This complete author source theorem is initially open for fresh isolated whole review.
 
@@ -166,7 +166,7 @@ The repaired endpoint is therefore
     next8 errors global q/2^(kappa+6),
     binary k_bar global q/2^(kappa+4), omega=0.
 
-These formulas match adopted C780 when kappa=5.
+These formulas match adopted C742 when kappa=5.
 That agreement is a parameter check; the proof for every kappa>=5 is the complete actual canonical argument below.
 
 ### GS4. Complete actual canonical-map applicability
@@ -375,7 +375,7 @@ Hence the eleventh root modulo phi^(4A) persists, and each binary change has squ
 Each individual integer K summand is an even power, so its Delta reduction vanishes; every additive cross term has at least Phi^(4A).
 The full X^(3A/2) factor persists because the first two corrections have actual X order greater than3A and the source R has order4A.
 Every W change before2Z has actual Phi order at least A, and2Z changes no binary w, so phi^A|W_8bar.
-The final k_bar has global q/(16M) power, deliberately weaker than C774's fixed normalized q/512 domain when kappa>=6; it is not silently substituted into that later theorem.
+The final k_bar has global q/(16M) power, deliberately weaker than C737's fixed normalized q/512 domain when kappa>=6; it is not silently substituted into that later theorem.
 
 The initial K_0 is divisible by H_b^q and thus J_K, and every subsequent K/W correction has its exact declared integer lower factor.
 The original K_0 degree is below d-2A; all new degrees are paid by h>(9M+1)A, with the second low W and final Z bounds smaller.
@@ -410,7 +410,7 @@ The conditional earlier-map coefficient A_* would have q/2^(kappa+4) power and h
 Completed BOTH continuation would have D(n)=3n+2t+kappa-8, e(n)=4n+2t+kappa-8.
 The FIRST branch would have derivative exponent3m+2t+kappa-10 and next second/first error exponents4m+2t+kappa-11 and4m+2t+kappa-10.
 These are arithmetic consequences of the proposed source and a separately justified actual recurrence, not a currently proved arbitrary-precision output.
-C774's fixed normalized K domain, the C748 special first16 step and the full coefficient-uniform maps all need explicit applicability proofs for this weakened binary power.
+C737's fixed normalized K domain, the C712 special first16 step and the full coefficient-uniform maps all need explicit applicability proofs for this weakened binary power.
 No compatibility in q, characteristic-zero identity, irreducible height bound or Mahler conclusion follows from this budget.
 
 ## Current assessment

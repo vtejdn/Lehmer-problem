@@ -166,7 +166,7 @@ Material validation is operational only and follows allocation.
 ## Original-author locator maintenance
 
 2026-10-11T20:17: old D20 author-statement/freeze locators now reach the SAME03:59 retained account in C25.
-This preserves the whole-only review scope, while actual C25 statement/argument/interface coverage remains separately in R312.
+This preserves the whole-only review scope, while actual C25 statement/argument/interface coverage remains separately in [R790 original C25 extraction](Yin_R_G0790_v1.md#c25-first-window-denominator-extraction-finding).
 No new proof or historical acceptance is invented.
 
 The original D18 finite-comparison locator likewise reaches the same preserved author subsection in C24.

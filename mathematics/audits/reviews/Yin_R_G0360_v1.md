@@ -22,11 +22,15 @@ The whole scope includes the responsible question, reuse/candidate history, Stat
 This is a written noncontributor review of the NEW successor and its use of adopted inputs, not a source-wide proof audit, formal verification or completion audit of G0001.
 No native mathematical program, J, new source search or unrelated downstream energy argument was used.
 
+The initial C146 v3 input included the author reread, validation and no-defect account beyond the necessary proof.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Actual whole finding](#sixth-power-frobenius-whole-independent-finding) | independently reviewed |
+| [Actual whole finding](#sixth-power-frobenius-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

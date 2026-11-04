@@ -200,7 +200,7 @@ The residual return length is then available for every ordered pair, so one comm
 This checks the stated definition of primitivity directly.
 The accepted list has maximum n=10, giving dimension at most twenty.
 
-The distinct general primitive-existence theorem in C241/L34 allows zero padding and gives no uniform dimension or edge cost; it is not a premise of this construction.
+The distinct general primitive-existence theorem in C240/L34 allows zero padding and gives no uniform dimension or edge cost; it is not a premise of this construction.
 The below-Lehmer consequences E>=3 and L>=6 follow from the exact classification and the checked reciprocal lower bounds.
 The retained [DS17 fixed-support gap](../literature/DS17/Yin_U001.md#ds17-u001), together with the C233/C234 complexity comparisons, supports only the stated escape of L and E along a hypothetical positive-measure sequence tending to one.
 Its original proof was not re-audited here.

@@ -20,7 +20,7 @@ Let phi be an irreducible factor of T modulo5, of degree h, and let xi be any of
 Suppose C2(xi) is a Frobenius conjugate xi^(5^j) for some j>=0.
 Then such a phi cannot occur.
 Equivalently, no actual residue orbit of T modulo5 can be preserved by C2.
-This includes the rational fixed trace classes 2 and -1 from C644, and also nonrational classes.
+This includes the rational fixed trace classes 2 and -1 from C622, and also nonrational classes.
 
 
 Equivalently, for any actual residue xi of delta at a prime over5, choose a nonzero root z of Z^2-xi Z+1 in an algebraic closure of F5 and let n be its multiplicative order.

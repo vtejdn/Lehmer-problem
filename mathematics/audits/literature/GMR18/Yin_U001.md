@@ -45,11 +45,6 @@ Its 2026-10-10T01:30 completion belongs to the full project review, not a record
 This is a distinct reading occurrence, not a newly acquired artifact, enlarged author occurrence or whole-paper audit.
 The full project review is SELF from its explicitly pre-supplied claimed outcomes; its passage reading does not establish new project isolation.
 
-### Actual retained holding and operational limit
-
-The canonical GMR18 records original2026-10-10 acquisition from the exact versioned arXiv PDF, the retained295846-byte/30-page [artifact](../../../literature/pdf/GMR18.pdf), sole registered and complete source identity.
-The first download yielded PDF bytes but validation could not import fitz and no file was created; a second bounded retrieval was validated by PDF signature and pdftotext title/authors/version before exclusive retention.
-The original local pdftoppm page14 render was a viewing byproduct used to inspect the selected conjugates.
-These operational facts do not supply an additional source-reading minute or mathematical proof adoption.
-This unit relocates the actual original accounts only; no current PDF passage, source proof, external retrieval, acquisition metadata or program/native run is added.
-Original L264/R_G123 keep their actual dated source inputs and all proof/control limitations.
+The exact retained [arXiv v2 artifact](../../../literature/pdf/GMR18.pdf) was acquired on 2026-10-10 and has 30 pages.
+The actual source-reading occurrences and their mathematical limits above remain distinct from acquisition and document-rendering operations.
+Original L264/R123 retain their dated source inputs and proof/control limits.

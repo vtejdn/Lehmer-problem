@@ -7,7 +7,7 @@ Date: 2026-10-15T10:35.
 Human record author Yin.
 Root separately assigned strategy_critique to review ACTUAL fixed C138 v1, including the entire author original,20 formulas, both failed shortcuts, the changed FOUR-coordinate theorem, all original-law and arithmetic consequences, and initial decision dated18:28.
 The reviewer supplied no four-coordinate decomposition, terminal-stock merge, pruning constant, failure construction or proof step for this round.
-The reviewer previously reviewed old C133 but did not author it; that antecedent review, whose current R489 relationship is unknown, is not evidence for C138's new assembly.
+The reviewer previously reviewed old C133 but did not author it; that antecedent review, whose current [R798 original harmonic-core](Yin_R_G0798_v1.md#harmonic-core-whole-independent-finding) relationship is unknown, is not evidence for C138's new assembly.
 Root supplied the question only in the new round; its historical contributions to the reused tree/pruning remain recorded at their original homes.
 
 This is a separately organized, non-blind whole review.

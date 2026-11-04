@@ -88,7 +88,7 @@ They do not exclude additive or nonuniform drift, the different square-root-affi
 
 | Fixed input and selected assessment | Exact use |
 | --- | --- |
-| [C400 adopted exact core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Only the fixed quartic equality between D and the strict two-real-embedding strip, with original digits and actual-order membership; its C399 co-return input retains its complete certificate and review scope. |
+| [C400 adopted exact core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Only the fixed quartic equality between D and the strict two-real-embedding strip, with original digits and actual-order membership; its C396 co-return input retains its complete certificate and review scope. |
 | [C790 adopted unit geometry](Yin_C_G0790_v1.md#decision-whole-reviewed-2026-10-26) | Actual-order balanced unit v, v^2+3v-1=0, v^(-1)=v+3, v_+=v_-=tau^(-1), v(zeta)=-tau and tau>1; no count or probability lower bound is used. |
 | [C555 adopted complete returns](Yin_C_G0555_v1.md#decision-isolated-whole-review-adoption-20261022) | Complete original independent-digit return probabilities and their entire entropy/root limit, with R=radius(U); chronological reversal preserves the iid word weight. No overlap or mean certificate is invoked. |
 | [C511 adopted canonical family](Yin_C_G0511_v1.md#decision-complete-current-self-adoption) | The actual H_t first-hit definition, finite positivity and off-zero equation for every 0<t<R_f, including t>R when that interval exists; no endpoint at R_f is used. |
@@ -230,7 +230,7 @@ This is a conditional constraint on the canonical original H_t, not a constructe
 
 RE8--RE10 exclude the tested class of certificates and identify the oscillation a successful strict-radius branch would need to accommodate.
 They do not prove R_f=R, infinite mu, finite mu, an exponential-tail lower bound from a fixed starting state, or linear bridge-level growth.
-C852's uniform Hilbert-space obstruction remains separate and was not used to infer any entrywise decay rate.
+C806's uniform Hilbert-space obstruction remains separate and was not used to infer any entrywise decay rate.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-27)
@@ -249,7 +249,7 @@ C852's uniform Hilbert-space obstruction remains separate and was not used to in
 | --- | --- | --- |
 | statement | [Full statement](#statement) | Entire fixed quartic/original-law domain, all finite exceptions and pointwise finite positive W, exact fixed-n then large-k comparison, arbitrary positive radial envelope and continuous angular specialization, actual H-sensitive drift exclusion, conditional canonical H_t ratio quantifiers and all exclusions. |
 | argument | [Complete RE1--RE10 argument](#complete-argument) | Actual unit embeddings, uniform strict-core margins for all returned words, every intermediate translated state outside F, full weights and finite-row iteration, exact same-radius cancellation, compact positive continuous factor, true critical Doob identity and actual supercritical first-hit consequence. |
-| dependency | [Actual strict core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed quartic actual accessible/coaccessible core equals the displayed strict strip, with the retained C399 certificate scope; no arbitrary Salem extension. |
+| dependency | [Actual strict core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed quartic actual accessible/coaccessible core equals the displayed strict strip, with the retained C396 certificate scope; no arbitrary Salem extension. |
 | dependency | [Actual balanced unit](Yin_C_G0790_v1.md#decision-whole-reviewed-2026-10-26) | Actual O-unit v and its exact two real and neutral conjugates; no use of counting lower bounds as probability lower bounds. |
 | dependency | [Complete original return root limit](Yin_C_G0555_v1.md#decision-isolated-whole-review-adoption-20261022) | Full p_n, true R and p_n^(1/n)->1/R under the unchanged iid law, equivalent to the chronological returned-word sum; no truncated finite graph. |
 | dependency | [Canonical first-hit family](Yin_C_G0511_v1.md#decision-complete-current-self-adoption) | Finite positive actual H_t and off-zero t-harmonicity for every 0<t<R_f; supercritical use is explicitly conditional on R<t<R_f. |
@@ -267,7 +267,7 @@ C852's uniform Hilbert-space obstruction remains separate and was not used to in
 | --- | --- | --- |
 | statement | [Full statement](#statement) | Entire fixed quartic/original-law domain, all finite exceptions and pointwise finite positive W, exact fixed-n then large-k comparison, arbitrary positive radial envelope and continuous angular specialization, actual H-sensitive drift exclusion, conditional canonical H_t ratio quantifiers and all exclusions. |
 | argument | [Complete RE1--RE10 argument](#complete-argument) | Actual unit embeddings, uniform strict-core margins for all returned words, every intermediate translated state outside F, full weights and finite-row iteration, exact same-radius cancellation, compact positive continuous factor, true critical Doob identity and actual supercritical first-hit consequence. |
-| dependency | [Actual strict core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed quartic actual accessible/coaccessible core equals the displayed strict strip, with the retained C399 certificate scope; no arbitrary Salem extension. |
+| dependency | [Actual strict core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed quartic actual accessible/coaccessible core equals the displayed strict strip, with the retained C396 certificate scope; no arbitrary Salem extension. |
 | dependency | [Actual balanced unit](Yin_C_G0790_v1.md#decision-whole-reviewed-2026-10-26) | Actual O-unit v and its exact two real and neutral conjugates; no use of counting lower bounds as probability lower bounds. |
 | dependency | [Complete original return root limit](Yin_C_G0555_v1.md#decision-isolated-whole-review-adoption-20261022) | Full p_n, true R and p_n^(1/n)->1/R under the unchanged iid law, equivalent to the chronological returned-word sum; no truncated finite graph. |
 | dependency | [Canonical first-hit family](Yin_C_G0511_v1.md#decision-complete-current-self-adoption) | Finite positive actual H_t and off-zero t-harmonicity for every 0<t<R_f; supercritical use is explicitly conditional on R<t<R_f. |

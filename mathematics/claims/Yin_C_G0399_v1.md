@@ -14,6 +14,11 @@ The full C372 actual-core equivalence is reused at its existing accepted ESS sta
 [Mer13-U001](../audits/literature/Mer13/Yin_U001.md#mer13-u001) supplies method attribution for a different quartic; its published theorem and computer table do not establish this degree-ten result.
 Task/E execution remains paused.
 
+## Native input replay limits
+
+Current replay of the [J24 normalized-descent certificate](../computations/programs/Yin_J_G0024/readme.md#native-input-availability) and [J26 compact/ancestry certificates](../computations/programs/Yin_J_G0026/readme.md#native-input-availability) remains unavailable at the specific retained-input scopes recorded there.
+The old mathematical findings and their actual checking relationships below are historical evidence, not a claim that those original native inputs have been supplied in this checkout.
+
 ## Statement
 
 Let P(t)=t^10+t^9-t^7-t^6-t^5-t^4-t^3+t+1 and beta>1 its expanding root.

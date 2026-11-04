@@ -564,7 +564,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-14T20:53 |
 | status | proved |
-| reason | Adopt R469 complete independent review of actual A--D and all direct inputs. The good-pair finite-core estimate gives positive triple-density capture under bounded mean prime support or the wider paid core/gap condition, with actual norm income for every fixed efficiency and precise all-threshold escape. Automatic near-one coverage and the unrestricted goal remain open. |
+| reason | Adopt [R800 original heavy-prime-positive](../audits/reviews/Yin_R_G0800_v1.md#heavy-prime-positive-whole-independent-finding) complete independent review of actual A--D and all direct inputs. The good-pair finite-core estimate gives positive triple-density capture under bounded mean prime support or the wider paid core/gap condition, with actual norm income for every fixed efficiency and precise all-threshold escape. Automatic near-one coverage and the unrestricted goal remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

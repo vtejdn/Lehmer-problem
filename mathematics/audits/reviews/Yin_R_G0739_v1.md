@@ -50,7 +50,7 @@ The lambda4 example genuinely fails the open-window premise and is not a positiv
 
 For every actual rank6 core with full Phi2^2 P4, Hermitian rank5 at the simple nonreal unit root turns scalar adjugate vanishing into vector vanishing.
 Irreducibility removes the full P4 poles.
-The actual alternating nullity is two, and the C527 coefficient/Pfaffian identity gives determinant3 and a simple remaining pole at minus one.
+The actual alternating nullity is two, and the C521 coefficient/Pfaffian identity gives determinant3 and a simple remaining pole at minus one.
 Decay at infinity and integrality give the residue w=U^-1 c in the primitive kernel.
 The norm3/norm1 equivalence follows from the exact determinant3 binary Gram calculation, and ambient splitting asserts no proper complement or found core.
 No arbitrary rank7 target is excluded.
@@ -78,7 +78,7 @@ The prime flat interpolant is real and anti-reciprocal at all nodes, its energy 
 Primitive rational density proves the integer supremum, not integral attainment or bounded height.
 The dyadic control is separately an exact integral maximizer.
 
-The ACTUAL radical input and fixed positive TOTAL measure are C467's accepted degree2q irreducible family.
+The ACTUAL radical input and fixed positive TOTAL measure are C463's accepted degree2q irreducible family.
 The complete reciprocal pair product gives all q Fourier fibers.
 The real two-variable Gram matrix has determinant5 and trace<=9; retaining the separate c_q coordinate yields the exact whole-class Lambda bound.
 The strict negative b-m comparison and cheap signed(-5)^q control have correct directions and retain every coefficient/root/leading/content cost.
@@ -106,7 +106,7 @@ The L229 implication is used only on its precise separate nontorsion h-domain; i
 The exact torsion enlarged-window Gram control verifies the change of class and is not a nontorsion discriminator.
 
 The original J70 eight-input finite evidence is retained without a rerun.
-PR04 supplies only its actually read classical attribution and the mixed-row estimate is proved locally; QZ19 retains its selected accepted derivative scope, with the current C531v2 method correctly adapted.
+PR04 supplies only its actually read classical attribution and the mixed-row estimate is proved locally; QZ19 retains its selected accepted derivative scope, with the current C524v2 method correctly adapted.
 Finding: both entire C545v1 proof chains and its full Statement are proved under current whole SELF, with the two auxiliary classes, moment spaces and remaining costs separate.
 No new source-proof audit, efficient computation, near-one family, actual adjacent origin or unrestricted gap is established.
 
@@ -125,7 +125,7 @@ At recurrence, the mean quotient increases by nonnegative summation, whereas log
 Only ROOT-VISITING critical coefficients supply the unboundedness test.
 The minimal-polynomial first-excursion gap gives the exact degree lower cost and its no-other-excursion boundary.
 
-The finite lower test uses r_M>=R with the complete C436 error and the correct monotonicity of L_N.
+The finite lower test uses r_M>=R with the complete C432 error and the correct monotonicity of L_N.
 Its exponential difference is bounded by N(N+1)epsilon_M exp(N epsilon_M).
 The fixed-input M=N^3 convergence pays the much later p_(N^3) and provides no finite upper/halting certificate.
 The actual quartic unit identity makes Q_3 trivial; distinct fixed states,25 included words,24 zero-avoiding paths and exact probability differences were checked.
@@ -157,7 +157,7 @@ Primitive disjoint-support block generators give an exact Cartesian fiber produc
 This is no output-coordinate independence assumption.
 Actual minimal-polynomial division gives all and only the prescribed shifted relations; for b<=d+q their supports lie in disjoint residue classes.
 Nonzero alpha^i and the full real Minkowski map preserve minimum preimages even for nonunits; literal pseudoinverse matrices need not agree.
-The C537 completion implication applies only at b>=d, where the actual Q is positive definite, and its POSITIVE factor cancels exactly.
+The C529 completion implication applies only at b>=d, where the actual Q is positive definite, and its POSITIVE factor cancels exactly.
 All degree/discriminant/prefix costs and Delta_0=1 remain.
 The bounded windows cannot supply b tending to infinity for fixed input.
 

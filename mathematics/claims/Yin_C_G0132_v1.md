@@ -6,7 +6,7 @@ author: Yin
 Date: 2026-10-15T09:08.
 Human author Yin.
 Root authors the new prime-power chain proof below under the continuing G0001 authorization.
-The squarefree harmonic-cost mechanism was developed by g_bridge_audit and is fixed in C129; its separate R485 review has an unknown relationship.
+The squarefree harmonic-cost mechanism was developed by g_bridge_audit and is fixed in C129; its separate [R798 original squarefree-tensor](../audits/reviews/Yin_R_G0798_v1.md#squarefree-tensor-whole-independent-finding) review has an unknown relationship.
 Root cannot independently review the present extension.
 No numerical or native mathematical program is used.
 

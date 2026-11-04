@@ -1,4 +1,4 @@
-"""Independent fixed-scope review of the C643v2/J126 certificate.
+"""Independent fixed-scope review of the C621v2/J126 certificate.
 
 This reviewer program imports neither contributor implementation.
 Polynomials are sets of exponents; complete B_n use explicit binomial sums.
@@ -137,7 +137,8 @@ def compose(a, b, modulus=None):
 def main():
     home = Path(__file__).resolve().parent
     out = home.parents[2] / 'computations' / 'outputs' / home.name
-    data = json.loads((out / 'certificate.json').read_text(encoding='utf-8'))
+    out.mkdir(parents=True, exist_ok=True)
+    data = json.loads((home / 'inputs' / 'certificate.json').read_text(encoding='utf-8'))
     assert data['phi'] == pack(PHI) and data['M'] == pack(MODULUS)
     assert MODULUS == frozenset({8, 24, 40})
     premodulus = times(frozenset({8}), pow_poly(PHI, 17))
@@ -286,7 +287,7 @@ def main():
         if pow_poly(f, 3, PHI16) == ONE:
             allowed_low.append(pack(y))
     assert allowed_low == [17]
-    result = {'result': 'verified', 'scope': 'C643v2 fixed targets and complete J126 certificate only',
+    result = {'result': 'verified', 'scope': 'C621v2 fixed targets and complete J126 certificate only',
               'arithmetic': 'exact F2 exponent-set polynomials; no contributor imports',
               'complete_generators': 96, 'coprime_rows': 64, 'divided_rows': 32,
               'predivision_matrix_period': 160, 'divided_index_period': 320,

@@ -8,7 +8,7 @@ Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of fixed C689 v1 and its new modulo16 argument.
 This is its first whole review of that target, covering the complete statement SX1--SX9 and all five proof sections SX2--SX6 with formulas SX10--SX28.
 The actual fixed target was read before the finding was formed, followed by every directly selected fixed input and its necessary proof passages.
-The reviewer's own [C718 whole finding](Yin_R_G0907_v1.md#whole-high-power-simultaneous-mod-eight-finding) and [C705 whole finding](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding) were reused only at unchanged exact scopes after direct inspection of the actual fixed inputs.
+The reviewer's own [C686 whole finding](Yin_R_G0907_v1.md#whole-high-power-simultaneous-mod-eight-finding) and [C675 whole finding](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding) were reused only at unchanged exact scopes after direct inspection of the actual fixed inputs.
 The new integer halves, first inverse, second canonical carry, derivative image, all-lift exhaustion and count were independently rebuilt.
 No D35 or other draft, author development dialogue or summary, candidate derivation, other-agent inventory, native output or another reviewer's R was consulted.
 No native computation, coefficient search, parameter enumeration or external source acquisition was used.

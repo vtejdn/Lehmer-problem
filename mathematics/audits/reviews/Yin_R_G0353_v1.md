@@ -188,7 +188,7 @@ Thus equation22 and the conditional strict Mahler consequence are valid, without
 ### 8. Completeness, provenance and remaining scope
 
 The author explicitly rederives all internal finite norm and tensor steps, so the earlier C129 is provenance rather than an unresolved theorem premise.
-The reviewer's antecedent authorship does not supply independent review of C129; its separate R485 finding remains its own evidence with its current unknown relationship.
+The reviewer's antecedent authorship does not supply independent review of C129; its separate [R798 original squarefree-tensor](Yin_R_G0798_v1.md#squarefree-tensor-whole-independent-finding) finding remains its own evidence with its current unknown relationship.
 Here the new chain argument and the actual whole arbitrary-exponent consumer were reconstructed from the fixed text, with no repair supplied.
 The initial isolation facts for the new chain do not turn the whole finding, which also covers this reviewer's reused substantive mechanisms, into independent review.
 

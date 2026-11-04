@@ -144,8 +144,7 @@ Both are positive.
 Moreover \(A_R\ge3\): an integral polynomial with coefficient length one is a monomial, and one with length two is either a monomial or a binomial with nonzero roots of unity.
 Neither can vanish at the present nonzero nontorsion \(\alpha\).
 
-For each \(j\in\mathbb Z\), choose a nearest integer
-\(n_j\) to \(2u_j(\theta)\), and put
+For each \(j\in\mathbb Z\), choose a nearest integer \(n_j\) to \(2u_j(\theta)\), and put
 \[
  e_j=2u_j(\theta)-n_j,\qquad |e_j|\le1/2.
 \]

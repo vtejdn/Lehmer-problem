@@ -10,7 +10,7 @@ The reviewer was a separate agent outside the substantive development of C770 an
 The first input for this new review was the complete fixed [C770 statement](../../claims/Yin_C_G0770_v1.md#statement) and [DR2--DR6 argument](../../claims/Yin_C_G0770_v1.md#complete-argument), including its exact declared inputs and limitations.
 The reviewer then inspected the directly used C767, C768, C671 EK2 and C764 ZC2--ZC5 interfaces.
 D45, author dialogue and prior conclusions about this new result were not consulted.
-The reviewer already knew the C767/C768 inputs and had independently reviewed C811's shorter coefficient test; that background is disclosed and did not substitute for checking the new full3A variation, image, rank, counts or cost argument.
+The reviewer already knew the C767/C768 inputs and had independently reviewed C769's shorter coefficient test; that background is disclosed and did not substitute for checking the new full3A variation, image, rank, counts or cost argument.
 This finding covers the whole standalone C770 theorem with the adopted inputs at the precise scopes below, without recursively repeating all earlier source and proof audits.
 
 ## Review relationships

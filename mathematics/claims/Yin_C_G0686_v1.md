@@ -8,7 +8,7 @@ The [active all-strategy Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategie
 Root proposed keeping q/2-th powers through the first correction, using actual coefficient subrings and retaining an integer derivative condition through the second correction.
 Same_trace checked the full actual first half-remainder, both bounded CRT constructions, the different first integer lift, actual monic division and all primary components, and the derivative argument giving the final high square condition.
 This is author mathematics, not independent review or adoption.
-Focused reuse read C683, the complete adopted C677/C680 corrections and C675 final same-polynomial criterion, as well as their C603/C699/C702 and original C667/C668 interfaces.
+Focused reuse read C683, the complete adopted C677/C680 corrections and C675 final same-polynomial criterion, as well as their C603/C669/C672 and original C667/C668 interfaces.
 C683 is a fixed pending-review dependency at this registration; its required structured-base and low-carry claims are used conditionally until established.
 The other named correction interfaces are already adopted.
 No native computation, parameter enumeration or external source theorem is used.
@@ -82,7 +82,7 @@ No equality of synthetic G_int with actual G_can, characteristic-zero residual i
 Use the concrete C683 FP2 construction.
 Thus k_b is the eleventh root of H_b0 C_b0^2 modulo phi^(4a), zero modulo H_b0 X^(a/2), and has degree<h_b+17a/2.
 With its coefficient0/1 integer lift K_b set K=K_b^q and k=k_b^q.
-The actual C699 error is a q-th power eta_s=e_s^q, with deg e_s<6a.
+The actual C669 error is a q-th power eta_s=e_s^q, with deg e_s<6a.
 Let W_b be its coefficient0/1 lift and set W=W_b^(q/2), w=e_s^(q/2).
 Then
 

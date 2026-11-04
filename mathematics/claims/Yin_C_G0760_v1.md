@@ -9,7 +9,7 @@ Provenance: project deduction under the unchanged [G0001 original contract](../t
 Root proposed the general odd-order reduction, actual cofactor model and final fifteen-divisible support statement.
 The characteristic_zero_bridge agent proved and checked the general trace reductions and Delta-unit mechanism, all split binary components, every actual local evaluation and the separate w=1/B=0 and fifth-order endpoint cases.
 Root read the entire saved OT1--OT17 argument, including its endpoints, full multiplicities and exact source scopes.
-Both agents are substantive contributors; fresh isolated whole review and separate adoption remain outstanding.
+Both agents are substantive contributors; fresh isolated whole review and separate adoption were still outstanding at author registration.
 No native coefficient scan, new original-source acquisition, assumed cyclotomic ramification index or nontorsion-layer theorem is used.
 The entire necessary argument is fixed below and has no D proof dependency.
 
@@ -438,7 +438,7 @@ No all-cyclotomic binary-G-zero theorem, noncyclotomic-factor or Mahler lower bo
 | --- | --- |
 | date | 2026-10-25T22:54 |
 | status | open |
-| reason | Register the complete OT1--OT17 author theorem after root read the entire saved argument and endpoints. For a fully cyclotomic reciprocal trace input with actual F divisible by4 and own X_epsilon even, the binary canonical G vanishes on every complete primary component whose odd root order is not divisible by15. General odd-order trace reductions, all split components, true Delta-unit and largest-weight facts, actual same-binary cofactor evaluations and the w1/B0 and h5/A0 endpoints are proved in full, with C758 used only in its exact accepted h5/A>=1 scope. Root and characteristic_zero_bridge are substantive contributors, not independent reviewers; fresh isolated whole review and separate adoption remain outstanding. The fifteen-divisible components, characteristic-zero equations and unrestricted Task remain unresolved. |
+| reason | Register the complete OT1--OT17 author theorem after root read the entire saved argument and endpoints. For a fully cyclotomic reciprocal trace input with actual F divisible by4 and own X_epsilon even, the binary canonical G vanishes on every complete primary component whose odd root order is not divisible by15. General odd-order trace reductions, all split components, true Delta-unit and largest-weight facts, actual same-binary cofactor evaluations and the w1/B0 and h5/A0 endpoints are proved in full, with C758 used only in its exact accepted h5/A>=1 scope. Root and characteristic_zero_bridge are substantive contributors, not independent reviewers; fresh isolated whole review and separate adoption were still outstanding at author registration. The fifteen-divisible components, characteristic-zero equations and unrestricted Task remain unresolved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

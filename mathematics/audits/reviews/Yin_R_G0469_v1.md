@@ -12,12 +12,12 @@ The arrangement is nonblind: the shared task context and root's intended congrue
 The reviewer read the fixed statement and whole five-section proof, enumerated its obligations and independently reconstructed every new formula and application.
 No mathematical program, numerical cutoff, integral evaluation, root isolation or new source acquisition was used.
 
-The reviewer coauthored the upstream C191v2 arithmetic theorem and earlier unbuffered original-return formulas now preserved in L439.
+The reviewer coauthored the upstream C191v2 arithmetic theorem and earlier unbuffered original-return formulas now preserved in L438.
 Those are NOT claimed to have been independently reviewed by their author here.
 The complete actual [R468 upstream finding](Yin_R_G0468_v1.md#actual-trace-cluster-and-return-whole-finding) was read in full and supplies whole evidence for that entire upstream proof and return at its now-unknown relationship.
-The contributor's separate R613 author finding is not promoted to a whole independent review.
+The contributor's separate R467 author finding is not promoted to a whole independent review.
 The present finding covers the new C193 construction and the applicability of those fixed upstream conclusions.
-The reviewer's previous C187/R606 relationship is a separate independent review, not authorship of the present construction.
+The reviewer's previous C187/R460 relationship is a separate independent review, not authorship of the present construction.
 The local merge-ordering pause was respected; after root confirmed resumption, the actual target and relevant interfaces were reread.
 
 The review identified a source-sign wording issue in Section5: C189v4 defines G with the opposite sign, while its energy is unchanged.
@@ -27,7 +27,7 @@ No formula, domain, dependency or mathematical proof step changed, and no proof 
 The actual contents of the shared initial context and intended-mechanism description are not specified sufficiently to establish isolation before the first mathematical judgment on the new C193 proof.
 Authorship of the fixed accepted C191 input does not itself imply participation in the new construction, and the clarified opposite sign leaves the already used G^2 argument unchanged.
 The present whole finding therefore has an unknown relationship; its original date, mathematical checks and exact bindings are retained without a new review.
-The reused R468 whole finding also has unknown initial context, while the R613 original-return finding remains self-reviewed at its separate scope.
+The reused R468 whole finding also has unknown initial context, while the R467 original-return finding remains self-reviewed at its separate scope.
 
 ## Review relationships
 
@@ -41,7 +41,7 @@ The reused R468 whole finding also has unknown initial context, while the R613 o
 | --- | --- | --- |
 | [Whole congruent-shear finding](#trace-congruent-shear-whole-independent-finding) | [C193v1 complete statement](../../claims/Yin_C_G0193_v1.md#statement) | statement: Original domain, full rational congruence class and both signs, exact original value and norm, infimum/nonattainment, finite construction and every degree/scalar/error/price assertion. |
 | [Whole congruent-shear finding](#trace-congruent-shear-whole-independent-finding) | [C193v1 entire proof](../../claims/Yin_C_G0193_v1.md#argument) | argument: All five sections and formulas(1)--(15), finite zero sets, full geometric identity, exact endpoints, norm and radial return, finite rho/k/N choices and coefficient/Fourier limits. |
-| [Whole congruent-shear finding](#trace-congruent-shear-whole-independent-finding) | [C191v2 arithmetic statement](../../claims/Yin_C_G0191_v2.md#statement) | dependency: Same original polynomial and actual quotients, complete unbuffered norm floor and residual improvement; reused as an upstream author result with separate whole independent evidence, not re-audited by its contributor. |
+| [Whole congruent-shear finding](#trace-congruent-shear-whole-independent-finding) | [C191v2 arithmetic statement](../../claims/Yin_C_G0191_v2.md#statement) | dependency: Same original polynomial and actual quotients, complete unbuffered norm floor and residual improvement; reused as an upstream author result with separate whole evidence at its unknown relationship, not re-audited by its contributor. |
 | [Whole congruent-shear finding](#trace-congruent-shear-whole-independent-finding) | [R468 upstream whole finding](Yin_R_G0468_v1.md#actual-trace-cluster-and-return-whole-finding) | support: Actual complete independent review of all C191v2 arithmetic, original return and assembly, including the old-return contributor boundary. |
 | [Whole congruent-shear finding](#trace-congruent-shear-whole-independent-finding) | [C153v2 exact trace interface](../../claims/Yin_C_G0153_v2.md#exact-reciprocal-phase-and-trace-domain) | dependency: Actual degree-r trace polynomial, full quadratic tower, integral nonzero quotients and phases; precise original-domain applicability checked here. |
 | [Whole congruent-shear finding](#trace-congruent-shear-whole-independent-finding) | [L358 complete root error](../../ledger/Yin_L_G0358_v1.md#zero-compatible-root-error) | dependency: Nonmonic polynomial, full actual span, multiplicities and circle zeros; exact M-dependent bound applied to P H35 of degree16d and leading scalar7. |
@@ -61,7 +61,7 @@ The reused R468 whole finding also has unknown initial context, while the R613 o
 **PASS for the entire actual C193v1 and its new use of the complete independently reviewed C191v2 input.**
 No mathematical defect, missing used hypothesis or unresolved source applicability was found.
 The source-sign clarification described above has been read back and does not alter the mathematics.
-The reviewer does not independently reprove its own upstream C191/L439 contribution; the actual whole R468 supplies that independent evidence.
+The reviewer does not independently reprove its own upstream C191/L438 contribution; the actual whole R468 supplies checked evidence at its unknown relationship.
 Adoption of C191v2 and C193 remains with their responsible decisions, and this finding does not adopt either Claim or complete the whole logarithmic-transfer inquiry.
 
 ### Exact original-value domain and nonattainment

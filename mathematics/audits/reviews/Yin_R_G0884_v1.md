@@ -41,7 +41,7 @@ No target, old evidence, C/T/E/S, shared index, adoption or commit was changed.
 | [Whole finding](#whole-all-depth-complete-kernel-finding) | [C657 actual accepted decision](../../claims/Yin_C_G0657_v1.md#decision-whole-reviewed-2026-10-24) | The already accepted analytic lifting interface at its precise scope, not prospective proof of C664. |
 | [Whole finding](#whole-all-depth-complete-kernel-finding) | [C662 actual completed section](../../claims/Yin_C_G0662_v1.md#statement) | The torsion-normalized section (u,<X>^(-2ell(u))) and pure-high mu3 in Ghat, with complete higher-five source provenance and finite/completed limits. |
 | [Whole finding](#whole-all-depth-complete-kernel-finding) | [C662 selected adoption](../../claims/Yin_C_G0662_v1.md#decision-whole-reviewed-2026-10-24) | Actual adoption of the unchanged reviewed section on2026-10-24T01:01. |
-| [Whole finding](#whole-all-depth-complete-kernel-finding) | [Prior own C691 finding](Yin_R_G0882_v1.md#whole-five-source-distribution-finding) | Only the still-applicable fixed section/source interface; no automatic coverage of the new all-depth generation proof. |
+| [Whole finding](#whole-all-depth-complete-kernel-finding) | [Prior own C662 finding](Yin_R_G0882_v1.md#whole-five-source-distribution-finding) | Only the still-applicable fixed section/source interface; no automatic coverage of the new all-depth generation proof. |
 | [Whole finding](#whole-all-depth-complete-kernel-finding) | [C655 original applicability](../../claims/Yin_C_G0655_v1.md#statement) | The actual original P/T domain, maximal q, canonical complement/layers and costs, with no new original realization, degree substitution or A_0 exclusion. |
 
 <a id="whole-all-depth-complete-kernel-finding"></a>
@@ -272,7 +272,7 @@ C608/C609v2 are used for their exact algebraic source identities, C652/C654 for 
 No previously computed rank or bounded complete-image result is substituted for any new proof step.
 No old J was rerun, no certificate range enlarged and no new native evidence claimed.
 
-The inherited C197/C199 ancestry retains the existing Smy08/Bel17 inspection limits and all historical SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries.
+The inherited C197/C199 Smy08/Bel17 source limits and historical SELF/UNKNOWN relationships remain at their actual scopes, including R477's C197v3 and R489's separate C199v3/v4 UNKNOWN initial-context findings; no later physical input inherits a broader finding.
 No original classical proof was reacquired or fully re-audited, and no historical review relationship was relabelled.
 The finding concerns the exact new characteristic-two theorem and its real original applicability boundary.
 It is not an adoption or unrestricted Task-completion finding.

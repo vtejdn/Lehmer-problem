@@ -9,7 +9,7 @@ Root supplied the maximal-root argument, endpoint consequences and 3-adic compan
 Paid_comparison checked and developed the complete root-product lemma, finite valuations, exact expansions, original local-field multiplicities, residual cancellations and paid quotient consequences below.
 Both are contributors; neither is an independent reviewer of this mathematics.
 The fixed C616 endpoint theorem and C614 construction remain unchanged.
-The relevant statement and self-root formulas of C639 were inspected for comparison; none of its new cluster-income conclusions is a premise here.
+The relevant statement and self-root formulas of C618 were inspected for comparison; none of its new cluster-income conclusions is a premise here.
 No native computation, parameter scan, source acquisition or new original-source proof inspection is used.
 
 ## Statement
@@ -134,7 +134,7 @@ The all-embedding local-factor method in [C191v2 Section 1](Yin_C_G0191_v2.md#ar
 The accepted [The26b-U001](../audits/literature/The26b/Yin_U001.md#the26b-u001) supplies the original local-degree and valuation normalization at its recorded source-inspection scope.
 
 Targeted local searches for maximal-root endpoint restrictions and the precise T(2),T(-1) divisibilities found no retained theorem at this scope.
-C639 concerns different weighted cluster-income conclusions and is comparison context only.
+C618 concerns different weighted cluster-income conclusions and is comparison context only.
 [C616](Yin_C_G0616_v1.md#complete-argument) and [C614](Yin_C_G0614_v1.md#complete-argument) supply only the fixed endpoint and quotient consumer interfaces explicitly used in Part D.
 No predecessor decision, source audit or review is silently enlarged to the new proof.
 
@@ -431,7 +431,7 @@ The current assessment separately adopts that finding for the exact fixed theore
 | dependency | [Exact local 2-prime identity](Yin_C_G0178_v1.md#argument) | Only v_p(g)=3v_p(c) under both full residual equations, g!=0 and the original nonzero integral triple. |
 | dependency | [Exact local 3-prime identities](Yin_C_G0182_v1.md#singleton-three-adic-companion) | Complete non-affine local calculation: 2C=E+5A, C>A, and 2B=3A when B>0; no affine conclusion used. |
 | dependency | [Exact residual expansion at3](Yin_C_G0184_v1.md#singleton-unramified-three-exclusion) | The algebraic R23 identity and residue bbar=-s; the present E=3W and E>=9 argument is proved here without importing its odd/prime-to3 hypothesis. |
-| dependency | [Complete local-factor interface](Yin_C_G0191_v2.md#argument) | Original-field completion and lattice-filtration root counting method, reproduced explicitly at3 here; no cluster-average bound or C639 claim used. |
+| dependency | [Complete local-factor interface](Yin_C_G0191_v2.md#argument) | Original-field completion and lattice-filtration root counting method, reproduced explicitly at3 here; no cluster-average bound or C618 claim used. |
 | dependency | [Original local degree and valuation convention](../audits/literature/The26b/Yin_U001.md#the26b-u001) | Only complete e_p f_p degree accounting and normalized value group in the actual finite number field, at the existing accepted source boundary. |
 | dependency | [Fixed endpoint classification](Yin_C_G0616_v1.md#complete-argument) | Nonunit positive-endpoint nu>=4 forces P(1)=8; positive unit and negative nonunit implies nu<=4. These are combined with the new divisibility, without changing physical C616. |
 | dependency | [Complete quotient and paid transfer](Yin_C_G0614_v1.md#complete-argument) | Same Q_s,c_nu,Ntilde_s, exact original-order norms, total Mahler and degree identities, endpoint exponent and complete NF1--NF8 consumer with all fixed source/analytic costs. |
@@ -452,7 +452,7 @@ The current assessment separately adopts that finding for the exact fixed theore
 | dependency | [Exact local 2-prime identity](Yin_C_G0178_v1.md#argument) | Only v_p(g)=3v_p(c) under both full residual equations, g!=0 and the original nonzero integral triple. |
 | dependency | [Exact local 3-prime identities](Yin_C_G0182_v1.md#singleton-three-adic-companion) | Complete non-affine local calculation: 2C=E+5A, C>A, and 2B=3A when B>0; no affine conclusion used. |
 | dependency | [Exact residual expansion at3](Yin_C_G0184_v1.md#singleton-unramified-three-exclusion) | The algebraic R23 identity and residue bbar=-s; the present E=3W and E>=9 argument is proved here without importing its odd/prime-to3 hypothesis. |
-| dependency | [Complete local-factor interface](Yin_C_G0191_v2.md#argument) | Original-field completion and lattice-filtration root counting method, reproduced explicitly at3 here; no cluster-average bound or C639 claim used. |
+| dependency | [Complete local-factor interface](Yin_C_G0191_v2.md#argument) | Original-field completion and lattice-filtration root counting method, reproduced explicitly at3 here; no cluster-average bound or C618 claim used. |
 | dependency | [Original local degree and valuation convention](../audits/literature/The26b/Yin_U001.md#the26b-u001) | Only complete e_p f_p degree accounting and normalized value group in the actual finite number field, at the existing accepted source boundary. |
 | dependency | [Fixed endpoint classification](Yin_C_G0616_v1.md#complete-argument) | Nonunit positive-endpoint nu>=4 forces P(1)=8; positive unit and negative nonunit implies nu<=4. These are combined with the new divisibility, without changing physical C616. |
 | dependency | [Complete quotient and paid transfer](Yin_C_G0614_v1.md#complete-argument) | Same Q_s,c_nu,Ntilde_s, exact original-order norms, total Mahler and degree identities, endpoint exponent and complete NF1--NF8 consumer with all fixed source/analytic costs. |

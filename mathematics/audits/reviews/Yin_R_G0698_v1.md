@@ -32,7 +32,7 @@ No current construction self-check is represented as an isolated old or new even
 | [Complete full-field Salem regulator whole SELF](#complete-salem-regulator-whole-self-finding) | [Exact fixed input](../literature/Paz14/Yin_U001.md#paz14-u001) | Only exact ordinary-regulator convention and published SECONDARY report, granted conditionally for the failed implication; no direct FS99 text/proof/correction acceptance. |
 | [Complete constant-SPD determinant whole SELF](#complete-constant-spd-whole-self-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0102/record.md#three-rotation-screen) | Entire reused nonzero real-Laurent/residue determinant identity, finite zeros and full L^3 scalar, at its two actual fixed inputs. |
 | [Complete constant-SPD determinant whole SELF](#complete-constant-spd-whole-self-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0102/readme.md#certified-results) | Only actual already completed two-input full-coefficient/root-count/Jensen certificates and distinct no-grid conclusions; original implementation/shared-engine/precision boundaries retained. |
-| [Original complete constant-SPD author checking](#original-constant-spd-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0401_v1.md#constant-spd-determinant-screen) | Original entire root/loglog_cyclic_review author account and express complete checking of SPD1--SPD6, all zero/scalar/strict/denominator and remaining boundaries; document21:36 is not an invented separate check minute. |
+| [Original complete constant-SPD author checking](#original-constant-spd-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0401_v1.md#constant-spd-determinant-screen) | Original entire root/loglog_cyclic_review author account and express complete checking of SPD1--SPD6, all zero/scalar/strict/denominator and remaining boundaries; document 2026-10-18T13:36 is not an invented separate check minute. |
 | [Complete constant-SPD determinant whole SELF](#complete-constant-spd-whole-self-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0102/readme.md#recorded-runs) | The actual exact needed original degrees/scalars/leading/content/full-root counts/256-bit Lambda ball fields were read without a new execution or a claim to a new all-program/native audit. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0102/screen-verification.json`; this target locates that original run's computation account. |
 
 <a id="complete-salem-regulator-whole-self-finding"></a>
@@ -40,8 +40,8 @@ No current construction self-check is represented as an isolated old or new even
 
 Date: 2026-10-22T00:29.
 PASS for the entire actual C485 Statement and complete original L400 account: all four proof sections and formulas1--5, the full-ring/actual-order distinction, every unit index and weighted determinant, all seven exact fixed source/comparison scopes and the reported-bound/remaining limitations.
-The maintaining agent read the complete original L400 and R544, every necessary existing Smy15/Con26/Sun18/GH01/Paz14 unit and the actual C458/C9 comparison interfaces.
-There was no adequate existing whole C for this exact normalization and failed implication; the dated S1 adoption still pointed to L400/R544.
+The maintaining agent read the complete original L400 and R399, every necessary existing Smy15/Con26/Sun18/GH01/Paz14 unit and the actual C454/C9 comparison interfaces.
+There was no adequate existing whole C for this exact normalization and failed implication; the dated S1 adoption still pointed to L400/R399.
 This new whole checking is SELF because the maintainer read and organized the proof in the construction context; it is not a new isolated event or an extension of the old review onto this later C.
 
 The genuine Salem signature is two real and t-1 complex places over totally real F of degree t>=2.
@@ -73,9 +73,9 @@ Sun18's different two-real-quadratic intersection has rank t-2; degree4 composit
 The actual-order eta=tau^b may have unbounded b, so its larger logarithm cannot be divided for free into a uniform full-ring bound.
 
 All five existing source units retain their actual editions, primary/secondary status and proof depth.
-The original R544 reviewer's three distinct GH01/Sun18/Paz14 primary-reading occurrences are preserved at those existing adequate units; individual source-reading minutes are unknown and are not filled from21:52 whole review or21:12 source-document dates.
-The original21:14 L400 document,21:52 R544 whole finding and21:54 S1 adoption stay separate real events.
-R544's detailed original direct-proof/source arrangement and exact bindings remain at their own fixed L400 scope, without relabelling from its non-blind wording or treating a finished-proof reading as an authored repair.
+The original R399 reviewer's three distinct GH01/Sun18/Paz14 primary-reading occurrences are preserved at those existing adequate units; individual source-reading minutes are unknown and are not filled from 2026-10-18T13:52 whole review or21:12 source-document dates.
+The original 2026-10-18T13:14 L400 document,2026-10-18T13:52 R399 whole finding and 2026-10-18T13:54 S1 adoption stay separate real events.
+R399's detailed original direct-proof/source arrangement and exact bindings remain at their own fixed L400 scope, without relabelling from its non-blind wording or treating a finished-proof reading as an authored repair.
 This new SELF does not certify a new old-date isolation event or claim that the old reviewer read the later C/U placement.
 No source PDF/proof was newly inspected, no regulator or field computation was run, and no new gap class or Task/E authority is created.
 
@@ -84,7 +84,7 @@ No source PDF/proof was newly inspected, no regulator or field computation was r
 
 Date: 2026-10-22T00:29.
 PASS for the entire actual C486 Statement and retained L401 extension, all SPD1--SPD6, every constant real SPD matrix on the two EXACT J102 inputs, full scalar/leading/root/zero normalization, strict rational bounds, denominator distinctions and all arithmetic/finite-input/remaining limits.
-The maintainer read the complete original L401 and R543, the entire J102 analytic record/README and R542, the actual original certificate's needed exact input/scalar/degree/leading/content/root-count/precision/enclosure fields, C155/C157v3 comparison statements and the actual C154 sign-average statement.
+The maintainer read the complete original L401 and R398, the entire J102 analytic record/README and R397, the actual original certificate's needed exact input/scalar/degree/leading/content/root-count/precision/enclosure fields, C155/C157v3 comparison statements and the actual C154 sign-average statement.
 This checking reuses the already completed finite certificate at its recorded scope; it is not a new native execution, root isolation or complete new audit of the original programs.
 The current whole relationship is SELF: root proposed the arbitrary-matrix extension and denominator target and now organizes its complete proof.
 
@@ -104,7 +104,7 @@ The actual Lehmer Lambda ball is centered2.3906764770334967504204356555958792171
 The quartic ball near0.6342978356074717 only excludes its original operational1/16 target; it is not substituted into the Lehmer denominator argument.
 These are lower-bound expressions, not attained integrals or parameter minima.
 The original different integer/cofactor reconstruction, full Z[omega] identity, complete-root Jensen and author-ball comparisons retain the disclosed shared FLINT engine and non-blind author-program/reported-value exposure.
-No old R542 finding is extended into a review of this later SPD extension.
+No old R397 finding is extended into a review of this later SPD extension.
 
 One common integer D clearing EVERY Q entry makes det(DQ) a positive integer, so in dimension3 det Q>=D^(-3).
 At D<=4, log det Q>=-6log2.
@@ -117,9 +117,9 @@ C154's all-sign Frobenius determinant and coefficient-volume average is a differ
 A separately proved different income must use its own real target in the exact necessary condition.
 Semidefinite rank2, indefinite, small-determinant and z-dependent cases and original-root/Haar/coefficient budgets remain outside the exclusion.
 
-The original root/loglog_cyclic_review complete author checking is separately SELF at the expressly listed whole scope, without a new precise checking minute inferred from the21:36 document date.
-The original21:48 R543 finding and21:49 S1 adoption keep their exact fixed L401 inputs and detailed direct-proof arrangement.
-Upstream R541 work or the distinct C167 contribution is not automatically target authorship, and this current SELF does not backdate any new independent finding.
+The original root/loglog_cyclic_review complete author checking is separately SELF at the expressly listed whole scope, without a new precise checking minute inferred from the 2026-10-18T13:36 document date.
+The original 2026-10-18T13:48 R398 finding and 2026-10-18T13:49 S1 adoption keep their exact fixed L401 inputs and detailed direct-proof arrangement.
+Upstream R396 work or the distinct C167 contribution is not automatically target authorship, and this current SELF does not backdate any new independent finding.
 All prior failures, contributions and actual nonexecution/fallback facts remain present.
 No new mathematical experiment or Task/E resumption occurs.
 
@@ -129,8 +129,8 @@ No new mathematical experiment or Task/E resumption occurs.
 The entire original L401 states root's arbitrary-matrix/denominator/target contribution and loglog_cyclic_review's complete author development and checking.
 The explicit author self-check covers row orientation, determinant factor, all logarithmic-zero cases, complete L^3, all exact rational strict constants and both denominator conventions.
 It is whole author SELF at the original fixed account.
-Its document is dated2026-10-18T13:36; no separate individual checking minute is supplied, and none is invented.
-R543 at21:48, S1 adoption at21:49 and this current constructor whole SELF are distinct acts.
+Its document is dated 2026-10-18T13:36; no separate individual checking minute is supplied, and none is invented.
+R398 at 2026-10-18T13:48, S1 adoption at 2026-10-18T13:49 and this current constructor whole SELF are distinct acts.
 No author or upstream reviewer is relabelled independent by this retention.
 
 ## Reviewed computation runs

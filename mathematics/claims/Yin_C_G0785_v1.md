@@ -65,7 +65,7 @@ They supply no estimate of g'(R), no positive linear bridge-level growth, no act
 Fix P=t^4-t^3-t^2-t+1, exterior root beta, neutral conjugate zeta, O=Z[beta] and original digits with p_0=1/2,p_+=p_-=1/4.
 The actual accessible/coaccessible core is D={x in O:|x_+|<B,|x_-|<S}, B=1/(beta-1),S=beta B, by the adopted [C400 fixed-quartic exact-strip theorem](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption), whose C396 narrow co-return premise retains its actual certificate scope.
 Set u=(1+sqrt13)/2=beta+beta^(-1), u'=(1-sqrt13)/2, and let iota(beta)=beta^(-1).
-C301/C780 give, for integral power-basis coordinates,
+C300/C780 give, for integral power-basis coordinates,
 
     x iota(x)=A(x)-u K(x),
     rho(x)^2=A(x)-u' K(x),
@@ -295,7 +295,7 @@ This makes the unresolved derivative in ZG12 precisely the duration of a genuine
 ZG4--ZG16 give an exact finite boundary elimination and an actual positive-level derivative gate.
 They do not estimate g'(R), prove positive linear bridge K growth, classify the critical mean, give R=beta or R<beta, or solve G0001.
 The next useful estimate must control the duration-weighted ORIGINAL g_m R^m tail or the already fixed C783 finite continuation imbalance; a finite induced graph or the bounded connector count alone cannot supply it.
-C324/C45 block restrictions and C703/C783 true-H costs remain unchanged.
+C324/C45 block restrictions and C673/C783 true-H costs remain unchanged.
 
 A bounded reuse screen read C440's constrained integer-Gaussian formulation and C560/C595's exact profile restrictions, then on2026-10-26 searched local contents and public discovery queries about Salem autoregressive returns and integer Gaussian delocalization.
 No theorem with the needed actual four-constraint ternary bridge hypotheses was adopted from that screen.

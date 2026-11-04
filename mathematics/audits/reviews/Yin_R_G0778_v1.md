@@ -45,7 +45,7 @@ Selected path components at endpoints vanish, and non-singleton free components 
 The empty paths, omitted-edge expectation, full-row subtraction theta^(N+1), N0 and both terminal zero weights are retained.
 The positive-vector bounds establish the exact observation rate without assumed spectral asymptotics.
 Actual relative field degree and independent residue input/selector streams prove the chronological radical product with no1/r loss.
-Necessary C538/C543/C212 and L157/L169/L170 interfaces were checked, with no new native or original source-proof execution.
+Necessary C530/C534/C212 and L157/L169/L170 interfaces were checked, with no new native or original source-proof execution.
 Post-initial comparison covers both original findings and the separate v1 negative.
 No near-one deficit, uniform onset, Salem weighted tail or unrestricted gap follows.
 

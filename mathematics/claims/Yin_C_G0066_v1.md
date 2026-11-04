@@ -181,7 +181,7 @@ The recorded review description was `under review`.
 | argument | [Entire retained original proof](#argument) | Complete20:09 D20 allocation/candidate/reuse history, Sections1--7/equations1--17, exact hand controls, source/role boundaries, all costs and final freeze. |
 | dependency | [Original-root finite Poisson/reversal bound](../ledger/Yin_L_G0318_v1.md#polynomial-poisson-majorant) | Exact finite polynomial bound for G_j at ALL original conjugates, with degree2h_j, its negative lag and radial damping; inherited attribution only, no source-scope enlargement. |
 | dependency | [Actual powered angular estimate](../ledger/Yin_L_G0229_v1.md#uniform-powered-angular-coherence) | ONLY partC: accepted epsilon at original cutoff2T and height2U, all actual powered-degree multiplicities, with retained Pri11/Dim19 acceptance limits. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0285_v1.md#biased-sign-product-whole-independent-finding) | Entire original20:09 D20 proof and exact direct interfaces/controls. It does not inspect this new statement/wrapper or prospectively adopt it. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0285_v1.md#biased-sign-product-whole-independent-finding) | Entire original20:09 D20 proof and exact direct interfaces/controls. It does not inspect this new statement/wrapper or prospectively adopt it. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -198,8 +198,8 @@ The recorded review description was `under review`.
 | argument | [Entire retained original proof](#argument) | Complete20:09 D20 allocation/candidate/reuse history, Sections1--7/equations1--17, exact hand controls, source/role boundaries, all costs and final freeze. |
 | dependency | [Original-root finite Poisson/reversal bound](Yin_C_G0600_v1.md#polynomial-poisson-majorant) | Exact finite polynomial bound for G_j at ALL original conjugates, with degree2h_j, its negative lag and radial damping; inherited attribution only, no source-scope enlargement. |
 | dependency | [Actual powered angular estimate](Yin_C_G0570_v1.md#uniform-powered-angular-coherence) | ONLY partC: accepted epsilon at original cutoff2T and height2U, all actual powered-degree multiplicities, with retained Pri11/Dim19 acceptance limits. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0285_v1.md#biased-sign-product-whole-independent-finding) | Entire original20:09 D20 proof and exact direct interfaces/controls. It does not inspect this new statement/wrapper or prospectively adopt it. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0289_v2.md#c66-sign-product-actual-extraction-finding) | Entire actual statement, complete retained original body and precise direct interfaces independently inspected after allocation, preserving earlier review scopes and corrections. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0285_v1.md#biased-sign-product-whole-independent-finding) | Entire original20:09 D20 proof and exact direct interfaces/controls. It does not inspect this new statement/wrapper or prospectively adopt it. Finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0289_v2.md#c66-sign-product-actual-extraction-finding) | Entire actual statement, complete retained original body and precise direct interfaces separately inspected after allocation, preserving earlier review scopes and corrections. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 

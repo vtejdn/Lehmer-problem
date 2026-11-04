@@ -221,7 +221,7 @@ The recorded review description was `under review`.
 | support | [Earlier independent rounding](Yin_C_G0054_v1.md#statement) | Old diagonal finite/recursive repair and full costs, as bounded reuse; not a correlated-law premise. |
 | support | [Necessary denominator price](Yin_C_G0050_v1.md#statement) | Actual q versus FINAL M and hypothetical near-one linear-window necessity only; no sufficiency or near-one existence. |
 | support | [Earlier signed-period inventory](Yin_C_G0015_v2.md#statement) | Different divided-binomial/trinomial mechanism credited at its actual scope, not imported into the present residue law. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0267_v1.md#pair-correlated-whole-independent-finding) | Entire original18:42 D12 and direct interfaces only, with no prospective current statement/extraction or Task coverage. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0267_v1.md#pair-correlated-whole-independent-finding) | Entire original18:42 D12 and direct interfaces only, with no prospective current statement/extraction or Task coverage. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -245,7 +245,7 @@ The recorded review description was `under review`.
 | support | [Earlier independent rounding](Yin_C_G0054_v1.md#statement) | Old diagonal finite/recursive repair and full costs, as bounded reuse; not a correlated-law premise. |
 | support | [Necessary denominator price](Yin_C_G0050_v1.md#statement) | Actual q versus FINAL M and hypothetical near-one linear-window necessity only; no sufficiency or near-one existence. |
 | support | [Earlier signed-period inventory](Yin_C_G0015_v2.md#statement) | Different divided-binomial/trinomial mechanism credited at its actual scope, not imported into the present residue law. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0267_v1.md#pair-correlated-whole-independent-finding) | Entire original18:42 D12 and direct interfaces only, with no prospective current statement/extraction or Task coverage. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0267_v1.md#pair-correlated-whole-independent-finding) | Entire original18:42 D12 and direct interfaces only, with no prospective current statement/extraction or Task coverage. Finding relationship: self-reviewed. |
 | review | [Actual extraction](../audits/reviews/Yin_R_G0270_v1.md#c58-pair-correlated-actual-extraction-finding) | Entire actual A--F statement, complete preserved argument and direct interfaces, separately performed by a noncontributor to original proof and wrapper. |
 
 ## Registration and complete preservation

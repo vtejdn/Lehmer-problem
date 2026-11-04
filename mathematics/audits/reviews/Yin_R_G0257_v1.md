@@ -29,11 +29,16 @@ Its adopted independent [R746](Yin_R_G0746_v1.md#c20-quadratic-parameter-extract
 The new D9 formulas and the actual selected attainer's arithmetic were independently reconstructed here.
 The present review's new conclusions concern the distinct D9 statements, to which root supplied no mathematical contribution.
 
+The initial complete C53 input included its author checking account and outcome summaries beyond the necessary proof.
+The claimed-outcome label alone is not the reason; the retained author-validation contents are additional mathematical context.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Entire author finding](#delay-gate-whole-independent-finding) | independently reviewed |
+| [Entire author finding](#delay-gate-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

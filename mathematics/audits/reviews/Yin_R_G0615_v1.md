@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T18:33.
 Human operator: Yin.
 The agent read all376lines of original L175 and all130original R74 lines, including the complete mathematical/contribution/source/native/negative/retirement accounts and exact original bindings.
-It read the entire actual published C412v1/C413v1 statements and arguments, the complete necessary current C412 plastic comparison and the J36 finite evidence.
+It read the entire actual published C412v1/C413v1 statements and arguments, the complete necessary current C409 plastic comparison and the J36 finite evidence.
 All three native programs, the README and every report/45-row field were read, with the exact finite range and shared-library boundary preserved.
 Every mathematical chain was rederived below rather than adopted from an old PASS.
 The agent inherited substantive target context, read old reviews and authored the Claims, so both complete current findings are self-reviewed.
@@ -51,7 +51,7 @@ The gcd and z^(6a)=1 force z^6=1 and exact primitive order six.
 The converse congruences and derivative modulus argument establish exactly one simple Phi_6 when the stated congruences hold, without leaving noncyclotomic circle roots unclassified.
 Coprimality is essential.
 Reversal of an actual product cg uses actual degrees and c*=c; the exact c^2 c(t^2) factor retains every multiplicity and zero Mahler cost.
-The(5,4) output is exactly the cyclotomic multiple of the original(3,1) Lehmer identity at C412's stated scope.
+The(5,4) output is exactly the cyclotomic multiple of the original(3,1) Lehmer identity at C409's stated scope.
 No converse is asserted for auxiliary cyclotomic factors.
 
 The cubic(3,2) seed is irreducible, has discriminant-31 and exactly one exterior real root in(1,2); its complex pair is inside by the unit product.
@@ -85,7 +85,7 @@ The complete phase identity follows by integrating the exact rational factorizat
 Nonzero polynomial/rational logarithms have only integrable singularities, the doubling map preserves normalized Haar measure, and the factor2 gives exactly log2+m(G)-3m(f).
 The pointwise triangle bound is an upper bound only.
 Cyclotomic multiplication retains full balance, including every leading coefficient.
-The finite positive decimals remain unvalidated, while the C412 plastic constant has separate accepted proof/certificate scope.
+The finite positive decimals remain unvalidated, while the C409 plastic constant has separate accepted proof/certificate scope.
 No general lower sign, new Salem family, full graph realization, delayed-family transfer or small-measure conclusion follows.
 The original whole noncontributor initial-context relationship remains UNKNOWN even though its prior navigation to fixed upstream L174 is concretely recorded.
 This complete current authored check is SELF.
@@ -122,7 +122,7 @@ It disproves a sign assertion on all primitive irreducible monic unit seeds, wit
 No irreducibility/monicity/Salem shape of G_A is assumed.
 The full auxiliary and complementary factors and any leading coefficient remain charged in its Mahler measure.
 The old finite positive trinomial rows motivated the question but do not enter the proof.
-The C412 delayed plastic-family energy limit is a separate comparison and is not transferred to f_A.
+The C409 delayed plastic-family energy limit is a separate comparison and is not transferred to f_A.
 The original whole author SELF and distinct whole noncontributor UNKNOWN remain separately retained in R74 at actual original day precision.
 No source or native computation is needed or used.
 No substantive defect or missing hypothesis was found in the entire current theorem/proof.

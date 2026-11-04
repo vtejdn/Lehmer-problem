@@ -2,26 +2,27 @@
 author: Yin
 ---
 
-# Isolated reviews of early flat packets, integral profiles and the bounded bh extension
+# Reviews of early flat packets and integral profiles
 
 ## Arrangement and actual input sequence
 
 Human record author: Yin.
-A separately assigned reviewing agent outside development of the fixed target mathematics read the complete current Statements and complete Arguments of C22,C23,C25,C26,C27,C29,C30,C31,C35,C38,C39, and the complete Section8 extension of F12 with its actually necessary Sections1--7 interfaces.
+A separately assigned reviewing agent outside development of the fixed target mathematics read the complete current Statements and complete Arguments of the eleven retained targets C22,C23,C25,C26,C27,C29,C30,C31,C35,C38,C39.
 No target author discussion, additional proof explanation or previous target verdict was supplied before these initial findings.
 The reviewer's earlier F/G batches concern different fixed objects.
 The first-pass assignment supplied only fixed targets, mathematical section ranges and required interface locators.
 No input filter, copied transcript or automatic classification of mathematical prose was constructed.
-Author self-checks, source attributions, mathematical conclusions and upstream adopted-interface locators in the fixed proof are legitimate mathematical inputs; they were not mechanically excluded.
+Necessary source attributions and upstream mathematical interfaces remain legitimate fixed inputs.
+The read author validation conclusions are additional context whose affected relationships are delimited below; including them inside a fixed file does not establish isolation.
 
-The actual completed initial UTC minutes are F12 extension21:12; C22,C23,C25,C26 at21:13; C27,C29 at21:14; C30,C35,C38,C39 at21:17; and C31 with its finite code/JSON check at21:20, all on2026-10-22.
-All twelve initial findings were complete before any target assessment history, target old R or J89/J90 README review-verdict section was consulted.
-The mathematical input boundaries were C22 Statement15--57/Argument100--554; C23 15--64/103--398; C25 14--54/122--454; C26 15--76/144--540; C27 15--56/99--342; C29 15--62/105--447; C30 16--63/128--527; C31 15--64/138--765; C35 14--64/109--468; C38 15--77/174--532; C39 13--65/114--496; F12 mathematical Sections1--8 at31--499, with review limited as stated above.
+The completed initial UTC minutes for the retained targets are C22,C23,C25,C26 at21:13; C27,C29 at21:14; C30,C35,C38,C39 at21:17; and C31 with its finite code/JSON check at21:20, all on2026-10-22.
+All eleven retained initial findings were complete before any target assessment history, target old R or J89/J90 README review-verdict section was consulted.
+The mathematical input boundaries were C22 Statement15--57/Argument100--554; C23 15--64/103--398; C25 14--54/122--454; C26 15--76/144--540; C27 15--56/99--342; C29 15--62/105--447; C30 16--63/128--527; C31 15--64/138--765; C35 14--64/109--468; C38 15--77/174--532; C39 13--65/114--496.
 These are the directly read pre-adoption physical input ranges, not a filter or a claim that later inserted decision rows keep those line numbers.
 
 C36 was also assigned, but its fixed Argument's degree-correction history explicitly exposed the prior target reviewer's negative finding before an isolated whole conclusion was sealed.
 This actual exposure was reported immediately and the coordinating agent excluded a fresh INDEP finding or current adoption for C36 in this round.
-C36 is therefore NOT one of the twelve reviewed findings below.
+C36 is therefore NOT one of the eleven retained reviewed findings below.
 Its exact range-only handoff was provided for a different fresh reviewer.
 During subsequent old-scope comparison an incorrect G35 container number also opened R325, which is the C36 old account; that later read supplies no new isolation and is not incorporated as fresh C36 evidence.
 
@@ -33,25 +34,34 @@ After all initial findings, original assessments and old accounts were compared 
 The historical accounts retained below keep their original relationship rows and exact Target/Scope strings, dates, author contributions, unknown-context arrangements, negative findings, source inspection depths and execution limits.
 Old independent terminology remains dated historical reporting, not a new declaration of isolation.
 The adequate known independent findings in R226,R227,R229,R231 and targeted R232 remain at their original responsible homes.
-F12 main Sections1--7 are separately covered by existing R186; this round neither duplicates nor enlarges that main finding.
+The original combined-assignment description also named a former F12 Section8/bh extension with Sections1--7 inputs, mathematical range31--499, a reported initial21:12 UTC minute and an R186 main-finding reference.
+This file does not retain a corresponding F12 finding or identify that original fixed F proof/review home.
+Those historical assignment descriptions supply no current finding, proof premise or counterpart in the present F-family; the current relationships, bindings and findings here cover only the eleven retained G targets.
 No old container is deleted by this operation.
 Research Task/E remains paused.
+
+The complete initial argument bindings for C22, C23, C25, C26, C27, C29, C30, C31, C35, C38 and C39 include their original author validation checklists or completed-check conclusions beyond the necessary derivations.
+C31 includes both complete phase-author checking accounts; C38's complete Sections1--8 binding includes the distinct Section8 validation account.
+The recorded pre-adoption physical ranges are retained as original locators, rather than treated as present-day line-number cutoffs.
+Each of these eleven current findings is self-reviewed at its actual supplied scope.
+Necessary Newton calculations, resultant proofs, fixed native witness fields and other derivations remain legitimate mathematical inputs; their author or section labels alone are not the basis of this classification.
+The original independence wording records the historical declaration; the performed checks, input order, dates, mathematical verdicts and limits remain unchanged.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Current G0022 finding](#current-salem-flat-family) | independently reviewed |
-| [Current G0023 finding](#current-effective-capacity) | independently reviewed |
-| [Current G0025 finding](#current-flat-denominator) | independently reviewed |
-| [Current G0026 finding](#current-strict-reciprocal-flat) | independently reviewed |
-| [Current G0027 finding](#current-near-one-denominator) | independently reviewed |
-| [Current G0029 finding](#current-flat-covariance) | independently reviewed |
-| [Current G0030 finding](#current-lorentzian-fiber) | independently reviewed |
-| [Current G0031 finding](#current-lehmer-complete-packet) | independently reviewed |
-| [Current G0035 finding](#current-damping-budget) | independently reviewed |
-| [Current G0038 finding](#current-integer-coherence) | independently reviewed |
-| [Current G0039 finding](#current-integer-square-mass) | independently reviewed |
+| [Current G0022 finding](#current-salem-flat-family) | self-reviewed |
+| [Current G0023 finding](#current-effective-capacity) | self-reviewed |
+| [Current G0025 finding](#current-flat-denominator) | self-reviewed |
+| [Current G0026 finding](#current-strict-reciprocal-flat) | self-reviewed |
+| [Current G0027 finding](#current-near-one-denominator) | self-reviewed |
+| [Current G0029 finding](#current-flat-covariance) | self-reviewed |
+| [Current G0030 finding](#current-lorentzian-fiber) | self-reviewed |
+| [Current G0031 finding](#current-lehmer-complete-packet) | self-reviewed |
+| [Current G0035 finding](#current-damping-budget) | self-reviewed |
+| [Current G0038 finding](#current-integer-coherence) | self-reviewed |
+| [Current G0039 finding](#current-integer-square-mass) | self-reviewed |
 | [C22 extraction and interface finding](#c22-salem-first-window-extraction-finding) | unknown |
 | [Actual C23 v1 extraction and bridge finding](#c23-effective-capacity-extraction-finding) | unknown |
 | [Actual C25 v1 extraction and interface finding](#c25-first-window-denominator-extraction-finding) | unknown |
@@ -145,7 +155,7 @@ Research Task/E remains paused.
 | [Actual C27 v1 extraction and source-interface finding](#c27-near-one-denominator-extraction-finding) | [Original whole-author finding](Yin_R_G0229_v1.md#near-one-denominator-whole-author-finding) | Exact independent full D22 reconstruction, source applicability and normalized costs reused only for the unchanged matched body. Current registered summary/relations are covered separately here. |
 | [Actual C27 v1 extraction and source-interface finding](#c27-near-one-denominator-extraction-finding) | [ONE fixed DS17-U001](../literature/DS17/Yin_U001.md#ds17-u001) | Exact accepted NONZERO UNIVARIATE integer-polynomial consequence of Theorem2: for each fixedK, TOTAL m=0 or m>=eta_K>0, arbitrary degrees/exponents/heights, original[13] proof limits, monomial/zero guards, no explicit eta or monotonicity. |
 | [Actual C27 v1 extraction and source-interface finding](#c27-near-one-denominator-extraction-finding) | [C25 adopted statement](../../claims/Yin_C_G0025_v1.md#statement) | Necessary ACTUAL common q>n(P)/2 for EVERY rational below-one packet in the actual flat minimal/O_0/FIRST-window class; scalar converse remains individual, no denominator-M or packet-sufficiency theorem. |
-| [Actual C27 v1 extraction and source-interface finding](#c27-near-one-denominator-extraction-finding) | [C25 exact adopted decision](../../claims/Yin_C_G0025_v1.md#decision-organized-reviewed) | Actual04:13 adopted proved/independently-reviewed v1 selection, with R312 at its existing scope; no developing D20 premise or retrospectively changed old scalar review. |
+| [Actual C27 v1 extraction and source-interface finding](#c27-near-one-denominator-extraction-finding) | [C25 exact adopted decision](../../claims/Yin_C_G0025_v1.md#decision-organized-reviewed) | Actual04:13 adopted proved/independently-reviewed v1 selection, with the [original C25 extraction finding retained here](#c25-first-window-denominator-extraction-finding) at its existing unknown relationship; no developing D20 premise or retrospectively changed old scalar review. |
 | [Actual C27 v1 extraction and source-interface finding](#c27-near-one-denominator-extraction-finding) | [C17 exact first-window result](../../claims/Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Separate finite rational below-one packet nonemptiness per actual nontorsion input and energy1 below actual degree; supplies no near-one polynomial sequence, optimizer or bounded q/M. The short-window branch also supports the actual widthd cost. |
 | [Actual C27 v1 extraction and source-interface finding](#c27-near-one-denominator-extraction-finding) | [C10 full-root inequality](../../claims/Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | SAME actual q in full original signed norms and energy, final positive normalized weights, actual/allowed union width and generic-monic Poisson expense; no free scalar prime income or residual standalone logq loss. |
 | [Actual C27 v1 extraction and source-interface finding](#c27-near-one-denominator-extraction-finding) | [L19 old support escape](../../ledger/Yin_L_G0019_v1.md#cyclotomic-support-escape) | Already established stronger minimum-after-cyclotomic-completion support escape and completion1 specialization, credited as ancestry/comparison. The short original-support contradiction is local in C27, not a missing project proof in L. |
@@ -188,7 +198,7 @@ Research Task/E remains paused.
 | [C31 actual extraction finding](#c31-original-lehmer-primal-extraction-finding) | [Actual J89 support route](../../computations/programs/Yin_J_G0089/readme.md#completed-phase-b-exact-packet) | Selected native-evidence locator reaches declared separate solve, retained returned lead/result and exact packet; original Phase A failure/evidence retained. |
 | [C31 actual extraction finding](#c31-original-lehmer-primal-extraction-finding) | [Fresh J90 exact evidence](../../computations/programs/Yin_J_G0090/readme.md#actual-sole-review-execution-and-result) | Actual independent one-run certificate/declaration/code/output/runtime inspected; exact selected primal and small Phase A payload only, no full scan/solver or mathematical optimum. |
 | [C31 actual extraction finding](#c31-original-lehmer-primal-extraction-finding) | [R232 actual targeted finding](Yin_R_G0232_v1.md#lehmer-primal-native-certificate-finding) | Completed exact native finding read at its actual D5/J89/J90scope and D2author relationship; this NEW C31 extraction review is separate, not inherited future-Claim coverage. |
-| [Entire damping-budget finding](#damping-budget-whole-author-finding) | [D3 entire10:17 freeze](../../claims/Yin_C_G0035_v1.md#damping-budget-entire-author-freeze) | COMPLETE Sections1--8/equations1--14/statement/reuse/costs/self-check/freeze in the ACTUAL current reused address; no old D3 or future Claim coverage. |
+| [Entire damping-budget finding](#damping-budget-whole-author-finding) | [Original D3 entire10:17 freeze retained in C35](../../claims/Yin_C_G0035_v1.md#damping-budget-entire-author-freeze) | COMPLETE original damping-budget Sections1--8/equations1--14/statement/reuse/costs/self-check/freeze retained in C35; no other use of the reusable D3 address or future Claim coverage. |
 | [Entire damping-budget finding](#damping-budget-whole-author-finding) | [D3 domain and integer representatives](../../claims/Yin_C_G0035_v1.md#damping-budget-reuse-and-domain) | Actual monic irreducible reciprocal integer-unit P/O_0, all nonzero integral targets/positive rational weights, ordinary degree<d representatives are unique INTEGER polynomials, A>=1, all signatures. |
 | [Entire damping-budget finding](#damping-budget-whole-author-finding) | [D3 exact statement](../../claims/Yin_C_G0035_v1.md#damping-budget-exact-statement) | Exact R/h_0 identities and bounds, K_0>0, full circle budget, prescribed damping N, all-twist fixed-cone and quadratic conclusions, no uniform existential obstruction. |
 | [Entire damping-budget finding](#damping-budget-whole-author-finding) | [Complete coefficient proof](../../claims/Yin_C_G0035_v1.md#damping-budget-coefficient-factorization) | Actual Laurent kernel, ordinary monic quotient, padded reciprocity, factors1/8 and1/4, all-root P^2 identity, K_0 nonzero and complete l1 triangular-inverse bound including d2. |
@@ -274,7 +284,7 @@ Its original nonzero integer residues have signed norms3 and3-d, giving complete
 The full nonreduced mod2 period is d+1.
 These are fixed positive-measure controls tending to log2, with the stated q>=2,S2 class restriction.
 They do not refute a sufficiently-near-one theorem, extend to every wider family or re-certify the old external numerical gate.
-Man65 remains publisher-level attribution with the needed lemma proved locally; MCQ03 supplies naming, not an imported classification proof.
+Man65 remains publisher-level attribution with the needed lemma proved locally; MCQ08 supplies naming, not an imported classification proof.
 
 <a id="current-effective-capacity"></a>
 ## Current G0023 finding
@@ -418,7 +428,8 @@ The current author source and saved option payload differ in diagnostic output_f
 The original43 IPM/one crossover iterations and status Optimal remain reported historical facts, not a mathematical optimum.
 
 The exact capacity statement is only451609/508032<=E_10<=680/681<1.
-The C24 old family excludes row8 by energy14/3>4 and row10 by nonternary residue/energy164; its restricted minimum remains unchanged.
+The C24 old family excludes row8 by energy14/3>4 and row10 by its nonternary residue R_*; R_* has squared coefficient norm196, while the rational representative f_10=(9R_*-16P)/9 has coefficient energy164.
+Its restricted minimum remains unchanged.
 C25/C26/C28 are postchecks, not construction premises or minimal possible q/M theorems.
 No unit-only, all-input near-one or unrestricted completion claim follows.
 
@@ -461,7 +472,7 @@ The finite angular theorem uses T=d-1 and u_d=(d-1)m/d, the actual powered degre
 The accepted house consequence gives N>=sqrt(c/u)>55 on u<=c exp(-20); the globally3-Lipschitz radius2 test contributes15sqrt(b), with radial expense4u.
 Removing both positive real zero-angle labels yields (d epsilon+2)/(d-2).
 The OPTIONAL m-only Theta uses m>=c/d with c=log2/4 from the accepted retained Dim19v1 statement, and requires its own tiny m domain.
-The same mathematical interface was initially read in L229; the later currently selected complete C587 home and C508 accepted house-to-degree passage were directly checked during scope comparison, with no new source premise.
+The same mathematical interface was initially read in L229; the later currently selected complete C570 home and C504 accepted house-to-degree passage were directly checked during scope comparison, with no new source premise.
 
 Only the old registered C35 recipe receives the cubic cost consequence.
 For0<delta<=1/2, monotonic F(A) gives the exact strict factors1/8 and1/4; the endpoint quantitative floor is0 and delta>1/2 supplies no such branch.
@@ -1783,7 +1794,9 @@ The full29524ternary/762150atom scans and original solver runs were not independ
 Their declared deterministic programs and saved completed/failure scopes were inspected; the selected primal and saved small matrix payload were independently reconstructed by J90.
 
 
-The separate whole reviewer supplied no D3/D5 construction, and the expected packet numbers and requested evidence checks do not by themselves establish proof development. Its own earlier reviews and unrelated D4/C29 authorship do not establish self-review either. The record does not establish the initial inherited mathematical-development or prior-target-review context, so these historical relationships remain unknown; all original dates, actual whole/extraction scopes and native-replay limits remain unchanged.
+The separate whole reviewer supplied no D3/D5 construction, and the expected packet numbers and requested evidence checks do not by themselves establish proof development.
+Its own earlier reviews and unrelated D4/C29 authorship do not establish self-review either.
+The record does not establish the initial inherited mathematical-development or prior-target-review context, so these historical relationships remain unknown; all original dates, actual whole/extraction scopes and native-replay limits remain unchanged.
 
 
 <a id="lehmer-phase-a-whole-finding"></a>
@@ -1917,7 +1930,7 @@ This is a fixed-input calibration, not an input-uniform scalar gap or a claimed 
 
 The selected scalar_l values0,4,8already correspond to old denominator9offsets.
 J90 directly proves selected family membership without global index enumeration.
-Its old-family test finds rows1--7/9inside C24 and rows8/10outside: row8energy14/3exceeds4; row10has a nonternary residue and energy164.
+Its old-family test finds rows1--7/9inside C24 and rows8/10outside: row8energy14/3exceeds4; row10has a nonternary residue R_* with squared coefficient norm196 and rational representative f_10 with coefficient energy164.
 The old functional values are(1,1,1,1,1,2,2,3,1,-14), whose SAME weighted average is E680/681.
 Thus actual changed residue/energy classes, not a claimed scalar-only repair in an unchanged fiber, explain the old restricted certificate escape.
 C24's finite minimum1and Phase A cap failure remain valid.
@@ -1988,7 +2001,7 @@ Numerical Optimal remains a solver report, not a finite/global optimality theore
 The actual independent J90 sources, sole executed certificate and completed R232 targeted finding have been read at their exact limited scopes.
 Their small saved-matrix/selected-primal checks do not pretend to replay the full ternary minimum/atom-count/solver run, and their reviewer D2author role does not supply the separate whole chain; this R does.
 
-The new statement correctly locates the old-family escape: row8energy14/3>4and row10nonternary residue/energy164, with selected scalar offsets already in the old denominator9grid.
+The new statement locates the old-family escape: row8energy14/3>4and row10nonternary residue R_*, whose squared coefficient norm is196; the row10 rational representative f_10 has coefficient energy164, with selected scalar offsets already in the old denominator9grid.
 The old C24restricted minimum1and Phase A incomplete-search history are preserved.
 The construction gives an upper witness, not equality with full capacity or the finite LP optimum, least possibleq/M, unit-only packet, all-input or near-one uniform construction.
 D4/C29and the later D6argument are not selected premises.
@@ -2026,7 +2039,8 @@ The entire original arrangement, findings, source depths, execution facts, negat
 
 ### Review arrangement and pending scope
 
-This is a separately organized ENTIRE review of the ACTUAL newly reused mathematics/drafts/Yin_D_G0003.md#damping-budget-entire-author-freeze dated 2026-10-12T02:17, complete Sections1--8/equations1--14 and direct adopted interfaces.
+This is a separately organized ENTIRE review of the original D3 damping-budget freeze dated 2026-10-12T02:17, now retained in [C35](../../claims/Yin_C_G0035_v1.md#damping-budget-entire-author-freeze), complete Sections1--8/equations1--14 and direct adopted interfaces.
+References to D3 in this historical finding mean that original damping-budget account, not the later five-adic-cycle draft at the reused address.
 Root supplied the review assignment and author-scope checklist.
 This reviewer contributed no D3 mathematics.
 The earlier responsible D3/Phase A work is a different retired use and is not this target.
@@ -2048,7 +2062,10 @@ No native mathematical computation, numerical scan, solver, J, package operation
 The finding covers this dated whole author artifact only; an actual later Claim extraction needs its own separately dated finding.
 
 
-The ingredient/quantifier checklist and earlier general repair-budget question do not establish that this reviewer contributed D3 mathematics. Its unrelated D2 and earlier review work do not establish self-review. The record does not establish whether the initial assignment was limited to fixed target and checking obligations or carried substantive development context, nor the full initial prior-target-review context. Both historical relationships therefore remain unknown; no dates, checked mathematics, conditional quantifiers or source limits are changed.
+The ingredient/quantifier checklist and earlier general repair-budget question do not establish that this reviewer contributed D3 mathematics.
+Its unrelated D2 and earlier review work do not establish self-review.
+The record does not establish whether the initial assignment was limited to fixed target and checking obligations or carried substantive development context, nor the full initial prior-target-review context.
+Both historical relationships therefore remain unknown; no dates, checked mathematics, conditional quantifiers or source limits are changed.
 
 
 <a id="damping-budget-whole-author-finding"></a>
@@ -2164,7 +2181,7 @@ Those remain governed by the adopted recipe.
 The exact direct adopted interfaces were read at the scopes bound above.
 Their previous foundational source/review limits remain unchanged; no independent whole re-audit of C10/C11/C13 or their external unit-lattice/source proofs is claimed.
 C20 is credited as an old capacity calibration only and is not used to derive this damping calculation.
-The whole current D3 Sections1--8/equations1--14, author attribution, scope limits and freeze are covered.
+The whole original D3 damping-budget Sections1--8/equations1--14, author attribution, scope limits and freeze retained in C35 are covered.
 No new Claim, target/source mutation, native run or Task completion is covered or authorized by this finding.
 
 <a id="c35-damping-budget-extraction-finding"></a>
@@ -2255,7 +2272,11 @@ Method: exact hand reconstruction of the finite moment expansion, integer positi
 No native mathematical program, solver, numerical scan, J, primary-source acquisition, new external acceptance, target or global-material mutation occurred.
 
 
-The ingredient/scope checklist and unrelated earlier authorship/reviews do not alone determine the initial mathematical-development context. The record does not establish whether the checklist contained substantive author reasoning or only the fixed theorem and checking obligations, or fully establish the inherited initial target context. Both historical relationships remain unknown. Reading upstream accepted findings after forming the initial reconstruction and reusing the reviewer's own whole check for unchanged content are not themselves proof contributions. Original dates, checked mathematics, strictness and source/cost limits remain intact.
+The ingredient/scope checklist and unrelated earlier authorship/reviews do not alone determine the initial mathematical-development context.
+The record does not establish whether the checklist contained substantive author reasoning or only the fixed theorem and checking obligations, or fully establish the inherited initial target context.
+Both historical relationships remain unknown.
+Reading upstream accepted findings after forming the initial reconstruction and reusing the reviewer's own whole check for unchanged content are not themselves proof contributions.
+Original dates, checked mathematics, strictness and source/cost limits remain intact.
 
 
 <a id="integer-circle-coherence-whole-author-finding"></a>
@@ -2313,7 +2334,7 @@ Accepted Dim19v1 gives that height>=c/N_h^2, so the small h_0 domain ensures N_h
 The Pri11 statement requires simple integral roots, global Lipschitz constant and compact support.
 L229's actual radius2,global3-Lipschitz test gives factor15; its radial comparison contributes4u.
 Both b and epsilon are increasing on the stated tiny interval.
-These exact hypotheses, actual powered degrees/multiplicities and constants agree with Pri11-U001, L209 and the retained R128/R108 applicability limits.
+These exact hypotheses, actual powered degrees/multiplicities and constants agree with Pri11-U001, L209 and the retained original L229/L209 applicability accounts in R781/R727.
 
 The OPTIONAL m-only consequence is correctly separated.
 Actual original-degree house>=2^(1/(4d)) and house<=M imply m>=c/d, with c=log2/4, at the accepted retained Dim19v1 STATEMENT scope.

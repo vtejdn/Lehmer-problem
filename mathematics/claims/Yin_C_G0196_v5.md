@@ -559,7 +559,7 @@ No source-proof upgrade, computation, matrix execution or mutable draft is a mat
 | date | 2026-10-20T15:22 |
 | status | proved |
 | authority | Internal adoption within Yin's selected retained-draft integral-representative and paid-transfer inquiries. |
-| reason | Adopt complete K1--K11, AW1--AW8 and NF1--NF8 through actual whole independent consumer/extraction R482. The arbitrary-degree componentwise integer representative obstruction, exact trace-order excluded class, complete canonical factor/field/cyclotomic costs and fixed-width fixed-margin norm-only paid gap are proved at their separate domains. All full original norms, rational denominators, finite analytic constants and source limits remain paid. Earlier physical versions and their decisions remain unchanged. No allowed even-index realization, unbounded-width transfer or unrestricted Mahler gap is inferred. |
+| reason | Adopt complete K1--K11, AW1--AW8 and NF1--NF8 through actual whole consumer/extraction R482 at its explicitly unknown relationship. The arbitrary-degree componentwise integer representative obstruction, exact trace-order excluded class, complete canonical factor/field/cyclotomic costs and fixed-width fixed-margin norm-only paid gap are proved at their separate domains. All full original norms, rational denominators, finite analytic constants and source limits remain paid. Earlier physical versions and their decisions remain unchanged. No allowed even-index realization, unbounded-width transfer or unrestricted Mahler gap is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -583,7 +583,7 @@ No source-proof upgrade, computation, matrix execution or mutable draft is a mat
 | support | [General multiplicity whole finding](../audits/reviews/Yin_R_G0473_v1.md#residual-dyadic-multiplicity-whole-finding) | Prior C196v2 scope only, not the new all-component statement. |
 | support | [Joint canonical whole finding](../audits/reviews/Yin_R_G0478_v1.md#joint-c3-c5-degree34-consumer-whole-finding) | Actual C196v4 whole scope and contributor-overlapping upstream review limits. |
 | support | [Complete inputs and boundaries](#exact-inputs) | All eleven direct inputs, old K/new AW/fixed NF authorship, exact source and review scopes and no mutable-D premise. |
-| review | [Whole all-width and canonical-cost finding](../audits/reviews/Yin_R_G0482_v1.md#all-width-canonical-cost-whole-finding) | Complete A--D, every K/AW/NF proof step, all eleven dependencies and seven supports, exact log2 versus I_* thresholds, canonical versus arbitrary-degree scope, full norm-only analytic application and original denominator/frequency costs, with contributor-overlapping inputs explicitly reused through actual independent evidence. |
+| review | [Whole all-width and canonical-cost finding](../audits/reviews/Yin_R_G0482_v1.md#all-width-canonical-cost-whole-finding) | Complete A--D, every K/AW/NF proof step, all eleven dependencies and seven supports, exact log2 versus I_* thresholds, canonical versus arbitrary-degree scope, full norm-only analytic application and original denominator/frequency costs, with contributor-overlapping inputs explicitly reused through actual evidence at its declared relationships. |
 
 ## Historical assessments
 

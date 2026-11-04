@@ -13,8 +13,8 @@ This finding covers the actual input interfaces and all finite-function, finite/
 The reviewing agent did not participate in this reflection-block proof development.
 It read the entire fixed C805 before consulting its directly needed fixed inputs.
 No mutable draft, author proof-generation dialogue, additional author derivation, other C805 verdict or agent-summary inventory was consulted before the initial whole finding.
-The agent's earlier independent C847 review concerns comparison mathematics only; C847 is not a necessary premise of RB1--RB12.
-Its separate C846 author contribution concerns a different multiple-neutral mirror construction and supplies no evidence here.
+The agent's earlier independent C803 review concerns comparison mathematics only; C803 is not a necessary premise of RB1--RB12.
+Its separate C802 author contribution concerns a different multiple-neutral mirror construction and supplies no evidence here.
 The actual C400/C396, C599 and C563 interfaces were reread at their precise scopes; earlier independent background is reused only where unchanged and applicable.
 This is the reviewer's own complete inspection, with no additional helper finding claimed.
 
@@ -151,14 +151,14 @@ The proof claims singular modes in this exact sense, without requiring a compact
 No assertion that J preserves an individual component or that e_C is a Q eigenvector is used.
 The next Q step may couple a different collection of reflection blocks.
 Consequently the proof does not identify powers, spectral radius, convergence rate, critical-mean branch or complete-bridge growth from the one-step norm statement.
-C203/C408's different counting-measure two-step bounds are not carried through an unproved uniformly bounded H-dependent change of norm.
+C203/C405's different counting-measure two-step bounds are not carried through an unproved uniformly bounded H-dependent change of norm.
 
 ## Verification limits and disposition
 
 The complete actual-weighted conversion, reciprocal drift identities, all-coordinate finite certificates and infinite-mass operator proof have been checked as analytic deductions from the exact fixed inputs above.
 The old raw reflection/coset geometry remains attributed to C203.
 The current review is not a new native certificate execution, a full recursive audit of the accepted critical recurrence, or formal verification.
-C448, C847, C745, C408 and C828 appear as comparison or boundary material, not unresolved necessary inputs of RB1--RB12.
+C444v2, C803, C709, C405 and C785 appear as comparison or boundary material, not unresolved necessary inputs of RB1--RB12.
 No claimed novelty is inferred from the bounded local reuse screen.
 The proof does not supply a successful non-J-invariant drift witness, global entrance/continuation control, a finite normalization of sigma, a bound on g'(R), linear complete-bridge K growth or the unrestricted Task conclusion.
 The exact candidate is eligible for a separate whole-proof adoption decision; this finding itself leaves C805's selected assessment unchanged.

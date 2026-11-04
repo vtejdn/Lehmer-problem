@@ -15,8 +15,8 @@ Passages: Distinct original selected scopes: Example3.22 printed92/PDF106; Appen
 Inspection: Original2026-10-10 inspections only. Quadratic/Schur selected displayed calculations were checked; root text-read weak duality at 2026-10-10T11:22 and visually checkedPDF230; the tangent author text-read at 2026-10-10T13:01 without rendered-page inspection. The full original reader/depth/failed-tool and nontransfer boundaries are retained separately below.
 
 
-This source home retains the original accounts from the [existing entrance](readme.md), whose earlier bodies and dates are preserved.
-The construction has read those records and U001, not newly inspected the original PDF or revalidated.
+This source home retains the original accounts from the [existing entrance](readme.md), with their original dates and scope.
+Retaining these accounts performs no new original-PDF inspection or mathematical revalidation.
 U001 sufficiently owns the distinct2026-10-12 separation/support inspection and remains unchanged.
 The three earlier scopes below are not retroactively included in that later unit.
 

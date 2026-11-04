@@ -125,7 +125,7 @@ No precise minute, named original author identity absent from the record, later 
 ## Current exact quartic comparison home
 
 Date: 2026-10-21T21:26.
-The maintaining agent read the ENTIRE C458v2 statement, argument and decisions and all R812 after its actual local checks passed.
+The maintaining agent read the ENTIRE C458v2 statement, argument and decisions and all R665 after its actual local checks passed.
 It compared the complete current k4 mechanism against the actual L191 input already fully read for C456, reusing the unchanged full C456 proof and its actual whole SELF check.
 The new current support is an adequate same-object proof home, not a new mathematical premise or result.
 The displayed A4=[[1,1],[1,4]] is factored by the four actual integer rows(1,1),(0,1),(0,1),(0,1).

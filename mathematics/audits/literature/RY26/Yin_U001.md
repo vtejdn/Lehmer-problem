@@ -23,7 +23,7 @@ Passages: Definition(1.1), Theorems1.1 and1.3 on page2; Proposition2.1 and equat
 Inspection: Direct primary-PDF text reading at these locators and visual checks of pages5,9,23. The construction equations, positive real-root specialization and local two-sided root bound below were checked. No complete audit of the torsion-coset, prime-counting, cyclotomic-counting or global existence/degree-bound proofs.
 
 
-The [actual v1 PDF](../../../literature/pdf/RY26--arxiv-v1.pdf) is retained under.
+The [actual v1 PDF](../../../literature/pdf/RY26--arxiv-v1.pdf) is the retained inspected edition.
 The official explicit-version download supplied the inspected article; no inference from a search-result abstract substitutes for it.
 
 ### Scope of the advertised degree statements
@@ -180,9 +180,10 @@ No new Claim, Task/strategy decision, original Mahler gap, counterexample or nov
 
 Retained 2026-10-22T01:16.
 After the earlier exterior-root screen above, the entropy_attainment_bridge author of L402 again text-read retained arXiv2608.00778v1 printed/PDF pages23--25, including the individual construction, Proposition7.1, its use in Theorem1.3 and the first counting-lemma passages, and visually checked page23.
-The separate R547 angular_envelope_review agent text-read pages23--24 and visually checked page23.
+The separate R402 angular_envelope_review agent text-read pages23--24 and visually checked page23.
 These are distinct actual source-reading occurrences, not one merged primary inspection or a full counting/Vinogradov/global Theorem1.3 proof audit.
 The four-exponent equation7.2 and exact2(x-1)^3 removal apply to the individual n3 construction; n>=10^4 belongs to the every-large-degree representation theorem, which the local schedule does not use.
-Their individual original reading minutes are unknown;21:06 is the earlier source-unit document,21:55 the L402 document and22:10 the R547 whole completion, not reconstructed reading minutes.
+Their individual original reading minutes are unknown.
+The matching retained records date the source-unit document at 2026-10-18T13:06 UTC, L402 at 13:55 UTC and R402 whole completion at 14:10 UTC; the former 21:06/21:55/22:10 descriptions express the same clock values at UTC+08 and are not source-reading minutes.
 The original v1 edition, holding account and uninspected proof boundaries remain unchanged.
 Current maintenance reads these sufficient retained facts without another PDF/source passage, acquisition, numerical prime evaluation or new original-proof review.

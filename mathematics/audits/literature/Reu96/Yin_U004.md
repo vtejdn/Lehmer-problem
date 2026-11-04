@@ -12,7 +12,7 @@ author: Yin
   Local proof reconstruction and self-review; source dependency boundaries are listed below.
 - Kind: characterization theorem, proof transfer, and elimination mechanism.
 - Goal: [Reu96 free-field source audit](readme.md#reu96-free-field-source-audit).
-- Prerequisites: [U001, foundations](Yin_U001.md#reu96-u001); [U002-U002, rational series and height bases](Yin_U002.md#reu96-u002).
+- Prerequisites: [U001, foundations](Yin_U001.md#reu96-u001); [U002, rational series and height bases](Yin_U002.md#reu96-u002).
 
 ## Statement and Conventions
 
@@ -300,9 +300,8 @@ Independent review, 2026-09-08: the height-machinery reviewing agent checked thi
 The review covered simultaneous denominator translation, multiplication order in the inverse-to-star conversion, minimality transfer, canonical pivots, block restrictions, size induction, and the independent star-height converse.
 No unresolved local implication was found; the separate book dependency remains.
 
-## Source and inspection
+## Exact passage and inspection limits
 
-Source edition: Reu96, the retained 17-page published Selecta Mathematica 2 (1996), pp. 93-109, DOI 10.1007/BF01587940. Printed page equals PDF page plus 92. The historically incorrect supplied filename DR97.pdf was corrected with authorization; it is not a citation alias, and the separately registered DR97 article is distinct. No second version was compared.
 
 Passages: Theorem 2.2 and conditions (2.1)-(2.2), printed p. 97 / PDF p. 5; Section 4 and Lemmas 4.1-4.2, printed pp. 105-107 / PDF pp. 13-15; series conventions, printed p. 98 / PDF p. 6.
 

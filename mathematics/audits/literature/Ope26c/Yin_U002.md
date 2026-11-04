@@ -13,7 +13,11 @@ Source edition: Ope26c; [retained PDF](../../../literature/pdf/Ope26c.pdf).
 
 Passages: Manuscript dated 3 October 2026 at commit `adc7f1241b42e322a6451854ab7e4b4c146bf78a`; complete Section 5, Theorem 5.1, Lemmas 5.2--5.3, Corollary 5.4, printed/PDF pp. 12--17.
 
-Inspection: 2026-10-07, AI reviewers working for human author Yin at his explicit request to acquire and audit OpenAI Math families 153 and 148. Separately assigned reviewer read the complete Section 5 PDF text and salem.tex and visually checked pp. 13--14. It rederived the source proof before reading local transition drafts; the assignment had identified the topic but supplied no local derivation. The coordinator adopted the detailed report below at this scope. No proof-assistant check is asserted.
+Inspection: 2026-10-07, AI reviewers working for human author Yin at his explicit request to acquire and audit OpenAI Math families 153 and 148.
+Separately assigned reviewer read the complete Section 5 PDF text and salem.tex and visually checked pp. 13--14.
+It rederived the source proof before reading local transition drafts; the assignment had identified the topic but supplied no local derivation.
+The coordinator adopted the detailed report below at this scope.
+No proof-assistant check is asserted.
 
 
 ## Finding and exact scope

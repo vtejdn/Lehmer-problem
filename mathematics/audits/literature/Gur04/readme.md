@@ -9,7 +9,7 @@ This audit reads the user-supplied published article by Leonid Gurvits, *Classic
 - Local source: [Gur04.pdf](../../../literature/pdf/Gur04.pdf), the current supplied formal article.
 - Edition: published JCSS article, 37 PDF pages; printed page equals PDF page plus 447.
 
-On 2026-10-14 the named U001–U005 interfaces and corrections were compared individually with the current formal passages.
+On 2026-10-14 the named U001–U004 interfaces and corrections were compared individually with the current formal passages.
 U002 corrects its former p.453 square-root attribution; its correct estimate and all other recorded findings remain.
 This comparison does not substitute current bytes for an earlier reviewer's input or broaden the original review depths.
 - Authorization: explicit user request to intake and audit Gur04 together with GGOW20 and MS24, 2026-09-12.

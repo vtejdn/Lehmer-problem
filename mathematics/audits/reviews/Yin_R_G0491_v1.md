@@ -17,7 +17,7 @@ The reviewer coauthored the UJ/UP and other parts of physical C199v3 and assembl
 Those contributions are not independently re-reviewed here.
 C202 uses C199v4 only as an application comparison; its exact actual-field, full-residual, zero-Haar and unique-unsaturated assumptions were matched to the recorded whole v3/v4 findings in R489.
 Neither the reviewer's UP proof nor the C199 unit gate is an unacknowledged premise of the generic lift theorem.
-The reviewer previously supplied R620 for C196v3 and R622 for C197v2; those older independent findings are not extended to the new CL argument.
+The reviewer previously supplied R474 for C196v3 and R476 for C197v2; those older findings at their declared relationships are not extended to the new CL argument.
 The sole invoked older theorem in the primary specialization is C197v3 QX6, QX9 and parity, whose actual R477 coverage was read at that exact scope.
 The reviewer's earlier C191 original-return authorship is outside the logical input set of C202.
 

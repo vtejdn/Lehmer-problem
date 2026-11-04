@@ -226,7 +226,7 @@ It displays separately the high-mass error, relative volume, total packing cost,
 <a id="strictness-concentration-time-barrier"></a>
 ### The cubic comparison forces slow concentration
 
-Let \(D(m)\) denote the explicit lower entropy function in [C G0291](Yin_C_G0290_v1.md#cubic-mahler-comparison-error):
+Let \(D(m)\) denote the explicit lower entropy function in [C290](Yin_C_G0290_v1.md#cubic-mahler-comparison-error):
 
 \[
  D(m)=\max\left\{g(\sqrt{1-e^{-2m}}),

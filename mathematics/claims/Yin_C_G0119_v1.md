@@ -262,7 +262,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-14T21:22 |
 | status | proved |
-| reason | Adopt the complete noncontributor R474 review of every retained tree/counting/original-norm step and direct input. Arbitrary positive real weights and all tree branches are covered without retention or capacity hypotheses, with fixed N paying the full L_N physical-time multiplier. Automatic coverage or bounded remainders and the unrestricted gap remain open. |
+| reason | Adopt the complete noncontributor [R797 original canonical-tree](../audits/reviews/Yin_R_G0797_v1.md#canonical-tree-whole-independent-finding) review of every retained tree/counting/original-norm step and direct input. Arbitrary positive real weights and all tree branches are covered without retention or capacity hypotheses, with fixed N paying the full L_N physical-time multiplier. Automatic coverage or bounded remainders and the unrestricted gap remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

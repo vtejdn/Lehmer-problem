@@ -1,6 +1,6 @@
 # dlH13 source audit
 
-The identifies the retained [arXiv:1107.1059v2 source](../../../literature/pdf/dlH13.pdf), revised 7 July 2012.
+The inspected edition is the retained [arXiv:1107.1059v2 source](../../../literature/pdf/dlH13.pdf), revised 7 July 2012.
 Printed and PDF pages agree.
 The key uses the surname de la Harpe and the formal publication year 2013; the audit concerns this exact 2012 preprint, not an assumed identical PNAS rendering.
 Yin requested registration and audit on 2026-10-06 after the Mahler/determinant discussion.

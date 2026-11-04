@@ -5,7 +5,7 @@ author: Yin
 # Review of the inverse-pair summary qualification and complete single-Haar lower certificate
 
 Recorded 2026-10-21T15:50 for Yin by a separately organized reviewing agent.
-This authorized maintenance review concerns the exact fixed C_G0381_v1 and C_G0382_v1.
+This authorized maintenance review concerns the exact fixed C_G0378_v1 and C_G0379_v1.
 It resumes no Task/E and changes no Claim decision.
 The C378v1 summary has the supported qualification failure specified below, so this review gives C378v1 no whole PASS.
 The complete C379v1 statement and argument pass within their exact mathematical, finite-control and source limits.
@@ -52,26 +52,26 @@ No adequate existing new independent whole review of this exact C379 scope was f
 
 | Review | Relationship |
 | --- | --- |
-| [Initial C381 summary negative](#g381-initial-summary-negative) | independently reviewed |
-| [Exposed whole C381 check](#g381-whole-exposed-check) | self-reviewed |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | independently reviewed |
+| [Initial C378 summary negative](#g381-initial-summary-negative) | independently reviewed |
+| [Exposed whole C378 check](#g381-whole-exposed-check) | self-reviewed |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | independently reviewed |
 
 ## Review bindings
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Initial C381 summary negative](#g381-initial-summary-negative) | [C378v1 exact statement](../../claims/Yin_C_G0378_v1.md#statement) | Only the independently identified hypothetical-sequence qualification failure. |
-| [Exposed whole C381 check](#g381-whole-exposed-check) | [C378v1 exact statement](../../claims/Yin_C_G0378_v1.md#statement) | Whole statement; summary qualification fails, other conclusions retain the original qualified body. |
-| [Exposed whole C381 check](#g381-whole-exposed-check) | [C378v1 exact argument](../../claims/Yin_C_G0378_v1.md#argument) | All Sections1--5/(1)--(21), original units/roots/signs, source33, weights, expenses and sources; exposure disclosed. |
-| [Exposed whole C381 check](#g381-whole-exposed-check) | [Original L357 mathematics and accounts](../../ledger/Yin_L_G0357_v1.md#inverse-unit-bundle-domain) | Whole original body and all historical author/review accounts compared; original sequence conditions retained. |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | [C379v1 exact statement](../../claims/Yin_C_G0379_v1.md#statement) | Whole quantified statement, all epsilon/N, roots, optional source, costs and finite controls. |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | [C379v1 exact argument](../../claims/Yin_C_G0379_v1.md#argument) | All Sections1--6/(1)--(7), roots/multiplicities, lower direction, recurrence, tail costs and limits. |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | [Original L358 mathematics and accounts](../../ledger/Yin_L_G0358_v1.md#single-haar-moment-lower-certificate) | Whole original mathematics and all historical author/source/control/review accounts. |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | [Original J84 code](../../computations/programs/Yin_J_G0084/main.py) | Full code inspection and original-function replay on four original cases; no main(), writer or independent implementation. |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | [J84 original entrance](../../computations/programs/Yin_J_G0084/readme.md) | Original four-case declarations, execution/account boundaries and nonconclusions compared in the second stage. |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | [Original formula source account](../literature/Nat26/Yin_U002.md#nat26-u002) | Actual DLMF18.12.9 identity and precise reading/attribution depth. |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | [Optional sparse source account](../literature/BGMP24/Yin_U001.md#bgmp24-u001) | Proposition4.10 scale substitution and sublevel-source depth; later questioned constant unused. |
-| [Whole isolated C382 finding](#g382-whole-isolated-check) | [Output of the recorded run](../../computations/programs/Yin_J_G0084/readme.md#recorded-runs) | All260 moments, every mathematical case field, intervals and declared finite scope. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0084/data.json`; this target locates that original run's computation account. |
+| [Initial C378 summary negative](#g381-initial-summary-negative) | [C378v1 exact statement](../../claims/Yin_C_G0378_v1.md#statement) | Only the independently identified hypothetical-sequence qualification failure. |
+| [Exposed whole C378 check](#g381-whole-exposed-check) | [C378v1 exact statement](../../claims/Yin_C_G0378_v1.md#statement) | Whole statement; summary qualification fails, other conclusions retain the original qualified body. |
+| [Exposed whole C378 check](#g381-whole-exposed-check) | [C378v1 exact argument](../../claims/Yin_C_G0378_v1.md#argument) | All Sections1--5/(1)--(21), original units/roots/signs, source33, weights, expenses and sources; exposure disclosed. |
+| [Exposed whole C378 check](#g381-whole-exposed-check) | [Original L357 mathematics and accounts](../../ledger/Yin_L_G0357_v1.md#inverse-unit-bundle-domain) | Whole original body and all historical author/review accounts compared; original sequence conditions retained. |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | [C379v1 exact statement](../../claims/Yin_C_G0379_v1.md#statement) | Whole quantified statement, all epsilon/N, roots, optional source, costs and finite controls. |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | [C379v1 exact argument](../../claims/Yin_C_G0379_v1.md#argument) | All Sections1--6/(1)--(7), roots/multiplicities, lower direction, recurrence, tail costs and limits. |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | [Original L358 mathematics and accounts](../../ledger/Yin_L_G0358_v1.md#single-haar-moment-lower-certificate) | Whole original mathematics and all historical author/source/control/review accounts. |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | [Original J84 code](../../computations/programs/Yin_J_G0084/main.py) | Full code inspection and original-function replay on four original cases; no main(), writer or independent implementation. |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | [J84 original entrance](../../computations/programs/Yin_J_G0084/readme.md) | Original four-case declarations, execution/account boundaries and nonconclusions compared in the second stage. |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | [Original formula source account](../literature/Nat26/Yin_U002.md#nat26-u002) | Actual DLMF18.12.9 identity and precise reading/attribution depth. |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | [Optional sparse source account](../literature/BGMP24/Yin_U001.md#bgmp24-u001) | Proposition4.10 scale substitution and sublevel-source depth; later questioned constant unused. |
+| [Whole isolated C379 finding](#g382-whole-isolated-check) | [Output of the recorded run](../../computations/programs/Yin_J_G0084/readme.md#recorded-runs) | All260 moments, every mathematical case field, intervals and declared finite scope. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0084/data.json`; this target locates that original run's computation account. |
 
 <a id="g381-initial-summary-negative"></a>
 ## Initial statement qualification finding
@@ -204,8 +204,8 @@ No later version is silently substituted.
 The underlying general potential-theoretic discrepancy proof and house theorem remain accepted external results.
 This inspection is not a whole-source proof audit.
 
-In the second stage the corresponding necessary C323/C377/C244/C360 interface slices were compared with these original L homes.
-Their needed mathematics agrees; the differences are moved link paths, C244's heading level and its later endpoint locator.
+In the second stage the corresponding necessary C322/C374/C243/C359 interface slices were compared with these original L homes.
+Their needed mathematics agrees; the differences are moved link paths, C243's heading level and its later endpoint locator.
 That all-positive-power endpoint is not a premise of the actual Salem field calculation here.
 No whole audit of those dependency Claims is asserted.
 

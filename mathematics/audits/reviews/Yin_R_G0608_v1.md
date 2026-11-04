@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T17:52.
 Human operator: Yin.
 The agent read all519lines of original L173 and all270original lines of R72, including complete mathematical/contribution/self-check/source/retirement accounts and exact old binding scopes.
-It read the entire actual published C404v1/C405v1 statements and retained arguments, complete C203 and C236 qualitative/support/comparison interfaces, the needed C282 norm-grid argument, complete C403 fixed-core and C375 genuinely restricted-core/ESS interfaces and the full adequate Pet20-U001 accepted source record.
+It read the entire actual published C404v1/C405v1 statements and retained arguments, complete C203 and C235 qualitative/support/comparison interfaces, the needed C281 norm-grid argument, complete C400 fixed-core and C372 genuinely restricted-core/ESS interfaces and the full adequate Pet20-U001 accepted source record.
 It rederived every new Claim implication below and compared the full original necessary proof bodies, without inferring mathematical sufficiency or independence from an old PASS.
 The original standard statements and fixed input proofs are reused at their actual accepted depths.
 No native computation, new source/PDF read or acquisition, source-proof/formal-assistant audit, discovery run or Task/E execution occurred.
@@ -50,7 +50,7 @@ Weighted Cauchy--Schwarz and nonnegative summation prove the full Schur norm est
 The floor inequality has the correct direction and gives precisely 2M exp(gamma)exp(-gamma n), with a beta-only upper prefactor and no degree factor.
 Finite closed-word prefix/suffix estimates give p_n=K^n(0,0) for every Salem beta in(1,2), regardless of other strip points' returnability.
 The norm-root formula applies to the bounded operator in a complex unital Banach algebra at Pet20-U001's accepted statement/applicability depth.
-The exact one-expanding C236/C210 support bound gives p_n>=C_beta^-1 n^-s beta^-n at fixed input, hence the lower spectral radius.
+The exact one-expanding C235/C210 support bound gives p_n>=C_beta^-1 n^-s beta^-n at fixed input, hence the lower spectral radius.
 All positive-radius/logarithm operations are justified by the resulting positive interval.
 The m-gamma comparison and log-cosh estimate retain the exact m^2/(2log2)width, not an equality for an actual entropy deficit.
 The n limit precedes each hypothetical small-m input limit.
@@ -86,8 +86,8 @@ Pet20-U001's complex unital Banach spectral-radius formula therefore proves exac
 
 For every Salem full strip, membership supplies the two nonneutral bounds, while finite zero-word prefix/suffix inequalities give the same exact diagonal probability without arbitrary strip co-return.
 The specialized C_beta=(2B+2)(2S+2)8^s,q=d-2and the all-n logarithmic overhead follow with the displayed normalization.
-Only the two fixed inputs use complete C403 to identify strip and actual core.
-The accepted C236 fixed-input entropy comparison and C203 one-step norm give the contrasted linear long-time and quadratic one-step small-m scales.
+Only the two fixed inputs use complete C400 to identify strip and actual core.
+The accepted C235 fixed-input entropy comparison and C203 one-step norm give the contrasted linear long-time and quadratic one-step small-m scales.
 Their degree-dependent finite-time overhead is not uniform at n=O(d).
 
 The degree-at-least4three-coefficient pigeonhole construction provides nonzero algebraic h with both real coordinates arbitrarily small.
@@ -104,7 +104,7 @@ The reverse bound is automatic, and n=0 also proves the compact ideal is proper 
 Pet20's closed-ideal/quotient norm and norm-root formula yield equality of ordinary and essential spectral radii.
 These conclusions are for Salem full strips, without an unwarranted assertion about a possibly finite general-unit core.
 
-Section8 explicitly adds nontorsion and the complete C375 finite genuinely restricted D_S theorem at its unchanged ESS statement/applicability depth.
+Section8 explicitly adds nontorsion and the complete C372 finite genuinely restricted D_S theorem at its unchanged ESS statement/applicability depth.
 It does not substitute the possibly infinite ambient S-unit intersection.
 Nested prime sets preserve complete admissible words, and entrywise domination plus absolute-value test vectors proves power-norm and radius domination for these nonnegative kernels.
 For positive n the prime divisors of all nonzero states on all closed words of length<=n form a finite nested S_n.

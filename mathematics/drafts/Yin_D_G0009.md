@@ -371,7 +371,7 @@ The two separate controls establish only the precise failures of the attempted i
 
 The remaining useful target is genuinely global: an additional property of the ACTUAL H coupling F to its beta or beta^(-1) directions, strong enough to force trace nonsummability or constrain the remote triple ratios.
 Neither existing singularity nor the finite reflected block equations supply that property.
-This bounded failed comparison uses no new native computation and does not revisit C852's separate all-power result.
+This bounded failed comparison uses no new native computation and does not revisit C806's separate all-power result.
 
 <a id="full-trace-pair-coupling"></a>
 ## Full trace-pair coupling and a finite obstruction to the tuned trace marginal
@@ -761,7 +761,7 @@ The actual full core is mixing and its original edge potential has summable vari
 Those facts do not remove a new theorem's other hypotheses.
 Here the needed implication is proved directly for deletion of zero, using the exact boundary rows already fixed in C785.
 
-The reuse screen read [C546's complete weighted periodic and avoidance identities](../claims/Yin_C_G0546_v1.md#actual-periodic-congruence-diagonal), [C511's separate first-return radius](../claims/Yin_C_G0511_v1.md#prescribed-zero-mass-frontier), C593 v2's original-clock exponential-moment interface, C408's counting-space essential-radius boundary and C852's actual weighted-space boundary.
+The reuse screen read [C546's complete weighted periodic and avoidance identities](../claims/Yin_C_G0546_v1.md#actual-periodic-congruence-diagonal), [C511's separate first-return radius](../claims/Yin_C_G0511_v1.md#prescribed-zero-mass-frontier), C593 v2's original-clock exponential-moment interface, C408's counting-space essential-radius boundary and C806's actual weighted-space boundary.
 The selected arguments and targeted searches did not supply the nonzero-core connectivity and identification CL3--CL6 below, or the desired arithmetic upper bound.
 Classical recurrence and finite-connector comparison remain attribution to the existing source interfaces; no general pressure theorem is newly adopted.
 
@@ -771,7 +771,7 @@ Keep the original killed core kernel P_D and put
     F(z)=sum_(n>=1) f_n z^n,   R_f=radius(F).              CL1
 
 B_0 retains the original probabilities and is not row normalized.
-It is different from the critical killed Doob kernel Q_0 of C852.
+It is different from the critical killed Doob kernel Q_0 of C806.
 The actual recurrence F(R)=1 and [C796's strict R<beta](../claims/Yin_C_G0796_v1.md#decision-whole-reviewed-2026-10-26) are available, but R_f>R is not assumed.
 
 For a finite set K containing zero, write G=D minus K, B_K=P_D restricted to G, and define the complete nonnegative diagonal sum
@@ -870,8 +870,8 @@ The original-to-critical path factor telescopes on every fixed pair, giving
     limsup_n Q_0^n(x,y)^(1/n)=R/R_f.                     CL9
 
 This is a fixed-entry rate.
-It is not the l2(sigma) operator spectral radius, which C852 proves is exactly1, with every power having essential norm1.
-C852's escaping normalized corridors and CL9 can therefore hold simultaneously even under the conditional strict inequality R_f>R.
+It is not the l2(sigma) operator spectral radius, which C806 proves is exactly1, with every power having essential norm1.
+C806's escaping normalized corridors and CL9 can therefore hold simultaneously even under the conditional strict inequality R_f>R.
 No conclusion about a fixed-entry rate is drawn from those nonclosed corridors.
 
 ### What a general finite deletion and finite-period geometry do not supply

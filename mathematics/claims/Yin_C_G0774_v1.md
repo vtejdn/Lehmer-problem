@@ -22,7 +22,7 @@ In particular Q=2^ell with ell>=82, m=Q/4-2, A=2m, phi=X^2+X+1 and
     n_free=2N-1, M=n_free-t, r=m/2+1,
     D=96A+degY_half, w_H=wt(H).
 
-Normalize P_X=X without changing the target, as justified in C810.
+Normalize P_X=X without changing the target, as justified in C768.
 The whole actual target fiber has2^M outputs.
 For EACH separately selected sigma in{1,-1}, there are ACTUAL monic reciprocal integer polynomials of height1 in that fiber, with the original complete factorization
 
@@ -79,13 +79,13 @@ No irreducible passing input, simultaneous second-four success for both signs at
 
 C772 and C773 both consume the actual C767 source and its SAME copied target with A=2m and J=Y_half phi^(4A).
 They retain the same original coupled N/n, source jets, factor-lift reference and actual canonical definitions.
-If necessary C810 normalizes the X lift: changing its even power A changes T_base by a multiple of4, leaving Vbar and the actual sign fiber unchanged.
+If necessary C768 normalizes the X lift: changing its even power A changes T_base by a multiple of4, leaving Vbar and the actual sign fiber unchanged.
 No other coefficient or source is replaced by this normalization.
 The low/high jets needed by C773 and original plateau needed by C772 are simultaneously supplied by C767 at every original s.
 
 C773 proves O_QF=0 for every such source and chosen reference.
-C812's exact image theorem, consumed in C773, therefore gives a nonempty actual derivative-zero fiber of size2^(M-r), common to both separate signs.
-C810's every-primary criterion makes this precisely the subset admitting an arbitrary integer4W repair of degree below degT.
+C770's exact image theorem, consumed in C773, therefore gives a nonempty actual derivative-zero fiber of size2^(M-r), common to both separate signs.
+C768's every-primary criterion makes this precisely the subset admitting an arbitrary integer4W repair of degree below degT.
 Apply adopted C772 to one such ACTUAL target output and the chosen sign.
 It supplies an original supported height-one T with F_T=X_(sigma,T)=0 modulo4, at least2^(n_free-7D) such outputs, and one with at most7D flips, at the unchanged original degree and source cost.
 This step uses C772's actual0/1 column construction and canonical continuity; an arbitrary correction is not itself assumed height one.
@@ -95,7 +95,7 @@ This step uses C772's actual0/1 column construction and canonical continuity; an
 The true same-divisor identity X_(+1,T)-X_(-1,T)=2G_T and nonzero G_Tbar exclude simultaneous divisibility by4.
 If one residual is divisible by4, the other is congruent to the nonzero class2G_T modulo4 and is globally even by C767, so its coefficient valuation is exactly1.
 The two original selected-sign solution sets are disjoint.
-Each is contained in the common derivative-zero set by taking W=0 in C810's equivalence.
+Each is contained in the common derivative-zero set by taking W=0 in C768's equivalence.
 Their UNION consequently has size at most2^(M-r), not twice that bound.
 C772 gives the separate lower bounds in HF2 without an equal-fiber assumption about its modulo-eight bit map.
 The exact repairability and failure counts follow from C773, and do not assert equality with the uncorrected selected-sign counts.

@@ -8,7 +8,7 @@ Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of C683 and its structured-power, fourth-remainder and first-retuning arguments.
 This is the reviewer's first whole review of fixed C683 v1, including its entire statement, all six proof sections FP2--FP7 and formulas FP1--FP17.
 The fixed target was read before forming the finding, followed by the exact selected fixed inputs and directly necessary proof passages.
-The reviewer retained its own [C710 review](Yin_R_G0901_v1.md#whole-first-preserving-low-elimination-finding), [C705 review](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding) and [C702 review](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding), rechecked their current fixed interfaces, and reused only unchanged applicable scope.
+The reviewer retained its own [C680 review](Yin_R_G0901_v1.md#whole-first-preserving-low-elimination-finding), [C675 review](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding) and [C672 review](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding), rechecked their current fixed interfaces, and reused only unchanged applicable scope.
 The new q-power eta, both-sign fourth-power integer divisions, first-quarter square target and complete actual first-retuning calculation were judged afresh.
 No D35 or other draft, author development dialogue or summary, candidate derivation, other-agent inventory, native output or another reviewer's R was consulted.
 No native computation, coefficient search, parameter enumeration or external source acquisition was used.

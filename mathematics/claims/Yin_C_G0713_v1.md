@@ -10,7 +10,7 @@ Earlier_bit_obstruction and root contributed the following author mathematics.
 Root suggested the earlier8Phi^(4A)M source and supplied the short low-error argument after the actual quotient calculation was established.
 The present author derived the actual level-four half, the needed quotient estimate, the cancellation in the obstruction and the complete restricted image and cost.
 Root proposed the stronger actual non-phi32 argument and its preservation after pullback; the present author checked every composition, coefficient and same-divisor substitution against C694.
-The fixed C689, C736, C706, C707, C708 and C710 interfaces were read before this derivation; they provide sufficient actual polynomial mechanisms, so no external theorem or native computation is invoked.
+The fixed C689, C702, C706, C707, C708 and C710 interfaces were read before this derivation; they provide sufficient actual polynomial mechanisms, so no external theorem or native computation is invoked.
 This changes an earlier coefficient bit before C710's final16V fiber and therefore does not contradict its fixed-fiber invariance.
 The following argument is not an independent review and awaits fresh isolated whole scrutiny.
 The [D5 earlier-bit section](../drafts/Yin_D_G0005.md#earlier-bit-sixteenth-obstruction-image) is development provenance, not a logical dependency.
@@ -267,7 +267,7 @@ Its image has dimension5A; the full initial X16 coefficient fiber has dimension 
 Therefore exactly2^(d-8A) binary V classes work, matching OB4 at l=1.
 Every needed u has degree<5A and its correction phi^(3A/2)u has degree<8A<d.
 This is an actual SAME-DEGREE first32/second16 result under the square-e premise, with every full primary retained.
-The original degree, binary canonical data, maximal lq where supplied by C724, reciprocal degree2ld and separate synthetic layer12l m_src q, where m_src=Q/4-2 is the original scalar C724 parameter rather than the correction polynomial m, are exactly those in C710.
+The original degree, binary canonical data, maximal lq where supplied by C691, reciprocal degree2ld and separate synthetic layer12l m_src q, where m_src=Q/4-2 is the original scalar C691 parameter rather than the correction polynomial m, are exactly those in C710.
 The source itself may have been selected at a larger q by a separate derivative theorem; that is an explicit changed input and is never free degree.
 No simultaneous32 result, characteristic-zero equation, equality of synthetic and actual G, or unrestricted G0001 conclusion follows here.
 

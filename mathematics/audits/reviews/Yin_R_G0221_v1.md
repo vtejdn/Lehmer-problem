@@ -29,11 +29,16 @@ Only this new fixed R is written.
 No native mathematical program, numerical phase experiment, solver, source-foundation audit or new J was used.
 This is not formal verification or unrestricted G0001 completion.
 
+The initial complete amended C13 argument included the author's result, extension and validation conclusions, including the combined lifting self-check, beyond the necessary proof.
+The amended whole finding therefore has a self-reviewed relationship.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole amended finding](#nonreal-fixed-seed-profile-whole-finding) | independently reviewed |
+| [Whole amended finding](#nonreal-fixed-seed-profile-whole-finding) | self-reviewed |
 
 ## Review bindings
 

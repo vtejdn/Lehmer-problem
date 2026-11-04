@@ -12,11 +12,11 @@ The publication time above is later than both completed inspections and does not
 A separately arranged agent, outside substantive development of this proof, directly read the complete fixed C501 Statement and Argument and the necessary fixed mathematical interfaces.
 Its fresh context supplied the exact target locations, scope and rules, without proof-development discussion or a mathematical summary.
 It supplied no proof step or repair.
-The actual first phase ran from 2026-10-22T04:12 to 04:20, before any formal original R107 account or current R857 whole SELF was opened.
-The coordinator then separately authorized comparison with complete original R107, current R857, complete L208, all C501 assessments and checking accounts, and the complete J44 evidence.
+The actual first phase ran from 2026-10-22T04:12 to 04:20, before any formal original R107 account or current R710 whole SELF was opened.
+The coordinator then separately authorized comparison with complete original R107, current R710, complete L208, all C501 assessments and checking accounts, and the complete J44 evidence.
 The complete material and historical comparison ran from 2026-10-22T04:21 to 04:28; preparation of the two complete review texts continued to 04:31.
 
-Necessary fixed-body and native inputs already exposed original author/type/checking history, the J44 README's old whole/current-SELF labels, the checker's Independent/D74 labels and existing native report, and C480's fixed header history.
+Necessary fixed-body and native inputs already exposed original author/type/checking history, the J44 README's old whole/current-SELF labels, the checker's Independent/D74 labels and existing native report, and C476's fixed header history.
 These exposures are disclosed, not used as a PASS premise or a claim of a fully blind inspection.
 No transcript filter or historical-context reconstruction was used.
 
@@ -73,7 +73,7 @@ For f(x)=cos(tx_+), c<=f<=1 and log f is bounded.
 Every full original successor has expanding absolute value at most B+2, so its cosine is nonnegative and killing can only decrease the full sum.
 Thus Kf<=kappa f, and each supported stochastic Q row makes Kf positive.
 Log-sum comparison with the positive weights p_eta f(next), followed by bounded stationary coboundary cancellation, gives I(Q)>=-log kappa for every genuinely admissible rooted positive-recurrent law.
-Only then does the exact C483 variational infimum give the h_2 lower bound.
+Only then does the exact C479 variational infimum give the h_2 lower bound.
 Its near-one asymptotic is pi_number^2(beta-1)^2/16, and the accepted symbolic linear-in-m bound is stronger in order.
 No explicit comparison with an unknown numerical external constant is made.
 
@@ -116,15 +116,15 @@ No separate repair minute, new historical whole event, substantive proof-gap rep
 The original initial and final reports differ precisely in their author-character-integer-type flag, while the retained mathematical checks and counts agree.
 Later ordinary output-path maintenance is not attributed to the original review date.
 
-The current R857 whole SELF occurred at 2026-10-22T01:56, and C501 adopted it at 09:57.
+The current R710 whole SELF occurred at 2026-10-22T01:56, and C501 adopted it at 2026-10-22T01:57.
 Those actual earlier events and the original author SELF retain their own scopes.
 A later adoption of this new independent finding must be a real new C decision rather than a rewrite of those old events.
 Publication of this R alone changes no current Claim selection.
 
 ## Fixed inputs and remaining limits
 
-C403's conditional strict-strip/packing interfaces, the named C399/C402/C480 fixed full-core premises, C483's actual rooted variational interface and C281's symbolic collision comparison were read at their necessary scopes.
-The C322/C328/C367v2 fair-sign smoothing, bounded-center and actual-product comparisons were checked as retained comparison interfaces, without transferring them to the original difference law.
+C400's conditional strict-strip/packing interfaces, the named C396/C399/C476 fixed full-core premises, C479's actual rooted variational interface and C280's symbolic collision comparison were read at their necessary scopes.
+The C321/C327/C364v2 fair-sign smoothing, bounded-center and actual-product comparisons were checked as retained comparison interfaces, without transferring them to the original difference law.
 This review does not independently re-prove all those upstream results or their old certificates, BV20, or every historical SELF.
 No new external theorem, primary PDF/source-proof audit or formal verification is claimed.
 General Salem full-core coverage, arbitrary irrational-character false positives, quantitative neutral tightness, a near-one family, a zero-cost actual stationary law and an unrestricted gap remain excluded.

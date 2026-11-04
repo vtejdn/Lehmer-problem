@@ -28,11 +28,11 @@ This R records evidence and makes no Claim adoption or Task-completion decision.
 | [Whole finding](#whole-binary-period-six-finding) | [C843 exact statement](../../claims/Yin_C_G0843_v1.md#statement) | Entire A--D, ST1--ST4 and accompanying conditions: original irreducible reciprocal unit domain, every actual residue tuple and degree, all 48 labeled degree-six lifts, signed support-run lemma and all exceptional products, original ideal/zero/support/length/degree costs, computable rational gap, low degrees and finite-union corollary, with all exclusions. |
 | [Whole finding](#whole-binary-period-six-finding) | [C843 complete argument](../../claims/Yin_C_G0843_v1.md#complete-argument) | Every step of BP1--BP6, including degree parity, all three reflection shapes, exact two-block identity, integral ideal membership, strictness and circle zeros, complete support case splits, both cyclotomic cases, golden-ratio case, bijective reversal, fixed finite family, effective transfer and all-degree restoration. |
 | [Whole finding](#whole-binary-period-six-finding) | [C843 fixed OPEN decision](../../claims/Yin_C_G0843_v1.md#decision-binary-period-six-gap-open) | Exact statement/argument selections and its sole adopted C842 dependency; this binding does not itself change the assessment. |
-| [Whole finding](#whole-binary-period-six-finding) | [C842 adopted decision](../../claims/Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | Reused ST1--ST6 and FG2--FG3/EF1--EF6 finite-family theorem, actual integer ideal and zero-value treatment, effective rational certificate and C394 low-degree completion; PF3 and retained total-Mahler conventions; binary periods through five only for the finite-union corollary. Exact applicability was checked without repeating C842's whole review or upgrading its source limits. |
+| [Whole finding](#whole-binary-period-six-finding) | [C842 adopted decision](../../claims/Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | Reused ST1--ST6 and FG2--FG3/EF1--EF6 finite-family theorem, actual integer ideal and zero-value treatment, effective rational certificate and C391 low-degree completion; PF3 and retained total-Mahler conventions; binary periods through five only for the finite-union corollary. Exact applicability was checked without repeating C842's whole review or upgrading its source limits. |
 | [Whole finding](#whole-binary-period-six-finding) | [C842 fixed-reversal auxiliary class](../../claims/Yin_C_G0842_v1.md#fixed-reversal-auxiliary-class) | Monic finite integral family, actual degree in reversal, M(G)<2, original nontorsion irreducible unit P and original exponent D; hypotheses matched for all D above the effective cutoff. |
 | [Whole finding](#whole-binary-period-six-finding) | [C842 effective finite-family proof](../../claims/Yin_C_G0842_v1.md#effective-fixed-reversal-auxiliary-gap) | EF1--EF6 interfaces: finite negativity search, D>6J frequency cutoff, raw modulus-two scaling, original norm and nonzero guard, K=14/S=7/C=7/4 large-degree substitution, B0=max(55,6J), independent bounded-degree height floor and strict rational output. Algorithms are reused, not executed. |
 | [Whole finding](#whole-binary-period-six-finding) | [C842 strict coefficient energy](../../claims/Yin_C_G0842_v1.md#pf3-the-strict-coefficient-energy-test) | Nonmonomial strict Jensen/Parseval including integrable circle zeros, monic monomial convention and applicability to G and (x-1)G. |
-| [Whole finding](#whole-binary-period-six-finding) | [C892 prior independent finding](Yin_R_G1062_v1.md#whole-short-period-gap-finding) | Its arrangement and explicit bindings were inspected after the new target's initial mathematical findings, solely to confirm the accepted C842 input scope; no earlier period-six review or new whole C842 audit is asserted. |
+| [Whole finding](#whole-binary-period-six-finding) | [C842 prior independent finding](Yin_R_G1062_v1.md#whole-short-period-gap-finding) | Its arrangement and explicit bindings were inspected after the new target's initial mathematical findings, solely to confirm the accepted C842 input scope; no earlier period-six review or new whole C842 audit is asserted. |
 
 ## Original domain, reflection and auxiliary identity
 
@@ -177,7 +177,7 @@ The same finite frequency bound D>6J, the raw modulus scaling delta_raw=2 delta 
 The short-annihilator step excludes F_D(alpha)=0 under the small-measure contradiction hypothesis before the nonzero norm is used.
 No nonzero norm is assigned to an unchecked zero value.
 
-For D<=B0, C842 EF6's accepted C394 input supplies a positive rational v_low below a height floor for every nontorsion unit in that bounded degree range, without a periodic-residue hypothesis.
+For D<=B0, C842 EF6's accepted C391 input supplies a positive rational v_low below a height floor for every nontorsion unit in that bounded degree range, without a periodic-residue hypothesis.
 Since log M(P)=D times absolute height, it also supplies the needed lower bound for the original total logarithmic measure.
 This completes degrees 2,4,6 and every other degree at most B0 without assuming a nonexistent full reflection pattern at the small degrees.
 The finite algorithmic output g=(1/2)min(u/C,v_low) is positive rational and yields the strict inequality log M(P)>g in both ranges.
@@ -190,7 +190,7 @@ This finite union makes no arbitrary-period or modulus-uniform assertion.
 ## Dependency, source and verification limits
 
 C842's adopted finite-family theorem, effective proof and strict energy lemma are resolved inputs at their exact accepted scope.
-Its R1062 relationship and binding declarations match those interfaces; this review does not recursively re-audit C842, C137, C92, C394 or the original external sources.
+Its R1062 relationship and binding declarations match those interfaces; this review does not recursively re-audit C842, C137, C92, C391 or the original external sources.
 The present deduction has no cycle through C843, the mutable D44, or a not-yet-run computation.
 D44 is extraction provenance only and was not consulted.
 

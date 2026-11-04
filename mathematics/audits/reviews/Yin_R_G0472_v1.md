@@ -9,7 +9,7 @@ Root assigned draft_comparison_cleanup to review the complete actual C194v2, ini
 Root and draft_inventory_later contributed the old linear theorem and the new quadratic classification, local branches and assembly.
 This reviewer supplied no construction, classification, valuation branch, estimate or repair of either version.
 The arrangement is nonblind: the assignment and shared research context were available.
-The reviewer previously whole-checked C194v1 in R470 and the upstream C191v2 in R614, with no author contribution to those arguments.
+The reviewer previously whole-checked C194v1 in R470 and the upstream C191v2 in R468, with no author contribution to those arguments.
 Its separate D35 rational real-order example is not a premise or proof contribution to this integer canonical classification.
 The complete actual v2 statement, eight proof sections, formulas(1)--(21), six input rows and current declaration were read.
 A direct source-text comparison confirms that Sections1--3 are unchanged from v1 and Section4 changes only its heading and the final scope sentences introducing the quadratic continuation.
@@ -20,7 +20,7 @@ No mathematical program, parameter scan, numerical root, source acquisition or a
 The initial shared-context arrangement, including the first constant/linear review reused here, does not establish isolation sufficiently before the first mathematical judgment.
 The reviewer's own earlier findings and the fixed actual successor proof are legitimate inputs rather than evidence of author-development participation.
 The whole-v2 finding therefore has an unknown relationship, including its exact unchanged-v1 reuse and new quadratic coverage.
-The original date, complete mathematical checks and exact bindings remain unchanged, with no new review performed; R470 and R614 also retain unknown initial context at their respective scopes.
+The original date, complete mathematical checks and exact bindings remain unchanged, with no new review performed; R470 and R468 also retain unknown initial context at their respective scopes.
 
 ## Review relationships
 

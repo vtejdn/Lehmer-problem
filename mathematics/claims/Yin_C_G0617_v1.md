@@ -6,8 +6,8 @@ author: Yin
 Human author Yin.
 The same_trace contributor derived the all-order finite reduction, authored both J123 implementations and completed the explicit product and group-image argument under the [active all-strategy Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23).
 The root agent supplied the proposed square-saturation direction as a question, not an accepted assertion.
-The local reuse check inspected the complete C199v4/v5 gate and complement, C609v2's all-order character, C608's whole-root recurrence and C634's exact failed-gate family.
-The present question is materially different from C634's canonical-remainder construction: it determines two entire finite local images and tests a proposed group-theoretic descent.
+The local reuse check inspected the complete C199v4/v5 gate and complement, C609v2's all-order character, C608's whole-root recurrence and C613's exact failed-gate family.
+The present question is materially different from C613's canonical-remainder construction: it determines two entire finite local images and tests a proposed group-theoretic descent.
 The [D1 continuation](../drafts/Yin_D_G0001.md#complete-group-square-saturation) is author provenance, not a proof input.
 Both native implementations are contributor work; a fresh whole review remains required.
 
@@ -60,7 +60,7 @@ This character fact uses an exact derivative identity and no further finite quot
 No minimal-conductor assertion is made.
 
 The result supplies neither an actual full normalized A_0>=4 gate seed nor an exclusion of every such seed.
-It does not construct the same actual monic T, canonical R_0, complement B, Gamma modulo8, second residual, first-error compatibility or original five-layer integers required by C199/C624.
+It does not construct the same actual monic T, canonical R_0, complement B, Gamma modulo8, second residual, first-error compatibility or original five-layer integers required by C199/C603.
 It does not infer a global Frobenius root, a smaller characteristic-zero field, an all-depth image theorem or the original G0001 conclusion.
 
 ## Argument

@@ -3,6 +3,13 @@ author: Yin
 ---
 # Actual normalized ideal descent and three-state termination
 
+## Native input availability
+
+The selected fifty-cell,818-word cover and its rational auxiliary-vertex certificates are unavailable in this checkout and its selected local Git history.
+verify_hulls.py and review_independent.py cannot currently replay those selected native inputs.
+The exact compact-residue program remains available, but it does not reconstruct the floating-selected cover words.
+Supply only the original adopted word/vertex payload at this group's tracked inputs/ and repair the shared consumers without retaining incidental hull diagnostics.
+
 ## Question and scope
 
 For the degree-six Salem root of t^6-t^5-t^3-t+1 and I=(2,beta^2+beta+1), certify normalized four-real-dimensional neutral displacements c/||c||^2 of original words whose translation lies in I, then check the complete actual ideal residue at radius5/2.
@@ -86,7 +93,7 @@ General Salem termination, varying-input cost control, original-law weighted tai
 The original complete noncontributor proof-and-certificate finding reported a full pass at its actual2026-10-10 scope; [the later complete comparison](../../../audits/reviews/Yin_R_G0689_v1.md#l199-and-r98) preserves that old R98 result, actual inputs/date/native limits and UNKNOWN initial relationship.
 The current C476 decision adopts the [complete independent whole finding in R689](../../../audits/reviews/Yin_R_G0689_v1.md#independent-degree-six-ideal-core-whole-finding).
 The [earlier complete R685 whole finding](../../../audits/reviews/Yin_R_G0685_v1.md#current-degree-six-ideal-core-whole-finding) remains SELF and does not establish the original reviewer's isolation.
-R689 separately records its later 2026-10-22 original-domain reviewer-checker execution of 11.844 seconds, complete field-for-field report agreement and unchanged bytes across all twelve original files.
+R689 separately records its later original-domain reviewer-checker execution at 2026-10-21T23:11--2026-10-21T23:12 of 11.844 seconds, complete field-for-field report agreement and unchanged bytes across all twelve original files.
 That later check preserves the original native execution dates and the earlier maintenance account's actual no-new-run scope; this navigation update runs no code or verifier.
 Its nonblocking wording clarification explicitly distinguishes ideal membership of block endpoints and complete translations from intermediate digit states, whose residues need not stay zero.
 The original [targeted reread](../../../audits/reviews/Yin_R_G0098_v1.md#degree-six-original-ideal-wording-reread-finding) is narrow SELF because the same reviewer supplied the concrete residue1 countercheck and mathematical endpoint/block explanation before the author amended the sentence and the reviewer checked that clarified interface.
@@ -94,7 +101,7 @@ The original [targeted reread](../../../audits/reviews/Yin_R_G0098_v1.md#degree-
 
 The complete [C478 arithmetic connection](../../../claims/Yin_C_G0478_v1.md#degree-six-principal-saturation-fixed-scope) proves I=(beta^3-1)O=(1-beta^(-3))O of index4 and rho(1-beta^(-3))^2=(beta+beta^(-1))^2-1 in(3,4), in an actual input saturated at the full doubling resultant.
 The coordinator supplied its new cross-route derivations; its current decision adopts the [complete independent whole finding in R697](../../../audits/reviews/Yin_R_G0697_v1.md#c482-whole-independent-finding).
-The [earlier R686 whole finding](../../../audits/reviews/Yin_R_G0686_v1.md#current-degree-six-principal-whole-finding) remains SELF, while the [entire original R697 whole](../../../audits/reviews/Yin_R_G0697_v1.md#l200-and-r99) retains its UNKNOWN initial relationship and the original listed author checks remain separately SELF.
+The [earlier R686 whole finding](../../../audits/reviews/Yin_R_G0686_v1.md#current-degree-six-principal-whole-finding) remains SELF, while the [entire original R99 whole](../../../audits/reviews/Yin_R_G0697_v1.md#l200-and-r99) retains its UNKNOWN initial relationship and the original listed author checks remain separately SELF.
 These identities do not replace the complete hull or compact-slice certificates here and assert no uniform inverse, control-cost or arithmetic-income bound.
 
 ## Reproducing reviewed runs

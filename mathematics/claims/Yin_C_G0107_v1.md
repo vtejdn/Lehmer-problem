@@ -527,7 +527,7 @@ Author checking reconstructed the rank-three matrix and all minor signs; first/l
 The inaccurate initial continuation sentence conflating fixed-coefficient circle zeros with field conjugates was corrected BEFORE freeze and its mathematical distinction is fully retained in Section9.
 No other proof gap was found by this author check.
 
-The direct inputs remain C103, the exact F109 coefficient-Gram maximum, L66, the actual L8 control, Pri11-U001 and L168's finite degree-escape lemma at their stated scopes.
+The direct inputs remain C103, the exact C_F6 coefficient-Gram maximum, L66, the actual L8 control, Pri11-U001 and L168's finite degree-escape lemma at their stated scopes.
 Existing comparison/attribution accounts are not promoted to stronger dependencies.
 The whole proof is this author's contribution; root supplied direction and scope requests, not a new proof step.
 This freeze is not independent review or Claim adoption.
@@ -685,7 +685,7 @@ The recorded review description was `under review`.
 | date | 2026-10-14T19:56 |
 | status | proved |
 | review-status | independently reviewed |
-| reason | Adopt R462's independent whole review of actual A--E, the entire retained argument and every direct input. Exact signed invariants, their paid norm/denominator costs, actual nonzero column values and the quantitative same-symbol PSD-distance obstruction are established at their stated Salem scope. No general spectral impossibility or unrestricted Mahler gap is inferred. |
+| reason | Adopt [R796 original signed-Gram](../audits/reviews/Yin_R_G0796_v1.md#signed-gram-whole-independent-finding)'s independent whole review of actual A--E, the entire retained argument and every direct input. Exact signed invariants, their paid norm/denominator costs, actual nonzero column values and the quantitative same-symbol PSD-distance obstruction are established at their stated Salem scope. No general spectral impossibility or unrestricted Mahler gap is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

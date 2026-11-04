@@ -4,11 +4,15 @@ author: Yin
 
 # The actual finite-window cost of a four-term defect
 
+Current checking scope is owned by [R49](../audits/reviews/Yin_R_G0049_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Bounded G0001 cost test by the assigned growth_arithmetic_status AI for Yin.
 This AI derived and checked the three-gap specialization, the actual strict-cube control, and the origin-anchored finite cutoff below.
 The coordinator requested the test but did not contribute to these new derivations; its contributions to the already fixed L G0116/L G0119/L G0140/L G0145 are reused only as fixed interfaces.
-Full independent review is recorded below.
+The full checking account below retains the responsible findings' actual relationships.
 No numerical run, new external source, optimization search, or novelty claim is involved.
 The coordinator accepted this reviewed proof for fixed-ledger preservation on 2026-10-08.
 

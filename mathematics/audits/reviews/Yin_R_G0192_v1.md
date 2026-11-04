@@ -7,7 +7,7 @@ author: Yin
 Date and attribution:2026-10-11T11:40; human record author Yin.
 The haar_integer_research AI performs a separately organized noncontributor whole-proof review of the integer_bundle_research author's D_G0013.
 It supplied none of that candidate selection, trace-quotient derivation or actual-unit discriminators.
-It previously authored R259/R263 reviews of reused unit-bundle results and independently developed the separate circle-error/moment work D7/D12/D14; those contributions are not mathematical premises here.
+It previously authored R183/R187 reviews of reused unit-bundle results and independently developed the separate circle-error/moment work D7/D12/D14; those contributions are not mathematical premises here.
 
 Inputs and sequence: the reviewer inherits the shared user/root research context, supplied assignment and author freeze/anchor messages.
 It read the complete frozen D13, including author self-check, before reaching its initial finding; no earlier independent D13 conclusion or proof-generation dialogue was supplied or consulted.
@@ -83,7 +83,7 @@ The decisive rechecks are as follows.
 4. **Actual positive-norm source33.**
    [L355](../../ledger/Yin_L_G0355_v1.md#unit-cap-actual-first-result) retains precisely the two seeds, full norm signs, q=26487, original N20 window and contents3,1; [L348](../../ledger/Yin_L_G0348_v1.md#lehmer-bundle-reuse-domain) retains the original irreducible Salem and trace-polynomial scope.
    No computation was rerun.
-   The unchanged [L357 source33 expansion](../../ledger/Yin_L_G0357_v1.md#actual-lehmer-unit-trace-control), previously fully reviewed in R259, gives C_+=x^4-3x^2+2=C_4+C_2+2.
+   The unchanged [L357 source33 expansion](../../ledger/Yin_L_G0357_v1.md#actual-lehmer-unit-trace-control), previously fully reviewed in R183, gives C_+=x^4-3x^2+2=C_4+C_2+2.
    Hence b=2 and canceling lags5,...,19 gives E=1+theta>=1.
    Canceling additionally lag4 leaves only degree-at-most3 nonconstant remainders, so the x^4 coefficient forces theta=0 directly by Theorem1.
    Neither conclusion alters L355's optimum, which has not been asserted to cancel those high lags.

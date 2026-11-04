@@ -14,7 +14,7 @@ This is a non-blind review of the NEW deductions, not a new independent review o
 
 The reviewer first read the exact candidate statement and entire argument, identified the residue/valuation/order/realization/cost obligations, then reconstructed the calculations.
 The author's freeze was visible and is not independent evidence.
-The actual fixed body and all direct interfaces were then inspected: C149's integral identity and original-polynomial norms, L63's integer remainder, L59's nontorsion cross-power exclusion, The26b-U001's full-number-field DVR/degree sum and U003's lying-over statement, and C78's stronger actual-content normalization.
+The actual fixed body and all direct interfaces were then inspected: C149's integral identity and original-polynomial norms, L63's integer remainder, L59's nontorsion cross-power exclusion, The26b-U001's full-number-field DVR/degree sum and U002's lying-over statement, and C78's stronger actual-content normalization.
 C135v2 and C87 are acknowledged reused control mechanisms, with all newly needed example calculations explicitly reconstructed in C150.
 No native mathematical program, numerical approximation, external acquisition, ancestor source-proof audit or formal verification is claimed.
 The initial non-blind arrangement and visible author freeze do not sufficiently establish isolation before the first mathematical judgment.

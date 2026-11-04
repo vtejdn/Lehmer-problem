@@ -149,7 +149,7 @@ The exact source completeness and original-proof limitations recorded in R824v1 
 In particular the accepted Hensel, local-degree, scalar Mahler/Kronecker, retained house, measurable-set and Lipschitz sources are not upgraded to newly audited original proofs.
 No source-completeness gap affecting v2 was found.
 
-The current R614/R628 unknown relationships, inherited SELF findings and all original dates and scopes remain unchanged.
+The current R468/R482 unknown relationships, inherited SELF findings and all original dates and scopes remain unchanged.
 R824v1 remains an independent review of physical C622v1 alone.
 This new independently reviewed relationship records the actual whole-v2 reading, applicability comparison and new Section 8 verification.
 No earlier finding has been relabeled or silently enlarged.

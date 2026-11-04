@@ -220,8 +220,8 @@ Its full-source W-prefix exponent at j=1 is kappa+4, also matching the actual pr
 The pre-source prefix formula for j>=2 is the preceding full-source expression with j replaced by j-1.
 At n=t+2 the displayed completed-BOTH formulas specialize to5t+kappa-2 and6t+kappa, consistent with the displayed source-stage budget.
 The first-branch formulas and twice-root demand are conditional arithmetic budgets only, with their proposed consuming recurrence and weaker-K interfaces still unproved here.
-In particular the q/(16M) binary K can be weaker than C774's fixed q/512 domain when kappa>=6.
-No independent applicability proof for that domain, C748's special first16 step, coefficient-uniform later maps, arbitrary induction or compatible q limit is supplied by this review.
+In particular the q/(16M) binary K can be weaker than C737's fixed q/512 domain when kappa>=6.
+No independent applicability proof for that domain, C712's special first16 step, coefficient-uniform later maps, arbitrary induction or compatible q limit is supplied by this review.
 The conditional-boundary finding therefore authorizes no higher global output.
 
 ## Outcome and verification limits

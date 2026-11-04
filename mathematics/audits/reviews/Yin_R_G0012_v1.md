@@ -39,11 +39,15 @@ The old explicit relationship cell is now declared unknown while its original in
 
 ### Finding: original deletion author whole
 
-The original author checked the full exact KOR00/net-trace interface, labelled orbit argument, strict n<2g simple-cycle interval, cycle injection, every divisor/Euler correction including m1 and nonsquarefree blocks, and all three fixed controls. This is its own complete proof.
+The original author checked the full exact KOR00/net-trace interface, labelled orbit argument, strict n<2g simple-cycle interval, cycle injection, every divisor/Euler correction including m1 and nonsquarefree blocks, and all three fixed controls.
+This is its own complete proof.
 
 ### Finding: coordinator independent review
 
-The original coordinator read and checked the whole completed draft after preparation, including every normalization, strict endpoint, labelled-edge case, finite correction, accepted KOR00 interface and three controls. The original prose and earlier relationship label report independence, but do not establish the initial mathematical-context isolation required now. Its target request and accepted dependency authorship alone are not proof contributions. The original no-gap finding, source boundary and actual2026-10-07 date remain.
+The original coordinator read and checked the whole completed draft after preparation, including every normalization, strict endpoint, labelled-edge case, finite correction, accepted KOR00 interface and three controls.
+The original prose and earlier relationship label report independence, but do not establish the initial mathematical-context isolation required now.
+Its target request and accepted dependency authorship alone are not proof contributions.
+The original no-gap finding, source boundary and actual2026-10-07 date remain.
 
 ## Review bindings
 

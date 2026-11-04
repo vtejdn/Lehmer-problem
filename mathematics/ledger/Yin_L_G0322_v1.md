@@ -70,7 +70,6 @@ No general entropy formula for an infinite stationary chain, induced invariant-m
 In particular L201's finite-mean calculation cannot simply be applied before proving a finite mean; the proof below uses finite central horizons or nonnegative word sums instead.
 
 A bounded local search for log H, entropy/clock, central occupation and forced segments found these sufficient reusable interfaces, but not this full-clock comparison.
-An initial shell wildcard path was rejected by rg and then replaced by its directory/filter form; it supplied no mathematical evidence.
 No new source search, acquisition, J or mathematical program was required.
 All new derivations are by orbit_research for Yin; root supplied only the broad question and coordination.
 No sibling supplied a proof step.

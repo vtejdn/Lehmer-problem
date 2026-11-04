@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-10.
 
 Current responsible home, maintained 2026-10-22T04:57: [C520v2 Statement](../claims/Yin_C_G0520_v2.md#statement) and [entire original Argument](../claims/Yin_C_G0520_v2.md#argument), formally adopted 2026-10-22T04:53 through [R728's entire current SELF](../audits/reviews/Yin_R_G0728_v1.md#current-paid-stabilization-whole-self-finding).
-The [original entire author check](../audits/reviews/Yin_R_G0728_v1.md#original-paid-stabilization-author-finding) remains SELF at its recorded2026-10-10 day precision;12:16 freeze and12:26 separate review are distinct events.
+The [original entire author check](../audits/reviews/Yin_R_G0728_v1.md#original-paid-stabilization-author-finding) remains SELF at its recorded2026-10-10 day precision;2026-10-10T04:16 freeze and 2026-10-10T04:26 separate review are distinct events.
 The [original whole R136](../audits/reviews/Yin_R_G0136_v1.md#paid-stabilization-complete-independent-review) retains its known independent target scope under the actual broad-question-only/frozen-proof/distinct-checker arrangement.
 [C520v1](../claims/Yin_C_G0520_v1.md#statement) remains an open new-summary precision preimage; its residual-coordinate referent is explicit in v2, with the original proof unchanged.
 All original text below, including the complete fixed proof, finite native/run/cap facts, source/contribution/cost and negative scope, remains unchanged.

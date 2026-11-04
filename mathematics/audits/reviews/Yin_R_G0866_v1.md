@@ -36,7 +36,7 @@ No target, C/T/E/S, shared index, old review/native output, adoption decision or
 | [Whole finding](#whole-density-refined-finite-character-finding) | [C652 formal-unit and norm statement](../../claims/Yin_C_G0652_v1.md#statement) | Exact Theta/ell decomposition, finite precision, ell(phi)=-1 and composition by x, complete-support norm containment, actual original Q/H/factor/layer/degree interface and prior range. |
 | [Whole finding](#whole-density-refined-finite-character-finding) | [C652 local norm construction](../../claims/Yin_C_G0652_v1.md#argument) | Simple and high finite-free algebra, trace in t, N_high(X)=phi(x)^2 and full quotient identification; the new parity and improved lift precision are rechecked here. |
 | [Whole finding](#whole-density-refined-finite-character-finding) | [C652 adopted decision](../../claims/Yin_C_G0652_v1.md#decision-whole-reviewed-2026-10-23) | Existing accepted N1--N10 input, without extension of its target norm cancellation to a higher precision. |
-| [Whole finding](#whole-density-refined-finite-character-finding) | [C680 independent review](Yin_R_G0863_v1.md#whole-formal-unit-norm-obstruction-finding) | Reused only for its fixed formal-unit/norm/original interfaces and historical/source limits, not as a prior review of C654. |
+| [Whole finding](#whole-density-refined-finite-character-finding) | [C652 independent review](Yin_R_G0863_v1.md#whole-formal-unit-norm-obstruction-finding) | Reused only for its fixed formal-unit/norm/original interfaces and historical/source limits, not as a prior review of C654. |
 | [Whole finding](#whole-density-refined-finite-character-finding) | [C608 whole trace identities](../../claims/Yin_C_G0608_v1.md#argument) | Definitions, squarefree divisor partition and constant-one complete trace factors only; its old finite character rows are not a new premise. |
 | [Whole finding](#whole-density-refined-finite-character-finding) | [C609v2 all-order composition](../../claims/Yin_C_G0609_v2.md#argument) | AP5 exact B_(5n)=phi B_n(chi) for every odd n, including arbitrary higher powers of5. |
 | [Whole finding](#whole-density-refined-finite-character-finding) | [C621v2 N8 complete image](../../claims/Yin_C_G0621_v2.md#statement) | Exactly the all-allowed-order group in X^8phi^16, ambient order3*2^37 and subgroup order3*2^34, giving index8 only at N=8. |
@@ -244,7 +244,7 @@ No new external theorem or literature novelty assertion is introduced.
 C652 and its R863 review are reused only at their accepted fixed interfaces, with no enlargement of their correction precision.
 The three earlier native findings retain their physical scopes and independent checking relationships; this analytic application does not turn them into evidence for untested N.
 C608/C609v2 supply their fixed whole trace identities only.
-C197/C199 ancestry retains the existing Smy08/Bel17 limits and all historical SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries.
+The C197/C199 ancestry retains the recorded Smy08/Bel17 source limits and R477's actual C197v3 finding and R489's separate C199v3/v4 findings, all at their original UNKNOWN initial-context scopes.
 No classical original proof was reacquired or fully re-audited and no ancestor receives a new whole-proof verdict.
 No formal proof-assistant verification, native target execution, all-depth kernel equality, new original realization, adoption or unrestricted Task-completion finding is made.
 The main agent separately maintains the R index and decides whether to adopt this exact finding.

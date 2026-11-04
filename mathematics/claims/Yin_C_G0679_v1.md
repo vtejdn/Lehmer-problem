@@ -127,7 +127,7 @@ Take ANY of C676's constructed partial-H representatives with E_pad>=max(2mu_max
     n_fresh>30L_0,
     L_0=least power of2 >=8m+1.
 
-The input retains m>=1, Q a power of2 with2m<Q<5m, H(0)=1,5degH<5m-Q, J=H(chi), B=X^(Q-m)J, and the full C677 zero-character target with its specified square S in phi^(4m) modulo phi^(8m).
+The input retains m>=1, Q a power of2 with2m<Q<5m, H(0)=1,5degH<5m-Q, J=H(chi), B=X^(Q-m)J, and the full C649 zero-character target with its specified square S in phi^(4m) modulo phi^(8m).
 The degree and normalized multiplicity identities are the exact ones of C676, not a new choice of formal layers.
 Both maps already obey the three-quarter effective lower bound in that construction.
 Also

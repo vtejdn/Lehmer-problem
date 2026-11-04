@@ -62,7 +62,6 @@ Subsequent tool searches of the fetched PDF failed to resolve text and a later o
 No formula, theorem, source-proof acceptance or locally retained artifact is asserted from that incomplete screen.
 This confirms the classical structured-matrix setting, not novelty of a general Hankel/resultant mechanism.
 The exact specialization below is proved directly from the retained algebraic trace identity; no unavailable external statement is a premise.
-One initial local rg invocation used an unsupported Windows wildcard path and was immediately corrected with a filename glob; it produced no mathematical output or mutation.
 
 The coordinator subsequently acquired the exact [HR08 preprint](../literature/pdf/HR08.pdf).
 At 2026-10-10T09:11 the author inspected Sections7.1--7.2 through Proposition7.8, with the exact source/consumer normalization recorded in the [selected source note](../audits/literature/HR08/readme.md#selected-hankel-factorization-inspection).

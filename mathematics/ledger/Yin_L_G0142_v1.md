@@ -4,12 +4,16 @@ author: Yin
 
 # Two-block phase elimination and central norm costs
 
+Current checking scope is owned by [R568](../audits/reviews/Yin_R_G0568_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Joint bounded G0001 derivation by the coordinating AI and assigned AI `growth_arithmetic_status` for Yin.
 The assigned agent derived the separated-singleton elimination, its automatic trinomial nondivisibility criterion, and the finite-collar consequence.
 The coordinator generalized the elimination to two arbitrary blocks and supplied its linear central-amplitude and collar bounds.
 The assigned agent checked that extension and assembled the full proof.
-Both are contributors; the complete independent review and its final scope clarification are recorded below.
+Both are contributors; the complete checking account and its final scope clarification below retain the responsible findings' actual relationships.
 
 No new source, numerical search or novelty claim is a premise.
 The proof retains the exact input of [L G0138](Yin_L_G0138_v1.md#all-central-coercivity-radius): P is a monic irreducible integer polynomial of degree d, with constant coefficient +/-1, logarithmic Mahler measure m>0, and q>0 roots on the unit circle.

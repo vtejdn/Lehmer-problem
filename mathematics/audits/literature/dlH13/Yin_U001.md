@@ -121,7 +121,7 @@ In particular:
 
 | Operator, with a faithful trace | Analytic FK extension | Kernel-removed FKL extension |
 | --- | --- | --- |
-| Invertible $x$ | $\exp(\tau(\log|x|))$ | The same value. |
+| Invertible $x$ | $\exp(\tau(\log\lvert x\rvert))$ | The same value. |
 | Projection $p\ne1$ | $0$ if its complementary projection is nonzero | $1$, since every nonzero singular value is $1$. |
 | Zero operator | $0$ on a nonzero traced space | $1$, the exponential of the empty integral. |
 | $\operatorname{diag}(x,0)$, $x$ invertible | $0$ | $\det{}^{\rm FK}_\tau(x)$ with the unnormalized matrix-trace extension. |

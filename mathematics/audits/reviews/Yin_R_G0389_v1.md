@@ -7,7 +7,7 @@ Date: 2026-10-18T11:47.
 Human record author Yin.
 This separately organized whole review concerns the actual fixed [C164v1](../../claims/Yin_C_G0164_v1.md#statement), whose initial decision is dated 2026-10-18T11:39.
 Root, loglog_cyclic_review and entropy_attainment_bridge are proof contributors; this reviewer contributed no deduction, repair or edit.
-The reviewer previously supplied the independent R532 and R533 inspections of distinct materials, not authorship of this construction.
+The reviewer previously supplied the independent R387 and R388 inspections of distinct materials, not authorship of this construction.
 
 The arrangement is non-blind.
 The assignment supplied intended conclusions, and the preliminary construction notes were read before the complete fixed statement, all ten proof sections and every initial declaration.
@@ -16,7 +16,7 @@ No mathematical program, prime scan, numerical approximation, new source acquisi
 The later AM16-U003 prior-coverage finding is an additional comparison input only, not a premise of C164.
 
 The preliminary construction notes and initial context are not specified sufficiently to establish whether those notes were a fixed directly inspected proof input or inherited proof-development reasoning.
-Fixed intended conclusions and own earlier R532/R533 findings do not themselves imply contribution to this construction, and the unspecified notes do not establish either self-review or independence.
+Fixed intended conclusions and own earlier R387/R388 findings do not themselves imply contribution to this construction, and the unspecified notes do not establish either self-review or independence.
 The whole finding therefore has an unknown relationship; original dates, mathematical checks and exact binding scopes remain unchanged, with no new review performed.
 
 ## Review relationships
@@ -173,7 +173,7 @@ Since j>=r, increasing r does not turn this height-cost family into a near-one t
 ### Declaration completeness and prior-coverage limits
 
 Every dependency and support row of the fixed initial decision is covered above.
-Hun74-U006 supplies the finite-field interface separately from the PID decomposition in U006.
+Hun74-U006 supplies the finite-field interface separately from the PID decomposition in U005.
 The strong-Hensel radius, monic-factor interface, actual local Frobenius infrastructure and full unit lattice are used at their accepted scopes, retaining all original proof-inspection limits.
 C162 and C163 are not theorem premises of the realization or direct estimate.
 

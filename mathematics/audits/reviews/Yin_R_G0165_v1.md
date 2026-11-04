@@ -156,7 +156,8 @@ G0001 remains active and unresolved.
 | [Original complete finding](#all-parameter-cost-complete-independent-review) | unknown |
 
 The relation above makes the presently established arrangement explicit without changing the original2026-10-10 inspection, mathematical checks, attribution or historical verdict.
-The account declares no supplied formula/estimate/proof and discloses fixed structural antecedents including L230. Authorship of those accepted inputs does not establish a substantive contribution to the new all-k argument; its actual initial additional development-context content/order is not documented sufficiently to certify isolation.
+The account declares no supplied formula/estimate/proof and discloses fixed structural antecedents including L230.
+Authorship of those accepted inputs does not establish a substantive contribution to the new all-k argument; its actual initial additional development-context content/order is not documented sufficiently to certify isolation.
 A new whole mathematical review must first examine the complete target independently, then compare every useful original finding and limitation; no new self-check, alternate implementation or retained expected certificate supplies the missing old arrangement.
 
 ## Review bindings

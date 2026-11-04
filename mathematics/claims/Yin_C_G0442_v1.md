@@ -347,7 +347,7 @@ For the present SELF check only that original fixed reviewer run() was called un
 Its final output-writing entry point was not invoked, both Path text/byte write methods were guarded against unexpected writes, and its WHOLE returned object matched the original review_result.json.
 All program/readme/native bytes were unchanged; no producer, new input/domain, random/floating decision, source proof or PDF acquisition was used.
 The all-integer/congruence-class conclusions rest on the complete written reduction and exact coefficient identities above, not an extrapolation of finite coordinates.
-Original R157 is known SELF because its assignment disclosed counts and the proposed target extension before checking; its independent implementation and original no-author-repair outcome remain true at that relationship.
+Original R119 is known SELF because its assignment disclosed counts and the proposed target extension before checking; its independent implementation and original no-author-repair outcome remain true at that relationship.
 
 ## Current assessment
 [Selected decision](#decision-integral-gram-proof-home-maintenance)
@@ -379,7 +379,7 @@ Original R157 is known SELF because its assignment disclosed counts and the prop
 | --- | --- |
 | date | 2026-10-21T20:14 |
 | status | proved |
-| reason | Adopt after the actual whole C442/R645 SELF check of every ordered position and arbitrary integer second root, true norm/unit-minor/endpoint identities, complete parity certificate and all actual first roots in+/-c mod8 with the nonvacuous unbounded family, singular/elimination/order scope and every full original/absolute/cover cost. The original fixed J58 checker matched all120 models, every complete survivor list and122880 residues,229376 lifts,3584 invariant classes,56 elimination checks and both complete controls without writing or expanding the domain. Original R157 is known SELF from shared target counts/proposed extension; no new isolation, author producer/source proof or Task/E resumption. |
+| reason | Adopt after the actual whole C442/R645 SELF check of every ordered position and arbitrary integer second root, true norm/unit-minor/endpoint identities, complete parity certificate and all actual first roots in+/-c mod8 with the nonvacuous unbounded family, singular/elimination/order scope and every full original/absolute/cover cost. The original fixed J58 checker matched all120 models, every complete survivor list and122880 residues,229376 lifts,3584 invariant classes,56 elimination checks and both complete controls without writing or expanding the domain. Original R119 is known SELF from shared target counts/proposed extension; no new isolation, author producer/source proof or Task/E resumption. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -391,7 +391,7 @@ Original R157 is known SELF because its assignment disclosed counts and the prop
 | dependency | [Original cheaper L191 control](../ledger/Yin_L_G0191_v1.md) | Actual k4 Phi2^2 P4 matrix, rank6/height1/energy5 and whole rank12 Phi2^4 P4^2 cover measure2log beta4 only. |
 | support | [Original complete J58 group](../computations/programs/Yin_J_G0058/readme.md) | All original120 polynomial models,122880 residues,229376 target-labelled lifts,3584 invariant classes, eight illustrative sign cases and two full control polynomials; original failure/cap/check distinctions retained. |
 | support | [Recorded computation run](../computations/programs/Yin_J_G0058/readme.md#recorded-runs) | Complete readable and coefficient/exponent models, every count/rank and full target-labelled tuple list, not a sufficient standalone exclusion. Original recorded result, output: `mathematics/computations/outputs/Yin_J_G0058/mod4_result.json`; this target locates its run account. |
-| review | [Actual entire SELF finding](../audits/reviews/Yin_R_G0645_v1.md#second-root-whole-self-finding) | Entire statement/argument/direct interfaces, all integer/basis/parity/congruence-class/unbounded/finite/elimination/sign/order/neutral/full-cost/negative scope; original R157 remains known SELF. |
+| review | [Actual entire SELF finding](../audits/reviews/Yin_R_G0645_v1.md#second-root-whole-self-finding) | Entire statement/argument/direct interfaces, all integer/basis/parity/congruence-class/unbounded/finite/elimination/sign/order/neutral/full-cost/negative scope; original R119 remains known SELF. |
 
 
 ### Decision integral-gram-proof-home-maintenance
@@ -412,7 +412,7 @@ Original R157 is known SELF because its assignment disclosed counts and the prop
 | dependency | [Exact retained dependency](Yin_C_G0458_v2.md#irreducible-quartic-gram-family) | Actual k4 Phi2^2 P4 matrix, rank6/height1/energy5 and whole rank12 Phi2^4 P4^2 cover measure2log beta4 only. |
 | support | [Exact retained support](../computations/programs/Yin_J_G0058/readme.md) | All original120 polynomial models,122880 residues,229376 target-labelled lifts,3584 invariant classes, eight illustrative sign cases and two full control polynomials; original failure/cap/check distinctions retained. |
 | support | [Recorded computation run](../computations/programs/Yin_J_G0058/readme.md#recorded-runs) | Complete readable and coefficient/exponent models, every count/rank and full target-labelled tuple list, not a sufficient standalone exclusion. Original recorded result, output: `mathematics/computations/outputs/Yin_J_G0058/mod4_result.json`; this target locates its run account. |
-| review | [Exact retained review](../audits/reviews/Yin_R_G0645_v1.md#second-root-whole-self-finding) | Entire statement/argument/direct interfaces, all integer/basis/parity/congruence-class/unbounded/finite/elimination/sign/order/neutral/full-cost/negative scope; original R157 remains known SELF. |
+| review | [Exact retained review](../audits/reviews/Yin_R_G0645_v1.md#second-root-whole-self-finding) | Entire statement/argument/direct interfaces, all integer/basis/parity/congruence-class/unbounded/finite/elimination/sign/order/neutral/full-cost/negative scope; original R119 remains known SELF. |
 
 ## Reproducing the reviewed computations
 

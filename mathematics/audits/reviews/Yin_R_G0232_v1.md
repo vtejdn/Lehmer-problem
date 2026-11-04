@@ -136,7 +136,7 @@ The exact canonical36-denominator vector is recomputed from f=(r,0)-(r dot p_low
 Thus all ten selected coordinates belong to the declared expanded family without importing either author program.
 
 Under C24's ACTUAL old family, rows1--7/9 are admitted.
-Row8 has individual energy14/3>4; row10 has nonternary residue and energy164.
+Row8 has individual energy14/3>4; row10 has nonternary residue R_* with squared coefficient norm196, while its rational representative f_10=(9R_*-16P)/9 has coefficient energy164.
 The independent old-functional values, in packet order, are
 
     (1,1,1,1,1,2,2,3,1,-14).

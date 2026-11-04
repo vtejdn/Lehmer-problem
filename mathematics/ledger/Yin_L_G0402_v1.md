@@ -4,9 +4,9 @@ author: Yin
 # Fixed-trace moving-exponent Salem inputs and the raw relation-Gram obstruction
 
 The complete current theorem and all necessary source/Gram/deflation/original-window proofs belong to [C494](../claims/Yin_C_G0494_v1.md#statement), adopted with [R706 current whole SELF](../audits/reviews/Yin_R_G0706_v1.md#complete-moving-exponent-whole-self-finding).
-The complete original account below remains the fixed input of R547 and preserves its actual source occurrences, contributions, feasibility limitations and earlier unresolved checkpoint.
+The complete original account below remains the fixed input of R402 and preserves its actual source occurrences, contributions, feasibility limitations and earlier unresolved checkpoint.
 The later [C171 theorem](../claims/Yin_C_G0171_v1.md#two-block-torus-statement) separately settles coherence divergence for this same bounded-positive-measure family; that result is not inferred from the raw-Gram obstruction here.
-Original R547 direct fixed-proof and source arrangements retain their actual scope/date; this maintenance supplies no extra old isolation event, new source inspection or Task/E resumption.
+Original R402 direct fixed-proof and source arrangements retain their actual scope/date; this maintenance supplies no extra old isolation event, new source inspection or Task/E resumption.
 
 Date: 2026-10-18T13:55.
 Human author Yin.

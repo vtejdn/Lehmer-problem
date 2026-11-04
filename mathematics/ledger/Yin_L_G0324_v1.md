@@ -318,7 +318,6 @@ The moment comparison cannot create a central tail estimate from its own conclus
 The complete original whole author checklist and its actual date precision are retained at [the responsible original SELF finding](../audits/reviews/Yin_R_G0765_v1.md#original-g324-author-self-finding).
 
 No mathematical program was run.
-Two initial rg shell patterns produced a path/wildcard error or no match; directory searches and explicit file reads supplied the stated reuse evidence.
 No failed mathematical computation or omitted finite test is represented as evidence.
 All mathematical derivations in this material are by structural_research for Yin.
 Root supplied only the broad assignment; no sibling's moving result is a premise.

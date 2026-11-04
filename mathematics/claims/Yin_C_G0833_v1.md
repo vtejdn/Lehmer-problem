@@ -98,7 +98,7 @@ Killing intermediate or terminal contributions at a finite core, stopping geodes
 
 ## Exact inputs and reuse
 
-[C400](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) supplies the actual strict-core equality, with the fixed quartic's C399 co-return certificate scope retained.
+[C400](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) supplies the actual strict-core equality, with the fixed quartic's C396 co-return certificate scope retained.
 [C590](Yin_C_G0590_v1.md#decision-complete-isolated-whole-adoption) supplies actual whole-core termination, rho<=d<=A_D rho+B_D with fixed paid constants, and unbounded actual radii.
 Only these deterministic facts are used; no random mean upper bound is imported.
 [C511](Yin_C_G0511_v1.md#decision-complete-current-self-adoption) supplies the complete first-hit interpretation and its finite interior domain0<t<R_f.
@@ -263,7 +263,7 @@ The later whole independent mathematical/native inspection and decisive reproduc
 | --- | --- | --- |
 | statement | [Complete statement](#statement) | Entire actual quartic/original law, complete shortest d/M, locally finite unrolling and normalized operator, extended word identity, exact level-nine minimum, every d>=9 and t>=t0, and unchanged-operator limitations. |
 | argument | [Complete GD1--GD12 proof](#complete-argument) | Full geodesic masses, normalized first-deviation blocks and chronological excess, complete finite certificate coverage, distinct direct/split-word check, nonnegative-cost propagation and finite-starting-state versus changed-operator scope. |
-| dependency | [Actual complete strict core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed quartic actual order/embeddings and equality of the strict strip with the accessible/coaccessible core; C399 certificate scope retained. |
+| dependency | [Actual complete strict core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed quartic actual order/embeddings and equality of the strict strip with the accessible/coaccessible core; C396 certificate scope retained. |
 | dependency | [Whole-core deterministic termination](Yin_C_G0590_v1.md#decision-complete-isolated-whole-adoption) | Finite actual continuations, rho<=d<=A_D rho+B_D with paid constants, and unbounded actual radii; no random mean bound. |
 | dependency | [Canonical first-hit interpretation](Yin_C_G0511_v1.md#decision-complete-current-self-adoption) | Complete original first-hit series and finite positivity for0<t<R_f; outside that domain only extended nonnegative word identities are used. |
 | dependency | [True critical lower bound](Yin_C_G0796_v1.md#decision-whole-reviewed-2026-10-26) | Only R>68883/40000=t0 for the true critical/supercritical specialization. |
@@ -281,7 +281,7 @@ The later whole independent mathematical/native inspection and decisive reproduc
 | --- | --- | --- |
 | statement | [Complete statement](#statement) | Entire actual quartic/original law, complete shortest d/M, locally finite unrolling and normalized operator, extended word identity, exact level-nine minimum, every d>=9 and t>=t0, and unchanged-operator limitations. |
 | argument | [Complete GD1--GD12 proof](#complete-argument) | Full geodesic masses, normalized first-deviation blocks and chronological excess, complete finite certificate coverage, distinct direct/split-word check, nonnegative-cost propagation and finite-starting-state versus changed-operator scope. |
-| dependency | [Actual complete strict core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed quartic actual order/embeddings and equality of the strict strip with the accessible/coaccessible core; C399 certificate scope retained. |
+| dependency | [Actual complete strict core](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed quartic actual order/embeddings and equality of the strict strip with the accessible/coaccessible core; C396 certificate scope retained. |
 | dependency | [Whole-core deterministic termination](Yin_C_G0590_v1.md#decision-complete-isolated-whole-adoption) | Finite actual continuations, rho<=d<=A_D rho+B_D with paid constants, and unbounded actual radii; no random mean bound. |
 | dependency | [Canonical first-hit interpretation](Yin_C_G0511_v1.md#decision-complete-current-self-adoption) | Complete original first-hit series and finite positivity for0<t<R_f; outside that domain only extended nonnegative word identities are used. |
 | dependency | [True critical lower bound](Yin_C_G0796_v1.md#decision-whole-reviewed-2026-10-26) | Only R>68883/40000=t0 for the true critical/supercritical specialization. |

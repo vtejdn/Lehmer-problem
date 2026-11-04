@@ -3,6 +3,12 @@ author: Yin
 ---
 # Independent exact replay of quartic return-core certificates
 
+## Native input availability
+
+The exact259-state enumeration input is now reused from [J19's tracked compact list](../Yin_J_G0019/inputs/compact.json), and this program's enumeration_check has matched that entire set by its distinct exact construction.
+The [selected J18 triangle payload](../Yin_J_G0018/readme.md#native-input-availability) and [selected J19 path payload](../Yin_J_G0019/readme.md#native-input-availability) remain unavailable.
+Those two concrete inputs prevent the complete current replay; the old full-chain and SELF review scopes are not converted into a new execution or a different relationship.
+
 ## Scope
 
 Separately organized review computation for the fixed quartic return-core argument originally developed in the now-retired D G0013 and D G0014, retained in [L G0169](../../../ledger/Yin_L_G0169_v1.md#quartic-infinite-core-theorem).
@@ -16,7 +22,7 @@ The current complete mathematical home is [C396](../../../claims/Yin_C_G0396_v1.
 This directory owns the continuing review programs and their executed evidence.
 
 Generated results and verification data use `mathematics/computations/outputs/Yin_J_G0021/`, independently of the caller's directory.
-Actual required inputs are read from their producing J output homes; program imports still use the corresponding program homes.
+The adopted compact list is read directly from J19's tracked inputs/compact.json; the missing triangle and path selections retain their historical output locators until those native payloads are supplied.
 These retained outputs are local and Git-ignored; a clone can lack them.
 Verification reports unavailable inputs without automatically rerunning discovery or substituting other results.
 

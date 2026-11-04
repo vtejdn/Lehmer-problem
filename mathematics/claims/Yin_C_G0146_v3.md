@@ -15,7 +15,7 @@ This author develops/checks the exact substitution, constants, cutoffs and inver
 Read the ACTUAL adopted [C146v2](Yin_C_G0146_v2.md#decision-whole-reviewed-2026-10-15), its entire1--19 argument, and especially [the own-ratio-field calculation](Yin_C_G0146_v2.md#ratio-own-field-author-calculation) and [full signed-norm return](Yin_C_G0146_v2.md#ratio-original-signed-norm-return).
 Read the complete adopted [C147](Yin_C_G0147_v1.md#decision-whole-reviewed-2026-10-15), including its exact h<=exp(-40) domain, constant B, monotonicity, every original conjugate/degree-drop cost and source limits.
 Those inputs are established and will be invoked at their exact scopes rather than recopied as new proofs.
-The previous C146v1/v2 and R501/R502 remain unchanged.
+The previous C146v1/v2 and R357/R358 remain unchanged.
 
 C146v2 already proves a thirteenth-power escape and an explicit elementary inverse using L209.
 Its domain-splitting, exponential-cutoff and inverse strategy are credited, not newly discovered here.
@@ -324,7 +324,7 @@ Automatic arithmetic coverage and G0001 remain unresolved.
 ## Fixed organization
 
 Retain the complete frozen successor account and all seventeen formulas.
-The earlier C146 physical v1/v2 and their actual R501/R502 findings remain fixed with their full arguments, source limits, unsuccessful methods and exact finite domains.
+The earlier C146 physical v1/v2 and their actual R357/R358 findings remain fixed with their full arguments, source limits, unsuccessful methods and exact finite domains.
 This version changes the quantitative cyclic-norm input to adopted C147 and proves every resulting finite substitution, branch, constant and inverse.
 Root and f_unitary_scope are contributors to this successor; a separate whole noncontributor review is required.
 
@@ -371,5 +371,5 @@ The recorded review description was `independently reviewed`.
 | dependency | [Original signed norm return](Yin_C_G0146_v2.md#ratio-original-signed-norm-return) | Equations(7)--(8), exact signed norm, all degree repetitions and actual conjugate-factor/exponent fees; no cheap original polynomial representative. |
 | dependency | [Adopted universal cyclic modulus](Yin_C_G0147_v1.md#statement) | Exact B Phi(h) for all original integer units and powered degrees on0<h<=exp(-40), with proved monotonicity and inherited finite/source costs. |
 | support | [Earlier explicit inverse comparison](Yin_C_G0146_v2.md#ratio-explicit-bounded-class-gap) | Old capped supplied-class bound and its fixed-prime large-k order, preserved for exact finite and asymptotic comparison. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0360_v1.md#sixth-power-frobenius-whole-independent-finding) | Entire actual successor statement and six-section seventeen-formula proof, every selected input and support, exact original costs and antecedent/source/contribution limits. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0360_v1.md#sixth-power-frobenius-whole-independent-finding) | Entire actual successor statement and six-section seventeen-formula proof, every selected input and support, exact original costs and antecedent/source/contribution limits. Finding relationship: self-reviewed. |
 

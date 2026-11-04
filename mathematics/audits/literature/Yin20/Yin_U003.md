@@ -10,10 +10,10 @@ The inspected edition and source context are described in the [source notes](rea
 ## Yin20-U003 — Chapter IV introduction and Sections IV.1–IV.3
 
 - Source: [Yin20](../../../literature/pdf/Yin20.pdf), Chapter IV introduction and IV.1–IV.3, printed pp. 49–56 / PDF pp. 59–66.
-- Source.
 - Task: [Yin20 inner-rank source audit](readme.md#yin20-inner-rank-source-audit), assigned 2026-09-10.
 - Author and source reconstruction: the rational-expression agent.
-- State: complete source reconstruction; independent artifact review pending.
+- State at authorship: complete source reconstruction; independent artifact review was pending.
+The completed review and its independent source/exposition scope and SELF reviewer-contributed examples are retained in Section 9.
 - Scope: every definition, numbered result and representation rule in the assigned pages, their supporting prose and the transition to IV.4 on printed p. 56.
 
 This unit distinguishes the literal source, locally reconstructed arguments, necessary corrections, and retained external interfaces.
@@ -409,7 +409,7 @@ The opening of IV.4 on p. 56 explicitly warns that evaluating rational functions
 The historical polynomial-linearization and realization references mentioned in the p. 55 survey are not independent premises of the reconstructed block proof.
 Hrubeš–Wigderson [HW15] supplies the cited arithmetic-circuit viewpoint rather than a missing analytic boundedness conclusion.
 The retained external theorems are explicit dependencies, not silently promoted to locally reproved results.
-For the bounded Cohn check, the academic-hosted published PDF has 596 pages and.
+For the bounded Cohn check, the academic-hosted published PDF has 596 pages.
 Printed pp. 411–412, 419–422 and 450 / PDF pp. 435–436, 443–446 and 474 were read on 2026-09-10; printed pp. 420 and 450 were also rendered and inspected.
 The inspection confirmed the theorem's exact statement, its displayed proof and imported dependencies, and the relevant specialization definitions; it did not recursively audit the entire Cohn book.
 The Amitsur and KV12 construction claims remain source-statement interfaces reported by Yin20, without a fresh primary proof audit of either paper in this unit.
@@ -431,14 +431,17 @@ Author disclosure: the rational-expression agent had previously investigated tha
 For this unit, the assigned Yin20 pages were read freshly and the block constructions were recomputed without relying on an earlier MSY23 audit verdict.
 The coordinating reviewer independently supplied the arbitrary-algebra nontransitivity and Cuntz-isometry nonfullness examples, and this author checked every domain, value and Schur-complement step in them.
 The coordinating reviewer and another reviewer independently noticed the inverse-sign issue; the rendered source and explicit block inverse were used to resolve it here.
-Independent review of this complete artifact is pending and must identify the exact mathematical content and source edition reviewed before this unit is marked fully reviewed.
+At this author stage, independent review of the complete artifact was pending.
+The completed review and its actual source interfaces are retained in Section 9.
 
-### 9. Independent complete-unit review
+### 9. Complete-unit review and contributed examples
 
-Date: 2026-09-10; reviewer: the coordinating reviewer, independent review of the author's full written reconstruction.
+Date: 2026-09-10; reviewer: the coordinating reviewer, separately organized review of the author's full written reconstruction.
+Independent coverage excludes the arbitrary-algebra nontransitivity and Cuntz-isometry examples contributed by this same reviewer.
 The reviewer read all assigned Yin20 pages in extracted text and the entire reconstruction, then separately read the final Cohn-interface and Cuntz-example additions.
 The author owns the recorded rendered-page and fresh Cohn-primary inspections; this review checked their exact mathematical interfaces without claiming another whole-book audit.
-The reviewer's preliminary contributions to the nontransitivity and Cuntz examples are disclosed in Section 8, so this is not a claim of independent rediscovery of those examples.
+The reviewer's nontransitivity and Cuntz examples, and the reasoning supplied by them, are SELF-reviewed contributions.
+The author's subsequent checks of those examples do not turn the contributor's own whole-unit conclusion into independent coverage of them.
 
 The directed-acyclic repair suffices because a finite acyclic graph has a sink reachable from each vertex; uniqueness of the sink supplies a well-defined final expression.
 The three overlap domains in Section 2 were checked separately, including the invertibility implication for y and the shift substitution witnessing failure of transitivity.
@@ -456,7 +459,8 @@ This establishes the exact arbitrary-ambient qualification and does not challeng
 The ambient-domain conclusions in Section 6 consequently have no missing boundedness upgrade or minimality assumption.
 
 No unresolved mathematical correction remains in the unit under its stated retained inputs.
-The verdict is independently reviewed within the assigned chapter scope.
+Independent coverage concerns the assigned source reconstruction and exposition outside those reviewer-contributed examples.
+The whole-unit mathematical conclusion also uses the separately disclosed SELF examples; it has no unqualified independent relationship for that contributed scope.
 Original proofs of the contextual Amitsur/KV12 constructions, a recursive Cohn-book audit, formal verification and external human review were not performed.
 
 ## Source and inspection
@@ -465,7 +469,7 @@ Source edition: Yin20, the supplied 109-page doctoral dissertation with title-pa
 
 Source passages: Chapter IV introduction and Sections IV.1-IV.3, printed pp. 49-56 / PDF pp. 59-66, including the transition to IV.4 and representation rules.
 
-Inspection: 2026-09-10: complete local reconstruction of expressions, the free-field interface and corrected recursive representations, followed by the appended independent artifact review. Selected Cohn primary theorem and proof interfaces were read with their earlier dependencies retained; arbitrary-ambient domain qualifications and reviewer contributions are disclosed. Contextual Amitsur/KV12 originals, the whole Cohn book, formal verification and external human review were not audited.
+Inspection: 2026-09-10: complete local reconstruction of expressions, the free-field interface and corrected recursive representations, followed by the appended review, with independent source/exposition scope and SELF reviewer-contributed counterexamples. Selected Cohn primary theorem and proof interfaces were read with their earlier dependencies retained; arbitrary-ambient domain qualifications and reviewer contributions are disclosed. Contextual Amitsur/KV12 originals, the whole Cohn book, formal verification and external human review were not audited.
 
 ## Additional retained definition source recheck
 

@@ -83,7 +83,7 @@ The recorded review description was `under review`.
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | All integer a>=3 in ACTUAL O_0 and fixed allowed window2, complete parity/equality classes, rational denominator conditions and growing-measure limits only. |
-| argument | [Argument](#argument) | Complete03:10 author freeze Sections1--8/theorem/equations1--19, local binary-form/square proof and every original-degree cost. |
+| argument | [Argument](#argument) | Complete 2026-10-11T19:10 author freeze Sections1--8/theorem/equations1--19, local binary-form/square proof and every original-degree cost. |
 | dependency | [All-representative weighted certificate and energy domain](Yin_C_G0016_v1.md#statement) | Exact nonzero integer residues, rational/formal-real conventions and WEAK Toeplitz/quotient inequality; the local matching pair and W establish equality without C17. |
 | dependency | [Direct generic-monic full-root inequality](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Complete original degree2 norms, actual common width and final weights for the charged surplus comparison. |
 
@@ -99,7 +99,7 @@ The recorded review description was `under review`.
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | All integer a>=3 in ACTUAL O_0 and fixed allowed window2, complete parity/equality classes, rational denominator conditions and growing-measure limits only. |
-| argument | [Argument](#argument) | Complete03:10 author freeze Sections1--8/theorem/equations1--19, local binary-form/square proof and every original-degree cost. |
+| argument | [Argument](#argument) | Complete 2026-10-11T19:10 author freeze Sections1--8/theorem/equations1--19, local binary-form/square proof and every original-degree cost. |
 | dependency | [Dependency](Yin_C_G0016_v1.md#statement) | Exact nonzero integer residues, rational/formal-real conventions and WEAK Toeplitz/quotient inequality; the local matching pair and W establish equality without C17. |
 | dependency | [Dependency](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Complete original degree2 norms, actual common width and final weights for the charged surplus comparison. |
 | review | [Current finding](../audits/reviews/Yin_R_G0746_v1.md#c20-quadratic-parameter-extraction-finding) | Exact registered statement, selected complete argument, changed interfaces and dependencies in this physical version; preserved original reviews are not silently expanded. |
@@ -116,10 +116,10 @@ The recorded review description was `under review`.
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Exact retained statement](#statement) | All integer a>=3 in ACTUAL O_0 and fixed allowed window2, complete parity/equality classes, rational denominator conditions and growing-measure limits only. |
-| argument | [Exact retained argument](#argument) | Complete03:10 author freeze Sections1--8/theorem/equations1--19, local binary-form/square proof and every original-degree cost. |
+| argument | [Exact retained argument](#argument) | Complete 2026-10-11T19:10 author freeze Sections1--8/theorem/equations1--19, local binary-form/square proof and every original-degree cost. |
 | dependency | [Exact retained dependency](Yin_C_G0016_v1.md#statement) | Exact nonzero integer residues, rational/formal-real conventions and WEAK Toeplitz/quotient inequality; the local matching pair and W establish equality without C17. |
 | dependency | [Exact retained dependency](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Complete original degree2 norms, actual common width and final weights for the charged surplus comparison. |
-| review | [Complete current isolated finding](../audits/reviews/Yin_R_G0746_v1.md#current-c20-complete-isolated-independent-finding) | Entire exact current Statement, complete selected Argument and all necessary interfaces, with actual complete initial judgment2026-10-22T19:11 preceding complete old-finding comparison2026-10-22T19:12; no proof repair, expanded source-proof scope or new native run. |
+| review | [Complete current isolated finding](../audits/reviews/Yin_R_G0746_v1.md#current-c20-complete-isolated-independent-finding) | Entire exact current Statement, complete selected Argument and all necessary interfaces, with actual complete initial judgment 2026-10-22T19:11 preceding complete old-finding comparison 2026-10-22T19:12; no proof repair, expanded source-proof scope or new native run. |
 
 ## Argument
 
@@ -501,7 +501,7 @@ Separate whole noncontributor review and root adoption remain pending.
 G0001 remains active and unrestrictedly unresolved.
 
 <a id="quadratic-parameter-entire-author-freeze"></a>
-The COMPLETE Sections1--8, the theorem and both odd/even equality classifications, equations(1)--(19), all original norm/denominator/content/multiplicity costs, reuse and growing-measure boundaries are author-frozen at2026-10-11T19:10 for a separately organized whole noncontributor review.
+The COMPLETE Sections1--8, the theorem and both odd/even equality classifications, equations(1)--(19), all original norm/denominator/content/multiplicity costs, reuse and growing-measure boundaries are author-frozen at 2026-10-11T19:10 for a separately organized whole noncontributor review.
 Scoped material validation passed before this paragraph and is repeated afterward; it checks structure and locators rather than mathematics.
 Root supplied the substantive candidate and cannot be the whole noncontributor reviewer.
 Author development stops at this freeze.
@@ -510,7 +510,7 @@ Author development stops at this freeze.
 
 ## Registration and preservation operation
 
-2026-10-11T19:18: retain the COMPLETE2026-10-11T19:10 D15 freeze directly as the Claim argument.
+2026-10-11T19:18: retain the COMPLETE 2026-10-11T19:10 D15 freeze directly as the Claim argument.
 The separate reviewer has reconstructed the candidate and will check this actual registered statement and current interfaces before giving C-specific bindings.
 Original contribution and historical reuse boundaries remain.
 The original D is retired only after full-body comparison and incoming-reference maintenance.

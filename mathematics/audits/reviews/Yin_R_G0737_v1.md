@@ -114,7 +114,7 @@ It is later than registration and the precision correction, and is not a fabrica
 
 ## Historical review arrangements and fixed scope
 
-R567, R569, R424, R571, R572, R573 and R575 each retain their original independently reviewed declaration and their actual fixed L/J/source input, dates and limits.
+R421, R423, R424, R425, R427, R426 and R429 each retain their original independently reviewed declaration and their actual fixed L/J/source input, dates and limits.
 Their references to progress, shared context or messages do not establish the substantive contents of that context; current construction neither upgrades the unresolved isolation fact nor mechanically converts their old declaration to SELF.
 An absent fact is not an explicit unknown declaration.
 R574 explicitly discloses only scope/completed-scope messages and independent reconstruction before upstream-review comparison, with no contributed proof repair; its known independently reviewed whole scope remains intact.

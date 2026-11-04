@@ -227,7 +227,7 @@ The retained costs are D_C=4(15+60)=300, D_seed=275,D_B=45,L_0=128,e_0=384.
 Thus D_bad=320, K_bound=409600, k_0=321 and n_fresh=410881, with no increment needed.
 The row bound is473088000 and the fresh cost is616320, giving degY_0<=473704595.
 Adding360 or357 gives exactly473704955q and473704952q, with gap3q; the correction exponent is q(degY_0/2-156).
-The formal target's zero character is the already adopted C674 completed-pair computation using the fixed C700 value ell(f_31)=10 modulo16; no new native classification is inferred.
+The formal target's zero character is the already adopted C674 completed-pair computation using the fixed C670 value ell(f_31)=10 modulo16; no new native classification is inferred.
 Its arithmetic gives(-1592-660(10+16z))/25=64(-128-165z)/25, enough for Pi_48=0 at the actual modulus.
 The strong-C3 obstruction also persists: tripling cycles the three primitive31 Frobenius/inversion groups, while J has profile1,0,0; after raising it has profileq,0,0.
 Positive q cancels from any putative divisibility inequalities, so powering does not supply the forbidden first-power upgrade.

@@ -6,7 +6,7 @@ author: Yin
 
 The unconditional hyperbolic full-tail exponent already has the sufficient stronger [C310 home](Yin_C_G0310_v1.md#statement), including sublinear prefixes; it is reused rather than registered again.
 This C retains the distinct complete conditional theorem from [L286 Section3](../ledger/Yin_L_G0286_v1.md#conditional-sharp-profile-transfer), with its unproved premise explicit.
-The original fixed proof, bounded C1 experiments, source search, author check and R185 input remain in L286/J71 and their responsible review homes.
+The original fixed proof, bounded C1 experiments, source search, author check and original R185 input retained in [R769](../audits/reviews/Yin_R_G0769_v1.md#finite-tail-pressure-complete-independent-review) remain in L286/J71 and their responsible review homes.
 
 ## Statement and actual finite-prefix definitions
 

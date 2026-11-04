@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T22:42.
 Human operator: Yin.
 The checking agent read all255original L197 lines, all69original R96 lines and the entire306-line published open C473 Statement, Argument, registration and remaining inverse boundary.
-It checked the complete actual-order saturation mechanism at C469 and multiplicity-preserving trace-square interface at C244, and used C394 only for the explicitly limited income comparison.
+It checked the complete actual-order saturation mechanism at C465 and multiplicity-preserving trace-square interface at C243, and used C391 only for the explicitly limited income comparison.
 The original9165-character Sections1--4/equations(1)--(12)/complete eight-row proof is retained with only adequate same-object mathematical home substitutions, together with the exact722-character inverse/cofactor limitation.
 The agent reconstructed the complete proof below; neither text retention nor an old PASS substitutes for that mathematical check.
 It authored the Claim, inherited target mathematical context and read old findings, so this actual whole finding is SELF.
@@ -65,7 +65,7 @@ If a factor is present the additive exponent is precisely2; if both are absent t
 It follows that2 belongs to all three principal ideals and that the displayed divisions of2 lie in O.
 This uses nonzero denominators and does not reverse the divisibilities to make their halves integral.
 
-At every odd prime, the full C469 ideal reduces to the unit ideal, so Pbar and Qbar have no common root.
+At every odd prime, the full C465 ideal reduces to the unit ideal, so Pbar and Qbar have no common root.
 Any root a of Pbar is nonzero.
 Frobenius and reciprocal closure put every a^(plus or minus ell^j) in Pbar, while the full squared-root polynomial has a^2 as a root.
 The prohibited order congruence would identify them.
@@ -78,7 +78,7 @@ Every selected-prime lower certificate is bounded by the whole positive integer 
 For each fixed eta>0 these constants are eventually less than eta*d along any unbounded-degree sequence.
 This excludes exactly the proposed use of n1 or n3 for linear income, even on a hypothetical saturated near-one sequence.
 It neither constructs that sequence nor excludes other exponents below C*d or another use of the divisibilities.
-The positive eta,C requirement of the complete C394 interface is preserved without changing its domain or importing an additional theorem.
+The positive eta,C requirement of the complete C391 interface is preserved without changing its domain or importing an additional theorem.
 
 For degree4, A=b+2a+2 and B=b-a-1 each range over plus or minus1,2.
 The equality A-B=3(a+1) leaves differences only-3,0,3: four equal pairs and two pairs at each nonzero difference.

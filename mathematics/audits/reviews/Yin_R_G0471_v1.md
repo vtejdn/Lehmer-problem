@@ -17,7 +17,7 @@ No mathematical program, numerical integration, parameter scan, native rerun or 
 The shared initial context and assignment obligations are not specified sufficiently to establish isolation before the first mathematical judgment on this regularizer.
 The fixed proof and requested obligations are legitimate inputs, while prior review roles or work on other fixed objects do not establish contribution to the present argument.
 The whole-v1 finding therefore has an unknown relationship, with the original date, complete mathematical checks and exact bindings retained and no new review performed.
-Its R468/R325 inputs now declare unknown initial context at their precise scopes; the old mathematical results are unchanged.
+Its inputs R468 and the [original C36 extraction finding retained in R788](Yin_R_G0788_v1.md#c36-rational-completion-extraction-finding) now declare unknown initial context at their precise scopes; the old mathematical results are unchanged.
 
 ## Review relationships
 
@@ -140,7 +140,7 @@ It prices this particular polynomial clearing only.
 
 ### Supremum specialization of the pole method
 
-I read the actual C36 meromorphic proof and its R325 extraction scope.
+I read the actual C36 meromorphic proof and its original extraction scope retained in [R788](Yin_R_G0788_v1.md#c36-rational-completion-extraction-finding).
 Here z^(15d)B is regular at0 because D(0) and N(0) are nonzero.
 Multiplication by the finite Blaschke factors, each repeated TWICE the multiplicity of its inside D root, cancels every possible finite pole.
 This remains true when a pole was already partially or completely removable: the additional factor adds a zero and does not invalidate the analytic upper bound.

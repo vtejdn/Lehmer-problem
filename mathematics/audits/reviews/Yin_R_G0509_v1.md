@@ -105,18 +105,15 @@ No full original Lemma 2 proof audit, computer experiment, human review, or form
 
 The coordinator authored and self-checked the complete finite-prime proof: nonvanishing, integral J, Hadamard degree factors, positive constant and both entropy consequences.
 No independent reviewer, human verification, formal proof or numerical experiment is claimed.
-No agent was assigned this turn.
 
 <a id="original-expanding-count-author-check"></a>
 ## Original expanding-count author account
 
 Coordinator self-review on 2026-10-06: checked equal embedding-fiber sizes, preservation of the unit-circle inequality under positive powers, persistence of a bad-prime witness under coprime powers, positivity/integrality of the descending r values, the finite-prime pigeonhole step and rational-flow weight accounting.
 No independent review, new computation, formal verification, or full audit of Mat96/Dobrowolski is claimed.
-No subagent was assigned.
 
 <a id="original-reciprocal-family-author-check"></a>
 ## Original reciprocal-family author account
 
 Coordinator self-review only, 2026-10-06: checked the negative conjugate nonsquare argument, exact degree, unique largest modulus, reciprocal discriminant formula, all absolute values and degree exponents, divergence and the strict M>2 boundary.
 No separate reviewer, computer experiment, formal verification or full Bell audit is claimed.
-No subagent was assigned.

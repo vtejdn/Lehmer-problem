@@ -132,7 +132,7 @@ This is an unconditional failure of that concrete bounded-path constructor at th
 It does not prove that any such fiber is in a non-self-sign component: the required path might exist with growing length.
 It also does not disprove a uniform ORIGINAL weighted energy inequality; rare long paths can have different load costs, and neither their probabilities nor their congestion are replaced by their length.
 
-For the n+2 digit-work accounting clock, the algebraic jump bound remains true for every nontrivial jump, but an attempted update consumes the same n+2 work units as in C170/L410.
+For the n+2 digit-work accounting clock, the algebraic jump bound remains true for every nontrivial jump, but an attempted update consumes the same n+2 work units as in C170/L409.
 No accelerated or free time change is inferred.
 
 <a id="zero-middle-same-null-subsequence"></a>

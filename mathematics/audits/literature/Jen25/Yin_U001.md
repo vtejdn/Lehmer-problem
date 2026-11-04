@@ -41,6 +41,6 @@ It does not allow substitution of the degree of a non-Galois Q(alpha) for the de
 The project must retain that distinction in any normal-closure or intermediate-field argument.
 No automatic coverage of all original inputs is imported.
 
-The [actual published PDF](../../../literature/pdf/Jen25--published.pdf) identify the artifact and edition.
+The [actual published PDF](../../../literature/pdf/Jen25--published.pdf) identifies the artifact and edition.
 There is no printed contents list.
 The bounded reading stopped after the exact stronger prior coverage, constants and applicable domain were established; no source-wide or original-reference proof audit is asserted.

@@ -148,7 +148,8 @@ Minimality is essential to this inference: a nonminimal representation can conta
 
 The map $s$ is a polynomial algebra homomorphism, but **not an unrestricted map on all formal series**: an infinite coefficient sum may be required after cancellations.
 On reduced-supported series it is a coefficient relabeling.
-Products, matrix inverses, and infinite sums require separate analytic or Malcev-Neumann justification; those arguments belong in U004 and U005.
+Products, matrix inverses and infinite sums require separate ambient-space justification.
+U004 contains the analytic argument; U005 supplies the external Malcev-Neumann foundation, while the separate local support/inverse/substitution/pivot construction reported by the historical audit remains unlocated.
 
 ## Findings, dependencies, and limits
 
@@ -168,13 +169,13 @@ Products, matrix inverses, and infinite sums require separate analytic or Malcev
 
 On 2026-09-08 the coordinating agent read the extracted pp. 614-616 and 621 and visually inspected those pages, including residual orientation, Theorem 4, and formula (2).
 The local reconstruction above received independent AI cross-review by the analytic reconstruction agent: inverse-residual span invariance, minimal reachable/unobservable constructions, polynomial row/column selection, formal pivots, and the infinite-alphabet counterexample were checked without an unresolved objection.
-The Malcev-Neumann reconstruction agent separately inspected the field/minimality interfaces used by U005.
+The Malcev-Neumann reconstruction agent separately inspected the field/minimality interfaces for its Section 4 application; that application body is not presently located in U005, which owns external interfaces.
 These are mathematical reviews, not audits of every original reference or formal verification.
 This initial unit supplies the formal interface for U002, U004, and U005; no new project claim ID is assigned.
 
 ## Source and inspection
 
-Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U006; it does not replace the primary version.
+Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U005; it does not replace the primary version.
 
 Source passages: Section 2.1, printed pp. 614-616, Definition 1 and Theorems 2-4; formula (2), p. 621.
 

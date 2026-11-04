@@ -231,7 +231,7 @@ This is the square of C621's fixed target y_(4,0) in that quotient: the low-X re
 
 ### Fixed finite certificate and the exact squaring boundary
 
-The all-order period/divisor proof and complete group normal forms are reused from [C621v2](Yin_C_G0621_v2.md#argument) and its fixed J126 certificate (`mathematics/computations/outputs/Yin_J_G0126/certificate.json`).
+The all-order period/divisor proof and complete group normal forms are reused from [C621v2](Yin_C_G0621_v2.md#argument) and its fixed J126 certificate (`mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json`).
 At M=X^8phi^16 the ambient unit group has order3*2^37, and G has order3*2^34 with34 principal pivots and its order-three residue factor.
 That theorem covers every complete odd order other than5, including arbitrarily high5 orders, by the proved160/320 index periods and exact predivision before reduction.
 No source-order cutoff is introduced here.

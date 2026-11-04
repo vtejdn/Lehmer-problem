@@ -29,7 +29,7 @@ author: Yin
 ## Current entire coupled-center theorem finding
 
 Date: 2026-10-21T20:21.
-The maintaining agent supplied this whole home after reading all original L259/R158 and comparing the complete consumed fixed mechanisms, so this actual entire check is SELF rather than isolated review.
+The maintaining agent supplied this whole home after reading all original L259/R120 and comparing the complete consumed fixed mechanisms, so this actual entire check is SELF rather than isolated review.
 It checked the complete C445 statement/argument, all original Sections1--7/equations1--24, C436's full original partition/three-point/theta/pivot chain, C296's full closure/strong-limit mechanism, C212's actual radical degree/product proof, C235's complete stronger comparison and C280's collision-rate existence argument.
 Only their explicit consumed scopes are premises; unrelated posterior/weighted-observation/geometry/current-D127 arguments are excluded.
 No original mathematical defect or author repair was identified.
@@ -79,8 +79,8 @@ Applying the seed estimate once each stream is long enough keeps all r initial/r
 No1/r loss or varying-r uniform onset is introduced, and arbitrary polynomials do not inherit this decomposition.
 
 The entire original scope passes at SELF, retaining all actual-input/real-shift/tail/pair/root/degree/onset/source/near-one limits.
-Nat26 U009 is reused at its original formula/statement/application depth; neither source pages nor old book proofs were newly read and no unit's reader/date/depth was expanded.
-Original R158 is known SELF because its review brief supplied claimed outcomes before checking; generic shared context, upstream reviewer roles or necessary inputs alone are not the reason.
+Nat26 U003 is reused at its original formula/statement/application depth; neither source pages nor old book proofs were newly read and no unit's reader/date/depth was expanded.
+Original R120 is known SELF because its review brief supplied claimed outcomes before checking; generic shared context, upstream reviewer roles or necessary inputs alone are not the reason.
 Its whole original verdict/no-contribution/no-repair and no-machine-execution facts remain at their actual dates.
 
 <a id="coupled-center-original-author-finding"></a>

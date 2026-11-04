@@ -4,7 +4,7 @@ author: Yin
 
 # Complete original common-window bridge and growing-energy zero-return Salem comparison
 
-This retains the complete necessary mathematical argument from [the complete original G403 fixed account](../ledger/Yin_L_G0403_v1.md#common-window-bridge-reuse).
+This retains the complete necessary mathematical argument from [the complete original L403 fixed account](../ledger/Yin_L_G0403_v1.md#common-window-bridge-reuse).
 Original contribution and review accounts remain at their fixed inputs; this maintenance creates no research authority.
 
 ## Statement

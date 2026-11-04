@@ -6,8 +6,8 @@ author: Yin
 
 Human author Yin.
 Root developed the following actual-source modulo-sixteen extension.
-The current whole-source C767 and copied-factor C762 interfaces supply the exact original inputs; C821's modulo-eight proof is an earlier comparison only.
-The generic high-power C767/C770 families have different source hypotheses and are not substituted for this primitive input.
+The current whole-source C767 and copied-factor C762 interfaces supply the exact original inputs; C778's modulo-eight proof is an earlier comparison only.
+The generic high-power C730/C733 families have different source hypotheses and are not substituted for this primitive input.
 This is a direct finite algebraic proof, with no new native experiment or external theorem.
 The fixed candidate is initially open pending independent whole review and separate adoption.
 
@@ -24,7 +24,7 @@ Write A=2m=Q/2-4, Q=2^ell, ell>=82 and
 
 Every source factor, full multiplicity and original degree is retained.
 Then F_T is zero modulo16 on EVERY complete nonphi primary localization of the actual quotient (Z/16)[X]/T.
-This holds for every C767 target, without any extra choice of a C821 first-eight seed, sign correction, source row, larger s, dyadic raising or free trace coefficient.
+This holds for every C767 target, without any extra choice of a C778 first-eight seed, sign correction, source row, larger s, dyadic raising or free trace coefficient.
 
 On the full Y_1 primary components the stronger intermediate statement holds: if c_T=2d locally, the reduction of d is divisible by the corresponding factor of Y_half=product_(f|Y_1)f^ceil(e_f/2).
 Consequently 2c_T^2=0 modulo16 there.

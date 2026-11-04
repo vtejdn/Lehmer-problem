@@ -19,10 +19,10 @@ The reviewer neither edited nor repaired any mathematical input.
 
 ## Actual sequence
 
-At2026-10-22T19:11 the reviewer completed all four initial whole judgments from the exact current v1 files and their necessary fixed interfaces, and reported those judgments before opening R302–R305.
+At 2026-10-22T19:11 the reviewer completed all four initial whole judgments from the exact current v1 files and their necessary fixed interfaces, and reported those judgments before opening R302–R305.
 Each initial judgment was positive at the target's complete actual scope described below.
 Only after that report were R302,R303,R304,R305 read in full, including both formal findings, all bindings, arrangement accounts, source/native/supplementary-checker limits and retained historical conclusions in each.
-The second-stage comparison completed at2026-10-22T19:12 and found no mathematical discrepancy with the independently reconstructed current arguments.
+The second-stage comparison completed at 2026-10-22T19:12 and found no mathematical discrepancy with the independently reconstructed current arguments.
 These are sequential events within the same actual session, not reconstructed old review dates.
 No supplementary checker, mathematical native program, research run, new source acquisition or original external-source proof audit was used.
 
@@ -99,7 +99,7 @@ No supplementary checker, mathematical native program, research run, new source 
 | [C18 unconditional assembly and extraction finding](#c18-integer-capacity-asymptotic-extraction-finding) | [C18 v1 initial selection](../../claims/Yin_C_G0018_v1.md#decision-initial) | Precise statement/argument and declared C17/C16/C10/Sch09-U002/Den09-U001 interfaces, with actual adoption remaining root's responsibility. |
 | [C18 unconditional assembly and extraction finding](#c18-integer-capacity-asymptotic-extraction-finding) | [Retained original author freeze](../../claims/Yin_C_G0018_v1.md#integer-capacity-asymptotic-entire-author-freeze) | Entire original D13 body compared while both files remained available; only first-title depth and final whitespace normalization differ. |
 | [C18 unconditional assembly and extraction finding](#c18-integer-capacity-asymptotic-extraction-finding) | [C17 v1 statement](../../claims/Yin_C_G0017_v1.md#statement) | Only exact Gamma_T^Q=E_T^Q=E_T^R for the same finite nonzero actual-residue class, rational positive-definite Toeplitz W/diagonal1, every T>=d-1 and specified actual order; first-window theorem not needed. |
-| [C18 unconditional assembly and extraction finding](#c18-integer-capacity-asymptotic-extraction-finding) | [C17 v1 adopted decision](../../claims/Yin_C_G0017_v1.md#decision-organized-reviewed) | Actual2026-10-11T18:45 proved/independently-reviewed selection of the exact current fixed statement/argument via R302; resolves the original SD dependency only in this new assembly. |
+| [C18 unconditional assembly and extraction finding](#c18-integer-capacity-asymptotic-extraction-finding) | [C17 v1 adopted decision](../../claims/Yin_C_G0017_v1.md#decision-organized-reviewed) | Actual 2026-10-11T18:45 proved/independently-reviewed selection of the exact current fixed statement/argument via R302; resolves the original SD dependency only in this new assembly. |
 | [C18 unconditional assembly and extraction finding](#c18-integer-capacity-asymptotic-extraction-finding) | [R746 C17 finding](#c17-toeplitz-completeness-extraction-finding) | Reuse of its actual complete C17 proof/extraction coverage at the exact adopted scope; this reviewer does not claim a fresh whole proof review of C17 or BV04 foundations. |
 | [C18 unconditional assembly and extraction finding](#c18-integer-capacity-asymptotic-extraction-finding) | [C16 v1 statement](../../claims/Yin_C_G0016_v1.md#statement) | Exact finite moments/lags and actual integer-value class, positive energy infimum, weighted quotient and rational/formal-real conventions; its weak-duality scope is unchanged. |
 | [C18 unconditional assembly and extraction finding](#c18-integer-capacity-asymptotic-extraction-finding) | [C10 v2 generic local inequality](../../claims/Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Positive normalized final weights, exact circle covariance, allowed common window and full original nonzero resultants; finite Poisson/reversal/log proof without reciprocity or unit-target restriction. |
@@ -120,9 +120,9 @@ No supplementary checker, mathematical native program, research run, new source 
 | [C19 v1 extraction and interface finding](#c19-radical-capacity-extraction-finding) | [C16 weighted quotient](../../claims/Yin_C_G0016_v1.md#weighted-quotient-lattice-certificate) | Full-row-rank W/G inverse, every real representative's kernel-error identity, rational least representatives and complete nonzero integer minimum; weak duality on Q only. |
 | [C19 v1 extraction and interface finding](#c19-radical-capacity-extraction-finding) | [C16 sharp control](../../claims/Yin_C_G0016_v1.md#sharp-quadratic-window-minimum) | Exact base W identity, PD proof, whole integer floor1/5 and actual two-label attainer/norms used by the lifted quartic control. |
 | [C19 v1 extraction and interface finding](#c19-radical-capacity-extraction-finding) | [C17 v1 statement](../../claims/Yin_C_G0017_v1.md#statement) | Adopted Gamma_T=E_T only on the full-row-rank BASE window, formal-real equality and the monogenic energy1 branch below each ACTUAL degree; no invalid shorter-block inverse. |
-| [C19 v1 extraction and interface finding](#c19-radical-capacity-extraction-finding) | [C17 actual adopted selection](../../claims/Yin_C_G0017_v1.md#decision-organized-reviewed) | Actual proved/independently-reviewed selection dated2026-10-11T18:45, selecting the fixed statement and argument reviewed in R302; no mutable D12 premise. |
+| [C19 v1 extraction and interface finding](#c19-radical-capacity-extraction-finding) | [C17 actual adopted selection](../../claims/Yin_C_G0017_v1.md#decision-organized-reviewed) | Actual proved/independently-reviewed selection dated 2026-10-11T18:45, selecting the fixed statement and argument reviewed in R302; no mutable D12 premise. |
 | [C19 v1 extraction and interface finding](#c19-radical-capacity-extraction-finding) | [Existing C17 review](#c17-toeplitz-completeness-extraction-finding) | This reviewer's prior exact upstream C17 finding is reused at that unchanged base interface only; it supplies no independent coverage of the new D14/C19 argument. |
-| [Complete parameter author-freeze finding](#quadratic-parameter-whole-author-finding) | [Retained complete original freeze](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-entire-author-freeze) | Exact2026-10-11T19:10 original D15 Sections1--8/theorem/equations1--19, every odd/even/equality/denominator/norm/cost/comparison and growing-measure boundary. |
+| [Complete parameter author-freeze finding](#quadratic-parameter-whole-author-finding) | [Retained complete original freeze](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-entire-author-freeze) | Exact 2026-10-11T19:10 original D15 Sections1--8/theorem/equations1--19, every odd/even/equality/denominator/norm/cost/comparison and growing-measure boundary. |
 | [Complete parameter author-freeze finding](#quadratic-parameter-whole-author-finding) | [Actual domain and reuse](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-reuse-and-domain) | Every integer a>=3, actual irreducible degree2 nontorsion unit, monogenic order and nonzero integer residue condition, fixed allowed window2 and formal-real convention; old family/scalar/Gram results credited. |
 | [Complete parameter author-freeze finding](#quadratic-parameter-whole-author-finding) | [Exact minimum statement](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-minimum-statement) | E_2^Q=E_2^R=Gamma_2^Q=1/L, actual primal/dual witnesses, even two types and odd three types, all signed positive splits and rational denominator guards. |
 | [Complete parameter author-freeze finding](#quadratic-parameter-whole-author-finding) | [Complete square/lattice argument](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-square-identities) | Entire W coefficient expansion, real positive definiteness, unimodular integer residue transformation, complete four/six shortest-vector sets and all-fiber weighted quotient identity. |
@@ -132,7 +132,7 @@ No supplementary checker, mathematical native program, research run, new source 
 | [Complete parameter author-freeze finding](#quadratic-parameter-whole-author-finding) | [Complete Euclidean comparison](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-euclidean-comparison) | Complete nonzero integer Euclidean minimum2/(a^2+2), only two least representatives, both positive lags, exact even/odd ratios and no sampled-list substitution. |
 | [Complete parameter author-freeze finding](#quadratic-parameter-whole-author-finding) | [Parameter limits and self-check](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-scope-and-self-check) | All growing-a formulas, fixed degree and increasing total m, existing a4/a3 controls, actual integer-parameter/order scope and no uniform near-one or overorder inference. |
 | [C20 v1 extraction and interface finding](#c20-quadratic-parameter-extraction-finding) | [C20 v1 statement](../../claims/Yin_C_G0020_v1.md#statement) | Exact all-integer parameter domain and A--C parity/equality/certificate/cost/comparison conclusions, including rational/formal-real guards, arbitrary splits and growing-measure limits. |
-| [C20 v1 extraction and interface finding](#c20-quadratic-parameter-extraction-finding) | [C20 v1 argument](../../claims/Yin_C_G0020_v1.md#argument) | Entire retained03:10 author body and actual new proof-selection wrapper/dependency uses; every necessary parameter proof is local, and only weak C16 plus C10 expense are selected. |
+| [C20 v1 extraction and interface finding](#c20-quadratic-parameter-extraction-finding) | [C20 v1 argument](../../claims/Yin_C_G0020_v1.md#argument) | Entire retained 2026-10-11T19:10 author body and actual new proof-selection wrapper/dependency uses; every necessary parameter proof is local, and only weak C16 plus C10 expense are selected. |
 | [C20 v1 extraction and interface finding](#c20-quadratic-parameter-extraction-finding) | [C20 v1 initial decision](../../claims/Yin_C_G0020_v1.md#decision-initial) | Actual statement/argument and C16/C10 dependency rows; no adoption is made by this reviewer. |
 | [C20 v1 extraction and interface finding](#c20-quadratic-parameter-extraction-finding) | [Retained original entire freeze](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-entire-author-freeze) | Complete D15/C20 original-body preservation compared before working-draft retirement; only first-title depth and final whitespace differ. |
 | [C20 v1 extraction and interface finding](#c20-quadratic-parameter-extraction-finding) | [C16 v1 statement](../../claims/Yin_C_G0016_v1.md#statement) | Exact actual integer-residue and finite positive-weight domain, formal-real conventions, rational PD Toeplitz class and WEAK all-representative mu<=Gamma<=E inequality only; general C17 completeness not used. |
@@ -285,13 +285,13 @@ This new finding can support a subsequent actual adoption of this exact current 
 
 ## Historical comparison and retained limits
 
-R302 has two explicit unknown relationships at the old whole-author-freeze and C17 extraction scopes; its date2026-10-11T18:40 and original2026-10-11T18:35 freeze remain historical facts.
-R303 likewise has two explicit unknown relationships at its original CONDITIONAL author-account and newly unconditional C18 assembly scopes, dated2026-10-11T18:51.
+R302 has two explicit unknown relationships at the old whole-author-freeze and C17 extraction scopes; its date 2026-10-11T18:40 and original 2026-10-11T18:35 freeze remain historical facts.
+R303 likewise has two explicit unknown relationships at its original CONDITIONAL author-account and newly unconditional C18 assembly scopes, dated 2026-10-11T18:51.
 Its original author freeze has date/section precision without a separately known frozen minute; none is invented.
 The present review independently checks the current exact unconditional assembly, while the original conditional history remains conditional.
-R304 has two explicit unknown relationships dated2026-10-11T18:59, with original2026-10-11T18:52 freeze and actual author-helper versus later supplementary noncontributor-checker scopes preserved.
+R304 has two explicit unknown relationships dated 2026-10-11T18:59, with original 2026-10-11T18:52 freeze and actual author-helper versus later supplementary noncontributor-checker scopes preserved.
 The limited supplementary control/cost check is not a whole-proof finding by that checker.
-R305 has two explicit unknown relationships dated2026-10-11T19:19 and preserves its original2026-10-11T19:10 whole author freeze and exact parameter/equality/cost scope.
+R305 has two explicit unknown relationships dated 2026-10-11T19:19 and preserves its original 2026-10-11T19:10 whole author freeze and exact parameter/equality/cost scope.
 The old bodies' historical independent-review wording is not silently converted into a new established isolated arrangement, nor is absence of established isolation reclassified as known SELF.
 The old nonblind labels, named obligations, past upstream review roles or read-only assembly alone do not establish proof contribution.
 The old exact bindings, original source-reading facts, preservation comparisons and failed/unavailable operations are not changed by this new current review.
@@ -543,7 +543,7 @@ Date and human attribution: 2026-10-11T18:51; human record author Yin.
 This is a separately organized whole mathematical review by the integer_moment_whole_review AI of the complete original conditional D13 account, followed by actual review of the newly registered unconditional [C18 v1](../../claims/Yin_C_G0018_v1.md), its [statement A--C](../../claims/Yin_C_G0018_v1.md#statement), [argument](../../claims/Yin_C_G0018_v1.md#argument) and [initial decision](../../claims/Yin_C_G0018_v1.md#decision-initial).
 The original author account is dated 2026-10-12 and frozen through Section7, equations(1)--(21), at its [entire-author-freeze anchor now retained in C18](../../claims/Yin_C_G0018_v1.md#integer-capacity-asymptotic-entire-author-freeze).
 Its original freeze gives no precise minute; none is invented here.
-C18's registration and new assembly are dated2026-10-11T18:49.
+C18's registration and new assembly are dated 2026-10-11T18:49.
 
 Review arrangement: root supplied the substantive determinant/lattice-minimum and full-root scaling candidates; the integer_capacity_asymptotic_author AI supplied the complete conditional derivation and self-check.
 Both are substantive contributors.
@@ -706,7 +706,7 @@ The classical fixed-input rate and this capacity formula therefore leave G0001's
 ### R303: C18 unconditional assembly and extraction finding
 
 The ACTUAL C18 v1 statement A--C, new assembly, selected complete argument and current dependencies pass this independent review.
-Unlike the original author account, the current selected proof has a resolved fixed SD input: C17 v1 was actually adopted as proved and independently reviewed at2026-10-11T18:45 through R302's exact C17 finding.
+Unlike the original author account, the current selected proof has a resolved fixed SD input: C17 v1 was actually adopted as proved and independently reviewed at 2026-10-11T18:45 through R302's exact C17 finding.
 Its statement gives Gamma_T^Q=E_T^Q=E_T^R for precisely the same rational PD Toeplitz/diagonal1 domain, finite positive packets with nonzero actual integer residues, every lag and every T>=d-1.
 It includes the specified actual orders.
 The separate C17 first-window theorem is unnecessary here.
@@ -757,7 +757,6 @@ No mathematical input was edited and no contributor proof patch was supplied dur
 Classical accepted foundation statements and the separately reviewed C17 theorem are reused at their precise identified scope; they are not claimed newly proved by this record.
 Whole original author work and its conditional history remain physically retained.
 
-The disposable input was removed after successful allocation.
 
 ## Original R304 retained account
 
@@ -988,7 +987,7 @@ Its relationship and binding rows are included in the single effective tables ab
 Original record title: Whole review of the quadratic parameter minimum and C20 extraction.
 
 Date and human attribution: 2026-10-11T19:19; human record author Yin.
-The integer_moment_whole_review AI performs a separately organized initial whole mathematical review of the complete original D15 account, author-frozen at2026-10-11T19:10, Sections1--8, its theorem and equations(1)--(19).
+The integer_moment_whole_review AI performs a separately organized initial whole mathematical review of the complete original D15 account, author-frozen at 2026-10-11T19:10, Sections1--8, its theorem and equations(1)--(19).
 This is followed by actual review of the newly allocated [C20 v1](../../claims/Yin_C_G0020_v1.md), its [statement A--C](../../claims/Yin_C_G0020_v1.md#statement), [argument](../../claims/Yin_C_G0020_v1.md#argument) and [initial selection](../../claims/Yin_C_G0020_v1.md#decision-initial).
 The whole original account and its [entire author freeze](../../claims/Yin_C_G0020_v1.md#quadratic-parameter-entire-author-freeze) are physically retained there.
 
@@ -1169,7 +1168,7 @@ This finding supports selecting the exact C20 v1 statement and argument as prove
 The complete original D15 body was compared while both files were available.
 After CRLF-to-LF normalization, changing only the first title from level1 to level2 and trimming final line endings, the entire original body equaled the retained C20 body exactly up to its actual `Registration and preservation operation` heading.
 The original body had20,867 characters and the retained body20,868 including that extra title marker.
-Every parity proof, equation, source/comparison disclosure, self-check, cost and03:10 freeze sentence is retained.
+Every parity proof, equation, source/comparison disclosure, self-check, cost and 2026-10-11T19:10 freeze sentence is retained.
 The new wrapper, statement, dependency selection and registration appendix were separately examined.
 This is an operational preservation check, not a mathematical hash or proof certificate.
 
@@ -1202,5 +1201,3 @@ This is internal agent mathematical review, not personal human inspection, exter
 Whole author checking and root's substantive candidate are disclosed and are not independent evidence.
 Prior C16/C18 review roles remain their exact upstream scopes.
 No mathematical program was run.
-
-This reviewer authored only the new R and its disposable allocation input, which was removed after successful allocation; root owns the manual review-index entry and final adoption/consumer batch.

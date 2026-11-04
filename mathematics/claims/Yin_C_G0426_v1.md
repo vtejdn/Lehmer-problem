@@ -125,7 +125,7 @@ No near-one family, absolute multiplicity bound, fixed exponent, uniform conditi
 | --- | --- |
 | date | 2026-10-21T19:19 |
 | status | proved |
-| reason | Adopt after actual entire current SELF inspection of all original inverse-pair total measure, repeated-root confinement, full finite Newton/Chebyshev/projection and angular transfer, fixed/growing-test quantifiers, full canceled-phase orders, primitive critical-value/resultant/field/height arithmetic, degree-paid nonreal discriminant and maximal-degeneracy log2 argument. Preserve all source-depth, no-uniformity and no-execution boundaries; original R280 whole author-check exposure remains SELF without enlarging its history. |
+| reason | Adopt after actual entire current SELF inspection of all original inverse-pair total measure, repeated-root confinement, full finite Newton/Chebyshev/projection and angular transfer, fixed/growing-test quantifiers, full canceled-phase orders, primitive critical-value/resultant/field/height arithmetic, degree-paid nonreal discriminant and maximal-degeneracy log2 argument. Preserve all source-depth, no-uniformity and no-execution boundaries; original R204 whole author-check exposure remains SELF without enlarging its history. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -137,7 +137,7 @@ No near-one family, absolute multiplicity bound, fixed exponent, uniform conditi
 | dependency | [Exact accepted input](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Only total multiplicative/logarithmic measure, original degree and elementary monic-integer bounded-degree finiteness, not a new finite scan. |
 | support | [Exact support](../audits/literature/Smy08/Yin_U003.md#smy08-u003) | Only classical full-polynomial Vandermonde/Hadamard mechanism and degree costs; all new trace-pair columns and bounds are derived locally without field-discriminant substitution or omitted degree logarithm. |
 | support | [Exact support](../audits/literature/Hou16/Yin_U001.md#hou16-u001) | Only checked slides25–26 statement/mechanism with the supporting-line boundary guard and exact original reading depth; full barycenter confinement is proved locally without an unseen source premise. |
-| review | [Actual complete finding](../audits/reviews/Yin_R_G0628_v1.md#current-unrestricted-critical-whole-finding) | Entire precise current unrestricted reciprocal-unit Statement and complete necessary original Sections1–9/equations(1)–(20), explicit growing-L refinement, all original root multiplicities and finite/degree/source/normalization/cost guards. Actual whole relationship is self-reviewed, with original full author check and original R280 actual SELF separately retained. |
+| review | [Actual complete finding](../audits/reviews/Yin_R_G0628_v1.md#current-unrestricted-critical-whole-finding) | Entire precise current unrestricted reciprocal-unit Statement and complete necessary original Sections1–9/equations(1)–(20), explicit growing-L refinement, all original root multiplicities and finite/degree/source/normalization/cost guards. Actual whole relationship is self-reviewed, with original full author check and original R204 actual SELF separately retained. |
 
 ## Complete retained argument
 

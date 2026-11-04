@@ -297,7 +297,7 @@ One may choose the cell after specifying n,J; no claim of a cheap uniform optimi
 The exact density counts actual core states, and the exact Gaussian limit weights those states only by the stated Gaussian function.
 The complete original endpoint product is only bounded above by that function.
 Neither a lower original word probability, a return local limit theorem, a positive linear midpoint level, a true-H approximation, a critical-mean classification nor unrestricted G0001 completion follows from the count lower bound.
-The finite phase derivative gate in C828 and the continuation imbalance in C826 remain genuine unresolved original-law estimates.
+The finite phase derivative gate in C785 and the continuation imbalance in C783 remain genuine unresolved original-law estimates.
 No native program, enlarged finite graph, source acquisition or external theorem beyond the retained input scopes was used.
 
 ## Current assessment

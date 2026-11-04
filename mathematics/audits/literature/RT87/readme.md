@@ -5,7 +5,8 @@
 
 2026-10-12T09:58.
 Root coordinating AI for Yin acquired the public author-hosted journal scan through the canonical source tool and visually inspected its first two pages after text extraction returned no text.
-The [canonical bibliography](../../../literature/references.bib) owns RT87 identity owns the acquired [RT87.pdf](../../../literature/pdf/RT87.pdf) and intake facts.
+The [canonical bibliography](../../../literature/references.bib) owns RT87 bibliographic identity.
+The acquired [RT87.pdf](../../../literature/pdf/RT87.pdf) is the journal scan inspected below.
 The rendered first page confirms P. Raghavan and C. D. Thompson, the registered title, Combinatorica7(4)(1987),365--374.
 The retained file has10pages; printed365--366 are PDF1--2.
 

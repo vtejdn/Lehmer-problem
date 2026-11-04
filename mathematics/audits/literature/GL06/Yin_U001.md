@@ -39,4 +39,4 @@ The actual [R_G216 source account](../../reviews/Yin_R_G0216_v1.md#actual-source
 Its individual source-reading minute is unrecorded; the00:23 review minute and00:22 project author freeze are not substituted for it.
 The original Fourier/Gram/perturbative attribution is the same inspected version; the project proves its own coefficient error constant and rational LDL rather than adopting a source numerical constant, multivariable theorem, complex spectral factor or cited Fejer--Riesz/Dritschel proof.
 No whole-paper or published/preprint equivalence audit was performed; the original source-render byproduct was removed.
-This retention adds neither a new source reading nor acquired bytes; the registered artifact entry retains sole ownership of.
+This retention adds neither a new source reading nor acquired bytes.

@@ -106,15 +106,15 @@ No quantitative strict margin, upper realization, nonpositive expanding-pair ext
 
 Date: 2026-10-18T17:58.
 Human author Yin.
-Root assigned the bounded equality question after the fixed positive-root theorem L428.
+Root assigned the bounded equality question after the fixed positive-root theorem L427.
 The loglog_cyclic_review agent supplies every new deduction below; root supplied the question, not a criterion or proof step.
-No fixed L428 text is changed.
+No fixed L427 text is changed.
 There is no numerical run, matrix enumeration, optimization, new source acquisition or quantitative-frustration investigation.
 
 <a id="general-single-pair-equality-reuse"></a>
 ## Reuse and the exact extension
 
-Read the actual [L428 positive-root proof](Yin_C_G0566_v1.md#positive-root-companion-proof), now covered by the separately assigned [R440](../audits/reviews/Yin_R_G0440_v1.md), and [L405's bipartite equality criterion](Yin_C_G0500_v1.md#single-expanding-complete-classification).
+Read the actual [L427 positive-root proof](Yin_C_G0566_v1.md#positive-root-companion-proof), now covered by the separately assigned [R440](../audits/reviews/Yin_R_G0440_v1.md), and [L405's bipartite equality criterion](Yin_C_G0500_v1.md#single-expanding-complete-classification).
 L405 already retains disconnected neutral components, the difference between equal measure and equal polynomials, and a separately paid finite frustration estimate.
 Its singular-value argument concerns bipartite matrices; no such representation is assumed here.
 [C2](Yin_C_G0002_v1.md#signed-cover-identity) already proves that diagonal sign switching to nonpositive strict-upper entries is sufficient for complete polynomial equality and gives the literal cover product.
@@ -180,7 +180,7 @@ Use a nonzero real vector x supported on C_* with
 Such a real vector exists because the real component pencil is singular.
 Put v=|x|, M(t)=t|N_*|+|N_*|^T and h(t)=t+1-rho(M(t)).
 The component is not an isolated vertex, and M(t) is irreducible nonnegative for every t>0.
-L428's actual argument gives
+L427's actual argument gives
 
     M(alpha)v>=(alpha+1)v,
     rho(M(alpha))>=alpha+1,
@@ -241,7 +241,7 @@ The complete factorization and measure additivity are
     m(p_abs)=sum_j m(p_abs,j).                           (6)
 
 Every summand in the last line is nonnegative.
-By L428 the expanding component alone contributes at least log alpha.
+By L427 the expanding component alone contributes at least log alpha.
 Consequently equality for the full measure implies zero contribution from every other absolute component and equality on C_*.
 The previous section then proves (i), while those zero contributions give (ii).
 Conversely (i) gives exactly log alpha on C_* and (ii) makes every other summand zero, proving the complete iff criterion.
@@ -282,8 +282,8 @@ Neither this equality classification nor that floor constructs a cheap realizati
 
 | Input | Exact role |
 | --- | --- |
-| [L428 positive-root argument](Yin_C_G0566_v1.md#positive-root-companion-proof), [R440](../audits/reviews/Yin_R_G0440_v1.md) | Connected-block nonnegative subeigenvector, left Perron bound, continuous crossing and nilpotent tail, with every original and absolute factor. This author contributed L428 and reuses root's separate whole review. |
-| [L428 Salem-neutral consumer](Yin_C_G0566_v1.md#salem-neutral-companion-consequence) | Arbitrary actual proper realization of one Salem factor times any neutral factor and its full cover lower bound; no equality claim inherited. |
+| [L427 positive-root argument](Yin_C_G0566_v1.md#positive-root-companion-proof), [R440](../audits/reviews/Yin_R_G0440_v1.md) | Connected-block nonnegative subeigenvector, left Perron bound, continuous crossing and nilpotent tail, with every original and absolute factor. This author contributed L427 and reuses root's separate whole review. |
+| [L427 Salem-neutral consumer](Yin_C_G0566_v1.md#salem-neutral-companion-consequence) | Arbitrary actual proper realization of one Salem factor times any neutral factor and its full cover lower bound; no equality claim inherited. |
 | [L405 equality mechanism](Yin_C_G0500_v1.md#connected-sign-equality), [full neutral classification](Yin_C_G0500_v1.md#single-expanding-complete-classification) | Earlier bipartite equality, sign propagation and full disconnected neutral costs; the non-bipartite necessity is proved here. |
 | [C2 full cover](Yin_C_G0002_v1.md#signed-cover-identity) | Complete original-times-absolute factorization and switching sufficiency, without rank normalization. |
 | [L238 integral floor](../ledger/Yin_L_G0238_v1.md#uniform-companion-gap-and-bounded-ratio) | Existing uniform extra-factor floor, comparison only; no new source proof or original-measure implication. |

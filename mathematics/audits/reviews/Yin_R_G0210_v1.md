@@ -13,10 +13,10 @@ Root supplied the assignment, claimed result and scope, and prior fixed input lo
 Arrangement and inputs: the complete frozen D29, including its author self-check and early local-attempt account, was read.
 The assignment already stated the proposed exact lift, minimum width/denominator, J85 point and same-exponent income; that shared context is disclosed.
 No proof-generation dialogue or separate author explanatory exchange was supplied or requested.
-The reviewer enumerated and reconstructed the mathematical obligations from the written argument and the actual fixed input bodies before consulting the older R279/R282/R283 conclusions.
+The reviewer enumerated and reconstructed the mathematical obligations from the written argument and the actual fixed input bodies before consulting the older R203/R206/R207 conclusions.
 Those reviews concern the upstream fixed inputs, not D29; their exact relevant scopes were subsequently read.
 The J85 README and actual source routines for seeds, six equations and matrix row/column conventions were inspected.
-Its previous whole native verification is reused only through R279; no new execution, rank calculation or re-verification of every saved matrix entry is claimed.
+Its previous whole native verification is reused only through R203; no new execution, rank calculation or re-verification of every saved matrix entry is claimed.
 
 The review covers the whole local proof and all declared interfaces, including the early unadopted route, complete affine family, exact target interpolation, all minima and costs, finite-word membership, dyadic reductions, canonical J85 point, full original norms and same-exponent local income, and the rational-pole/residual boundaries.
 No native mathematical program, solver, enumeration or new J was used.
@@ -53,7 +53,7 @@ The original independently labelled description,23:23 date, full twenty-two bind
 | [Whole finding](#exact-quartic-lift-whole-finding) | [L380 rational correction](../../ledger/Yin_L_G0380_v1.md#rational-matrix-correction-is-the-same-interpolation-obligation) | Exact completion M_v and realization W=M_w M_v_rat^-1 now that a Laurent interpolant is explicitly supplied. |
 | [Whole finding](#exact-quartic-lift-whole-finding) | [L381 original reduction](../../ledger/Yin_L_G0381_v1.md#actual-quartic-mod-two-orbit) | Original ring F2[t]/((t^2+t+1)^2), actual order6 and preservation of nilpotents. No whole image classification is needed anew. |
 | [Whole finding](#exact-quartic-lift-whole-finding) | [L381 old control](../../ledger/Yin_L_G0381_v1.md#actual-target-mod-two-control-and-full-norm-cost) | Exact reduction control t^2 E e1, denominator3/width1 and actual full41,-1 resultants versus the new81,-81 target. |
-| [Whole finding](#exact-quartic-lift-whole-finding) | [J85 declaration](../../computations/programs/Yin_J_G0085/readme.md) | Original three canonical cases and historical degree-four certificate absences; unchanged exact verification inherited through R279, without a new native replay. |
+| [Whole finding](#exact-quartic-lift-whole-finding) | [J85 declaration](../../computations/programs/Yin_J_G0085/readme.md) | Original three canonical cases and historical degree-four certificate absences; unchanged exact verification inherited through R203, without a new native replay. |
 | [Whole finding](#exact-quartic-lift-whole-finding) | [J85 source conventions](../../computations/programs/Yin_J_G0085/main.py) | Constants P/UP/UM, remainder/lifted/equations/build_case and the monomial coefficient-matrix convention used to identify the exact kf2/kg3 point and evaluation witness. No whole supervisor/elimination re-review is claimed. |
 | [Whole finding](#exact-quartic-lift-whole-finding) | [L74 content and ideal norm](../../ledger/Yin_L_G0074_v1.md#content-versus-ideal-norm) | Maximal-order scalar content, normalized prime-ideal valuations, residue-degree weights and original-field norm accounting at n5. |
 | [Whole finding](#exact-quartic-lift-whole-finding) | [L74 income convention](../../ledger/Yin_L_G0074_v1.md#aggregate-cyclic-norm-criterion) | All certified income belongs to one exponent and is counted once; elementary C_n<=2^d exp(nm) consequence. |
@@ -171,7 +171,7 @@ It annihilates every column since each equation vanishes, while its value on the
 Hence yA=0 and yb=1 follows exactly without claiming equality with any saved elimination witness.
 The same evaluation forbids a unit-ideal identity at any multiplier degree, including beyond the old finite attempt.
 This newly proved all-degree absence is justified only for the constructed kg3 case.
-R279's old three rank50/augmented51 degree-four absences remain historical checked facts; this review does not rerun them or decide the other two nonlinear cases.
+R203's old three rank50/augmented51 degree-four absences remain historical checked facts; this review does not rerun them or decide the other two nonlinear cases.
 
 ### Complete original norms, energy and residual limits
 
@@ -235,7 +235,7 @@ It cannot make W Laurent, by the retained inverse obstruction, and it charges th
 
 No new nontrivial external theorem is used.
 The exact elementary identities and affine Laurent-unit proof were checked directly.
-The source context for the reused factor form was read through the canonical [AJL17-U001](../literature/AJL17/Yin_U001.md#ajl17-u001) and [AJL16-U001](../literature/AJL16/Yin_U001.md#ajl16-u001), plus R282's disclosed selected-primary review; this reviewer did not freshly inspect either original PDF.
+The source context for the reused factor form was read through the canonical [AJL17-U001](../literature/AJL17/Yin_U001.md#ajl17-u001) and [AJL16-U001](../literature/AJL16/Yin_U001.md#ajl16-u001), plus R206's disclosed selected-primary review; this reviewer did not freshly inspect either original PDF.
 Those sources remain complex factorization attribution, without rational descent, quotient interpolation or a full-source proof claim.
 L168/L209 are used only at their fixed statement/domain interfaces, not as newly re-audited external discrepancy/house proofs.
 No source-completeness gap is introduced at D29's actual use.

@@ -66,9 +66,9 @@ No nonzero-resultant estimate is applied to a zero value.
 
 The existing C143 actual large-measure construction and C160 fixed-positive-measure bounded family were read at their exact needed interfaces, keeping their distinct input classes.
 L318/L321 remain their exact paid arithmetic/window criteria, not a hidden unproved inverse bound.
-The complete existing Sim08-U001 and original L404/R550 source facts were read; the original pp8--11 text occurrence, unknown individual reader/minute, older distinct readings and limited GS/CD attribution remain separate.
+The complete existing Sim08-U001 and original L404/R405 source facts were read; the original pp8--11 text occurrence, unknown individual reader/minute, older distinct readings and limited GS/CD attribution remain separate.
 No new primary PDF or Simon proof was inspected, and the finite formula is fully local with its actual real orientation.
-Original R550's exact fixed-proof/scope/optional-kernel/retention arrangement and22:41 record remain unchanged; this current SELF neither creates a new isolated event nor retrospectively reclassifies that original finding.
+Original R405's exact fixed-proof/scope/optional-kernel/retention arrangement and22:41 record remain unchanged; this current SELF neither creates a new isolated event nor retrospectively reclassifies that original finding.
 
 The complete selected Statement and Argument have adequate direct internal checking with no unresolved defect in their stated restricted assertions.
 The joint Fourier budget on a new arithmetic small-measure class remains unproved; no new automatic coverage, normalization income, source theorem, numerical run or Task/E authority is supplied.
@@ -104,7 +104,7 @@ The C458v2 full Gram identity and C2 literal sheet proof were checked at the exa
 
 The complete J104 README was read only to establish motivation: its actual rank-nine finite test and rank-ten all-bipartite minimum consequence are distinct.
 No program, native record, Perron vector, cycle search or numerical experiment was rerun or used as a theorem premise.
-The original R553 source-attribution and stale-sentence corrections, completed fixed-body/table reread and22:50 full finding remain unchanged; neither correction supplied a new inequality, and this current SELF does not invent or backdate a replacement review.
+The original R408 source-attribution and stale-sentence corrections, completed fixed-body/table reread and22:50 full finding remain unchanged; neither correction supplied a new inequality, and this current SELF does not invent or backdate a replacement review.
 Both original listed author-check scopes remain at their original retained body, without manufacturing a separate historical whole-review minute.
 
 No unresolved defect was found in the complete restricted equality/paid-separation assertions.

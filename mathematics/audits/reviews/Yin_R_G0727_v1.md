@@ -12,8 +12,8 @@ The publication time above is later than both completed inspections and does not
 A separately arranged agent, outside substantive development of this proof, directly read the complete fixed C504 Statement and Argument and the necessary fixed mathematical and accepted-source interfaces.
 Its fresh context supplied exact target locations, scope and rules, without proof-development discussion or a mathematical summary.
 It supplied no proof step or repair.
-The actual first phase ran from 2026-10-22T04:12 to 04:20, before any formal original R108 or current R860 whole SELF was opened.
-The coordinator separately authorized subsequent comparison with complete R108, R860, complete L209, all C504 assessments/checking accounts and the necessary source and consumer accounts.
+The actual first phase ran from 2026-10-22T04:12 to 04:20, before any formal original R108 or current R713 whole SELF was opened.
+The coordinator separately authorized subsequent comparison with complete R108, R713, complete L209, all C504 assessments/checking accounts and the necessary source and consumer accounts.
 The complete material and historical comparison ran from 2026-10-22T04:21 to 04:28; preparation of the two complete review texts continued to 04:31.
 Necessary fixed-body author/history labels were disclosed rather than treated as a PASS premise.
 No transcript filter or historical-context reconstruction was used.
@@ -50,7 +50,7 @@ At h<=c exp(-20), the actual degree exceeds exp(10)>55.
 The decreasing function log x/x on x>exp(1) bounds the actual degree term by log X/X.
 Both branches of b(h) increase on the exact interval, and b<=exp(-6).
 
-The complete C394 compact-support inequality keeps support radius 2R, factor 4R+1, global Lipschitz constant 3exp(T)+T/R and all three costs h+exp(-T)/2+1/R.
+The complete C391 compact-support inequality keeps support radius 2R, factor 4R+1, global Lipschitz constant 3exp(T)+T/R and all three costs h+exp(-T)/2+1/R.
 Its compact truncation and circle mean, as well as its norm/height interface, were read directly rather than replaced by a singular unbounded test.
 For T=log(1/b)/6 and R=exp(T), the original hypotheses T>=1 and R>=2 hold.
 The discrepancy term is at most 15b^(1/6)+5T sqrt(b), and T b^(1/3)<=1/(2exp(1)).
@@ -115,15 +115,15 @@ In particular, R258's original modulus/review use, R328's source-inspection use,
 A location-only repair can point to this preserved original account while naming that original input and keeping its original date and inspection depth.
 If a necessary historical use cannot be reconciled that way, the corresponding old R108 finding must remain until it can.
 
-The current R860 whole SELF occurred at 2026-10-22T02:07, and C504 adopted it at 10:08.
+The current R713 whole SELF occurred at 2026-10-22T02:07, and C504 adopted it at 10:08.
 Those earlier actual events and the original author SELF retain their own scopes.
 A later adoption of this new independent finding requires a real new C decision rather than rewriting the old SELF adoption.
 Publication of this R alone changes no current Claim selection.
 
 ## Fixed inputs and verification limits
 
-The C394 actual-degree/compact-test expense, C268 exact house consequence, C255 capped ramified lift and C257 individual-root-field guard were read at the exact interfaces used.
-C495's old fixed-p,F all-input restriction, C379v2's squarefree-only capacity and C454's separate-mass-versus-common-income boundary were checked as the retained comparisons, not broadened premises.
+The C391 actual-degree/compact-test expense, C267 exact house consequence, C254 capped ramified lift and C256 individual-root-field guard were read at the exact interfaces used.
+C491's old fixed-p,F all-input restriction, C376v2's squarefree-only capacity and C450's separate-mass-versus-common-income boundary were checked as the retained comparisons, not broadened premises.
 Pri11 Theorem3.1 and Dim19v1 Theorem1 remain accepted established statement/application inputs at their recorded depths.
 This finding does not independently re-prove all upstream C proofs, old SELF findings, source proofs or uninspected ancestors.
 No native mathematical computation, producer, checker, finite enumeration or research Task/E was run for C504.

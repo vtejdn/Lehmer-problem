@@ -29,12 +29,17 @@ This reviewer accepts the already adopted upstream L/C interfaces at their exact
 The general-a phase, Gaussian constants, tail, original-input comparison and calibration are reconstructed below.
 No native mathematical program, moment calculation, solver, root isolation, new J or source acquisition was performed.
 
+The initial entire C41 input included its author validation and completion summary beyond the necessary proof.
+The whole finding and its subsequent same-context extraction are self-reviewed.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Complete cyclotomic-tail finding](#cyclotomic-positive-tail-whole-finding) | independently reviewed |
-| [C41 actual extraction finding](#c41-cyclotomic-tail-extraction-finding) | independently reviewed |
+| [Complete cyclotomic-tail finding](#cyclotomic-positive-tail-whole-finding) | self-reviewed |
+| [C41 actual extraction finding](#c41-cyclotomic-tail-extraction-finding) | self-reviewed |
 
 ## Review bindings
 

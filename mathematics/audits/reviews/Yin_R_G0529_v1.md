@@ -20,7 +20,7 @@ I read the complete adopted statement, local reconstruction and limits, then che
 I directly checked the [positive-volume support interface](../../claims/Yin_C_G0239_v1.md#positive-volume-support-interface) and the exact already accepted [GBV15 entropy formula](../literature/GBV15/Yin_U001.md#gbv15-u001) at its statement and applicability scope.
 The initial mathematical findings were sent to the coordinating agent at 2026-10-21T05:52, before the old review accounts were opened.
 
-Only afterward did I read the three specified original HS16 accounts and their relationship and binding rows in [R G0675](Yin_R_G0528_v1.md#original-hs16-path-contributor-finding).
+Only afterward did I read the three specified original HS16 accounts and their relationship and binding rows in [R528](Yin_R_G0528_v1.md#original-hs16-path-contributor-finding).
 A second-stage keyword query for those bindings also exposed neighboring HS16-related current-threshold scope sentences, including a degree-22 control description.
 That incidental material was encountered after the initial findings; its argument was not inspected, used as evidence or included in this review's mathematical coverage.
 This sequence neither authenticates an old review date nor establishes the original reviewers' initial contexts.
@@ -36,7 +36,7 @@ This sequence neither authenticates an old review date nor establishes the origi
 | Review | Target | Scope |
 | --- | --- | --- |
 | [Corrected HS16 chain finding](#isolated-hs16-corrected-chain-finding) | [Fixed HS16 unit](../literature/HS16/Yin_U001.md#hs16-u001) | All adopted hypotheses and statements, the counterexample to the unrestricted path-sum wording, the complete periodic endpoint-path proof, residue decomposition, restriction to the cyclic B^r-subspace, scalar cases, expanding-space conversion and all stated nonclaims, at the explicitly retained external-input depth. |
-| [Corrected HS16 chain finding](#isolated-hs16-corrected-chain-finding) | [Positive-volume support interface](../../claims/Yin_C_G0239_v1.md#positive-volume-support-interface) | Compact binary attractor identity, volume lower bound, projection to the full algebraic support, accepted entropy upper bound and the distinction between support and weighted entropies; no other C G0240 argument is covered. |
+| [Corrected HS16 chain finding](#isolated-hs16-corrected-chain-finding) | [Positive-volume support interface](../../claims/Yin_C_G0239_v1.md#positive-volume-support-interface) | Compact binary attractor identity, volume lower bound, projection to the full algebraic support, accepted entropy upper bound and the distinction between support and weighted entropies; no other C G0239 argument is covered. |
 | [Corrected HS16 chain finding](#isolated-hs16-corrected-chain-finding) | [Accepted GBV15 interface](../literature/GBV15/Yin_U001.md#gbv15-u001) | Only the established rational algebraic-entropy formula specialized to the integral multiplication matrix with monic characteristic polynomial p, giving the binary support-rate upper bound m(p); no GBV15 original-proof audit or new full-source review. |
 | [Corrected HS16 chain finding](#isolated-hs16-corrected-chain-finding) | [Original path contributor account](Yin_R_G0528_v1.md#original-hs16-path-contributor-finding) | Second-stage comparison of the necessary negative path-sum finding, the retained endpoint correction and its actual self-review relationship; no retrospective independence or date certification. |
 | [Corrected HS16 chain finding](#isolated-hs16-corrected-chain-finding) | [Original coordinator account](Yin_R_G0528_v1.md#original-hs16-coordinator-finding) | Second-stage comparison of the stated source/digit/residue/W/determinant/endpoint checks and connectedness-source limits; original additional context remains unknown. |
@@ -158,7 +158,7 @@ Thus the sufficient condition is exactly r m(p)<=log 2, with m(p)=log M(p).
 The zero-dimensional situation is outside the positive-dimensional interior statement.
 
 Interior supplies positive finite r-dimensional volume of S.
-The direct fixed C G0240 interface gives, by splitting a binary address after n digits,
+The direct fixed C G0239 interface gives, by splitting a binary address after n digits,
 
     A^n S=D_n+S,
     D_n={sum_(j=0)^(n-1) epsilon_j A^j v},
@@ -196,10 +196,10 @@ This new independently reviewed finding supplies current evidence for the correc
 
 ### Final scope
 
-The mathematical conclusion covers every adopted HS16-U001 statement and complete local reconstruction at its declared accepted-input depth, plus the precise C G0240 positive-volume support interface used by the conversion.
+The mathematical conclusion covers every adopted HS16-U001 statement and complete local reconstruction at its declared accepted-input depth, plus the precise C G0239 positive-volume support interface used by the conversion.
 It covers the full endpoint correction and affected chain rather than only the lemma's display.
 No substantive repair was supplied during this review.
 
-The original Shmerkin--Solomyak and Odlyzko--Poonen proofs, the original GBV15 proof, the unadopted HS16 results, unrelated C G0240 arguments, neighboring R G0675 current-threshold mathematics, human review and formal verification are not covered.
+The original Shmerkin--Solomyak and Odlyzko--Poonen proofs, the original GBV15 proof, the unadopted HS16 results, unrelated C G0239 arguments, neighboring R G0528 current-threshold mathematics, human review and formal verification are not covered.
 The four temporary primary-page renders were deleted after inspection.
 This finding does not complete or resume any Task, select a C/T assessment, or certify an old review arrangement.

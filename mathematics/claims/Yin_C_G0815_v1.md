@@ -604,7 +604,7 @@ Both programs are author self-checks and do not borrow an independent review lab
 The existing native arithmetic helpers are read as explicit code dependencies, without changing their previously selected scope.
 
 The direct fixed inputs are adopted C736's integer canonical cofactor identities, C814's actual DP/DS base algebra and C812's actual old target/gamma residue at their precise inspected scopes.
-C802's complete odd-order trace separation and dyadic weights are consumed through the C814 interface, with its original Bel17/The26b inspection limits retained.
+C760's complete odd-order trace separation and dyadic weights are consumed through the C814 interface, with its original Bel17/The26b inspection limits retained.
 No new literature theorem, source acquisition or broader whole-source audit is claimed.
 No mutable D proof or new full-cofactor image is a dependency.
 

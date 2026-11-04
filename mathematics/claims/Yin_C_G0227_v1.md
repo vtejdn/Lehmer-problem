@@ -27,8 +27,8 @@ Its rational block automorphism has characteristic polynomial P(t)(t^2+1)^(N−d
 It admits an A-stable full lattice in Q^N, giving an integral similar A0 and a positive definite integral metric G with GA0=A0^T G.
 The integral B_A0 preserves [[0,G],[-G,0]], which need not be unimodular, and has the same entropy; no ordinary integral symmetry or uniformly conditioned integral basis is guaranteed.
 In particular Q0 is squarefree totally real and has such neutral rational and integral-metric realizations, but no ordinary symmetric integer neutral realization.
-For contrast the rational scalar A=2+1/q, integer q>=2, has primitive characteristic polynomial qt^2−(2q+1)t+q and entropy log q+log(lambda_q), although lambda_q decreases to1.
-No irreducibility of this scalar polynomial is required.
+For contrast, for the rational scalar A=2+1/q with integer q>=2, its two-dimensional block automorphism B_A=[[A,-1],[1,0]] has primitive integer characteristic polynomial qt^2−(2q+1)t+q and entropy log q+log(lambda_q), although lambda_q decreases to1.
+No irreducibility of this block characteristic polynomial is required.
 
 For any integral A and positive real symmetric G with GA=A^T G, put kappa=lambda_max(G)/lambda_min(G) and rho=rho(A).
 If2(kappa−1)/(kappa+1) sqrt(kappa) rho<1, then A=A^T.

@@ -91,7 +91,7 @@ There is no nearzero-measure, Salem, total-reality or irreducibility assertion.
 The general domain includes u=v=0,U=1, where T=F_N is irreducible cyclotomic and nu_2(F)=0.
 Whenever4u+v+deg U>0, the complementary factor to F_N has positive degree and T is reducible.
 Every balanced input and every explicit positive-measure example is therefore reducible.
-No irreducible lift, C757 positive-measure certificate or unrestricted Lehmer result follows, and no necessity of these auxiliary equations for that unrestricted problem is asserted.
+No irreducible lift, C720 positive-measure certificate or unrestricted Lehmer result follows, and no necessity of these auxiliary equations for that unrestricted problem is asserted.
 
 ## Exact inputs and extraction scope
 
@@ -100,7 +100,7 @@ Its retained complete-current review relationship is self-review, not a newly pe
 [C736](Yin_C_G0736_v1.md#decision-whole-reviewed-2026-10-25) supplies integer prime-divided own-divisor remainders and their exact evaluations, including repeated factors.
 [C839](Yin_C_G0839_v1.md#decision-whole-reviewed-2026-10-28) is the accepted fixed-conductor predecessor and source of the order-unit/relative-trace proof mechanism; its independent review is not attributed to this extension.
 All newly varying conductor, general trace-gain norm, endpoint, positive-measure and scope arguments are included below.
-The C839 special-family comparison uses its elementary cofactor-unit calculation only, not C886's Yu/logarithmic argument.
+The C839 special-family comparison uses its elementary cofactor-unit calculation only, not C837 UV7's Yu/logarithmic argument.
 
 The proof was developed at [D6's varying-conductor question](../drafts/Yin_D_G0006.md#varying-conductor-unit-resultant-precision-ceiling), which is extraction provenance only and supplies no logical premise.
 The complete VC1--VC8 proof is retained here; no mutable draft, native output or pending review is a mathematical dependency.
@@ -329,7 +329,7 @@ The balance identity holds, a_den=ceil(5/4)=2, and therefore
 
 uniformly across ALL these conductors and ALL monic U satisfying VC1.
 Here d_T=37*2^(ell-4)+deg U and the full reciprocal degree is twice that number.
-The original C839 family is an ell=6 specialization with u=v=4 and a particular cyclotomic U, whose remaining factors satisfy the two unit conditions by the selected C886/C839 unit argument.
+The original C839 family is an ell=6 specialization with u=v=4 and a particular cyclotomic U, whose remaining factors satisfy the two unit conditions by the selected C837 UV1--UV4/C839 unit argument.
 No claim of attainment or sharpness of6 follows.
 
 At ell=2 the fields have degrees8,4,2 and pi=1-zeta^30=2; the actual denominator construction and trace gain2 remain valid.
@@ -368,7 +368,7 @@ This is a genuine extension beyond wholly cyclotomic cofactors, but not a nearze
 
 For a general allowed U the theorem makes no root-location or measure assumption.
 The input T is reducible whenever4u+v+deg U>0, because its complementary monic factor to F_N then has positive degree; the sole empty-complement case is T=F_N.
-The positive-measure examples above and all balanced inputs are reducible, so no irreducible-lift result or C757 positive-measure certificate is supplied.
+The positive-measure examples above and all balanced inputs are reducible, so no irreducible-lift result or C720 positive-measure certificate is supplied.
 No implication that these auxiliary residual equations are necessary for the unrestricted Lehmer problem is asserted.
 The fixed C839 proof and adoption remain unchanged; this complete varying-conductor/order/Newton extension remains OPEN pending its own whole review.
 

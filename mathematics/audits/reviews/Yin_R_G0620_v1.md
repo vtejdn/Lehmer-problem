@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T19:02.
 Human operator: Yin.
 The checking agent read all269lines of the sole original L177 version, all52original R76 lines and the entire actual published C418v1, including its complete statement, argument, decisions, attribution and limitations.
-It read the necessary actual restricted finite-prime domain, all-unit collision identity/exhaustion and complete first-return/support interfaces at their precise C375/C408/C368 scopes.
+It read the necessary actual restricted finite-prime domain, all-unit collision identity/exhaustion and complete first-return/support interfaces at their precise C372/C405/C365 scopes.
 All finite-matrix, arithmetic, exact symbolic and boundary arguments were rederived below.
 The agent authored the current Claim, inherited substantive target context and read the old finding, so this complete current whole check is self-reviewed.
 No native program, numerical enumeration, new source/PDF reading, source-proof audit, external proof adoption or research Task/E execution occurred.
@@ -67,11 +67,11 @@ The singleton has only its original probability-one-half zero loop.
 For a nontrivial loop of probability a, concatenation with that zero loop is uniquely parsed by the first digit and the chosen loop's first-return length.
 The genuine return sum therefore dominates1/(1-z/2-a z^l) coefficientwise, with a positive singularity below two.
 This proves r(K_S)>1/2 without changing any word, probability or killed domain.
-The actual finite strongly connected D_S of C375 is kept distinct from the ambient S-unit intersection and its accepted ESS use remains nontorsion only.
+The actual finite strongly connected D_S of C372 is kept distinct from the ambient S-unit intersection and its accepted ESS use remains nontorsion only.
 
-C408 supplies monotone finite-prime radius approximation from below, so its negative logarithms approach h_2 from above.
+C405 supplies monotone finite-prime radius approximation from below, so its negative logarithms approach h_2 from above.
 Combining r_S>=exp(-h_2)-epsilon with r_S<=1-1/(8N^2) gives precisely the lower cardinality bound in(7).
-The actual support collision bound retained at C368 implies h_2<=m.
+The actual support collision bound retained at C365 implies h_2<=m.
 Then1-exp(-h_2)<=h_2<=m and epsilon<=m bound the denominator by16m, giving1/(4sqrt(m)).
 This remains conditional on a specified approximant, with no upper size/prime-set bound and no construction of a near-one Salem family.
 The l2-normalized positive right Perron vector satisfies(9) by the same exact Dirichlet identity.
@@ -97,7 +97,7 @@ They do not refute an additional nontorsion or Salem-specific arithmetic theorem
 
 Alternating signs do not change the independent symmetric original digit law, so the unrestricted endpoint sum has exact zero coefficient binomial(2n,n)/4^n.
 The central coefficient is maximal among2n+1 coefficients with sum4^n; the stated1/(2n+1) lower bound and the upper bound one give root rate one.
-This agrees with the all-unit C408 radius identity, without applying its nontorsion finite-prime theorem to torsion.
+This agrees with the all-unit C405 radius identity, without applying its nontorsion finite-prime theorem to torsion.
 The complete retained renewal-tail warning and the exact distinction between one finite compression and an increasing actual family remain intact.
 No source-supplied proof step, numerical approximation or native computation is missing.
 No substantive mathematical defect or missing hypothesis was found in the entire actual current statement/proof.

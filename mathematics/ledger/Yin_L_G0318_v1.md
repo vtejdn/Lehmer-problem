@@ -55,7 +55,6 @@ On the actual projection bundle a complete elementary bound reduces the coeffici
 The resulting estimate still does not give a uniform gap; it supplies a changed finite discriminator and a conditional coverage target stated precisely below.
 
 A bounded local screen of the responsible ledgers, audits and bibliography did not locate this particular Poisson/autocorrelation bundle bound.
-The first shell search supplied wildcard path arguments unsupported by Windows rg and returned no mathematical evidence; corrected directory/glob searches were used.
 Searches also returned unrelated free-Poisson and theta-Poisson records, which are not analytic inputs.
 Root completed one bounded primary-source check for classical disk Poisson representation; Section7 records its exact attribution.
 A self-contained proof in the required polynomial normalization is given below.

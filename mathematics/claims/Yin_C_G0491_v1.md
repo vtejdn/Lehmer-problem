@@ -405,7 +405,7 @@ All other primes and nonsaturated inputs remain admissible research directions, 
 The exact original951-character complete author contribution/check/reuse/then-pending account remains SELF in R104.
 The original whole mathematical/source/nonexecution prose,03:59 completion, verdict and unchanged-author statement remain fixed, and its original independent table is preserved verbatim as a historical declaration.
 Actual prior shared/interim mathematical contents and initial order remain unestablished, so the current justified whole relationship is UNKNOWN.
-The two inspected The26b versions and source-depth limits remain at U010; its attribution clarification adds no mathematical derivation or new external theorem premise.
+The two inspected The26b versions and source-depth limits remain at U005; its attribution clarification adds no mathematical derivation or new external theorem premise.
 Current authored whole SELF cannot close the old UNKNOWN or invent another historical whole review.
 Historical active-Task/pending-adoption language remains chronology at the original L/author account and selects no research execution.
 No new source/PDF proof audit, acquisition, numerical/native program/J or Task/E occurs.

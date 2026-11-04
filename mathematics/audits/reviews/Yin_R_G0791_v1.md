@@ -31,17 +31,17 @@ Their absence remains missing-declaration; no UNKNOWN row or retrospective curre
 
 | Review | Relationship |
 | --- | --- |
-| [Current whole C535](#efficient-orders-current-independent) | independently reviewed |
-| [Current whole C540](#order-auxiliary-current-independent) | independently reviewed |
+| [Current whole C527](#efficient-orders-current-independent) | independently reviewed |
+| [Current whole C532](#order-auxiliary-current-independent) | independently reviewed |
 
 ## Review bindings
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Current whole C535](#efficient-orders-current-independent) | [Exact complete statement](../../claims/Yin_C_G0527_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
-| [Current whole C535](#efficient-orders-current-independent) | [Exact complete argument](../../claims/Yin_C_G0527_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
-| [Current whole C540](#order-auxiliary-current-independent) | [Exact complete statement](../../claims/Yin_C_G0532_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:38, before old target findings. |
-| [Current whole C540](#order-auxiliary-current-independent) | [Exact complete argument](../../claims/Yin_C_G0532_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:38, before old target findings. |
+| [Current whole C527](#efficient-orders-current-independent) | [Exact complete statement](../../claims/Yin_C_G0527_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
+| [Current whole C527](#efficient-orders-current-independent) | [Exact complete argument](../../claims/Yin_C_G0527_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
+| [Current whole C532](#order-auxiliary-current-independent) | [Exact complete statement](../../claims/Yin_C_G0532_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:38, before old target findings. |
+| [Current whole C532](#order-auxiliary-current-independent) | [Exact complete argument](../../claims/Yin_C_G0532_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:38, before old target findings. |
 
 <a id="efficient-orders-current-independent"></a>
 ## Current C527 complete independent finding
@@ -57,7 +57,7 @@ The extreme selected orders impose the same-exponent product2^r3^t, including co
 The complete degree and group mass bounds yield the displayed5/K bound and both asymptotic forms.
 The actual simple integral trace polynomial satisfies the precise Pri11-U001 hypotheses; the globally2-Lipschitz disk2 test has circle mean at least1/12 and discrepancy factor10.
 The threshold forces at least s/24 nonreal trace roots, each paying its complete reciprocal-pair measure, while the coefficient sum gives the full upper measure.
-C242's unramified lift, C257's valuation convention, C454's credited trace mechanism and Pri11-U001's accepted statement were checked at these exact uses.
+C241's unramified lift, C256's valuation convention, C450's credited trace mechanism and Pri11-U001's accepted statement were checked at these exact uses.
 The source proof is not newly audited.
 The resulting measure is of order the degree; no near-one family, other-prime bound, full cyclic-norm bound or uniform gap follows.
 
@@ -71,20 +71,20 @@ The capped binomial lower bound reaches depth1 after k_o and depth at least2 aft
 Counting every original multiplicity proves both w_o<=N_o/p and N_o<=p^2 B w_o.
 The disjoint p-free order blocks give the full squarefree characteristic-zero cyclotomic auxiliary and exact resultant valuation; squarefree reduction is unnecessary.
 The entire integral complementary cyclotomic norm, its repeated factors and its degree remain in the product identity.
-C508's original-degree powered-height modulus applies at the actual argument N_o m/d; the twelfth-power inversion gives the stated exponent1/11, constants, cap, monotonicity and fragmentation/entropy costs.
+C504's original-degree powered-height modulus applies at the actual argument N_o m/d; the twelfth-power inversion gives the stated exponent1/11, constants, cap, monotonicity and fragmentation/entropy costs.
 Neither the total selected mass nor the sum of separate Omega terms is replaced by a stronger aggregate claim.
-C245's circle-maximum norm estimate charges every original conjugate and every lifted degree p^R D; the stable valuation gain RW and floor choice give the exact pBm factor and additive minus1.
+C244's circle-maximum norm estimate charges every original conjugate and every lifted degree p^R D; the stable valuation gain RW and floor choice give the exact pBm factor and additive minus1.
 The ramified quadratic and C527 family have the displayed full capture, auxiliary/complement degrees and positive or growing total measure.
-C257, C508, C245 and the now independently checked C527 mathematical interfaces were read at their actual scopes.
+C256, C504, C244 and the now independently checked C527 mathematical interfaces were read at their actual scopes.
 The argument supplies no efficient-order coverage, favorable uniform circle maximum, common cyclic time or unrestricted gap.
 The original R120 text's freeze literal05:32 and the retained author's literal2026-10-09T21:32 are both preserved as recorded; this review supplies no invented conversion of that historical discrepancy.
 
 ## Post-conclusion comparison and preserved original scopes
 
 The original complete findings below were read only after all eight initial complete conclusions.
-[R735 current C535 SELF and original author account](Yin_R_G0735_v1.md#current-g217-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
+[R735 current C527 SELF and original author account](Yin_R_G0735_v1.md#current-g217-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
 Original R116 concerns the frozen L217 input and its own exact date, not this later C input.
-[R735 current C540 SELF and original author account](Yin_R_G0735_v1.md#current-g221-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
+[R735 current C532 SELF and original author account](Yin_R_G0735_v1.md#current-g221-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
 Original R120 concerns the frozen L221 input and its own exact date, not this later C input.
 Every complete natural finding below is copied from its original first explicit anchor through its original EOF, byte for byte.
 Those old findings lack modern relationship/binding tables; this text creates neither missing old rows nor a retrospective current-C binding.

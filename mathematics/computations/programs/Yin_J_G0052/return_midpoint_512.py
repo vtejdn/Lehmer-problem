@@ -53,7 +53,7 @@ SCOPE = {
     "real_strip_coefficient_scale": 10**6, "pressure_root_bisections": 40,
     "source_helpers": ["experiment.py:allowed/successors/constants",
                        "midpoint_continuation.py:original_coordinates/quadratic_coefficients"],
-    "old_prefix_required_input": "midpoint_continuation.json",
+    "old_prefix_required_input": "inputs/return_weights_512.json; exact prefix through256",
     "output_vector_order": "quotient_states; same index for forward256 and backward256",
 }
 
@@ -169,7 +169,7 @@ def main():
         sys.set_int_max_str_digits(0)
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=original._J_OUTPUT / "return_midpoint_512.json")
-    parser.add_argument("--prefix-input", type=Path, default=original._J_OUTPUT / "midpoint_continuation.json")
+    parser.add_argument("--prefix-input", type=Path, default=Path(__file__).resolve().parent / "inputs/return_weights_512.json")
     args = parser.parse_args()
     status = {"status": "incomplete", "scope": SCOPE, "last_completed_stage": "not_started"}
     returns = []
@@ -180,12 +180,12 @@ def main():
         assert original.floor(F(1426, 15)) == HEIGHT
         assert SQRT_LO**2 < 13 < SQRT_HI**2
         old = json.loads(args.prefix_input.read_text(encoding="utf-8"))
-        assert old["scope"]["complete_return_times"] == [1, 256]
+        assert old["scope"]["complete_return_times_including_zero"] == [0, 512]
         assert old["scope"]["polynomial_coefficients_ascending"] == SCOPE["polynomial_coefficients_ascending"]
         assert old["scope"]["digit_integer_weights"] == SCOPE["digit_integer_weights"]
         assert old["scope"]["digit_denominator"] == 4
-        assert len(old["complete_return_integer_weights"]) == 257
-        assert len(old["complete_first_return_integer_weights"]) == 257
+        assert len(old["complete_return_integer_weights"]) == 513
+        assert len(old["complete_first_return_integer_weights"]) == 513
         for q in [original.ZERO] + [tuple(int(i == j) for i in range(4)) for j in range(4)]:
             for digit, target in original.successors(q):
                 a, b, c, d = original_coordinates(target)
@@ -265,8 +265,8 @@ def main():
             value = returns[time] - sum(first_returns[j] * returns[time - j] for j in range(1, time))
             assert value >= 0
             first_returns.append(value)
-        assert returns[:257] == old["complete_return_integer_weights"]
-        assert first_returns[:257] == old["complete_first_return_integer_weights"]
+        assert returns[:257] == old["complete_return_integer_weights"][:257]
+        assert first_returns[:257] == old["complete_first_return_integer_weights"][:257]
         beta_lo, beta_hi = F(861, 500), F(1723, 1000)
         for _ in range(40):
             middle = (beta_lo + beta_hi) / 2

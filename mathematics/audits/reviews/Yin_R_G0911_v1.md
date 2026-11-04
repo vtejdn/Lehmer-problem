@@ -41,7 +41,7 @@ No target, C/T/E/S, shared index, old finding, adoption or commit was changed.
 | [Whole finding](#whole-doubled-precision-zero-correction-family-finding) | [C664 safe-row argument](../../claims/Yin_C_G0664_v1.md#argument) | HG6--HG7 exact finite projection and predivision period, coprime-three representatives, exponent and degree costs, used at the new actual depth. |
 | [Whole finding](#whole-doubled-precision-zero-correction-family-finding) | [C667 global representative proof](../../claims/Yin_C_G0667_v1.md#argument) | FC1--FC6 general rows, multiplicity floor, invisible fresh triple factor, every-primary canonical identity, exact q and conditional integer lift; old N=4m costs are replaced by the new actual N calculation. |
 | [Whole finding](#whole-doubled-precision-zero-correction-family-finding) | [C667 integer trace-factor input](../../claims/Yin_C_G0667_v1.md#statement) | C8 under the now proved whole-H hypothesis, original integer layers, all reductions/degrees and integrable zero-Haar convention, with retained C199 source depth. |
-| [Whole finding](#whole-doubled-precision-zero-correction-family-finding) | [Own corrected C697 finding](Yin_R_G0888_v2.md#whole-forward-canonical-representative-v2-finding) | Exact unchanged FC1--FC6 interface, including the corrected nonzero high residue of B; preserved v1 is not selected or relabelled. |
+| [Whole finding](#whole-doubled-precision-zero-correction-family-finding) | [Own corrected C667 finding](Yin_R_G0888_v2.md#whole-forward-canonical-representative-v2-finding) | Exact unchanged FC1--FC6 interface, including the corrected nonzero high residue of B; preserved v1 is not selected or relabelled. |
 | [Whole finding](#whole-doubled-precision-zero-correction-family-finding) | [C654 finite normalized character](../../claims/Yin_C_G0654_v1.md#statement) | Pi=Phi/2, integrality and lift independence modulo2^floor(log_2N) on the original R_N, not a larger quotient or the weaker Phi condition. |
 | [Whole finding](#whole-doubled-precision-zero-correction-family-finding) | [C654 finite precision proof](../../claims/Yin_C_G0654_v1.md#argument) | High trace cancellation and determinant precision for arbitrary N; the old three finite native image equalities are not generalized. |
 | [Whole finding](#whole-doubled-precision-zero-correction-family-finding) | [C668v2 zero-correction calibration](../../claims/Yin_C_G0668_v2.md#argument) | SY2/SY9 explicit completed pair and algebraic Phi formula only, re-evaluated for the new m,Q,H; no old target-membership result is transferred. |
@@ -236,7 +236,7 @@ For every specified dyadic q>=256 and each separately fixed sign, the adopted C6
 This is an application of its proved interface, not a new whole review of its coefficient-lifting proof.
 No statement about q<256 or modulo16 residual solvability follows.
 
-The parameter range Q=4m+8 lies outside the Q<=4m obstruction of C719.
+The parameter range Q=4m+8 lies outside the Q<=4m obstruction of C687.
 No endpoint theorem is contradicted: the approximation uses order2Q-1, and the new target stops strictly below its squared endpoint.
 All remaining SAME-T modulo16, characteristic-zero, spectral, irreducibility, G_int=G_can and original-realization obligations remain.
 Earlier source inspection limits and all historical self-reviewed/unknown relationships are preserved.

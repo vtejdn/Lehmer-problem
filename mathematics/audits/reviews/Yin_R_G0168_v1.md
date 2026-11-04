@@ -157,7 +157,8 @@ Fixed adoption, consumer updates and the Task's active unresolved status remain 
 
 ## Review relationships
 
-The original account explicitly excludes current sibling drafts and the reviewer’s separate structural research, discloses fixed upstream roles and only a broad shared assignment, and records no new-proof contribution. It does not establish the complete initial inherited mathematical-context condition; those bounded disclosures are preserved without converting them to either proof contribution or a retrospective isolation certificate.
+The original account explicitly excludes current sibling drafts and the reviewer’s separate structural research, discloses fixed upstream roles and only a broad shared assignment, and records no new-proof contribution.
+It does not establish the complete initial inherited mathematical-context condition; those bounded disclosures are preserved without converting them to either proof contribution or a retrospective isolation certificate.
 
 | Review | Relationship |
 | --- | --- |

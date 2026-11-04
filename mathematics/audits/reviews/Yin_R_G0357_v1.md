@@ -18,11 +18,15 @@ No independence of those older contributions is newly asserted.
 The whole inspected scope is the original question and reuse, Sections1--6, all19 numbered formulas, the old two-prime failed compression, the original-Galois branch and stronger classical coverage, the nonnormal intermediate-field construction, its exact relative norm and original exponent/degree/height costs, the hypothetical class-size escape, source/contribution history, full freeze, fixed source-correction account and initial decision.
 No native mathematical computation, prime search, Galois-group calculation or formal verification was performed.
 
+The initial C146 v1 input included the author completed-validation and full-chain checking account beyond the necessary proof.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Actual whole finding](#bounded-class-whole-independent-finding) | independently reviewed |
+| [Actual whole finding](#bounded-class-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

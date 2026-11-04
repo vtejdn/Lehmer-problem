@@ -97,7 +97,7 @@ Coefficient E=1 alone without lag cancellation is not asserted sufficient.
 No full-overorder or E>1 extension is included.
 
 This is an ACTUAL resolved consequence, not still conditional on C90.
-Its selected decision adopted corrected whole R431 and distinct actual extraction R433 at02:08, before D47's final freeze.
+Its selected decision adopted corrected whole R321 and distinct actual extraction R323 at02:08, before D47's final freeze.
 The earlier pending paragraph is retained as history.
 Theorems A--B are independent of C90, whose own proof does not use this new argument; no dependency cycle is present.
 
@@ -186,7 +186,7 @@ The recorded review description was `under review`.
 | dependency | [L229 angular coherence](../ledger/Yin_L_G0229_v1.md#uniform-powered-angular-coherence) | Actual finite ORIGINAL phase moments, increasing epsilon and asymptotic with actual powered degree and d/N repetitions; its phase proof does not require a nonzero auxiliary. |
 | dependency | [C74 all-r margins](Yin_C_G0074_v1.md#multiplicity-delay-explicit-threshold) | Exact K0/eta_r/h0 and strict numerical margin for every integer r>=1, used to prove the1/40 independence criterion. |
 | dependency | [C90 fixed-rank interface](Yin_C_G0090_v1.md#statement) | Entire actual coefficient quotient and simultaneous denominator, separate E<1/E1 packet and rational-metric word consequences; this argument first supplies its independence premise. |
-| dependency | [C90 actual selected adoption](Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual02:08 adoption after corrected whole R431 and separate actual R433; no future acceptance or cycle. |
+| dependency | [C90 actual selected adoption](Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual02:08 adoption after corrected whole R321 and separate actual R323; no future acceptance or cycle. |
 | dependency | [C84 permitted binary class](Yin_C_G0084_v1.md#statement) | Exact weighted primitive binary projection delays, optional one-coordinate shifts, true-polynomial/all-stage O0/fixed-weight/cumulative costs through C90. |
 | dependency | [C87 golden control](Yin_C_G0087_v1.md#statement) | Actual golden polynomial/power/norm/rotation costs only; its stronger small-r result remains a comparison. |
 | dependency | [Pri11-U001](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | Through L229 ONLY: integer simple-root actual N>=55, real compact radius2/global3-Lipschitz statement, existing source-proof limits. |
@@ -212,7 +212,7 @@ The recorded review description was `under review`.
 | dependency | [L229 angular coherence](Yin_C_G0570_v1.md#uniform-powered-angular-coherence) | Actual finite ORIGINAL phase moments, increasing epsilon and asymptotic with actual powered degree and d/N repetitions; its phase proof does not require a nonzero auxiliary. |
 | dependency | [C74 all-r margins](Yin_C_G0074_v1.md#multiplicity-delay-explicit-threshold) | Exact K0/eta_r/h0 and strict numerical margin for every integer r>=1, used to prove the1/40 independence criterion. |
 | dependency | [C90 fixed-rank interface](Yin_C_G0090_v1.md#statement) | Entire actual coefficient quotient and simultaneous denominator, separate E<1/E1 packet and rational-metric word consequences; this argument first supplies its independence premise. |
-| dependency | [C90 actual selected adoption](Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual02:08 adoption after corrected whole R431 and separate actual R433; no future acceptance or cycle. |
+| dependency | [C90 actual selected adoption](Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual02:08 adoption after corrected whole R321 and separate actual R323; no future acceptance or cycle. |
 | dependency | [C84 permitted binary class](Yin_C_G0084_v1.md#statement) | Exact weighted primitive binary projection delays, optional one-coordinate shifts, true-polynomial/all-stage O0/fixed-weight/cumulative costs through C90. |
 | dependency | [C87 golden control](Yin_C_G0087_v1.md#statement) | Actual golden polynomial/power/norm/rotation costs only; its stronger small-r result remains a comparison. |
 | dependency | [Pri11-U001](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | Through L229 ONLY: integer simple-root actual N>=55, real compact radius2/global3-Lipschitz statement, existing source-proof limits. |
@@ -239,7 +239,7 @@ The recorded review description was `under review`.
 | dependency | [L229 angular coherence](Yin_C_G0570_v1.md#uniform-powered-angular-coherence) | Actual finite ORIGINAL phase moments, increasing epsilon and asymptotic with actual powered degree and d/N repetitions; its phase proof does not require a nonzero auxiliary. |
 | dependency | [C74 all-r margins](Yin_C_G0074_v1.md#multiplicity-delay-explicit-threshold) | Exact K0/eta_r/h0 and strict numerical margin for every integer r>=1, used to prove the1/40 independence criterion. |
 | dependency | [C90 fixed-rank interface](Yin_C_G0090_v1.md#statement) | Entire actual coefficient quotient and simultaneous denominator, separate E<1/E1 packet and rational-metric word consequences; this argument first supplies its independence premise. |
-| dependency | [C90 actual selected adoption](Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual02:08 adoption after corrected whole R431 and separate actual R433; no future acceptance or cycle. |
+| dependency | [C90 actual selected adoption](Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual02:08 adoption after corrected whole R321 and separate actual R323; no future acceptance or cycle. |
 | dependency | [C84 permitted binary class](Yin_C_G0084_v1.md#statement) | Exact weighted primitive binary projection delays, optional one-coordinate shifts, true-polynomial/all-stage O0/fixed-weight/cumulative costs through C90. |
 | dependency | [C87 golden control](Yin_C_G0087_v1.md#statement) | Actual golden polynomial/power/norm/rotation costs only; its stronger small-r result remains a comparison. |
 | dependency | [Pri11-U001](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | Through L229 ONLY: integer simple-root actual N>=55, real compact radius2/global3-Lipschitz statement, existing source-proof limits. |
@@ -450,7 +450,7 @@ It does not bound its cofactor measure, accept an uninspected sparse-source cons
 ## 5. Prospective combination with the fixed-rank coefficient quotient
 
 The separate corrected fixed-rank program was extracted as [C90](Yin_C_G0090_v1.md#statement), which is at present under separate ACTUAL extraction review.
-Its original corrected whole R431 does not itself adopt the wrapper.
+Its original corrected whole R321 does not itself adopt the wrapper.
 The following observation is therefore explicitly CONDITIONAL on actual acceptance of that exact interface, and will not be represented as a completed combined result before the adoption occurs.
 
 C90 defines H_r as the least integer with H_r^2>=2r, Q_r=H_r^r, R_r=max{r,ceil(Q_r/5)}, and kappa_r=K0 R_r^-64.
@@ -470,8 +470,8 @@ Their original whole and actual extraction findings must remain at their own rea
 ## 6. Actual adopted assembly: no extra fixed-rank independence gate
 
 The preceding conditional paragraph is retained as its actual development history.
-At the dated freeze below, [C90's selected organized-reviewed decision](Yin_C_G0090_v1.md#decision-organized-reviewed) is NOW actually adopted after corrected original whole R431 and distinct actual extraction R433.
-Its initial negative R429, exact two author repairs, original/corrected freezes and actual source limits remain preserved in that fixed argument.
+At the dated freeze below, [C90's selected organized-reviewed decision](Yin_C_G0090_v1.md#decision-organized-reviewed) is NOW actually adopted after corrected original whole R321 and distinct actual extraction R323.
+Its initial negative R320, exact two author repairs, original/corrected freezes and actual source limits remain preserved in that fixed argument.
 No prospective acceptance is used below.
 
 **Theorem 3.**

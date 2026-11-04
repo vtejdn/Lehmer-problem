@@ -120,7 +120,7 @@ No unrestricted one-factor classification, Salem closure, controlled-small-measu
 | --- | --- |
 | date | 2026-10-21T19:43 |
 | status | proved |
-| reason | Adopt the actual new isolated complete trinomial finding, formed before target assessment/history or earlier checking summaries. The independent original-domain45-pair exact reconstruction checks all factors/multiplicities/reciprocity/trace-region counts alongside every symbolic structural/Mahler proof; preserve shared algebra-library trust, unvalidated decimals and all original whole negative/source/phase/class boundaries. Original R74 UNKNOWN and R615/R772 SELF are unchanged history. |
+| reason | Adopt the actual new isolated complete trinomial finding, formed before target assessment/history or earlier checking summaries. The independent original-domain45-pair exact reconstruction checks all factors/multiplicities/reciprocity/trace-region counts alongside every symbolic structural/Mahler proof; preserve shared algebra-library trust, unvalidated decimals and all original whole negative/source/phase/class boundaries. Original R74 UNKNOWN and R615/R625 SELF are unchanged history. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

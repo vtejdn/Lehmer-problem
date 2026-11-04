@@ -11,7 +11,7 @@ This agent formulated the extracted statements and read the old author context a
 Complete proof preservation was compared after only explicit current-home links and heading-depth adjustments; that comparison is separate from the mathematical checking below.
 The unchanged complete C230/C231/C232v2/C236/C237 and C205 interfaces were reused after their earlier full inspection.
 The accepted GBV15 source statement/applicability scope and C226 exact Salem-control/end-point proof were read at the used scope, without a new original-source proof audit.
-J9 programs and both native JSON outputs were already statically read in this construction phase as recorded in R662; the original integer payload is reused without execution.
+J9 programs and both native JSON outputs were already statically read in this construction phase as recorded in R515; the original integer payload is reused without execution.
 No research computation, new source acquisition, Task resumption or new arithmetic hypothesis is supplied.
 
 ## Review relationships

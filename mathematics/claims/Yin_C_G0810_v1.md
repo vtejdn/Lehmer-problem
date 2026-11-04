@@ -9,7 +9,7 @@ Provenance: project deduction under the unchanged [G0001 original contract](../t
 Root proposed the B_n family, its finite-period comparison, and the full-factor divisibility clarification, and checked the formed leading-residue algebra as an author.
 Characteristic_zero_bridge proved and checked the complete root/place, dyadic-parameter, actual canonical, derivative and global coefficient arguments.
 Root read the entire saved family argument and requested explicit retention of the original integer cofactor cancellation and the arbitrary-containing-field parameter scope.
-Both agents are substantive contributors; fresh isolated whole review and separate adoption remain outstanding.
+Both agents are substantive contributors; fresh isolated whole review and separate adoption were still outstanding at author registration.
 The complete analytic UF1--UF11 argument is fixed below, with the necessary cofactor proof included and no mutable D dependency.
 The separate native second-residual observations are not selected conclusions or proof inputs of this Claim.
 
@@ -358,7 +358,7 @@ Other odd cofactors and the general fifteen-divisible nonzero-G problem remain o
 | --- | --- |
 | date | 2026-10-26T17:50 |
 | status | open |
-| reason | Register the complete analytic UF1--UF11 family theorem with full original cyclotomic factorization, exact growing derivative and degree costs, every primitive-root/normalized-place unit calculation, complete original integer cofactor divisibility and exact global coefficient valuations. Root and characteristic_zero_bridge are substantive contributors. Fresh isolated whole review and separate adoption remain outstanding. Native second-residual observations are not selected conclusions or proof dependencies; no arbitrary-radical exclusion or unrestricted Task conclusion is asserted. |
+| reason | Register the complete analytic UF1--UF11 family theorem with full original cyclotomic factorization, exact growing derivative and degree costs, every primitive-root/normalized-place unit calculation, complete original integer cofactor divisibility and exact global coefficient valuations. Root and characteristic_zero_bridge are substantive contributors. At author registration, fresh isolated whole review and separate adoption were outstanding. Native second-residual observations are not selected conclusions or proof dependencies; no arbitrary-radical exclusion or unrestricted Task conclusion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

@@ -10,7 +10,7 @@ Root proposed preserving derivative32 through the earlier obstruction correction
 Salem_completion derived the integer power/factor/degree choices and the exact remaining two-half carry, including its unchanged-source expression below.
 Earlier_bit_obstruction supplied the fixed C713 earlier-bit and full non-phi32 mechanisms and identified the original C699 highest-correction root as the low W half.
 These are contributor roles, not independent review.
-The [adopted C712](Yin_C_G0712_v1.md#decision-whole-reviewed-2026-10-25) and [adopted C713](Yin_C_G0713_v1.md#decision-whole-reviewed-2026-10-25), their directly needed C706/C744/C710/C689 interfaces, and C675/C703's actual canonical representatives supply the existing inputs.
+The [adopted C712](Yin_C_G0712_v1.md#decision-whole-reviewed-2026-10-25) and [adopted C713](Yin_C_G0713_v1.md#decision-whole-reviewed-2026-10-25), their directly needed C706/C708/C710/C689 interfaces, and C675/C703's actual canonical representatives supply the existing inputs.
 No coefficient scan, new external theorem or claim that a previous modulo8 formula scales automatically is used.
 This complete author argument is initially open pending fresh isolated whole review.
 

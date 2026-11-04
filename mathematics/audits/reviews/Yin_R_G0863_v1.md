@@ -16,7 +16,7 @@ Earlier reviewer knowledge of C649/C650 was used only as accepted input at the p
 The common content decision calls for retaining this actually performed new review in a fresh R family.
 The review uses exact analytic and algebraic reasoning throughout.
 No mathematical native program, experiment, growing quotient, order scan, coefficient enumeration or new J was run or created.
-C679/J130 and earlier finite-image results are not inputs to the new analytic norm proof or its multiplicity-sixteen classification.
+C651/J130 and earlier finite-image results are not inputs to the new analytic norm proof or its multiplicity-sixteen classification.
 No target, C/T/E/S decision, shared index, old review, native evidence or adoption was modified, and no commit is made.
 
 ## Review relationships
@@ -40,8 +40,8 @@ No target, C/T/E/S decision, shared index, old review, native evidence or adopti
 | [Whole finding](#whole-formal-unit-norm-obstruction-finding) | [C650v1 exact layer identity](../../claims/Yin_C_G0650_v1.md#argument) | LI1 and its phi^(12m) error, used with the actual remaining original layers to produce Sigma in t^(2m), preserving indices and coefficients. |
 | [Whole finding](#whole-formal-unit-norm-obstruction-finding) | [C650 accepted decision](../../claims/Yin_C_G0650_v1.md#decision-whole-reviewed-2026-10-23) | Existing fixed homogeneous original interface and prior range only, not a prior norm-character result. |
 | [Whole finding](#whole-formal-unit-norm-obstruction-finding) | [C649v1 full homogeneous CRT](../../claims/Yin_C_G0649_v1.md#statement) | Complete low and phi^(8m) jets for the SAME Y, prescribed S_star, beta residue/precision and corrected phi^(6m) root; no arbitrary representative substituted for an original input. |
-| [Whole finding](#whole-formal-unit-norm-obstruction-finding) | [Prior C678 review](Yin_R_G0858_v1.md#whole-two-profile-layer-elimination-finding) | Accepted actual homogeneous theorem, LI1, degrees and prior range at their unchanged scope, with all historical/native/source boundaries retained. |
-| [Whole finding](#whole-formal-unit-norm-obstruction-finding) | [Prior C677 review](Yin_R_G0857_v1.md#whole-uniform-crt-a16-finding) | Accepted full CRT and corrected-root interface only; no prospective coverage of the new character, norm cancellation or classifications. |
+| [Whole finding](#whole-formal-unit-norm-obstruction-finding) | [Prior C650 review](Yin_R_G0858_v1.md#whole-two-profile-layer-elimination-finding) | Accepted actual homogeneous theorem, LI1, degrees and prior range at their unchanged scope, with all historical/native/source boundaries retained. |
+| [Whole finding](#whole-formal-unit-norm-obstruction-finding) | [Prior C649 review](Yin_R_G0857_v1.md#whole-uniform-crt-a16-finding) | Accepted full CRT and corrected-root interface only; no prospective coverage of the new character, norm cancellation or classifications. |
 
 <a id="whole-formal-unit-norm-obstruction-finding"></a>
 ## Whole finding
@@ -242,7 +242,7 @@ Neither maximal q, normalized nonsquareness, original fields nor the all-primary
 For m=8, the power range(16,40) contains only Q=32, and5deg H<8 gives degree at most1.
 The only constant-one polynomials are1 and1+t, with character0 and1.
 Here M=32, so the necessary residue is ell(H)=4 modulo8.
-Neither possibility satisfies it, excluding A_0=16 without C679/J130.
+Neither possibility satisfies it, excluding A_0=16 without C651/J130.
 
 For m=10, the range(20,50) again contains only32, and5deg H<18 gives degree at most3.
 Degrees0 and1 give1 and W_3.
@@ -270,7 +270,7 @@ No external Coleman or Witt theorem is invoked as a premise, and no novelty find
 The author's reported local source searches were not repeated as an independent literature survey.
 C608/C609v2 are used only for their exact trace identities, with no new verdict on their other mathematical or native content.
 C649/C650 and their R857/R858 findings are reused only at the accepted fixed interfaces specified above.
-C199 ancestry retains its existing Smy08/Bel17 source limits and all historical SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries.
+The C197/C199 ancestry retains the recorded Smy08/Bel17 source limits and R477's actual C197v3 finding and R489's separate C199v3/v4 findings, all at their original UNKNOWN initial-context scopes.
 No classical source proof was reacquired or fully re-audited, and no ancestor receives a fresh whole-proof verdict.
 Earlier native programs, outputs and finite-image findings retain their exact physical scopes and are not rerun or extended here.
 This is an independent whole mathematical finding on C652v1, not formal proof-assistant verification, adoption or an unrestricted Task-completion audit.

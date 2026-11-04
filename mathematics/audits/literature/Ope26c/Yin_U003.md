@@ -13,7 +13,10 @@ Source edition: Ope26c; [retained PDF](../../../literature/pdf/Ope26c.pdf).
 
 Passages: Manuscript dated 3 October 2026 at commit `adc7f1241b42e322a6451854ab7e4b4c146bf78a`; complete Section 6 (printed/PDF pp. 17--25) and Appendix A (pp. 25--35), including Theorem 6.1, root bounds, character identities, integral estimate, typical-prefix count and certificate error bounds; verification/verify_degree31.py.
 
-Inspection: 2026-10-07, AI reviewers working for human author Yin at his explicit request to acquire and audit OpenAI Math families 153 and 148. The coordinating AI directly read all of nonpisot.tex, certificate.tex and the original 486-line Python verifier, rederived the analytic interfaces below, and visually checked the rendered certificate page 30. The original exact-arithmetic program and a separate scalar-margin program actually ran successfully; retained evidence is in J G0013. This is a source-proof review, not formal verification.
+Inspection: 2026-10-07, AI reviewers working for human author Yin at his explicit request to acquire and audit OpenAI Math families 153 and 148.
+The coordinating AI directly read all of nonpisot.tex, certificate.tex and the original 486-line Python verifier, rederived the analytic interfaces below, and visually checked the rendered certificate page 30.
+The original exact-arithmetic program and a separate scalar-margin program actually ran successfully; retained evidence is in J G0013.
+This is a source-proof review, not formal verification.
 
 
 ## Assessment, statement and conventions

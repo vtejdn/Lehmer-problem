@@ -13,7 +13,7 @@ Root proposed the finite t-dependent source targets, optional final16 branch and
 Salem_completion checked the base source, all integer low-coordinate inductions, actual root CRTs and derivatives, every generic low-domain entrance and the full H17 endpoint.
 These are author contributions, not independent review.
 The adopted C728 initial stronger source and generic component theorem, C730 extended first jet, C735 coefficient-uniform jet, C737 uniform local transports, C712/C715 actual early roots and C719/C697 actual higher maps were read at their consuming scopes.
-The separate three-jet candidate C776 and its mutable D41 development are not premises; the t=3 formulas below are compatible but the construction here always finishes each source-stage highest root.
+The separate three-jet candidate C739 and its mutable D41 development are not premises; the t=3 formulas below are compatible but the construction here always finishes each source-stage highest root.
 The new content is a bounded existence and cost proof for t=1,...,6, rather than an unproved use of C735/C737 as source-existence theorems.
 The complete finite candidate retains its exact source and boundary scopes; registration does not constitute adoption.
 No native computation, extra source support, arbitrary-precision induction or external theorem is used.
@@ -470,7 +470,7 @@ No arbitrary-precision, characteristic-zero, infinite-limit, irreducibility, tot
 | --- | --- |
 | date | 2026-10-25T19:33 |
 | status | open |
-| reason | Register the complete finite t=1,...,6 actual source-preparation and continuation candidate after the Root/Salem_completion author check. It supplies exact same-degree sources and both-residual targets t+2<=n<=min(2t+6,17), a separately cheaper first-residual range through min(2t+7,17), all original-q power/derivative/CRT costs, actual full-root W induction including final16, every initial and post-first low domain, full coefficient fibers and complete C691 costs. FS4 is explicitly limited to4<=l<=16 and e>=10 with a separate l=3 construction. The full H17 theorem pays global2^17 itself but not the next H_0-error zero or a2^18 step. Root and Salem_completion are contributors; fresh independent whole review remains outstanding. No C776 or mutable draft is a premise, and no arbitrary-precision, characteristic-zero, root-location, Mahler or unrestricted G0001 conclusion is asserted. |
+| reason | Register the complete finite t=1,...,6 actual source-preparation and continuation candidate after the Root/Salem_completion author check. It supplies exact same-degree sources and both-residual targets t+2<=n<=min(2t+6,17), a separately cheaper first-residual range through min(2t+7,17), all original-q power/derivative/CRT costs, actual full-root W induction including final16, every initial and post-first low domain, full coefficient fibers and complete C691 costs. FS4 is explicitly limited to4<=l<=16 and e>=10 with a separate l=3 construction. The full H17 theorem pays global2^17 itself but not the next H_0-error zero or a2^18 step. Root and Salem_completion are contributors; fresh independent whole review remains outstanding. No C739 or mutable draft is a premise, and no arbitrary-precision, characteristic-zero, root-location, Mahler or unrestricted G0001 conclusion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

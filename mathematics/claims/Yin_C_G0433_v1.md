@@ -270,7 +270,7 @@ Equations(2)--(3) imply(1).
 This is an explicit, very conservative finite degree boundary, proved without a numerical quadrature, parameter scan or expanded high-degree polynomial.
 It resolves the previous non-effective cutoff obligation for this exact primitive trinomial class.
 It supplies neither the signs of all pairs below the cutoff nor a controlled-small-measure statement for general height-one seeds.
-The broader negative family retained in C429 is fully compatible with it.
+The broader negative family retained in C425 is fully compatible with it.
 No unrestricted Lehmer gap follows.
 
 ## Original checking, source and remaining boundaries

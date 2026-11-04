@@ -9,11 +9,32 @@ Original contribution and review accounts remain at their fixed inputs; this mai
 
 ## Statement
 
-Every finite Laurent polynomial f(t)=2+sum_(l=1)^T a_l(t^l+t^-l), with a_l integers and f(e^(i theta))>=0 for every real theta, is either2 or2+sigma(t^j+t^-j) for one j>=1 and sigma in{+1,-1}; conversely each displayed symbol is nonnegative. The complete finite proof below first establishes the norm-two integral-lattice basis and determinant lemma, including every exceptional component, then bounds all finite Toeplitz determinants by(n+1)^m for an actual nonzero lag m. Jensen and exact integer Kronecker normalization force measure one and an integral square factor; integral spectral factorization or an infinite root classification is not assumed.
-For the actual-unit consequence retain a monic irreducible reciprocal nontorsion integer unit P of degree d=2s, K=Q(alpha), tau=alpha+alpha^-1, F=Q(tau), O=Z[alpha]=Z[tau] direct_sum alpha Z[tau] and iota(alpha)=alpha^-1. Let u be an actual O unit, C_u=b+sum_(l=1)^(s-1) b_l C_l the unique degree-below-s integral representative of u iota(u), where C_l(t+t^-1)=t^l+t^-l. Use the original residuals and common clearing q, actual nonnegative monomial weights together with unit weight theta and total weight1, with every lag at least s canceled. Their actual nonzero square-sum symbol is G=1-theta+theta C_u(t+t^-1), E=1+theta(b-1)>0 and H_l=theta b_l. If E<=1/2, then theta>0, b<=-1 and |b_l|<=-b. The underlying strict inequality |H_l|<E holds for every nonzero Fourier lag of any nonzero continuous nonnegative G.
-When b=-1 the constant branch is C_u=-1, G=1-2theta with1/4<=theta<1/2. An original circle conjugate excludes it; without one it is not excluded. The quadratic P=t^2-3t+1 and order unit u=alpha-1 actually have relative norm-1 and full norm-1, but no residual covariance realization is supplied. In the nonconstant branch necessarily C_u=-1+sigma C_j for exactly one1<=j<s, theta=1/4, E=1/2, H_j=sigma/4 and all other H_l=0, G=(1/4)|1+sigma t^j|^2 and formal kappa=1. These are necessary conditions on an actual realization, not an existence assertion. Every positive-weight original residual and the unit residual is divisible over Z by the monic associate of1+sigma t^j, with its full quotient/resultant cost retained.
-At genuine Salem inputs, the nonconstant plus branch has full signed unit norm+1 and c=alpha^-j Phi_6(alpha^j); the minus branch has norm-1 and c=-alpha^-j Phi_3(alpha^j). Hence the respective full original resultants have absolute value1. Every original circle label satisfies sigma cos(j theta_i)>1/2. Including both real angle-zero roots, the full angular moment a_j satisfies a_j>1/2+1/d in the plus branch and a_j<-1/2+3/d in the minus branch. For d>=12 either gives |a_j|>1/4. Put c_0=log2/4, h_0=c_0 exp(-20), b_0(h)=max{h,sqrt(h/c_0)log sqrt(c_0/h)} and epsilon(h)=min{1,15sqrt(b_0(h))+4h} for0<h<=h_0, exactly as in the accepted finite-frequency input. This interface excludes such a realization whenever m(P)/2<=h_0 and epsilon(m(P)/2)<=1/4, because j<s gives jm(P)/d<m(P)/2. Small degrees, actual lifts and covariance existence remain separate obligations.
-All original q, contents, actual degree/window, full norm signs, weight denominators, integer multiplicities and radial Tm(P)/d are retained. The cyclotomic-unit resultant identity does not automatically pay the common-binomial resultant. No actual original-unit/covariance family, numerical scan, new program or unrestricted Mahler gap is established.
+Every finite Laurent polynomial f(t)=2+sum_(l=1)^T a_l(t^l+t^-l), with a_l integers and f(e^(i theta))>=0 for every real theta, is either2 or2+sigma(t^j+t^-j) for one j>=1 and sigma in{+1,-1}; conversely each displayed symbol is nonnegative.
+The complete finite proof below first establishes the norm-two integral-lattice basis and determinant lemma, including every exceptional component, then bounds all finite Toeplitz determinants by(n+1)^m for an actual nonzero lag m.
+Jensen and exact integer Kronecker normalization force measure one and an integral square factor; integral spectral factorization or an infinite root classification is not assumed.
+For the actual-unit consequence retain a monic irreducible reciprocal nontorsion integer unit P of degree d=2s, K=Q(alpha), tau=alpha+alpha^-1, F=Q(tau), O=Z[alpha]=Z[tau] direct_sum alpha Z[tau] and iota(alpha)=alpha^-1.
+Let u be an actual O unit, C_u=b+sum_(l=1)^(s-1) b_l C_l the unique degree-below-s integral representative of u iota(u), where C_l(t+t^-1)=t^l+t^-l.
+Use the original residuals and common clearing q, actual nonnegative monomial weights together with unit weight theta and total weight1, with every lag at least s canceled.
+Their actual nonzero square-sum symbol is G=1-theta+theta C_u(t+t^-1), E=1+theta(b-1)>0 and H_l=theta b_l.
+If E<=1/2, then theta>0, b<=-1 and |b_l|<=-b.
+The underlying strict inequality |H_l|<E holds for every nonzero Fourier lag of any nonzero continuous nonnegative G.
+When b=-1 the constant branch is C_u=-1, G=1-2theta with1/4<=theta<1/2.
+An original circle conjugate excludes it; without one it is not excluded.
+The quadratic P=t^2-3t+1 and order unit u=alpha-1 actually have relative norm-1 and full norm-1, but no residual covariance realization is supplied.
+In the nonconstant branch necessarily C_u=-1+sigma C_j for exactly one1<=j<s, theta=1/4, E=1/2, H_j=sigma/4 and all other H_l=0, G=(1/4)|1+sigma t^j|^2 and formal kappa=1.
+These are necessary conditions on an actual realization, not an existence assertion.
+Every positive-weight original residual and the unit residual is divisible over Z by the monic associate of1+sigma t^j, with its full quotient/resultant cost retained.
+At genuine Salem inputs, the nonconstant plus branch has full signed unit norm+1 and c=alpha^-j Phi_6(alpha^j); the minus branch has norm-1 and c=-alpha^-j Phi_3(alpha^j).
+Hence the respective full original resultants have absolute value1.
+Every original circle label satisfies sigma cos(j theta_i)>1/2.
+Including both real angle-zero roots, the full angular moment a_j satisfies a_j>1/2+1/d in the plus branch and a_j<-1/2+3/d in the minus branch.
+For d>=12 either gives |a_j|>1/4.
+Put c_0=log2/4, h_0=c_0 exp(-20), b_0(h)=max{h,sqrt(h/c_0)log sqrt(c_0/h)} and epsilon(h)=min{1,15sqrt(b_0(h))+4h} for0<h<=h_0, exactly as in the accepted finite-frequency input.
+This interface excludes such a realization whenever m(P)/2<=h_0 and epsilon(m(P)/2)<=1/4, because j<s gives jm(P)/d<m(P)/2.
+Small degrees, actual lifts and covariance existence remain separate obligations.
+All original q, contents, actual degree/window, full norm signs, weight denominators, integer multiplicities and radial Tm(P)/d are retained.
+The cyclotomic-unit resultant identity does not automatically pay the common-binomial resultant.
+No actual original-unit/covariance family, numerical scan, new program or unrestricted Mahler gap is established.
 
 ## Current assessment
 [Selected decision](#decision-complete-current-self-adoption)

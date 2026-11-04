@@ -24,7 +24,7 @@ The review assignment supplied the exact frozen scope, original contribution dis
 The reviewer read the full D25 and J86, including their author checks and historical outcome statements, and independently rederived the obligations below.
 No proof-generation dialogue, separate author explanations or previous whole-review conclusion was supplied or consulted.
 General repository instructions and prior G0001 context were available.
-The reviewer's earlier R279/D26 work concerns different mathematics and is not evidence of independence or correctness for D25.
+The reviewer's earlier R206/D26 work concerns different mathematics and is not evidence of independence or correctness for D25.
 
 The native checker was written separately after the source inspection.
 It imported no author module and did not execute either declared author command.
@@ -36,7 +36,7 @@ The exact coverage is recorded below.
 
 Current arrangement clarification (2026-10-21T20:04): the initial whole input explicitly included the complete author account and its mathematical self-check.
 Under the current isolation rule this actual whole finding is SELF; the separately written verifier, exact original execution, original contribution/source scope, date and all mathematical conclusions remain retained.
-General prior context, the coordinator role and a different earlier R279 target are not the basis for that classification.
+General prior context, the coordinator role and a different earlier R206 target are not the basis for that classification.
 
 ## Review relationships
 
@@ -142,7 +142,11 @@ No floating complexity estimate is substituted for these bit bounds.
 
 ### Whole program inspection
 
-The saved input lists match J84 exactly. fast.py's trace_polynomial implements the original integer trace conversion and verifies its nonzero signed leading coefficient. initial_state implements the exact central-binomial values. step checks every used index, uses signed divmod and rejects a nonzero remainder, computes all d extended moments and the complete d+1 next vector, and accumulates its declared counters and bit maxima. compute applies all stored-state, scalar-range and normalized monotonicity bounds at the proper n and preserves the specified scalar checkpoints.
+The saved input lists match J84 exactly.
+fast.py's trace_polynomial implements the original integer trace conversion and verifies its nonzero signed leading coefficient.
+initial_state implements the exact central-binomial values.
+step checks every used index, uses signed divmod and rejects a nonzero remainder, computes all d extended moments and the complete d+1 next vector, and accumulates its declared counters and bit maxima.
+compute applies all stored-state, scalar-range and normalized monotonicity bounds at the proper n and preserves the specified scalar checkpoints.
 
 The separate direct.py forms PP* from the original coefficient lists and its reversal and computes every CT[(z+z^-1)^k Z^n] by an explicit binomial sum.
 Its direct Fourier bound follows from |coefficient Z^n|<=integral Z^n<=H^(2n), since the circle function Z^n is nonnegative.

@@ -171,7 +171,7 @@ Con26d Theorem 2.1 and Smy08's Kronecker characterization are accepted classical
 The reviewer read those U materials and checked their hypotheses against this use, but did not reopen either original PDF or perform a new proof audit of either classical theorem.
 The original U inspection limits remain unchanged, including Smy08's full product and multiplicity convention.
 The credited C136 and C711 mechanisms were read at the actual consumed sections; the enlarged C729 statements are supported by the C729 arguments checked above, rather than by extending old conclusions by attribution.
-The C724 norm account mentions C605 v2, but C729 proves the consumed norm multiplicities directly from its actual degrees, so no C605 proof is an additional uninspected premise of this finding.
+C724's norm account refers to the earlier C586 v2 descent interface; C729 proves the consumed norm multiplicities directly from its actual degrees, so that earlier descent proof is no additional uninspected premise of this finding.
 C691 was inspected only for its comparison boundary; its full construction is not required to prove this family.
 No unresolved source identification or applicability defect was found within these consumed scopes.
 No novelty, whole-source, formal-verification or unrestricted G0001 completion verdict is asserted.

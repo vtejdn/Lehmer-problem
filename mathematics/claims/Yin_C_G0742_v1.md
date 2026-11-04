@@ -245,7 +245,7 @@ For U_4=K_b^(3q/2), V_4=C_b^(3q/4), actual division U_4-V_4=Phi^AQ_4+2R_4 and ex
 The sign-dependent extra actual quotient Q_K is retained.
 Put P=Phi^AK_0, P_5=P(C_5), and Xi=Delta(P)+P^2+W_0(C_2)-2PDelta(S)+Delta(S)^2.
 Use the actual division S(C_3)=Q_S3 S+2E_3 and set B_3=P(C_3)-Q_S3^2P.
-For the actual C705/C683 auxiliary
+For the actual C675/C683 auxiliary
 
     E_epsilon=-P L_epsilon+H Phi^(6A)M_epsilon
        +3H Phi^(4A)(epsilon C^2P_5-K_0^4Xi),

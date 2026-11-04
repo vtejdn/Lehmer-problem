@@ -13,7 +13,7 @@ No unrestricted Mahler gap, canonical Claim or Task completion is asserted.
 ## Fixed scope and preservation
 
 The current complete denominator/width, rational-function and exact first finite-certificate theorem and all necessary proofs reside in [C430](../claims/Yin_C_G0430_v1.md#argument), actually adopted after the [complete current SELF finding](../audits/reviews/Yin_R_G0632_v1.md#current-paraunitary-whole-finding).
-The entire original body, analytical/finite author checks,22:23 freeze and R203 source/runtime scope remain below.
+The entire original body, analytical/finite author checks,2026-10-11T14:23 freeze and R203 source/runtime scope remain below.
 Historical unresolved/prospective words describe that first attempt; the later [L384 exact-point account](Yin_L_G0384_v1.md) is a separate subsequent result.
 This navigation grants no current Task/E authority or independent relationship.
 
@@ -334,7 +334,7 @@ It does NOT prove that the original nonlinear equations are feasible, that ratio
 A genuine found identity1=sum h_i E_i would exclude the whole corresponding case, but no such identity was found in this first attempt.
 
 The sole native author execution used CPython3.12.14, integers and Fraction arithmetic only.
-It started2026-10-11T14:20 and completed 2026-10-11T14:20; worker elapsed1.203seconds and supervisor elapsed1.312seconds, exit0, no60second outer timeout and no retry.
+It started 2026-10-11T14:20 and completed 2026-10-11T14:20; worker elapsed1.203seconds and supervisor elapsed1.312seconds, exit0, no60second outer timeout and no retry.
 The native data.json (`mathematics/computations/outputs/Yin_J_G0085/data.json`) is COMPLETE for all three DECLARED ATTEMPTS.
 Each full system has rank50 and augmented rank51, with its complete exactly checked witness(13).
 The witness support sizes are46,44,49 respectively.

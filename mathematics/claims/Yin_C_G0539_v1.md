@@ -107,8 +107,8 @@ No numerical experiment, factorization scan or new source theorem is used.
 <a id="sparse-trace-reuse"></a>
 ## 1. Responsible question and exact reuse boundary
 
-Can L414's absence of income from prescribed finite primes be achieved on an actual bounded-TOTAL-Mahler family?
-The comparison is [L414](Yin_C_G0536_v1.md#fixed-prime-invisibility-statement), whose simultaneous finite-prime construction has m(P)=log d+O(1).
+Can L413's absence of income from prescribed finite primes be achieved on an actual bounded-TOTAL-Mahler family?
+The comparison is [L413](Yin_C_G0536_v1.md#fixed-prime-invisibility-statement), whose simultaneous finite-prime construction has m(P)=log d+O(1).
 The existing [C130v2](Yin_C_G0130_v2.md#statement), adopted at its [whole reviewed decision](Yin_C_G0130_v2.md#decision-whole-reviewed-2026-10-15), ALREADY gives a bounded-total-measure actual nonreciprocal minimal-factor family with poor short returns at one specified prime.
 Its binary specialization bounds ALL local depths by O(sqrt n), and its first-layer bound holds at every fixed enlargement of the original linear time.
 More precisely, C130 selects the actual minimal polynomial of the positive root of t^q-t-1, q=ell^r>=3, with theta0<=M<=sqrt3 and kappa(q-1)<d<=q.
@@ -225,7 +225,7 @@ For the complete original field norm
     N_k(P)=Norm_(Q(alpha)/Q)(alpha^k-1),
     A_k(P)=|N_k(P)|,
 
-where alpha is any root of P, the [L409 original companion/Smith interface](Yin_C_G0513_v1.md#nonreduced-layer-capacity-proof) gives
+where alpha is any root of P, the [L408 original companion/Smith interface](Yin_C_G0513_v1.md#nonreduced-layer-capacity-proof) gives
 
     v_p(A_k(P))>=deg gcd(Pbar,t^k-1).                   (10)
 
@@ -312,7 +312,7 @@ This sparse family gives actual bounded-total-measure nontorsion integer-unit fa
 The whole polynomial is reciprocal, but reciprocity of the selected irreducible factor remains unproved.
 The factors are uniformly separated from measure1 by (7).
 At p|a, (11) gives proportional local income at a linear original time, the opposite of the desired behavior.
-At p not dividing a, (16) gives complete local silence on a logarithmic window along an explicit schedule, not L414's degree-linear or exponentially long silence.
+At p not dividing a, (16) gives complete local silence on a logarithmic window along an explicit schedule, not L413's degree-linear or exponentially long silence.
 C130 already provides a stronger specified-prime obstruction on another bounded-measure family, including all binary depths, so (16) alone adds no general-domain coverage obstruction.
 
 The changed unresolved question specific to this reciprocal trace construction is a multiplicative return estimate for
@@ -328,8 +328,8 @@ Choosing a different power q for each prime does not produce simultaneous treatm
 
 Sections2--4 contain the complete original author argument.
 Standard finite-field Frobenius and degree facts use the accepted [Hun74-U006 interface](../audits/literature/Hun74/Yin_U006.md#hun74-u006); no original-source proof audit is newly claimed.
-C130, L414, L33 and L45 are comparisons.
-L66 supplies trace notation, Smy08-U001 supplies Mahler normalization and the retained Dim19 statement, and L409 supplies the original companion Smith floor.
+C130, L413, L33 and L45 are comparisons.
+L66 supplies trace notation, Smy08-U001 supplies Mahler normalization and the retained Dim19 statement, and L408 supplies the original companion Smith floor.
 No C147 bound, all-prime norm estimate, whole-polynomial irreducibility, primitive degree preservation, near-one existence or uniform original Mahler gap is inferred.
 
 <a id="sparse-trace-fixed-inputs"></a>
@@ -343,7 +343,7 @@ No C147 bound, all-prime norm estimate, whole-polynomial irreducibility, primiti
 | [Smy08-U001 normalization](../audits/literature/Smy08/Yin_U001.md#smy08-height-normalization) | Mahler circle identity, multiplicativity and original-root conventions; total measure is distinct from height and house. |
 | [Smy08-U001 house interface](../audits/literature/Smy08/Yin_U001.md#smy08-house) and [L80](../ledger/Yin_L_G0080_v1.md#degree-only-primitive-escape) | Accepted Dim19 2019v1 theorem statement, house at least2^(1/(4D)); applied only to each actual factor's degree, with no new original-proof audit or later-edition comparison. |
 | [L66 trace identity](../ledger/Yin_L_G0066_v1.md#reciprocal-trace-domain) | The elementary C_n recurrence and Laurent identity only; no quadratic field-degree assertion for a possibly nonreciprocal factor. |
-| [L409 companion/Smith floor](Yin_C_G0513_v1.md#nonreduced-layer-capacity-proof), independently reviewed in [R413](../audits/reviews/Yin_R_G0413_v1.md#nonreduced-layer-whole-independent-finding) | Full original norm and deggcd lower bound at every prime, including repeated reduction and index primes; no maximal-order replacement. |
+| [L408 companion/Smith floor](Yin_C_G0513_v1.md#nonreduced-layer-capacity-proof), independently reviewed in [R413](../audits/reviews/Yin_R_G0413_v1.md#nonreduced-layer-whole-independent-finding) | Full original norm and deggcd lower bound at every prime, including repeated reduction and index primes; no maximal-order replacement. |
 | [Hun74-U006](../audits/literature/Hun74/Yin_U006.md#hun74-u006) | Accepted finite-field existence, Frobenius and degree statements; the new orbit-length application is proved here, without a new source-proof audit. |
-| [L414 finite-prime comparison](Yin_C_G0536_v1.md#fixed-prime-invisibility-statement) | Simultaneous prescribed-prime invisibility with total logarithmic measure log d+O_S(1); not a bounded-measure or near-one premise. |
+| [L413 finite-prime comparison](Yin_C_G0536_v1.md#fixed-prime-invisibility-statement) | Simultaneous prescribed-prime invisibility with total logarithmic measure log d+O_S(1); not a bounded-measure or near-one premise. |
 | [L33 sparse/shortness antecedent](../ledger/Yin_L_G0033_v1.md#excess-two-equivalence) and [L45 pentanomial antecedent](../ledger/Yin_L_G0045_v1.md#complete-length-five-cyclotomic-table) | Comparison only; no graph, cyclotomic-factor classification or irreducibility conclusion is imported into this fixed-a family. |

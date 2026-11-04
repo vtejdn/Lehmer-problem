@@ -73,7 +73,11 @@ author: Yin
 <a id="statement"></a>
 <a id="nonmonomial-residue-fixed-scope"></a>
 
-For every admissible integer residue of a monic irreducible nontorsion unit P and complete window N>d, (1)--(6) give the full resultant/content/energy/coherence interface. Under the stated exact active-system hypotheses, (8)--(10) and the distinct norm-funded (12)--(17) give paid finite-interval escape criteria at the same actual surplus. On exactly the two original n18/n30 inputs, all600 declared binomial directions preserve the global conservative S>=2 optimum, and every declared exact-log norm-funded active slope is nonnegative. These are distinct finite exclusions, not a global optimum at actual surplus. Uniformly for h<=Cd along any hypothetical small-total-measure unit class, (18)--(20) bound the additional binomial income and its possible relaxation of S>=2, without proving coherence coverage or a near-one family.
+For every admissible integer residue of a monic irreducible nontorsion unit P and complete window N>d, (1)--(6) give the full resultant/content/energy/coherence interface.
+Under the stated exact active-system hypotheses, (8)--(10) and the distinct norm-funded (12)--(17) give paid finite-interval escape criteria at the same actual surplus.
+On exactly the two original n18/n30 inputs, all600 declared binomial directions preserve the global conservative S>=2 optimum, and every declared exact-log norm-funded active slope is nonnegative.
+These are distinct finite exclusions, not a global optimum at actual surplus.
+Uniformly for h<=Cd along any hypothetical small-total-measure unit class, (18)--(20) bound the additional binomial income and its possible relaxation of S>=2, without proving coherence coverage or a near-one family.
 All input, source, failed-method and expense boundaries in the complete argument below are part of this fixed statement.
 No current Task/E execution is selected by the dated original research prose.
 

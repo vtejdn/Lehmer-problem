@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T22:00.
 Human operator: Yin.
 The checking agent read all217original L194 lines, all90original R93 lines and the entire315-line published open C465 Statement, Argument, registration and limitations.
-It read the necessary complete C413v2 nonlinear mechanism, full C244 actual trace/Frobenius/resultant argument and exact original-Lehmer control, and C379v2 Section6 complete radical irreducibility/root-fiber measure proof with its source-attribution boundary.
+It read the necessary complete C410v2 nonlinear mechanism, full C243 actual trace/Frobenius/resultant argument and exact original-Lehmer control, and C376v2 Section6 complete radical irreducibility/root-fiber measure proof with its source-attribution boundary.
 The accepted C268 Dim19-v1 house-to-Mahler statement consequence and original-Lehmer eight-circle-root interface retain their original scope.
 No source proof, new literature acceptance, exact native resultant or author producer is rerun.
 The full original8356-character reuse/Sections1--4/equations(1)--(10) body and440-character remaining inverse/cofactor boundary are retained modulo adequate mathematical homes.
@@ -83,7 +83,7 @@ The two outside multipliers t and t^2-1 give the degree upper bound(2e-1)q+2.
 Substitution preserves coefficient sum norm and triangle/product bounds give exactly the displayed C_0, with all overlaps and cancellations permitted.
 The general primitivity proof applies to every such irreducible lift; no leading-term equality is needed.
 
-The complete C413v2 mechanism applies to the scalar2 evaluations at all reciprocal conjugates.
+The complete C410v2 mechanism applies to the scalar2 evaluations at all reciprocal conjugates.
 Characteristic-two reduction gives integrality, the actual four evaluations cancel the auxiliary at the target, and monic division gives its integral target factor.
 The full rational-functional-equation argument excludes zero auxiliary.
 Formal reversal at4k, followed by actual monomial removal, gives a nonzero reciprocal integral cofactor with every scalar retained.
@@ -92,8 +92,8 @@ The circle bound and whole-polynomial Mahler identity give0<=m(C_q)<=3log C_0-m(
 The actual seed degree is used if cancellation lowers it.
 This is a fixed-base bound, not a uniform estimate over saturated inputs.
 
-The exact original degree-ten polynomial and R_(1,2)=2^10 are retained C244/J9 inputs, without a new resultant computation.
-For each rational prime q>40, C379v2 uses only the accepted Dim19-v1 degree-ten consequence to exclude a qth root in the original field.
+The exact original degree-ten polynomial and R_(1,2)=2^10 are retained C243/J9 inputs, without a new resultant computation.
+For each rational prime q>40, C376v2 uses only the accepted Dim19-v1 degree-ten consequence to exclude a qth root in the original field.
 Its complete root-product/Bezout and field-tower argument then gives actual irreducibility of P_0(t^q).
 The original degree-ten Salem classification has eight unit-circle conjugates, each yielding q such roots in the lift.
 Thus8q actual unit-circle embeddings occur at genuine degree10q.

@@ -24,11 +24,16 @@ The substantive construction and constants were checked under the clearly intend
 Their supported meaning does not make the original erroneous norm subscript well-defined.
 The author has acknowledged the issue and will supply a dated correction separately; this finding does not pre-approve that uninspected correction.
 
+The initial complete C59 input included the author validation checklist and no-defect conclusion beyond the necessary derivation.
+The original negative notation finding remains negative at that exact scope.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Original finding](#finite-dictionary-original-norm-field-finding) | independently reviewed |
+| [Original finding](#finite-dictionary-original-norm-field-finding) | self-reviewed |
 
 ## Review bindings
 

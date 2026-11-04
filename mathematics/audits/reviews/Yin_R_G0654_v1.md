@@ -30,7 +30,7 @@ This actual SELF account does not supply independent context isolation, all-inpu
 | [Complete critical-level positive-tail and exact original certificate](#current-critical-positive-tail-whole-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0087/readme.md) | Entire original fixed-input finite declaration, pre-run revision, actual execution and pending-review/UNRUN limitations. |
 | [Complete critical-level positive-tail and exact original certificate](#current-critical-positive-tail-whole-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0087/main.py) | Complete original launcher/resource/output declaration, read only; never invoked in this maintenance. |
 | [Complete critical-level positive-tail and exact original certificate](#current-critical-positive-tail-whole-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0087/worker.py) | Complete actual rational/root/interval/rounding/recurrence code; only disclosed original pure geometry/transcendental/CT helpers reused in memory. |
-| [Exact original critical-level author checks and entire freeze](#original-critical-positive-tail-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0383_v1.md#critical-level-entire-author-freeze) | Exact original23:07 whole author freeze/check with complete earlier Section6 self-check retained in the source; not later23:24 retention time. |
+| [Exact original critical-level author checks and entire freeze](#original-critical-positive-tail-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0383_v1.md#critical-level-entire-author-freeze) | Exact original 2026-10-11T15:07 whole author freeze/check with complete earlier Section6 self-check retained in the source; not later 2026-10-11T15:24 retention time. |
 | [Complete critical-level positive-tail and exact original certificate](#current-critical-positive-tail-whole-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0087/readme.md#recorded-runs) | Complete original certificate:19roots,6gates,512cells,4096term pairs,9checkpoints,11final states and all exact counters/tail/lower-bound fields; unchanged bytes. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0087/certificate.json`; this target locates that original run's computation account. |
 
 <a id="current-critical-positive-tail-whole-finding"></a>
@@ -85,7 +85,7 @@ The original full R209 finding retains all eighteen original bindings, proof/cos
 Its initial analytical Sections1–7 included the explicit Section6 author mathematical self-check; later positive-outcome messages also preceded final program inspection.
 Those concrete target-content exposures establish SELF, independently of its disclosed contribution to the unchanged upstream recurrence.
 The upstream contribution alone is not used to infer target contribution or to erase its separate-implementation facts.
-Original author start22:45, pre-run method revision22:55, author entire freeze23:07, whole review23:18 and fixed retention23:24 remain separate2026-10-11 events.
+Original author start 2026-10-11T14:45, pre-run method revision 2026-10-11T14:55, author entire freeze 2026-10-11T15:07, whole review 2026-10-11T15:18 and fixed retention 2026-10-11T15:24 remain separate2026-10-11 events.
 No source/native minute is manufactured from the retention or current registration clock.
 The old pending-native-review metadata is not rewritten as a new acceptance event.
 

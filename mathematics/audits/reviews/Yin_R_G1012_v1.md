@@ -146,7 +146,7 @@ All substantive reasoning needed here is present in the fixed local input chain 
 PASS for the entire C793 statement and FC1--FC6 argument at exactly the declared original-law finite scope, supported by the completed independent native calculation and full exact payload comparisons.
 No mathematical gap or native discrepancy was found.
 The new evidence supports a separate adopting Claim decision; this review does not itself perform adoption.
-C776's earlier results and C822's radial-profile scope are unchanged and no earlier review is transferred to the longer calculation.
+C776's earlier results and C779's radial-profile scope are unchanged and no earlier review is transferred to the longer calculation.
 There is no conclusion about later times, positive limiting midpoint growth, finite or infinite critical mean, R=beta versus R<beta, a new radius bound, varying inputs, uniform entropy or the unrestricted G0001 problem.
 
 ## Reviewed computation runs

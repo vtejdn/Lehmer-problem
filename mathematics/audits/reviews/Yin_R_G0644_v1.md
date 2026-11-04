@@ -29,7 +29,7 @@ No historical independent method is promoted to present agent isolation, and no 
 | [Complete rational delay and pole-barrier finding](#current-rational-delay-whole-finding) | [Exact fixed input](../literature/AJL16/Yin_U001.md#ajl16-u001) | Adequate exact original author/reviewer/root selected attribution and actual preprint edition, complex/cancellation/finite-pole distinctions, source proof and no-new-reading limits. |
 | [Complete rational delay and pole-barrier finding](#current-rational-delay-whole-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0085/readme.md) | Only historical original three bounded product-span certificate absences and no nonlinear/all-degree inference; no additional run or producer execution. |
 | [Complete rational delay and pole-barrier finding](#current-rational-delay-whole-finding) | [Exact fixed input](../../ledger/Yin_L_G0384_v1.md#exact-width-five-lift-discovery) | Only the separate later exact target solution/status comparison, not a premise of the original general proof or current certification of all later L384 consequences. |
-| [Exact original rational delay author check](#original-rational-delay-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0380_v1.md#rational-factorization-entire-author-freeze) | Exact complete original Section8 self-check and22:43 frozen author scope, then-pending separate review and no-native/source-proof expansion. |
+| [Exact original rational delay author check](#original-rational-delay-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0380_v1.md#rational-factorization-entire-author-freeze) | Exact complete original Section8 self-check and 2026-10-11T14:43 frozen author scope, then-pending separate review and no-native/source-proof expansion. |
 
 <a id="current-rational-delay-whole-finding"></a>
 ## Complete rational delay and pole-barrier finding evidence
@@ -74,7 +74,7 @@ Its inverse alone changes the residue to e1.
 For an actual Laurent interpolant w, W=M_w M_vrat^-1 is regular at every original root because P is reciprocal, gcd(P,D)=1 and starred residues agree under sigma.
 This proves W(alpha)=I and W v_rat=w, and the converse follows by evaluation/norm.
 No pole-free rational factorization, approximation or hidden completion result is used.
-The later original L384 finite-word construction is a separate dated result; the original22:43 unknown target language is retained historically, not presented as the current status of that exact solved target.
+The later original L384 finite-word construction is a separate dated result; the original 2026-10-11T14:43 unknown target language is retained historically, not presented as the current status of that exact solved target.
 The orbit criterion and fixed-vector pole proof remain valid after that later result.
 
 All successful-word costs remain full: least actual q, original signed norms, individual contents, normalized weights, energy q^2/3, preliminary surplus log3/2, union width/radial/degree and nonconstant D expense.
@@ -86,7 +86,7 @@ All12 original R206 whole bindings, each of its eight detailed proof checks and 
 Its initial whole input explicitly included the complete author mathematical self-check, so its actual relationship is SELF under the current isolation condition.
 The noncontributor role, its earlier work on another target and absence of separate prior review conclusions do not reverse that known exposure.
 Its actual independent local reconstruction and selected-source text checks remain factual methods, not discarded as no checking.
-Original22:43 author freeze,22:53 review and22:56 retention are kept separate.
+Original 2026-10-11T14:43 author freeze,2026-10-11T14:53 review and 2026-10-11T14:56 retention are kept separate.
 No new execution, source reading minute or original PDF proof audit is inferred from those clocks.
 
 AJL17-U001 and AJL16-U001 adequately retain original author, distinct reviewer and root occurrences at their exact v2 preprints, selected statements/displayed arguments and cancellation/complex-field boundaries.
@@ -98,7 +98,7 @@ All failed older fetches, search limits, source/no-novelty qualifications and cu
 <a id="original-rational-delay-author-check-finding"></a>
 ## Exact original rational delay author check evidence
 
-The original complete Section8 author check and22:43 freeze below are retained verbatim.
+The original complete Section8 author check and 2026-10-11T14:43 freeze below are retained verbatim.
 Its earlier precursor reviewing role does not supply independent review of this new proof; no source reading or native execution minute is invented.
 
 ## 8. Author self-check and pending independent review

@@ -18,7 +18,7 @@ Applicable accepted-dependency findings were compared at their recorded scopes; 
 The reviewed input is the complete 507-line [C851 v1](../../claims/Yin_C_G0851_v1.md#statement), dated by its [open decision](../../claims/Yin_C_G0851_v1.md#decision-finite-fourier-budget-open) at 2026-10-28T23:44.
 Coverage includes Statement A--F, all FQ1--FQ7 and FQ6a, all nineteen numbered formulas, every unnumbered deduction, declared dependency/support interface and stated limitation.
 No fixed Git commit was supplied; the physical version, actual dated decision and complete inspected text identify the input.
-The D44 link was treated solely as extraction provenance and was not followed.
+C851's currently linked D7 section was treated solely as extraction provenance and was not followed.
 
 The directly used accepted interfaces were C137 Sections 1--2, C844's field-free ER3 calculation through ER7, C845's field-free phase margin and finite separated specialization, C848's finite support/endpoint/noncollision interfaces, C92's short-annihilator inequality and C570's exact finite-frequency modulus.
 Their applicable findings in [R801](Yin_R_G0801_v1.md#g0137-m04-isolated-whole-finding), [R1064](Yin_R_G1064_v1.md#whole-scalar-energy-finding), [R1065](Yin_R_G1065_v1.md#whole-varying-seed-phase-finding), [R1068](Yin_R_G1068_v1.md#whole-finite-support-phase-finding), [R796](Yin_R_G0796_v1.md#fresh-c0092-whole-finding) and [R781](Yin_R_G0781_v1.md#fresh-whole-finding) were inspected at those interfaces and limits.

@@ -8,7 +8,7 @@ author: Yin
 - Source: [MSY23, supplied as MSY23.pdf](../../../literature/pdf/MSY23.pdf), published pp. 1-12: front matter, Section 1, and all of Section 2.
 Section 3 begins at the bottom of p. 12 and belongs to [U002](Yin_U002.md#msy23-u002).
 - Record: 2026-09-08, the original unit authoring agent, for [MSY23 free-field and Atiyah source audit](readme.md#msy23-free-field-and-atiyah-source-audit).
-The [source index](readme.md) own artifact/version metadata.
+The [source index](readme.md) identifies the inspected source edition.
 - Reading and review: every assigned page read; source statements, local proofs, and the precise external algebra interfaces checked.
 Theorem 2.10's cited 2006-book locator requires the repair below.
 Its mathematical conclusion remains available.

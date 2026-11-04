@@ -17,11 +17,16 @@ For this re-review the additional inputs were the reviewer's own fixed v1 findin
 The fixed v2 provenance explains the parameter correction; no new proof-development account or mathematical construction was imported.
 No earlier finding is silently relabelled or rebound.
 
+This same reviewer's initial C602 v1 whole input contained the author validation and contributor-checking account beyond the necessary derivation.
+The corrected v2 recheck reuses that actual initial whole scope, so its relationship is self-reviewed.
+Its separate A>=0 correction check, mathematical coverage and actual date remain intact.
+Original independence wording in the retained narrative is historical for those affected findings; performed checks, input order, dates, verdicts and limits are preserved.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole corrected v2 finding](#whole-sign-flow-v2-finding) | independently reviewed |
+| [Whole corrected v2 finding](#whole-sign-flow-v2-finding) | self-reviewed |
 
 ## Review bindings
 

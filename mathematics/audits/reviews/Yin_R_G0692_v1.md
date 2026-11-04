@@ -17,10 +17,10 @@ Earlier L194/L200 fixed contributions do not automatically establish target auth
 The exact1152-character original contribution/fixed-reuse/listed author checks/then-pending account remains separately SELF at its original2026-10-10day precision.
 No additional historical whole author-review event is invented.
 
-The needed C238 normalized Frobenius/gcd proof and C266 initial-versus-stable-layer comparison were inspected.
-The elementary prime-binomial proof from C379 is repeated locally; its separate external degree-only bound and large-prime cutoff are unused.
-C482's full degree-six actual polynomial/resultant/C3 and C244's original Lehmer full resultant are the already read fixed controls.
-C252 PartII's complete retained J10 finite factor/order/profile proof, the full J10 readme and both native result.json/verification.json were read for the actual original Lehmer facts.
+The needed C237 normalized Frobenius/gcd proof and C265 initial-versus-stable-layer comparison were inspected.
+The elementary prime-binomial proof from C376v2 is repeated locally; its separate external degree-only bound and large-prime cutoff are unused.
+C478's full degree-six actual polynomial/resultant/C3 and C243's original Lehmer full resultant are the already read fixed controls.
+C251 PartII's complete retained J10 finite factor/order/profile proof, the full J10 readme and both native result.json/verification.json were read for the actual original Lehmer facts.
 The Lehmer vector is[1,1,0,-1,-1,-1,-1,-1,0,1,1]; the two distinct degree-five binary factors have codes47 and61, Rabin irreducibility checks and exact root order31.
 The native verification retains all60 checks as passed, including its separate degree-22 control; the new theorem consumes only the stated Lehmer factor/order facts.
 These are original retained computational facts, not a new execution, code audit, source-proof recertification or assertion that every old input was independently re-proved.

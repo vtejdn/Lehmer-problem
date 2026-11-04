@@ -8,7 +8,7 @@ Date: 2026-10-21T22:11.
 Human operator: Yin.
 The checking agent read all260original L195 lines, all130original R94 lines, the entire original published open C467v1 and the entire423-line clarified open C467v2 Statement, Argument and decisions.
 It read all three J39 programs main.py,verify.py,review_exact.py, the complete certificate.json,verification.json,review_verification.json and the whole J39 readme.
-It checked the complete necessary current C432 arbitrary-negative, C420 finite-cover, C451 ideal-isolation and C439 actual quotient/degree-six interfaces at their unchanged mathematical scopes.
+It checked the complete necessary current C428 arbitrary-negative, C416 finite-cover, C447 ideal-isolation and C435 actual quotient/degree-six interfaces at their unchanged mathematical scopes.
 The entire original11678-character necessary Sections1--4/equations(1)--(4)/17-word table and734-character Section5 mathematical boundary are retained modulo adequate homes.
 The complete old Bernstein mathematical method and17 exact closed cells are explicit in the Claim, while exploratory failure/execution records remain at L/J and formal checks at R.
 The checking agent rederived the whole analytic/arithmetic/control proof and inspected every retained native cell and program assertion at the original fixed-evidence depth.
@@ -54,7 +54,7 @@ The following whole finding checks the entire v2 chain rather than only these se
 
 The bounded entry premise jointly quantifies over every real y in[-1,1] and every residue of the actual O/I, with a word allowed to depend on both.
 Applying it to an actual narrow state's coupled real coordinate and residue gives strictly narrow entry into I, while stable contraction preserves S.
-For arbitrary real annular x and neutral direction u, C432 supplies cost below C-Hsqrt(s).
+For arbitrary real annular x and neutral direction u, C428 supplies cost below C-Hsqrt(s).
 The formal residue starts at zero, so after the first word it is D_w modulo I, even when the real x has no arithmetic residue.
 Correcting this residue gives D_(wv)=beta^length(v)D_w+D_v in I.
 The exact neutral identity is c_(wv)=c_w+A^-length(w)c_v.
@@ -65,9 +65,9 @@ No fractional module or merely algebraic quotient path substitutes for this actu
 
 Strict endpoint and negative directional inequalities persist on real-direction neighborhoods for a fixed successful word.
 Compactness of the joint annulus and unit sphere gives finitely many words.
-The complete C420 support-function argument transfers the sign condition to nonzero normalized displacements and a positive centered hull radius.
+The complete C416 support-function argument transfers the sign condition to nonzero normalized displacements and a positive centered hull radius.
 All neutral coordinates and a common real-cell refinement are retained.
-This proves positivity only, without inferring the numerical C451 gate.
+This proves positivity only, without inferring the numerical C447 gate.
 
 All121 original words of lengths0--4 and the four F4 residues are the exact retained finite domain.
 Both nonzero digits have residue1 but distinct real actions.
@@ -88,7 +88,7 @@ The retained checker additionally validates all author open intervals, complete 
 It does not reproduce the author's interval recursion or rediscover the witness words.
 The121/33-28-26-34 counts, two exact root values and full mod2 cube identity remain at their original certificate scope.
 
-The actual degree-six input is the exact irreducible Salem polynomial in C439, with a cubic trace field having two inner embeddings and one trace above two.
+The actual degree-six input is the exact irreducible Salem polynomial in C435, with a cubic trace field having two inner embeddings and one trace above two.
 The inner negative value of v^2-4 gives the degree-six quadratic extension and the already proved beta<phi domain.
 The retained exact endpoint signs put that unique expanding root between3/2 and151/100.
 Since P6 mod2=(t^2+t+1)^3 and the quadratic is irreducible over F2, beta->b gives an actual surjection O->F4 with kernel(2,beta^2+beta+1) and index four.
@@ -102,7 +102,7 @@ Dividing the negative numerator by its actual squared norm and then using that n
 The finite table and finitely many correcting words permit a finite common real-cell refinement and the support-function ball radius r_cert.
 Cauchy--Schwarz gives a<=C_*, so the radius expression is at most(C_*-K)/(C_*+K)^2.
 The inequality8K(C_*-K)<=(C_*+K)^2 is exactly(C_*-3K)^2>=0.
-For s2,H4 and index4 the C451 isolation scale is sqrt2(4/S)^(1/4)<2<4K, hence1/(8K)<1/(2J).
+For s2,H4 and index4 the C447 isolation scale is sqrt2(4/S)^(1/4)<2<4K, hence1/(8K)<1/(2J).
 This limits only the particular crude transferred lower-bound expression.
 It is not an upper bound on the true hull and does not exclude beneficial cancellations, a different table or later termination arguments.
 

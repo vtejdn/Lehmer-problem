@@ -13,9 +13,9 @@ It did not read D47, new author dialogue, separate proposing-agent explanations,
 Adopted input metadata was visible.
 The whole mathematical review below was performed by this reviewer, not inferred from a local sample or a structural check.
 
-The reviewer retains its actual earlier independent primitive-review background, including [C835's whole R1013](Yin_R_G1013_v1.md#whole-primitive-high-obstruction-finding), [C832's whole R1009](Yin_R_G1009_v1.md#whole-source-jet-low-attainability-finding), [C830's whole R1008](Yin_R_G1008_v1.md#whole-primitive-source-low-gate-finding) and [C824's whole R1003](Yin_R_G1003_v1.md#whole-primitive-second-eight-finding).
+The reviewer retains its actual earlier independent primitive-review background, including [C792's whole R1013](Yin_R_G1013_v1.md#whole-primitive-high-obstruction-finding), [C789's whole R1009](Yin_R_G1009_v1.md#whole-source-jet-low-attainability-finding), [C787's whole R1008](Yin_R_G1008_v1.md#whole-primitive-source-low-gate-finding) and [C781's whole R1003](Yin_R_G1003_v1.md#whole-primitive-second-eight-finding).
 Those findings are reused only at their unchanged input scopes; they did not review the new lower high-coordinate identities or sharp source coefficients.
-After its initial C795 findings, the reviewer also read the declared arrangement, input limits, whole finding and applicable source/padding conclusions of [C834's independent R1011](Yin_R_G1011_v1.md#whole-original-budget-five-a-source-finding).
+After its initial C795 findings, the reviewer also read the declared arrangement, input limits, whole finding and applicable source/padding conclusions of [C791's independent R1011](Yin_R_G1011_v1.md#whole-original-budget-five-a-source-finding).
 That review is compatible evidence for the fixed stronger-source input, not an earlier conclusion about C795.
 No existing R already supplied the present whole finding.
 

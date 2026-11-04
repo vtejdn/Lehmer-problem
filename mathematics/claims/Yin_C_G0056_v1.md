@@ -214,7 +214,7 @@ The recorded review description was `under review`.
 | dependency | [Full original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Applied ONLY after complementarity, with same FINAL weights, nonzero full signed resultants and actual physical width. |
 | support | [Old complete degree-one theorem](Yin_C_G0039_v1.md#integer-square-mass-weak-certificate-and-degree-one) | Existing whole-integer mass/equality result, credited as the s1 predecessor. |
 | support | [Old actual quadratic optimum](Yin_C_G0039_v1.md#quadratic-full-integer-circle-profile-optimum) | Accepted full integer-profile optimum only for P_A,A>=3, with actual initial denominator and signed norms. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0263_v1.md#central-binomial-whole-independent-finding) | ENTIRE original18:14 D10 and its exact accepted-input interfaces only; no prospective new statement/extraction acceptance. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0263_v1.md#central-binomial-whole-independent-finding) | ENTIRE original18:14 D10 and its exact accepted-input interfaces only; no prospective new statement/extraction acceptance. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -235,8 +235,8 @@ The recorded review description was `under review`.
 | dependency | [Full original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Applied ONLY after complementarity, with same FINAL weights, nonzero full signed resultants and actual physical width. |
 | support | [Old complete degree-one theorem](Yin_C_G0039_v1.md#integer-square-mass-weak-certificate-and-degree-one) | Existing whole-integer mass/equality result, credited as the s1 predecessor. |
 | support | [Old actual quadratic optimum](Yin_C_G0039_v1.md#quadratic-full-integer-circle-profile-optimum) | Accepted full integer-profile optimum only for P_A,A>=3, with actual initial denominator and signed norms. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0263_v1.md#central-binomial-whole-independent-finding) | ENTIRE original18:14 D10 and its exact accepted-input interfaces only; no prospective new statement/extraction acceptance. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0265_v1.md#c56-central-binomial-actual-extraction-finding) | Actual A--E, complete retained argument/preservation and all current direct interfaces, independent of original authors and wrapper contributor. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0263_v1.md#central-binomial-whole-independent-finding) | ENTIRE original18:14 D10 and its exact accepted-input interfaces only; no prospective new statement/extraction acceptance. Finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0265_v1.md#c56-central-binomial-actual-extraction-finding) | Actual A--E, complete retained argument/preservation and all current direct interfaces, checked by a noncontributor at the actual SELF relationship. |
 
 ## Registration and preservation
 

@@ -241,7 +241,7 @@ The recorded review description was `under review`.
 | dependency | [C74 explicit numerical margins](Yin_C_G0074_v1.md#multiplicity-delay-explicit-threshold) | ONLY the defined K0, K0<h0/2 and5^8[epsilon(2K0)+12K0]<1; no dimension/multiplicity word theorem supplies the new uniform conclusion. |
 | dependency | [C10 direct full-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Additional Lambda<=T_final*m/d for the supplied final legal E1 packet at its actual common width; no profile/lifting existence theorem. |
 | dependency | [C71 exact positive control](Yin_C_G0071_v1.md#statement) | ONLY PartF's adopted quadratic one-step values, signed resultants and positive surplus, retained as a credited outside-threshold control. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0308_v1.md#binary-weighted-whole-independent-finding) | Root's actual NONCONTRIBUTOR review of the new complete00:27 D37 deduction, with C71/C74 ancestor contributions disclosed and reused at their accepted scope; no prospective review of this extraction. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0308_v1.md#binary-weighted-whole-independent-finding) | Root's actual NONCONTRIBUTOR review of the new complete00:27 D37 deduction, with C71/C74 ancestor contributions disclosed and reused at their accepted scope; no prospective review of this extraction. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -260,7 +260,7 @@ The recorded review description was `under review`.
 | dependency | [C74 explicit numerical margins](Yin_C_G0074_v1.md#multiplicity-delay-explicit-threshold) | ONLY the defined K0, K0<h0/2 and5^8[epsilon(2K0)+12K0]<1; no dimension/multiplicity word theorem supplies the new uniform conclusion. |
 | dependency | [C10 direct full-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Additional Lambda<=T_final*m/d for the supplied final legal E1 packet at its actual common width; no profile/lifting existence theorem. |
 | dependency | [C71 exact positive control](Yin_C_G0071_v1.md#statement) | ONLY PartF's adopted quadratic one-step values, signed resultants and positive surplus, retained as a credited outside-threshold control. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0308_v1.md#binary-weighted-whole-independent-finding) | Root's actual NONCONTRIBUTOR review of the new complete00:27 D37 deduction, with C71/C74 ancestor contributions disclosed and reused at their accepted scope; no prospective review of this extraction. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0308_v1.md#binary-weighted-whole-independent-finding) | Root's actual NONCONTRIBUTOR review of the new complete00:27 D37 deduction, with C71/C74 ancestor contributions disclosed and reused at their accepted scope; no prospective review of this extraction. Finding relationship: self-reviewed. |
 | review | [Actual extraction](../audits/reviews/Yin_R_G0310_v1.md#c82-weighted-binary-actual-extraction-finding) | Entire ACTUAL A--F, complete original and exact adopted interfaces; original whole R308 retains its own scope and disclosed ancestor roles. |
 
 ## Registration and complete preservation

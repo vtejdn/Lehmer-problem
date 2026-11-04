@@ -85,7 +85,7 @@ All new calculations are elementary finite linear algebra, lattice-coordinate co
 ### Two consecutive slopes observe both neutral components
 
 Write z=x(zeta), c=Re zeta=(1-sqrt13)/4 and s=|Im zeta|=sqrt((1+sqrt13)/8).
-The C301 relative-norm identity is
+The C300 relative-norm identity is
 
     rho(x)^2=sqrt13 K(x)+x_+x_-.
 

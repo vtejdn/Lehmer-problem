@@ -6,7 +6,7 @@ author: Yin
 
 Date: 2026-10-21T12:19.
 Human operator: Yin.
-The current agent actually read the complete original L142--L144 mathematical arguments and review arrangements, the complete new C349--C351 statements and retained proofs, and the directly used fixed C319/C336/C337/C338/C342/C345/C347/C349 interfaces.
+The current agent actually read the complete original L142--L144 mathematical arguments and review arrangements, the complete new C349--C351 statements and retained proofs, and the directly used fixed C318/C336/C337/C338/C341/C345/C347/C349 interfaces.
 The original complete arguments are preserved in the new C homes, with only necessary same-object dependency locators updated.
 The present inspection rechecked the entire mathematical chain and its exact finite indices, domains, constants and limits; it is not a retention-difference check or a conversion of old PASS wording into a new verdict.
 The agent inherited the substantive maintenance context and read the old review accounts before forming these findings, so the three current whole findings are self-reviewed.
@@ -63,9 +63,9 @@ The highest occupied autocorrelation exponent proves the zero-polynomial classif
 For a binomial block, beta^delta+beta^(-delta) is a rational algebraic integer in {-2,-1,0,1,2}, forcing beta^(12delta)=1 and contradicting the actual nontorsion input.
 Closest-pair selection, a monomial shift and possible reversal therefore cover every integer trinomial with three occupied exponents and all three nonzero signed coefficient magnitudes.
 The two-term unequal-magnitude lower bound is distinct from the balanced exception and from the opposite-sign return family.
-The complete fixed C342 boundary identity supplies both finite dT collars and the original 2C_1 sqrt(B/T), so the strict thresholds (13)--(14) retain all coefficient, h/q, width and Mahler factors without using Gamma or an unproved response.
+The complete fixed C341 boundary identity supplies both finite dT collars and the original 2C_1 sqrt(B/T), so the strict thresholds (13)--(14) retain all coefficient, h/q, width and Mahler factors without using Gamma or an unproved response.
 The singleton comparison uses C<=1 and its strict upper bound C/(2|c|+1); every selected state and recurrence index lies inside the original window.
-Both V=-U and the nonzero-A example U=P+t,c=-1 are actual exceptions; fixed C319 supplies only its already proved same-input opposite-sign returns.
+Both V=-U and the nonzero-A example U=P+t,c=-1 are actual exceptions; fixed C318 supplies only its already proved same-input opposite-sign returns.
 The inherited integer budget and (15) keep their exact losses.
 No every-merge successful split, complete-radius improvement, feasible cube witness, optimized E_R or near-one energy coverage follows.
 The old initial whole inspection and subsequent paragraph-only scope clarification remain distinct below; the present whole self-check establishes neither old isolation nor a whole corrected-chain reinspection on the old date.

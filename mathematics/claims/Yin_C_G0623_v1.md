@@ -415,7 +415,7 @@ For the digit-work kernel the sign-path lower bound is [2^(-2n-5)/(n+2)]^(2M(c))
 Equation (6) is the complete C554 fiber formula, including every original tail representation and the full return denominator.
 
 The new conclusion is the actual union connectivity of ALL zero-middle labels, beyond the preceding H-only result.
-The proof uses internal detours before a cross-fiber gate, so it is consistent with C633's failure of strict |lambda| decrease at every at-most-three-update return from an arbitrary starting point.
+The proof uses internal detours before a cross-fiber gate, so it is consistent with C612's Section 7 counterexample to of strict |lambda| decrease at every at-most-three-update return from an arbitrary starting point.
 Neither the finite route nor its positive individual probabilities give a uniform original mass fraction, a bounded weighted edge load or a uniform odd-energy gap.
 A label may occur earlier than its sufficient shared-tail onset; no claim about all states at one arbitrary current n follows.
 The critical return mean and the unrestricted Lehmer objective remain open.

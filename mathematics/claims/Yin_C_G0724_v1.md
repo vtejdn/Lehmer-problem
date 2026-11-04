@@ -296,9 +296,9 @@ Consequently, for EVERY genuine Salem trace input satisfying T' in2^(n+1)Z[X] at
 
     Theta(P)>n log2.                              (HD9)
 
-This excludes the TRUE C720 PC3 certificate at that same guaranteed precision throughout this derivative-prepared Salem domain, not merely on C747's constructed representatives.
+This excludes the TRUE C720 PC3 certificate at that same guaranteed precision throughout this derivative-prepared Salem domain, not merely on C711's constructed representatives.
 It supplies no nonzero-residual assertion and does not exclude exact identities or a stronger precision at which the corresponding derivative premise is absent.
-The statement uses the full Salem root count; it is not applied to the non-Salem higher members of C747's tower.
+The statement uses the full Salem root count; it is not applied to the non-Salem higher members of C711's tower.
 
 <a id="height-one-binary-source-descent"></a>
 ### Height1 fixes the integer dyadic base of a prescribed binary source

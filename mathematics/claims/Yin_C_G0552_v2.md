@@ -6,7 +6,7 @@ author: Yin
 
 The complete original mathematical argument is retained from [L423](../ledger/Yin_L_G0423_v1.md#odd-defect-reuse).
 Its original contributions, fixed inputs, useful failures, source inspection and native-execution limits are preserved.
-The [original review](../audits/reviews/Yin_R_G0435_v1.md#odd-component-whole-independent-finding) keeps its actual original L/J/source bindings, date, relationship declaration and checked scope; it is not retrospectively bound to this C.
+The [original review](../audits/reviews/Yin_R_G0435_v1.md#odd-component-whole-independent-finding) keeps its actual original L/J/source bindings and date, with its actual SELF core scope and the reviewer-contributed comparison covered separately by its SELF countercontrol; it is not retrospectively bound to this C.
 The current constructor has read the original proof and historical reviews; any current whole finding by this constructor is SELF.
 
 ## Statement

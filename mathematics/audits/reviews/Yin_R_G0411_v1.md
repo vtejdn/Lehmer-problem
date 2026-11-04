@@ -20,7 +20,11 @@ The new argument here, including the neutral factor, entire low-mode count and b
 The reviewer read L406 and its actual R409 review, and checked the exact cutoff/support interfaces used below; no original-source or unrelated whole-L406 review is claimed.
 No numerical calculation, matrix evaluation, source acquisition or native program was performed.
 
-Current relationship clarification 2026-10-22T02:59: the original23:24 declaration of independence, exact L407 input and complete positive mathematical finding remain historical facts. The separate noncontributing reviewer directly read the fixed argument and disclosed upstream C160/DMS84 roles. Its available shared project context and another agent precheck announcement do not establish the precise extra mathematical content or isolated first-judgment order; the historical whole relationship is genuinely unknown. A generic PASS announcement, upstream authorship or the nonblind label alone is not asserted to be substantive sharing and does not establish SELF. The later current whole SELF is separate and does not close isolated replacement.
+Current relationship clarification 2026-10-22T02:59: the original23:24 declaration of independence, exact L407 input and complete positive mathematical finding remain historical facts.
+The separate noncontributing reviewer directly read the fixed argument and disclosed upstream C160/DMS84 roles.
+Its available shared project context and another agent precheck announcement do not establish the precise extra mathematical content or isolated first-judgment order; the historical whole relationship is genuinely unknown.
+A generic PASS announcement, upstream authorship or the nonblind label alone is not asserted to be substantive sharing and does not establish SELF.
+The later current whole SELF is separate and does not close isolated replacement.
 
 ## Review relationships
 
@@ -45,9 +49,9 @@ Current relationship clarification 2026-10-22T02:59: the original23:24 declarati
 | [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [L38 complete factors](../../ledger/Yin_L_G0038_v1.md#family-cyclotomic-factors) | All five congruence conditions checked on n=9 mod120 to establish no removed factors and d=n+3. |
 | [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [L406 finite cutoff](../../ledger/Yin_L_G0406_v1.md#joint-cutoff-target) | Exact chi_delta zero interval, E_delta spectral weights, positive-contraction trace, support premise and full good-symbol constant K. |
 | [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [L406 original-window interface](../../ledger/Yin_L_G0406_v1.md#original-factor-cutoff-price) | Same coefficient window and normalization by original d, with no numerator-degree relabeling. |
-| [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [R409 cutoff review](Yin_R_G0409_v1.md#joint-cutoff-whole-independent-finding) | Actual complete independent L406 review, reused at its declared source and no-numerical scope. |
+| [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [R409 cutoff review](Yin_R_G0409_v1.md#joint-cutoff-whole-independent-finding) | Actual complete L406 review at its unknown relationship, reused at its declared source and no-numerical scope. |
 | [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [L406 moving-family comparison](../../ledger/Yin_L_G0406_v1.md#moving-exponent-low-mode-packing) | Its unbounded low-mode count and trace remain valid but do not determine actual coherence; not a premise of the new fixed-seed construction. |
-| [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [L402 actual Gram boundary](../../ledger/Yin_L_G0402_v1.md#moving-exponent-gram-feasibility) | Different actual moving-exponent family and unresolved coherence; its existing R547 review is not upgraded by this comparison. |
+| [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [L402 actual Gram boundary](../../ledger/Yin_L_G0402_v1.md#moving-exponent-gram-feasibility) | Different actual moving-exponent family and unresolved coherence; its existing R402 review is not upgraded by this comparison. |
 | [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [C92 annihilator scope](../../claims/Yin_C_G0092_v1.md#angular-short-annihilator-effective-support) | Existing fixed-support, original-linear-width restricted gap; the six-term family gives no new automatic near-one coverage. |
 | [Whole neutral-factor finding](#neutral-factor-whole-independent-finding) | [DMS84-U001 attribution](../literature/DMS84/Yin_U001.md#dms84-matrix-power-support) | Existing inspected author-manuscript matrix-power-support mechanism only, with reviewer authorship disclosed and R385 reuse; no bounded-inverse theorem or original-proof audit imported. |
 
@@ -122,7 +126,7 @@ This is a derived bound on the actual remainder symbol, despite its linearly gro
 C160 is an accepted upstream premise with a genuine separately performed R385 review; the present reviewer does not independently certify its own earlier theorem anew.
 DMS84-U001 is likewise reused at its recorded author-manuscript attribution scope.
 No edition equivalence, source-original proof audit or external inverse-decay constant is introduced.
-L406 is consumed at its actual fixed definition and independently reviewed R409 scope.
+L406 is consumed at its actual fixed definition and R409 whole scope with its unknown relationship.
 Its cutoff constant depends on the fixed threshold; no such dependence is suppressed.
 
 The control disproves necessity of bounded exceptional rank or trace in that particular sufficient cutoff criterion.

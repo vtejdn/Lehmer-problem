@@ -18,7 +18,7 @@ The whole GD1--GD12 chain, decisive complete distance-nine certificate, all-dist
 The four exact adopted inputs below were read for their hypotheses and actual applicability and their referenced decisions were confirmed proved.
 Their complete earlier proofs, source inspections and native ancestry were not recursively re-audited.
 
-[C400](../../claims/Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) supplies the actual fixed-quartic order and strict-strip equality with the accessible/coaccessible core, retaining its C399 certificate boundary.
+[C400](../../claims/Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) supplies the actual fixed-quartic order and strict-strip equality with the accessible/coaccessible core, retaining its C396 certificate boundary.
 [C590](../../claims/Yin_C_G0590_v1.md#decision-complete-isolated-whole-adoption) supplies actual termination, deterministic rho<=d<=A_D rho+B_D and unbounded actual neutral radii, without a random mean bound.
 [C511](../../claims/Yin_C_G0511_v1.md#decision-complete-current-self-adoption) supplies the complete first-hit function and finite positive interior domain 0<t<R_f; its displayed prefix estimate justifies that domain.
 [C796](../../claims/Yin_C_G0796_v1.md#decision-whole-reviewed-2026-10-26) supplies only R>68883/40000 for the same true original complete return radius.
@@ -37,7 +37,7 @@ The native input is [J52's complete-level certificate](../../computations/progra
 | --- | --- | --- |
 | [Whole finding](#whole-first-deviation-finding) | [C833 statement](../../claims/Yin_C_G0833_v1.md#statement) | Entire fixed-quartic original-law GD1--GD7 statement, exact minimum, every d>=9 and t>=t0, and unchanged-operator limits. |
 | [Whole finding](#whole-first-deviation-finding) | [C833 complete argument](../../claims/Yin_C_G0833_v1.md#complete-argument) | Entire GD1--GD12: shortest masses, normalization, finite unrolling, nonnegative complete-word partition, chronological excess, complete certificate and all-distance propagation. |
-| [Whole finding](#whole-first-deviation-finding) | [C400 input](../../claims/Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Applicability of the actual quartic strict-strip/core equality; accepted input, without recursively rerunning C399. |
+| [Whole finding](#whole-first-deviation-finding) | [C400 input](../../claims/Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Applicability of the actual quartic strict-strip/core equality; accepted input, without recursively rerunning C396. |
 | [Whole finding](#whole-first-deviation-finding) | [C590 input](../../claims/Yin_C_G0590_v1.md#decision-complete-isolated-whole-adoption) | Actual termination, rho<=d<=A_D rho+B_D and unbounded radii only; no random mean estimate or new whole audit of C590. |
 | [Whole finding](#whole-first-deviation-finding) | [C511 input](../../claims/Yin_C_G0511_v1.md#decision-complete-current-self-adoption) | Complete first-hit interpretation and finite positive interior domain 0<t<R_f; no endpoint assumption. |
 | [Whole finding](#whole-first-deviation-finding) | [C796 input](../../claims/Yin_C_G0796_v1.md#decision-whole-reviewed-2026-10-26) | Same true original return radius R>68883/40000 only; adopted source/native limits unchanged. |

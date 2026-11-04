@@ -7,7 +7,7 @@ author: Yin
 Recorded 2026-10-22T01:20 for human record author Yin.
 The maintaining agent prepared both complete homes after full original proofs, fixed-source/input interfaces and old findings; these two current whole findings are SELF.
 Each exact argument and every original finite/source/negative scope was checked without a new source or native run.
-The older R547/R551 retain their documented direct fixed-proof arrangements and actual dates; this maintenance neither manufactures an additional old isolation event nor audits every old R relationship.
+The older R402/R406 retain their documented direct fixed-proof arrangements and actual dates; this maintenance neither manufactures an additional old isolation event nor audits every old R relationship.
 
 ## Review relationships
 
@@ -22,8 +22,8 @@ The older R547/R551 retain their documented direct fixed-proof arrangements and 
 | --- | --- | --- |
 | [Complete moving-exponent family and raw-Gram theorem](#complete-moving-exponent-whole-self-finding) | [Exact fixed input](../../claims/Yin_C_G0494_v1.md#statement) | ENTIRE exact schedule/actual irreducible family/raw and deflated costs/full original-window Laurent symbol/source and later-result boundaries. |
 | [Complete moving-exponent family and raw-Gram theorem](#complete-moving-exponent-whole-self-finding) | [Exact fixed input](../../claims/Yin_C_G0494_v1.md#argument) | Complete original source account/schedule/eight-block proof/G1--G5/all seven roles/negative and feasibility qualifications, not a summary-only scope. |
-| [Complete moving-exponent family and raw-Gram theorem](#complete-moving-exponent-whole-self-finding) | [Exact fixed input](../literature/MS05/Yin_U001.md#ms05-u001) | Adequate original source-author and separate R547 reviewer version/passage/text-visual records; no new PDF/source-proof inspection. |
-| [Complete moving-exponent family and raw-Gram theorem](#complete-moving-exponent-whole-self-finding) | [Exact fixed input](../literature/RY26/Yin_U001.md#ry26-u001) | Earlier screen/later L402-author/R547-reviewer occurrences and individual construction versus every-large-degree limits. |
+| [Complete moving-exponent family and raw-Gram theorem](#complete-moving-exponent-whole-self-finding) | [Exact fixed input](../literature/MS05/Yin_U001.md#ms05-u001) | Adequate original source-author and separate R402 reviewer version/passage/text-visual records; no new PDF/source-proof inspection. |
+| [Complete moving-exponent family and raw-Gram theorem](#complete-moving-exponent-whole-self-finding) | [Exact fixed input](../literature/RY26/Yin_U001.md#ry26-u001) | Earlier screen/later L402-author/R402-reviewer occurrences and individual construction versus every-large-degree limits. |
 | [Complete moving-exponent family and raw-Gram theorem](#complete-moving-exponent-whole-self-finding) | [Exact fixed input](../../claims/Yin_C_G0160_v1.md#fixed-seed-original-factor-projection) | Complete raw package comparison and same-window positive rank-c correction only; own-upstream review roles preserved. |
 | [Complete moving-exponent family and raw-Gram theorem](#complete-moving-exponent-whole-self-finding) | [Exact fixed input](../../claims/Yin_C_G0171_v1.md#two-block-torus-statement) | Literal later actual-family divergence statement/selected proved decision only, NOT a new whole C171 proof review. |
 | [Complete original common-window and zero-return comparison](#complete-common-window-whole-self-finding) | [Exact fixed input](../../claims/Yin_C_G0495_v1.md#statement) | ENTIRE exact monic integer/original-law bridge, same-input growing energy and zero return/posterior, all chronological/source/negative scope. |
@@ -38,7 +38,7 @@ The older R547/R551 retain their documented direct fixed-proof arrangements and 
 <a id="complete-moving-exponent-whole-self-finding"></a>
 ## Complete moving-exponent family and raw-Gram theorem evidence
 
-The current maintaining agent read the complete original L402 body, all seven fixed-input rows and ENTIRE R547, both sufficient source units and the actual C160 raw/coercivity/support/rank-correction proofs, C158 projection conventions and L321 exact coefficient proof before supplying C494.
+The current maintaining agent read the complete original L402 body, all seven fixed-input rows and ENTIRE R402, both sufficient source units and the actual C160 raw/coercivity/support/rank-correction proofs, C158 projection conventions and L321 exact coefficient proof before supplying C494.
 It then read the actually published open C494 Statement and complete Argument.
 Its own construction and original-proof exposure make this entire current relationship SELF.
 
@@ -65,9 +65,9 @@ The original later joint-symbol question is retained as dated history.
 The literal C171 exact actual-family statement and selected proved decision were separately inspected: it later supplies raw/original coherence divergence, not by the failed separate bounds here.
 That comparison does not re-audit C171's whole proof or enlarge its fixed-positive-measure result to near-one inputs.
 
-R547's entire original22:10 finding and fifteen bindings remain its actual fixed L402/source/rank scope.
+R402's entire original 2026-10-18T14:10 finding and fifteen bindings remain its actual fixed L402/source/rank scope.
 It explicitly records reading the fixed candidate before other inputs, no target derivation by the reviewer and a separate own-upstream-C160 role; nonblind wording and upstream authorship alone do not decide target SELF or create a missing-event audit.
-This current SELF does not backdate an additional isolated old finding or claim R547 read C494.
+This current SELF does not backdate an additional isolated old finding or claim R402 read C494.
 Original author entropy_attainment_bridge supplied schedule/symbolic deductions; root supplied same-window rank/joint-question contributions, with no invented separately timed whole author-check event.
 The distinct MS05 original author/reviewer and RY26 earlier-screen/later-author/reviewer reading occurrences, exact v2/v1 versions, printed/PDF/visual depths and unknown individual minutes are retained at their existing units.
 No new source/PDF passage, acquisition, prime run, native/J, parameter scan, proof repair or research Task/E occurs.
@@ -76,7 +76,7 @@ No substantive defect or missing hypothesis was found in the ENTIRE exact curren
 <a id="complete-common-window-whole-self-finding"></a>
 ## Complete original common-window and zero-return comparison evidence
 
-The maintaining agent read the entire original L403 proof and thirteen input rows and ENTIRE R551, the complete new C494 family, sufficient C226 monic kernel/C436 exact original partition and covariance/C287 posterior-time/C168 bounded-energy/C301 weighted-fiber/C286 actual-dominance passages, and the exact retained L282/L353/L306 comparison proofs.
+The maintaining agent read the entire original L403 proof and thirteen input rows and ENTIRE R406, the complete new C494 family, sufficient C226 monic kernel/C436 exact original partition and covariance/C287 posterior-time/C168 bounded-energy/C300 weighted-fiber/C285 actual-dominance passages, and the exact retained L282/L353/L306 comparison proofs.
 It supplied C495 and then checked the actually published open Statement and all retained Argument.
 The current whole relationship is SELF, not isolated development-free reconstruction.
 
@@ -102,8 +102,8 @@ It does not say the error attains that upper bound or exchange growing input wit
 C287's necessary Shannon cost retains0<delta<log2 and exact k>=1/2+d/(4delta), not sufficient mixing or return diffusion.
 The comparison refutes only the displayed unconditional bridge inference and preserves all stronger small-measure/fiber-mass possibilities.
 
-Original R55122:40/full thirteen-role finding and twenty-two bindings remain at the actual fixed L403/input scope.
-The reviewer's prior pointers contributed no new target derivation; its own C168 theorem is a separately accepted input whose R548 evidence is reused rather than claimed to have been independently re-proved by its author.
+Original R406 2026-10-18T14:40/full thirteen-role finding and twenty-two bindings remain at the actual fixed L403/input scope.
+The reviewer's prior pointers contributed no new target derivation; its own C168 theorem is a separately accepted input whose R403 evidence is reused rather than claimed to have been independently re-proved by its author.
 Its direct fixed-candidate-first inspection and all source/nonexecution limits remain as recorded, without converting nonblind wording to SELF or manufacturing an additional old isolated event.
 The entropy_attainment_bridge author and root's proposed coordinate interface are preserved; no missing historical whole-author event or checking minute is invented.
 No current C home is backdated as an old input.

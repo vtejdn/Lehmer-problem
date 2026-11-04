@@ -6,13 +6,13 @@ author: Yin
 Date: 2026-10-12T12:27.
 Human record author Yin.
 The rounding-recovery AI reviews C66 as a NONCONTRIBUTOR to g0001_routes' D20 proof and C66 wrapper.
-Root supplied the original whole noncontributor finding R380; that finding is consulted at its exact original scope and does not itself inspect this new wrapper.
+Root supplied the original whole noncontributor finding R285; that finding is consulted at its exact original scope and does not itself inspect this new wrapper.
 This separately organized actual extraction review is internal AI checking, not external human refereeing, source-original proof audit or formal verification.
 
 ## Actual scope and preservation
 
 The reviewer read the ENTIRE C66 new A--D statement, initial assessment/relations, preservation/contribution account and retained complete20:09 D20 Sections1--7/equations1--17, including its allocation/candidate history, exact hand controls, original norms/weights/width, accepted-input limits and freeze.
-The actual D20 source and R380 whole finding were read.
+The actual D20 source and R285 whole finding were read.
 Prior whole coverage was consulted before the present verdict as appropriate to this actual extraction review; every new interface and inference was separately reconstructed below.
 The same-target whole finding came from a different reviewer and was read before the initial extraction judgment.
 The present finding is therefore self-reviewed under the shared-context rule; separate assignment and noncontribution do not remove that supplied proof-review context.
@@ -37,7 +37,7 @@ No label multiplicity, signed norm, logarithm premise, source boundary, hand con
 | --- | --- | --- |
 | [Actual C66 extraction finding](#c66-sign-product-actual-extraction-finding) | [Registered statement](../../claims/Yin_C_G0066_v1.md#statement) | ENTIRE A--D: all indexed labels/nonvanishing/physical width, exact norm-copy gate, all-input deficit, sourced small-measure total budget/height and legal rational rescaling/denominator limits. |
 | [Actual C66 extraction finding](#c66-sign-product-actual-extraction-finding) | [Complete retained argument](../../claims/Yin_C_G0066_v1.md#argument) | ENTIRE original20:09 D20 allocation/reuse/history, Sections1--7/equations1--17, all exact hand controls, source/contribution limits and author freeze; actual preservation and wrapper interfaces. |
-| [Actual C66 extraction finding](#c66-sign-product-actual-extraction-finding) | [Preservation and roles](../../claims/Yin_C_G0066_v1.md#registration-and-complete-preservation) | Actual body equality, original author/wrapper contribution, R380 original-only support and separate adoption. |
+| [Actual C66 extraction finding](#c66-sign-product-actual-extraction-finding) | [Preservation and roles](../../claims/Yin_C_G0066_v1.md#registration-and-complete-preservation) | Actual body equality, original author/wrapper contribution, R285 original-only support and separate adoption. |
 | [Actual C66 extraction finding](#c66-sign-product-actual-extraction-finding) | [Original source freeze](../../claims/Yin_C_G0066_v1.md#biased-sign-product-entire-author-freeze) | Actual complete source used for preservation comparison; no later source change covered. |
 | [Actual C66 extraction finding](#c66-sign-product-actual-extraction-finding) | [Exact packet and gate](../../claims/Yin_C_G0066_v1.md#biased-sign-product-exact-packet) | Every2^r indexed sign label, full signed norm multiplicities2^(r-1), all lags and exact integer-resultant iff gate, repeated frequencies and per-width rate. |
 | [Actual C66 extraction finding](#c66-sign-product-actual-extraction-finding) | [Original-root deficit](../../claims/Yin_C_G0066_v1.md#biased-sign-product-original-root-deficit) | Degree2h, negative autocorrelation, full radial factors, L_j>0, Jensen1/4 factor and necessary-only spectral test. |
@@ -128,7 +128,7 @@ The scoped material check follows; root retains E, adoption and manual R-index m
 ## Verdict
 
 PASS for the ACTUAL C66 statement, entire retained proof, preservation and every bound interface.
-R380 remains original whole evidence only; this is the separate actual extraction finding.
+R285 remains original whole evidence only; this is the separate actual extraction finding.
 It does not adopt C66, retire D20, supply positive income for the high-bias remainder, extend to nonfactorized/nonproduct packets or complete unrestricted G0001.
 
 ## Dated literal-encoding correction in physical v2

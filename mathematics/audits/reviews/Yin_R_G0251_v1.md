@@ -28,12 +28,16 @@ Root corrected that scope, preserved the original sentence and objection, and is
 The reviewer inspected the actual changed Section5 and new correction/history/freeze, rechecked the affected asymptotic implication, and retained the completed whole-proof findings for the unchanged formulas and interfaces.
 This is an author correction following independent review, with the initial finding preserved rather than overwritten.
 
+The initial complete C48 input included the author outcome and validation summary; both the finite-scale objection and corrected whole finding continue that same supplied context.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Initial finite-scale objection](#positive-margin-initial-objection) | independently reviewed |
-| [Corrected whole finding](#positive-margin-corrected-whole-finding) | independently reviewed |
+| [Initial finite-scale objection](#positive-margin-initial-objection) | self-reviewed |
+| [Corrected whole finding](#positive-margin-corrected-whole-finding) | self-reviewed |
 
 ## Review bindings
 

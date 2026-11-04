@@ -9,7 +9,7 @@ Human operator: Yin.
 The checking agent read all307original L185 lines, all97original R84 lines, the entire actual C440v1/C440v2 and the complete McM02-U001/source entrance and J32 verifier/result.
 The v2 makes the existing strict-upper squared energy and inverse notation explicit and selects the exact mutation input separately from cover factorization.
 Its entire mathematical argument is identical to v1.
-It retained the exact complete C2 action/cover and C441v2 isolated-neutral-cycle interfaces.
+It retained the exact complete C2 action/cover and C437v2 isolated-neutral-cycle interfaces.
 It rederived every general singular-kernel/Perron/root and all-parameter Schur/mutation/cost/adjacency step below.
 It statically read all J32 code and every saved mathematical field, including all60input rows, without executing it.
 The agent authored the current Claim, inherited substantive target context and read the old findings, so this whole current check is SELF.

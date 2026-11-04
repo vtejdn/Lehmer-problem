@@ -453,7 +453,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T09:46 |
 | status | proved |
-| reason | Adopt R488 actual noncontributor whole review. The exact two-node value/derivative contradiction gives product collapse throughout C131's two-condition range without an additional km premise. The inverse-measure count consequence alone uses the accepted Dobrowolski benchmark. All original costs and full-factor controls remain; larger-count or different Gram constructions and the unrestricted goal are open. |
+| reason | Adopt [R798 original two-node](../audits/reviews/Yin_R_G0798_v1.md#two-node-whole-independent-finding) actual noncontributor whole review. The exact two-node value/derivative contradiction gives product collapse throughout C131's two-condition range without an additional km premise. The inverse-measure count consequence alone uses the accepted Dobrowolski benchmark. All original costs and full-factor controls remain; larger-count or different Gram constructions and the unrestricted goal are open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

@@ -8,7 +8,7 @@ Human record author Yin.
 Root assigned entropy_attainment_bridge to review the complete constant positive definite extension authored by root and loglog_cyclic_review.
 The reviewer supplied no proof step, repair or mathematical edit to that extension.
 The arrangement is non-blind: the reviewer read the complete D36 appendix, then reread the actual fixed L401 statement, proof and qualifications.
-The earlier R541 review of C157v3 was a separate noncontributor review, not authorship of this new determinant argument.
+The earlier R396 review of C157v3 was a separate noncontributor review, not authorship of this new determinant argument.
 The reviewer's contribution to the distinct signed C167 family is not used as a premise here.
 
 The review reads the complete J102 analytic reduction and R397's actual whole finding, together with the retained native certificate balls and their original-input/scalar metadata.

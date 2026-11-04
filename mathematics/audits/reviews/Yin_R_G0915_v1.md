@@ -8,7 +8,7 @@ Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of C694 and its primary ideal, next-error formula and factor condition.
 This is its first whole review of fixed C694 v1, covering the full statement NP1--NP7 and all four proof sections NP2--NP5 with formulas NP8--NP16.
 The actual fixed target and every directly selected fixed input were read before the finding was formed.
-The reviewer's own [C705 finding](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding), [C718 finding](Yin_R_G0907_v1.md#whole-high-power-simultaneous-mod-eight-finding) and [C722 finding](Yin_R_G0912_v1.md#whole-mod-sixteen-all-lift-finding) were reused only at directly matched unchanged interface and boundary scopes.
+The reviewer's own [C675 finding](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding), [C686 finding](Yin_R_G0907_v1.md#whole-high-power-simultaneous-mod-eight-finding) and [C689 finding](Yin_R_G0912_v1.md#whole-mod-sixteen-all-lift-finding) were reused only at directly matched unchanged interface and boundary scopes.
 The new ideal argument, all local integer powers and halves, complete second eighth and sufficient-factor calculation were independently rebuilt.
 No D35 or other draft, author development dialogue or summary, candidate derivation, other-agent inventory, native output or another reviewer's R was read.
 No native computation, coefficient enumeration or external source acquisition was used.

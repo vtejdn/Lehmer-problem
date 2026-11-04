@@ -35,7 +35,7 @@ Those assertions were read as objects requiring verification, not adopted prior-
 At2026-10-21T23:09 the agent retained its first mathematical findings in session memory, with no filesystem write under the then-active HOLD.
 C473's complete algebraic chain and C474's complete probabilistic chain had no identified gap.
 C476's descent, strict-boundary and fixed-interface assembly had no identified gap, while its actual finite native certificates were explicitly still outstanding.
-Only afterwards did the agent read C476 Section5, the complete old R96/R97/R98 findings, and complete current R828/R830/R832 findings, and perform the comparison and native check below.
+Only afterwards did the agent read C476 Section5, the complete old R96/R97/R98 findings, and complete current R681/R683/R685 findings, and perform the comparison and native check below.
 No old PASS was used to establish those initial findings.
 
 ## Review relationships
@@ -269,7 +269,7 @@ The current execution neither changes the original native execution date nor add
 
 ## Complete old-finding comparison and source boundary
 
-The entire original R96, R97 and R98 accounts and entire current R828, R830 and R832 accounts were read after the initial findings.
+The entire original R96, R97 and R98 accounts and entire current R681, R683 and R685 accounts were read after the initial findings.
 Their whole mathematical, actual-input, contribution, source, native, negative and control scopes were compared, not merely their conclusions.
 The corresponding original L197/L198/L199 mathematical bodies were compared line-by-line against these current C bodies.
 The displayed differences are only the directly inspected same-object fixed C homes and their link descriptions.
@@ -304,11 +304,11 @@ The two original author verifier runs remain distinct hull and compact obligatio
 The old final pass concerns the amended fixed-input D63 and both finite obligations, not a stronger claim that every intermediate digit state lies in I.
 The [original targeted wording finding](Yin_R_G0098_v1.md#degree-six-original-ideal-wording-reread-finding) remains narrow SELF at available2026-10-10 day precision: the same reviewer supplied beta*a-1's residue1 countercheck and the completed-block/endpoint explanation, the author amended the sentence and that reviewer checked the clarified interface.
 The amended-author-prefix assertion records that original D63 checkpoint; the completed-block descent was already sufficient, so this was no mathematical repair or second whole-chain review.
-The present original-domain11.844second execution at2026-10-21T23:11, all-field native agreement and12 unchanged inputs are a separate later checking event; they do not replace the old execution/date or the earlier R832 whole SELF/no-new-run scope.
-The actual current C476 adoption of this new whole finding is2026-10-21T23:26, distinct from its06:56 adoption after R832 SELF and the original L199 adoption after the old R98 check.
+The present original-domain11.844second execution at 2026-10-21T23:11, all-field native agreement and12 unchanged inputs are a separate later checking event; they do not replace the old execution/date or the earlier R685 whole SELF/no-new-run scope.
+The actual current C476 adoption of this new whole finding is 2026-10-21T23:26, distinct from its06:56 adoption after R685 SELF and the original L199 adoption after the old R98 check.
 General Salem termination, varying-input uniform costs, original-law average/weighted tails and the unrestricted gap remain open; historical active/pending wording grants no present Task/E authority.
 
-The original R828/R830/R832 current whole checks remain actual SELF checks by their Claim-authoring/context-sharing agent.
+The original R681/R683/R685 current whole checks remain actual SELF checks by their Claim-authoring/context-sharing agent.
 Their whole coverage does not establish the old reviewer's missing isolation.
 This new isolated inspection supplies actual present evidence for the three complete canonical inputs without retroactively promoting any earlier relationship or false-version verdict.
 

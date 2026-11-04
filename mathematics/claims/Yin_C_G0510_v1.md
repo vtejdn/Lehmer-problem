@@ -490,7 +490,7 @@ No further discovery is included after this freeze.
 | --- | --- |
 | date | 2026-10-22T03:24 |
 | status | proved |
-| reason | Adopt the complete universal proper-sextic theorem and signed-unit/full-cost proof after actual entire Statement/Argument/native-code-and-record inspection under its explicit whole SELF finding. Adequate original exact finite evidence and R178 independent inspection are reused at their actual original scope; no new native execution or isolated current review is invented. All rank/parity/zero-factor/neutral-cost/source and Task/E limits remain. |
+| reason | Adopt the complete universal proper-sextic theorem and signed-unit/full-cost proof after actual entire Statement/Argument/native-code-and-record inspection under its explicit whole SELF finding. Adequate original exact finite evidence and R132 independent inspection are reused at their actual original scope; no new native execution or isolated current review is invented. All rank/parity/zero-factor/neutral-cost/source and Task/E limits remain. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

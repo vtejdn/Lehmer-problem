@@ -18,11 +18,16 @@ This recheck read the actual whole corrected body, every FINAL M use and the pre
 R273 remains negative at its original scope.
 This is cumulative actual corrected-whole coverage, not approval of a future Claim.
 
+This corrected whole finding continues R273's supplied author-validation context while rechecking the actual correction.
+Its cumulative mathematical coverage does not establish an isolated initial arrangement.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Corrected whole finding](#all-subset-corrected-whole-finding) | independently reviewed |
+| [Corrected whole finding](#all-subset-corrected-whole-finding) | self-reviewed |
 
 ## Review bindings
 

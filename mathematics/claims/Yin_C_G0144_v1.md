@@ -333,7 +333,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-23T00:52 |
 | status | proved |
-| reason | Select the newly performed isolated whole review of this exact fixed statement, complete argument and all selected input interfaces at their stated restricted scopes. Preserve the proved mathematical status, unchanged statement and argument, every nonreview relation and scope, and all historical decisions. The retained older unknown finding keeps its actual date, checks and limits; this new finding supplies new evidence at its actual date without certifying old isolation, backdating adoption, or completing or resuming G0001. |
+| reason | Select the newly performed whole finding on this exact fixed statement, complete argument and all selected input interfaces at their stated restricted scopes, with its actual self-reviewed relationship. Preserve the proved mathematical status, unchanged statement and argument, every nonreview relation and scope, and all historical decisions. The retained older unknown finding keeps its actual date, checks and limits; this new finding supplies new evidence at its actual date without certifying old isolation, backdating adoption, or completing or resuming G0001. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -341,7 +341,7 @@ The recorded review description was `under review`.
 | argument | [Complete argument](#argument) | Whole Sections1--7 and12 formulas, with full source, reuse and contribution scope. |
 | dependency | [Accepted cyclotomic inputs](../audits/literature/Bel17/Yin_U001.md#bel17-u001) | Monic irreducibility/degree, full integer power basis and Phi_h(1) at non-prime-powers; source-proof limits explicit. |
 | dependency | [Prime reciprocal divergence](Yin_C_G0220_v1.md#discriminant-divergence) | Only the elementary finite Euler-product existence argument, not its separate discriminant conclusion. |
-| review | [New isolated whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0144-m04-isolated-whole-finding) | Complete exact fixed statement, whole argument, every selected input, all parameter/domain/original-degree costs, exceptional branches and source/noncompletion limits. |
+| review | [New whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0144-m04-isolated-whole-finding) | Complete exact fixed statement, whole argument, every selected input, all parameter/domain/original-degree costs, exceptional branches and source/noncompletion limits. Finding relationship: self-reviewed. |
 
 ## Historical assessments
 
@@ -362,4 +362,4 @@ The recorded review description was `under review`.
 | argument | [Complete argument](#argument) | Whole Sections1--7 and12 formulas, with full source, reuse and contribution scope. |
 | dependency | [Accepted cyclotomic inputs](../audits/literature/Bel17/Yin_U001.md#bel17-u001) | Monic irreducibility/degree, full integer power basis and Phi_h(1) at non-prime-powers; source-proof limits explicit. |
 | dependency | [Prime reciprocal divergence](../ledger/Yin_L_G0017_v1.md#discriminant-divergence) | Only the elementary finite Euler-product existence argument, not its separate discriminant conclusion. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0801_v1.md#cyclotomic-sparse-control-whole-independent-finding) | Whole actual argument, both direct inputs, every characteristic and denominator depth, full original norm/trace and all fixed-parameter torsion limits. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0801_v1.md#cyclotomic-sparse-control-whole-independent-finding) | Whole actual argument, both direct inputs, every characteristic and denominator depth, full original norm/trace and all fixed-parameter torsion limits. Referenced finding relationship: unknown. |

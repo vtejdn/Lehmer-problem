@@ -8,9 +8,9 @@ Human record author Yin.
 The entropy_attainment_bridge AI was separately assigned the entire fixed C157v3 statement, argument and declarations selected by its initial decision dated2026-10-18T13:15.
 Root and angular_envelope_review developed the new proof; this reviewer did not supply its construction, norm cases, sharpness example, numerator or repairs.
 The arrangement is non-blind: root supplied the intended theorem and review obligations, the reviewer read the complete author D46 after it was declared complete, and then read the actual frozen C157v3 in full.
-The reviewer also read the actual accepted C157v2/R523 account and every direct dependency/support interface listed in the frozen initial decision.
+The reviewer also read the actual accepted C157v2/R378 account and every direct dependency/support interface listed in the frozen initial decision.
 Previous G0001 author/source work concerns different objects and supplies no claim of independence for those contributed objects.
-This reviewer previously performed J101's independent finite check retained in R535; that existing finite result is reused at its stated scope, not rerun or presented as newly independently verified here.
+This reviewer previously performed J101's independent finite check retained in R390; that existing finite result is reused at its stated scope, not rerun or presented as newly independently verified here.
 No numerical calculation, J102 execution, Claim adoption or Task/execution/strategy mutation is part of this finding.
 
 ## Review relationships
@@ -30,8 +30,8 @@ No numerical calculation, J102 execution, Claim adoption or Task/execution/strat
 | [Whole rational two-shear finding](#rational-two-shear-whole-independent-finding) | [C149 numerator formulas](../../claims/Yin_C_G0149_v1.md#original-polynomials-and-norms) | Three unreduced H numerators, coefficients72/800/30375, degrees6d/10d/15d and leading coefficients1/11/7; local reciprocal alignment rechecked. |
 | [Whole rational two-shear finding](#rational-two-shear-whole-independent-finding) | [F109 scalar Jensen normalization](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-normalization) | Full nonmonic/Laurent scalar formula, all root multiplicities and finite-order circle zeros; no optimizer or other F109 conclusion. |
 | [Whole rational two-shear finding](#rational-two-shear-whole-independent-finding) | [C157v2 old subfamily](../../claims/Yin_C_G0157_v2.md#statement) | Its integer arithmetic theorem and complete real-parameter circle screens are retained exactly at t=0,b=2q, including q<1 as a separate circle domain. |
-| [Whole rational two-shear finding](#rational-two-shear-whole-independent-finding) | [J100 existing result](../../computations/programs/Yin_J_G0100/readme.md#certified-results) | Old quartic all-parameter exclusion and limited Lehmer component screen; comparison-only reuse at its existing R524 scope, with no numerical rerun or new-family inference. |
-| [Whole rational two-shear finding](#rational-two-shear-whole-independent-finding) | [J101 existing result](../../computations/programs/Yin_J_G0101/readme.md#certified-results) | Old Lehmer two-set closure at its existing R535 scope; no inference for independently moving F_0/G+t or fixed independent b. |
+| [Whole rational two-shear finding](#rational-two-shear-whole-independent-finding) | [J100 existing result](../../computations/programs/Yin_J_G0100/readme.md#certified-results) | Old quartic all-parameter exclusion and limited Lehmer component screen; comparison-only reuse at its existing R379 scope, with no numerical rerun or new-family inference. |
+| [Whole rational two-shear finding](#rational-two-shear-whole-independent-finding) | [J101 existing result](../../computations/programs/Yin_J_G0101/readme.md#certified-results) | Old Lehmer two-set closure at its existing R390 scope; no inference for independently moving F_0/G+t or fixed independent b. |
 | [Whole rational two-shear finding](#rational-two-shear-whole-independent-finding) | [C140 sparse-transfer statement](../../claims/Yin_C_G0140_v1.md#statement) | Comparison only: actual integral normalized value, uniform term count and normalized coefficient budget are not supplied by the new norm-only gate. |
 
 <a id="rational-two-shear-whole-independent-finding"></a>

@@ -252,7 +252,7 @@ The unrestricted Mahler-gap question, automatic near-one arithmetic coverage and
 Root contributed the substantive stronger-source substitution and the direction toward a full parameter family.
 The assigned author independently checked the actual source statement and C147v2 interfaces, chose and derived(1),(6)--(8), the common-window conversion(10)--(12), finite inverse(13)--(15), and exact limits/comparison(16).
 Both are contributors to the resulting combination and neither can independently whole-review it.
-The author's previous R505 independent review of C147v2 remains at that older proof; it is not independent review of this new author argument.
+The author's previous R361 independent review of C147v2 remains at that older proof; it is not independent review of this new author argument.
 
 
 
@@ -322,5 +322,5 @@ The recorded review description was `independently reviewed`.
 | dependency | [Adopted finite energy bound](Yin_C_G0147_v2.md#statement) | ONLY finite equation(1) for all T>=1,R>=2 and positive regularization radius, with original norm and actual powered degree; its house-only quarter-power conversion is not required. |
 | dependency | [Rank-one classical height input](../audits/literature/AM16/Yin_U002.md#am16-u002) | ONLY K=Q,r=1: each fixed eta gives positive C(eta) in h>=C(eta)N^(-1-eta), at actual powered degree; no numerical value, effectiveness or eta-to-zero uniformity is imported. |
 | support | [Earlier explicit quarter-power bound](Yin_C_G0147_v2.md#explicit-quarter-power-modulus) | Same complete norm and small-height comparison with constant4, retained independently of the source-constant-dependent new family. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0363_v1.md#near-half-power-family-whole-independent-finding) | Complete six sections and sixteen formulas, exact finite v2 input and AM16 rank-one use, all parameter/income windows and source-constant limits; earlier review and contribution relationships are disclosed. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0363_v1.md#near-half-power-family-whole-independent-finding) | Complete six sections and sixteen formulas, exact finite v2 input and AM16 rank-one use, all parameter/income windows and source-constant limits; earlier review and contribution relationships are disclosed. Finding relationship: self-reviewed. |
 

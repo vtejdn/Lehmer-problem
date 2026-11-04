@@ -6,14 +6,14 @@ author: Yin
 
 The complete necessary original D74 proof is retained from [L208](../ledger/Yin_L_G0208_v1.md#retained-stationary-fourier-proof).
 The structural_research author supplied the new density, finite-character, escape and cosine arguments; the coordinator supplied the route assignment and allocations only.
-The [complete original R726 whole and correction account](../audits/reviews/Yin_R_G0726_v1.md#original-stationary-fourier-review-account) retains its 2026-10-09T20:08 completion and full proof, program, negative and correction scopes.
+The [complete original R107 whole and correction account retained in R726](../audits/reviews/Yin_R_G0726_v1.md#original-stationary-fourier-review-account) retains its 2026-10-09T20:08 completion and full proof, program, negative and correction scopes.
 Actual additional shared/proposed target mathematical contents and initial order are not established, so its justified whole relationship remains UNKNOWN; earlier fixed dependency roles do not decide this target relationship.
 The [complete original author checks](../audits/reviews/Yin_R_G0726_v1.md#stationary-fourier-original-author-check-finding) remain separately SELF at their original 2026-10-10 day precision.
 The original nonblocking arithmetic-type discrepancy and its final closure are distinct from a mathematical proof gap or proof-mechanism repair.
 This retention maintenance performs no source/PDF reading, adopts no new source theorem and runs no producer, checker, research Task/E or exploration.
 
-The currently selected [whole independent finding R726](../audits/reviews/Yin_R_G0726_v1.md#current-stationary-fourier-whole-independent-finding) records the independent mathematical initial finding at 12:20, completion of the whole and original-account comparison at 12:28, publication at 12:46 and actual adoption at 2026-10-22T04:51.
-The earlier R710 whole SELF at 09:56 and C501's adoption at 09:57 retain their actual scope and chronology; R726 separately records its authorized existing-checker replay.
+The currently selected [whole independent finding R726](../audits/reviews/Yin_R_G0726_v1.md#current-stationary-fourier-whole-independent-finding) records the independent mathematical initial finding at 2026-10-22T04:20, completion of the whole and original-account comparison at 2026-10-22T04:28, publication at 2026-10-22T04:46 and actual adoption at 2026-10-22T04:51.
+The earlier R710 whole SELF at 2026-10-22T01:56 and C501's adoption at 2026-10-22T01:57 retain their actual scope and chronology; R726 separately records its authorized existing-checker replay.
 
 ## Statement
 
@@ -158,7 +158,7 @@ No proof-mechanism repair, general Salem full-core theorem, arbitrary irrational
 | --- | --- |
 | date | 2026-10-22T04:51 |
 | status | proved |
-| reason | Adopt the complete unchanged C501 Statement and Argument through R726 after its actual fresh-context initial finding at12:20, whole historical comparison completed12:28 and publication12:46. All exact finite-character, escape, positive cosine/killing/log-sum/coboundary and rooted-information scopes were wholly inspected. The original type negative, parity correction, unchanged mathematical payload, complete author SELF and UNKNOWN historical arrangement remain explicit. R726 records the sole authorized existing-checker replay at its original domain, with no file mutations, producer search or new independent implementation. Existing mathematics, other selected inputs and every earlier decision remain unchanged; the old09:56/09:57 SELF events are not rewritten. |
+| reason | Adopt the complete unchanged C501 Statement and Argument through R726 after its actual fresh-context initial finding at 2026-10-22T04:20, whole historical comparison completed 2026-10-22T04:28 and publication 2026-10-22T04:46. All exact finite-character, escape, positive cosine/killing/log-sum/coboundary and rooted-information scopes were wholly inspected. The original type negative, parity correction, unchanged mathematical payload, complete author SELF and UNKNOWN historical arrangement remain explicit. R726 records the sole authorized existing-checker replay at its original domain, with no file mutations, producer search or new independent implementation. Existing mathematics, other selected inputs and every earlier decision remain unchanged; the old 2026-10-22T01:56/2026-10-22T01:57 SELF events are not rewritten. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

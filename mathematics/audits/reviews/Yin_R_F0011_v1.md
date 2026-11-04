@@ -4,6 +4,9 @@ author: Yin
 
 # Isolated reviews of correlated normal transfer, finite q tests and original soft-inverse proofs
 
+The actual retained finding and bindings below concern the fixed L_G0286 hyperbolic-tail argument.
+The original combined assignment also inspected former C_F0100/C_F0169--C_F0171, but their complete fixed proof homes are not located in the current retained F-family collection; the review summaries do not replace those original proofs or identify current same-number Claims.
+
 ## Arrangement and actual input sequence
 
 Human record author: Yin.

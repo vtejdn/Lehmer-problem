@@ -45,7 +45,7 @@ It contains no mathematical correction.
 This resolves that concrete version concern at the inspected scope; it is not a search claim that no other criticism exists.
 Its actual HTML acquisition failed with HTTP 403, and no local AM16b artifact was retained.
 
-The [actual postprint](../../../literature/pdf/AM16--author-postprint.pdf) preserve the selected edition.
+The [actual postprint](../../../literature/pdf/AM16--author-postprint.pdf) preserves the selected edition.
 It has no printed contents list.
 The author URL's redirect-limit failure is not a second retained version.
 Any project fixed-prime argument restricted to original Galois fields is a refinement or method comparison inside this already covered class, not newly established gap coverage; a new non-Galois extension requires its own full proof and degree accounting.

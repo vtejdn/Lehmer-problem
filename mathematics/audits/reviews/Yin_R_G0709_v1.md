@@ -32,7 +32,7 @@ author: Yin
 ## Current entire column and exact-rank inspection
 
 Date: 2026-10-22T01:29.
-The maintaining agent supplied complete C498 after the only whole L275 version/ENTIRE R174, every sufficient fixed mathematical interface and the original/current Par88 units, so this ENTIRE finding is SELF.
+The maintaining agent supplied complete C498 after the only whole L275 version and ENTIRE original R174 account retained in [R717](Yin_R_G0717_v1.md#l275-and-r174), every sufficient fixed mathematical interface and the original/current Par88 units, so this ENTIRE finding is SELF.
 The actually published Statement and entire original seven sections/23equations/starting-source-contribution/model-actual/self-check/finite-infinite/negative scope were checked, not only a conditional summary.
 
 The whole-law input expands the ACTUAL reverse entropy chain; its true conditionals differ from normalized one-square factors.

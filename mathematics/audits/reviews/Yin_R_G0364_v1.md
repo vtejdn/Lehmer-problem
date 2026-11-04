@@ -11,10 +11,10 @@ This reviewer provided only a preceding READ-ONLY locator of already accepted nu
 
 The arrangement is not blind.
 Shared G0001 context, root's assignment and the retained author check were available.
-The reviewer was an author of OLD C134, which contains the accepted numerical source consequence, and previously reviewed C147v3 as R507.
-C134's source theorem/conversion is inherited with its existing independent R488; this review does not reclassify the reviewer's own old proof as newly independently reviewed.
+The reviewer was an author of OLD C134, which contains the accepted numerical source consequence, and previously reviewed C147v3 as R363.
+C134's source theorem/conversion is inherited with its existing independent [R798 original two-node](Yin_R_G0798_v1.md#two-node-whole-independent-finding); this review does not reclassify the reviewer's own old proof as newly independently reviewed.
 Prior C147v2/R361 is reused only at its finite-energy scope.
-The actual v4 was read in full, every new calculation was reconstructed, and the exact C134(18), R488 source finding, Smy08-U001, L80 and finite C147v2 interfaces were checked.
+The actual v4 was read in full, every new calculation was reconstructed, and the exact C134(18), [R798 original two-node](Yin_R_G0798_v1.md#two-node-whole-independent-finding) source finding, Smy08-U001, L80 and finite C147v2 interfaces were checked.
 The unchanged Smy08 PDF equation(11) was directly text-read during the immediately preceding read-only source screen, not its original Dobrowolski proof.
 No new source, program, J, formal verification or author correction was used.
 
@@ -22,11 +22,15 @@ This is a whole noncontributor review of the new v4 argument and its use of acce
 It is not a new original-source proof audit, a new numerical Voutier acceptance, or a completion review of G0001.
 The reviewer has not modified the fixed Claim, source units or shared execution/strategy records.
 
+The initial C147 v4 input included its author whole-candidate validation conclusion beyond the necessary proof.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | independently reviewed |
+| [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -37,12 +41,12 @@ The reviewer has not modified the fixed Claim, source units or shared execution/
 | [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [C147v2 finite energy statement](../../claims/Yin_C_G0147_v2.md#statement) | ONLY finite equation(1) for all T>=1,R>=2,rho>0, full original norm and actual N, before its old house-only final conversion. |
 | [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [C147v2 finite source interface](../../claims/Yin_C_G0147_v2.md#direct-pri11-energy-application) | Exact finite discrepancy/energy formula and original d/N norm repetition; no N>=55 condition or unpriced noncompact test. |
 | [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [C134 numerical source consequence](../../claims/Yin_C_G0134_v1.md#two-node-degree-and-inverse-measure-scales) | ONLY equation(18), general external Dobrowolski benchmark converted to total m for N>=exp(e); existing acceptance, not a new independent re-review of this reviewer's old C134 proof or its Salem theorem. |
-| [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [Smy08 accepted source scope](../literature/Smy08/Yin_U001.md#smy08-u001) | Exact retained equation(11) for nonzero nontorsion algebraic integers, constant1/1200 for M, with the numerical reading/converted form recorded in C134/R488. Original proof and defective resultant explanation not imported. |
+| [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [Smy08 accepted source scope](../literature/Smy08/Yin_U001.md#smy08-u001) | Exact retained equation(11) for nonzero nontorsion algebraic integers, constant1/1200 for M, with the numerical reading/converted form recorded in C134/[R798 original two-node](Yin_R_G0798_v1.md#two-node-whole-independent-finding). Original proof and defective resultant explanation not imported. |
 | [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [L80 small-degree house consequence](../../ledger/Yin_L_G0080_v1.md#degree-only-primitive-escape) | ONLY m(beta)>=c/N for actual nontorsion integer-unit N>=2, hence h>=c/N^2; used solely to exclude N<exp(e) at the chosen cutoff. |
 | [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [Exact inherited house source](../literature/Smy08/Yin_U001.md#smy08-house) | Retained Dim19-v1 statement/applicability boundary and c=log2/4; no later edition or original source-proof audit. |
 | [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [R798 old quantitative source check](Yin_R_G0798_v1.md#two-node-whole-independent-finding) | Independent source reading and the accepted C134(18) conversion at its precise old scope; not a review already covering the new degree split or cyclic theorem. |
 | [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [Earlier parameter family](../../claims/Yin_C_G0147_v3.md#statement) | Comparison with each FIXED q,K and old finite domains, not an AM16 premise for the numerical estimate. |
-| [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [R361 finite-energy review](Yin_R_G0361_v1.md#planar-energy-whole-independent-finding) | Inherited actual independent acceptance of the v2 finite formula and source limits; not whole coverage of v4. |
+| [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [R361 finite-energy review](Yin_R_G0361_v1.md#planar-energy-whole-independent-finding) | Inherited actual acceptance of the v2 finite formula and source limits; not whole coverage of v4. Referenced finding relationship: self-reviewed. |
 | [Actual whole finding](#explicit-square-root-cyclic-whole-independent-finding) | [Pri11 restricted energy source](../literature/Pri11/Yin_U002.md#pri11-u002) | Inherited compact globally Lipschitz finite-energy statement, every positive regularization radius and actual powered degree; no original potential-theory proof audit. |
 
 <a id="explicit-square-root-cyclic-whole-independent-finding"></a>
@@ -69,7 +73,7 @@ No beta_j equals1, so C_n is a positive integer and the normalized logarithm is 
 The finite C147v2 equation(1) applies to every T>=1,R>=2 and rho>0 with this ACTUAL N.
 It is independent of that version's later house-based quarter-power conversion and has no N>=55 restriction.
 
-The existing Smy08/C134/R488 source interface is general nonzero nontorsion algebraic integrality, not C134's separate Salem construction.
+The existing Smy08/C134/[R798 original two-node](Yin_R_G0798_v1.md#two-node-whole-independent-finding) source interface is general nonzero nontorsion algebraic integrality, not C134's separate Salem construction.
 At N>=exp(e), log log N>=1.
 The accepted M-form bound implies M(beta)>1+x for x=1/[1200(log N)^3] in(0,1].
 The already accepted logarithmic conversion log(1+x)>=x/2 therefore gives m(beta)>=1/[2400(log N)^3], and h=m(beta)/N yields(3).
@@ -167,7 +171,7 @@ AM16 is not a premise of the new numerical theorem.
 The source-record boundaries are accurate.
 Smy08-U001 accepts the benchmark at statement/applicability depth; its questioned minimal-polynomial-resultant explanation is not used.
 The original Dobrowolski proof and stronger reported Voutier constants are not adopted by this review.
-C134's exact general numerical conversion and R488 source inspection are reused without extending C134's Salem theorem or relabelling this reviewer's old authorship as an independent review.
+C134's exact general numerical conversion and [R798 original two-node](Yin_R_G0798_v1.md#two-node-whole-independent-finding) source inspection are reused without extending C134's Salem theorem or relabelling this reviewer's old authorship as an independent review.
 The house input retains the actual Dim19-v1 statement and is used only in the small-N guard.
 Pri11 remains inherited through the compact globally Lipschitz finite-energy theorem already adopted in v2; no original potential-theory proof is newly audited.
 

@@ -464,7 +464,7 @@ This proves the claimed original-family Wiener divergence.
 C678's adopted exact weighted source construction, original Gram/rank/pole estimates, all translated laws and entire five-cost finite theorem are used at their stated scope.
 Its odd-unweighted-factor obstruction and log2..log4 measure boundary are not removed by the new phase estimate.
 The present argument independently derives the weighted Mobius coefficients, their neighborhood phases, the one-dimensional modulation center and all actual band counts.
-C665 supplies only a previously understood local convolution idea, not its old four-coordinate coefficients, witnesses, rectangles, mass or count as a premise.
+C629 v6 supplies only a previously understood local convolution idea, not its old four-coordinate coefficients, witnesses, rectangles, mass or count as a premise.
 The positive finite kernel and its bounded classical attribution are those of adopted C637; its complete normalization, closed support, multiplier and tail statements suffice here.
 No new external interpolation, rational Bernstein, stationary-phase or model-space theorem is invoked.
 The fixed K remains the actual composite killer exponent, the original window remains2d, and the probability-law and source-depth limitations of C678 are unchanged.
@@ -488,7 +488,7 @@ Bounded H, a stronger logarithm-free degree endpoint, optimality and near-one co
 | dependency | [Adopted actual weighted family and return](Yin_C_G0678_v1.md#decision-whole-reviewed-2026-10-24) | Whole weighted(1,1,2) source-certified actual family and full2d objects, degree and total measure, exact original epsilon and all-width stability, every translated law and all five costs in the finite closed-three-box return. |
 | dependency | [Positive finite kernel](Yin_C_G0637_v1.md#complete-argument) | Exact squared-Fejer normalization, closed support, multipliers in[0,1] and4pi^3/(R^3 delta^3) tail, independently applied to the new one-dimensional modulation. |
 | support | [Kernel source attribution](Yin_C_G0637_v1.md#source-and-reuse-boundary) | Existing bounded classical Jackson-kernel account; no new source proof is imported or inspection upgraded. |
-| support | [Actual reuse and limitations](#reuse-source-and-remaining-boundaries) | New weighted bands distinguished from C665's old phase, entire original-family/source/window restrictions, retained logarithmic degree cost and unresolved bounded-H/near-one boundaries. |
+| support | [Actual reuse and limitations](#reuse-source-and-remaining-boundaries) | New weighted bands distinguished from C629 v6's old phase, entire original-family/source/window restrictions, retained logarithmic degree cost and unresolved bounded-H/near-one boundaries. |
 
 ### Decision whole-reviewed-2026-10-24
 
@@ -496,7 +496,7 @@ Bounded H, a stronger logarithm-free degree endpoint, optimality and near-one co
 | --- | --- |
 | date | 2026-10-24T03:48 |
 | status | proved |
-| reason | The complete fixed WP1--WP19 statement and six-section argument were directly read, followed by the whole fresh isolated R902. Adopt the actual weighted Mobius bands, complete support and all five returned costs, explicit uniform critical strip, exact actual-degree logarithmic comparison and every positive shrinking-sequence conclusion. No old C665 band is substituted, and no new external source-proof scope is claimed. The logarithmic denominator, original2d window and positive Mahler interval remain; bounded H, a logarithm-free endpoint, optimality, near-one coverage and unrestricted completion remain unproved. |
+| reason | The complete fixed WP1--WP19 statement and six-section argument were directly read, followed by the whole fresh isolated R902. Adopt the actual weighted Mobius bands, complete support and all five returned costs, explicit uniform critical strip, exact actual-degree logarithmic comparison and every positive shrinking-sequence conclusion. No old C629 v6 band is substituted, and no new external source-proof scope is claimed. The logarithmic denominator, original2d window and positive Mahler interval remain; bounded H, a logarithm-free endpoint, optimality, near-one coverage and unrestricted completion remain unproved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -505,5 +505,5 @@ Bounded H, a stronger logarithm-free degree endpoint, optimality and near-one co
 | dependency | [Adopted actual weighted family and return](Yin_C_G0678_v1.md#decision-whole-reviewed-2026-10-24) | Whole weighted(1,1,2) source-certified actual family and full2d objects, degree and total measure, exact original epsilon and all-width stability, every translated law and all five costs in the finite closed-three-box return. |
 | dependency | [Positive finite kernel](Yin_C_G0637_v1.md#complete-argument) | Exact squared-Fejer normalization, closed support, multipliers in[0,1] and4pi^3/(R^3 delta^3) tail, independently applied to the new one-dimensional modulation. |
 | support | [Kernel source attribution](Yin_C_G0637_v1.md#source-and-reuse-boundary) | Existing bounded classical Jackson-kernel account; no new source proof is imported or inspection upgraded. |
-| support | [Actual reuse and limitations](#reuse-source-and-remaining-boundaries) | New weighted bands distinguished from C665's old phase, entire original-family/source/window restrictions, retained logarithmic degree cost and unresolved bounded-H/near-one boundaries. |
-| review | [Fresh isolated whole mathematical review](../audits/reviews/Yin_R_G0902_v1.md#whole-weighted-phase-bands-degree-finding) | Entire new coefficient, sign, full-neighborhood, modulation, finite support and cost proof, every threshold and degree/sequence quantifier; unchanged C678 input uses only corrected R1067v2. |
+| support | [Actual reuse and limitations](#reuse-source-and-remaining-boundaries) | New weighted bands distinguished from C629 v6's old phase, entire original-family/source/window restrictions, retained logarithmic degree cost and unresolved bounded-H/near-one boundaries. |
+| review | [Fresh isolated whole mathematical review](../audits/reviews/Yin_R_G0902_v1.md#whole-weighted-phase-bands-degree-finding) | Entire new coefficient, sign, full-neighborhood, modulation, finite support and cost proof, every threshold and degree/sequence quantifier; unchanged C678 input uses only corrected R899 v2. |

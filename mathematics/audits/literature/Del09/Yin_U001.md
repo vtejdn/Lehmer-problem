@@ -24,7 +24,7 @@ Inspection: Complete selected pages text-read; printed983--984 also rendered and
 
 The [retained primary article](../../../literature/pdf/Del09--published.pdf) identify the exact edition.
 The established Theorem1.6 and its printed explicit admissible constant are accepted at this statement/applicability scope.
-The complete packet, height normalization and joint-degree calculation are retained in [AD99-U001](../AD99/Yin_U001.md#complete-salem-packet-specialization).
+The complete packet, height normalization and joint-degree calculation are retained in [C165's fixed complete-packet comparison](../../../claims/Yin_C_G0165_v1.md#complete-salem-packet-specialization).
 This unit does not extend [AM16-U005](../AM16/Yin_U005.md) by asserting that its fixed-rank constants are uniform.
 
 <a id="relative-obstruction-and-torsion-conventions"></a>

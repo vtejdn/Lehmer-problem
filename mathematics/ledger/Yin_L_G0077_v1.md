@@ -224,8 +224,7 @@ In a trajectory made of q blocks of length n, the projected block contributions 
 They do not yield an injective encoding of H_n(L)^q.
 A proof of exponentially many distinct concatenations would need information about the successive kernel layers, which (1)--(4) do not supply.
 
-The valid finite entropy estimate remains the archimedean norm
-bound of L G0074,
+The valid finite entropy estimate remains the archimedean norm bound of L G0074,
 
     m >= [log C_n-d log 2]/n.
 

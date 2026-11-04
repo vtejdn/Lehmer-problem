@@ -257,7 +257,7 @@ The recorded review description was `under review`.
 | dependency | [Scalar logarithmic normalization](../ledger/Yin_L_F0005_v1.md#scalar-capacity-normalization) | Scaling by q and normalized circle integral with content retained. |
 | support | [Finite logarithmic mechanism](Yin_C_G0137_v1.md#argument) | Majorant, matrix path, coefficient and radial mechanism attribution at its accepted scope. |
 | support | [All-input auxiliary existence boundary](Yin_C_G0570_v1.md#uniform-auxiliary-margin-fixed-scope) | Exact comparison: positive margin and linear degree are known, while term count/normalized l1 are not uniformly bounded. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0801_v1.md#normalized-sparse-cost-whole-independent-finding) | Entire actual fixed argument and statement, every direct interface, original cost and boundary, with antecedent authorship and source-proof limits preserved. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0801_v1.md#normalized-sparse-cost-whole-independent-finding) | Entire actual fixed argument and statement, every direct interface, original cost and boundary, with antecedent authorship and source-proof limits preserved. Referenced finding relationship: unknown. |
 
 
 ### Decision isolated-whole-review-20261023-m04
@@ -266,7 +266,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-23T00:52 |
 | status | proved |
-| reason | Select the newly performed isolated whole review of this exact fixed statement, complete argument and all selected input interfaces at their stated restricted scopes. Preserve the proved mathematical status, unchanged statement and argument, every nonreview relation and scope, and all historical decisions. The retained older unknown finding keeps its actual date, checks and limits; this new finding supplies new evidence at its actual date without certifying old isolation, backdating adoption, or completing or resuming G0001. |
+| reason | Select the newly performed whole finding on this exact fixed statement, complete argument and all selected input interfaces at their stated restricted scopes, with its actual self-reviewed relationship. Preserve the proved mathematical status, unchanged statement and argument, every nonreview relation and scope, and all historical decisions. The retained older unknown finding keeps its actual date, checks and limits; this new finding supplies new evidence at its actual date without certifying old isolation, backdating adoption, or completing or resuming G0001. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -279,4 +279,4 @@ The recorded review description was `under review`.
 | dependency | [Scalar logarithmic normalization](../ledger/Yin_L_F0005_v1.md#scalar-capacity-normalization) | Scaling by q and normalized circle integral with content retained. |
 | support | [Finite logarithmic mechanism](Yin_C_G0137_v1.md#argument) | Majorant, matrix path, coefficient and radial mechanism attribution at its accepted scope. |
 | support | [All-input auxiliary existence boundary](Yin_C_G0570_v1.md#uniform-auxiliary-margin-fixed-scope) | Exact comparison: positive margin and linear degree are known, while term count/normalized l1 are not uniformly bounded. |
-| review | [New isolated whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0140-m04-isolated-whole-finding) | Complete exact fixed statement, whole argument, every selected input, all parameter/domain/original-degree costs, exceptional branches and source/noncompletion limits. |
+| review | [New whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0140-m04-isolated-whole-finding) | Complete exact fixed statement, whole argument, every selected input, all parameter/domain/original-degree costs, exceptional branches and source/noncompletion limits. Finding relationship: self-reviewed. |

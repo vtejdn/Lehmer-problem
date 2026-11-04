@@ -4,13 +4,17 @@ author: Yin
 
 # Finite-energy certificates for tunable Salem transition products
 
+Current checking scope is owned by [R556](../audits/reviews/Yin_R_G0556_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Direct G0001 derivation by the coordinating Codex AI for Yin.
 The assigned entropy_status AI and coordinator independently identified the dyadic improvement below during the same exploration; its role on that part is a collaborator, not independent reviewer.
 This record studies the finite-energy search of L G0130.
 It gives explicit feasible witnesses, improves that search's energy budget, and bounds the actual L G0129 Salem transition product through finite energy certificates with a computable window cutoff.
 It does not compute an optimum, supply a new transition lower bound, or assert a degree-uniform Mahler gap.
-Completed independent review is recorded at the end.
+The completed checking account is retained at the end at its responsible finding scope.
 
 ## Domain and the earlier finite problem
 

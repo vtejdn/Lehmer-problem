@@ -73,7 +73,7 @@ Its independent review covered interval concavity, all JS/TV constants and equal
 Its check of (16)'s norm-grid premise is self-review of its own separate contribution; its review of the new deductions and the coordinator-contributed arguments is independent.
 The only requested change was to correct the companion proof's anchor, which was done.
 It used no new source or computation.
-No computation, source acquisition, fixed-material edit or identifier allocation was performed.
+No computation or source acquisition was performed.
 
 The coordinator read and checked the complete assembled (1)--(23), including the exact integer-product certificate, k and N rounding, support cost (19) and the stated limitations of arbitrary-law invariance.
 No substantive defect was found.

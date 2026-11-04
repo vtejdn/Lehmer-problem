@@ -71,9 +71,9 @@ Its actual contributor finding remains self-reviewed and its separately arranged
 
 ## Exact input and preservation scope
 
-C349v2 supplies the exact eliminant and full trinomial/collar interfaces; C336/C341 supply the finite cube and integer response, C318 the accepted simultaneous-return theorem and C347 the actual-gap comparison.
+C349v2 supplies the exact eliminant and full trinomial/collar interfaces; C335/C341 supply the finite cube and integer response, C318 the accepted simultaneous-return theorem and C346 the actual-gap comparison.
 C348 supplies Phi/Psi and the strict two-case endpoint term, C351v2 the exact projected-observation physical choices and safe local minimum, and C350 the every-cluster balanced closure.
-C337 supplies the complete actual logarithmic witness/enlarged product and C328 its fixed C_P; C345 supplies the conditional W/B/K guards.
+C337 supplies the complete actual logarithmic witness/enlarged product and C328 its fixed C_P; C344 supplies the conditional W/B/K guards.
 These fixed interfaces were checked at every actual invocation, without reopening their original source proofs or running a selector or energy optimization.
 The retained C352/C353 argument bodies agree with the original L145/L146 mathematical text apart from heading depth and exact same-object links to responsible C homes.
 The necessary original L and old R accounts remain present, including actual dates, negative observations, contributions and unresolved scope.

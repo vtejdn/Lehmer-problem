@@ -16,11 +16,15 @@ That SOURCE-only inspection supplied no new project proof and is explicitly dist
 The actual fixed v2 was read and obligations were enumerated to root before consulting R359 for the old comparison.
 Author self-check statements were not used as evidence of correctness.
 
+The initial C147 v2 input included the author validation and no-missing-hypothesis account beyond the necessary proof.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Actual whole finding](#planar-energy-whole-independent-finding) | independently reviewed |
+| [Actual whole finding](#planar-energy-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

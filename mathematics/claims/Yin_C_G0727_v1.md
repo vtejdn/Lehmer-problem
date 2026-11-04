@@ -11,7 +11,7 @@ Salem_completion derived the next first quotient transport and the stronger seco
 Root checked the complete first calculation and the actual coefficient division, monic cancellation and unit inversion in the second calculation.
 These are author contributions, not independent review.
 The actual C721 first quotient ideals, C723 canonical low halves and second quotient decomposition, and C725's repaired-source hypotheses were read at the consuming scopes below.
-[C725 is adopted through whole R1117](Yin_C_G0725_v1.md#decision-whole-reviewed-2026-10-25); the generic local theorem here retains its exact modified-source conditions.
+[C725 is adopted through whole R946](Yin_C_G0725_v1.md#decision-whole-reviewed-2026-10-25); the generic local theorem here retains its exact modified-source conditions.
 Earlier_bit_obstruction supplied the complete actual n7 power/degree/root calculation, independently of the new low proof; root and Salem_completion checked the consuming interface at both actual inputs.
 The combined proof below includes that calculation completely, so the mutable D41 is development provenance rather than a logical dependency.
 No source change beyond its existing omega condition, native computation, rescaling assumption or arbitrary-precision induction is used.
@@ -385,7 +385,7 @@ Both low premises were proved above and checked at their actual current inputs; 
 The original weak k power q/512 is stronger than every coefficient power used, including the largest obstruction requirement2r_0=q/2^26.
 There is no new rounding cost, support choice or strengthened source factor.
 The largest full correction degree remains<3h/4+21A<d, so the original h>102A pays every CRT.
-For the complete actual C724 source take Q=2^ell with ell>=82, m_src=Q/4-2, a=2m_src and its full Y,H_aux,U_0,R_0.
+For the complete actual C691 source take Q=2^ell with ell>=82, m_src=Q/4-2, a=2m_src and its full Y,H_aux,U_0,R_0.
 The actual original formulas are retained without a trace pullback:
 
     degT_256=q(30m_src+degY)

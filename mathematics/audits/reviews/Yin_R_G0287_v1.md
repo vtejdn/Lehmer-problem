@@ -7,8 +7,8 @@ Date: 2026-10-12T12:15.
 Human record author Yin.
 Separately assigned noncontributor AI reviewer g0001_review_recovery.
 Root alone authored the new D23 mathematics.
-This reviewer previously independently reviewed D19 and then authored the C65 extraction wrapper; that ANCESTOR contribution is disclosed and is not presented as independent review of C65's new wrapper.
-C65 received a different actual review R379.
+This reviewer previously reviewed D19 at its actual SELF relationship and then authored the C65 extraction wrapper; that ANCESTOR contribution is disclosed and is not presented as independent review of C65's new wrapper.
+C65 received a different actual review R284 v1.
 The reviewer supplied no D23 formula, threshold, support argument or target edit.
 No external human referee, formal verification or native mathematical run is claimed.
 
@@ -25,11 +25,16 @@ The original whole literal document nevertheless requires two bounded correction
 These are introduced presentation/domain-specification defects, not a discovered counterexample to the intended theorem.
 The target was not edited, and no future correction is approved by this finding.
 
+The initial C67 input included its author validation checklist and conclusion beyond the necessary derivation.
+The original negative literal finding keeps its exact input and verdict.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Original whole finding](#isolated-universal-original-literal-finding) | independently reviewed |
+| [Original whole finding](#isolated-universal-original-literal-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -144,7 +149,7 @@ No cheap shortening or q=M premise appears.
 All new arguments are local finite integer/projection/polynomial identities.
 C63/C65 ancestry is credited at its exact scope, with this reviewer's C65 wrapper contribution disclosed.
 No external factorization theorem, new source input, pending threshold theorem, mathematical program or original-source proof audit was used.
-The earlier R378 source-attribution limits remain unchanged and are not expanded.
+The earlier R283 source-attribution limits remain unchanged and are not expanded.
 The target was not edited.
 
 The substantive complete proof has been checked under the intended integer domain and no mathematical counterexample or omitted correction cost was found.

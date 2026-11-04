@@ -97,17 +97,17 @@ The present author supplies the full expansion, remainder, coefficient-paid choi
 Both root and this author contribute to this continuation; neither is an independent reviewer of it.
 No numerical program, selected parameter calculation or new source acquisition is used.
 
-The input is the complete polynomial-shear family and its exact original domain now registered in [C176](Yin_C_G0176_v1.md#polynomial-shear-exact-infimum), with the original complete account preserved in L438.
+The input is the complete polynomial-shear family and its exact original domain now registered in [C176](Yin_C_G0176_v1.md#polynomial-shear-exact-infimum), with the original complete account preserved in L437.
 That family has full original norm floor2^d and Haar infimum log2+J_G; it does not already give the actual original-conjugate limiting average or the Fourier lower bounds below.
 This inquiry pays those quantities directly and keeps the remaining varying-input arithmetic obligation explicit.
 
 ### General positive c and the full original-field average
 
-The geometric identities of L438 hold for ANY rational c>sup_circle G^2, with the same A_0 and with c=a/b in its exact denominator and endpoint formulas.
+The geometric identities of L437 hold for ANY rational c>sup_circle G^2, with the same A_0 and with c=a/b in its exact denominator and endpoint formulas.
 The proof there used the particular rational choice1+G_1^2 only to guarantee this strict circle bound.
 Replacing it by another rational c satisfying the displayed inequality preserves the finite polynomial identities, full norm proof, exact degree, denominator, coefficient upper bound and error proof with that actual c.
 Here G_1=||H35||_1/30375.
-This use follows from those actual proof steps rather than silently changing the printed choice in L438.
+This use follows from those actual proof steps rather than silently changing the printed choice in L437.
 
 Put n=N+1 and enumerate all r embeddings sigma_i of the actual trace field F into R.
 Let
@@ -123,7 +123,7 @@ The full original norm, with d=2r, is exactly
     L_N=(1/r)sum_(i=1)^r log B_N,i.                 (T1)
 
 The factor1/r follows because Norm_K B_N=Norm_F B_N squared and d=2r; no original conjugate has been omitted.
-All terms are positive by the same two arithmetic cases as L438.
+All terms are positive by the same two arithmetic cases as L437.
 
 If g=0 as a field element, every g_i=0 and the pairwise exclusions give e,f nonzero.
 Then B_N,i=a_i for every N, and L_N=(1/r)log Norm_F(e^2+f^2) is constant.
@@ -190,7 +190,7 @@ The resultant is nonzero here because g!=0.
 No division by a smaller own degree or primitive-content normalization occurs.
 When g=0, (T1) gives the constant original mean instead; no logarithm of a zero norm or resultant is taken.
 
-This choice controls the actual exponential growth, but it pays the height-and-degree factor R^(15d) in c_* and therefore in the explicit sufficient N and denominator of L438.
+This choice controls the actual exponential growth, but it pays the height-and-degree factor R^(15d) in c_* and therefore in the explicit sufficient N and denominator of L437.
 It does not prove that a cheaper c or N is impossible.
 For g!=0, a transfer estimate for these near-infimum choices would have to bound the exact original resultant discrepancy in (T5), not merely their circle approximation error.
 In particular J_G<=-eta<0 forces the limiting discrepancy to be at least eta because Norm_F g is a nonzero integer.
@@ -229,7 +229,7 @@ If an individual B has circle zeros, the same continuous-representative argument
 
 ### Explicit logarithmic lower rate for the geometric family
 
-For the L438 geometric shears, retain any rational c>sup_circle G^2 and set
+For the L437 geometric shears, retain any rational c>sup_circle G^2 and set
 
     gamma_0=(7/30375)^2,
     n_0=ceil(max{16,(2c/gamma_0)^2}).
@@ -276,7 +276,7 @@ The centered trace formula is
 At x=0 both C_3 and C_5 are zero, so G(i)=-27(250*9-243)/30375<0, while G(1)=7/30375>0.
 Thus the second control also has a circle zero.
 These are exact evaluations of the retained input polynomials; no root isolation or mathematical program was executed.
-Consequently both (T6) and (T7) apply to the same controls on which L438 constructs sub-log2 shears.
+Consequently both (T6) and (T7) apply to the same controls on which L437 constructs sub-log2 shears.
 
 ### Consequence for the continuing transfer question
 

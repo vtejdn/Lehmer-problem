@@ -32,13 +32,21 @@ The degree-six trace cubic is irreducible by its strictly positive derivative an
 For any fixed monic real seed with no circle zero, the e<1 comparison counts all exterior roots and the limiting persistence argument gives the upper bound; small exterior disks give convergence with multiplicity and no singular-logarithm interchange.
 For H,2/3<alpha<3/4 places both complex roots outside4; the complete radius2 bound5 versus193, both real-half-line signs and the four small-k trace controls give precisely two simple nonreal expanding roots for every k.
 For J its exact negative discriminant,41<rho<42 and product36/rho give one exterior root; the exact r_k(1)=-56k-64 forces the one positive expanding root of every full absolute determinant.
-Unit constant coefficients force the unique positive irreducible factor to contain both expanding and both contracting roots. Reciprocity and constant1 follow without deleting neutral roots; other irreducible factors are cyclotomic with every multiplicity retained.
+Unit constant coefficients force the unique positive irreducible factor to contain both expanding and both contracting roots.
+Reciprocity and constant1 follow without deleting neutral roots; other irreducible factors are cyclotomic with every multiplicity retained.
 The H/H* gcd and two numerator equations exclude a common off-circle root between distinct k, and the uniform measure coefficient bound proves unbounded actual irreducible degrees rather than full determinant irreducibility or bounded cofactor degree.
-All full measure inequalities, positive limits and ratio follow from complete integrable polynomial logs and exhaustive exterior counts. Positive coefficients exclude every positive-real Salem target only in this fixed family; unit-leaf preservation of the next-to-leading coefficient retains the coefficient-prescription obstruction.
-The entire J42 verify.py and saved verification.json were read: all14 actual original/absolute matrices at k0..6, complete coefficients/factorizations, reciprocal/height/energy, p2 irreducibility, k3 trace, seed discriminants/gcd/signs and endpoint controls are retained. No current run occurred; the old R102 reran the same author SymPy checker with output intercepted, without independent algebra implementation.
-The full original R102 date03:39/whole Sections1--6/ten formulas/14matrix run/source proof depth remains unchanged. Shared Task context and author freeze/scope explanation were available, but their exact initial additional target mathematical contents/order are not established: original whole UNKNOWN. Earlier L175 authorship is fixed mathematical reuse, not automatically target contribution.
+All full measure inequalities, positive limits and ratio follow from complete integrable polynomial logs and exhaustive exterior counts.
+Positive coefficients exclude every positive-real Salem target only in this fixed family; unit-leaf preservation of the next-to-leading coefficient retains the coefficient-prescription obstruction.
+The entire J42 verify.py and saved verification.json were read: all14 actual original/absolute matrices at k0..6, complete coefficients/factorizations, reciprocal/height/energy, p2 irreducibility, k3 trace, seed discriminants/gcd/signs and endpoint controls are retained.
+No current run occurred; the old R102 reran the same author SymPy checker with output intercepted, without independent algebra implementation.
+The full original R102 date03:39/whole Sections1--6/ten formulas/14matrix run/source proof depth remains unchanged.
+Shared Task context and author freeze/scope explanation were available, but their exact initial additional target mathematical contents/order are not established: original whole UNKNOWN.
+Earlier L175 authorship is fixed mathematical reuse, not automatically target contribution.
 The original actual author formula/program checks remain separately SELF, without inventing another historical whole review.
-Hir06 source retains the actual published artifact/cover pagination, author intro497--500/505--506 and distinct original reviewer505--506 relevant-proof reading, no inspection minute inferred from acquisition03:32 or review03:39. Topological det(tS-S^T), uninspected general factor removal/angular/monotonicity/topological hypotheses and whole-source proof remain excluded. Local plus-sign/root proof is direct. No source/PDF acquisition, native run, Task/E or uniform gap.
+Hir06 source retains the actual published artifact/cover pagination, author intro497--500/505--506 and distinct original reviewer505--506 relevant-proof reading, no inspection minute inferred from acquisition03:32 or review03:39.
+Topological det(tS-S^T), uninspected general factor removal/angular/monotonicity/topological hypotheses and whole-source proof remain excluded.
+Local plus-sign/root proof is direct.
+No source/PDF acquisition, native run, Task/E or uniform gap.
 
 All current Statement and Argument domains, full determinant/root/factor/measure/cover/irreducibility/cost/target-prescription claims and evidence/source boundaries were checked.
 No substantive defect or missing hypothesis was found.

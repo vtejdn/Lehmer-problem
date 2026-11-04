@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T19:50.
 Human operator: Yin.
 The checking agent read all258lines of sole original L183, all72original R82 lines and the entire actual published C435v1 statement/argument/decisions and remaining gate.
-It retained the necessary complete C432 global-cost/C420 descent interfaces and checked the precise actual-Lehmer co-return and open-strip scopes at C402/C403, including their full mathematical proofs.
+It retained the necessary complete C428 global-cost/C416 descent interfaces and checked the precise actual-Lehmer co-return and open-strip scopes at C399/C400, including their full mathematical proofs.
 It rederived every compact/rank/path/cocycle/quotient/exact-polynomial/field-index implication below.
 The agent authored this current Claim, inherited substantive target context and read the old finding, so the whole current check is self-reviewed.
 The original whole R82 initial arrangement remains unknown: generic progress explanations/shared context do not establish their actual initial target mathematics.
@@ -38,8 +38,8 @@ Date: 2026-10-21T19:50.
 PASS for all five complete original arguments, formulas(1)--(4), every arithmetic-domain/path/quantifier guard and the exact unresolved universal-termination boundary.
 
 For every fixed Salem beta in(1,phi), B>1 and the stable interval is invariant under every original digit because beta^-1 S+1=S.
-C432 supplies joint pointwise control, including the closed annulus endpoints.
-C420's finite cover and conditional compact descent then give some fixed finite neutral radius for the closed narrow domain.
+C428 supplies joint pointwise control, including the closed annulus endpoints.
+C416's finite cover and conditional compact descent then give some fixed finite neutral radius for the closed narrow domain.
 Enlarging that radius preserves the same reduction.
 The power-basis embedding matrix is invertible over the reals and maps the full coefficient lattice to a full lattice.
 Bounding every real, stable and complex neutral coordinate therefore makes K_R finite.
@@ -61,7 +61,7 @@ No complete K_R or universal stopping bound is computed here.
 For a nonzero actual state with0<|x_+|<1/2, leading zeros reach[1/2,beta/2) in magnitude in finitely many steps and add zero neutral displacement.
 Sign negation of both state/digits and direction handles the negative case.
 At x_+=0 the field embedding is injective, so x=0.
-C432's actual Section3 direction interval contains zero strictly by its positive and negative sign bounds; the sparse construction therefore gives arbitrary negative cost there too.
+C428's actual Section3 direction interval contains zero strictly by its positive and negative sign bounds; the sparse construction therefore gives arbitrary negative cost there too.
 Thus no unsupported annulus-to-zero assumption enters.
 For a fixed unit direction u, choose a finite legal word with u.c<-(H+rho(x)), retaining any finite preliminary prefix cost via the exact shifted suffix direction.
 Its displacement norm exceeds H+rho(x).
@@ -100,8 +100,8 @@ The digits-1,+1 send a to-a and back.
 The real modulus is below1/2 and stable modulus beta/(beta+1)<1<S.
 Every neutral modulus1/|zeta+1| is finite because no conjugate is-1.
 Both states may be included by enlarging the compact radius.
-C402 applies to their actual-order narrow/stable domain without a neutral bound.
-C403's exact open-strip theorem gives actual return-core membership at the same fixed input.
+C399 applies to their actual-order narrow/stable domain without a neutral bound.
+C400's exact open-strip theorem gives actual return-core membership at the same fixed input.
 Other zero continuations therefore exist although this one opposite-sign policy cycles.
 No new explicit path or experiment is needed, and a policy cycle is not a closed nonreturn trap.
 

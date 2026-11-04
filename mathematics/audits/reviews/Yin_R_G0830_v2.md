@@ -13,7 +13,7 @@ The new finding below has its own v2 bindings and does not retrospectively enlar
 The reviewer remains a separate agent outside substantive development of C627v1 and C627v2.
 The assignment supplied the fixed v2 and operational metadata, without development dialogue, an author explanation, a mathematical summary, a development draft or another agent's inspection.
 The reviewer read the entire current statement and all six proof sections, compared the retained mathematics with fixed v1, and checked every new statement, proof step and input against the actual fixed dependency passages.
-The earlier independent C645 and C625 findings retain their own physical scopes and are used only at unchanged applicable dependency interfaces.
+The earlier independent C623 and C625 findings retain their own physical scopes and are used only at unchanged applicable dependency interfaces.
 No historical SELF or UNKNOWN relationship is reclassified and no C adoption is made here.
 
 ## Review relationships
@@ -204,7 +204,7 @@ No work factor is silently discarded.
 The complete original conditional law, finite projection argument and source/correlation details were already inspected directly for R830v1 and were reread in the retained current proof.
 Their unchanged fixed C170, C602, C552 and C204 interfaces and the comparison-only C514/C519 inputs remain applicable at exactly those scopes.
 The current C625 statement, explicit constants and same-current-length consumer passages were read and compared directly for the new application.
-The earlier R988/R990 evidence is not presented as a prospective verdict on C627v2.
+The earlier R826/R828 evidence is not presented as a prospective verdict on C627v2.
 
 The existing BSS17-U001 statement-inspection and classical two-projection attribution boundary remains as recorded in R830v1: no full Halmos theorem proof or inaccessible original AMS proof is newly audited.
 The matching argument itself uses only the finite original marginal sums written out above and requires no external matching, concentration or mixing theorem.

@@ -14,7 +14,7 @@ Root supplied the research question and broad suggestions and later found the al
 Those activities are not independent native review.
 This reviewer supplied no author generator, solver, dual candidate or proof patch and changed no author program/output or D/C mathematics.
 The proposed dual and exact scope were supplied in the frozen proof; this was not a blind review.
-Prior whole C16 and related extraction reviews by this reviewer, and its earlier reuse of C17's adopted interface/R302 scope, are disclosed upstream context, not proof of the new finite certificate.
+Prior whole C16 and related extraction reviews by this reviewer, and its earlier reuse of C17's adopted interface/[R746 original C17](Yin_R_G0746_v1.md#c17-toeplitz-completeness-extraction-finding) scope, are disclosed upstream context, not proof of the new finite certificate.
 This reviewer did not perform the original whole C17 review.
 
 Inputs and method: the entire D18, J88 declarations/results/erratum, main.py, worker.py, exact-validation.py and all four author JSON outputs were read.

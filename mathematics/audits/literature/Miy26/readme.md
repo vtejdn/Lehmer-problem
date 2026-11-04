@@ -74,8 +74,7 @@ The linked units own the full repairs.
 | F01 | Section 2's factor description on p. 5 is false for one semicircular generator. | U001 uses a finite von Neumann algebra with faithful normal trace. For $d=1$ the algebra is abelian; factoriality is unnecessary for the audited theorem. |
 | F02 | Lemma 3.1 and the subsequent coefficient passage compress domains for an initially unbounded $f$; the Haar analogue needs an additional affiliated/bounded bridge. | U002 proves the regularizer identity on the algebraic core and passes coefficients using bounded right multiplication in $L^2$. U003 uses Lin00 and repairs the tree representation's scalar block. Neither proof assumes the desired boundedness or identifies Malcev-Neumann operators with affiliated ones. |
 | F03 | Lemma 3.2 says the squared-residual space is spanned by all pair products; equality can fail. | U002 proves the sufficient containment and gives a bounded rational one-generator example with squared-residual dimension one and pair-product dimension two. The finite-dimensional conclusion is unchanged. |
-| F04 | Lemma 3.3 chooses the matrix spectral radius itself as an exponential decay rate on p. 9. | Jordan blocks invalidate that choice: $(n+1)2^{-n}$ is a counterexample. U002 takes any $r(B)<A<1$, treats nilpotent/zero cases, and converts squared-coefficient decay to the summable bound $\sqrt M(n+1)(\sqrt A)^n$.
-The theorem's existential decay and boundedness conclusions survive. |
+| F04 | Lemma 3.3 chooses the matrix spectral radius itself as an exponential decay rate on p. 9. | Jordan blocks invalidate that choice: $(n+1)2^{-n}$ is a counterexample. U002 takes any $r(B)<A<1$, treats nilpotent/zero cases, and converts squared-coefficient decay to the summable bound $\sqrt M(n+1)(\sqrt A)^n$. The theorem's existential decay and boundedness conclusions survive. |
 | F05 | Theorem 1.3's annulus on p. 2 omits $|\lambda|$; Proposition 3.7's norm estimate on p. 11 prints an equality where only an inequality holds. | U008 restores the modulus. U003 gives the correct degree-growth sandwich, the RD extension's scope, and the Bernoulli example; the spectral-radius conclusion is preserved. A formal recurrence alone does not supply an existing inverse. |
 | F06 | Lemma 4.1 has mixed-word indexing errors and suppresses the passage from a square-integrable inverse to a bounded inverse commutator. Corollary 4.2 compresses an inverse inclusion. | U004 first invokes Corollary 1.2, takes residuals over the full mixed alphabet, and proves the creation-operator comparison by invariance of the holomorphic subspace. The result concerns scalar holomorphic polynomials; no free-ball, matrix-coefficient, or arbitrary rational extension is inferred. |
 | F07 | Proposition 4.4 abbreviates the homogeneous R-diagonal argument; Example 4.5's quotient and intermediate divisions exclude parameters that its final spectral claim must cover. | U005 checks the color-independent cumulant mechanism against NS06, proves zero Brown inner radius via the vacuum coefficient, and replaces the quotient by a finite geometric sum. It treats $t=0$, $\lambda=0,1$, $|\lambda|=1$, $k=1$, and closure of the strict support region explicitly. |
@@ -114,7 +113,7 @@ No project claim ID or theorem-discovery route is allocated by this study.
 | Source inspection | All 23 primary pages read. The coordinating agent inspected main-theorem and circular formulas visually; content agents visually inspected all assigned circular/quadratic proof pages and the four figures. References and introductory contextual claims have the coverage stated above. |
 | Local reconstruction | U001-U007 give the domain, inverse, convergence, coefficient, matrix and boundary arguments. The coordinating agent read all eight completed units and both preserved scripts. |
 | Independent AI review | the spectral-interface reviewer checked U001-U002's regularizer, coefficient limit, residual spaces, decay and final identification. the quadratic-case reviewer checked U004-U005, including the primary NS06 mechanism. the circular-resolvent reviewer checked U006-U007, including Schur and zero cases. The coordinating agent separately reviewed U003-U008. This is not external peer review. |
-| Exact computation | Circular check: 193,363 checks of the stated mixed-word, holomorphic and product-formula finite cases. Quadratic check: 14,355 state, coefficient, determinant, Schur and boundary checks. Both scripts use only exact standard-library arithmetic and were independently rerun by the coordinating agent; the quadratic script was also rerun by the circular reviewer. |
+| Exact computation | Circular check: 193,363 checks of the stated mixed-word, holomorphic and product-formula finite cases. Quadratic check: 14,355 state, coefficient, determinant, Schur and boundary checks. The historical account reports exact standard-library scripts, coordinating-agent reruns and a circular-reviewer rerun of the quadratic script. Their native program/J locators are not currently located; the finite scopes and reproduction limits remain in U005/U006. |
 | Numerical figures | Coefficients, hypotheses, captions and analytic homogeneous radius checked. The original size-3000 Ginibre experiments were not rerun; no seed, source code, or numerical error control was supplied in those passages. |
 | External proofs | Precise statements and applicability of the recorded interfaces accepted. The main original proofs of MSY23, AP18, Lin00, HL00 and DHH+25 and the general NS06 product formula were not independently audited. The short MSY23 dual-system argument and the relevant NS06 homogeneous combinatorial proof were inspected. |
 | Artifact validation | Repository Markdown links and anchors, eight unique source-unit anchors, English-language and trailing-whitespace checks on all 14 new Miy26 content files passed. `git diff --check` found no whitespace errors; its line-ending conversion notices do not indicate changed source bytes. |
@@ -141,8 +140,7 @@ These are corrections to the audit records, distinct from the source findings F0
 | Stable units with exact statements and hypotheses | U001-U008 cover the source's core theorem, spectral consequences, Haar/RD observations, circular examples, quadratic criterion, figures and necessary interfaces. |
 | Local proof review and justified corrections | Explicit F01-F10 repairs/restrictions, counterexamples to false literal assertions, complementary mathematical cross-reviews, and actual inverse constructions. |
 | Accurate verification boundaries and preserved checks | Two scripts and execution records; exact finite scope; figures distinguished from convergence proofs; original external proofs and contextual citations delimited. |
-| Integrated review and project handoff | Independent contract comparison and coordinating-agent review completed; source-unit navigation, goal and completion indexes, audit navigation, computation index and current assessment updated.
-No new project mathematical claim or unassigned research route created. |
+| Integrated review and project handoff | Independent contract comparison and coordinating-agent review completed; source-unit navigation, goal and completion indexes, audit navigation, computation index and current assessment updated. No new project mathematical claim or unassigned research route created. |
 
 <a id="historical-contract-v1"></a>
 <a id="miy26-spectral-source-audit"></a>
@@ -193,42 +191,6 @@ Specify circle/disk boundaries, inverse existence at scalar values, creation-ope
 - 2026-09-08: corrected the initial topic label for Corollary 4.2 to its actual statement, spectral equality with creation operators.
   The assigned whole-source audit is unchanged; no separate free-ball result is required.
 
-<a id="decision-candidate-0001"></a>
-<a id="decision-candidate-0002"></a>
-<a id="decision-candidate-0003"></a>
-<a id="decision-candidate-0004"></a>
-## Historical recorded completion
-
-The four historical publications `Miy26 spectral source audit_v1` through `Miy26 spectral source audit_v4` retain one unchanged source-audit disposition: **completed within the original assignment scope**.
-The substantive inspection and completion dates remain those stated in the audit and contract above.
-The record registration time is 2026-09-14T01:14; it is not a new inspection or inferred historical completion date.
-
-Recorded by: Yin.
-Recorded event: 2026-09-14T01:14.
-Original transition: no prior recorded disposition to `completed`.
-No resumption condition was recorded.
-
-Contract: [original audit assignment, physical v1](#historical-contract-v1).
-Selected completion evidence: [Source-audit completion review](#goal-completion-review).
-Covered materials are this source audit and that assignment.
-Original reviewed publication: `Miy26 spectral source audit_v1`.
-The evidence basis is the recorded completion review; its actual inspection relationship and limitations remain in the review itself.
-No separately declared fixed dependencies or independent review classification is invented.
-
-Recorded scope: The original completion criteria and limitations in the cited completion comparison for Miy26 spectral source audit.
-Preserve recorded lifecycle and completion evidence; historical review classification is not inferred.
-
-Recorded reason: Preserve the completed disposition already recorded at registration; this timestamp is registration, not an inferred historical completion date.
-
-Recorded authority: initial recorded disposition in `Miy26 spectral source audit_v1`, preserving the [original assignment and criteria](#historical-contract-v1).
-This is a historical account of the retired registration, not a new audit-task lifecycle.
-
-| Historical publication | Recorded update | Meaning of the recording |
-| --- | --- | --- |
-| `Miy26 spectral source audit_v1` | 2026-09-14T02:10 | Yin, 2026-09-14T01:14: registration |
-| `Miy26 spectral source audit_v2` | 2026-09-14T04:01 | Yin, 2026-09-14T04:01: Register previously selected proof/review support; verified legacy correspondence, no new mathematical audit |
-| `Miy26 spectral source audit_v3` | 2026-09-14T14:42 | Yin, 2026-09-14T14:42: Approved framework separation: relocate mathematical material and rebase local documentation locators; preserve mathematics, assessments and historical evidence. |
-| `Miy26 spectral source audit_v4` | 2026-09-15T08:24 | Yin, 2026-09-15T08:24: Separate execution metadata from existing Task bodies; preserve mathematical contracts, lifecycle, historical evidence and prior review classification. |
 
 <a id="integrability-terminology"></a>
 ## Integrability terminology in the opening statements

@@ -150,6 +150,6 @@ It reuses the reviewer's prior independent C786 v2 inspection and the existing R
 No new complete-return computation was run, no original graph or state cap was enlarged, and no formal verification or recursive source-proof audit is asserted.
 The new deductions are fully explicit elementary rational algebra, the displayed integral evaluation and the accepted convergent dyadic identity; no unresolved source attribution or additional external theorem was identified.
 
-The result does not determine R=beta or R<beta, the critical mean, C828's derivative at R, a positive linear midpoint moment, varying-input uniformity or the unrestricted G0001 conclusion.
+The result does not determine R=beta or R<beta, the critical mean, C785's derivative at R, a positive linear midpoint moment, varying-input uniformity or the unrestricted G0001 conclusion.
 The whole finding supports adoption without substantive repair by a separate responsible C788 decision.
 This R itself changes no C assessment, Task status or execution authority.

@@ -20,7 +20,7 @@ The original23:50 mathematical whole, actual fixed L410 input, complete bindings
 The retained arrangement shows a separately assigned noncontributor, direct reading of the complete author-ready proof and fixed dependencies, with author checks and shared G0001 context visible.
 It does not establish the actual extra target-development contents or the complete initial inheritance/assignment order.
 The historical whole relationship is therefore unknown, without asserting that fixed proof reading, previous first-depth review or upstream roles themselves constitute shared target development.
-The adequate current whole of unchanged mathematics is SELF in R876; that later check does not retrospectively supply old isolation.
+The adequate current whole of unchanged mathematics is SELF in [C518's R729 finding](Yin_R_G0729_v1.md#complete-higher-smith-whole-self-finding); that later check does not retrospectively supply old isolation.
 
 ## Review relationships
 

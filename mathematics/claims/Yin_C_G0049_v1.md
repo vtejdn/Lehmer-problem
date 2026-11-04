@@ -162,7 +162,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-12T09:20 |
 | status | proved |
-| reason | Adopt the separate noncontributor actual registered-statement, complete-preservation and selected-interface finding, alongside the exact whole-author review. Retain all original proofs, corrections, contribution and source limits, actual costs and historical assessments. The supplied-profile, finite-class or fixed-input scopes do not establish unrestricted Task completion. |
+| reason | Adopt the separate noncontributor actual registered-statement, complete-preservation and selected-interface finding at its actual SELF relationship, alongside the exact whole-author review. The same reviewer retained the known author-validation context of its earlier same-target whole review. Retain all original proofs, corrections, contribution and source limits, actual costs and historical assessments. The supplied-profile, finite-class or fixed-input scopes do not establish unrestricted Task completion. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -177,7 +177,7 @@ The recorded review description was `under review`.
 | dependency | [Adopted full-signature price](Yin_C_G0046_v1.md#full-signature-profile-norm-floor) | SAME initial half-profile, all original h/k roots and INITIAL norm weights; used only with added h>0 in the new scalar argument. |
 | dependency | [Optional accepted house price](Yin_C_G0046_v1.md#salem-measure-only-profile-price) | Only genuine-Salem0<m<=log2/4 and retained Dim19-v1 statement/applicability scope; exact exponential constant and hypothetical-sequence boundary. |
 | support | [Original whole-D2 finding](../audits/reviews/Yin_R_G0249_v1.md#attained-range-circle-root-whole-finding) | Entire exact16:40 author freeze and its original contributor/source disclosure only; the actual new registered artifact still requires its own extraction/interface finding. |
-| review | [Actual independent extraction](../audits/reviews/Yin_R_G0254_v1.md#c49-attained-range-extraction-finding) | Actual registered statement, complete retained argument and present selected interfaces, checked separately from the original whole-author freeze. |
+| review | [Actual SELF extraction](../audits/reviews/Yin_R_G0254_v1.md#c49-attained-range-extraction-finding) | Actual registered statement, complete retained argument and present selected interfaces, checked separately from the original whole-author freeze. |
 
 ## Fixed organization and contribution boundary
 

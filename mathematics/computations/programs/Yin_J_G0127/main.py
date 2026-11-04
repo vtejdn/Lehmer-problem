@@ -83,7 +83,7 @@ def membership(value, group):
 def main():
     home=Path(__file__).resolve().parent
     outputs=home.parents[2]/'computations'/'outputs'
-    fixed=outputs/'Yin_J_G0126'/'certificate.json'
+    fixed=home.parent/'Yin_J_G0126'/'inputs'/'certificate.json'
     data=json.loads(fixed.read_text(encoding='utf-8'))
     group=data['group']
     assert data['M']==M and len(group['generators'])==96
@@ -104,7 +104,7 @@ def main():
     assert divmod_poly(results[0]['target'],power(PHI,16))[1]==power(2,4)
     out=outputs/home.name
     out.mkdir(parents=True,exist_ok=True)
-    payload={'fixed_input':'mathematics/computations/outputs/Yin_J_G0126/certificate.json',
+    payload={'fixed_input':'mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json',
              'modulus':M,'base_target':y,'tested_powers':[2,4],'results':results}
     (out/'certificate.json').write_text(json.dumps(payload,indent=2)+'\n',encoding='utf-8')
     print(json.dumps([{'power':r['power'],'target':hex(r['target']),'member':r['member'],

@@ -355,7 +355,7 @@ The recorded review description was `under review`.
 | dependency | [Exact input](../audits/literature/MG89/Yin_U001.md#mg89-u001) | Section4 accepted exact finite-field self-reciprocal irreducible count. |
 | dependency | [Exact input](../ledger/Yin_L_G0064_v1.md#direct-etale-frobenius-lift) | Section6 actual good-prime power-basis DVR algebra; local integral closure proved explicitly. |
 | dependency | [Exact input](../ledger/Yin_L_F0005_v1.md#scalar-capacity-normalization) | Original Mahler integral/root formula with integer content retained. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0801_v1.md#finite-prime-pool-whole-independent-finding) | Entire actual fixed argument and statement, every direct interface, original cost and boundary, with antecedent authorship and source-proof limits preserved. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0801_v1.md#finite-prime-pool-whole-independent-finding) | Entire actual fixed argument and statement, every direct interface, original cost and boundary, with antecedent authorship and source-proof limits preserved. Referenced finding relationship: unknown. |
 
 ### Decision current-local-trace-proof-homes
 
@@ -429,7 +429,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-23T00:52 |
 | status | proved |
-| reason | Select the newly performed isolated whole review of this exact fixed statement, complete argument and all selected input interfaces at their stated restricted scopes. Preserve the proved mathematical status, unchanged statement and argument, every nonreview relation and scope, and all historical decisions. The retained older unknown finding keeps its actual date, checks and limits; this new finding supplies new evidence at its actual date without certifying old isolation, backdating adoption, or completing or resuming G0001. |
+| reason | Select the newly performed whole finding on this exact fixed statement, complete argument and all selected input interfaces at their stated restricted scopes, with its actual self-reviewed relationship. Preserve the proved mathematical status, unchanged statement and argument, every nonreview relation and scope, and all historical decisions. The retained older unknown finding keeps its actual date, checks and limits; this new finding supplies new evidence at its actual date without certifying old isolation, backdating adoption, or completing or resuming G0001. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -443,4 +443,4 @@ The recorded review description was `under review`.
 | dependency | [Exact retained dependency](../audits/literature/MG89/Yin_U001.md#mg89-u001) | Section4 accepted exact finite-field self-reciprocal irreducible count. |
 | dependency | [Exact retained dependency](Yin_C_G0241_v1.md#direct-etale-frobenius-lift) | Section6 actual good-prime power-basis DVR algebra; local integral closure proved explicitly. |
 | dependency | [Exact retained dependency](../ledger/Yin_L_F0005_v1.md#scalar-capacity-normalization) | Original Mahler integral/root formula with integer content retained. |
-| review | [New isolated whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0141-m04-isolated-whole-finding) | Complete exact fixed statement, whole argument, every selected input, all parameter/domain/original-degree costs, exceptional branches and source/noncompletion limits. |
+| review | [New whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0141-m04-isolated-whole-finding) | Complete exact fixed statement, whole argument, every selected input, all parameter/domain/original-degree costs, exceptional branches and source/noncompletion limits. Finding relationship: self-reviewed. |

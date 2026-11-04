@@ -47,7 +47,7 @@ These are restricted presentation criteria and complexity obstructions; they sup
 | argument | [Argument](#argument) | Full neutral exact-sequence/entropy identity, actual norm d/D cost and disjoint-block counterfamily, binary-pigeonhole direction, complete DS17 multiplier inequality, absolute/relative-overhead and minimum-support escape with primary-weight accounting. |
 | dependency | [Rational primary entropy](Yin_C_G0205_v1.md#capture-equivalence) | Exact rational finite-dimensional/primary entropy and capture formula, repeated factors included; primitive nonmonic positive weights cost at least log2. |
 | dependency | [Frobenius nonvanishing](Yin_C_G0217_v2.md#bounded-length-gap) | Finite-order Galois argument and integer norm divisibility only, retaining the actual d/D degree cost for a multiple. |
-| dependency | [Binary support bound](Yin_C_G0210_v1.md#pisot-salem-attainment) | Fixed-input polynomial-times-M^n bound with parameter-dependent constants, used only to obtain a height-one relation. |
+| dependency | [General unit support packing](../audits/literature/BV20/Yin_U001.md#bv20-u001) | Proof-route item 6 counting upper bound for any fixed algebraic unit: retain every expanding conjugate and unit-circle polynomial factor, with parameter-dependent constants; used only to obtain a height-one relation. |
 | dependency | [Accepted bounded-support gap](../audits/literature/DS17/Yin_U001.md#ds17-u001) | For each fixed K>=2, nonzero integer polynomial support at mostK has m=0 or m>=eta_K>0; no explicit eta, degree/height bound or original-foundation proof audit. |
 
 
@@ -65,7 +65,7 @@ These are restricted presentation criteria and complexity obstructions; they sup
 | argument | [Argument](#argument) | Full neutral exact-sequence/entropy identity, actual norm d/D cost and disjoint-block counterfamily, binary-pigeonhole direction, complete DS17 multiplier inequality, absolute/relative-overhead and minimum-support escape with primary-weight accounting. |
 | dependency | [Rational primary entropy](Yin_C_G0205_v1.md#capture-equivalence) | Exact rational finite-dimensional/primary entropy and capture formula, repeated factors included; primitive nonmonic positive weights cost at least log2. |
 | dependency | [Frobenius nonvanishing](Yin_C_G0217_v2.md#bounded-length-gap) | Finite-order Galois argument and integer norm divisibility only, retaining the actual d/D degree cost for a multiple. |
-| dependency | [Binary support bound](Yin_C_G0210_v1.md#pisot-salem-attainment) | Fixed-input polynomial-times-M^n bound with parameter-dependent constants, used only to obtain a height-one relation. |
+| dependency | [General unit support packing](../audits/literature/BV20/Yin_U001.md#bv20-u001) | Proof-route item 6 counting upper bound for any fixed algebraic unit: retain every expanding conjugate and unit-circle polynomial factor, with parameter-dependent constants; used only to obtain a height-one relation. |
 | dependency | [Accepted bounded-support gap](../audits/literature/DS17/Yin_U001.md#ds17-u001) | For each fixed K>=2, nonzero integer polynomial support at mostK has m=0 or m>=eta_K>0; no explicit eta, degree/height bound or original-foundation proof audit. |
 | review | [Complete current finding](../audits/reviews/Yin_R_G0510_v1.md#current-sparse-completion-finding) | Entire exact Statement and Argument after actual current contributor self-review, with resolved accepted inputs and no isolated-review or original-proof-audit claim. |
 
@@ -132,7 +132,7 @@ The stronger known sparsity bounds reported in Smy08 have different proofs and a
 ## 3. What binary trajectory counting actually supplies
 
 For the unit core with M(p)<2, let X_n={sum_(j=0)^(n-1) epsilon_j alpha^j : epsilon_j in {0,1}}.
-The accepted BV20 support estimate retained in C210 is |X_n|<=C_alpha n^s M(p)^n, with constants depending on alpha.
+The accepted [BV20 general unit counting bound, proof-route item 6](../audits/literature/BV20/Yin_U001.md#bv20-random-walk-entropy) gives |X_n|<=C_alpha n^s M(p)^n, retaining every expanding conjugate, with s counting unit-circle conjugates and constants depending on alpha.
 Eventually this is less than 2^n.
 Two distinct binary words then have equal value, yielding a nonzero r in Z[t] with coefficients in {-1,0,1}, deg r<n, and p dividing r.
 

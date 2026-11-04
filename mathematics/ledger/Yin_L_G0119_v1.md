@@ -4,6 +4,10 @@ author: Yin
 
 # Suppressed central tails retain a linear binomial transient cost
 
+Current checking scope is owned by [R550](../audits/reviews/Yin_R_G0550_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct continuation of G0001 by the assigned AI assess_shortness_route for Yin.
 The coordinator proposed the balanced-tail interior calculation.

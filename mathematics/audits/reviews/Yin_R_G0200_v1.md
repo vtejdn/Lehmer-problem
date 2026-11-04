@@ -10,7 +10,7 @@ Root proposed the broad local-neighborhood successor after the global-product ob
 The assigned author developed that complete argument.
 Shared G context and author progress were available; this is nonblind noncontributor review of the new derivation.
 
-Root authored the earlier L369 Salem specialization, which already has separate whole reviews R270/R271.
+Root authored the earlier L369 Salem specialization, which already has separate whole reviews R194/R195.
 That input is reused at its independently reviewed scope and is not relabeled as a new independent root review.
 Root read the whole frozen D23, worked backward from its finite lower certificate, checked the new forward chain and compared the exact L368/L369/L371 interfaces.
 The retained Tao26 p.5 statement was directly text/visually read in the preceding source check; its higher-derivative method is only attribution because D23 proves its constants.
@@ -39,8 +39,8 @@ No new old review, independent arrangement or passage-reading minute is invented
 | [Whole local certificate](#whole-local-curvature-finding) | [D23 explicit oscillatory estimates](../../ledger/Yin_L_G0375_v1.md#explicit-local-vdc-two-four) | Constants8 and32, complete bad-set component count and open-interval exhaustion. |
 | [Whole local certificate](#whole-local-curvature-finding) | [D23 complement and tail](../../ledger/Yin_L_G0375_v1.md#complementary-interval-derivative-costs) | Actual monotonic pieces, endpoint minima, all rational/off-circle factors, complete summed costs and finite lower direction in Sections4--5. |
 | [Whole local certificate](#whole-local-curvature-finding) | [D23 quartic and limits](../../ledger/Yin_L_G0375_v1.md#actual-quartic-local-tail-control) | Exact symbolic cancellation, monotonicity, four-piece count and all unproved near-one cost conditions. |
-| [Whole local certificate](#whole-local-curvature-finding) | [L368 exact moment identity](../../ledger/Yin_L_G0368_v1.md#unregularized-integer-moment-certificate) | Same original moment sequence, canceled derivative/cusp facts and exact logarithmic identity at R269's reviewed scope. |
-| [Whole local certificate](#whole-local-curvature-finding) | [L369 actual Salem orders](../../ledger/Yin_L_G0369_v1.md#salem-interlacing-critical-orders) | Exact original domain and orders reused from R270/R271; no new independent review of root's upstream proof is claimed. |
+| [Whole local certificate](#whole-local-curvature-finding) | [L368 exact moment identity](../../ledger/Yin_L_G0368_v1.md#unregularized-integer-moment-certificate) | Same original moment sequence, canceled derivative/cusp facts and exact logarithmic identity at R193's reviewed scope. |
+| [Whole local certificate](#whole-local-curvature-finding) | [L369 actual Salem orders](../../ledger/Yin_L_G0369_v1.md#salem-interlacing-critical-orders) | Exact original domain and orders reused from R194/R195; no new independent review of root's upstream proof is claimed. |
 | [Whole local certificate](#whole-local-curvature-finding) | [L371 global-product limitation](../../ledger/Yin_L_G0371_v1.md#salem-nearest-product-exponential-cost) | Comparison only: its lower cost does not transfer automatically to this different local certificate. |
 
 <a id="whole-local-curvature-finding"></a>

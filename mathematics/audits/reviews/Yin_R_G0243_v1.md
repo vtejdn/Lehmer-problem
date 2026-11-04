@@ -25,11 +25,16 @@ Exact target: [D9 entire author freeze](../../claims/Yin_C_G0046_v1.md#coupled-p
 Starting status was author-complete with independent review pending.
 No target edit or author-repair cycle occurred.
 
+The initial C46 read included its author validation checklist, and the author completion summary was displayed before the review outcome.
+A denial of evidentiary use does not remove that additional mathematical context.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole finding](#coupled-profile-full-norm-whole-finding) | independently reviewed |
+| [Whole finding](#coupled-profile-full-norm-whole-finding) | self-reviewed |
 
 ## Review bindings
 

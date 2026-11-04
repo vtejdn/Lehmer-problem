@@ -96,7 +96,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-12T05:04 |
 | status | proved |
-| reason | Adopt the separately performed whole-author and ACTUAL registered-statement/interface findings at their exact scopes. Preserve complete author arguments, costs, source boundaries and review history; no unrestricted uniform estimate, optimizer beyond the stated attained quadratic case, or Task completion is inferred. |
+| reason | Adopt the separately performed whole-author and ACTUAL registered-statement/interface findings at their exact scopes. Preserve complete author arguments, costs, source boundaries and review history; no unrestricted uniform estimate, unconditional optimizer existence beyond the stated attainment equivalence and conditional classification, or Task completion is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -108,7 +108,7 @@ The recorded review description was `under review`.
 | dependency | [Totally real trace existence](Yin_C_G0011_v1.md#statement) | Known nonempty actual-order half-profiles, including degree-two scope. |
 | dependency | [Nonreal trace existence](Yin_C_G0013_v2.md#statement) | Its OWN accepted nonreal actual-order half-profile existence, not an extension of a different source. |
 | support | [Whole-author finding](../audits/reviews/Yin_R_G0237_v1.md#radical-circle-entire-author-finding) | Exact original author freeze only; the separate actual registered-statement and interface finding is selected below. |
-| review | [Actual independent extraction](../audits/reviews/Yin_R_G0237_v1.md#c40-radical-circle-extraction-finding) | Exact actual registered statement, full selected argument, present dependency interfaces and complete preservation, checked separately from the earlier whole-author scope. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0237_v1.md#c40-radical-circle-extraction-finding) | Exact actual registered statement, full selected argument, present dependency interfaces and complete preservation, checked separately from the earlier whole-author scope. Finding relationship: self-reviewed. |
 
 ## Argument
 
@@ -478,7 +478,7 @@ k1, W1, L/trace signature changes, tiny weights and the unattained-c0=1 boundary
 
 The arithmetic check reconstructed initial coefficientq1 versus later C37scalarq; full original norm powers including negative signs/evenk and norm1 monomials; least initial M and every integer copy; forward contents/coefficient energy and normalized norm income; reverse J, exact least indexed M_rev=2J-M via gcd1, optional unit copy J-M and merging-versus-final-M_w distinctions; each new signed block norm/content/copied product and the absence of an original nonlinear inventory transfer; actual independent/common-class support endpoints and the k-1 extra span bound; covariance radius versus coefficient union width; already completed base-packet C19transfer with its ACTUAL q/FINALM_w/E'/fullnorm/content/copies/physicalT and SAME scalar cancellation; every original root in m(Q)=m(P), degree-normalized height versus total measure and the reducible quadratic diagnostic.
 
-The source/reuse check read actual C19/R304, C16 domain/cost, C37/R236 and the accepted C11/C13 existence roles; the delegated bounded old L241/C7 screen was author-side attribution only.
+The source/reuse check read actual C19/[R746 historical whole finding](../audits/reviews/Yin_R_G0746_v1.md#radical-capacity-whole-author-finding), C16 domain/cost, C37/R236 and the accepted C11/C13 existence roles; the delegated bounded old L241/C7 screen was author-side attribution only.
 The direct normalized trace, finite phase sum and new rational normalizer are local; no C17strong duality, new source algorithm or uninspected external theorem is needed.
 Existing root-fiber/block mechanisms are credited without a novelty claim.
 Root's supplied candidate and this complete reconstruction are AUTHOR contributions, not independent review.

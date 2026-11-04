@@ -28,7 +28,8 @@ Consequently
 
 This is a feasible lower certificate, not equality or an optimality assertion.
 Hence M_N=N for every N is false.
-Any absolute K with M_N<=K*N for every N must have K>=66/65; existence of such a finite K remains OPEN.
+The finite example forces any putative absolute K with M_N<=K*N to satisfy K>=66/65.
+The later [C96](Yin_C_G0096_v1.md#statement) proves that no such finite absolute K exists; that conclusion is distinct from this Claim's finite example and row obstruction.
 
 **B. No absolute constant bounds every oriented smaller-neighbor row.**
 Put
@@ -59,8 +60,9 @@ The single witness in A uses primes2,3,5 and cannot be repeatedly tensored with 
 Additional compatible pairs may occur, so no numerator equality is asserted.
 
 **D. Original arithmetic limits.**
-The unrestricted averaged uniform-K question and C91's actual density-to-income conclusion remain unresolved.
-Under C91's OPEN uniform-K assumption, its retained implication still gives one n<=C*d with full original local income at least delta^2*gamma^2*log(2)*d/(4K*C), for positive ordered repeated-label triple density delta, selected original root mass W>=gamma*d and window X<=C*d.
+The original averaged uniform-K question is now refuted by C96.
+The later [C142 v2](Yin_C_G0142_v2.md#statement) supplies the abstract positive-density capture implication at these capacities; automatic positive-density coverage by actual polynomial inputs remains unresolved.
+Under C91's retained conditional uniform-K premise, its retained implication still gives one n<=C*d with full original local income at least delta^2*gamma^2*log(2)*d/(4K*C), for positive ordered repeated-label triple density delta, selected original root mass W>=gamma*d and window X<=C*d.
 Nothing in A--C realizes the abstract capacities by an actual irreducible nontorsion integer-unit polynomial, supplies a near-one family, establishes positive actual global triple density, bounds all-prime income or resolves G0001.
 All original roots, depths, norms and physical costs remain necessary in any arithmetic application.
 
@@ -91,7 +93,7 @@ The recorded review description was `under review`.
 | argument | [Complete original argument](#argument) | ENTIRE original D49 at11:40 freeze, initial question, search roles, nine-row witness, equations1--4, tensor limitation and all unresolved boundaries. |
 | dependency | [C91 exact extremum](Yin_C_G0091_v1.md#statement) | Actual definition and full-capacity downset interface; only the explicitly conditional uniform-K-to-income implication is retained, not adopted as unconditional. |
 | dependency | [L17 divergence](../ledger/Yin_L_G0017_v1.md#discriminant-divergence) | Only self-contained prime-reciprocal divergence for existence of a finite product with all primes>R; no discriminant theorem or prime-distribution rate is used. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0328_v1.md#short-pair-whole-independent-finding) | Complete actual D49 reviewed before this wrapper; no prospective actual-extraction coverage. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0328_v1.md#short-pair-whole-independent-finding) | Complete actual D49 reviewed before this wrapper; no prospective actual-extraction coverage. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -110,8 +112,8 @@ The recorded review description was `independently reviewed`.
 | argument | [Complete original argument](#argument) | ENTIRE original D49 at11:40 freeze, initial question, search roles, nine-row witness, equations1--4, tensor limitation and all unresolved boundaries. |
 | dependency | [C91 exact extremum](Yin_C_G0091_v1.md#statement) | Actual definition and full-capacity downset interface; only the explicitly conditional uniform-K-to-income implication is retained, not adopted as unconditional. |
 | dependency | [L17 divergence](../ledger/Yin_L_G0017_v1.md#discriminant-divergence) | Only self-contained prime-reciprocal divergence for existence of a finite product with all primes>R; no discriminant theorem or prime-distribution rate is used. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0328_v1.md#short-pair-whole-independent-finding) | Complete actual D49 reviewed before this wrapper; no prospective actual-extraction coverage. |
-| review | [Actual independent extraction](../audits/reviews/Yin_R_G0330_v1.md#c94-short-lcm-actual-extraction-finding) | Entire actual statement, complete retained D49, exact counts, all-R construction, tensor condition, source roles, conditional arithmetic interface and preservation; distinct noncontributor finding. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0328_v1.md#short-pair-whole-independent-finding) | Complete actual D49 reviewed before this wrapper; no prospective actual-extraction coverage. Finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0330_v1.md#c94-short-lcm-actual-extraction-finding) | Entire actual statement, complete retained D49, exact counts, all-R construction, tensor condition, source roles, conditional arithmetic interface and preservation; distinct noncontributor finding. Referenced finding relationship: self-reviewed. |
 
 
 ### Decision averaged-premise-resolved
@@ -130,8 +132,8 @@ The recorded review description was `independently reviewed`.
 | argument | [Complete original argument](#argument) | ENTIRE original D49 at11:40 freeze, initial question, search roles, nine-row witness, equations1--4, tensor limitation and all unresolved boundaries. |
 | dependency | [C91 exact extremum](Yin_C_G0091_v1.md#statement) | Actual definition and full-capacity downset interface; only the explicitly conditional uniform-K-to-income implication is retained, not adopted as unconditional. |
 | dependency | [L17 divergence](../ledger/Yin_L_G0017_v1.md#discriminant-divergence) | Only self-contained prime-reciprocal divergence for existence of a finite product with all primes>R; no discriminant theorem or prime-distribution rate is used. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0328_v1.md#short-pair-whole-independent-finding) | Complete actual D49 reviewed before this wrapper; no prospective actual-extraction coverage. |
-| review | [Actual independent extraction](../audits/reviews/Yin_R_G0330_v1.md#c94-short-lcm-actual-extraction-finding) | Entire actual statement, complete retained D49, exact counts, all-R construction, tensor condition, source roles, conditional arithmetic interface and preservation; distinct noncontributor finding. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0328_v1.md#short-pair-whole-independent-finding) | Complete actual D49 reviewed before this wrapper; no prospective actual-extraction coverage. Finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0330_v1.md#c94-short-lcm-actual-extraction-finding) | Entire actual statement, complete retained D49, exact counts, all-R construction, tensor condition, source roles, conditional arithmetic interface and preservation; distinct noncontributor finding. Referenced finding relationship: self-reviewed. |
 
 ### Decision current-prime-input-homes
 
@@ -147,7 +149,7 @@ The recorded review description was `independently reviewed`.
 | argument | [Complete original argument](#argument) | ENTIRE original D49 at11:40 freeze, initial question, search roles, nine-row witness, equations1--4, tensor limitation and all unresolved boundaries. |
 | dependency | [C91 exact extremum](Yin_C_G0091_v1.md#statement) | Actual definition and full-capacity downset interface; only the explicitly conditional uniform-K-to-income implication is retained, not adopted as unconditional. |
 | dependency | [Retained elementary divergence](Yin_C_G0220_v1.md#discriminant-divergence) | Only self-contained prime-reciprocal divergence for existence of a finite product with all primes>R; no discriminant theorem or prime-distribution rate is used. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0328_v1.md#short-pair-whole-independent-finding) | Complete actual D49 reviewed before this wrapper; no prospective actual-extraction coverage. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0328_v1.md#short-pair-whole-independent-finding) | Complete actual D49 reviewed before this wrapper; no prospective actual-extraction coverage. Finding relationship: self-reviewed. |
 | review | [Actual selected finding](../audits/reviews/Yin_R_G0330_v1.md#c94-short-lcm-actual-extraction-finding) | Entire actual statement, complete retained D49, exact counts, all-R construction, tensor condition, source roles, conditional arithmetic interface and preservation; distinct noncontributor finding. |
 
 ## Registration and complete preservation

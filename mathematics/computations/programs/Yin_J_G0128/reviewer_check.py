@@ -1,8 +1,8 @@
 """Independent review of exactly J128's three declared CRT targets.
 
 Reviewer-authored exponent-set arithmetic is adapted from the reviewer's J127
-checker, with no contributor-code imports.  The fixed C643v2/J126 group theorem
-is accepted at R987v2's exact scope; no group construction or source scan runs.
+checker, with no contributor-code imports.  The fixed C621v2/J126 group theorem
+is accepted at R825v2's exact scope; no group construction or source scan runs.
 """
 
 import json
@@ -102,10 +102,10 @@ def leading(a):
 def main():
     home = Path(__file__).resolve().parent
     outputs = home.parents[2] / 'computations' / 'outputs'
-    fixed_path = outputs / 'Yin_J_G0126' / 'certificate.json'
+    fixed_path = home.parent / 'Yin_J_G0126' / 'inputs' / 'certificate.json'
     fixed = json.loads(fixed_path.read_text(encoding='utf-8'))
     certificate = json.loads((outputs / home.name / 'certificate.json').read_text(encoding='utf-8'))
-    assert certificate['fixed_input'] == 'mathematics/computations/outputs/Yin_J_G0126/certificate.json'
+    assert certificate['fixed_input'] == 'mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json'
     assert fixed['M'] == certificate['modulus'] == encode(MODULUS)
     parameters = [(0, 1), (1, 0), (1, 1)]
     assert certificate['parameters'] == [list(p) for p in parameters]
@@ -178,7 +178,7 @@ def main():
     output = {'verified': True, 'scope': 'Exactly J128 parameters (0,1), (1,0), (1,1) in X^8 phi^16',
               'results': results, 'used_pivot_expressions': sorted(used),
               'total_cancellations': sum(len(r['trace']) for r in results),
-              'accepted_input': 'Unchanged C643v2/J126 complete group theorem, previously reviewed in R987v2',
+              'accepted_input': 'Unchanged C621v2/J126 complete group theorem, previously reviewed in R825v2',
               'limits': 'No fourth native target, ratio test, new group construction, source scan, enlarged modulus, or original-input witness.'}
     (outputs / home.name).mkdir(parents=True, exist_ok=True)
     (outputs / home.name / 'reviewer_verification.json').write_text(json.dumps(output, indent=2)+'\n', encoding='utf-8')

@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-10.
 
 Current responsible home, maintained 2026-10-22T04:57: [C517 Statement](../claims/Yin_C_G0517_v1.md#statement) and [entire original Argument](../claims/Yin_C_G0517_v1.md#argument), formally adopted 2026-10-22T04:53 through [R728's entire current SELF](../audits/reviews/Yin_R_G0728_v1.md#current-finite-pressure-whole-self-finding).
-The [original entire author check](../audits/reviews/Yin_R_G0728_v1.md#original-finite-pressure-author-finding) remains SELF at its recorded2026-10-10 day precision;12:13 freeze and12:23:02 separate review are distinct events.
+The [original entire author check](../audits/reviews/Yin_R_G0728_v1.md#original-finite-pressure-author-finding) remains SELF at its recorded2026-10-10 day precision;2026-10-10T04:13 freeze and 2026-10-10T04:23 separate review are distinct events.
 The [original whole R135](../audits/reviews/Yin_R_G0135_v1.md#finite-pressure-complete-independent-review) remains UNKNOWN because the additional author-outline content and initial exposure order are unestablished, without inferring shared target development.
 All original text below, including the complete fixed proof, actual old review input, historical adoption, source/no-program/contribution/cost and negative scope, remains unchanged.
 Its dated active/pending language selects no current Task/E.

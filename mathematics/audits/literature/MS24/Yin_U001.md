@@ -10,18 +10,12 @@ author: Yin
 
 Source edition: Retained arXiv:2406.15922v1, 19 pages; margin date 2024-06-22 and distinct title-page date 2024-06-25.
 
-Passages: Source: [MS24 PDF](../../../literature/pdf/MS24.pdf), arXiv v1, Definitions 1.1, 2.1 and 2.5, Remarks 2.2/2.6, Propositions 2.3-2.10, printed/PDF pp. 3-9.
+Passages: [MS24 PDF](../../../literature/pdf/MS24.pdf), Definitions 1.1, 2.1 and 2.5, Remarks 2.2/2.6, Propositions 2.3--2.10, printed/PDF pp. 3--9.
 
-Inspection: Date/reviewer: 2026-09-12, assigned MS24 reviewer.
-
-
-The registered artifact and acquisition record retain both dates.
+Inspection: 2026-09-12, assigned MS24 reviewer.
+Definitions and local formulas were directly checked; external proof boundaries are collected in [U005](Yin_U005.md#ms24-u005).
 
 ## MS24-U001
-
-Source: [MS24 PDF](../../../literature/pdf/MS24.pdf), arXiv v1, Definitions 1.1, 2.1 and 2.5, Remarks 2.2/2.6, Propositions 2.3-2.10, printed/PDF pp. 3-9.
-Date/reviewer: 2026-09-12, assigned MS24 reviewer.
-Definitions and local formulas were directly checked; external proof boundaries are collected in [U005](Yin_U005.md#ms24-u005).
 
 <a id="determinant-convention"></a>
 ### The Ambient Algebra and Determinant

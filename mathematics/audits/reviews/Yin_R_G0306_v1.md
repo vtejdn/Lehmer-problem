@@ -6,7 +6,7 @@ author: Yin
 Date: 2026-10-12T16:14.
 Human record author Yin.
 The rounding-recovery AI conducts a separately organized NONCONTRIBUTOR actual extraction review of C80.
-Root authored D36's period18 family, complete seam/padding proof and infinite-subsequence consequences; matrix-recovery authored this new wrapper after its original whole R409.
+Root authored D36's period18 family, complete seam/padding proof and infinite-subsequence consequences; matrix-recovery authored this new wrapper after its original whole R303.
 This reviewer contributed none of that periodic proof or wrapper.
 It authored the accepted original C76 proof and the separate J93/D33 finite exploration, whose W word was a disclosed discovery lead for D36.
 Neither that native output nor C79 is a proof premise here; this finding does not independently verify the reviewer's own ancestor or native work.
@@ -17,7 +17,7 @@ The actual extraction finding is therefore self-reviewed; the unrelated C76 ance
 Its original date, complete direct reconstruction, exact scope and explicit limits on native evidence remain unchanged.
 
 The reviewer read the entire ACTUAL C80 A--F and retained original23:52 D36, then independently reconstructed the complete integer convolution, all18 sign-table rows and paired exclusions, both outer boundaries, all-k lengths and probabilities, odd/even midpoint cuts, finite spectral implications and exact decay exponents.
-Initial findings were formed before reading the concluding mathematical account of R409.
+Initial findings were formed before reading the concluding mathematical account of R303.
 That original whole finding was subsequently read for agreement and scope only; it does not prospectively review C80.
 This is internal AI mathematical review, not external human refereeing or formal verification.
 No native mathematical program, new source acquisition, target edit or adoption occurred.
@@ -132,7 +132,7 @@ The current Claim has31988 characters and383 lines and is pure ASCII.
 This preservation check executes no mathematical program and produces no mathematical digest.
 
 The statement's A--F correctly extracts the entire proved scope; its initial proof-draft/under-review assessment and separate-original-review support are truthful.
-R409 agrees with the direct reconstruction above but covers only original D36.
+R303 agrees with the direct reconstruction above but covers only original D36.
 It does not replace this actual wrapper review.
 The only adopted dependency is the exact C76 original-law/operator and conditional-gap interface.
 The reviewer rechecked that interface's use without re-certifying its own ancestor proof.

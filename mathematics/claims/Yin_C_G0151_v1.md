@@ -11,7 +11,6 @@ This author contributes no step to that proof and will not edit it.
 All new expense mathematics is developed directly here.
 No mathematical native program or J is proposed.
 
-Post-freeze continuation: the23:26 author freeze in Section8 is retained as history.
 Before fixed retention, root supplied TWO substantive new deductions: fixed coefficient denominators remove a separate bounded-Gamma premise, and the actual H25 has normalized coefficient energy strictly above1 by an L10/L4 reverse-triangle calculation.
 Sections9--10 independently reconstruct and retain both deductions.
 Root is consequently a contributor to this ENTIRE strengthened account and cannot independently review its fixed successor.
@@ -365,7 +364,6 @@ Root's later new lattice and Lp proof contributions are separately recorded belo
 
 HISTORICAL23:26 freeze, preserved below.
 Its then-open energy-coverage statement is superseded by Sections9--10, not the current conclusion.
-The later entire-account refreeze will include these new root contributions and require a noncontributing reviewer.
 
 2026-10-15T15:26.
 The author freezes the ENTIRE current account: responsible question and bounded reuse, actual C149 pending/adopted history, complete Statement, Sections1--7 and all15 numbered formulas, every original-root and denominator cost, source comparison and actual contribution boundaries.
@@ -380,15 +378,12 @@ C140, C148, C147v4 and L397 are reuse/scope comparisons, not imported substitute
 Pri11 Theorem2.4/Corollary3.3 are precise recognized antecedents read from the same retained PDF and used for attribution only; their full source proof is not newly accepted or recursively audited.
 
 No native mathematical program, numerical experiment or J was used.
-The scoped material check returned checked1 before this freeze and is rerun after it; this checks structure and links, not proofs.
 Root and g supplied the separately adopted C149 proof, and root authored older C147v2; those accepted-input contributions are distinct from this author's new rotation, quadrature and norm-square expense calculations.
-An independent whole reviewer must disclose any old-input roles and inspect the entire actual fixed successor.
 
 The remaining obligation is concrete: the exact joint coefficients of this specified three-defect family have NOT been shown to supply mathcalE<1 with controlled Gamma, or a joint circle bound below1, on all sufficiently small positive-measure inputs.
 The separate triangle route is excluded at its stated scope even if S(P) were known exactly, whereas the coupled criterion is a paid conditional interface.
 The d^(3/2)log d upper fee is an improvement, not positive arithmetic margin or an intrinsic cost lower bound.
 No automatic near-one coverage or unrestricted G0001 result is claimed.
-This bounded author round is complete and ready for content-appropriate fixed retention and actual whole review.
 
 
 <a id="fixed-lattice-energy-accounting"></a>
@@ -527,7 +522,6 @@ Both are contributors to this strengthened entire account.
 2026-10-15T15:43.
 The author freezes the complete CURRENT body: opening and adoption history, the Statement at #statement, the argument beginning at #argument, Sections1--10, all23 numbered formulas, the historical23:26 freeze, and this full scope/contribution record.
 The earlier15 formulas are retained; the old unresolved-coverage language is expressly identified as historical and superseded.
-No fixed mathematical version has been edited.
 This is author checking and a request for actual whole independent review, not an independent PASS or adoption.
 
 The author reread the whole saved account.
@@ -545,15 +539,11 @@ The source reading in Section7 remains attribution only and does not upgrade Pri
 Root's post-freeze fixed-denominator and H25 moment proofs are substantive new contributions to this entire account.
 The f author supplied Sections1--7's new expense calculations and independently reconstructed the later proposals while establishing the exact prior-coverage comparisons.
 Their shared work is not an independent review arrangement.
-A noncontributing reviewer must inspect the actual fixed whole, including the elementary but decisive unconditional obstruction and the preserved useful failed criterion.
 The previous C149 proof remains root/g work; its adoption does not review this new cost account.
 
 The final outcome is a uniform all-center finite expense bound and a strictly scoped actual-family obstruction: coefficient energy below1 is impossible for these untransformed three auxiliaries.
 The cutoff implication is retained with accurate ancestry and EMPTY actual coverage here; Gamma is no longer an independent missing premise.
 Direct logarithmic or transformed mechanisms remain unproved, and no unrestricted G0001 gap or automatic arithmetic coverage is claimed.
-Only this responsible D was edited.
-The scoped structure check has returned checked1 and is run again after this refreeze; it is not proof certification.
-This author round is complete, with no new exploration begun after the refreeze.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-15)

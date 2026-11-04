@@ -9,11 +9,17 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: BV20, [retained PDF](../../../literature/pdf/BV20.pdf): E. Breuillard and P. P. Varju, *Entropy of Bernoulli convolutions and uniform exponential growth for linear groups*, arXiv:1510.04043v4, 23 April 2021, 33 pages. Published article: J. Anal. Math. 140 (2020), 443--481. This audit belongs to v4, not automatically to journal or earlier preprint bytes.
+Source edition: BV20, [retained PDF](../../../literature/pdf/BV20.pdf): E. Breuillard and P. P. Varju, *Entropy of Bernoulli convolutions and uniform exponential growth for linear groups*, arXiv:1510.04043v4, 23 April 2021, 33 pages.
+Published article: J. Anal. Math. 140 (2020), 443--481.
+This audit belongs to v4, not automatically to journal or earlier preprint bytes.
 
 Passages: Theorem 5 and Remark 6, pp.3--4; Sections 2 and 3.1--3.3, pp.6--21, including Lemmas 9, 11--12, 14, 16, 18, Theorem 10, Proposition 13, Corollary 15 and Proposition 17 (= Proposition 7). Printed and PDF page numbers coincide.
 
-Inspection: 2026-10-06; human author Yin, prepared by an assigned AI source-review agent. All mathematical body pp.1--31 was read; this unit records the analytic proof and its actual repairs/limits. Delicate formulas on rendered pp.3--5,12--13,15--17,20 were checked. The agent self-checked this record; a separate root agent independently confirmed the conditioning, Gaussian-tail and zero-parameter findings. No formal verification or recursive audit of external originals is asserted.
+Inspection: 2026-10-06; human author Yin, prepared by an assigned AI source-review agent.
+All mathematical body pp.1--31 was read; this unit records the analytic proof and its actual repairs/limits.
+Delicate formulas on rendered pp.3--5,12--13,15--17,20 were checked.
+The agent self-checked this record; a separate root agent independently confirmed the conditioning, Gaussian-tail and zero-parameter findings.
+No formal verification or recursive audit of external originals is asserted.
 
 
 ## Assessment and scope

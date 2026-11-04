@@ -283,7 +283,7 @@ The stable-finite overlap proof and its Schur factors keep the same chosen ambie
 The complete source arguments are already retained in the preceding Theorem4.4/Lemma4.8 sections of this unit and are not duplicated.
 
 The earlier deliberately nonminimal semicircular example records the original source unit's limited diagnostic.
-The subsequent accepted C_F0012 Sections6-7 supply the stronger actual bounded-dual model, C*-distance obstruction and minimal two-state form.
-Matrix C*-inverse closure then excludes every alternative bounded inverse-pencil representation, as explicitly retained in the comparison.
-These project deductions are not assertions of MSY23's source theorem, and the recorded fresh checks of those portions belong to the R_F0184 family.
+The earlier account reports a later bounded-dual model, C*-distance obstruction and minimal two-state argument under former C_F0012 Sections6--7, with checks under former R_F0184.
+Those original fixed project proof/review homes have not been located in the current retained F-family collection; the current same-number objects supply no substitute.
+The claimed matrix C*-inverse-closure exclusion is a project deduction requiring that original argument for reuse, not an assertion of MSY23's source theorem or a newly adopted consequence here.
 No original-source opening, mathematical proof change or new source review occurred during this retention.

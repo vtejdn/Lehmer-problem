@@ -137,7 +137,7 @@ There is no new graph length, native execution, external source theorem or sourc
 | --- | --- |
 | date | 2026-10-22T04:54 |
 | status | proved |
-| reason | Adopt after actual complete whole SELF formed12:53 of the exact current Statement and entire complete-fiber fixed-hub proof, all conductance/path/reflection/return-normalization factors and original full product mass, using only the retained n8 seed. No substantive defect or proof repair was found. The original complete author check is retained separately, and original R562 inputs/date/exposure remain. Uniform load does not pay the unproved half-product mass premise, and neither actual critical mean, growing-patch control, new computation nor Task/E continuation is asserted. |
+| reason | Adopt after actual complete whole SELF formed12:53 of the exact current Statement and entire complete-fiber fixed-hub proof, all conductance/path/reflection/return-normalization factors and original full product mass, using only the retained n8 seed. No substantive defect or proof repair was found. The original complete author check is retained separately, and original R416 inputs/date/exposure remain. Uniform load does not pay the unproved half-product mass premise, and neither actual critical mean, growing-patch control, new computation nor Task/E continuation is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -175,7 +175,7 @@ No new graph length, numerical scan or mathematical program is used.
 <a id="fixed-seed-weight-question"></a>
 ## Changed concrete mechanism and reused inputs
 
-[L410](Yin_C_G0514_v2.md#nested-normalized-carry-support) proves that the normalized b=2 carry graphs are induced nested graphs and that the n=8 seed is connected.
+[L409](Yin_C_G0514_v2.md#nested-normalized-carry-support) proves that the normalized b=2 carry graphs are induced nested graphs and that the n=8 seed is connected.
 Its zero-padding estimate concerns a specified copy of full words and explicitly does NOT bound all later representations of those endpoint edges.
 Here the candidate is to keep the finite connected n=8 seed as a permanent hub network, use ALL representations of every seed endpoint at later lengths, and route all seed endpoint pairs on fixed paths.
 We calculate actual multiplicity ratios, original conductances, full endpoint mass and the resulting weighted path load.
@@ -186,8 +186,8 @@ The finite seed has25 left and25 right endpoints and141 edges and is connected, 
 The present author contributed to C170/J106 and does not independently re-review them.
 [L329](Yin_C_G0204_v1.md#complete-midpoint-tightness-test) supplies original endpoint autocorrelation domination, overlap D_k and its actual critical-mean equivalence.
 [C169](Yin_C_G0169_v1.md#endpoint-collision-monotonicity) gives monotonicity of the original return probabilities.
-[C76](Yin_C_G0076_v1.md#statement) and L410 already retain the weighted path-Cauchy argument; no general path theorem is claimed anew.
-A bounded reuse check of C76, C170, L329, L332, L353 and L410 found no complete-fiber estimate for this fixed persistent hub; this is not a literature novelty claim.
+[C76](Yin_C_G0076_v1.md#statement) and L409 already retain the weighted path-Cauchy argument; no general path theorem is claimed anew.
+A bounded reuse check of C76, C170, L329, L332, L353 and L409 found no complete-fiber estimate for this fixed persistent hub; this is not a literature novelty claim.
 
 <a id="seed-complete-count-comparison"></a>
 ## 1. Complete endpoint count comparison at fixed seed vertices
@@ -207,7 +207,7 @@ For a normalized left endpoint x=beta^-k a and right endpoint c, the middle word
 The notation S_k is the complete weighted return sum, not a restricted seed normalization.
 The endpoint marginals are r_k(x)=sum_c W_k(x,c), h_k(c)=sum_x W_k(x,c), and pi_k(x)=r_k(x)/S_k.
 Let V and U be the normalized left and right vertex sets of the actual connected n=8 seed, so k0=6 and |V|=|U|=v=25.
-Every seed edge and its two normalized labels persist at all k>=6 by L410.
+Every seed edge and its two normalized labels persist at all k>=6 by L409.
 Put a=4^-6.
 Then for every k>=6 and every seed x in V,c in U,
 
@@ -272,14 +272,14 @@ The ordered-pair path-Cauchy argument therefore gives, for every real f on V,
 
 This is a proved uniform finite-patch coefficient in the actual complete-fiber weights.
 It neither replaces the original stationary law by a uniform law nor asserts positive original mass for V.
-Reflection is used only to state this local estimate; it is not a replacement of the full operator in L410.
+Reflection is used only to state this local estimate; it is not a replacement of the full operator in L409.
 
 <a id="seed-path-load-and-mass"></a>
 ## 3. Original path load and the precise retained-pair mass
 
 For the full endpoint law choose G_k=(V times V) union {(x,x):x any actual vertex}.
 Use the fixed tree paths on V and empty paths on the other diagonal pairs.
-With the exact load convention of L410, every used edge has
+With the exact load convention of L409, every used edge has
 
     Load_k(e)<= L M_k^2/(2 c_k(e))
               <=[L C/(2a^3)] M_k^2/t_k
@@ -306,14 +306,14 @@ Thus (8) supplies the explicit UNIFORM original-load bound
 
     Load_k(e)<= L v^2 C^3/(32a^3) for all k>=6.        (11)
 
-This proves the load half of L410's partial-path test for the concrete fixed-seed mechanism.
+This proves the load half of L409's partial-path test for the concrete fixed-seed mechanism.
 The discarded-mass half remains a separate expense: the finite-patch coefficient does not certify that G_k carries more than one half of the original product law.
 
 <a id="seed-fixed-support-boundary"></a>
 ## 4. What this finite-block mechanism does and does not settle
 
 Equations (4) and(10) prove that the original probability of the COMPLETE seed endpoint set is comparable, with fixed positive explicit constants, to1/D_k.
-Unlike L410's specified zero-word padding, this conclusion includes every later full-word representation of its labels.
+Unlike L409's specified zero-word padding, this conclusion includes every later full-word representation of its labels.
 If the actual mean is infinite, L329 supplies a common subsequence k_j tending to infinity with D_(k_j) tending to infinity.
 Along that subsequence (9) gives
 
@@ -338,8 +338,8 @@ No translated-seed uniformity, all-state ratio bound, growing-patch construction
 | --- | --- |
 | [C170 weighted endpoint reduction](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Exact original endpoint weights, two-step conductances and complete fiber law; no uniform contraction is borrowed. |
 | [J106 complete six-case results](../computations/programs/Yin_J_G0106/readme.md#complete-six-case-results), [R412](../audits/reviews/Yin_R_G0412_v1.md#carry-j106-whole-independent-finding) | Only actual n8 connected seed,25 vertices per side and141 edges; no larger length computed, no spectral numerical estimate used. |
-| [L410 induced nesting](Yin_C_G0514_v2.md#nested-normalized-carry-support) | All later original seed edges and normalized labels persist; this alone supplied no complete-fiber weight comparison. |
-| [L410 partial paths](Yin_C_G0514_v2.md#partial-path-weighted-carry-target), [R414](../audits/reviews/Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Actual ordered-pair load convention, bad mass threshold and distinction from the unproved all-late bulk condition. |
+| [L409 induced nesting](Yin_C_G0514_v2.md#nested-normalized-carry-support) | All later original seed edges and normalized labels persist; this alone supplied no complete-fiber weight comparison. |
+| [L409 partial paths](Yin_C_G0514_v2.md#partial-path-weighted-carry-target), [R414](../audits/reviews/Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Actual ordered-pair load convention, bad mass threshold and distinction from the unproved all-late bulk condition. |
 | [L329 original law](Yin_C_G0204_v1.md#actual-midpoint-occupation-reuse), [mean equivalence](Yin_C_G0204_v1.md#complete-midpoint-tightness-test) | Complete autocorrelation domination nu_k(z)<=p_k, D_k>=1 and the finite-mean/overlap equivalence. |
 | [L329 null-branch subsequence](Yin_C_G0204_v1.md#null-branch-original-bridge-escape) | Infinite mean would supply D_(k_j) tending to infinity, not an assertion of the actual mean branch or an all-time divergence. |
 | [C169 collision monotonicity](Yin_C_G0169_v1.md#endpoint-collision-monotonicity) | Original p_l is nonincreasing; its large-block gap is not transferred. |

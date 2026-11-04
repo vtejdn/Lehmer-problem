@@ -48,7 +48,7 @@ An expanding embedding exists by the finite logarithmic kernel applied to powers
 The endpoint integrality gives the nonzero norm lower bound and rho^k<=H_A^d; this step is not asserted for fractional S-units, and no d,s-only endpoint-height or chain-length bound follows.
 The exact substochastic finite matrix preserves every digit weight.
 Formal inversion and first-return splitting give both cofactor/determinant rational expressions, all constant terms and numerator/denominator degrees, including the one-state case and possible common factors.
-The actual positive convergence window is only the retained C372 window; algebraic continuation is not substituted for the path sum or extrapolated as S grows.
+The actual positive convergence window is only the retained C369 window; algebraic continuation is not substituted for the path sum or extrapolated as S grows.
 All five global conditions are proved in both directions.
 Finite D gives one finite prime support and bounded norms; bounded norms give finitely many possible ideal factors; common support gives the actual finite core.
 For language regularity, the actual graph plus one dead state loses no completion, and affine suffix injectivity separates every pair of distinct actual states in any accepting deterministic automaton.
@@ -71,7 +71,7 @@ The actual difference digits give the fair-binomial occupied count after summing
 Its exact fourth-power generating value gives the literal n/8 lower-tail bound, and symmetry gives the literal 7n/8 upper-tail bound without any divisibility convention.
 The two extreme classes and strict middle class cover every first return.
 Their full infinite weighted extreme tail is a convergent geometric series only on az<1.
-At z=4/3 the exact r^4=625/648<1 allows subtraction of a finite upper bound from the C368 complete-tail inequality, including an infinite middle sum, without infinity-minus-infinity.
+At z=4/3 the exact r^4=625/648<1 allows subtraction of a finite upper bound from the C365 complete-tail inequality, including an infinite middle sum, without infinity-minus-infinity.
 On the actual no-padding Salem progression, d tends to infinity and the middle lower limit is at least 1/3 while both extremes vanish.
 An input-independent cutoff b(n)/n->0 is eventually below n/8 uniformly for all n>d; no claim about an arbitrary input-dependent cutoff is made.
 Minimal zero blocks exist by finite extraction; distinct occupied exponents and nontorsion exclude arities one and two.

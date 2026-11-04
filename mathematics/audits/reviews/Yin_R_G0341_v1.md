@@ -5,18 +5,24 @@ author: Yin
 
 Date: 2026-10-13T05:16.
 Human record author Yin.
-The separately assigned squarefree_extraction_review agent reviews the ENTIRE NEW D24, Fixed positive triple density without uniform short-pair constants, at its final13:11 author freeze. direct_triple authored this original and GW21-U001.
+The separately assigned squarefree_extraction_review agent reviews the ENTIRE NEW D24, Fixed positive triple density without uniform short-pair constants, at its final13:11 author freeze.
+direct_triple authored this original and GW21-U001.
 This reviewer contributed no source adaptation, inequality, norm transfer or repair.
 Inherited task context and the assignment supplied prior result summaries and requested inspection topics; no prior independent finding about this D24 was supplied or consulted.
 This is not claimed to be a blind review.
 The reviewer first read the full original and GW21-U001, reconstructed its obligations, then read the exact C91/L74/L168 interfaces, C97's comparison scope, source provenance and the existing Pri11 acceptance boundary.
 Earlier reviews of different uses of the rolling address D24 supply no coverage of this new artifact.
 
+The initial full original C101 argument included its author validation checklist and explicit AUTHOR-checking conclusion beyond the necessary proof.
+The exact contents of the other inherited prior-result summaries remain unrecorded, but that uncertainty does not remove the known additional author-validation input.
+The whole finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole weighted-capture finding](#weighted-dyadic-capture-whole-independent-finding) | independently reviewed |
+| [Whole weighted-capture finding](#weighted-dyadic-capture-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

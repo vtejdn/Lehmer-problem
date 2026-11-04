@@ -37,7 +37,7 @@ No target, C/T/E/S decision, shared index, old review or author output was chang
 | [Whole finding](#whole-a16-full-support-native-finding) | [C649v1 statement](../../claims/Yin_C_G0649_v1.md#statement) | Exact accepted HC6 eta=0 full targets, HC8 complete B=X^24, original domain, actual layers, q and degree costs. |
 | [Whole finding](#whole-a16-full-support-native-finding) | [C649v1 argument](../../claims/Yin_C_G0649_v1.md#argument) | Actual complete-factor bridge from V_0=X^40Y and required corrected-root precision; complete support is used in the new quotient, not extrapolated old-image membership. |
 | [Whole finding](#whole-a16-full-support-native-finding) | [C649 adoption](../../claims/Yin_C_G0649_v1.md#decision-whole-reviewed-2026-10-23) | Existing accepted fixed HC1--HC8 interface; no new verdict for its ancestors. |
-| [Whole finding](#whole-a16-full-support-native-finding) | [Prior whole C677 review](Yin_R_G0857_v1.md#whole-uniform-crt-a16-finding) | Reused only for the exact accepted C649 proof and its inherited source/native limits, never as coverage of new C651 or J130. |
+| [Whole finding](#whole-a16-full-support-native-finding) | [Prior whole C649 review](Yin_R_G0857_v1.md#whole-uniform-crt-a16-finding) | Reused only for the exact accepted C649 proof and its inherited source/native limits, never as coverage of new C651 or J130. |
 | [Whole finding](#whole-a16-full-support-native-finding) | [J130 full README](../../computations/programs/Yin_J_G0130/readme.md) | Entire question, row/lift bounds, period and normal-form mechanism, fixed two targets, reproduction contract and author relationship. |
 | [Whole finding](#whole-a16-full-support-native-finding) | [J130 results](../../computations/programs/Yin_J_G0130/readme.md#results-and-limits) | All 640 rows, 152 pivots, index32, missing coordinates, event/cancellation counts, complete products and two nonmembers; historical author execution facts retain their observation boundary. |
 | [Whole finding](#whole-a16-full-support-native-finding) | [Author generator](../../computations/programs/Yin_J_G0130/main.py) | Complete source inspected: recurrence modulo M_pre, exact division, restricted inverses, full-vector insertion, closures, target CRT and bounded atomic publication; not executed by this reviewer. |
@@ -197,9 +197,9 @@ All original support and degree costs are retained.
 
 The new trace, period, exact-division, finite-group and CRT steps are supplied by explicit elementary proofs and the bounded exact native reconstruction; no unverified external assertion was introduced for them.
 C649 is reused only at its actually adopted whole interface, with its R857 source limits.
-Its C197/C199 ancestry and earlier classification/native inputs retain their recorded physical scopes and all SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries.
+The C197/C199 ancestry retains the recorded Smy08/Bel17 source limits and R477's actual C197v3 finding and R489's separate C199v3/v4 findings, all at their original UNKNOWN initial-context scopes.
 The Smy08/Bel17 source inputs remain inherited at the accepted interfaces; no classical source was reacquired or given a fresh whole-proof audit.
-R1017, R857 and all earlier native findings remain confined to their own targets and moduli.
+R847, R857 and all earlier native findings remain confined to their own targets and moduli.
 J126/J129 and other older J data were not rerun, altered or treated as native inputs to the new question.
 
 This is a whole proof and computation review of SJ1--SJ7, not a formal-proof-assistant verification or an unrestricted Task-completion audit.

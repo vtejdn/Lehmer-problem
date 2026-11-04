@@ -12,8 +12,8 @@ Root and f_unitary_scope are new proof contributors; this reviewer supplied none
 The review is non-blind.
 Shared G0001 context, the assignment and the author checks were available.
 The preceding assignment to this reviewer was SOURCE/reuse-only concerning a different positive mixed-defect candidate; it supplied old locators, not the present rotation, quadrature, norm-square coupling, lattice or Lp arguments.
-The reviewer checked C149 as R367 and C140 as R495, and the later C147 inputs as R507/R508.
-Those historical independent designations do not certify current relationships; R367 and R495 are unknown.
+The reviewer checked C149 as R367 and C140 as [R801 original normalized-sparse-cost](Yin_R_G0801_v1.md#normalized-sparse-cost-whole-independent-finding), and the later C147 inputs as R363/R364.
+Those historical independent designations do not certify current relationships; R367 and [R801 original normalized-sparse-cost](Yin_R_G0801_v1.md#normalized-sparse-cost-whole-independent-finding) are unknown.
 Those are inherited at their own exact scopes and do not already review this new consumer.
 The reviewer's OLD C137 authorship is an accepted antecedent role behind the C140 comparison, not a claim to independently re-review that old proof or authorship of this new argument.
 C134's old author role, relevant to C147v4, is not a premise of the present direct finite-energy calculation.

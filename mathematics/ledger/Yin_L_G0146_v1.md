@@ -4,12 +4,16 @@ author: Yin
 
 # Literal improved collar costs and their same-window consequences
 
+Current checking scope is owned by [R47](../audits/reviews/Yin_R_G0047_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Bounded G0001 cost derivation by the assigned execution_and_deliverables AI for Yin.
 The coordinator requested the comparison of the literal L G0144 safe minimum inside the L G0143 balanced recursion, and independently supplied the elementary Phi>=1 observation used below.
 The assigned agent derived the common lower bound for both local branches, the two global-radius comparisons, the inverse-m cost and the exact cutoff consequence.
 These are disclosed contributions.
-Complete independent review is recorded below.
+The complete checking account below retains the responsible findings' actual relationships.
 No numerical experiment, optimization, new source, allocation or fixed-material edit is involved.
 
 ## Fixed input, literal choices and constants

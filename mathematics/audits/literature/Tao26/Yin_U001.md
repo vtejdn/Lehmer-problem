@@ -9,7 +9,7 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: [Tao26](../../../literature/pdf/Tao26.pdf), author-hosted *Lecture notes8for247B*, Terence Tao; undated retained PDF. The provisional key uses2026access-year basis and asserts no publication/edition date. Artifact.
+Source edition: [Tao26](../../../literature/pdf/Tao26.pdf), author-hosted *Lecture notes8for247B*, Terence Tao; undated retained PDF. The provisional key uses2026access-year basis and asserts no publication/edition date.
 
 Passages: Lemma2.4 and its proof, printed/PDFp.5, using integration-by-parts equation(4) on printed/PDFp.4.
 
@@ -51,7 +51,7 @@ No full lecture audit, formal verification or G0001 completion is asserted.
 ## Original additional primary-page reading
 
 The [original whole local review](../../reviews/Yin_R_G0193_v1.md#whole-oscillatory-certificate-finding), dated2026-10-11T11:46, directly text-read complete printed/PDFpp.4--5 of the retained primary notes and reconstructed the selected integration-by-parts mechanism.
-This was another actual reader/occurrence, distinct from the root19:38 passage check and the analytical author's earlier online lemma reading; the author's19:36 freeze is not a separately recorded reading minute.
+This was another actual reader/occurrence, distinct from the root 11:38 UTC passage check and the analytical author's earlier online lemma reading; the author's 11:36 UTC freeze is not a separately recorded reading minute.
 Its higher-derivative/stationary-phase statements and other source pages were not audited.
 The local reviewer explicitly read the target proof and author self-check in its initial whole inspection, so that project finding is SELF; this source occurrence supplies no independent full-source audit.
 The complete local canceled-phase and finite-moment proof now belongs to [C_G398](../../../claims/Yin_C_G0398_v1.md#oscillatory-moment-reuse-and-domain).

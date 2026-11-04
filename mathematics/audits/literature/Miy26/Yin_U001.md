@@ -125,27 +125,13 @@ No new project theorem, unrestricted operator-domain assertion, or formal verifi
 On 2026-09-08, the separate spectral-interface reviewer checked the regularizer domains, canonical L2 model and reused interfaces; no unresolved local issue was found.
 The integrated audit records the complete review scope.
 
-## Source and inspection
-
-Source edition: Miy26, arXiv:2603.19528v2, dated 2026-04-21; the registered 23-page artifact. Printed page numbers equal PDF page numbers. Other works retain the separate versions and limitations stated in the body.
-
-Source passages: Section 2, pp. 4-6, Theorem 2.1; Theorem 1.1, p. 1.
-
-Inspection: 2026-09-08: definitions, normalization, core domains and consumed interfaces checked; local interface reconstruction and separate spectral-interface cross-review recorded. Standard trace/affiliation and free-field inputs retain their actual inspection limits in U008; no unrestricted operator-domain assertion or formal verification.
-
 ## Additional retained definition source recheck
 
 <a id="definition-recheck"></a>
 
-The following original 2026-09-10 selected-source reading was retained from L_F0089 at 2026-10-21T01:47.
-Its exact definitions, source version and locators, actual visual pages and unreviewed-proof limits are preserved.
-Already sufficient definitions and theorem arguments remain at their linked U homes.
-The original sidecar and unchanged-file language records that earlier checkpoint; this retention neither opens the source again nor performs a new proof or independent review.
-
 Date: 2026-09-10.
 Reviewer: the unbounded-operator agent, primary-source reading and self-review.
 Scope: definition and notation reuse in the existing Miy26 units.
-This is a sidecar, not a new source unit, claim or replacement audit.
 
 Source: [Miy26](../../../literature/pdf/Miy26.pdf), arXiv:2603.19528v2, 2026-04-21, 23 pages.
 Printed and PDF page numbers agree.
@@ -217,9 +203,8 @@ This entry supports the existing source audit and provides a notation citation c
 
 ## Consumer navigation and inspection limits
 
-Yin_C_F0015 cites Miy26-U002 for the model-specific finite-residual interface; its applications record uses the semicircular, circular, Haar and holomorphic-space distinctions.
-These forward records determine use; the new index should not imply that the general Yin_C_F0015 statement assumes circular variables.
-Yin_C_F0017 has its own general R-diagonal holomorphic setting and does not directly cite Miy26-U004; no such proof dependency is added here.
+The earlier consumer account distinguished its model-specific semicircular/circular/Haar interfaces from general finite-residual and R-diagonal holomorphic settings.
+The former C_F0015/C_F0017 fixed proof consumers are not located in the current retained F-family collection; no current same-number theorem or additional proof dependency is inferred from those historical labels.
 
 Citation purposes are current formulation and notation for the circular normalization and canonical \(L^2\) realization, and exposition for the semicircular/Haar applications.
 No historical priority claim is supported by this check.

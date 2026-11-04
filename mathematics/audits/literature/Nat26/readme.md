@@ -54,22 +54,15 @@ Its local proof and finite product/factorial estimates are supplied directly by 
 Existing fixed Nat26 units and their scopes are unchanged.
 The bounded download for this additional scope failed; no local bytes were retained.
 
-U003 retains the original 2026-09-24 discrete q-Hermite-I definition/norm and terminating q-Chu--Vandermonde reading at its exact formula/application depth.
-Its signed/complex-base extension and complete physical consumer are project arguments, without changing U001 or U002.
-
-U004 retains the original 2026-09-24 Wall name and b=0 discrete-weight inspection only.
-The complete complex physical functional identities are proved by their current C_W0385 consumer, without importing positive-measure orthogonality or completeness.
-
-U005 retains the original2026-10-02 standard polynomial-discriminant formula reading and the proof author's additional quadratic/cubic checks.
-Its exact leading coefficient and unordered-pair normalization support the local C_W0333 derivation, without changing earlier units, the original retained HTML/provenance, the separate Hermite scope or source-proof depth.
-
-U006 retains the distinct original2026-10-02 section18.2 positive-orthogonality/moment comparison at statement/formula depth and its actual403/no-local-bytes exception.
-The concrete quartic realization and formal-residue obstruction are proved by C_W0427, without importing a perfection theorem or changing the separate Hermite reading.
+The earlier 2026-09-24 q-Hermite-I/terminating q-Chu--Vandermonde, Wall-polynomial, 2026-10-02 polynomial-discriminant and positive-orthogonality/moment descriptions used former unit labels U003--U006.
+Their corresponding C_W0385/C_W0333/C_W0427 proof consumers and detailed source accounts are not located in the current three-unit collection or selected current Claim collection.
+The current U003 is the Gaussian-theta unit and is not evidence for those distinct scopes.
+These background descriptions are unadopted historical leads here; a future use needs the actual source passage and corresponding project argument, without inferring that the old calculations failed or that the proof accounts were lost.
 
 The original author and separate reviewer readings of DLMF18.12.9 belong to [Nat26-U002](Yin_U002.md#nat26-u002), with their exact formula/attribution depth and unrecorded page-version limits.
 
-U010 records the finite Chu--Vandermonde identity at a nonpositive denominator parameter, with the exact terminating interpretation and C_W0476 specialization.
-The separate original HTML sections 15.4 and 15.2 retain this inspected source scope; no source-wide proof audit is claimed.
+The former U010/C_W0476 finite Chu--Vandermonde account is likewise not located in this collection.
+Sections 15.4 and 15.2 remain the stated original source locators, not a currently retained U010 or verified local specialization.
 
 <a id="retained-selected-pages"></a>
 ## Yin: retained editions for the selected formulas

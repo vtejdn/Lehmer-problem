@@ -22,7 +22,7 @@ No new graph length, numerical experiment, component enumeration or source acqui
 [L409](Yin_L_G0409_v1.md#bulk-component-defect) identifies the least defect for ALL real test functions by optimizing every component union, and its [clipped-midpoint argument](Yin_L_G0409_v1.md#bulk-one-defect-midpoint-capture) actually uses only globally sign-odd functions.
 [L417](Yin_L_G0417_v1.md#isolated-component-energy-defect) controls all persistent isolated components internally and bounds their total original mass by1/9 at b2.
 [L419](Yin_L_G0419_v1.md#branching-original-mass) gives5/13 for low-degree edge mass and8/13 for high-high edges; neither set is automatically a complete component.
-[L421](Yin_L_G0421_v1.md#branching-core-original-costs) and L423's small-component exclusion do not supply a component-mass tail or sign invariance.
+[L421](Yin_L_G0421_v1.md#branching-core-original-costs) and L422's small-component exclusion do not supply a component-mass tail or sign invariance.
 [L411](Yin_L_G0411_v1.md#seed-fixed-support-boundary) prices a fixed complete-fiber hub at order1/D_k and proves that its retained mass degenerates on the hypothetical null subsequence.
 [L329](Yin_L_G0329_v1.md#null-branch-original-bridge-escape) distinguishes that subsequence from an all-time assertion.
 The earlier C68/C81 component-mean obstructions concern a different short-block operator and supply no uniform component-mean control for C170.

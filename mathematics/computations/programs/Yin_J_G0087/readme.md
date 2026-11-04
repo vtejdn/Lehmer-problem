@@ -53,7 +53,7 @@ This is one original-input finite lower bound, not an input-uniform cutoff, unre
 [R209](../../../audits/reviews/Yin_R_G0209_v1.md#critical-positive-tail-whole-finding) retains the complete original argument/program/certificate checks with upstream recurrence authorship and actual initial author-math-check exposure disclosed; its current relationship is SELF.
 A separately implemented read-only check covered all geometry, rounded terms and the final rational bound above 7/50.
 Recurrence verification through 4096 remains distinct from direct original-Laurent checks through 8.
-The earlier L379/R281 scope alone does not review the new tail or geometry.
+The earlier L379/R205 scope alone does not review the new tail or geometry.
 The current [R654 whole SELF finding](../../../audits/reviews/Yin_R_G0654_v1.md#current-critical-positive-tail-whole-finding) records a separate original-domain reconstruction of all terms, weighted cells and exact lower bound on2026-10-22, disclosing the shared geometry helpers and separately generated recurrence.
 No original native bytes or pending-review metadata were changed.
 

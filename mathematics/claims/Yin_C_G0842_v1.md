@@ -167,7 +167,7 @@ There is no native computation or new source decision.
 ### FG1. Preparation, reused conclusions and the changed domain
 
 This section concerns arbitrary monic reciprocal irreducible noncyclotomic integer polynomials with fixed period-three inner residues.
-It does not impose the separate C801/C809 source or copied-sign hypotheses.
+It does not impose the separate C759/C767 source or copied-sign hypotheses.
 The measure is the total logarithmic measure m(P)=log M(P), with natural logarithms and normalized Haar probability.
 
 The complete [adopted C140 theorem](Yin_C_G0140_v1.md#decision-isolated-whole-review-20261023-m04), including its [zero-value closure](Yin_C_G0140_v1.md#normalized-cost-zero-value-closure), is the arithmetic transfer input.
@@ -947,7 +947,7 @@ The constant may be chosen independently of the tuple because the complete finit
 The minimum of the two positive outputs gives one positive bound for the union of the binary and ternary period-five classes, without claiming an execution or useful running time.
 
 The preceding period-three/four conclusions and this one together cover residue periods at most5 at either fixed modulus2 or3, by taking the minimum of their finitely many effective positive bounds.
-No period-five theorem for all m, unbounded residue period, uniform result over arbitrary moduli, actual C809 copied-target construction or unrestricted Lehmer conclusion follows.
+No period-five theorem for all m, unbounded residue period, uniform result over arbitrary moduli, actual C767 copied-target construction or unrestricted Lehmer conclusion follows.
 The original full total Mahler measure, irreducibility, reciprocal degree and all source-inspection limits remain unchanged.
 
 <a id="reciprocal-congruence-class-nonvacuity"></a>

@@ -13,7 +13,7 @@ The recorded authorship, checking relationship, inputs, verdicts and limitations
 ### Complete separate independent mathematical review
 
 On 2026-10-10 the coordinating AI for Yin read and checked the complete frozen Sections1--6 and found no mathematical defect.
-The pre-review frozen author document had The reviewer assigned the general propagation question but supplied none of this prefix-amplitude, nonexceptional-polynomial or dense-open derivation.
+The reviewer assigned the general propagation question but supplied none of this prefix-amplitude, nonexceptional-polynomial or dense-open derivation.
 Its contribution to an earlier L176 exit construction remains there and does not constitute contribution to the new arguments here.
 Shared context and author progress explanations were available, so this is separately organized and noncontributing, not blind or a personal human inspection.
 The finding appends without editing the author proof.

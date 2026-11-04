@@ -11,7 +11,7 @@ The fixed C621v2/J126 complete group and all earlier target questions remain unc
 
 Put phi=X^2+X+1, chi=Xphi^2, M=X^8phi^16 and R=F_2[X]/M.
 Let G be the image of every complete primitive odd-order trace polynomial W_n, n>1,n!=5, with arbitrary finite nonnegative multiplicities.
-Use the [adopted C621v2 exact image and normal forms](../../../claims/Yin_C_G0621_v2.md#argument), whose native input is the fixed J126 certificate (`mathematics/computations/outputs/Yin_J_G0126/certificate.json`).
+Use the [adopted C621v2 exact image and normal forms](../../../claims/Yin_C_G0621_v2.md#argument), whose native input is the fixed J126 certificate (`mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json`).
 No generator, pivot, group closure proof or source-order range is changed.
 
 The complete analytic argument in [C636](../../../claims/Yin_C_G0636_v1.md#argument) forces exactly four complements B=X^10H(chi), H(t)=1+ut+vt^2, for A_0=12.
@@ -24,7 +24,7 @@ The mandatory projection of Y is
 
 The inverse H(X)^(-2) is taken ONLY modulo X^8, where H(0)=1; for H=phi it is not a phi-primary inverse.
 H(chi) is a unit at both components.
-The case(u,v)=(0,0) is y^7 for C655's class yG of exact order4, so it is already excluded analytically.
+The case(u,v)=(0,0) is y^7 for C630's class yG of exact order4, so it is already excluded analytically.
 Test ONLY the remaining three prescribed targets, in the order(0,1),(1,0),(1,1), then stop regardless of the results.
 There is no extra ratio test, support construction, coefficient search, new modulus or higher-order scan.
 
@@ -45,7 +45,7 @@ Both programs are author checks, not independent agent review.
 ## Files
 
 The retained programs are [main.py](main.py) and [verify.py](verify.py).
-The sole required cross-group native input is the fixed J126 certificate (`mathematics/computations/outputs/Yin_J_G0126/certificate.json`).
+The sole required cross-group native input is the fixed J126 certificate (`mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json`).
 A missing input stops execution without an automatic replacement run.
 The new certificate (`mathematics/computations/outputs/Yin_J_G0128/certificate.json`) retains all three targets, full96-coordinate product expressions, residuals and ordered traces.
 The verification result (`mathematics/computations/outputs/Yin_J_G0128/verification.json`) retains the separate dense checks.
@@ -82,8 +82,8 @@ The other three formal complements remain in the analytic classification and for
 
 No extra ratio test or source/precision expansion was performed.
 An analytic comparison after the three tests gives T_(0,1)=T_(1,0)^2/T_(0,0) in the same CRT ring because H_(0,1)=H_(1,0)^2.
-With the fixed C655 class yG of order4, this puts T_(0,1) in yG, while T_(0,0) is in y^3G and the positive T_(1,0) is in G.
-The T_(1,1) residual equals the fixed C655/J127 residual for y^2, so their full product identities put T_(1,1) in y^2G.
+With the fixed C630 class yG of order4, this puts T_(0,1) in yG, while T_(0,0) is in y^3G and the positive T_(1,0) is in G.
+The T_(1,1) residual equals the fixed C630/J127 residual for y^2, so their full product identities put T_(1,1) in y^2G.
 Thus the four targets have four distinct cosets; they cannot all be merged into the old nonmember class by complete-group multiplication.
 
 Membership is only necessary for an original input; it does not establish the complete phi^48 gate, canonical C3/C5 multiplicities, full integer layers, maximal global q or a same-T realization.

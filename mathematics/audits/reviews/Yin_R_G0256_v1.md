@@ -24,7 +24,7 @@ The reviewer read that prior verdict before completing the present reconstructio
 The actual source's author self-check was read but is not proof evidence.
 No D3 proof-generation dialogue or repair discussion was supplied or used.
 
-The reviewer read the complete C50 statement/retained proof, full R250, exact L233 nonvanishing/congruence passages, L229's actual general-unit domain, full angular modulus and coefficient-energy proof, and R128's original whole/source account.
+The reviewer read the complete C50 statement/retained proof, full R250, exact L233 nonvanishing/congruence passages, L229's actual general-unit domain, full angular modulus and coefficient-energy proof, and the original whole/source account retained in R781.
 The current C14v2,C16,C17,C20,C27,C28 statements and C10v2 direct original-root inequality were inspected at the specific roles below.
 Pri11-U001 and Smy08-U004's reciprocal-trinomial passage were read at their retained source scopes.
 The Mas05 selected attribution/acquisition account was read as ordinary prose; its exercise is attribution, not a new imported proof.
@@ -45,7 +45,7 @@ No target repair was required.
 | [Actual extraction finding](#c50-dyadic-capacity-extraction-finding) | [C50 fixed Argument](../../claims/Yin_C_G0050_v1.md#argument) | Complete retained D3 Sections1--7/Theorem1/equations1--24, source/contribution/search/failure history and16:48 freeze; actual statement mapping and dependency applicability checked, with exact old whole-proof reuse. |
 | [Actual extraction finding](#c50-dyadic-capacity-extraction-finding) | [C50 preservation operation](../../claims/Yin_C_G0050_v1.md#registration-and-preservation-operation) | Whole source retention with only front matter, first-title depth, exact claims-link rebasing and final newline; later Mas05 attribution distinguished from historical source state. |
 | [Actual extraction finding](#c50-dyadic-capacity-extraction-finding) | [D3 source freeze](../../claims/Yin_C_G0050_v1.md#dyadic-capacity-entire-author-freeze) | Entire exact16:48 source used for preservation comparison, not a selected mutable proof dependency. |
-| [Actual extraction finding](#c50-dyadic-capacity-extraction-finding) | [R250 whole finding](Yin_R_G0250_v1.md#dyadic-capacity-and-denominator-whole-finding) | Original whole-D independent review and actual source boundaries reused only at that unchanged scope; present actual C statement/interface/preservation separately inspected. |
+| [Actual extraction finding](#c50-dyadic-capacity-extraction-finding) | [R250 whole finding](Yin_R_G0250_v1.md#dyadic-capacity-and-denominator-whole-finding) | Original whole-D review and actual source boundaries reused only at that unchanged scope; present actual C statement/interface/preservation separately inspected. Referenced finding relationship: self-reviewed. |
 | [Actual extraction finding](#c50-dyadic-capacity-extraction-finding) | [L233 actual low-energy scope](../../ledger/Yin_L_G0233_v1.md#dyadic-low-energy-fixed-scope) | Actual reciprocal nontorsion signed binomial/trinomial nonvanishing and original-order congruence scope; not extended to nonreciprocal Part D. |
 | [Actual extraction finding](#c50-dyadic-capacity-extraction-finding) | [L233 complete mod2 classification](../../ledger/Yin_L_G0233_v1.md#reciprocal-binary-trinomial-classification) | Full repeated factors, exact h=2^k L, every exponent class, common positive3-adic criterion and first widths h or2h/3. |
 | [Actual extraction finding](#c50-dyadic-capacity-extraction-finding) | [L229 actual coefficient-energy estimate](../../ledger/Yin_L_G0229_v1.md#actual-resultant-coefficient-energy-bound) | General original unit/nonzero full resultant, S2=sqrt(S), rho, actual degree and radial expense, arbitrary coefficient scale; correct local substitution checked. |
@@ -178,7 +178,7 @@ This distinction is retained in both the general statement and original argument
 
 The accepted Pri11 and Dim19-v1 inputs enter through L229 at their recorded actual-degree/statement/applicability limits.
 Pri11 requires simple integral zeros, actual degree N>=55 and a real compactly supported Lipschitz test; L229's inspected powered-degree and radial proof supplies these rather than asserting degree preservation.
-R128's original noncontributor whole finding was read and reused at this scope.
+The original noncontributor whole finding retained in R781 was read and reused at this scope.
 The Smy08-U004 reciprocal-trinomial mechanism is separately checked in L233; unrelated questioned assertions in that source unit are not consumed.
 
 The [Mas05 selected Construction A attribution](../literature/Mas05/readme.md#construction-a-selected-attribution) is ordinary source prose, deliberately NOT a Review binding.

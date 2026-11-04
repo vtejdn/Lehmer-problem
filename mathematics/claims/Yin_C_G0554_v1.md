@@ -124,9 +124,9 @@ The result is an unconditional positive original event-mass bound together with 
 ## Exact original event and fixed inputs
 
 Use the actual quartic P=t^4-t^3-t^2-t+1, its exterior root beta and neutral root zeta, with O=Z[beta], B=1/(beta-1), S=beta B.
-[L415](Yin_C_G0537_v2.md#union-carry-original-incidence) retains the actual open-strip core D={c in O:|c_+|<B,|c_-|<S}, its complete four-step incidence and original finite tail onsets.
+[L414](Yin_C_G0537_v2.md#union-carry-original-incidence) retains the actual open-strip core D={c in O:|c_+|<B,|c_-|<S}, its complete four-step incidence and original finite tail onsets.
 [L309](../ledger/Yin_L_G0309_v1.md#quartic-full-core-linear-return) supplies constants A_D,B_D for selected actual zero continuation and reachability paths of length at most A_D rho(c)+B_D, where rho(c)=|c(zeta)|.
-The two-real-coordinate lattice construction is the mechanism retained in [L418](Yin_C_G0540_v2.md#all-fixed-overlap-onset), written out at the small-strip scope below.
+The two-real-coordinate lattice construction is the mechanism retained in [L417](Yin_C_G0540_v2.md#all-fixed-overlap-onset), written out at the small-strip scope below.
 
 For n>=5 put k=n-2.
 Let pi_n be the COMPLETE original length2n returned-word law, with independent digit probabilities1/4,1/2,1/4 conditioned on full return, and K_n=(H_A+H_C)/2 the actual C170 b2 heat bath.
@@ -193,7 +193,7 @@ Consequently these ACTUAL fibers have unbounded midpoint radius as c varies.
 
 For completeness choose original paths x to0 and0 to c with lengths l_x,l_c.
 Since rho(x)=rho(c), L309 gives both lengths at most A_D rho(c)+B_D.
-Pad them as in L415 to any common
+Pad them as in L414 to any common
 
     k>=k_*(c)=max{3,l_x,l_c}.                         (6)
 
@@ -237,7 +237,7 @@ This is an unconditional failure of that concrete bounded-path constructor at th
 It does not prove that any such fiber is in a non-self-sign component: the required path might exist with growing length.
 It also does not disprove a uniform ORIGINAL weighted energy inequality; rare long paths can have different load costs, and neither their probabilities nor their congestion are replaced by their length.
 
-For the n+2 digit-work accounting clock, the algebraic jump bound remains true for every nontrivial jump, but an attempted update consumes the same n+2 work units as in C170/L410.
+For the n+2 digit-work accounting clock, the algebraic jump bound remains true for every nontrivial jump, but an attempted update consumes the same n+2 work units as in C170/L409.
 No accelerated or free time change is inferred.
 
 <a id="zero-middle-same-null-subsequence"></a>
@@ -283,9 +283,9 @@ No component-mass lower bound is inferred by simply re-labeling(3), no graph cou
 
 | Input | Actual role |
 | --- | --- |
-| [L415 incidence](Yin_C_G0537_v2.md#union-carry-original-incidence), [R423](../audits/reviews/Yin_R_G0423_v1.md) | Actual order/core, complete four-step incidence and all finite tail onsets. |
+| [L414 incidence](Yin_C_G0537_v2.md#union-carry-original-incidence), [R423](../audits/reviews/Yin_R_G0423_v1.md) | Actual order/core, complete four-step incidence and all finite tail onsets. |
 | [L309 original paths](../ledger/Yin_L_G0309_v1.md#quartic-full-core-linear-return), [R786](../audits/reviews/Yin_R_G0786_v1.md#weighted-tail-complete-independent-review) | Linear selected reachability and co-return words, with the full actual above-golden-ratio quartic domain. |
-| [L418 small-real construction](Yin_C_G0540_v2.md#all-fixed-overlap-onset) | Full-order coefficient-box mechanism and Minkowski finiteness; the exact small strip needed here is proved directly. |
+| [L417 small-real construction](Yin_C_G0540_v2.md#all-fixed-overlap-onset) | Full-order coefficient-box mechanism and Minkowski finiteness; the exact small strip needed here is proved directly. |
 | [C170 full law](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Complete original tail weights, exact midpoint identities, full-word updates and unchanged clock; upstream author contribution disclosed. |
 | [L353 gapped support](Yin_C_G0370_v1.md#general-conditioning-amplification) | Binary autocorrelation at the actual outside positions, with no chronological-law replacement. |
 | [L329 original escape](Yin_C_G0204_v1.md#null-branch-original-bridge-escape) | Pointwise original midpoint bound and the common null subsequence only under infinite mean. |

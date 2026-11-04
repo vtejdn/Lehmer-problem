@@ -153,27 +153,32 @@ The author assembled, developed and checked the complete new energy and collisio
 <a id="historical-block-coordinator-finding"></a>
 ## Original L85 coordinator contribution and whole check
 
-The supplied error formula and actual block-size proof refinement are substantive mathematical contributions. The full collaborator check is self-review; its final alternative-wording precision change is not a new mathematical repair.
+The supplied error formula and actual block-size proof refinement are substantive mathematical contributions.
+The full collaborator check is self-review; its final alternative-wording precision change is not a new mathematical repair.
 
 <a id="historical-block-source-normalization-finding"></a>
 ## Original L85 source normalization check
 
-The original record expressly separates this own source-normalization contribution/check from the later new energy proof. This exact source/interface scope is self-review.
+The original record expressly separates this own source-normalization contribution/check from the later new energy proof.
+This exact source/interface scope is self-review.
 
 <a id="historical-block-source-whole-finding"></a>
 ## Original L85 source-agent new-proof check
 
-The record explicitly says the reviewer did not contribute to the new energy/collision arguments before checking them. Its actual complete check is retained, while initial substantive mathematical context is not sufficiently established; its separate source authorship alone does not make this new-target finding self or isolated, so it remains unknown.
+The record explicitly says the reviewer did not contribute to the new energy/collision arguments before checking them.
+Its actual complete check is retained, while initial substantive mathematical context is not sufficiently established; its separate source authorship alone does not make this new-target finding self or isolated, so it remains unknown.
 
 <a id="historical-block-matrix-whole-finding"></a>
 ## Original L85 matrix-agent main whole check
 
-The full check is recorded with its fixed source premise and exact limits, but initial substantive context is unestablished. No actual new-target contribution is specified, so this finding remains unknown.
+The full check is recorded with its fixed source premise and exact limits, but initial substantive context is unestablished.
+No actual new-target contribution is specified, so this finding remains unknown.
 
 <a id="historical-block-conditional-targeted-finding"></a>
 ## Original L85 conditional sharper-window check
 
-This is an actual separate later check of the written conditional addition, with no mathematical repair. The reviewer’s own prior whole check does not automatically make it self; initial substantive context is unestablished, so it remains unknown.
+This is an actual separate later check of the written conditional addition, with no mathematical repair.
+The reviewer’s own prior whole check does not automatically make it self; initial substantive context is unestablished, so it remains unknown.
 
 <a id="historical-poisson-author-finding"></a>
 ## Original L86 author whole check
@@ -183,12 +188,14 @@ The drafting agent developed and checked the entire proof, including the supplie
 <a id="historical-poisson-coordinator-finding"></a>
 ## Original L86 coordinator contribution and whole check
 
-The complete necessary total-coordinate argument is explicitly its mathematical contribution. The subsequent full collaborator check is self-review.
+The complete necessary total-coordinate argument is explicitly its mathematical contribution.
+The subsequent full collaborator check is self-review.
 
 <a id="historical-poisson-whole-finding"></a>
 ## Original L86 separate whole check
 
-The full separate written check is retained, but sufficient initial substantive-context facts are absent and no actual target contribution is specified for this reviewer. The old independent label alone supplies no isolation, so this relationship remains unknown.
+The full separate written check is retained, but sufficient initial substantive-context facts are absent and no actual target contribution is specified for this reviewer.
+The old independent label alone supplies no isolation, so this relationship remains unknown.
 
 <a id="historical-haar-author-finding"></a>
 ## Original L87 author whole check
@@ -198,7 +205,8 @@ The agent developed and checked the complete new argument, so this finding is se
 <a id="historical-haar-whole-finding"></a>
 ## Original L87 separate whole check
 
-The reviewer’s prior authorship of the accepted house/Poisson lemma does not itself make this new induction theorem self. Its recorded whole check lacks sufficient initial substantive-context facts and no new-target contribution is specified, so the relationship remains unknown.
+The reviewer’s prior authorship of the accepted house/Poisson lemma does not itself make this new induction theorem self.
+Its recorded whole check lacks sufficient initial substantive-context facts and no new-target contribution is specified, so the relationship remains unknown.
 
 <a id="historical-haar-coordinator-finding"></a>
 ## Original L87 coordinator whole check
@@ -213,12 +221,14 @@ The agent developed and checked the complete proof, with the named old inputs re
 <a id="historical-color-coordinator-finding"></a>
 ## Original L88 coordinator whole check
 
-The record reports an actual full check but does not establish initial substantive context or a necessary new-target contribution. The general investigation target is insufficient for either isolation or self authorship, so this finding remains unknown.
+The record reports an actual full check but does not establish initial substantive context or a necessary new-target contribution.
+The general investigation target is insufficient for either isolation or self authorship, so this finding remains unknown.
 
 <a id="historical-color-whole-finding"></a>
 ## Original L88 separate whole check
 
-Prior work on the accepted related Haar-induction theorem is not by itself a contribution to this new coloring proof. The actual complete review has no sufficient recorded initial substantive-context arrangement, so the relationship remains unknown.
+Prior work on the accepted related Haar-induction theorem is not by itself a contribution to this new coloring proof.
+The actual complete review has no sufficient recorded initial substantive-context arrangement, so the relationship remains unknown.
 
 ## Complete original L85 contribution and checking account
 

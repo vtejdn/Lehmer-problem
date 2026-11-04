@@ -4,13 +4,17 @@ author: Yin
 
 # Tunable hyperbolic tails and a finite Salem transition target
 
+Current checking scope is owned by [R556](../audits/reviews/Yin_R_G0556_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Direct bounded G0001 derivation by the assigned entropy_status AI for Yin.
 The coordinator proposed replacing the fixed hyperbolic tail threshold in L G0123 by a tunable threshold.
 The assigned agent derived the complete finite guards and the explicit restricted Salem comparison below.
 This changes the cost certificate that [L G0127](Yin_L_G0127_v1.md#retained-certificate-universal-ceiling) proved ineffective.
 No external source, numerical experiment or novelty claim is involved.
-Completed independent review is recorded below.
+The completed checking account is retained below at its responsible finding scope.
 
 <a id="tunable-tail-finite-certificate"></a>
 ## A tunable tail certificate with its actual finite guards

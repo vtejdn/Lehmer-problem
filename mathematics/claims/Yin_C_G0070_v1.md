@@ -172,7 +172,7 @@ The recorded review description was `under review`.
 | dependency | [Actual original law and operator](Yin_C_G0060_v1.md#statement) | Exact full returned law, true midpoint, integer quotient coordinates and positive single-coordinate conditional operator; no assumed global gap. |
 | dependency | [Accepted seeds and exact padding](Yin_C_G0064_v1.md#statement) | Complete signed-window freezing criterion, G/H boundary seeds and at most two outer zeros. No finite J92 table is a premise for the all-m proof. |
 | dependency | [Actual midpoint and finite spectral conventions](Yin_C_G0068_v1.md#statement) | Original midpoint/global centering and finite positive-spectral conventions only. The new S operator, interval classification and all stated bounds are derived locally. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0293_v1.md#primitive-reflection-whole-independent-finding) | Entire original20:56 D25 and actual direct interfaces, independently reconstructed. It does not inspect this new wrapper or prospectively adopt it. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0293_v1.md#primitive-reflection-whole-independent-finding) | Entire original20:56 D25 and actual direct interfaces, directly reconstructed. It does not inspect this new wrapper or prospectively adopt it. Referenced finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -190,7 +190,7 @@ The recorded review description was `under review`.
 | dependency | [Actual original law and operator](Yin_C_G0060_v1.md#statement) | Exact full returned law, true midpoint, integer quotient coordinates and positive single-coordinate conditional operator; no assumed global gap. |
 | dependency | [Accepted seeds and exact padding](Yin_C_G0064_v1.md#statement) | Complete signed-window freezing criterion, G/H boundary seeds and at most two outer zeros. No finite J92 table is a premise for the all-m proof. |
 | dependency | [Actual midpoint and finite spectral conventions](Yin_C_G0068_v1.md#statement) | Original midpoint/global centering and finite positive-spectral conventions only. The new S operator, interval classification and all stated bounds are derived locally. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0293_v1.md#primitive-reflection-whole-independent-finding) | Entire original20:56 D25 and actual direct interfaces, independently reconstructed. It does not inspect this new wrapper or prospectively adopt it. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0293_v1.md#primitive-reflection-whole-independent-finding) | Entire original20:56 D25 and actual direct interfaces, directly reconstructed. It does not inspect this new wrapper or prospectively adopt it. Referenced finding relationship: self-reviewed. |
 | review | [Actual extraction](../audits/reviews/Yin_R_G0794_v2.md#c70-primitive-reflection-actual-extraction-finding) | Complete actual statement/argument, entire original preservation and exact direct interfaces checked after allocation by a noncontributor, with prior ancestor roles disclosed. |
 
 
@@ -200,7 +200,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T23:10 |
 | status | proved |
-| reason | Adopt the separately organized current fixed-target finding after complete statement and retained-argument inspection, including late extensions, actual costs, controls, necessary mathematical interfaces and source limits, while excluding credited comparison scopes first separately checked after old-review exposure. The initial mathematical conclusion was formed at 2026-10-22T22:44 UTC before old-target review comparison. The finding records the exact interface and later credited-comparison reading sequence. Preserve fixed mathematics, historical decisions, all non-review premises and their scopes; retain known sufficient independent findings in their original homes and original unknown findings at their actual checking scope. This selects current review evidence and supplies no new research, Task completion or execution resumption. |
+| reason | The current finding is SELF because its initial complete argument input included author-validation conclusions beyond the necessary derivation. Adopt the separately organized current fixed-target finding after complete statement and retained-argument inspection, including late extensions, actual costs, controls, necessary mathematical interfaces and source limits, while excluding credited comparison scopes first separately checked after old-review exposure. The initial mathematical conclusion was formed at 2026-10-22T22:44 UTC before old-target review comparison. The finding records the exact interface and later credited-comparison reading sequence. Preserve fixed mathematics, historical decisions, all non-review premises and their scopes; retain earlier findings in their original homes at their actual recorded relationships and checking scopes. This selects current review evidence and supplies no new research, Task completion or execution resumption. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -209,8 +209,8 @@ The recorded review description was `under review`.
 | dependency | [Dependency: statement](Yin_C_G0060_v1.md#statement) | Exact full returned law, true midpoint, integer quotient coordinates and positive single-coordinate conditional operator; no assumed global gap. |
 | dependency | [Dependency: statement](Yin_C_G0064_v1.md#statement) | Complete signed-window freezing criterion, G/H boundary seeds and at most two outer zeros. No finite J92 table is a premise for the all-m proof. |
 | dependency | [Dependency: statement](Yin_C_G0068_v1.md#statement) | Original midpoint/global centering and finite positive-spectral conventions only. The new S operator, interval classification and all stated bounds are derived locally. |
-| support | [Support: primitive-reflection-whole-independent-finding](../audits/reviews/Yin_R_G0293_v1.md#primitive-reflection-whole-independent-finding) | Entire original20:56 D25 and actual direct interfaces, independently reconstructed. It does not inspect this new wrapper or prospectively adopt it. |
-| review | [Current isolated finding](../audits/reviews/Yin_R_G0794_v2.md#g70-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:44 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
+| support | [Recorded original finding](../audits/reviews/Yin_R_G0293_v1.md#primitive-reflection-whole-independent-finding) | Entire original20:56 D25 and actual direct interfaces, independently reconstructed. It does not inspect this new wrapper or prospectively adopt it. Finding relationship: self-reviewed. |
+| review | [Current SELF finding](../audits/reviews/Yin_R_G0794_v2.md#g70-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:44 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
 
 ## Registration and complete preservation
 
@@ -495,7 +495,7 @@ No surrogate cut, order or endpoint is used.
 
 Here are all five exact squared norms, using u=zeta+zeta^-1 and u²=u+3:
 
-| s | C_s(t) | |C_s(zeta)|² |
+| s | C_s(t) | \|C_s(zeta)\|² |
 | --- | --- | --- |
 | 0 | t³-t²-t | 2-u |
 | 1 | 1-t-t²+t³ | 5-2u |

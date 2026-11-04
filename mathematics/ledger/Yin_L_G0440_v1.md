@@ -3,7 +3,7 @@ author: Yin
 ---
 # Exact five-order descent costs and the limit of a cyclotomic degree pairing
 
-The complete current statement and necessary original argument are adopted in [C_G0601_v1](../claims/Yin_C_G0583_v1.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g441-complete-self-finding).
+The complete current statement and necessary original argument are adopted in [C583_v1](../claims/Yin_C_G0583_v1.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g441-complete-self-finding).
 Every original physical-version mathematical domain, contribution, source/native boundary, useful failure and historical review scope remains below.
 
 

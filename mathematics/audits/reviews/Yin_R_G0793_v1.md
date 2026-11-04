@@ -10,7 +10,7 @@ It directly read every complete current Statement and every section of its compl
 All eight initial whole conclusions preceded the old target findings, Assessment histories, current SELF accounts and J README review results.
 The initial conclusions were mathematical judgments on those complete fixed inputs; the old-scope comparison began only after the last initial conclusion.
 Necessary source attribution, accepted upstream interfaces and review-existence/source-scope pointers were visible during that reading, without supplying an old target whole verdict.
-C540's local capture section had previously been consumed as a fixed mathematical interface for a different target; this did not disclose its old whole conclusion.
+C532's local capture section had previously been consumed as a fixed mathematical interface for a different target; this did not disclose its old whole conclusion.
 C534's mathematical body disclosed the later ODo07 attribution insertion.
 C535's mathematical body and Keh25-U001 disclosed the existence and exact two-addition source scope of old inspections, without their whole verdict.
 These facts are disclosed rather than treated as new source-proof certification.
@@ -33,10 +33,10 @@ Their absence remains missing-declaration; no UNKNOWN row or retrospective curre
 
 | Review | Relationship |
 | --- | --- |
-| [Current whole C538](#parity-carry-current-independent) | independently reviewed |
-| [Current whole C539](#small-ball-current-independent) | independently reviewed |
-| [Current whole C543](#conditional-mask-current-independent) | independently reviewed |
-| [Current whole C544](#expanding-correlation-current-independent) | independently reviewed |
+| [Current whole C530](#parity-carry-current-independent) | independently reviewed |
+| [Current whole C531](#small-ball-current-independent) | independently reviewed |
+| [Current whole C534](#conditional-mask-current-independent) | independently reviewed |
+| [Current whole C535](#expanding-correlation-current-independent) | independently reviewed |
 | [Current two-addition Keh25 scope](#keh25-current-attribution-independent) | independently reviewed |
 | [Original Keh25 supplement](#original-g224-keh25-source-supplement) | unknown |
 
@@ -44,14 +44,14 @@ Their absence remains missing-declaration; no UNKNOWN row or retrospective curre
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Current whole C538](#parity-carry-current-independent) | [Exact complete statement](../../claims/Yin_C_G0530_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
-| [Current whole C538](#parity-carry-current-independent) | [Exact complete argument](../../claims/Yin_C_G0530_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
-| [Current whole C539](#small-ball-current-independent) | [Exact complete statement](../../claims/Yin_C_G0531_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
-| [Current whole C539](#small-ball-current-independent) | [Exact complete argument](../../claims/Yin_C_G0531_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
-| [Current whole C543](#conditional-mask-current-independent) | [Exact complete statement](../../claims/Yin_C_G0534_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:39, before old target findings. |
-| [Current whole C543](#conditional-mask-current-independent) | [Exact complete argument](../../claims/Yin_C_G0534_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:39, before old target findings. |
-| [Current whole C544](#expanding-correlation-current-independent) | [Exact complete statement](../../claims/Yin_C_G0535_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:39, before old target findings. |
-| [Current whole C544](#expanding-correlation-current-independent) | [Exact complete argument](../../claims/Yin_C_G0535_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:39, before old target findings. |
+| [Current whole C530](#parity-carry-current-independent) | [Exact complete statement](../../claims/Yin_C_G0530_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
+| [Current whole C530](#parity-carry-current-independent) | [Exact complete argument](../../claims/Yin_C_G0530_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
+| [Current whole C531](#small-ball-current-independent) | [Exact complete statement](../../claims/Yin_C_G0531_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
+| [Current whole C531](#small-ball-current-independent) | [Exact complete argument](../../claims/Yin_C_G0531_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:34, before old target findings. |
+| [Current whole C534](#conditional-mask-current-independent) | [Exact complete statement](../../claims/Yin_C_G0534_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:39, before old target findings. |
+| [Current whole C534](#conditional-mask-current-independent) | [Exact complete argument](../../claims/Yin_C_G0534_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:39, before old target findings. |
+| [Current whole C535](#expanding-correlation-current-independent) | [Exact complete statement](../../claims/Yin_C_G0535_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:39, before old target findings. |
+| [Current whole C535](#expanding-correlation-current-independent) | [Exact complete argument](../../claims/Yin_C_G0535_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, fixed input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:39, before old target findings. |
 | [Current two-addition Keh25 scope](#keh25-current-attribution-independent) | [Current complete argument](../../claims/Yin_C_G0535_v1.md#argument) | Only the opening reuse attribution and the bounded-functional attribution/application paragraph in the complete current mathematical input, included in the actual2026-10-22T21:39 initial inspection; no new source artifact or whole-source audit. |
 | [Current two-addition Keh25 scope](#keh25-current-attribution-independent) | [Bounded-functional application](../../claims/Yin_C_G0535_v1.md#expanding-square-density-pressure) | Exact Hilbert L2 functional bound, dense continuous tests, representing vector and identification of the density; bounded energy premise retained. |
 | [Current two-addition Keh25 scope](#keh25-current-attribution-independent) | [Accepted source interface](../literature/Keh25/Yin_U001.md#accepted-standard-statement) | Reuse of the exact bounded-functional representation statement and its established source depth; no fresh PDF or source-proof acceptance. |
@@ -69,7 +69,7 @@ Positive-power reindexing gives the two exact boundary ranges even when n<d; the
 The unique nonlinear Walsh shape has at least two positions, so individual-input cross terms vanish and the signed cross-lags, full covariance, determinant1/64 and n/16 neutral-window variance have the stated orientation and constants.
 The torsion controls have actual irreducible degrees, future masks revealing the input and zero fixed-input endpoint rate.
 The golden-ratio and radical controls retain their positive original rates and fixed non-small measure.
-C528's actual-degree/control interface was checked directly.
+C522's actual-degree/control interface was checked directly.
 Adjacent carry input windows share exactly d bits, giving the mutual-information ceiling and the displayed one-way relative entropy to an independent convolution.
 No two-way collision comparison, independent thinning, uniform endpoint entropy floor or near-one gap follows.
 
@@ -100,7 +100,7 @@ Both nonzero filter endpoints give exact2^w bi-infinite lifts; the Laurent suppo
 The finite observation length and ell-step look-ahead reconstruct the claimed inputs without an independent-mask substitution.
 Conditional information increments increase when another independent coordinate is supplied, so averaged conditional entropy is concave with the stated chord direction.
 Walsh projection retains exactly sampled supports and gives the multiplier theta^|B|, with hidden endpoint randomness allowed.
-C512v2's finite-probability strong-convexity proof and correct-direction Minkowski tensorization give the two-point p=1+theta contraction.
+C508v2's finite-probability strong-convexity proof and correct-direction Minkowski tensorization give the two-point p=1+theta contraction.
 The exact Holder exponents, conditional Jensen and original C530 boundary charges yield both finite factors, rate directions and exceptional-observation probability.
 The causal sigma-field reconstructs only the prefix; its final min(n,ell) fair bits remain independent for every allowed observation.
 The triangular p0 minor gives every Renyi and collision bound, while the binomial mask average is unconditional.
@@ -141,13 +141,13 @@ The complete current two-passage scope passes; the original21:39 supplement's so
 ## Post-conclusion comparison and preserved original scopes
 
 The original complete findings below were read only after all eight initial complete conclusions.
-[R735 current C538 SELF and original author account](Yin_R_G0735_v1.md#current-g219-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
+[R735 current C530 SELF and original author account](Yin_R_G0735_v1.md#current-g219-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
 Original R118 concerns the frozen L219 input and its own exact date, not this later C input.
-[R735 current C539 SELF and original author account](Yin_R_G0735_v1.md#current-g220-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
+[R735 current C531 SELF and original author account](Yin_R_G0735_v1.md#current-g220-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
 Original R119 concerns the frozen L220 input and its own exact date, not this later C input.
-[R735 current C543 SELF and original author account](Yin_R_G0735_v1.md#current-g223-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
+[R735 current C534 SELF and original author account](Yin_R_G0735_v1.md#current-g223-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
 Original R122 concerns the frozen L223 input and its own exact date, not this later C input.
-[R735 current C544 SELF and original author account](Yin_R_G0735_v1.md#current-g224-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
+[R735 current C535 SELF and original author account](Yin_R_G0735_v1.md#current-g224-whole-self-finding) remain in their known responsible home, including the actual author-check scope and any corrected execution history.
 Original R123 concerns the frozen L224 input and its own exact date, not this later C input.
 Every complete natural finding below is copied from its original first explicit anchor through its original EOF, byte for byte.
 Those old findings lack modern relationship/binding tables; this text creates neither missing old rows nor a retrospective current-C binding.

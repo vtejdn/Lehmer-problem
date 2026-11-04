@@ -14,8 +14,8 @@ All new deductions and every preserved hypothesis were checked directly.
 No candidate, draft, index, Task or execution material was edited.
 
 The reviewer authored older C196 graph, C197v1/v2 local/formal and C196v4 closure mathematics.
-Those earlier authored inputs are not independently re-proved here; the actual R620/R621/R622 and R629/R624 scope remains as disclosed in the prior consumer findings.
-The reviewer independently reviewed the new C197v3 consumer in R623 and the C199v3/v4/v5 consumers in R489/R492, without authoring their new arguments.
+Those earlier authored inputs are not independently re-proved here; the actual R474/R475/R476 and R483/R478 scope remains as disclosed in the prior consumer findings.
+The reviewer reviewed the new C197v3 consumer in R477 and the C199v3/v4/v5 consumers in R489/R492, without authoring their new arguments.
 R485 is reused for the entire unchanged FD/WB predecessor and its exact older-input interfaces, not enlarged to the new OC proof.
 Its root reviewer contributes to the present odd-part deduction and is therefore not presented as the independent whole reviewer of v2.
 The present independence concerns the full new OC consumer and its assembly with the unchanged, actually reviewed predecessor.

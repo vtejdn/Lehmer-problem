@@ -21,7 +21,7 @@ The candidate was not edited.
 The actual shared initial context and frozen-scope arrangement are not specified sufficiently to establish isolation before the first mathematical judgment on TC1--TC10.
 The fixed definitions, full proof and review obligations are legitimate inputs, while unrelated contributor roles or prior reviews of fixed inputs do not themselves establish participation in this new calibration.
 The whole finding therefore has an unknown relationship, retaining its original date, complete mathematical checks and exact bindings without a new review.
-The old R595 author self-review and R608/R625 unknown relationships do not alter the exact definition/comparison-only scopes reused here.
+The old R449 author self-review and R462/R479 unknown relationships do not alter the exact definition/comparison-only scopes reused here.
 
 ## Review relationships
 

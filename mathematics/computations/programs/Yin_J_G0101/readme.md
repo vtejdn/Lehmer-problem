@@ -20,7 +20,7 @@ This is a circle obstruction for the whole real parameter family, not an arithme
 The actual author result is results.json (`mathematics/computations/outputs/Yin_J_G0101/results.json`).
 The completed independent result is verification.json (`mathematics/computations/outputs/Yin_J_G0101/verification.json`).
 The explicitly required prior input is J100 author output (`mathematics/computations/outputs/Yin_J_G0100/results.json`); it is read, not recomputed.
-Independent verification uses J100 independent output (`mathematics/computations/outputs/Yin_J_G0100/verification.json`) at its retained R524 scope.
+Independent verification uses J100 independent output (`mathematics/computations/outputs/Yin_J_G0100/verification.json`) at its retained R379 scope.
 Missing prior files are an execution limit; no alternate file or rounded-decimal substitution is allowed.
 Generated evidence lives in the ignored output home and may be absent from a Git clone.
 
@@ -69,7 +69,7 @@ The exact interval comparisons also certify the simpler rational statements I_(s
 
 The arrangement is non-blind: the separate reviewer was supplied the analytic reduction and reported counts, and read the author program and payload before writing the checker.
 Independence concerns the separately constructed trace polynomial, exact numerator checks, interval expression and native verification code; both programs share python-flint0.9.0 and FLINT Arb interval/trigonometric primitives.
-The accepted C157v2/R523 analytic interface and J100/R524 component certificate are reused at their recorded scopes, rather than claimed as fresh whole-proof or numerical reviews here.
+The accepted C157v2/R378 analytic interface and J100/R379 component certificate are reused at their recorded scopes, rather than claimed as fresh whole-proof or numerical reviews here.
 The completed [R390 independent finding](../../../audits/reviews/Yin_R_G0390_v1.md#two-set-lehmer-finding) covers the full two-set reduction, all retained cells, source and scalar bindings, independent program and completed account.
 This tests only the stated buffered family on one input, and cannot rule out different quadratic forms, different original polynomials or the unrestricted Lehmer objective.
 

@@ -208,9 +208,8 @@ The rational-series and realization interfaces are accepted on the separate CR94
 No external proof audit, erratum search, norm-convergence argument, computation, or formal verification is claimed.
 
 
-## Source and inspection
+## Exact passage and inspection limits
 
-Source edition: Reu96, the retained 17-page published Selecta Mathematica 2 (1996), pp. 93-109, DOI 10.1007/BF01587940. Printed page equals PDF page plus 92. The historically incorrect supplied filename DR97.pdf was corrected with authorization; it is not a citation alias, and the separately registered DR97 article is distinct. No second version was compared.
 
 Passages: Section 3 opening and Theorem 3.1, printed p. 98; converse and Figures 3.1-3.2, p. 99; transductions and Lemma 3.2, pp. 100-101; assembly, p. 105.
 

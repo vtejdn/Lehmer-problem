@@ -10,7 +10,7 @@ This reviewer supplied no proof step, formula, field control, source repair or h
 The arrangement is nonblind: root supplied the intended scope and warning about the original exponential target, and the reviewer first read the relevant D37 R23--R29 before the registered Claim existed.
 The subsequent review read the actual fixed statement, entire argument and complete seven-input account; it is not merely an extraction check of the earlier working text.
 R25--R26, the general primitive-field reductions and the Salem trace-field construction are outside this Claim and this finding.
-The reviewer previously independently reviewed C182 in R453 and C180 in R597, and had read C178/R447; those upstream findings were known accepted inputs.
+The reviewer previously independently reviewed C182 in R453 and C180 in R451, and had read C178/R447; those upstream findings were known accepted inputs.
 The reviewer's separate C179/C181 authorship uses some of the same classical local sources but supplies no mathematical step of the present candidate.
 The exact source statements are reused with their recorded limits, without claiming a new independent audit of their original proofs.
 No mathematical program, finite search, factorization, root approximation, discriminant computation or source acquisition was performed.

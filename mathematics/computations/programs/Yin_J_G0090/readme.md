@@ -5,6 +5,12 @@ author: Yin
 # Independent exact reconstruction of the saved Phase B Lehmer primal packet
 
 <a id="pre-run-declaration"></a>
+## Native input availability
+
+The indispensable selected native input is [J89's original basis/packet certificate](../Yin_J_G0089/readme.md#native-input-availability), which is unavailable in this checkout.
+verify.py still preserves the historical multi-file checking interface and cannot currently replay it.
+Its future input adaptation must reuse one minimum tracked J89 certificate, retaining all actual packet/congruence/negative-witness checks and the capped-failure boundary rather than requiring whole solver logs or inventing a new failed run.
+
 ## Question and scope
 
 This is a targeted native review of [J89](../Yin_J_G0089/readme.md), not a solver rerun or a whole review of the upstream lattice arguments.

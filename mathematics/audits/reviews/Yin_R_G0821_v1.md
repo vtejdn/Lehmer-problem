@@ -44,7 +44,7 @@ This record does not adopt a Claim, change any Task or execution boundary, or co
 | [Whole linear-cluster finding](#linear-clusters-whole-finding) | [C611v2 congruence interface](../../claims/Yin_C_G0611_v2.md#complete-proof-of-the-extension) | Same expanded numerator, integral Frobenius differences and monic remainder cancellation, checked through sections 1--3; no older nonzero-value hypothesis or factor1000 is extended to arbitrary multiplicity. |
 | [Whole linear-cluster finding](#linear-clusters-whole-finding) | [Accepted Hensel interface](../literature/Con26e/Yin_U001.md#con26e-u001) | Theorem9.1 simple-root existence and uniqueness in finite complete extensions. F_h reduces to X^(2^h)-X with unit derivative; original source proofs and stronger power-series/ring variants remain outside this inspection. |
 | [Whole linear-cluster finding](#linear-clusters-whole-finding) | [Accepted complete degree interface](../literature/The26b/Yin_U001.md#the26b-u001) | Exact sum of all original-field ramification times residue degrees and normalized valuation group, with the recorded Stacks09E8 scope and ancestor-proof limits unchanged. No Galois or full-residue-generator hypothesis is inserted. |
-| [Whole linear-cluster finding](#linear-clusters-whole-finding) | [Existing C635 whole finding](Yin_R_G0817_v1.md#maximal-quotient-whole-finding) | Compared after direct reconstruction for the exact maximal-quotient input and its retained scope; its independent classification is not prospective C618 coverage. |
+| [Whole linear-cluster finding](#linear-clusters-whole-finding) | [Existing C614 whole finding](Yin_R_G0817_v1.md#maximal-quotient-whole-finding) | Compared after direct reconstruction for the exact maximal-quotient input and its retained scope; its independent classification is not prospective C618 coverage. |
 
 <a id="linear-clusters-whole-finding"></a>
 ## Whole finding
@@ -173,7 +173,7 @@ Standard completion, unique-valuation and free-lattice inputs retain the scope e
 
 The current [R468 relationship](Yin_R_G0468_v1.md#actual-trace-cluster-and-return-whole-finding) is unknown, the current [R372 relationship](Yin_R_G0372_v1.md#pairwise-radical-v2-whole-independent-finding) is unknown, and [R447](Yin_R_G0447_v1.md#residual-two-adic-whole-independent-finding) is self-reviewed.
 Those historical classifications remain unchanged even though the used mathematics was reconstructed in this new isolated review.
-The [R817 whole C635 finding](Yin_R_G0817_v1.md#maximal-quotient-whole-finding) is independently reviewed at its own exact scope and was compared only after initial mathematical reconstruction.
+The [R817 whole C614 finding](Yin_R_G0817_v1.md#maximal-quotient-whole-finding) is independently reviewed at its own exact scope and was compared only after initial mathematical reconstruction.
 No old finding is relabelled or made prospective evidence for C618.
 
 The selected statement and argument are mathematically supported in full, and the selected source interfaces are adequate at their declared acceptance depths.

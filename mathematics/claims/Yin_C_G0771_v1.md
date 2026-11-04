@@ -14,7 +14,7 @@ Existing source inputs retain their inspected scope; the new content is the actu
 
 ### SC1. Exact domain and statement
 
-Fix one complete initial C801 source as consumed in [C767 QF1--QF10](Yin_C_G0767_v1.md#complete-argument).
+Fix one complete initial C759 source as consumed in [C767 QF1--QF10](Yin_C_G0767_v1.md#complete-argument).
 Thus Q=2^ell with ell>=82, m=Q/4-2, h=2d_1-4m, K_odd is the least common multiple of5 and every actual primitive order in the complete Y_1, and H is the actual fixed binary polynomial of degree h, with H(0)=H(1)=1.
 All original B_src/H_aux/beta/Z_0, full source factors, forward divisibilities, jets, fresh multiplicity3, positive original gap and actual s_min are retained.
 For EVERY original integer s>=s_min use precisely
@@ -275,7 +275,7 @@ For every actual C767 output it gives
     D_nc>=48m.                               (SC4)
 
 The first inequality includes every noncyclotomic factor and its multiplicity.
-The second follows from the original full trace's actual X-even condition through C767/C792, not from a residual of K.
+The second follows from the original full trace's actual X-even condition through C767/C752, not from a residual of K.
 
 If m(K_s)>0 tends to0 at a fixed source, an infinite subsequence with nu_s<=C would contradict SC2 for that fixed integer C.
 Thus nu_s tends to infinity, and nu_s<=4b_s also forces b_s tending to infinity.
@@ -343,7 +343,7 @@ Over characteristic zero all roots in this family are nonzero, and the derivativ
 Consequently the full noncyclotomic part after substitution has degree EXACTLY qD_nc, and its ratio to the raised core degree is unchanged.
 No factor of the raised core is assigned the full polynomial's residual precision.
 
-The source remains the complete original C801 source throughout.
+The source remains the complete original C759 source throughout.
 The constructed products remain reducible and zero-mask, with the same explicit cyclotomic removal and own-core second residual of coefficient valuation0.
 The new statements provide an exact sign statistic, a genuine uniformly bounded-total-measure subfamily with linearly many flips, and a decisive failure of raw-flip growth and first-difference L2 control as small-measure shortcuts.
 They do not settle the full unrestricted affine kernel, the degree-fraction problem or the original unrestricted G0001 contract.

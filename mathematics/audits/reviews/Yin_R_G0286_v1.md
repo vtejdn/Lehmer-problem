@@ -18,15 +18,19 @@ The target is the ENTIRE actual [D21 author freeze](../../claims/Yin_C_G0068_v1.
 The reviewer read the entire actual body and reconstructed all new prefix, placement, mass and finite spectral steps by hand, rather than treating the author's self-check as proof.
 
 The actual adopted C60 statement/operator passage and C64 statement, explicit seed products, corrected internal certificate and exact concatenation/padding passage were read.
-Their current selected decisions were inspected: C60 uses R371 and C64 uses R374/R377.
+Their current selected decisions were inspected: C60 uses R276 and C64 uses R279/R282.
 Accepted ancestor proof/native status is not expanded.
 This review does not certify any new graph enumeration, source-original theorem, numerical eigenvalue, asymptotic rate or future Claim wrapper.
+
+The initial entire C68 input included its author validation checklist beyond the necessary derivation; declining to use it as proof does not remove that supplied context.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole invariant-midpoint finding](#quartic-invariant-midpoint-whole-independent-finding) | independently reviewed |
+| [Whole invariant-midpoint finding](#quartic-invariant-midpoint-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

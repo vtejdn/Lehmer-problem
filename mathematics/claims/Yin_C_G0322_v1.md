@@ -44,7 +44,7 @@ author: Yin
 | dependency | [Full actual monomial optimum](Yin_C_G0294_v1.md#statement) | Accepted exact active systems, original rational primal/dual and constraints on the actual full columns. |
 | dependency | [Saturated remainder map](../ledger/Yin_L_G0256_v1.md#return-projection-reuse-and-scope) | Accepted integer quotient/kernel interface; the first-d-column and exact congruence proofs are explicit here. |
 | dependency | [Complete bundle income and expenses](Yin_C_G0600_v1.md#weighted-integral-bundle-bound) | Accepted original all-root analytic conditional gap and costs, with the family-uniform hypotheses still unproved. |
-| review | [Actual complete independent finding](../audits/reviews/Yin_R_G0554_v1.md#whole-c323) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C322 includes both complete fixed native records, C324/C325 are proof-only. |
+| review | [Actual complete independent finding](../audits/reviews/Yin_R_G0554_v1.md#whole-c323) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C322 includes both complete fixed native records, C323/C324 are proof-only. |
 
 
 ## Exact retained theorem

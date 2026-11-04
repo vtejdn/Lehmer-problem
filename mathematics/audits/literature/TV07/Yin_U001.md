@@ -62,7 +62,7 @@ The L2 statement with a universal constant and the monic-unit specialization rem
 ## Distinct original statement reading
 
 At2026-10-11T11:38 the separate local reviewer directly text-read complete printed pp.593--594/PDFpp.1--2, including Theorem1(i), supremum norm, monic normalization and surrounding statements.
-This was a distinct reader and occurrence from the root19:31 four-page statement/application and proof-excerpt inspection above.
+This was a distinct reader and occurrence from the root 11:31 UTC four-page statement/application and proof-excerpt inspection above.
 The [original full local review](../../reviews/Yin_R_G0191_v1.md#circle-zero-whole-proof-outcome) retains that exact input and its unknown initial-context relationship; it does not establish independent review of TV07.
 The original TV07 proof, Bernstein input and general Jordan-curve results were not audited by that reader.
 This maintenance reads the retained account and performs no new primary-source reading or acquisition.

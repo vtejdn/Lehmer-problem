@@ -6,7 +6,7 @@ author: Yin
 
 ## Question and scope
 
-Extract the complete lambda-zero actual column domains from the existing fixed C631/J121 middle-pair certificate and C636's three-column H geometry.
+Extract the complete lambda-zero actual column domains from the existing fixed C610/J121 middle-pair certificate and C615's three-column H geometry.
 The analytical domain, exact current-tail sufficiency and complete H-connectivity construction are fixed in [C620v1](../../../claims/Yin_C_G0620_v1.md#argument), whose selected decision owns their assessment.
 Each accepted lambda-zero pair is intersected with precisely the three source columns m=-1,0,1 and its explicit intermediate-core interval.
 This finite local symbolic extraction is not a coordinate-box, original-word, graph-path or word-length scan.

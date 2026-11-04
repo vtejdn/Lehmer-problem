@@ -51,7 +51,10 @@ author: Yin
 <a id="statement"></a>
 <a id="all-parameter-cost-fixed-scope"></a>
 
-For every integer k>=3, the actual two-move complete companion has a1=-(k+2), a2=(k^2-7k-12)/2-2^k and whole second power sum2^(k+1)+11k+16. Full reciprocal/Vieta and unit-circle bounds (6)--(10) show that both actual companions and both full proper covers have measure divided by k tending to log2. The signed saving obeys (12), so any positive saving of this construction is at most the explicit O(log k); only the original k3 saving is known positive. All factors, multiplicities, dimensions and costs remain; no optimal-class lower bound, all-k positivity, repeated-surgery obstruction or near-one family is proved.
+For every integer k>=3, the actual two-move complete companion has a1=-(k+2), a2=(k^2-7k-12)/2-2^k and whole second power sum2^(k+1)+11k+16.
+Full reciprocal/Vieta and unit-circle bounds (6)--(10) show that both actual companions and both full proper covers have measure divided by k tending to log2.
+The signed saving obeys (12), so any positive saving of this construction is at most the explicit O(log k); only the original k3 saving is known positive.
+All factors, multiplicities, dimensions and costs remain; no optimal-class lower bound, all-k positivity, repeated-surgery obstruction or near-one family is proved.
 All input, source, failed-method and expense boundaries in the complete argument below are part of this fixed statement.
 No current Task/E execution is selected by the dated original research prose.
 

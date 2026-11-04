@@ -9,7 +9,9 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: [MPV98 author version](../../../literature/pdf/MPV98--author-ps.pdf), an undated prepublication PostScript version publicly linked by coauthor Pinner, converted to a19-page PDF for reading. The placeholder journal header is retained. This is distinct from the published Math.Comp.67(224)(1998),1707--1726 article. Provenance.
+Source edition: [MPV98 author version](../../../literature/pdf/MPV98--author-ps.pdf), an undated prepublication PostScript version publicly linked by coauthor Pinner, converted to a19-page PDF for reading.
+The placeholder journal header is retained.
+This is distinct from the published Math.Comp.67(224)(1998),1707--1726 article.
 
 Passages: Author-version pp.2--3: cyclotomic perturbation context and Theorems2.1--2.2; pp.3--4 trace reduction; pp.4--6 monotone root-count and capacity proof mechanism. All locators are internal author/PDFpages, not journal pages.
 

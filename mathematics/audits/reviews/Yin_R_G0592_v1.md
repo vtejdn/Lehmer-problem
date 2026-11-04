@@ -6,7 +6,8 @@ author: Yin
 
 Date: 2026-10-21T16:07.
 Human operator: Yin.
-The agent read complete original L163/L164 and R62/R63, the complete published C386v1/C387v1/C387v2 statements and retained arguments, and every directly used C244/C257/C260/C213v2/C358/C380/C385/C386 and BS96-U001 interface within its exact scope.
+The agent read complete original L163/L164 and R62/R63, the complete published C386v1/C387v1/C387v2 statements and retained arguments, and every directly used reciprocal trace-domain, norm/valuation, discriminant-height, quartic, fixed-floor, unramified matching and Salem pair-kernel interface within its exact scope.
+Those same interfaces are retained at C243, C256, C259, C213v2, C357, C377 and C383 respectively, as selected by the fixed targets; BS96-U001 and JR17-U001 retain their separate source-reading limits.
 Unchanged adequate fixed inputs already read in this maintenance were reused without expanding their source or mathematical boundaries.
 The existing JR17 standard statement/inspection account was read completely and retained in JR17-U001, preserving its original publisher-HTML versus selected retained-v1 passage comparison, original2026-10-09 precision and source-proof/whole-version limits.
 Both actual current whole checks rederived the complete field, ideal, representation, character, calculus, Euler, prime-power, finite-error, threshold and actual-group implications below.
@@ -100,7 +101,7 @@ The actual current whole check is self-reviewed and leaves all R63 original comp
 ## New matching-summary explicit-definition check
 
 Date: 2026-10-21T16:07.
-C387v1's newly authored condensed statement used the Salem, V, E_s and psi notation whose exact definitions were already supplied by its selected complete C386 interface and by its unchanged complete retained argument.
+C387v1's newly authored condensed statement used the Salem, V, E_s and psi notation whose exact definitions were already supplied by its selected complete C383 interface and by its unchanged complete retained argument.
 C387v2 spells out in that summary the same Salem root signature, pair-action kernel, even-weight subspace and Dirichlet-coefficient/psi sums.
 The entire original retained argument is exactly identical between these two new physical versions.
 This is a current authoring clarification of that new summary, not an original L164 mathematical repair, a new theorem, an old corrected-whole inspection or an isolated review.

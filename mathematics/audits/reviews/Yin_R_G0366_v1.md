@@ -13,7 +13,7 @@ This reviewer supplied no proof step, parameter choice, cutoff, inverse or repai
 The arrangement is not blind: shared G0001 context, the assignment and the author check were available.
 This reviewer previously performed R358 on C146v2, R360 on C146v3, R363 on C147v3 and R364 on C147v4.
 Those records are reused only for their unchanged accepted input scopes, not as prior whole coverage of this new consumer.
-The reviewer authored OLD C134 and supplied only a source locator preceding C147v4; its general numerical source consequence is inherited through C134/R488 and C147v4/R364, without calling the reviewer's own C134 proof newly independently reviewed.
+The reviewer authored OLD C134 and supplied only a source locator preceding C147v4; its general numerical source consequence is inherited through C134/[R798 original two-node](Yin_R_G0798_v1.md#two-node-whole-independent-finding) and C147v4/R364, without calling the reviewer's own C134 proof newly independently reviewed.
 Old C131/C137 author roles concern antecedents of C147v1 and the old g6 comparison, not a new authorship contribution to the direct-energy chain or this consumer.
 Earlier source-only checking of The26b and AM16 likewise does not constitute a contribution to the new class-cutoff argument.
 
@@ -24,11 +24,15 @@ No external original proof, new source acquisition, mathematical program, J or f
 The fixed Claim and sources were not changed.
 The necessary new evidence is this actual whole review, not another theorem or duplicate source unit.
 
+The initial C146 v4 input included the author validation and no-unresolved-premise conclusions beyond the necessary proof.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | independently reviewed |
+| [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -45,13 +49,13 @@ The necessary new evidence is this actual whole review, not another theorem or d
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [The26b local-algebra interface](../literature/The26b/Yin_U001.md#the26b-u001) | Inherited residue-Frobenius lifts at all primes and own-field value-group step1/e>=1/D, including ramification; unchanged uninspected ancestor-proof boundary. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [Pri11 restricted energy source](../literature/Pri11/Yin_U002.md#pri11-u002) | Inherited compact globally Lipschitz finite-energy statement and actual powered degree; source acceptance through C147, not a new potential-theory proof audit. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [AM16 fixed-loss source](../literature/AM16/Yin_U002.md#am16-u002) | ONLY finite abelian base K=Q and rank1 as consumed by C147v3: fixed positive constant, actual degree, no numerical/effectivity/eta-uniform conclusion. |
-| [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [C134 general numerical source consequence](../../claims/Yin_C_G0134_v1.md#two-node-degree-and-inverse-measure-scales) | ONLY equation18 as inherited through C147v4/R364 with existing R488; not extension of the Salem theorem or independent re-review of this reviewer's old proof. |
+| [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [C134 general numerical source consequence](../../claims/Yin_C_G0134_v1.md#two-node-degree-and-inverse-measure-scales) | ONLY equation18 as inherited through C147v4/R364 with existing [R798 original two-node](Yin_R_G0798_v1.md#two-node-whole-independent-finding); not extension of the Salem theorem or independent re-review of this reviewer's old proof. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [Smy08 quantitative source scope](../literature/Smy08/Yin_U001.md#smy08-u001) | Inherited general Dobrowolski statement/conversion scope underlying C147v4; defective resultant explanation and stronger reported Voutier constants are not used. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [L80 house consequence](../../ledger/Yin_L_G0080_v1.md#degree-only-primitive-escape) | Accepted m>=c/N and h>=c/N^2 at actual degree, used within the numerical C147 inputs; retained Dim19-v1 statement-only scope. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [Exact retained house source scope](../literature/Smy08/Yin_U001.md#smy08-house) | Dim19-v1 statement/applicability boundary, not a new original-source proof audit or comparison with a later edition. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [R358 inherited own-field review](Yin_R_G0358_v1.md#own-field-ratio-whole-independent-finding) | Prior independently reviewed C146v2 construction and original-norm interface, reused at unchanged scope; no old Omega inequality is substituted here. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [R360 inherited comparison review](Yin_R_G0360_v1.md#sixth-power-frobenius-whole-independent-finding) | Earlier C146v3 complete g6 formula and source limits; not coverage of new fixed-q or endpoint calculations. |
-| [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [R361 inherited quarter review](Yin_R_G0361_v1.md#planar-energy-whole-independent-finding) | Actual independent acceptance of C147v2's complete numerical quarter modulus and exact source application. |
+| [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [R361 inherited quarter review](Yin_R_G0361_v1.md#planar-energy-whole-independent-finding) | Actual acceptance of C147v2's complete numerical quarter modulus and exact source application. Referenced finding relationship: self-reviewed. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [R363 inherited family review](Yin_R_G0363_v1.md#near-half-power-family-whole-independent-finding) | Actual C147v3 fixed-parameter norm theorem and source-constant limits, not this new Frobenius consumer. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [R364 inherited numerical review](Yin_R_G0364_v1.md#explicit-square-root-cyclic-whole-independent-finding) | Actual C147v4 whole acceptance including small-N guard and two-case degree inversion; old authorship/source-pointer relationship unchanged. |
 | [Actual whole finding](#full-parameter-frobenius-whole-independent-finding) | [R798 old numerical source check](Yin_R_G0798_v1.md#two-node-whole-independent-finding) | Previously independent C134 numerical source/conversion inspection only, inherited through R364; no new original-source proof review. |
@@ -230,7 +234,7 @@ The numerical endpoint instead inherits C134's general quantitative external con
 It does not extend C134's main Salem theorem to general units.
 The accepted Smy08/Dim19 statement limits, the unused defective resultant explanation and the nonadoption of stronger reported Voutier constants remain intact.
 
-R358/R360/R363/R364 and R361/R488 are inherited only within their actual scopes.
+R358/R360/R363/R364 and R361/[R798 original two-node](Yin_R_G0798_v1.md#two-node-whole-independent-finding) are inherited only within their actual scopes.
 This review independently checks the new complete consumer, without upgrading those earlier review scopes, source-proof inspection or old contributor independence.
 Root and f_unitary_scope remain the new proof contributors; this reviewer provided no correction because none was found.
 The original d, d', D, sign and all n,pn,rpn/2^r expenses remain paid throughout every strengthened analytic branch.

@@ -479,7 +479,7 @@ This maintaining-agent whole SELF is not fresh isolation and closes no historica
 | --- | --- |
 | date | 2026-10-21T21:26 |
 | status | proved |
-| reason | Select the actual complete current C458v2 k4 integer-Gram/Schur/full-sheet mechanism for the same already proved proper quartic comparison after full statement/argument/decision/R812 reading and actual same-object input check. The entire C456 statement and proof, all other inputs/reviews and every finite/bilinear/root/full-factor/cost/negative scope remain unchanged. Existing original L191/R161/R662 inputs and dates remain actual; this administrative home maintenance is SELF and supplies no new mathematical repair, isolation, source/native run or Task/E execution. |
+| reason | Select the actual complete current C458v2 k4 integer-Gram/Schur/full-sheet mechanism for the same already proved proper quartic comparison after full statement/argument/decision/R665 reading and actual same-object input check. The entire C456 statement and proof, all other inputs/reviews and every finite/bilinear/root/full-factor/cost/negative scope remain unchanged. Existing original L191/R161/R662 inputs and dates remain actual; this administrative home maintenance is SELF and supplies no new mathematical repair, isolation, source/native run or Task/E execution. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

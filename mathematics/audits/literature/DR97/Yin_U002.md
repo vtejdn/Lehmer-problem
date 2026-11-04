@@ -107,7 +107,7 @@ Together with the scalar column $q$, this proves finite rank for $h$, and hence 
 If $a$ is a scalar multiple of the group identity, the edge columns vanish but $C_a(q)=-a$; the full $[F,a]$ need not be zero.
 This is consistent with the source's **zero** action on the auxiliary $kq$ summand.
 In the later inverse-closure argument it is necessary to account for this nonunital block action, or work modulo finite-rank maps; one must not silently replace it by a unital representation.
-U003 and U005 handle their respective ambient spaces.
+U003 handles the analytic closure chain; the separately reported Malcev-Neumann support construction is not located in the present collection, and U005 supplies only its external foundation.
 
 For $X=\varnothing$, $\Gamma=\{1\}$ and $E=\varnothing$; all series are scalars and all spaces and defects have finite dimension.
 The result is immediate without the letter-by-letter argument.
@@ -128,7 +128,9 @@ This review records that scope rather than claiming an unaudited infinite-genera
 
 The coordinating agent read the complete Section 2.2 and inspected rendered pp. 616-618 on 2026-09-08, including both cancellation sums, barred letters, product order, and the definition of the auxiliary scalar action.
 The proof above is a local mathematical reconstruction.
-The exact finite computation passed 78,185 equalities for ranks 0-2, coefficient words of lengths 0-5, and edge endpoints of lengths 1-4.
+The historical exact finite computation reports 78,185 passing equalities for ranks 0-2, coefficient words of lengths 0-5, and edge endpoints of lengths 1-4.
+Its native program and exact J locator have not been located in the selected current computation index/program metadata.
+Reproducing this finite check requires that input; the recorded run is not a newly executed verification and is not evidence that no original program existed.
 It supplements the universal argument and does not establish a general rationality theorem.
 On the same date the Malcev-Neumann reconstruction agent independently checked the identity, edge/suffix correspondence, restricted injectivity, rank factor, scalar column, and finite-generator bound; no unresolved objection remained in that scope.
 No formal verification or external human review is claimed.
@@ -136,8 +138,8 @@ The restricted-injectivity explanation is an audit clarification, not an author-
 
 ## Source and inspection
 
-Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U006; it does not replace the primary version.
+Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U005; it does not replace the primary version.
 
 Passages: Section 2.2, printed pp. 616-618; Remark 2 and Proposition 5.
 
-Inspection: 2026-09-08: reduced-word identity, restricted injectivity and finite-generator bound reconstructed and independently reviewed. The linked computation checks 78,185 finite equalities and supplements the universal proof only. No unrestricted convolution algebra, general boundedness, infinite-generator extension, external human review or formal verification.
+Inspection: 2026-09-08: reduced-word identity, restricted injectivity and finite-generator bound reconstructed and independently reviewed. The recorded computation checks 78,185 finite equalities and supplements the universal proof only. No unrestricted convolution algebra, general boundedness, infinite-generator extension, external human review or formal verification.

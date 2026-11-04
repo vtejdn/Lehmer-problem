@@ -4,11 +4,15 @@ author: Yin
 
 # Exact cost of returns seeded by P(1) and P(-1)
 
+Current checking scope is owned by [R50](../audits/reviews/Yin_R_G0050_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08--09.
 Bounded G0001 arithmetic test by the assigned growth_arithmetic_status AI for Yin.
 The coordinator requested a core-specific return mechanism or a precise failure, including the possible use of P(1), P(-1) and prime-power cyclotomic layers.
 This AI derived and checked the exact varying-degree calculation below.
-Full independent review is recorded below.
+The full checking account below retains the responsible findings' actual relationships.
 No numerical search, local-factor computation, external source or novelty claim is involved.
 The coordinator accepted this reviewed proof for fixed-ledger preservation on 2026-10-09.
 

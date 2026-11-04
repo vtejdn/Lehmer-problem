@@ -22,11 +22,15 @@ This recheck read every actual corrected paragraph, verified both integer-domain
 The retained direct interfaces were inspected in the original whole review at their recorded scope; they are unchanged.
 This finding is cumulative complete original mathematics plus actual corrected-body inspection, not a silent upgrade of R287 or prospective approval of a future Claim.
 
+The corrected whole finding continues R287's initial author-validation context and reuses that actual original reconstruction; the corrected and original negative findings remain distinct.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Corrected whole finding](#isolated-universal-corrected-whole-finding) | independently reviewed |
+| [Corrected whole finding](#isolated-universal-corrected-whole-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -104,6 +108,6 @@ If this reviewer now authors that wrapper, a different noncontributor must inspe
 The reviewer's pre-existing C65-wrapper contribution remains disclosed; all new D23 mathematics was independently checked rather than inferred from an ancestor verdict.
 
 No new source, native mathematical program or target edit occurred.
-The ordinary source/attribution limits already recorded in R287/R378 remain unchanged.
+The ordinary source/attribution limits already recorded in R287/R283 remain unchanged.
 No all-width universal obstruction, tailored-packet failure, cheap union-width bound or unrestricted G0001 completion is inferred.
 Structural checks remain separate from the proof and root retains adoption/execution/shared-record authority.

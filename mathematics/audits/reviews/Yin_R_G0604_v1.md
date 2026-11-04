@@ -39,7 +39,7 @@ Only afterward did the reviewer read all current C390, all original L167, all R6
 The exact used C256/C361/C389 interfaces and the retained L153 comparison boundary were also read at the scopes declared below.
 This second stage compared source and contribution roles, every original whole-review obligation, the actual final-candidate reread and the positive and negative limitations.
 It supplied no proof repair and did not change the autonomous mathematical conclusion.
-Reading the mixed R595/R601 records does not constitute a review of C394.
+Reading the mixed R595/R601 records does not constitute a review of C391.
 
 No mathematical native program, numerical experiment, prime scan, finite polynomial enumeration, numerical constant construction, new source search/acquisition, PDF inspection, artifact rehash or formal verification was performed.
 Framework material allocation and the selected structural check are mechanical publication operations only.
@@ -70,7 +70,7 @@ The canonical proof body was also compared transiently with the present retained
 | [Whole isolated powered-Salem finding](#g393v1-whole-isolated-powered-salem-finding) | [R66 parallel proof comparison](Yin_R_G0066_v1.md#circle-cost-original-parallel-comparison-finding) | Actual parallel contributor Sections1--2 energy/product proofs, r=exp(-2t_0) parameter, diagonal and twos; the old self-reviewed relationship is unchanged and no extra author inspection is invented. |
 | [Whole isolated powered-Salem finding](#g393v1-whole-isolated-powered-salem-finding) | [R66 complete coordinator read](Yin_R_G0066_v1.md#circle-cost-original-coordinator-whole-finding) | Explicit original full-candidate contributor read, covering the complete mathematical/source/finite-cost/stop scope; the old self-reviewed relationship is unchanged. |
 | [Whole isolated powered-Salem finding](#g393v1-whole-isolated-powered-salem-finding) | [R595 whole current self finding](Yin_R_G0595_v1.md#current-powered-salem-energy-finding) | Entire C390 finding at 2026-10-21T16:30, every original mathematical/interface/source/negative/final-reread obligation and declared SELF arrangement; no historical or current relationship is upgraded. |
-| [Whole isolated powered-Salem finding](#g393v1-whole-isolated-powered-salem-finding) | [R601 C393 whole self finding](Yin_R_G0601_v1.md#g393v1-current-whole-self-finding) | Entire C390 finding at 2026-10-21T17:09 and its actual early Pri11 target-summary exposure disclosed in that record; mathematical agreement does not convert its SELF relationship or supply this review's initial input. |
+| [Whole isolated powered-Salem finding](#g393v1-whole-isolated-powered-salem-finding) | [R601 C390 whole self finding](Yin_R_G0601_v1.md#g393v1-current-whole-self-finding) | Entire C390 finding at 2026-10-21T17:09 and its actual early Pri11 target-summary exposure disclosed in that record; mathematical agreement does not convert its SELF relationship or supply this review's initial input. |
 
 <a id="g393v1-whole-isolated-powered-salem-finding"></a>
 ## Whole isolated powered-Salem finding

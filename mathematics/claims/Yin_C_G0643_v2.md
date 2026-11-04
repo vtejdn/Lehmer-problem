@@ -8,7 +8,7 @@ This substantive v2 preserves the [physical v1](Yin_C_G0643_v1.md#decision-whole
 Root supplied the formal inverse and two determinant ideas for v1, and the new square-times-composition and dyadic descent proposal.
 The same_trace contributor checked and completed both versions' units, boundary cases, exact degrees and original precisions, and supplied the primitive-core strengthening, its uniqueness/iteration proof and the actual-degree boundary checks for the full module classification, and the simultaneous fifth-root/odd-error proof of the exact homogeneous-cube classification.
 Both are mathematical contributors.
-V1's R1012 covers its adopted EP scope only; it does not independently review the new SC claims or this complete v2.
+V1's R849 covers its adopted EP scope only; it does not independently review the new SC claims or this complete v2.
 The work continues under the [active all-strategy Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23).
 Focused reuse inspected C643v1's exact polynomial determinants and original homogeneous projection, C634/C636's uniform support/module interfaces, and C197/C199/C609's actual original hypotheses.
 The [D1 extraction candidate](../drafts/Yin_D_G0001.md#canonical-square-composition-extraction) is development provenance, not a logical input.
@@ -561,7 +561,7 @@ The zero-Haar integer cyclotomic factorization has leading coefficient1 or-1, so
 The original maximal q then gives precisely the degree identities in the statement.
 No factor, surplus, field degree or original layer is removed to obtain the contradiction.
 The global nonsquareness of U_0,R_0 remains C199's actual normalization conclusion, not an inference from either local cube or endpoint parity.
-This theorem needs no later finite full-jet exclusion, and does not use C667's remaining-range result.
+This theorem needs no later finite full-jet exclusion, and does not use C640's remaining-range result.
 
 ### Exact global extraction from the first determinant
 
@@ -1028,7 +1028,7 @@ No additional native or feasibility work is claimed.
 | --- | --- |
 | date | 2026-10-23T21:58 |
 | status | proved |
-| reason | Adopt the ENTIRE physical v2 after main reading of the complete preserved EP and new SC statement/proof and isolated whole R853. Exact canonical extraction, relative-primitive uniqueness, finite extraction, complete actual-degree module classification, sharp homogeneous-cube iff and unique auxiliary low jet are proved at their full scopes. The original arbitrary-m necessary dichotomy retains the SAME complete B and Y, all integer layers, q,6m/8m precision and degrees. No global square, original-input descent, inhomogeneous A0=14 exclusion or unrestricted Task completion follows. Physical v1 and R1012 remain at their own unchanged scope. |
+| reason | Adopt the ENTIRE physical v2 after main reading of the complete preserved EP and new SC statement/proof and isolated whole R853. Exact canonical extraction, relative-primitive uniqueness, finite extraction, complete actual-degree module classification, sharp homogeneous-cube iff and unique auxiliary low jet are proved at their full scopes. The original arbitrary-m necessary dichotomy retains the SAME complete B and Y, all integer layers, q,6m/8m precision and degrees. No global square, original-input descent, inhomogeneous A0=14 exclusion or unrestricted Task completion follows. Physical v1 and R849 remain at their own unchanged scope. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

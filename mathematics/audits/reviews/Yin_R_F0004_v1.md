@@ -5,7 +5,7 @@ author: Yin
 
 Date: 2026-10-13T06:42.
 Human record author Yin.
-Root independently reviews the complete scalar author artifact D_F0010 frozen14:36 and matrix author artifact D_F0012 frozen14:37.
+Root independently reviews the complete scalar author artifact D_F0010 frozen 2026-10-13T06:36 and matrix author artifact D_F0012 frozen 2026-10-13T06:37.
 The separate scalar and matrix agents developed the formulas and proofs.
 Root assigned scope, coordinated sources and supplied unadopted bibliographic leads, but supplied no Gram, dual, prediction, field, compression or norm derivation and made no target repair.
 Shared author summaries and context were available; no blindness is claimed.
@@ -34,7 +34,7 @@ This metadata judgement is not a new mathematical review or a proof repair.
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Scalar whole finding](#scalar-capacity-whole-independent-finding) | [Entire scalar freeze](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-entire-author-freeze) | Complete14:36 original, Sections1--6, equations1--19, all question/source/failure/attainment/zero branches and limits. |
+| [Scalar whole finding](#scalar-capacity-whole-independent-finding) | [Entire scalar freeze](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-entire-author-freeze) | Complete 2026-10-13T06:36 original, Sections1--6, equations1--19, all question/source/failure/attainment/zero branches and limits. |
 | [Scalar whole finding](#scalar-capacity-whole-independent-finding) | [Scalar finite capacity](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) | Exact coefficient spectrahedron, compactness, both inequalities and unique optimizer, arbitrary complex coefficients and all circle/degree/zero cases. |
 | [Scalar whole finding](#scalar-capacity-whole-independent-finding) | [Scalar dual](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-dual) | Precise conjugate convention, equal infimum, feasible approximants and exact nonattainment boundary. |
 | [Scalar whole finding](#scalar-capacity-whole-independent-finding) | [Prediction](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-prediction) | Exact finite minimizer/ratio, decreasing limit and finite-attainment classification. |
@@ -43,7 +43,7 @@ This metadata judgement is not a new mathematical review or a proof repair.
 | [Scalar whole finding](#scalar-capacity-whole-independent-finding) | [DR10 scalar source](../literature/DR10/Yin_U001.md#dr10-u001) | Checked classical scalar factor/root convention, not rational descent or maximum-Gram theorem body. |
 | [Scalar whole finding](#scalar-capacity-whole-independent-finding) | [Den09 prediction interface](../literature/Den09/Yin_U002.md#finite-section-determinant) | Classical naming and existing exact finite-section scope; new local complex/zero-domain proof is explicit. |
 | [Scalar whole finding](#scalar-capacity-whole-independent-finding) | [Scalar weight baseline](../../ledger/Yin_L_G0431_v1.md#single-haar-formulation) | Exact bounded-weight baseline and distinction of upper trial values, not a whole-baseline acceptance. |
-| [Matrix whole finding](#matrix-capacity-whole-independent-finding) | [Entire matrix freeze](../../ledger/Yin_L_F0007_v1.md#matrix-capacity-entire-author-freeze) | Complete14:37 original, eight sections/equations1--24, all source, coefficient, singular and control scopes. |
+| [Matrix whole finding](#matrix-capacity-whole-independent-finding) | [Entire matrix freeze](../../ledger/Yin_L_F0007_v1.md#matrix-capacity-entire-author-freeze) | Complete 2026-10-13T06:37 original, eight sections/equations1--24, all source, coefficient, singular and control scopes. |
 | [Matrix whole finding](#matrix-capacity-whole-independent-finding) | [Matrix finite capacity](../../ledger/Yin_L_F0007_v1.md#matrix-finite-gram-capacity) | Full square-matrix Laurent domain, wedge upper bound, outer matching Gram, trace normalization and ordinary zero determinant. |
 | [Matrix whole finding](#matrix-capacity-whole-independent-finding) | [Matrix field variation](../../ledger/Yin_L_F0007_v1.md#matrix-field-variation) | Both global directions and unique bounded optimizer versus circle-zero or identically singular nonattainment. |
 | [Matrix whole finding](#matrix-capacity-whole-independent-finding) | [Regularized matrix interface](../../ledger/Yin_L_F0007_v1.md#matrix-regularized-interface) | Complete epsilon and coefficient derivatives, exact finite-branch error and distinction from determinant-polynomial regularization. |
@@ -166,7 +166,7 @@ Changing the sign of the z^2 coefficient in the coupled degree-two example prese
 <a id="matrix-capacity-whole-independent-finding"></a>
 ## Matrix whole finding: pass at the accepted external-input scope
 
-PASS for the complete final14:37 matrix account, including all finite capacity, variation, singular, regularized and convolution-limit branches and exact controls.
+PASS for the complete final 2026-10-13T06:37 matrix account, including all finite capacity, variation, singular, regularized and convolution-limit branches and exact controls.
 No target repair was made.
 DR10 matrix factorization is the one nontrivial existence theorem accepted at its exact statement/applicability scope; no full original-source proof audit is claimed.
 The block limit and capacity deductions were actually reconstructed, not inferred from the scalar Szego label.

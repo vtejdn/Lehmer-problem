@@ -4,7 +4,7 @@ author: Yin
 
 # Changed-kernel rank-seven exact algebra
 
-The current complete theorem and argument are [C533](../../../claims/Yin_C_G0533_v1.md#statement), with its [actual current whole SELF](../../../audits/reviews/Yin_R_G0735_v1.md#current-g222-whole-self-finding).
+The current complete theorem and argument are [C533](../../../claims/Yin_C_G0533_v1.md#statement), with its [earlier complete SELF finding](../../../audits/reviews/Yin_R_G0735_v1.md#current-g222-whole-self-finding).
 The [current complete independent finding](../../../audits/reviews/Yin_R_G0792_v1.md#localized-kernel-current-independent) and [new bounded read-only evidence check](../../../audits/reviews/Yin_R_G0792_v1.md#new-bounded-original-evidence-check) have their own actual input and execution scope.
 The [original R792 whole](../../../audits/reviews/Yin_R_G0792_v1.md#localized-kernel-complete-independent-review) retains its actual frozen L222 input, proof inspection and read-only replays; its missing relationship declaration and unestablished initial context are not retroactively filled by the current C.
 

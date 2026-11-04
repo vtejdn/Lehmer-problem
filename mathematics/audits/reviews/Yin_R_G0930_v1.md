@@ -149,7 +149,7 @@ Finite sixth absolute moment and measure finiteness ensure all used integrations
 
 The result supplies no restriction on arbitrarily late moments, eventual log-convexity, asymptotic approximations with changed initial moments, or nonselfadjoint mechanisms.
 It does not determine the actual finite/infinite critical mean, identify R with beta, produce all-late escape, improve the original flow or clock costs, or settle the unrestricted Lehmer question.
-The mentioned C673 and C731v2 results are unchanged contextual boundaries rather than logical inputs, and their arguments were not re-audited.
+The mentioned C645 and C698v2 results are unchanged contextual boundaries rather than logical inputs, and their arguments were not re-audited.
 No source PDF, historical numerical program, formalization, or full inherited theorem chain was re-audited, and no source inspection depth is enlarged.
 The independently checked finite deductions and their exact original/critical interfaces support the whole C709 statement at its fixed v1 scope, with no corrective action required by this review.
 Actual adoption remains a separate decision in the responsible C material.

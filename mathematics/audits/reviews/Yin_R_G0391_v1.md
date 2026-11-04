@@ -7,7 +7,7 @@ Date: 2026-10-18T12:13.
 Human record author Yin.
 The main agent separately assigned a whole review of C165v1, whose initial declaration is dated2026-10-18T12:08.
 Root and the loglog_cyclic_review author contributed to that candidate; the entropy_attainment_bridge reviewer supplied none of its ratio, monomial, kernel-count or all-support arguments.
-The reviewer previously authored AM16-U003 and U004 source/application accounts and performed the unrelated J101/R535 finite review.
+The reviewer previously authored AM16-U003 and U004 source/application accounts and performed the unrelated J101/R390 finite review.
 Those upstream roles are disclosed: this finding is not an independent re-review of the reviewer's own earlier source applications.
 Their exact external theorem and prior comparison scopes are checked here as inputs to a separately developed result.
 

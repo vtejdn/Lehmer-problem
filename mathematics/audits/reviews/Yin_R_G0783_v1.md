@@ -62,7 +62,7 @@ The Fourier moment/tail and Holder modulus keep every degree/norm constant.
 The exact critical sup-error is the nonnegative first-return secant difference; a further(1+beta)-moment gives only a sufficient rate.
 The actual quartic has R≥sqrt2 and Lambda2, giving Holder1/8 at s5/4 while the factor lacks L3 and either critical alternative lacks an L2 density.
 This does not decide its recurrence class.
-C483/C575/L173/L169/J52 root-enclosure and Wal18-U001 foundation interfaces were checked at the consumed scopes; Tao09 remains attribution only and supplies no uninspected general source-proof input.
+C479/C560/L173/L169/J52 root-enclosure and Wal18-U001 foundation interfaces were checked at the consumed scopes; Tao09 remains attribution only and supplies no uninspected general source-proof input.
 No native or external original proof was executed/re-audited, and no normalized-chain result was transferred.
 Post-initial comparison covers all original findings and unchanged L244 SELF boundary.
 No uniform critical moment/secant, Salem classification or unrestricted gap follows.

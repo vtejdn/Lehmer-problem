@@ -21,7 +21,7 @@ Reading the fixed proofs and necessary mathematical dependencies does not consti
 Before the initial findings, the reviewer read C523v1's full Statement and retained Sections1--5/equations(1)--(23), C525v1's full Statement and retained three-section argument/equations(1)--(10), the C479 admissible-law and finite-Perron interface, C508v2's actual quotient contraction and geometry, C511's prescribed-mass competitor interface, J107's first fixed witness and retained verifier payload, and L270's existing attribution paragraph.
 The reviewer read the existing JSON fields without executing a mathematical producer, verifier, higher-modulus scan or polynomial solver.
 At 2026-10-22T17:46 it formed a negative finding for the precise C523v1 Statement and a no-gap initial finding for the complete C525v1 mathematics.
-Only afterward did it read the complete L216 and L413, followed by R115, R565 and R418.
+Only afterward did it read the complete L216 and L412, followed by R112, R419 and R418.
 The subsequent comparison also checked the selected verifier indexing/bit convention and the exact comparison domains of L279, L287, L214 and J104.
 At 2026-10-22T17:49 this comparison confirmed the C523 statement mismatch and the C525 conclusion below.
 The reviewer supplied no mathematical edit to either target.
@@ -31,30 +31,30 @@ Reporting the failed C523 implication does not assert a repair or a new proof.
 
 | Review | Relationship |
 | --- | --- |
-| [Current C529v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | independently reviewed |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | independently reviewed |
+| [Current C523v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | independently reviewed |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | independently reviewed |
 
 ## Review bindings
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Current C529v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C523v1 Statement](../../claims/Yin_C_G0523_v1.md#statement) | Entire current statement, including every q and k, stationary/admissible and Salem domains, the new any-fixed-b explicit bound, its claimed O_A rate and constants, and all necessary-only limits; negative at the b-to-rate interface below. |
-| [Current C529v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C523v1 Argument](../../claims/Yin_C_G0523_v1.md#argument) | Entire retained Sections1--5/equations(1)--(23), all actual quotient permutations, adjoint/row-column normalization, time cost, finite-image entropy, Euclidean norm grid, varying-degree and fixed-midpoint estimates; no rejection of the original midpoint-b proof. |
-| [Current C529v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C479 admissibility and Perron interface](../../claims/Yin_C_G0479_v1.md#stationary-information-fixed-scope) | Actual return-core laws, original-digit information and bounded absolute row likelihood, and finite actual Perron approximants; no new whole review of C479 or external source proof. |
-| [Current C529v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C508v2 actual contraction](../../claims/Yin_C_G0508_v2.md#cyclic-noise-tensor-contraction) | Exact normalized finite cyclic p-to2 inequality, its tensorization and delta_q>=4/q^2, checked in the retained local argument; no second-moment-to-quantile inference. |
-| [Current C529v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C508v2 geometry](../../claims/Yin_C_G0508_v2.md#stationary-geometry-fixed-scope) | Actual d-step affine quotient law and necessary real-strip/norm-grid interfaces, with no full-strip sufficiency or moment finiteness premise. |
-| [Current C529v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C511 exact competitor interface](../../claims/Yin_C_G0511_v1.md#prescribed-mass-fixed-scope) | Same admissible laws and exact prescribed-zero-mass frontier J(a); the added inequality constrains those competitors and assumes no optimizer or critical attainment. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [C525v1 Statement](../../claims/Yin_C_G0525_v1.md#statement) | Entire exact matrix, all coefficients and bit conventions, every b in the modulo4 coefficient coset, local existence/uniqueness on the specified three-coordinate (4Z2)^3 neighborhood, complete reciprocal target, every finite reduction and all separate integer/rational/height/cost/second-target limits. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [C525v1 Argument](../../claims/Yin_C_G0525_v1.md#argument) | Entire retained three-section proof/equations(1)--(10), fixed-input minor and inverse, Taylor divisibility, compatible iteration, exact inverse-limit equality, uniqueness by least valuation, whole-polynomial reciprocity and all finite-modulus and integral/cost interfaces. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [J107 first fixed witness](../../computations/programs/Yin_J_G0107/readme.md#rank-seven-mod-four-results) | Exact first U_* and its complete integer polynomial; no reliance on author aggregate counts, first-mask minimality or the second target. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [Verifier ordering](../../computations/programs/Yin_J_G0107/verify.py) | Read-only row-major strict-upper POSITIONS and coefficient1/2/3 bit encoding used to interpret positions1,15,19; no new code audit or rerun. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [R418 finite witness finding](Yin_R_G0418_v1.md#rank-seven-mod-four-whole-independent-finding) | Accepted existing selected-positive-witness reconstruction and its shared Python/host and unvisited-array/count limits only; this finite finding is not an all-depth proof review. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [L270 attribution](../../ledger/Yin_L_G0270_v1.md#local-triangular-lifting-source-and-execution) | Existing Stacks simple-root statement/nearby uniqueness inspection and excluded whole-proof scope; the current multivariable iteration is locally complete and imports no multivariable theorem. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [L279 comparison](../../ledger/Yin_L_G0279_v1.md#universal-rank-six-coefficient-congruence) | Rank-six complete-polynomial congruence obstruction only, not a restriction on the new free rank-seven matrix. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [L287 comparison](../../ledger/Yin_L_G0287_v1.md#quartic-core-complete-extension-classification) | Fixed-core and integral-bilinear-congruence class only; the three freely varying two-adic entries impose no such premise. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [L214 comparison](../../ledger/Yin_L_G0214_v1.md#stable-cancellation-fixed-scope) | Common identical integral stabilization of its specified object only, not all rank-seven presentations. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [J104 comparison](../../computations/programs/Yin_J_G0104/readme.md#rank-ten-minimum-conclusion) | Complete-cost minimum in the integer rectangular bipartite class only; no such shape or absolute-cost conclusion is asserted for U_2. |
-| [Current C533v1 complete finding](#current-c533-v1-complete-independent-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0107/readme.md#recorded-runs) | Read-only first target matrix, base and actual complete polynomials, all21 derivative-column fields and selected full step-two polynomials; original/absolute/cover values remain finite-input boundaries, with no new execution. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0107/verifier/verification.json`; this target locates that original run's computation account. |
+| [Current C523v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C523v1 Statement](../../claims/Yin_C_G0523_v1.md#statement) | Entire current statement, including every q and k, stationary/admissible and Salem domains, the new any-fixed-b explicit bound, its claimed O_A rate and constants, and all necessary-only limits; negative at the b-to-rate interface below. |
+| [Current C523v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C523v1 Argument](../../claims/Yin_C_G0523_v1.md#argument) | Entire retained Sections1--5/equations(1)--(23), all actual quotient permutations, adjoint/row-column normalization, time cost, finite-image entropy, Euclidean norm grid, varying-degree and fixed-midpoint estimates; no rejection of the original midpoint-b proof. |
+| [Current C523v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C479 admissibility and Perron interface](../../claims/Yin_C_G0479_v1.md#stationary-information-fixed-scope) | Actual return-core laws, original-digit information and bounded absolute row likelihood, and finite actual Perron approximants; no new whole review of C479 or external source proof. |
+| [Current C523v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C508v2 actual contraction](../../claims/Yin_C_G0508_v2.md#cyclic-noise-tensor-contraction) | Exact normalized finite cyclic p-to2 inequality, its tensorization and delta_q>=4/q^2, checked in the retained local argument; no second-moment-to-quantile inference. |
+| [Current C523v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C508v2 geometry](../../claims/Yin_C_G0508_v2.md#stationary-geometry-fixed-scope) | Actual d-step affine quotient law and necessary real-strip/norm-grid interfaces, with no full-strip sufficiency or moment finiteness premise. |
+| [Current C523v1 negative finding](#current-c529-v1-statement-rate-negative-finding) | [C511 exact competitor interface](../../claims/Yin_C_G0511_v1.md#prescribed-mass-fixed-scope) | Same admissible laws and exact prescribed-zero-mass frontier J(a); the added inequality constrains those competitors and assumes no optimizer or critical attainment. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [C525v1 Statement](../../claims/Yin_C_G0525_v1.md#statement) | Entire exact matrix, all coefficients and bit conventions, every b in the modulo4 coefficient coset, local existence/uniqueness on the specified three-coordinate (4Z2)^3 neighborhood, complete reciprocal target, every finite reduction and all separate integer/rational/height/cost/second-target limits. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [C525v1 Argument](../../claims/Yin_C_G0525_v1.md#argument) | Entire retained three-section proof/equations(1)--(10), fixed-input minor and inverse, Taylor divisibility, compatible iteration, exact inverse-limit equality, uniqueness by least valuation, whole-polynomial reciprocity and all finite-modulus and integral/cost interfaces. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [J107 first fixed witness](../../computations/programs/Yin_J_G0107/readme.md#rank-seven-mod-four-results) | Exact first U_* and its complete integer polynomial; no reliance on author aggregate counts, first-mask minimality or the second target. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [Verifier ordering](../../computations/programs/Yin_J_G0107/verify.py) | Read-only row-major strict-upper POSITIONS and coefficient1/2/3 bit encoding used to interpret positions1,15,19; no new code audit or rerun. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [R418 finite witness finding](Yin_R_G0418_v1.md#rank-seven-mod-four-whole-independent-finding) | Accepted existing selected-positive-witness reconstruction and its shared Python/host and unvisited-array/count limits only; this finite finding is not an all-depth proof review. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [L270 attribution](../../ledger/Yin_L_G0270_v1.md#local-triangular-lifting-source-and-execution) | Existing Stacks simple-root statement/nearby uniqueness inspection and excluded whole-proof scope; the current multivariable iteration is locally complete and imports no multivariable theorem. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [L279 comparison](../../ledger/Yin_L_G0279_v1.md#universal-rank-six-coefficient-congruence) | Rank-six complete-polynomial congruence obstruction only, not a restriction on the new free rank-seven matrix. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [L287 comparison](../../ledger/Yin_L_G0287_v1.md#quartic-core-complete-extension-classification) | Fixed-core and integral-bilinear-congruence class only; the three freely varying two-adic entries impose no such premise. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [L214 comparison](../../ledger/Yin_L_G0214_v1.md#stable-cancellation-fixed-scope) | Common identical integral stabilization of its specified object only, not all rank-seven presentations. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [J104 comparison](../../computations/programs/Yin_J_G0104/readme.md#rank-ten-minimum-conclusion) | Complete-cost minimum in the integer rectangular bipartite class only; no such shape or absolute-cost conclusion is asserted for U_2. |
+| [Current C525v1 complete finding](#current-c533-v1-complete-independent-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0107/readme.md#recorded-runs) | Read-only first target matrix, base and actual complete polynomials, all21 derivative-column fields and selected full step-two polynomials; original/absolute/cover values remain finite-input boundaries, with no new execution. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0107/verifier/verification.json`; this target locates that original run's computation account. |
 
 <a id="current-c529-v1-statement-rate-negative-finding"></a>
 ## C523v1: current statement rate mismatch
@@ -97,14 +97,14 @@ C523v1 therefore remains open pending correction of its exact Statement and revi
 No mathematical change to C523v1 or its original fixed Argument is performed by this finding.
 An actual corrected version requires its own exact binding and actual review; this negative finding must not be selected as a proved whole acceptance.
 
-### Original L216 and R115 scope
+### Original L216 and R112 scope
 
-The complete L216 proof and R115's original mathematical review both explicitly use b=(A+1/2)/2.
-R115's original 2026-10-09T20:50 record covers the frozen D83 Sections1--5/equations(1)--(23), its true dependency interfaces and necessary-only limits, and reports no defect for that input.
+The complete L216 proof and R112's original mathematical review both explicitly use b=(A+1/2)/2.
+R112's original 2026-10-09T20:50 record covers the frozen D83 Sections1--5/equations(1)--(23), its true dependency interfaces and necessary-only limits, and reports no defect for that input.
 The current any-fixed-b rate mismatch is in the new C Statement, not a defect demonstrated in that original midpoint proof.
-No new C binding or date is backfilled into R115.
+No new C binding or date is backfilled into R112.
 
-R115 has no Review relationships declaration table.
+R112 has no Review relationships declaration table.
 Its text records noncontribution, an earlier short direction summary, a later assignment and shared G0001 context; the actual substantive content and full initial context are not established by that account.
 Those facts do not establish an isolated independent arrangement, and they also do not establish that proof-development mathematics was shared.
 Its undeclared relationship must not be described as an already explicit unknown row or mechanically classified SELF from its fixed dependency roles.
@@ -122,7 +122,7 @@ Whole-input comparison completed: 2026-10-22T17:49 UTC.
 PASS for the entire exact current C525v1 Statement and Argument, at the local two-adic and finite-input scopes declared above.
 No coefficient omission, wrong minor, unsupported inverse-limit construction, failed uniqueness domain or uncharged integral/cost inference was found.
 This conclusion is new independent review evidence for the current C inputs.
-It does not retrospectively change the arrangement of R565 or expand R418.
+It does not retrospectively change the arrangement of R419 or expand R418.
 
 The retained first J107 matrix matches every entry of U_* and has complete ascending polynomial[1,-1,-5,-8,-8,-5,-1,1].
 The strict-upper row-major order assigns1,15,19 to(0,2),(3,4),(4,6).
@@ -162,16 +162,16 @@ The second J107 target, other primes, unrestricted integral realizability and co
 The older rank-six, fixed-core, common-stabilization and rectangular-bipartite results have the separate comparison domains recorded above.
 No result about them is contradicted or silently generalized.
 
-### Original L413, R565 and R418 scope
+### Original L412, R419 and R418 scope
 
-The full L413 analytic argument/equations(1)--(10) and the current C525v1 Argument have the same mathematical content and exact local domains.
-R565 records its original 2026-10-18T16:10 independent relationship explicitly and binds the frozen L413/J107/R418 inputs.
+The full L412 analytic argument/equations(1)--(10) and the current C525v1 Argument have the same mathematical content and exact local domains.
+R419 records its original 2026-10-18T16:10 independent relationship explicitly and binds the frozen L412/J107/R418 inputs.
 It does not bind the later C525v1 Statement and Argument.
 Its account says the author-ready draft, root contribution/scope messages and prior R418 were visible.
 Reading a fixed draft under review, necessary finite input, author identity or scope does not itself prove shared substantive proof-development context.
 The mathematical contents of those contribution/scope messages are not established by the retained account.
 Consequently those words alone support neither a new SELF classification nor a newly certified historical isolation claim.
-R565's original relationship row, checks, date, exact bindings and verdict are preserved.
+R419's original relationship row, checks, date, exact bindings and verdict are preserved.
 The current C's earlier self-level characterization supplies no second R relationship and is not relied on for this new acceptance.
 
 R418 remains the 2026-10-18T16:04 finite selected-witness review.

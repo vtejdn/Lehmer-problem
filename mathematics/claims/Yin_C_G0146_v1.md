@@ -402,10 +402,9 @@ Root supplied research direction and prior-source detection; g_bridge_audit supp
 Neither source inspection nor fixed retention is an independent project review.
 
 The source-only final comparison corrected AD00's omitted Notations m>=3 and m not congruent2 modulo4, and removed BS09's extra attribution of delta_p(1)=0 to its displayed Definition2.1.
-Their physical v1 records remain, and current [AD00-U001v2](../audits/literature/AD00/Yin_U001.md#ad00-u001) and [BS09-U001v2](../audits/literature/BS09/Yin_U001.md#bs09-u001) retain the actual corrections.
+The current rolling [AD00-U001](../audits/literature/AD00/Yin_U001.md#ad00-u001) and [BS09-U001](../audits/literature/BS09/Yin_U001.md#bs09-u001) retain those actual source corrections and their original inspection limits; no separate physical U versions are asserted.
 Only those source pointers are updated in the transferred author body.
 Neither changes the local formulas or the new theorem's hypotheses: both sources are classical mechanism attribution, and the polynomial-ring identities are proved here.
-The26b-U001's earlier-unit navigation description was also corrected to its actual duality scope, without changing any selected local-algebra statement.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-15)
@@ -450,5 +449,5 @@ The recorded review description was `independently reviewed`.
 | dependency | [Integral prime defect](../ledger/Yin_L_G0063_v1.md#base-prime-power-extra-valuation) | Section2 actual original integral quotient and complete norm at its existing scope; no new coefficient estimate. |
 | dependency | [Local Frobenius and ramification](../audits/literature/The26b/Yin_U001.md#the26b-u001) | Supplied residue-Frobenius lift availability and valuation step with e_tau<=degree of tau(K'), including ramified primes; original foundational-proof limits retained. |
 | support | [Existing whole Galois coverage](../audits/literature/AM16/Yin_U001.md#am16-u001) | Section3A prior original-Galois theorem and distinct ambient-degree boundary, not a proof premise of the non-Galois result. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0357_v1.md#bounded-class-whole-independent-finding) | Entire fixed statement and19-formula argument, all direct inputs and selected prior support, every subgroup/valuation/norm/time boundary and source/contribution limit. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0357_v1.md#bounded-class-whole-independent-finding) | Entire fixed statement and19-formula argument, all direct inputs and selected prior support, every subgroup/valuation/norm/time boundary and source/contribution limit. Finding relationship: self-reviewed. |
 

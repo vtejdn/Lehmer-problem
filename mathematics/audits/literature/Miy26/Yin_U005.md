@@ -215,6 +215,8 @@ Continuity then proves that the closure of the strict sublevel set is precisely 
 On 2026-09-08 source pp. 14-17 were read from extracted text and the rendered pages were inspected.
 The homogeneous recursion, one-sided-inverse sufficiency, the Brown inner-radius obstruction, increasing-run calculation, transfer orientation, Perron argument, and all stated degenerate cases were reconstructed.
 The exact check passed 134,443 checks for the Example 4.5 formulas and matrix specializations, as part of 193,363 total checks shared with U004.
+The native program and exact J locator for the historical 193,363-item check have not been located in the selected current computation index/program metadata.
+The recorded result and rerun scope remain historical evidence; reproducing them requires that native input, and no new run or claim that the original program never existed is made.
 
 The suspected compression in the R-diagonality proof triggered the primary-source query `Nica Speicher Lectures combinatorics free probability Proposition 15.22 pdf R-diagonal homogeneous`.
 The author-hosted NS06 PDF and its [author errata page](https://rolandspeicher.com/literature/nica-speicher/) were inspected on 2026-09-08; the latter reports a 2026-01-11 update and no affected correction to Proposition 15.22.

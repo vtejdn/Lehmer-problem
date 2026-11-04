@@ -84,7 +84,10 @@ author: Yin
 <a id="statement"></a>
 <a id="bounded-profile-defect-fixed-scope"></a>
 
-For every full-row-rank integer finite map X and real symmetric 0<W<=I, the complete real compensated-tail supremum lies between its original central atom and C_X K_d det(W)^(-1/2) times that atom, with exact full-support defect/error (1)--(6). For every fixed nonzero hyperbolic algebraic integer of actual degree d, including nonunits and all complex places, the actual remainder maps at all prefixes i>=0 and windows b>=d have a common finite C_P independent of i,b. Their full tails obey (13)--(15), and every nonnegative integer prefix sequence i_b=o(b) has exactly the established original collision exponent (16). Sharp C1, neutral inputs, collision=Mahler and varying-input uniformity remain unproved.
+For every full-row-rank integer finite map X and real symmetric 0<W<=I, the complete real compensated-tail supremum lies between its original central atom and C_X K_d det(W)^(-1/2) times that atom, with exact full-support defect/error (1)--(6).
+For every fixed nonzero hyperbolic algebraic integer of actual degree d, including nonunits and all complex places, the actual remainder maps at all prefixes i>=0 and windows b>=d have a common finite C_P independent of i,b.
+Their full tails obey (13)--(15), and every nonnegative integer prefix sequence i_b=o(b) has exactly the established original collision exponent (16).
+Sharp C1, neutral inputs, collision=Mahler and varying-input uniformity remain unproved.
 All input, source, failed-method and expense boundaries in the complete argument below are part of this fixed statement.
 No current Task/E execution is selected by the dated original research prose.
 

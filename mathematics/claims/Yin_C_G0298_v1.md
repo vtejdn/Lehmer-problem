@@ -143,7 +143,7 @@ Define
 
 Every finite factor is nonzero: \(u_j(\theta)\) is an algebraic integer, whereas a zero of \(\cos(2\pi x)\) requires a nonintegral rational \(x\in1/4+(1/2)\mathbb Z\).
 The two tails tend to zero exponentially before the cosine is applied.
-The same convergent-product argument used in [C G0298](Yin_C_G0297_v1.md#trace-frequencies-and-finite-prefixes) therefore proves \(0<c_P(\theta)\le1\).
+The same convergent-product argument used in [C297](Yin_C_G0297_v1.md#trace-frequencies-and-finite-prefixes) therefore proves \(0<c_P(\theta)\le1\).
 
 The trace identity allows every negative factor to be written using \(u_j(\theta)\).
 Reindexing the absolutely convergent sum of negative logarithms consequently gives
@@ -325,7 +325,7 @@ By (1), (7) and (12), for every admissible \(R\),
 The last passage is valid because the left side is fixed, the denominator is independent of \(\theta\), and \(g\) is continuous and increasing.
 It does not claim uniformity of the finite bound (6).
 
-The separately reviewed endpoint comparison in [C G0297](Yin_C_G0296_v1.md#wiener-endpoint-strict-correction) therefore imposes the strengthened necessary condition
+The separately reviewed endpoint comparison in [C296](Yin_C_G0296_v1.md#wiener-endpoint-strict-correction) therefore imposes the strengthened necessary condition
 \[
  g(c_{\rm opt}(P))/L_{\rm eff}\le m-E(m).                \tag{14}
 \]

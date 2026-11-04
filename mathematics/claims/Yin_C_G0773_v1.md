@@ -183,7 +183,7 @@ At the high component, the full source identities retained through C767 are
     beta^2+beta+1=0 modulo phi^(8A),
     beta modulo phi=X^Q.                     (OF16)
 
-The cube-one root is nontrivial as checked in C808.
+The cube-one root is nontrivial as checked in C766.
 Its derivative vanishes at the stated even precision, and Q-m is even.
 Therefore, at every precision needed for OF12,
 

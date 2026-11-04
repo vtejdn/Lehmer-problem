@@ -12,7 +12,7 @@ No unrestricted Mahler gap, canonical Claim or Task completion is asserted.
 <a id="coupled-method-fixed-scope"></a>
 The complete current sign criterion, fixed control and actual growing-degree family are [C457](../claims/Yin_C_G0457_v1.md#complete-trace-sign-salem-family-obstruction), actually adopted through [R663 whole SELF](../audits/reviews/Yin_R_G0663_v1.md#current-trace-sign-family-whole-finding).
 Original R212 has concrete target-quartic/family conclusions supplied before reconstruction and disclosed author-check exposure, so its actual relationship is SELF; its full mathematics and primary-source inspection facts remain preserved.
-Original author freeze23:33, whole review23:34 and retention23:39 are distinct2026-10-11 events, not current research execution authority.
+Original author freeze 2026-10-11T15:33, whole review 2026-10-11T15:34 and retention 2026-10-11T15:39 are distinct2026-10-11 events, not current research execution authority.
 The entire original contribution/source/failed-seed/order/cofactor/actual-degree discussion and alternative-method boundaries below remain unchanged.
 
 ## Fixed scope and preservation

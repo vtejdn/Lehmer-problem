@@ -57,7 +57,8 @@ The reviewer uses independent labelled graphs and highest-bit column cancellatio
 It checked316 operations,136 full kernel vectors,32 column-span computations and23264 typed comparisons.
 Its upstream L330 authorship is disclosed; it contributed none of the new L334 rank/kernel argument.
 The original whole-proof context relationship remains unknown because the actual content and initial order of its shared summaries are not established.
-The current complete self check and unchanged-native replay are [R540](../../../audits/reviews/Yin_R_G0540_v1.md#current-complete-binary-congruence-finding); the old typed counter23264 and current23259 are separate execution facts, with all mathematical report fields and other counters equal.
+The earlier complete self check and unchanged-native replay are [R540](../../../audits/reviews/Yin_R_G0540_v1.md#current-complete-binary-congruence-finding); the old typed counter23264 and current23259 are separate execution facts, with all mathematical report fields and other counters equal.
+The current C295 decision selects [R542's complete binary-congruence finding](../../../audits/reviews/Yin_R_G0542_v1.md#independent-whole-binary-congruence), separately from that earlier replay.
 The exact conclusion excludes these two forms, including arbitrary same-block stabilization, without excluding every cheaper representative in V's class.
 
 ## Capped mutation: complete saved partial search
@@ -97,7 +98,8 @@ Both incomplete frontiers and partial expansions were checked without extending 
 
 ## Repeated-cell scope and partial root coverage
 
-The complete current mathematics is [C347](../../../claims/Yin_C_G0347_v1.md#statement), with the actual [R563 whole current self-review](../../../audits/reviews/Yin_R_G0563_v1.md#complete-repeated-cell-current-finding).
+The complete current mathematics is [C347](../../../claims/Yin_C_G0347_v1.md#statement), whose selected decision adopts [R565's whole finding](../../../audits/reviews/Yin_R_G0565_v1.md#complete-repeated-cell-isolated-finding).
+R563 retains its earlier SELF scope and does not supply that later isolated act.
 Its stdout-only original-domain reconstruction covers the entire mathematical schema and all finite root/undecided outcomes below.
 The current exact scalar tally is142272 versus the original saved142275; all other report counters and mathematical records agree, and the three-count difference is retained without an asserted cause.
 All four selected program/native files remained byte-identical across that replay; no producer, root-isolation routine, larger domain or output write was performed.

@@ -12,11 +12,16 @@ Root received the author's candidate and final result summaries before reading t
 No previous independent finding for this artifact was consulted.
 Root enumerated the obligations, read the whole body, reconstructed the finite sums and checked the direct interfaces and original Task boundary.
 
+The initial complete C96 original argument included its author validation checklist in addition to the earlier candidate and final-result summaries.
+Those actual validation contents, rather than the summary label alone, determine the arrangement.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole averaged finding](#averaged-short-lcm-whole-independent-finding) | independently reviewed |
+| [Whole averaged finding](#averaged-short-lcm-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

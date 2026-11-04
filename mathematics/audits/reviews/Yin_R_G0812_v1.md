@@ -127,7 +127,7 @@ The exact complete-group definition and endpoint convention were also checked in
 The reviewer inspected J120 main.py and verify.py and reran both successfully with their default same-J paths.
 The separate [independent checker](../../computations/programs/Yin_J_G0120/independent_c630_v2.py) then verified the entire16-row native certificate, every inverse and logarithmic derivative, the full predivision matrix period, and the order25 identity.
 Its dense-list polynomial implementation imports neither author program and reconstructs B_n by symmetric Laurent inversion instead of their recurrence.
-It also independently checks every C62932-row premise and both targets directly from the fixed C608 table.
+It also independently checks every C608 32-row premise and both targets directly from the fixed C608 table.
 For n=5,15,...,155 it verifies the exact polynomial composition and differentiated identity, while the preceding all-order proof supplies the unrestricted quantifier.
 The actual result is retained in independent verification output (`mathematics/computations/outputs/Yin_J_G0120/independent_c630_v2_verification.json`) and summarized in the existing J120 README.
 These generated outputs can be reproduced using its documented commands; they are not a fixed proof-acceptance oracle.

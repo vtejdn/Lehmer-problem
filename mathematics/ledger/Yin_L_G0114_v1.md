@@ -4,6 +4,10 @@ author: Yin
 
 # Attainment and a finite support bound for the relaxed trace amplitude
 
+Current checking scope is owned by [R549](../audits/reviews/Yin_R_G0549_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct continuation of G0001 by the assigned AI ms25_source for Yin.
 The coordinator proposed a cluster compactness argument and supplied the quantitative split estimate used below.

@@ -8,7 +8,7 @@ Human record author Yin.
 Root separately assigned draft_comparison_cleanup to review the complete actual C194v1, initial decision2026-10-20T12:40.
 Root and draft_inventory_later contributed the five-class argument, canonical classification and assembly; this reviewer supplied no construction, inequality, branch or repair.
 The arrangement is nonblind: root described the target and contributor relationship, and shared G0001 context was available.
-This reviewer had whole-reviewed C191v2 in R614, but was not an author of that theorem; its exact adopted proof is reused at the per-cluster and self-factor interfaces below.
+This reviewer had whole-reviewed C191v2 in R468, but was not an author of that theorem; its exact adopted proof is reused at the per-cluster and self-factor interfaces below.
 The reviewer's distinct D35 rational real-order control is not an input or a contribution to the present local canonical theorem.
 The complete actual statement, four-section proof, six input rows and all declared relations were read.
 No mathematical program, scan, numerical root, source acquisition or modification of the candidate was performed.
@@ -16,7 +16,7 @@ No mathematical program, scan, numerical root, source acquisition or modificatio
 The shared initial context is not specified sufficiently to establish isolation before the first mathematical judgment on the constant and linear theorem.
 The fixed actual proof, target and contribution disclosure are legitimate inputs, and the reviewer's distinct rational example supplies no participation in this new argument.
 The whole-v1 finding therefore has an unknown relationship, with the original date, complete checks and exact bindings retained and no new review performed.
-The reused R614 finding likewise has unknown initial context at its original whole scope.
+The reused R468 finding likewise has unknown initial context at its original whole scope.
 
 ## Review relationships
 
@@ -37,7 +37,7 @@ The reused R614 finding likewise has unknown initial context at its original who
 | [Whole linear-canonical finding](#linear-canonical-residual-whole-finding) | [C153v2 exact trace interface](../../claims/Yin_C_G0153_v2.md#exact-reciprocal-phase-and-trace-domain) | dependency: Actual field degrees, nonzero integral values, coefficientwise divided monic remainders and all trace conjugates. |
 | [Whole linear-canonical finding](#linear-canonical-residual-whole-finding) | [Smy08 scalar normalization](../literature/Smy08/Yin_U001.md#smy08-height-normalization) | dependency: Only Jensen for nonzero polynomials, nonmonic leading coefficients, constants and finite circle-zero logarithmic integrability; no other survey theorem. |
 | [Whole linear-canonical finding](#linear-canonical-residual-whole-finding) | [C194 input and boundary account](../../claims/Yin_C_G0194_v1.md#inputs-and-boundaries) | support: Six inputs, complete actual-domain/weight restrictions, contributor limits and no higher-degree or arbitrary-representative inference. |
-| [Whole linear-canonical finding](#linear-canonical-residual-whole-finding) | [C191v2 actual adoption](../../claims/Yin_C_G0191_v2.md#decision-whole-reviewed-2026-10-20) | support: Exact retained all-prime version and R614 whole scope, not the narrower v1 or R613 author-return finding. |
+| [Whole linear-canonical finding](#linear-canonical-residual-whole-finding) | [C191v2 actual adoption](../../claims/Yin_C_G0191_v2.md#decision-whole-reviewed-2026-10-20) | support: Exact retained all-prime version and R468 whole scope, not the narrower v1 or R467 author-return finding. |
 | [Whole linear-canonical finding](#linear-canonical-residual-whole-finding) | [C194 initial declaration](../../claims/Yin_C_G0194_v1.md#decision-initial) | Complete actual statement/argument, five dependencies and support; this R makes no adoption decision. |
 
 <a id="linear-canonical-residual-whole-finding"></a>
@@ -146,4 +146,4 @@ C191v2 supplies an adopted proof of the per-cluster and self-factor assertions, 
 C178 is only used with the full residual hypotheses.
 C153v2 supplies the actual original integer domain, and Smy08-U001 supplies only the recorded elementary Jensen, leading-coefficient and circle-zero conventions.
 No other source theorem or unreviewed mutable author classification is required.
-The author's stronger claims are not extrapolated beyond the statement, and the reviewer's upstream R614 relationship is separate from the new C194 proof.
+The author's stronger claims are not extrapolated beyond the statement, and the reviewer's upstream R468 relationship is separate from the new C194 proof.

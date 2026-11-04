@@ -42,7 +42,7 @@ No Task/E research execution, completion decision or mathematical repair is supp
 | [Whole finite-pivot theorem](#finite-pivot-whole-independent-finding) | independently reviewed |
 | [Whole cyclic-layer theorem](#cyclic-layer-whole-independent-finding) | independently reviewed |
 | [Whole trace-order theorem](#trace-order-whole-independent-finding) | independently reviewed |
-| [Preserved C462v1 narrow direction finding](#gram-v1-direction-independent-finding) | independently reviewed |
+| [Preserved C458v1 narrow direction finding](#gram-v1-direction-independent-finding) | independently reviewed |
 
 ## Review bindings
 
@@ -81,8 +81,8 @@ No Task/E research execution, completion decision or mathematical repair is supp
 | [Whole trace-order theorem](#trace-order-whole-independent-finding) | [Pritsker accepted finite test](../literature/Pri11/Yin_U001.md#pri11-u001) | Same recorded theorem and C391 applicability boundary for the complete original-degree time-two cost; no new primary-source proof inspection. |
 | [Whole trace-order theorem](#trace-order-whole-independent-finding) | [Mahler/height/Kronecker input](../literature/Smy08/Yin_U001.md#smy08-height-normalization) | Same recorded height/coefficient/positive fixed-degree conventions used in C391, without a new uniform height theorem. |
 | [Whole trace-order theorem](#trace-order-whole-independent-finding) | [Existing separate scalar-margin theorem](../../ledger/Yin_L_G0237_v1.md#monomial-projection-uniform-margin) | Only preserve its established separate scalar-existence role and joint-conjugate/support boundary; it is not a missing premise or a new derivation by C451. |
-| [Preserved C462v1 narrow direction finding](#gram-v1-direction-independent-finding) | [Exact separate v1 Statement](../../claims/Yin_C_G0458_v1.md#statement) | Only the sentence using only when for target realization: an unsupported possible necessity direction, rather than the sufficient matrix certificate actually proved; no whole-v1 PASS. |
-| [Preserved C462v1 narrow direction finding](#gram-v1-direction-independent-finding) | [Exact separate v1 Argument](../../claims/Yin_C_G0458_v1.md#argument) | Only compare the locally sufficient trace-certificate direction/class limitation with that Statement sentence; no general necessity theorem or concrete counterexample is supplied. |
+| [Preserved C458v1 narrow direction finding](#gram-v1-direction-independent-finding) | [Exact separate v1 Statement](../../claims/Yin_C_G0458_v1.md#statement) | Only the sentence using only when for target realization: an unsupported possible necessity direction, rather than the sufficient matrix certificate actually proved; no whole-v1 PASS. |
+| [Preserved C458v1 narrow direction finding](#gram-v1-direction-independent-finding) | [Exact separate v1 Argument](../../claims/Yin_C_G0458_v1.md#argument) | Only compare the locally sufficient trace-certificate direction/class limitation with that Statement sentence; no general necessity theorem or concrete counterexample is supplied. |
 | [Whole trace-order theorem](#trace-order-whole-independent-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0057/readme.md#recorded-runs) | Full static quartic j3/j4 rows with all edges/scales/raw and primitive coefficients/contents6 and32/signed norms-133563 and-118803/energies596 and226/trace/sign fields; no native replay, larger scan or new computational verdict. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0057/verification.json`; this target locates that original run's computation account. |
 
 <a id="integral-gram-whole-independent-finding"></a>
@@ -387,7 +387,7 @@ The complete [R655](Yin_R_G0655_v1.md#current-cyclic-layer-whole-finding) retain
 Its agent authored the C home, inherited target context and read R87, so the new current inspection does not relabel it.
 Its complete current claim and all required C256/C265/C391/Xyl11 interfaces agree with this new whole finding.
 No prime search, factorization, producer, new primary-source proof inspection or Task execution is attributed to either review.
-The existing C379v2 automatic-average and C364 existence-only comparisons retain their different directions and do not supply new income.
+The existing C376v2 automatic-average and C361 existence-only comparisons retain their different directions and do not supply new income.
 
 <a id="l261-r160-and-r803"></a>
 ### L261, R160 and R656

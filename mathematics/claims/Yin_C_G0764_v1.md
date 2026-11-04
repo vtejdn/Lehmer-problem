@@ -6,13 +6,13 @@ author: Yin
 # Global first-bit height-one families from copied blocks with exact core precision loss
 
 Human author Yin.
-This complete fixed OPEN author candidate requires fresh independent whole review and separate adoption.
+At author registration, this complete fixed candidate was OPEN pending fresh independent whole review and separate adoption.
 Root proposed the second-kind trace columns, full half-multiplicity period, true square target, complete-primary assembly, precise core failure and bounded-basis Mahler consequence.
 Salem_completion checked the actual integer maps and source scopes, proved that the original C759 padding already pays the full period, and checked the exact support, sign counts and all finite-precision and measure limits.
 Root read the entire saved ZC1--ZC10, including the source DG6 target, full repeated-primary period, actual supported signs, complete CRT, C752 positivity, exact core loss, DS17 support count and raised families.
 Root and Salem_completion are substantive contributors, not independent reviewers.
 The [D1 ZC author section](../drafts/Yin_D_G0001.md#copied-zero-mask-global-first-bit-completion) is extraction provenance only; the complete necessary argument is retained here.
-The fixed [C762 copied-block input](Yin_C_G0762_v1.md#decision-whole-reviewed-2026-10-25) is adopted through R1161, but that review is not a review of this new assembly.
+The fixed [C762 copied-block input](Yin_C_G0762_v1.md#decision-whole-reviewed-2026-10-25) is adopted through R982, but that review is not a review of this new assembly.
 Only the GENERAL repeated-primary square lemma of [C756 Part A](Yin_C_G0756_v1.md#statement) is used from that Claim; no different endpoint or support-restricted realization is imported.
 All other direct inputs and their exact scopes are selected below.
 The separate SR sign-run inquiry and original nonzero-mask obstruction are not included in this Claim.
@@ -498,7 +498,7 @@ The constants ZC23--ZC24 remain independent of q, either by Mahler invariance or
 No inserted zero coefficients are counted as new sign variables.
 
 The exact sufficient-target counts, genuine height1 signs, full source, all original paid costs, full first-bit residuals, strict positive measure and explicit loss at the equal-measure core are simultaneous conclusions of this author assembly.
-The C762 input is adopted at its precise scope; the new fixed ZC1--ZC10 assembly still requires fresh whole review before adoption.
+The C762 input was adopted at its precise scope when this author-stage account was written; the new fixed ZC1--ZC10 assembly then still required fresh whole review before adoption.
 No nonzero added mask, coprime output, irreducibility, higher residual precision, compatible precision sequence, uniform gap over unbounded sign budgets or varying sources, Mahler upper estimate, nearzero family or unrestricted G0001 resolution is asserted.
 
 ## Current assessment
@@ -512,7 +512,7 @@ No nonzero added mask, coprime output, irreducibility, higher residual precision
 | --- | --- |
 | date | 2026-10-25T23:26 |
 | status | open |
-| reason | Register the complete ZC1--ZC10 author theorem after root read its entire saved proof and exact source interfaces. A genuine second-kind sign map and the actual square target solve the remaining fixed old-primary quotient; the full repeated-primary companion period is already paid by C759's original padding. Exact strong-target sign counts and nonempty sparse-basis representatives give actual global first-bit height1 outputs with both residual signs even and nonzero binary G, while retaining all degrees and maximal powers. C752 yields strict positivity and a full noncyclotomic-degree bound; the explicit equal-measure core has exact second-residual order12 and fails that first bit. The complete integer support estimate and accepted DS17 give a fixed-source positive gap for bounded flips, including the natural basis representatives, without a whole-kernel gap. Root and Salem_completion are contributors; fresh independent whole review and separate adoption remain outstanding. No irreducibility, coprime or nonzero-mask output, higher precision, nearzero measure, compatible sequence or unrestricted Task conclusion is asserted. |
+| reason | Register the complete ZC1--ZC10 author theorem after root read its entire saved proof and exact source interfaces. A genuine second-kind sign map and the actual square target solve the remaining fixed old-primary quotient; the full repeated-primary companion period is already paid by C759's original padding. Exact strong-target sign counts and nonempty sparse-basis representatives give actual global first-bit height1 outputs with both residual signs even and nonzero binary G, while retaining all degrees and maximal powers. C752 yields strict positivity and a full noncyclotomic-degree bound; the explicit equal-measure core has exact second-residual order12 and fails that first bit. The complete integer support estimate and accepted DS17 give a fixed-source positive gap for bounded flips, including the natural basis representatives, without a whole-kernel gap. Root and Salem_completion are contributors; fresh independent whole review and separate adoption were outstanding at author registration. No irreducibility, coprime or nonzero-mask output, higher precision, nearzero measure, compatible sequence or unrestricted Task conclusion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

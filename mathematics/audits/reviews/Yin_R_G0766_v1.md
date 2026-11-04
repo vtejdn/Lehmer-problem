@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: one-negative-line realization and all proper/relaxed costs
 
 Recorded 2026-10-22T20:24 after the maintaining Yin agent read the actual published OPEN C598 ENTIRE Statement and ALL THREE COMPLETE mathematical Arguments.
-Full original L312/L314/L317, whole R211/R213/R216, exact C2/C460/C597 interfaces and complete retained FKMR16/Dum21 source-role accounts were inspected.
+Full original L312/L314/L317, whole [R141 original negative-line finding](Yin_R_G0141_v1.md#negative-line-complete-independent-review)/[R143 original parity finding](Yin_R_G0143_v1.md#binary-complement-complete-independent-review)/[R789 original even-binary finding](Yin_R_G0789_v1.md#even-binary-complete-independent-review), exact C2/C456/C597 interfaces and complete retained FKMR16/Dum21 source-role accounts were inspected.
 This is current whole SELF with prior author/reviewer context, not a new isolated review or source/native/program execution.
 
 ## Review relationships
@@ -44,7 +44,7 @@ The proper rank2 polynomial excludes Q_- and the exact Phi2 degree-one cost is p
 The corrected singular-value exclusion is ONLY the actual ordered rectangular block matrix[[I,C],[0,I]].
 Every trace there is sigma²-2>=-2, excluding trace-18.
 The arbitrary-order bipartite extension is WITHDRAWN.
-Original R211 independently diagnosed it with a separate four-cycle countercontrol and fully checked the author's2026-10-10T09:18 repair and ALL affected interfaces before its2026-10-10T09:21 final whole finding.
+Original [R141 original negative-line finding](Yin_R_G0141_v1.md#negative-line-complete-independent-review) independently diagnosed it with a separate four-cycle countercontrol and fully checked the author's 2026-10-10T09:18 repair and ALL affected interfaces before its 2026-10-10T09:21 final whole finding.
 That genuine original repair and its independent coverage remain at their original inputs.
 No new repair or relabeling of the broader false inference is made.
 
@@ -107,10 +107,10 @@ No new mathematical defect or repair was identified.
 
 ## Historical findings and coverage
 
-R211's existing independently reviewed relationship and ALL FIVE original L312 bindings remain exact, including original corrected-scope finding2026-10-10T09:21 after2026-10-10T09:18 repair.
-R213's existing independently reviewed relationship and ALL FIVE original L314 bindings remain exact, actual whole2026-10-10T09:36 at2026-10-10T09:33 frozen input.
+[R141 original negative-line finding](Yin_R_G0141_v1.md#negative-line-complete-independent-review)'s existing independently reviewed relationship and ALL FIVE original L312 bindings remain exact, including original corrected-scope finding 2026-10-10T09:21 after 2026-10-10T09:18 repair.
+[R143 original parity finding](Yin_R_G0143_v1.md#binary-complement-complete-independent-review)'s existing independently reviewed relationship and ALL FIVE original L314 bindings remain exact, actual whole 2026-10-10T09:36 at 2026-10-10T09:33 frozen input.
 They are not changed by generic upstream/nonblind disclosure or backfilled as independent reviews of C598.
-R216 retains its explicit original separately organized whole review/independent wording, actual2026-10-10T10:10 on full2026-10-10T10:08 frozen L317, the exact six prose target anchors and all source/expense limits.
+[R789 original even-binary finding](Yin_R_G0789_v1.md#even-binary-complete-independent-review) retains its explicit original separately organized whole review/independent wording, actual 2026-10-10T10:10 on full 2026-10-10T10:08 frozen L317, the exact six prose target anchors and all source/expense limits.
 Its original account has no modern relationship table; the actual extra assignment/freeze/strategy contents are not reconstructed or treated as established new-target development.
 That original arrangement record and its precise limits remain available for responsible coverage judgment; current SELF supplies no new isolated arrangement.
 All three original complete author SELF accounts remain in the existing R homes at their actual original inputs and dates without invented extra act minutes.

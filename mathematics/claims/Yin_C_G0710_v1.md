@@ -7,7 +7,7 @@ author: Yin
 Human author Yin.
 The [selected all-strategy continuation](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25) authorizes this work.
 The bounded question is whether the ACTUAL C708 family, including its entire final16V fiber, supplies a next simultaneous modulo32 lift.
-The actual adopted C708 and C742 decisions, C697's all-level changing-divisor theorem, C689's complete first half and carry, C694's full original-factor local argument and C706's canonical derivative lemma were read before proof investment.
+The actual adopted C708 construction and C691 complete-source decisions, C697's all-level changing-divisor theorem, C689's complete first half and carry, C694's full original-factor local argument and C706's canonical derivative lemma were read before proof investment.
 The local reuse search finds the existing all-level HIGHEST correction criterion but no evaluation of the next error across C708's full final16V family.
 This inquiry uses no native computation, finite coefficient scan, independent review or unbounded parameter search.
 Root proposed derivative preparation at pullback16 and the higher first-variation question; original_law derived and checked the actual primary improvement, exact common obstruction, full first-error image and counts below.
@@ -110,7 +110,7 @@ Expanding in this quotient, all cross and square terms involving4C_1 vanish afte
 
 The reduction of f_psi g_psi C^2 has psi-order at least5N/4>=N.
 It is therefore even in the localized quotient, and the last expression is zero modulo32.
-The actual a is even there, as follows from the unchanged C705/C694 square input; hence a^5=0 modulo32.
+The actual a is even there, as follows from the unchanged C675/C694 square input; hence a^5=0 modulo32.
 Thus F(T_2)=0 modulo32 on EVERY original H_0-primary.
 Since its canonical coefficients are globally divisible by16, freeness of the monic coefficient module and localization identify the local sixteenth with f, proving f=0 in F_2[X]/H_0.
 No corresponding X32 assertion follows from this calculation.

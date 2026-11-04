@@ -6,7 +6,7 @@ author: Yin
 The entire original argument, complete finite native set, meaningful failure, contribution and negative boundaries remain retained.
 L274 remains substantive development and an original fixed review input; no research Task/E resumes.
 
-The currently selected [whole independent finding R720](../audits/reviews/Yin_R_G0720_v1.md#entire-mod-four-independent-finding) records the independent mathematical initial finding at 11:28, completion of the old-review comparison and complete whole review at 11:35, publication at 11:55 and actual adoption at 2026-10-22T04:03.
+The currently selected [whole independent finding R720](../audits/reviews/Yin_R_G0720_v1.md#entire-mod-four-independent-finding) records the independent mathematical initial finding at 2026-10-22T03:28, completion of the old-review comparison and complete whole review at 2026-10-22T03:35, publication at 2026-10-22T03:55 and actual adoption at 2026-10-22T04:03.
 The earlier R707 whole SELF, original author SELF and original R173 whole UNKNOWN retain their actual inputs, dates and limits in [the complete historical comparison](../audits/reviews/Yin_R_G0720_v1.md#natural-comparison-with-the-original-whole-review-and-retained-limits).
 
 ## Statement
@@ -335,17 +335,17 @@ This bounded author round ends at the complete obstruction and full cost account
 
 ### Actual whole checking and preserved limits
 
-The following account records the earlier presentation and checking behind R707's 2026-10-22T01:20 whole SELF and C496's 09:21 adoption.
+The following account records the earlier presentation and checking behind R707's 2026-10-22T01:20 whole SELF and C496's 2026-10-22T01:21 adoption.
 The maintaining agent read the only L274 version and ENTIRE R173, the sufficient complete exterior-form, fixed-prefix, local-correction and quartic-cost interfaces, and the entire J63 readme/all three programs/all three native records.
 Every cyclic coverage and direct congruence step, exact21-equation lift equivalence, full kernel/error certificate and congruence-stable corollary was checked, together with all original/absolute/literal-cover polynomials, signs, ranks, degrees, heights, whole energies and full measures.
-At2026-10-22T01:14 ONLY the original reviewer was replayed in the original complete domain/120-second cap, in0.78055029999814seconds.
+At 2026-10-22T01:14 ONLY the original reviewer was replayed in the original complete domain/120-second cap, in0.78055029999814seconds.
 Every parsed report field matched the native reviewer report, including the complete basis SET, all stage/prefix counts, all5625 witnesses/full kernels, complete cost payload/types and13 literal rank12 determinant values.
 All seven actual program/readme/native files stayed byte-identical across that run.
 The sole expected report write was intercepted in memory, mkdir accepted only already existing directories, and an audit hook rejected other writes/creation/renames/removals.
 No author producer/import, changed modulus/prime/vector domain, external source/PDF/proof reading, saved output/digest or research Task/E execution occurred.
 R173 records receipt of author/root progress descriptions before its full reading; the exact additional mathematical contents available before forming initial findings are not established, so its ENTIRE original whole relationship remains UNKNOWN.
 Upstream authorship/review and the coordinator's split-form suggestion alone establish neither isolation nor a supplied derivation of the current cyclic/all-class theorem.
-Original whole author SELF has2026-10-10 day precision; R173's10:54 freeze and11:06 whole review remain separate, without invented check minutes.
+Original whole author SELF has2026-10-10 day precision; R173's 2026-10-10T02:54 freeze and 2026-10-10T03:06 whole review remain separate, without invented check minutes.
 The original first SymPy structural-comparison failure, comparison-expression correction and successful0.281000-second author check remain intact; no current mechanism repair or isolated replacement is claimed.
 
 ## Current assessment
@@ -397,7 +397,7 @@ The original first SymPy structural-comparison failure, comparison-expression co
 | --- | --- |
 | date | 2026-10-22T04:03 |
 | status | proved |
-| reason | Adopt the actually completed fresh isolated whole review of the unchanged exact selected Statement and entire original argument, including the full finite domain and kernels, all factors and costs, old-source and contribution limits, and the actual two checker comparisons. Initial11:28, historical comparison11:35 and publication11:55 are distinct; earlier SELF, original UNKNOWN and original adoption dates are not backdated. |
+| reason | Adopt the actually completed fresh isolated whole review of the unchanged exact selected Statement and entire original argument, including the full finite domain and kernels, all factors and costs, old-source and contribution limits, and the actual two checker comparisons. Initial 2026-10-22T03:28, historical comparison 2026-10-22T03:35 and publication 2026-10-22T03:55 are distinct; earlier SELF, original UNKNOWN and original adoption dates are not backdated. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

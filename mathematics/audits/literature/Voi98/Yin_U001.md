@@ -5,6 +5,11 @@ author: Yin
 <a id="voi98-u001"></a>
 # Voi98-U001: Relative Free Entropy and Its Integral Proofs
 
+This current unit retains Section 7 and its original inspection facts only.
+The finite-tracial, Fisher-information, regularization, semicontinuity and external-input arguments described under former U001/U006/U007/U009 are not located in the current collection at those scopes.
+The references below preserve their historically selected interfaces and actual limits; they are not new proof inspections or complete presently inspectable upstream arguments.
+Reusing a conclusion that needs one of those interfaces requires locating or adequately preparing that exact input, rather than using this current U001 as its substitute.
+
 - Source: [Voi98](../../../literature/pdf/Voi98.pdf), Section 7, Definition 7.1 and Propositions 7.2-7.9, printed pp. 222-226 / PDF pp. 34-38.
 - Record: 2026-09-08, the coordinating agent, for [Voi98 finite-Fisher source audit](readme.md#voi98-finite-fisher-source-audit).
 - Kind and depth: reconstructed local entropy proofs and normalization corrections.
@@ -12,12 +17,12 @@ author: Yin
 
 ## Definition and existence of the integral
 
-Use U001's finite tracial setting, a finite selfadjoint tuple $X=(X_1,\ldots,X_n)$ and a unital star-subalgebra $B$.
+Use a finite von Neumann algebra with faithful normal tracial state, a finite selfadjoint tuple $X=(X_1,\ldots,X_n)$ and a unital star-subalgebra $B$, at the stated source conventions.
 Let $S=(S_1,\ldots,S_n)$ be a free variance-one semicircular family free from $B[X]$, and define
 
 $$f_X(t)=\Phi^*(X+\sqrt tS:B),\quad C^2=\sum_j\tau(X_j^2),\quad c=C^2/n.$$
 
-U006-U007 establish, for $t>0$,
+The historical audit attributed the following $t>0$ Fisher/regularization interface to former U006--U007, whose detailed bodies are not located in the current collection:
 
 $$\frac{n}{t+c}\leq f_X(t)\leq\frac nt,$$
 
@@ -50,7 +55,7 @@ $$\chi^*(X,Y:B\vee C)\leq\chi^*(X:B)+\chi^*(Y:C),$$
 with equality if $B[X]$ and $C[Y]$ are free; $B_1\subseteq B_2$ gives $\chi^*(X:B_1)\geq\chi^*(X:B_2)$; freely adjoining $C$ to $B[X]$ leaves $\chi^*$ unchanged; and replacing $B$ by $W^*(B)$ leaves it unchanged.
 
 Choose all added semicircular variables freely in one extension.
-For free additivity the enlarged blocks remain free; apply the corresponding Fisher identities from U006 to each $t>0$.
+For free additivity the enlarged blocks remain free; apply the corresponding historical Fisher identities to each $t>0$; their former U006 proof home remains unlocated.
 The regularizing terms split because $(n+m)/(1+t)=n/(1+t)+m/(1+t)$.
 Integrate on truncated intervals and pass to the improper limits; finite upper bounds and integrable positive parts prevent $+\infty-\infty$.
 The source's 7.3(a) writes $Y_n$ in the left tuple although the right tuple ends at $Y_m$; use the same $m$ throughout.
@@ -61,7 +66,7 @@ Suppose $X_j^{(k)}\to X_j$ strongly in a common $M$, with all variables selfadjo
 Uniform boundedness gives a common finite $C_0^2\geq\sum_j\tau((X_j^{(k)})^2)$ and $\sum_j\tau(X_j^2)$; enlarge it to be strictly positive.
 The normal trace then gives $L^2$ convergence.
 The same bounded sequences converge strongly in the tracial free-product extension: check on its dense bounded vectors using the $L^2$ norm and then use uniform boundedness.
-U007 applies there for every fixed $t>0$.
+The historically selected regularization interface applies there for every fixed $t>0$; its former U007 proof account remains unlocated.
 
 Put $c_0=C_0^2/n$ and $g_k(t)=n/(1+t)-f_{X^{(k)}}(t)$.
 The required common upper bound is
@@ -124,7 +129,8 @@ The source's p. 225 bound writes $1+t^{-1}$ in place of $1+C_X^2/t$ without norm
 The latter is sufficient and valid for arbitrary bounded selfadjoint $X$.
 Its factor $1/2$ in (6) is an explicit correction by the author, distinct from our newly identified printed errors.
 
-The scalar microstates formula and upper bound were primary-statement-checked in the author's later survey, identified in U009, and are accepted at that scope.
+The scalar microstates formula and upper bound were primary-statement-checked in the author's later survey, identified by the historical external-interface account as a primary-statement reading.
+That former U009 account is not located, so the exact selected survey passage and its existing acceptance limit need to be recovered before this source interface is reused.
 Direct access to the earlier Part I/II proof passages was not obtained in the bounded search.
 In particular, the complete regularity/limit justification behind (6) and the original free-convolution monotonicity proof were not independently audited.
 This unit checks the stated reduction, constants, tail limit and extended endpoints **conditional on those earlier analytic inputs**.
@@ -134,7 +140,7 @@ No multivariable or relative microstates equality follows from 7.6.
 ## Propositions 7.7 and 7.8: orthogonal maps and corrected scaling
 
 An orthogonal real matrix preserves the joint distribution of a standard semicircular family.
-U006's information covariance therefore makes the integrands in (1) equal and proves $\chi^*(AX:B)=\chi^*(X:B)$, including infinite negative entropy.
+The historically selected information-covariance interface, whose former U006 proof home remains unlocated, therefore makes the integrands in (1) equal and proves $\chi^*(AX:B)=\chi^*(X:B)$, including infinite negative entropy.
 
 For real $a\ne0$, the correct scaling formula is
 
@@ -155,7 +161,7 @@ The source's displayed proof also has erroneous cutoffs, duplicated factors, a m
 
 ## Proposition 7.9: finite information implies finite entropy
 
-If $\alpha=\Phi^*(X:B)<\infty$, U006's Cramer-Rao argument ensures $\alpha>0$, and Stam gives
+If $\alpha=\Phi^*(X:B)<\infty$, the historically selected Cramer--Rao interface, whose former U006 argument remains unlocated, ensures $\alpha>0$, and Stam gives
 
 $$f_X(t)\leq(\alpha^{-1}+t/n)^{-1}=\frac{n}{n/\alpha+t}.$$
 
@@ -174,7 +180,8 @@ The integral existence, zero-energy case, repaired upper/Fatou bounds, heat-incr
 These universal calculations require no numerical quadrature or finite tests.
 On 2026-09-08, both the external-input agent and the derivation agent independently read the full unit and the relevant rendered source pages, recomputed these integral arguments and found no local gap within the stated input limits.
 In particular neither review upgrades the conditional analytic-input boundary of 7.6.
-The accepted and inaccessible external inputs are separated in U009.
+The historical audit separated accepted and inaccessible external inputs in former U009.
+That detailed external-interface body is not located in the current collection; no present external-proof coverage is inferred from the obsolete unit number.
 
 The corrections preserve 7.2-7.5, 7.7 and 7.9's stated conclusions and replace 7.8 with the correct dimension-dependent assertion.
 Proposition 7.6 retains its stated scalar scope and the analytic proof boundary above.

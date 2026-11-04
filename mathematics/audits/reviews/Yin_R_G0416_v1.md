@@ -12,8 +12,8 @@ It preserved the unchanged complete author mathematics in L411, omitting only th
 
 The arrangement is non-blind: the author draft, root's mechanism summary and shared project context were visible before reconstruction, and the author's final readiness/check notice was visible before fixed retention.
 The reviewer authored the UPSTREAM C169 argument and coauthored L409.
-Their accepted independent R404 and R414 findings are reused at their stated scopes, not relabeled as independent reviews of the reviewer's own work.
-The present author contributed to upstream C170/J106; their separate R556/R412 findings and actual used interfaces are retained.
+Their accepted R404 SELF and R414 UNKNOWN findings are reused at their stated scopes, without a new independent review of the reviewer's own work.
+The present author contributed to upstream C170/J106; their separate [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding)/R412 findings and actual used interfaces are retained.
 No new length, graph enumeration, native program, spectral numerical computation or original external-source proof audit was performed.
 
 Current relationship clarification, 2026-10-22T04:55.
@@ -47,13 +47,13 @@ The adequate current whole is SELF in R876, and the actual original author check
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [R412 upstream native review](Yin_R_G0412_v1.md#carry-j106-whole-independent-finding) | Existing separate all-payload verification with its nonblind/shared-runtime limits; not newly executed evidence. |
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [L409 normalized nesting](../../ledger/Yin_L_G0409_v1.md#nested-normalized-carry-support) | Persistent actual normalized labels and induced seed edges; reviewer-coauthored upstream input reused through R414. |
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [L409 partial-path convention](../../ledger/Yin_L_G0409_v1.md#partial-path-weighted-carry-target) | Actual unordered-edge conductance, ordered-pair load1/(2c_e), full-word transfer and bad mass2epsilon with epsilon<1/4. |
-| [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [R414 upstream independent review](Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Accepted entire L409 and exact sufficient-path scope; no independent re-review of this reviewer's contributions is claimed. |
+| [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [R414 upstream whole finding, unknown](Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Accepted entire L409 and exact sufficient-path scope; no independent re-review of this reviewer's contributions is claimed. |
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [L329 original law](../../ledger/Yin_L_G0329_v1.md#actual-midpoint-occupation-reuse) | Chronological kernel K(x,beta x+eta), all endpoint autocorrelation domination and D_k>=1. |
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [L329 finite-mean limit](../../ledger/Yin_L_G0329_v1.md#true-harmonic-ratio-limits) | Actual D_k->mu under finite mean, no rate or uniform moving-state ratio. |
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [L329 overlap equivalence](../../ledger/Yin_L_G0329_v1.md#complete-midpoint-tightness-test) | Finite mean iff eventual bounded original D_k, not a free mass assumption. |
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [L329 null subsequence](../../ledger/Yin_L_G0329_v1.md#null-branch-original-bridge-escape) | Infinite mean gives a subsequence D_(k_j)->infinity; not an all-time limit or classification of the actual branch. |
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [C169 original collision monotonicity](../../claims/Yin_C_G0169_v1.md#endpoint-collision-monotonicity) | Nonincrease of original p_l and p_0=1 only; reviewer-authored upstream input reused through R404. |
-| [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [R404 upstream independent review](Yin_R_G0404_v1.md#endpoint-heatbath-whole-independent-finding) | Existing accepted complete C169 review; no large-block gap is imported into this local endpoint argument. |
+| [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [R404 upstream whole finding, self-reviewed](Yin_R_G0404_v1.md#endpoint-heatbath-whole-independent-finding) | Existing accepted complete C169 review; no large-block gap is imported into this local endpoint argument. |
 | [Whole fixed-hub finding](#fixed-hub-whole-independent-finding) | [C76 antecedent paid paths](../../claims/Yin_C_G0076_v1.md#statement) | Existing path-Cauchy method and paid masses only; its distinct six-digit graph does not supply the present connectivity. |
 
 <a id="fixed-hub-whole-independent-finding"></a>

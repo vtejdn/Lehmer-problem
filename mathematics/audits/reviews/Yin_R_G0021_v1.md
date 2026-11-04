@@ -36,8 +36,7 @@ Such a coverage theorem remains the missing uniform input for unrestricted G0001
 The source's general-m estimates, optimal-constant upper bounds and irreducibility claims outside this narrow domain are not adopted.
 The drafting agent checked the displayed transfer and source normalization.
 Assigned AI review_matrix_completion independently read the complete original transfer proof and the retained GIM+10 text at printed pp.373--375.
-It expanded all seven factor identities, checked their divisibility floors, recomputed D=6005, A=11206 and
-2A-D=16407, checked the quartic and sextic trace-root locations and integral-input Kronecker nonvanishing, and verified every circle factor in 2^D L and the final denominator 4D.
+It expanded all seven factor identities, checked their divisibility floors, recomputed D=6005, A=11206 and 2A-D=16407, checked the quartic and sextic trace-root locations and integral-input Kronecker nonvanishing, and verified every circle factor in 2^D L and the final denominator 4D.
 It also checked the degree-drop and original-height normalization.
 That whole mathematical-interface review found no substantive defect.
 It did not rerun or independently certify the published supremum calculation; the adoption of 0.427800 has exactly the external input boundary stated above, and no full-paper audit is asserted.

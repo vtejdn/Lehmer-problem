@@ -15,7 +15,7 @@ No additional source jet, native enormous-polynomial computation, discarded fact
 ## Statement
 
 For EVERY original Q=2^ell with ell>=82, select the ACTUAL complete primitive source constructed in adopted C799.
-Keep its exact original m=Q/4-2, A=2m=Q/2-4, H_aux, B_src, source gap, fresh triple factor, every full primary and multiplicity, actual maximal binary Frobenius exponent1 and all original C724/C793/C759 numerical bounds.
+Keep its exact original m=Q/4-2, A=2m=Q/2-4, H_aux, B_src, source gap, fresh triple factor, every full primary and multiplicity, actual maximal binary Frobenius exponent1 and all original C691/C753/C759 numerical bounds.
 In particular the SAME source has X^(6A-2)|Y_out'; no higher derivative jet is assumed.
 For EVERY corresponding original s>=s_min and EACH separately chosen sign sigma, there exist at least2^(n_free-7D) ACTUAL original monic reciprocal height-one outputs, including one with at most7D original pair flips, whose OWN canonical integer remainders satisfy
 
@@ -528,7 +528,7 @@ The earlier seed constructions do not add a temporary flip count to this final b
 All original degree, complete core factorization, positive total measure, noncyclotomic degree, own-core precision failure and coefficient/circle accounts remain exactly C774's original7D accounts at this SAME source and original s.
 This proves an ACTUAL primitive global F8/selected-X8 family for each separately chosen sign at every original Q and corresponding original s, with the adopted C799 source and no stronger derivative jet.
 It does not prove higher residual precision, a compatible infinite lift, own-core inheritance, irreducibility, nearzero measure or unrestricted G0001 resolution.
-The entire new TH1/FT1--FT9 theorem is fixed OPEN below, pending independent whole review and separate selected adoption.
+The entire new TH1/FT1--FT9 theorem was initially fixed OPEN, pending independent whole review and separate selected adoption; the later selected decision below retains its actual adoption.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-26)
@@ -545,7 +545,7 @@ The entire new TH1/FT1--FT9 theorem is fixed OPEN below, pending independent who
 
 | Relation | Target | Scope |
 | --- | --- | --- |
-| statement | [Primitive actual height-one global8 theorem and exact gate](#statement) | Every originalQ, SAME complete adoptedC842 source, every corresponding originals and each selectedsign, exact complete high-image criterion, actual real-sign attainment, globalF8/selectedX8, original lowercount/7D representative and all retained costs/exclusions. |
+| statement | [Primitive actual height-one global8 theorem and exact gate](#statement) | Every originalQ, SAME complete adopted C799 source, every corresponding originals and each selectedsign, exact complete high-image criterion, actual real-sign attainment, globalF8/selectedX8, original lowercount/7D representative and all retained costs/exclusions. |
 | argument | [Complete TH1 and FT1--FT9 proof](#complete-argument) | Actual quarter at full7A, true r_K/top module halves, exact M_sigma/C5/nonsquare/Hasse cancellation and parity, fullimageiff, explicit R, longer real sign CRT with ramified period, all actual repairs and full original integer transfer. |
 | dependency | [Adopted primitive full canonical quarter](Yin_C_G0781_v1.md#decision-whole-reviewed-2026-10-26) | PQ1--PQ9 actual integer halves/divisions and nonsquare-H quarter, NP1 true b half and allfullnonphiX8. |
 | dependency | [Adopted actual low-quarter expression](Yin_C_G0784_v1.md#decision-whole-reviewed-2026-10-26) | Genuine N_sigma and low-quarter orders used in TH1, without extrapolating a lower-precision statement. |
@@ -574,7 +574,7 @@ The entire new TH1/FT1--FT9 theorem is fixed OPEN below, pending independent who
 
 | Relation | Target | Scope |
 | --- | --- | --- |
-| statement | [Primitive actual height-one global8 theorem and exact gate](#statement) | Every originalQ, SAME complete adoptedC842 source, every corresponding originals and each selectedsign, exact complete high-image criterion, actual real-sign attainment, globalF8/selectedX8, original lowercount/7D representative and all retained costs/exclusions. |
+| statement | [Primitive actual height-one global8 theorem and exact gate](#statement) | Every originalQ, SAME complete adopted C799 source, every corresponding originals and each selectedsign, exact complete high-image criterion, actual real-sign attainment, globalF8/selectedX8, original lowercount/7D representative and all retained costs/exclusions. |
 | argument | [Complete TH1 and FT1--FT9 proof](#complete-argument) | Actual quarter at full7A, true r_K/top module halves, exact M_sigma/C5/nonsquare/Hasse cancellation and parity, fullimageiff, explicit R, longer real sign CRT with ramified period, all actual repairs and full original integer transfer. |
 | dependency | [Adopted primitive full canonical quarter](Yin_C_G0781_v1.md#decision-whole-reviewed-2026-10-26) | PQ1--PQ9 actual integer halves/divisions and nonsquare-H quarter, NP1 true b half and allfullnonphiX8. |
 | dependency | [Adopted actual low-quarter expression](Yin_C_G0784_v1.md#decision-whole-reviewed-2026-10-26) | Genuine N_sigma and low-quarter orders used in TH1, without extrapolating a lower-precision statement. |

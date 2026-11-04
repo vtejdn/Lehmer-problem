@@ -3,13 +3,21 @@ author: Yin
 ---
 # Compact quartic enumeration and continuation certificates
 
+## Native input availability
+
+The complete259-state compact candidate input is retained at [inputs/compact.json](inputs/compact.json).
+It was deterministically reconstructed by enumerate.py and matched against J21's distinct exact enumeration of all22275 coefficient tuples,841 expanding-strip tuples and259 retained states.
+paths.py, verify_paths.py and J21 now reuse that single tracked input.
+The original259 adopted path witnesses in paths.json are unavailable in this checkout and its selected local Git history.
+Their floating-pruned discovery is not rerun as a substitute for that original selection; verify_paths.py and J21's whole replay remain incomplete until the selected integer state/word payload is supplied at this group's tracked input home.
+
 ## Question and scope
 
 Enumerate a certified finite superset of the compact residual K from [fixed quartic descent](../../../claims/Yin_C_G0396_v1.md#quartic-neutral-descent), then check actual finite paths to zero.
 The responsible new argument is [fixed compact argument](../../../claims/Yin_C_G0396_v1.md#quartic-compact-termination).
 
 Generated results and verification data use `mathematics/computations/outputs/Yin_J_G0019/`, independently of the caller's directory.
-Actual required inputs are read from their producing J output homes; program imports still use the corresponding program homes.
+The adopted compact-list input is read from this group's tracked inputs/compact.json; the still-missing original paths retain their historical output locator until that selected payload is supplied.
 These retained outputs are local and Git-ignored; a clone can lack them.
 Verification reports unavailable inputs without automatically rerunning discovery or substituting other results.
 

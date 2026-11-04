@@ -10,15 +10,15 @@ This is a public published research article, not an ACME output.
 
 The reader directly checked the local title page and printed133/PDF5 equations(13)--(14), and printed137/PDF9 equations(27)--(28) with their surrounding averaging argument.
 The source uses normalized sphere probability and bounds the maximum of a sum of logarithms by its average; rotational invariance makes each normalized real or complex functional have the same logarithmic mean.
-These passages supply attribution for the classical product-of-functionals method used in [D159](../../../ledger/Yin_L_G0292_v1.md#enlarged-anti-capacity-working).
+These passages supply attribution for the classical product-of-functionals method used in [L292](../../../ledger/Yin_L_G0292_v1.md#enlarged-anti-capacity-working).
 Their selected averaging steps were followed, but the source's asymptotic sharpness proof, exact constants, small-dimensional optimal theorem and cited predecessors were not fully audited or adopted.
 
-D159 separately proves a weaker Gaussian estimate for complex-valued forms on a REAL coefficient space, including degenerate covariance, active dimension and logarithmic integrability.
+L292 separately proves a weaker Gaussian estimate for complex-valued forms on a REAL coefficient space, including degenerate covariance, active dimension and logarithmic integrability.
 That mixed setting is not silently identified with the source's uniformly real or uniformly complex Hilbert-space formulation.
 No PR04 theorem is an external proof dependency here; no fixed U is created for attribution alone.
 QZ19-U001 remains the separately accepted Bernstein input for the later rounding step.
 
-Search boundary: the local bibliography and had no matching author/title/DOI entry.
+Search boundary: the local bibliography had no matching author/title/DOI entry.
 Primary searches located the public author PDF and publisher identity; an initial web passage fetch timed out, then the one normal registration download succeeded.
 Local text extraction first encountered unavailable fitz/pypdf modules; installed pdftotext read the retained bytes successfully.
 These are source-access operations, not mathematical program failures.

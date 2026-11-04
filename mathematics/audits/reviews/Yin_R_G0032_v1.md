@@ -65,4 +65,4 @@ This supplies complete independent review of the final (1)--(9).
 | ms25_source complete final review (1)--(9), including the scope corrections | independently reviewed |
 
 No computation, new source or original-source reread formed part of these reviews.
-No fixed material, registry, computation or identifier was changed or allocated by the assigned agent.
+No mathematical computation was performed by the assigned agent.

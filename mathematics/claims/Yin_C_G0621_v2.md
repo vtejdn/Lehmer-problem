@@ -191,7 +191,7 @@ Take t=(X+1)^16, available from the selected B_163 residue.
 It is1 modulo X^8, has order3 modulo M and supplies all residue-field units.
 Use the same ordered bits as the complete v1 group proof: positions0 through6 for X through X^7 at the X-primary component, then7+2(j-1),8+2(j-1) for the basis1,X at phi-order j,1<=j<=15.
 
-The new J126 certificate (`mathematics/computations/outputs/Yin_J_G0126/certificate.json`) contains all96 original and chosen complete representatives, and all pivot expressions as nonnegative original-generator exponent vectors modulo48.
+The new J126 certificate (`mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json`) contains all96 original and chosen complete representatives, and all pivot expressions as nonnegative original-generator exponent vectors modulo48.
 The finite verifier reconstructs the stated first bit of each pivot, every source membership and every pivot-square reduction into later pivots.
 These exact relations make binary pivot normal forms closed under multiplication and inversion, by commuting factors and replacing carried squares with later factors.
 The finite ordered set makes reduction terminate.

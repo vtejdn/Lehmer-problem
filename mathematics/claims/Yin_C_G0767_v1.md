@@ -6,7 +6,7 @@ author: Yin
 # Height-one global first-four and second-two from an actual unsquared sign target
 
 Human author Yin.
-This complete fixed OPEN author candidate requires fresh independent whole review and separate adoption.
+At author registration, this complete fixed candidate was OPEN pending fresh independent whole review and separate adoption.
 Root proposed the full factor-lift reference, unsquared source-root target, enlarged local quotient and actual modulo4 primary assembly.
 Salem_completion checked the genuine sign map, already-paid full period, exact counts, local nilpotence, injective localization patch and all global canonical, core and measure conclusions.
 Characteristic_zero_bridge's separate contribution is the complete arbitrary-T phi-local half formula and corrected-root gate, retained in the fixed C766 dependency.
@@ -409,8 +409,9 @@ C752 gives full noncyclotomic reciprocal degree at least48mq, and QF19 remains u
 Raising preserves the stated coefficientwise precisions and does not increase them by assertion.
 
 All actual source and support conditions, the new unsquared target and count, complete modulo4 localization/patching, positive measure and core failure are retained together in this author candidate.
-The phi-local argument is adopted in C766 at its precise scope; this new fixed assembly still requires its own fresh whole review and separate adoption.
-No independent review of the new assembly, irreducible or coprime output, nonzero added mask, X modulo4, higher compatible precision sequence, whole-kernel gap, nearzero construction or unrestricted G0001 resolution is claimed.
+The phi-local argument was adopted in C766 at its precise scope when this author-stage account was written; this new fixed assembly then still required its own fresh whole review and separate adoption.
+At initial author registration, no independent review of the new assembly was claimed.
+No irreducible or coprime output, nonzero added mask, X modulo4, higher compatible precision sequence, whole-kernel gap, nearzero construction or unrestricted G0001 resolution is claimed.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-26)
@@ -423,7 +424,7 @@ No independent review of the new assembly, irreducible or coprime output, nonzer
 | --- | --- |
 | date | 2026-10-25T23:59 |
 | status | open |
-| reason | Register the complete QF1--QF10 author theorem after root read its entire actual sign, reference, source, local and global proof. A full factor-lift reference supplies an unsquared sign map; the corrected source-root target is onto using the original already-paid full period and has exact target-only counts. The genuine phi-local criterion, all nonphi nilpotence and added-primary square tests, and injective localization detection prove coefficientwise global F modulo4 and both X residuals modulo2 with nonzero binary G. All original degrees, maximal powers, explicit equal-Mahler core failure, strict positivity and bounded-basis DS17 limits are retained. Root and Salem_completion are contributors, with characteristic_zero_bridge's local result consumed through fixed C766; fresh independent whole review and separate adoption remain outstanding. No old-fiber precision upgrade, X modulo4, irreducibility, coprime output, higher compatible precision, whole-kernel gap, nearzero measure or unrestricted Task completion is asserted. |
+| reason | Register the complete QF1--QF10 author theorem after root read its entire actual sign, reference, source, local and global proof. A full factor-lift reference supplies an unsquared sign map; the corrected source-root target is onto using the original already-paid full period and has exact target-only counts. The genuine phi-local criterion, all nonphi nilpotence and added-primary square tests, and injective localization detection prove coefficientwise global F modulo4 and both X residuals modulo2 with nonzero binary G. All original degrees, maximal powers, explicit equal-Mahler core failure, strict positivity and bounded-basis DS17 limits are retained. Root and Salem_completion are contributors, with characteristic_zero_bridge's local result consumed through fixed C766; fresh independent whole review and separate adoption were outstanding at author registration. No old-fiber precision upgrade, X modulo4, irreducibility, coprime output, higher compatible precision, whole-kernel gap, nearzero measure or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

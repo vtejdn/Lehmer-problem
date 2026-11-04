@@ -6,14 +6,14 @@ author: Yin
 
 Publication date: 2026-10-22T19:51.
 Human record author Yin.
-All five physical original ledgers were read in full, followed by their actual needed fixed inputs and complete historical R589/R590/R591 accounts.
+All five physical original ledgers were read in full, followed by their actual needed fixed inputs and complete historical R443/R444/R445 accounts.
 The constructor authored the three new C statements and responsible-home transfers; current whole findings are SELF.
 The three new versions were registered open at2026-10-22T19:49; the actual complete statement/argument inspection finished2026-10-22T19:51.
 All original mathematical dates, authors/contributions, source-depth and native/research limits remain.
-G437 already has the adequate complete C175 current proof home and its actual R590/R592 findings; G438 already has complete C176 and R591/R594.
+The positive-completion argument already has the adequate complete C175 current proof home and its actual R444/R446 findings; the mixed-form argument already has complete C176 and R445/R448.
 Their full Statements and original Arguments were read and compared at the actual needed scope; no duplicate C or retrospective new review is created for them.
-R590/R592 and R591/R594 each explicitly declare UNKNOWN, with full old arrangement and bindings retained; nonblind or fixed-dependency reading alone is not the classification reason.
-R589 retains its actually declared INDEP relationship, disclosed author-summary/shared-context arrangement and exact L435 scope; it is not a new isolated audit or retrospectively rebound to C580.
+R444/R446 and R445/R448 each explicitly declare UNKNOWN, with full old arrangement and bindings retained; nonblind or fixed-dependency reading alone is not the classification reason.
+R443 retains its actually declared INDEP relationship, disclosed author-summary/shared-context arrangement and exact L435 scope; it is not a new isolated audit or retrospectively rebound to C580.
 No research Task/E, native producer/replay, source acquisition or original-source proof audit occurred.
 
 ## Review relationships

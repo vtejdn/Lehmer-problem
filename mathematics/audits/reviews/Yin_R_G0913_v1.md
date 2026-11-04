@@ -11,7 +11,7 @@ Only the fixed target, direct inputs and operational metadata were supplied.
 The complete CB1--CB12 statement, Sections1--6/CB13--CB19 argument, both retained decisions and source boundary were read directly.
 No D40, author dialogue, development summary, candidate derivation or agent inventory was consulted.
 
-The actual new Tao26-U003v2 was read in full.
+The actual rolling Tao26-U003, including its 2026-10-24T04:52 source correction, was read in full.
 The reviewer independently text-read the retained primary Tao26 PDF, printed/PDF pages9--12, using the exact command recorded below.
 Its Lemma3.3, equation(12) and uniform-dependence paragraph were checked against the unit and the current consumer.
 This is a statement/applicability inspection of the accepted established stationary-phase input, not a reconstruction of all omitted source-proof details.
@@ -39,14 +39,14 @@ No target, source unit, C/T/E/S, shared index, historical finding, adoption or c
 | [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [C693v2 complete argument](../../claims/Yin_C_G0693_v2.md#complete-argument) | Every Section1--6 and CB13--CB19 step, new source applicability, bounded/unbounded linear parameters, Parseval and both cutoff tails, all integer endpoints/cardinalities, scalar mass, original positivity/aliases and every threshold/sequence conversion. |
 | [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [C693v2 selected open decision](../../claims/Yin_C_G0693_v2.md#decision-integer-radius-scope-open) | Fixed corrected candidate dated2026-10-24T04:54; this review supplies evidence without adopting it. |
 | [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [C693v2 source and scope boundary](../../claims/Yin_C_G0693_v2.md#source-reuse-and-scope-boundary) | New accepted primary input versus old units, local uniformity and all tails, unchanged original law and positive Mahler interval, and remaining small-height/improved-power/unrestricted limits. |
-| [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [Tao26-U003v2 actual accepted input](../literature/Tao26/Yin_U003.md#tao26-u003) | Retained primary pp9--12, Lemma3.3/equation12 and p11 uniform constants: dimension2 and expansion N=0 imply the required O(k^-1) estimate under the checked uniform hypotheses; no numerical leading coefficient or full source-proof certification. |
+| [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [Tao26-U003 corrected accepted input](../literature/Tao26/Yin_U003.md#tao26-u003) | Retained primary pp9--12, Lemma3.3/equation12 and p11 uniform constants: dimension2 and expansion N=0 imply the required O(k^-1) estimate under the checked uniform hypotheses; no numerical leading coefficient or full source-proof certification. |
 | [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [C684 exact adopted family and return](../../claims/Yin_C_G0684_v1.md#decision-whole-reviewed-2026-10-24) | Identical17/8-log prime schedule, actual Salem polynomial and degree, full original2d/cyclic/sample/Gram/pole/observability and every translated law, WL7--WL8 five-cost estimate, closed2M aliases and actual degree/logarithm comparison. |
 | [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [C684 supporting argument](../../claims/Yin_C_G0684_v1.md#complete-argument) | Unchanged actual-law comparison, all shell/regularization/smoothing ranges and exact degree conversion; no old square-family or two-factor law is transferred. |
-| [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [Own earlier C716 finding](Yin_R_G0905_v1.md#whole-weighted-log-family-degree-finding) | Exact unchanged family, source, original probability laws, finite costs, aliases and degree scope only; it does not cover the new curvature theorem prospectively. |
+| [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [Own earlier C684 finding](Yin_R_G0905_v1.md#whole-weighted-log-family-degree-finding) | Exact unchanged family, source, original probability laws, finite costs, aliases and degree scope only; it does not cover the new curvature theorem prospectively. |
 | [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [C681 weighted phase and scalar input](../../claims/Yin_C_G0681_v1.md#decision-whole-reviewed-2026-10-24) | Identical weighted Mobius formula and product-Haar scalar harmonic mechanism; the prior thin-contact bands and old original-family consumer are not used as this new band proof. |
 | [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [C637 positive finite kernel](../../claims/Yin_C_G0637_v1.md#complete-argument) | Exact mass, positivity, finite support and angular first moment, giving the smooth approximate identity used to justify the two-dimensional Fourier equalities. |
 | [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [C693v1 retained predecessor](../../claims/Yin_C_G0693_v1.md#decision-curved-full-band-open) | Historical comparison only: v2 restricts the CB16 auxiliary tail comparison to integer radii and appends its own selected decision; this is not a whole-v1 verdict or retrospective adoption. |
-| [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [Tao26-U003v1 retained predecessor](../literature/Tao26/Yin_U003.md#tao26-u003) | Historical correction only: v2 accurately records the sum n=0,...,N as N+1 terms; the earlier wording is preserved and not adopted by this finding. |
+| [Whole finding](#whole-weighted-curvature-fixed-enlargement-v2-finding) | [Tao26-U003 dated source correction](../literature/Tao26/Yin_U003.md#tao26-u003) | Historical correction only: the 2026-10-24T04:52 correction accurately records the sum n=0,...,N as N+1 terms and identifies the earlier phrase; that earlier wording is not adopted by this finding. |
 
 <a id="whole-weighted-curvature-fixed-enlargement-v2-finding"></a>
 ## Whole finding
@@ -85,8 +85,8 @@ The accepted established decay theorem is therefore a resolved input at this sta
 The actual v1/v2 file comparisons were inspected with local git diff --no-index.
 C693v2 changes the auxiliary CB16 domain to every integer R>=1, changes its selector and adds the corresponding dated decision.
 Every radius actually used in that proof is R_k=C_0k with integer C_0,k.
-Tao26-U003v2 changes the expansion description to its actual N+1 terms and preserves the dated correction of v1.
-These predecessor files and their history remain untouched.
+The rolling Tao26-U003 records its 2026-10-24T04:52 correction of the expansion description to its actual N+1 terms.
+The physical C693 predecessor remains preserved; U003 has no separate physical v1/v2 files.
 This review neither backdates source coverage nor expands U001/U002.
 
 ### The exact weighted patch and definite Hessian
@@ -256,9 +256,10 @@ No decimal evaluation of the stationary-phase implicit constant is asserted.
 The new primary reading supports only the accepted decay and uniform-dependence interface plus its checked local application.
 The exact source expansion coefficient, omitted proof estimates, full Fresnel chain, rendered-page inspection and whole-source audit remain outside this review.
 U001/U002 and all historical self-reviewed/unknown relationships retain their old scopes.
-Physical C693v1 and Tao26-U003v1 are preserved with their corrections; this whole finding binds C693v2 and U003v2.
+Physical C693v1 is preserved with its correction; this whole finding binds C693v2 and the corrected rolling U003 at the exact source scope above.
 
-In addition to direct file reading, the actual bounded commands were the primary pdftotext extraction above and local git diff --no-index for the C693 and U003 physical predecessor/current pairs.
+In addition to direct file reading, the recorded bounded commands were the primary pdftotext extraction above and local git diff --no-index comparisons.
+The C693 comparison concerns its physical versions; the U003 comparison concerns its dated source correction and supplies no separate physical U versions.
 The diff command's exit1 records file differences, not a failed mathematical check.
 Registration uses the public material writer with kind R and line G, followed by full readback and the allocated-file material check.
 That structural check supplies declaration/reference evidence only; the mathematical conclusion rests on the independent reconstruction above.

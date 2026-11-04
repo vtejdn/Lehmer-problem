@@ -172,16 +172,14 @@ The recorded review description was `under review`.
 | --- | --- | --- |
 | statement | [Exact statement](#statement) | ENTIRE A--F: actual monomial seed/order, exact q/M/physical width, all-height nonzero-residual bound, current all-s income result, complete signed costs and strict one-step scope. |
 | argument | [Entire original proof](#argument) | COMPLETE original21:23 D27 allocation/reuse/candidate, Sections1--6/Proposition1/Theorem2/Corollary3/equations1--13, controls, roles, original pending-input history and freeze. |
-| argument | [Current assembly bridge](#single-delay-current-assembly) | Precise transfer from the historically pending D26 theorem to the identical currently accepted C71 all-weight E1 theorem; new statement/interface scope still awaiting actual review. |
+| argument | [Current assembly bridge](#single-delay-current-assembly) | Precise transfer from the historically pending D26 theorem to the identical currently accepted C71 all-weight E1 theorem; the assembly interface and its separately selected findings keep their actual dated scopes. |
 | dependency | [Accepted original-root coefficient estimate](../ledger/Yin_L_G0229_v1.md#actual-resultant-coefficient-energy-bound) | Full original nonzero resultant, coefficient norm sqrt(S), rho, true residual width and radial charge for C; no circle-root or height deletion. |
 | dependency | [Exact angular modulus](../ledger/Yin_L_G0229_v1.md#uniform-powered-angular-coherence) | Exact c,h0,b,epsilon, monotonicity and zero limit, with inherited Pri11/Dim19 source acceptance limits unchanged. |
 | dependency | [Current C71 all-weight statement](Yin_C_G0071_v1.md#statement) | ONLY A's adopted all-weight E1 q^8 implication for the small2<=s<=4 part of D, plus F's already retained actual quartic control; no dyadic or flatness restriction inserted. |
 | dependency | [Current C71 all-weight proof](Yin_C_G0071_v1.md#all-weight-unit-energy-product-theorem) | Exact preserved original Section8/Theorem3 used by the new assembly at actual q=s, E1 and common width T; same theorem as historical D26. |
 | dependency | [Old projection mechanism](Yin_C_G0053_v1.md#statement) | Credited rational rank-one algebra, actual particular-vector integrality and unit-determinant/norm boundary; local all-k seed proof supplied here. |
 | dependency | [Full original packet expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only E's generic Lambda<=Tm/d after actual nonzero integrality and complete complementarity; not the new all-height obstruction. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0296_v1.md#single-delay-whole-independent-finding) | ENTIRE original21:23 D27 and its then-explicit conditional small-s input; no prospective review of this wrapper or current dependency-resolution bridge. |
-
-<a id="single-delay-current-assembly"></a>
+| support | [Original whole finding](../audits/reviews/Yin_R_G0296_v1.md#single-delay-whole-independent-finding) | ENTIRE original21:23 D27 and its then-explicit conditional small-s input; no prospective review of this wrapper or current dependency-resolution bridge. Referenced finding relationship: self-reviewed. |
 
 ### Decision organized-reviewed
 
@@ -195,14 +193,14 @@ The recorded review description was `under review`.
 | --- | --- | --- |
 | statement | [Exact statement](#statement) | ENTIRE A--F: actual monomial seed/order, exact q/M/physical width, all-height nonzero-residual bound, current all-s income result, complete signed costs and strict one-step scope. |
 | argument | [Entire original proof](#argument) | COMPLETE original21:23 D27 allocation/reuse/candidate, Sections1--6/Proposition1/Theorem2/Corollary3/equations1--13, controls, roles, original pending-input history and freeze. |
-| argument | [Current assembly bridge](#single-delay-current-assembly) | Precise transfer from the historically pending D26 theorem to the identical currently accepted C71 all-weight E1 theorem; new statement/interface scope still awaiting actual review. |
+| argument | [Current assembly bridge](#single-delay-current-assembly) | Precise transfer from the historically pending D26 theorem to the identical currently accepted C71 all-weight E1 theorem; the assembly interface and its separately selected findings keep their actual dated scopes. |
 | dependency | [Accepted original-root coefficient estimate](Yin_C_G0570_v1.md#actual-resultant-coefficient-energy-bound) | Full original nonzero resultant, coefficient norm sqrt(S), rho, true residual width and radial charge for C; no circle-root or height deletion. |
 | dependency | [Exact angular modulus](Yin_C_G0570_v1.md#uniform-powered-angular-coherence) | Exact c,h0,b,epsilon, monotonicity and zero limit, with inherited Pri11/Dim19 source acceptance limits unchanged. |
 | dependency | [Current C71 all-weight statement](Yin_C_G0071_v1.md#statement) | ONLY A's adopted all-weight E1 q^8 implication for the small2<=s<=4 part of D, plus F's already retained actual quartic control; no dyadic or flatness restriction inserted. |
 | dependency | [Current C71 all-weight proof](Yin_C_G0071_v1.md#all-weight-unit-energy-product-theorem) | Exact preserved original Section8/Theorem3 used by the new assembly at actual q=s, E1 and common width T; same theorem as historical D26. |
 | dependency | [Old projection mechanism](Yin_C_G0053_v1.md#statement) | Credited rational rank-one algebra, actual particular-vector integrality and unit-determinant/norm boundary; local all-k seed proof supplied here. |
 | dependency | [Full original packet expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only E's generic Lambda<=Tm/d after actual nonzero integrality and complete complementarity; not the new all-height obstruction. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0296_v1.md#single-delay-whole-independent-finding) | ENTIRE original21:23 D27 and its then-explicit conditional small-s input; no prospective review of this wrapper or current dependency-resolution bridge. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0296_v1.md#single-delay-whole-independent-finding) | ENTIRE original21:23 D27 and its then-explicit conditional small-s input; no prospective review of this wrapper or current dependency-resolution bridge. Referenced finding relationship: self-reviewed. |
 | review | [Actual extraction](../audits/reviews/Yin_R_G0794_v2.md#c72-single-delay-actual-extraction-finding) | Complete actual statement, ENTIRE original preservation and all exact direct/assembly interfaces inspected after allocation by a noncontributor. Original whole finding remains at its original scope. |
 
 
@@ -212,22 +210,23 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T23:10 |
 | status | proved |
-| reason | Adopt the separately organized current fixed-target finding after complete statement and retained-argument inspection, including late extensions, actual costs, controls, necessary mathematical interfaces and source limits, while excluding credited comparison scopes first separately checked after old-review exposure. The initial mathematical conclusion was formed at 2026-10-22T22:45 UTC before old-target review comparison. The finding records the exact interface and later credited-comparison reading sequence. Preserve fixed mathematics, historical decisions, all non-review premises and their scopes; retain known sufficient independent findings in their original homes and original unknown findings at their actual checking scope. This selects current review evidence and supplies no new research, Task completion or execution resumption. |
+| reason | The current finding is SELF because its initial complete argument input included author-validation conclusions beyond the necessary derivation. Adopt the separately organized current fixed-target finding after complete statement and retained-argument inspection, including late extensions, actual costs, controls, necessary mathematical interfaces and source limits, while excluding credited comparison scopes first separately checked after old-review exposure. The initial mathematical conclusion was formed at 2026-10-22T22:45 UTC before old-target review comparison. The finding records the exact interface and later credited-comparison reading sequence. Preserve fixed mathematics, historical decisions, all non-review premises and their scopes; retain earlier findings in their original homes at their actual recorded relationships and checking scopes. This selects current review evidence and supplies no new research, Task completion or execution resumption. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement: statement](#statement) | ENTIRE A--F: actual monomial seed/order, exact q/M/physical width, all-height nonzero-residual bound, current all-s income result, complete signed costs and strict one-step scope. |
 | argument | [Argument: argument](#argument) | COMPLETE original21:23 D27 allocation/reuse/candidate, Sections1--6/Proposition1/Theorem2/Corollary3/equations1--13, controls, roles, original pending-input history and freeze. |
-| argument | [Argument: single-delay-current-assembly](#single-delay-current-assembly) | Precise transfer from the historically pending D26 theorem to the identical currently accepted C71 all-weight E1 theorem; new statement/interface scope still awaiting actual review. |
+| argument | [Argument: single-delay-current-assembly](#single-delay-current-assembly) | Precise transfer from the historically pending D26 theorem to the identical currently accepted C71 all-weight E1 theorem; the assembly interface and its separately selected findings keep their actual dated scopes. |
 | dependency | [Dependency: actual-resultant-coefficient-energy-bound](Yin_C_G0570_v1.md#actual-resultant-coefficient-energy-bound) | Full original nonzero resultant, coefficient norm sqrt(S), rho, true residual width and radial charge for C; no circle-root or height deletion. |
 | dependency | [Dependency: uniform-powered-angular-coherence](Yin_C_G0570_v1.md#uniform-powered-angular-coherence) | Exact c,h0,b,epsilon, monotonicity and zero limit, with inherited Pri11/Dim19 source acceptance limits unchanged. |
 | dependency | [Dependency: statement](Yin_C_G0071_v1.md#statement) | ONLY A's adopted all-weight E1 q^8 implication for the small2<=s<=4 part of D, plus F's already retained actual quartic control; no dyadic or flatness restriction inserted. |
 | dependency | [Dependency: all-weight-unit-energy-product-theorem](Yin_C_G0071_v1.md#all-weight-unit-energy-product-theorem) | Exact preserved original Section8/Theorem3 used by the new assembly at actual q=s, E1 and common width T; same theorem as historical D26. |
 | dependency | [Dependency: statement](Yin_C_G0053_v1.md#statement) | Credited rational rank-one algebra, actual particular-vector integrality and unit-determinant/norm boundary; local all-k seed proof supplied here. |
 | dependency | [Dependency: direct-exact-covariance-window-inequality](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only E's generic Lambda<=Tm/d after actual nonzero integrality and complete complementarity; not the new all-height obstruction. |
-| support | [Support: single-delay-whole-independent-finding](../audits/reviews/Yin_R_G0296_v1.md#single-delay-whole-independent-finding) | ENTIRE original21:23 D27 and its then-explicit conditional small-s input; no prospective review of this wrapper or current dependency-resolution bridge. |
-| review | [Current isolated finding](../audits/reviews/Yin_R_G0794_v2.md#g72-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:45 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
+| support | [Recorded original finding](../audits/reviews/Yin_R_G0296_v1.md#single-delay-whole-independent-finding) | ENTIRE original21:23 D27 and its then-explicit conditional small-s input; no prospective review of this wrapper or current dependency-resolution bridge. Finding relationship: self-reviewed. |
+| review | [Current SELF finding](../audits/reviews/Yin_R_G0794_v2.md#g72-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:45 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
 
+<a id="single-delay-current-assembly"></a>
 ## Current assembly and resolved small-s input
 
 Date: 2026-10-12T13:36.
@@ -249,7 +248,8 @@ Its quantifiers and exclusions are exactly those of the original corollary.
 Thus the input-status qualification in the historical body is resolved for this CURRENT assembled statement; its sentences recording what was pending on21:23 remain literally historical and are not silently edited.
 This is an author-checked assembly, not independent evidence.
 R296's verdict concerned the original complete proof and then-conditional interface; it does not automatically inspect this wrapper or assert that this new selected-input assembly has passed actual extraction review.
-Both this bridge and the current statement need a separately organized noncontributor check before adoption.
+At the original author stage, both this bridge and the statement still needed a separately organized noncontributor check before adoption.
+The later selected extraction and current whole findings retain their actual dates, scopes and relationships.
 
 ## Registration and complete preservation
 

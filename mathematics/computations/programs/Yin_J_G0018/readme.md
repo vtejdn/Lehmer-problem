@@ -3,6 +3,13 @@ author: Yin
 ---
 # Quartic Salem neutral-block search and exact certificates
 
+## Native input availability
+
+The selected fifty-cell triangle certificate, including its150 original integer words, is unavailable in this checkout and its selected local Git history.
+verify.py and J21's whole checker cannot currently replay that adopted native object.
+The retained proof and original reviews keep their historical scope; a fresh floating hull selection is not recovery of those selected words.
+The necessary continuation is to supply the original cell/word payload at this group's tracked inputs/ and repair both consumers.
+
 ## Question and scope
 
 Search and verify a finite family of original {-1,0,1}-digit blocks that makes neutral descent possible while returning to an expanding strip.

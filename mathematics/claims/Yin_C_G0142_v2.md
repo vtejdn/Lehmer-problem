@@ -584,7 +584,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T11:25 |
 | status | proved |
-| reason | Adopt actual R497 whole-v2 review. The general finite real phi-capacity weak fractional moment and original-window positive-triple-density capture are proved without support or tree complexity assumptions; arity lifting has B=1. Complete original norm and fixed-C,gamma,s density-budget consequences hold. Actual automatic positive-density polynomial coverage and unrestricted G0001 remain open. |
+| reason | Adopt actual [R804 original general-weak-v2](../audits/reviews/Yin_R_G0804_v1.md#general-weak-v2-whole-independent-finding) whole-v2 review. The general finite real phi-capacity weak fractional moment and original-window positive-triple-density capture are proved without support or tree complexity assumptions; arity lifting has B=1. Complete original norm and fixed-C,gamma,s density-budget consequences hold. Actual automatic positive-density polynomial coverage and unrestricted G0001 remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

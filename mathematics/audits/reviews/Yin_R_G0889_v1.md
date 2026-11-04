@@ -12,7 +12,7 @@ No D, author dialogue, development mathematical summary, agent inventory or nati
 The full S1--S11 statement and MT1--MT15 proof were read directly and independently reconstructed.
 The exact C196/C197 half-difference/module interfaces, C202 changing-divisor identity, C603 FE8 argument and C649 formal gate were inspected directly.
 The actual adopted C667 interface was checked only as a conditional source of polynomial data, not as a sufficiency theorem for the new integer problem.
-The prior own C667/R1055v2 finding retains its exact scope; the erroneous R1055v1 residue assertion is not used.
+The prior own C667/R888v2 finding retains its exact scope; the erroneous R888v1 residue assertion is not used.
 
 The common content decision requires a new fixed R for this actually performed whole review of new mathematics.
 The checks below are exact polynomial, local-module, finite-dimensional and valuation calculations.
@@ -38,7 +38,7 @@ The reviewer did not modify the target, C/T/E/S, old evidence, shared indices, a
 | [Whole finding](#whole-same-coefficient-mod-four-finding) | [C603 actual dyadic coefficient](../../claims/Yin_C_G0603_v1.md#argument) | FE8 and its module-half calculation before first-residual vanishing, with each necessary binomial and divisor step rechecked; FE4/FE5 are not assumed to vanish. |
 | [Whole finding](#whole-same-coefficient-mod-four-finding) | [C649 formal gate](../../claims/Yin_C_G0649_v1.md#statement) | Exact old support at4A, corrected root at3A after m=A/2, and optional full gate/lift independence; its polynomial data do not solve the actual same-T integer residuals. |
 | [Whole finding](#whole-same-coefficient-mod-four-finding) | [C667 conditional polynomial source](../../claims/Yin_C_G0667_v1.md#statement) | Only a conditional way to supply stated Y/U support and optional gate/layer data, at its own finite/global scope; not a premise needed by the self-contained generic calculation. |
-| [Whole finding](#whole-same-coefficient-mod-four-finding) | [C667 actual adopted decision](../../claims/Yin_C_G0667_v1.md#decision-whole-reviewed-2026-10-24) | Adopted on2026-10-24T01:51 with corrected R1055v2 and its original realization boundary. |
+| [Whole finding](#whole-same-coefficient-mod-four-finding) | [C667 actual adopted decision](../../claims/Yin_C_G0667_v1.md#decision-whole-reviewed-2026-10-24) | Adopted on 2026-10-24T01:51 with corrected R888v2 and its original realization boundary. |
 
 <a id="whole-same-coefficient-mod-four-finding"></a>
 ## Whole finding
@@ -269,7 +269,8 @@ All new formulas needed by this proof were rederived explicitly in the review ab
 The exact predecessor interfaces are retained as checked support/attribution; their broader original-field hypotheses or unrelated finite conclusions are not imported.
 The C667 source is conditional and the new proof does not rely on an unreviewed existence construction.
 No earlier native result is used or extended, and no mathematical program was executed.
-The inherited Smy08/Bel17 source limitations and historical SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries, remain unchanged.
+The C199v3/v4 inputs retain R489's separate original UNKNOWN findings, and their actual selected v5 chain retains R492's original UNKNOWN finding at its own physical scope.
+The inherited Smy08/Bel17 source limits and earlier SELF/UNKNOWN boundaries are not enlarged or reassigned by this reuse.
 No original classical source was newly acquired or fully re-audited.
 This is not an adoption, an original realization or an unrestricted Task-completion finding.
 The main agent separately maintains the R index and decides whether to adopt this exact finding.

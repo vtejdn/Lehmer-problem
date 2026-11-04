@@ -541,7 +541,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T08:46 |
 | status | proved |
-| reason | Adopt R483 actual whole noncontributor review of the multi-factor trace-remainder construction, finite all-scale exclusion and linear original-degree demand for retaining a far node with positive actual income. All arithmetic costs and large-correction countercontrols are included. The full-factor positive control spends the old endpoint floor; many near1 factors and independent uniform income remain open. |
+| reason | Adopt [R798 original multiple-factor](../audits/reviews/Yin_R_G0798_v1.md#multiple-factor-whole-independent-finding) actual whole noncontributor review of the multi-factor trace-remainder construction, finite all-scale exclusion and linear original-degree demand for retaining a far node with positive actual income. All arithmetic costs and large-correction countercontrols are included. The full-factor positive control spends the old endpoint floor; many near1 factors and independent uniform income remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

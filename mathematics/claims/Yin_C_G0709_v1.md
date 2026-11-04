@@ -261,7 +261,7 @@ This distinction is why spatial autocorrelation positivity cannot simply be turn
 
 The argument uses only times4,5,6 and imposes no condition at arbitrarily large times.
 It therefore gives no conclusion about eventual log-convexity, late-time monotone ratios, asymptotic spectral surrogates or either critical-mean branch.
-The full original endpoint products, C673's linear D_n bound, C731v2's restricted short-witness certificates and all original weighted flow/clock costs remain unchanged.
+The full original endpoint products, C645's linear D_n bound, C698v2's restricted short-witness certificates and all original weighted flow/clock costs remain unchanged.
 No new all-late mass or congestion estimate is supplied.
 
 ## Source and reuse boundary

@@ -215,7 +215,7 @@ The recorded review description was `under review`.
 | argument | [Entire retained original body](#argument) | COMPLETE original allocation/lead/reuse/candidate, Sections1--6/equations1--14, six anchors, every period/seam/boundary table, source/contribution limits and actual23:52 freeze. |
 | dependency | [C76 adopted original operator](Yin_C_G0076_v1.md#six-digit-original-law-operator) | Exact fixed quartic/full-return state space, positive original probabilities2^z/W_n, complete arbitrary-endpoint heat bath with N-5 clock, true complex midpoint, global sign symmetry, positive self-adjoint contraction and Dirichlet normalization. |
 | dependency | [C76 actual gap interface](Yin_C_G0076_v1.md#six-digit-quantitative-gap-boundary) | Actual global Rayleigh definition and precisely conditional eventual positive-gap premise whose failure is proved here. No global irreducibility or positive gap is an assumed input. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0303_v1.md#period18-whole-independent-finding) | Complete actual original23:52 D36 and its direct C76 interfaces were independently reconstructed before this new wrapper was authored. It is not prospective review or adoption of this extraction. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0303_v1.md#period18-whole-independent-finding) | Complete actual original23:52 D36 and its direct C76 interfaces were independently reconstructed before this new wrapper was authored. It is not prospective review or adoption of this extraction. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -232,8 +232,8 @@ The recorded review description was `under review`.
 | argument | [Entire retained original body](#argument) | COMPLETE original allocation/lead/reuse/candidate, Sections1--6/equations1--14, six anchors, every period/seam/boundary table, source/contribution limits and actual23:52 freeze. |
 | dependency | [C76 adopted original operator](Yin_C_G0076_v1.md#six-digit-original-law-operator) | Exact fixed quartic/full-return state space, positive original probabilities2^z/W_n, complete arbitrary-endpoint heat bath with N-5 clock, true complex midpoint, global sign symmetry, positive self-adjoint contraction and Dirichlet normalization. |
 | dependency | [C76 actual gap interface](Yin_C_G0076_v1.md#six-digit-quantitative-gap-boundary) | Actual global Rayleigh definition and precisely conditional eventual positive-gap premise whose failure is proved here. No global irreducibility or positive gap is an assumed input. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0303_v1.md#period18-whole-independent-finding) | Complete actual original23:52 D36 and its direct C76 interfaces were independently reconstructed before this new wrapper was authored. It is not prospective review or adoption of this extraction. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0306_v1.md#c80-period18-actual-extraction-finding) | ENTIRE actual A--F, full retained original and exact C76 interfaces; all parity/mass/clock/projection limits independently checked by a noncontributor. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0303_v1.md#period18-whole-independent-finding) | Complete actual original23:52 D36 and its direct C76 interfaces were independently reconstructed before this new wrapper was authored. It is not prospective review or adoption of this extraction. Finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0306_v1.md#c80-period18-actual-extraction-finding) | ENTIRE actual A--F, full retained original and exact C76 interfaces; all parity/mass/clock/projection limits checked by a noncontributor at the actual SELF relationship. |
 
 ## Registration and complete preservation
 

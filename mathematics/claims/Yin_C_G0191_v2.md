@@ -5,7 +5,7 @@ author: Yin
 
 Date: 2026-10-20T12:10.
 Human author Yin.
-This substantive v2 extends the [fixed totally ramified v1](Yin_C_G0191_v1.md#statement), whose proof and independent-review scope remain separate.
+This substantive v2 extends the [fixed totally ramified v1](Yin_C_G0191_v1.md#statement), whose proof and recorded review scope remain separate.
 The entropy_attainment_bridge agent supplied the actual self-composition valuation mechanism, its periodic Hensel-lift extension and the maximal-order filtration count, and assembled the new arithmetic bound with the existing original polynomial return.
 Root and that agent developed parallel residue-cluster proofs of the constant6/11; root supplied the weighted-A formulation and its simpler low-beta<1 split used below.
 Both are contributors, not independent reviewers of this version.

@@ -87,12 +87,12 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-11T20:15 |
 | status | open |
-| reason | Register the complete04:10 author freeze, full integer geometry and real kernel price, general rational trace certificate and exact hand-Lehmer application. Separate whole and actual extraction review remain pending. No fixed-list or source-trace calculation substitutes for full proof review. |
+| reason | Register the complete 2026-10-11T20:10 author freeze, full integer geometry and real kernel price, general rational trace certificate and exact hand-Lehmer application. Separate whole and actual extraction review remain pending. No fixed-list or source-trace calculation substitutes for full proof review. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | Actual reciprocal flatP/O_0, first allowed windowd and ALL real representatives of nonzero integer residues; strict input-dependent floor and exact original-Lehmer application only. |
-| argument | [Argument](#argument) | Complete04:10 D21 Sections1--7/equations1--23; local full projection/short-set proof, original Newton/trace identity, all-real kernel cases and every hand recurrence/cost boundary. |
+| argument | [Argument](#argument) | Complete 2026-10-11T20:10 D21 Sections1--7/equations1--23; local full projection/short-set proof, original Newton/trace identity, all-real kernel cases and every hand recurrence/cost boundary. |
 | dependency | [Weighted full-lattice weak certificate and domain](Yin_C_G0016_v1.md#statement) | Exact actual nonzero integer residues and rational PD Toeplitz weak averaging, after the ALL-representative local bound is established. |
 | dependency | [Strict first-window upper bound](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Only the separate E_d<1 conclusion for actual monic irreducible nontorsion units; no optimizer or uniformly positive deficit. |
 | dependency | [Fixed original-Lehmer input](../ledger/Yin_L_G0055_v1.md#lehmer-joint-prime-control) | Actual original degree10 irreducible reciprocal Salem/nontorsion identity for the explicit application, with no new native/source audit. |
@@ -112,7 +112,7 @@ The recorded review description was `under review`.
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | Actual reciprocal flatP/O_0, first allowed windowd and ALL real representatives of nonzero integer residues; strict input-dependent floor and exact original-Lehmer application only. |
-| argument | [Argument](#argument) | Complete04:10 D21 Sections1--7/equations1--23; local full projection/short-set proof, original Newton/trace identity, all-real kernel cases and every hand recurrence/cost boundary. |
+| argument | [Argument](#argument) | Complete 2026-10-11T20:10 D21 Sections1--7/equations1--23; local full projection/short-set proof, original Newton/trace identity, all-real kernel cases and every hand recurrence/cost boundary. |
 | dependency | [Dependency](Yin_C_G0016_v1.md#statement) | Exact actual nonzero integer residues and rational PD Toeplitz weak averaging, after the ALL-representative local bound is established. |
 | dependency | [Dependency](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Only the separate E_d<1 conclusion for actual monic irreducible nontorsion units; no optimizer or uniformly positive deficit. |
 | dependency | [Dependency](../ledger/Yin_L_G0055_v1.md#lehmer-joint-prime-control) | Actual original degree10 irreducible reciprocal Salem/nontorsion identity for the explicit application, with no new native/source audit. |
@@ -133,7 +133,7 @@ The recorded review description was `under review`.
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | Actual reciprocal flatP/O_0, first allowed windowd and ALL real representatives of nonzero integer residues; strict input-dependent floor and exact original-Lehmer application only. |
-| argument | [Argument](#argument) | Complete04:10 D21 Sections1--7/equations1--23; local full projection/short-set proof, original Newton/trace identity, all-real kernel cases and every hand recurrence/cost boundary. |
+| argument | [Argument](#argument) | Complete 2026-10-11T20:10 D21 Sections1--7/equations1--23; local full projection/short-set proof, original Newton/trace identity, all-real kernel cases and every hand recurrence/cost boundary. |
 | dependency | [Dependency](Yin_C_G0016_v1.md#statement) | Exact actual nonzero integer residues and rational PD Toeplitz weak averaging, after the ALL-representative local bound is established. |
 | dependency | [Dependency](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Only the separate E_d<1 conclusion for actual monic irreducible nontorsion units; no optimizer or uniformly positive deficit. |
 | dependency | [Dependency](Yin_C_G0226_v1.md#lehmer-joint-prime-control) | Actual original degree10 irreducible reciprocal Salem/nontorsion identity for the explicit application, with no new native/source audit. |
@@ -149,23 +149,23 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T21:33 |
 | status | proved |
-| reason | Adopt the separately assigned isolated complete mathematical inspection of this actual fixed statement and entire selected argument. Its recorded initial finding preceded all old target verdicts and substantive target-development context was not shared. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
+| reason | Adopt the separately assigned complete mathematical inspection of this actual fixed statement and entire selected argument at its actual SELF relationship. Its recorded initial finding preceded old target verdict comparison, but the initial fixed argument included completed author-validation conclusions beyond the necessary mathematical derivation. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | Actual reciprocal flatP/O_0, first allowed windowd and ALL real representatives of nonzero integer residues; strict input-dependent floor and exact original-Lehmer application only. |
-| argument | [Argument](#argument) | Complete04:10 D21 Sections1--7/equations1--23; local full projection/short-set proof, original Newton/trace identity, all-real kernel cases and every hand recurrence/cost boundary. |
+| argument | [Argument](#argument) | Complete 2026-10-11T20:10 D21 Sections1--7/equations1--23; local full projection/short-set proof, original Newton/trace identity, all-real kernel cases and every hand recurrence/cost boundary. |
 | dependency | [Dependency](Yin_C_G0016_v1.md#statement) | Exact actual nonzero integer residues and rational PD Toeplitz weak averaging, after the ALL-representative local bound is established. |
 | dependency | [Dependency](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Only the separate E_d<1 conclusion for actual monic irreducible nontorsion units; no optimizer or uniformly positive deficit. |
 | dependency | [Dependency](Yin_C_G0226_v1.md#lehmer-joint-prime-control) | Actual original degree10 irreducible reciprocal Salem/nontorsion identity for the explicit application, with no new native/source audit. |
 | support | [Support](Yin_C_G0021_v1.md#statement) | Its proved dense coefficient shape, older nonstrict floor and first-window/window limit are comparison only; the NEW reciprocal trace perturbation is NOT applied to this nonreciprocal family. |
 | dependency | [Dependency](Yin_C_G0022_v1.md#statement) | Its proved dense reciprocal family and first-window limit, comparison only; no new family proof is inferred. |
 | dependency | [Dependency](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Applied ONLY to actually existing rational complementary packets with their original norms, contents, true q/M and actual width, not to infer a Mahler bound from the new lower certificate. |
-| review | [Isolated complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-strict-reciprocal-flat) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial independent reconstruction precedes old target verdict comparison. |
+| review | [Complete current SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-strict-reciprocal-flat) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial direct reconstruction precedes old target verdict comparison. |
 
 ## Argument
 
-The COMPLETE04:10 D21 author freeze follows unchanged apart from first-title depth and final whitespace.
+The complete mathematics, necessary evidence, original dates and actual review scopes of the 2026-10-11T20:10 D21 author freeze are retained below.
 Its local nearest-coordinate argument supplies the full integer minimum and equality set directly, so allocation-era pending C25/D20 was guidance rather than an unresolved logical premise.
 The actual scalar-field Newton derivation and reciprocal trace are also present locally; L10 is credited ancestry, not an unproved proof left behind a redirect.
 The general and particular mathematical contributions of root remain disclosed, and actual checking is author work until the separate review completes.
@@ -189,13 +189,6 @@ For an ACTUAL monic irreducible nontorsion RECIPROCAL integer-unit P of degree d
 Test whether a rational positive-definite Toeplitz perturbation gives E_d >= (n-1)/n+1/(8 n^2 L^2), where L=max(1,sum_(h=1)^d |2s_h/d|) and s_h is the full ORIGINAL Newton sum.
 The bound must hold for EVERY representative of every nonzero actual integer residue, with the kernel error fully paid.
 No exact optimizer, uniform deficit, near-one sequence or unrestricted gap is asserted.
-
-## Pre-development boundary
-
-Responsible mathematical home allocated before sustained derivation.
-Bounded reuse precedes the proof; D20's current adoption/interface must be checked rather than silently assumed.
-No native mathematical program, solver, enumeration, source intake, numerical evaluation of L or new J is authorized or run.
-All substantive proof attempts and useful failures belong here.
 
 <a id="strict-flat-first-window-reuse"></a>
 ## 1. Reuse, pending interfaces and the changed question
@@ -553,16 +546,5 @@ All shortest-vector actual denominators, primitive numerator contents, full orig
 No unknown norm inventory was assigned to arbitrary residues.
 Dense-family consistency and the no-wider-window/no-overorder/no-nonflat/no-nonreciprocal extension limits remain.
 Root supplied both the substantive general candidate and the explicit original-Lehmer candidate and is an AUTHOR contributor; this self-check is not independent review.
-The scoped material check passed before this paragraph and is repeated on the final file, verifying structure/locators only.
 
-The COMPLETE current D21 is author-frozen for separately organized whole noncontributor review and later root C registration/adoption.
-No native mathematical program, solver, enumeration, numerical evaluation of L, source intake or new J was run; no further author mathematical action is pending under this assignment.
-G0001 remains active and unrestrictedly unresolved.
-
-
-## Registration and preservation operation
-
-2026-10-11T20:15: physically retain the ENTIRE2026-10-11T20:10 D21 author freeze as the selected argument.
-Separate whole and actual C review will inspect the complete statement, general cases, hand application and current interfaces before adoption.
-Working-address retirement follows full preservation and incoming-reference maintenance.
-No native program, new execution allowance or unrestricted Task completion accompanies registration.
+No native mathematical program, solver, enumeration, numerical evaluation of L, source intake or new J was run.

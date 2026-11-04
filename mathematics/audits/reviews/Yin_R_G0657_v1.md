@@ -7,8 +7,8 @@ author: Yin
 Date: 2026-10-21T21:03.
 Human operator: Yin.
 The checking agent read all219original L189 lines, all84original R88 lines and the entire actual306-line published open C452 statement, argument, decision and remaining limits.
-It checked the needed complete C432 arbitrary-negative-cost statement and sparse construction, C420 chronological joint neutral/finite-cover/actual-strip conventions, C439 full finite compact-certificate criterion, and C402 original degree-ten narrow co-return, coefficient-box returning slab and earlier fixed length/probability result.
-The actual C402 narrow slab proof was reread directly; no broad-core unboundedness was silently substituted for the narrow domain.
+It checked the needed complete C428 arbitrary-negative-cost statement and sparse construction, C416 chronological joint neutral/finite-cover/actual-strip conventions, C435 full finite compact-certificate criterion, and C399 original degree-ten narrow co-return, coefficient-box returning slab and earlier fixed length/probability result.
+The actual C399 narrow slab proof was reread directly; no broad-core unboundedness was silently substituted for the narrow domain.
 No adequate existing Claim contained the full new nonzero-endpoint uniform-cover and constant radial-decrease theorem.
 The necessary9002-character original Inputs/Sections1--3/equations(1)--(8) proof is retained modulo same-object homes and accurate current relationship wording.
 The agent rederived every implication below.
@@ -41,12 +41,12 @@ No numerical experiment, source/PDF reading, mathematical producer/native run, p
 Every statement uses the same fixed Salem beta in(1,phi), actual order O, all s neutral conjugate pairs and their unweighted Euclidean norm.
 The word order, inverse-power displacement and final orthogonal factor are exact for digits{-1,0,1}.
 Appending zeros adds no displacement in this chronological convention, though it rotates the endpoint further.
-The input C432 supplies every real threshold, not merely strict negativity.
+The input C428 supplies every real threshold, not merely strict negativity.
 
 For arbitrary real x in[1/2,1], a zero-ending original word would express x=-beta^-n P_w(beta) in O because beta is a unit.
 Thus outside O no such word exists.
 For x in O, applying each neutral embedding to its exact zero equation gives c_w=-z_x for every zero-ending word, regardless of length.
-A threshold strictly below both zero and-u.z_x excludes all of them simultaneously while the C432 word remains strictly narrow and negative.
+A threshold strictly below both zero and-u.z_x excludes all of them simultaneously while the C428 word remains strictly narrow and negative.
 This gives a nonzero endpoint at every(x,u), without any continuous extension of the algebraic embedding x->z_x outside O.
 
 For one successful word the affine real endpoint and linear directional cost are continuous in the actual independent product variables(x,u).
@@ -95,15 +95,15 @@ Conversely an all-N linear zero-return assertion restricts to every actual membe
 The premise concerns the entire actual compact set, not only sampled or already returning states.
 No uniform numerical cover constants or compact termination for every beta have been proved.
 
-C402 supplies the original irreducible degree-ten Lehmer beta in(117/100,118/100), hence below phi, and narrow co-return for all actual N states.
+C399 supplies the original irreducible degree-ten Lehmer beta in(117/100,118/100), hence below phi, and narrow co-return for all actual N states.
 It therefore discharges the compact-termination premise for that input.
 The new result improves its coarser O(rho^2 log(1+rho)) chosen-word estimate without invalidating or rewriting that historical proof or its computational certificates.
-The separate quartic input above phi is outside this C432 application.
+The separate quartic input above phi is outside this C428 application.
 For any zero-ending word z_x+c_w=0 and each digit vector has norm at most sqrt(s), giving rho(x)<=n sqrt(s).
 Thus every such word has n>=rho(x)/sqrt(s), with the same norm as the upper bound.
 
 The required unbounded sequence lies in the upper bound's narrow domain.
-C402 contains the actual slab |x_+|<=1,|x_-|<=beta in its return core.
+C399 contains the actual slab |x_+|<=1,|x_-|<=beta in its return core.
 Its degree-ten coefficient box has(N+1)^10 distinct states, the two-real-cell pigeonhole step gives an unbounded count of differences with |x_+|<1,|x_-|<beta, and beta<S.
 If their neutral radii were bounded, the full lattice and bounded real coordinates would leave only finitely many states.
 Their radii are therefore unbounded inside N.

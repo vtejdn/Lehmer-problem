@@ -8,9 +8,9 @@ Human record author Yin.
 Root separately reviews entropy_attainment_bridge's complete fixed L417, retained without mathematical change from its author-ready2026-10-18T16:48 body.
 Root asked the mass/defect question and permitted the fixed-overlap investigation, but supplied no classification, probability bound, energy argument or repair.
 This is nonblind review: author messages, complete draft and its final sixteen formulas and eight input rows were available.
-Root contributed to upstream C170 and L409; their separate R556/R560 findings are reused at the actual interfaces, not relabelled as new independent upstream audits.
-L411/R562 and the whole actual-core L170/R69 and L309/R208 domains are also retained unchanged.
-Root earlier independently reviewed the narrower L415 b2 construction in R569; that does not itself cover the new classification or complete mass result.
+Root contributed to upstream C170 and L409; their separate [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding)/R414 findings are reused at the actual interfaces, not relabelled as new independent upstream audits.
+L411/R416 and the whole actual-core L170/R69 and L309/R208 domains are also retained unchanged.
+Root earlier independently reviewed the narrower L414 b2 construction in R423; that does not itself cover the new classification or complete mass result.
 No mathematical computation, new external input or source-proof audit was used.
 
 ## Review relationships
@@ -32,11 +32,11 @@ No mathematical computation, new external input or source-proof audit was used.
 | [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Actual open-strip core](../../ledger/Yin_L_G0170_v1.md#exact-salem-return-strip) | Explicit quartic narrow-core premise, integral boundary and reciprocal involution, with R69 accepted scope. |
 | [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Paid all-core paths](../../ledger/Yin_L_G0309_v1.md#quartic-full-core-linear-return) | A_D rho+B_D at this quartic, every original digit and onset, with R208 accepted scope. |
 | [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Forced original motion](../../ledger/Yin_L_G0319_v1.md#actual-forced-boundary-segments) | Forward threshold B/beta; incoming and no-merging arguments checked anew in L417. |
-| [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Full C170 operator](../../claims/Yin_C_G0170_v1.md#short-overlap-operator-and-energy) | Any b<n, original full-word conditional expectations and n+b digit-work clock, via separate R556. |
+| [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Full C170 operator](../../claims/Yin_C_G0170_v1.md#short-overlap-operator-and-energy) | Any b<n, original full-word conditional expectations and n+b digit-work clock, via separate [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding). |
 | [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Complete endpoint reduction](../../claims/Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix) | Actual tail/middle multiplicities and word-component correspondence; no use of its n>=5 spectral formula to infer an unsupported shorter-length result. |
 | [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Gapped support interface](../../ledger/Yin_L_G0353_v1.md#general-conditioning-amplification) | Original binary-difference collision identity on the same outside support; not a chronological p_(2k) replacement. |
-| [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Exact finite-component defect](../../ledger/Yin_L_G0409_v1.md#bulk-component-defect) | Component-mean convexity and precise scope of coarsening, via separate R560. |
-| [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Original mass normalization](../../ledger/Yin_L_G0411_v1.md#seed-path-load-and-mass) | Complete return ratios and autocorrelation, generalized with actual p_h at h>4, via separate R562. |
+| [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Exact finite-component defect](../../ledger/Yin_L_G0409_v1.md#bulk-component-defect) | Component-mean convexity and precise scope of coarsening, via separate R414. |
+| [Whole isolated-mass finding](#isolated-mass-whole-independent-finding) | [Original mass normalization](../../ledger/Yin_L_G0411_v1.md#seed-path-load-and-mass) | Complete return ratios and autocorrelation, generalized with actual p_h at h>4, via separate R416. |
 
 <a id="isolated-mass-whole-independent-finding"></a>
 ## Whole finding

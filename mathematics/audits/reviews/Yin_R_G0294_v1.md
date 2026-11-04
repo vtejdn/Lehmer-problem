@@ -6,10 +6,11 @@ author: Yin
 Date: 2026-10-12T13:13.
 Human record author Yin.
 Separately assigned noncontributor AI reviewer g0001_routes inspected the ACTUAL C69 after allocation.
-Root authored D24 and its scaling correction. g0001_review_recovery authored its original negative R291 and corrected whole R292, and then the C69 wrapper.
+Root authored D24 and its scaling correction.
+g0001_review_recovery authored its original negative R291 and corrected whole R292, and then the C69 wrapper.
 This reviewer contributed neither D24's new mathematics/correction nor C69's statement or extraction.
-The reviewer DID author the ancestor C66 proof and wrapper; that accepted input is reused through its separately performed R380/R384v2 and current selected decision, not freshly self-certified here.
-R384v2's actual extraction relationship is now self-reviewed for its disclosed same-target context; its checking remains at the exact recorded scope and is not new independent coverage of C66 here.
+The reviewer DID author the ancestor C66 proof and wrapper; that accepted input is reused through its separately performed R285/R289 v2 and current selected decision, not freshly self-certified here.
+R289 v2's actual extraction relationship is now self-reviewed for its disclosed same-target context; its checking remains at the exact recorded scope and is not new independent coverage of C66 here.
 No external referee or formal verification is claimed.
 
 ## Actual scope, preservation and prior evidence
@@ -24,7 +25,6 @@ The actual date, mathematical findings and exact target scope remain unchanged.
 
 A direct operational text comparison against the actual corrected D24 gives EXACT equality of the retained body after ONLY duplicate-front-matter removal, first-title demotion and line-ending/terminal-whitespace normalization: 21,652 characters,186 lines and all10 explicit anchors in original order.
 No path rebasing or mathematical deletion was needed.
-The inspected C69 SHA256 is ca867668aea580322b7e7ca6d3372e8346c1c2125d82b84a0fc247c19ee84131.
 The preserved first freeze and pending-adoption sentences remain dated history, not the current Claim decision.
 This comparison is preservation evidence, not mathematical proof.
 

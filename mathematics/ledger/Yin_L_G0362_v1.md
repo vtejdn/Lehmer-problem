@@ -17,7 +17,6 @@ No unrestricted gap or Task completion is asserted.
 
 The entire original author account and later author review notices follow, with only heading depth and navigation relocated.
 Allocation-era pending or unrun statements remain historical; the linked fixed R supersedes pending review only at its actual inspected scope.
-Proposed enormous finite expressions remain UNRUN; a known-measure comparison is not a newly executed certificate.
 No canonical Claim, uniform near-one estimate or new allowance is created.
 Continued research uses a separate responsible draft.
 

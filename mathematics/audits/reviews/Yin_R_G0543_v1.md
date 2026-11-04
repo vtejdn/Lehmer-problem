@@ -133,12 +133,16 @@ The author derived and checked the entire weighted/moving-test target,so its who
 <a id="historical-weighted-coordinator-whole-finding"></a>
 ## Original L105 coordinator whole check
 
-The complete check is real. Prompting fixed-u/rescaling boundaries alone does not identify a supplied derivation; the old collaborator label does not resolve substantive context. No contribution or its absence is guessed. Initial context is insufficient,so the exact whole finding is unknown.
+The complete check is real.
+Prompting fixed-u/rescaling boundaries alone does not identify a supplied derivation; the old collaborator label does not resolve substantive context.
+No contribution or its absence is guessed.
+Initial context is insufficient,so the exact whole finding is unknown.
 
 <a id="historical-weighted-source-whole-finding"></a>
 ## Original L105 separate whole check
 
-The complete actual review is recorded,but initial substantive author/reviewer context is unestablished. The old independent wording does not certify isolation,so this whole finding is unknown.
+The complete actual review is recorded,but initial substantive author/reviewer context is unestablished.
+The old independent wording does not certify isolation,so this whole finding is unknown.
 
 <a id="historical-defect-author-finding"></a>
 ## Original L107 author whole check
@@ -148,42 +152,53 @@ The assigned author constructed and checked the whole exact-defect theorem and c
 <a id="historical-defect-coordinator-whole-finding"></a>
 ## Original L107 coordinator whole check
 
-The explicit no-proof-contribution statement separates a requested investigation from mathematical development. The actual whole check nevertheless lacks sufficient initial substantive-context facts,so it remains unknown.
+The explicit no-proof-contribution statement separates a requested investigation from mathematical development.
+The actual whole check nevertheless lacks sufficient initial substantive-context facts,so it remains unknown.
 
 <a id="historical-defect-assess-whole-finding"></a>
 ## Original L107 separate whole check
 
-The full1–12 check and strict-supremum precision are recorded. That clarification follows the existing strict coordinate bound and decaying tails and supplies no new substantive repair. Initial substantive context is insufficient,so this whole finding is unknown.
+The full1–12 check and strict-supremum precision are recorded.
+That clarification follows the existing strict coordinate bound and decaying tails and supplies no new substantive repair.
+Initial substantive context is insufficient,so this whole finding is unknown.
 
 <a id="historical-repeated-assembler-finding"></a>
 ## Original L108 assembling-author whole check
 
-The agent authored the conditional-information proof,monotonicities and domain work,and checked the scalar ingredient as part of its own assembly. This complete author finding is self-review.
+The agent authored the conditional-information proof,monotonicities and domain work,and checked the scalar ingredient as part of its own assembly.
+This complete author finding is self-review.
 
 <a id="historical-repeated-coordinator-whole-finding"></a>
 ## Original L108 coordinator main contribution and whole check
 
-The credited endpoint chain-rule/leverage mathematical argument proposal is development of this target main chain,while the assembler supplied its full conditional proof. The coordinator subsequent whole check is self-reviewed; no unrecorded conditional or scalar derivation is attributed to it.
+The credited endpoint chain-rule/leverage mathematical argument proposal is development of this target main chain,while the assembler supplied its full conditional proof.
+The coordinator subsequent whole check is self-reviewed; no unrecorded conditional or scalar derivation is attributed to it.
 
 <a id="historical-repeated-coordinator-scalar-finding"></a>
 ## Original L108 coordinator scalar check scope
 
-This is the scalar10–11 scope of the same recorded complete check,not a new occurrence. Earlier contribution to the main chain does not itself certify or disqualify isolation for this separately supplied scalar derivation. Sufficient initial substantive context for that claimed independent scope is absent,so it is unknown.
+This is the scalar10–11 scope of the same recorded complete check,not a new occurrence.
+Earlier contribution to the main chain does not itself certify or disqualify isolation for this separately supplied scalar derivation.
+Sufficient initial substantive context for that claimed independent scope is absent,so it is unknown.
 
 <a id="historical-repeated-assess-scalar-finding"></a>
 ## Original L108 scalar contributor verification
 
-The all-k scalar comparison/telescope10–11 is the agent own contribution. Its assembly verification of that part is self-review.
+The all-k scalar comparison/telescope10–11 is the agent own contribution.
+Its assembly verification of that part is self-review.
 
 <a id="historical-repeated-assess-outside-finding"></a>
 ## Original L108 scalar contributor check outside own derivation
 
-The actual final check explicitly excludes its own scalar proof and includes the final small-m paragraph. Contribution to10–11 alone does not decide the other scope. Sufficient initial substantive context is absent,so this exact outside-contribution finding is unknown rather than enlarged to independent whole review.
+The actual final check explicitly excludes its own scalar proof and includes the final small-m paragraph.
+Contribution to10–11 alone does not decide the other scope.
+Sufficient initial substantive context is absent,so this exact outside-contribution finding is unknown rather than enlarged to independent whole review.
 
 <a id="historical-repeated-source-whole-finding"></a>
 ## Original L108 separate whole check
 
-The actual complete final1–12 check includes both contributed mechanisms and all domain/expansion/interface limits. Its initial substantive context is unestablished,so the old independent label alone does not certify this whole finding; it remains unknown.
+The actual complete final1–12 check includes both contributed mechanisms and all domain/expansion/interface limits.
+Its initial substantive context is unestablished,so the old independent label alone does not certify this whole finding; it remains unknown.
 
 ## Complete original L105 checking account
 

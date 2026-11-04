@@ -22,11 +22,15 @@ L168 is reused only as the old upper cyclic-cost comparison; no new lower arithm
 C62/C63 are only the motivating narrower below-one barriers.
 Existing ancestor source acceptances, including Pri11/Dim19 and ABR01 attribution, retain their exact old inspection depths; this review does not newly audit those source-original proofs.
 
+The initial C66 input included its author completion and validation summary beyond the necessary derivation.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole biased-product finding](#biased-sign-product-whole-independent-finding) | independently reviewed |
+| [Whole biased-product finding](#biased-sign-product-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

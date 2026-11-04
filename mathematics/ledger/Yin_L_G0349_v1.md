@@ -326,7 +326,6 @@ Author self-check covered: the actual L346 whole polynomial and all restored q f
 
 No mathematical program, numerical extension, new J, root scan or finite experiment was executed.
 The earlier complete J82 evidence is reused only at its retained L346 scope; none of its undecided finite root products is relabeled solved by this asymptotic theorem.
-The local search initially used a PowerShell-incompatible rg wildcard path and then succeeded with rg's own glob option; that operational search retry produced no mathematical evidence or changed computation domain.
 
 Source attribution is deliberately bounded.
 The circular Mahler/Jensen identity is classical and already explicitly accepted in Smy08-U001, including integrable circle zeros; that exact passage was reread.

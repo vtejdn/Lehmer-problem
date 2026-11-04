@@ -6,7 +6,7 @@ author: Yin
 
 Recorded 2026-10-21T23:58 for human record author Yin.
 The maintaining agent checked the entire registered mathematical home and its actually necessary interfaces.
-Current whole SELF, original complete author SELF and the original R540 whole UNKNOWN arrangement are separate real scopes.
+Current whole SELF, original complete author SELF and the original R395 whole UNKNOWN arrangement are separate real scopes.
 
 ## Review relationships
 
@@ -33,8 +33,8 @@ Current whole SELF, original complete author SELF and the original R540 whole UN
 
 Date: 2026-10-21T23:58.
 PASS for the entire actual C484 Statement and complete retained L399 argument, all six original sections and formulas1--23, exact arbitrary-A and subset gates, every unit/degree/weight/own-output height domain, all source, control, contribution and remaining boundaries.
-The constructor read the entire original L399, original complete R540, all three necessary source/family interfaces and the actual comparison scopes.
-A targeted search of current C and S consumers found no adequate complete C for these six sections; the current dated S1 adoption still points to L399/R540.
+The constructor read the entire original L399, original complete R395, all three necessary source/family interfaces and the actual comparison scopes.
+A targeted search of current C and S consumers found no adequate complete C for these six sections; the current dated S1 adoption still points to L399/R395.
 The present maintaining agent has read and organized the original proofs and shares their development context, so this whole finding is SELF.
 It does not replace the original whole arrangement with a new isolated label.
 
@@ -80,16 +80,16 @@ Gent21-U001 supplies only the exact normalized q/common-field/AMGM facts with th
 Smy08-U001 supplies the full total-measure/primitive-minimal-polynomial/finite-place convention, without its lower-bound or questioned resultant assertion.
 Bil97 and C159 remain comparisons only: the former fixes function/arity and independence, while the earlier pair-ratio application of the latter needed nontorsion ratios and a small angular domain.
 The actual present C159 Statement does not become an additional hypothesis here.
-L318's complete weighted-integer/Fourier inequality, C381's inverse-pair circle obstruction and C410's actual relative-unit norm/weight domain are distinct comparison mechanisms, not premises of this rational hull theorem.
+L318's complete weighted-integer/Fourier inequality, C378's inverse-pair circle obstruction and C407's actual relative-unit norm/weight domain are distinct comparison mechanisms, not premises of this rational hull theorem.
 Only their exact current same-object locators replace the latter two old L links in the retained copy.
 No new external PDF reading, acquisition, native program, research experiment, proof-assistant check, nonlinear exclusion, integral-output existence, output-degree bound or original Mahler gap is asserted.
 
-Original R540 received successive author descriptions and preliminary D43 variants before its whole inspection.
+Original R395 received successive author descriptions and preliminary D43 variants before its whole inspection.
 The actual additional target mathematics and its ordering do not establish the required initial isolation, so its ENTIRE original whole relationship is UNKNOWN at all of its old bindings.
-Its complete mathematical PASS, original2026-10-18T13:05 date and accepted-input scope remain unchanged.
+Its complete mathematical PASS, original 2026-10-18T13:05 date and accepted-input scope remain unchanged.
 Authorship of upstream C160 or Bil97 alone is not target contribution and does not justify SELF.
-The actual original three-contributor whole author check is separately retained as SELF at its stated complete scope, without inventing an individual checking minute from the21:00 document date.
-The21:13 S1 adoption remains the historical act using the then fixed L399/R540, rather than adopting this later R.
+The actual original three-contributor whole author check is separately retained as SELF at its stated complete scope, without inventing an individual checking minute from the 2026-10-18T13:00 document date.
+The 2026-10-18T13:13 S1 adoption remains the historical act using the then fixed L399/R395, rather than adopting this later R.
 The original reviewer's direct Gent21 primary text-reading occurrence is distinct from the source author's visual/text work and is retained at its adequate existing U; this construction creates no new primary reading.
 
 <a id="original-conjugate-combination-author-check-finding"></a>
@@ -98,6 +98,6 @@ The original reviewer's direct Gent21 primary text-reading occurrence is distinc
 The original complete L399 expressly records root, loglog_cyclic_review and entropy_attainment_bridge as contributors to this unified argument.
 Their actual completed author checks cover all six sections, Hilbert identity at arbitrary A, signed/subset exceptions, both radial signs, real family control, complete direct-difference/Jensen/norm/own-height proof, all thresholds, finite places and every zero/single/consolidation boundary.
 This is whole author SELF at the exact original account, including all input/comparison and remaining limits.
-The document date is2026-10-18T13:00; no separate individual author-check minute is supplied and none is inferred.
-It is distinct from original R540 at21:05 and S1 adoption at21:13, and from this new constructor whole SELF.
+The document date is 2026-10-18T13:00; no separate individual author-check minute is supplied and none is inferred.
+It is distinct from original R395 at 2026-10-18T13:05 and S1 adoption at 2026-10-18T13:13, and from this new constructor whole SELF.
 No contributor is relabelled independent and no new historical review event is invented.

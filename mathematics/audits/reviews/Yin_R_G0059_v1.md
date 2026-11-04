@@ -18,8 +18,7 @@ The coordinator and reviewer both noticed this domain issue.
 The coordinator restricted the CLOZ25 involution comparison to c nonidentity, including every Salem input, and explicitly returned the c=1, u=0 case to the earlier complete-splitting comparison.
 The temporary source-note link was also replaced by its canonical source-screen entrance; no formula changed.
 
-The reviewer read the corrected passages and verified the complete
-286-line corrected candidate.
+The reviewer read the corrected passages and verified the complete 286-line corrected candidate.
 
 It closed both findings and reported no remaining substantive defect or missing hypothesis.
 Review covered the exact original degree-d norm, conjugation of the inversion relation, field-unramified domain and power-basis-index distinction; binomial lifting including p=2;
@@ -28,8 +27,7 @@ cycle type versus inverse-pair matching and the natural Galois-action restrictio
 and the full splitting-field degree/discriminant costs, identity case, source applicability and unrestricted-domain boundaries.
 
 The reviewer had performed only a bounded local reuse inspection before this assignment and contributed no proof design, derivation, edit or mathematical computation to this candidate.
-The authors'
-contributions are disclosed in the opening paragraph.
+The authors' contributions are disclosed in the opening paragraph.
 This is complete independent AI written review, not blind, human or formal review.
 The fixed L74/L75/BS96 and quartic interfaces retain their existing review scopes; their full source proofs were not newly re-audited.
 CLOZ25 was checked only at its recorded statement/applicability scope, not adopted as a new proof premise or audited in full.

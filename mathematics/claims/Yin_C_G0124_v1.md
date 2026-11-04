@@ -17,9 +17,9 @@ For finite distinct positive integer orders with actual capacities0<w_o<=phi(o),
 A bounded GLOBAL mean of terminal omega is to be reduced to this statement with the exact pruned mass and triple loss, not by asserting that every conditional ancestor law has the same mean.
 The desired actual polynomial application must retain original root counts, signed norms, the physical multiplier B and full original degree.
 
-Read the actual adopted C114, C119, C121 v2 and R477.
+Read the actual adopted C114, C119, C121 v2 and [R798 original residual-capacity](../audits/reviews/Yin_R_G0798_v1.md#residual-capacity-v2-whole-independent-finding).
 C114 proves finite-core good-pair capture and bounded mean ORIGINAL omega; C119 supplies a canonical prime-power stripping tree and comparable stopping nodes for compatible triples; C121 v2 settles exact merged residual capacities, gives a directed relative-remainder sufficient certificate, and preserves the conditional/global aggregation gap.
-R477's comparison correction is binding: its examples show bounded means are not REQUIRED by a different certificate, not inclusion of every bounded-mean class.
+[R798 original residual-capacity](../audits/reviews/Yin_R_G0798_v1.md#residual-capacity-v2-whole-independent-finding)'s comparison correction is binding: its examples show bounded means are not REQUIRED by a different certificate, not inclusion of every bounded-mean class.
 The root's present pruning proposal avoids that old conditional-law shortcut but does not itself resolve aggregation.
 
 The applicable framework0.14.0 entry/workflow, content-retention, Claim, knowledge-reuse, execution and operator rules were refreshed.

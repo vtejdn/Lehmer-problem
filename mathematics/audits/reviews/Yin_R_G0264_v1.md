@@ -34,11 +34,16 @@ This finding covers this complete D11 body and its actual uses.
 It does NOT cover any future fixed Claim statement, extraction, decision or changed assembly.
 The unchanged [G0001 contract](../../tasks/Yin_T_G0001_v1.md#contract) is not completed by these degree-dependent statements.
 
+Before the first freeze, the reviewer received the author's candidate constants and intended mechanism; the later whole read also included the author checking account.
+Those additional development inputs remain distinct from the necessary frozen proof.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole-proof finding](#effective-first-window-whole-finding) | independently reviewed |
+| [Whole-proof finding](#effective-first-window-whole-finding) | self-reviewed |
 
 ## Review bindings
 

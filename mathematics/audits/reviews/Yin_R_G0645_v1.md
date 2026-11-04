@@ -35,7 +35,7 @@ author: Yin
 ## Current entire congruence theorem finding
 
 Date: 2026-10-21T20:12.
-The maintaining agent supplied this complete C home after reading all original L258/R157 and every J58 program/native payload, so this is SELF rather than an isolated agent review.
+The maintaining agent supplied this complete C home after reading all original L258/R119 and every J58 program/native payload, so this is SELF rather than an isolated agent review.
 The whole C442 statement and argument, all original Sections1--5/equations1--8, exact needed C429 seed/endpoint/order/secondary interfaces, C2 literal cover, L246 actual control and L191 cheaper control were checked at their complete consumed scopes.
 No original mathematical repair was required and no source-proof audit was added.
 
@@ -74,7 +74,7 @@ The complete returned native object matched in1.18s and every program/readme/nat
 No author SymPy producer, author840 interpolation-node/5040 scalar-check rerun, new modulus/input, floating decision, source passage/PDF or Task/E execution occurred.
 The initial structural SymPy equality failure remains explicit history and is not claimed rerun.
 The whole theorem passes at SELF scope, with every all-integer quantifier, finite failure, target/ordering boundary, root/neutral/full-cost limit intact.
-Original R157 is also known SELF because it received counts and the proposed extension before checking; distinct implementation does not change that disclosed agent context.
+Original R119 is also known SELF because it received counts and the proposed extension before checking; distinct implementation does not change that disclosed agent context.
 
 <a id="second-root-original-author-finding"></a>
 ## Original full author check

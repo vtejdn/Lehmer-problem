@@ -22,11 +22,15 @@ No proof-generation dialogue, separate author explanation or previous D10 indepe
 The directly required L353, L335, L342 and L332 passages were read after the initial target reconstruction, along with the retained Smy08 Kronecker statement.
 Existing R335 was consulted only as an unrelated fixed-review table-format example, not as a verdict or proof input for D10.
 
+The initial complete C45 input included its outcome discussion and author validation checklist beyond the necessary derivation.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole finding](#complete-fiber-whole-independent-finding) | independently reviewed |
+| [Whole finding](#complete-fiber-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

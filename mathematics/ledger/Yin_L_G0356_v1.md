@@ -14,7 +14,6 @@ It supplies no unrestricted Mahler gap and does not complete G0001.
 
 The entire original author account and subsequent author response/review notices follow, with only navigation relocated.
 Allocation-era unrun or pending-review statements are historical and are superseded for the exact inspected scope by the linked fixed review.
-For the multiplier account, the initial review's two scope findings and their actual repairs remain visible through R256/R257.
 No canonical Claim is registered by this retention.
 The Task and all eight routes remain active and unresolved; continued work has a separate draft home.
 

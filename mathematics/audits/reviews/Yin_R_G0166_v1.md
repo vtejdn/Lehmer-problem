@@ -128,7 +128,8 @@ Fixed adoption and the unrestricted Task's status belong to the coordinator; thi
 
 ## Review relationships
 
-The original account discloses the fixed author proof and shared progress reports and records no target-proof contribution. The mathematical contents and initial ordering of those reports, and any inherited substantive target-development context, are not established; authorship of fixed upstream inputs alone does not make this self.
+The original account discloses the fixed author proof and shared progress reports and records no target-proof contribution.
+The mathematical contents and initial ordering of those reports, and any inherited substantive target-development context, are not established; authorship of fixed upstream inputs alone does not make this self.
 
 | Review | Relationship |
 | --- | --- |

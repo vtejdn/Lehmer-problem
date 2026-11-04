@@ -1,6 +1,6 @@
 # Smy08 source audit
 
-The identifies the unchanged [retained author preprint](../../../literature/pdf/Smy08.pdf), arXiv:math/0701397v2, 28 January 2008, of Chris Smyth's survey chapter.
+The inspected edition is the unchanged [retained author preprint](../../../literature/pdf/Smy08.pdf), arXiv:math/0701397v2, 28 January 2008, of Chris Smyth's survey chapter.
 Printed page = PDF page +321.
 The existing artifact was reused and rehashed.
 This source audit was explicitly requested by Yin on 2026-10-06; it does not allocate a new research Task or change the single Lehmer Task's strategy ordering.

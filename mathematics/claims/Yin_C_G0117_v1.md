@@ -170,7 +170,7 @@ The coefficient vector of
 \]
 
 has every one of its \(d+1\) coefficients nonzero.
-Thus the unique real maximizing Gram \(gg^T\), whose objective is \(\lambda^2\) by C103/F109, has all \(d+1\) diagonal entries strictly positive.
+Thus the unique real maximizing Gram \(gg^T\), whose objective is \(\lambda^2\) by C103/C_F6, has all \(d+1\) diagonal entries strictly positive.
 Each coefficient of \(G\) lies in \(\mathbb Z[\lambda]\).
 This identifies necessary structure of the optimizer; choosing the unknown \(\lambda\) is not a new certificate-construction algorithm.
 
@@ -443,7 +443,7 @@ No coefficient field for \(Q\), denominator restriction, small-height certificat
 <a id="full-support-outer-optimizer-proof"></a>
 ### 7. Every coefficient of the exact outer optimizer is nonzero
 
-C103/F109 already identify(12) as the outer polynomial and \(gg^T\) as the unique real maximizing Gram of objective \(\lambda^2\).
+C103/C_F6 already identify(12) as the outer polynomial and \(gg^T\) as the unique real maximizing Gram of objective \(\lambda^2\).
 We prove the new support statement.
 For every \(0\le j\le d\),
 

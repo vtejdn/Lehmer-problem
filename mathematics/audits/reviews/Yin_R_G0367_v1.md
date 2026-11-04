@@ -24,7 +24,7 @@ The fixed Claim was not changed.
 The initial shared history and author self-check do not sufficiently establish isolation before the first mathematical judgment.
 Earlier source-only preparation, fixed-input reviews and a reminder of an already proved comparison do not themselves make this reviewer a contributor to the new defect proof.
 The whole finding therefore has an unknown relationship; original dates, mathematical checks and exact binding scopes remain unchanged, with no new review performed.
-J96's independent native wording in the preserved comparison binding records its historical designation; the current R509 whole analytic/native relationship is unknown.
+J96's independent native wording in the preserved comparison binding records its historical designation; the current R365 whole analytic/native relationship is unknown.
 
 ## Review relationships
 

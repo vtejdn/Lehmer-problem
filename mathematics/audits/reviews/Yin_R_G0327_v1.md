@@ -14,16 +14,20 @@ The reviewer made no target edit and developed no author repair.
 The target is the ENTIRE [D50 eight-power candidate](../../claims/Yin_C_G0095_v1.md#eight-power-entire-author-freeze), frozen at 2026-10-13T03:34: opening question/reuse/candidate scope, Sections 1--7, equations (A)--(B), controls, source boundaries and final author freeze.
 The actual complete text was read before the initial findings below.
 Obligations were enumerated from the statement before consulting earlier upstream review conclusions.
-The direct accepted L229/C71/C74/C84 interfaces were read and matched; after the initial mathematical findings, their existing R128/R393/R399/R420 review scopes were consulted.
-C87's exact control and R424 scope, C90/C92's comparison statements, Pri11-U001 and the retained Dim19 statement/height records were also checked at the uses specified below.
+The direct accepted L229/C71/C74/C84 interfaces were read and matched; after the initial mathematical findings, their existing [R781 original joint-coefficient](Yin_R_G0781_v1.md#joint-coefficient-energy-complete-independent-review)/[R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding)/[R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding)/[R794 v2 original C84 extraction](Yin_R_G0794_v2.md#c84-binary-height-actual-extraction-finding) review scopes were consulted.
+C87's exact control and [R794 v2 original C87 extraction](Yin_R_G0794_v2.md#c87-three-power-actual-extraction-finding) scope, C90/C92's comparison statements, Pri11-U001 and the retained Dim19 statement/height records were also checked at the uses specified below.
 No previous D50 verdict was supplied or relied on.
 D48 was neither a mathematical premise nor a substitute for this inspection; its separate review is outside this finding.
+
+The initial entire C95 input included the author validation, saved-reread and completeness conclusions beyond the necessary derivation.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Entire eight-power finding](#eight-power-entire-independent-finding) | independently reviewed |
+| [Entire eight-power finding](#eight-power-entire-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -229,9 +233,9 @@ Those are comparisons and do not create a cycle or a new premise.
 
 L229's accepted source statements remain limited to Pri11's retained 2013 arXiv v1 Theorem 3.1 at statement/applicability scope and the retained Dim19 2019 v1 house statement, via L209 and L80's exact h>=c0/N^2 consequence.
 The original external proofs and later source versions were not re-audited.
-R128 supports L229 at that boundary.
-C71's selected R393, C74's selected R399 and C84's selected R420 were checked as accepted upstream review interfaces after the initial findings; this review does not claim to re-review their unrelated theorem parts or to expand any ancestor source acceptance.
-C87's R424 supports the already accepted control.
+[R781 original joint-coefficient](Yin_R_G0781_v1.md#joint-coefficient-energy-complete-independent-review) supports L229 at that boundary.
+C71's selected [R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding), C74's selected [R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) and C84's selected [R794 v2 original C84 extraction](Yin_R_G0794_v2.md#c84-binary-height-actual-extraction-finding) were checked as accepted upstream review interfaces after the initial findings; this review does not claim to re-review their unrelated theorem parts or to expand any ancestor source acceptance.
+C87's [R794 v2 original C87 extraction](Yin_R_G0794_v2.md#c87-three-power-actual-extraction-finding) supports the already accepted control.
 All new reasoning of D50 and its actual invocations are covered above.
 
 <a id="eight-power-entire-independent-finding"></a>

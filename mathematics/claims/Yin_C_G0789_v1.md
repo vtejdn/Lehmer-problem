@@ -146,7 +146,7 @@ The source condition(i) was not needed for this binary jet realization.
 
 The low equation in SF4 implies C773 OF4.
 Indeed, reducing the new right side modulo X^(3A/2) retains exactly H_even's terms with odd j<=A/2, the original OF1 range; all added terms have larger order after their X^A multiplier.
-Thus T_b is genuinely4W-repairable for either separately selected sign by C810/C773.
+Thus T_b is genuinely4W-repairable for either separately selected sign by C768/C773.
 Apply C772's ACTUAL supported lifting for the chosen sigma to obtain an actual height-one T_4 with global F4/selected-X4.
 Its construction compares an auxiliary T_c=T_b+4W_corr with the supported output through
 

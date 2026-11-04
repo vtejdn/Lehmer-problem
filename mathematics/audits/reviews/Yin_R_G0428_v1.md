@@ -13,7 +13,7 @@ The complete author body dated2026-10-18T17:00 was checked, mechanically retaine
 The added fixed-retention wrapper is administrative and does not change any of the twelve formulas or mathematical scopes.
 
 The arrangement is nonblind.
-The reviewer had root's scope request and the author's completed-scope message, read the actual L414/L417 upstream arguments, and reused its own earlier R556 analytic review and R412 independent native-verifier role for C170/J106.
+The reviewer had root's scope request and the author's completed-scope message, read the actual L414/L417 upstream arguments, and reused its own earlier [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) analytic review and R412 independent native-verifier role for C170/J106.
 Those earlier activities did not contribute to the new low-degree proof and are not relabelled as fresh reviews or new runs here.
 The new obligations and complete proof were reconstructed before comparing the other upstream R423/R427 conclusions.
 No J106 numerical result is a premise of this new argument.

@@ -18,14 +18,14 @@ For each file the Statement was read from the actual `## Statement` to the next 
 This included every argument subsection and its final original-scope boundary, rather than a selected summary.
 The target assessment/history sections were not used to form the initial findings.
 
-Before those initial findings, the reviewer directly inspected the necessary Den09-U002 full-Lawton statement and BGMP24-U001 accepted regularization interface, the complete C432v1/C420v1/C421v3/C403v1 Statement and Argument inputs, C402v1's complete fixed-Lehmer statement, both J37/J38 programs, and the retained fixed-seed certificate fields and all root-modulus classifications.
-The C421 input was used for its complete Salem-phase independence/density argument.
-C402 supplied its already accepted actual-order narrow co-return theorem, with its original finite-certificate depth.
+Before those initial findings, the reviewer directly inspected the necessary Den09-U002 full-Lawton statement and BGMP24-U001 accepted regularization interface, the complete C432v1/C420v1/C417v3/C403v1 Statement and Argument inputs, C402v1's complete fixed-Lehmer statement, both J37/J38 programs, and the retained fixed-seed certificate fields and all root-modulus classifications.
+The C417 input was used for its complete Salem-phase independence/density argument.
+C399 supplied its already accepted actual-order narrow co-return theorem, with its original finite-certificate depth.
 No old L/R finding, J README conclusion, additional author explanation or target-development conversation was consulted before the reviewer formed and sent its autonomous four-target initial whole findings.
 Those findings identified no mathematical gap under the explicitly accepted source and fixed-seed interfaces.
 
 Only afterward the reviewer read all of L179v1, R78v1, R773v1, L182v1, R81v1, R782v1, L183v1, R82v1 and R784v1, in that order, and compared their full original whole scopes.
-It then completed the J README and all 126 original root records, including every real/imaginary/modulus/classification field, read the complete BGMP24 source account and the complete C402 argument, and checked the required C415/C416/C272 normalization and comparison interfaces.
+It then completed the J README and all 126 original root records, including every real/imaginary/modulus/classification field, read the complete BGMP24 source account and the complete C399 argument, and checked the required C412/C413/C271 normalization and comparison interfaces.
 The complete historical mathematical, source, computation, negative-control, contribution and limitation accounts were compared.
 No initial finding was replaced by an old PASS or reduced to a retention-difference check.
 
@@ -83,7 +83,7 @@ The substitution F=uv-u-1,H=1-v-uv at u=t^b,v=t^(a-b) gives exactly the original
 Expansion of the two numerator terms gives all eleven displayed G monomials, whose absolute coefficient sum is 13.
 F(1,1)=G(1,1)=-1 proves both specializations nonzero.
 The actual degree and exceptional residual leading coefficient are not replaced by a monic-factor normalization.
-C415's exact identity G_(cg)=c(t)^2c(t^2)G_g for reciprocal cyclotomic c explains the seed-Phi6 compatibility while retaining every factor in the theorem.
+C412's exact identity G_(cg)=c(t)^2c(t^2)G_g for reciprocal cyclotomic c explains the seed-Phi6 compatibility while retaining every factor in the theorem.
 
 The full integer kernel is the multiples of(a-b,-b), since gcd(b,a-b)=1.
 Its least nonzero infinity norm is q=max(b,a-b)>=a/2.
@@ -115,7 +115,7 @@ The exact U=3298534883328,V=3138428376721 and250(U-V)>12U imply log(U/V)/12>1/25
 The strict limit margin and uniform error less than 1/500 yield eventual Delta>1/500 and finitely many possible small-balance pairs.
 No assertion of emptiness, computable cutoff, finite scan completeness, selected-factor phase inequality, near-one family or unrestricted gap follows from this proof.
 
-The complete old D44/L179 argument, R78 whole finding and R773 current SELF were compared after the initial finding.
+The complete old D44/L179 argument, R78 whole finding and R626 current SELF were compared after the initial finding.
 Their mathematical, accepted-Lawton, original day-precision, non-effective, unused 45-decimal and broader-negative-family boundaries agree.
 R78's generic shared-context/progress description does not establish the actual initial mathematical contents, so its original whole relationship remains unknown.
 Its explicitly recorded complete D44 author check remains self-reviewed.
@@ -179,7 +179,7 @@ J37's program/README/certificate and J38's program/README/review output were dir
 Only this one mathematical replay was run.
 The shared FLINT/Arb library was not independently proved, and no high-degree product or specialization was expanded.
 
-The full L179/R78 original D45 scope and R773 current SELF agree with these deductions and boundaries.
+The full L179/R78 original D45 scope and R626 current SELF agree with these deductions and boundaries.
 The first qualitative fixed-k Lawton proof was valid and was strengthened before review after observing |P_k|>=1; it was not a detected proof failure and Lawton is not a current dependency.
 The original 51/10,34/5 and137/20 single-input runs remain three historical successes, not newly reconstructed execution events.
 R78's receipt of a strengthening description preserves no actual communication contents; earlier L175 authorship alone also proves no target-proof participation.
@@ -239,7 +239,7 @@ R81's old direct preprint p.11/p.14 checks, the author's publication comparison 
 No current direct PDF reading, original sublevel-proof audit, broad erratum search or full-paper adoption is claimed.
 R81's whole initial arrangement remains unknown because the actual contents of its shared context/progress reports are unestablished.
 Its explicit complete author self-check remains self-reviewed at original day precision.
-R782 remains a current authored SELF; it supplies no old isolation.
+R635 remains a current authored SELF; it supplies no old isolation.
 The present independent whole finding covers the complete original source/checkpoint/local-proof scope without changing those historical relationships.
 No numerical scan, quadrature, high-degree expansion or unrestricted gap follows.
 
@@ -250,7 +250,7 @@ PASS for the entire C435v1 Statement and Argument and every mathematical/source/
 The fixed-input co-return premise and general compact-termination question remain distinct.
 
 For beta in(1,phi), B>1 and beta^-1S+1=S.
-C432's complete arbitrary-negative-cost proof and C420's finite-selection/normalized-descent argument apply throughout the closed narrow domain after sign symmetry and zero prefixes.
+C428's complete arbitrary-negative-cost proof and C416's finite-selection/normalized-descent argument apply throughout the closed narrow domain after sign symmetry and zero prefixes.
 The exact neutral identity gives a strictly positive squared-norm drop whenever the endpoint radius is large.
 Zero prefixes rotate neutral coordinates without changing their norm.
 Repeated descent reaches a fixed finite radius, and enlarging it preserves reduction.
@@ -268,7 +268,7 @@ A failed finite horizon does not prove nonreturn, and no universal stopping boun
 
 For 0<|x_+|<1/2, zeros reach the annulus below beta/2; signs transfer the negative case.
 At x_+=0 injectivity gives x=0.
-C432's actual direction interval contains0 strictly by both sign-gap bounds, so its Section3 sparse construction supplies arbitrary negative cost there as well.
+C428's actual direction interval contains0 strictly by both sign-gap bounds, so its Section3 sparse construction supplies arbitrary negative cost there as well.
 The entire finite preliminary cost is retained in the exact shifted-direction concatenation formula.
 Choosing u.c_w<-(H+rho(x)) and applying z_y=A^n(z_x+c_w) gives rho(y)>H.
 The endpoint is narrow, stable invariance holds and backward real bounds make the whole original word legal.
@@ -295,8 +295,8 @@ For the actual Lehmer polynomial, expansion of(t+1)(t^9-t^6-t^4-t^2+t)+1 gives p
 Thus a=1/(beta+1) is the displayed element of O.
 The original digits-1,+1 give its exact two-cycle.
 Its real norm is below1/2, stable value beta/(beta+1)<1 and neutral coordinates finite.
-The complete C402 fixed-Lehmer narrow co-return theorem and C403 open-strip argument apply, so both actual states return by other words despite the cycling opposite-sign policy.
-The complete C402 proof was read after the initial finding; its original finite geometry/enumeration/path certificates are accepted inputs, with no new native execution or alternative word claimed here.
+The complete C399 fixed-Lehmer narrow co-return theorem and C400 open-strip argument apply, so both actual states return by other words despite the cycling opposite-sign policy.
+The complete C399 proof was read after the initial finding; its original finite geometry/enumeration/path certificates are accepted inputs, with no new native execution or alternative word claimed here.
 
 For the distinct degree-six input, expanding Q(t+t^-1) gives t^3-t^2-1-t^-2+t^-3.
 The six endpoint signs give three distinct trace roots in(-2,-1),(0,1),(2,sqrt5).
@@ -314,7 +314,7 @@ The real/stable two-cycle and finite neutral coordinates coexist with the same g
 This is an exact larger-module countercontrol with no actual O state in its nonzero coset.
 It contradicts neither actual-order termination nor quotient connectivity among O states.
 
-The full L183/R82 original sixth-section remaining gate, source-free algebra/graph/reuse screen, contribution and fixed-retention boundaries were compared, together with R784 current SELF.
+The full L183/R82 original sixth-section remaining gate, source-free algebra/graph/reuse screen, contribution and fixed-retention boundaries were compared, together with R637 current SELF.
 The prior golden-ratio cycle discussion is a different nonreciprocal input and supplies neither of these exact new cycles.
 R82's underlying fixed L180 authorship is ordinary dependency participation, not proof that its new-target review was SELF.
 Its actual initial progress-summary contents remain unestablished, so the old six-section whole relationship remains unknown.
@@ -326,7 +326,7 @@ No universal actual-order compact termination, original-law probability/entropy 
 The four old whole relationships in R78/R81/R82 remain unknown at their complete original bindings.
 R78's explicit complete D44 author check and R81's explicit complete D50 author check remain SELF.
 R82 retains only its actually listed author checks as SELF.
-R773/R782/R784 remain their own current authored SELF findings.
+R626/R635/R637 remain their own current authored SELF findings.
 Generic shared context, noncontribution, underlying fixed-input authorship and an old independent title establish neither isolation nor substantive target sharing without the missing facts.
 No historical communication contents, minutes, events or review relationships were reconstructed.
 

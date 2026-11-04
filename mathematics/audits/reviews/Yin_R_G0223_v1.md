@@ -20,16 +20,21 @@ The full original body was compared directly with the current C13 retained body,
 Prior proof context and original review conclusions are intentionally available for this extraction review; it is not a blind new whole-proof audit.
 The initial R221 arrangement explicitly records no proof-generation dialogue, separate author explanation or earlier D8 review conclusion being supplied or consulted.
 The present finding continues that same separate noncontributor inspection through fixed C inputs, the local fixed repair and their necessary adopted interfaces.
-The reviewer's own earlier findings are not proposing-agent development context, and the author self-check visible within the fixed input is not evidence of an additional author explanation.
-The independently reviewed relationship is retained on those recorded arrangement facts, without certifying R220's different relationship or changing any inspection date, checked input, scope or mathematical outcome.
+The author's validation and development conclusions remain additional mathematical context even when included inside the fixed input; the initial R221 context carries into this continuation.
+The self-reviewed relationship follows from that actual supplied context, without changing any inspection date, checked input, scope or mathematical outcome.
 No new mathematical program, source-PDF audit, numerical experiment, scan or J was used.
 Operational text comparison and material validation are not mathematical execution.
+
+The extraction continues the initial C13 context containing author validation and development conclusions and explicitly reuses prior same-target review conclusions.
+Its noncontribution and direct reconstruction do not remove that supplied mathematical context; the extraction finding is self-reviewed.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | independently reviewed |
+| [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -39,7 +44,7 @@ Operational text comparison and material validation are not mathematical executi
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [C13 v2 argument](../../claims/Yin_C_G0013_v2.md#argument) | Complete retained01:27 D8 account including Theorem1, Corollary2/all unnumbered lifting displays and equations(1)--(15), plus the new local full-order proof and exact selected C10 v2/Con26-U002 interfaces. |
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [C13 local order proof](../../claims/Yin_C_G0013_v2.md#full-trace-order-in-every-signature) | Signature-free full-order proof for B=O intersection F, rational-basis denominator clearing, actual B-unit/inverse inclusion in O and sigma fixedness; resolves the v1 proof-ownership gap. |
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [Retained Theorem1 statement](../../claims/Yin_C_G0013_v2.md#nonreal-trace-order-domain-and-theorem) | Correspondence of the registered fixed-seed/profile statement with the original exact signature/count/order and E/sequence quantifiers. |
-| [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [Retained new Corollary2 argument](../../claims/Yin_C_G0013_v2.md#nonreal-fixed-inventory-and-lifting-costs) | Actual nonzero-target/nonreal compatibility proof, exact preserved values, final normalized weights, positive seed-norm income, content/ideal/support and window costs; not an inherited widening of old L392/R294. |
+| [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [Retained new Corollary2 argument](../../claims/Yin_C_G0013_v2.md#nonreal-fixed-inventory-and-lifting-costs) | Actual nonzero-target/nonreal compatibility proof, exact preserved values, final normalized weights, positive seed-norm income, content/ideal/support and window costs; not an inherited widening of the original L392 whole finding retained in R673. |
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [Retained amended author freeze](../../claims/Yin_C_G0013_v2.md#nonreal-fixed-seed-entire-author-freeze) | Exact01:27 amended D8 scope and preserved superseded01:25 history, compared against the still available original during this review. |
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [C10 v2 reciprocal preliminaries](../../claims/Yin_C_G0010_v2.md#reciprocal-field-and-order-preliminaries) | Exact shared monic irreducible reciprocal nontorsion domain, even original degree/norm1, quadratic fixed field, star evaluation and Laurent kernel; no total-reality premise. |
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [C10 v2 rational Gram lemma](../../claims/Yin_C_G0010_v2.md#rational-positive-laurent-gram-lemma) | Signature-free strict rational Laurent positivity, finite normalized Gram threshold, positive rational LDL and support bound used within C13's separately proved new interface. |
@@ -47,7 +52,7 @@ Operational text comparison and material validation are not mathematical executi
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [C10 v2 argument](../../claims/Yin_C_G0010_v2.md#argument) | Only the actually invoked local polynomial/Gram/finite-support/window reasoning; its general unit-target and totally-real nonzero-target formal statements are not enlarged or substituted for C13's new Corollary2. |
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [Con26-U002](../literature/Con26/Yin_U002.md#con26-u002) | Existing accepted general-signature full-order logarithmic lattice, complex-pair weights2 and rank-zero exception, with its unchanged source-proof depth. |
 | [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [R221 original whole finding](Yin_R_G0221_v1.md#nonreal-fixed-seed-profile-whole-finding) | Reuse only of the actual complete amended D8 mathematical inspection; its original bindings are preserved and do not themselves register new C13 statement/argument coverage. |
-| [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [R220 C10 finding](Yin_R_G0220_v1.md#c10-conditional-lift-cost-finding) | Existing independent review of the exact selected C10 v2 local closure and formal domains, now adopted by its current decision. |
+| [C13 extraction and interface finding](#c13-nonreal-profile-extraction-finding) | [R220 C10 finding](Yin_R_G0220_v1.md#c10-conditional-lift-cost-finding) | Historical R220 SELF review of the exact C10 v2 local closure and formal domains; the later current whole adoption selects the separate R673 finding. |
 
 <a id="c13-nonreal-profile-extraction-finding"></a>
 
@@ -142,7 +147,8 @@ C13's integral representatives have nonzero full resultants, final positive norm
 Substituting its exact I yields the registered width expense with the full weighted positive seed norms.
 No small-height or equidistribution premise is inserted.
 
-C10 v2 now selects its proved/independently-reviewed decision via R220's exact C10 finding.
+At this extraction's original stage, C10 v2 used R220's exact SELF finding.
+Its later current whole adoption selects the separate R673 corrected-chain finding; that later selection is not attributed to this historical inspection.
 Its C9 dependency concerns only its separate genuine-Salem existence/packet corollary, which C13 does not invoke to obtain nonreal profiles.
 C13 instead proves those profiles locally from Con26-U002.
 There is no C13-to-C11 or backward proof cycle concealed by historical L388/L392 references.

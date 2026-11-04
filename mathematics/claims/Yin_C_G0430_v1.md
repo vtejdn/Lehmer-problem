@@ -54,7 +54,7 @@ This proves exactly the absence of1 in that declared degree4 product span, not n
 All original equations/coefficients/monomial conventions/matrices/rhs/pivots/witnesses and initial execution/stop limits remain at J85.
 The current read-only full reconstruction rechecked every mathematical object without running the author producer or changing native bytes.
 
-Historical prospective/unresolved wording below describes the original22:23 freeze and its first attempt.
+Historical prospective/unresolved wording below describes the original 2026-10-11T14:23 freeze and its first attempt.
 The later fixed L384 exact-point account is a separate subsequent result; no current-open-problem assertion or later result is inferred from the three left-null witnesses here.
 The related2008 FIR abstract is a search lead only, with no adopted factorization/field-preservation/interpolation proof.
 The local polynomial Poisson proof is supplied explicitly; the ABR01 selected attribution remains at its existing reading depth.
@@ -87,7 +87,7 @@ No optimizer, solver search, changed polynomial, wider coefficient/certificate d
 | --- | --- |
 | date | 2026-10-21T19:43 |
 | status | proved |
-| reason | Adopt after actual complete current SELF inspection of all original scalar-denominator/prime restrictions, independent/common twist and width arguments, explicit rational-function identities with full norms/poles/denominator cost, residual-covariance boundary and every exact finite Macaulay reduction/witness limit. Original three-case native objects were fully reconstructed read-only at the fixed domain, with all entries/ranks/pivots/witnesses matching and native bytes unchanged; original R279 initial author-check exposure remains SELF, and later L384 is separate from the original attempt. |
+| reason | Adopt after actual complete current SELF inspection of all original scalar-denominator/prime restrictions, independent/common twist and width arguments, explicit rational-function identities with full norms/poles/denominator cost, residual-covariance boundary and every exact finite Macaulay reduction/witness limit. Original three-case native objects were fully reconstructed read-only at the fixed domain, with all entries/ranks/pivots/witnesses matching and native bytes unchanged; original R203 initial author-check exposure remains SELF, and later L384 is separate from the original attempt. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -387,7 +387,7 @@ It does NOT prove that the original nonlinear equations are feasible, that ratio
 A genuine found identity1=sum h_i E_i would exclude the whole corresponding case, but no such identity was found in this first attempt.
 
 The sole native author execution used CPython3.12.14, integers and Fraction arithmetic only.
-It started2026-10-11T14:20 and completed 2026-10-11T14:20; worker elapsed1.203seconds and supervisor elapsed1.312seconds, exit0, no60second outer timeout and no retry.
+It started 2026-10-11T14:20 and completed 2026-10-11T14:20; worker elapsed1.203seconds and supervisor elapsed1.312seconds, exit0, no60second outer timeout and no retry.
 The native data.json (`mathematics/computations/outputs/Yin_J_G0085/data.json`) is COMPLETE for all three DECLARED ATTEMPTS.
 Each full system has rank50 and augmented rank51, with its complete exactly checked witness(13).
 The witness support sizes are46,44,49 respectively.

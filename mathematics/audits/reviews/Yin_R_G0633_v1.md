@@ -6,8 +6,8 @@ author: Yin
 
 Date: 2026-10-21T19:42.
 Human operator: Yin.
-For this03:42 check the agent read the sole239-line original L181 and the original R80 whole D49 Sections1--6/equations(1)--(15) account as then available, together with the entire actual published C431v1 statement, argument, decisions and probability/degree/prime/path/contribution boundaries.
-It retained and checked the necessary complete C368/C375/C408/C422 interfaces at their stated fixed scopes and rederived every finite hitting/occupation/Jensen/reversal/degree/radius/word-ball implication below.
+For this 2026-10-21T19:42 check the agent read the sole239-line original L181 and the original R80 whole D49 Sections1--6/equations(1)--(15) account as then available, together with the entire actual published C431v1 statement, argument, decisions and probability/degree/prime/path/contribution boundaries.
+It retained and checked the necessary complete C365/C372/C405/C418 interfaces at their stated fixed scopes and rederived every finite hitting/occupation/Jensen/reversal/degree/radius/word-ball implication below.
 The agent authored the current Claim, inherited substantive target context and read the old finding, so this entire current check is self-reviewed.
 The original whole R80 arrangement is unknown: the recorded progress/shared-context/early-checkpoint descriptions do not establish their actual initial target mathematics.
 The original author explicitly derived and self-checked all equations(1)--(15), with its complete938-character account retained verbatim at R80 and original day precision.
@@ -97,7 +97,7 @@ Their finitely many nonzero intermediate algebraic integers have finitely many m
 Enlarging and symmetrizing that prime set includes those paths in the corresponding actual core.
 This does not make ambient short paths restricted for an arbitrary previously chosen S.
 
-The exact original Dirichlet identity of C422 applies to the same positive l2-normalized right vector and retains every boundary term and unordered-edge convention.
+The exact original Dirichlet identity of C418 applies to the same positive l2-normalized right vector and retains every boundary term and unordered-edge convention.
 Low1-r therefore requires both low nonnegative gradient/boundary energy and the proven restricted-neighborhood profile escape.
 Those requirements coexist on growing sets.
 Strong connectivity through zero does not supply a uniform positive origin mass, and no forbidden full spectral neighborhood follows.

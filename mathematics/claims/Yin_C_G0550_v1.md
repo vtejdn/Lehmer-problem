@@ -101,7 +101,7 @@ No native computation, length scan, numerical model or new source is used.
 ## Fixed actual graph and what is new
 
 Use the actual quartic P=t^4-t^3-t^2-t+1, exterior root beta, order O=Z[beta], B=1/(beta-1), S=beta B, and original core D={q in O:|q_+|<B,|q_-|<S}.
-The accepted L170/L309 interfaces, retained explicitly in [L415](Yin_C_G0537_v2.md#union-carry-original-incidence), identify the COMPLETE normalized b2 union with two copies c,y of D and original legal four-step incidence
+The accepted L170/L309 interfaces, retained explicitly in [L414](Yin_C_G0537_v2.md#union-carry-original-incidence), identify the COMPLETE normalized b2 union with two copies c,y of D and original legal four-step incidence
 
     y=beta^4 c+theta,
     theta=eta_0+eta_1 beta+eta_2 beta^2+eta_3 beta^3.    (1)
@@ -114,11 +114,11 @@ Every edge occurs in an actual finite returned-word graph and persists under sym
 All degrees in this draft mean COMPLETE-UNION degrees.
 Let L be the vertices of degree1 or2 and H the vertices of degree at least3.
 Every vertex has degree between1 and81.
-[L420](Yin_C_G0542_v2.md#low-degree-exact-classification) proves the exact degree thresholds, including that a degree-at-most2 outgoing vertex has first three chronological steps forced and equal, while such an incoming vertex has its LAST three chronological digits forced and equal.
+[L419](Yin_C_G0542_v2.md#low-degree-exact-classification) proves the exact degree thresholds, including that a degree-at-most2 outgoing vertex has first three chronological steps forced and equal, while such an incoming vertex has its LAST three chronological digits forced and equal.
 The remaining digit is either that same sign or zero.
 It also proves that the induced graph on L is a matching and isolated vertices, excludes short leaf connections, and gives the entire original mass bound5/13 for edges touching L.
 
-The new assertion is stronger than L420's matching statement: EVERY vertex, including arbitrary high-degree vertices, has at most one low-degree neighbor.
+The new assertion is stronger than L419's matching statement: EVERY vertex, including arbitrary high-degree vertices, has at most one low-degree neighbor.
 It follows that the induced graph on H has minimum degree2, excluding every non-isolated finite tree component and forcing an actual high-degree cycle in every other finite component.
 No full connectedness or weighted expansion conclusion is asserted.
 
@@ -130,7 +130,7 @@ Put
     T3=1+beta+beta^2, T=T3+beta^3.                     (2)
 
 Fix ANY outgoing vertex c.
-If its neighbor y has degree at most2, the incoming classification in L420 says that the last three chronological digits are all a sign sigma and the FIRST chronological digit is sigma or0.
+If its neighbor y has degree at most2, the incoming classification in L419 says that the last three chronological digits are all a sign sigma and the FIRST chronological digit is sigma or0.
 Thus the ascending polynomial in(1) is exactly one of
 
     theta in{-T,-T3,T3,T}.                            (3)
@@ -160,7 +160,7 @@ Applying the already proved outgoing result to J y proves
 
     EVERY vertex has at most one neighbor of degree<=2. (5)
 
-The new conclusion is not inferred from L420's weaker statement restricted to vertices already in L.
+The new conclusion is not inferred from L419's weaker statement restricted to vertices already in L.
 Its proof uses the exact four-word incoming restriction and the full expanding strip width.
 
 <a id="branching-core-topology"></a>
@@ -170,7 +170,7 @@ For a vertex v in H, inequality(5) gives
 
     deg_(G[H])(v)>=deg_G(v)-1>=2.                     (6)
 
-Every non-isolated component has an H vertex by L420.
+Every non-isolated component has an H vertex by L419.
 If a complete union component C is finite and not an isolated edge, G[H intersect C] is a nonempty finite simple graph of minimum degree at least2.
 Following edges without immediately reversing, or taking a longest simple path, produces a simple cycle.
 The graph is bipartite, so that cycle has even length at least4.
@@ -180,8 +180,8 @@ Therefore
     a simple cycle entirely in H.                     (7)
 
 In particular every finite acyclic union component is exactly an isolated edge.
-This excludes branching finite trees as well as L420's previously excluded paths, stars and whole-cycle components.
-A cycle lying inside a larger branching component is not excluded by L420 and is not excluded here.
+This excludes branching finite trees as well as L419's previously excluded paths, stars and whole-cycle components.
+A cycle lying inside a larger branching component is not excluded by L419 and is not excluded here.
 An infinite component need not contain a cycle merely because its high-degree core has minimum degree2.
 
 The low-degree attachments have a precise finite combinatorial form.
@@ -196,7 +196,7 @@ This is a structural decomposition only; bridges can join different H components
 <a id="branching-core-original-costs"></a>
 ## 3. Actual finite appearance, full mass and unpaid energy boundaries
 
-For any hypothesized FINITE union component C, every one of its finitely many edges has an actual finite returned-word realization by L415.
+For any hypothesized FINITE union component C, every one of its finitely many edges has an actual finite returned-word realization by L414.
 Take the maximum of their individual finite onsets.
 At every larger common tail length k, all these edges occur simultaneously by symmetric zero padding.
 Since no union edge leaves C, C is then a complete component of the actual finite endpoint graph; there is no geometric edge silently substituted for a legal original word.
@@ -213,7 +213,7 @@ where theta=y-beta^4 c and c_k includes every original tail representation.
 Neither one selected return word nor an unweighted cycle replaces this sum.
 No new uniform lower bound for(8) is claimed.
 
-The [L420 complete mass theorem](Yin_C_G0542_v2.md#branching-original-mass) gives
+The [L419 complete mass theorem](Yin_C_G0542_v2.md#branching-original-mass) gives
 
     pi_(2n){an edge with both endpoints in H}>=8/13,     (9)
 
@@ -224,7 +224,7 @@ Some union neighbors may not yet occur at the chosen finite length, so(6) is not
 
 A two- or three-edge low bridge is an actual incidence path, but its bounded combinatorial length supplies no uniform original conductance bound.
 Its edge weights remain the products in(8), with endpoint multiplicity ratios uncontrolled.
-The fixed-hub comparison of [L412](Yin_C_G0519_v1.md#seed-path-load-and-mass) already explains why a short path can retain an unpaid normalization or load cost.
+The fixed-hub comparison of [L411](Yin_C_G0519_v1.md#seed-path-load-and-mass) already explains why a short path can retain an unpaid normalization or load cost.
 The actual C170 midpoint energy bound D_(n,2)<=4 and its n+2 digit-work divisor are unchanged.
 No trace chain, uniform fiber, Gaussian surrogate, new mean criterion or numerical scan is introduced.
 
@@ -246,12 +246,12 @@ No complete uniform gap or original critical-mean conclusion follows.
 
 | Input | Exact role |
 | --- | --- |
-| [L415 incidence](Yin_C_G0537_v2.md#union-carry-original-incidence), [R423](../audits/reviews/Yin_R_G0423_v1.md) | Actual complete four-step graph, order, two real strips, reciprocal reversal and finite original-word onsets; reused at its reviewed scope. |
-| [L420 degree classification](Yin_C_G0542_v2.md#low-degree-exact-classification), [R428](../audits/reviews/Yin_R_G0428_v1.md#low-degree-carry-whole-independent-finding) | Exact incoming last-three-digit condition, matching low-degree induced graph and prior exclusions; the present author also authored L420 and reuses its separate review. |
-| [L420 original mass](Yin_C_G0542_v2.md#branching-original-mass) | Complete weighted8/13 H-edge mass floor, not component concentration or finite-window degree. |
+| [L414 incidence](Yin_C_G0537_v2.md#union-carry-original-incidence), [R423](../audits/reviews/Yin_R_G0423_v1.md) | Actual complete four-step graph, order, two real strips, reciprocal reversal and finite original-word onsets; reused at its reviewed scope. |
+| [L419 degree classification](Yin_C_G0542_v2.md#low-degree-exact-classification), [R428](../audits/reviews/Yin_R_G0428_v1.md#low-degree-carry-whole-independent-finding) | Exact incoming last-three-digit condition, matching low-degree induced graph and prior exclusions; the present author also authored L419 and reuses its separate review. |
+| [L419 original mass](Yin_C_G0542_v2.md#branching-original-mass) | Complete weighted8/13 H-edge mass floor, not component concentration or finite-window degree. |
 | [C170 full law](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Exact all-fiber endpoint weights, word components, true midpoint energy and digit-work clock; author's upstream contribution disclosed. |
-| [L412 path cost](Yin_C_G0519_v1.md#seed-path-load-and-mass), [R416](../audits/reviews/Yin_R_G0416_v1.md#fixed-hub-whole-independent-finding) | Why topological path length is not an original weighted load bound; no new comparison is imported. |
-| [L410 component defect](Yin_C_G0514_v2.md#bulk-component-defect) | Separate full-component chi and uniform energy requirements, neither supplied by degree or edge mass. |
+| [L411 path cost](Yin_C_G0519_v1.md#seed-path-load-and-mass), [R416](../audits/reviews/Yin_R_G0416_v1.md#fixed-hub-whole-independent-finding) | Why topological path length is not an original weighted load bound; no new comparison is imported. |
+| [L409 component defect](Yin_C_G0514_v2.md#bulk-component-defect) | Separate full-component chi and uniform energy requirements, neither supplied by degree or edge mass. |
 
 All new deductions are by entropy_attainment_bridge.
 Root supplied the task and a convention-check reminder only.

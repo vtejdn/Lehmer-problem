@@ -85,7 +85,7 @@ It does not rule out another uniformly priced family or a useful restricted clas
 
 ### Consequence for the proposed homogeneous positive family
 
-The scalar/Gram formulas of [F109](Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) concern the specified polynomial and its Haar determinant.
+The scalar/Gram formulas of [L_F5](Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) concern the specified polynomial and its Haar determinant.
 They do not replace the first term of(21) by the second.
 The example already has one positive ordinary auxiliary, original integral norm income and negative fixed-input Haar cost; therefore repeating positivity with a larger degree30d or60d mixed-defect construction would not by itself resolve the necessary transfer.
 

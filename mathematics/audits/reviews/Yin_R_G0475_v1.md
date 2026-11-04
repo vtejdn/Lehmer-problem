@@ -16,8 +16,8 @@ That author-overlapping upstream proof is NOT presented as independently re-audi
 The actual complete [R474 finding](Yin_R_G0474_v1.md#canonical-degree28-whole-finding) was read in full after the new C197 argument had been checked.
 Its explicit review of the general Delta_2 identity, mod4 expansion and monic remainder compatibility supplies recorded evidence for precisely the upstream interface used here.
 The specialized C196 degree28 obstruction, Hensel construction and global Haar conclusion are not premises of C197.
-The earlier R619 covers only its own physical predecessor and is not substituted for R474.
-The reviewer's earlier C172/R566 and other independent consumer reviews do not confer authorship or proof evidence for this new theorem.
+The earlier R473 covers only its own physical predecessor and is not substituted for R474.
+The reviewer's earlier C172/R420 and other independent consumer reviews do not confer authorship or proof evidence for this new theorem.
 No mathematical program, coefficient enumeration, numerical valuation, source acquisition or formal verification was used.
 No candidate mathematics was edited.
 

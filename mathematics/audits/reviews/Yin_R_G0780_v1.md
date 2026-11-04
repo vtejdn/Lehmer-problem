@@ -56,7 +56,7 @@ Finite Perron first-return normalization plus one genuinely exiting word forces 
 Infinitude gives fixed-height relative escape, while pressure exhaustion and the two iterated fraction limits retain their order.
 The accepted L173 full counting-l2 row AND column norm sandwich charges every state/seam.
 Submultiplicativity yields the all-time original-law bound; the complete p64 and C_beta<259 give A64<2^−34 and17log2/32 without extrapolating a finite-box radius.
-C569v2/C543 and the exact L157/L169/L170/L173 interfaces were checked at needed scopes, without new source-proof/core-certificate execution.
+C556v2/C534 and the exact L157/L169/L170/L173 interfaces were checked at needed scopes, without new source-proof/core-certificate execution.
 Post-initial comparison covers every original analytic, finite/native, block and nonuniform boundary.
 No positive-theta l2 theorem, uniform relative cutoff, near-one pressure deficit or unrestricted gap follows.
 

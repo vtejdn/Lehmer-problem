@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-10.
 
 The current formal home is [C501](../claims/Yin_C_G0501_v1.md#statement), whose 2026-10-22T04:51 decision adopted [the new whole independent finding](../audits/reviews/Yin_R_G0726_v1.md#current-stationary-fourier-whole-independent-finding).
-The [complete original R726 account](../audits/reviews/Yin_R_G0726_v1.md#original-stationary-fourier-review-account) preserves its 2026-10-09T20:08 whole, the original 04:07 execution-type negative and the final closure belonging to 04:08, with their UNKNOWN initial arrangements and complete proof/native/negative scope.
+The [complete original R726 account](../audits/reviews/Yin_R_G0726_v1.md#original-stationary-fourier-review-account) preserves its 2026-10-09T20:08 whole, the original 2026-10-09T20:07 execution-type negative and the final closure belonging to 2026-10-09T20:08, with their UNKNOWN initial arrangements and complete proof/native/negative scope.
 The [complete original author SELF](../audits/reviews/Yin_R_G0726_v1.md#stationary-fourier-original-author-check-finding) retains its day precision and exact contribution/check/then-pending account.
 Historical adoption, active and pending statements below supply no present research Task/E authority.
 
@@ -294,7 +294,7 @@ No arbitrary finite set of irrational characters is covered by the blind-relaxat
 <a id="stationary-fourier-author-type-correction"></a>
 ### Scoped author correction to the initial execution account
 
-On2026-10-09T20:07, the separate reviewer identified a nonblocking implementation-type discrepancy in the initial J44 certificate: Python's `(-1)**dot_product` produced exactly representable floating signs for negative integer dot products, and29 character numerators were saved as0.0.
+On 2026-10-09T20:07, the separate reviewer identified a nonblocking implementation-type discrepancy in the initial J44 certificate: Python's `(-1)**dot_product` produced exactly representable floating signs for negative integer dot products, and29 character numerators were saved as0.0.
 No mathematical value or asserted identity failed, but the initial claim that every executed operation used integer or Fraction arithmetic needed qualification.
 Under the coordinator's authorized disposition, the author preserved the exact initial program and output as clearly historical J44 files, replaced only that sign expression by integer parity branching, and reran the full certificate successfully.
 All32 character numerators are now integer typed; every mathematical certificate value agrees with the historical output, including total variation15/16.
@@ -303,4 +303,4 @@ The complete mathematical proof above is unchanged, and reviewer-owned files wer
 The repaired author files are frozen for the separate reviewer's final finding.
 
 
-The [complete original R726 comparison](../audits/reviews/Yin_R_G0726_v1.md#original-stationary-fourier-review-account) preserves the actual 04:08 whole inspection of this original Sections1--7/equations1--11 input, its original type negative/closure, separate finite implementation, all limits and UNKNOWN arrangements, separately from the new whole inspection.
+The [complete original R726 comparison](../audits/reviews/Yin_R_G0726_v1.md#original-stationary-fourier-review-account) preserves the actual 2026-10-09T20:08 whole inspection of this original Sections1--7/equations1--11 input, its original type negative/closure, separate finite implementation, all limits and UNKNOWN arrangements, separately from the new whole inspection.

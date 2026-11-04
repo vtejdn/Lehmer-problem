@@ -398,7 +398,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-14T20:53 |
 | status | proved |
-| reason | Adopt R470 complete independent review of the actual simultaneous compression/tail/rounding proof and all selected interfaces. Nested real near-global extrema admit full divisor-ideal replacements with dimension-independent O_s(sqrt epsilon) losses. The arithmetic inverse, first-order recursion cancellation and universal fractional bound remain unproved. |
+| reason | Adopt [R797 original uniform-nested-rounding](../audits/reviews/Yin_R_G0797_v1.md#uniform-nested-rounding-actual-whole-independent-finding) complete independent review of the actual simultaneous compression/tail/rounding proof and all selected interfaces. Nested real near-global extrema admit full divisor-ideal replacements with dimension-independent O_s(sqrt epsilon) losses. The arithmetic inverse, first-order recursion cancellation and universal fractional bound remain unproved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

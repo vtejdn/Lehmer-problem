@@ -36,8 +36,8 @@ Its entire original mathematical/source/negative/date scope and UNKNOWN arrangem
 
 Date: 2026-10-21T22:42.
 PASS for the entire actual C472 Statement and complete selected original Argument, Sections1--4/equations1--11, conditional consequence, both integer-capacity constructions and every source/actual-input/limit boundary.
-The constructor has read the complete16943-character L396 and11442-character R455, exact C101 Statement and residual proof, the full C94 totient lower-bound proof, C220 divergence and GW21-U001.
-This is a current whole SELF check after organizing that mathematical home, not an isolated replacement for the entire original R455 UNKNOWN.
+The constructor has read the complete16943-character L396 and11442-character R343, exact C101 Statement and residual proof, the full C94 totient lower-bound proof, C220 divergence and GW21-U001.
+This is a current whole SELF check after organizing that mathematical home, not an isolated replacement for the entire original R343 UNKNOWN.
 
 There are exactly m bands for2m+1<=j<=3m.
 The full prime-power proof phi(a)>=sqrt(a/2) gives at least2^m capacity per integer and at least2^(2m+1) integers per band, hence total capacity>=2B.
@@ -70,7 +70,7 @@ The original then-open weak gate is historical: the separately adopted current C
 That separate current status was checked through its literal final Statement and actual selected proved decision, without a new audit of its full source/proof or an input cycle.
 Automatic actual-polynomial positive-density coverage remains separate.
 
-The original entire R455 remains UNKNOWN: extra author-summary content sufficient to settle its actual substantive-context boundary is not preserved, and earlier C99 authorship alone is not target contribution.
+The original entire R343 remains UNKNOWN: extra author-summary content sufficient to settle its actual substantive-context boundary is not preserved, and earlier C99 authorship alone is not target contribution.
 Every original source occurrence, failed search, final13:29 freeze,13:32 whole finding,13:36 retention and exact listed author SELF is retained.
-The R455 reviewer's distinct selected GW21 statement-reading occurrence is accurately recorded in the adequate existing U, with unknown individual minute rather than a fabricated fresh PDF reading.
+The R343 reviewer's distinct selected GW21 statement-reading occurrence is accurately recorded in the adequate existing U, with unknown individual minute rather than a fabricated fresh PDF reading.
 No native program, producer, source acquisition, formal assistant, new mathematical experiment or Task/E resumption occurred.

@@ -4,13 +4,17 @@ author: Yin
 
 # A long bounded-energy window on actual irreducible Salem inputs
 
+Current checking scope is owned by [R562](../audits/reviews/Yin_R_G0562_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Direct bounded G0001 derivation by the assigned execution_and_deliverables AI for Yin.
 The coordinator requested a new finite-energy mechanism or an exact obstruction to a proposed degree-independent shortcut.
 This note supplies an actual algebraic control, not another compactness or computability theorem.
 Its final section records a separate direct consequence of the existing L G0132/L G0135 interfaces when the orbit length is free to grow.
 No numerical experiment, optimization or source acquisition has been performed.
-Completed independent full review is recorded below.
+The complete checking account is retained below at its responsible finding scope.
 
 ## The exact closed-cube quantity
 

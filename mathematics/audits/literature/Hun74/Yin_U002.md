@@ -53,7 +53,8 @@ If a maximal independent set failed to span, adjoining an outside vector would s
 This is Lemma IV.2.3.
 No topology or boundedness is involved.
 
-This exact input is accepted for Yin_C_F0035-P1's right-basis extension.
+This exact source input is accepted for the right-basis extension reported under former Yin_C_F0035-P1.
+The original project proof/review homes remain unlocated in the current retained F-family collection; the source input alone supplies no currently reusable equalizer proof.
 Its unitary module hypothesis holds because the division subring and ambient ring share their identity.
 
 ## Remaining Main Results and Proof Checks
@@ -82,4 +83,4 @@ Finite-dimensional injectivity/surjectivity tests follow from rank-nullity with 
 The basis and dimension results above are accepted standard external inputs with the displayed algebraic hypotheses.
 The review reconstructs the finite-support, exchange and quotient interfaces, not the foundations of choice/cardinal arithmetic.
 No assertion about a continuous dual, a Hilbert basis, a bounded functional or a completed tensor follows from these results.
-Yin_C_F0035's existing independent review retains its original artifact scope; this new source attribution is self-reviewed.
+The earlier account reports an independent artifact review under former Yin_C_F0035, whose original home remains unlocated; this source attribution is self-reviewed and establishes no current project review selection.

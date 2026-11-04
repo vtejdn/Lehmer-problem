@@ -180,9 +180,9 @@ Its nonvacuity construction applies directly at each actual compatible degree/re
 The retained [C135 binary binomial-product account](Yin_C_G0135_v1.md#statement) was read at its actual [proof-draft selection](Yin_C_G0135_v1.md#decision-initial), not promoted to an adopted input.
 It studies complete divisibility modulo2 by a bounded number of binomials with controlled original exponent costs, including a central parity-block class.
 The present hypotheses specify an integer energy lift and phase separation; a bounded-binomial factorization is neither assumed nor established here, and no strict separation from that earlier sufficient class has been proved.
-[Adopted C775](Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) permits varying periodic comb periods in its fixed C801/C809 copied-sign domain, with actual support-availability and template-weight costs.
+[Adopted C775](Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) permits varying periodic comb periods in its fixed C759/C767 copied-sign domain, with actual support-availability and template-weight costs.
 That is a different original family and measure comparison, not an existing arithmetic theorem for the irreducible residue class below.
-The present deduction assumes no copied height-one source or C809 target.
+The present deduction assumes no copied height-one source or C767 target.
 No novelty or unrestricted-class claim follows from this bounded reuse comparison.
 
 ### UR2. Fixed modulus, unbounded period and exact hypotheses
@@ -387,7 +387,7 @@ There is no native computation, C845 edit, proof of arbitrary residue-pattern co
 | dependency | [Adopted compatible-class nonvacuity](Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | NG only: infinitely many actual monic irreducible reciprocal noncyclotomic units in each compatible actual inner-residue assignment at every even degree, with its exact CRT/Eisenstein and height/length costs. C842's fixed finite-G gap and bounded-degree completion are not premises for the new uniform-in-period inequality. |
 | support | [Earlier finite-reversal comparison](Yin_C_G0842_v1.md#fixed-reversal-auxiliary-class) | Prior finite-family scope only, distinguishing it from the new varying-period application; no uniform-in-p consequence is borrowed from a fixed finite seed set. |
 | support | [Retained binary binomial-product comparison](Yin_C_G0135_v1.md#statement) | Bounded-binomial-product divisibility and central parity-block class, read at its actual proof-draft decision-initial. This is not an adopted input, and no class-separation theorem is asserted. |
-| support | [Adopted periodic-comb comparison](Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) | Exact fixed-source C801/C809 copied-sign/period-availability/template-budget scope only; it is not used as an arithmetic theorem for the original irreducible residue class here. |
+| support | [Adopted periodic-comb comparison](Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) | Exact fixed-source C759/C767 copied-sign/period-availability/template-budget scope only; it is not used as an arithmetic theorem for the original irreducible residue class here. |
 
 ### Decision whole-reviewed-2026-10-28
 
@@ -405,6 +405,6 @@ There is no native computation, C845 edit, proof of arbitrary residue-pattern co
 | dependency | [Adopted compatible-class nonvacuity](Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | NG only: infinitely many actual monic irreducible reciprocal noncyclotomic units in each compatible actual inner-residue assignment at every even degree, with its exact CRT/Eisenstein and height/length costs. C842's fixed finite-G gap and bounded-degree completion are not premises for the new uniform-in-period inequality. |
 | support | [Earlier finite-reversal comparison](Yin_C_G0842_v1.md#fixed-reversal-auxiliary-class) | Prior finite-family scope only, distinguishing it from the new varying-period application; no uniform-in-p consequence is borrowed from a fixed finite seed set. |
 | support | [Retained binary binomial-product comparison](Yin_C_G0135_v1.md#statement) | Bounded-binomial-product divisibility and central parity-block class, read at its actual proof-draft decision-initial. This is not an adopted input, and no class-separation theorem is asserted. |
-| support | [Adopted periodic-comb comparison](Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) | Exact fixed-source C801/C809 copied-sign/period-availability/template-budget scope only; it is not used as an arithmetic theorem for the original irreducible residue class here. |
+| support | [Adopted periodic-comb comparison](Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) | Exact fixed-source C759/C767 copied-sign/period-availability/template-budget scope only; it is not used as an arithmetic theorem for the original irreducible residue class here. |
 | review | [Whole independent unbounded-period finding](../audits/reviews/Yin_R_G1067_v1.md#whole-unbounded-period-energy-finding) | Entire Statement A--E and UR1--UR7, all ten statement and thirteen proof formulas, exact adopted input interfaces, original endpoints/span/costs, all orbit and binary branches, true minimal periods and every admissible-class nonvacuity; independent arrangement without mutable Draft or substantive repair. |
 

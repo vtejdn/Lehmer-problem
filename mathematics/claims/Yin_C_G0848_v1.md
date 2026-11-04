@@ -437,7 +437,7 @@ The general bounded-exception and lattice-support results retain their exact fix
 | --- | --- |
 | date | 2026-10-28T23:11 |
 | status | proved |
-| reason | Adopt the complete Statement A--E and PX1--PX8/PX3a proof after root read the entire author argument, fixed statement and whole independent R1068. The finite support/sumset algorithm and degree-independent exception bound, exact noncollision, true endpoints with overlap, changed C92-before-C137 full-integrality transfer, every original cost, distinct-shift and support-lattice consequences are covered. Both actual reciprocal comparison classes and their explicit older C93/C95 coverage are retained; R440/R442 keep their current self-reviewed input relationships. No automatic certificate availability, minimal bad set, exclusive arithmetic coverage, practical constant or unrestricted Lehmer conclusion is selected. |
+| reason | Adopt the complete Statement A--E and PX1--PX8/PX3a proof after root read the entire author argument, fixed statement and whole independent R1068. The finite support/sumset algorithm and degree-independent exception bound, exact noncollision, true endpoints with overlap, changed C92-before-C137 full-integrality transfer, every original cost, distinct-shift and support-lattice consequences are covered. Both actual reciprocal comparison classes and their explicit older C93/C95 coverage are retained; R329/R331 keep their current self-reviewed input relationships. No automatic certificate availability, minimal bad set, exclusive arithmetic coverage, practical constant or unrestricted Lehmer conclusion is selected. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

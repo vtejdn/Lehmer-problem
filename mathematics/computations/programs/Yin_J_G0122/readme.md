@@ -6,7 +6,7 @@ author: Yin
 
 ## Question and scope
 
-Certify the finite real-place margin inequalities that extend the complete C631 seven-edge chain to EVERY actual w with |w_+|<1/100, |w_-|<1/5.
+Certify the finite real-place margin inequalities that extend the complete C610 seven-edge chain to EVERY actual w with |w_+|<1/100, |w_-|<1/5.
 Separately extract all positive coordinate-increment translations from the already complete J121 pair certificate and test their endpoints at c_block=(-3,9,1,-3).
 The complete analytic coverage and limits are fixed in [C612v1](../../../claims/Yin_C_G0612_v1.md#argument), whose selected decision owns its current assessment.
 This is a finite local identity/margin test, not a coordinate-box or graph-length scan.

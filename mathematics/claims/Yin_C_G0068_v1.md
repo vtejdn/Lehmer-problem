@@ -183,7 +183,7 @@ The recorded review description was `under review`.
 | dependency | [C60 complete original-law operator](Yin_C_G0060_v1.md#statement) | Exact integer quotient, original pi_n/midpoint, conditional-expectation K_j, uniform-site T_n and self-adjoint positive contraction. No parity-nonclosure or positive-gap premise is used. |
 | dependency | [C64 exact seeds](Yin_C_G0064_v1.md#quartic-three-frozen-return-blocks) | ONLY F/G/H original digit arrays, exact integer P products and complete corrected local freezing certificate. No native graph counts or original all-n template is needed for the new midpoint placement. |
 | dependency | [C64 safe concatenation and outer padding](Yin_C_G0064_v1.md#quartic-frozen-concatenation-and-padding) | Arbitrary independent seed signs, all crossing windows and at most two zeros per outer end; no unrestricted zero-padding principle. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0286_v1.md#quartic-invariant-midpoint-whole-independent-finding) | ENTIRE actual original20:11 D21 and precise accepted inputs. It does not inspect or adopt this new statement/wrapper. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0286_v1.md#quartic-invariant-midpoint-whole-independent-finding) | ENTIRE actual original20:11 D21 and precise accepted inputs. It does not inspect or adopt this new statement/wrapper. Referenced finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -201,8 +201,8 @@ The recorded review description was `under review`.
 | dependency | [C60 complete original-law operator](Yin_C_G0060_v1.md#statement) | Exact integer quotient, original pi_n/midpoint, conditional-expectation K_j, uniform-site T_n and self-adjoint positive contraction. No parity-nonclosure or positive-gap premise is used. |
 | dependency | [C64 exact seeds](Yin_C_G0064_v1.md#quartic-three-frozen-return-blocks) | ONLY F/G/H original digit arrays, exact integer P products and complete corrected local freezing certificate. No native graph counts or original all-n template is needed for the new midpoint placement. |
 | dependency | [C64 safe concatenation and outer padding](Yin_C_G0064_v1.md#quartic-frozen-concatenation-and-padding) | Arbitrary independent seed signs, all crossing windows and at most two zeros per outer end; no unrestricted zero-padding principle. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0286_v1.md#quartic-invariant-midpoint-whole-independent-finding) | ENTIRE actual original20:11 D21 and precise accepted inputs. It does not inspect or adopt this new statement/wrapper. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0794_v2.md#c68-invariant-midpoint-actual-extraction-finding) | Entire actual statement, complete retained original body and precise direct interfaces independently inspected after allocation, preserving earlier review scopes and corrections. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0286_v1.md#quartic-invariant-midpoint-whole-independent-finding) | ENTIRE actual original20:11 D21 and precise accepted inputs. It does not inspect or adopt this new statement/wrapper. Referenced finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0794_v2.md#c68-invariant-midpoint-actual-extraction-finding) | Entire actual statement, complete retained original body and precise direct interfaces separately inspected after allocation, preserving earlier review scopes and corrections. Referenced finding relationship: unknown. |
 
 
 ### Decision independent-current-whole-review-20261022
@@ -211,7 +211,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T23:10 |
 | status | proved |
-| reason | Adopt the separately organized current fixed-target finding after complete statement and retained-argument inspection, including late extensions, actual costs, controls, necessary mathematical interfaces and source limits, while excluding credited comparison scopes first separately checked after old-review exposure. The initial mathematical conclusion was formed at 2026-10-22T22:44 UTC before old-target review comparison. The finding records the exact interface and later credited-comparison reading sequence. Preserve fixed mathematics, historical decisions, all non-review premises and their scopes; retain known sufficient independent findings in their original homes and original unknown findings at their actual checking scope. This selects current review evidence and supplies no new research, Task completion or execution resumption. |
+| reason | The current finding is SELF because its initial complete argument input included author-validation conclusions beyond the necessary derivation. Adopt the separately organized current fixed-target finding after complete statement and retained-argument inspection, including late extensions, actual costs, controls, necessary mathematical interfaces and source limits, while excluding credited comparison scopes first separately checked after old-review exposure. The initial mathematical conclusion was formed at 2026-10-22T22:44 UTC before old-target review comparison. The finding records the exact interface and later credited-comparison reading sequence. Preserve fixed mathematics, historical decisions, all non-review premises and their scopes; retain earlier findings in their original homes at their actual recorded relationships and checking scopes. This selects current review evidence and supplies no new research, Task completion or execution resumption. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -220,8 +220,8 @@ The recorded review description was `under review`.
 | dependency | [Dependency: statement](Yin_C_G0060_v1.md#statement) | Exact integer quotient, original pi_n/midpoint, conditional-expectation K_j, uniform-site T_n and self-adjoint positive contraction. No parity-nonclosure or positive-gap premise is used. |
 | dependency | [Dependency: quartic-three-frozen-return-blocks](Yin_C_G0064_v1.md#quartic-three-frozen-return-blocks) | ONLY F/G/H original digit arrays, exact integer P products and complete corrected local freezing certificate. No native graph counts or original all-n template is needed for the new midpoint placement. |
 | dependency | [Dependency: quartic-frozen-concatenation-and-padding](Yin_C_G0064_v1.md#quartic-frozen-concatenation-and-padding) | Arbitrary independent seed signs, all crossing windows and at most two zeros per outer end; no unrestricted zero-padding principle. |
-| support | [Support: quartic-invariant-midpoint-whole-independent-finding](../audits/reviews/Yin_R_G0286_v1.md#quartic-invariant-midpoint-whole-independent-finding) | ENTIRE actual original20:11 D21 and precise accepted inputs. It does not inspect or adopt this new statement/wrapper. |
-| review | [Current isolated finding](../audits/reviews/Yin_R_G0794_v2.md#g68-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:44 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
+| support | [Recorded original finding](../audits/reviews/Yin_R_G0286_v1.md#quartic-invariant-midpoint-whole-independent-finding) | ENTIRE actual original20:11 D21 and precise accepted inputs. It does not inspect or adopt this new statement/wrapper. Finding relationship: self-reviewed. |
+| review | [Current finding](../audits/reviews/Yin_R_G0794_v2.md#g68-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:44 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 
@@ -609,7 +609,7 @@ No novelty or priority is asserted.
 The rounding-recovery agent is the sole substantive author of this new mathematics under human Yin.
 Root supplied only the broad task and execution coordination, not the candidate, formulas, proof steps or corrections.
 Earlier author/reviewer relationships at C60/C64 remain disclosed antecedent work and do not independently review D21.
-The intervening R379 review of unrelated C65 was a separate noncontributor activity; it supplies no mathematical input here.
+The intervening R284 v1 review of unrelated C65 was a separate noncontributor activity; it supplies no mathematical input here.
 
 Freeze the ENTIRE actual D21: allocation/reuse/question, Sections1--8/equations(1)--(16), original20:02 safe-checkpoint history, every table, source/contribution boundary and all stated limits.
 Whole noncontributor review must inspect this complete actual body before any adoption; no fixed C or independent acceptance is asserted here.

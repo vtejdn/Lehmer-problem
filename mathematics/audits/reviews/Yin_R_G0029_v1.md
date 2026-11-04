@@ -53,8 +53,7 @@ The assigned agent checked the full multiplier normalization, convergence and sh
 The coordinator contributed the original recurrence sup-norm obstruction.
 The existing L G0102 proofs are reused at their recorded independent-review scope.
 
-The coordinator subsequently read and checked the full assembled (1)--(14), including the full integer-ring scope, complex coordinates, shifted product, fixed-
-multiplier finite boundaries and uniform limiting spacing, every-multiple recurrence cap and nonzero integer defect, bilateral Fourier injectivity, and the optimized supremum and E(m) interface.
+The coordinator subsequently read and checked the full assembled (1)--(14), including the full integer-ring scope, complex coordinates, shifted product, fixed-multiplier finite boundaries and uniform limiting spacing, every-multiple recurrence cap and nonzero integer defect, bilateral Fourier injectivity, and the optimized supremum and E(m) interface.
 It found no defect.
 This is a collaborator check because of the disclosed recurrence-cap contribution.
 

@@ -64,7 +64,7 @@ This leaves the exact bounded-width theorem intact.
 
 All eight original R207 whole bindings and seven detailed checks were compared, together with the original outcome, author checking, source-free local algebra and no-program scope.
 R207 explicitly initially read the complete author self-check; its actual original whole relationship is SELF under the current isolation condition.
-The reviewer’s noncontributor status and earlier R282/R275 work are not used to infer isolation or a contribution to this distinct target.
+The reviewer’s noncontributor status and earlier R206/R199 work are not used to infer isolation or a contribution to this distinct target.
 Its actual direct reconstructions remain factual checking.
 Original author freeze/source reading have day precision only; R28322:57 and ledger23:00 are not invented author-freeze or reading minutes.
 The original exact-field-open language is retained at its historical time, while later L384 supplies the separate exact target word and dyadic lifts.

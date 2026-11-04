@@ -123,20 +123,20 @@ The bound in FC8 is an upper bound on its occupation height.
 ### Reused inputs and the different conclusion
 
 The precise unresolved input remains an actual infinite-tail or positive linear complete-bridge estimate for the original quartic.
-The adopted [C400 strict-core theorem](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption), in its fixed-quartic application using C399's complete narrow co-return premise, identifies the displayed strict algebraic strip with the actual accessible/coaccessible D.
+The adopted [C400 strict-core theorem](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption), in its fixed-quartic application using C396's complete narrow co-return premise, identifies the displayed strict algebraic strip with the actual accessible/coaccessible D.
 Its boundary-state computation already places c in the actual order, with real embeddings(B,-S).
 The [C780 level identity](Yin_C_G0780_v1.md#decision-whole-reviewed-2026-10-26) supplies K>=0 and the exact relative-norm formula.
 The [C599 actual harmonic interface](Yin_C_G0599_v1.md#decision-complete-isolated-whole-adoption) supplies positive H<=1, true R, stochastic Q and the full original digit weights without a mean assumption.
 The [C790 balanced-unit computation](Yin_C_G0790_v1.md#decision-whole-reviewed-2026-10-26) supplies the actual-order unit v and its two real and neutral embeddings.
 The [C563 whole-order canonical interface](Yin_C_G0563_v1.md#decision-complete-isolated-whole-adoption) supplies B_R=H, A_R=H composed with J and sigma_R=A_R B_R.
 
-The bounded reuse screen read C826's arbitrary level-only ONE-step obstruction and finite same-level ratio, C599's monotone radial ONE-step obstruction, C621's exact forced-boundary/central-clock mechanism, C612's central harmonic clock and H-sensitive row identities, and C563's reciprocal convolution distinction.
+The bounded reuse screen read C783's arbitrary level-only ONE-step obstruction and finite same-level ratio, C599's monotone radial ONE-step obstruction, C601's exact forced-boundary/central-clock mechanism, C593v2's central harmonic clock and H-sensitive row identities, and C563's reciprocal convolution distinction.
 Targeted searches for fixed horizons, forced equal-level endpoints, reciprocal harmonic ratios and unbounded same-level/radius ratios found no adequate account of FC1--FC8.
 This is a bounded reuse statement, not a literature-priority claim.
 Those existing inputs suffice for the elementary algebra and finite-row argument below; no new external theorem is invoked.
 
-C826's all-three-successor flat rows retain a separate scope: the present paths have only one legal successor and compare arbitrary fixed horizons.
-C621/C612's variable-length central reduction likewise remains outside the present fixed-horizon obstruction.
+C783's all-three-successor flat rows retain a separate scope: the present paths have only one legal successor and compare arbitrary fixed horizons.
+C601/C593v2's variable-length central reduction likewise remains outside the present fixed-horizon obstruction.
 The newer strict R<beta and large lower bound for mu are not needed for this construction and do not alter its scope.
 
 ### Actual-order arithmetic and all embeddings
@@ -290,7 +290,7 @@ No inference from a pointwise comparison failure to divergence of a complete sum
 The complete sum sum_D sigma_R is the extended critical mean mu by C563.
 FC13 alone supplies no lower bound for the occupation of any selected corridor, no disjointness among corridors for different(m,k), and no lower probability of reaching them from zero.
 Consequently neither the long deterministic times nor the large harmonic ratios prove mu infinite.
-They also give no bound on C828's complete positive-level phase derivative g'(R), and no positive linear complete-bridge level expectation.
+They also give no bound on C785's complete positive-level phase derivative g'(R), and no positive linear complete-bridge level expectation.
 A successful argument must still control actual entrance/continuation mass, or use a genuinely state-dependent statistic or stopping rule not excluded by FC5.
 This preserves both critical branches and the actual canonical-convolution boundary.
 
@@ -311,7 +311,7 @@ This preserves both critical branches and the actual canonical-convolution bound
 | --- | --- | --- |
 | statement | [Entire forced-corridor statement](#statement) | Complete fixed-quartic FC1--FC8 and all finite/infinite quantifiers, actual law/core/H/Q, every profile/dual comparison obstruction and all stated exclusions. |
 | argument | [Complete argument](#complete-argument) | Entire FC1--FC13 proof, actual-order and embedding algebra, explicit sufficient k conditions, all-step legality, deterministic original/Q path, reciprocal norm equality, fixed-m and increasing-m order, exact actual factors/occupation and unpaid-tail boundary. |
-| dependency | [Exact actual core and excluded boundary state](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed-quartic strict strip equals the original accessible/coaccessible O-core using C399's complete narrow co-return premise; actual c boundary element, without an arbitrary Salem extension or timing extrapolation. |
+| dependency | [Exact actual core and excluded boundary state](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed-quartic strict strip equals the original accessible/coaccessible O-core using C396's complete narrow co-return premise; actual c boundary element, without an arbitrary Salem extension or timing extrapolation. |
 | dependency | [Exact level and relative norm identity](Yin_C_G0780_v1.md#decision-whole-reviewed-2026-10-26) | Actual quartic K>=0, rho^2=sqrt13 K+x_+x_- and full core coordinate convention; no linear bridge moment imported. |
 | dependency | [Actual critical harmonic and kernel interface](Yin_C_G0599_v1.md#decision-complete-isolated-whole-adoption) | True R<2, positive actual H<=1, H=R P_D H and stochastic critical Q with original p_e in either mean branch; no stationary assumption or successful drift witness borrowed. |
 | support | [Existing balanced unit](Yin_C_G0790_v1.md#decision-whole-reviewed-2026-10-26) | Only actual-order v unit and exact contracting real/expanding neutral embeddings; specialized formulas are checked explicitly here, with no counting/probability inference. |
@@ -329,7 +329,7 @@ This preserves both critical branches and the actual canonical-convolution bound
 | --- | --- | --- |
 | statement | [Entire forced-corridor statement](#statement) | Complete fixed-quartic FC1--FC8 and all finite/infinite quantifiers, actual law/core/H/Q, every profile/dual comparison obstruction and all stated exclusions. |
 | argument | [Complete argument](#complete-argument) | Entire FC1--FC13 proof, actual-order and embedding algebra, explicit sufficient k conditions, all-step legality, deterministic original/Q path, reciprocal norm equality, fixed-m and increasing-m order, exact actual factors/occupation and unpaid-tail boundary. |
-| dependency | [Exact actual core and excluded boundary state](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed-quartic strict strip equals the original accessible/coaccessible O-core using C399's complete narrow co-return premise; actual c boundary element, without an arbitrary Salem extension or timing extrapolation. |
+| dependency | [Exact actual core and excluded boundary state](Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Fixed-quartic strict strip equals the original accessible/coaccessible O-core using C396's complete narrow co-return premise; actual c boundary element, without an arbitrary Salem extension or timing extrapolation. |
 | dependency | [Exact level and relative norm identity](Yin_C_G0780_v1.md#decision-whole-reviewed-2026-10-26) | Actual quartic K>=0, rho^2=sqrt13 K+x_+x_- and full core coordinate convention; no linear bridge moment imported. |
 | dependency | [Actual critical harmonic and kernel interface](Yin_C_G0599_v1.md#decision-complete-isolated-whole-adoption) | True R<2, positive actual H<=1, H=R P_D H and stochastic critical Q with original p_e in either mean branch; no stationary assumption or successful drift witness borrowed. |
 | support | [Existing balanced unit](Yin_C_G0790_v1.md#decision-whole-reviewed-2026-10-26) | Only actual-order v unit and exact contracting real/expanding neutral embeddings; specialized formulas are checked explicitly here, with no counting/probability inference. |

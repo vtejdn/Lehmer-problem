@@ -4,13 +4,17 @@ author: Yin
 
 # Phase-sensitive collars and linear-degree energy windows
 
+Current checking scope is owned by [R48](../audits/reviews/Yin_R_G0048_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Joint bounded G0001 derivation by the assigned entropy_status AI and the coordinating AI for Yin.
 The coordinating AI requested retaining the actual central phases in L G0144's projected Gramian rather than its coarse 32q/m loss.
 The assigned AI derived the finite rank-two formula, the phase-distance bound and the two-scale projection estimate below.
 The coordinator then derived the Hankel sampling bound, the Fejer central Gramian estimate and the linear-degree actual-family construction.
 The assigned AI checked and assembled that full contribution, using a slightly coarser elementary square-sum estimate with the same final constants.
-Both are contributors; complete independent review is recorded below.
+Both are contributors; the complete checking account below retains the responsible findings' actual relationships.
 No numerical mathematical run, root approximation, optimization or new external source is a premise.
 The coordinator accepted this reviewed proof for fixed-ledger preservation on 2026-10-08.
 

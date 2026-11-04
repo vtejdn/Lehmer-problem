@@ -647,7 +647,7 @@ A subsequent strengthening requires its own added scope check rather than inheri
 At 2026-10-09T16:22 the same separately assigned, noncontributing reviewer completed the full read and proof check of [D G0028](../../ledger/Yin_L_G0170_v1.md#exact-salem-return-strip), including its general conditional theorem, fixed-input boundary observation and [two-sided state count](../../ledger/Yin_L_G0170_v1.md#return-core-neutral-growth).
 The coordinator authored these deductions and had explained the proposed strengthening before this review; the review is independent of their derivation but not blind.
 No mathematical defect or missing hypothesis was found.
-This new finding supplements, rather than retroactively enlarges, the 00:17 review above.
+This new finding supplements, rather than retroactively enlarges, the 2026-10-09T16:17 review above.
 
 The general statement expressly assumes narrow-domain co-return for the actual order, original digits and the same beta.
 It does not assert that premise for every Salem unit.
@@ -724,7 +724,7 @@ That whole original D17 Sections1--5/algebraic/joint-simplex/full-cell/strip/fin
 For the original23:59 normalized-body finding, the account specifically states that the coordinator's normalized linear-functional implication and positive-denominator/additive-drop guards were available before review.
 These are substantive mathematics of that target, so the whole normalized D20 Sections1--5/J24/J27 arrangement is known self-review.
 The original00:07 enumeration arrangement likewise discloses the coordinator's conceptual enclosing-ellipsoid/LDL contribution before the findings, in addition to preliminary reading; the complete D22 Sections1--4/J26/J28 scope is self-reviewed.
-For the original00:11 paths/exclusions and00:17 complete assembly, the retained account says earlier component findings and author/coordinator progress explanations were read first.
+For the original2026-10-09T16:11 UTC paths/exclusions and 2026-10-09T16:17 complete assembly, the retained account says earlier component findings and author/coordinator progress explanations were read first.
 The actual earlier findings above contain the target's normalized-drop and exact complete-enumeration conclusions.
 This establishes shared substantive target-mathematical context for the whole new path/coverage and complete bridge/timing assembly arrangements.
 Their separate polynomial/interval/enumeration implementations remain actual computational facts, not isolated whole mathematical review.
@@ -757,5 +757,5 @@ Date: 2026-10-09T16:22.
 At the same actual event recorded in the preceding original account, the reviewer reread D27 theorem item3 after the coordinator clarified that the finite-prime-support statement concerns nonzero states.
 This matches the original L157 interface and resolves the initial precision suggestion without changing another quantifier, constant or dependency.
 The reread covered that actual changed item only.
-The complete initial00:17 assembly finding remains at its original scope, and no additional complete corrected-proof inspection or native run is invented.
+The complete initial 2026-10-09T16:17 assembly finding remains at its original scope, and no additional complete corrected-proof inspection or native run is invented.
 This targeted finding is self-reviewed under the same known prior component-conclusion/shared-chain arrangement; it does not alter the distinct whole D28 unknown relationship.

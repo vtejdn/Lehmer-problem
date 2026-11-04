@@ -13,7 +13,8 @@ No native mathematical program or J is proposed.
 ## Current input status before final freeze
 
 2026-10-15T14:49.
-The author has now read the ACTUAL [C147v4 whole-reviewed decision](Yin_C_G0147_v4.md#decision-whole-reviewed-2026-10-15), dated22:47, selecting [R364's whole independent finding](../audits/reviews/Yin_R_G0364_v1.md#explicit-square-root-cyclic-whole-independent-finding), PASS without correction.
+The author has now read the ACTUAL [C147v4 whole-reviewed decision](Yin_C_G0147_v4.md#decision-whole-reviewed-2026-10-15), dated22:47, selecting [R364's whole finding](../audits/reviews/Yin_R_G0364_v1.md#explicit-square-root-cyclic-whole-independent-finding), PASS without correction.
+Referenced finding relationship: self-reviewed.
 Its numerical endpoint is an ACCEPTED input of the COMPLETE current statement, including Sections7--10 and formulas19--29.
 C147v2/v3 remain adopted at their exact scopes.
 All earlier unfixed/pending sentences are retained opening or explicitly dated development history, not current unresolved mathematical premises.
@@ -21,7 +22,7 @@ This new C146 application itself still awaits separately organized whole review 
 
 ## Responsible question, reuse and current input boundary
 
-Read the actual adopted [C146v2](Yin_C_G0146_v2.md#decision-whole-reviewed-2026-10-15), especially its [pre-Omega own-ratio-field outputs](Yin_C_G0146_v2.md#ratio-own-field-author-calculation) and [original signed-norm return](Yin_C_G0146_v2.md#ratio-original-signed-norm-return); the adopted [C146v3](Yin_C_G0146_v3.md#decision-whole-reviewed-2026-10-15); [C147v2](Yin_C_G0147_v2.md#decision-whole-reviewed-2026-10-15) and all of its14 formulas; and [C147v3](Yin_C_G0147_v3.md#decision-whole-reviewed-2026-10-15), whose22:30 adoption selects actual whole R507.
+Read the actual adopted [C146v2](Yin_C_G0146_v2.md#decision-whole-reviewed-2026-10-15), especially its [pre-Omega own-ratio-field outputs](Yin_C_G0146_v2.md#ratio-own-field-author-calculation) and [original signed-norm return](Yin_C_G0146_v2.md#ratio-original-signed-norm-return); the adopted [C146v3](Yin_C_G0146_v3.md#decision-whole-reviewed-2026-10-15); [C147v2](Yin_C_G0147_v2.md#decision-whole-reviewed-2026-10-15) and all of its14 formulas; and [C147v3](Yin_C_G0147_v3.md#decision-whole-reviewed-2026-10-15), whose22:30 adoption selects actual whole R363.
 Its complete16-formula family was checked against the actual fixed file.
 [AM16-U002](../audits/literature/AM16/Yin_U002.md#am16-u002) and its actual Theorem2.1 K=Q,r=1 statement were already read textually and visually in the preceding author round; its accepted source limits remain unchanged.
 
@@ -312,7 +313,7 @@ Chebotarev existence does not supply inexpensive p, and no source constant is in
 
 Root supplied the substantive combination candidate and requested a single full parameter family.
 This author checked the actual fixed input/adoption scope, derived the branch/minimum algebra, X_p and X_(p,q,theta), the explicit eta_theta choice, the capped fixed-q inverse, numerical quarter specialization and exact comparison orders.
-Both are contributors to this new combination; the old R505 review and C147 author roles remain at their recorded scopes.
+Both are contributors to this new combination; the old R361 review and C147 author roles remain at their recorded scopes.
 Final whole review must be performed by a noncontributor on the actual fixed successor.
 No final author freeze is made yet because root has requested coordination with the separately pending endpoint inquiry before selecting the complete successor scope.
 
@@ -496,7 +497,7 @@ The near-one sequences remain hypothetical.
 G0001 is not resolved by these supplied-hypothesis criteria.
 
 Root and this author are contributors to the present combination.
-The original endpoint's R364 and the author's older R505/accepted antecedent roles do not provide independent review of this consumer.
+The original endpoint's R364 and the author's older R361/accepted antecedent roles do not provide independent review of this consumer.
 An actual fixed whole review must inspect ALL eleven sections and twenty-nine formulas, not only the endpoint addendum.
 The material check returned checked1 before final freeze; it checks structure and links only.
 No native mathematical code, J, external acquisition or source rewrite occurred.
@@ -555,5 +556,5 @@ The recorded review description was `independently reviewed`.
 | dependency | [Full fixed-q modulus](Yin_C_G0147_v3.md#statement) | Exact admissible q,B,h_star and fixed source-constant scope; no numerical/effective or eta-uniform constant. |
 | dependency | [Numerical square-root modulus](Yin_C_G0147_v4.md#statement) | Constant86 and logarithmic power5/2 on h<=exp(-40), monotonicity and actual norm/degree scope under its accepted R364 decision. |
 | support | [Previous sixth-power gap](Yin_C_G0146_v3.md#statement) | Previous capped g6 and its large-k order, comparison and inverse precedent only; no claim of finite pointwise dominance. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0366_v1.md#full-parameter-frobenius-whole-independent-finding) | Whole eleven sections/twenty-nine formulas, all adopted data and finite inverse scopes, actual original norm/degree/time costs and source/contribution boundaries. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0366_v1.md#full-parameter-frobenius-whole-independent-finding) | Whole eleven sections/twenty-nine formulas, all adopted data and finite inverse scopes, actual original norm/degree/time costs and source/contribution boundaries. Finding relationship: self-reviewed. |
 

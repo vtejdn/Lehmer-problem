@@ -8,7 +8,7 @@ Human record author: Yin.
 This is the current constructor's SELF finding about its retained construction assessment account and explicit review-target coverage, not a new mathematical refutation.
 The complete-worktree check exposed an attempted 2026-10-22T16:24 adoption whose selected old review covered L413 rather than this newly registered C525 Statement and Argument.
 The old review is not changed or supplied with retrospective bindings.
-The later actual 2026-10-22T17:53 adoption uses R879, which genuinely covers the current C inputs.
+The later actual 2026-10-22T17:53 adoption uses R732, which genuinely covers the current C inputs.
 
 ## Review relationships
 
@@ -21,8 +21,8 @@ The later actual 2026-10-22T17:53 adoption uses R879, which genuinely covers the
 | Review | Target | Scope |
 | --- | --- | --- |
 | [Rejected initial adoption](#rejected-c533-registration-adoption-finding) | [C525 statement](../../claims/Yin_C_G0525_v1.md#statement) | Exact new registered statement is the required coverage target; the finding concerns the insufficient initial adoption below, not the truth of this theorem. |
-| [Rejected initial adoption](#rejected-c533-registration-adoption-finding) | [C525 argument](../../claims/Yin_C_G0525_v1.md#argument) | Exact new registered argument is the required coverage target; complete mathematical review remains R879's independent scope. |
-| [Rejected initial adoption](#rejected-c533-registration-adoption-finding) | [Old R419 finding](Yin_R_G0419_v1.md#two-adic-rank-seven-whole-independent-finding) | Its actual fixed L413/J107/R564 inputs remain at their original dates and declared relationship; it does not contain retrospective coverage of the later C525 wrapper. |
+| [Rejected initial adoption](#rejected-c533-registration-adoption-finding) | [C525 argument](../../claims/Yin_C_G0525_v1.md#argument) | Exact new registered argument is the required coverage target; complete mathematical review remains R732's independent scope. |
+| [Rejected initial adoption](#rejected-c533-registration-adoption-finding) | [Old R419 finding](Yin_R_G0419_v1.md#two-adic-rank-seven-whole-independent-finding) | Its actual fixed L412/J107/R418 inputs remain at their original dates and declared relationship; it does not contain retrospective coverage of the later C525 wrapper. |
 
 <a id="rejected-c533-registration-adoption-finding"></a>
 ## Rejected initial adoption
@@ -32,7 +32,7 @@ Its additional shadow self-level characterization did not change R419's real rel
 Every original field, date, reason, selected target and scope from that attempted decision is retained verbatim below as a rejected construction account.
 The relative locators in the verbatim block retain their original C525-file interpretation; the actual mathematical inputs remain available at those fixed paths and versions.
 The block supplies no adoptable C decision and no retroactive review declaration.
-The current C retains its original open registration and the genuine later R879 adoption, with unchanged Statement, Argument and support mathematics.
+The current C retains its original open registration and the genuine later R732 adoption, with unchanged Statement, Argument and support mathematics.
 No proof, source finding, native evidence, old R date or valid prior acceptance is deleted or reclassified.
 
 ```markdown

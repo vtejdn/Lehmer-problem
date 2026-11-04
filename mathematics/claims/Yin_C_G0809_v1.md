@@ -10,7 +10,7 @@ Root selected the remaining fifteen-divisible cyclotomic obligation, supplied th
 Characteristic_zero_bridge derived and checked the complete integer composition, maximal binary descent, parity, derivative, split-primary pullback and degree arguments.
 Both are substantive contributors; this author-side checking is not independent review.
 The complete FD1--FD13 argument is fixed below, with no mutable D proof dependency.
-Fresh isolated whole review and separate adoption remain outstanding.
+At author registration, fresh isolated whole review and separate adoption were outstanding.
 No native scan, new external theorem, assumed source existence or unrestricted Mahler-gap conclusion is a premise.
 
 ## Statement
@@ -129,7 +129,7 @@ Their source-inspection limits are retained; no fresh source audit, independent 
 This is the complete fixed author argument by root and characteristic_zero_bridge, developed on 2026-10-26.
 Root selected C760's unresolved fifteen-divisible domain and supplied the concrete degree778 candidate below.
 Characteristic_zero_bridge derived the exact Delta-composition formula, the strengthened parity condition, maximal binary Frobenius descent and the complete derivative-degree obstruction.
-Both are contributors; this new argument has no independent whole review or adopted assessment.
+Both are contributors; at author registration this new argument had no independent whole review or adopted assessment.
 The reuse check read [adopted C760](Yin_C_G0760_v1.md#decision-whole-reviewed-2026-10-25), [adopted C763](Yin_C_G0763_v1.md#decision-whole-reviewed-2026-10-25), their current D43/S continuation, and [C736's actual integer canonical identities](Yin_C_G0736_v1.md#decision-whole-reviewed-2026-10-25).
 A focused search of later fixed Claims and retained drafts/ledgers found no subsequent resolution of that exception or the derivative-degree conclusion proved here.
 The argument uses those exact adopted interfaces and elementary polynomial identities; no native scan, new external theorem, source-family existence or independently reviewed new result is a premise.
@@ -339,7 +339,7 @@ No conclusion is transferred to arbitrary irreducible factors, nontorsion inputs
 | --- | --- |
 | date | 2026-10-26T17:14 |
 | status | open |
-| reason | Register the complete author theorem FD1--FD13 with original canonical domain, maximal binary Frobenius normalization, parity in both branches, exact differentiated full modulus, every split-primary pullback, complete radical-degree charge and the actual degree778 second-residual failure. Root and characteristic_zero_bridge are substantive contributors; fresh isolated whole review and separate adoption remain outstanding. Larger complete radicals, leading-unit compatibility and the unrestricted Task remain unresolved. |
+| reason | Register the complete author theorem FD1--FD13 with original canonical domain, maximal binary Frobenius normalization, parity in both branches, exact differentiated full modulus, every split-primary pullback, complete radical-degree charge and the actual degree778 second-residual failure. Root and characteristic_zero_bridge are substantive contributors; fresh isolated whole review and separate adoption were still outstanding at author registration. Larger complete radicals, leading-unit compatibility and the unrestricted Task remain unresolved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

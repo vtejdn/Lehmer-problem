@@ -40,7 +40,7 @@ Only high-lag cancellation makes the forced exact symbol; neither individual red
 
 For rational original weights all individual monomial labels remain in least M, m_0+sum m_i=M and ME is an integer under that forced identity.
 The least symbol coefficient denominator L divides M, not conversely, and no unproved cancellation clears q^-2 correlations.
-Positive integer means1 and2 were compared with the complete C406 theorem: nonconstant L>=4 and strictly positive or non-binomial L>=6, with the binomial's actual zeros preserved.
+Positive integer means1 and2 were compared with the complete C403 theorem: nonconstant L>=4 and strictly positive or non-binomial L>=6, with the binomial's actual zeros preserved.
 For A=3+C_1+C_2=x^2+x+1, all E/H/kappa and minimum1/8 are exact.
 Integer squared-modulus energy3 was checked through every three-coefficient partition: constants, binomial plus monomial, and both unequal/equal trinomial gaps.
 No case supplies exactly the two +1 lags1,2; the literal expansion of |2+t+2t^2|^2+3=4A proves the paid denominator2 repair.

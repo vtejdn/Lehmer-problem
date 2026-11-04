@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: actual selected trace edges and all radical competitors
 
 Recorded 2026-10-22T20:00 after the maintaining Yin agent read the actual published OPEN C588 complete Statement and BOTH ENTIRE mathematical Arguments.
-The same agent read complete original L304/L308, full R203/R207, J77 account and the exact C588/C467/C587/C305/C520/C402 interfaces and retained Syn26/Nat26 source-role accounts.
+The same agent read complete original L304/L308, full R203/R207, J77 account and the exact C571/C463/C570/C304/C515/C399 interfaces and retained Syn26/Nat26 source-role accounts.
 The current whole finding is SELF with prior author/review context available.
 No isolated review, new mathematical research proof, source reading/acquisition or native/program execution occurred.
 
@@ -33,7 +33,7 @@ Low/high blocks are disjoint even at n=s, so their actual edge is unique.
 Evaluation at both inverse original roots gives alpha^(n+s), hence E_n=S_Q at EVERY admissible window.
 The inverse unit order supplies the integral representative; scalar extension alone supplies no integral claim.
 
-The least diagonal rule, primitive adjugate normalization and C588 exact Gram additive order give positive integer L, rational q=L/delta, primitive w and H w=L u.
+The least diagonal rule, primitive adjugate normalization and C571 exact Gram additive order give positive integer L, rational q=L/delta, primitive w and H w=L u.
 The trace formula sums every trace embedding without conjugation.
 The FULL edge norm is Norm(a)^2; the FULL auxiliary norm instead includes P(1)P(-1), every original scalar L and all trace u factors.
 The complete coefficient energy and rho follow directly from the paired anti coefficients.
@@ -75,7 +75,7 @@ The extra q-1 formal-reversal degree restores the exact full edge convention.
 Every base root has ALL q preimages, proving the signed norm powers and unchanged COMPLETE Mahler/coefficient/leading costs with degrees multiplied by q.
 The radial cost remains the full base charge, not a divided total measure.
 
-C467 supplies the EVERY-odd-prime irreducibility and actual2q roots of t^(2q)-3t^q+1.
+C463 supplies the EVERY-odd-prime irreducibility and actual2q roots of t^(2q)-3t^q+1.
 The orthogonal recurrence rows have squared norms60/276 and include every central/outer diagonal class.
 The exact comparison1/74<7/345 is strict and the anti minimum unique, so k=q is the genuine global selected index at n=3s>2s.
 The corrected full polynomial, formal reversal and beta^4=21beta-8 give a=1 at EVERY original trace.

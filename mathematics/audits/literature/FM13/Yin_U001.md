@@ -200,46 +200,8 @@ Its historical conjecture wording is not current project status: the accepted [D
 No reverse implication from this endpoint to p=2 or p=1 is supplied.
 Moreover Gamma_infinity and Gamma_2 use potentially different minimizing choices; they are not a single fixed subgroup with automatically interchangeable norm topologies.
 
-For a nonzero f=f_alpha in S with a minimal representative of degree d, put a_i=log|alpha_i| for all d original complex embeddings, counting a nonreal pair twice.
-All finite-place values vanish.
-Then exactly
-
-    sum_i a_i=0,
-    m=sum_i max(a_i,0),
-    ||f||_(m,1)=sum_i |a_i|=2m,
-    ||f||_(m,2)^2=d sum_i a_i^2,
-    ||f||_(m,infinity)=d max_i |a_i|.
-
-Let c=log2/4 be the accepted house constant.
-The house theorem supplies max_i |a_i|>=c/d, which gives only
-
-    ||f||_(m,2)>=c/sqrt(d)
-
-by the single largest term.
-This is degree dependent and tends to zero.
-The source's elementary norm comparisons do not upgrade it to a uniform p=2 lower bound.
-
-If k is the number of NONZERO a_i, counted with the same embedding multiplicity, elementary Cauchy--Schwarz gives
-
-    2m=sum_i |a_i|<=sqrt(k sum_i a_i^2),
-    ||f||_(m,2)>=2m sqrt(d/k).                         (A)
-
-For d>=exp(e), the already accepted [full numerical Dobrowolski input](../../../claims/Yin_C_G0147_v5.md#argument) gives
-
-    m>=(1/2400)(log log d/log d)^3,
-    ||f||_(m,2)>=(1/1200)sqrt(d/k)(log log d/log d)^3.  (B)
-
-Thus a class with k<=C d(log log d/log d)^6 has the large-degree uniform p=2 floor 1/(1200 sqrt(C)).
-The finitely many remaining degrees have a positive floor from the already accepted house bound.
-This is a restricted support-concentration consequence of existing inputs, not an unrestricted p=2 theorem or a classical p=1 gap.
-For Salem numbers, k=2 and the source's exact formula (4.8) is
-
-    ||f_tau||_(m,p)=2^(1/p) d^(1-1/p) log tau,
-    ||f_tau||_(m,2)=sqrt(2d) log tau.
-
-The lower bound in (B) then grows with d, even though a hypothetical Salem total measure could tend to zero at a compatible slower rate.
-Accordingly the Salem family is already benign for this p=2 question without settling its p=1 minimum.
-Small total m has not been shown to imply the support condition in (B); conjugates can have small nonzero radial logarithms rather than lie exactly on the circle.
+The substantial local radial-support/degree p=2 deduction and its house/Dobrowolski/Salem boundaries are fixed in [C855](../../../claims/Yin_C_G0855_v1.md#statement).
+It is a restricted project argument, not FM13's source theorem or a general p=2 resolution.
 
 The bounded primary search for later p=2 resolution found the stated paper and related source references but no verified theorem resolving its general p=2 assertion.
 This is the search outcome and the boundary of the accepted inputs, not an exhaustive current-literature status claim.

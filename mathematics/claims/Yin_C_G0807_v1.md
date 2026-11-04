@@ -9,7 +9,7 @@ The author primitive_second_eight developed the separable height-one rigidity, e
 The substantive contributor global8_core_factor derived the integer reciprocal remainder algorithm, signed five-class checksum and its first-bit failure consequence.
 Primitive_second_eight checked those contributions against the complete actual source and integer division interfaces.
 These are author/contributor roles, not independent reviews.
-This complete bounded candidate is OPEN for fresh independent whole review and separate adoption.
+At author registration, this complete bounded candidate was OPEN for fresh independent whole review and separate adoption.
 It contains no evaluated successful or failed C799 source checksum and no new global8 realization.
 
 ## Statement

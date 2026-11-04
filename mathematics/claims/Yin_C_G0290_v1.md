@@ -216,7 +216,7 @@ The lower bound (6) still tends to zero, and the retained strict entropy loss fo
 In this section retain the nontorsion algebraic-unit application domain of the cited Poisson and moment records.
 Set A_(N,0)=1, as in L G0086's Poisson series; the same central-mode argument also covers floor(lambda N)=0.
 
-The fair-sum comparison of [C G0281](Yin_C_G0280_v1.md#abelian-binary-entropy-comparison) and the thinning proof of [C G0283](Yin_C_G0282_v1.md#mahler-dependent-poisson-rate) now apply with the explicit full-input lower bound H_N>=N D(m).
+The fair-sum comparison of [C280](Yin_C_G0280_v1.md#abelian-binary-entropy-comparison) and the thinning proof of [C282](Yin_C_G0282_v1.md#mahler-dependent-poisson-rate) now apply with the explicit full-input lower bound H_N>=N D(m).
 In their notation, for every N and every fixed lambda>0,
 
     p_max(S_N), Col_binary(S_N)<=exp(-N D(m)/2),

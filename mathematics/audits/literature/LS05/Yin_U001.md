@@ -131,5 +131,5 @@ The matrix agent separately inspected retained pp.7,12,15,16,25 and the source s
 Neither check audits the hard converse or the entire entropy-preservation proof.
 The assess agent independently checked the local forbidden-all-ones-block argument under the stated tail-evaluation premise, without claiming an original-source reread.
 
-The actual fair-sign and fair-bit failure of tightness is proved in [C G0320](../../../claims/Yin_C_G0319_v1.md#ls05-central-cocycle-iid-interface).
+The actual fair-sign and fair-bit failure of tightness is proved in [C G0319](../../../claims/Yin_C_G0319_v1.md#ls05-central-cocycle-iid-interface).
 This local result does not turn the source's restricted entropy theorem into a representation for the unrestricted digit law.

@@ -13,6 +13,11 @@ Both original author certificate executions remain at their adequate J40 home wi
 No source/PDF reading, new producer/verifier/native run, program/J or research Task/E occurs.
 The unchanged retention/checking accounts below record their actual checkpoints, including R685's06:55 whole SELF and06:56 adoption; the selected07:26 decision adopts the later new R689 whole finding and its separate original-domain execution.
 
+## Native input replay limits
+
+The [J40 selected word/vertex payload](../computations/programs/Yin_J_G0040/readme.md#native-input-availability) is currently unavailable for the author and separate native checker.
+The compact-residue construction remains distinct from the missing fifty-cell818-word geometric selection; the original dated proof and review scopes are preserved.
+
 ## Statement
 
 Fix the actual irreducible Salem root beta in(3/2,151/100) of

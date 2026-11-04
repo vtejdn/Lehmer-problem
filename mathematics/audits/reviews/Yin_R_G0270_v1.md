@@ -5,7 +5,8 @@ author: Yin
 
 Date: 2026-10-12T11:14.
 Human record author Yin.
-Root performs this separately organized actual extraction review. g0001_routes authored both the original D12 mechanism and the actual C58 wrapper; root supplied only the broad prior exploration question and no formula, proof step, correction or program for that result.
+Root performs this separately organized actual extraction review.
+g0001_routes authored both the original D12 mechanism and the actual C58 wrapper; root supplied only the broad prior exploration question and no formula, proof step, correction or program for that result.
 R267's prior whole finding was visible and is reused only at its original scope.
 That same-target whole conclusion came from another reviewer and was supplied before the initial extraction findings.
 This finding is therefore self-reviewed under the shared-context rule despite noncontribution to the original proof or wrapper; the actual date, fixed inputs, mathematical findings and limitations remain unchanged and no new review is performed here.

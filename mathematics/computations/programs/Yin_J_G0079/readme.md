@@ -274,7 +274,7 @@ See [R166](../../../audits/reviews/Yin_R_G0166_v1.md#residual-lattice-complete-i
 <a id="joint-budget-complete-independent-review"></a>
 ### Joint linear budget: one optimum and one incomplete search
 
-The complete [C326v1 isolated inspection](../../../audits/reviews/Yin_R_G0554_v1.md#whole-c326) supports the conditional budget, actual n18 certificate and n30 failure, but records the false arbitrary-family nonemptiness sentence.
+The complete [C325v1 isolated inspection](../../../audits/reviews/Yin_R_G0554_v1.md#whole-c326) supports the conditional budget, actual n18 certificate and n30 failure, but records the false arbitrary-family nonemptiness sentence.
 The separate [C325v2 correction](../../../claims/Yin_C_G0325_v2.md#statement) retains all native data and actually adopted [R557 fresh complete repaired-chain finding](../../../audits/reviews/Yin_R_G0557_v1.md#complete-repaired-joint-budget).
 The earlier [constructor self-check](../../../audits/reviews/Yin_R_G0555_v1.md#feasible-family-repair-self-finding) remains a distinct self-reviewed occurrence; the new reviewer supplied no repair.
 The actual two families include the original monomial witnesses; no n30 optimum or arbitrary-family feasibility follows.
@@ -320,7 +320,8 @@ The complete original [R170 finding](../../../audits/reviews/Yin_R_G0170_v1.md#s
 The [R559 whole self-review](../../../audits/reviews/Yin_R_G0559_v1.md#complete-signed-power-current-finding) covers the entire proof, the original bounded comparison and the separate all-exponent order-unit argument.
 The [whole separately arranged R561 finding](../../../audits/reviews/Yin_R_G0561_v1.md#whole-signed-power-isolated-finding) retains its complete mathematical/native check and subsequent whole R170/R559 comparison.
 It corrected its relationship to self-reviewed on2026-10-21T10:38 after confirming prior conclusion summaries were read in this J documentation before initial findings.
-C338 now selects the adequate complete self findings; the earlier mistaken independent-coverage adoption is historical, and R170 still requires an isolated M04 replacement.
+C338's earlier self-finding selection and mistaken independent-coverage adoption are historical.
+Its current decision selects [R566's complete isolated finding](../../../audits/reviews/Yin_R_G0566_v1.md#isolated-complete-signed-power-finding); that later replacement does not change the original native execution or R170's earlier scope.
 Its stdout-only fixed-domain replay reconstructed all 834 vectors, 133680 signed decisions and 31 quotient identities; every mathematical summary record matched the original saved review.
 The current scalar/schema tally is 202735 and the original tally is 202736; these are distinct execution facts, with no asserted cause for the one-count difference.
 All six inspected program/native files remained byte-identical across that replay.
@@ -349,7 +350,7 @@ Neither endpoint is asserted to be the exact nonlinear optimum, and no all-resid
 The structural reviewer contributed none of the tangent argument; root's contribution and the reviewer's upstream authorship/reviews are disclosed in [R172](../../../audits/reviews/Yin_R_G0172_v1.md#full-surplus-complete-independent-review).
 Its self-contained checker imported no author/reviewer code, rebuilt all 3822 correlations from full coefficient vectors, and checked 122 log certificates and all 32 cells by separate integer-power/remainder and sign-case methods.
 Accepted norm and irreducibility inputs retain their earlier inspection scope.
-The complete current theorem and necessary argument are in [C358](../../../claims/Yin_C_G0358_v1.md#statement), with the actual present [whole SELF finding](../../../audits/reviews/Yin_R_G0573_v1.md#full-surplus-whole-current-finding).
+The complete current theorem and necessary argument are in [C358](../../../claims/Yin_C_G0358_v1.md#statement), with the later selected [R576 whole finding](../../../audits/reviews/Yin_R_G0576_v1.md#isolated-full-surplus-whole), while R573 retains its earlier SELF scope.
 R172 retains its recorded author-explanation availability and unknown historical relationship; its actual content/order are unestablished, and the separate checker supplies no proof of isolation.
 
 <a id="lehmer-bundle-pre-run"></a>
@@ -377,7 +378,7 @@ It independently rebuilt all 4800 norm-matrix entries and 48 signed resultants, 
 Fraction inverse, integral-companion Horner matrices, polynomial resultants, DomainMatrix reconstruction and convolution provide the different methods, with disclosed reviewer-helper reuse and no author import.
 The numerical basis-equation maximum residual 3.928857239543504e-12 was below 1e-6, separately from exact certificate checks.
 See [R173](../../../audits/reviews/Yin_R_G0173_v1.md#lehmer-bundle-complete-independent-review).
-The complete current theorem and necessary argument are in [C359](../../../claims/Yin_C_G0359_v1.md#statement), with the actual present [whole SELF finding](../../../audits/reviews/Yin_R_G0573_v1.md#lehmer-bundle-whole-current-finding).
+The complete current theorem and necessary argument are in [C359](../../../claims/Yin_C_G0359_v1.md#statement), with the later selected [R576 whole finding](../../../audits/reviews/Yin_R_G0576_v1.md#isolated-lehmer-whole), while R573 retains its earlier SELF scope.
 R173 retains its recorded author scope/outcome availability and unknown historical relationship; their actual content/order are unestablished, and the original native programs and first-run evidence remain unchanged.
 
 <a id="budget-release-pre-run"></a>
@@ -477,6 +478,15 @@ The inconsistent sixth floating tableau remains negative evidence, while the exa
 <a id="unit-cap-same-path-reproduction"></a>
 ## Unit-cap same-path cleanup and reproduction
 
+The selected304 source columns and six exact candidates are retained at [inputs/unit-cap-certificates.json](inputs/unit-cap-certificates.json).
+This is the responsible native input for the complete norm-one finite comparison.
+Run `python -B mathematics/computations/programs/Yin_J_G0079/verify_unit_cap_inputs.py` from the repository root.
+The standard-library verifier reconstructs every signed norm, F=qB-PU identity, energy and lag, all five rational primal/dual optima, both strict improvements and the sixth feasible primal with its rejected lag9 dual.
+It has successfully checked that complete finite mathematical scope without a solver, lattice search or original floating tableau.
+The historical first report's scaled residual2.5781250000651568 against1e-6 remains the failed-float fact in [R179](../../../audits/reviews/Yin_R_G0179_v1.md#unit-cap-complete-independent-review).
+The original first/remainder programs below preserve their historical execution interfaces; their missing original JSON reports are not reconstructed or presented as new successful runs.
+The retained-input command supplies the complete exact mathematical replay instead of requiring those raw reports.
+
 Preserve the meaningful failed floating-tableau fact and exact remainder scope at [R179](../../../audits/reviews/Yin_R_G0179_v1.md#unit-cap-complete-independent-review).
 A previous downstream report does not certify a new author run.
 
@@ -551,3 +561,11 @@ Generated output files remain local and are not synchronized.
 | `unit-cap-output.json` | [Original finding and inspected scope](../../../audits/reviews/Yin_R_G0583_v1.md#unit-cap-whole-current-finding) |
 | `unit-cap-remainder-review-result.json` | [Original finding and inspected scope](../../../audits/reviews/Yin_R_G0179_v1.md#unit-cap-complete-independent-review) |
 | `unit-cap-review-result.json` | [Original finding and inspected scope](../../../audits/reviews/Yin_R_G0179_v1.md#unit-cap-complete-independent-review) |
+
+## Nonlinear-bound native input availability
+
+The n18 source data in [inputs/unit-cap-certificates.json](inputs/unit-cap-certificates.json) retain the complete98-column source family with all58 residue labels, original q and coefficient/norm inputs.
+The joint-budget selection's different thirty-nine-coordinate dual, its fixed/free/sign reconstruction identities and its exact primal/slack fields are unavailable in this checkout and its selected local Git history.
+The norm-one dual in that retained file is for a different constraint system and cannot replace the adopted joint-budget dual.
+nonlinear-bound-author.py and nonlinear-bound-review.py cannot currently replay C325/C358's selected nonlinear-bound evidence.
+Supply that minimum original joint-budget native selection at this group's tracked inputs/ and adapt both consumers while retaining all98 directions and32 cells; rerunning an LP would not identify the adopted selection.

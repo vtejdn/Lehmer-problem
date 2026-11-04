@@ -24,8 +24,8 @@ Inspection: Direct online reading of the published PDF's text, checking the exac
 
 
 Use the registered [published online PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D3BE6C493BF68649458DDED6D20AEB55/S0963548321000092a.pdf/extremal-problems-for-gcds.pdf).
-Bibliographic identity is owned by GW21 in [references.bib](../../../literature/references.bib), and acquisition facts by the GW21 entry.
-The [retained published PDF](../../../literature/pdf/GW21.pdf) is now available; current byte identity and provenance.
+Bibliographic identity is owned by GW21 in [references.bib](../../../literature/references.bib).
+The [retained published PDF](../../../literature/pdf/GW21.pdf) is now available.
 On 2026-10-14 its Theorem1.1/setup and p.923 remarks were directly compared with this unit and agree.
 This does not retrospectively assign local bytes to the original online reading or broaden its statement/applicability scope.
 
@@ -98,7 +98,7 @@ This source unit records the accepted external input only; it does not select a 
 ### Subsequent consumer organization
 
 2026-10-13T05:29.
-The entire former D24 is now preserved in [C_G101](../../../claims/Yin_C_G0101_v1.md#decision-organized-reviewed), adopted after the separate original-whole R453 and actual-extraction R454 findings.
+The entire former D24 is now preserved in [C_G101](../../../claims/Yin_C_G0101_v1.md#decision-organized-reviewed), adopted after the separate [original-whole R341](../../reviews/Yin_R_G0341_v1.md) and [actual-extraction R342](../../reviews/Yin_R_G0342_v1.md) findings.
 Incoming locators above now point to that identical retained argument.
 This changes the project consumer location and assessment, not the scope of this external-source inspection; the earlier13:09 pending status remains historical.
 No whole GW21 proof audit is added.
@@ -106,8 +106,8 @@ No whole GW21 proof audit is added.
 <a id="original-scale-loss-reviewer-reading"></a>
 ### Original scale-loss reviewer occurrence
 
-The2026-10-13 R455 reviewer, distinct from the direct_triple source author and the root source registration above, read the complete selected C101 statement and this unit for the actual fixed-epsilon equal-band density bound.
-The original R455 source binding records published-statement/applicability and online source reading at that review's date; the whole finding explicitly inherits the accepted theorem and does not audit the full GW21 source proof.
+The2026-10-13 reviewer of the original L396 whole account, retained in [R695](../../reviews/Yin_R_G0695_v1.md#l396-and-r455), distinct from the direct_triple source author and the root source registration above, read the complete selected C101 statement and this unit for the actual fixed-epsilon equal-band density bound.
+That original whole finding's source binding records published-statement/applicability and online source reading at that review's date; the whole finding explicitly inherits the accepted theorem and does not audit the full GW21 source proof.
 No separate source-reading minute is recorded, and the13:32 whole-finding completion is not substituted for one.
 The necessary theorem/setup, edition, finite epsilon-dependent constant, dyadic applicability and exclusions retain this unit's recorded depth; no new2026-10-22 PDF/source reading, whole-paper audit or preprint/published equivalence is asserted.
 The original online access and later2026-10-14 retained-PDF comparison remain different provenance events.

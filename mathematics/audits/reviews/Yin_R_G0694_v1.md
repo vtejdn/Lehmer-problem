@@ -39,7 +39,7 @@ The maintaining agent read the entire original L398, the C162 literal parameter 
 There is no adequate earlier complete C home for this particular composition: C162's local Section6 only contains the diagonal comparison, while its later decision points to the complete separate L398 proof.
 This new home retains that already author-complete mathematics; it asserts no new method or height-theorem discovery.
 The constructor read and organized the original proof and shares the maintenance context, so the present whole finding is SELF.
-It supplies no fresh independent label for the earlier author, upstream R104/R532 or source proofs.
+It supplies no fresh independent label for the earlier author, upstream R104/R387 or source proofs.
 
 Let y=sigma(alpha) at the actual supplied residue lift.
 The pair stabilizer fixes precisely Q(x,y), giving degree s d.
@@ -96,7 +96,7 @@ The old relative/class and source mechanisms remain credited; no source proof, c
 The original loglog_cyclic_review author explicitly checked the argument and all cited multiplicity/height/source interfaces.
 The original document date2026-10-18T11:47 is preserved as that document's date, not invented as a precise source-reading or author-self-check minute.
 There was no target whole independent review asserted in L398; no unknown target event is manufactured merely to fill a table.
-The upstream R104 is only the original historical review reference for L205 and is not relabelled independent by this check; likewise the old R532 finding is not extended to the later composition.
+The upstream R104 is only the original historical review reference for L205 and is not relabelled independent by this check; likewise the old R387 finding is not extended to the later composition.
 The source-reading/author and external-proof limits remain those of the already sufficient U002/U003 inputs, without new PDF/source acquisition or passage inspection.
 The unrestricted arithmetic problem and original Task pause remain unchanged.
 

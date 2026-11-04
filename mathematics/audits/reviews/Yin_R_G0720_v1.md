@@ -45,12 +45,12 @@ It did not receive the proposing agents' development dialogue or a mathematical 
 Before its initial findings, it read C496's first Statement and complete original Sections1--6, together with directly necessary fixed mathematics and native code/data.
 Those legitimate fixed inputs include the author's execution, self-check and contribution prose, and the historical labels and expected values in the existing J63 checking implementation and report.
 They were not treated as a prior PASS premise or as evidence of the old reviewer's isolation.
-The necessary accepted C480 Statement read for the paired C501 inspection also exposed that different input's historical checking limitations; it supplied no initial C496 verdict.
+The necessary accepted C476 Statement read for the paired C497 inspection also exposed that different input's historical checking limitations; it supplied no initial C496 verdict.
 No transcript filter or claim of zero historical-text exposure is made.
 
 The initial reconstruction began at 2026-10-22T03:22 and was completed at 2026-10-22T03:28, with an observed elapsed5minutes56seconds.
-Only afterward, under a separate second-stage instruction, did the reviewer read the entire original R173v1, current R854v1, L274v1, C496's later checking/Assessment/history, J63's ordinary README and necessary fixed upstream interfaces.
-That comparison ran from2026-10-22T03:30 to2026-10-22T03:35, with an observed elapsed5minutes1second.
+Only afterward, under a separate second-stage instruction, did the reviewer read the entire original R173v1, current R707v1, L274v1, C496's later checking/Assessment/history, J63's ordinary README and necessary fixed upstream interfaces.
+That comparison ran from 2026-10-22T03:30 to 2026-10-22T03:35, with an observed elapsed5minutes1second.
 Both phase times belong to this new inspection, not the old author or reviewer events.
 Publication is the separate minute stated above.
 The reviewer supplied no substantive repair.
@@ -150,12 +150,12 @@ There were zero actual write attempts.
 
 The original checker itself compares five captured native files and an optional draft before/after its run.
 This wrapper did not independently capture all seven current inputs before and after.
-The separate09:14 maintenance event's all-seven byte comparison is not claimed as a newly performed check here.
+The separate 2026-10-22T01:14 maintenance event's all-seven byte comparison is not claimed as a newly performed check here.
 The first wrapper exit is also distinct from the original author's SymPy comparison failure.
 
 ### Natural comparison with the original whole review and retained limits
 
-The compared original R173 whole was recorded at2026-10-10T03:06 on D141 Sections1--6/equations1--11 frozen at 2026-10-10T02:54.
+The compared original R173 whole was recorded at 2026-10-10T03:06 on D141 Sections1--6/equations1--11 frozen at 2026-10-10T02:54.
 Its full mathematical/computation verdict, original Python3.12.14 checker run of0.8069799999939278seconds, complete native domain, source boundaries, costs and negative scope are covered by this inspection.
 Its record reports no failed, capped, partial or random old reviewer run.
 Those remain original events, not new runs at the old date.
@@ -170,12 +170,12 @@ The original author classification completed in0.703000seconds.
 Its first saved-certificate check stopped at structural equality between an expanded polynomial and an unexpanded product; expanding the comparison product changed no mathematics, classification or saved finite set.
 That failed attempt produced no verification.json.
 The corrected author check completed in0.281000seconds and is not a separate completeness traversal.
-Its original whole-check date retains2026-10-10 day precision;10:54 freeze and11:06 review do not supply a missing author-check minute.
-The adequate existing complete original-author SELF in R854 remains separate from this independent finding.
+Its original whole-check date retains2026-10-10 day precision;2026-10-10T02:54 freeze and 2026-10-10T03:06 review do not supply a missing author-check minute.
+The adequate existing complete original-author SELF in R707 remains separate from this independent finding.
 
 The original opening sentence denying a global obstruction is historical starting language.
 The completed theorem establishes the stated all-basis result for THIS actual form, rather than a mathematical repair of that opening sentence.
-R854's09:20 SELF and its09:14 replay remain their own actual current events and are not relabelled independent.
+R707's 2026-10-22T01:20 SELF and its 2026-10-22T01:14 replay remain their own actual current events and are not relabelled independent.
 The original11:24 adoption history must retain its original input/date meaning if its references are reconciled.
 
 The result excludes neither every form with pencil Phi6 P4, every stabilization, a different lattice or a different neutral multiplier.

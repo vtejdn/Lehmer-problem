@@ -63,7 +63,7 @@ No positive-theta analogue, actual new covariance independence, uniform near-one
 
 The full original Sections1--7/equations1--19 follow, retaining all singular, translation, dimension, time, cutoff, control and source limits.
 Their active-task and prospective-investigation language records the original2026-10-10 chronology; no Task/E or research/source execution resumes.
-The original proof/contribution/self-check/freeze and old R154 input remain fixed in L255.
+The original proof/contribution/self-check/freeze and old R118 input remain fixed in L255.
 
 The adequate existing [C419 finite endpoint inequality](Yin_C_G0419_v1.md#original-endpoint-conditioned-exponential-moments) applies to every integer column list and every real coefficient observable with the ORIGINAL iid three-point digits.
 At exact endpoint z, applying it to r_j=u dot tau_0(alpha^j) gives mu_N(z)exp(u dot tau_0(z))<=p_N exp(u^T C_N u/2).
@@ -442,7 +442,7 @@ G0001 and its parallel strategies remain active and unresolved.
 | --- | --- |
 | date | 2026-10-21T19:44 |
 | status | proved |
-| reason | Adopt after the actual whole C432/R634 SELF check of all original-law singular covariance profiles, exact nonempty coordinate extrusion/projected-volume/gamma/grid bounds, both rotated row-column full-space estimates, every original-time/relative-error cost and the complete quartic/torsion/varying-input controls. Exact Fraction/integer comparisons reproduce the charged40bit/64 result from the unchanged complete p64 without executing J52. Original R154 remains whole SELF from its known proposed-conclusion context; no independent isolation, new source proof, new computation or Task/E resumption is claimed. |
+| reason | Adopt after the actual whole C432/R634 SELF check of all original-law singular covariance profiles, exact nonempty coordinate extrusion/projected-volume/gamma/grid bounds, both rotated row-column full-space estimates, every original-time/relative-error cost and the complete quartic/torsion/varying-input controls. Exact Fraction/integer comparisons reproduce the charged40bit/64 result from the unchanged complete p64 without executing J52. Original R118 remains whole SELF from its known proposed-conclusion context; no independent isolation, new source proof, new computation or Task/E resumption is claimed. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

@@ -339,7 +339,7 @@ Every stage keeps the same
 
 The global maximal q of U and its characteristic-two canonical R remains unchanged, because the reduction U is unchanged.
 No smaller characteristic-zero input is inferred from the normalized construction.
-Both adopted C698 canonical families therefore admit this actual partial modulo8 construction at every q>=4 with their original costs.
+Both adopted C668 v2 canonical families therefore admit this actual partial modulo8 construction at every q>=4 with their original costs.
 
 Only the high second-quarter square-image condition remains at this dyadic layer.
 No full X_s=0 modulo8, equality of synthetic G_int with actual G_can, characteristic-zero residual identities, irreducibility, total reality, original realization or Task completion is asserted.

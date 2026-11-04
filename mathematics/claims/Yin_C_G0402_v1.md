@@ -9,10 +9,24 @@ Original contribution and review accounts remain at their fixed inputs; this mai
 
 ## Statement
 
-For every irreducible minimal polynomial P(z)=z^s Q(z+z^-1) of a genuine Salem number beta>1, retain its full degree d=2s>=4 and all original trace roots: x_0=beta+beta^-1>2 and s-1 distinct roots in(-2,2). Put H=sum|a_j|, phi(theta)=arccos(2Q(2cos theta)^2/H^2-1) and mu_k=integral_T cos(k phi) with normalized Haar measure. Every zero of the exactly canceled squared phase derivative has one-sided derivative order M_i<=3; if Q'(2)!=0 every such order is at most1. Interior root cusps, endpoint-value cusps and both angular endpoints have exactly the cases proved below; no smooth crossing of a cusp is assumed.
-For every integer k>=1 the complete paid constant K_P of the general phase theorem gives |mu_k|<=K_P k^(-1/4), with tail sum_(k>N)|mu_k|/k<=4K_P N^(-1/4) for every integer N>=1. If Q'(2)!=0 the corresponding bounds are K_P k^(-1/2) and 2K_P N^(-1/2). Consequently the exact unregularized logarithmic moment identity gives the stated finite lower certificate with that negative tail error; the actual rational moments and every coefficient/root cost remain charged.
-An alternative complete constant uses the integral degree-d polynomial F(z)=(z^2-1)z^(s-1)Q'(z+z^-1), leading coefficient s. Its distinct circle roots eta_i include +/-1; their multiplicities m_i are1 or3, +1 being triple exactly when Q'(2)=0. All remaining roots, if any, are one positive reciprocal pair. Define gamma_i and c_P=(2/H)min_i gamma_i by the full products in(8), including all leading, separation and off-circle radial factors, L the number of distinct circle roots, m_*=max_i m_i and J=16d+2. Then for all k>=1, |mu_k|<=K_P^tr k^(-1/(m_*+1)), where K_P^tr=L/pi+2J*pi^(m_*-1)/(2^(m_*) c_P); the full logarithmic tail is at most(m_*+1)K_P^tr N^(-1/(m_*+1)). These are input-dependent paid constants, and no comparison claiming one is always smaller is made.
-The explicit P=z^4-4z^3+3z^2-4z+1 is irreducible and genuinely Salem, with Q=x^2-4x+1, H=13 and a nonzero fourth-order phase change at theta=0. For this fixed input no bound |mu_k|<=C k^-b for all k>=1 exists for any b>1/4 and any finite input-dependent C. Thus the class-wide quarter exponent for absolute moments is sharp. The original Lehmer trace has Q'(2)=36 and satisfies the half-exponent gate. No root data, finite certificate value or uniform useful conditioning constant has been computed; the sharpness control has fixed positive measure and supplies neither a near-one family nor an unrestricted Mahler gap.
+For every irreducible minimal polynomial P(z)=z^s Q(z+z^-1) of a genuine Salem number beta>1, retain its full degree d=2s>=4 and all original trace roots: x_0=beta+beta^-1>2 and s-1 distinct roots in(-2,2).
+Put H=sum|a_j|, phi(theta)=arccos(2Q(2cos theta)^2/H^2-1) and mu_k=integral_T cos(k phi) with normalized Haar measure.
+Every zero of the exactly canceled squared phase derivative has one-sided derivative order M_i<=3; if Q'(2)!=0 every such order is at most1.
+Interior root cusps, endpoint-value cusps and both angular endpoints have exactly the cases proved below; no smooth crossing of a cusp is assumed.
+For every integer k>=1 the complete paid constant K_P of the general phase theorem gives |mu_k|<=K_P k^(-1/4), with tail sum_(k>N)|mu_k|/k<=4K_P N^(-1/4) for every integer N>=1.
+If Q'(2)!=0 the corresponding bounds are K_P k^(-1/2) and 2K_P N^(-1/2).
+Consequently the exact unregularized logarithmic moment identity gives the stated finite lower certificate with that negative tail error; the actual rational moments and every coefficient/root cost remain charged.
+An alternative complete constant uses the integral degree-d polynomial F(z)=(z^2-1)z^(s-1)Q'(z+z^-1), leading coefficient s.
+Its distinct circle roots eta_i include +/-1; their multiplicities m_i are1 or3, +1 being triple exactly when Q'(2)=0.
+All remaining roots, if any, are one positive reciprocal pair.
+Define gamma_i and c_P=(2/H)min_i gamma_i by the full products in(8), including all leading, separation and off-circle radial factors, L the number of distinct circle roots, m_*=max_i m_i and J=16d+2.
+Then for all k>=1, |mu_k|<=K_P^tr k^(-1/(m_*+1)), where K_P^tr=L/pi+2J*pi^(m_*-1)/(2^(m_*) c_P); the full logarithmic tail is at most(m_*+1)K_P^tr N^(-1/(m_*+1)).
+These are input-dependent paid constants, and no comparison claiming one is always smaller is made.
+The explicit P=z^4-4z^3+3z^2-4z+1 is irreducible and genuinely Salem, with Q=x^2-4x+1, H=13 and a nonzero fourth-order phase change at theta=0.
+For this fixed input no bound |mu_k|<=C k^-b for all k>=1 exists for any b>1/4 and any finite input-dependent C.
+Thus the class-wide quarter exponent for absolute moments is sharp.
+The original Lehmer trace has Q'(2)=36 and satisfies the half-exponent gate.
+No root data, finite certificate value or uniform useful conditioning constant has been computed; the sharpness control has fixed positive measure and supplies neither a near-one family nor an unrestricted Mahler gap.
 
 ## Current assessment
 [Selected decision](#decision-complete-current-self-adoption)

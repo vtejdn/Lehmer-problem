@@ -203,7 +203,7 @@ Consequently their cosines agree.
 Every finite factor is nonzero.
 The real number \(u_j\) is an algebraic integer, whereas a zero of \(\cos(2\pi x)\) would require \(x\in1/4+(1/2)\mathbb Z\), a nonintegral rational.
 The tails converge to a positive product because \(u_j\) decays exponentially as \(j\to+\infty\), and \(v_j\) does so as \(j\to-\infty\).
-For example the explicit tail estimate in [C G0294](Yin_C_G0293_v1.md#trace-fourier-quantitative-boundary) provides a finite positive lower bound.
+For example the explicit tail estimate in [C293](Yin_C_G0293_v1.md#trace-fourier-quantitative-boundary) provides a finite positive lower bound.
 This uses the actual elementary trace calculation of [BV20-U001](../audits/literature/BV20/Yin_U001.md#bv20-u001), not its pure-type or singularity conclusion.
 
 <a id="gaussian-lacunary-riesz-bound"></a>
@@ -225,7 +225,7 @@ The triangle inequality gives
 \]
 
 Let \(G\) be the standard Gaussian in \(\mathbb R^s\), and choose arbitrary signs \(\epsilon_1,\ldots,\epsilon_K\).
-For any \(t\ge0\), the convex-chord inequality reused from [C G0278](Yin_C_G0277_v1.md#elementary-house-moment-bound) is
+For any \(t\ge0\), the convex-chord inequality reused from [C277](Yin_C_G0277_v1.md#elementary-house-moment-bound) is
 \[
  e^{tx}\le\cosh t+x\sinh t,\qquad -1\le x\le1.
 \]
@@ -264,7 +264,7 @@ We conclude that, uniformly in \(K\) and these signs,
 <a id="disjoint-smoothing-relative-entropy"></a>
 ### Disjoint smoothing converts the Fourier test into a deficit
 
-Use the rotation-invariant stable bodies and constants of [C G0294](Yin_C_G0293_v1.md#explicit-stable-packing-deficit):
+Use the rotation-invariant stable bodies and constants of [C293](Yin_C_G0293_v1.md#explicit-stable-packing-deficit):
 
 \[
  K_N=\prod_{\beta\ {\rm real,stable}}[-|\beta|^N,|\beta|^N]

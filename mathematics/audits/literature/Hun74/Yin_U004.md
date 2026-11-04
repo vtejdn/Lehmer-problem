@@ -82,7 +82,8 @@ In the infinite case an arbitrary functional can have nonzero values on infinite
 
 For a free **right** module, write v as a finite sum of x a_x and let f_x(v)=a_x.
 Then f_x(vr)=f_x(v)r.
-This direct right-sided version, together with IV.2.4, is the coefficient-functional input accepted for Yin_C_F0035-P1.
+This direct right-sided version, together with IV.2.4, is the coefficient-functional input accepted for the project use reported under former Yin_C_F0035-P1.
+The original project proof/review homes remain unlocated in the current retained F-family collection; these source inputs alone establish no current equalizer theorem.
 Only one coordinate functional is needed there; no assertion that all functionals have finite support is used.
 
 **Theorem IV.4.12, p. 205.**

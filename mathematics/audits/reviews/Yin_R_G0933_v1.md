@@ -144,7 +144,7 @@ The minimum q chosen in this theorem is8 times8192, so removing degree doubling 
 ## Accepted-input and reading limits
 
 The whole new C712 argument and every selected direct dependency interface were inspected as described above.
-The direct fixed proofs were read; their deeper accepted ancestors were not recursively reopened, including the original C699/C702 half mechanism, C734/C737 residual formulas, C718 coefficient-subring construction and C691's earlier character/kernel and integer trace-factor source theorems.
+The direct fixed proofs were read; their deeper accepted ancestors were not recursively reopened, including the C669 same-coefficient half obstruction and C672 simultaneous modulo-four lifts, C700/C703 residual formulas, C686 coefficient-subring construction and C691's earlier character/kernel and integer trace-factor source theorems.
 Their needed hypotheses and conclusions were checked in the supplied fixed direct materials, including the actual integer formulas reproduced there.
 This is a whole review of C712 using those adopted inputs, not a fresh independent audit of the entire G0001 library or every original external source proof.
 The new root-CRT, Frobenius and derivative steps are elementary calculations supplied in the target; no new external theorem or unresolved attribution was identified at this assigned scope.

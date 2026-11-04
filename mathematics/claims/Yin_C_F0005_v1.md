@@ -17,7 +17,6 @@ Goal: Yin_T_F0008.
 Registered as [Yin_C_F0005](#yin_c_f0005); the [selected assessment](#decision-isolated-review-20261022) owns the current assessment, and the [original attainment finding](../audits/reviews/Yin_R_F0010_v1.md#historical-affine-attainment) retains its 2026-09-13 verification.
 This continues the independent [general signed-Schur formula](Yin_C_F0004_v1.md).
 It does not use Spe26 or Yin_C_F0082.
-No mathematical Role is assigned.
 
 ## Reuse Check and Exact New Interface
 

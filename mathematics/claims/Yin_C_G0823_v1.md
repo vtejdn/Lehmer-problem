@@ -363,7 +363,7 @@ Each pair(q,e) is an actual smooth integer q and its actual positive exponent.
 
 This table specifies all125 rectangle factors; together with the endpoint it gives all126 nonzero factors of L.
 The [retained L input](../computations/programs/Yin_J_G0132/inputs/full_eighth_kernel_positive_word.json) also retains every actual parameter, primitive factor multiplicity, reciprocal factor multiplicity and cost.
-The old Q_0 is the exact adopted C867138-term word, with its unchanged [retained input](../computations/programs/Yin_J_G0132/inputs/endpoint_kernel_product_word.json).
+The old Q_0 is the exact adopted C821 138-term word, with its unchanged [retained input](../computations/programs/Yin_J_G0132/inputs/endpoint_kernel_product_word.json).
 The [new product input](../computations/programs/Yin_J_G0132/inputs/full_eighth_positive_product_word.json) is their literal264-term concatenation, identifying both source-word positions.
 No overlapping actual exponents or q values are reduced before the original residual calculation.
 All cost equalities in NI8--NI9 are checked separately by the trace producer and different verifier.
@@ -479,7 +479,7 @@ These are different AUTHOR implementations, not cold independent whole/native re
 
 The complete image phase retained ALL4193 joint images, all6310 relations, the54-dimensional full correction image and every positive basis word/cost before deciding its ONE target.
 The product phase then used exactly its one recovered126-term word and literal old138-term input, with no exponent or q reduction.
-Every C864/C821 and augmented-image selected old program, input and output remains unchanged.
+Every C818/C821 and augmented-image selected old program, input and output remains unchanged.
 The new product input receives only coherent completed-diagnostic metadata; its mathematical fields remain identical to the saved literal words.
 These two selected phases compute no other word, image, target, profile, larger precision, optimization or full high-degree expansion.
 This complete fixed candidate remains OPEN pending cold whole mathematical/native review and separate adoption.

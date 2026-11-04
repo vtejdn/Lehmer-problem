@@ -133,7 +133,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T21:33 |
 | status | proved |
-| reason | Adopt the separately assigned isolated complete mathematical inspection of this actual fixed statement and entire selected argument. Its recorded initial finding preceded all old target verdicts and substantive target-development context was not shared. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
+| reason | Adopt the separately assigned complete mathematical inspection of this actual fixed statement and entire selected argument at its actual SELF relationship. Its recorded initial finding preceded old target verdict comparison, but the initial fixed argument included completed author-validation conclusions beyond the necessary mathematical derivation. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -144,7 +144,7 @@ The recorded review description was `under review`.
 | support | [Support](Yin_C_G0016_v1.md#statement) | Distinguishes the required positive-definite whole-lattice class from this indefinite finite-only dual. |
 | support | [Support](Yin_C_G0017_v1.md#statement) | Related bounded-powers mechanism and full-domain E_10<1, not a substitute for the present explicit integral construction. |
 | support | [Support](../audits/literature/McM11/Yin_U001.md#mcm11-u001) | Exact selected author-preprint Coxeter Gram/diagram/U/E10 naming only; original classification/glue/K3 proofs uninspected and NOT premises. |
-| review | [Isolated complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-lorentzian-fiber) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial independent reconstruction precedes old target verdict comparison. |
+| review | [Complete current SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-lorentzian-fiber) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial direct reconstruction precedes old target verdict comparison. |
 
 ## Argument
 

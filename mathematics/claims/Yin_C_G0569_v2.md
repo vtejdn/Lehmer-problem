@@ -68,7 +68,7 @@ The set is explicit and finite, with every coordinate of magnitude at most R.
 The constants depend only on the already fixed K, not on a new arithmetic input or a numerical choice.
 The proof retains the cost of the entire rectangular set; it makes no sparsity or optimal-support claim.
 
-As a consequence for the SAME actual L402 family, put M_j=floor(a_j/4) as in L427.
+As a consequence for the SAME actual L402 family, put M_j=floor(a_j/4) as in L426.
 If
 
     tau_j->0, 0<tau_j<=1,
@@ -147,8 +147,8 @@ The later [whole R442 review](../audits/reviews/Yin_R_G0442_v1.md#static-phase-w
 <a id="static-phase-question"></a>
 ## Question and bounded reuse
 
-Use only the fixed three-torus U of C171 and the accepted finite-band return theorem [L427](Yin_C_G0565_v2.md#moving-band-target).
-The local search checked C171's essential noncontinuity and exact rational phase, C172's Fejer moment and L427's support-dependent error.
+Use only the fixed three-torus U of C171 and the accepted finite-band return theorem [L426](Yin_C_G0565_v2.md#moving-band-target).
+The local search checked C171's essential noncontinuity and exact rational phase, C172's Fejer moment and L426's support-dependent error.
 These provide no effective static l1 growth rate.
 A broader term match for cusp/Besov returned unrelated arithmetic sources and supplies no applicable theorem or negative literature conclusion.
 The direct rational calculation below is the selected mechanism; no new source theorem is assumed.
@@ -184,7 +184,7 @@ The set is explicit and finite, with every coordinate of magnitude at most R.
 The constants depend only on the already fixed K, not on a new arithmetic input or a numerical choice.
 The proof retains the cost of the entire rectangular set; it makes no sparsity or optimal-support claim.
 
-As a consequence for the SAME actual L402 family, put M_j=floor(a_j/4) as in L427.
+As a consequence for the SAME actual L402 family, put M_j=floor(a_j/4) as in L426.
 If
 
     tau_j->0, 0<tau_j<=1,
@@ -343,11 +343,11 @@ This proves the complete finite-support assertion(2).
 <a id="static-phase-original-return"></a>
 ## 5. Original schedule, support payment and the slow corridor
 
-Use exactly L427's M_j, epsilon_j, D_K and approximation budget beta_j.
+Use exactly L426's M_j, epsilon_j, D_K and approximation budget beta_j.
 The letter beta_j here denotes that error budget, not an exterior Salem root.
 The original schedule gives L_j>a_j^2 and c_j>(L_j+1)^2.
 For x>1 the functions(1+log x)/x and(5+2log x)/x are decreasing.
-Substitution in L427's explicit epsilon_j formula therefore shows
+Substitution in L426's explicit epsilon_j formula therefore shows
 
     epsilon_j=O((1+log L_j)/L_j)
               =O((1+log M_j)/M_j^2),
@@ -355,10 +355,10 @@ Substitution in L427's explicit epsilon_j formula therefore shows
 
 These bounds use only the lower square separations, not an upper bound on the next prime.
 The implicit finite constants are independent of j and tau.
-The bounds follow directly from the displayed explicit L427 formula and fixed D_K; no unquantified convergence theorem supplies them.
+The bounds follow directly from the displayed explicit L426 formula and fixed D_K; no unquantified convergence theorem supplies them.
 
 For all sufficiently large j put R_j=floor(M_j^(1/100))>=R_0 and choose E_j=-F_(R_j).
-This reflection is required because L427's S(E) uses Uhat(-eta).
+This reflection is required because L426's S(E) uses Uhat(-eta).
 Its support lies in the original alias box and
 
     N_j<4 M_j^(7/300),
@@ -368,14 +368,14 @@ The last inequality holds once M_j^(1/100)>=4: floor x>=sqrt x for x>=4, so log 
 All constants and finite thresholds are fixed before the j limit.
 
 Under(3), eventually tau_j<=1/4 and1/tau_j=o((log M_j)^2).
-The coefficient-by-coefficient error from L427 is therefore bounded by
+The coefficient-by-coefficient error from L426 is therefore bounded by
 
     N_j beta_j/tau_j
        =o(M_j^(-209/3900)(1+log M_j)^(27/13)) ->0.   (17)
 
 The negative exponent is7/300-1/13=-209/3900.
 No Bessel improvement or sparsity conjecture is needed to pay this entire support.
-Insert(16)--(17) into L427's actual finite first-band bound with c_*=3/(8pi).
+Insert(16)--(17) into L426's actual finite first-band bound with c_*=3/(8pi).
 This gives(4), since c_*/4800=1/(12800pi) and sqrt(tau_j)log M_j tends to infinity exactly under the positive condition in(3).
 
 The proof concerns a simultaneous shrinking-width sequence and does not exchange C174's fixed-j thin-peak limit with j tending to infinity.
@@ -391,8 +391,8 @@ The actual original Haar margin, original2d_j normalization, phase inversion, bo
 | [C171 exact phase](Yin_C_G0171_v1.md#two-block-torus-phase) | Actual fixed Acal/Bcal and Cayley representation, common-zero domain and modulus1; the one-variable expansion and static quantitative rate are new here. |
 | [C171 singularity](Yin_C_G0171_v1.md#two-block-singular-phase-divergence) | Earlier qualitative non-l1 conclusion and the actual z_0 choice; no pre-existing quantitative lower bound is assumed. |
 | [C172 Fejer bounds](Yin_C_G0172_v1.md#moving-cubic-discrete-fejer) | Probability-Haar kernel bound and first moment with complete elementary derivation; only this exact classical interface is reused. |
-| [L427 finite-band theorem](Yin_C_G0565_v2.md#moving-band-target) | Exact original inverse phase, alias box, epsilon/beta budgets and full finite-support error price, including the actual2d normalization. |
-| [L427 original error](Yin_C_G0565_v2.md#moving-band-fejer-budget) | Explicit fixed-K budget constants, not a new unknown uniform approximation rate. |
+| [L426 finite-band theorem](Yin_C_G0565_v2.md#moving-band-target) | Exact original inverse phase, alias box, epsilon/beta budgets and full finite-support error price, including the actual2d normalization. |
+| [L426 original error](Yin_C_G0565_v2.md#moving-band-fejer-budget) | Explicit fixed-K budget constants, not a new unknown uniform approximation rate. |
 | [L402 actual schedule](Yin_C_G0494_v1.md#fixed-trace-moving-exponent-schedule) | Same original irreducible Salem polynomials, original degree and square-separated primes, with log2<m<log4. |
 | [C174 contact scope](Yin_C_G0174_v1.md#narrow-contact-fixed-statement) | Finite original Wiener norms and the automatic actual margin; its fixed-input two-limit theorem is not interchanged here. |
 | [R417](../audits/reviews/Yin_R_G0417_v1.md#moving-salem-coherence-whole-independent-finding), [R420](../audits/reviews/Yin_R_G0420_v1.md#moving-cubic-whole-independent-finding), [R434](../audits/reviews/Yin_R_G0434_v1.md#narrow-contact-whole-independent-finding), [R439](../audits/reviews/Yin_R_G0439_v1.md#moving-band-whole-independent-finding) | Accepted independent scopes for this author's upstream mathematics; not prospective review of this new static rate. |

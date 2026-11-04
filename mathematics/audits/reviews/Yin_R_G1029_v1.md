@@ -13,7 +13,7 @@ The review covers the complete original cyclotomic domain, every split primary, 
 The reviewing agent did not participate in the proof development of C809.
 It first read the entire fixed C809 and then its exact required C760, C763 and C736 interfaces directly.
 No mutable D material, proof-generation dialogue, author derivation summary, other C809 verdict or agent-summary inventory was consulted before the initial whole finding.
-The agent's separate earlier author work on C846 and independent reviews of other quartic-kernel Claims supply no mathematical premise or review evidence for this theorem.
+The agent's separate earlier author work on C802 and independent reviews of other quartic-kernel Claims supply no mathematical premise or review evidence for this theorem.
 
 A separately spawned helper received a fresh context with the fixed C809 path, review-only scope and applicable operating instructions, without author dialogue or this reviewer's conclusions.
 It read the whole fixed C809 and all three fixed input Claims and independently checked Parts A--E and FD1--FD13.

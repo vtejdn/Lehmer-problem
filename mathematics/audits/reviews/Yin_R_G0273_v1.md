@@ -20,11 +20,16 @@ The ORIGINAL whole statement nevertheless needs the final-denominator correction
 No source attribution, new external theorem, mathematical code or experiment is required for the counterexample.
 The target remains unedited.
 
+The initial complete C61 input included the author validation checklist and no-defect conclusion beyond the necessary derivation.
+The original final-denominator objection retains its exact negative scope.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Original whole finding](#all-subset-original-split-denominator-finding) | independently reviewed |
+| [Original whole finding](#all-subset-original-split-denominator-finding) | self-reviewed |
 
 ## Review bindings
 

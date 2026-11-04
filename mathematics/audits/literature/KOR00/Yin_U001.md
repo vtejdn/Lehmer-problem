@@ -50,7 +50,7 @@ The Main Theorem's sufficiency proof in Sections4--6 was not audited.
 No dimension, zero-padding size, integral unimodularity or edge-excess bound follows from this adopted scope.
 A necessary net-trace test alone does not supply those missing complexity controls.
 The attribution is Kim--Ormes--Roush2000 for the integer case, rather than solely Boyle--Handelman1991.
-The accessible rendering identifies the published article; no PDF was retained by the original reviewer and no local is claimed for this scope.
+The accessible rendering identifies the published article; no PDF was retained by the original reviewer and no local copy is claimed for that original reading scope.
 
 <a id="retained-original-check"></a>
 ## Selected-page check of the retained journal original

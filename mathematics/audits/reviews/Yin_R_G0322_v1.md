@@ -4,7 +4,8 @@ author: Yin
 # Whole independent review of global triple-density partial results
 
 Date: 2026-10-12T18:02.
-Human record author Yin. g0001_review_recovery independently reviews the ENTIRE actual D45 freeze of 2026-10-12T18:00.
+Human record author Yin.
+g0001_review_recovery independently reviews the ENTIRE actual D45 freeze of 2026-10-12T18:00.
 The original has 21403 characters, 217 lines, eight explicit anchors and equations (1)--(11).
 Its primary author is rounding-recovery; root supplied the expressly credited full-divisor lower control M_N>=N.
 Both are contributors.

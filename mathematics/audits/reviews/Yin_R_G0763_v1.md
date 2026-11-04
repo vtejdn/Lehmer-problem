@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: ordinary-PC paths and actual critical spatial tests
 
 Recorded 2026-10-22T20:10 after the maintaining Yin agent read actual published OPEN C590 ENTIRE Statement and BOTH complete mathematical Arguments.
-Full original L309/L310/R208/R209 and exact C399/C403/C420/C456/C579/C534/C608 interfaces were read at the consumed scopes.
+Full original L309/L310/R208/R209 and exact C396/C400/C416/C452/C563/C526/C589 interfaces were read at the consumed scopes.
 This is whole SELF with prior mathematical/review context.
 No isolated review, new research proof, source reading/acquisition, certificate replay or native/program execution occurred.
 
@@ -41,7 +41,7 @@ Norm integrality includes EVERY neutral pair and gives the s^s denominator and e
 Adding its logarithmic cost to the radial block count proves A0 rho+B0.
 The compact residue is finite in the FULL embedding, but termination remains a genuinely separate premise with an explicit finite suffix J0.
 
-The quartic's actual50 full real cells give PC, and C399's complete co-return supplies that new compact premise at any chosen R0.
+The quartic's actual50 full real cells give PC, and C396's complete co-return supplies that new compact premise at any chosen R0.
 The positive three-vector relation gives H2 and repaired word length<=13 without pretending it evaluates epsilon.
 The older radius-dependent terminal formula retains557/500,N_R,K_R and25, rather than applying the old259-state enumeration to a larger set.
 The integral identity B=beta³-beta-2 and the norm of B-sign(x_+)x pay every approach to the ACTUAL strict boundary.

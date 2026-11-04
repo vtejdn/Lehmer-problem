@@ -5,7 +5,7 @@ author: Yin
 
 Human author Yin.
 The same_trace contributor owns this new bounded question and native implementation.
-It does not alter the fixed phi-primary [J123/C638 question](../Yin_J_G0123/readme.md), nor rerun the seed-free A_0=2 closure of C601.
+It does not alter the fixed phi-primary [J123/C617 question](../Yin_J_G0123/readme.md), nor rerun the seed-free A_0=2 closure of C609v2.
 
 ## Question and scope
 

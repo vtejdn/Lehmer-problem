@@ -13,7 +13,7 @@ The reviewer did not change execution state or start a new inquiry.
 Root is the sole contributor to the new joint-norm proof and also contributed to its accepted C149/C151/C153 inputs.
 This reviewer supplied no new proof step.
 The arrangement is non-blind: shared history, the assignment and the author check were available.
-The reviewer previously performed R367 on C149, R369 on C151, and R515/R372 on C153v1/v2, including diagnosis of the old arithmetic error and actual correction review.
+The reviewer previously performed R367 on C149, R369 on C151, and R371/R372 on C153v1/v2, including diagnosis of the old arithmetic error and actual correction review.
 Only corrected, adopted C153v2 is consumed here; the v1 changes-required finding remains intact.
 Earlier source/reuse assistance on the continuing positive-auxiliary inquiry did not contribute to this new joint field-norm calculation.
 

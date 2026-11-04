@@ -201,9 +201,8 @@ Independent review, 2026-09-08: the separate reviewing agent compared this recon
 It checked fullness by polynomial evaluation, nonzero inverse entries, the invertible two-sided substitution, both independence sides, the degree-one tensor contradiction, and nonincrease under scalar extension.
 No additional local gap was found; the external infrastructure retains the stated limits.
 
-## Source and inspection
+## Exact passage and inspection limits
 
-Source edition: Reu96, the retained 17-page published Selecta Mathematica 2 (1996), pp. 93-109, DOI 10.1007/BF01587940. Printed page equals PDF page plus 92. The historically incorrect supplied filename DR97.pdf was corrected with authorization; it is not a citation alias, and the separately registered DR97 article is distinct. No second version was compared.
 
 Passages: Theorem 2.1, printed pp. 96-97 / PDF pp. 4-5, and proof, printed p. 98 / PDF p. 6; height structures and Theorem 2.2, printed p. 97 / PDF p. 5.
 

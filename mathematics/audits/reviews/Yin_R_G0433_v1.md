@@ -12,7 +12,7 @@ After reconstructing the entire author body, the reviewer mechanically retained 
 The review covers all six formulas, four argument sections and five declared input rows.
 
 This review is nonblind: the root's scope request and author's ready message were available.
-The reviewer previously reviewed L419 in R428, L421 in R432 and C170 in R556, and authored the J106 independent verifier underlying R558.
+The reviewer previously reviewed L419 in R428, L421 in R432 and C170 in [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding), and authored the J106 independent verifier underlying R412.
 These upstream roles are disclosed and reused only at their recorded scopes; they are not contributions to the new degree-three proof.
 The actual L414 incidence, L191 quartic-root argument, L419 branching classification, L421 topology and C170 basis/full-law interfaces were inspected.
 No numerical output is needed by this new proof, and no native computation, length scan, eight-vertex classification, external source acquisition or formal verification was performed.
@@ -128,5 +128,5 @@ The midpoint energy at most four and digit-work divisor n+2 are unchanged.
 
 All five declared source/project interfaces were checked at their actual fixed scopes, including the direct L191 quartic proof and the author's upstream relationships.
 No uninspected external theorem is required; the finite graph exhaustion is given explicitly.
-The prior R428/R432/R556 conclusions do not substitute for the new whole review recorded here.
+The prior R428/R432/[R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) conclusions do not substitute for the new whole review recorded here.
 Scoped parser, link, prose and exact-preservation checks accompany retention but do not supply this mathematical finding.

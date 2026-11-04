@@ -6,7 +6,7 @@ author: Yin
 
 The complete necessary original D73 proof and finite-evidence boundaries are retained from [L207](../ledger/Yin_L_G0207_v1.md#retained-adjustable-core-forest-proof).
 The orbit_research agent supplied every new obstruction, identity, estimate and finite program; the coordinator supplied only the broad question and allocations.
-The [complete original R721 comparison in R721](../audits/reviews/Yin_R_G0721_v1.md#natural-comparison-with-the-original-whole-review) preserves its 2026-10-09T20:04 completion, actual frozen inputs, whole proof/program scope and original read-only replay.
+The [complete original R106 comparison in R721](../audits/reviews/Yin_R_G0721_v1.md#natural-comparison-with-the-original-whole-review) preserves its 2026-10-09T20:04 completion, actual frozen inputs, whole proof/program scope and original read-only replay.
 Its original independent declaration remains an authentic historical statement.
 Available shared-context, author-check and freeze records do not establish the additional target-development contents, if any, or their order before the initial findings, so its justified original whole relationship is UNKNOWN.
 The [complete original Section 6 author-check/contribution account](../audits/reviews/Yin_R_G0721_v1.md#original-adjustable-forest-author-checks) remains separately SELF at its original day precision.

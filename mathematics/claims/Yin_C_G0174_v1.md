@@ -396,7 +396,7 @@ The recorded review description was `unreviewed`.
 | support | [C171 independent upstream review](../audits/reviews/Yin_R_G0417_v1.md#moving-salem-coherence-whole-independent-finding) | Accepted upstream scope, not a new independent review by its author or of this extension. |
 | support | [C172 independent upstream review](../audits/reviews/Yin_R_G0420_v1.md#moving-cubic-whole-independent-finding) | Accepted upstream scope, not prospective review of the present narrow-layer proof. |
 | support | [C173 independent upstream review](../audits/reviews/Yin_R_G0430_v1.md#scalar-transform-whole-independent-finding) | Accepted fixed/equi-Lipschitz scope and compactness attribution, with its actual stated limits. |
-| review | [Whole narrow-contact finding](../audits/reviews/Yin_R_G0434_v1.md#narrow-contact-whole-independent-finding) | Entire fixed statement and argument, Sections1--8, all19 formulas, nine input rows, initial selected relations and exact primary-source scope; independent noncontributor review without mathematical repair. |
+| review | [Whole narrow-contact finding](../audits/reviews/Yin_R_G0434_v1.md#narrow-contact-whole-independent-finding) | Entire fixed statement and argument, Sections1--8, all19 formulas, nine input rows, initial selected relations and exact primary-source scope; noncontributor review with an explicitly unknown relationship and without mathematical repair. |
 
 ### Decision current-complete-moving-family-home
 
@@ -421,4 +421,4 @@ The recorded review description was `unreviewed`.
 | support | [Exact support](../audits/reviews/Yin_R_G0417_v1.md#moving-salem-coherence-whole-independent-finding) | Accepted upstream scope, not a new independent review by its author or of this extension. |
 | support | [Exact support](../audits/reviews/Yin_R_G0420_v1.md#moving-cubic-whole-independent-finding) | Accepted upstream scope, not prospective review of the present narrow-layer proof. |
 | support | [Exact support](../audits/reviews/Yin_R_G0430_v1.md#scalar-transform-whole-independent-finding) | Accepted fixed/equi-Lipschitz scope and compactness attribution, with its actual stated limits. |
-| review | [Exact review](../audits/reviews/Yin_R_G0434_v1.md#narrow-contact-whole-independent-finding) | Entire fixed statement and argument, Sections1--8, all19 formulas, nine input rows, initial selected relations and exact primary-source scope; independent noncontributor review without mathematical repair. |
+| review | [Exact review](../audits/reviews/Yin_R_G0434_v1.md#narrow-contact-whole-independent-finding) | Entire fixed statement and argument, Sections1--8, all19 formulas, nine input rows, initial selected relations and exact primary-source scope; noncontributor review with an explicitly unknown relationship and without mathematical repair. |

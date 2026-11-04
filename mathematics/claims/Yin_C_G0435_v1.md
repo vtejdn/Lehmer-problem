@@ -184,7 +184,7 @@ There is no need to require all intermediate states to stay in the compact resid
 For a fixed fully specified finite K_R, breadth-first word enumeration is a semidecision for this positive certificate: it eventually finds a continuation for every state if all exist.
 Failure at a finite search horizon is not a no-return proof.
 This paragraph does not provide a computed R, a general termination algorithm with a stopping bound, or a universal certificate.
-C399/C399 supply completed examples; no new input-by-input enumeration is performed here.
+C396/C399 supply completed examples; no new input-by-input enumeration is performed here.
 
 <a id="unbounded-legal-excursions-no-finite-trap"></a>
 ### 2. Global unbounded cost rules out finite fully closed traps

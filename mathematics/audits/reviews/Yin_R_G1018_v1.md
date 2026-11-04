@@ -37,7 +37,7 @@ Acceptance remains a separate responsible Claim decision.
 
 The exact adopted inputs below were read at the needed mathematical interfaces.
 Existing accepted theorem and source chains are reused within their stated domains; this is not a recursive new audit of every antecedent theorem or literature proof.
-The complete C797 fixed proof was directly read, without consulting R1201.
+The complete C797 fixed proof was directly read, without consulting R1016.
 No earlier C799 verdict was supplied or used.
 
 | Exact fixed input | Inspected applicability |
@@ -63,7 +63,7 @@ No earlier C799 verdict was supplied or used.
 C799's initial decision explicitly points to C797's original open decision and retains its adoption condition.
 During this review C797 acquired the selected proved decision dated 2026-10-26T13:25, selecting the same fixed statement and argument and the already adopted C795 mathematics.
 The source proof was not changed by that metadata event.
-The ST3 finding below uses those exact unchanged fixed inputs, now adopted, without retroactively rewriting the old decision or importing R1201 as this review's reasoning.
+The ST3 finding below uses those exact unchanged fixed inputs, now adopted, without retroactively rewriting the old decision or importing R1016 as this review's reasoning.
 A new C799 adoption should explicitly select the applicable adopted C797 decision.
 
 ## Whole lower-high-gate attainment finding

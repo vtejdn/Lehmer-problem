@@ -35,11 +35,11 @@ The normalized returns lie in (0,1].
 Summing the finite weighted arithmetic-geometric bound gives qS_q-(q-1)/2 when finite and the extended Green bound otherwise.
 The weighted time sum has lower bound qT_q and upper bound q^2(S_q+T_q), including q1 and infinite sums.
 Full nonnegative renewal and monotone differentiation prove every critical and derivative equivalence without substituting a killed finite approximation.
-The canonical-tilt limit is precisely the complete C483 formula at the resulting actual input.
+The canonical-tilt limit is precisely the complete C479 formula at the resulting actual input.
 
 For an attaining base law, positivity of every core edge, zero-loop padding and irreducibility produce a product invariant probability for the cyclic update.
 Exactly one row is updated per step, so the information cost is unchanged, not divided or multiplied by q.
-C483 uniqueness and the reciprocal stationary zero mass give all three product identities.
+C479 uniqueness and the reciprocal stationary zero mass give all three product identities.
 Conversely, every attaining beta law has full support.
 Its deterministic shift makes all coordinate marginals equal; conditional row averaging preserves the first marginal and every original base edge.
 Finite-alphabet Jensen applies with row divergence bounded by log4, so no finite stationary entropy is needed.

@@ -176,19 +176,19 @@ A factored integer lift therefore gives the stated optional bound without changi
 
 ### Original inputs and expenses
 
-I directly inspected C697's statement, FC3 and FC5, C698 physical-v2 cost and layer statements for both families, and C724's statement and Sections5--6.
+I directly inspected C667's statement, FC3 and FC5, C668 physical-v2 cost and layer statements for both families, and C691's statement and Sections5--6.
 Their global existence and source-intensive trace-factor inputs are reused at their already adopted scope; this review does not repeat their earlier external-source audits.
 
-For the paid representative in C697, the fresh construction has n=1+10Lk with k>30L/(10L), so n-1>=40L.
+For the paid representative in C667, the fresh construction has n=1+10Lk with k>30L/(10L), so n-1>=40L.
 Its B_n^3 factor alone has degree at least60L, and L>=8m+1.
 Consequently h_b=2m+degY_b>362m=181a when a=2m.
-The doubled-precision C724 choice has an even larger safe L and the same fresh-factor mechanism.
+The doubled-precision C691 choice has an even larger safe L and the same fresh-factor mechanism.
 This verifies the margin claimed in C706 without discarding any paid factor.
 
 The substitution d=q(h_b+14a)=q(30m+degY_0) matches all those original inputs.
 Their original integer-layer weight remains12mq.
 Their canonical degree difference remains q(5m-Q-5degH_aux), specializing to q(m-8-5degH_aux) when Q=4m+8.
-For C698's m=14 branch this is3q, and for its Q=4m branch it is q(m-5degH_aux).
+For C668's m=14 branch this is3q, and for its Q=4m branch it is q(m-5degH_aux).
 The exact multiplicity3 fresh factor is the inherited reason for maximal Frobenius power where asserted; the general normalized hypothesis of C706 does not supply maximality on its own.
 Selection of q>=8192 precedes the construction and pays every cost at that same q.
 

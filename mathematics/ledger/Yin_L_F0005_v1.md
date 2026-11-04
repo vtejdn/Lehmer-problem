@@ -140,7 +140,8 @@ A second primary publisher record confirms J.W.McLean and H.J.Woerdeman, *Spectr
 The author's Drexel full-text link was located but could not be fetched (web timeout/local DNS11001).
 No claim to have inspected either complete proof is made.
 The self-contained argument(1)--(7) proves the exact local scalar result independently of those unchecked theorem bodies.
-Further source-location verification is explicitly outstanding before final source organization.
+The later [verified primary attribution alternative in C6](../claims/Yin_C_F0006_v1.md#verified-maximum-gram-attribution) identifies MW02 Proposition 2.3 and Algorithm 1 at text-only statement/construction depth.
+The original access failures and uninspected Dumitrescu lead above remain historical source limits, without imposing a missing premise on the local proof.
 
 <a id="scalar-capacity-dual"></a>
 ## 3. Finite Toeplitz dual, exact equality and its attainment boundary

@@ -40,7 +40,7 @@ These are historical conjecture/computation reports, not independently reproduce
 Thus a universal fixed-linear unit-prefix theorem is not being proposed here as a new question.
 An exact-unit rigidity theorem would in any event guarantee only some log C_n>=log2; after division by the ORIGINAL d this alone is not the positive fixed norm density required by C147.
 
-The local reuse screen also read [L74 complete original aggregation](Yin_L_G0074_v1.md#aggregate-cyclic-norm-criterion), [L76's finite prime-exponent witness](Yin_L_G0076_v1.md#finite-cyclic-norm-prime-witness), [Dim16's degree/height-dependent all-index bound](../audits/literature/Dim16/Yin_U001.md#dim16-cyclic-all-index), and [L188's complete cyclotomic-layer average](Yin_L_G0188_v1.md#complete-cyclic-layer-average).
+The local reuse screen also read [L74 complete original aggregation](Yin_L_G0074_v1.md#aggregate-cyclic-norm-criterion), [L76's finite prime-exponent witness](Yin_L_G0076_v1.md#finite-cyclic-norm-prime-witness), [Dim16's degree/height-dependent all-index bound](../claims/Yin_C_G0854_v1.md#dim16-cyclic-all-index), and [L188's complete cyclotomic-layer average](Yin_L_G0188_v1.md#complete-cyclic-layer-average).
 They already supply finite or conditional income with their actual time and measure costs.
 L188 and [L217](Yin_L_G0217_v1.md#efficient-order-fixed-scope) also construct actual reciprocal local-data controls, but do not state the simultaneous complete absence from ANY supplied finite prime set in the exponentially long prefix proved next.
 The current question therefore changes from global unit-prefix rigidity to the precise limitation of a preassigned finite arithmetic-prime test.
@@ -136,7 +136,7 @@ It also does not give an upper bound for contributions from primes outside S.
 Those contributions may already be large at small n.
 No global complete cyclic norm has been computed in this construction.
 
-The existing L409/L411 capacity laws remain fully consistent: at depth1 the entire local mass d activates at the label p^r+1, and all higher-depth labels are later multiples.
+The existing L408/L410 capacity laws remain fully consistent: at depth1 the entire local mass d activates at the label p^r+1, and all higher-depth labels are later multiples.
 The exponential time is retained, not renamed a fixed multiple of d.
 Likewise L74's full norm aggregation remains valid at each actual exponent.
 A route to a uniform gap still needs actual positive d-scale complete norm income in a fixed degree-linear window, or a different fully charged arithmetic mechanism.

@@ -9,12 +9,12 @@ The critical_tail_author AI performs a separately organized whole review of [D33
 Root supplied a substantive disk/reversal/logarithm scout and the proposed applications; the author correctly identified the complete general inequality as already retained in L318.
 Neither root nor author is represented as the noncontributor reviewer.
 This reviewer supplied none of D33's proposed comparison or derivation.
-Its earlier R286 reviewed the now fixed L384 quartic lift; that prior checking is disclosed and is not a new contribution to D33.
+Its earlier R210 reviewed the now fixed L384 quartic lift; that prior checking is disclosed and is not a new contribution to D33.
 Its unrelated positive-log implementation supplies no evidence here.
 
 Inputs and arrangement: root assigned the entire frozen scope and supplied the claimed conclusions and reuse distinction.
 The complete D33, including its self-check, and the complete actual L318 argument were read.
-R217's inherited review was read as part of the explicitly requested accepted-input interface, not withheld for a blind review.
+[R785 original L318](Yin_R_G0785_v1.md#simultaneous-coherence-complete-independent-review)'s inherited review was read as part of the explicitly requested accepted-input interface, not withheld for a blind review.
 L384, L385, the latter's R211, ABR01's selected inspection and Smy15-U001 were read at their exact necessary scopes.
 No D33 proof-generation dialogue, separate author explanatory exchange or previous D33 review conclusion was supplied or consulted.
 All decisive applications and endpoint/normalization checks were independently rederived below.
@@ -26,7 +26,7 @@ No native mathematical program, solver, enumeration or new J was used.
 
 Current relationship clarification (2026-10-21T21:24): the initial assignment supplied the actual proposed conclusions and reuse distinction, and the initial complete body included its explicit author mathematical self-check.
 These concrete target-content exposures establish SELF under the current isolation rule, without inference from upstream reviewer roles or unrelated implementations.
-The original23:40 date, whole mathematics, exact bindings, full L318/R217 historical reading and source inspection/application limits remain preserved below.
+The original23:40 date, whole mathematics, exact bindings, full L318/[R785 original L318](Yin_R_G0785_v1.md#simultaneous-coherence-complete-independent-review) historical reading and source inspection/application limits remain preserved below.
 
 ## Review relationships
 
@@ -73,7 +73,7 @@ Its finite Fourier multipliers reproduce F(rz), and probability Cauchy--Schwarz 
 Summing the actual weighted coefficients before discarding signs is essential.
 When they cancel exactly, the complete circle square is E, and the summed majorant is E separately at each interior point.
 No angular-discrepancy theorem or small-u domain is needed for that branch.
-R217 explicitly reviewed precisely this fact; D33 does not incorrectly promote the separate restricted discrepancy estimate to all m.
+[R785 original L318](Yin_R_G0785_v1.md#simultaneous-coherence-complete-independent-review) explicitly reviewed precisely this fact; D33 does not incorrectly promote the separate restricted discrepancy estimate to all m.
 
 Each nonzero integer Laurent H_j has a finite support and evaluates in the original field.
 One common shift by t^-L puts every support inside[0,T], where T=U-L is the full union width.
@@ -160,7 +160,7 @@ No numerical run or external lower-bound theorem supplies the improvement.
 
 The actual quartic still has the fixed positive total measure log beta with beta+beta^-1=1+sqrt2.
 This application establishes neither a near-one family nor an automatically complementary least-energy residual bundle.
-My earlier R286 scope for the accepted construction is unchanged; the inequality substitution and strict comparison are independently checked here.
+My earlier R210 scope for the accepted construction is unchanged; the inequality substitution and strict comparison are independently checked here.
 
 ### Permissible generator, both signs and the a-factor
 
@@ -194,7 +194,7 @@ Existence of those affine pairs or of the hypothetical near-one sequence is not 
 
 ## Source depth, conclusion and retained limits
 
-The reviewer read L318's entire local proof, including its distinct projection/coherence and failed-filter contexts, and the complete retained R217 review.
+The reviewer read L318's entire local proof, including its distinct projection/coherence and failed-filter contexts, and the complete retained [R785 original L318](Yin_R_G0785_v1.md#simultaneous-coherence-complete-independent-review) review.
 The present new review only adopts the exact-covariance interface and checks its applications; it does not claim a fresh review of every older discrepancy/source dependency.
 ABR01's selected inspection was read, not its source PDF; the polynomial Poisson/reversal proof needed here was directly reconstructed.
 Its classical attribution and unreviewed book dependencies remain exactly the recorded limits.

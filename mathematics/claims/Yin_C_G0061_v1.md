@@ -210,7 +210,7 @@ The recorded review description was `under review`.
 | support | [C58 old explicit quartic](Yin_C_G0058_v1.md#statement) | ONLY PartF seven-label original quartic control and split-denominator counterexample data; its new restricted optimum theorem is not a premise. |
 | support | [Original whole negative finding](../audits/reviews/Yin_R_G0273_v1.md#all-subset-original-split-denominator-finding) | Complete original19:18 checking and the fixed original post-splitting denominator defect; not overwritten as a pass. |
 | support | [Corrected original whole finding](../audits/reviews/Yin_R_G0274_v1.md#all-subset-corrected-whole-finding) | ENTIRE actual19:31 corrected original body only. Its reviewer is now this new wrapper's author and cannot provide its independent extraction verdict. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0277_v1.md#c61-common-marginal-actual-extraction-finding) | Entire actual statement, completely retained argument/history and current direct interfaces, independently inspected after allocation by a noncontributor. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0277_v1.md#c61-common-marginal-actual-extraction-finding) | Entire actual statement, completely retained argument/history and current direct interfaces, separately inspected after allocation by a noncontributor. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 
@@ -237,7 +237,7 @@ All substantive argument belongs here.
 
 ## Bounded reuse and exact changed question
 
-Root has read the entire original pair-supported proof now retained in [C58](Yin_C_G0058_v1.md#argument), its separate whole finding R362 and the relevant [C25](Yin_C_G0025_v1.md#statement), [C29](Yin_C_G0029_v1.md#statement), [C54](Yin_C_G0054_v1.md#statement) interfaces.
+Root has read the entire original pair-supported proof now retained in [C58](Yin_C_G0058_v1.md#argument), its separate whole finding R267 and the relevant [C25](Yin_C_G0025_v1.md#statement), [C29](Yin_C_G0029_v1.md#statement), [C54](Yin_C_G0054_v1.md#statement) interfaces.
 C58's actual extraction is currently under separate root review; this inquiry needs none of its new theorem as a premise, only its fully specified example for comparison.
 C25 already identifies empty/full flat subsets as the zero representatives; C54 keeps all repaired zero mass.
 A bounded current G-Claim/ledger screen found no full arbitrary-subset common-marginal surplus theorem.
@@ -517,7 +517,8 @@ The unrestricted Task is active and unresolved; no weekly allowance is restarted
 ## Dated FINAL-weight correction and corrected complete freeze
 
 2026-10-12T11:31.
-The independent [R273 original whole finding](../audits/reviews/Yin_R_G0273_v1.md#all-subset-original-split-denominator-finding) found that Section3's original sentence `If r clears the original w_B, then M divides2r; this is only an upper clearing bound, not equality.` wrongly applied its bound after arbitrary additional positive label splitting.
+The [R273 original whole finding](../audits/reviews/Yin_R_G0273_v1.md#all-subset-original-split-denominator-finding) found that Section3's original sentence `If r clears the original w_B, then M divides2r; this is only an upper clearing bound, not equality.` wrongly applied its bound after arbitrary additional positive label splitting.
+Referenced finding relationship: self-reviewed.
 The original sentence is preserved here as the exact rejected scope.
 In the old quartic law, aggregate r16 and splitting the1/4 singleton into1/12+1/6 yield actual FINAL M48, which does not divide32.
 Actual q4, every lag, energy15/16 and full weighted norm income are unchanged.

@@ -7,12 +7,12 @@ author: Yin
 Date: 2026-10-21T19:25.
 Human operator: Yin.
 The checking agent read all491original L180 lines, the complete original R79 and entire actual published C427v1/C428v1 statements, arguments, decisions and contribution/source/domain boundaries.
-It read the necessary complete C420/C421v3/C424 interfaces and all retained Fen16-U001/source-account content.
+It read the necessary complete C416/C417v3/C420 interfaces and all retained Fen16-U001/source-account content.
 It rederived every support/extended-infimum/norm/quartic and sparse-binary/correction/prefix step below.
 The current checking agent authored both Claims, inherited substantive target context and read old findings, so both whole current checks are self-reviewed.
 The original D48 whole relationship remains unknown because its extra initial communication contents are unestablished.
 Both original D51 whole findings are self-reviewed on the concrete mathematical mechanism, sending before freeze and actual reviewer receipt facts, not from old fixed-input authorship or outline words alone.
-The R79 input actually read for this03:25 check comprised the original whole D48 Sections1--6/formulas(1)--(6)/Fen16 statement-application account, both whole D51 Sections1--6/formulas(1)--(10) accounts, their original L180 bindings, exact01:50 structural-check time and both listed author-check paragraphs.
+The R79 input actually read for this 2026-10-21T19:25 check comprised the original whole D48 Sections1--6/formulas(1)--(6)/Fen16 statement-application account, both whole D51 Sections1--6/formulas(1)--(10) accounts, their original L180 bindings, exact01:50 structural-check time and both listed author-check paragraphs.
 No new PDF/source reading, source-proof audit, numerical or native computation/J, historical communication reconstruction or research Task/E execution occurred.
 The Fen16 accepted statement is used only in the complementary zero-exit route; the global beta<phi proof has no external spectrum dependency.
 Current authored checks do not close the original D48 whole unknown independent-review obligation.
@@ -78,7 +78,7 @@ The illustrative nonactual amplitude vectors are logical controls, not claimed S
 
 With one neutral pair the maximum is that coordinate, so every degree-four Salem beta in(1,2) has M_1 infinite.
 The complete prefix support criterion then controls every exact co-return point and gives arbitrarily large finite centered hulls at zero.
-C424's limiting centers genuinely co-return after the prefix and one extra-1 digit.
+C420's limiting centers genuinely co-return after the prefix and one extra-1 digit.
 Different sufficiently large zero exits therefore control them in degree four, while the old periodic family's exact strict-boundary failure remains true.
 No mathematical defect in that old construction is inferred from its uncovered centers.
 A legal zero exit need not return to zero and no full actual-core equality follows.
@@ -142,7 +142,7 @@ Its strict final endpoint is the concatenated word's endpoint.
 The optional narrow-intermediate-prefix observation also holds: before crossing the positive trajectory decreases and at crossing x_n>=P_n-1>-1.
 
 This proves every beta in(1,phi), every annulus x, every nonzero direction and every real threshold has a finite original nonempty strictly legal witness.
-C=0 gives PC, and the complete C420 compactness argument supplies finitely many words/cells, discards zero displacements before positive normalization and gives exact conditional compact neutral descent.
+C=0 gives PC, and the complete C416 compactness argument supplies finitely many words/cells, discards zero displacements before positive normalization and gives exact conditional compact neutral descent.
 The actual stable/backward real-strip guards remain those of that interface.
 The finite residue's termination is not supplied.
 Q,L,M,word lengths,cell widths,hull margins and compact radii are not uniform in beta, degree or direction.

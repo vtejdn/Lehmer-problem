@@ -59,7 +59,7 @@ It proves exactly
 The original counts are40960signed divisions/extended bounds,45067stored-state bounds,4097scalar bounds,4096monotonicity checks and term inequalities,1351680accumulations,25990/16/25975max numerator/divisor/extended-state bits and7816final scalar decimal digits.
 The total rounded-sum width is4096/2^160 before the factor1/2.
 Native decimals are readable approximations, while all acceptance inequalities use exact rational bounds; no expanding Salem-root approximation enters this lower certificate.
-Original producer execution, original R285 verification and the new whole SELF reconstruction remain distinct actual events; native bytes and original pending-review metadata remain unchanged.
+Original producer execution, original R209 verification and the new whole SELF reconstruction remain distinct actual events; native bytes and original pending-review metadata remain unchanged.
 This is one original-input finite lower bound, with no new geometry parameter/input scan, external proof audit, near-one family, unrestricted gap or Task/E resumption.
 
 ## Current assessment
@@ -92,7 +92,7 @@ This is one original-input finite lower bound, with no new geometry parameter/in
 | --- | --- |
 | date | 2026-10-21T20:56 |
 | status | proved |
-| reason | Adopt the exact complete original critical-level tail, UNRUN quadrature proof and sole original Lehmer finite certificate after the complete actual SELF reconstruction; retain all original costs/source/negative limits and truthful R285 SELF scope. |
+| reason | Adopt the exact complete original critical-level tail, UNRUN quadrature proof and sole original Lehmer finite certificate after the complete actual SELF reconstruction; retain all original costs/source/negative limits and truthful R209 SELF scope. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

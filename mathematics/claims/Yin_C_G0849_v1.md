@@ -92,7 +92,7 @@ The nonintegral-coefficient hypothesis is essential: F=z+w, q=2 and g=n gives m_
 The claimed positive paid-span inequality cannot include that case.
 The finite-template and strict mean hypotheses, actual integrality and original window are conditional data, not an automatic construction for arbitrary P.
 There is no uniform assertion over changing template families or q, no numerical gap, near-one construction, novelty or unrestricted Lehmer conclusion.
-In particular this theorem does not remove C899's repetition condition for its unbounded family of period seeds.
+In particular this theorem does not remove C847's repetition condition for its unbounded family of period seeds.
 
 ## Complete argument
 
@@ -346,7 +346,7 @@ This is not a counterexample to Lehmer's conjecture or a claim about other possi
 
 The result requires fixed finite templates with their strict mean promise, a nonzero coefficientwise nonintegral specialization, full algebraic integrality at an actual original unit and a supplied original linear window.
 It neither supplies templates for arbitrary inputs nor gives a uniform constant over varying families or q.
-In particular it does not remove C899's repetition condition for its unbounded family of period seeds.
+In particular it does not remove C847's repetition condition for its unbounded family of period seeds.
 The actual finite-field, binomial and finite-Fourier antecedents are credited in BT1; no novelty, original-source proof audit, practical complexity, numerical run, near-one construction or unrestricted conclusion is claimed.
 The general statement and its fixed-reversal corollary are fixed OPEN here for fresh whole independent review and responsible adoption.
 

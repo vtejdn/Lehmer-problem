@@ -304,13 +304,13 @@ It is not an application of an unrestricted homomorphism from all formal word se
   It does not assert $\sum_g|a_g|<\infty$, nor absolute operator-norm summability of every individual group term.
 - On 2026-09-08 the original formulas on pp. 619-621 were checked visually; proof steps and boundary examples were derived as written above.
   No mathematical software computation, proof-assistant check, exhaustive errata search, or human review was performed by this subagent.
-  Source-search evidence and primary dependencies are kept in U006 rather than duplicated here.
+  Source-search evidence and primary dependencies are kept in U005 rather than duplicated here.
 
 
 ## Source and inspection
 
-Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U006; it does not replace the primary version.
+Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U005; it does not replace the primary version.
 
 Passages: Lemmas 10-11 and Proposition 9, Section 3.2, printed pp. 619-621 / PDF pp. 7-9.
 
-Inspection: 2026-09-08: decay, shifts, minimality, Banach inversion and scalar realization reconstructed and independently reviewed under finite generators; shared U003-U004 revisions are linked. Boundedness precedes inversion. U006 supplies only the accepted primary-statement Haagerup estimate, not a fresh proof audit. No arbitrary alphabet/formal substitution, exhaustive errata search, computation or formal verification.
+Inspection: 2026-09-08: decay, shifts, minimality, Banach inversion and scalar realization reconstructed and independently reviewed under finite generators; shared U003-U004 revisions are linked. Boundedness precedes inversion. U005 supplies only the accepted primary-statement Haagerup estimate, not a fresh proof audit. No arbitrary alphabet/formal substitution, exhaustive errata search, computation or formal verification.

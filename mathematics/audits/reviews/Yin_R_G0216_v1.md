@@ -15,7 +15,7 @@ Arrangement and inputs: the assignment supplied the proposed method, claimed uni
 The developing body and broadening were read, and the entire00:22 frozen file was then read again before this conclusion.
 The author self-check was visible.
 No proof-generation dialogue, separate author explanatory exchange or previous D4 review conclusion was supplied or consulted.
-The reviewer previously authored the distinct R290/R291 reviews of L388/L389 and reuses those unchanged input scopes; it did not author their mathematics or this new lifting argument.
+The reviewer previously authored the distinct R214/R215 reviews of L388/L389 and reuses those unchanged input scopes; it did not author their mathematics or this new lifting argument.
 All decisive local identities and support/cost interfaces were independently reconstructed below.
 The reviewed target was not edited.
 
@@ -27,7 +27,7 @@ This is not formal verification or an unrestricted G0001 completion audit.
 Current relationship clarification (2026-10-21T21:52): the initial assignment supplied the actual proposed mathematical method and claimed unit/covariance conclusion before autonomous reconstruction; the developing argument, broadening and full author self-check were then read in the original sequence.
 Those concrete target mathematical inputs establish SELF under the current isolation rule, without inferring contribution from upstream review authorship or the noncontributor role.
 The original00:23 review,00:22 author freeze,00:30 retention, complete bindings/proof/source-reading facts and no-native boundary remain unchanged.
-The fully retained C10v2 and its R296 SELF finding already own the current registered construction; the present clarification adds no new mathematical review, primary-source reading or independent repaired-chain conclusion.
+The fully retained C10v2 and its R220 SELF finding already own the current registered construction; the present clarification adds no new mathematical review, primary-source reading or independent repaired-chain conclusion.
 
 ## Review relationships
 

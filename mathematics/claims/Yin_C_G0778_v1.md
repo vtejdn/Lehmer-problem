@@ -39,7 +39,7 @@ The bounded representative retains
 
 Every output has the unchanged exact coefficient weightQN/2 and circle supremum between sqrt(QN/2) and QN/2.
 The core's OWN second residuals still have coefficient valuation0.
-All fixed-source, sparse-source-proof, effectiveness, factorization and measure limits remain those of C774/C814.
+All fixed-source, sparse-source-proof, effectiveness, factorization and measure limits remain those of C774/C771.
 Actual dyadic substitution P(z^q), q>=1, retains these coefficient valuations and bounds with the exact C774 degree/preimage/binary-multiplicity accounts and no additional precision gain.
 No irreducible passing input, simultaneous both-sign second-four at one T, global selected second-eight, arbitrary higher lift, compatible infinite sequence, nearzero measure or unrestricted G0001 resolution is asserted.
 

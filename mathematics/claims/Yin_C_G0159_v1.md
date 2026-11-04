@@ -203,7 +203,6 @@ No input coefficients, class or finite example were evaluated in this argument.
 
 The angular left side of (2) differs from log|Norm(beta^n-1)| divided by the original degree.
 C147v4's 86sqrt(u)log(1/u)^(5/2) is a bound for that CYCLIC LOG NORM, not an alternative upper bound to combine with e_ref in a minimum.
-Root initially proposed that comparison during D39's exploration, then explicitly withdrew it after rereading the left sides, before any fixed statement or adoption used it.
 The retained mathematical correction is that an additional fully paid logarithmic summation or regularization argument is required to turn angular moments into a cyclic logarithmic-norm estimate.
 
 This fixed result is consequently a new angular Claim, not a revision of the C147 cyclic theorem.

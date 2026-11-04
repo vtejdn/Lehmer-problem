@@ -4,6 +4,12 @@ author: Yin
 
 # Complete joint norm-funded finite-family optimum and retained solver failure
 
+## Native input replay limits
+
+The [J79 selected joint-budget native dual](../computations/programs/Yin_J_G0079/readme.md#nonlinear-bound-native-input-availability) is currently unavailable for the exact adopted native replay.
+The complete n18 source family is retained, but the different norm-one dual does not replace this selection's thirty-nine coordinates or its reconstruction systems.
+The existing mathematical assessment and historical positive/failed-candidate scopes remain unchanged.
+
 ## Current assessment
 
 [Selected decision](#decision-isolated-general-feasibility-objection)

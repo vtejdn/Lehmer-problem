@@ -7,7 +7,7 @@ author: Yin
 The complete original mathematical argument is retained from [L440](../ledger/Yin_L_G0440_v1.md#five-order-descent-scope).
 Its original contributions, fixed inputs, useful failures, source inspection and native-execution limits are preserved.
 Original whole R485 is preserved only for unchanged physical L440v1 FD/WB.
-Its root reviewer contributes to the later L440v2 OC proof with entropy_attainment_bridge; neither old INDEP nor upstream reviews are extended to that new proof.
+Its root reviewer contributes to the later L440v2 OC proof with entropy_attainment_bridge; neither the historical INDEP declaration (actual UNKNOWN relationship) nor upstream reviews are extended to that new proof.
 Both original complete physical versions and actual dates are retained.
 The current constructor has read the original proof and historical reviews; any current whole finding by this constructor is SELF.
 
@@ -722,16 +722,16 @@ The remaining concrete issue is that full local coefficient condition at arbitra
 
 Date: 2026-10-20T17:31.
 Human author Yin.
-This substantive v2 retains the complete [physical L441v1](#argument) and adds the full OC1--OC14 conditional closure below to the same whole-order degree-budget inquiry.
+This substantive v2 retains the complete [physical L440v1](#argument) and adds the full OC1--OC14 conditional closure below to the same whole-order degree-budget inquiry.
 The actual mathematical date and author contributions of the new deduction remain in its own section.
-Root and entropy_attainment_bridge contribute to the new work; the root's older independent R485 is evidence only for the unchanged v1 and not an independent review of this version.
+Root and entropy_attainment_bridge contribute to the new work; the root's older R485, with an actual UNKNOWN relationship, is evidence only for the unchanged v1 and not an independent review of this version.
 No earlier fixed statement, finding, source account or original-input domain is altered.
 A separate whole review must check the complete current scope, the new proof and the exact predecessor interfaces before use as independently reviewed evidence.
 
 <a id="retained-complete-order-comparison"></a>
 ## Complete unchanged predecessor and application distinction
 
-Retain all [v1 FD1--FD18 complete five-order descent](#five-order-descent-scope) and [v1 WB1--WB14 complete order/odd-support comparison](#five-order-odd-support-budget-test), with their actual full proofs and [whole independent R485](../audits/reviews/Yin_R_G0485_v1.md#five-order-budget-whole-independent-finding).
+Retain all [v1 FD1--FD18 complete five-order descent](#five-order-descent-scope) and [v1 WB1--WB14 complete order/odd-support comparison](#five-order-odd-support-budget-test), with their actual full proofs and [whole R485, actual UNKNOWN](../audits/reviews/Yin_R_G0485_v1.md#five-order-budget-whole-independent-finding).
 The explicit v1 models fail its full mod4 local condition; the new theorem below does not revive either excluded model or assert a seed.
 The new shape is motivated by [adopted C199v5](Yin_C_G0199_v5.md#statement), through [whole R492](../audits/reviews/Yin_R_G0492_v1.md#normalized-a2-complement-whole-finding), but its own theorem explicitly assumes only the formal data OC1--OC7.
 Actual original solutions supply those necessary data; closure of that specified reduction class does not preserve characteristic-zero realization, all divided quotient equations or actual norms.
@@ -749,8 +749,8 @@ Root contributes the odd-part form; the agent contributes the closure argument a
 This is author work, not an independent review of the A_0=2 classification or its fixed inputs.
 No new source, mathematical program, order enumeration or larger-modulus test is used.
 
-The mathematical inputs are the [fixed C199v4 normalized gate](Yin_C_G0199_v4.md#normalized-common-frobenius-unit-gate), its [odd-part and complement consequences](Yin_C_G0199_v4.md#normalized-actual-unit-odd-part), and the complete [L441 order-31 polynomial](#five-order-odd-support-budget-test).
-Their actual independent evidence is [R489's v4 whole-chain finding](../audits/reviews/Yin_R_G0489_v1.md#normalized-unit-v4-whole-chain-finding) and [R485](../audits/reviews/Yin_R_G0485_v1.md#five-order-budget-whole-independent-finding), at those scopes only.
+The mathematical inputs are the [fixed C199v4 normalized gate](Yin_C_G0199_v4.md#normalized-common-frobenius-unit-gate), its [odd-part and complement consequences](Yin_C_G0199_v4.md#normalized-actual-unit-odd-part), and the complete [L440 order-31 polynomial](#five-order-odd-support-budget-test).
+Their actual checked evidence is [R489's v4 whole-chain finding](../audits/reviews/Yin_R_G0489_v1.md#normalized-unit-v4-whole-chain-finding) and [R485](../audits/reviews/Yin_R_G0485_v1.md#five-order-budget-whole-independent-finding), retaining their actual UNKNOWN relationships at those scopes only.
 The present agent contributed to both the normalized proof and the earlier order-31 comparison, so those reviews are reused rather than described as independent self-review here.
 The complete whole-order definition and uniform exponents are the [C199v2 factor interface](Yin_C_G0199_v2.md#zero-haar-joint-three-five-order-obstruction).
 The following closure theorem deliberately concerns only the SPECIFIED formal reduction data; it does not import all the actual residual equations as preserved conclusions.
@@ -1021,12 +1021,12 @@ The complete OC1--OC14 author argument is fixed here without adopting an origina
 | Input | Exact role |
 | --- | --- |
 | [Complete v1 comparison](#argument) | Retained FD/WB domains, proofs, failed models and full source/author boundaries; WB1--WB3 supplies the complete Q31 polynomial, both unramified permutations and its integral cyclotomic trace lift. |
-| [Actual whole v1 R485](../audits/reviews/Yin_R_G0485_v1.md#five-order-budget-whole-independent-finding) | Complete old independent coverage only; its root reviewer contributes to the new odd-part section and does not independently review this revision. |
+| [Actual whole v1 R485](../audits/reviews/Yin_R_G0485_v1.md#five-order-budget-whole-independent-finding) | Complete old checked coverage at its UNKNOWN relationship only; its root reviewer contributes to the new odd-part section and does not independently review this revision. |
 | [C199v4 normalized gate](Yin_C_G0199_v4.md#normalized-common-frobenius-unit-gate) | Exact eleven-root group and 3A_0/4A_0 precision, original integer five-layer expression and specified-square equivalence; these are explicitly supplied in the formal hypothesis set at A_0=2. |
 | [C199v4 odd part](Yin_C_G0199_v4.md#normalized-actual-unit-odd-part) | Actual derivative and nonsquare boundaries, distinct T/G odd parts and complete complement expenses, not a realization theorem for new formal data. |
 | [Whole-order definition](Yin_C_G0199_v2.md#zero-haar-joint-three-five-order-obstruction) | Complete Omega_n groups and uniform reduction multiplicities; no omitted factors or freely divided original a_b. |
 | [Actual normalized R489](../audits/reviews/Yin_R_G0489_v1.md#normalized-unit-v4-whole-chain-finding) | Existing independent scope of the contributor-overlapping normalized input and full predecessor chain; no new OC coverage. |
-| [C199v5 and whole R638](Yin_C_G0199_v5.md#statement), [actual finding](../audits/reviews/Yin_R_G0492_v1.md#normalized-a2-complement-whole-finding) | Application provenance for the actual necessary A_0=2 shape only; the formal closure is proved from its explicit assumptions without constructing any actual input. |
+| [C199v5 and whole R492](Yin_C_G0199_v5.md#statement), [actual finding](../audits/reviews/Yin_R_G0492_v1.md#normalized-a2-complement-whole-finding) | Application provenance for the actual necessary A_0=2 shape only; the formal closure is proved from its explicit assumptions without constructing any actual input. |
 
 The displayed OC proof and precise all-primary/whole-degree boundaries are complete author work.
 No new external theorem, source inspection, coefficient program or orbit enumeration is needed or claimed.

@@ -15,7 +15,7 @@ That shared substantive mathematical context makes all four findings self-review
 This relationship clarification preserves the original inspection date, mathematical findings, repaired inputs and limitations; it performs no new mathematical review.
 
 Inputs and sequence: the assignment supplied the proposed four results, their intended domains, contributor disclosure, ancestry and execution limits.
-The reviewer read the complete current statements, selections and the actual retained supporting arguments, enumerated and reconstructed their obligations, and formed initial findings before consulting the original R290--R295 scopes for compatibility.
+The reviewer read the complete current statements, selections and the actual retained supporting arguments, enumerated and reconstructed their obligations, and formed initial findings before consulting the original R214--R219 scopes for compatibility.
 The visible author self-checks and the assignment's proof-ingredient descriptions were supplied context.
 No proof-generation dialogue was consulted.
 Root subsequently reported its own missing-preliminary observation; this reviewer reported the wider maximum-principle/source interface and the attribution/dependency classification issue.
@@ -215,7 +215,7 @@ The primary theorem applies without taking an unsupported root in F.
 Rank0 supplies only1 and E=1.
 Relative-norm-one twists change none of this, provided their actual-order membership holds; no kernel classification or assertion that alpha is primitive in that kernel is used.
 
-The old Lehmer and quartic controls are expressly explanatory history outside the new registered conclusions and remain covered by their original R295 scope.
+The old Lehmer and quartic controls are expressly explanatory history outside the new registered conclusions; R219 retains only the original listed author checks and pending-review account for L393.
 No unresolved mathematical or source-applicability defect remains in the registered cyclic/rank theorem.
 The complete checked argument supports proved for C12 at this scope; its current finding relationship is self-reviewed for the disclosed arrangement.
 
@@ -227,7 +227,8 @@ These comparisons establish body preservation, not mathematical truth.
 Original freezes, root/checker contributions, pending-history sentences, corrections and explicit limits remain physically readable.
 C10 v1 remains a separate historical physical version.
 
-R290 retains only its original genuine-Salem L388 scope; R291 retains L389 packet costs; R292 retains general reciprocal unit-target L390 and its Salem-only corollary; R293 retains the broader totally real L391 with its monic-resultant clarification; R294 retains the fixed-seed L392 and its totally real nonzero-target interface; R295 retains corrected all-embedding L393.
+R214 retains only its original genuine-Salem L388 scope; R215 retains L389 packet costs; R216 retains general reciprocal unit-target L390 and its Salem-only corollary; R217 retains the broader totally real L391 with its monic-resultant clarification.
+R218 and R219 retain only the original listed author/development SELF checks of L392 and L393, respectively; neither supplies an additional separate whole finding.
 None has been retargeted to a new C or enlarged merely by extraction.
 This R supplies the actual current statement/argument coverage.
 

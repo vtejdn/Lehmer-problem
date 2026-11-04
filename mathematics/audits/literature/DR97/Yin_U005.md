@@ -59,7 +59,8 @@ The source sketches inversion by extracting the least support element and summin
 It refers the detailed proof to earlier sources.
 This is direct reading of a published exposition, not inspection of the original Malcev or Neumann proofs.
 The exact theorem is accepted as the foundational ambient-algebra input; no weakening to a merely one-sided order is made.
-The separate finite-positive-alphabet support argument is reconstructed in U005.
+The integrated overview reports a separate finite-positive-alphabet support argument, but the support/inverse/substitution/pivot construction is not located in the present U001--U005 bodies.
+This unit checks only the external ordered-series-field interface; it does not supply that missing local Section 4 reconstruction.
 The attempted AMS access to Neumann's original paper returned HTTP 403; no original-proof coverage is claimed.
 
 **Optional identification.**
@@ -93,7 +94,7 @@ This directly read relationship does not identify DR97's Malcev-Neumann division
 | Formal representation | Minimal matrix coefficient series inherit reduced support | Finite coefficient residuals and minimality; [Miy22-U002](../Miy22/Yin_U002.md#miy22-u002) | The formal-state mechanism transfers after changing the coefficient basis. |
 | Analytic realization | Group-word evaluation of the transition matrix, with nonreduced transitions zero | Additional matrix realization of the Chebyshev word basis; [Miy22-U004](../Miy22/Yin_U004.md#miy22-u004) | Direct substitution of a formal word by its Chebyshev word polynomial is not multiplicative. |
 | Scalar inverse closure | DR97 Definition 1 calls this rational closure; Theorem 7 equates it with all matrix closures | Miy22 calls the scalar version division closure and the matrix version rational closure; [Miy22-U005](../Miy22/Yin_U005.md#miy22-u005) | Translate the closure terminology and ambient algebra before combining statements. |
-| Beyond bounded operators | Well-ordered-support algebra and Theorem 12 | Closed densely defined affiliated operators and bounded fraction defects; [Miy22-U006-U006](../Miy22/Yin_U006.md#miy22-u006) | Affiliation, regular denominators, and exact operator domains require the separate Miy22 machinery. |
+| Beyond bounded operators | Well-ordered-support algebra and Theorem 12 | Closed densely defined affiliated operators and bounded fraction defects; [Miy22-U006](../Miy22/Yin_U006.md#miy22-u006) | Affiliation, regular denominators, and exact operator domains require the separate Miy22 machinery. |
 
 The shared analytic strategy is finite residual dimension, minimal realization, decay from rational square coefficients, homogeneous norm estimates, and scalar Schur inversion.
 This is a comparison of recorded mechanisms, not a new transfer theorem or proof of equivalence between the two operator models.
@@ -131,7 +132,7 @@ The search stopped once the exact analytic input, ambient division-ring theorem,
 The numerical and algebraic repairs in the other DR97 units remain local audit findings, not author-confirmed errata.
 No author was contacted, no unpublished material was transmitted, and no proof-assistant or external human review was performed.
 
-U006 supplies declared external trust boundaries and notation conversion for U003-U005 and the integrated audit.
+This unit supplies declared external trust boundaries and notation conversion for the retained local chains and integrated overview.
 The existing Miy22 proof assessments are unchanged: this comparison neither invalidates them nor upgrades their separately retained foundations.
 No new project theorem, research route, or novelty claim is registered.
 
@@ -141,7 +142,7 @@ These checks reviewed the unit's statements and applicability boundaries, not th
 
 ## Source and inspection
 
-Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U006; it does not replace the primary version.
+Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U005; it does not replace the primary version.
 
 Passages: Section 2.1, printed pp. 614-616; Lemma 10, p. 620; Section 4, pp. 621-622; bibliography p. 622. Related Miy22 abstract, Introduction p. 2, and references [10], [12], [13], p. 24; exact external and author-version locators remain in the body.
 

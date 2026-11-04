@@ -4,6 +4,10 @@ author: Yin
 
 # A finite-window Gaussian entropy interface retaining central embeddings
 
+Current checking scope is owned by [R550](../audits/reviews/Yin_R_G0550_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Direct bounded G0001 work by the assigned AI review_matrix_completion for Yin, from the coordinator's proposed finite-window construction.
 All logarithms are natural.

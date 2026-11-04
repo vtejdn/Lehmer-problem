@@ -6,7 +6,7 @@ author: Yin
 Date: 2026-10-15.
 Root records the actual source reading by strategy_critique and the separate SOURCE-only verification by f_unitary_scope.
 The latter supplied no new project proof.
-Bibliographic identity and acquired bytes.
+Bibliographic identity is in [references.bib](../../../literature/references.bib); the inspected source edition is described below.
 
 <a id="sou07-u001"></a>
 ## Audited within the selected elementary magnitude proof

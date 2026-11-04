@@ -28,7 +28,6 @@ Further mathematics uses a distinct draft.
 
 Date:2026-10-11.
 Root coordinating AI for Yin under the continuing G0001 weekly authorization.
-The prior turn made concrete progress by fixing eight coupled-method accounts, completing further mathematical arguments and independent reviews, and retaining source interfaces.
 G0001 remains unrestricted and unresolved.
 
 ## Changed question and ownership
@@ -39,7 +38,7 @@ Root's changed candidate uses the actual Salem trace polynomial: all its roots a
 Determine whether this forces an absolute upper bound on the CANCELED circle-phase multiplicities, including both angular endpoints and the possible exact condition Q'(2)=0, and what error exponent follows.
 Root develops this new argument; the analytical author supplied D14's upstream general certificate, not this Salem specialization.
 
-Reuse the exact reciprocal trace domain in [L66](Yin_L_G0066_v1.md#reciprocal-trace-domain), the actual original Salem configuration already retained for the program, and the complete phase/gcd proof in [D14](Yin_L_G0368_v1.md#exact-phase-critical-cancellation) with its fixed whole review R269.
+Reuse the exact reciprocal trace domain in [L66](Yin_L_G0066_v1.md#reciprocal-trace-domain), the actual original Salem configuration already retained for the program, and the complete phase/gcd proof in [D14](Yin_L_G0368_v1.md#exact-phase-critical-cancellation) with its fixed whole review R193.
 The intended result concerns the exponent only: every algebraic separation/height/coefficient constant remains paid.
 It cannot be used as a uniform Mahler gap or a bound on the size of those constants.
 No program, J or scan is declared.

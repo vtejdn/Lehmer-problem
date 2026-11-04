@@ -8,7 +8,7 @@ Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of C675 and its dyadic, Taylor and quarter-error formulas.
 This is the reviewer's first whole review of fixed C675 v1, including every statement and proof assertion MQ1--MQ16 and every stated source/application boundary.
 The entire fixed target was read before forming the finding, followed by the exact C669, C603 and C202 interfaces and their necessary proofs.
-The reviewer retained its own [C702 whole review](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding) and [C698 whole review](Yin_R_G0890_v1.md#synthetic-canonical-v2-whole), reread the current fixed input statements and relevant arguments, and reused only their unchanged exact scopes.
+The reviewer retained its own [C672 whole review](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding) and [C668 whole review](Yin_R_G0890_v1.md#synthetic-canonical-v2-whole), reread the current fixed input statements and relevant arguments, and reused only their unchanged exact scopes.
 No D35 or other draft, author proof-development dialogue or summary, other-agent inventory, native output or another reviewer's R was consulted.
 No native computation, coefficient search, numerical experiment or external source acquisition was used.
 The actual integer expansions, parity, every retained coefficient, both divisor substitutions, all primary components, exact correction image and every count were checked mathematically.

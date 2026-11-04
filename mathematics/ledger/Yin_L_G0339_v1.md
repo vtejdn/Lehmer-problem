@@ -72,7 +72,6 @@ The [Smy08 selected source note](../audits/literature/Smy08/Yin_U004.md) retains
 Neither that construction nor a short-lattice-vector existence theorem is imported here.
 The finite projection, norm integrality, weak-certificate inequality and active-system substitution already have adequate local inputs; the new deductions are direct extensions with their hypotheses checked.
 No novelty assertion for integer residues, orthogonal projection or linear programming is made.
-One initial broad shell search used a nonexistent bibliography.md path and produced no bibliography evidence; narrower responsible-material reads supply the scope just described.
 
 Let P be monic irreducible in Z[t], of its ACTUAL degree d, with constant term +/-1 and nontorsion roots.
 Set N>d, T=N-1, and let A have columns P,tP,...,t^(N-d-1)P in coefficient coordinates0,...,N-1.
@@ -409,7 +408,6 @@ There is no new unevaluated external theorem premise or claimed literature prior
 
 The two first mathematical author runs completed as declared.
 No failed or partial mathematical run, solver retry or unreported enlargement occurred.
-The operational search path/session-display issues in Sections1 and the J README supplied no mathematical evidence and did not trigger a rerun.
 Earlier native computation was not edited.
 This is a complete author argument with author self-check, awaiting separately organized whole noncontributor proof and different-method full native review.
 The unrestricted Task remains active and unresolved.

@@ -105,7 +105,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T21:33 |
 | status | proved |
-| reason | Adopt the separately assigned isolated complete mathematical inspection of this actual fixed statement and entire selected argument. Its recorded initial finding preceded all old target verdicts and substantive target-development context was not shared. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
+| reason | Adopt the separately assigned complete mathematical inspection of this actual fixed statement and entire selected argument at its actual SELF relationship. Its recorded initial finding preceded old target verdict comparison, but the initial fixed argument included completed author-validation conclusions beyond the necessary mathematical derivation. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -115,7 +115,7 @@ The recorded review description was `under review`.
 | dependency | [Dependency](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Individual E_d<1 after ACTUAL local irreducibility and nontorsion are proved, without uniform deficit or optimizer. |
 | dependency | [Dependency](Yin_C_G0014_v2.md#minimum-energy-mod-two-period-width) | Actual monogenic h_2>=d and S2 width class, keeping repeated factors and actual original degree. |
 | dependency | [Dependency](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Actual signed numerator resultants, positive final weights and union width d+1; no small-height or separate lifting premise. |
-| review | [Isolated complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-salem-flat-family) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial independent reconstruction precedes old target verdict comparison. |
+| review | [complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-salem-flat-family) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial direct reconstruction precedes old target verdict comparison. Finding relationship: self-reviewed. |
 
 ## Argument
 

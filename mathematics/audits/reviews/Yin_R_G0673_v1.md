@@ -49,6 +49,7 @@ No C, L, strategy, Task, execution, handbook, blueprint, acceptance, source acco
 | [C10 v1 closure comparison](#old-lift-closure) | independently reviewed |
 | [Single-place negative check](#single-place-negative) | independently reviewed |
 | [Old-account comparison](#old-account-comparison) | independently reviewed |
+| [Retained original fixed-seed whole finding](#l392-and-r294) | self-reviewed |
 
 ## Review bindings
 
@@ -105,6 +106,8 @@ No C, L, strategy, Task, execution, handbook, blueprint, acceptance, source acco
 | [Old-account comparison](#old-account-comparison) | [R216 whole](Yin_R_G0216_v1.md#rational-complementary-unit-lift-whole-finding) | Entire original account, supplied target method, knownSELF, exact unit-target/corollary/cost and retained GL06 reading limits. |
 | [Old-account comparison](#old-account-comparison) | [R217 whole](Yin_R_G0217_v1.md#general-relative-sign-profile-whole-finding) | Entire original assignment/control/contributor account, knownSELF, useful monic-premise negative and actual corrected scope. |
 | [Old-account comparison](#old-account-comparison) | [R220 four findings](Yin_R_G0220_v1.md#extraction-preservation-dependency-graph-and-limits) | Entire actual four-finding account, knownSELF assignment, exact initial/local choices, v1/v2 correction and preservation/acyclicity limits. |
+
+| [Retained original fixed-seed whole finding](#l392-and-r294) | [Original frozen L392 proof](../../ledger/Yin_L_G0392_v1.md#fixed-seed-complementary-extension-entire-author-freeze) | Original 2026-10-11T17:02 whole check of Sections1--8/equations(1)--(13) after the16:41 freeze, including initially visible completed author checks now retained in R218; no new review or relationship transfer to the later R673 whole finding. |
 
 <a id="relative-profile-whole"></a>
 ## C9: complete relative-sign criterion and rational packets
@@ -322,7 +325,7 @@ All six original L author accounts and all seven R accounts were read after the 
 Their scopes do not merge across extraction.
 R214 covers genuine-Salem L388 packets; R215 covers L389 finite/fixed-input costs; R216 covers general reciprocal unit-target L390 with its Salem-only corollary.
 R217 additionally covers the complete broader totally real criterion and biquadratic control, including the monic qualification.
-R218 covers L392's fixed integral seed, degree-two branch, formally totally real nonzero-target extension and changed costs.
+The [original whole-review account retained below](#l392-and-r294) covers L392's fixed integral seed, degree-two branch, formally totally real nonzero-target extension and changed costs; current R218 retains only the distinct author/development checks.
 R219 covers corrected all-embedding L393, its useful negative reading and original-input controls.
 R220 covers its actual four C choices and repaired assembly; the separate C9 control was explicitly excluded from its registered theorem finding.
 The four whole findings and additional control above independently inspect the complete necessary mathematics at the current C homes.
@@ -338,16 +341,18 @@ These are known SELF arrangements under the current rule, despite original indep
 This judgment does not come from reviewer names, an upstream review, a word such as shared, or another author's contribution.
 
 <a id="l392-and-r294"></a>
-The original `Yin_R_G0218_v1#fixed-seed-complementary-extension-whole-finding` is dated 2026-10-11T17:02 and covers the complete L392 Sections1--8/equations(1)--(13) at the 00:41 author freeze, retained at 01:11 that day.
+The original fixed-seed whole-review account retained in this subsection is dated 2026-10-11T17:02 and covers the complete L392 Sections1--8/equations(1)--(13) at the 2026-10-11T16:41 author freeze, retained at 2026-10-11T17:11 that day.
+Its former R218 whole-finding locator is historical; the current R218 contains only the separately retained listed author/development checks.
 Its assignment supplied the claimed extension, principal obligations, contributor disclosure and cost cautions, without resolving precisely what target derivation context those descriptions contained.
 The reviewer read the complete frozen body and visible author checks and reconstructed the entire proof, including L390, before consulting R216's actual conclusions.
+The initially visible completed author checks make this retained original whole finding SELF; the unspecified contents of other assignment context do not negate that known additional verification input.
 No proof-generation dialogue or separate author explanatory exchange was supplied; the earlier R217 concerned a different theorem and was not construction of this target.
 The source_scope_check helper had the same task context and supplied only bounded L390/GL06/L318 interface checks, not a whole D6 verdict; the reviewer also checked those interfaces directly.
 The mathematical author and targeted nonunit_lift_interface checker contributed to development, as preserved in the [original listed SELF finding](Yin_R_G0218_v1.md#fixed-seed-original-author-check-finding).
-No independently captured original self-check minute or additional old whole SELF finding is inferred.
+No independently captured original self-check minute or further old whole SELF finding beyond the retained original whole account is inferred.
 
 <a id="l393-and-r295"></a>
-The original `Yin_R_G0219_v1#cyclic-relative-profile-whole-finding` is dated 2026-10-11T17:06 and covers complete corrected L393 Sections1--5/equations(1)--(3), its final freeze and author premise clarification, retained at 01:11 that day.
+The original `Yin_R_G0219_v1#cyclic-relative-profile-whole-finding` is dated 2026-10-11T17:06 and covers complete corrected L393 Sections1--5/equations(1)--(3), its final freeze and author premise clarification, retained at 2026-10-11T17:11 that day.
 Its original freeze and clarification retain date-only precision.
 The assignment supplied proposed conclusions, scope and execution limits; the reviewer reconstructed the complete initial degree/sign/convexity/rank/original-input chain before consulting upstream conclusions anew.
 Earlier L384/L388/L390 reviewing and relevant upstream mathematical materials and review conclusions were already present in that session, so this is not described as blind or isolated target reading.
@@ -358,9 +363,11 @@ The [original listed author SELF finding](Yin_R_G0219_v1.md#cyclic-profile-origi
 
 Those original assignment and exposure facts retain their stated meaning.
 They do not justify inferring SELF merely from upstream work, and this new inspection cannot retrospectively establish target-context isolation that the historical account leaves unestablished.
-The old isolation relationship for these two accounts remains UNKNOWN for current replacement purposes, alongside their original independent attestations.
+The original L393 whole-review relationship remains UNKNOWN for current replacement purposes; the distinct original L392 whole finding above is SELF because of its known initially visible completed author checks.
+Their original independent attestations remain historical wording, and neither relationship changes the separately formed later R673 whole findings.
 No new PASS or human authorization supplies an older review arrangement.
-The newly declared relationships above concern only this actual review.
+The new R673 findings retain the relationships of their own actual review sequence.
+The separately declared retained original fixed-seed whole finding records only its original act and known initial author-check exposure.
 
 The old source-reading facts also remain distinct.
 R214's original reviewer directly read Conrad's undated27-page note, Theorem1.1/p.1 and the complete selected Section3/pp.3--7, with foundational Minkowski/lattice proofs external.
@@ -379,8 +386,9 @@ The selected proof chain is well founded: C9 uses the accepted Con26 interface; 
 C10's retained L392 interface does not depend on C11's conclusion.
 The source copies, extraction ancestry and old review links create no reverse proof edge.
 
-The old exact review dates remain 2026-10-11T16:00, 00:07, 00:23, 00:30, 01:02, 01:06 and 01:36 respectively, each with that same date and offset.
-L388's preceding freeze is 2026-10-11T15:58 and retention2026-10-11T16:05; L389's freeze00:05 and retention00:19; L390's freeze00:22 and retention00:30; L392's freeze00:41 and retention01:11.
+The original retained container dates are 2026-10-11T16:00, 2026-10-11T16:07, 2026-10-11T16:23, 2026-10-11T16:30, 2026-10-11T17:02, 2026-10-11T17:06 and 2026-10-11T17:36 respectively.
+These UTC dates identify those recorded acts, without supplying an unrecorded author-check or source-reading minute.
+The author-freeze/retention pairs are L388: 2026-10-11T15:58/2026-10-11T16:05; L389: 2026-10-11T16:05/2026-10-11T16:19; L390: 2026-10-11T16:22/2026-10-11T16:30; and L392: 2026-10-11T16:41/2026-10-11T17:11.
 The more specific L391/L393 correction and precision facts are recorded in their narrow findings above.
 Historical pending-review and active-research prose is retained as history and supplies no current Task/E resumption.
 

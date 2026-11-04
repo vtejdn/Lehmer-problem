@@ -236,7 +236,7 @@ The fixed bump is supported away from every common zero.
 Here it is retained in the torus cap, rather than removed before paying the original approximation error.
 This is the essential changed comparison and the reason that its regularization cost can disappear legitimately.
 
-The reuse check also distinguishes C714's globally smooth ONE-coordinate phase and C723's fixed-width ceiling for that two-factor family.
+The reuse check also distinguishes C682's globally smooth ONE-coordinate phase and C690's fixed-width ceiling for that two-factor family.
 Their original laws and conclusions are not transferred to this weighted family.
 Only their already established elementary coordinate-path/L2/finite-Bessel method informs the calculation below; all weighted translated-law premises are proved directly.
 
@@ -437,7 +437,7 @@ Its local estimate and full localized square are used before deconvolution; the 
 C684's original full2d comparison, genuine Gram pole, every input parameter, source/killer eligibility and positive Mahler interval are unchanged.
 Its unlocalized contact-weighted weak norm theorem is not silently promoted to L2; the new exact localized path estimates and all translated unregularized contact laws are proved here.
 C637 supplies the same finite positive kernel and its exact normalization, support and moment.
-The one-coordinate two-factor C714/C723 results were read to distinguish their mechanism and family boundary; no two-factor family conclusion or fixed-width ceiling is an input to this weighted theorem.
+The one-coordinate two-factor C682/C690 results were read to distinguish their mechanism and family boundary; no two-factor family conclusion or fixed-width ceiling is an input to this weighted theorem.
 The former weak-budget height loss is therefore an obstruction to that particular return estimate, not an obstruction to these same actual inputs.
 The inverse-square small-height range, optimality, sharper prime schedules and near-one realization remain separate obligations.
 The actual log2<m(P_j)<log4 interval prevents interpreting this analytic improvement as a solution of the unrestricted Mahler problem.

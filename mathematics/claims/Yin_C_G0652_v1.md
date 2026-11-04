@@ -8,7 +8,7 @@ Root proposed the complete primitive-factor norm formulas, the high-branch norm 
 The same_trace contributor derived and checked the formal-unit quotient, complete-factor bridge, norm precision, trace cancellation, calibrated target formula and necessary congruence, and completed the full argument below.
 Both are mathematical contributors; neither is an independent reviewer of this new result.
 The [active all-strategy Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23) authorizes this continuation.
-Focused reuse inspected the complete trace/divisor identities in C608/C609v2, the combined finite-group method in C643v2/C667, and the exact actual factorization and full CRT of C649/C650.
+Focused reuse inspected the complete trace/divisor identities in C608/C609v2, the combined finite-group method in C621v2/C640, and the exact actual factorization and full CRT of C649/C650.
 Targeted local Claim/draft and source-content searches found no retained chi-norm or formal-unit cokernel result with the needed scope.
 The leading-coefficient elimination below develops the available algebraic group method directly; no external Coleman or Witt theorem is asserted or used.
 No native mathematical computation, growing quotient scan or support-order cutoff is used.

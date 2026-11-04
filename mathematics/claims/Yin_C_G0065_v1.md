@@ -170,7 +170,7 @@ The recorded review description was `under review`.
 | support | [C53 universal SINGLE-factor boundary](Yin_C_G0053_v1.md#universal-order-preserving-projection-boundary) | Existing exact single-factor and actual-order statement, expressly not a prior theorem about arbitrary composites. |
 | support | [C53 original copied-packet accounting](Yin_C_G0053_v1.md#delay-reduction-validity-and-full-costs) | Actual equal-indexed copies, distinct q/M, nonzero/integer guards and full signed norm/content costs; no general mixing norm-product invariance imported. |
 | dependency | [C10 actual common-window expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only the physical-width accounting interface after actual common normalization and measurement of the new union width, with all original roots and FINAL weights. Not a premise of matrix rigidity. |
-| support | [Original complete independent finding](../audits/reviews/Yin_R_G0283_v1.md#short-row-universal-rigidity-whole-finding) | ENTIRE actual19:52 original D19 proof/interfaces only, not the new fixed statement written by that reviewer. |
+| support | [Original complete finding](../audits/reviews/Yin_R_G0283_v1.md#short-row-universal-rigidity-whole-finding) | ENTIRE actual19:52 original D19 proof/interfaces only, not the new fixed statement written by that reviewer. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -193,7 +193,7 @@ The recorded review description was `independently reviewed`.
 | support | [C53 universal SINGLE-factor boundary](Yin_C_G0053_v1.md#universal-order-preserving-projection-boundary) | Existing exact single-factor and actual-order statement, expressly not a prior theorem about arbitrary composites. |
 | support | [C53 original copied-packet accounting](Yin_C_G0053_v1.md#delay-reduction-validity-and-full-costs) | Actual equal-indexed copies, distinct q/M, nonzero/integer guards and full signed norm/content costs; no general mixing norm-product invariance imported. |
 | dependency | [C10 actual common-window expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only the physical-width accounting interface after actual common normalization and measurement of the new union width, with all original roots and FINAL weights. Not a premise of matrix rigidity. |
-| support | [Original complete independent finding](../audits/reviews/Yin_R_G0283_v1.md#short-row-universal-rigidity-whole-finding) | ENTIRE actual19:52 original D19 proof/interfaces only, not the new fixed statement written by that reviewer. |
+| support | [Original complete finding](../audits/reviews/Yin_R_G0283_v1.md#short-row-universal-rigidity-whole-finding) | ENTIRE actual19:52 original D19 proof/interfaces only, not the new fixed statement written by that reviewer. Finding relationship: self-reviewed. |
 | review | [Actual independent extraction](../audits/reviews/Yin_R_G0284_v1.md#c65-short-row-actual-extraction-finding) | Complete actual A--E, entire retained argument/preservation and all current direct interfaces, independently inspected after allocation by a noncontributor. |
 
 
@@ -215,8 +215,8 @@ The recorded review description was `independently reviewed`.
 | support | [C53 universal SINGLE-factor boundary](Yin_C_G0053_v1.md#universal-order-preserving-projection-boundary) | Existing exact single-factor and actual-order statement, expressly not a prior theorem about arbitrary composites. |
 | support | [C53 original copied-packet accounting](Yin_C_G0053_v1.md#delay-reduction-validity-and-full-costs) | Actual equal-indexed copies, distinct q/M, nonzero/integer guards and full signed norm/content costs; no general mixing norm-product invariance imported. |
 | dependency | [C10 actual common-window expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only the physical-width accounting interface after actual common normalization and measurement of the new union width, with all original roots and FINAL weights. Not a premise of matrix rigidity. |
-| support | [Original complete independent finding](../audits/reviews/Yin_R_G0283_v1.md#short-row-universal-rigidity-whole-finding) | ENTIRE actual19:52 original D19 proof/interfaces only, not the new fixed statement written by that reviewer. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0284_v2.md#c65-short-row-actual-extraction-finding) | Complete actual A--E, entire retained argument/preservation and all current direct interfaces, independently inspected after allocation by a noncontributor. |
+| support | [Original complete finding](../audits/reviews/Yin_R_G0283_v1.md#short-row-universal-rigidity-whole-finding) | ENTIRE actual19:52 original D19 proof/interfaces only, not the new fixed statement written by that reviewer. Finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0284_v2.md#c65-short-row-actual-extraction-finding) | Complete actual A--E, entire retained argument/preservation and all current direct interfaces, separately inspected after allocation by a noncontributor. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 

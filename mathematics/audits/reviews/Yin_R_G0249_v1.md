@@ -13,8 +13,8 @@ This is not personal human inspection, external peer review, formal verification
 
 Root and the responsible D2 author supplied its substantive candidate and proof.
 This reviewer supplied no D2 candidate, proof step, author correction or extraction text, and edited no target.
-This reviewer previously independently inspected the different C47 width extraction in R341 and contributed the registration of the different C46 antecedent.
-That C46 contribution is explicitly disclosed: here C46 is reused ONLY at its separately performed noncontributor R247v2 review and actual16:28 proved/independently-reviewed adoption.
+This reviewer previously independently inspected the different C47 width extraction in R248 and contributed the registration of the different C46 antecedent.
+That C46 contribution is explicitly disclosed: here C46 is reused ONLY at its separately performed noncontributor R247v2 review and actual16:28 proved adoption at its self-reviewed relationship.
 The present finding does not independently recertify this reviewer's C46 contribution.
 C47 is likewise invoked at its already adopted radius/support scope, with the earlier checking relationship retained.
 
@@ -24,16 +24,20 @@ No D2 proof-generation dialogue, author repair discussion or prior independent D
 On the initial target read the reviewer enumerated: actual field identity at an original circle root; connected attained interval and actual maximum; nonconstant radius/strict C_*; both p(0) signs and D0; the positive-interval trigonometric degree and full-circle source hypotheses; a=B,B=1 and B<1; exact retained support; the SAME-profile matching upper construction; finite positive repair and arithmetic; adopted C46 versus a merely pending ancestor; full h/k counts and INITIAL weights; every signature/Salem/optional-house constant and hypothetical quantifier.
 The complete argument and those interfaces were then reconstructed before the verdict.
 
-Current C47's precise radius, endpoint and actual-domain passages, C43v2's half-energy construction, finite paired repair and complete costs, the accepted QZ19-U001 statement/inspection boundary, C46's current decision and exact price passages, and R247v2's actual independent finding were read.
-R247v2's structural correction changes only a noncanonical binding declaration and preserves the independent mathematical finding.
+Current C47's precise radius, endpoint and actual-domain passages, C43v2's half-energy construction, finite paired repair and complete costs, the accepted QZ19-U001 statement/inspection boundary, C46's current decision and exact price passages, and R247v2's actual finding, currently self-reviewed were read.
+R247v2's structural correction changes only a noncanonical binding declaration and preserves the mathematical finding and its current SELF relationship.
 Its adoption and substantive scope, not this reviewer's author work, supply the accepted C46 premise.
 There is no recursive audit of every upstream proof or enlargement of an accepted source scope.
+
+The initial complete C49 input included the author hypothesis, construction and comparison validation summaries beyond the necessary proof.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole attained-range finding](#attained-range-circle-root-whole-finding) | independently reviewed |
+| [Whole attained-range finding](#attained-range-circle-root-whole-finding) | self-reviewed |
 
 ## Review bindings
 

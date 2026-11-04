@@ -62,4 +62,4 @@ The coordinator's check of (9a)--(9b) is contributor verification.
 The separate shortness assessor independently reviewed the entire final extension, including (9a)--(9b), and found no mathematical defect.
 That review also covers the changed-digit-law toral interface and the finite-k optimization statements.
 The assessor contributed the scalar estimate in the separate L G0108 proof; here (9) is an accepted, separately reviewed premise, and its application was checked without describing that scalar proof as independently reviewed by its contributor.
-No new source, computation, identifier allocation or fixed-material edit occurred.
+No new source acquisition or computation occurred.

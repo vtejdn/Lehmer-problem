@@ -260,12 +260,12 @@ General interlacing and torsion-exponent statements retain accepted external-pre
 The integer Bertrand statement preserves its Mig78/C356 attribution and historical SELF/UNKNOWN limits.
 Cambridge kernel and Tao event-norm attribution retain their existing reading depths; no new primary inspection of those passages is claimed.
 
-Actual commands included fixed-file Get-Content/rg reads, pdftotext -f 3 -l 6 -layout mathematics/literature/pdf/MS05.pdf -, pdftotext -f 8 -l 10 -layout mathematics/literature/pdf/MS05.pdf -, public material.py creation, full R readback and a scoped material.py check.
+The selected MS05 PDF passages were text-read on PDF pages 3--6 and 8--10 using layout-preserving extraction.
 The source PDF is the existing holding reached through mathematics/literature/pdf/MS05.pdf; its responsible binding is the MS05 source unit above.
 Text extraction is not rendered-page inspection, and structural checks do not establish mathematics.
 No source bytes, native mathematical outputs or original polynomial coefficients were newly generated.
 
 The NEW Fourier mass/band-capture problem remains open.
-No C665 center, rectangle or cardinality is transferred, and no new width-divergence exponent or all-large-degree conclusion is asserted.
+No C638 earlier phase-band center, rectangle or cardinality is transferred, and no new width-divergence exponent or all-large-degree conclusion is asserted.
 The actual positive measure interval above log2 and complete original2d normalization remain part of the conclusion.
 No unrestricted G0001 completion is claimed.

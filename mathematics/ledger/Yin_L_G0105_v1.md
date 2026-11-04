@@ -5,7 +5,7 @@ author: Yin
 # Weighted trace decay and the cost of moving the multiplier
 
 The current complete mathematical proof is retained in [C302](../claims/Yin_C_G0302_v1.md#argument).
-The original mathematical text below remains the fixed old input,with its original date and exact old review bindings.
+The original mathematical text below remains the fixed old input, with its original date and exact old review bindings.
 
 Date: 2026-10-07.
 Bounded direct proof by the assigned assess_shortness_route AI for Yin.
@@ -207,5 +207,5 @@ These results leave arbitrary unbounded multipliers and changed test normalizati
 
 ## Original contribution and actual checks
 
-The complete original author,contributor,partial and whole checking account is retained in [R543](../audits/reviews/Yin_R_G0543_v1.md#complete-original-l105-checking-account).
-Its original inputs,date,mathematical scopes and verdicts remain unchanged,with exact finding-specific relationships.
+The complete original author, contributor, partial and whole checking account is retained in [R543](../audits/reviews/Yin_R_G0543_v1.md#complete-original-l105-checking-account).
+Its original inputs, date, mathematical scopes and verdicts remain unchanged, with exact finding-specific relationships.

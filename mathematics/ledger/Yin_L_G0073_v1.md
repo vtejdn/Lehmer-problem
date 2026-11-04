@@ -33,8 +33,7 @@ In particular define
 
     B_p=max(0,sum_j (n_j^2/q_j-n_j)/e_j).
 
-For any finite set of primes, and hence over all primes with
-positive B_p,
+For any finite set of primes, and hence over all primes with positive B_p,
 
     log|Delta|>=sum_p B_p log p,
     h(alpha)>=1/(2d^2) sum_p B_p log p-log d/(2d).      (2)

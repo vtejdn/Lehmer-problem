@@ -83,7 +83,7 @@ The bound reduces the required actual same-time income for this Salem near-one t
 | --- | --- |
 | date | 2026-10-21T17:36 |
 | status | proved |
-| reason | Adopt the complete new isolated finding formed from the exact Statement and every mathematical line before any contributor agreement, source target-summary or old verdict. All powered degree, discriminant/energy/product, finite and uniform constants and same-time income boundaries were checked. Original R66 UNKNOWN/SELF, R595 SELF and R748 SELF retain their actual reading events and scope. |
+| reason | Adopt the complete new isolated finding formed from the exact Statement and every mathematical line before any contributor agreement, source target-summary or old verdict. All powered degree, discriminant/energy/product, finite and uniform constants and same-time income boundaries were checked. Original R66 UNKNOWN/SELF, R595 SELF and R601 SELF retain their actual reading events and scope. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

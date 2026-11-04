@@ -11,7 +11,7 @@ It reused unchanged already read C297/C298/C303–C305 and the exact necessary c
 All four current statements and every full original argument were actually checked.
 Current findings inherit original author/development/verdict context and formulate the retained statements,so all four are self-reviewed.
 Old R31/R32/R33 remain the adequate formal homes for the actual L109/L111/L112 checks; no duplicate old whole review is manufactured.
-In particular,the L109 author companion convergence reading is the already recorded L108/R690 source-agent whole check.
+In particular,the L109 author companion convergence reading is the already recorded L108/R543 source-agent whole check.
 All old findings retain their original2026-10-07 date and old input,without invented minutes or new-C backbindings.
 The L110 base and addition reviews keep their distinct actual scopes; necessary base reading by the addition reviewer is bound as input checking within that same occurrence.
 No mathematical correction,substantive repair,new source/artifact inspection,native program,computation or Task resumption occurred.

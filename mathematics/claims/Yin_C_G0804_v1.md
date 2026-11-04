@@ -111,12 +111,12 @@ The exact [C762](Yin_C_G0762_v1.md#decision-whole-reviewed-2026-10-25) factoriza
     m(P)=m(K)=m(L_0), degK=7N+h-3.
 
 Every cyclotomic factor and multiplicity in that identity is actual over Z.
-The monic reciprocal integer core K need not be height one or irreducible, and both its OWN second residuals have coefficient valuation0 by C809/C774.
+The monic reciprocal integer core K need not be height one or irreducible, and both its OWN second residuals have coefficient valuation0 by C767/C774.
 The full noncyclotomic part always retains every irreducible multiplicity.
 The measure m is TOTAL logarithmic Mahler measure with probability Haar normalization; no degree division is permitted.
 
 [C771](Yin_C_G0771_v1.md#decision-whole-reviewed-2026-10-26) and [C775](Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) already exclude raw flip count, bounded adjacent transitions, bounded periodic-template complexity and integer coefficient-energy certificates as nearzero shortcuts at their precise scopes.
-Their zero-column constructions establish the earlier C809 target, not automatically the newly adopted global8 equations.
+Their zero-column constructions establish the earlier C767 target, not automatically the newly adopted global8 equations.
 No duplicate proof of those failures is intended here.
 The new question is an actual logarithmic-integral or complete-factor mechanism within the global8 family, with all original costs retained.
 
@@ -237,7 +237,7 @@ For A=0 the reciprocal A_H identity gives the EXACT factorization for every orig
 
 Every removed factor is actual cyclotomic with its full multiplicity.
 The full noncyclotomic part is therefore exactly that of the FIXED A_H, independent of N.
-If the empty mask is global8-admissible for any N, C809's actual positivity makes m(A_H)>0.
+If the empty mask is global8-admissible for any N, C767's actual positivity makes m(A_H)>0.
 Whether it is admissible is not assumed or settled here.
 It is not a nearzero-in-s mechanism even if it occurs, because its total measure is exactly fixed.
 

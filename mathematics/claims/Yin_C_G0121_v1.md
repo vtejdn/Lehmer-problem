@@ -17,7 +17,7 @@ Preserve every ancestor core, original root weight, merged bucket capacity and p
 Read [C114's original-law finite-core and mean-support theorem](Yin_C_G0114_v1.md#statement), C116's full prime-price/coverage boundaries, [C119's complete canonical tree/ancestor-chain proof](Yin_C_G0119_v1.md#argument) and the pertinent earlier C91/C102/C106 residual-bucket formulas.
 The initial broad text search was truncated and supplies no absence evidence; the subsequent narrower screen covered the exact C86/C91/C102/C106/L159 residual, phi and bucket passages.
 The new needed step is uniform control after merging actual ancestor orders by o/gcd(o,G), which is distinct from assuming bounded original support.
-C119 now selects [its whole-reviewed decision](Yin_C_G0119_v1.md#decision-whole-reviewed-2026-10-15), adopting R474; this actual status was checked before the final argument.
+C119 now selects [its whole-reviewed decision](Yin_C_G0119_v1.md#decision-whole-reviewed-2026-10-15), adopting [R797 original canonical-tree](../audits/reviews/Yin_R_G0797_v1.md#canonical-tree-whole-independent-finding); this actual status was checked before the final argument.
 No new recognized external theorem or source is invoked.
 Continued native mathematics would require a J; none is needed for the direct finite identities.
 

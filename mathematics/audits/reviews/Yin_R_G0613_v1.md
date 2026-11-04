@@ -8,7 +8,7 @@ Date: 2026-10-21T18:21.
 Human operator: Yin.
 The agent read all742lines of original L174 and all179original R73 lines, including complete mathematical/source/contribution/review/negative/fixed-retention accounts, every original binding and actual checking depth.
 It read the complete actual published C408v1/C409v1/C410v1 statements/arguments and the C410v2 explicit comparison-domain revision, with its entire nonlinear proof compared unchanged.
-It checked every necessary C231 full-resultant, C249 family classification/elimination, C337 no-padding progression, C402 fixed Lehmer algebraic/root and C346 linear-encoding comparison interface.
+It checked every necessary C231 full-resultant, C248 family classification/elimination, C336 no-padding progression, C399 fixed Lehmer algebraic/root and C345 linear-encoding comparison interface.
 The exact retained C1 radial split and C4 damped-polynomial definition fragments were read; the finite-input justification is also explicit in C408.
 The complete adequate Dim16-U001 source statement/direct all-index specialization was read at its existing accepted depth.
 All three J30 programs, J35 verify.py, both program readmes and all four retained JSON reports were read in full.
@@ -55,7 +55,7 @@ This proves the energy's Abel existence and exact transfer without assuming abso
 The C231 full-conjugate/doubling floor only transfers existing income.
 Its normal fixed input and the explicit C1/C4 algebraic/definition fragments supply no extra near-one bound.
 
-The actual C249 classification and C337 no-padding progression give the full irreducible degree N+3, theta<tau_N<4/3 for the stated N>=129, primitive support2,3 and fixed limiting log(theta)>0.
+The actual C248 classification and C336 no-padding progression give the full irreducible degree N+3, theta<tau_N<4/3 for the stated N>=129, primitive support2,3 and fixed limiting log(theta)>0.
 For f=z^3-z-1 the nonreal conjugates have modulus theta^(-1/2), giving g=-f*/f winding-1 with no circle pole.
 The bounded smooth lifted phase makes H_N strictly increasing for all sufficiently large N, and its period increment counts exactly N+1 unit roots.
 The displacement estimate gives an O(1) error for each fixed smooth test function, including g^k.
@@ -81,7 +81,7 @@ This finding is self-reviewed and does not close the old whole unknown independe
 
 Date: 2026-10-21T18:21.
 PASS for the entire C409v1 statement, original Input/result and equations(1)--(15), every fixed family/root/source input, all resultant factors and limits, and the exact correction/native boundaries.
-The first identity is the older C249 elimination identity; its original inaccurate absence claim, withdrawal and corrected introduction/reuse reread are retained without a new proof-repair event.
+The first identity is the older C248 elimination identity; its original inaccurate absence claim, withdrawal and corrected introduction/reuse reread are retained without a new proof-repair event.
 Direct expansion of the two displayed integer identities, evaluation at all f roots and their unit products give Res(f,h)=-1 and Res(f,L)=Res(L,f)=1.
 The actual progression has even d=N+3, so every resultant interchange sign is positive at its stated place.
 No f root is a P_N root.
@@ -89,8 +89,8 @@ At every P_N root the squared denominator has norm1, the z factor has norm1 and 
 The substitution product differs from the full powered-root convention by(-1)^(d^2)=1.
 At every L root, P_N=z^8 f(z)(z^q+1); both further unit factors are retained.
 Thus the exact reduction keeps all powered conjugates/multiplicities and does not assume that squaring preserves minimal degree.
-The positive real lambda/inverse factors and conjugate absolute squares prove positivity, while C402's precise irreducible nontorsion root configuration proves nonvanishing.
-Only those algebraic/root facts are consumed from C402.
+The positive real lambda/inverse factors and conjugate absolute squares prove positivity, while C399's precise irreducible nontorsion root configuration proves nonvanishing.
+Only those algebraic/root facts are consumed from C399.
 The N9 control is an algebraic identity case, while N>=129 supplies the separate N>=16 root bound for the asymptotic family.
 
 I read the complete adequate Dim16-U001 source statement and all-index direct specialization.
@@ -162,7 +162,7 @@ No exponential floor for D follows from the uncontrolled content.
 Neither coefficient-height bound lower-bounds the auxiliary or complementary Mahler measure.
 
 The actual special numerator is2zL and normalized G_f=zL, as retained in C409 and the older family identity.
-The separate C346 comparison was checked at its exact positive-measure/even-degree-at-least4 scope, including monic/coprime/nonreciprocal seed and coefficient costs.
+The separate C345 comparison was checked at its exact positive-measure/even-degree-at-least4 scope, including monic/coprime/nonreciprocal seed and coefficient costs.
 Its linear delay auxiliary differs from G_f and does not assert that this is a first universality result.
 The later original L38/L139 reuse comparison remains outside the old R73 final Sections1--5 whole finding and old whole author SELF.
 The current whole finding includes that comparison and the v2 explicit domain.

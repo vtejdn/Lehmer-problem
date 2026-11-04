@@ -6,7 +6,7 @@ author: Yin
 
 Publication date: 2026-10-22T19:40.
 Human record author Yin.
-The constructor read all five original physical L430–L435 accounts in full, checked their actual domains and necessary fixed C/U interfaces, and authored the three current C statements and responsible-home transfers.
+The constructor read all five original physical L430–L434 accounts in full, checked their actual domains and necessary fixed C/U interfaces, and authored the three current C statements and responsible-home transfers.
 The three current whole findings and wrapper-scope finding are SELF, not isolated independent review.
 C574v1 was registered open at2026-10-22T19:35; C575v1/C576v1 at2026-10-22T19:36.
 C574v1's final new Gram-margin sentence needed explicit repetition of0<u<=exp(-40), already used by the original derivation.
@@ -115,26 +115,26 @@ The original text gives no separate checking minute; none is invented.
 
 ## Sufficient existing homes for G433 and G435
 
-L433 is useful source/applicability history and a direct comparison of already sufficient mathematics.
+L432 is useful source/applicability history and a direct comparison of already sufficient mathematics.
 C27 owns all-late flat-input support escape and C62 owns the complete first-window arbitrary-rational-representative noncomplementary norm-income bound.
 Substitution of n_j->infinity and eventual m_j<=1 into its explicit B(n_j,m_j) makes the bound tend to0 uniformly over EVERY packet in the exact flat/O0/E<1/window-d domain.
 No optimizer, packet selection or denominator conclusion is needed.
 DS17-U001 already owns the fixed-K qualitative gap and its exact zero-branch/version/monomial correction.
-The dense-every-position-odd BDM07 comparison, actual source reading dates/pages/versions and tuple-versus-alphabet restrictions remain source/application observations in L433; no new source reading or acceptance is attributed here.
+The dense-every-position-odd BDM07 comparison, actual source reading dates/pages/versions and tuple-versus-alphabet restrictions remain source/application observations in L432; no new source reading or acceptance is attributed here.
 A duplicate mathematical C for those already responsible results is unnecessary.
 
-L435 remains the useful source/frontier home it already is.
-C159/R527 own the complete actual angular/cubic proof.
-L435 contains source passage/version/applicability observations and an unresolved discovery-only lead, without a new theorem needing extraction.
+L434 remains the useful source/frontier home it already is.
+C159/R382 own the complete actual angular/cubic proof.
+L434 contains source passage/version/applicability observations and an unresolved discovery-only lead, without a new theorem needing extraction.
 Original Hir06/Smy15/LL25 passage depth, missing individual reading timestamps and Carneiro–Das v4/v2/internal-date mismatch remain exact history.
 No external record was reopened or accepted and the discovery is not made a premise of C159.
 These content decisions add no duplicate proof, whole source audit or research authority.
 
 ## Historical source and author boundaries
 
-L432's original elementary-identity/self-check metadata remains its historical account.
+L431's original elementary-identity/self-check metadata remains its historical account.
 R180/R_F3/R_F4 are reused only at their stated scalar-functional/coefficient interfaces; no foreign complete whole-proof finding is claimed re-audited, and none prospectively accepts the new complete baseline.
-L434's author-level retention and development date remain distinct from the new whole check; no old formal whole finding or checking minute is fabricated from that metadata.
-DJ20-U001's precise accepted theorem/direct-specialization and C484/R540's different hull obstruction remain unchanged.
+L433's author-level retention and development date remain distinct from the new whole check; no old formal whole finding or checking minute is fabricated from that metadata.
+DJ20-U001's precise accepted theorem/direct-specialization and C484/R395's different hull obstruction remain unchanged.
 The current three findings are constructor SELF at their actual complete new C scopes.
 The automatic arithmetic upper bound, integral-point supply and unrestricted G0001 objective remain unresolved.

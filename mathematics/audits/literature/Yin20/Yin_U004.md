@@ -402,7 +402,8 @@ This is a statement about representations with whole inverse matrices over $M$.
 It does not identify the set in (18) with all values $r(X)\in M$ obtained using a representation invertible only over $U(M)$.
 The latter condition first asserts $X\in\operatorname{dom}_{U(M)}(r)$ and then boundedness of one evaluated output.
 
-The existing Yin_C_F0012 illustrates this distinction under the project's own bounded-dual hypotheses.
+The earlier project account reports an illustration under its bounded-dual hypotheses in former Yin_C_F0012.
+Its original fixed proof/review homes remain unlocated in the current retained F-family collection, so it supplies no currently reusable project obstruction here.
 Its polynomial matrix $\begin{pmatrix}h&-Y\\0&h\end{pmatrix}$ has affiliated inverse $\begin{pmatrix}h^{-1}&b\\0&h^{-1}\end{pmatrix}$, with bounded selected output $b$ and unbounded diagonal entries.
 The source theorem audited here does not change the ambient of that inverse.
 The further exclusion of alternative bounded matrix representations in that model is a project argument involving its C*-algebra, not a conclusion imported from Yin20 without proof.

@@ -9,7 +9,7 @@ This was a separately organized review by a fresh agent outside the substantive 
 The agent received the fixed target paths, necessary native locations, review scope and governing rules, without inherited target-development dialogue, mathematical summaries, separate author explanations or previous target-review conclusions.
 The first stage read the exact Statements and complete necessary arguments of C358 and C359, including the provenance and limitation prose embedded in those fixed arguments, and formed its own mathematical obligations and findings before reading their opening accounts, Assessment sections or earlier target findings.
 The actual native checker implementations were read and reused during that first stage; isolated mathematical context does not mean a different implementation.
-The initial findings were communicated before the second-stage comparison with the complete original L347/L348, R246/R247 and present R573 accounts.
+The initial findings were communicated before the second-stage comparison with the complete original L347/L348, R172/R173 and present R573 accounts.
 No repair was supplied to either proof.
 
 <a id="isolated-full-surplus-whole"></a>
@@ -147,7 +147,7 @@ The current statements and all necessary mathematical equations and arguments ag
 A transient direct text comparison, after adjusting only same-object relative locators, identified the shortened pre-run/allocation/outcome and self-check prose; it identified no changed equation, mathematical hypothesis, coefficient, norm, multiplicity, limitation or finite-domain conclusion.
 The old timing, allocation, author-freeze and then-active-route prose describes the2026-10-10 round and supplies no present Task/E authority.
 
-R246 records the original full finding dated2026-10-10T13:09 by structural_research for Yin, covering original Sections1--8/(1)--(19), every sign/boundary case, scalar/reference costs and the full98-direction/32-cell mathematical schema.
+R172 records the original full finding dated 2026-10-10T13:09 by structural_research for Yin, covering original Sections1--8/(1)--(19), every sign/boundary case, scalar/reference costs and the full98-direction/32-cell mathematical schema.
 Its original separately organized noncontributor description and no-defect conclusion are preserved as historical facts.
 It disclosed available author explanations and upstream roles, but the mathematical content and initial order of those additional inputs are not established.
 Its relationship remains unknown; this review neither certifies historical isolation nor infers shared substantive target-development context from that label.
@@ -155,7 +155,7 @@ Its native replay imported no author or previous reviewer implementation, recons
 Unlike this present review, it also directly text-extracted BV04 Section3.1.3, printed69--70/PDF83--84, equation(3.2) and the selected proof; that historical source inspection is preserved without claiming a new PDF read here.
 It established the same finite interval and explicitly withheld nonlinear optimality, n30 results, all-residue coverage and near-one completion.
 
-R247 records the original full finding dated2026-10-10T13:20 by orbit_research for Yin, covering original Sections1--6 including5.1--5.2/(1)--(12) and all48-direction native mathematics.
+R173 records the original full finding dated 2026-10-10T13:20 by orbit_research for Yin, covering original Sections1--6 including5.1--5.2/(1)--(12) and all48-direction native mathematics.
 Its original noncontributor description and no-defect conclusion are preserved as historical facts.
 It received coordination and the author's scope/outcome messages; their actual mathematical content and initial input order are unestablished, so its relationship remains unknown.
 It explicitly reused its earlier own exact-log/schema helper and active solver, rebuilt the complete quotient/norm/certificate/aggregate data, and accepted the original irreducibility/root input without a new finite-field or root execution.
@@ -165,7 +165,7 @@ Historical references to then-active routes remain dated context, not current li
 R573 is an actual self-review by a construction-context agent who had read the old arguments and conclusions before extraction.
 Its two full findings and memory-only checker repetitions agree mathematically with this review and retain their self-reviewed relationships.
 Neither that agreement nor this new review changes the relationships, dates or original inputs of the old findings.
-The present whole findings bind C358/C359 as actually read now; they do not pretend that R246/R247 originally inspected later C files.
+The present whole findings bind C358/C359 as actually read now; they do not pretend that R172/R173 originally inspected later C files.
 
 The retained [BV04 U002](../literature/BV04/Yin_U002.md#bv04-u002) and its source entrance were read at their exact tangent and weak-duality scopes.
 The local scalar and coordinate-sum proofs supply the mathematics here, while BV04 supplies bounded classical-method attribution.

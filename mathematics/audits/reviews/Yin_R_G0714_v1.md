@@ -54,7 +54,7 @@ It asserts neither sufficiency nor an all-rank inertia classification or a Mahle
 
 The displayed five-by-three B was multiplied to obtain the exact Gram A.
 Its cubic characteristic/trace-polynomial transform gives precisely P6.
-The full Schur determinant from the complete C462v2 input retains the two Phi2 factors and rank8, including the t=-1 polynomial identity.
+The full Schur determinant from the complete C458v2 input retains the two Phi2 factors and rank8, including the t=-1 polynomial identity.
 All seven strict-upper entries of V8 are-1, its energy is7 and its support is a tree.
 The actual all-negative companion is therefore V8 itself.
 C2's literal negative-edge block is-I2, so its canonical rank16 cover has both full P6 copies, four Phi2 degrees, energy14 and total measure2log beta.
@@ -75,13 +75,13 @@ The original author correction, corrected author rerun, later original same-cap 
 This current maintenance only read code, parsed Python AST and JSON, and made no producer, checker, C# compilation, replay, new native result or expanded search.
 
 The existing vdB59-U001 is sufficient for exactly the original1959 equation7 and its even-unimodular specialization with determinant of either sign.
-Its original all-three-page visual reading and the original R109 renderedpp291--292 inspection retain their actual distinct scopes.
+Its original all-three-page visual reading and the original R106 renderedpp291--292 inspection retain their actual distinct scopes.
 The positive-definite equation3 is not substituted.
 The Fourier/oscillatory-integral justification and secondary works remain outside the accepted proof-inspection scope.
 No new PDF reading, external proof audit, source unit or reading minute has been created.
 
 Original L210 remains fixed.
-The entire original R109 whole, 04:32 date, positive verdict, source/code/native/replay facts and no-proof-repair statement are retained.
+The entire original R106 whole, 04:32 date, positive verdict, source/code/native/replay facts and no-proof-repair statement are retained.
 The original record states broad-question/source-intake coordination and noncontribution, but does not establish complete initial isolation or actual additional development context.
 Its whole therefore stays UNKNOWN without asserting that substantive mathematics was actually shared.
 Neither coordinator identity, prior fixed-input reading nor the old independent label itself determines isolation or SELF.

@@ -14,7 +14,7 @@ The [later complete comparison](../audits/reviews/Yin_R_G0695_v1.md#l396-and-r45
 Date: 2026-10-13T05:20.
 Human author Yin.
 Delegated direct_triple author develops this G0001 account.
-The preceding whole D24 has an independent original-argument review, R453; its fixed wrapper is being organized separately and no prospective wrapper acceptance is assumed.
+The preceding whole D24 has an independent original-argument review, R341; its fixed wrapper is being organized separately and no prospective wrapper acceptance is assumed.
 
 <a id="scale-loss-removal-question"></a>
 ## Exact question
@@ -31,7 +31,7 @@ No new native program has started.
 <a id="scale-loss-removal-starting-inputs"></a>
 ## Starting reuse
 
-The exact prior weighted two-band proof and finite level-set transfer are retained in [C101's complete original author artifact](../claims/Yin_C_G0101_v1.md#nonlinear-triple-weighted-two-band), with [GW21-U001](../audits/literature/GW21/Yin_U001.md#gw21-u001) as its accepted published-source input and R453 as independent original-whole evidence.
+The exact prior weighted two-band proof and finite level-set transfer are retained in [C101's complete original author artifact](../claims/Yin_C_G0101_v1.md#nonlinear-triple-weighted-two-band), with [GW21-U001](../audits/literature/GW21/Yin_U001.md#gw21-u001) as its accepted published-source input and R341 as original-whole evidence.
 The C91 residual-bucket mechanism, C96/C98 negative controls, and the newly adopted [C99](../claims/Yin_C_G0099_v1.md#statement) are fixed inputs at their actual scopes.
 The contemplated subcritical fractional moment bound was only an unproved idea in the prior artifact; this draft may investigate it without assuming it.
 The original starting reference was to the then-live D24; after complete preservation in C101, this locator was rebased without changing the cited argument.

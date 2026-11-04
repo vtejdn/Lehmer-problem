@@ -9,7 +9,7 @@ Root derived the exact linear change of the adopted C603 first quarter, the boun
 This is new author mathematics and initially open for fresh isolated whole review.
 The active [G0001 Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23) authorizes this continuation.
 The complete adopted C669, C671 and C672 interfaces and actual C603 first-quarter formula were read before this deduction.
-The separate full second-quarter C705 is not a premise and is not claimed solved here.
+The separate full second-quarter C675 is not a premise and is not claimed solved here.
 No native computation, parameter scan or external source theorem is used.
 
 ## Statement

@@ -50,7 +50,7 @@ Six checkpoints and a final vector are a narrower retention scope, not all inter
 
 The original finite evidence is exactly J86's four fixed coefficient lists through n64, all1235 full-state equalities and960 exact signed divisions, and the single original Lehmer input through n1024 with six scalar checkpoints and11 final entries.
 The latter has10240 exact divisions/extended bounds,11275 stored-state bounds,1025 scalar bounds,1024 monotonicity checks, max numerator/divisor6513/14bits and1954 final scalar decimal digits with denominator9^2048.
-Original direct convolution reaches only64; the original R281 separately implemented recurrence supplies the retained1024 verification at its actual historical scope.
+Original direct convolution reaches only64; the original R205 separately implemented recurrence supplies the retained1024 verification at its actual historical scope.
 The new whole self-review records one fresh original-domain read-only reconstruction, including all saved mathematical counters, without changing native bytes or asserting historical runtimes anew.
 No derivative sum, local radius, complementary modulus, tail/logarithmic enclosure, positive Mahler lower certificate, useful uniform cutoff, additional input/depth or research Task completion follows.
 AZ90 supplies selected classical method attribution only; no unseen theorem, source algorithm or external complexity bound is a premise.

@@ -336,7 +336,7 @@ They returned distribution and logarithmic-approximation leads, including [Stank
 This was a discovery screen, not a complete source inspection, and no returned theorem was established or adopted as the UR premise.
 The search does not prove that a stronger usable return theorem is absent.
 The actual unresolved input is UR for the chosen higher-degree phases, or another return/action mechanism with sufficient complete costs.
-The full mirror statement and the UR-conditional sequence theorem above have complete author arguments and await independent whole review.
+At initial registration, the full mirror statement and the UR-conditional sequence theorem above had complete author arguments and awaited independent whole review; the later selected decision below owns the adopted v2 scope.
 No independent label from earlier review work is reused.
 
 ## Current assessment

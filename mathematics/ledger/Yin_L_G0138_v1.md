@@ -4,11 +4,15 @@ author: Yin
 
 # All-central coercivity and the cost of its guaranteed radius
 
+Current checking scope is owned by [R562](../audits/reviews/Yin_R_G0562_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Bounded G0001 derivation by the assigned entropy_status AI for Yin.
 The coordinator checked the all-central norm idea, pointed out the lower bound on the Vandermonde cost, and checked an initial bounded-growth obstruction during development.
 The assigned agent derived the refinements, sharper cost comparison and combinatorial model below.
-These are contributor checks; completed independent review is recorded below.
+These are contributor checks; the completed checking account below retains the responsible findings' actual relationships.
 No optimization, numerical run or new source is involved.
 
 This note uses exactly the [finite energy problem of L G0130](Yin_L_G0130_v1.md#finite-rational-energy-coercivity), the [finite-cluster proof of L G0135](Yin_L_G0135_v1.md#explicit-finite-energy-coercivity-radius), the [sparse threshold algorithm of L G0136](Yin_L_G0136_v1.md#sparse-energy-threshold-decision), and the [actual-product envelope](Yin_L_G0132_v1.md#tunable-salem-finite-energy-envelope) and [logarithmic upper bound](Yin_L_G0132_v1.md#logarithmic-finite-energy-witnesses) of L G0132.

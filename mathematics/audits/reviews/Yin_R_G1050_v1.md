@@ -35,11 +35,11 @@ This finding supplies review evidence only; a responsible Claim decision must se
 | [Whole finite-coset finding](#whole-finite-coset-finding) | [C829 complete argument](../../claims/Yin_C_G0829_v1.md#complete-argument) | Entire FE1--FE9 proof, including the mO reduction, two finite-ring unit periods, actual same-coset escaping sequence, strict intermediate-state legality and avoidance of F, complete original word weights, finite-row iteration, exact radial cancellation along dN and actual harmonic consequences. |
 | [Whole finite-coset finding](#whole-finite-coset-finding) | [C829 selected open decision](../../claims/Yin_C_G0829_v1.md#decision-finite-coset-open) | Exact fixed candidate and declared input set examined; this review makes no independent Claim-selection act. |
 | [Whole finite-coset finding](#whole-finite-coset-finding) | [C827 adopted translation interface](../../claims/Yin_C_G0827_v1.md#decision-whole-reviewed-2026-10-27) | Whole C827 statement and proof read, with the full returned-word mechanism independently rechecked where used by C829; its exact five underlying input scopes and original-law boundaries agree with the new proof. |
-| [Whole finite-coset finding](#whole-finite-coset-finding) | [C400 adopted strict core](../../claims/Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Actual fixed-quartic original accessible/coaccessible core equals the strict two-real-coordinate strip; full conditional strip argument read, with its C399 narrow co-return premise reused at its retained computer-assisted scope. |
+| [Whole finite-coset finding](#whole-finite-coset-finding) | [C400 adopted strict core](../../claims/Yin_C_G0400_v1.md#decision-complete-isolated-whole-adoption) | Actual fixed-quartic original accessible/coaccessible core equals the strict two-real-coordinate strip; full conditional strip argument read, with its C396 narrow co-return premise reused at its retained computer-assisted scope. |
 | [Whole finite-coset finding](#whole-finite-coset-finding) | [C790 adopted unit](../../claims/Yin_C_G0790_v1.md#decision-whole-reviewed-2026-10-26) | Exact actual-order v, its inverse and real/neutral conjugates rechecked for FE3--FE7; density, Gaussian counts and original overlap estimates are not premises of this review. |
 | [Whole finite-coset finding](#whole-finite-coset-finding) | [C555 complete-return limit](../../claims/Yin_C_G0555_v1.md#decision-isolated-whole-review-adoption-20261022) | Complete original iid return law, chronological reversal, concatenation and entire root limit with 1<=R<=2; only this interface is used along the fixed progression dN. |
 | [Whole finite-coset finding](#whole-finite-coset-finding) | [C511 canonical first-hit family](../../claims/Yin_C_G0511_v1.md#decision-complete-current-self-adoption) | Actual first-hit definition, positive finite values and off-zero t-harmonic equation for every 0<t<R_f, including the explicitly conditional R<t<R_f use; the prefix comparison and first-step derivation were read and rechecked. |
-| [Whole finite-coset finding](#whole-finite-coset-finding) | [C805 actual critical H and Q](../../claims/Yin_C_G0805_v1.md#decision-whole-reviewed-2026-10-26) | Finite positive actual H_R and original-weight stochastic Q with no finite-mean premise; the declared C619 critical interface was traced, while reflection-block and Hilbert-space conclusions are outside the used scope. |
+| [Whole finite-coset finding](#whole-finite-coset-finding) | [C805 actual critical H and Q](../../claims/Yin_C_G0805_v1.md#decision-whole-reviewed-2026-10-26) | Finite positive actual H_R and original-weight stochastic Q with no finite-mean premise; the declared C599 critical interface was traced, while reflection-block and Hilbert-space conclusions are outside the used scope. |
 
 ## Finite-index algebra and actual endpoints
 
@@ -108,12 +108,12 @@ This proves all stated quantifiers and strict ratio inequality for the actual H_
 ## Adopted-input depth and remaining limits
 
 C400's complete conditional strict-strip argument and its selected fixed-quartic application were read directly.
-The C399 theorem and its certificate boundaries were inspected for the exact narrow co-return premise, degree-four actual order and embedding facts.
+The C396 theorem and its certificate boundaries were inspected for the exact narrow co-return premise, degree-four actual order and embedding facts.
 Its rational interval/integer certificates and retained native executions are accepted upstream evidence; their programs and outputs were not rerun or newly audited here.
 C790's needed unit identities were independently checked algebraically, without importing its state-count lower bounds as probabilities.
 C555's complete-return definitions and concatenation interface agree with the chronological law because reversing a finite iid word preserves its product probability.
 C511's pertinent canonical-family proof was checked directly; unrelated variational and endpoint assertions are not needed.
-C805's actual critical formula was matched to its adopted C619 interface, without auditing the unrelated reflection-block proof or extending its operator conclusions.
+C805's actual critical formula was matched to its adopted C599 interface, without auditing the unrelated reflection-block proof or extending its operator conclusions.
 No prior R finding was opened or used to supply a missing local step.
 
 The review neither proves finite or infinite critical mean nor decides R_f=R versus R_f>R.

@@ -73,6 +73,5 @@ No floating root estimate, broad random scan or old research implementation is u
 
 The actual program and successful result are [verify.py](../../computations/programs/Yin_J_G0032/verify.py) and verification.json (`mathematics/computations/outputs/Yin_J_G0032/verification.json`).
 These are finite controls for the all-parameter written proof, not an independent review or a proof by extrapolation.
-No initial failed run occurred.
 The coordinator originated Section1's candidate proof and is therefore a contributor to that component.
 The triangle family and all-r cost identities were developed by the structural author; no independent review of either new component is yet claimed.

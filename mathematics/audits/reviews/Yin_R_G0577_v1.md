@@ -6,7 +6,7 @@ author: Yin
 
 Date: 2026-10-21T14:06.
 Human operator: Yin.
-The agent actually read complete L153/L154, their contribution/checking accounts, the published complete C364v1/v2 and C365v1 statements and retained arguments, and the directly used scopes of C213v2/C281/C282/C288/C291/C332/C335/C337/C355v2/C362.
+The agent actually read complete L153/L154, their contribution/checking accounts, the published complete C364v1/v2 and C365v1 statements and retained arguments, and the directly used scopes of C213v2/C281/C281/C288/C290/C332/C334/C336/C354v2/C360.
 Unchanged adequate fixed materials already read during this maintenance were reused at their exact scopes.
 The whole mathematical checks rederived the full finite and infinite chains below, rather than accepting a retained proof or old PASS label.
 The agent inherited substantive maintenance context, read the original review conclusions and authored the current statements, so both current whole relationships are self-reviewed.
@@ -49,7 +49,7 @@ For an arbitrary nonzero full-field integral multiplier, the unit property gives
 The mixed product is exactly the single real expanding phase product; no central-phase approximation or multiplier change is involved.
 The prescribed height bounds force t alpha^(-J)<=delta/d, while the nonzero integral norm and central conjugates at most one force tH>=1 and hence t alpha^J>=d/delta.
 Thus both crossing endpoints hold with all constants, and the actual upper bound has no entropy, noise or orbit-length premise.
-The elementary log(2)>=2/3 and log(3)>1 give a>1/3 and A(m)<3sqrt(2)m, so the specified small-m C335 target is impossible before its other guards are imposed.
+The elementary log(2)>=2/3 and log(3)>1 give a>1/3 and A(m)<3sqrt(2)m, so the specified small-m C334 target is impossible before its other guards are imposed.
 For the whole retained certificate, the statement now explicitly keeps 0<m<=1/32 while allowing every permitted delta,kappa,eta and N.
 Every selected frequency time lies in [0,N-1], including an empty set, so its exact count is between zero and N and 0<A_delta<=1.
 On the required amplitude range g''<=4/3 gives g(x)<=x^2; the complete actual income is bounded by 2N exp(-2a/m).
@@ -57,7 +57,7 @@ The strict fifth exponential-series term yields (3645/2)m^5<2m^3 at m<=1/32.
 The exact C_ent identity is (20/3)sinh(m)^3 cosh(m)>=(20/3)m^3, so the income lies strictly below N C_ent before adding the positive residual cost.
 Each common-window candidate k theta is separately nonzero integral, has central size at most one and height at most bH, so the same crossing applies at the same actual J.
 The exact Fejer weights sum to K-1 off zero; retaining every off-integer term gives both full-expectation inequalities and the normalized surplus, rather than an integer-resonance-only surrogate.
-Subtracting the exact integer contribution Kp gives (16); only in C362's precise smaller domain is Kp<1/4 imported to deduce off-integer mass greater than 3/4.
+Subtracting the exact integer contribution Kp gives (16); only in C360's precise smaller domain is Kp<1/4 imported to deduce off-integer mass greater than 3/4.
 The normalized surplus and every candidate remain below the retained target, while individually admissible multipliers outside the sufficient seed conditions, separately paid shorter windows and multiple-expanding inputs are not excluded.
 No substantive defect was found in the original numbered proof.
 The separately recorded new-summary domain qualification does not alter that proof or establish an old isolated relationship.
@@ -77,11 +77,11 @@ The ratio induction for b_q<=(3q+1)^(-1/2) has exact polynomial difference q and
 The decreasing integral comparison is valid precisely at d>2 and yields 2^(-d)[1+8/(3(d-2))].
 At most d time indices share q; f_n<=p_n and the degree-free-return segment justify summing the entire tail with no path or state truncation.
 The result therefore includes cyclotomic units and supplies no positive entropy by itself.
-C282's exact every-n support bound and Cauchy--Schwarz force p_n z^n to diverge for z>M(P), hence U(z)=infinity and F(z)>=1.
+C281's exact every-n support bound and Cauchy--Schwarz force p_n z^n to diverge for z>M(P), hence U(z)=infinity and F(z)>=1.
 Removing only f_1 z=z/2 and the exact vanishing segment gives the complete weighted-tail bound, including infinity.
-The actual N=9 mod120,N>=129 progression has no cyclotomic padding, is irreducible Salem and preserves every positive power degree at its fixed C337 scope.
+The actual N=9 mod120,N>=129 progression has no cyclotomic padding, is irreducible Salem and preserves every positive power degree at its fixed C336 scope.
 The direct cubic value at 5/4 gives theta>5/4, while the fixed upper bound is 4/3.
-C291's finite collision rate and the g lower branch give h_2>(1-(4/5)^2)/4=9/100; the support bound gives h_2<=m.
+C290's finite collision rate and the g lower branch give h_2>(1-(4/5)^2)/4=9/100; the support bound gives h_2<=m.
 Rate existence is at each fixed input, with no degree/time limit exchange.
 Unbounded d makes every fixed first-return prefix eventually identical to the defective f_1=1/2 law and its entire unweighted difference tend to zero, while z=4/3 retains at least 1/3 complete weighted mass.
 This proves precisely the failure of a vanishing unweighted-to-prescribed-weighted modulus on actual inputs, without constructing a near-one family or excluding a smaller test exponent or additional near-one arithmetic.

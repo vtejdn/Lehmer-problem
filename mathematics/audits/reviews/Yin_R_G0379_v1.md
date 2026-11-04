@@ -82,7 +82,7 @@ These are exact whole-polynomial identities, not evaluations at selected origina
 The correct exponent is integral because the original degree d is even.
 
 The author freshly checks the original reciprocal, monic, constant-one, irreducible and noncyclotomic properties and the full simple real-root count of the actual trace polynomial.
-The unchanged original input eligibility and its prior accepted finite scope are consistent with R377's earlier reuse of R519.
+The unchanged original input eligibility and its prior accepted finite scope are consistent with R377's earlier reuse of R374.
 The general buffered arithmetic theorem is reused from C157v2 and R378; no new weighted original norm or original-root/Haar transfer estimate is inferred from these calculations.
 
 ### Explicit prior JV dependency

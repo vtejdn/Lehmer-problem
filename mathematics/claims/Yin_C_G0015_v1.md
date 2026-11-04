@@ -90,7 +90,7 @@ Date:2026-10-11T17:45.
 Authored by general_relative_sign_review AI for Yin under continuing root-coordinated G0001 authorization.
 Root supplied the substantive q=3 four-polynomial candidate, its general q sum-and-pair-difference construction, and the proposed use of M E integrality.
 Root is a contributor and cannot supply whole independent review of that candidate.
-This agent's prior D9 authorship and R294 review do not establish independence for this new work.
+This agent's prior D9 authorship and original L392 review retained in R673 do not establish independence for this new work.
 No native mathematical program, scan or J is authorized or run.
 
 ## Assigned question
@@ -103,7 +103,7 @@ Substantive work follows directly here after the scoped reuse check.
 <a id="periodic-difference-reuse-and-domain"></a>
 ## 1. Reuse and precise current input
 
-The current fixed input is [C_G0014_v2](Yin_C_G0014_v2.md#statement), selected decision organized-reviewed after whole/extraction review R298.
+The current fixed input is [C_G0014_v2](Yin_C_G0014_v2.md#statement), selected decision organized-reviewed after whole/extraction review R222.
 Its explicit NONZERO actual values, actual coefficient and weight denominators, and sufficient rather than necessary unit-norm content implication are retained.
 The earlier D9 is development history, not a current proof premise.
 Its author is the present author, so its earlier review does not independently review the new work here.
@@ -447,7 +447,7 @@ This is continued AUTHOR work, not independent review.
 The original account above is preserved.
 Root supplied the q3 candidate, the general-q sum-and-pair-difference construction and the M E integrality proposal; the original author supplied the common-circle-zero width argument, reciprocal one-copy-excess rigidity, signed-period minimum and the three displayed controls.
 The replacement author checked that complete account and supplies the explicit accounting clarifications below.
-Earlier D9 authorship and R294/R298 review concern their own fixed scopes and do not independently review this new account.
+Earlier D9 authorship and the original L392 review retained in R673 plus the R222 C14 review concern their own fixed scopes and do not independently review this new account.
 Root's later relay of a separate reviewer's presentation-completeness observation concerning the third control is disclosed below; no review verdict is adopted here.
 
 **Exact analytic input and its applicability.** The proof used for every period/window charge is [C10v2's direct exact-covariance window inequality](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality).

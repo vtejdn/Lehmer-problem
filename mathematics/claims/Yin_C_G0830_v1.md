@@ -226,7 +226,7 @@ The exact original weighted difference in A is
                     +epsilon(k_5^3-1)c_J^3
                     -2epsilon(k_3^5-1)b_J^5.       (NH2)
 
-All full factors and original scalar weights remain those of C773/C824.
+All full factors and original scalar weights remain those of C736/C824.
 
 ### NH2. Complete modulo4 carry and the genuine next-half formula
 
@@ -476,7 +476,7 @@ At n=1, B_1=1 is used only as an identity polynomial:
     Theta_2(B_481(C_3))=c_0d_0.
 
 Both factors are actual members of M, with trace degrees240 and720.
-Consequently the old4192 endpoint/lower-row labels of C867, together with these TWO shift labels, generate the full Theta_2 image.
+Consequently the old4192 endpoint/lower-row labels of C821, together with these TWO shift labels, generate the full Theta_2 image.
 For an upper-half n residue use the shift determined by whether3 divides q; residue1 gives the identity and residue481 gives the appropriate shift alone.
 The same33 ACTUAL smooth q representatives of C826 remain sufficient, because divisibility by3 is unchanged modulo480.
 This proves a sufficient4194-label alphabet, not distinctness of images or insufficiency of the old4193 labels.

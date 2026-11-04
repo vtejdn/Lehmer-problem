@@ -5,7 +5,7 @@ author: Yin
 
 The complete original five sections and19equations are retained with every spectral/original-law boundary and source scope.
 L268 keeps its meaningful development, original contribution/fixed inputs and separate probability handoff; no Task/E execution resumes.
-The [later full comparison of original R687](../audits/reviews/Yin_R_G0687_v1.md#l268-and-r167) preserves its whole historical UNKNOWN, exact09:52 author-body/09:55 review and distinct original author SELF/source/negative limits.
+The [later full comparison of original R167](../audits/reviews/Yin_R_G0687_v1.md#l268-and-r167) preserves its whole historical UNKNOWN, exact09:52 author-body/09:55 review and distinct original author SELF/source/negative limits.
 The unchanged whole-checking account and earlier decision below record the06:55 R684 SELF and06:56 adoption; the selected07:26 decision adopts the later R687 independent whole finding.
 
 ## Statement
@@ -102,7 +102,7 @@ That residual onset is neither effective nor bounded by the explicit coefficient
 
 The rank-r positive penalty/singular amplitude does not alone control a translated finite integer-cube partition: its orientation, all middle entries/other directions/outside shifts and original first-d discarded rows remain costs.
 Disjoint length-n_A blocks have at most chronological density1/n_A; this spectral proof supplies no uncharged loss or entropy inequality.
-The separately proved C473 arbitrary-coupling theorem retains its own full original-law scope; no new cross-application is derived or adopted in this compression theorem.
+The separately proved C469 arbitrary-coupling theorem retains its own full original-law scope; no new cross-application is derived or adopted in this compression theorem.
 The original D132--D134 reports are not premises.
 Partington supplies only its already audited classical rational-tail/minimality attribution, while the complete kernel/rank/norm/threshold/transfer proof is local.
 CRW08 is only the bounded original title/intro/(1.2) lead, with later proofs uninspected and no quantitative theorem adopted.
@@ -345,7 +345,7 @@ Both norm bounds and the weighted coefficient inequality retain every flat/diago
 The full0<m<=1,A>=1 threshold includes its strict j<n_A, all ceiling estimates and the entire contradiction, not an asymptotic-only detector.
 Actual norm-minus-one degree/relative degree precedes residue splitting; every q/t/n-r spectral multiplicity, t0 equality, q1 boundary, actual first r/2r lag and separate analytic arbitrary-m limitation was checked.
 The actual upper-block transpose, full weighted precision, exact baseline/rank-r penalty and all-future but unquantified onset were checked without an unproved original-law/translated-cube conclusion or free chronological density.
-The current C473 theorem is a separate complete proof; no new cross-application or D132--D134 premise is supplied here.
+The current C469 theorem is a separate complete proof; no new cross-application or D132--D134 premise is supplied here.
 Par88's already sufficient current unit retains the exact original theorem scope and distinct10/10 passage inspection, without new source reading.
 CRW08 only retains the original bounded lead; the current publisher/title/author/page-count metadata check does not backfill the old unknown snapshot or adopt new mathematical passages/proofs.
 R167's generic shared context and claimed-scope brief do not establish its exact initial proof-relevant additional content/order; necessary fixed inputs/upstream roles do not automatically establish target SELF or isolation.

@@ -8,7 +8,7 @@ Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of C680, its structured lifts and its low-error calculation.
 This is the reviewer's first whole review of the fixed C680 v1 statement and every LR2--LR6 proof section, including all formulas LR1--LR11.
 The entire target was read before forming the finding, followed by the exact fixed C677 statement and proof and the directly needed C603, C675, C669, C202 and C667 passages.
-The reviewer retained its own [C705 whole review](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding) and [C702 whole review](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding); reuse is limited to the unchanged exact source scopes inspected again here.
+The reviewer retained its own [C675 whole review](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding) and [C672 whole review](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding); reuse is limited to the unchanged exact source scopes inspected again here.
 No D35 or other draft, author development dialogue or summary, candidate derivation, other-agent inventory, native output or another reviewer's R was consulted.
 No native computation, coefficient search, parameter scan or external source acquisition was used.
 The actual integer identities, every low-order estimate, all parameter ranges, CRT counts and distinct coefficient classes were checked directly.
@@ -232,7 +232,7 @@ The retained upper degree costs remain valid for the same polynomial input.
 
 The C677 statement and complete proof were read directly, and its exact HC6, full modulo4 preservation and integer-lift scope were checked at the stronger present constraints.
 C603 FE11, C675's actual global representatives and final criterion, C669's precise root/eta interface, C202's actual correction boundary and C667's paid construction were inspected at their cited fixed scopes.
-The review reuses the applicable C675/C702 checking context without relabeling their antecedent source chain as a new whole review.
+The review reuses the applicable C675/C672 checking context without relabeling their antecedent source chain as a new whole review.
 No new unresolved source-application or mathematical gap was found in the present proof.
 
 The theorem has not determined the invariant on every C677 starting base.

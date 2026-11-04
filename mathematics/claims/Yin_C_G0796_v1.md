@@ -9,7 +9,7 @@ The salem_collision_literature contributor supplied the exact original-law speci
 The independent quartic_source_check contributor inspected the source's entire qualitative Sections 2--5 proof in an isolated context and fixed its own CFMZ26-U002 finding.
 The P1 finite certificate was inspected and replayed separately in J133 and CFMZ26-U003.
 This is a source-based deduction, not a claim of a new proof of the external strict-drop theorem.
-Whole independent project review and an explicit adoption remain outstanding.
+At author registration, whole independent project review and an explicit adoption were outstanding.
 
 ## Statement
 

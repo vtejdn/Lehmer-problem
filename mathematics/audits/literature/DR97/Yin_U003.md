@@ -140,7 +140,7 @@ There is no circular dependency: U002 supplies a necessary algebraic condition, 
 ### Verification Facts and Revisions for U003-U004
 
 - **2026-09-08:** Original rendered Section 3 pages inspected; all local identities and implications reconstructed, including the operator domain, shift constants, rational decay, Schur complements, finite-rank quotient, minimality, and equality-on-$\delta_e$ steps.
-  Primary external checks are linked through U006.
+  Primary external checks are linked through U005.
   No software experiment or formal verification was performed for these units.
 - **2026-09-08:** Initial audit records the concrete corrections above.
   Downstream consumers are U003 itself, the Section 4 use of the minimal coefficient-shift identity, and the integrated [DR97 audit](readme.md).
@@ -154,7 +154,7 @@ There is no circular dependency: U002 supplies a necessary algebraic condition, 
 
 ## Source and inspection
 
-Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U006; it does not replace the primary version.
+Source edition: DR97, the retained ten-page published Inventiones mathematicae 128 (1997), pp. 613-622, DOI 10.1007/s002220050154. Printed page equals PDF page plus 612. The separately retained 14-page author typeset version has an unstated preparation/revision date and was compared only at the selected passages recorded in U005; it does not replace the primary version.
 
 Passages: Definition 6, Remark 3, Lemma 8 and Theorem 7, Section 3.1 and completion, printed pp. 618-619, 621 / PDF pp. 6-7, 9; initial union definition, printed p. 614 / PDF p. 2.
 

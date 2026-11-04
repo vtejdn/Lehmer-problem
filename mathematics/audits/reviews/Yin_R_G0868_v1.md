@@ -40,10 +40,10 @@ No target, C/T/E/S, shared index, old mathematical/native record, adoption decis
 | [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [C654 refined character statement](../../claims/Yin_C_G0654_v1.md#statement) | Phi even for every completed pair, Pi_N on the SAME chi^N quotient at modulus K_N/2, every-lift independence and finite membership of actual Y without separate global completeness. |
 | [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [C654 finite-lift proof](../../claims/Yin_C_G0654_v1.md#argument) | High quotient norm is1 modulo t^(N+1), low character divisibility and strict-next-power K_N; used to justify the chosen completed lift only, with no all-depth kernel converse. |
 | [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [C654 accepted decision](../../claims/Yin_C_G0654_v1.md#decision-whole-reviewed-2026-10-23) | Actual adopted all-lift and finite-removal interface, including the explicit prior unresolved top-quadratic boundary that C655 now evaluates. |
-| [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [Prior C677 review](Yin_R_G0857_v1.md#whole-uniform-crt-a16-finding) | Accepted full CRT/root interface at its fixed scope, not coverage of the new determinant term. |
-| [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [Prior C678 review](Yin_R_G0858_v1.md#whole-two-profile-layer-elimination-finding) | Accepted same-original homogeneity, exact integer layer elimination and LI1, with historical/source limits retained. |
-| [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [Prior C680 review](Yin_R_G0863_v1.md#whole-formal-unit-norm-obstruction-finding) | Accepted formal-unit/norm/calibration, exact original bridge and bounded factor list only; no prospective new precision or A_0=32 finding. |
-| [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [Prior C682 review](Yin_R_G0866_v1.md#whole-density-refined-finite-character-finding) | Accepted every-N character precision and finite complete-factor removal only; three old finite kernel equalities are not extended or needed here. |
+| [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [Prior C649 review](Yin_R_G0857_v1.md#whole-uniform-crt-a16-finding) | Accepted full CRT/root interface at its fixed scope, not coverage of the new determinant term. |
+| [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [Prior C650 review](Yin_R_G0858_v1.md#whole-two-profile-layer-elimination-finding) | Accepted same-original homogeneity, exact integer layer elimination and LI1, with historical/source limits retained. |
+| [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [Prior C652 review](Yin_R_G0863_v1.md#whole-formal-unit-norm-obstruction-finding) | Accepted formal-unit/norm/calibration, exact original bridge and bounded factor list only; no prospective new precision or A_0=32 finding. |
+| [Whole finding](#whole-top-layer-refined-norm-a32-finding) | [Prior C654 review](Yin_R_G0866_v1.md#whole-density-refined-finite-character-finding) | Accepted every-N character precision and finite complete-factor removal only; three old finite kernel equalities are not extended or needed here. |
 
 <a id="whole-top-layer-refined-norm-a32-finding"></a>
 ## Whole finding
@@ -246,7 +246,7 @@ Their R857/R858/R863/R866 findings retain their original physical scopes and sou
 C654's three exact kernel equalities at N=8,24,32 are neither extended to64 nor needed for the exclusion.
 All earlier native programs, outputs and findings remain unchanged and were not rerun.
 
-C197/C199 ancestry retains the existing Smy08/Bel17 source boundaries and all historical SELF/UNKNOWN relationships, including R635/R638 unknown initial-context limits.
+The inherited C197/C199 Smy08/Bel17 source limits and historical SELF/UNKNOWN relationships remain at their actual scopes, including R477's C197v3 and R489's separate C199v3/v4 UNKNOWN initial-context findings; no later physical input inherits a broader finding.
 No classical original proof was reacquired or fully re-audited and no ancestor receives a new whole-proof verdict.
 No arbitrary-H degree estimate, complete-support sufficiency, all-depth kernel equality, original realization, smaller input or unrestricted Task completion is asserted.
 This is an independent whole mathematical finding, not a native or formal-proof-assistant execution claim.

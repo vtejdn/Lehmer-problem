@@ -11,11 +11,16 @@ Before the whole read, root received the author's short result summary; this is 
 No author proof-generation dialogue or earlier independent D49 finding was supplied.
 Root has not repaired or contributed to the target mathematics.
 
+The initial complete C94 original argument included its author validation checklist and completed-result summary beyond the necessary derivation.
+The short-summary label alone is not the reason for the classification.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole short-pair finding](#short-pair-whole-independent-finding) | independently reviewed |
+| [Whole short-pair finding](#short-pair-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

@@ -6,7 +6,7 @@ author: Yin
 
 The complete necessary original D75 proof is retained from [L206](../ledger/Yin_L_G0206_v1.md#retained-radical-critical-proof).
 The original coordinator developed the new actual-core, summability, attainment and control arguments; earlier fixed inputs and their actual contributions remain disclosed.
-The [complete original R716 comparison in R716](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves the entire original finding's actual L206 input and full scope.
+The [complete original R105 comparison in R716](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves the entire original finding's actual L206 input and full scope.
 Its available shared Task context and author freeze explanation do not establish the contents or initial order of any additional target mathematics, so its justified original relationship is UNKNOWN.
 The exact original complete author-check account remains separately SELF in [R105](../audits/reviews/Yin_R_G0105_v1.md#radical-critical-original-author-check-finding).
 The sufficient DS84 ordinary comparison home and original source-reading depths are reused without another source unit or a new source inspection.
@@ -140,7 +140,7 @@ No input-uniform near-one critical classification, mean bound, information lower
 | --- | --- |
 | date | 2026-10-22T03:03 |
 | status | proved |
-| reason | Adopt the actual separately performed whole independent inspection, with an initial fixed-mathematics finding at10:34, later explicit old-review/source comparison at10:47 and publication10:57. The entire current theorem is covered, including original negative limits and the useful finer historical V bound retained in R716. No old independent label is retrospectively certified; prior SELF, original author checks and original UNKNOWN keep their actual dates/scopes. No proof repair, new native chain or source-proof audit occurred. |
+| reason | Adopt the actual separately performed whole independent inspection, with an initial fixed-mathematics finding at 2026-10-22T02:34, later explicit old-review/source comparison at 2026-10-22T02:47 and publication 2026-10-22T02:57. The entire current theorem is covered, including original negative limits and the useful finer historical V bound retained in R716. No old independent label is retrospectively certified; prior SELF, original author checks and original UNKNOWN keep their actual dates/scopes. No proof repair, new native chain or source-proof audit occurred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -416,7 +416,7 @@ None of these fixed-base controls makes total measure tend to1.
 ## Original author checking and historical boundary
 
 The exact complete original contribution and author-check account remains in [R105](../audits/reviews/Yin_R_G0105_v1.md#radical-critical-original-author-check-finding), with its original day precision and then-pending language.
-The [complete original whole-review comparison](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves its2026-10-09T19:58 completion, every mathematical/source/nonexecution finding and actual fixed L206 input.
+The [complete original whole-review comparison](../audits/reviews/Yin_R_G0716_v1.md#l206-and-r105) preserves its 2026-10-09T19:58 completion, every mathematical/source/nonexecution finding and actual fixed L206 input.
 Its earlier L202 authorship and L201 review are fixed dependency history and supply no automatic contribution to or isolation of this target.
 The entire original L206 stays fixed, including its historical adoption and active/pending language; those facts select no present research execution.
 Current authored SELF cannot close the old whole UNKNOWN or supply unknown near-one critical behavior or a Mahler gap.

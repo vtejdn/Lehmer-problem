@@ -10,13 +10,13 @@ The exact target is fixed [C797 v1](../../claims/Yin_C_G0797_v1.md#statement), i
 This whole review covers every AV1--AV8 equation and step in the four proof sections, together with the complete AV9/ST2 consequence, all source domains and all limitations.
 The reviewer was outside substantive C797 development, read the whole fixed candidate first and then its necessary exact fixed inputs, and supplied no repair.
 No D47, author derivation dialogue, separate proposing-agent explanation, persistent memory or previous C797 conclusion was read before the initial findings.
-The reviewer retains its actual independent primitive-review background, especially [C838's whole R1015](Yin_R_G1015_v1.md#whole-primitive-lower-high-coordinate-finding), [C835's whole R1013](Yin_R_G1013_v1.md#whole-primitive-high-obstruction-finding) and [C830's whole R1008](Yin_R_G1008_v1.md#whole-primitive-source-low-gate-finding).
+The reviewer retains its actual independent primitive-review background, especially [C795's whole R1015](Yin_R_G1015_v1.md#whole-primitive-lower-high-coordinate-finding), [C792's whole R1013](Yin_R_G1013_v1.md#whole-primitive-high-obstruction-finding) and [C787's whole R1008](Yin_R_G1008_v1.md#whole-primitive-source-low-gate-finding).
 They are reused only for the unchanged fixed input mathematics, not as coverage of the new copied-factor evaluation.
 No existing R supplied the complete C797 finding.
 
 C797 was fixed while C795 still selected its initial open decision.
 At this review the actual saved C795 selected its whole-reviewed decision dated 2026-10-26T13:14, with R1015 and the same statement and proof.
-That later assessment resolves the explicit fixed dependency without silently changing the mathematical input or broadening its new-C834 source domain.
+That later assessment resolves the explicit fixed dependency without silently changing the mathematical input or broadening its new-C791 source domain.
 The source-specific consequence and the independently proved all-original-source ST1 remain distinguished below.
 
 ## Review relationships
@@ -29,14 +29,14 @@ The source-specific consequence and the independently proved all-original-source
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [Complete C797 statement](../../claims/Yin_C_G0797_v1.md#statement) | Every actual original low-zero F8/selected-X4 copied input and genuine reference/presentation; exact J_core and J_h vanishing, narrower C834-domain lower-gate iff, unchanged costs and bounded exclusions. |
+| [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [Complete C797 statement](../../claims/Yin_C_G0797_v1.md#statement) | Every actual original low-zero F8/selected-X4 copied input and genuine reference/presentation; exact J_core and J_h vanishing, narrower C791-domain lower-gate iff, unchanged costs and bounded exclusions. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [Complete C797 argument](../../claims/Yin_C_G0797_v1.md#complete-argument) | Whole AV1--AV8 actual integer-factor and true derivative-half/quarter proof, forced odd powers, even-part elimination and presentation scope, plus AV9's exact two-condition consequence and all limits. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C797 initially open selection](../../claims/Yin_C_G0797_v1.md#decision-actual-low-half-vanishing-open) | Exact selected statement, whole proof and all six direct dependency interfaces; this review does not select adoption. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C762 complete integer factors](../../claims/Yin_C_G0762_v1.md#decision-whole-reviewed-2026-10-25) | Actual A_big,T_0,(X^2-4),J_n,T_core factorization and CB5/CB6/CB16 full binary exponents, even J_n and genuine core coefficients; no residual inheritance. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C787 actual necessary low gate](../../claims/Yin_C_G0787_v1.md#decision-whole-reviewed-2026-10-26) | Exact 5A derivative and low-k equation with true H_even,2A at any actual low-zero original target, yielding the halves and AV4 without assuming stronger source precision. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C767 original full target](../../claims/Yin_C_G0767_v1.md#decision-whole-reviewed-2026-10-26) | Original source/s/reference and own canonical domain, complete Y_out and all exponents, copied zero-mask integer class and preserved degree/factor/period/cost boundary. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C759 complete copied row jet](../../claims/Yin_C_G0759_v1.md#decision-whole-reviewed-2026-10-25) | Full B_N=1 modulo X^(4A) for every original s, at the precise remaining 2A+4 precision after cancellation, with original source indices. |
-| [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C795 initially fixed dependency](../../claims/Yin_C_G0795_v1.md#decision-primitive-lower-high-coordinates-open) | Exact originally cited lower-coordinate identity and actual integer half polynomials, used only for ST2/AV9 within its new-C834 source domain. |
+| [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C795 initially fixed dependency](../../claims/Yin_C_G0795_v1.md#decision-primitive-lower-high-coordinates-open) | Exact originally cited lower-coordinate identity and actual integer half polynomials, used only for ST2/AV9 within its new-C791 source domain. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C795 complete fixed statement](../../claims/Yin_C_G0795_v1.md#statement) | Three-series iff at modulus X^(3A-2), legitimate E_X and exact source/half definitions; the new all-original-source J vanishing is independently checked in C797. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C795 whole-reviewed selection](../../claims/Yin_C_G0795_v1.md#decision-whole-reviewed-2026-10-26) | Actual adoption of the unchanged statement and HG/PS proof through R1015, resolving the explicitly fixed dependency without a proof change. |
 | [Whole actual low-half-vanishing finding](#whole-actual-low-half-vanishing-finding) | [C792 specified high image](../../claims/Yin_C_G0792_v1.md#decision-whole-reviewed-2026-10-26) | Exact least correction-image order 2A-2 and family-specific exclusion under later eightfold corrections; no exclusion of other earlier-two moves or seeds. |
@@ -75,7 +75,7 @@ Every indicated half is genuine: odd y_j are even by the necessary 5A source jet
 The 4W derivative disappears at this half level.
 Comparison with the actual A_big T_0 derivative consequently gives AV3 with the actual u=mathcal_Ubar.
 
-The C787 necessary low-k equation is applicable to every displayed low-zero original input, without requiring the narrower C834 source construction.
+The C787 necessary low-k equation is applicable to every displayed low-zero original input, without requiring the narrower C791 source construction.
 Substituting it into AV3 and cancelling the genuine factor X^(A-4) leaves precision 2A+4.
 The old full B_N jet is sufficient since 4A>2A+4 in the original domain.
 Thus AV4 follows with no unaccounted division or truncated source factor.
@@ -136,11 +136,11 @@ Multiplication by X^(2A) and the two units gives exactly J_h=0 modulo X^(3A-2).
 The argument uses every genuine K/W presentation through the same actual integer identity, without choosing any earlier coefficient.
 Accordingly its conclusion is independent of that presentation.
 It neither changes W nor treats K_j/2 as a free lift.
-The all-original-source ST1 needs only the displayed actual input and necessary C787 conditions; it does not presume C834's construction or C795's stronger source-specific identity.
+The all-original-source ST1 needs only the displayed actual input and necessary C787 conditions; it does not presume C791's construction or C795's stronger source-specific identity.
 
 ### 5. Exact source-specific gate and remaining limits
 
-On the new-C834 source domain, the unchanged C795 identity states that the lower high derivative vanishes exactly when F_h=G_h=J_h modulo X^(3A-2).
+On the new-C791 source domain, the unchanged C795 identity states that the lower high derivative vanishes exactly when F_h=G_h=J_h modulo X^(3A-2).
 The newly proved J_h=0 reduces this to the two separate conditions F_h=0 and G_h=0 at that modulus.
 Because G_h is a unit times the genuine quotient Y_out'/X^(3A), its vanishing is exactly X^(6A-2) dividing Y_out'.
 Multiplying F_h by the unit phi^(3A) and the genuine factor X^A gives exactly
@@ -149,7 +149,7 @@ Multiplying F_h by the unit phi^(3A) and the genuine factor X^A gives exactly
 
 Both directions preserve the stated moduli, and neither condition is stronger than claimed through an unnoticed extra cancellation.
 The source requirement is strictly stronger than 5A because A>2.
-The C834 input supplies only 5A; the proof correctly supplies neither a source satisfying 6A-2 nor supported signs enforcing the extended k condition.
+The C791 input supplies only 5A; the proof correctly supplies neither a source satisfying 6A-2 nor supported signs enforcing the extended k condition.
 The actual high normalization remains defined only after the assumed full low-quarter vanishing.
 
 C792's correction image begins at exact order 2A-2, so failure of AV9 excludes that specified factor-compatible earlier-four family and its subsequent eightfold corrections from this seed.

@@ -18,11 +18,16 @@ Those accepted inputs are reused ONLY at the exact interfaces below; this findin
 Other mathematical roles in G0001 and pending downstream wrappers are not premises.
 This is an internal AI mathematical review, not external human refereeing or formal verification.
 
+The record explicitly discloses author explanations in the initial target context.
+Nonparticipation and separate reconstruction do not establish isolation from those supplied development inputs.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole paired-profile finding](#paired-profile-whole-independent-finding) | independently reviewed |
+| [Whole paired-profile finding](#paired-profile-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

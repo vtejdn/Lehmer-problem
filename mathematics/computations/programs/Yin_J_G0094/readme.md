@@ -56,7 +56,7 @@ The e>=8 extension and positive-density/positive-capture identities are separate
 
 The separately assigned `strategy_critique` reviewer did not contribute to C105/J94's author proof or program.
 Shared context and the saved author result were available, so the arrangement is non-blind.
-The selected R461 finding now declares an unknown whole/native review relationship because the precise initial author-summary context is not sufficiently established.
+The original correlated finding retained in [R797](../../../audits/reviews/Yin_R_G0797_v1.md#correlated-fractional-actual-whole-independent-finding) declares an unknown whole/native review relationship because the precise initial author-summary context is not sufficiently established.
 The separate verifier implementation and actual outputs remain as recorded; they do not establish context isolation.
 The verifier's scope was fixed to the same 25 prefixes, exponent eight, 96 bits and truncations 512/1024 before its invocation.
 It uses bisection instead of isqrt, direct square-root enclosures of n^-3 instead of reciprocal sqrt(n), paired alternating sums and maximum-level prime-chain increments instead of the author's closed factor formula.
@@ -68,7 +68,7 @@ No additional ideals or parameters are introduced.
 
 On 2026-10-15 the separately organized native reproduction completed at the declared scope, with all 1,025 term/root records and 25 rows passing.
 Both truncations reproduce the same decisions in every row; independent rational intervals certify the endpoint set and strict bounds above.
-The original headings retain the recorded designation, while the current R461 relationship is unknown for the initial-context reason above.
+The original headings retain the recorded designation, while that original R797 correlated-finding relationship is unknown for the initial-context reason above.
 The historical execution date, declared parameters, distinct algorithms and complete mathematical outputs are unchanged; no new run or review is performed here.
 This historical checking relationship is distinct from later storage maintenance or reproduction commands.
 The [R797 whole review](../../../audits/reviews/Yin_R_G0797_v1.md#correlated-fractional-actual-whole-independent-finding) separately covers the complete proof, arbitrary-e extension and density identities.

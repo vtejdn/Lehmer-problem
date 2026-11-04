@@ -49,7 +49,7 @@ Its contrapositive forces unbounded overlaps for transience or infinite recurren
 The D_n tending to one boundary retains the original all-zero-word exception and no assumed nontrivial height-one relation.
 
 The complete golden first-return rational series and the first four probabilities agree.
-C212 supplies actual dyadic irreducibility/degree, and C497 gives the full finite-core product, unchanged entropy/radius and mean raised to r.
+C212 supplies actual dyadic irreducibility/degree, and C493 gives the full finite-core product, unchanged entropy/radius and mean raised to r.
 All l>=1 and1<=n<=r endpoints were checked; the spike is at2r and costs actual degree2r with fixed positive total measure.
 This is no near-one or reciprocal/Salem obstruction.
 The original reverse implication and undefined D0 statement were repaired at2026-10-10T05:25 and2026-10-10T05:27; neither is selected here.
@@ -58,7 +58,7 @@ Finding: the entire corrected C555 Statement and Argument are proved at their pr
 <a id="critical-delay-whole-self"></a>
 ## Entire critical delay, statement gate and finite peak
 
-The original first-excursion gap and C368/C528 full degree-block Holder estimate apply to the same original iid law.
+The original first-excursion gap and C365/C522 full degree-block Holder estimate apply to the same original iid law.
 The two convex endpoint estimates for h(k+1)-log(3k+1)/2 are strictly below-1/2 on the stated degree/window.
 The count of every time through d(K+1)-1 is charged, giving the full exponentially small prefix rather than a sparse subsequence.
 Under recurrence only, the remaining tilted first-return tail is greater than1/3.
@@ -85,7 +85,7 @@ The averaging law gives p_n/2<=p_(n+1)<=p_n.
 Both neighboring D comparisons with E follow, so the extended tail suprema satisfy A<=C<=2A, including infinity.
 Only a finite extended limit of the full balanced tail supplies recurrence and a finite mean via C555; the converse is not asserted.
 
-C497's actual relative-degree product gives p_(rl+s)=p_l^(r-s)p_(l+1)^s.
+C493's actual relative-degree product gives p_(rl+s)=p_l^(r-s)p_(l+1)^s.
 Substitution proves both exact formulas for every0<=t<=2r, with their common t=r boundary.
 For even r, the odd balanced maxima are realized at even original times2rl+r; this parity condition is indispensable for the exact D-supremum power.
 Arbitrary r retains the stated full balanced-tail power and only the weaker D bounds.
@@ -94,7 +94,7 @@ No representative parity is substituted for the whole proof.
 For the genuine quartic beta, the trace norm3/-1 square obstruction proves the first degree-eight lift.
 Each later even radical has a negative real conjugate, so it cannot already be a square; induction proves actual degree4r for every r=2^k.
 The complete original infinite core is the r-fold product, with2r neutral dimensions and fixed positive TOTAL measure.
-The extended mean is already greater than3/2 at the actual base by C559.
+The extended mean is already greater than3/2 at the actual base by C546.
 The after-every-onset lower obstruction and actual exponential degree cost follow without claiming all individual late times satisfy the bound.
 The finite base-mean and infinite base-mean branches are both retained; in the latter the lifted process may be null recurrent or transient according to the full power sum.
 There is no unconditional positive infinite-core example or new base mean classification.

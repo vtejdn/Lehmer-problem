@@ -262,6 +262,6 @@ No unverified analytic projection theorem, new external theorem or source acquis
 C634's coordinate mechanism is used at its exact scope, with the two-profile argument proved anew.
 C643v2, C609v2, C640 and C649 are reused only through the fixed interfaces and prior findings specified in the bindings.
 R853/R857 and all older native questions retain their original physical scopes.
-C197/C199 ancestor proofs retain the existing Smy08/Bel17 source limits and historical SELF/UNKNOWN relationships, including the recorded R635/R638 unknown initial-context boundaries.
+The C197/C199 ancestry retains the recorded Smy08/Bel17 source limits and R477's actual C197v3 finding and R489's separate C199v3/v4 findings, all at their original UNKNOWN initial-context scopes; the selected C199v5 original-domain input separately retains R492's own UNKNOWN scope without importing its later complement conclusions.
 No classical original proof was reacquired or fully re-audited, and no ancestor receives a new whole-proof verdict.
 No formal proof assistant verification, mathematical native experiment, original realization or unrestricted G0001 completion is asserted.

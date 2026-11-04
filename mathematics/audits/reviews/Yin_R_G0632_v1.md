@@ -21,11 +21,11 @@ This actual current full SELF reconstruction remains distinct from original auth
 | --- | --- | --- |
 | [Current complete paraunitary and finite-certificate finding](#current-paraunitary-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0430_v1.md#statement) | Entire exact independent-twist rational Laurent/functional statement, minimal-q/all-width arithmetic, width4 obstruction, rational denominator/full norm costs, projection boundary, all three bounded finite cases and every historical/later/source/nonuniform limit. |
 | [Current complete paraunitary and finite-certificate finding](#current-paraunitary-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0430_v1.md#argument) | Complete necessary original Sections1–6 plus8/equations1–13 and complete local Poisson proof, all actual root/order/sign/norm/width and finite witness proofs, attribution and original attempt limitations. |
-| [Current complete paraunitary and finite-certificate finding](#current-paraunitary-whole-finding) | [Exact fixed input](Yin_R_G0203_v1.md#paraunitary-whole-finding) | Original22:31 whole proof/program/data finding, all bindings, known initial author-check exposure, original separately written verifier, all source/runtime and negative-scope facts unchanged. |
+| [Current complete paraunitary and finite-certificate finding](#current-paraunitary-whole-finding) | [Exact fixed input](Yin_R_G0203_v1.md#paraunitary-whole-finding) | Original 2026-10-11T14:31 whole proof/program/data finding, all bindings, known initial author-check exposure, original separately written verifier, all source/runtime and negative-scope facts unchanged. |
 | [Current complete paraunitary and finite-certificate finding](#current-paraunitary-whole-finding) | [Exact fixed input](../../computations/programs/Yin_J_G0085/main.py) | Complete source inspection, original reduction/lag equations/full degree4 system, Fraction elimination/witness checks and original supervisor/first-failure/no-retry boundary; no author execution. |
 | [Current complete paraunitary and finite-certificate finding](#current-paraunitary-whole-finding) | [Exact fixed input](../../claims/Yin_C_G0407_v1.md#new-quartic-mixed-unit-identity) | Only exact original irreducible quartic/all four roots, trace/units and full signed norms; no original least-energy complementary covariance is inherited. |
 | [Current complete paraunitary and finite-certificate finding](#current-paraunitary-whole-finding) | [Exact fixed input](../../ledger/Yin_L_G0318_v1.md#polynomial-poisson-majorant) | Only the complete positive kernel/geometric-series/Cauchy Schwarz polynomial inside-circle and fixed-window reverse proof, retained locally at its consumed scope. |
-| [Original complete analytical and finite author checks](#original-paraunitary-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0377_v1.md#paraunitary-entire-author-freeze) | Original complete analytical self-check preceding J85, actual22:23 full author freeze and program/native checking, exact substantive root scout, source and remaining scope. |
+| [Original complete analytical and finite author checks](#original-paraunitary-author-check-finding) | [Exact fixed input](../../ledger/Yin_L_G0377_v1.md#paraunitary-entire-author-freeze) | Original complete analytical self-check preceding J85, actual 2026-10-11T14:23 full author freeze and program/native checking, exact substantive root scout, source and remaining scope. |
 | [Current complete paraunitary and finite-certificate finding](#current-paraunitary-whole-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0085/readme.md#recorded-runs) | All three cases, full affine/lags/bases/matrices/rhs/ranks/pivots/left-null witnesses and outcome labels directly reconstructed at the exact original domain, native bytes unchanged. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0085/data.json`; this target locates that original run's computation account. |
 
 <a id="current-paraunitary-whole-finding"></a>
@@ -63,7 +63,7 @@ For a hypothetical full integer pair the weights give energy q²/3 and norm inco
 Actual degree/contents/signs/denominator costs remain charged.
 
 The original program and readme were read in full, all native JSON objects/fields were loaded, and the full exact three-case mathematical objects were reconstructed directly from the given P and unit multiplication recurrence.
-The actual stdin/in-memory check began and ended2026-10-21T19:26, under a60second deadline, elapsed0.0609s, code0.
+The actual stdin/in-memory check began and ended 2026-10-21T19:26, under a60second deadline, elapsed0.0609s, code0.
 It did not import or execute main.py, create files or run a producer.
 All source units, reduced seeds and twelve affine coefficient polynomials per case matched; all six quadratic lag equations, degrees and all70 row/90 multiplier conventions matched.
 Coefficient lookup reconstructed all6300 matrix entries and70 rhs entries per case.
@@ -75,7 +75,7 @@ The decisive y identities prove only absence of1 in the declared degree4 product
 The later L384 exact-point account is a separate subsequent result and does not turn this original attempt into a solution or a current open-problem claim.
 
 All original execution chronology/sole-run/supervisor assertions remain recorded provenance, not a newly reconstructed external attestation.
-The original R203 separately written verifier retains its actual three70-by90 cases, all outputs,0.047second runtime and22:28:30.484396 start unchanged.
+The original R203 separately written verifier retains its actual three70-by90 cases, all outputs,0.047second runtime and 2026-10-11T14:28 start unchanged.
 The original whole relationship is SELF because its initial complete target inspection included the actual author checking; separate algorithm implementation is a different true fact.
 ABR01 attribution remains the existing selected kernel/mass/hypothesis account, without a new book read.
 The2008 UPM abstract lead and original502/exact-DOI search are retained as related bibliography/abstract only, with no source factorization, rational-field or quotient-interpolation proof adopted.
@@ -85,7 +85,7 @@ No substantive mathematical defect was found, no future optimizer/certificate es
 ## Original complete analytical and finite author checks evidence
 
 The original integer_bundle_research author developed the stated analytical arguments and J85 implementation/reduction, with root's substantive independent-twist scout explicitly credited.
-The analytical check preceded the separate finite attempt; the22:23 entire freeze included its actual program/native stages at the exact declared scope.
+The analytical check preceded the separate finite attempt; the 2026-10-11T14:23 entire freeze included its actual program/native stages at the exact declared scope.
 The original author check and freeze are preserved verbatim below, without inventing another whole reviewer or a source-reading minute.
 
 ## 7. Analytical author self-check before the separate finite attempt

@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T21:21.
 Human operator: Yin.
 The checking agent read all287original L191 lines, all60original R90 lines, the entire411-line published C458v1 and the entire429-line corrected open C458v2 statements, arguments, decisions and remaining limits.
-It checked the complete needed rectangular-block/nonreal-trace interface in C415, literal determinant/two-sheet/energy mechanism in C2, base-four realization in C459, positive-cover boundary in C444v2 and the exact fixed P4 identity in C399.
+It checked the complete needed rectangular-block/nonreal-trace interface in C412, literal determinant/two-sheet/energy mechanism in C2, base-four realization in C455, positive-cover boundary in C440v2 and the exact fixed P4 identity in C396.
 No old native certificate, source proof or producer is rerun.
 The original11860-character necessary reuse/Sections1--4/equations(1)--(16) body and724-character original remaining-class limits are retained modulo adequate homes.
 The already consumed k4 complete cover cost is spelled out by the same actual row and two-sheet mechanism.
@@ -100,7 +100,7 @@ If a degree2g monic reciprocal target P=t^gH(t+t^-1) is supplied with H(u)=det((
 It is not necessary that every realizable reciprocal target admit such an A.
 Nor is small measure shown to imply diagonal dominance, integer Gram integrality or any chosen trace representation.
 Within this block class every non-minus-one root has real trace equal to an eigenvalue of A minus two, hence at least-2; the minus-one roots have trace-2 as well.
-The fixed C415 degree-ten W has nonreal trace roots at its exact proved Sturm/irreducibility scope and cannot remain a factor in a polynomial of this class.
+The fixed C412 degree-ten W has nonreal trace roots at its exact proved Sturm/irreducibility scope and cannot remain a factor in a polynomial of this class.
 Multiplying by cyclotomic factors does not remove those original roots.
 No arbitrary Seifert or differently ordered graph exclusion is inferred.
 

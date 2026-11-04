@@ -8,7 +8,7 @@ The entire necessary original D33 proof is retained from [L185](../ledger/Yin_L_
 The coordinator originated the general Gram-instability/Perron candidate; the structural author supplied its complete positive-vector details and the interacting-triangle family.
 The exact original [whole collaborator check](../audits/reviews/Yin_R_G0084_v1.md#positive-cover-collaborator-review) is SELF.
 The original whole finding's initial arrangement remains unknown: its known reading of the collaborator finding before final findings does not establish when its first autonomous complete reconstruction occurred.
-Its exact whole scope is retained in [R653's later comparison for C444v2](../audits/reviews/Yin_R_G0653_v1.md#positive-cover-isolated-whole), without changing that historical relationship.
+Its exact whole scope is retained in [R653's later comparison for C440v2](../audits/reviews/Yin_R_G0653_v1.md#positive-cover-isolated-whole), without changing that historical relationship.
 The original unsupported ordering-sensitive interpretation, exact requested correction and subsequent single-sentence reread remain precise in that same historical comparison.
 That narrow closure is not a complete corrected-chain independent review, and R790's authored whole check supplies none.
 [McM02-U001](../audits/literature/McM02/Yin_U001.md#mcm02-u001) owns the distinct actual author/reviewer source-comparison records; the complete proof below is local.

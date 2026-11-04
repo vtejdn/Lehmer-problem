@@ -11,7 +11,9 @@ Source edition: Dikran Dikranjan and Anna Giordano Bruno, *Entropy on abelian gr
 
 Passages: Mahler normalization, Theorems 1.5 and 1.7, and Definition 1.6, printed pp. 615–617 (PDF pp. 4–6); complete Section 7, printed pp. 646–651 (PDF pp. 35–40).
 
-Inspection: 2026-10-06, agent working for the bound author Yin; all Section 7 statements and internal proofs read and checked, with rendered PDF pp. 35 and 37–40 checked. Exact rational realization in GBV15 arXiv:1111.1287v3, Theorem 4.17, pp. 23–24, was also read, including its displayed proof but not its upstream p-adic lemmas. This record is self-reviewed, not a formal proof or an independent-review certificate.
+Inspection: 2026-10-06, agent working for the bound author Yin; all Section 7 statements and internal proofs read and checked, with rendered PDF pp. 35 and 37–40 checked.
+Exact rational realization in GBV15 arXiv:1111.1287v3, Theorem 4.17, pp. 23–24, was also read, including its displayed proof but not its upstream p-adic lemmas.
+This record is self-reviewed, not a formal proof or an independent-review certificate.
 
 
 Reading coverage: **Questioned for the literal statements and formulas identified below; internal proof review completed for the main reductions, subject to the explicit external-input boundaries.**
@@ -183,7 +185,7 @@ The existence conclusion is preserved by these explicit repairs.
 ## Actionable findings in the published source
 
 Every item below is newly recorded by this audit and pre-existing in the published PDF.
-Source page numbers are printed numbers; add the corresponding PDF locator shown in the inspection table when navigating.
+Source page numbers are printed numbers; subtract 611 to obtain the PDF sequence position, as recorded in the [source edition notes](readme.md).
 
 ### P2 — Theorem 7.1 and Corollary 7.2 omit the zero-root exception (p. 646)
 

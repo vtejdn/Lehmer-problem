@@ -3,6 +3,13 @@ author: Yin
 ---
 # Normalized many-vertex Lehmer displacement certificates
 
+## Native input availability
+
+The selected217 original words and32 cell/axis barycentric certificates in pilot.json are unavailable in this checkout and its selected local Git history.
+The normalized-descent proof and original checking accounts do not encode that full native selection.
+The author verifier and J27 cannot currently replay it.
+Supply only the original selected cell/word/barycentric payload at this group's tracked inputs/ and update those consumers; a new floating LP selection would supply different evidence.
+
 ## Scope
 
 Compare normalized joint displacement bodies c/||c||^2 with the preceding simplex certificate.

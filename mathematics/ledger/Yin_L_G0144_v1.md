@@ -4,12 +4,16 @@ author: Yin
 
 # Full-collar observability for the integer-response branch
 
+Current checking scope is owned by [R45](../audits/reviews/Yin_R_G0045_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Joint bounded G0001 derivation by the assigned entropy_status AI and the coordinating AI for Yin.
 The assigned AI derived the central/hyperbolic collar decomposition, the exact projected Gramian, the two-collar endpoint estimate, and the two-column discriminant bound.
 The coordinator supplied the convenient uniform Gramian constants and the plastic-family phase-separation calculation; the assigned AI checked and assembled those contributions.
 Both are contributors.
-Complete independent review is recorded below.
+The complete checking account below retains the responsible findings' actual relationships.
 No numerical calculation, root-isolation run, optimization, or new external source is a premise.
 
 The fixed interfaces are [L G0130](Yin_L_G0130_v1.md#finite-rational-energy-coercivity), [L G0135](Yin_L_G0135_v1.md#explicit-finite-energy-coercivity-radius), [L G0140](Yin_L_G0140_v1.md#filtered-gap-energy-charge), [L G0141](Yin_L_G0141_v1.md#joint-collar-flux-radius), and the actual family in [L G0131](Yin_L_G0131_v1.md#linear-exponent-cyclic-coverage).

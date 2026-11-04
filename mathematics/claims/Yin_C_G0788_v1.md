@@ -82,7 +82,7 @@ Thus these are rigorously paid bounds on the COMPLETE overlap at those scales ev
 ### RB2. Pay the entire infinite dyadic tail
 
 Put a_n=R^n p_n and H_n=-log a_n.
-The adopted C786 v2 conclusion, based on the exact C568 identity, gives
+The adopted C786 v2 conclusion, based on the exact C555 identity, gives
 
     H_n=sum_(j>=0)2^(-j-1)log D_(2^j n),
     D_m<=G(m), H_m<=log(2G(m)).
@@ -137,7 +137,7 @@ Combine this with RB1 and cancel p256>0 to obtain R>1699/1000.
 The logarithmic assertion follows because log is strictly increasing on positive reals.
 The accepted upper bound R<=beta and root bound beta<1723/1000 give the displayed final interval.
 This strengthens only the lower bound for the same true original quartic radius.
-It estimates neither the derivative g'(R) of C828 nor the critical mean, and it supplies no unrestricted Mahler bound.
+It estimates neither the derivative g'(R) of C785 nor the critical mean, and it supplies no unrestricted Mahler bound.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-26)

@@ -4,12 +4,16 @@ author: Yin
 
 # An explicit finite-energy coercivity radius
 
+Current checking scope is owned by [R41](../audits/reviews/Yin_R_G0041_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Joint bounded G0001 derivation by the assigned entropy_status AI and the coordinating AI for Yin.
 The assigned agent developed the defect-cluster closure mechanism, algebraic-norm exclusion, and coefficient-only constants.
 The coordinator independently checked that mechanism and supplied the particularly direct boundary telescoping, disjoint-block normalization and spectral constants used below.
 Both are contributors.
-Completed independent review is recorded below.
+The completed checking account is retained below at its responsible finding scope.
 No numerical search, new source or novelty assertion is involved.
 
 Use the domain of [L G0130](Yin_L_G0130_v1.md#finite-rational-energy-coercivity): P(t)=sum_(i=0)^d p_i t^i is the monic irreducible minimal polynomial of an algebraic unit with positive logarithmic Mahler measure and at least one unit-circle conjugate.

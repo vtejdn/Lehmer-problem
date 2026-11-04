@@ -14,7 +14,7 @@ No numerical scan or native mathematical program is used.
 
 Use the actual original monic irreducible nontorsion integer-unit polynomial P=t^d+sum_(j=0)^(d-1)c_j t^j, d>=2,c0=+/-1.
 The responsible adopted antecedent [C152](Yin_C_G0152_v1.md#decision-whole-reviewed-2026-10-16) supplies the actual companion convention, q=rho2(A)e0, C(V)=q ell+A^2V-VA and its free integer polynomial columns at window N=2d.
-C152's actual whole independent adoption does not review the new deductions here; all interfaces needed for them are reconstructed below.
+C152's adopted whole finding in [R370](../audits/reviews/Yin_R_G0370_v1.md#integer-frobenius-lift-whole-independent-finding) has an explicitly unknown relationship and does not review the new deductions here; all interfaces needed for them are reconstructed below.
 
 The bounded reuse screen read [C50's complete finite sign cancellation](Yin_C_G0050_v1.md), [L223's Boolean character convention/orthogonality](../ledger/Yin_L_G0223_v1.md#partial-mask-collision-information-retention) and [L234's precise reused attribution](../ledger/Yin_L_G0234_v1.md#walsh-companion-ratio-construction).
 Existing diagonal-sign matches concern congruences, Coxeter presentations or scalar substitutions, not this full Frobenius determinant family.

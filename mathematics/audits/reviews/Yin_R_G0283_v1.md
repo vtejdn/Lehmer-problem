@@ -20,11 +20,15 @@ The actual C25 monic-order reduction and floor, C29 all-integer projection/minim
 Related C53 source-unit accounts were inspected only for existing classical naming and the explicit absence of rational-descent/interpolation/degree conclusions.
 No whole re-audit of those older Claims or original source papers is asserted.
 
+The initial C65 input included its author completion and validation summary beyond the necessary derivation.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole independent finding](#short-row-universal-rigidity-whole-finding) | independently reviewed |
+| [Whole independent finding](#short-row-universal-rigidity-whole-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -139,7 +143,7 @@ No novelty/priority assertion is made.
 The finite integer-range, polynomial-divisibility and row-orthogonality arguments are local, with no source-attribution gap substituting for an unproved step.
 
 No mathematical native program, search, solver, new source acquisition or formal assistant was used for D19.
-The earlier unrelated J92 independent run belongs to its separate R374 scope and supplies no premise here.
+The earlier unrelated J92 independent run belongs to its separate R279 scope and supplies no premise here.
 The target draft was not edited.
 Structural checks verify paths/material only, not the proof.
 

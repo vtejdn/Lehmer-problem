@@ -132,7 +132,7 @@ The unrestricted G0001 gap and all original route, source and negative boundarie
 | --- | --- |
 | date | 2026-10-22T18:03 |
 | status | proved |
-| reason | Adopt the actual new independent complete re-review of the corrected z/H versus primitive-c Statement and complete Sections1--6 chain, including both Bernstein bounds, full costs, finite-grid/moment interfaces and retained J68 evidence. R878 remains SELF, v1 remains its exact preimage, original R137 scope is not rewritten, and no uniform excess, window realization or unrestricted gap is inferred. |
+| reason | Adopt the actual new independent complete re-review of the corrected z/H versus primitive-c Statement and complete Sections1--6 chain, including both Bernstein bounds, full costs, finite-grid/moment interfaces and retained J68 evidence. R731 remains SELF, v1 remains its exact preimage, original R137 scope is not rewritten, and no uniform excess, window realization or unrestricted gap is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

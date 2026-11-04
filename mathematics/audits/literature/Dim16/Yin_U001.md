@@ -6,7 +6,6 @@ author: Yin
 
 Date: 2026-10-07.
 Source inspection and direct specialization by assigned AI ms25_source for Yin, during [G0001](../../../tasks/Yin_T_G0001_v1.md#contract).
-Bibliography and acquisition.
 
 <a id="dim16-u001"></a>
 ## Source and inspection
@@ -21,7 +20,7 @@ Inspection: The retained identity page and pp.29--30 were rendered and visually 
 
 
 **Source interface read and accepted with the guards below.**
-The direct specialization and finite-threshold deductions below are proved here.
+The direct specialization and finite-threshold deductions are fixed in C854.
 This status does not claim a complete proof audit of the external logarithmic-form theorem, or a full-paper audit of Dim16.
 
 <a id="dim16-reported-bound"></a>
@@ -47,76 +46,10 @@ We have read the reported specialization, not those original proofs.
 Its p.30 discussion of a possible much stronger bound is explicitly hypothetical and is not adopted.
 Historical statements there about the state of the art are not current-status conclusions.
 
-<a id="dim16-cyclic-all-index"></a>
-## Direct all-index specialization for the near-one unit domain
+## Fixed local deduction
 
-Let alpha be a nontorsion algebraic unit with monic irreducible polynomial P, degree d>=2 and 0<m=log M(P)<=1.
-Set
-
-    C_n=|Res(P,t^n-1)|=|Norm_(Q(alpha)/Q)(alpha^n-1)|,
-    K=kappa d^4 log(2d),
-
-where kappa>=1 may be enlarged from (1).
-Then, for every n>=1,
-
-    n m-K log(2n) <= log C_n <= n m+d log 2.                    (2)
-
-To prove this, normalize each complex conjugate alpha_i separately:
-
-    z_i=alpha_i        if |alpha_i|<=1,
-        alpha_i^(-1)   if |alpha_i|>1.
-
-Thus |z_i|<=1, and all d normalized numbers remain nontorsion, have degree d and have Weil height m/d.
-Inverting selected roots does not require a common splitting-field degree in (1): apply that one-number statement separately to each z_i.
-Directly,
-
-    C_n=exp(nm) product_i |1-z_i^n|.                            (3)
-
-For n>=2, (1) and max(h(z_i),1/d)=1/d give a total logarithmic loss at most kappa d^4 log d log n, which is bounded by the loss in (2).
-The upper bound follows from |1-z_i^n|<=2.
-No root on the unit circle is omitted.
-For n=1, C_1 is a nonzero integer, so log C_1>=0; also K log 2>=m on the stated domain.
-This proves the remaining lower-bound case without applying log b at b=1.
-
-<a id="dim16-polynomial-threshold"></a>
-## A finite threshold, and its limitation
-
-Define
-
-    x=K/m,
-    N=ceil(8x log(8x)).                                        (4)
-
-Then every integer n>=N satisfies
-
-    log C_n >= n m/2,
-    [log C_n-d log 2]/n >= m/4.                                (5)
-
-Here x>=1 and K>=d log 2.
-Since x log(8x)>=1,
-
-    N<=9x log(8x),
-    2N<=18x log(8x)<=144x^2<=(8x)^4.
-
-Consequently K log(2N)<=4K log(8x)<=Nm/2.
-The function log(2t)/t decreases for t>=2, so the same relative error bound holds for every n>=N.
-Also N>=4x>=4d log 2/m, hence subtracting d log 2 costs at most nm/4.
-This proves (5).
-
-In particular the bound has order
-
-    N=O((d^4 log(2d)/m) log(d^4 log(2d)/m))
-
-on 0<m<=1, with an absolute but numerically uncalibrated constant from the external statement.
-This is a bound polynomial in d and 1/m up to the displayed logarithms, and it pays the archimedean d log 2 cost explicitly.
-It is not a numerically certified search cutoff until an explicit valid kappa is supplied.
-No numerical transcendence-constant optimization was attempted.
-
-The conclusion controls every sufficiently large n.
-By contrast, the independently proved [finite prime witness](../../../claims/Yin_C_G0260_v1.md#finite-cyclic-norm-prime-witness) finds at least one prime exponent with a smaller degree dependence for each fixed positive lower entropy threshold, and requires no logarithmic-form theorem.
-The two conclusions have different quantifiers.
-Both certify a positive fraction of the input's m; neither establishes a common positive lower bound for m in the first place.
-In particular (4) grows as m decreases, and (5)'s guaranteed lower certificate also decreases.
-No bound on the arithmetic prime factors of C_n follows.
+The complete all-index cyclic-norm statement, original-root normalization, n=1 integrality guard and finite threshold are retained in [C854](../../../claims/Yin_C_G0854_v1.md#statement).
+Its genuine 2026-10-07 checking scope below is preserved without a new mathematical assessment or a new reading of the original logarithmic-form proof.
 
 ## Relation to retained sources and actual review
 
@@ -125,10 +58,10 @@ The inspected Smy08 Fejer/Blanksby interfaces do not themselves supply the all-n
 Dim16 (9.1) is selected for its explicit degree and height dependence; reconstruction of a polynomial from finitely many cyclic resultants is a different question and is not used here.
 Only this one additional source was selected in the bounded search.
 
-The source agent performed the stated local PDF inspection and self-checked (2)--(5).
+The source agent performed the stated local PDF inspection and self-checked the local (2)--(5) now retained in C854.
 No original Baker--Wustholz proof, full Dim16 proof or numerical constant was independently verified.
 The coordinator read the complete unit and independently inspected the rendered original pp.29--30, checking the reported formula, height and degree conventions, exponent-one guard, and hypothetical status of the proposed stronger bound.
-It checked the complete direct specialization (2)--(5), including the all-n threshold and the numerically uncalibrated constant.
+It checked the complete direct specialization (2)--(5), now retained in C854, including the all-n threshold and the numerically uncalibrated constant.
 Assigned AI review_matrix_completion independently checked those direct deductions and the comparison with L G0076; the original transcendence estimate remained its stated external premise.
 Neither check found a substantive defect.
 This does not assert independent verification of the original Baker--Wustholz proof or of any uninspected Dim16 theorem.

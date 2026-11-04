@@ -9,7 +9,7 @@ Pages 8 and 9 were locally rendered and visually checked.
 The retained title, both authors and arXiv version were checked.
 
 For the source's parameters n=2T+2 and its constructed exterior real root alpha>1, equation (10) yields alpha-alpha^(-1)>(T+1).
-[D G0011](../../../claims/Yin_C_G0008_v1.md#arbitrary-trace-construction-measure-screen) supplies the direct deduction log alpha>asinh((T+1)/2).
+[C G0008](../../../claims/Yin_C_G0008_v1.md#arbitrary-trace-construction-measure-screen) supplies the direct deduction log alpha>asinh((T+1)/2).
 Thus this particular arbitrary-negative-trace construction has growing exterior-root size.
 It is not a bound for every Salem number of trace -T.
 

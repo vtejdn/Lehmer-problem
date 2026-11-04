@@ -38,7 +38,7 @@ The complete Fourier sum is controlled, without a finite frequency cutoff or a p
 
 ### Same actual weighted family and complete critical band
 
-Use EXACTLY C704 RF2--RF5, equivalently the adopted C708 square-prime weighted family: the same actual composite K, first prime a_j, L_j=K+a_j+2, M_j=floor(a_j/4), and c_j the least prime exceeding(L_j+1)^2.
+Use EXACTLY C704 RF2--RF5, equivalently the adopted C678 square-prime weighted family: the same actual composite K, first prime a_j, L_j=K+a_j+2, M_j=floor(a_j/4), and c_j the least prime exceeding(L_j+1)^2.
 Retain its actual monic irreducible Salem polynomial P_j, d_j=K+a_j+c_j, every d_j relation column and the original2d_j orthogonal projection.
 Write h_j=h_orig,j and f_(j,tau)=(1-h_j/tau)_+.
 Keep the exact fixed constants C_stab, C_mass, A_chi, H_rf, M_rf and D_rf=2^10 H_rf of C704.
@@ -195,7 +195,7 @@ The same subtraction argument supplies its uniform positive lower multiple.
 
 C704 is the exact direct actual-family input for its uniform original L1 comparison, original contact law, genuine degree and full-support lower bound.
 At this candidate's publication it is a fixed open theorem undergoing fresh independent whole review; this dependent result is likewise open until its necessary input and its own proof are sufficiently reviewed.
-C708's source/killer/minimality and the C726 stationary-phase input remain at the exact inspection depths declared in C704; they are not newly re-audited here.
+C678's source/killer/minimality and the C693 v2 stationary-phase input remain at the exact inspection depths declared in C704; they are not newly re-audited here.
 UC1--UC3 and the upper-envelope argument use only the displayed finite projection algebra, a.e. clipping derivative, probability comparison and elementary complete Fourier estimate.
 C174 and C690 identify the already retained Fourier mechanism; none of their fixed-polynomial or two-factor limiting conclusions is transferred to this family.
 There is no new external source claim, numerical experiment or optimal-height assertion.

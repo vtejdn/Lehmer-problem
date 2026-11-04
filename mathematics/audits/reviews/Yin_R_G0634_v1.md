@@ -27,7 +27,7 @@ author: Yin
 ## Current entire covariance-grid theorem finding
 
 Date: 2026-10-21T19:43.
-The maintaining agent developed this complete home and read original L255/R154 before checking, so this is whole SELF and no fresh isolated review is claimed.
+The maintaining agent developed this complete home and read original L255/R118 before checking, so this is whole SELF and no fresh isolated review is claimed.
 It read the entire original proof/review and actual C432 statement/complete argument, reusing the previously fully read adequate C419 input only at the explicit finite-law/core/p64/torsion scopes.
 Every original Sections1--7/equations1--19 mathematical paragraph is retained, with only href relocation and no omission of a geometric or cost step.
 The grid statement explicitly uses nonempty compact convex sets, exactly the ellipsoid/application and empty-projection convention of the original proof; no stronger empty-set identity is asserted.
@@ -57,7 +57,7 @@ Thus[1+sqrt(pi d/2)]^d is a real loss of this particular certificate in the join
 All Salem real-radius factors, both neutral multiplicities, finite-N degree/time comparison and nonuniform near-one/positive-theta limitations remain explicit.
 
 The entire theorem passes at this whole SELF scope, with no identified original mathematical gap or required author repair.
-Original R154 is also SELF: its own account explicitly records shared proposed conclusions before the initial finding.
+Original R118 is also SELF: its own account explicitly records shared proposed conclusions before the initial finding.
 Its separate implementation-free whole review, no target derivation and upstream roles remain actual historical facts; upstream authorship alone is not the reason for the SELF relationship.
 No J/program/native output, source/PDF passage, new theorem adoption or Task/E execution was used or changed.
 

@@ -6,7 +6,7 @@ author: Yin
 Date: 2026-10-12T16:09.
 Human record author Yin.
 Root conducts a separately organized actual extraction review.
-Matrix-recovery authored all original D35 mathematics; rounding-recovery independently whole-reviewed that original as R407 and then authored this C79 wrapper.
+Matrix-recovery authored all original D35 mathematics; rounding-recovery independently whole-reviewed that original as R302 and then authored this C79 wrapper.
 Root supplied only the broad question and literal recovery, with no D35 proof or wrapper contribution.
 Root has authored a separate period18 continuation, which is neither an input to C79 nor certified here.
 Root read the original whole finding and current author account as context before this targeted extraction review; there is no claim of blind review, external human review or formal verification.
@@ -22,7 +22,7 @@ No proof, candidate, failed language or recovery paragraph was lost.
 The source draft including its header has26943 characters/238 lines.
 This is a historical comparison fact, not a persistent digest or a claim of mathematical validity from byte equality.
 
-The prior R407 mathematical PASS covers the original body, not this new wrapper.
+The prior R302 mathematical PASS covers the original body, not this new wrapper.
 Its separately identified persistent-digest maintenance issue has now been removed in the actual retained Section8, preserving the recovery chronology and scope.
 The old finding remains truthful for what it inspected.
 Root also actually reread C76's full original-law operator, every accepted six-digit fiber and entire internal-core path, C68's exact six template rows, and C64's five residue-class rows.
@@ -98,7 +98,7 @@ Hence it supplies no returned counterexample.
 
 ## Source and computational limits
 
-R407's already recorded PARTIAL primary indexed LP17 printed188/Theorem13.20/equations13.13--14 attribution was read and retained at exactly that scope.
+R302's already recorded PARTIAL primary indexed LP17 printed188/Theorem13.20/equations13.13--14 attribution was read and retained at exactly that scope.
 No complete PDF/book or source-proof inspection is claimed here.
 The comparison inequality is proved locally and uses no irreducible all-pairs theorem.
 No new native program, execution, source acquisition or J93 verification occurred in this actual extraction review.

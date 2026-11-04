@@ -8,7 +8,7 @@ Root proposed the exact companion-matrix period shifts and the possible inductiv
 The same_trace contributor checked the source identities, proved the complete cross-ratio formula and uniform period-only dimension bound, and constructed the linear functional certifying a missing direction even after adding all annular squares and compositions.
 Both are mathematical contributors, not independent reviewers of this new result.
 The [active all-strategy Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23) authorizes this continuation.
-Focused reuse inspected C608/C609's complete trace identities, C679's actual companion/period definitions, and C654/C657's finite character, complete composition subgroup, exact conductor and annular dimensions.
+Focused reuse inspected C608/C609's complete trace identities, C651's actual companion/period definitions, and C654/C657's finite character, complete composition subgroup, exact conductor and annular dimensions.
 No new native computation, child agent, support cutoff or additional normalized-multiplicity enumeration is used.
 The [D1 index-shift section](../drafts/Yin_D_G0001.md#uniform-index-shift-annular-candidate) is development provenance, not a proof input.
 All fixed earlier J periods and predivision bounds retain their exact original scope; no minimality or sharper predivision claim is made here.

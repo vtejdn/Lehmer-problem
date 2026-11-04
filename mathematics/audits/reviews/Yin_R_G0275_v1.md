@@ -22,11 +22,16 @@ D16's initial stated common-marginal class was inspected only to verify that it 
 The accepted upstream proofs are not recursively re-audited, and their previous native/source inspection does not become new activity here.
 No numerical program, enumeration, optimizer, new native run, source acquisition or target edit occurred.
 
+The initial complete C62 input included its author self-check and completed-scope account beyond the necessary derivation.
+A denial of substituting the summary for the proof does not remove that supplied context.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole all-residue finding](#flat-all-residue-whole-independent-finding) | independently reviewed |
+| [Whole all-residue finding](#flat-all-residue-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

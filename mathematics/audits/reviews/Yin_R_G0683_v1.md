@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T22:49.
 Human operator: Yin.
 The checking agent read all258original L198 lines, all100original R97 lines and the entire345-line published open C474 Statement, Argument, registration and weighted-return boundary.
-It checked the complete C368 original rank/return/renewal and actual-family full weighted-tail argument, the C408 general-domain autocorrelation maximum-atom proof, and the complete earlier C466 Salem excursion construction at its limited comparison scope.
+It checked the complete C365 original rank/return/renewal and actual-family full weighted-tail argument, the C405 general-domain autocorrelation maximum-atom proof, and the complete earlier C462 Salem excursion construction at its limited comparison scope.
 The original10949-character starting interfaces/Sections1--5/equations(1)--(10) is fully retained with only adequate same-object mathematical homes.
 The complete new proof was reconstructed below rather than inferred from retention or old PASS.
 The checking agent authored the Claim and inherited target mathematical context and findings, so this actual whole finding is SELF.

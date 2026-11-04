@@ -16,7 +16,7 @@ Its only feedback before this verdict was the missing explicit monic-input quali
 
 Inputs and sequence: the assignment supplied the proposed equivalence, principal proof obligations, explicit control and coefficient-cost targets and contributor disclosure.
 The complete draft and its author self-check were then read.
-The reviewer enumerated and reconstructed all substantive obligations before consulting the actual upstream R290 and R288 conclusions.
+The reviewer enumerated and reconstructed all substantive obligations before consulting the actual upstream R214 and R212 conclusions.
 Before initial findings, the proof-generation dialogue and a separate author explanation were not supplied.
 Subsequent author communication was limited to the requested monic-input repair.
 The source_scope_check child received a bounded task to check the Con26/Con26b/L386 source interfaces; it supplied no whole-proof verdict.
@@ -30,7 +30,7 @@ Source inputs are reused at their accepted canonical scope; this review performe
 Current relationship clarification (2026-10-21T21:57): the initial assignment supplied the actual proposed equivalence and explicit mathematical control/coefficient-cost targets before autonomous findings; the full author-check exposure is also disclosed.
 Those concrete target mathematical inputs establish SELF under the current isolation rule; the separate role, noncontributor label and upstream fixed inputs alone establish neither relation.
 The original00:30 whole account,00:21 author freeze,00:29 monic-input clarification,00:36 retention and all original bindings/source/negative/control facts remain unchanged.
-The complete account is already retained inside C9; its current R296 SELF selection covers the registered theorem, while the full biquadratic control remains explicitly outside the top registered Statement.
+The complete account is already retained inside C9; its current R220 SELF selection covers the registered theorem, while the full biquadratic control remains explicitly outside the top registered Statement.
 Neither this relationship clarification nor the old single-passage reread is a new independent whole check of the corrected chain.
 
 ## Review relationships
@@ -52,7 +52,7 @@ Neither this relationship clarification nor the old single-passage reread is a n
 | [Whole finding](#general-relative-sign-profile-whole-finding) | [Exact totally real control](../../ledger/Yin_L_G0391_v1.md#totally-real-biquadratic-full-positive-norm-control) | Actual full order/inverses, maximal-order full-positive norm conclusion, pair weights including nonpositive field endpoints, primitive reciprocal generator, all four roots and fixed Mahler measure. |
 | [Whole finding](#general-relative-sign-profile-whole-finding) | [Paid rational representatives](../../ledger/Yin_L_G0391_v1.md#biquadratic-control-rational-representatives-and-covariance) | Strict power-basis suborder, no integral Laurent representative, even-denominator necessity, exact q128 tuple/common width4, contents, full resultants, energy and nonzero lag. |
 | [Whole finding](#general-relative-sign-profile-whole-finding) | [Con26-U001](../literature/Con26/Yin_U001.md#con26-u001) | Accepted full logarithmic lattice for any full order of a totally real field; canonical statement/hypothesis/source-depth check only, with no new primary-source proof inspection. |
-| [Whole finding](#general-relative-sign-profile-whole-finding) | [L388 matrix method](../../ledger/Yin_L_G0388_v1.md#positive-rational-field-profile-construction) | Exact old Salem matrix/rationality method read for reuse; the broader sign and basis changes are directly reviewed here, not covered by old R290. |
+| [Whole finding](#general-relative-sign-profile-whole-finding) | [L388 matrix method](../../ledger/Yin_L_G0388_v1.md#positive-rational-field-profile-construction) | Exact old Salem matrix/rationality method read for reuse; the broader sign and basis changes are directly reviewed here, not covered by old R214. |
 | [Whole finding](#general-relative-sign-profile-whole-finding) | [L372 trace comparison](../../ledger/Yin_L_G0372_v1.md#mixed-signed-unit-constant-obstruction) | Reuse only of arithmetic/geometric-mean comparison after actual total positivity; Salem-only inference from full norm +1 is excluded outside that setting. |
 | [Whole finding](#general-relative-sign-profile-whole-finding) | [L386 quadratic integer calculation](../../ledger/Yin_L_G0386_v1.md#sqrt-three-maximal-integer-ring-and-norm-sign) | Full integer ring of Q(sqrt3), denominator/parity proof and mod3 exclusion of norm -1, with exact downstream norm-tower applicability. |
 | [Whole finding](#general-relative-sign-profile-whole-finding) | [Con26b-U001](../literature/Con26b/Yin_U001.md#con26b-u001) | Recorded selected quadratic-ring/unit-norm source scope and d3 specialization; no fresh primary-PDF or whole-source audit. |
@@ -217,9 +217,9 @@ It claims no new primary-PDF inspection, regulator bound or algorithm.
 Con26b-U001 records the selected quadratic-integer and unit-norm statements in Conrad's undated 24-page note, Definition 3.1/Theorem 3.4 pp.2--3, Theorem 3.5 p.3 and Theorem 3.9 p.4.
 The d=3 specialization and local mod3 obstruction were checked directly.
 The full primary sources were not re-audited.
-L388/R290 supplies the already checked narrower method; this R independently verifies all changed sign, embedding and basis interfaces.
+L388/R214 supplies the already checked narrower method; this R independently verifies all changed sign, embedding and basis interfaces.
 L372 supplies its positive-trace comparison only after the relevant positivity is established.
-L386/R288 is reused only for the exact quadratic-ring/sign interface.
+L386/R212 is reused only for the exact quadratic-ring/sign interface.
 L318's complementary-bundle and full-cost distinctions were inspected as background; no L318 analytic inequality is needed for this field-profile proof.
 No upstream comparison or review is a substitute for the reasoning recorded here.
 

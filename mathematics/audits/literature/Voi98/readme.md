@@ -7,7 +7,7 @@ Author: Yin
   Goal: [Voi98 finite-Fisher source audit](#voi98-finite-fisher-source-audit).
 - Source: [Voi98](../../../literature/pdf/Voi98.pdf), complete 39-page published journal artifact, printed pp. 189-227; printed page = PDF page + 188.
   Canonical bibliographic identity is in [references.bib](../../../literature/references.bib).
-- Assessment: the article has been read and organized into nine reusable units.
+- Historical assessment: the 2026-09-08 account records article reading and organization into nine units.
   The principal conjugate-variable, closed-derivation, repaired dual-system, first-order Fisher-information and entropy-integral mechanisms have local proof reconstructions and independent AI reviews.
   Several printed assertions need correction.
   Specific higher-order and external analytic obligations remain below; a completed source audit is not certification of every original assertion or reference.
@@ -18,7 +18,10 @@ Author: Yin
 | --- | --- | --- |
 | [Voi98-U001: Free entropy](Yin_U001.md#voi98-u001) | Section 7, pp. 222-226 | Integral existence, algebra operations, upper semicontinuity, heat trajectory, orthogonal invariance, corrected scaling and finite-information bound checked. Scalar 7.6 reduction retains its earlier analytic-input boundary. |
 
-All article pages are covered by this map; shared boundary pages are intentional.
+The current collection locates only the Section 7 unit above.
+The former finite-tracial, conjugate-variable, derivation, Fisher-information and external-interface bodies U001--U009 have not been located at their described scopes; the current differently scoped U001 is not a substitute for them.
+The former dependency and review descriptions below preserve the historical account but do not establish presently inspectable full-article coverage.
+Recover or adequately prepare the particular missing interface before reusing it, without inferring that its original inspection was false or its theorem failed.
 Source-state judgments apply to the specified corrected arguments.
 The unestablished assertions below remain questioned at that exact scope, not silently included in an undifferentiated whole-paper approval.
 
@@ -30,7 +33,6 @@ Unless explicitly described otherwise, corrections are local findings, not autho
 
 | Finding | Source passage and decisive issue | Repair and impact |
 | --- | --- | --- |
-The exact X = 0 case refutes the printed bounds. |
 | F10: Entropy integral displays | 7.2 uses upper cutoff 1 instead of infinity; 7.4 drops numerator n in the integrable majorant; 7.9 prints 1+t^-1 instead of (1+t)^-1. | [U001](Yin_U001.md#voi98-u001): corrected improper integrals and reverse Fatou proof, with all minus-infinite endpoints accounted for. Conclusions survive. |
 | F11: Entropy scaling | Proposition 7.8 omits the dimension n in its statement; a free semicircular pair is an exact counterexample. | [U001](Yin_U001.md#voi98-u001): chi*(aX:B) = chi*(X:B) + **n log(abs(a))**, real a nonzero, including minus infinity. Replace the defective proof calculation by the integrable change of variables. |
 | F12: Scalar comparison and version | 7.6 corrects an earlier heat coefficient but its original analytic proof was not obtained; its tail upper bound also silently normalizes X. The bibliography dates Part IV to 1996, versus 1997 in the author's publication list. | [U001](Yin_U001.md#voi98-u001), U009: restore the second moment in the tail bound, retain scalar scope and the exact analytic proof boundary, and register Voi97 with the date discrepancy. |
@@ -154,40 +156,3 @@ Completed 2026-09-08 under the unchanged source-study criteria.
 The [integrated completion review](#goal-completion-review) covers all 39 pages in nine units, reconstructed corrections and exact counterexamples, complementary independent AI reviews, bounded primary-interface searches and artifact checks.
 General higher projective-completion faithfulness, unrestricted higher-order limit identification and the scalar comparison's earlier analytic proof inputs retain their explicit inspection limits; completion does not certify those unestablished assertions.
 BR10 received only the separately requested lightweight reference-book intake.
-
-<a id="decision-candidate-0001"></a>
-<a id="decision-candidate-0002"></a>
-<a id="decision-candidate-0003"></a>
-<a id="decision-candidate-0004"></a>
-## Historical recorded completion
-
-The four historical publications `Voi98 finite-Fisher source audit_v1` through `Voi98 finite-Fisher source audit_v4` retain one unchanged source-audit disposition: **completed within the original assignment scope**.
-The substantive inspection and completion dates remain those stated in the audit and contract above.
-The record registration time is 2026-09-14T01:14; it is not a new inspection or inferred historical completion date.
-
-Recorded by: Yin.
-Recorded event: 2026-09-14T01:14.
-Original transition: no prior recorded disposition to `completed`.
-No resumption condition was recorded.
-
-Contract: [original audit assignment, physical v1](#historical-contract-v1).
-Selected completion evidence: [Source-audit completion review](#goal-completion-review).
-Covered materials are this source audit and that assignment.
-Original reviewed publication: `Voi98 finite-Fisher source audit_v1`.
-The evidence basis is the recorded completion review; its actual inspection relationship and limitations remain in the review itself.
-No separately declared fixed dependencies or independent review classification is invented.
-
-Recorded scope: The original completion criteria and limitations in the cited completion comparison for Voi98 finite-Fisher source audit.
-Preserve recorded lifecycle and completion evidence; historical review classification is not inferred.
-
-Recorded reason: Preserve the completed disposition already recorded at registration; this timestamp is registration, not an inferred historical completion date.
-
-Recorded authority: initial recorded disposition in `Voi98 finite-Fisher source audit_v1`, preserving the [original assignment and criteria](#historical-contract-v1).
-This is a historical account of the retired registration, not a new audit-task lifecycle.
-
-| Historical publication | Recorded update | Meaning of the recording |
-| --- | --- | --- |
-| `Voi98 finite-Fisher source audit_v1` | 2026-09-14T02:10 | Yin, 2026-09-14T01:14: registration |
-| `Voi98 finite-Fisher source audit_v2` | 2026-09-14T04:01 | Yin, 2026-09-14T04:01: Register previously selected proof/review support; verified legacy correspondence, no new mathematical audit |
-| `Voi98 finite-Fisher source audit_v3` | 2026-09-14T14:42 | Yin, 2026-09-14T14:42: Approved framework separation: relocate mathematical material and rebase local documentation locators; preserve mathematics, assessments and historical evidence. |
-| `Voi98 finite-Fisher source audit_v4` | 2026-09-15T08:24 | Yin, 2026-09-15T08:24: Separate execution metadata from existing Task bodies; preserve mathematical contracts, lifecycle, historical evidence and prior review classification. |

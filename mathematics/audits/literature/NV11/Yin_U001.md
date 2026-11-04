@@ -12,11 +12,19 @@ Bounded source-statement and applicability inspection by assigned AI ms25_source
 
 [Source and edition notes](readme.md).
 
-Source edition: Hoi Nguyen and Van Vu, *Optimal inverse Littlewood-Offord theorems*, Advances in Mathematics 226(6) (2011), 5298--5319, DOI `10.1016/j.aim.2011.01.005`. Retained [NV11.pdf](../../../literature/pdf/NV11.pdf) is the public author's `optimalILO-final.pdf`, 23 internally paginated pages, 300527 bytes. It has no verified source-upload date or numbered revision label; its PDF creation timestamp is not treated as a publication/version date. It is not asserted byte-identical to either the publisher PDF or arXiv:1004.3967v2. The latter is a separately checked identity/version locator, revised 16 January 2011.
+Source edition: Hoi Nguyen and Van Vu, *Optimal inverse Littlewood-Offord theorems*, Advances in Mathematics 226(6) (2011), 5298--5319, DOI `10.1016/j.aim.2011.01.005`.
+Retained [NV11.pdf](../../../literature/pdf/NV11.pdf) is the public author's `optimalILO-final.pdf`, 23 internally paginated pages, 300527 bytes.
+It has no verified source-upload date or numbered revision label; its PDF creation timestamp is not treated as a publication/version date.
+It is not asserted byte-identical to either the publisher PDF or arXiv:1004.3967v2.
+The latter is a separately checked identity/version locator, revised 16 January 2011.
 
 Passages: Main paper: definitions and fair-sign convention, internal/PDF pp.1--4; Theorem2.1 p.6 and Theorem2.5 p.7. Associated author erratum: introduction pp.1--2, particularly the final paragraph before Section2 on p.2.
 
-Inspection: The title/authors and journal identity were checked against the retained source and author's bibliography. Both theorem statements were extracted and visually read. The corresponding fixed-parameter/rank/exception interpretation was checked, but the inverse-theorem proofs were not audited. The erratum's declared correction target was read and visually checked on p.2; its repair proof was not audited. No continuous inverse result or general-noise extension is adopted.
+Inspection: The title/authors and journal identity were checked against the retained source and author's bibliography.
+Both theorem statements were extracted and visually read.
+The corresponding fixed-parameter/rank/exception interpretation was checked, but the inverse-theorem proofs were not audited.
+The erratum's declared correction target was read and visually checked on p.2; its repair proof was not audited.
+No continuous inverse result or general-noise extension is adopted.
 
 
 **Read at statement and applicability depth.**
@@ -61,7 +69,7 @@ If the theorem uses an implicit lower threshold on n depending on C, that thresh
 Thus neither (1) nor (2) proves that an exponential-concentration family has bounded progression rank independently of n.
 Substitution may produce a bound depending on n; it is not an input-independent constant.
 No theorem with explicit dependence on C is ruled out by this statement inspection, and no claim about the best available inverse theorem is made.
-The direct generic rank obstruction and power-orbit time cost are separate local arguments in [C G0287](../../../claims/Yin_C_G0286_v1.md#generic-exponential-rank-obstruction); they do not rely on the truth of (1)--(2).
+The direct generic rank obstruction and power-orbit time cost are separate local arguments in [C G0286](../../../claims/Yin_C_G0286_v1.md#generic-exponential-rank-obstruction); they do not rely on the truth of (1)--(2).
 
 <a id="nv11-erratum-scope"></a>
 ## The linked erratum has a different target

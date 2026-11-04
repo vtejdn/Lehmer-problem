@@ -61,7 +61,7 @@ No constant covariance transfers automatically to least-energy residuals.
 The three J85 degree4 certificate absences are historical bounded evidence, not premises of the arbitrary-degree proofs or nonlinear impossibility.
 AJL17/AJL16 supply only exact selected complex attribution; rational descent, original Potapov/completion proofs, interpolation and McMillan-width equality are not imported.
 No program, native search, solver or new source reading occurs.
-The original dated orbit question was open at its22:43 freeze; the later separate [L384 exact finite word](Yin_C_G0453_v1.md#exact-width-five-lift-discovery) supplies the specific target's solution.
+The original dated orbit question was open at its 2026-10-11T14:43 freeze; the later separate [L384 exact finite word](Yin_C_G0453_v1.md#exact-width-five-lift-discovery) supplies the specific target's solution.
 That later result does not remove the fixed-vector pole obstruction or settle general orbit surjectivity, residual covariance or the unrestricted Task.
 
 ## Current assessment
@@ -111,7 +111,7 @@ The original dated proofs and input descriptions below refer to the 2026-10-11 m
 Their necessary fixed evidence remains at its exact original home and supplies no Task/E resumption.
 
 <a id="complete-rational-delay-factorization"></a>
-The original dated proofs below retain their actual22:43 scope and then-open target language.
+The original dated proofs below retain their actual 2026-10-11T14:43 scope and then-open target language.
 The separate later [L384 exact word](Yin_C_G0453_v1.md#exact-width-five-lift-discovery) records that target's subsequent solution; it supplies no premise to the general factorization, prime or fixed-vector pole proofs here.
 
 <a id="rational-factorization-source-and-input"></a>

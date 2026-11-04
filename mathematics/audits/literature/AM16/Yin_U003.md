@@ -23,7 +23,7 @@ Passages: Height normalization and Theorem 2.1 on printed 1/PDF 2, continued on 
 Inspection: Direct text reading of the complete Theorem 2.1 statement, its continuation and adjacent attribution, with exact K=Q,r=2 hypotheses and the application below checked. No original Amoroso--David or Delsinne proof audit, no source-wide audit, and no numerical constant or varying-rank uniformity claim.
 
 
-The [retained primary postprint](../../../literature/pdf/AM16--author-postprint.pdf) and identify the inspected edition.
+The [retained primary postprint](../../../literature/pdf/AM16--author-postprint.pdf) identifies the inspected edition.
 The accepted author-order erratum boundary remains exactly that of [U001](Yin_U001.md#am16-u001).
 No new artifact, edition or acquisition is claimed.
 

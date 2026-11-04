@@ -426,7 +426,7 @@ The maintaining agent read all original L265/R164 and checked every original Sec
 It checked the actual quartic field/Salem roots/order-unit group, integral inverses/content/full signed norms/labeled local depths, full eigenvectors/AB/cosh/ties/automorphism composition and the sharp-family nonconstant norm/discrete loss/all-direction comparison.
 The entire original-root archimedean redistribution, all nonzero-pair Mahler/leading/monomial/repeated-root cases, every omitted exponent and both measure asymptotics were checked without a scan or program.
 The original author clarified principal-ideal classes to different principal ideals before the full freeze, without changing a calculation.
-Original author checking is recorded at day precision, the complete body froze09:52 and the whole review completed09:55; those distinct facts are not merged into an invented checking minute.
+Original author checking is recorded at day precision, the complete body froze 2026-10-10T01:52 and the whole review completed 2026-10-10T01:55; those distinct facts are not merged into an invented checking minute.
 R164 records broad assignment/source operations/upstream reviews without establishing the exact initial target context; those roles alone do not show proof contribution or isolation.
 Its entire original mathematical/source/control finding remains UNKNOWN; the actual current whole SELF supplies no fresh isolation or closure of that obligation.
 Con26-U003 retains the original rank-one passage occurrences and not a fresh source proof/PDF reading or backwards expansion of later U001/U002.
@@ -460,7 +460,7 @@ No numerical/native calculation, producer, new mathematical experiment or Task/E
 | --- | --- |
 | date | 2026-10-21T21:57 |
 | status | proved |
-| reason | Adopt after the actual C464/R671 whole SELF check of all original mathematical Sections1--6/equations1--21, every actual quartic/order/full-unit/primitive/integral-inverse/full-signed-norm/labeled-depth case, exact eigenvector/cosh/nearest/tie/automorphism spectra, sharp nonconstant-norm discrete loss and every whole-orbit leading/exterior-root/Mahler/archimedean/asymptotic cost. Adequate C451/C438/C238 and original Con26 rank-one scopes were actually compared; no new source proof/PDF/program/numerical/Task execution. Original R164 remains UNKNOWN on its entire original proof/source/control scope; original author day-check,09:52 freeze and09:55 review are distinct. Current SELF is not fresh isolation or an arbitrary fixed-norm/near-one/high-degree/gap conclusion. |
+| reason | Adopt after the actual C464/R671 whole SELF check of all original mathematical Sections1--6/equations1--21, every actual quartic/order/full-unit/primitive/integral-inverse/full-signed-norm/labeled-depth case, exact eigenvector/cosh/nearest/tie/automorphism spectra, sharp nonconstant-norm discrete loss and every whole-orbit leading/exterior-root/Mahler/archimedean/asymptotic cost. Adequate C451/C438/C238 and original Con26 rank-one scopes were actually compared; no new source proof/PDF/program/numerical/Task execution. Original R164 remains UNKNOWN on its entire original proof/source/control scope; original author day-check,2026-10-10T01:52 freeze and 2026-10-10T01:55 review are distinct. Current SELF is not fresh isolation or an arbitrary fixed-norm/near-one/high-degree/gap conclusion. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

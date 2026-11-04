@@ -319,6 +319,51 @@ Conditioning on the whole word already restores a tautological identity and supp
 On the Fourier side, a complete fractional return moment yields useful critical regularity, but that moment is an additional premise which still has to be proved for the relevant nontorsion process.
 
 
-The fully optimized long-window collective-column sufficient certificate has a small-measure ceiling.
-This limits that certificate, not the true entropy or complete pressure.
+Here is the precise long-window limitation for one collective-column lower certificate.
+Let $P$ be a monic irreducible minimal polynomial of a nonzero algebraic integer, with total measure $m>0$ and $r$ exterior conjugates, counting both members of a complex pair, and put $s=e^{-m}$.
+Let $\mathcal B$ be the finite Blaschke product with zeros $1/\overline\alpha$ for these exterior conjugates, normalized by $\mathcal B(0)=s$.
+Write $F=\mathcal B/s=\sum_{j\ge0}c_jz^j$ and its formal inverse $H=1/F=\sum_{j\ge0}h_jz^j$.
+For an integer $b\ge1$, let $F_b=(c_{j-i})$ and $C_b=(h_{j-i})$ be upper triangular $b$-by-$b$ Toeplitz matrices, with coefficients of negative index zero, and put $D_b=C_b-I_b$.
+For $A\ge\log2$, define
+\[
+ \begin{split}
+ \kappa(A)&=\min\{\sqrt{\pi/A}\,e^{-\pi^2/\log2},
+                         e^{-25A/16}(1-2^{-3/2})\},\\
+ \gamma(A)&=\kappa(A)/32,\qquad K(A)=2+4A^2/\gamma(A),
+       \qquad c_A=1+2e^{-A},\\
+ J_A(\sigma)&=\sup_{\lambda>0}
+  \frac{\log(c_A/c_{A+\lambda\sigma^2})}
+       {K(A)+\lambda/\gamma(A)}.
+ \end{split}
+\]
+Choose any $p$ distinct rows and $q$ distinct columns of $D_b$, where $p\ge q\ge1$, and any certified lower singular value $\sigma\ge0$ for that submatrix.
+For transfer to the collision rate, require $A>(\log2)e^{2m}$, fix $P,b$ and $\sigma>0$, and first fix $\lambda>0$.
+After the input-dependent finite-position onset, take the original word length to infinity, then the singular-value approximation error to zero, and only then the supremum over $\lambda$.
+Under these conditions the certificate is the lower-rate value $g(m)+(q/b)J_A(\sigma)$, where
+\[
+ g(m)=\log\frac{2}{1+2^{1-e^{2m}}}.
+\]
+Its optimization is over these row and column sets, $q$, $\sigma$, $\lambda$, and $A$ subject to these conditions, within this single limiting $b$-window.
+At $\sigma=0$ the increment $J_A(0)$ is zero, so only the baseline $g(m)$ remains.
+The rank-energy decomposition gives
+\[
+ \begin{split}
+ D_b&=R_b+E_b,\qquad R_b=C_b-s^2F_b^T,\quad E_b=s^2F_b^T-I_b,\\
+ \operatorname{rank}R_b&=\min(b,r),\qquad
+ \|E_b\|_F^2\le b(1-e^{-2m}),
+ \end{split}
+\]
+where $\|\cdot\|_F$ is the Frobenius norm.
+Here the rank follows from the rank-$r$ finite-Blaschke compression, and the energy bound follows by summing the coefficients of $F$ using $\sum_{j\ge1}c_j^2=s^{-2}-1$.
+Restricting to the kernel of the selected part of $R_b$ yields $(q-\min(b,r))_+\sigma^2\le\|E_b\|_F^2$.
+The numerator defining $J_A$ is at most $\log c_A$ and at most $2e^{-A}\lambda\sigma^2/c_A$.
+Splitting $q$ at $\min(b,r)$ therefore gives, uniformly over the stated optimization,
+\[
+ \frac qb J_A(\sigma)
+ \le\frac{r}{2b}\log2+\frac{1-e^{-2m}}{64}.
+\]
+If $b\ge2r/m$, the full certificate is at most $g(m)+m\log2/4+m/32$.
+Since $g(0)=0$, $g'(0)=\log2$, and $(5/4)\log2+1/32<1$, universal $m_*>0$ and $\epsilon_*>0$ exist such that this value is at most $(1-\epsilon_*)m$ for $0<m<m_*$.
+The limiting geometry is taken at fixed $P,b$; its finite-position onset is input dependent.
+This is an upper bound on this lower certificate, and gives no upper bound on true entropy or complete pressure.
 Shorter scales, joint orbit information and arithmetic constraints on the full neutral law remain distinct questions.

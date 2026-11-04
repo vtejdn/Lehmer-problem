@@ -6,7 +6,7 @@ author: Yin
 
 Publication date: 2026-10-22T19:06.
 Human record author Yin.
-The current constructor read every physical L421–L425 version, the full original arguments, the six original whole reviews R578,R579,R435,R582,R583,R584 and the necessary selected interfaces before constructing the current C homes.
+The current constructor read every physical L421–L425 version, the full original arguments, the six original whole reviews R432,R433,R435,R436,R437,R438 and the necessary selected interfaces before constructing the current C homes.
 This activity authored the current exact statements and responsible-home transfer, so every current finding here is self-reviewed.
 It is not a fresh independent review and does not replace or rebind the original reviews.
 The five first C versions were registered open at2026-10-22T18:55.
@@ -25,7 +25,7 @@ The existing accepted original input scopes are reused; this finding is not a re
 | [Current G424 whole finding](#current-g424-complete-self-finding) | self-reviewed |
 | [Current G425 whole finding](#current-g425-complete-self-finding) | self-reviewed |
 | [Current G426 whole finding](#current-g426-complete-self-finding) | self-reviewed |
-| [C565v1 summary correction](#c565-v1-summary-correction-finding) | self-reviewed |
+| [C552v1 summary correction](#c565-v1-summary-correction-finding) | self-reviewed |
 | [Original G422v1 author finding](#original-g422-v1-author-self-finding) | self-reviewed |
 | [Original G423v1 author finding](#original-g423-v1-author-self-finding) | self-reviewed |
 | [Original G424v1 author finding](#original-g424-v1-author-self-finding) | self-reviewed |
@@ -73,8 +73,8 @@ The existing accepted original input scopes are reused; this finding is not a re
 | [Current G426](#current-g426-complete-self-finding) | [Exact selected dependency](../../claims/Yin_C_G0170_v1.md#short-overlap-operator-and-energy) | Both true midpoint representations and n+2 blocks, used for pointwise jump4 and work price. |
 | [Current G426](#current-g426-complete-self-finding) | [Exact selected dependency](../../claims/Yin_C_G0370_v1.md#general-conditioning-amplification) | Full binary autocorrelation on precisely the original gapped outside positions. |
 | [Current G426](#current-g426-complete-self-finding) | [Exact selected dependency](../../claims/Yin_C_G0204_v1.md#null-branch-original-bridge-escape) | Pointwise original b_n(q)<=1/D_n and ONE common D_n-divergent subsequence conditional on infinite mean. |
-| [C565v1 summary correction](#c565-v1-summary-correction-finding) | [C552v1 original new statement](../../claims/Yin_C_G0552_v1.md#statement) | The fiber-symmetry sentence is overstrong; this version receives no whole PASS here. |
-| [C565v1 summary correction](#c565-v1-summary-correction-finding) | [Unchanged correct original proof](../../claims/Yin_C_G0552_v1.md#odd-carry-original-involution) | Full word negation maps a fiber to the corresponding negated fiber with the same conditional probabilities. |
+| [C552v1 summary correction](#c565-v1-summary-correction-finding) | [C552v1 original new statement](../../claims/Yin_C_G0552_v1.md#statement) | The fiber-symmetry sentence is overstrong; this version receives no whole PASS here. |
+| [C552v1 summary correction](#c565-v1-summary-correction-finding) | [Unchanged correct original proof](../../claims/Yin_C_G0552_v1.md#odd-carry-original-involution) | Full word negation maps a fiber to the corresponding negated fiber with the same conditional probabilities. |
 | [Original G422v1 author finding](#original-g422-v1-author-self-finding) | [Original fixed author account](../../ledger/Yin_L_G0421_v1.md#branching-core-fixed-inputs) | Retained actual whole author check at the original artifact's stated 2026-10-18T17:14 precision; no separately timed historical review is invented. |
 | [Original G423v1 author finding](#original-g423-v1-author-self-finding) | [Original fixed author account](../../ledger/Yin_L_G0422_v1.md#degree-three-fixed-inputs) | Retained actual whole author check at the original artifact's stated 2026-10-18T17:19 precision; no separately timed historical review is invented. |
 | [Original G424v1 author finding](#original-g424-v1-author-self-finding) | [Original fixed author account](../../ledger/Yin_L_G0423_v1.md#odd-defect-reuse) | Retained actual whole author check at the original artifact's stated 2026-10-18T17:30 precision; no separately timed historical review is invented. |
@@ -84,7 +84,7 @@ The existing accepted original input scopes are reused; this finding is not a re
 
 ## Historical scope and provenance
 
-R578,R579,R582,R583,R584 retain their actual declared independent relationships, original L/input bindings and dates.
+R432,R433,R436,R437,R438 retain their actual declared independent relationships, original L/input bindings and dates.
 Their available scope messages, author-ready messages, assembly or previous upstream review roles do not by themselves establish proof contribution and are not automatically relabeled SELF.
 The current activity was not isolated from that history and claims only SELF.
 R435 separately retains its declared core-proof finding and its reviewer-authored SELF comparison countercontrol; the actual contribution and corrected comparison are preserved without pretending that the reviewer supplied no mathematics.
@@ -95,35 +95,68 @@ The G425v1 author check concerns the fixed-weight proof; the v2 extension check 
 
 Completed2026-10-22T19:04.
 The exact selected current Yin_C_G0550_v1.md Statement and complete Argument pass at the full stated scope, with all dependencies resolved at their selected scopes.
-The exact incoming low-neighbor candidate list is {-T,-T3,T3,T}, with chronology reversed from ascending powers. Its successive expanding gaps exceed the open target-strip width2B, so every vertex has at most one low neighbor; reciprocal J transfers the result to the other side. The induced high graph therefore has minimum degree2. The finite longest-path argument gives an even cycle, while the stated infinite-graph limitation is necessary. The low matching/singleton attachment cases exhaust degrees1 and2. Maximizing finitely many genuine edge onsets gives full finite-component appearance, not a uniform onset. The complete c_k(-beta^k y)c_k(c)2^zero/c_(2n)(0) mass and8/13 high-edge event retain all original fibers and do not bound complete-component defect or weighted load.
+The exact incoming low-neighbor candidate list is {-T,-T3,T3,T}, with chronology reversed from ascending powers.
+Its successive expanding gaps exceed the open target-strip width2B, so every vertex has at most one low neighbor; reciprocal J transfers the result to the other side.
+The induced high graph therefore has minimum degree2.
+The finite longest-path argument gives an even cycle, while the stated infinite-graph limitation is necessary.
+The low matching/singleton attachment cases exhaust degrees1 and2.
+Maximizing finitely many genuine edge onsets gives full finite-component appearance, not a uniform onset.
+The complete c_k(-beta^k y)c_k(c)2^zero/c_(2n)(0) mass and8/13 high-edge event retain all original fibers and do not bound complete-component defect or weighted load.
 This is an adequate whole agent SELF finding for actual subsequent adoption of this exact current version; it does not itself change the C decision.
 
 ## Current G423 complete SELF finding
 
 Completed2026-10-22T19:04.
 The exact selected current Yin_C_G0551_v1.md Statement and complete Argument pass at the full stated scope, with all dependencies resolved at their selected scopes.
-The root comparison P(sqrt3)=7-4sqrt3>0 and the unique exterior-root interface give beta^2<3. The first-branch argument supplies at least four distinct complete words unless the first two steps are forced. The r=beta^4 epsilon cases, absent stable-strip equality points and r>2 regimes give exactly the stated degree3 fringe. Ordered gaps(1,beta-1) versus(beta-1,1) rule out distinct identical degree3 neighborhoods. The exhaustive |H|=4,5,6,7 bipartite/low-port cases each force a contradiction, including K_(2,2),K_(2,3),K_(3,3) minus a matching and K_(3,4). The theorem concerns complete components, not their nonclosed subgraphs; transient J106 components and the unconstructed8-vertex boundary remain correctly separate.
+The root comparison P(sqrt3)=7-4sqrt3>0 and the unique exterior-root interface give beta^2<3.
+The first-branch argument supplies at least four distinct complete words unless the first two steps are forced.
+The r=beta^4 epsilon cases, absent stable-strip equality points and r>2 regimes give exactly the stated degree3 fringe.
+Ordered gaps(1,beta-1) versus(beta-1,1) rule out distinct identical degree3 neighborhoods.
+The exhaustive |H|=4,5,6,7 bipartite/low-port cases each force a contradiction, including K_(2,2),K_(2,3),K_(3,3) minus a matching and K_(3,4).
+The theorem concerns complete components, not their nonclosed subgraphs; transient J106 components and the unconstructed8-vertex boundary remain correctly separate.
 This is an adequate whole agent SELF finding for actual subsequent adoption of this exact current version; it does not itself change the C decision.
 
 ## Current G424 complete SELF finding
 
 Completed2026-10-22T19:04.
 The exact selected current Yin_C_G0552_v2.md Statement and complete Argument pass at the full stated scope, with all dependencies resolved at their selected scopes.
-The conditional Dirichlet form is coercive on each finite self-sign odd subspace, including the zero-dimensional convention. Summing complete conditional energies and paying exchanged pairs by their full range gives the attained defect(1-s)/4; the component-constant odd witness proves minimality, with s=0 and s=1 retained. The selected-component variant is sufficient, not a new minimum. On the actual full word space, negation maps each fiber to its negated fiber with its conditional probabilities and commutes with both conditional expectations. Lipschitz clipping, full angular integration and R_delta^2=max{1,16B/delta} give the exact capture delta/[2(2-delta)] and all-late finite-set mean bound. The selected clearing transitions cost2^(-n-5) and2^(-n-3); the complete half-return mass is1/D_n. The J106 six finite cases are reused at their accepted fixed scopes without replay. Neither degeneration of a lower bound nor8/13 edge mass implies the missing self-sign mass/energy inputs. R435's separate reviewer SELF countercontrol remains adequate for its comparison correction.
+The conditional Dirichlet form is coercive on each finite self-sign odd subspace, including the zero-dimensional convention.
+Summing complete conditional energies and paying exchanged pairs by their full range gives the attained defect(1-s)/4; the component-constant odd witness proves minimality, with s=0 and s=1 retained.
+The selected-component variant is sufficient, not a new minimum.
+On the actual full word space, negation maps each fiber to its negated fiber with its conditional probabilities and commutes with both conditional expectations.
+Lipschitz clipping, full angular integration and R_delta^2=max{1,16B/delta} give the exact capture delta/[2(2-delta)] and all-late finite-set mean bound.
+The selected clearing transitions cost2^(-n-5) and2^(-n-3); the complete half-return mass is1/D_n.
+The J106 six finite cases are reused at their accepted fixed scopes without replay.
+Neither degeneration of a lower bound nor8/13 edge mass implies the missing self-sign mass/energy inputs.
+R435's separate reviewer SELF countercontrol remains adequate for its comparison correction.
 This is an adequate whole agent SELF finding for actual subsequent adoption of this exact current version; it does not itself change the C decision.
 
 ## Current G425 complete SELF finding
 
 Completed2026-10-22T19:04.
 The exact selected current Yin_C_G0553_v1.md Statement and complete Argument pass at the full stated scope, with all dependencies resolved at their selected scopes.
-Both complete parts were checked. Conditional sigma-field nesting gives the correct energy and kernel-inclusion direction. The persistent distinct sign components produce an odd centered full-word test of positive, possibly very small complete variance, independent of the weights. Positivity bounds every remaining energy by that variance; choosing fixed B before n proves both gap limits. Unbounded fixed support supplies the exact T_(n-1) full-refresh minorization at each finite n. The actual complex midpoint bound is min(b,n)^2 and the full coordinate cost is n+min(b,n), with all expected-work slowdowns paid. For arbitrary deterministic state-independent arrays, the same N_B precedes any weight choice, and A_n>=(B+1)^2T_n(B) for n>B proves tightness from bounded limsup A_n and true eventual A_n divergence from a positive gap. The proof does not turn that sufficient majorant into actual energy, a uniform growing-B onset or a fixed-positive weak-defect exclusion. The original fixed-weight v1 and R582 do not prospectively cover PartII.
+Both complete parts were checked.
+Conditional sigma-field nesting gives the correct energy and kernel-inclusion direction.
+The persistent distinct sign components produce an odd centered full-word test of positive, possibly very small complete variance, independent of the weights.
+Positivity bounds every remaining energy by that variance; choosing fixed B before n proves both gap limits.
+Unbounded fixed support supplies the exact T_(n-1) full-refresh minorization at each finite n.
+The actual complex midpoint bound is min(b,n)^2 and the full coordinate cost is n+min(b,n), with all expected-work slowdowns paid.
+For arbitrary deterministic state-independent arrays, the same N_B precedes any weight choice, and A_n>=(B+1)^2T_n(B) for n>B proves tightness from bounded limsup A_n and true eventual A_n divergence from a positive gap.
+The proof does not turn that sufficient majorant into actual energy, a uniform growing-B onset or a fixed-positive weak-defect exclusion.
+The original fixed-weight v1 and R436 do not prospectively cover PartII.
 This is an adequate whole agent SELF finding for actual subsequent adoption of this exact current version; it does not itself change the C decision.
 
 ## Current G426 complete SELF finding
 
 Completed2026-10-22T19:04.
 The exact selected current Yin_C_G0554_v1.md Statement and complete Argument pass at the full stated scope, with all dependencies resolved at their selected scopes.
-The full gapped outside law is a binary autocorrelation, so r_k(v)<=r_k(0); summing every weighted middle word retains the complete denominator and gives1/16. The coefficient-box argument yields unboundedly many distinct actual order elements in the two small real strips, and Minkowski finiteness forces unbounded neutral radius. All four zero steps stay in the actual core. Both selected paths, every zero-padding onset, unconditional digit probability, full p_(2k+4) conditional denominator and complete fiber16c_k(-beta^(k+4)c)c_k(c)/c_(2k+4)(0) were checked. Each true update changes the midpoint by at most4, hence the sign-pair distance is at least|Z|/2. This excludes only a uniform update cap and does not prove a non-self-sign component or disprove weighted energy. The finite-radius and fixed-path bounds use the same1/D_n pointwise law and one common hypothetical null subsequence.
+The full gapped outside law is a binary autocorrelation, so r_k(v)<=r_k(0); summing every weighted middle word retains the complete denominator and gives1/16.
+The coefficient-box argument yields unboundedly many distinct actual order elements in the two small real strips, and Minkowski finiteness forces unbounded neutral radius.
+All four zero steps stay in the actual core.
+Both selected paths, every zero-padding onset, unconditional digit probability, full p_(2k+4) conditional denominator and complete fiber16c_k(-beta^(k+4)c)c_k(c)/c_(2k+4)(0) were checked.
+Each true update changes the midpoint by at most4, hence the sign-pair distance is at least|Z|/2.
+This excludes only a uniform update cap and does not prove a non-self-sign component or disprove weighted energy.
+The finite-radius and fixed-path bounds use the same1/D_n pointwise law and one common hypothetical null subsequence.
 This is an adequate whole agent SELF finding for actual subsequent adoption of this exact current version; it does not itself change the C decision.
 
 <a id="c565-v1-summary-correction-finding"></a>

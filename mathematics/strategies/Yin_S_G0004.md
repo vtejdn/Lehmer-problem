@@ -49,14 +49,14 @@ A specific failed sufficient method constrains that method; it does not suspend 
 Its accepted algebraic consequence [C146v5](../claims/Yin_C_G0146_v5.md#decision-whole-reviewed-2026-10-18) gives numerical cubic/logarithmic Frobenius-class escape and a supplied-class gap of fixed-p order k^(-3)(log k)^(-5)(log log k)^3, with the original ratio-field, signed-norm and time expenses; automatic bounded-class coverage remains open.
 [C148](../claims/Yin_C_G0148_v1.md#decision-whole-reviewed-2026-10-15) and independently reproduced J96 settle the reciprocal single2/3 defect only in degrees2/4 and actual irreducible compositions.
 [C149](../claims/Yin_C_G0149_v1.md#decision-whole-reviewed-2026-10-15) proves universal nonvanishing of at least one specified2/3/5 mixed defect.
-The new [C150](../claims/Yin_C_G0150_v1.md#decision-whole-reviewed-2026-10-15), reviewed in R512, confines extra weighted common-ideal income to5 with125A subset D subset A, and gives actual positive/zero controls including a reciprocal zero-surplus example.
-The new [C151](../claims/Yin_C_G0151_v1.md#decision-whole-reviewed-2026-10-15), reviewed in R513, proves a uniform all-center logarithmic bound and O(d^(3/2)log d) full-norm upper expense at bounded total measure, but also E25>1 for EVERY actual input: the untransformed three-defect quadratic below-one certificates have empty coverage.
+The new [C150](../claims/Yin_C_G0150_v1.md#decision-whole-reviewed-2026-10-15), reviewed in R368, confines extra weighted common-ideal income to5 with125A subset D subset A, and gives actual positive/zero controls including a reciprocal zero-surplus example.
+The new [C151](../claims/Yin_C_G0151_v1.md#decision-whole-reviewed-2026-10-15), reviewed in R369, proves a uniform all-center logarithmic bound and O(d^(3/2)log d) full-norm upper expense at bounded total measure, but also E25>1 for EVERY actual input: the untransformed three-defect quadratic below-one certificates have empty coverage.
 This does not exclude direct logarithmic or changed-auxiliary methods.
-[C152](../claims/Yin_C_G0152_v1.md#decision-whole-reviewed-2026-10-16), reviewed in R514, now retains the original integer Frobenius-lift determinant, full commuting cyclic/trace factorization, actual affine-coset and coefficient-window return, fixed-p/bounded-column O(d+m) output-volume estimate and exact prime-factor cancellation in the stated Gram method.
-[C153v2](../claims/Yin_C_G0153_v2.md#decision-whole-reviewed-2026-10-16), reviewed in R516 after the explicitly preserved R515 arithmetic correction, gives exact pairwise radical-field exclusions and automatic two-label nonvanishing for genuine Salem inputs, with all trace phases, full norms and30m positive-completion cost.
+[C152](../claims/Yin_C_G0152_v1.md#decision-whole-reviewed-2026-10-16), reviewed in R370, now retains the original integer Frobenius-lift determinant, full commuting cyclic/trace factorization, actual affine-coset and coefficient-window return, fixed-p/bounded-column O(d+m) output-volume estimate and exact prime-factor cancellation in the stated Gram method.
+[C153v2](../claims/Yin_C_G0153_v2.md#decision-whole-reviewed-2026-10-16), reviewed in R372 after the explicitly preserved R371 arithmetic correction, gives exact pairwise radical-field exclusions and automatic two-label nonvanishing for genuine Salem inputs, with all trace phases, full norms and30m positive-completion cost.
 It gives no all-degree individual-defect or cheap logarithmic theorem.
-[C154](../claims/Yin_C_G0154_v1.md#decision-whole-reviewed-2026-10-16), reviewed in R517, gives exact full diagonal-sign determinant/coefficient-volume averages, a quarter nonzero count and fully paid original Gram/entropy/composition return; automatic coverage remains open.
-[C155](../claims/Yin_C_G0155_v1.md#decision-whole-reviewed-2026-10-16), reviewed in R518 under Yin's bounded review instruction while paused, proves the sharp abstract totally-real joint norm floor Norm_F(e^2+f^2+g^2)>=2^[F:Q] and full reciprocal norm floor2^d.
+[C154](../claims/Yin_C_G0154_v1.md#decision-whole-reviewed-2026-10-16), reviewed in [R796](../audits/reviews/Yin_R_G0796_v1.md#diagonal-sign-frobenius-whole-independent-finding), gives exact full diagonal-sign determinant/coefficient-volume averages, a quarter nonzero count and fully paid original Gram/entropy/composition return; automatic coverage remains open.
+[C155](../claims/Yin_C_G0155_v1.md#decision-whole-reviewed-2026-10-16), reviewed in R373 under Yin's bounded review instruction while paused, proves the sharp abstract totally-real joint norm floor Norm_F(e^2+f^2+g^2)>=2^[F:Q] and full reciprocal norm floor2^d.
 Its original supremum return still pays30m and has J>2; the old covariance RHS comparison supplies no new-norm transfer theorem.
 Existing C140 normalized sparse transfer, C142v2 general weak phi-capacity capture and C145 dense-kernel contact/expense results remain at their accepted scopes; all old physical versions, controls and review limits are preserved.
 Actual arithmetic coverage and a uniformly paid dense auxiliary mechanism remain unresolved.
@@ -67,7 +67,7 @@ The [current two-line continuation](Yin_S_G0001.md#ratio-and-logarithmic-frontie
 
 2026-10-18T10:45.
 S4 remains active under Yin's until-stop instruction.
-The separate complete cyclic premise [C147v5](../claims/Yin_C_G0147_v5.md#decision-whole-reviewed-2026-10-18) is accepted through R526, and its actual whole consumer [C146v5](../claims/Yin_C_G0146_v5.md#decision-whole-reviewed-2026-10-18) is accepted through [R383](../audits/reviews/Yin_R_G0383_v1.md#frobenius-loglog-whole-independent-finding).
+The separate complete cyclic premise [C147v5](../claims/Yin_C_G0147_v5.md#decision-whole-reviewed-2026-10-18) is accepted through its original R381 whole finding, and its actual whole consumer [C146v5](../claims/Yin_C_G0146_v5.md#decision-whole-reviewed-2026-10-18) is accepted through [R383](../audits/reviews/Yin_R_G0383_v1.md#frobenius-loglog-whole-independent-finding).
 Every actual ratio-field multiplicity, signed original norm, exponent cost and prior parameter family is retained.
 At fixed p the new capped supplied-class bound improves the old explicit g3 asymptotically by32(log log k)^3; it does not automatically supply a class bound.
 The next substantive question is automatic prime/class coverage under actual small TOTAL Mahler measure, distinguishing local cyclic or decomposition data from global conjugacy-class size.
@@ -110,7 +110,7 @@ Its target concerns the source absolute height, and no uniform output gap, arbit
 
 At 2026-10-18T12:45, [C166](../claims/Yin_C_G0166_v1.md#decision-whole-reviewed-2026-10-18) is adopted through [R393](../audits/reviews/Yin_R_G0393_v1.md#integral-contraction-whole-independent-finding).
 The complete varying positive symmetric Mobius family has the claimed uniform source-height obstruction under integrality, with the primitive-source and output-measure limits explicit.
-The accepted Bil97 fixed-function application is independently covered by R537; the new finite-sum U002 is under its own application review.
+The accepted Bil97 fixed-function application is independently covered by R392; the new finite-sum U002 is under its own application review.
 The [next additive inquiry](Yin_S_G0001.md#integral-contraction-and-additive-frontier-2026-10-18) changes both term count and rational weights and separates the analytic norm obstruction from the still-needed automatic integral-output existence.
 
 At 2026-10-18T13:03, the [current S1 boundary](Yin_S_G0001.md#conjugate-lattice-and-source-frontier-2026-10-18) accepts the independently reviewed Bil97-U002 application and distinguishes the newly fixed L399 author synthesis from its pending whole review.
@@ -189,13 +189,13 @@ The adopted [C105 divisor-ideal reduction and strict constant obstruction](../cl
 The adopted [C106](../claims/Yin_C_G0106_v1.md#statement) extends capture to individual three-prime supports and efficiency eight.
 Adopted [C108 v2](../claims/Yin_C_G0108_v2.md#nested-slice-continuation-statement) retains the recursion loss and p-free cancellation; [C109](../claims/Yin_C_G0109_v1.md#statement) fixes the four-prime row obstruction with actual density/efficiency escape.
 [C111](../claims/Yin_C_G0111_v1.md#statement) supplies every-optimizer rigidity, complete finite arithmetic discrimination and a generic-PSD inverse obstruction.
-The adopted [C112 K>8 fixed-efficiency construction](../claims/Yin_C_G0112_v1.md#statement), independently reviewed in R467, fixes the exact efficiency8 threshold for this row bound uniform in the common prime base, while its triple density tends to zero.
+The adopted [C112 K>8 fixed-efficiency construction](../claims/Yin_C_G0112_v1.md#statement), with the self-reviewed R348 finding, fixes the exact efficiency8 threshold for this row bound uniform in the common prime base, while its triple density tends to zero.
 The adopted [C114](../claims/Yin_C_G0114_v1.md#statement) now supplies a positive averaged good-pair/collision method and conditional capture for arbitrary fixed efficiency, while [C115](../claims/Yin_C_G0115_v1.md#statement) provides a uniform approximate reduction of nested real near-global pairs to full ideals.
-Their independent R469/R470 findings preserve every paid constant and original-input restriction.
-The adopted [C116](../claims/Yin_C_G0116_v1.md#statement), wholly independently reviewed in R471, gives the actual large-good-prime positive class, uniform subpolynomial-prime constraint near one and an eligible intermediate order-prime collision condition.
-The adopted [C118 conditioning theorem](../claims/Yin_C_G0118_v1.md#statement), independently reviewed by the noncontributor R473, proves that density increments pay cumulative original mass whenever the actual retention product is bounded below; all quotient/time/norm costs are restored.
-The adopted [C119 whole-tree theorem](../claims/Yin_C_G0119_v1.md#statement), independently whole-reviewed in R474, removes the retention hypothesis for bounded terminal remainders by paying the fixed L_N time multiplier; arbitrary real weights are allowed.
-The adopted [C121 v2 residual theorem](../claims/Yin_C_G0121_v2.md#statement), independently whole-reviewed in R477, proves exact merged phi capacities and capture when the directed relative-remainder pair cost is small, at full fixed L_K time cost.
+Their original whole findings retained in R800/R797 preserve every paid constant and original-input restriction.
+The adopted [C116](../claims/Yin_C_G0116_v1.md#statement), with its original whole finding retained in R800, gives the actual large-good-prime positive class, uniform subpolynomial-prime constraint near one and an eligible intermediate order-prime collision condition.
+The adopted [C118 conditioning theorem](../claims/Yin_C_G0118_v1.md#statement), with its original noncontributor whole finding retained in R797, proves that density increments pay cumulative original mass whenever the actual retention product is bounded below; all quotient/time/norm costs are restored.
+The adopted [C119 whole-tree theorem](../claims/Yin_C_G0119_v1.md#statement), with its original whole finding retained in R797, removes the retention hypothesis for bounded terminal remainders by paying the fixed L_N time multiplier; arbitrary real weights are allowed.
+The adopted [C121 v2 residual theorem](../claims/Yin_C_G0121_v2.md#statement), with its original v2 whole finding retained in R798, proves exact merged phi capacities and capture when the directed relative-remainder pair cost is small, at full fixed L_K time cost.
 Its controls obey phi capacity, a linear window and positive density; one shows why a global terminal mean cannot bound every ancestor conditional mean.
 The v1/v2 comparison-scope finding is preserved.
 The next question is a correct aggregate original-weight estimate or actual control of psi_K; bounded terminal-mean capture is still open.
@@ -211,9 +211,9 @@ The following three new fixed results are now selected as proved / independently
 
 | Adopted result | Established consequence and exact boundary |
 | --- | --- |
-| [C99 complete squarefree threshold model](../claims/Yin_C_G0099_v1.md#decision-organized-reviewed) | T_X<=B_Q H_X W^2 with B_Q<exp(1/2)<2 and H_X equal to the largest divisor of Q below X. Positive uniform triple density gives a positive uniform captured fraction. The SAME C96/C98 moment-extremal arrays and both actual C98 unit realizations have triple density tending to zero. Arbitrary reduced capacities and automatic near-one coverage are not covered. Whole R337 and actual R451. |
-| [C100 efficiency-two actual inventories](../claims/Yin_C_G0100_v1.md#decision-organized-reviewed) | Efficiency o/ord_o(p)<=2 forces prime-power orders and full occurring root groups. Arbitrary prime-power capacities with positive pair/triple density on X<=C0W have a uniform positive one-chain capture, with explicit all-finite constants. Actual W>=gamma*d and X<=Cd give same-exponent eta*d and L168 strict positive measure. General K>2 remains unresolved. Whole R450 and actual R452. |
-| [C101 weighted general capture](../claims/Yin_C_G0101_v1.md#decision-organized-reviewed) | The exact published GW21 statement, finite level-set transfer and residual split give H_X>=c_epsilon*delta^(2+epsilon/2)*W^2/(X L_eff), with L_eff<=1+floor(log2X). This yields d/log d at fixed parameters and a positive actual class when L_eff is uniformly bounded. It does not establish general no-loss capture or near-one coverage. Whole R453 and actual R454. |
+| [C99 complete squarefree threshold model](../claims/Yin_C_G0099_v1.md#decision-organized-reviewed) | T_X<=B_Q H_X W^2 with B_Q<exp(1/2)<2 and H_X equal to the largest divisor of Q below X. Positive uniform triple density gives a positive uniform captured fraction. The SAME C96/C98 moment-extremal arrays and both actual C98 unit realizations have triple density tending to zero. Arbitrary reduced capacities and automatic near-one coverage are not covered. Whole R337 and actual R339. |
+| [C100 efficiency-two actual inventories](../claims/Yin_C_G0100_v1.md#decision-organized-reviewed) | Efficiency o/ord_o(p)<=2 forces prime-power orders and full occurring root groups. Arbitrary prime-power capacities with positive pair/triple density on X<=C0W have a uniform positive one-chain capture, with explicit all-finite constants. Actual W>=gamma*d and X<=Cd give same-exponent eta*d and L168 strict positive measure. General K>2 remains unresolved. Whole R338 and actual R340. |
+| [C101 weighted general capture](../claims/Yin_C_G0101_v1.md#decision-organized-reviewed) | The exact published GW21 statement, finite level-set transfer and residual split give H_X>=c_epsilon*delta^(2+epsilon/2)*W^2/(X L_eff), with L_eff<=1+floor(log2X). This yields d/log d at fixed parameters and a positive actual class when L_eff is uniformly bounded. It does not establish general no-loss capture or near-one coverage. Whole R341 and actual R342. |
 
 The actual new source is [GW21-U001](../audits/literature/GW21/Yin_U001.md#gw21-u001), read and accepted at published-statement/applicability scope only.
 Its weighted project adaptation has been reviewed; the original source proof has not been completely audited.
@@ -275,9 +275,9 @@ C91 and C94 now select explicit later-scope decisions recognizing the resolved a
 
 | Adopted result | Established scope and consequence |
 | --- | --- |
-| [C96: averaged short-lcm counterfamily](../claims/Yin_C_G0096_v1.md#decision-organized-reviewed) | For squarefree Q, K_Q>=product_p[(2-p^-2)/(2-p^-1)]/2, unbounded even after any finite prime exclusion. Full integer divisor downsets realize it, with H_N=N and H_N/W->0. The UNIVERSAL averaged K in C91 is false, not merely an unbounded-row method. No positive triple density or actual near-one realization is supplied. Original R443 and actual R445. |
-| [C97: bounded common-prime-pool capture](../claims/Yin_C_G0097_v1.md#decision-organized-reviewed) | If the UNION of selected order primes has r elements, the exact integer cover gives H_X>=delta W/[2(4r+3)^r] under positive ordered pair or triple density, without enlarging X. All-pair capture improves the factor2; at r<=2 it captures all W. Actual good-prime norm income and L168 give a positive Mahler bound for that stated class. Under hypothetical near-one coverage the explicit L209 modulus forces r log(4r+3)>=(1/12)log(1/m)-(1/6)loglog(1/m)-O(1). No automatic coverage or union bound is asserted. Original R444 and actual R446. |
-| [C98: actual linear-density obstruction](../claims/Yin_C_G0098_v1.md#decision-organized-reviewed) | The third-moment product refutes T_X<=K X H_X W. Both an odd-degree unit lift and an explicitly adapted reciprocal good-2 lift retain every original root. The latter has exact all-depth binary income o(d) on its CHOSEN X=N=o(d) window, and total m=Theta(d). Its normalized triple density need not stay positive. Thus LINEAR dependence on delta is refuted; fixed-positive-density capture and other density dependences remain open. Original R447 and actual R448. |
+| [C96: averaged short-lcm counterfamily](../claims/Yin_C_G0096_v1.md#decision-organized-reviewed) | For squarefree Q, K_Q>=product_p[(2-p^-2)/(2-p^-1)]/2, unbounded even after any finite prime exclusion. Full integer divisor downsets realize it, with H_N=N and H_N/W->0. The UNIVERSAL averaged K in C91 is false, not merely an unbounded-row method. No positive triple density or actual near-one realization is supplied. Original R332 and actual R334. |
+| [C97: bounded common-prime-pool capture](../claims/Yin_C_G0097_v1.md#decision-organized-reviewed) | If the UNION of selected order primes has r elements, the exact integer cover gives H_X>=delta W/[2(4r+3)^r] under positive ordered pair or triple density, without enlarging X. All-pair capture improves the factor2; at r<=2 it captures all W. Actual good-prime norm income and L168 give a positive Mahler bound for that stated class. Under hypothetical near-one coverage the explicit L209 modulus forces r log(4r+3)>=(1/12)log(1/m)-(1/6)loglog(1/m)-O(1). No automatic coverage or union bound is asserted. Original R333 and the actual extraction retained in R796. |
+| [C98: actual linear-density obstruction](../claims/Yin_C_G0098_v1.md#decision-organized-reviewed) | The third-moment product refutes T_X<=K X H_X W. Both an odd-degree unit lift and an explicitly adapted reciprocal good-2 lift retain every original root. The latter has exact all-depth binary income o(d) on its CHOSEN X=N=o(d) window, and total m=Theta(d). Its normalized triple density need not stay positive. Thus LINEAR dependence on delta is refuted; fixed-positive-density capture and other density dependences remain open. Original R335 and actual R336. |
 
 The next principal arithmetic question is the DIRECT fixed-positive-density implication: for every fixed delta,C>0, does T_X>=delta W^3 and X<=C W force H_X>=c(delta,C)W for actual capacity arrays, without the false universal K and without the refuted linear dependence on delta?
 C91's unconditional sublinear bound remains valid.
@@ -308,11 +308,12 @@ Three restricted results are now selected as proved / independently reviewed, ea
 
 | Fixed result | Exact advance and remaining scope |
 | --- | --- |
-| [C93: seven-power energy and legal words](../claims/Yin_C_G0093_v1.md#decision-organized-reviewed) | At the SAME K0 and actual O0, the entire coefficient quotient is zero or one half class of weight5--7; every nonsigned-monomial energy is at least5/4. Positive-weight energy-one rigidity needs no lag cancellation and permits separate individual dictionaries. The specified every-stage legal constant/binary words have zero income at small cumulative cost. No half-class realization or full saturation for five to seven powers follows. Whole R437 and actual R440 cover the retained original D48. |
-| [C95: eight-power extension](../claims/Yin_C_G0095_v1.md#decision-organized-reviewed) | At the SAME K0, the necessary quotient types are0, Z/2, (Z/2)^2 and Z/4, with the last two only at exactly8 positions. The quarter type has five quarter and three half coordinates; the rank-two binary type has weights5,5,6. Energy17/16 and the positive-weight bound preserve E1 rigidity and the specified cumulative legal-word obstruction. Its family statement uses a common at-most-eight dictionary; the word restriction is local to each constant block. No quotient realization, sharp actual extremizer, nine-power or growing-rank-uniform result is proved. Whole R438 and actual R442 cover the retained original D50. |
-| [C94: short-lcm obstructions](../claims/Yin_C_G0094_v1.md#decision-organized-reviewed) | The exact N10 full-capacity downset has W26,E264, forcing any uniform K to be at least66/65. For arbitrary R, the constructed smaller-neighbor row has B_(Ra)(a)/(Ra)>=sqrt(R)/8, refuting every absolute row bound. This does not refute boundedness of the weighted average M_N/N. Tensor amplification is valid only for disjoint prime supports, and no divergent witness family is supplied. Whole R439 and actual R441 cover the retained original D49. |
+| [C93: seven-power energy and legal words](../claims/Yin_C_G0093_v1.md#decision-organized-reviewed) | At the SAME K0 and actual O0, the entire coefficient quotient is zero or one half class of weight5--7; every nonsigned-monomial energy is at least5/4. Positive-weight energy-one rigidity needs no lag cancellation and permits separate individual dictionaries. The specified every-stage legal constant/binary words have zero income at small cumulative cost. No half-class realization or full saturation for five to seven powers follows. Whole R326 and actual R329 cover the retained original D48. |
+| [C95: eight-power extension](../claims/Yin_C_G0095_v1.md#decision-organized-reviewed) | At the SAME K0, the necessary quotient types are0, Z/2, (Z/2)^2 and Z/4, with the last two only at exactly8 positions. The quarter type has five quarter and three half coordinates; the rank-two binary type has weights5,5,6. Energy17/16 and the positive-weight bound preserve E1 rigidity and the specified cumulative legal-word obstruction. Its family statement uses a common at-most-eight dictionary; the word restriction is local to each constant block. No quotient realization, sharp actual extremizer, nine-power or growing-rank-uniform result is proved. Whole R327 and actual R331 cover the retained original D50. |
+| [C94: short-lcm obstructions](../claims/Yin_C_G0094_v1.md#decision-organized-reviewed) | The exact N10 full-capacity downset has W26,E264, forcing any uniform K to be at least66/65. For arbitrary R, the constructed smaller-neighbor row has B_(Ra)(a)/(Ra)>=sqrt(R)/8, refuting every absolute row bound. This does not refute boundedness of the weighted average M_N/N. Tensor amplification is valid only for disjoint prime supports, and no divergent witness family is supplied. Whole R328 and actual R330 cover the retained original D49. |
 
-The next principal arithmetic question remains [C91's averaged bound](../claims/Yin_C_G0091_v1.md#short-pair-finite-downset-reduction): prove a finite absolute K for M_N<=K*N, or construct an actual unbounded family of those mass-normalized full-capacity downset ratios.
+At that historical checkpoint the next arithmetic question was [C91's averaged bound](../claims/Yin_C_G0091_v1.md#short-pair-finite-downset-reduction): prove a finite absolute K for M_N<=K*N, or construct an unbounded family.
+The later [C96](../claims/Yin_C_G0096_v1.md#statement) supplies that unbounded family, so this recorded question is no longer a current continuation target.
 C94 rules out trying K=1 or controlling every oriented row separately.
 A concrete next analytical inquiry is whether disjoint prime-support downsets supply strict ratios whose product diverges, or whether the actual mass averaging compensates the exceptional rows.
 The single N10 example cannot be iterated on its same primes.
@@ -349,7 +350,7 @@ This handoff records those existing decisions, without claiming a new proof revi
 | Responsible route or material | Current unfinished obligation and first continuation step |
 | --- | --- |
 | [S8: actual arithmetic coverage](Yin_S_G0008.md#registered-profile-and-integer-cost-frontier) | Prove actual same-exponent income A(n)>=eta*d at ONE n<=C*d with uniform positive eta,C, or a fully paid uniform positive complementary surplus at degree-linear actual width. L168 supplies cost control; C86 and C88 supply sufficient synchronization/score criteria. None supplies the required all-input near-one coverage. A candidate must keep the original polynomial, all roots, local depths and complete width/denominator costs. |
-| [C91: global triple-density bridge](../claims/Yin_C_G0091_v1.md#statement) | The unconditional capture is only of order d^(3/4)/sqrt(log d) in the positive-density, degree-linear regime. Establish or disprove the OPEN uniform extremal bound M_N<=K*N for the exact full-capacity divisor-downset model. The proved implication from such K to linear capture remains conditional; no actual polynomial counterexample or ordinary global-density-to-linear theorem is established. |
+| [C91: global triple-density bridge](../claims/Yin_C_G0091_v1.md#statement) | The unconditional capture is only of order d^(3/4)/sqrt(log d) in the positive-density, degree-linear regime. The uniform extremal bound M_N<=K*N was open at this pause and is now refuted by C96; it is no longer a continuation target. The proved implication from such K to linear capture remains conditional; this original C91 proof establishes neither an actual polynomial counterexample nor the later abstract capture theorem in C142 v2. |
 | [D48: seven-power candidate](../claims/Yin_C_G0093_v1.md#seven-power-entire-author-freeze) | The retained 02:28:51 author checkpoint is complete but UNREVIEWED. After explicit resumption, arrange an entire review by a noncontributor of the exact seven-power quotient, energy and specified legal-word claims, including every accepted-input and cost interface. Only then consider Claim extraction and a separate review of that actual extraction. Preserve the original contributor disclosures; half-coset existence, saturation for five to seven powers, eight-power behavior and unrestricted income are outside its asserted result. |
 | [S2](Yin_S_G0002.md#route), [S7](Yin_S_G0007.md#route): original-law dynamics | Control actual component means and centered residuals, or select a genuinely different original-law dynamics. C80 refutes the eventual-all-n positive global-gap premise for the specified six-digit kernel; C81/J93 retain only the complete finite n7--10 graph evidence. The chronological critical mean and full neutral covariance remain open. |
 | [S3](Yin_S_G0003.md#route), [L431](../ledger/Yin_L_G0431_v1.md#regularization-and-direction), [S5](Yin_S_G0005.md#route), [S6](Yin_S_G0006.md#route) | Analytic continuation still needs a correctly directed uniform integer-input lower certificate with regularization, correlation and boundary costs paid. The full weighted-return/fractional-moment estimate and an actual integer realization or basis change with neutral, companion and cover costs controlled remain open. L431 retains the self-checked baseline formulation, not an independently reviewed uniform bound. A fixed-input limit, trial upper bound or paid matrix identity alone does not discharge these obligations. |
@@ -472,12 +473,14 @@ The remaining problem is actual positive-density coverage, not that conditional 
 The genuine smaller-window radical control violates full-set pair/triple compatibility while satisfying this score; it keeps fixed positive measure.
 [C89](../claims/Yin_C_G0089_v1.md#statement) now proves AUTOMATIC four-power independence and O0 saturation at the same K0, closing the corresponding legal constant-block/binary-delay class; its historical explicit independence gate is resolved.
 [C91](../claims/Yin_C_G0091_v1.md#statement) now fixes the finite sublinear global triple-density capture and exact divisor-downset extremal reduction, with the entire original D45 retained.
-The uniform bound M_N<=K*N and the ordinary global-density-to-linear-income bridge remain OPEN; the positive linear conclusion is explicitly conditional on that bound.
-Its selected adoption uses original whole R432 and separate actual extraction R435.
+At C91's original stage, its positive linear conclusion was conditional on the then-open universal bound M_N<=K*N.
+The later [C96](../claims/Yin_C_G0096_v1.md#statement) refutes that bound, and [C142 v2](../claims/Yin_C_G0142_v2.md#statement) supplies abstract positive-density capture by a different weak-moment argument.
+Automatic positive-density coverage by actual polynomial inputs remains unresolved.
+Its selected adoption uses original whole R322 and separate actual extraction R325.
 [C90](../claims/Yin_C_G0090_v1.md#statement) now fixes the ENTIRE fixed-rank coefficient quotient: its bounded index I simultaneously clears every coefficient denominator, excluding E<1 and nontrivial complementary E1 packets on the stated independent dictionary at an explicit rank-dependent threshold.
-Its two local control/interface defects were repaired with original negative R429 and separate corrected/actual findings preserved.
+Its two local control/interface defects were repaired with original negative R320 and separate corrected/actual findings preserved.
 [C92](../claims/Yin_C_G0092_v1.md#statement) now fixes short-annihilator effective-support bounds and AUTOMATIC independence at each fixed rank, together with the actually adopted C90 quotient/packet/legal-word assembly; the entire original D47 is retained.
-Its selected adoption uses original whole R434 and separate actual extraction R436.
+Its selected adoption uses original whole R324 and the separate original [R796 extraction finding](../audits/reviews/Yin_R_G0796_v1.md#c92-annihilator-actual-extraction-finding); the later fresh C92 whole finding in that container has its own scope and date.
 The threshold remains rank-dependent, and fixed positive weights, every-stage nonzero O0 membership and cumulative width costs remain essential.
 None establishes the unrestricted gate.
 
@@ -597,11 +600,12 @@ The fixed-degree total measure grows with a, so this calibrates coefficient geom
 The original norms, exact full modulo2 period and actual costs are retained.
 This does not refute a near-one-restricted gate or a gate permitting C>1.
 
-[C22](../claims/Yin_C_G0022_v1.md#statement), adopted after [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-salem-flat-family), proves the same all-input first-window obstruction WITHIN genuine Salem inputs of actual degree6n.
+[C22](../claims/Yin_C_G0022_v1.md#statement), adopted after [the current complete finding](../audits/reviews/Yin_R_G0790_v1.md#current-salem-flat-family), proves the same all-input first-window obstruction WITHIN genuine Salem inputs of actual degree6n.
+Referenced finding relationship: self-reviewed.
 The complete local phase/Mann/factor proof, all original norms3 and3-d, exact full period and same-input half-energy packet are retained.
 It does not refute near-one restrictions or C>1 windows, and the old stronger all-odd modular bounds are credited.
 
-[C23](../claims/Yin_C_G0023_v1.md#statement), adopted after [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-effective-capacity) with the original whole freeze separately in [R226](../audits/reviews/Yin_R_G0226_v1.md#effective-capacity-whole-author-finding), gives a fully explicit original degree/coefficient-height modulus for C18's capacity and scalar determinant rate.
+[C23](../claims/Yin_C_G0023_v1.md#statement), adopted after [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-effective-capacity) with the original whole freeze separately in [R226](../audits/reviews/Yin_R_G0226_v1.md#effective-capacity-whole-author-finding), gives a fully explicit original degree/coefficient-height modulus for C18's capacity and scalar determinant rate.
 Its new local coefficient-only escape is proved with all separation/conditioning costs, at a potentially enormous window; no universal linear window, q/M bound or packet algorithm follows.
 
 [C24](../claims/Yin_C_G0024_v1.md#statement), adopted after [R228](../audits/reviews/Yin_R_G0228_v1.md#c24-lehmer-finite-family-extraction-finding), proves exact minimum1 on ONLY the declared original-Lehmer13197atom family.
@@ -609,18 +613,18 @@ A separately authored predeclared exact native reconstruction checks every atom/
 Original alias/known-structure restoration and missing historical byte authentication remain explicit.
 This finite certificate excludes neither full-domain E_10<1 nor all denominator9 representatives.
 
-[C25](../claims/Yin_C_G0025_v1.md#statement), adopted after [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-flat-denominator), gives the exact first-window INDIVIDUAL minimum for ALL flat integer-coefficient representatives with denominator dividing q.
+[C25](../claims/Yin_C_G0025_v1.md#statement), adopted after [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-flat-denominator), gives the exact first-window INDIVIDUAL minimum for ALL flat integer-coefficient representatives with denominator dividing q.
 EVERY below-one first-window packet requires actual common q>n/2, where n is original nonzero support.
 This gives growing denominator cost on dense families and original-Lehmer q>=5 with8/9<=E_10<1.
 Individual sufficiency is the old L237 witness and does not supply complementary cancellation or a final-weight bound.
 
-[C26](../claims/Yin_C_G0026_v1.md#statement), adopted after [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-strict-reciprocal-flat), gives a rational trace-Toeplitz certificate on EVERY real representative of every actual nonzero integer residue for RECIPROCAL flat inputs at the first window.
+[C26](../claims/Yin_C_G0026_v1.md#statement), adopted after [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-strict-reciprocal-flat), gives a rational trace-Toeplitz certificate on EVERY real representative of every actual nonzero integer residue for RECIPROCAL flat inputs at the first window.
 Its old shortest-vector floor is strictly improved with the whole real kernel price paid.
 The exact hand-derived original-Lehmer matrix gives E_10>=451609/508032>8/9, while C17 gives E_10<1.
 This is an ENERGY LOWER bound, not a Mahler lower estimate.
 The new strict theorem is not applied to nonreciprocal C21.
 
-[C27](../claims/Yin_C_G0027_v1.md#statement), adopted after [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-near-one-denominator), couples the OLD accepted DS17 fixed-support gap/support escape with C25: along a HYPOTHETICAL flat positive-total-m sequence tending to0, EVERY below-one FIRST-window packet has q tending to infinity.
+[C27](../claims/Yin_C_G0027_v1.md#statement), adopted after [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-near-one-denominator), couples the OLD accepted DS17 fixed-support gap/support escape with C25: along a HYPOTHETICAL flat positive-total-m sequence tending to0, EVERY below-one FIRST-window packet has q tending to infinity.
 Fixed q<=Q implies the restricted old gap eta_(2Q-1).
 The exact source premise and uninspected foundational proof limits remain, with no numerical eta or general coefficient/window extension.
 
@@ -631,17 +635,17 @@ It requires no flatness or first-window restriction.
 The chosen O_0/sigma-stable argument is a sufficient scope, not a necessity theorem for arbitrary orders.
 Same-q cancellation creates no invented logarithmic denominator loss.
 
-[C29](../claims/Yin_C_G0029_v1.md#statement), adopted after [R231's whole proof](../audits/reviews/Yin_R_G0231_v1.md#flat-covariance-whole-author-finding) and [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-flat-covariance), proves that diagonal coefficient covariance has EXACT restricted minimum1 on every actual flat first window.
+[C29](../claims/Yin_C_G0029_v1.md#statement), adopted after [R231's whole proof](../audits/reviews/Yin_R_G0231_v1.md#flat-covariance-whole-author-finding) and [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-flat-covariance), proves that diagonal coefficient covariance has EXACT restricted minimum1 on every actual flat first window.
 A below-one packet must spend signed off-diagonal mass at least(n-1)(1-E), ordered over the original support.
 Full complementarity imposes lag sums, so those entries must cancel rather than vanish individually.
 The wider dense example has only a proved upper bound1/2; no full-capacity lower bound or sparse/wider generalization is inferred.
 
-[C30](../claims/Yin_C_G0030_v1.md#statement), adopted after [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-lorentzian-fiber), identifies C24's finite dual with a concretely proved integral E10 Lorentzian lattice and an explicit negative actual integer fiber.
+[C30](../claims/Yin_C_G0030_v1.md#statement), adopted after [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-lorentzian-fiber), identifies C24's finite dual with a concretely proved integral E10 Lorentzian lattice and an explicit negative actual integer fiber.
 The GENERAL rational annihilating Toeplitz boundary is not PSD.
 This explains the finite-only floor and changes the residue oracle; the explicit lattice identity does not identify a particular Coxeter word, give positive packet weights or price physical coefficients.
 McM11 naming-only scope and the OLD degree8negative residue's uncomputed field norm remain intact.
 
-[C31](../claims/Yin_C_G0031_v1.md#statement), adopted after the separate [R232/J90 exact native reconstruction](../audits/reviews/Yin_R_G0232_v1.md#lehmer-primal-native-certificate-finding) and [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-lehmer-complete-packet), COMPLETES the previously proposed original-Lehmer calibration.
+[C31](../claims/Yin_C_G0031_v1.md#statement), adopted after the separate [R232/J90 exact native reconstruction](../audits/reviews/Yin_R_G0232_v1.md#lehmer-primal-native-certificate-finding) and [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-lehmer-complete-packet), COMPLETES the previously proposed original-Lehmer calibration.
 Its ten positive rational labels give E680/681,q9,FINAL M2043 and actualT10, full signed norms first9+1/lastNEW R_star-269 and copied product-269*9^20430.
 The exact capacity bracket is451609/508032<=E_10<=680/681<1.
 The changed classes, not a newly required scalar denominator, escape the old ternary/energy4cap.
@@ -667,7 +671,7 @@ The separate C_h/(d*delta) Gram-DIMENSION gate is removed.
 Tiny positivity margins still affect arithmetic precision/coefficients/denominators; no uniform N or complexity bound follows.
 MSEDSV22/PP08/DR10 retain selected Read attribution, original-source/edition limits and no novelty claim.
 
-[C35](../claims/Yin_C_G0035_v1.md#statement), adopted after [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-damping-budget), isolates the exact remaining OLD coefficient budget mathcal B=H_P^2||h_0||_1 at E_0=1/2.
+[C35](../claims/Yin_C_G0035_v1.md#statement), adopted after [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-damping-budget), isolates the exact remaining OLD coefficient budget mathcal B=H_P^2||h_0||_1 at E_0=1/2.
 Its cubic identity gives max_circleG<=2+mathcal B^(1/3), while a fixed chosen C11 cone sequence has mathcal B growing at least asr^(6n), even after ALL independent monomial twists.
 This is a choice-path obstruction, not failure of existential near-one selection.
 The quadratic unbounded-height control has mathcal B<=125/64 and N4, so height alone does not force budget failure.
@@ -686,7 +690,7 @@ Every actual q/FINAL M_w/content/full norm/copy/width remains.
 This removes the old H_P^2K_0 sufficient test from this alternative construction, but proves no uniform C availability or converse bound for that old coefficient budget.
 The selection class is ALL supplied integral profiles; C11/C13 provide examples, not a seed-only restriction.
 
-[C38](../claims/Yin_C_G0038_v1.md#statement), adopted after [the current complete isolated finding](../audits/reviews/Yin_R_G0790_v1.md#current-integer-coherence), gives an ALL-profile necessary energy price on ACTUAL genuine-Salem inputs.
+[C38](../claims/Yin_C_G0038_v1.md#statement), adopted after [the current complete SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-integer-coherence), gives an ALL-profile necessary energy price on ACTUAL genuine-Salem inputs.
 Integer coefficients and complete circle coherence imply maxG>=A>1+1/(2delta_P) for EACH finite half-profile, irrespective of heights, weights and norm inventory.
 Exact L229 and optional accepted house interfaces make delta_P tend to0 only on the stated hypothetical near-one domain.
 This controls the INITIAL coefficient mean as well as maximum; it is not a logarithmic/FK divergence theorem.
@@ -874,7 +878,7 @@ The prime cutoff is input-dependent, and no centered-column origin or common cyc
 L237's all-input positive scalar margin and every earlier arithmetic scope remain established.
 
 The complete current [C480 rank-two sextic theorem](../claims/Yin_C_G0480_v1.md#statement) is adopted at2026-10-22T00:06 with [R697 whole independent coverage](../audits/reviews/Yin_R_G0697_v1.md#c484-whole-independent-finding), including the entire integer-exponent orbit, primitive-power cycle, full leading/root/Mahler costs and complete norm-H short-energy classification.
-[R691 whole SELF](../audits/reviews/Yin_R_G0691_v1.md#rank-two-sextic-whole-self-finding) and the original author10:30 SELF remain SELF; the [entire original R697 finding](../audits/reviews/Yin_R_G0697_v1.md#l269-and-r168) remains historically UNKNOWN.
+[R691 whole SELF](../audits/reviews/Yin_R_G0691_v1.md#rank-two-sextic-whole-self-finding) and the original author10:30 SELF remain SELF; the [entire original R168 finding retained in R697](../audits/reviews/Yin_R_G0697_v1.md#l269-and-r168) remains historically UNKNOWN.
 The new R697 whole inspection does not reconstruct the old context or change the fixed L269 inputs, dated source/native records or near-one limits below.
 
 **Earlier adopted rank-two scope, 2026-10-10T02:37.**
@@ -1103,7 +1107,7 @@ These are full-depth bounds for the selected contribution, not upper bounds for 
 
 [C504](../claims/Yin_C_G0504_v1.md#growing-residue-fixed-scope) retains the broader mass-only p,F range and its factor-complexity and weighted prime-mass consequences.
 Its [actual current whole finding](../audits/reviews/Yin_R_G0727_v1.md#current-growing-residue-whole-independent-finding) is independently reviewed: initial inspection12:20, complete historical/source comparison12:28, publication12:47 and real current adoption12:51.
-The earlier R860 whole SELF10:07 and C504 adoption10:08 retain their actual scope; the [preserved original R727:32 account](../audits/reviews/Yin_R_G0727_v1.md#original-growing-residue-review-account) remains UNKNOWN, separately from [original author SELF](../audits/reviews/Yin_R_G0727_v1.md#growing-residue-original-author-check-finding) and exact Pri11/Dim19 statement/application depth.
+The earlier R713 whole SELF10:07 and C504 adoption10:08 retain their actual scope; the [preserved original R727:32 account](../audits/reviews/Yin_R_G0727_v1.md#original-growing-residue-review-account) remains UNKNOWN, separately from [original author SELF](../audits/reviews/Yin_R_G0727_v1.md#growing-residue-original-author-check-finding) and exact Pri11/Dim19 statement/application depth.
 The complete [C491 theorem](../claims/Yin_C_G0491_v1.md#local-rigidity-near-one-mass-fixed-scope) retains the arbitrary-input fixed-p,F condition and the separate minimal-Frobenius local-order, all-lattice and higher-layer theorem.
 Its current [R703 whole check](../audits/reviews/Yin_R_G0703_v1.md#current-local-rigidity-mass-whole-finding) is SELF; original [R104 whole](../audits/reviews/Yin_R_G0104_v1.md#minimal-frobenius-local-complete-independent-review) remains UNKNOWN, separately from original complete author SELF and its precise source scope.
 All reduced-factor multiplicities, actual ramification costs, index primes and powered-degree drops remain accounted for; the accepted external inputs keep their previous scopes.
@@ -1121,7 +1125,7 @@ Higher-depth, selected-root, same-F multiprime, nonlinear/signed and direct same
 All eight routes remain active and the unrestricted Task remains unresolved.
 
 The current complete unshifted all-exterior pressure home is [C503](../claims/Yin_C_G0503_v1.md#statement), with its [entire current SELF](../audits/reviews/Yin_R_G0712_v2.md#full-expanding-whole-self-finding); the distinct one-expanding and analytic/actual controls are complete in [C502](../claims/Yin_C_G0502_v1.md#statement).
-The original R175 frozen-proof finding retains its known independent arrangement; the [original R130 whole](../audits/reviews/Yin_R_G0130_v1.md#full-expanding-gaussian-complete-independent-review) remains UNKNOWN at the unestablished initial-payload/order boundary, and the dated scope below keeps its actual original L inputs.
+The original R129 frozen-proof finding retains its known independent arrangement; the [original R130 whole](../audits/reviews/Yin_R_G0130_v1.md#full-expanding-gaussian-complete-independent-review) remains UNKNOWN at the unestablished initial-payload/order boundary, and the dated scope below keeps its actual original L inputs.
 
 **Earlier next-test scope, retained from2026-10-10T03:23.**
 The changed continuation question starts from [L273's complete nonunit capacity and full-cost controls](../ledger/Yin_L_G0273_v1.md#nonunit-trace-capacity-fixed-scope): determine whether actual total m(P) tending to zero forces a new joint restriction on the trace-order norm form, its circle-energy metric and primitive leading expense, or permits a useful nonunit/separated-window construction after ALL these costs.
@@ -1243,7 +1247,7 @@ The dated L12 adoption and source-reading facts below retain their original inpu
 ## Evidence and changes
 
 - **2026-10-13T04:01 -- Adopted resumed-round results and preserved originals.**
-  Root coordinates exact C93/C94/C95 adoption using original whole R437/R439/R438 and distinct actual extraction R440/R441/R442 respectively.
+  Root coordinates exact C93/C94/C95 adoption using original whole R326/R328/R327 and distinct actual extraction R329/R330/R331 respectively.
   Entire original D48/D49/D50 bodies and all historical/source/failure/freeze scopes are retained in the corresponding Claims; exact consumers moved before redundant draft retirement.
   Route priorities remain unchanged.
   The [current continuation](#resumed-frontier-2026-10-13) retains the unresolved averaged arithmetic and original-input coverage obligations.
@@ -2030,7 +2034,7 @@ All eight strategies remain active; no enlarged native scan is selected.
 Current complete higher-Smith home, 2026-10-22T04:58.
 [C518](../claims/Yin_C_G0518_v1.md#statement) now owns the entire threshold/finite-integral/capacity/compatible-token proof and full reciprocal countercontrol.
 Its [actual whole SELF](../audits/reviews/Yin_R_G0729_v1.md#complete-higher-smith-whole-self-finding) completed12:53 and the real current C adoption occurred12:54; every original depth factor and same-exponent expense remains.
-The original R56123:50 whole retains its complete mathematical finding but its extra initial development context/order is UNKNOWN; the dated23:53 adoption below keeps its actual old inputs and is not replaced by this later review.
+The original R415 23:50 whole retains its complete mathematical finding but its extra initial development context/order is UNKNOWN; the dated23:53 adoption below keeps its actual old inputs and is not replaced by this later review.
 This maintenance supplies no automatic short-density premise, new numerical run or research execution.
 
 <a id="higher-smith-adoption-2026-10-18"></a>
@@ -2381,7 +2385,7 @@ No further research or computation is selected; resumption requires a new explic
 
 2026-10-23T15:13.
 Disposition active -> active under the unchanged Task contract.
-Use [C603's adopted same-input coefficient theorem](../claims/Yin_C_G0603_v1.md#decision-whole-reviewed-2026-10-23) and [C605's adopted unreduced-defect/multiplier theorem](../claims/Yin_C_G0605_v1.md#decision-whole-reviewed-2026-10-23), with their actual R967/R968 whole findings.
+Use [C603's adopted same-input coefficient theorem](../claims/Yin_C_G0603_v1.md#decision-whole-reviewed-2026-10-23) and [C605's adopted unreduced-defect/multiplier theorem](../claims/Yin_C_G0605_v1.md#decision-whole-reviewed-2026-10-23), with their actual R806/R807 whole findings.
 The first computes a genuine error of the SAME monic T, without supplying a full-gate seed or contradiction.
 The second proves primitivity and a real exterior H35 root and gives a sufficient sparse-multiple class, without constructing an actual full-residual multiplier.
 Keep the exact actual coefficient and numerator construction questions separate from arbitrary triples and torsion calibrations.
@@ -2756,7 +2760,7 @@ The generic component theorem requires no phi-root or minimum base multiplicity;
 The changed actual initial powers, complete quarter/source-jet calculations and eleven-stage replay produce a repaired both8 source and actual SAME-degree both256 for original q>=2^31, with derivative q/2^23 and next256 error power q/2^31.
 The original C691 h_b>361a pays the new source degrees without extra support, and all exact degree, maximal-q, binary canonical gap and separate synthetic costs remain unchanged.
 The adopted GLOBAL frontier remains256; the new seventeen-bit assertion is confined to the complete non-phi components.
-The two-jet lowest512 proofs and their updated finite assembly remain author candidates in [D1](../drafts/Yin_D_G0001.md#two-earlier-source-jets-for-next-low-five-twelve), with the exact downstream audit in [D5](../drafts/Yin_D_G0005.md#two-jet-downstream-five-twelve-audit).
+The two-jet lowest512 proofs and their updated finite assembly were author candidates at this stage; their later complete fixed account is [C730](../claims/Yin_C_G0730_v1.md#two-earlier-source-jets-for-the-next-low512-conditions), with the original conditional downstream audit retained in [D5](../drafts/Yin_D_G0005.md#two-jet-downstream-five-twelve-audit).
 
 Update 2026-10-25T18:15 UTC.
 [C730](../claims/Yin_C_G0730_v1.md#decision-whole-reviewed-2026-10-25), through [fresh independent whole R951](../audits/reviews/Yin_R_G0951_v1.md#whole-review-pass), proves actual SAME-degree simultaneous512 for every original q>=2^37, after first512/X256 at q>=2^35.
@@ -2882,7 +2886,7 @@ Consequently neither the full reducible product nor its natural core currently s
 The next comparison must use actual factor-compatible residuals or a new height/Mahler argument; the original unrestricted Task remains unresolved.
 
 Update 2026-10-25T21:19 UTC.
-The [direct C747 application to C786](../drafts/Yin_D_G0001.md#arbitrary-finite-precision-salem-specialization) supplies an irreducible Salem representative for each separately fixed sign and every finite precisionN, retaining nonzero canonical G modulo2 in the same full degree.
+The [direct C711 application to C748](../drafts/Yin_D_G0001.md#arbitrary-finite-precision-salem-specialization) supplies an irreducible Salem representative for each separately fixed sign and every finite precisionN, retaining nonzero canonical G modulo2 in the same full degree.
 This uses the already adopted arbitrary-coefficient-class theorem at J=max(N,4), modulus2^(J+1), rather than extracting a factor of C748's reducible representative or transferring its core precision.
 Its explicit exterior root satisfies beta>(3*2^J-2)d+1, so its full Mahler measure is positive and large; the same actual representative has F(T)(tau)<-(7/1600)tau^(10d)<0 by C711 SL15.
 Finite precision and irreducibility are therefore jointly realizable by this existing mechanism, while its measured cost and exact first-residual failure leave the small-Mahler and characteristic-zero obligations unresolved.
@@ -3029,15 +3033,15 @@ Second residual modulo4 for one chosen sign, actual height1 correction feasibili
 ## Retained next mathematical obligations
 
 [Adopted C774](../claims/Yin_C_G0774_v1.md#decision-whole-reviewed-2026-10-26), through [independent whole R994](../audits/reviews/Yin_R_G0994_v1.md#whole-integrated-height-one-finding), now gives ACTUAL height1 outputs with full F modulo4 and one separately selected X sign modulo4 for every original source and s, with Gbar nonzero and the opposite X of exact coefficient valuation1.
-Its exact C815/C816 same-input assembly retains all original source, degree, multiplicity and supported-sign costs; each sign has at least2^(n_free-7D) passing outputs, and their disjoint union has size at most2^(M-r).
-Exactly2^(M-r) target outputs admit unrestricted4W repair, by adopted C812/C816; that count is not identified with the uncorrected passing count.
+Its exact C772/C773 same-input assembly retains all original source, degree, multiplicity and supported-sign costs; each sign has at least2^(n_free-7D) passing outputs, and their disjoint union has size at most2^(M-r).
+Exactly2^(M-r) target outputs admit unrestricted4W repair, by adopted C770/C773; that count is not identified with the uncorrected passing count.
 The bounded7D-flip representatives have fixed-source positive lower and finite upper total measures, while every full output has exact coefficient weight QN/2 and circle supremum at least sqrt(QN/2).
 The outputs remain reducible, and the equal-Mahler core still fails its OWN second first bit; pure dyadic raising supplies no precision gain or nearzero measure.
 [Adopted C771](../claims/Yin_C_G0771_v1.md#decision-whole-reviewed-2026-10-26) rules out raw-flip growth as a small-measure shortcut through actual bounded-transition kernel intervals.
 [Adopted C775](../claims/Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26), through [independent whole R995](../audits/reviews/Yin_R_G0995_v1.md#whole-periodic-comb-finding), gives actual target combs with nu/N tending to2 but bounded step-two energy and a fixed positive gap; bounded collections of arbitrary available periods retain the mixed-difference gap.
 These are C767 targets, not an asserted subset of C774's selected-sign second-four solutions; their main consequence is the need for logarithmic control beyond integer coefficient energy.
 [Adopted C778](../claims/Yin_C_G0778_v1.md#decision-whole-reviewed-2026-10-26), through [independent whole R998](../audits/reviews/Yin_R_G0998_v1.md#whole-global-first-eight-finding), strengthens these actual original-source outputs to global F8/selected-X4, with the same count bounds and bounded representatives.
-Its C820 local preparation, genuine supported realization, modulo-eight canonical comparison and all-nonphi detection retain the original costs.
+Its C777 local preparation, genuine supported realization, modulo-eight canonical comparison and all-nonphi detection retain the original costs.
 [Adopted C781](../claims/Yin_C_G0781_v1.md#decision-whole-reviewed-2026-10-26), through [independent whole R1003](../audits/reviews/Yin_R_G1003_v1.md#whole-primitive-second-eight-finding), proves automatic X8 on every full nonphi component of every original C767 target and the complete nonsquare phi-quarter formula.
 An actual selected-sign seed admits coefficient8 repair exactly when its phi quarter is divisible by phi^(4A) and the cancelled class has zero derivative modulo phi^(3A); conditional on that exact test, the same original7D bits give genuine height-one F8/selected-X8 outputs with unchanged costs.
 The complete phi test is evaluated and attained at the actual C799 source in [adopted C801](../claims/Yin_C_G0801_v1.md#decision-whole-reviewed-2026-10-26), retaining its precise individual-seed and genuine-sign scopes.
@@ -3243,7 +3247,7 @@ The [changed arithmetic transfer](../claims/Yin_C_G0848_v1.md#original-arithmeti
 More than N_q distinct supplied integral shifts for the same H and original window guarantee one good shift, even if their signs differ; counting the two signs at one shift twice is invalid.
 The [lattice condition](../claims/Yin_C_G0848_v1.md#lattice-support-noncollision), support(H) contained in gZ with g>J and gcd(n,g)=1, is another sufficient way to certify a good shift without an n/k bound.
 The four-term comparison class is already covered by C93, and the ten-term presentation has the actual eight-term C95 alternative (x^g-1)F_g/3 of energy8/9 and span11g+1<2d; neither is new arithmetic class coverage beyond the older certificates.
-R440/R442 retain their self-reviewed input relationships, while R1068 independently checks C848's changed uses at those accepted scopes.
+R329/R331 retain their self-reviewed input relationships, while R1068 independently checks C848's changed uses at those accepted scopes.
 The remaining obligation is actual short integral-shift availability for the intended original inputs; Bad(H) is not minimal, an excluded shift need not fail after coefficient cancellation, and no varying-q uniformity, practical enumeration bound or unrestricted Lehmer conclusion follows.
 
 <a id="fixed-bivariate-template-frontier"></a>

@@ -80,8 +80,6 @@ The recorded review description was `under review`.
 | dependency | [Zero-compatible root error](../ledger/Yin_L_G0358_v1.md#zero-compatible-root-error) | Complete scalar error bound at the original degree d and actual M(P), including circle zeros. |
 | dependency | [Scalar Haar baseline](../ledger/Yin_L_G0431_v1.md#regularization-and-direction) | Natural logarithm, Haar probability, positive-weight and regularization normalization; no new source-proof or whole-baseline review claim. |
 
-<a id="argument"></a>
-
 ### Decision whole-reviewed-2026-10-20
 
 | Field | Value |
@@ -120,6 +118,7 @@ The recorded review description was `under review`.
 | review | [Exact review](../audits/reviews/Yin_R_G0444_v1.md#positive-completion-whole-independent-finding) | Complete original formulas16--21 and Q1--Q7, every direct input and scope, with actual nonblind author/reviewer relationships disclosed. |
 | review | [Exact review](../audits/reviews/Yin_R_G0446_v1.md#positive-completion-claim-extraction-finding) | Exact registered statement, complete owned proof, three direct dependencies and unchanged extraction; includes the read-back scope-only wording clarification. |
 
+<a id="argument"></a>
 ## Complete retained proof
 
 The complete necessary author argument from [L436](../ledger/Yin_L_G0436_v1.md) follows with unchanged mathematical content.

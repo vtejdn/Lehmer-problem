@@ -196,7 +196,7 @@ The review supports no characteristic-zero residual identity, Mahler/height esti
 The direct fixed mathematical inputs were the target and C675, C689, C713, C715, C714, C691; their entire mathematical statements and arguments were read.
 C712, C706, C707, C710 and C697 were additionally read in full mathematical scope for the assembled interfaces described above.
 The adopted underlying constructions and source results remain accepted inputs at those exact fixed scopes.
-This review does not recursively re-audit every earlier source theorem or all deeper C733/C736/C744 and C691 dependencies.
+This review does not confer a new recursive whole review on the earlier C694 full-primary, C697 coefficient-covariance, C710 first-sixteenth and C691 source dependencies.
 No R text was used as a substitute for checking the target or its actual assembly, and no target R finding was read.
 No mutable draft was used as evidence.
 

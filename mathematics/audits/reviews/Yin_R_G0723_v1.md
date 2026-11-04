@@ -58,7 +58,7 @@ Summing actual original indices proves the all-time inequality with the ORIGINAL
 It uses no small-measure hypothesis or uniform bound on the captured exceptional depth.
 Replacing the center by log n would lose the proved growing-input conclusion and is not done.
 
-The actual-height expense uses exactly the increasing C508 modulus with c=log2/4,h0=c exp(-20),b=max{h,sqrt(h/c)log sqrt(c/h)} and Omega=19b^(1/6).
+The actual-height expense uses exactly the increasing C504 modulus with c=log2/4,h0=c exp(-20),b=max{h,sqrt(h/c)log sqrt(c/h)} and Omega=19b^(1/6).
 Its domain is0<h=nm/d<=h0.
 The original norm-tower identity keeps the distinct powered degree and its multiplicity in the original degree-d norm.
 The accepted Pri11 N>=55 compact-Lipschitz and retained Dim19v1 house boundaries remain as proved in that complete input.
@@ -67,7 +67,7 @@ No source supplies a new full-depth theorem here.
 Minimality gives p^k_f<=p*d/f, including k_f=0, hence p^r_f<=p^2*d/f and N_f*m/d<=m*p^2*(p^f-1)/f<=H2.
 Each captured B is bounded by its OWN full actual norm because all omitted roots contribute nonnegatively.
 The expense theorem is applied at THOSE affordable capture times.
-At most F degree classes therefore give F*Omega(H2), while C508's separate mass bound at H1 gives exactly F*Omega(H1)/log p.
+At most F degree classes therefore give F*Omega(H2), while C504's separate mass bound at H1 gives exactly F*Omega(H1)/log p.
 H1<=H2<=h0 justifies both applications and monotonicity.
 Combining them with the centered tail gives every inequality8--9 for ALL target n, regardless of the target powered height.
 This does not identify the distinct N_f or add their incomes as one cyclic norm.
@@ -101,16 +101,16 @@ Their product gives v(alpha^2-1)=1; alpha^2+1=4alpha gives the next exceptional 
 Both original roots contribute3, so B_(2,1)=6 at N_f=4,k_f=1,r_f=2.
 The exact stable-slope proof handles later squarings.
 This verifies why the extra capture step is needed, without a new control family, numerical run or false small-height application.
-Its m=log(2+sqrt3) stays fixed outside the required H2 range, and its singleton/radical facts remain in the separate complete C497 input.
+Its m=log(2+sqrt3) stays fixed outside the required H2 range, and its singleton/radical facts remain in the separate complete C493 input.
 
 ## Actual sources, old review and contribution limits
 
 Pri11-U001 and the existing Smy08 unit's retained Dim19v1 house passage suffice at their exact accepted statement/applicability scopes.
-The original R112 records those fixed interfaces and their original-proof limits, not a new source acquisition, later-version comparison or external source proof.
-The broader C495 minimal-Frobenius and C454 layer-normalization materials serve only their explicit reuse-screen boundaries; no extra class hypothesis, cross-time addition or saturation is inferred.
+The original R109 records those fixed interfaces and their original-proof limits, not a new source acquisition, later-version comparison or external source proof.
+The broader C491 minimal-Frobenius and C450 layer-normalization materials serve only their explicit reuse-screen boundaries; no extra class hypothesis, cross-time addition or saturation is inferred.
 No new U, PDF inspection, native program, checker, numerical certificate or material fingerprint was needed for this target.
 
-The entire original R112 whole remains at its actual frozen L213 Sections1--5/equations1--16 and04:51 completion, no-defect verdict and exact source/contribution facts.
+The entire original R109 whole remains at its actual frozen L213 Sections1--5/equations1--16 and04:51 completion, no-defect verdict and exact source/contribution facts.
 It identifies a separate noncontributor and frozen-proof assignment, but does not establish the contents or initial order of any additional mathematical context.
 Its whole therefore remains UNKNOWN without claiming substantive sharing actually occurred or inferring SELF merely from a shared-context word or upstream role.
 The author's complete original derivation/listed checks are retained separately as SELF.

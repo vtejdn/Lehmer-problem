@@ -112,7 +112,7 @@ Complete reconstructible arrays and the full-integer verification remain in the 
 The next explicitly bounded calculation concerns n_s=3*2^s-5, s>=6, and T_s=R_0 F_480 B_(n_s), where R_0=(X-2)^2 F_15^2 F_3^2 F_5^3.
 It computes ONLY the four factor restrictions corresponding to n modulo960 equal to187,379,763,571, with trace quotient degree64 in every case.
 No unbounded-degree T_s is expanded, and these data are not full original remainder arrays.
-The producer [odd_support_family.py](odd_support_family.py) uses modular Chebyshev recurrences in Z/4[X]/F_480 and the true C773 cofactor weights of the ORIGINAL canonical system.
+The producer [odd_support_family.py](odd_support_family.py) uses modular Chebyshev recurrences in Z/4[X]/F_480 and the true C736 FT1/FT5 cofactor weights of the ORIGINAL canonical system.
 The verification [verify_odd_support_family.py](verify_odd_support_family.py) imports no producer code and instead computes exact Laurent kernel sums and divided canonical values in Z[z]/Phi_480, of degree128.
 The original four-case scripts, the degree127 full-remainder test and these four local restrictions have distinct output files and scopes.
 Run from the repository root:
@@ -193,7 +193,7 @@ Both programs have completed, with all factor inputs, three actual theta_p(J) ar
 The exact integer restriction has coefficient valuation1 for F and0 for a,b,c,G,X_plus,X_minus.
 The proved GR6 equivalence gives the SAME original global conclusions v_2(F)=1 and v_2(X_plus)=v_2(X_minus)=v_2(G)=0, so the sole paired move fails both global gates and retains nonzero binary G.
 The f_15 orders of a,b,c,G,X_plus,X_minus are4,3,2,6,8,8, with full exponent18.
-The even first residual's half has f_15 order6 and initial unit X^3; integer linearity of rem_J transfers that half information to the original F, giving the actual root-value11/8 as detailed in D43 GR10.
+The even first residual's half has f_15 order6 and initial unit X^3; integer linearity of rem_J transfers that half information to the original F, giving the actual root-value11/8 as detailed in D6 GR10.
 No full degree357 input was expanded and no other move was tested.
 They are author implementations and self-checks, not independent native evidence; the analytic reduction and this retained finite result have no new adopted assessment or fresh whole review.
 
@@ -275,7 +275,7 @@ The exact generated subgroup has odd order3 and principal relative-order-two ran
 This is not a claim that the principal part is an elementary Abelian group.
 The target kappa_old^2, bit encoding19232663035708480, is NOT a member.
 After the recorded position4 normalization, the remaining unit is1+X^2 f_15^3 modulo f_15^4, with first missing position10; its full bit encoding is33705785055175302.
-The complete closed-basis argument in D43 DP10--DP12 makes this a genuine separating graded certificate, not a failed test against an incomplete linear span.
+The complete closed-basis argument in D6 DP10--DP12 makes this a genuine separating graded certificate, not a failed test against an incomplete linear span.
 Via the actual DP8 criterion and complete period, every allowed doubled-profile Pi_n product fails F4; the analytic binary-primary argument makes its global coefficient valuation exactly1.
 No actual cofactor candidate, further doubled profile or second-residual solution was enumerated or tested.
 These are different author implementations and self-checks, not independent native review or an adopted mathematical result.
@@ -307,7 +307,7 @@ The retained witness has31 nonzero B/Gamma terms at19 indices, all exponents0 th
 Every complete cofactor/full cyclotomic multiplicity and its degree cost has been checked by different divisor/totient arithmetic.
 Its full binary radical degree is801 and maximal global binary Frobenius exponent1; in particular its f_11 exponent227 is odd.
 The [tracked one-word input](inputs/enlarged_doubled_positive_word.json) preserves the exact selected mathematical word and all counts independently of ignored output availability.
-The complete table and original first-gate consequence are in D43 EG7--EG8.
+The complete table and original first-gate consequence are in D6 EG7--EG8.
 This establishes an author-checked ORIGINAL F4 witness through the exact criterion; Gbar is nonzero, but the second residual is NOT part of this subgroup test.
 The two implementations remain author self-checks, not independent native review or an adopted joint result.
 No actual cofactor candidates, higher profile or second-residual solutions were enumerated.
@@ -358,7 +358,8 @@ After recorded normalization it has unit coordinate1 and additive polynomial X^2
 The full closure/normal-form argument and all actual-family limits are in [D6 MF1--MF6](../../../drafts/Yin_D_G0006.md#doubled-joint-necessary-filter-computation).
 Combined with the proved necessary condition and full period, this excludes joint original F4/X2 for EVERY B/Gamma product at the specified doubled base.
 No rectangular image, cubic solution, new word or further actual residual was tested.
-These two implementations remain author self-checks; independent whole/native review and adoption are outstanding.
+These two implementations are author self-checks; at that author-stage checkpoint independent whole/native review and adoption were outstanding.
+The later R1034/C814 account below records the completed selected joint-filter/positive-word scope without extending it to every later phase in this J.
 
 ## Independent finite corroboration of C812
 
@@ -369,9 +370,9 @@ The program prints its replaceable result directly and needs no generated input 
 The actual degree82 base has f15 orders(a,c,F/2,G)=(4,2,4,6), and the degree187 empty Pi word has(4,2,6,6); the three displayed modulo4 expansions also agree.
 These are independently performed finite corroborations only; [adopted C812](../../../claims/Yin_C_G0812_v1.md#decision-whole-reviewed-2026-10-26) rests on R1032's complete symbolic proof review, not these two cases or the separate author256-class certificate.
 
-## Independent C860 native interface corroboration
+## Independent C814 native interface corroboration
 
-The [whole independent C860 finding](../../../audits/reviews/Yin_R_G1034_v1.md#whole-finding) records cold inspection and successful reproduction of the selected joint-filter and positive-word producer/verifier pairs above.
+The [whole independent C814 finding](../../../audits/reviews/Yin_R_G1034_v1.md#whole-finding) records cold inspection and successful reproduction of the selected joint-filter and positive-word producer/verifier pairs above.
 The separate [review_c860_native_interfaces.py](review_c860_native_interfaces.py) imports no author arithmetic and checks the fixed Claim table, complete divisor counts and the interface between the group-word images and actual Q(C2),Q(C5) residue weights.
 After those four selected commands, run `.venv/Scripts/python.exe -B -X utf8 mathematics/computations/programs/Yin_J_G0132/review_c860_native_interfaces.py` from the repository root.
 It requires the tracked selected-word input and the regenerated joint certificate and positive-word residue output, and writes the replaceable reviewer interface result (`mathematics/computations/outputs/Yin_J_G0132/review_c860_native_interfaces.json`).
@@ -381,7 +382,7 @@ The reviewer program supplies finite interface corroboration; R1034 owns the com
 ## Complete10240 local source-jet pairs
 
 The [fixed C815 LJ1--LJ5 parametrization](../../../claims/Yin_C_G0815_v1.md#complete-local-source-parametrization) specifies exactly2048 source units S=1+sum_(k=1..11)s_k(Y+1)^k and five fifteenth-order branches.
-This phase uses only those10240 pairs and the actual C860 DP/DS constants; it enumerates no actual cofactor words or generator images.
+This phase uses only those10240 pairs and the actual C814 DP/DS constants; it enumerates no actual cofactor words or generator images.
 [local_source_jet_enumeration.py](local_source_jet_enumeration.py) obtains beta_old and gamma_old from the full old binary U_0(C_3)/U_0(C_5) remainders at f^18 and the genuine integer delta_16 difference.
 [verify_local_source_jet_enumeration.py](verify_local_source_jet_enumeration.py) independently builds full integer T_187, computes its own b_0,c_0 divisions before restriction, reconstructs delta_16, and verifies EVERY pair with different SymPy arithmetic and low-pivot source-image elimination.
 Run from the repository root:
@@ -511,7 +512,7 @@ The original programs remain author implementations; the independent relationshi
 
 ## Complete full-eighth Xi16-kernel image and one specified-fiber target
 
-The complete reduction and mixed normal form are retained in [fixed C823](../../../claims/Yin_C_G0823_v1.md#complete-native-kernel-proof), using adopted C866, C821 and C868 at their exact scopes.
+The complete reduction and mixed normal form are retained in [fixed C823](../../../claims/Yin_C_G0823_v1.md#complete-native-kernel-proof), using adopted C820, C821 and C822 at their exact scopes.
 The complete joint alphabet has4193 ACTUAL labels: the4192 augmented-image labels and B_481, without an Omega((X-2)^240) assumption.
 The finite evidence must cover45 lifted odd words,92 lifted principal words and all6310 relation vectors:4193 generator-section,92 later-square and2025 ordered odd-table relations.
 All relation reductions and all basis positive kernel words/costs are retained; word exponents use the JOINT bound960.
@@ -769,7 +770,7 @@ No original-mod8 corrected-product probe was part of this source-span phase.
 The [two-product Preparation](../../../drafts/Yin_D_G0006.md#canonical-two-sign-full-gate-products-preparation) retains the exact source selection and mathematical/global-gate limits.
 The required tracked input is [inputs/full_fourth_gate_canonical_products.json](inputs/full_fourth_gate_canonical_products.json), which binds both203/0 corrections to the completed full_fourth_gate_known_word_span.json and its verification.
 Both literal products preserve R's69/72/127 bundles and their respective164/163-term correction, giving432/431 occurrences, degrees181259583/181259103 and reciprocal degrees362519166/362518206.
-Their exact integer difference is multiplication of the minus product by(X-2)^480; C863 is a separate check, not a substitute for either actual calculation.
+Their exact integer difference is multiplication of the minus product by(X-2)^480; C817's endpoint480 is a separate check, not a substitute for either actual calculation.
 
 The [producer](full_fourth_gate_canonical_products_mod8.py) and [different degree288 Laurent verifier](verify_full_fourth_gate_canonical_products_mod8.py) completed the exact two-product scope without repair.
 The combined statement and full proof are fixed in [adopted C836](../../../claims/Yin_C_G0836_v1.md#decision-whole-reviewed-2026-10-28), through [whole independent R1056](../../../audits/reviews/Yin_R_G1056_v1.md#whole-finding).

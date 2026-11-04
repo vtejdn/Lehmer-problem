@@ -8,9 +8,9 @@ Human record author Yin.
 Root separately assigned a whole review of the actual fixed [L399v1](../../ledger/Yin_L_G0399_v1.md#conjugate-hull-statement), dated2026-10-18T13:00.
 Root, loglog_cyclic_review and entropy_attainment_bridge contributed to that unified argument; this reviewer supplied no proof step, repair or mathematical edit to it.
 The reviewer authored the earlier C160 projection theorem, whose accepted family input is reused here with root's separate R385 review; this finding is not an independent re-review of that authored theorem.
-The reviewer previously performed R527 on C159 but did not author C159.
+The reviewer previously performed R382 on C159 but did not author C159.
 The reviewer also coauthored Bil97-U001; both C159 and that unit are comparisons only in the final L399 argument.
-The earlier R537 and R539 source-application findings do not certify this new norm/variance proof.
+The earlier R392 and R394 source-application findings do not certify this new norm/variance proof.
 
 The arrangement is non-blind.
 The reviewer received the initial signed-combination question and successive author descriptions, read the preliminary D43 variants, then read the complete actual fixed L399 and all of its declared source/input/comparison scopes.
@@ -54,7 +54,7 @@ The original reviewer's distinct Gent21 primary text-reading occurrence is retai
 | [Whole conjugate-combination finding](#conjugate-combination-whole-independent-finding) | [Prior independent C160 review](Yin_R_G0385_v1.md#fixed-seed-projection-whole-independent-finding) | Reused independent family/domain inspection and actual adoption scope for the authored upstream theorem; not a new review of that whole theorem. |
 | [Whole conjugate-combination finding](#conjugate-combination-whole-independent-finding) | [Underlying retained family facts](../../ledger/Yin_L_G0038_v1.md#excess-three-family) | Existing actual Salem factor, degree growth, fixed measure interval and convergence to log theta, as invoked through C160; no new family construction or rerun of old certificates. |
 | [Whole conjugate-combination finding](#conjugate-combination-whole-independent-finding) | [Bil97 fixed-function comparison](../literature/Bil97/Yin_U001.md#bil97-u001) | Fixed function/arity and independent-base scope only; reviewer authored this upstream account, and none of its source theorems is a premise of L399. |
-| [Whole conjugate-combination finding](#conjugate-combination-whole-independent-finding) | [C159 superseded angular comparison](../../claims/Yin_C_G0159_v1.md#statement) | Earlier route required nontorsion pair ratios and a small-height angular input; the final proof does not invoke C159, its source estimate or its cyclic comparison. Reviewer previously supplied R527, not authorship. |
+| [Whole conjugate-combination finding](#conjugate-combination-whole-independent-finding) | [C159 superseded angular comparison](../../claims/Yin_C_G0159_v1.md#statement) | Earlier route required nontorsion pair ratios and a small-height angular input; the final proof does not invoke C159, its source estimate or its cyclic comparison. Reviewer previously supplied R382, not authorship. |
 | [Whole conjugate-combination finding](#conjugate-combination-whole-independent-finding) | [L318 bundle comparison](../../ledger/Yin_L_G0318_v1.md#weighted-integral-bundle-bound) | Weighted integer auxiliaries and Fourier coherence only; no rational hull theorem is imported. |
 | [Whole conjugate-combination finding](#conjugate-combination-whole-independent-finding) | [L357 inverse-pair comparison](../../ledger/Yin_L_G0357_v1.md#inverse-symmetric-circle-obstruction) | Actual-order unit bundles and residual projection only, with their separate normalization retained. |
 | [Whole conjugate-combination finding](#conjugate-combination-whole-independent-finding) | [L372 norm/weight comparison](../../ledger/Yin_L_G0372_v1.md#mixed-unit-reuse-and-domain) | Earlier full norms, rational weights and AMGM mechanism for relative-unit symbols; comparison/attribution only, not an extra premise. |

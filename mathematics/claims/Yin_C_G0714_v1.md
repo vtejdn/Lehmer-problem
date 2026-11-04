@@ -9,8 +9,8 @@ The [current all-strategy continuation](../tasks/Yin_T_G0001_v1.md#decision-resu
 Earlier_bit_obstruction and root contributed the following author mathematics.
 Root suggested the doubled coefficient pair after the fixed C713 obstruction repair.
 The present author derived its actual modulo32 expansions, every new half and quotient carry, and the conditional image and paid closure below.
-The actual C744 low-image mechanism, C689 changing-divisor formulas, C710 next first variation, adopted C713 quotient estimate and full-primary proof, and C697 all-level covariance supply the reused interfaces.
-The new coefficient level is calculated directly; the old C744 formulas are not silently rescaled.
+The actual C708 low-image mechanism, C689 changing-divisor formulas, C710 next first variation, adopted C713 quotient estimate and full-primary proof, and C697 all-level covariance supply the reused interfaces.
+The new coefficient level is calculated directly; the old C708 formulas are not silently rescaled.
 The ACTUAL second-sixteenth low condition remains a premise; no global power or large q is assumed to make its original carry zero.
 No native computation or independent review is involved.
 The [D5 actual paired32 section](../drafts/Yin_D_G0005.md#actual-paired-thirty-two-image) is development provenance, not a logical input.

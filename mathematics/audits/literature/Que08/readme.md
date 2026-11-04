@@ -23,7 +23,7 @@ The same bounded search located Manchester lecture notes as an alternative.
 Their PDF entrance was opened, but no theorem or proof from them is used.
 No further search was needed after the precise Queen Mary statement and matching domain were checked.
 
-Acquisition and bibliographic facts belong to and [references.bib](../../../literature/references.bib).
+Bibliographic identity belongs to [references.bib](../../../literature/references.bib).
 The [original lecture-log HTML](../../../literature/pdf/Que08/lectureLog.html) is retained, and its two date/time headings were checked directly on 2026-10-14.
 Its institutional title/term are visible; individual authorship remains unverified.
 The external logo was not retained.

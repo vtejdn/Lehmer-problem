@@ -12,7 +12,7 @@ Earlier_bit_obstruction checked and wrote the actual dyadic and odd canonical ch
 Both are contributors, not independent reviewers.
 Salem_completion supplied the precise fixed C730 entrance list without reviewing this new uniform proof.
 The [D5 development](../drafts/Yin_D_G0005.md#uniform-higher-source-jet) is provenance only; this fixed statement and entire proof have no mutable-D dependency.
-This theorem does not change the fixed C770 result or evaluate its next actual second1024 quarter.
+This theorem does not change the fixed C733 result or evaluate its next actual second1024 quarter.
 No target existence, actual third source jet, unrestricted global induction or characteristic-zero realization is asserted.
 The complete author theorem is initially open for fresh isolated whole review.
 
@@ -255,7 +255,7 @@ No assertion that the full integer K_new is a single q/512-th power is made.
 The adopted C728 generic theorem, with its own q>=2^17 and full-forward hypotheses, supplies exactly the bounded global implication UJ9.
 The purely local proof UJ10--UJ18 uses only4|A and the explicit UJ1--UJ5 entrances and is not restricted to j<=15.
 For a higher global use one must separately pay the non-phi precision, actual root and degree costs, derivative/error powers and any new low-coordinate target.
-This candidate does not evaluate C770's actual second1024 quarter and does not assemble a third source jet.
+This candidate does not evaluate C733's actual second1024 quarter and does not assemble a third source jet.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-25)

@@ -11,8 +11,7 @@ Root is the SOLE new proof/control author.
 This reviewer contributed none of those arguments.
 
 The reviewer first reconstructed the entire original proof/control and DS17 supplement.
-Before allocating an original-scope R, the file changed to the substantive extended revision; a read-before-write size guard stopped that allocation before the material allocator was called.
-NO earlier-scope R was registered.
+The inspected input changed to the substantive extended revision after the original proof/control reconstruction.
 This finding covers the complete final revision after separately reconstructing its new Sections7--8 and checking their actually adopted C87 interface.
 It does not automatically extend an old finding.
 The supplied context included the author's checklist and subsequent extension explanation; no prior independent D43 verdict was used.
@@ -23,11 +22,15 @@ C87 and C84 have separate actual extraction reviews and adopted decisions.
 Their exact inherited interfaces are used without treating this reviewer's prior wrapper or review as independent evidence for the NEW four-power argument.
 This is internal independent AI mathematical review, not external human refereeing, a new mathematical computation or formal verification.
 
+The initial context explicitly included the author's subsequent target-extension explanation beyond the necessary frozen proof.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole extended finding](#four-power-extended-whole-independent-finding) | independently reviewed |
+| [Whole extended finding](#four-power-extended-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -50,9 +53,9 @@ This is internal independent AI mathematical review, not external human refereei
 | [Whole extended finding](#four-power-extended-whole-independent-finding) | [C71 all-weight statement](../../claims/Yin_C_G0071_v1.md#statement) | ONLY PartA nontrivial finite positive rational-weight E1 packet, nonzero O0 values, actual q/T and0<2U<=h0 imply q^8[epsilon(2U)+12U]>=1. |
 | [Whole extended finding](#four-power-extended-whole-independent-finding) | [C71 exact selector](../../claims/Yin_C_G0071_v1.md#all-weight-unit-energy-product-theorem) | Actual original atom/cross-product, denominator dividing q^2 and width<=2T, full original norm and O0 domain; no overorder extension. |
 | [Whole extended finding](#four-power-extended-whole-independent-finding) | [C84 adopted delays](../../claims/Yin_C_G0084_v1.md#statement) | Exact primitive weighted binary signed delays with arbitrary heights, TRUE monomial classification at K0, optional single-coordinate shifts and all fixed-weight/nonzero O0/cumulative-cost premises. |
-| [Whole extended finding](#four-power-extended-whole-independent-finding) | [C84 adopted decision](../../claims/Yin_C_G0084_v1.md#decision-organized-reviewed) | Actual adopted scope after original R418 and separate actual R420; new consumer invocation checked with reviewer's ancestor role disclosed. |
+| [Whole extended finding](#four-power-extended-whole-independent-finding) | [C84 adopted decision](../../claims/Yin_C_G0084_v1.md#decision-organized-reviewed) | Actual adopted scope after original R311 and separate actual [R794 v2 original C84 extraction](Yin_R_G0794_v2.md#c84-binary-height-actual-extraction-finding); new consumer invocation checked with reviewer's ancestor role disclosed. |
 | [Whole extended finding](#four-power-extended-whole-independent-finding) | [C87 three-power saturation](../../claims/Yin_C_G0087_v1.md#statement) | ONLY PartA automatic at-most-three-power independence and exact saturation at same K0, restricted from full O to O0; used for all four omitted-index bases. |
-| [Whole extended finding](#four-power-extended-whole-independent-finding) | [C87 adopted decision](../../claims/Yin_C_G0087_v1.md#decision-organized-reviewed) | Actual01:35 adoption after original R423 and separate actual R424, before the D43 extension; C87 has no D43 dependency. |
+| [Whole extended finding](#four-power-extended-whole-independent-finding) | [C87 adopted decision](../../claims/Yin_C_G0087_v1.md#decision-organized-reviewed) | Actual01:35 adoption after original R315 and separate actual [R794 v2 original C87 extraction](Yin_R_G0794_v2.md#c87-three-power-actual-extraction-finding), before the D43 extension; C87 has no D43 dependency. |
 | [Whole extended finding](#four-power-extended-whole-independent-finding) | [Smy08 nonreciprocal statement](../literature/Smy08/Yin_U002.md#smy08-u002) | STRICTLY Section1 and retained2008 survey Section5.1 equation15: nonzero nonreciprocal algebraic integer M>=theta0, original total-log convention. No1971 proof/equality/isolation audit. |
 | [Whole extended finding](#four-power-extended-whole-independent-finding) | [DS17 accepted source comparison](../literature/DS17/Yin_U001.md#ds17-u001) | Comparison ONLY: fixed-support TOTAL m(F)=0 or m(F)>=eta_K, arbitrary coefficient heights; no arbitrary-factor gap or new foundational source review. |
 | [Whole extended finding](#four-power-extended-whole-independent-finding) | [C27 prior source application](../../claims/Yin_C_G0027_v1.md#statement) | Comparison ONLY: sparse theorem applied directly to its bounded-support original polynomial; retained D22 source account supplies no missing factor transfer. |
@@ -102,7 +105,7 @@ All uses of independence in the original proof were retained and are discharged 
 
 ## New automatic four-power independence and acyclic input
 
-The actual C87 adopted decision is dated01:35 and selects its separately organized actual extraction R424 in addition to original R423.
+The actual C87 adopted decision is dated01:35 and selects its separately organized actual extraction [R794 v2 original C87 extraction](Yin_R_G0794_v2.md#c87-three-power-actual-extraction-finding) in addition to original R315.
 Its PartA supplies automatic three-power independence AND saturation at the SAME K0, over a specified full order; O0 is an allowed specialization.
 Its inspected dependency list contains earlier L229/C74/Smy08/C84/C14/L168/C10 inputs and no D43.
 There is no dependency cycle.

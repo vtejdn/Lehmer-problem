@@ -36,11 +36,16 @@ No new research question, numerical or symbolic computation run, parameter scan,
 No original external proof audit, prime-gap theorem, optimality claim or unrestricted shrinking-width conclusion is added.
 The review changes only this new R; adoption and any draft retirement remain separate.
 
+Before initial checking, the reviewer received the author's negative-v expansion, finite coefficient mass and proposed slow-corridor consequence, together with author explanations and prior conclusions.
+These are substantive target-development contents beyond the necessary fixed proof.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole static-phase finding](#static-phase-whole-independent-finding) | independently reviewed |
+| [Whole static-phase finding](#static-phase-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

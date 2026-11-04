@@ -16,18 +16,22 @@ This review reread and reconstructed the ENTIRE actual final revision, particula
 The input context included the root's checklist, author explanations, the prior preliminary observations and existing ancestor verdicts.
 There was no prior independent whole verdict for this final D41 used as a substitute for reconstruction.
 
-The reviewer previously whole-reviewed the C74 ancestor D29, and both whole-reviewed the C84 ancestor D40 in R418 and authored C84's extraction wrapper.
+The reviewer previously whole-reviewed the C74 ancestor D29, and both whole-reviewed the C84 ancestor D40 in R311 and authored C84's extraction wrapper.
 Those are disclosed accepted-ancestor roles, not contributions to D41's new saturation, reciprocal elimination, controls or interleaving proof.
-C84 now has a separate actual extraction review R420 and an actual adopted decision.
+C84 now has a separate actual extraction review [R794 v2 original C84 extraction](Yin_R_G0794_v2.md#c84-binary-height-actual-extraction-finding) and an actual adopted decision.
 This finding checks its invocation and does not independently re-certify the reviewer's earlier wrapper by role.
 The source-locator helper mentioned in D41 is not this reviewer supplying a new proof; the actual accepted Smy08 source unit was separately read here.
 This is an internal AI mathematical review, not external human refereeing or formal verification.
+
+The initial context explicitly included the author's target explanations and preliminary observations beyond the necessary proof.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole three-power finding](#three-power-whole-independent-finding) | independently reviewed |
+| [Whole three-power finding](#three-power-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -48,7 +52,7 @@ This is an internal AI mathematical review, not external human refereeing or for
 | [Whole three-power finding](#three-power-whole-independent-finding) | [Accepted nonreciprocal source unit](../literature/Smy08/Yin_U002.md#smy08-u002) | STRICTLY Section1, source Section5.1 equation15 and measure conventions: nonzero nonreciprocal algebraic integer has M>=theta0. Retained2008 survey statement-level acceptance; not the original1971 proof, equality/isolation classifications or other parts of this unit. |
 | [Whole three-power finding](#three-power-whole-independent-finding) | [Original powered-height normalization](../../ledger/Yin_L_G0168_v1.md#general-unit-actual-product-cost) | Exact repetition of actual powered-field conjugates d/N times and h(alpha^n)=n*m/d. D41 separately computes its N2 specialization; no cost bound is treated as positive arithmetic income. |
 | [Whole three-power finding](#three-power-whole-independent-finding) | [Adopted C84 statement](../../claims/Yin_C_G0084_v1.md#statement) | Actual all-height primitive weighted binary signed-delay O0 classification, TRUE-polynomial output, optional one-coordinate shifts and uniform K0; all fixed-weight/all-stage legality/cumulative-cost hypotheses retained. |
-| [Whole three-power finding](#three-power-whole-independent-finding) | [C84 adopted decision](../../claims/Yin_C_G0084_v1.md#decision-organized-reviewed) | Actual2026-10-12T17:09 adoption after original R418 and separate actual extraction R420, resolving only the historical delay-input condition. |
+| [Whole three-power finding](#three-power-whole-independent-finding) | [C84 adopted decision](../../claims/Yin_C_G0084_v1.md#decision-organized-reviewed) | Actual2026-10-12T17:09 adoption after original R311 and separate actual extraction [R794 v2 original C84 extraction](Yin_R_G0794_v2.md#c84-binary-height-actual-extraction-finding), resolving only the historical delay-input condition. |
 | [Whole three-power finding](#three-power-whole-independent-finding) | [Retained complete delay proof](../../claims/Yin_C_G0084_v1.md#binary-height-entire-author-freeze) | Same complete original D40 at its adopted actual scope, now retained in C84; ancestry and invocation, not a newly authored or changed D41 premise. |
 | [Whole three-power finding](#three-power-whole-independent-finding) | [C10 optional supplied-packet expense](../../claims/Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Finite positive-Poisson/reversal calculation over all original roots and actual width; used only for Lambda<=T_final*m/d. Its analytic calculation does not need reciprocity, as inspected directly. |
 
@@ -166,7 +170,7 @@ It therefore excludes every three-power dependence at any span on the genuine-Sa
 
 ## Resolved Theorem3, true polynomials and exact construction boundary
 
-C84's selected organized-reviewed decision is actually dated2026-10-12T17:09 and selects its separate actual extraction R420.
+C84's selected organized-reviewed decision is actually dated2026-10-12T17:09 and selects its separate actual extraction [R794 v2 original C84 extraction](Yin_R_G0794_v2.md#c84-binary-height-actual-extraction-finding).
 D41's Section8 observation at01:13 is later than that adoption.
 The invoked statement retains arbitrary primitive two-coordinate heights, actual reduced positive weight ratios, either nonzero delay sign, all-stage nonzero O0 membership and the TRUE-polynomial local classification at the same K0.
 The optional one-coordinate delay is also explicitly allowed there.

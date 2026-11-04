@@ -221,7 +221,7 @@ Equation(14) is uniform in the ORIGINAL degree, although the matrix and its corr
 
 Let B_d=Q_d+epsilon_d I>=0.
 Its exact circle symbol is |P_d|^2+N epsilon_d.
-The F109/C113 finite Gram/Jensen inequality, equivalently applying scalar Jensen to the projection of a PSD vector factor onto its constant vector, gives
+The C_F6/C113 finite Gram/Jensen inequality, equivalently applying scalar Jensen to the projection of a PSD vector factor onto its constant vector, gives
 
     (1/2)log((Q_d)00+epsilon_d)
        <=m(P_d)+E_d(sqrt(N epsilon_d)).             (15)

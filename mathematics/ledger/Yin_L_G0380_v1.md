@@ -19,7 +19,7 @@ No new allowance, input-uniform conditioning or actual unit/covariance realizati
 Further mathematics uses a distinct draft.
 
 The current complete rational weighted factorization, exact orbit criterion and fixed-vector pole barriers are retained in [C441](../claims/Yin_C_G0441_v1.md#complete-rational-delay-factorization), adopted after [R644 whole self-review](../audits/reviews/Yin_R_G0644_v1.md#current-rational-delay-whole-finding).
-The original22:43 freeze,22:53 R206 report,22:56 retention, author contribution, source readings and then-open target below remain historical; the separate later [L384 exact word](Yin_L_G0384_v1.md#exact-width-five-lift-discovery) solves that fixed target without removing the pole barriers.
+The original 2026-10-11T14:43 freeze,2026-10-11T14:53 R206 report,2026-10-11T14:56 retention, author contribution, source readings and then-open target below remain historical; the separate later [L384 exact word](Yin_L_G0384_v1.md#exact-width-five-lift-discovery) solves that fixed target without removing the pole barriers.
 No current Task/E execution resumes.
 
 ## Complete retained account
@@ -330,7 +330,7 @@ The author checked the actual L377 units, quotient and signed norms; scalar star
 The classical factorization source was checked at the precise statements and displayed arguments recorded in Section 1, with its complex-field and unreviewed earlier-dependency limits explicit.
 No external theorem is a proof premise of the local derivations.
 This is author self-review.
-The author's earlier R279 is independent review of L377's precursor only and provides no independent review of this new argument.
+The author's earlier R203 is review of L377's precursor only and provides no independent review of this new argument.
 Separate noncontributor whole review and any fixed retention remain pending.
 
 <a id="rational-factorization-entire-author-freeze"></a>
@@ -340,5 +340,4 @@ Separate noncontributor whole review and any fixed retention remain pending.
 The complete author body, Sections 1--8 and equations (1)--(16), all five theorems, exact orbit criterion, rational correction equivalence, source-attribution limits, original denominator/norm/degree costs and unresolved interpolation/Task boundaries are frozen after complete author self-check.
 The scoped material check passed.
 No native mathematical program, J, search run or solver was executed.
-Fresh account readings before development and after the complete draft were 5 percent on the unchanged authenticated weekly meter; root retains execution responsibility.
 Separate whole noncontributor review and coordinator fixed retention remain pending.

@@ -223,7 +223,7 @@ Writing K_new=(H_b^new)^((1-1/M)q)K_hat and W_new=(H_b^new)^(r_H)W_hat gives the
 No canonical residual statement for this smaller divisor is inferred from that expression.
 
 The sole precision proof for this NEW integer lift is LP2--LP3.
-In particular the C781 proof requiring individual psi lifts is not re-applied to an arbitrary whole H_b^new, and the old C5/Phi composition identities are not asserted for Phi_new.
+In particular the C743 proof requiring individual psi lifts is not re-applied to an arbitrary whole H_b^new, and the old C5/Phi composition identities are not asserted for Phi_new.
 Such properties are unnecessary for transport of the already proved finite congruences.
 Binary Tbar=U and Gbar=R_0^q, maximal Frobenius q, actual derivative divisor D and all old degree/cost bounds are retained; extra next-error values or higher non-phi bits are retained only if separately justified, not by the new factorization alone.
 

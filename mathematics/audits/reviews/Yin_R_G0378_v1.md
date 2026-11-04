@@ -11,9 +11,9 @@ Root, the shear-arithmetic contributor and the cross-term-screen contributor are
 The historical C157v1 draft is not the target of this finding.
 
 The arrangement is non-blind.
-The reviewer had the previous G0001 diagnostic context, personally conducted the earlier R521 review of C156, and was supplied the new buffered family and its intended all-parameter screen in this assignment.
+The reviewer had the previous G0001 diagnostic context, personally conducted the earlier R376 review of C156, and was supplied the new buffered family and its intended all-parameter screen in this assignment.
 The reviewer then read the complete C157v2 statement and argument, enumerated its obligations and reconstructed every new implication.
-The unchanged dependency interfaces were freshly inspected in C153v2, C149 and F109; the prior R521 conclusion was not treated as coverage of this changed theorem.
+The unchanged dependency interfaces were freshly inspected in C153v2, C149 and F109; the prior R376 conclusion was not treated as coverage of this changed theorem.
 No numerical integral or parameter test was run, and no future screen sign was assumed.
 
 This review supplies mathematics for a possible gate adoption only; it does not change the Task, execution period or Claim decision.

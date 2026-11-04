@@ -13,7 +13,12 @@ Source edition: Luc22, [retained PDF](../../../literature/pdf/Luc22.pdf), arXiv:
 
 Passages: Complete Section 7, pp.11--15, with the determinant and subgroup interfaces in Sections 3--5 and 14, and the separate Section 8 comparison.
 
-Inspection: 2026-10-06T06:51, human record author Yin. The assigned AI reviewer read the complete source and checked this section's proof implications, net quantifiers and kernel/determinant limits. Rendered pp.13--14 were inspected. A separately assigned AI reviewer independently found and checked the reversed separation implication and the weak/nonweak transfer failure, then exchanged findings. Both had the source and task context; the primary reviewer's findings were sent while the second check was in progress. This is a targeted additional AI check, not independent human inspection or a second complete audit.
+Inspection: 2026-10-06T06:51, human record author Yin.
+The assigned AI reviewer read the complete source and checked this section's proof implications, net quantifiers and kernel/determinant limits.
+Rendered pp.13--14 were inspected.
+A separately assigned AI reviewer independently found and checked the reversed separation implication and the weak/nonweak transfer failure, then exchanged findings.
+Both had the source and task context; the primary reviewer's findings were sent while the second check was in progress.
+This is a targeted additional AI check, not independent human inspection or a second complete audit.
 
 
 ## Assessment

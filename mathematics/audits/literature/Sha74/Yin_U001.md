@@ -11,7 +11,8 @@ Source edition: Daniel Shanks, The simplest cubic fields, Mathematics of Computa
 
 Passages: Original2026-10-10 resultant-research author and coordinating reviewer each inspected printed1137--1139/PDF1--3, particularly equations(3)--(6), printed1138: simplest-cubic family/discriminant/fractional-linear roots/exhibited units and the prime-H restriction preceding the fundamental-units claim.
 
-Inspection: Bounded passage/formula/classical-attribution depth; no whole-source proof audit, all-parameter full-unit-group/maximal-order/splitting/class-number theorem or general regulator premise. Precise source-reading minutes were not recorded; acquisition10:22, author whole check10:30 and project review10:34 are distinct events.
+Inspection: Bounded passage/formula/classical-attribution depth; no whole-source proof audit, all-parameter full-unit-group/maximal-order/splitting/class-number theorem or general regulator premise. Precise source-reading minutes were not recorded.
+The original acquisition clock caption10:22 has no established timezone; the author whole check at2026-10-10T02:30 UTC and project review at2026-10-10T02:34 UTC are separately recorded project events.
 
 
 <a id="sha74-u001"></a>
@@ -45,7 +46,7 @@ Source acquisition, topic coordination and the pre-freeze signed-norm wording cl
 
 The first bounded primary AMS article/PDF requests returned403 through the web reader.
 An11,919,059-byte scholar-hosted compilation exceeded that reader's size limit and was not retained as this source version.
-A bounded direct public request subsequently obtained and normally registered the16-page publisher PDF at10:22.
+A bounded direct public request subsequently obtained and normally registered the16-page publisher PDF with the original clock caption10:22, whose timezone is unrecorded.
 The title, Daniel Shanks attribution, issue/date/pages and16-page count were validated in memory before normal retention; an initial identity retrieval was not retained.
 A later terminal encoding failure affected only printing extracted text, not the source PDF or bibliography.
 No retry queue was created.

@@ -7,8 +7,8 @@ author: Yin
 Date: 2026-10-21T22:18.
 Human operator: Yin.
 The checking agent read all275original L196 lines, all66original R95 lines and the entire366-line published open C470 Statement, Argument, registration and coverage boundaries.
-It checked the complete necessary C415 arbitrary-real-rectangular block determinant formula, C2 literal signed-cover construction and C441v2 matching/full-cycle ordering calculation.
-The current C462v2 Gram and C444v2 positive-cost interfaces are used only at their disclosed unchanged comparison scopes.
+It checked the complete necessary C412 arbitrary-real-rectangular block determinant formula, C2 literal signed-cover construction and C437v2 matching/full-cycle ordering calculation.
+The current C458v2 Gram and C440v2 positive-cost interfaces are used only at their disclosed unchanged comparison scopes.
 The entire original10260-character necessary reuse/Sections1--4/equations(1)--(10) and642-character remaining coverage boundary are retained modulo adequate same-object mathematical homes.
 The agent rederived the complete symbolic proof below, rather than checking only text retention or old PASS.
 It authored the current Claim, inherited substantive target context and read old findings, so this actual whole finding is SELF.
@@ -58,7 +58,7 @@ The plus-one case forces integer r,s with a negative discriminant17-4q, impossib
 The minus-one case gives opposite odd coefficients, inconsistent with the same nonzero2q-5.
 This covers all quartic factorization types and proves actual irreducibility, degree four and unit/nontorsion status.
 
-The complete C415 singular-value formula applies to every real rectangular B, including zero singular values and rank deficiency.
+The complete C412 singular-value formula applies to every real rectangular B, including zero singular values and rank deficiency.
 Every non-minus-one root has real trace sigma_j(B)^2-2.
 Thus a root of the actual nonreal-trace P_n cannot occur in any block determinant.
 Adding cyclotomic factors does not remove its nonreal trace roots.

@@ -18,11 +18,11 @@ It directly read the literal Statements and specified fixed mathematics in C471,
 The fixed proofs themselves, their retained original statements and necessary source mathematics were legitimate direct review inputs.
 Their existing source, author and review-role sentences were not treated as additional proof-development dialogue or classified by keywords.
 
-Before the initial findings the reviewer did not read the targets' top Current assessment or decision history, original R456/R455/R506, current R826/R827/R835, the maintenance handbook, an acceptance report or persistent memory.
+Before the initial findings the reviewer did not read the targets' top Current assessment or decision history, original R344/R343/R362, current R679/R680/R688, the maintenance handbook, an acceptance report or persistent memory.
 For C471 it directly reconstructed Sections1--4 and equations1--11 before reading Section5.
 For C472 the requested first-pass range ended before What has and has not changed, so the reviewer independently derived the residual implication11 from the literal Statement and C101 before reading that later section.
 For C477 it directly reconstructed the retained original statement and all mathematical Sections1--6, equations1--18 and10a/15a before reading Section7.
-Only after the 07:37 initial findings did it read every remaining target boundary and author freeze, all six old/current R accounts in full, the relevant complete existing U records and distinct reviewer-reading occurrences, original retention/adoption postscripts and the exact comparison interfaces.
+Only after the 2026-10-21T23:37 initial findings did it read every remaining target boundary and author freeze, all six old/current R accounts in full, the relevant complete existing U records and distinct reviewer-reading occurrences, original retention/adoption postscripts and the exact comparison interfaces.
 The final whole findings below include all those remaining portions; the initial partial reading order is not presented as an earlier inspection of an unread paragraph.
 
 The reviewer supplied no target proof step, repair or substantive target edit.
@@ -49,7 +49,7 @@ A temporary read-only text comparison of the old retained bodies and current can
 | [Scale-loss whole finding](#isolated-scale-loss-whole-finding) | [Canonical C472 Statement](../../claims/Yin_C_G0472_v1.md#statement) | Entire exact integer band construction, density decay, every fixed-s strong-norm failure and finite integer transfer, weak-versus-strong distinction, residual conditional consequence and current-versus-historical source/actual-input boundaries. |
 | [Scale-loss whole finding](#isolated-scale-loss-whole-finding) | [Canonical C472 complete Argument](../../claims/Yin_C_G0472_v1.md#argument) | Entire original question/starting/search/bounded-round account, Sections1--4 and all equations1--11, complete finite constructions and floor/dilation/limit costs, What has and has not changed, source/contribution limits and entire13:29 author freeze. |
 | [Full-symmetrization whole finding](#isolated-full-symmetrization-whole-finding) | [Canonical C477 Statement](../../claims/Yin_C_G0477_v1.md#statement) | Entire exact all-original-unit statement, every prime/exponent/field/orbit/collision/class multiplicity, both modulus domains, original norm/degree/time, guarded local counts, fixed-prime products, restricted-source comparison and negative boundaries. |
-| [Full-symmetrization whole finding](#isolated-full-symmetrization-whole-finding) | [Canonical C477 complete Argument](../../claims/Yin_C_G0477_v1.md#argument) | Entire retained original statement, question/reuse account and all seven original sections, equations1--18 plus10a/15a, complete signed identities and unsuccessful deductions, every field/coset/valuation/degree fee, source/reuse/contribution limits and22:02 complete author freeze. |
+| [Full-symmetrization whole finding](#isolated-full-symmetrization-whole-finding) | [Canonical C477 complete Argument](../../claims/Yin_C_G0477_v1.md#argument) | Entire retained original statement, question/reuse account and all seven original sections, equations1--18 plus10a/15a, complete signed identities and unsuccessful deductions, every field/coset/valuation/degree fee, source/reuse/contribution limits and 2026-10-15T14:02 complete author freeze. |
 
 <a id="isolated-relative-core-whole-finding"></a>
 ## Relative cores and the individual-support obstruction
@@ -122,7 +122,7 @@ The actual [C97 fixed-union theorem](../../claims/Yin_C_G0097_v1.md#statement), 
 
 <a id="l395-and-r456"></a>
 
-The entire original `Yin_R_G0344_v1.md#relative-core-whole-independent-finding`, recorded2026-10-13T05:35 by root for the complete13:30 D26 now retained in L395, was compared after the initial autonomous findings.
+The entire original `Yin_R_G0344_v1.md#relative-core-whole-independent-finding`, recorded 2026-10-13T05:35 by root for the complete13:30 D26 now retained in L395, was compared after the initial autonomous findings.
 Its original whole PASS concerns the13:30 entire original, including all five sections, equations1--11, source/control/negative limits and bounded closeout; that outcome agrees with this reconstruction.
 Its actual old whole relationship remains UNKNOWN because the additional target mathematics and initial ordering needed to establish isolation were not recorded.
 The shared-context/author-summary wording, root's inquiry/closeout role and earlier C100 review alone establish neither target contribution nor isolation.
@@ -131,7 +131,7 @@ This new inspection does not reconstruct those missing facts or backdate indepen
 The actual_income author supplied the transport, harmonic-capacity, time-price and obstruction derivations; root supplied inquiry, source-policy and closeout coordination.
 The original explicitly listed author checks remain SELF at original2026-10-13 day precision, without an invented separate whole-author event or checking minute.
 The13:30 author freeze,13:35 whole finding and13:36 fixed retention are separate actual events.
-Current R826 is a later whole SELF inspection after construction and old-review reading; it supplies no isolated replacement for the old whole UNKNOWN.
+Current R679 is a later whole SELF inspection after construction and old-review reading; it supplies no isolated replacement for the old whole UNKNOWN.
 
 The old arbitrary-K localization and density-gate wording is historical.
 The later [C142v2 final theorem](../../claims/Yin_C_G0142_v2.md#statement), whose literal final statement and selected proved decision were inspected after the initial findings, separately supplies general weak fractional moments and original-window positive-TRIPLE-density capture.
@@ -223,7 +223,7 @@ C99 is comparison credit rather than a premise of either new construction, and i
 
 <a id="l396-and-r455"></a>
 
-The full original `Yin_R_G0343_v1.md#scale-loss-shortcuts-whole-independent-finding`, recorded2026-10-13T05:32 by averaged_lcm for the complete13:29 direct_triple D27 now retained in L396, was compared after the autonomous initial findings.
+The full original `Yin_R_G0343_v1.md#scale-loss-shortcuts-whole-independent-finding`, recorded 2026-10-13T05:32 by averaged_lcm for the complete13:29 direct_triple D27 now retained in L396, was compared after the autonomous initial findings.
 Its whole PASS and every detailed band, strong-factor, integer-transfer and residual finding agree with this reconstruction.
 Its original13:29 freeze,13:32 whole finding and13:36 retention remain separate.
 The direct_triple author supplied the constructions and proofs.
@@ -231,9 +231,9 @@ The old reviewer supplied none of these target proof steps, but an anticipated s
 The actual extra target mathematical content and its order are not preserved well enough to establish isolation, so the original ENTIRE whole relationship remains UNKNOWN.
 Earlier C99 authorship alone is not target contribution, and neither a noncontributor label nor the word summary decides the missing relationship.
 The original listed author checks remain SELF at2026-10-13 day precision, without an additional old whole-author event or precise checking minute.
-Current R827 remains a later whole SELF check after organizing the mathematical home and reading the old account.
+Current R680 remains a later whole SELF check after organizing the mathematical home and reading the old account.
 
-The original R455 reviewer's distinct source-reading occurrence is retained at [the existing GW21-U001 occurrence](../literature/GW21/Yin_U001.md#original-scale-loss-reviewer-reading).
+The original R343 reviewer's distinct source-reading occurrence is retained at [the existing GW21-U001 occurrence](../literature/GW21/Yin_U001.md#original-scale-loss-reviewer-reading).
 It records reading the selected complete C101 statement and unit for the fixed-epsilon density use at published-statement/applicability and online-access depth.
 It is distinct from the direct_triple source author and root's registration.
 No individual source-reading minute is recorded;13:32 is the whole-finding completion, not a replacement source-reading minute.
@@ -309,7 +309,7 @@ Therefore, for sufficiently large d, every in-domain m>=c/d already satisfies ea
 Their minimum has the same comparison because both benchmark ratios eventually exceed1.
 This compares monotone proved bounds and does not construct an irreducible input at m=c/d or a near-one sequence.
 It does not exclude a future stronger upper estimate.
-C147v1 was adopted at2026-10-15T13:26 and v2 at 2026-10-15T13:58, both before the original 2026-10-15T14:02 freeze.
+C147v1 was adopted at 2026-10-15T13:26 and v2 at 2026-10-15T13:58, both before the original 2026-10-15T14:02 freeze.
 Their separate proof authorship and inherited Pri11/Dim19 inspection limits are not enlarged by this application.
 
 For the actual prime of L, the [The26b-U001 interface](../literature/The26b/Yin_U001.md#the26b-u001) gives the finite cyclic residue quotient D_p/I_p and a nonempty full Frobenius inverse image S of size |I_p|, including ramified primes.
@@ -361,11 +361,11 @@ This proves no general trace-field abelianity and inserts no AM16 premise into e
 The original Amoroso--Zannier/Delsinne proofs, higher-rank refinements and effectiveness are outside the accepted source scope.
 AM16-U001's whole-Galois-generator/ambient-degree scope remains different.
 
-The original R506 distinct source-reading occurrence is retained at [AM16-U002](../literature/AM16/Yin_U002.md#original-full-symmetrization-reviewer-reading).
+The original R362 distinct source-reading occurrence is retained at [AM16-U002](../literature/AM16/Yin_U002.md#original-full-symmetrization-reviewer-reading).
 The strategy_critique reviewer actually text-read the retained institutional postprint at printed1--2/PDF2--3, Theorem2.1 and adjacent relative-degree convention.
 That is distinct from the source author's and root's earlier work.
 It does not borrow root's printed4 bibliography/application reading or visual inspection depth.
-No individual reading minute is recorded;22:11 is the whole-review completion and is not substituted for one.
+No individual reading minute is recorded;2026-10-15T14:11 is the whole-review completion and is not substituted for one.
 This new inspection reads the existing adequate U and does not claim a fresh source PDF reading.
 
 The exact [C146v2 own-ratio interface](../../claims/Yin_C_G0146_v2.md#ratio-own-field-author-calculation), [C236 same-exponent ratio spectrum](../../claims/Yin_C_G0236_v1.md#adjoint-ratio-spectrum), its [periodic normalization boundary](../../claims/Yin_C_G0236_v1.md#adjoint-periodic-index-boundary), and [C231 diagonal/inverse extraction](../../claims/Yin_C_G0231_v1.md#cyclic-resultant-extraction) were checked for their actual reuse credit and distinct hypotheses.
@@ -378,19 +378,19 @@ The opening L54--56 references remain historical route context, without a new nu
 
 <a id="l397-and-r506"></a>
 
-The full original `Yin_R_G0362_v1.md#full-symmetrization-whole-independent-finding`, recorded2026-10-15T14:11 by strategy_critique for the entire22:04 fixed L397 after its22:02 author freeze, was read only after the initial independent findings.
+The full original `Yin_R_G0362_v1.md#full-symmetrization-whole-independent-finding`, recorded 2026-10-15T14:11 by strategy_critique for the entire 2026-10-15T14:04 fixed L397 after its 2026-10-15T14:02 author freeze, was read only after the initial independent findings.
 Its entire mathematical PASS, all positive identities, both benchmark comparisons, sources, prior mechanisms and remaining possible constructions agree with this new reconstruction.
 The original g_bridge_audit author supplied the new orbit, coset, weighted-product and failure deductions.
 Root supplied the question, source registration and a request to check the newly adopted C147v2 input; root's authorship of that antecedent is separate from this target's deductions.
 The old reviewer's C131/C137 authorship and earlier C146/source work are upstream facts, not automatic target SELF.
-The earlier C146v2/v3 reviews were R502/R504 and the C146v1 work was SOURCE-only.
-The reviewer's own C131/C137 proofs occur upstream in C147v1; their old acceptance and the separate R503/R505 findings are inherited only at their actual scopes, without a new independent review of those own proofs.
+The earlier C146v2/v3 reviews were R358/R360 and the C146v1 work was SOURCE-only.
+The reviewer's own C131/C137 proofs occur upstream in C147v1; their old acceptance and the separate [R798 original moving-cutoff](Yin_R_G0798_v1.md#moving-cutoff-whole-independent-finding)/[R801 original finite-logarithmic](Yin_R_G0801_v1.md#finite-logarithmic-whole-independent-finding) findings are inherited only at their actual scopes, without a new independent review of those own proofs.
 The recorded shared G0001 context, root assignment and available author check do not preserve the exact additional target mathematics and initial ordering needed to judge isolation.
 The entire original whole relationship remains UNKNOWN.
 Its original PASS is retained at its exact input and date without being recertified as historically isolated.
-The separate original complete author check is SELF at its expressly recorded2026-10-15T14:02 scope.
-The22:02 freeze,22:04 fixed retention,22:11 R506 whole review and22:20 adoption are four different events.
-Current R835 is a new2026-10-22 whole SELF check after reading and organizing the old account, not an isolated replacement.
+The separate original complete author check is SELF at its expressly recorded 2026-10-15T14:02 scope.
+The 2026-10-15T14:02 freeze,2026-10-15T14:04 fixed retention,2026-10-15T14:11 R362 whole review and 2026-10-15T14:20 adoption are four different events.
+Current R688 is a new2026-10-22 whole SELF check after reading and organizing the old account, not an isolated replacement.
 No source-reading minute or extra historical review event is invented.
 
 ## Source sufficiency, complete-body comparison and adoption boundary

@@ -15,7 +15,7 @@ The continuing author question is [D9's shortest-hit test](../../../drafts/Yin_D
 It is prepared for exact reverse breadth-first search from zero through depth24, with at most100000 retained states and a120-second mathematical computation limit, and no independent neutral-radius cutoff.
 Its state coordinates are ascending powers(1,beta,beta^2,beta^3), with the forward and inverse maps given explicitly in the program.
 The inspected [J33 core.py](../Yin_J_G0033/core.py) supplies the reusable root-isolation and strict-strip method; the new implementation uses150 rational bisections and integer common-denominator interval numerators and imports no earlier mathematical helper.
-It certifies membership in C403's actual strict core using B=beta^3-beta-2, S=beta^3-beta-1 and reciprocal conjugation, including rejection of exact boundary equality.
+It certifies membership in C400's actual strict core using B=beta^3-beta-2, S=beta^3-beta-1 and reciprocal conjugation, including rejection of exact boundary equality.
 An unresolved sign stops the calculation instead of making a floating-point decision.
 
 Every completed level retains every state, its shortest distance, the total shortest-word mass as an integer numerator over4^d, and a chosen shortest successor.
@@ -234,6 +234,23 @@ It reuses the old different implementation and author replay at their actual dis
 <a id="complete-original-midpoint-continuation"></a>
 ## Complete original midpoint continuation through length 256
 
+The selected complete return and first-return arrays through512 are retained once at [inputs/return_weights_512.json](inputs/return_weights_512.json), with513 integers in each array and their exact original polynomial and digit-law scope.
+They were recovered by the unchanged H95 construction and matched by the distinct reviewer implementation, including every aligned254775-state forward/backward pair and all513 return/first-return coefficients.
+This is current exact reproduction of the adopted finite object, not recovery of an original execution file or a new formal review.
+The two512 continuation programs use the exact first257 entries of this same input for their earlier-prefix comparison, while critical_mean_bounds.py and reviewer_critical_mean_verify.py read its complete513 entries.
+The scalar arrays do not contain or replace the four midpoint sums, intervals and counts below.
+Those are completely reproduced by `python -B mathematics/computations/programs/Yin_J_G0052/midpoint_continuation.py`, whose fixed H48 graph and integer dynamic program require no older generated input.
+For a complete current512 reproduction and the subsequent critical-time checks, run:
+
+```powershell
+python -B mathematics/computations/programs/Yin_J_G0052/return_midpoint_512.py
+python -B mathematics/computations/programs/Yin_J_G0052/reviewer_return512_verify.py
+python -B mathematics/computations/programs/Yin_J_G0052/critical_mean_bounds.py
+python -B mathematics/computations/programs/Yin_J_G0052/reviewer_critical_mean_verify.py
+```
+
+The graph/vector outputs remain reproducible ignored results; only the indispensable scalar arrays are fixed as tracked input.
+
 The separately retained [midpoint_continuation.py](midpoint_continuation.py) is new author work by original_law_continuation for Yin.
 It reuses the original program's exact graph, rational strips and constants without editing that program or replacing its earlier outputs.
 The earlier reviews above do not cover this new calculation.
@@ -384,7 +401,7 @@ There is no artificial elapsed-time limit.
 Progress is printed during graph construction and every16 forward/backward steps.
 Any failed native check publishes only the separate return_midpoint_512.incomplete.json with its actual failure and useful completed return prefix; it does not publish or replace a complete result.
 
-The declared required input is the accepted same-group midpoint_continuation.json (`mathematics/computations/outputs/Yin_J_G0052/midpoint_continuation.json`), compared at every old return and first-return weight from0 through256.
+The required earlier-prefix input is now the accepted [tracked513-entry scalar input](inputs/return_weights_512.json), compared by its exact prefix at every return and first-return weight from0 through256.
 The new complete output is separately and atomically published as return_midpoint_512.json (`mathematics/computations/outputs/Yin_J_G0052/return_midpoint_512.json`) only after all checks succeed.
 It preserves every return and first-return integer weight, exact p512, the quotient-state ordering and aligned boxed forward256/backward256 vectors, true Q(sqrt13) midpoint integer sums and rational coefficients, both neutral coordinates through their squared norm, positive midpoint count, D256, and finite crossing tests.
 The product of the two boxed vectors gives the complete original bridge law; unconditional endpoint weights at states unable to participate in that bridge are not claimed complete.
@@ -419,7 +436,7 @@ Run from the repository root with the author output and accepted old prefix alre
 .venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0052/reviewer_return512_verify.py
 ```
 
-The explicit --author-input, --old-prefix-input and --output options default to this same J group's output home.
+The explicit --old-prefix-input option defaults to inputs/return_weights_512.json, using its exact first257 entries; --author-input and --output default to this same J group's output home.
 The independent native run completed and atomically wrote reviewer_return512_result.json (`mathematics/computations/outputs/Yin_J_G0052/reviewer_return512_result.json`).
 It independently reproduced all513 return and first-return weights, all257 entries of both accepted old prefixes, every aligned midpoint vector pair, all exact midpoint fields, the exact p512 and both refined-root finite-pressure fractions.
 The graph enumeration found285171 allowed lattice points,258715 original-forward states,269715 quotient-forward states,254775 returning states and443125 edges.
@@ -429,9 +446,9 @@ The complete independent result and R finding certify only the declared finite m
 
 ## Exact critical-time arithmetic from the adopted complete prefix
 
-[critical_mean_bounds.py](critical_mean_bounds.py) evaluates the complete adopted C793 return and first-return arrays through512 together with C839's exact paid Green bound.
+[critical_mean_bounds.py](critical_mean_bounds.py) evaluates the complete adopted C793 return and first-return arrays through512 together with C796's exact paid Green bound.
 The complete analytic result is [adopted C800](../../../claims/Yin_C_G0800_v1.md#decision-whole-reviewed-2026-10-26), through [whole independent mathematical/native R1020](../../../audits/reviews/Yin_R_G1020_v1.md#whole-critical-time-finding); the native arithmetic and conditional-probability/critical-limit proof scopes are separately retained there.
-The only generated-data input is the existing return_midpoint_512.json (`mathematics/computations/outputs/Yin_J_G0052/return_midpoint_512.json`).
+The sole fixed mathematical input is [inputs/return_weights_512.json](inputs/return_weights_512.json), retaining just the necessary complete W/V arrays and their original-law scope.
 Its status, original digit law, exact0--512 scope,513-entry arrays, every renewal equality and exact p512 control are checked before rational Horner evaluation.
 No author graph module is imported, and no state, height cap or later return time is constructed.
 The declared source-file cap is16MiB, with a20000-digit integer parser limit; all arithmetic uses Python's standard-library integers and fractions.
@@ -463,7 +480,8 @@ Run from the repository root with the three declared existing inputs present:
 .venv/Scripts/python.exe -B -S mathematics/computations/programs/Yin_J_G0052/reviewer_critical_mean_verify.py
 ```
 
-The --input, --independent-prefix and --author-result options default respectively to return_midpoint_512.json, reviewer_return512_result.json and critical_mean_bounds.json in this J output home.
+The --input option defaults to inputs/return_weights_512.json.
+The --independent-prefix and --author-result options default respectively to reviewer_return512_result.json and critical_mean_bounds.json in this J output home, produced in the current reproduction order above.
 The --output option remains in that home and defaults to reviewer_critical_mean_result.json (`mathematics/computations/outputs/Yin_J_G0052/reviewer_critical_mean_result.json`).
 The independent command completed successfully, matched all exact payload values and published its result atomically after those checks.
 Each input is capped at16MiB and integer parsing at20000 digits; a failed check has a separate incomplete result.
@@ -472,6 +490,23 @@ No new graph, larger source range or critical-mean branch classification is asse
 
 <a id="distance-eight-existing-boundary-channels"></a>
 ## Existing-state distance-eight boundary channels
+
+The complete deterministic reproduction from a checkout without generated output is:
+
+```powershell
+python -B mathematics/computations/programs/Yin_J_G0052/shortest_first_hit.py
+python -B mathematics/computations/programs/Yin_J_G0052/geodesic_detour_cost.py
+python -B mathematics/computations/programs/Yin_J_G0052/verify_geodesic_level9.py
+python -B mathematics/computations/programs/Yin_J_G0052/finite_core_resummation.py
+python -B mathematics/computations/programs/Yin_J_G0052/boundary_channels_existing.py
+python -B mathematics/computations/programs/Yin_J_G0052/verify_boundary_channels_existing.py
+```
+
+These unchanged standard-library programs construct the ordered417-state depth24 domain, reconstruct the complete through9 classifications and then supply the original core/exit comparison before constructing and checking the boundary certificate.
+The core inverse, full cost table and level9 polynomials are reproducible intermediates; they are not additional indispensable retained boundary inputs.
+The producer and checker retain their original three and four explicit input interfaces, strict strip, weights, finite domain and resource limits.
+This sequence has been replayed successfully with all142 positive and182 zero channels,648 checked words and60 transfer terms.
+This is current reproduction of the same mathematical object, not recovery of the original execution bytes or a new R finding.
 
 The complete statement and DC1--DC7 proof are fixed in [C846](../../../claims/Yin_C_G0846_v1.md#complete-argument), [adopted](../../../claims/Yin_C_G0846_v1.md#decision-whole-reviewed-2026-10-28) through [whole independent mathematical/native R1066](../../../audits/reviews/Yin_R_G1066_v1.md#whole-distance-eight-boundary-finding), using [adopted C841](../../../claims/Yin_C_G0841_v1.md#decision-whole-reviewed-2026-10-28).
 The completed [producer](boundary_channels_existing.py) uses exactly the existing417 supplied shortest-hit states, with a combined16MiB input cap and120-second bound.

@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: primitive relaxed convolution and original weighted row
 
 Recorded 2026-10-22T20:05 after the maintaining Yin agent read actual published OPEN C589 entire Statement and ENTIRE Argument.
-The same agent read full L305/R204, exact accepted C399/C403/C579/C534/C572 interfaces and retained Tao09 source-role accounts.
+The same agent read full L305/R204, exact accepted C396/C400/C563/C526/C558 interfaces and retained Tao09 source-role accounts.
 This is whole SELF with prior proof/review context, without source reading/acquisition, new mathematical research or native/program execution.
 
 ## Review relationships
@@ -25,10 +25,10 @@ This is whole SELF with prior proof/review context, without source reading/acqui
 ## Whole argument and every boundary
 
 The original quartic is actual degree4 with nonzero linear coefficient, so coefficient composition gcd1 is literal.
-C399/C403 supply its exact strict full return strip; no larger fractional order or neutral truncation is used.
+C396/C400 supply its exact strict full return strip; no larger fractional order or neutral truncation is used.
 The reciprocal involution has the required beta^-1 scaling, preserves rho and exchanges B/S exactly.
-C534 supplies actual F(R)=1, with actual R<=2 and mean still unresolved.
-C579's singularity/finite-convolution criterion applies ONLY to its genuine original weighted critical measures, not the models below.
+C526 supplies actual F(R)=1, with actual R<=2 and mean still unresolved.
+C563's singularity/finite-convolution criterion applies ONLY to its genuine original weighted critical measures, not the models below.
 
 The regularized rectangle expansion is integrable before Fubini and gives the correct positive-sign triangular transform.
 Gaussian approximate-identity convergence and dominated convergence by integrable sinc-square establish the unregularized transform and total mass1.
@@ -61,7 +61,7 @@ The T_t lower bound and sigma_t<=1 force mass to escape EVERY fixed finite set a
 Weak dual convolution convergence gives c0, with no invented limiting discrete pi0.
 
 The actual first-hit row has its ORIGINAL1/4,1/2,1/4 weights and the forward beta orientation.
-Monotone passage justifies it at actual R, with finite coefficients from C579.
+Monotone passage justifies it at actual R, with finite coefficients from C563.
 Because beta>B, two successors at state1 cannot return and only beta-1 remains.
 Actual co-return makes H_R(1)>0, so its precise ratio is4/R>=2.
 The candidate triangular values give beta exp(-tDelta/2)<2 and the normalized row ratio<=beta/2 for EVERYt>=0 and EVERY0<R'<=2.

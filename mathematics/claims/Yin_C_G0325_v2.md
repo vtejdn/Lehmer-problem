@@ -61,7 +61,7 @@ author: Yin
 | dependency | [Complete residue normalization](Yin_C_G0312_v1.md#statement) | Accepted full original norm/income/energy and previous conservative/norm-funded steps, with their distinct budget domains. |
 | dependency | [Full actual monomial optimum](Yin_C_G0294_v1.md#statement) | Accepted nonnegative witness, lossless mirrored columns and original full-coordinate cost, not a solver guarantee. |
 | dependency | [Complete analytic income/expense](../ledger/Yin_L_G0318_v1.md#weighted-integral-bundle-bound) | Accepted actual all-root integer-bundle inequality and conditional uniform gap interface, whose unproved family uniformity is not supplied by this fixed control. |
-| review | [Actual complete independent finding](../audits/reviews/Yin_R_G0555_v1.md#feasible-family-repair-self-finding) | Actual complete Sections1–6 and corrected feasibility/containment chain; self-reviewed, with no native replay by this constructor. |
+| review | [Actual complete self-review finding](../audits/reviews/Yin_R_G0555_v1.md#feasible-family-repair-self-finding) | Actual complete Sections1–6 and corrected feasibility/containment chain; self-reviewed, with no native replay by this constructor. |
 
 
 
@@ -81,7 +81,7 @@ author: Yin
 | dependency | [Complete residue normalization](Yin_C_G0312_v1.md#statement) | Accepted full original norm/income/energy and previous conservative/norm-funded steps, with their distinct budget domains. |
 | dependency | [Full actual monomial optimum](Yin_C_G0294_v1.md#statement) | Accepted nonnegative witness, lossless mirrored columns and original full-coordinate cost, not a solver guarantee. |
 | dependency | [Complete analytic income/expense](Yin_C_G0600_v1.md#weighted-integral-bundle-bound) | Accepted actual all-root integer-bundle inequality and conditional uniform gap interface, whose unproved family uniformity is not supplied by this fixed control. |
-| review | [Actual complete independent finding](../audits/reviews/Yin_R_G0555_v1.md#feasible-family-repair-self-finding) | Actual complete Sections1–6 and corrected feasibility/containment chain; self-reviewed, with no native replay by this constructor. |
+| review | [Actual complete self-review finding](../audits/reviews/Yin_R_G0555_v1.md#feasible-family-repair-self-finding) | Actual complete Sections1–6 and corrected feasibility/containment chain; self-reviewed, with no native replay by this constructor. |
 | review | [Actual complete independent finding](../audits/reviews/Yin_R_G0557_v1.md#complete-repaired-joint-budget) | Entire v2 statement and Sections1–6, empty/nonempty discriminator, witness containment and full affected budget/certificate chain, all successful/failed native schemas and original source/cost limitations; independently reviewed. |
 
 

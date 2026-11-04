@@ -10,7 +10,7 @@ _J_OUTPUT.mkdir(parents=True, exist_ok=True)
 
 def main():
     base= _J_OUTPUT
-    compact=json.loads((base/'compact.json').read_text())
+    compact=json.loads((_J_PROGRAM/'inputs/compact.json').read_text())
     data=json.loads((base/'paths.json').read_text())
     targets={tuple(a) for a in compact['states']}
     assert len(targets)==compact['candidate_count']==len(compact['states'])

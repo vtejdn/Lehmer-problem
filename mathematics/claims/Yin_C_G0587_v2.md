@@ -7,7 +7,7 @@ author: Yin
 The complete original mathematical argument is retained from [L444](../ledger/Yin_L_G0444_v1.md#retained-component-obstruction).
 Its original contributions, fixed inputs, useful failures, source inspection and native-execution limits are preserved.
 Original cross_term_reuse mathematics has no stated original date; the actual v1 extraction and R487 date remain distinct.
-R487 retains declared INDEP for unchanged v1 only.
+R487 retains its historical INDEP declaration for unchanged v1, with its actual current relationship UNKNOWN.
 Its reviewer later coauthored v2 DR1--DR12 with root and is SELF for that later mathematics; no old independent review is enlarged.
 The current constructor has read the original proof and historical reviews; any current whole finding by this constructor is SELF.
 
@@ -290,9 +290,9 @@ The present retained-component, Schur and parameter screens remain at their own 
 
 Date: 2026-10-20T17:27.
 Human author Yin.
-This substantive v2 continues the same mixed-defect and paid-transfer comparison as [physical L445v1](#argument).
+This substantive v2 continues the same mixed-defect and paid-transfer comparison as [physical L444v1](#argument).
 It preserves that entire account and adds the full original-residual simplification DR1--DR12 below, with its actual mathematical date and authorship.
-The previous [complete independent R487](../audits/reviews/Yin_R_G0487_v1.md#component-schur-whole-independent-finding) remains evidence only for the unchanged v1.
+The previous [complete R487, actual UNKNOWN](../audits/reviews/Yin_R_G0487_v1.md#component-schur-whole-independent-finding) remains evidence only for the unchanged v1.
 Root directed the new same-input divisibility check and retained_methods_audit completed its derivation; both are contributors, and the latter's earlier R487 is not an independent review of this new work.
 No old material, original source inspection or earlier review scope is rewritten or enlarged.
 This version requires a separate whole review of its current complete scope and exact predecessor consumption.
@@ -483,7 +483,7 @@ The direct normalization and exact divisibilities are retained as simplification
 | Input | Exact role |
 | --- | --- |
 | [Complete physical v1](#argument) | All retained component, Schur, buffered and paid comparisons with every exact original input and boundary; old mathematics is reused rather than recopied or silently strengthened. |
-| [Whole predecessor R487](../audits/reviews/Yin_R_G0487_v1.md#component-schur-whole-independent-finding) | Independent coverage of unchanged v1 only; its reviewer contributes to DR1--DR12 and does not review this version. |
+| [Whole predecessor R487](../audits/reviews/Yin_R_G0487_v1.md#component-schur-whole-independent-finding) | Checked coverage of unchanged v1 at its UNKNOWN relationship only; its reviewer contributes to DR1--DR12 and does not review this version. |
 | [C191v2 actual residual norm](Yin_C_G0191_v2.md#statement) | Full original degree d, |Norm_K g|>=2^(6d/11), nonzero g and unchanged actual trace-field hypotheses. |
 | [C195v2 original contact comparison](Yin_C_G0195_v2.md#c195-original-contact-decomposition) | SAME unreduced H23/H25/H35, their original values, J_G, D_G and full original degree, with all zero-g and contact distinctions preserved. |
 | [C196v5 norm-only proof](Yin_C_G0196_v5.md#norm-only-sparse-transfer) | Existing NF1--NF8 with explicit nonzero full norm, fixed term/coefficient/degree budgets and eta_0; no normalized-value integrality requirement. |

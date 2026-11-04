@@ -73,7 +73,7 @@ Bounded neutral support is therefore finite before the support entropy bound is 
 The exact degree-dependent radius formula retains the real cost24/m^2, the floor constants and Ilog(1/I)<=2m log(1/m).
 The weakening to the uniform d>=6 exponent1/4/logarithmic3/4 and Cstar is correctly directed because c1<1,m<1 and log(1/m)>1.
 The d4 case is not inserted into that uniform divergence assertion.
-Finite rooted approximants follow only from the complete C483 variational input; no radius upper bound or critical attainment is inferred.
+Finite rooted approximants follow only from the complete C479 variational input; no radius upper bound or critical attainment is inferred.
 
 The original ternary mgf is cosh^2(t/2)<=exp(t^2/4).
 Optimizing its entropy inequality gives the exact row-mean cost b_x^2.
@@ -90,7 +90,7 @@ The argument allows infinite supports and variances.
 The complete nonzero P(1) factorization retains both real roots and all complex pairs, giving BS<=product|1-zeta|^2<=4^s.
 For every nonzero actual returning state the norm uses STRICT real bounds and every neutral pair, hence rho>sqrt(s)(BS)^(-1/(2s))>=sqrt(s)/2.
 The closed stated ball thus contains only0.
-This rederives the full-strip BS factor instead of copying the earlier C451/L187 narrower-domain constant.
+This rederives the full-strip BS factor instead of copying the earlier C447/L187 narrower-domain constant.
 As m tends to zero hypothetically, BS tends to infinity and forces s,d to infinity; the scalar radius escape in probability follows from the single-residue mass bound, not from the large second moment.
 The explicit m-only radius and probability threshold keep the correct logarithms and are weaker than the full-support scale.
 No actual near-one sequence or attained critical law is asserted.
@@ -104,10 +104,10 @@ The finite quotient mixture(1-epsilon)delta0+epsilon uniform has Renyi entropy l
 This is an explicit warning at finite-quotient level, without a claim that it is an actual admissible stationary law or satisfies all path constraints.
 It does not promote large Renyi entropy or a large second moment to the stronger median scale.
 
-The complete fixed inputs C483/C505, C282's norm grid, C284's elementary binary divergence and C451's actual-order isolation method were reused at their exact scopes.
+The complete fixed inputs C479/C501, C281's norm grid, C283's elementary binary divergence and C447's actual-order isolation method were reused at their exact scopes.
 The new local proof contains the needed finite Holder/Fourier/Minkowski and all new full-strip constants, with no new hypercontractivity theorem or source-paper premise.
 Original L211 remains fixed.
-The entire original R110 whole keeps its04:30 completion, positive verdict, complete eight-section scope, fixed inputs, source/nonexecution and no-repair facts.
+The entire original R107 whole keeps its04:30 completion, positive verdict, complete eight-section scope, fixed inputs, source/nonexecution and no-repair facts.
 Initial isolation and actual additional development context are not established, so its whole remains UNKNOWN without asserting actual substantive sharing.
 The exact original author-check/contribution/remaining account stays separately SELF at day precision; no author minute is inferred from the later review.
 Current whole SELF does not close that UNKNOWN, repair an old proof, audit an external source, create native evidence, resume Task/E or complete a gap.

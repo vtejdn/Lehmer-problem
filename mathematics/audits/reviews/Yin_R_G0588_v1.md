@@ -6,7 +6,7 @@ author: Yin
 
 Date: 2026-10-21T15:41.
 Human operator: Yin.
-The agent read complete original L161/L162 and R60/R61, all actual contribution and checking statements, the complete published C382v1/C383v1 statements and retained arguments, and every directly used C244/C257/C267/C364/C379v2/C380/C260/C213v2 interface within its actual scope.
+The agent read complete original L161/L162 and R60/R61, all actual contribution and checking statements, the complete published C382v1/C383v1 statements and retained arguments, and every directly used C243/C256/C266/C361/C376v2/C377/C259/C213v2 interface within its actual scope.
 Unchanged adequate fixed materials already read during this maintenance were reused within their still-applicable boundaries.
 The CM10 source-reading account was read completely, including its original accepted-manuscript/selected Section2 proof depth and later unused text-reading limit; no PDF or original-source proof was newly audited.
 Both current whole checks rederived every exact field, finite-field, degree, character, group, binomial, valuation, constant and actual-input implication below.

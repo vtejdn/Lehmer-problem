@@ -155,7 +155,7 @@ The recorded review description was `under review`.
 | support | [Exact support](Yin_C_G0053_v1.md#statement) | Reuse attribution of rank-one algebra; new classification proved locally. |
 | support | [Exact support](Yin_C_G0441_v1.md#finite-word-exact-interpolation-criterion) | Comparison only: no intermediate-legality or short cumulative expense guarantee. |
 | support | [Exact support](../audits/reviews/Yin_R_G0300_v1.md#monomial-transition-power-law-whole-independent-finding) | ENTIRE actual22:16 D32 only, not prospective extraction coverage. |
-| review | [Exact review](../audits/reviews/Yin_R_G0301_v1.md#c77-monomial-block-actual-extraction-finding) | Complete ACTUAL registered statement, entire preserved original and all exact interfaces independently checked after allocation by a noncontributor; earlier whole review retains its original scope. |
+| review | [Exact review](../audits/reviews/Yin_R_G0301_v1.md#c77-monomial-block-actual-extraction-finding) | Complete ACTUAL registered statement, entire preserved original and all exact interfaces separately checked after allocation by a noncontributor; earlier whole review retains its original scope. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 

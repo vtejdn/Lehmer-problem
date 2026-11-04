@@ -38,7 +38,7 @@ No target, C/T/E/S, shared index, old review, adoption or commit was changed.
 | [Whole finding](#whole-weighted-phase-bands-degree-finding) | [C678 actual family and finite theorem](../../claims/Yin_C_G0678_v1.md#statement) | Exact weighted(1,1,2) Salem polynomial, actual degrees, original projection and phase, epsilon and all five costs, every translated law and finite closed-box coefficient return. |
 | [Whole finding](#whole-weighted-phase-bands-degree-finding) | [C678 actual finite-return proof](../../claims/Yin_C_G0678_v1.md#complete-argument) | Unchanged full original normalization, alias bound, signed finite p=3/2 return, actual degree comparisons and source applicability; no prospective band result is imported. |
 | [Whole finding](#whole-weighted-phase-bands-degree-finding) | [C678 selected adoption](../../claims/Yin_C_G0678_v1.md#decision-whole-reviewed-2026-10-24) | Adopted2026-10-24T03:29, selecting only corrected R899v2 and preserving its original source-proof limits. |
-| [Whole finding](#whole-weighted-phase-bands-degree-finding) | [Own corrected C708 finding](Yin_R_G0899_v2.md#whole-weighted-three-factor-fourier-v2-finding) | Exact unchanged predecessor scope only; its v1 normalization omission is not used and this new band theorem is reviewed afresh. |
+| [Whole finding](#whole-weighted-phase-bands-degree-finding) | [Own corrected C678 finding](Yin_R_G0899_v2.md#whole-weighted-three-factor-fourier-v2-finding) | Exact unchanged predecessor scope only; its v1 normalization omission is not used and this new band theorem is reviewed afresh. |
 | [Whole finding](#whole-weighted-phase-bands-degree-finding) | [C637 positive kernel proof](../../claims/Yin_C_G0637_v1.md#complete-argument) | Exact normalized squared-Fejer kernel, closed support, multipliers in[0,1] and tail4pi^3/(R^3 delta^3), applied anew to the one-dimensional modulated convolution. |
 | [Whole finding](#whole-weighted-phase-bands-degree-finding) | [C637 actual adoption](../../claims/Yin_C_G0637_v1.md#decision-whole-reviewed-2026-10-23) | Existing accepted finite kernel interface only; no old-family amplitude, band or critical-width theorem is reused. |
 | [Whole finding](#whole-weighted-phase-bands-degree-finding) | [C637 kernel attribution](../../claims/Yin_C_G0637_v1.md#source-and-reuse-boundary) | Existing bounded Cambridge Lecture9 Definition9.5/Lemma9.6 attribution, without new source-proof inspection or a general approximation theorem. |
@@ -223,7 +223,6 @@ The latter's classical Jackson attribution retains its recorded bounded reading 
 No new external rational Bernstein, stationary-phase, model-space or interpolation theorem is used.
 C678's MS05, Bertrand, kernel/event-norm source depths and historical SELF/UNKNOWN limitations remain unchanged; no new primary-source audit is claimed.
 
-Actual commands were direct fixed-file Get-Content/rg inspection, public material.py creation, full R readback and the scoped material.py check.
 The structural check concerns declarations and links, not the mathematical verdict.
 No native output, selected-prime computation or coefficient table was generated.
 

@@ -161,7 +161,7 @@ Write v=v_(N-1) and
 
     a_N=v^T W_(N-1)^(-1)v=G_N/G_(N-1)-1.
 
-The finite dual-Gram/monic-Jensen argument of [C G0288](Yin_C_G0287_v1.md#endpoint-gram-mahler-entropy) gives
+The finite dual-Gram/monic-Jensen argument of [C287](Yin_C_G0287_v1.md#endpoint-gram-mahler-entropy) gives
 
     a_N>=M(P)^2-1=a.                                  (6)
 
@@ -185,7 +185,7 @@ The last equality is the rank-one inverse identity applied to k W_(N-1).
 These matrices have full row rank; repeated columns cause no difficulty.
 Each leverage lies in [0,1], as is also clear from its projection interpretation.
 
-The generic fair-cube result of [C G0291](Yin_C_G0290_v1.md#fourth-posterior-moment) states that the mutual information of one fair sign in a full-row-rank linear observation is at least F(l), and that F is increasing on [0,1].
+The generic fair-cube result of [C290](Yin_C_G0290_v1.md#fourth-posterior-moment) states that the mutual information of one fair sign in a full-row-rank linear observation is at least F(l), and that F is increasing on [0,1].
 Moreover x/(k+r x) is increasing for x>=0.
 Thus summing the k conditional-information terms in their actual chain-rule order gives the finite bound
 
@@ -272,7 +272,7 @@ This is an upper bound, not an asymptotic equality for the actual deficit m-h_k,
 
 If alpha is a hyperbolic algebraic unit, fix any full order R containing Z[alpha] and use the actual coding measure nu_R of L G0104.
 The k-fold convolution of that measure is the coding of the fixed integer digit law D_j^(k), because addition of k independent absolutely convergent coding series is allowed.
-The finite-digit extension of [C G0304](Yin_C_G0303_v1.md#coding-entropy-scope-and-costs) therefore gives
+The finite-digit extension of [C303](Yin_C_G0303_v1.md#coding-entropy-scope-and-costs) therefore gives
 
     h_(nu_R^(star k))(T)=h_k,
     0<=m-h_(nu_R^(star k))(T)<=C(m)/k^2.                (12)

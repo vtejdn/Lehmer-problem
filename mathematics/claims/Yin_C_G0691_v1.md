@@ -165,7 +165,7 @@ Take the completed pair
     v(X)=X^(5m-7Q)H(chi(X))^(-7).
 
 It lifts exactly DG3 because v=X^(-2m)B^(-7).
-Use the directly checked zero-correction calibration of C668v2, which follows from C680's formal identities and applies to this explicitly specified pair, without assuming an original T.
+Use the directly checked zero-correction calibration of C668v2, which follows from C652's formal identities and applies to this explicitly specified pair, without assuming an original T.
 To show every term, those identities are
 
     ell(phi)=-1,
@@ -187,7 +187,7 @@ With ell(H)=-m/2 it becomes
 
 The denominator25 is a2-adic unit, so Pi is divisible by Q.
 For N=2Q-16 and Q>=32 one has Q<=N<2Q, hence2^floor(log_2 N)=Q.
-The adopted C654/C685 character is lift-independent at exactly this modulus on R_N.
+The adopted C654 character is lift-independent at exactly this modulus on R_N.
 Therefore DG10 proves DG4 for the complete prescribed finite class, including its true low and high precision.
 There is no factor-of-two substitution between Phi and Pi and no unknown higher coefficient is supplied as evidence.
 

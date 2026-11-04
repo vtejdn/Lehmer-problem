@@ -4,6 +4,9 @@ author: Yin
 
 # Holomorphic comparison, repaired product spectrum and matrix L2 transfer: isolated review
 
+This retained file binds the current C_F0001 matrix/corner transfer only.
+Former holomorphic/product-spectrum targets and C17/C43/C49 background labels in the original combined inspection are not located by this file in the current retained F-family collection; they are neither current same-number Claims nor substitute fixed proof homes.
+
 The newly assigned reviewer was outside proof development and read the exact fixed statements, complete current arguments and necessary fixed mathematical inputs directly.
 No target's author development discussion or earlier review verdict was supplied before its whole initial finding.
 All three initial whole findings were formed at 2026-10-22T20:13, after the relevant source applicability checks.
@@ -22,17 +25,17 @@ This review reconstructed the target deductions and interfaces; it did not reope
 
 | Review | Relationship |
 | --- | --- |
-| [Fresh C44](#fresh-c44-whole) | independently reviewed |
-| [Historical C44](#matrix-and-corner-inverses) | unknown |
+| [Fresh C1](#fresh-c44-whole) | independently reviewed |
+| [Historical C1](#matrix-and-corner-inverses) | unknown |
 
 ## Review bindings
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Fresh C44](#fresh-c44-whole) | [Statement](../../claims/Yin_C_F0001_v1.md#statement) | Entire exact original statement and hypotheses, with its explicit model and source boundaries. |
-| [Fresh C44](#fresh-c44-whole) | [Selected argument](../../claims/Yin_C_F0001_v1.md#yin_c_f0001-proof) | Complete current proof and all stated boundary cases; C43 covers repaired proof version 2 and excludes the source-only version 1. |
-| [Historical C44](#matrix-and-corner-inverses) | [Exact statement](../../claims/Yin_C_F0001_v1.md#statement) | Exact original statement and hypotheses retained in this material. Complete original C_F0001 proof at the reviewed scope, with its original accepted inputs and limits. |
-| [Historical C44](#matrix-and-corner-inverses) | [Exact argument](../../claims/Yin_C_F0001_v1.md#yin_c_f0001-proof) | Original explicitly selected argument locator; no broader argument or hypothesis is inferred. Complete original C_F0001 proof at the reviewed scope, with its original accepted inputs and limits. |
+| [Fresh C1](#fresh-c44-whole) | [Statement](../../claims/Yin_C_F0001_v1.md#statement) | Entire exact original statement and hypotheses, with its explicit model and source boundaries. |
+| [Fresh C1](#fresh-c44-whole) | [Selected argument](../../claims/Yin_C_F0001_v1.md#yin_c_f0001-proof) | Complete current C_F0001 proof and all stated boundary cases; no C43 proof-version claim is attached to this distinct target. |
+| [Historical C1](#matrix-and-corner-inverses) | [Exact statement](../../claims/Yin_C_F0001_v1.md#statement) | Exact original statement and hypotheses retained in this material. Complete original C_F0001 proof at the reviewed scope, with its original accepted inputs and limits. |
+| [Historical C1](#matrix-and-corner-inverses) | [Exact argument](../../claims/Yin_C_F0001_v1.md#yin_c_f0001-proof) | Original explicitly selected argument locator; no broader argument or hypothesis is inferred. Complete original C_F0001 proof at the reviewed scope, with its original accepted inputs and limits. |
 
 <a id="fresh-c44-whole"></a>
 ## Fresh C1 whole

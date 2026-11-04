@@ -30,12 +30,17 @@ Verification method: direct exact mathematics and source-statement/application i
 No native mathematical program, numerical scan, solver, J, formal proof, source intake or PDF artifact write was used.
 Attempted source retrieval failures and uninspected original proofs are recorded separately below.
 
+The initial whole input included C21's author verification conclusions, coverage summary and substantive contribution account after the proof.
+The whole finding and the subsequent extraction using that same initial context are self-reviewed.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Complete D16 author-freeze finding](#first-window-deficit-whole-author-finding) | independently reviewed |
-| [C21 extraction and interface finding](#c21-first-window-deficit-extraction-finding) | independently reviewed |
+| [Complete D16 author-freeze finding](#first-window-deficit-whole-author-finding) | self-reviewed |
+| [C21 extraction and interface finding](#c21-first-window-deficit-extraction-finding) | self-reviewed |
 
 ## Review bindings
 

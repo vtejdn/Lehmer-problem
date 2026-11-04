@@ -75,7 +75,7 @@ There is no new perturbation method, source-proof audit or journal-version equiv
 | --- | --- |
 | date | 2026-10-21T18:42 |
 | status | proved |
-| reason | Adopt the actual complete SELF finding after checking the exact original domain, whole retained proof, all endpoint/multiplicity/factor/measure cases and full discriminant/coefficient/capacity expenses. Original source versions, distinct reading occurrences, author and R277 SELF scopes and actual historical times remain separate; no new computation or uniform-gap result is inferred. |
+| reason | Adopt the actual complete SELF finding after checking the exact original domain, whole retained proof, all endpoint/multiplicity/factor/measure cases and full discriminant/coefficient/capacity expenses. Original source versions, distinct reading occurrences, author and R201 SELF scopes and actual historical times remain separate; no new computation or uniform-gap result is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

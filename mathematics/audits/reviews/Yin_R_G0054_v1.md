@@ -12,7 +12,7 @@ The recorded authorship, checking relationship, inputs, verdicts and limitations
 
 ## Complete independent AI written proof review
 
-On 2026-10-09 the separate execution_and_deliverables AI reviewer completed full coverage of Sections 1--4, equations (1)--(11), and all scope/contribution statements at mathematical-
+On 2026-10-09 the separate execution_and_deliverables AI reviewer completed full coverage of Sections 1--4, equations (1)--(11), and all scope/contribution statements.
 
 The reviewer reported no substantive defect or missing hypothesis.
 The review directly checked the used L33/L154/L8 interfaces; all Q_1/Q_2 coefficients, word lengths, nonzero-digit counts and exact probabilities;

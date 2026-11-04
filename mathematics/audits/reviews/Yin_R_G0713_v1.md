@@ -39,7 +39,7 @@ At h<=c exp(-20), X=sqrt(c/h)>=exp(10)>55, so the accepted Pri11 threshold holds
 The decreasing function log x/x on x>exp(1) bounds log N/N by log X/X.
 Both branches of b(h) increase over the exact interval and b<=exp(-6).
 
-The complete C394 compact-support inequality keeps the actual degree, normalized height, radius2R and support factor4R+1, global Lipschitz constant3exp(T)+T/R, and every tail term h+exp(-T)/2+1/R.
+The complete C391 compact-support inequality keeps the actual degree, normalized height, radius2R and support factor4R+1, global Lipschitz constant3exp(T)+T/R, and every tail term h+exp(-T)/2+1/R.
 With T=log(1/b)/6 and R=exp(T), T>=1 and R>=2.
 The discrepancy part is at most15 b^(1/6)+5T sqrt(b), and T b^(1/3)=T exp(-2T)<=1/(2exp(1)).
 All terms are therefore bounded by [1+1/2+1+15+5/(2exp(1))]b^(1/6)<19 b^(1/6).

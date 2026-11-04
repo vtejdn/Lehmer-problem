@@ -150,6 +150,6 @@ The classical primitive-source exclusion is correctly attributed separately from
 
 All five declared direct dependencies and the declared L385 support were checked at the exact interfaces used.
 The prior external inspection limits remain unchanged: the present review does not audit the original Bilu, Zhang, Bombieri--Zannier or Salem proofs, and does not claim an exhaustive priority search.
-The C147v5 estimate is used as an accepted project input, with its own R526 whole-review scope preserved.
+The C147v5 estimate is used as an accepted project input, with its own R381 whole-review scope preserved.
 The new finite algebra and infinite coefficient-family comparisons are complete without computational evidence.
 The whole fixed consumer passes with the upstream Bil97 authorship and independent R392 coverage explicitly separated.

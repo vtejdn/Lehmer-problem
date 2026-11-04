@@ -13,8 +13,7 @@ The recorded authorship, checking relationship, inputs, verdicts and limitations
 <a id="three-cut-original-contributor-finding"></a>
 
 The growth_arithmetic_status AI for Yin derived the new cut rigidity, available-cut count and complete local alternative.
-The coordinating
-AI contributed the four-term cost control and checked the entire assembled proof.
+The coordinating AI contributed the four-term cost control and checked the entire assembled proof.
 Neither is an independent reviewer of this account.
 
 <a id="three-cut-original-separate-finding"></a>

@@ -8,7 +8,7 @@ Date: 2026-10-21T22:55.
 Human operator: Yin.
 The checking agent read all274original L199 lines, all158original R98 lines and the entire360-line published open C476 Statement, complete Argument and registration.
 It read all five J40 programs in full and all six retained JSON files, including the complete50-cell witness/report positions, all1379 word-use and818 distinct-word structures, rational vertices, full compact enclosures/paths and separate reviewer's complete per-cell results.
-It checked the complete necessary C471v2 actual coupled residue entry, C403 conditional exact strip and two-sided count, C451 normalized decrement conventions and C439 degree-six actual-order input.
+It checked the complete necessary C467v2 actual coupled residue entry, C400 conditional exact strip and two-sided count, C447 normalized decrement conventions and C435 degree-six actual-order input.
 The entire original12710-character reuse/Sections1--4/equations(1)--(3) is retained modulo adequate same-object mathematical homes, together with the exact938-character original discovery/verifier-execution account,492-character original contribution/pending account and671-character remaining limits.
 This is a complete current mathematical reading and reconstruction, not merely a retention comparison or reliance on old PASS.
 The checking agent authored C476 and inherited target mathematical context and findings, so this actual whole finding is SELF.
@@ -60,9 +60,9 @@ There is no uniform initial-zero-length assumption.
 The narrow endpoint supplies backward real estimates B+(1-B)beta^-k<B for preceding block states.
 For a complete zero-ending word the stronger bound is B(1-beta^-k).
 Thus all actual intermediate states retain both real guards, even though intermediate residues need not be zero.
-The complete at-most-four-digit C471v2 entry applies to every actual coupled coordinate/residue, so it reaches I legally from every state of N.
+The complete at-most-four-digit C467v2 entry applies to every actual coupled coordinate/residue, so it reaches I legally from every state of N.
 It is not inferred from unconstrained finite quotient connectivity.
-The resulting co-return premise is exactly the premise of C403.
+The resulting co-return premise is exactly the premise of C400.
 Its greedy extension, reciprocal reversed-negated reachability and finite-path strict necessities give equality with the entire actual open strip.
 Its full-lattice separation upper bound and complete coefficient-box/two-real-cell difference lower bound give order R^4 for every sufficiently large real R, with fixed-input constants.
 No neutral projection, padded degree or timing-domain extension substitutes for these deductions.

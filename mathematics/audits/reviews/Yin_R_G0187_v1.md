@@ -7,12 +7,12 @@ author: Yin
 Date and attribution:2026-10-11T11:22, human record author Yin.
 The haar_integer_research AI performs a separately organized noncontributor whole-proof review of the integer_bundle_research author's D_G0008.
 It supplied none of that candidate selection or derivation.
-It previously authored the independent R259 review of the reused inverse-pair argument and developed distinct D4/D7 single-Haar regularization arguments; those author contributions are not D8 premises.
+It previously authored the independent R183 review of the reused inverse-pair argument and developed distinct D4/D7 single-Haar regularization arguments; those author contributions are not D8 premises.
 
 Inputs and sequence: the reviewer inherits the common user/root context and the author's readiness/locator messages.
 It read the entire latest D8 before its initial conclusion, including the author self-check and the explicit coprime rational-approximant clarification added after the19:16 author freeze.
 No earlier independent D8 conclusion or proof-generation dialogue was consulted.
-The earlier R259 finding is reused only for its exactly retained L357 dependency, not as evidence that D8's changed inequalities work.
+The earlier R183 finding is reused only for its exactly retained L357 dependency, not as evidence that D8's changed inequalities work.
 Shared context and this prior relationship are disclosed.
 
 Artifact and scope: [D_G0008](../../ledger/Yin_L_G0362_v1.md#asymmetric-unit-entire-author-freeze),2026-10-11T11:16 whole author body plus its explicitly supplied coprime-approximant clarification; candidate/reuse, Sections1--6, equations(1)--(15), both propositions, actual singleton construction and complete asymmetric norm extension.
@@ -81,7 +81,7 @@ The reviewer independently checked the following obligations.
    Thus the construction supplies only kappa<=2d-1 and no hidden bounded-correlation claim.
 
 5. **Homogeneous integer norm and full sign.**
-   In actual Salem scope signed Norm_K(u)=+1 makes every relative-norm conjugate c_j positive and full Norm_F(c)=1, by the checked [L357/R259](../../ledger/Yin_L_G0357_v1.md#positive-norm-trace-penalty) interface.
+   In actual Salem scope signed Norm_K(u)=+1 makes every relative-norm conjugate c_j positive and full Norm_F(c)=1, by the checked [L357/R183](../../ledger/Yin_L_G0357_v1.md#positive-norm-trace-penalty) interface.
    The complete product N_c(X,Y) has rational algebraic-integer coefficients and hence belongs to Z[X,Y]; proper-subfield embedding multiplicities remain in its degree s.
    Changing representative sends(c,a,b) to(c^-1,b,a), multiplying the norm by(-1)^s because Norm_F(c)=1, so its absolute value is unchanged.
    A self-inverse unit's formal equal halves count its full weight once, with c=1,a=b and zero N term.
@@ -131,4 +131,4 @@ G0001 remains unrestricted and unresolved; a useful cheap asymmetric constructio
 The original input sequence explicitly states that the author's complete self-check was read before the first conclusion.
 That target verification input prevents an independent relationship under the current rule, even though no proof derivation was supplied by the reviewer.
 The relationship is SELF; all original mathematics, date, input bindings, coprime clarification and whole finding remain as recorded.
-The old description of R259 as independent is historical; that upstream finding likewise has the actual SELF relationship recorded at its own home.
+The old description of R183 as independent is historical; that upstream finding likewise has the actual SELF relationship recorded at its own home.

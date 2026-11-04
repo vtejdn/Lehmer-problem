@@ -188,7 +188,7 @@ The new exact expense is
     deg(Phi^(4A)L_1)<11h/12+41A/2<h+12A=d-2A.     (SF7)
 
 The last inequality follows from h>102A, which is the largest new degree condition.
-The prior actual low-X constraints are stronger than required, so C699 CP3's true carry and both C683/C728 low-image arguments apply unchanged to the recomputed errors.
+The prior actual low-X constraints are stronger than required, so C699 CP3's true carry and both C683/C680 low-image arguments apply unchanged to the recomputed errors.
 The first correction remains an ACTUAL q/4-th power, so no hidden factor-two loss occurs in its coefficient-subring budget.
 
 ### SF3. The rest of the actual modulo8 source with stronger factors
@@ -205,7 +205,7 @@ Its representative is a p-th power divisible by phi^(5A/2), with
 
 The last inequality needs only h>68A.
 Divide its actual high phi factor as in C699, then lift the remaining root with H_b^112X^(320a); this gives the ACTUAL L_2=Phi^(5A/2)M with the required strong K factor and full X support.
-The C728 integer-power lift check still applies: all full X^(3A) and degree conditions are met, and V enters by actual composition.
+The C695 WP7 integer-power lift check still applies: all full X^(3A) and degree conditions are met, and V enters by actual composition.
 Thus the recomputed polynomial has F8/X4 and a second quarter vanishing below phi^(4A), exactly as in C699 CP4, now with the strong factors.
 The generic SF1 also supplies both H_0 components64 throughout these stages.
 

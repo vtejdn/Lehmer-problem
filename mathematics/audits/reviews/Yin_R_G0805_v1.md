@@ -18,11 +18,15 @@ Additional fixed mean and core inputs were consulted to resolve the actual-law i
 This finding identifies one exact empty-union parameter omission in the component comparison, while retaining the independently verified remaining scope.
 It is not an unqualified acceptance of the entire v1 statement.
 
+The initial C602 v1 argument included the author validation and contributor-checking account beyond the necessary derivation.
+The v1 whole finding is self-reviewed, retaining its negative empty-union finding and checked remaining mathematical scope.
+Original independence wording in the retained narrative is historical for those affected findings; performed checks, input order, dates, verdicts and limits are preserved.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole v1 finding and required correction](#whole-sign-flow-v1-finding) | independently reviewed |
+| [Whole v1 finding and required correction](#whole-sign-flow-v1-finding) | self-reviewed |
 
 ## Review bindings
 

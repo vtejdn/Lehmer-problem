@@ -12,7 +12,7 @@ No unrestricted Mahler gap, canonical Claim or Task completion is asserted.
 <a id="coupled-method-fixed-scope"></a>
 The complete current applications and necessary finite proof are [C460](../claims/Yin_C_G0460_v1.md#complete-constant-covariance-width-applications), actually adopted through [R666 whole SELF](../audits/reviews/Yin_R_G0666_v1.md#current-constant-covariance-applications-whole-finding).
 Original R213 is SELF because the initial assignment supplied the target conclusions/reuse distinction and its complete input included the author mathematical self-check; its full older L318/R217 reading and source facts remain preserved.
-Original23:38 author freeze,23:40 review and23:45 retention are separate2026-10-11 events, not current Task/E authority.
+Original 2026-10-11T15:38 author freeze,2026-10-11T15:40 review and 2026-10-11T15:45 retention are separate2026-10-11 events, not current Task/E authority.
 The exact earlier general inequality is credited as reuse; this account retains all meaningful contribution, signed/common-window, generator-variable and no-native/noncoverage boundaries below.
 
 ## Fixed scope and preservation
@@ -228,4 +228,4 @@ Root's scout contribution and the reused theorem/source boundaries are disclosed
 The author self-check covers the actual Laurent union normalization and signed norm factor, arbitrary real positive weights versus rational integer copies, all original embeddings and total measure, Poisson/reverse endpoints and padded degree, nonzero logarithms, q-unit integrality and exact norms, q versus actual energy, m=0/T=0 exclusion under positive surplus, primitive-content costs, full negative-norm multiplicities, the actual quartic's exact width/energy/resultants and strict constant comparison, and the eta-variable/a-factor/no-transfer boundary.
 No native mathematical program or scan occurred.
 Scoped material validation passed for this draft; it is a structural check, not proof evidence.
-The complete Sections1--6/equations(1)--(9) are frozen at2026-10-11T15:38 for a separately organized whole noncontributor review.
+The complete Sections1--6/equations(1)--(9) are frozen at 2026-10-11T15:38 for a separately organized whole noncontributor review.

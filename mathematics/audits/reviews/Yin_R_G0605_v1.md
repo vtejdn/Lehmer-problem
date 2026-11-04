@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T17:31.
 Human operator: Yin.
 The agent read the entire original L171 theorem, every necessary proof, local authoring/adoption/retired-D32 history and complete R70 original whole account.
-It read the complete published C401v1 statement and argument, the exact C403 conditional strip and both C399/C402 fixed co-return inputs, and the adequate complete C375 restricted-core and D_S/V_S/ESS boundaries.
+It read the complete published C401v1 statement and argument, the exact C400 conditional strip and both C396/C399 fixed co-return inputs, and the adequate complete C372 restricted-core and D_S/V_S/ESS boundaries.
 It rederived every elementary implication below, including all embeddings, residue primes, integral-order inverse, sequence/whole-word quantifiers and fixed-input limits.
 The agent inherited target mathematical context and authored this Claim, so the complete current finding is self-reviewed.
 The prior R70 whole finding remains unknown because its generic intended-conclusions/shared-context wording does not establish the actual initial target context.
@@ -24,8 +24,8 @@ No new source inspection/acquisition/PDF read, native run, source-proof or forma
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Whole explicit trace-family finding](#current-explicit-trace-family-finding) | [Complete C401v1 statement](../../claims/Yin_C_G0401_v1.md#statement) | Entire conditional explicit trace-family theorem and both fixed applications, all equations(1)--(4) and necessary proof: actual Salem unit/order/original digits and unrestricted-neutral narrow co-return premise, a=(beta-1)^2/beta and two contracting real values/actual-core membership/distinct nonzero x_n, exclusion of zero and modulus-one conjugates with lambda>1/h_a>0, full all-d-embedding exponential-error norm growth and exact P(1)^2, complete finite-prime residue-order/geometric-factor norm-escape argument without ESS or primitive-divisor theorem, actual order-unit inverse for abs(P(1))=1, infinite ambient V_S versus finite truly restricted D_S at C375 accepted ESS scope, all-but-finitely-many unit endpoints/every completing word positive valuation outside S, and every fixed-input/source/probability/uniformity limit. |
-| [Whole explicit trace-family finding](#current-explicit-trace-family-finding) | [Complete C401v1 argument](../../claims/Yin_C_G0401_v1.md#argument) | Entire conditional explicit trace-family theorem and both fixed applications, all equations(1)--(4) and necessary proof: actual Salem unit/order/original digits and unrestricted-neutral narrow co-return premise, a=(beta-1)^2/beta and two contracting real values/actual-core membership/distinct nonzero x_n, exclusion of zero and modulus-one conjugates with lambda>1/h_a>0, full all-d-embedding exponential-error norm growth and exact P(1)^2, complete finite-prime residue-order/geometric-factor norm-escape argument without ESS or primitive-divisor theorem, actual order-unit inverse for abs(P(1))=1, infinite ambient V_S versus finite truly restricted D_S at C375 accepted ESS scope, all-but-finitely-many unit endpoints/every completing word positive valuation outside S, and every fixed-input/source/probability/uniformity limit. |
+| [Whole explicit trace-family finding](#current-explicit-trace-family-finding) | [Complete C401v1 statement](../../claims/Yin_C_G0401_v1.md#statement) | Entire conditional explicit trace-family theorem and both fixed applications, all equations(1)--(4) and necessary proof: actual Salem unit/order/original digits and unrestricted-neutral narrow co-return premise, a=(beta-1)^2/beta and two contracting real values/actual-core membership/distinct nonzero x_n, exclusion of zero and modulus-one conjugates with lambda>1/h_a>0, full all-d-embedding exponential-error norm growth and exact P(1)^2, complete finite-prime residue-order/geometric-factor norm-escape argument without ESS or primitive-divisor theorem, actual order-unit inverse for abs(P(1))=1, infinite ambient V_S versus finite truly restricted D_S at C372 accepted ESS scope, all-but-finitely-many unit endpoints/every completing word positive valuation outside S, and every fixed-input/source/probability/uniformity limit. |
+| [Whole explicit trace-family finding](#current-explicit-trace-family-finding) | [Complete C401v1 argument](../../claims/Yin_C_G0401_v1.md#argument) | Entire conditional explicit trace-family theorem and both fixed applications, all equations(1)--(4) and necessary proof: actual Salem unit/order/original digits and unrestricted-neutral narrow co-return premise, a=(beta-1)^2/beta and two contracting real values/actual-core membership/distinct nonzero x_n, exclusion of zero and modulus-one conjugates with lambda>1/h_a>0, full all-d-embedding exponential-error norm growth and exact P(1)^2, complete finite-prime residue-order/geometric-factor norm-escape argument without ESS or primitive-divisor theorem, actual order-unit inverse for abs(P(1))=1, infinite ambient V_S versus finite truly restricted D_S at C372 accepted ESS scope, all-but-finitely-many unit endpoints/every completing word positive valuation outside S, and every fixed-input/source/probability/uniformity limit. |
 
 <a id="current-explicit-trace-family-finding"></a>
 ## Whole explicit trace-family finding
@@ -33,7 +33,7 @@ No new source inspection/acquisition/PDF read, native run, source-proof or forma
 Date: 2026-10-21T17:31.
 PASS for the entire C401v1 conditional theorem, both fixed applications, all equations(1)--(4), every elementary proof and the complete forced-excursion consequence.
 The actual Salem unit, even degree at least4, original order, three original digits and unrestricted-neutral narrow co-return premise are explicit.
-C403 supplies actual strip/slab membership under exactly that premise; its C399/C402 fixed-input applications supply the two stated unconditional examples at their retained proof scopes.
+C400 supplies actual strip/slab membership under exactly that premise; its C396/C399 fixed-input applications supply the two stated unconditional examples at their retained proof scopes.
 The inverse beta belongs to the actual order, so a,y_n,x_n are genuine algebraic integers in O.
 For1<beta<2, the function beta+beta^(-1)-2 is positive, strictly increasing and below1/2, and reciprocity makes its two real embedding values equal.
 Both the powers and powers minus one have real magnitude strictly below1, giving actual core membership in the reciprocal co-return slab.
@@ -62,7 +62,7 @@ It neither invokes ESS nor a primitive-divisor theorem and does not assert a new
 
 For abs(P(1))=1, every y_n is a genuine order unit and thus an S-unit for every fixed S.
 Their distinct actual core states make V_S infinite, including for S empty.
-The complete C375 theorem applies its separate whole-word S-unit restriction and makes D_S finite at the existing accepted ESS statement/applicability depth.
+The complete C372 theorem applies its separate whole-word S-unit restriction and makes D_S finite at the existing accepted ESS statement/applicability depth.
 All but finitely many y_n are consequently outside D_S.
 A completing original closed word through such a y_n with only S-unit nonzero states would put it in D_S, a contradiction.
 Every completing closed word therefore has a nonzero non-S-unit state; since all states are algebraic integers, a violating valuation outside S is positive.

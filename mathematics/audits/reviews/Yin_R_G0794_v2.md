@@ -1,7 +1,7 @@
 ---
 author: Yin
 ---
-# Isolated reviews of fixed quartic, packet, matrix and power-saturation arguments
+# Current and retained reviews of fixed quartic, packet, matrix and power-saturation arguments
 
 Date: 2026-10-22T22:59.
 Scope clarification fixed: 2026-10-22T23:09 UTC.
@@ -21,7 +21,7 @@ Fresh coverage excludes credited comparison scopes first separately checked afte
 Those later checks remain actual checks at their later sequence, without an independent relationship claim for that excluded comparison scope.
 Before those conclusions the reviewer read C50/C57, the complete original L229 coefficient-energy interface and exact functions, L4's scalar certificate, L64's simple-root lifting, the required Den09/Luc22 passages, Pri11-U001, and Smy08-U002's exact nonreciprocal statement at their used scopes.
 Later current C570/C209/C241 reading confirms those same mathematical proof homes.
-Current C245 scalar-collapse comparisons, C527 trace-lift and cost ancestry, C256 norm/tail ancestry, and C391 height-tower ancestry were separately checked after old-review comparison.
+Current C244 scalar-collapse comparisons, C527 trace-lift and cost ancestry, C256 norm/tail ancestry, and C391 height-tower ancestry were separately checked after old-review comparison.
 C10 v2, C53 Statement, C45 StatementA and C66 retained controls also received their separate current-home inspection only after that comparison.
 Before the initial conclusions, the targets supplied and the reviewer checked the actual finite covariance/cost identities, two-coordinate paraunitary algebra, endpoint-diameter calculation and retained explicit control calculations locally.
 This does not claim an initial independent audit of those ancestor proofs or of credited comparisons outside the local target proof.
@@ -43,23 +43,29 @@ One helper assertion used the old quartic trace-basis coefficient in the G89 qua
 After correcting that helper to tau=1+3alpha+alpha^2-alpha^3, all eight relative products and rational multiplication-matrix determinants agreed.
 This changed no target, native payload, parameter domain or mathematical statement and supplies no asymptotic extrapolation.
 
+The complete initial argument bindings for G68, G70, G71, G72, G73, G75, G76, G78, G83, G84, G87 and G89 include the original author validation checklists or completed-check conclusions beyond the necessary derivations.
+These twelve current findings are self-reviewed at their actual supplied scopes.
+G74's retained freeze supplies authorship, scope and requested review obligations, without the same additional author-validation conclusion; these disclosures alone do not change that finding's separately declared relationship.
+The post-initial credited-comparison exclusions, original dates, actual mathematical checks and all other distinct scope limitations remain unchanged.
+Original independence wording in the retained narrative is historical for the affected findings, rather than a blanket current relationship for the container.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Current G68 whole finding](#g68-current-independent) | independently reviewed |
-| [Current G70 whole finding](#g70-current-independent) | independently reviewed |
-| [Current G71 whole finding](#g71-current-independent) | independently reviewed |
-| [Current G72 whole finding](#g72-current-independent) | independently reviewed |
-| [Current G73 whole finding](#g73-current-independent) | independently reviewed |
+| [Current G68 whole finding](#g68-current-independent) | self-reviewed |
+| [Current G70 whole finding](#g70-current-independent) | self-reviewed |
+| [Current G71 whole finding](#g71-current-independent) | self-reviewed |
+| [Current G72 whole finding](#g72-current-independent) | self-reviewed |
+| [Current G73 whole finding](#g73-current-independent) | self-reviewed |
 | [Current G74 whole finding](#g74-current-independent) | independently reviewed |
-| [Current G75 whole finding](#g75-current-independent) | independently reviewed |
-| [Current G76 whole finding](#g76-current-independent) | independently reviewed |
-| [Current G78 whole finding](#g78-current-independent) | independently reviewed |
-| [Current G83 whole finding](#g83-current-independent) | independently reviewed |
-| [Current G84 whole finding](#g84-current-independent) | independently reviewed |
-| [Current G87 whole finding](#g87-current-independent) | independently reviewed |
-| [Current G89 whole finding](#g89-current-independent) | independently reviewed |
+| [Current G75 whole finding](#g75-current-independent) | self-reviewed |
+| [Current G76 whole finding](#g76-current-independent) | self-reviewed |
+| [Current G78 whole finding](#g78-current-independent) | self-reviewed |
+| [Current G83 whole finding](#g83-current-independent) | self-reviewed |
+| [Current G84 whole finding](#g84-current-independent) | self-reviewed |
+| [Current G87 whole finding](#g87-current-independent) | self-reviewed |
+| [Current G89 whole finding](#g89-current-independent) | self-reviewed |
 | [Original R794 finding](#c68-invariant-midpoint-actual-extraction-finding) | unknown |
 | [Original R794 finding](#c70-primitive-reflection-actual-extraction-finding) | unknown |
 | [Original R794 finding](#unit-energy-extended-whole-independent-finding) | unknown |
@@ -101,7 +107,7 @@ This changed no target, native payload, parameter domain or mathematical stateme
 | [Current G71 whole finding](#g71-current-independent) | [G71 dependency: statement](../../claims/Yin_C_G0051_v1.md#statement) | Accepted interface or expressly limited comparison; Fixed irreducible reciprocal original quartic and field normalization for F's exact hand control, not its parity law or finite graph data. |
 | [Current G72 whole finding](#g72-current-independent) | [G72 statement: statement](../../claims/Yin_C_G0072_v1.md#statement) | Complete current mathematical target proof, excluding the expressly post-initial credited comparison scopes; ENTIRE A--F: actual monomial seed/order, exact q/M/physical width, all-height nonzero-residual bound, current all-s income result, complete signed costs and strict one-step scope. |
 | [Current G72 whole finding](#g72-current-independent) | [G72 argument: argument](../../claims/Yin_C_G0072_v1.md#argument) | Complete current mathematical target proof, excluding the expressly post-initial credited comparison scopes; COMPLETE original21:23 D27 allocation/reuse/candidate, Sections1--6/Proposition1/Theorem2/Corollary3/equations1--13, controls, roles, original pending-input history and freeze. |
-| [Current G72 whole finding](#g72-current-independent) | [G72 argument: single-delay-current-assembly](../../claims/Yin_C_G0072_v1.md#single-delay-current-assembly) | Complete current mathematical target proof, excluding the expressly post-initial credited comparison scopes; Precise transfer from the historically pending D26 theorem to the identical currently accepted C71 all-weight E1 theorem; new statement/interface scope still awaiting actual review. |
+| [Current G72 whole finding](#g72-current-independent) | [G72 argument: single-delay-current-assembly](../../claims/Yin_C_G0072_v1.md#single-delay-current-assembly) | Complete current mathematical target proof, excluding the expressly post-initial credited comparison scopes; Precise transfer from the historically pending D26 theorem to the identical currently accepted C71 all-weight E1 theorem; the statement/interface was historically pending at extraction, and its current reviewed scope is supplied by this finding. |
 | [Current G72 whole finding](#g72-current-independent) | [G72 dependency: actual-resultant-coefficient-energy-bound](../../claims/Yin_C_G0570_v1.md#actual-resultant-coefficient-energy-bound) | Accepted interface or expressly limited comparison; Full original nonzero resultant, coefficient norm sqrt(S), rho, true residual width and radial charge for C; no circle-root or height deletion. |
 | [Current G72 whole finding](#g72-current-independent) | [G72 dependency: uniform-powered-angular-coherence](../../claims/Yin_C_G0570_v1.md#uniform-powered-angular-coherence) | Accepted interface or expressly limited comparison; Exact c,h0,b,epsilon, monotonicity and zero limit, with inherited Pri11/Dim19 source acceptance limits unchanged. |
 | [Current G72 whole finding](#g72-current-independent) | [G72 dependency: statement](../../claims/Yin_C_G0071_v1.md#statement) | Accepted interface or expressly limited comparison; ONLY A's adopted all-weight E1 q^8 implication for the small2<=s<=4 part of D, plus F's already retained actual quartic control; no dyadic or flatness restriction inserted. |
@@ -548,7 +554,8 @@ The following original accounts were compared after the new initial conclusions.
 Each retains its original date, actual checking and inputs, source and useful negative or limited scope, and unknown relationship.
 Past original-file presence and preservation claims describe those original acts and promise no current historical file image.
 The new findings do not backdate independence, enlarge an old review or rewrite a historical decision.
-Known independent whole findings R286/R293/R296/R295/R297/R400/R401/R309/R311/R315/R318 remain in their existing homes.
+Recorded whole findings R286/R293/R296/R295/R297/R298/R299/R309/R311/R315/R318 remain in their existing homes.
+The R286, R293, R296, R295, R299, R315 and R318 whole findings are SELF at their recorded actual inputs; this list supplies no blanket independence claim for the other findings.
 
 <a id="original-g0386-account"></a>
 
@@ -563,7 +570,7 @@ Separately assigned noncontributor actual-extraction reviewer g0001_review_recov
 The rounding-recovery author supplied the original D21 mathematics and the new C68 wrapper.
 This reviewer contributed neither.
 The reviewer previously whole-reviewed D15/J92, independently authored and executed J92's fixed native reconstruction, and THEN authored the C64 extraction wrapper; these ANCESTOR roles are disclosed and do not independently certify C68.
-C64 itself received the different actual extraction finding R377.
+C64 itself received the different actual extraction finding R282.
 No external human referee, formal assistant or new native mathematical run is claimed.
 
 #### Arrangement and exact actual scope
@@ -1064,7 +1071,7 @@ Human record author Yin.
 Separately assigned noncontributor AI reviewer g0001_review_recovery.
 Root authored C71's new statement/wrapper and contributed the all-weight selector; rounding-recovery authored the original two-label proof and completed the extended proof.
 Neither is an independent reviewer of this target.
-This reviewer authored R392's original whole finding but supplied NO D26 mathematical contribution and NO C71 wrapper or target edit.
+This reviewer authored [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding)'s original whole finding but supplied NO D26 mathematical contribution and NO C71 wrapper or target edit.
 Earlier actual C54/C57 reviews and C65/C67/C69 extraction roles are disclosed ancestor/separate-object roles, not current proof contributions.
 No external human referee, formal proof or mathematical native run is claimed.
 
@@ -1072,9 +1079,9 @@ No external human referee, formal proof or mathematical native run is claimed.
 
 The target is the ACTUAL normally allocated [C71](../../claims/Yin_C_G0071_v1.md#statement), dated21:25, with its entire A--F statement, initial proof-draft/under-review decision, actual dependency/support choices, registration and [complete argument](../../claims/Yin_C_G0071_v1.md#argument).
 The reviewer read the new wrapper after allocation and checked every statement against the entire21:10 D26 proof independently reconstructed in [R794](#unit-energy-extended-whole-independent-finding).
-R392 remains original WHOLE support only; it is neither rewritten nor automatically extended.
+[R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) remains original WHOLE support only; it is neither rewritten nor automatically extended.
 This new finding records the actual extraction inspection.
-The reviewer reuses its own earlier R392 reconstruction, which alone does not create a self-review relationship.
+The reviewer reuses its own earlier [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) reconstruction, which alone does not create a self-review relationship.
 However, the initial context of that whole-review arrangement is not sufficiently established, and this extraction account supplies no additional isolation facts for D26/C71.
 The relationship of this finding is therefore unknown, while the actual whole and extraction checking, original dates and precise scopes remain unchanged.
 
@@ -1094,7 +1101,7 @@ No outside theorem is made a premise through an ordinary source README, and acce
 
 PASS for the ENTIRE actual21:25 C71 A--F statement, complete preserved argument and exact direct interfaces above.
 No new mathematical, quantifier, denominator, signed-cost, extraction, preservation or source-scope defect was found.
-The actual statement does not inflate R392, reuse an author's own wrapper review, omit a nonzero guard or identify the selected auxiliary with the full tensor.
+The actual statement does not inflate [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding), reuse an author's own wrapper review, omit a nonzero guard or identify the selected auxiliary with the full tensor.
 This is a new actual finding, not an adoption decision or a future-revision approval.
 
 #### A and B: full-weight quantifiers and exact selected-versus-tensor interface
@@ -1198,7 +1205,7 @@ C71 retains every charge and excludes neither other repairs nor other packets.
 All initial decision interfaces match the actual mathematics.
 C50/L229 are the analytic premises at their retained source scope; C57's older E<1 application is distinguished from the locally checked E1 multiplication; C53 supplies mechanism ancestry and precise arithmetic warnings; C10's directly proved covariance bound is general at the used scope; C51 and L67 are used only as declared.
 The earlier source/reuse and contributor histories are fully retained.
-R392 is original whole support, and this R supplies the separate actual statement/argument inspection.
+[R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) is original whole support, and this R supplies the separate actual statement/argument inspection.
 
 The target Claim, original D and prior review were not edited.
 No mathematical program was run.
@@ -1219,7 +1226,7 @@ Separately assigned noncontributor AI reviewer g0001_review_recovery.
 Rounding-recovery authored D27 and this actual C72 statement/wrapper.
 Root independently whole-reviewed the original D27 in R296 while disclosing its earlier C53/C71 contributions.
 This reviewer supplied NO D27 or C72 candidate, proof step, formula, wrapper or edit.
-The reviewer's R392/R393 roles concern whole/actual reviews of ancestor C71, not authorship of that theorem.
+The reviewer's [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding)/[R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding) roles concern whole/actual reviews of ancestor C71, not authorship of that theorem.
 Earlier C65/C67/C69 wrappers are distinct mathematical objects.
 No external human referee, formal assistant or mathematical native execution is claimed.
 
@@ -1238,9 +1245,10 @@ Its visible D26 label, original date, complete pending-status sentence and scope
 After only that substitution, removing duplicate front matter, demoting the first title once and normalizing newline/terminal separating whitespace, the body is exactly preserved:22,400 characters,178 lines,7 original explicit anchors.
 All candidate/reuse/history, six sections, Proposition1/Theorem2/Corollary3,13 equations, controls, source/role limits and21:23 freeze survive.
 
-The actual C71 selected decision at21:32 is proved/independently reviewed, with R392 original whole and R393 actual extraction.
+The actual C71 selected decision at21:32 is proved with a historically declared independent relationship, with [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) original whole and [R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding) actual extraction.
+Referenced findings retain their actual unknown relationships.
 Its PartA and retained Theorem3 are the same general positive-rational-weight E1 theorem formerly supplied as D26.
-The preceding review-status wording records the historical adoption: C71's current aggregate field is now retired, and R392/R393 have relationship unknown for unestablished initial context.
+The preceding review-status wording records the historical adoption: C71's current aggregate field is now retired, and [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding)/[R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding) have relationship unknown for unestablished initial context.
 Their actual mathematical checks and C71's proved status remain; this finding does not provide new independent coverage of C71.
 The current PartF also retains the exact quartic control.
 L229's actual full resultant estimate/functions, C53's original projection/order boundary and C10v2's complete local covariance inequality were read at their used scopes.
@@ -1319,7 +1327,8 @@ Positive income therefore forces U>eta; T<=Bd gives m>eta/B.
 On any hypothetical m->0 sequence with FIXED B, eventual U<=Bm<=eta proves the stated zero-income conclusion uniformly over all choices in this SINGLE-delay class.
 Neither existence of that sequence nor a claim for arbitrary composite matrices follows.
 
-The new assembly explicitly selects C71's actual21:32 proved/independently reviewed decision and preserves its R392/R393 evidence boundaries.
+The new assembly explicitly selects C71's actual21:32 proved with a historically declared independent relationship decision and preserves its [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding)/[R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding) evidence boundaries.
+Referenced findings retain their actual unknown relationships.
 The old proof's pending-status sentence remains historical, with only its same-proof locator rebased.
 R296 is not silently upgraded to review this current assembly; the present R checks it separately.
 
@@ -1554,7 +1563,7 @@ Separately assigned noncontributor AI reviewer g0001_review_recovery.
 Root authored D29 and C74's actual statement/wrapper.
 Fresh matrix_recovery independently whole-reviewed original D29 in R297.
 This reviewer supplied NO D29 or C74 candidate, estimate, proof step, formula, wrapper or target edit.
-The reviewer's R392/R393 were whole/actual reviews of ancestor C71, not contributions to its mathematics; R396 similarly reviewed the motivating C72 extraction.
+The reviewer's [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding)/[R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding) were whole/actual reviews of ancestor C71, not contributions to its mathematics; R396 similarly reviewed the motivating C72 extraction.
 Those findings now have relationship unknown for unestablished initial context; they are not supplied as new independent reviews of their targets here.
 Other earlier wrapper roles are separate objects.
 No external human referee, formal assistant or mathematical native execution is claimed.
@@ -1732,7 +1741,7 @@ The retained account below keeps its original checking relationship.
 Date: 2026-10-12T14:28.
 Human record author Yin.
 Root is the separate actual noncontributor reviewer.
-The matrix-recovery agent authored D30; the review-recovery agent independently whole-reviewed it in R400 and THEN authored C75.
+The matrix-recovery agent authored D30; the review-recovery agent independently whole-reviewed it in R298 and THEN authored C75.
 Root supplied only the broad matrix inquiry and coordination, no candidate formula, proof step or wrapper content.
 Root directly read the entire original D30 and now the ACTUAL registered C75 A--F, initial decision, complete retained body and every direct input.
 Earlier coordination/adoption of ancestor C73 is not new-proof authorship or a substitute for this inspection.
@@ -1749,11 +1758,11 @@ A direct full-body comparison with actual D30 confirmed19285 retained characters
 Only duplicated front matter, first-title demotion, line endings and terminal separating whitespace differ as declared.
 Every candidate, argument, source resolution, role, limitation and original22:09 freeze remains.
 Old pending-review wording is preserved as history, not used to override the current extraction decision.
-R400 remains original-whole support only and is not extended to certify its author's new wrapper.
+R298 remains original-whole support only and is not extended to certify its author's new wrapper.
 
 Root ACTUALLY text-read the registered BV04 retained PDF at printed650--651/PDF664--665 using pdftotext in this review preparation.
 The selected text gives det X=det A det S, the lower-right inverse S^-1 and positive-definite Schur equivalence.
-Root does not claim a new visual or full-book review; R400 separately records its own text/two-page visual inspection.
+Root does not claim a new visual or full-book review; R298 separately records its own text/two-page visual inspection.
 All needed block algebra is proved locally and no singular pseudoinverse statement is used.
 BV04-U001's separation scope is NOT expanded, and the ordinary source README is not treated as a canonical theorem target.
 Actual L4 Sections2--3, Den09 Fourier subsection and Luc22 kernel/full-trace subsection were read directly; their original-source limits remain.
@@ -1825,7 +1834,7 @@ The retained account below keeps its original checking relationship.
 Date: 2026-10-12T14:30.
 Human record author Yin.
 Root is the separate actual noncontributor reviewer.
-Rounding-recovery authored the new D31 proof; matrix-recovery independently whole-reviewed it as R401 and then authored C76's wrapper.
+Rounding-recovery authored the new D31 proof; matrix-recovery independently whole-reviewed it as R299 and then authored C76's wrapper.
 Root supplied the broad request and read the resulting complete proofs but supplied no new fiber, path, formula or wrapper contribution.
 Earlier coordination, antecedent proof reviews or adoptions do not substitute for this actual inspection.
 This is scoped internal AI review, not external human refereeing or formal verification.
@@ -1839,7 +1848,7 @@ The reviewer ACTUALLY read the registered22:25 C76 A--F, its decision and ENTIRE
 All original22:14 candidate/reuse/history, Sections1--7/Theorems1--2/equations1--17, source limits, author checks and freeze were independently reconstructed.
 Direct whole-body comparison confirms26231 retained characters,224 lines and8 original explicit anchors; the only changes are the declared duplicate front matter, one-hash first-title demotion and line-ending/separating-whitespace normalization.
 Original links and every mathematical/historical paragraph remain.
-R401 is original-whole support only, not prospective certification of its reviewer's wrapper.
+R299 is original-whole support only, not prospective certification of its reviewer's wrapper.
 
 Actual C60 statement and conditional mean interface, C70 statement/long-core identity/midpoint/padding, and C45 statement PartA were read at their complete direct scopes.
 In particular the original law, two-real-coordinate norm, N-4 versus N-5 clocks, every original probability and source-acceptance limit are retained.
@@ -1921,7 +1930,8 @@ The retained account below keeps its original checking relationship.
 
 Date: 2026-10-12T15:41.
 Human record author Yin.
-Root is the separate NONCONTRIBUTOR reviewer. g0001_review_recovery authored all new D34 mathematics; root supplied the broad all-energy question only and no candidate formula or proof step.
+Root is the separate NONCONTRIBUTOR reviewer.
+g0001_review_recovery authored all new D34 mathematics; root supplied the broad all-energy question only and no candidate formula or proof step.
 Earlier root reviews/coordination of C66 and other accepted ancestors are disclosed reuse history, not independent review of the present new argument.
 This finding actually reconstructs the complete saved target.
 It is internal AI review at the stated scope, not external human refereeing or formal verification.
@@ -2032,7 +2042,8 @@ The retained account below keeps its original checking relationship.
 
 Date: 2026-10-12T15:57.
 Human record author Yin.
-Root separately reviews the ACTUAL registered C78 after its23:51:02 allocation. g0001_review_recovery authored original D34; g0001_matrix_recovery authored C78's statement/wrapper.
+Root separately reviews the ACTUAL registered C78 after its23:51:02 allocation.
+g0001_review_recovery authored original D34; g0001_matrix_recovery authored C78's statement/wrapper.
 Root supplied neither proof nor wrapper content, having only given the broad question and independently whole-reviewed the complete original as R406.
 This is a NEW actual inspection, not a prospective extension of R406.
 Reusing the reviewer's own R406 whole reconstruction is not itself self-review.
@@ -2122,7 +2133,8 @@ Original fixed source: `mathematics/audits/reviews/Yin_R_G0417_v1.md#c83-pairwis
 The retained account below keeps its original checking relationship.
 
 Date: 2026-10-12T16:50.
-Human record author Yin. g0001_review_recovery performs a separately organized NONCONTRIBUTOR actual extraction review of C83, whose original D38 proof was authored by g0001_matrix_recovery and whose new statement/wrapper was authored by rounding-recovery after its original whole R309.
+Human record author Yin.
+g0001_review_recovery performs a separately organized NONCONTRIBUTOR actual extraction review of C83, whose original D38 proof was authored by g0001_matrix_recovery and whose new statement/wrapper was authored by rounding-recovery after its original whole R309.
 This reviewer contributed neither D38 nor C83.
 Its other G0001 Claim-wrapper and review roles, including C75 mentioned only as frontier context in the retained history, supply no authority for this proof.
 Root supplied the review assignment and scope, not a mathematical verdict or proof step.
@@ -2276,9 +2288,10 @@ Original fixed source: `mathematics/audits/reviews/Yin_R_G0420_v1.md#c84-binary-
 The retained account below keeps its original checking relationship.
 
 Date: 2026-10-12T17:03.
-Human record author Yin. g0001_review_recovery reviews the ACTUAL C84 statement/wrapper authored by g0001_matrix_recovery and the complete original D40 authored solely by root.
+Human record author Yin.
+g0001_review_recovery reviews the ACTUAL C84 statement/wrapper authored by g0001_matrix_recovery and the complete original D40 authored solely by root.
 The reviewer contributed neither new proof nor wrapper.
-Its accepted ancestor roles include C71 original/actual reviews R392/R393, C74 actual review R399, C77 actual review R404 and the separate unit-direction C82 actual review R416.
+Its accepted ancestor roles include C71 original/actual reviews [R794 v2 original unit-energy](Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding)/[R794 v2 original C71 extraction](Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding), C74 actual review [R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding), C77 actual review R301 and the separate unit-direction C82 actual review R310.
 These are disclosed prior review roles, not new proof contributions or automatic coverage.
 D37/C82 is comparison only; this finding reconstructs the exceptional unit-height case directly.
 D41 was neither read as a premise nor incorporated.
@@ -2453,11 +2466,12 @@ Original fixed source: `mathematics/audits/reviews/Yin_R_G0424_v1.md#c87-three-p
 The retained account below keeps its original checking relationship.
 
 Date: 2026-10-12T17:31.
-Human record author Yin. g0001_review_recovery separately reviews the ACTUAL C87 statement/extraction authored by g0001_matrix_recovery and the ENTIRE final D41 proof authored solely by root.
+Human record author Yin.
+g0001_review_recovery separately reviews the ACTUAL C87 statement/extraction authored by g0001_matrix_recovery and the ENTIRE final D41 proof authored solely by root.
 This reviewer supplied only a READ-ONLY locator/acceptance-scope lookup for the ALREADY accepted Smy08 nonreciprocal theorem before D41's final author development.
 It supplied no reciprocal elimination, rounding proof, control, new formula or word argument.
 It contributed neither D41 nor the C87 wrapper.
-Its prior accepted ancestor roles include C74 actual review R399, C84 actual review R420 and other disclosed G0001 reviews; those do not automatically cover this new artifact.
+Its prior accepted ancestor roles include C74 actual review [R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding), C84 actual review R420 and other disclosed G0001 reviews; those do not automatically cover this new artifact.
 
 The actual original D41 was read in preparation, then the newly registered C87 statement and preservation were independently inspected.
 The reviewer reconstructed the obligations and full mathematics before consulting R315's decisive account, and read the actual direct interfaces.
@@ -2642,7 +2656,8 @@ Original fixed source: `mathematics/audits/reviews/Yin_R_G0430_v1.md#c89-four-po
 The retained account below keeps its original checking relationship.
 
 Date: 2026-10-12T17:52.
-Human record author Yin. g0001_review_recovery separately reviews the ACTUAL C89 statement/wrapper authored by g0001_matrix_recovery and ENTIRE extended D43 authored solely by root.
+Human record author Yin.
+g0001_review_recovery separately reviews the ACTUAL C89 statement/wrapper authored by g0001_matrix_recovery and ENTIRE extended D43 authored solely by root.
 This reviewer contributed neither D43 mathematics nor this wrapper.
 Its prior roles include C87 actual review R424, C84 actual review R420, C71 original/actual reviews and C74 actual review.
 Earlier read-only Smy08 locator help and the earlier DS17/C27 reuse-reading account concerned already existing accepted inputs; neither supplied the new coset doubling, four-power mutual divisibility, even-polynomial argument, control or word proof.

@@ -122,22 +122,28 @@ The assigned agent derived and checked the target, including the incorporated cu
 <a id="historical-finite-posterior-assess-whole-finding"></a>
 ## Original L98 separate whole check
 
-The actual complete1–12 check and its no-double-counting confirmation are recorded. Sufficient initial substantive context is not, and the old independent wording alone does not establish isolation. This exact whole finding is unknown.
+The actual complete1–12 check and its no-double-counting confirmation are recorded.
+Sufficient initial substantive context is not, and the old independent wording alone does not establish isolation.
+This exact whole finding is unknown.
 
 <a id="historical-finite-posterior-coordinator-finding"></a>
 ## Original L98 coordinator contribution and whole check
 
-The concrete cubic statistic and orthogonal projection certificate in Section3 are a mathematical contribution to this target. The coordinator subsequent complete1–12 check is self-reviewed.
+The concrete cubic statistic and orthogonal projection certificate in Section3 are a mathematical contribution to this target.
+The coordinator subsequent complete1–12 check is self-reviewed.
 
 <a id="historical-concentration-author-finding"></a>
 ## Original L100 author derivation and source reread
 
-The agent developed and checked the explicit concentration/time theorem and actually reread the recorded source proofs. Its author/source-reread account is self-reviewed, with no later enlargement of source depth.
+The agent developed and checked the explicit concentration/time theorem and actually reread the recorded source proofs.
+Its author/source-reread account is self-reviewed, with no later enlargement of source depth.
 
 <a id="historical-concentration-coordinator-whole-finding"></a>
 ## Original L100 coordinator direct whole check
 
-The actual complete direct2–12 check and precision requests are recorded. These requests supply no new proof ingredient; neither the accepted source unit nor the author reread automatically proves isolation or contribution. Initial substantive context is unestablished, so the exact direct whole finding is unknown and contains no new source inspection.
+The actual complete direct2–12 check and precision requests are recorded.
+These requests supply no new proof ingredient; neither the accepted source unit nor the author reread automatically proves isolation or contribution.
+Initial substantive context is unestablished, so the exact direct whole finding is unknown and contains no new source inspection.
 
 ## Complete original L98 checking account
 

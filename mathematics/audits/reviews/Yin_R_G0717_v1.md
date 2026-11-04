@@ -16,11 +16,11 @@ The reviewer received the exact fixed targets, scope and governing rules in a fr
 No local persistent-memory file, other chat or rollout was consulted.
 Before its initial finding it read C498's entire first Statement, lines 10--93, and the entire original mathematical body from argument through original Sections 1--7, lines 95--554, stopping before Actual whole checking and retained limits.
 It read the necessary fixed mathematical statements and proofs described below.
-The parallel fixed C497 body was another assigned review target, not an author explanation of the collective-column proof.
+The parallel fixed C493 body was another assigned review target, not an author explanation of the collective-column proof.
 
 This was not zero exposure to checking or historical prose.
 The fixed original C498 body itself declares initially SELF, records an already-audited Par88 unit, describes contributions, lists author self-checks and gives its freeze and structural-check statements.
-C497 contains reuse/source-check assertions, the necessary C480 Statement contains native-checker UNKNOWN/SELF history, and dependency-heading inventories exposed old adoption/checking heading names.
+C493 contains reuse/source-check assertions, the necessary C476 Statement contains native-checker UNKNOWN/SELF history, and dependency-heading inventories exposed old adoption/checking heading names.
 These direct fixed-input assertions were disclosed as encountered and were treated as objects to verify, not mathematical verdict premises.
 The target Assessment/checking suffixes, current R709, old R174 and the maintenance handbook's target summaries were not read before the initial finding.
 No transcript filtering or retrospective claim of zero exposure is used.
@@ -235,6 +235,6 @@ The [L220 comparison and elementary Pinsker paragraph](../../ledger/Yin_L_G0220_
 
 Source attribution and applicability were checked against the retained records at their existing depths.
 No source PDF, online source retrieval, source-proof audit, numerical approximation, singular-value experiment, J/native execution, parameter search or producer run occurred.
-The current proof is analytic and algebraic; it does not claim to rerun any C480/L170/C402/C485 native interface read for the parallel C497 target.
+The current proof is analytic and algebraic; it does not claim to rerun any C476/L170/C399/C481 native interface read for the parallel C493 target.
 The unresolved near-one interlaced-column or retained-lower-constraint questions are directions, not inputs making this proof pass.
 This new review records its own inspection; Claim adoption, historical-consumer reconciliation and any old-container retirement remain separate actions.

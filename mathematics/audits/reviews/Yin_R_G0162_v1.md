@@ -186,7 +186,8 @@ G0001 is still active and unresolved.
 | [Original complete finding](#bounded-defect-complete-independent-review) | unknown |
 
 The relation above makes the presently established arrangement explicit without changing the original2026-10-10 inspection, mathematical checks, attribution or historical verdict.
-The old reviewer declares no contribution to this assembly and identifies its upstream work and the frozen target. The actual content and ordering of any substantive shared overview or progress context are not established by that declaration; upstream authorship alone does not prove contribution to this new proof.
+The old reviewer declares no contribution to this assembly and identifies its upstream work and the frozen target.
+The actual content and ordering of any substantive shared overview or progress context are not established by that declaration; upstream authorship alone does not prove contribution to this new proof.
 A new whole mathematical review must first examine the complete target independently, then compare every useful original finding and limitation; no new self-check, alternate implementation or retained expected certificate supplies the missing old arrangement.
 
 ## Review bindings

@@ -6,9 +6,9 @@ author: Yin
 
 Date: 2026-10-10.
 
-Current responsible mathematical home: [C482](../claims/Yin_C_G0482_v1.md#statement), proved by selected2026-10-22T00:06 after the [complete R697 independent whole finding](../audits/reviews/Yin_R_G0697_v1.md#c486-whole-independent-finding).
+Current responsible mathematical home: [C482](../claims/Yin_C_G0482_v1.md#statement), proved by selected 2026-10-22T00:06 after the [complete R697 independent whole finding](../audits/reviews/Yin_R_G0697_v1.md#c486-whole-independent-finding).
 The prior actual07:36 decision after the [complete R693 whole SELF](../audits/reviews/Yin_R_G0693_v1.md#coherent-local-whole-self-finding) retains its original inputs and relationship.
-The original `Yin_R_G0169_v1#coherent-local-triangularization-complete-independent-review` remains historically UNKNOWN at its entire proof/source/native/cost scope, with [the full later comparison](../audits/reviews/Yin_R_G0697_v1.md#l270-and-r169) preserving its exact10:34 review and distinct day-precision original author SELF.
+The original `Yin_R_G0169_v1#coherent-local-triangularization-complete-independent-review` remains historically UNKNOWN at its entire proof/source/native/cost scope, with [the full later comparison](../audits/reviews/Yin_R_G0697_v1.md#l270-and-r169) preserving its exact 2026-10-10T02:34 review and distinct day-precision original author SELF.
 [The26b-U004](../audits/literature/The26b/Yin_U004.md#the26b-u004) preserves both original HTML inspection scopes, unknown reading minute/snapshot and all uninspected proof/PDF and unadopted-lead limits.
 The full meaningful exploration/failed branch/cost/contribution/source history and original fixed inputs below remain unchanged; historical independent/active-route wording supplies no present isolation or Task/E execution authority.
 The coordinating AI for Yin adopts this restricted result after complete separately organized noncontributor review under the continuing G0001 authorization.
@@ -362,4 +362,4 @@ The author self-check covers complete Sections1--6, equations(1)--(11), all thre
 
 
 
-The source/dependency section of original `Yin_R_G0169_v1#actually-checked-dependencies-and-source-scope` records the actual old L262/L266/L191/L64/Tag04GE reads; [the later complete comparison](../audits/reviews/Yin_R_G0697_v1.md#l270-and-r169) preserves that entire source scope, original2026-10-10T02:34 review and UNKNOWN relationship without recasting later C/U retention as old input.
+The source/dependency section of original `Yin_R_G0169_v1#actually-checked-dependencies-and-source-scope` records the actual old L262/L266/L191/L64/Tag04GE reads; [the later complete comparison](../audits/reviews/Yin_R_G0697_v1.md#l270-and-r169) preserves that entire source scope, original 2026-10-10T02:34 review and UNKNOWN relationship without recasting later C/U retention as old input.

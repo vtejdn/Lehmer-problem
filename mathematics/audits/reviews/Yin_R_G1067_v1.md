@@ -42,9 +42,9 @@ No earlier comparison is promoted into a mathematical premise for the new period
 | [Whole finding](#whole-unbounded-period-energy-finding) | [C847 fixed open decision](../../claims/Yin_C_G0847_v1.md#decision-unbounded-period-energy-gap-open) | Exact statement, argument and all five dependency/support selections at the reviewed fixed open scope; no adoption is performed by this review. |
 | [Whole finding](#whole-unbounded-period-energy-finding) | [Adopted C845](../../claims/Yin_C_G0845_v1.md#decision-whole-reviewed-2026-10-28) | Statement B--C and associated costs: fixed-q ordered cutoff, all varying-degree seeds with nonzero constant term and energy at most q squared, excluded constants, sign minus, exact separation, original-unit/full-degree integral value including zero, true span and all raw costs; reuse of applicable whole R1065 without a new recursive proof-library audit. |
 | [Whole finding](#whole-unbounded-period-energy-finding) | [Adopted C842 nonvacuity](../../claims/Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | Statement D and NG only: every compatible actual inner-residue assignment at every even degree, CRT/translated Eisenstein construction, infinitely many exact-degree reciprocal irreducible nontorsion units and all coefficient costs, with applicable R1062 source/inspection limits. |
-| [Whole finding](#whole-unbounded-period-energy-finding) | [C842 finite-family comparison](../../claims/Yin_C_G0842_v1.md#fixed-reversal-auxiliary-class) | Finite fixed seed set and modulus with its own common parameters; no uniform-in-period consequence, low-degree patch or C394 input is transferred to C847. |
+| [Whole finding](#whole-unbounded-period-energy-finding) | [C842 finite-family comparison](../../claims/Yin_C_G0842_v1.md#fixed-reversal-auxiliary-class) | Finite fixed seed set and modulus with its own common parameters; no uniform-in-period consequence, low-degree patch or C391 input is transferred to C847. |
 | [Whole finding](#whole-unbounded-period-energy-finding) | [C135 comparison](../../claims/Yin_C_G0135_v1.md#statement) | Complete modular binomial-product divisibility, bounded binomial number and original exponent costs, including central parity blocks, at its actual proof-draft status; no adoption or strict separation is inferred. |
-| [Whole finding](#whole-unbounded-period-energy-finding) | [C775 comparison](../../claims/Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) | Actual fixed C801/C809 copied-sign target, supported template availability and fixed template budgets; the different original domain supplies no arithmetic theorem for the present irreducible residue class. |
+| [Whole finding](#whole-unbounded-period-energy-finding) | [C775 comparison](../../claims/Yin_C_G0775_v1.md#decision-whole-reviewed-2026-10-26) | Actual fixed C759/C767 copied-sign target, supported template availability and fixed template budgets; the different original domain supplies no arithmetic theorem for the present irreducible residue class. |
 
 <a id="whole-unbounded-period-energy-finding"></a>
 ## Whole mathematical finding
@@ -122,7 +122,7 @@ Since p/D<1/J, one obtains
     m(P)>u_q/(1+p/D)>u_q/(1+1/J)=g_q.
 
 The last strict inequality is valid because u_q is positive.
-Every admitted original degree already satisfies separation; there is no missing low-degree branch and no need for C394.
+Every admitted original degree already satisfies separation; there is no missing low-degree branch and no need for C391.
 The constants are uniform in p, D, residues, lifts and original coefficients for fixed q, with the energy and repetition restrictions retained.
 
 ### 5. Exact orbit minimization, including all binary cases

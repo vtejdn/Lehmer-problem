@@ -38,8 +38,16 @@ Self-check covered monomial normalization and all coefficient signs; the complet
 Actual completion: 2026-10-22T19:31.
 Relationship: self-reviewed.
 
-I inspected the actual published whole Statement against the complete original G233 proof and old R132/J51 scope. Integral energy<4 forces exactly the small unit-coefficient supports, while the actual-order ideal condition excludes constants/monomials without confusing norm valuation with congruence. The characteristic-zero reciprocal subtraction handles 2a=b and all signs and gives genuine nonzero norms. The binary order uses EVERY e_phi and its 2-power nilpotent factor. Reciprocity gives the two exponent pairs, but order3 in a zero-divisor ring alone is insufficient; the factorwise common positive3-adic condition and simple-root Frobenius multiplicities prove both directions at all exponents and the SHARP least degree.
-The same h gives actual all-root dyadic capture before invoking the accepted full-height theorem; its exact h<=3T/2 direction charges the original monomial degree. The conditional degree lower bound retains total m and the actual Omega domain and does not assert a near-one sequence. All three original P4/P6/P10 reduction orders, P6 multiplicity4/root-depth4/3, complete signed norms, actual divisions and nonmultiple boundaries match the full proof. The retained J51 initial library failure is not called a successful theorem check; the old author replay and different integer determinant verification remain distinct true evidence, with no producer run here. Current SELF neither reclassifies the old whole review, closes M04 nor expands source/native scope.
+I inspected the actual published whole Statement against the complete original G233 proof and old R132/J51 scope.
+Integral energy<4 forces exactly the small unit-coefficient supports, while the actual-order ideal condition excludes constants/monomials without confusing norm valuation with congruence.
+The characteristic-zero reciprocal subtraction handles 2a=b and all signs and gives genuine nonzero norms.
+The binary order uses EVERY e_phi and its 2-power nilpotent factor.
+Reciprocity gives the two exponent pairs, but order3 in a zero-divisor ring alone is insufficient; the factorwise common positive3-adic condition and simple-root Frobenius multiplicities prove both directions at all exponents and the SHARP least degree.
+The same h gives actual all-root dyadic capture before invoking the accepted full-height theorem; its exact h<=3T/2 direction charges the original monomial degree.
+The conditional degree lower bound retains total m and the actual Omega domain and does not assert a near-one sequence.
+All three original P4/P6/P10 reduction orders, P6 multiplicity4/root-depth4/3, complete signed norms, actual divisions and nonmultiple boundaries match the full proof.
+The retained J51 initial library failure is not called a successful theorem check; the old author replay and different integer determinant verification remain distinct true evidence, with no producer run here.
+Current SELF neither reclassifies the old whole review, closes M04 nor expands source/native scope.
 
 Administrative final sentence inspection: 2026-10-22T19:37.
 Original checking/adoption/freeze sentences are historical, and the same-object J current home is explicit; no mathematical theorem, bound, proof, original native input or independent replay changed.

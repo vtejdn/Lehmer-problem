@@ -9,7 +9,7 @@ Provenance: project deduction under the unchanged [G0001 original contract](../t
 Root proposed the safe-unit B_7 degree adjustment followed by an invisible ordinary row selecting the exponent class and the remaining degree class.
 The characteristic_zero_bridge agent checked the full unit exponent, source preservation and exact degree costs, and supplied the optimized two-candidate selection with total increment at most396Q.
 Root read the complete saved UC1--UC10 argument.
-Both agents are substantive contributors; fresh isolated whole review and separate adoption remain outstanding.
+Both agents are substantive contributors; fresh isolated whole review and separate adoption were still outstanding at author registration.
 No native coefficient expansion, source-exponent evaluation or affine-rank calculation is used.
 The [endpoint affine investigation](../drafts/Yin_D_G0006.md#next-endpoint-edge-sign-and-old-x-interface) and [true-certificate inquiry](../drafts/Yin_D_G0006.md#finite-construction-true-certificate-boundary) are separate unresolved work, not parts of this Claim.
 
@@ -185,7 +185,7 @@ The endpoint height1 problem THEN introduces a further outer factor:
     degU_end=3d_sharp-6,
     full reciprocal degree at q=2q(3d_sharp-6).
 
-The outer multiplier lies in C747's algebraic local domain, including possible overlap with the old source, but is NOT asserted to preserve every DG3/DG6 jet or the actual global canonical remainder by C775's special source-preserving multiplier theorem.
+The outer multiplier lies in C747's algebraic local domain, including possible overlap with the old source, but is NOT asserted to preserve every DG3/DG6 jet or the actual global canonical remainder by C738's special source-preserving multiplier theorem.
 All complete-source preservation and synthetic-layer claims above concern U_sharp BEFORE that outer step.
 The endpoint reciprocal binary polynomial remains nonsquare, so every monic reciprocal height1 lift of its q-th power is exactly a dyadic substitution P(z^q) of a base height1 lift, with the own trace and full degree retained.
 
@@ -387,7 +387,7 @@ To form the endpoint height1 question one THEN introduces the further outer mult
     degU_end=3d_sharp-6,
     full reciprocal degree at q=2q(3d_sharp-6). (UC10)
 
-The outer multiplier is admissible for C747's algebraic local mask argument, but is not asserted to preserve all DG3/DG6 jets or the ACTUAL global canonical remainder by an unproved use of C775's special multiplier theorem.
+The outer multiplier is admissible for C747's algebraic local mask argument, but is not asserted to preserve all DG3/DG6 jets or the ACTUAL global canonical remainder by an unproved use of C738's special multiplier theorem.
 The complete-source degree/gap/canonical/synthetic preservation in UC8--UC9 concerns U_sharp before that outer step.
 The endpoint binary polynomial remains nonsquare because the outer reciprocal factor is a square, and exact height1 descent retains the actual base-sign problem at q.
 The actual e=2 conclusion supplies the two-dimensional local mask domain; it does not evaluate EP10's reference target/rank, impose every old primary or establish irreducibility.
@@ -404,7 +404,7 @@ No claim that Lambda(U_sharp)=0, no passing full height1 residual solution, no c
 | --- | --- |
 | date | 2026-10-25T21:42 |
 | status | open |
-| reason | Register the complete UC1--UC10 author construction after root read the whole saved proof. For every actual bounded C691 whole-row witness, a safe-unit B7 adjustment and a two-candidate invisible-row choice achieve exponent class0 and endpoint admissibility together with extra degree at most396Q, preserving all original complete-source data at new paid bounds. The resulting endpoint has a two-dimensional local mask space and one nonzero even mask, with the preserved source and the further outer endpoint polynomial kept separate. Root and characteristic_zero_bridge are contributors, not independent reviewers; fresh isolated whole review and separate adoption remain outstanding. No original residue evaluation, old-primary affine rank, full sign solution, irreducible realization or unrestricted Task completion is asserted. |
+| reason | Register the complete UC1--UC10 author construction after root read the whole saved proof. For every actual bounded C691 whole-row witness, a safe-unit B7 adjustment and a two-candidate invisible-row choice achieve exponent class0 and endpoint admissibility together with extra degree at most396Q, preserving all original complete-source data at new paid bounds. The resulting endpoint has a two-dimensional local mask space and one nonzero even mask, with the preserved source and the further outer endpoint polynomial kept separate. Root and characteristic_zero_bridge are contributors, not independent reviewers; fresh isolated whole review and separate adoption were still outstanding at author registration. No original residue evaluation, old-primary affine rank, full sign solution, irreducible realization or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

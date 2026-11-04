@@ -28,7 +28,10 @@ No native mathematical program, solver, J, numerical scan, package, formal verif
 | [Entire minimal Gram author finding](#minimal-rational-gram-whole-author-finding) | self-reviewed |
 | [Actual C34 extraction finding](#c34-minimal-rational-gram-extraction-finding) | self-reviewed |
 
-The original arrangement explicitly supplied proof ingredients for the strict real factor, interior point, rational-affine correction and intended window consequence before review. This is relevant mathematical context concerning the proof, even without a contributed proof step. Both findings are self-reviewed under the current rule. The original dates, complete local reconstruction, later canonical-attribution closure and all strictness, source and conditional-uniformity limits remain unchanged.
+The original arrangement explicitly supplied proof ingredients for the strict real factor, interior point, rational-affine correction and intended window consequence before review.
+This is relevant mathematical context concerning the proof, even without a contributed proof step.
+Both findings are self-reviewed under the current rule.
+The original dates, complete local reconstruction, later canonical-attribution closure and all strictness, source and conditional-uniformity limits remain unchanged.
 
 ## Review bindings
 
@@ -251,7 +254,7 @@ A clearer direct-inequality decision-table locator was recommended to root; this
 
 C11's selected extension has the TOTALLY REAL trace domain.
 C13v2's selected Section7 physically proves its OWN arbitrary-nonzero/nonreal completion, so no formal C11/C10 scope is silently enlarged.
-Their current selected R220/R223 independent findings match these unchanged interfaces.
+The historical R220/R223 findings match these unchanged interfaces at their actual SELF relationships; later whole adoptions retain their separate responsible selections.
 The actual reciprocal O0, alpha/inverse, original even degree, full norm1 and actual integer residues are retained.
 No maximal-order, extra trace-reality or unit-only restriction is introduced by the new local Gram theorem.
 

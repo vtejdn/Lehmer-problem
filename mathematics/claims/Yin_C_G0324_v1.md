@@ -41,7 +41,7 @@ author: Yin
 | dependency | [Original half-Gaussian endpoint bound](../ledger/Yin_L_G0251_v1.md#original-relative-gaussian-atom-profile) | Accepted original ternary law and complete relative endpoint profile at coefficient1/2; no sharp-profile premise. |
 | dependency | [Full finite compensation geometry](../ledger/Yin_L_G0282_v1.md#finite-prefix-schur-remainder) | Accepted actual integer columns, positive completion, full real-tail span, complete determinant/discriminant expense and original collision limit. |
 | dependency | [Complete hyperbolic all-prefix proof](Yin_C_G0310_v1.md#statement) | Exact retained whole-support energy/Gram construction, whose required projection, neutral complement and all extra cross costs are proved here. |
-| review | [Actual complete independent finding](../audits/reviews/Yin_R_G0554_v1.md#whole-c325) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C323 includes both complete fixed native records, C324/C324 are proof-only. |
+| review | [Actual complete independent finding](../audits/reviews/Yin_R_G0554_v1.md#whole-c325) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C322 includes both complete fixed native records; C323/C324 are proof-only. |
 
 
 
@@ -60,7 +60,7 @@ author: Yin
 | dependency | [Exact dependency](../ledger/Yin_L_G0251_v1.md#original-relative-gaussian-atom-profile) | Accepted original ternary law and complete relative endpoint profile at coefficient1/2; no sharp-profile premise. |
 | dependency | [Exact dependency](Yin_C_G0517_v1.md#finite-prefix-schur-remainder) | Accepted actual integer columns, positive completion, full real-tail span, complete determinant/discriminant expense and original collision limit. |
 | dependency | [Exact dependency](Yin_C_G0310_v1.md#statement) | Exact retained whole-support energy/Gram construction, whose required projection, neutral complement and all extra cross costs are proved here. |
-| review | [Exact review](../audits/reviews/Yin_R_G0554_v1.md#whole-c325) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C323 includes both complete fixed native records, C324/C324 are proof-only. |
+| review | [Exact review](../audits/reviews/Yin_R_G0554_v1.md#whole-c325) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C322 includes both complete fixed native records; C323/C324 are proof-only. |
 
 ## Exact retained theorem
 

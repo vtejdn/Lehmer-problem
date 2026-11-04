@@ -92,4 +92,3 @@ It found no defect; this supplies separate independent coverage of both contribu
 | ms25_source complete written proof review (1)--(12) and finite integer iid extension | independently reviewed |
 
 No new source, computation or original-source reread formed part of these proof reviews.
-No identifier allocation or fixed-material change was made by the assigned agent.

@@ -248,7 +248,7 @@ The actual original degree accounts remain
     degR_out=d_out-g_src,
     degK=7N+h-3, degT_K=(7N+h-3)/2.           (DR15)
 
-Every complete source row, full primary multiplicity, fresh multiplicity3, original gap, K_odd, q_M and plateau belongs to the unchanged C801/C767 input.
+Every complete source row, full primary multiplicity, fresh multiplicity3, original gap, K_odd, q_M and plateau belongs to the unchanged C759/C767 input.
 The cost t+L concerns an actual toggle description and the proof quotient; it does not remove source degree or replace the true original field by a small quotient.
 There is no new raised-q theorem here.
 The conditional normalized-error representative, even if constructed, would remain in the positive-measure fixed-budget family and supplies no nearzero Mahler sequence.

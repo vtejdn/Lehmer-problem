@@ -8,7 +8,7 @@ author: Yin
 # Selected anti-column trace-kernel and complete arithmetic controls
 
 [C588](../../../claims/Yin_C_G0588_v1.md#statement) retains the complete current mathematics; [R785](../../../audits/reviews/Yin_R_G0785_v1.md#preserved-complete-original-r203-accounts) owns all complete original formal findings at their actual old inputs.
-The [current isolated whole C607 finding](../../../audits/reviews/Yin_R_G0785_v1.md#selected-edge-current-independent) includes the separately declared new read-only check of all original mathematical payload fields; it does not run this producer or the old reviewer.
+The [current isolated whole C588 finding](../../../audits/reviews/Yin_R_G0785_v1.md#selected-edge-current-independent) includes the separately declared new read-only check of all original mathematical payload fields; it does not run this producer or the old reviewer.
 The exact inputs are P4=t^4-t^3-t^2-t+1, P6=t^6-t^5-t^3-t+1 and PL=t^10+t^9-t^7-t^6-t^5-t^4-t^3+t+1.
 At degree2s use n∈{s,2s-1,2s,2s+1,3s}, giving15 windows.
 P6 is distinct from S6=t^6-t^4-t^3-t^2+1.

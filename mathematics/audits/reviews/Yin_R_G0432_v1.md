@@ -13,7 +13,7 @@ After checking the complete author-ready body dated2026-10-18T17:14, the reviewe
 Only an administrative retention wrapper was added; the mathematical body was preserved unchanged.
 
 This is nonblind review: the root's proposed scope and the author's completed-scope message were available.
-The reviewer previously independently reviewed L419 in R428 and C170 in R556, and authored J106's independent verifier underlying R558.
+The reviewer previously independently reviewed L419 in R428 and C170 in [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding), and authored J106's independent verifier underlying R412.
 Those upstream review roles are disclosed rather than treated as proof contributions to this new result or as fresh numerical executions.
 The L419 statements and actual graph/strip interfaces were inspected at their fixed scopes; the existing L414/R423 and L411/R416 interfaces were read for their precise uses.
 No new native computation, finite graph scan, source acquisition, original external-proof audit or formal verification was performed.

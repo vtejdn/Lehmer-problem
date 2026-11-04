@@ -7,8 +7,8 @@ author: Yin
 Date: 2026-10-21T20:57.
 Human operator: Yin.
 The checking agent read all358original L188 lines, all63original R87 lines and the entire actual490-line published open C450 statement, argument, decision and limitations.
-It read the complete needed C257 original norm/local multiplicity interface, C266 cyclotomic divisor-layer proof, C394 actual general-unit powered-degree/cost and uniform finite-window argument, and the exact existing Xyl11-U001 source statement, applicability and inspection-depth limits.
-The C379v2 automatic-floor/average and C364 existence-only comparisons remain adequate fixed same-object interfaces and are not a new source of income.
+It read the complete needed C256 original norm/local multiplicity interface, C265 cyclotomic divisor-layer proof, C391 actual general-unit powered-degree/cost and uniform finite-window argument, and the exact existing Xyl11-U001 source statement, applicability and inspection-depth limits.
+The C376v2 automatic-floor/average and C361 existence-only comparisons remain adequate fixed same-object interfaces and are not a new source of income.
 No adequate existing Claim covered the entire new all-layer identity and two actual reciprocal normalization constructions.
 The original15944-character necessary mathematical body is retained with adequate input homes and one purely grammatical duplicated link-label word removed.
 The agent rederived every implication below.
@@ -51,7 +51,7 @@ Nonnegativity gives both floor constants and max>=F/2, hence F<=2max.
 The same algebra applies to nonnegative disjoint certified factor lower masses.
 It does not justify adding overlapping certificates or calling unrelated arithmetic bounds new norm layers.
 For fixed eta,C and X<=Cd, F>=eta d yields a genuine same-exponent income at least eta d/2.
-C394 applies at the original d and actual powered-degree costs, with eta replaced by eta/2.
+C391 applies at the original d and actual powered-degree costs, with eta replaced by eta/2.
 Its uniform log C_n/d tending to zero therefore bounds every finite S and window, because A_S(n)<=log C_n before taking the maximum.
 Taking the finite union of all layer supports in the window includes the complete all-prime F.
 No existence of a near-one sequence or new coverage premise is inferred.

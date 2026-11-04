@@ -20,7 +20,7 @@ One source-scope issue was identified: a qualitative prime-density interpretatio
 
 The coordinator removed the prime-density interpretation and retained only the proved finite-group proportions, explicitly adopting no new density theorem or first-prime conclusion.
 L75 now appears only at its existing effective-cost scope; no formula changed.
-The reviewer actually reread this revision and verified the final 267-line input,
+The reviewer actually reread this revision and verified the final 267-line input.
 
 
 The finding was closed with no remaining substantive defect or missing hypothesis.
@@ -33,7 +33,6 @@ Older fixed arguments were checked at their used interfaces.
 CM10's canonical attribution was verified; the reviewer did not newly audit its original proof.
 
 The coordinator adopted the cleared result for fixed-ledger preservation on 2026-10-09.
-After the account interface reported an actual usage limit, only this completed result's minimal preservation continued; no new exploration was launched.
 After final clearance, only review/completion metadata and retained-source/destination links changed.
 The conditional prime-coverage obligation remains unproved, and G0001 remains active and unresolved.
 

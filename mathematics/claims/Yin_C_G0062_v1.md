@@ -156,7 +156,7 @@ The recorded review description was `under review`.
 | dependency | [C10 direct complete-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Same actual rational complementary packet, every signed nonzero original norm/resultant and FINAL copy at physical T/d=1; generic direct argument needs no reciprocity. |
 | support | [C25 exact old first-window floor](Yin_C_G0025_v1.md#statement) | Established baseline1-1/n, original residue/domain and necessary denominatorq>n/2 credited as old result; the retained proof also gives its local integer-case verification. |
 | support | [C29 original projected form and wider control](Yin_C_G0029_v1.md#statement) | Existing all-integer/monomial equality context, cross-term necessity and explicitly dense actual width-d+1 example; no external second-minimum theorem imported. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0275_v1.md#flat-all-residue-whole-independent-finding) | ENTIRE original19:30 D17 proof and actual direct interfaces only. It does not review or adopt this new statement/wrapper. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0275_v1.md#flat-all-residue-whole-independent-finding) | ENTIRE original19:30 D17 proof and actual direct interfaces only. It does not review or adopt this new statement/wrapper. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -175,8 +175,8 @@ The recorded review description was `under review`.
 | dependency | [C10 direct complete-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Same actual rational complementary packet, every signed nonzero original norm/resultant and FINAL copy at physical T/d=1; generic direct argument needs no reciprocity. |
 | support | [C25 exact old first-window floor](Yin_C_G0025_v1.md#statement) | Established baseline1-1/n, original residue/domain and necessary denominatorq>n/2 credited as old result; the retained proof also gives its local integer-case verification. |
 | support | [C29 original projected form and wider control](Yin_C_G0029_v1.md#statement) | Existing all-integer/monomial equality context, cross-term necessity and explicitly dense actual width-d+1 example; no external second-minimum theorem imported. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0275_v1.md#flat-all-residue-whole-independent-finding) | ENTIRE original19:30 D17 proof and actual direct interfaces only. It does not review or adopt this new statement/wrapper. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0281_v1.md#flat-all-residue-actual-extraction-finding) | Entire actual statement, completely retained argument/history and all current direct interfaces, independently inspected after allocation by a noncontributor. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0275_v1.md#flat-all-residue-whole-independent-finding) | ENTIRE original19:30 D17 proof and actual direct interfaces only. It does not review or adopt this new statement/wrapper. Finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0281_v1.md#flat-all-residue-actual-extraction-finding) | Entire actual statement, completely retained argument/history and all current direct interfaces, separately inspected after allocation by a noncontributor. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 

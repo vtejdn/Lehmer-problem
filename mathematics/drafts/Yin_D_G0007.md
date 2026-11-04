@@ -6,8 +6,8 @@ author: Yin
 Human author Yin.
 This continuing draft investigates the actual C767 copied zero-mask family and its complete equal-Mahler core.
 The current question is whether controlled sign complexity can coexist with a vanishing full noncyclotomic degree fraction and a useful total Mahler upper estimate.
-The starting scope is one fixed complete C801 source, every original permitted parameter, all actual supported signs satisfying C767's unsquared target, and all factors and multiplicities in the C804 core decomposition.
-Adopted inputs are [C767](../claims/Yin_C_G0767_v1.md#decision-whole-reviewed-2026-10-26), [C765](../claims/Yin_C_G0765_v1.md#decision-whole-reviewed-2026-10-25), and their exact C806/C804 dependencies.
+The starting scope is one fixed complete C759 source, every original permitted parameter, all actual supported signs satisfying C767's unsquared target, and all factors and multiplicities in the C762 core decomposition.
+Adopted inputs are [C767](../claims/Yin_C_G0767_v1.md#decision-whole-reviewed-2026-10-26), [C765](../claims/Yin_C_G0765_v1.md#decision-whole-reviewed-2026-10-25), and their exact C764/C762 dependencies.
 Any new statements below are author deductions pending independent review and separate adoption.
 The measure is absolute total logarithmic Mahler measure with natural logarithms and no degree normalization.
 
@@ -542,7 +542,8 @@ See [C848 ten-term comparison and C848 alternative](../claims/Yin_C_G0848_v1.md#
 2026-10-28.
 Human author Yin.
 Root proposed the finite-field counting, simultaneous prime-menu lift and denominator-saturation question; characteristic_zero_bridge located the complete prior account and checked the following direct applications.
-[Adopted C141](../claims/Yin_C_G0141_v1.md#decision-isolated-whole-review-20261023-m04), through [its selected isolated whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0141-m04-isolated-whole-finding), ALREADY supplies the simultaneous finite-prime construction and the full-algebraic-integrality/content argument.
+[Adopted C141](../claims/Yin_C_G0141_v1.md#decision-isolated-whole-review-20261023-m04), through [its selected whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0141-m04-isolated-whole-finding), ALREADY supplies the simultaneous finite-prime construction and the full-algebraic-integrality/content argument.
+Referenced finding relationship: self-reviewed.
 The present section does not register a new construction, finite-field theorem or source inspection.
 Its necessary additional purpose is to connect that exact obstruction to C844, C845 and the current C848 phase question.
 The applications and short alternative norm calculation below are author deductions, not a new independent review of those Claims.

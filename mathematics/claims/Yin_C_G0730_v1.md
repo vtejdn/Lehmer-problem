@@ -77,7 +77,7 @@ Full H512 suffices for the global512 construction itself; the stronger primary p
 The intermediate same-degree both256 stage already exists for original q>=2^33 after the two-bit loss, with derivative q/2^25 and next256 powers q/2^33.
 For the fixed final paired input the FULL unrestricted degree<d final512R fiber has2^(d-3A) classes modulo1024; the selected actual-power/factor lifts need not exhaust that fiber.
 At q=2^37 the final derivative divisor is512 and the next512 errors have only a first-power guarantee.
-The complete original C724 costs and maximality remain as stated at the end of the proof.
+The complete original C691 costs and maximality remain as stated at the end of the proof.
 No global1024 or2^17, compatible infinite integer limit, arbitrary-precision induction, characteristic-zero identity, canonical/synthetic identification, small-Mahler family, root/irreducibility assertion or unrestricted G0001 completion is supplied.
 
 The proof includes the generic first next-low512 ideal and the full prepared second-low identity.
@@ -260,7 +260,7 @@ A necessary and sufficient condition for this LOWER-HALF part of the second test
 Passing N60 is necessary, but not sufficient, for the full phi^A condition N55.
 The upper-half term in N55 remains an actual separate obligation.
 
-For the complete actual C724 source let xi=X modulo phi and t=xi^(Q_src q), where Q_src is its original power-of-two source parameter.
+For the complete actual C691 source let xi=X modulo phi and t=xi^(Q_src q), where Q_src is its original power-of-two source parameter.
 C723's adopted residue calculation still applies to the repaired K, whose source change starts at phi^(8A): the coefficient L_3^A k(lambda)/k has residue t, a primitive cube root.
 At residue level N59 gives the exact table
 
@@ -287,7 +287,7 @@ The binomial expansion shows
 
 Every nonleading term has coefficient divisible by8 by v_2(r)>=2, exactly as in the earlier composition estimate.
 
-In the original C753/C725 source before the final8Z_new, W is W_0 plus actual terms with Phi factors at least3A/2.
+In the original C717/C725 source before the final8Z_new, W is W_0 plus actual terms with Phi factors at least3A/2.
 Its initial W_0=R_b^(q/2) has binary phi-order at least A by the complete sign/root construction.
 Thus N61 gives W_0 in(8,Phi^A).
 The repaired Z_new is an ACTUAL q/2048-th power and its reduction is divisible by phi^(A/2), so N61 gives Z_new in(8,Phi^(A/2)).
@@ -348,7 +348,7 @@ Root proposed strengthening the original jet and a second doubled jet at the pre
 Salem_completion derived the actual mod16 canonical changes with their divided-composition quotient and both old-numerator carries; root independently obtained and checked the same calculation and the two-bit derivative loss.
 The following records the complete local author mechanisms and their actual stronger-factor root/degree costs used in the global construction below.
 The stronger initial source is the adopted C728 SF17.1--SF17.3 construction, executed only through its pre-final pre8Z polynomial.
-Its first W_0 has ACTUAL q/8 power, and its first K correction has q/16 power; the old C753 q/2 and q/4 initial powers are not imported.
+Its first W_0 has ACTUAL q/8 power, and its first K correction has q/16 power; the old C717 q/2 and q/4 initial powers are not imported.
 C728 proves that this actual source has pre-final derivative q/64, O_2 global q/256, phi^(4A)|O_2, both roots, Delta(K)bar phi^(4A), full integer factors and pre-final W in(4,Phi^A).
 The full next-low result NL512 and its original-source obstruction remain valid for the unmodified adopted source.
 
@@ -380,7 +380,7 @@ The source change is still
     T_pre,new=T_pre+2Phi^(9A)R+4Phi^(3A)V.
 
 The full high-K correction degree is<15h/16+369A/16<d, and the K degree itself is<15h/16+337A/16<d-2A, both requiring h>145A.
-This is a genuinely stronger source-degree requirement than C728's old137A, and the complete C724 h>361A pays it.
+This is a genuinely stronger source-degree requirement than C728's old137A, and the complete C691 h>361A pays it.
 The full W change has degree<7h/8+65A/8<d.
 
 C725's ACTUAL mod8 dyadic/carry proof can now be followed through phi^(6A), with the following explicit improvement rather than an extrapolation of its old endpoint.
@@ -487,7 +487,7 @@ Thus the raw first numerator change is zero modulo16.
 Its ONLY remaining quotient-eight carry is phi^(3A)(v-kr_R/H)Q_Fbar.
 The actual reduced quotient has order at least3A, so J53 puts that carry in phi^(7A) and restores the WHOLE first16 residual at phi.
 Actual strong factors supply all other components.
-This proves F16/X8 preservation and J55 by a fresh canonical calculation, not by scaling C744's old low formula.
+This proves F16/X8 preservation and J55 by a fresh canonical calculation, not by scaling C708 LF2's old low formula.
 
 ### J512.3. The second jet's actual power-root and degree cost
 
@@ -545,7 +545,7 @@ The automatic first next-low512 result N51 also holds at this input.
 This supplies the local target for a future actual512 assembly after all changed downstream power budgets and sufficient full-primary control have been supplied.
 It does not itself construct that global assembly.
 
-The complete actual C724 h>361A pays the h>145A bound at both jets, with original q and full multiplicities retained.
+The complete actual C691 h>361A pays the h>145A bound at both jets, with original q and full multiplicities retained.
 The source algebra and actual coordinate preservation above are the new preparation; the complete finite downstream construction and its genuine two-bit cost follow below.
 
 
@@ -712,7 +712,7 @@ No arbitrary-precision induction is inferred from this finite table.
 
 ### AS512.5. All original source expenses and the exact endpoint
 
-The complete actual C724 family has Q_src=2^ell with ell>=82, m_src=Q_src/4-2, a=2m_src and its original full Y,H_aux,U_0,R_0.
+The complete actual C691 family has Q_src=2^ell with ell>=82, m_src=Q_src/4-2, a=2m_src and its original full Y,H_aux,U_0,R_0.
 The adopted C728 source proof gives h_b>361a>145a and every full multiplicity at least2.
 Thus the two stronger jets, both root-CRT degree bounds and all later corrections are paid without replacing the support or dropping a multiplicity.
 For the first512 or simultaneous512 output at its respective original q,
@@ -752,7 +752,7 @@ No global1024, compatible infinite integer limit, characteristic-zero identity, 
 | dependency | [Adopted stronger actual source and complete primary theorem](Yin_C_G0728_v1.md#decision-whole-reviewed-2026-10-25) | H17.1--H17.4 generic actual J_K=H_b^(15q/16), J_W=H_b^(7q/8) component2^17 theorem; SF17.1--SF17.3 ACTUAL pre8Z source with q/8 initial W and q/16 first K correction, both full roots, derivative q/64, genuine quarter/root powers and original full source costs. The source is newly changed by the two jets here; its old existential output is not reused literally. |
 | dependency | [Adopted original actual source-jet mechanism](Yin_C_G0725_v1.md#decision-whole-reviewed-2026-10-25) | JP2--JP5 complete old pre8Z root improvement, actual mod8 dyadic/C5/canonical-carry equations and first8 restoration; the new full X factors and extension throughphi6A are proved here. JP6 generic modified-K consuming interface supplies the established distinction between integer K and its binary power. |
 | dependency | [Adopted generic low256 theorem and old actual source](Yin_C_G0727_v1.md#decision-whole-reviewed-2026-10-25) | NL256.1--NL256.7 complete canonical ideals, coefficient64 quotient transports, low halves, same-degree256 proof mechanisms and original costs. The unmodified-source diagnostic uses only its OLD factors, explicitly named J_K_old/J_W_old; the new stronger inputs separately contain those factors and meet the generic domain. |
-| dependency | [Adopted actual low quotient formulas](Yin_C_G0723_v1.md#decision-whole-reviewed-2026-10-25) | EL64.2--EL64.6 legitimate lambda composition, actual a/4,b/8,Q_X/8 and Rbar interfaces, canonical monic half decomposition and original C724 residue coefficient. The new actual quarter and nu tests are proved here; no old source-coordinate vanishing is imported. |
+| dependency | [Adopted actual low quotient formulas](Yin_C_G0723_v1.md#decision-whole-reviewed-2026-10-25) | EL64.2--EL64.6 legitimate lambda composition, actual a/4,b/8,Q_X/8 and Rbar interfaces, canonical monic half decomposition and original C691 residue coefficient. The new actual quarter and nu tests are proved here; no old source-coordinate vanishing is imported. |
 | dependency | [Adopted actual first quotient ideals](Yin_C_G0721_v1.md#decision-whole-reviewed-2026-10-25) | FL2--FL3 complete Q_F in(4,Phi2A) and(16,PhiA) from actual canonical products and monic divisions, under the retained normalized F32/X8 domain. The higher coefficient128 transport and first low512 result are new proofs here. |
 | dependency | [Adopted canonical ideals and second quotient8 interface](Yin_C_G0716_v1.md#decision-whole-reviewed-2026-10-25) | AV1--AV3/AV8/AV12 actual a/c ideals, b low coefficient precision, Q_X reduced order and genuine coefficient8 ideal at the stronger current residual domains. All coefficient divisions and later monic cancellation are explicit in this proof. |
 | dependency | [Adopted pre-final paired16 mechanism](Yin_C_G0712_v1.md#decision-whole-reviewed-2026-10-25) | PS2--PS4 actual first earlier correction, auxiliary Z high class, high inverse and PRE-final paired T_2; PS6 true error quotient beta8 and exact powers. The optional final16R branch is not inserted. The stronger lower factors and modified source inputs are independently checked here and in C728. |
@@ -769,7 +769,7 @@ No global1024, compatible infinite integer limit, characteristic-zero identity, 
 | --- | --- |
 | date | 2026-10-25T18:09 |
 | status | proved |
-| reason | Adopt the complete AS512/NL512/J512 theorem after fresh isolated whole R951 PASS. Root read the entire integrated mathematical statement and proof before fixed registration, checked the fixed statement, old/new factor distinction and exact selected scope, and read the complete independent finding. The unmodified-source quarter remains unevaluated; the new actual mod8/mod16 jets prepare two genuine coordinates and pay the h_b>145a source and two lost power bits. The full finite construction proves first512 for original q>=2^35 and same-degree simultaneous512 for q>=2^37, with every integer factor, primary2^17, derivative/error budget, endpoint, unrestricted modulo1024 fiber and original C724 expense retained. The contributors are not independent reviewers. No global1024 or2^17, arbitrary induction, characteristic-zero realization, canonical/synthetic identification, small-Mahler family or unrestricted Task completion follows. |
+| reason | Adopt the complete AS512/NL512/J512 theorem after fresh isolated whole R951 PASS. Root read the entire integrated mathematical statement and proof before fixed registration, checked the fixed statement, old/new factor distinction and exact selected scope, and read the complete independent finding. The unmodified-source quarter remains unevaluated; the new actual mod8/mod16 jets prepare two genuine coordinates and pay the h_b>145a source and two lost power bits. The full finite construction proves first512 for original q>=2^35 and same-degree simultaneous512 for q>=2^37, with every integer factor, primary2^17, derivative/error budget, endpoint, unrestricted modulo1024 fiber and original C691 expense retained. The contributors are not independent reviewers. No global1024 or2^17, arbitrary induction, characteristic-zero realization, canonical/synthetic identification, small-Mahler family or unrestricted Task completion follows. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -778,11 +778,11 @@ No global1024, compatible infinite integer limit, characteristic-zero identity, 
 | dependency | [Adopted stronger actual source and complete primary theorem](Yin_C_G0728_v1.md#decision-whole-reviewed-2026-10-25) | H17.1--H17.4 generic actual J_K=H_b^(15q/16), J_W=H_b^(7q/8) component2^17 theorem; SF17.1--SF17.3 ACTUAL pre8Z source with q/8 initial W and q/16 first K correction, both full roots, derivative q/64, genuine quarter/root powers and original full source costs. The source is newly changed by the two jets here; its old existential output is not reused literally. |
 | dependency | [Adopted original actual source-jet mechanism](Yin_C_G0725_v1.md#decision-whole-reviewed-2026-10-25) | JP2--JP5 complete old pre8Z root improvement, actual mod8 dyadic/C5/canonical-carry equations and first8 restoration; the new full X factors and extension throughphi6A are proved here. JP6 generic modified-K consuming interface supplies the established distinction between integer K and its binary power. |
 | dependency | [Adopted generic low256 theorem and old actual source](Yin_C_G0727_v1.md#decision-whole-reviewed-2026-10-25) | NL256.1--NL256.7 complete canonical ideals, coefficient64 quotient transports, low halves, same-degree256 proof mechanisms and original costs. The unmodified-source diagnostic uses only its OLD factors, explicitly named J_K_old/J_W_old; the new stronger inputs separately contain those factors and meet the generic domain. |
-| dependency | [Adopted actual low quotient formulas](Yin_C_G0723_v1.md#decision-whole-reviewed-2026-10-25) | EL64.2--EL64.6 legitimate lambda composition, actual a/4,b/8,Q_X/8 and Rbar interfaces, canonical monic half decomposition and original C724 residue coefficient. The new actual quarter and nu tests are proved here; no old source-coordinate vanishing is imported. |
+| dependency | [Adopted actual low quotient formulas](Yin_C_G0723_v1.md#decision-whole-reviewed-2026-10-25) | EL64.2--EL64.6 legitimate lambda composition, actual a/4,b/8,Q_X/8 and Rbar interfaces, canonical monic half decomposition and original C691 residue coefficient. The new actual quarter and nu tests are proved here; no old source-coordinate vanishing is imported. |
 | dependency | [Adopted actual first quotient ideals](Yin_C_G0721_v1.md#decision-whole-reviewed-2026-10-25) | FL2--FL3 complete Q_F in(4,Phi2A) and(16,PhiA) from actual canonical products and monic divisions, under the retained normalized F32/X8 domain. The higher coefficient128 transport and first low512 result are new proofs here. |
 | dependency | [Adopted canonical ideals and second quotient8 interface](Yin_C_G0716_v1.md#decision-whole-reviewed-2026-10-25) | AV1--AV3/AV8/AV12 actual a/c ideals, b low coefficient precision, Q_X reduced order and genuine coefficient8 ideal at the stronger current residual domains. All coefficient divisions and later monic cancellation are explicit in this proof. |
 | dependency | [Adopted pre-final paired16 mechanism](Yin_C_G0712_v1.md#decision-whole-reviewed-2026-10-25) | PS2--PS4 actual first earlier correction, auxiliary Z high class, high inverse and PRE-final paired T_2; PS6 true error quotient beta8 and exact powers. The optional final16R branch is not inserted. The stronger lower factors and modified source inputs are independently checked here and in C728. |
-| dependency | [Adopted first32 obstruction and square-root mechanism](Yin_C_G0715_v1.md#decision-whole-reviewed-2026-10-25) | FP32.2--FP32.3 full beta_M=beta8+phi2A k m虏/H_0, actual V_0 root and high inverse. This fixes the genuine nu coordinate; no omission of the initial beta8 or assumption that V_0 already has a low phi factor is made. |
+| dependency | [Adopted first32 obstruction and square-root mechanism](Yin_C_G0715_v1.md#decision-whole-reviewed-2026-10-25) | FP32.2--FP32.3 full beta_M=beta8+phi2A k m²/H_0, actual V_0 root and high inverse. This fixes the genuine nu coordinate; no omission of the initial beta8 or assumption that V_0 already has a low phi factor is made. |
 | dependency | [Adopted generic earlier obstruction and first-sixteenth low lemma](Yin_C_G0713_v1.md#decision-whole-reviewed-2026-10-25) | Complete actual O variation and first-sixteenth low result at retained square/root/factor/w data, used for recomputed inputs after the second jet, with their explicitly reduced power budgets. |
 | dependency | [Adopted uniform actual next-error maps](Yin_C_G0719_v1.md#decision-whole-reviewed-2026-10-25) | NX2/NX3/NX5 true canonical low, earlier-bit, high inverse and paired identities for n>=4, used separately at each n5--n8 current input. The exact scalar coefficients, full factors, canonical halves, root powers and global component controls are checked here; no arbitrary-precision induction is asserted. |
 | dependency | [Adopted actual canonical derivative-power lemma](Yin_C_G0706_v1.md#decision-whole-reviewed-2026-10-25) | The monic same-divisor derivative argument converts each ACTUAL proved derivative divisor to the displayed next-error power, including both jets, the exact two-bit loss and final first-power endpoint. |

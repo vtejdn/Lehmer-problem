@@ -8,7 +8,7 @@ Human record author Yin.
 Review act: 2026-10-23T18:42.
 A separately organized reviewing agent outside substantive proof development received the fixed C624v1 path, the whole-review assignment, applicable operational metadata and the instruction to inspect the actual dependencies.
 No development summary, author explanation, working draft, mathematical conversation or previous verdict on C624 was supplied or consulted.
-The reviewer had completed earlier independent reviews of the different C644 endpoint and divided-polynomial statements, without contributing to their construction.
+The reviewer had completed earlier independent reviews of the different C622 endpoint and divided-polynomial statements, without contributing to their construction.
 Those findings retain their exact physical scopes and are not reused as prospective verdicts for C624.
 The full present statement, proof, selected decision and all actually used fixed/source interfaces were read and the new argument independently reconstructed.
 No substantive repair, new proof contribution, numerical search or native computation was supplied.
@@ -131,7 +131,7 @@ Together with the two product comparisons this gives
 
 which is impossible for J>0.
 This proves the entire cluster exclusion under f=0 alone.
-The proof uses no dyadic norm bound from C191, no C644 prospective review, and no generalization of a statement merely by changing a prime label.
+The proof uses no dyadic norm bound from C191, no C622 prospective review, and no generalization of a statement merely by changing a prime label.
 
 ## Exact root-order equivalence and all stated limits
 
@@ -172,7 +172,7 @@ No source-completeness gap affecting the conclusion was found.
 
 No earlier independent, SELF or UNKNOWN finding is rewritten or enlarged.
 The present independent relationship belongs to this fresh whole C624 inspection.
-The prior C644 reviews supply no prospective verdict, and the actual inspected C191 proof mechanism is distinguished from its historical reviewer relationships and dyadic conclusions.
+The prior C622 reviews supply no prospective verdict, and the actual inspected C191 proof mechanism is distinguished from its historical reviewer relationships and dyadic conclusions.
 No native program, numerical root computation, parameter scan, new source acquisition or formal verification was performed.
 
 <a id="frobenius-five-cluster-whole-finding"></a>

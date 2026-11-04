@@ -95,7 +95,7 @@ No general mass dual equality, optimizer, finite cutoff, uniform near-one select
 | --- | --- |
 | date | 2026-10-22T21:33 |
 | status | proved |
-| reason | Adopt the separately assigned isolated complete mathematical inspection of this actual fixed statement and entire selected argument. Its recorded initial finding preceded all old target verdicts and substantive target-development context was not shared. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
+| reason | Adopt the separately assigned complete mathematical inspection of this actual fixed statement and entire selected argument at its actual SELF relationship. Its recorded initial finding preceded old target verdict comparison, but the initial fixed argument included completed author-validation conclusions beyond the necessary mathematical derivation. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -108,7 +108,7 @@ No general mass dual equality, optimizer, finite cutoff, uniform near-one select
 | dependency | [Existing quadratic seed](Yin_C_G0035_v1.md#damping-budget-quadratic-calibration) | Existing two-target half-profile and actual original field parameters. |
 | dependency | [Full original-root costs](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Applied only after a future actually complementary completion, with all original charges. |
 | support | [Whole-author finding](../audits/reviews/Yin_R_G0790_v1.md#integer-square-mass-whole-author-finding) | Exact original author freeze only; the separate actual registered-statement and interface finding is selected below. |
-| review | [Isolated complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-integer-square-mass) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial independent reconstruction precedes old target verdict comparison. |
+| review | [complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-integer-square-mass) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial direct reconstruction precedes old target verdict comparison. Finding relationship: self-reviewed. |
 
 ## Argument
 

@@ -124,7 +124,7 @@ The revised method was prechecked and separately executed in the SAME domain and
 Its successful elapsed time was1.047 seconds, with worker/job peak commits130555904/132677632 bytes.
 The three complete arrays contain52428800 raw data bytes; their actual archive occupies52429614 bytes, with result and execution metadata also within the output cap.
 
-After a fresh67-percent reading in the same account/reset window and root's go, the independent verifier ran exactly once and passed.
+The independent verifier ran exactly once and passed.
 Its elapsed time was0.1886771 seconds, with worker/job peak commits13430784/15536128 bytes, under its separate unchanged caps.
 The small parent monitor is explicitly excluded from worker memory in both accounts.
 There was no unguarded fallback, cap increase, modulus8 scan or added target.

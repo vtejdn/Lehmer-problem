@@ -65,7 +65,7 @@ Full weighted precision tends to(log2)exp(2m)(H_n^T)^*H_n^T, whose n-r baseline 
 No large eigenvalue, determinant product, direction or cube orientation is discarded.
 For the detected STRICT coefficient, error less than half its margin gives an all-future but INPUT-DEPENDENT start I, not an effective bound by n_A.
 Spectral amplification alone supplies no translated integer-cube probability loss: all other directions/entries/outside shifts, first-d discarded constraints and disjoint density1/n_A remain actual costs.
-C473 is a separately proved block-loss theorem; no new cross-application is derived here and original D132--D134 reports remain nonpremises.
+C469 is a separately proved block-loss theorem; no new cross-application is derived here and original D132--D134 reports remain nonpremises.
 
 Par88-U001v1/v2 were fully read; the existing exact theorem/minimality guard is sufficient attribution, while the polynomial kernel proof is entirely local.
 The actual distinct original10/10 author-unit reuse and reviewer Theorem3.11 source-passage inspection are retained at printed37--38/PDF45--46 without an invented reading minute or fresh source-proof audit.

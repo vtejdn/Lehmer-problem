@@ -10,7 +10,7 @@ Provenance: project deduction under the unchanged [G0001 contract](../tasks/Yin_
 Root identified the unresolved actual endpoint-column problem and proposed the low-X Chebyshev-period reduction.
 Salem_completion derived and checked the complete-row dense-support construction, full actual column rank, genuine canonical target, exact sign counts and all paid source and degree interfaces.
 Root read the entire saved PX1--PX7 argument and checked the C753-consuming PX8 interface and numerical substitution.
-Both agents are substantive contributors; this complete fixed OPEN candidate requires fresh isolated whole review and separate adoption.
+Both agents are substantive contributors; this complete fixed candidate was OPEN at author registration, pending fresh isolated whole review and separate adoption.
 The stable [D6 endpoint calculation](../drafts/Yin_D_G0006.md#next-endpoint-edge-sign-and-old-x-interface) is contributor context, and every necessary sign/canonical interface is explicitly retained below or consumed from the adopted fixed local proofs.
 Adopted C753 supplies the unconditional source in PX8; its fresh review is not a review of the new dense-support argument.
 No native computation, numerical support enumeration or external source theorem is used.
@@ -408,7 +408,7 @@ No unrestricted G0001 conclusion is asserted.
 ### PX8. Actual unconditional source and the paid endpoint family
 
 For each Q=2^ell, ell>=82, choose ANY actual bounded whole-row witness supplied by adopted C691.
-Apply [adopted C753 Parts A--D and UC1--UC10](Yin_C_G0753_v1.md#decision-whole-reviewed-2026-10-25), whose selected decision consumes fresh independent whole R1149.
+Apply [adopted C753 Parts A--D and UC1--UC10](Yin_C_G0753_v1.md#decision-whole-reviewed-2026-10-25), whose selected decision consumes fresh independent whole R973.
 Its actual source U_sharp supplies PX1--PX3 with the same original m, H_aux, B_src, beta, Z_0 and selected n_star, all complete factors and DG3/DG6 data, X^(8m)|Y_sharp', exact fresh multiplicity3, and the unchanged positive gap.
 In particular E_pre,sharp=0 modulo4 and gcd(2deg U_sharp-5,15)=1 are proved outputs, not assumptions on the uncomputed original witness.
 The new source has

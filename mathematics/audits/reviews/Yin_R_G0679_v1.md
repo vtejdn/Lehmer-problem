@@ -6,7 +6,7 @@ author: Yin
 
 Recorded 2026-10-21T22:37 for human record author Yin.
 Date: 2026-10-21T22:37.
-The maintaining agent directly read the entire17959-character L395, complete9891-character original R456, exact selected C100 finite prime-power proof, actual C376v2/C256/C391/C220 interfaces and complete22573-character L217.
+The maintaining agent directly read the entire17959-character L395, complete9891-character original R344, exact selected C100 finite prime-power proof, actual C376v2/C256/C391/C220 interfaces and complete22573-character L217.
 This current complete check is SELF: the constructor organized the current Statement and proof after reading the original target account and old finding, with no claim of an isolated new agent.
 The entire original13:30 author argument is retained with only same-object dependency-home locators maintained; actual source statements and contribution/date limits are unchanged.
 No native program, source PDF, new theorem input, mathematical experiment or research Task/E execution was run.
@@ -65,7 +65,7 @@ The actual elementary pi bound supplies W<=28Y^2/log(2Y), whereas X>Y^2, proving
 The failed bounded-cover substitution is therefore exactly refuted, while the degree-linear fixed-density question remains unrefuted.
 No actual-polynomial or near-one counterfamily, other-prime norm upper bound, automatic core selection or general fixed-K theorem is inferred.
 
-Original R456 is retained as whole UNKNOWN, not relabelled from a generic summary or upstream review role.
+Original R344 is retained as whole UNKNOWN, not relabelled from a generic summary or upstream review role.
 Its complete original mathematical findings/source/negative/date scopes and exact listed author SELF remain adequate history; this new whole SELF does not discharge the M04 isolated replacement obligation.
 The retained original author prose may describe historical pending review or pause, which does not select the current assessment or resume research.
 

@@ -16,10 +16,10 @@ The present activity reconstructed the extension, assembled the complete origina
 The assembly changes the current scope paragraph and title to include the new tight-array case, while preserving the earlier v1 and all its mathematical arguments.
 It supplies no mathematical proof contribution.
 
-The reviewer's upstream C170 role was only the earlier L282/BSS17 pointers disclosed in R556.
+The reviewer's upstream C170 role was only the earlier L282/BSS17 pointers disclosed in [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding).
 The reviewer did author part of L409; its independent R414 is reused at the exact fixed-defect comparison boundary and is not relabelled as a new independent audit of that work.
 The separate C169 authorship is not a premise of this result.
-The whole C170 and L417 interfaces remain those accepted through R556 and R427.
+The whole C170 and L417 interfaces remain those accepted through [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) and R427.
 No numerical calculation, new graph or original external-source proof audit was performed.
 
 ## Review relationships

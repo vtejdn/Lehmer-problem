@@ -30,7 +30,10 @@ Accepted previous source foundations are not re-audited.
 | [Entire signed-norm author finding](#salem-signed-norm-whole-author-finding) | self-reviewed |
 | [Actual C33 extraction finding](#c33-signed-norm-extraction-finding) | self-reviewed |
 
-The assignment supplied the proof ingredients as well as the proposed conclusions for the single-split-place norm/trace argument. That relevant mathematical context is disclosed in the original arrangement, even though the reviewer supplied no proof step and reconstructed the fixed proof. Both findings are therefore self-reviewed under the current context rule. Their dated mathematical conclusions and exact source, comparison and cost limits are preserved.
+The assignment supplied the proof ingredients as well as the proposed conclusions for the single-split-place norm/trace argument.
+That relevant mathematical context is disclosed in the original arrangement, even though the reviewer supplied no proof step and reconstructed the fixed proof.
+Both findings are therefore self-reviewed under the current context rule.
+Their dated mathematical conclusions and exact source, comparison and cost limits are preserved.
 
 ## Review bindings
 

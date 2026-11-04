@@ -23,7 +23,7 @@ Passages: Definition3.1 on page5; Definition4.1 and Lemma4.3 on page8; Lemma4.4 
 Inspection: Direct retained-primary text reading of these statements and their displayed elementary proofs; visual inspection of pages8,14,15,16. The page9 continuation of Lemma4.4 was text-read. The AMGM and Kronecker external inputs retain the boundaries below; no complete-paper or original Kronecker-proof audit.
 
 
-The exact [retained v1 source](../../../literature/pdf/Gent21--arxiv-v1.pdf) and [contents](../../../literature/contents/Gent21--arxiv-v1.md) have a single.
+The exact [retained v1 source](../../../literature/pdf/Gent21--arxiv-v1.pdf) and its [contents](../../../literature/contents/Gent21--arxiv-v1.md) identify the inspected version.
 No later edition or publication is substituted for this identified version.
 
 <a id="normalized-algebraic-square-norm"></a>

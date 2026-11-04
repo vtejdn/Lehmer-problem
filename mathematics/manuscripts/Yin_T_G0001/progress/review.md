@@ -4,7 +4,8 @@ author: Yin
 
 # G0001 progress report: manuscript review
 
-This record retains manuscript-specific review of the current strategy-structured progress report.
+This record retains the original manuscript-specific strategy-revision review and the subsequent bounded maintenance check.
+The original review covers the unchanged retained passages; the expanded long-window exposition has only the separately recorded current bounded check.
 It is not a fixed R review, a source audit or a Task completion.
 At that report scope, the [Task](../../../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-d221-closeout) was paused and unresolved.
 No new mathematical Claim, research resumption or Task completion is adopted.
@@ -12,7 +13,7 @@ No new mathematical Claim, research resumption or Task completion is adopted.
 <a id="manuscript-review"></a>
 ## Current artifact and scope
 
-The reviewed artifact is the complete current source [main.tex](main.tex), its five active section files (`overview.tex`, `entropy.tex`, `growth.tex`, `determinants.tex`, `arithmetic.tex`), the synchronized [bibliography](references.bib), and the [standalone certificate attachment](supplement/readme.md).
+The original strategy-revision review covered the then-current source [main.tex](main.tex), its five active section files (`overview.tex`, `entropy.tex`, `growth.tex`, `determinants.tex`, `arithmetic.tex`), the synchronized [bibliography](references.bib), and the [standalone certificate attachment](supplement/readme.md).
 The [editorial source map](source-map.md) identifies the responsible fixed mathematics and retained reviews.
 This review does not extend the scope of those underlying reviews.
 
@@ -20,13 +21,13 @@ This review does not extend the scope of those underlying reviews.
 ## Authoring presentation and consistency check
 
 The authoring agent performed the presentation and consistency check of the strategy-structured revision.
-The check covered the complete manuscript, including retained passages: definition organization, introduction before use, mathematical meaning and normalization, source attribution, first-use citations, and the stated boundaries between complete proofs, proof outlines, conditional results and finite certificates.
+At that time, the check covered the complete manuscript, including retained passages: definition organization, introduction before use, mathematical meaning and normalization, source attribution, first-use citations, and the stated boundaries between complete proofs, proof outlines, conditional results and finite certificates.
 The primitive associate `p_Z`, the independent difference digits, and the actual order and walk in the Fourier subsection were made explicit.
 The transition-collapse statement was checked against the fixed-input L125 result, while the hitting and neutral-localization statements retain their original assumptions and input-dependent constants.
 The four writing layers were applied throughout: general mathematical rules, Yin's author-wide policy, any actually applicable subfield choice, and this report's specific choices.
 This is the authoring agent's presentation and consistency check, not a new independent mathematical review or a recursive re-audit of every source proof.
 
-The current source's native build, reference resolution and rendered-page inspection are recorded in the [document readme](readme.md#authoring-check-of-the-strategy-revision); they are build facts separate from this manuscript review.
+The latest native build, reference resolution and bounded rendered-page inspection are recorded in the [document readme](readme.md#local-build-verification); they are build facts separate from this manuscript review.
 
 ## Selected mathematical comparisons
 
@@ -50,7 +51,8 @@ The full longer proofs and their native computations remain accepted research in
 
 ## Definition and citation coverage
 
-The authoring check covered definition organization and first use across the complete current manuscript.
+The original authoring check covered definition organization and first use across the complete strategy-revision manuscript at that time.
+Its coverage applies to the unchanged retained passages; the subsequently expanded long-window exposition has the separate bounded maintenance check recorded below.
 Mahler measure, reciprocal, unit and Salem hypotheses, algebraic entropy, the rational normalization, binary support, Shannon and collision entropies, residual projections, coefficient energies and correlations, original return cores, path information cost, realified covariance, compact dual densities, weak Lp, proper presentations and the scalar determinant convention are stated with their ambient space and normalization.
 The first-use Mahler and Salem conventions cite the inspected Smy08 Sections 1 and 8; the three entropy orders cite the Li26 page-1 definitions without using its endpoint conjecture.
 The compact dual is the character torus with normalized Haar/Lebesgue measure, matching the DGB16 convention.
@@ -79,6 +81,14 @@ This is a run of an independently implemented witness verifier, not a rerun of c
 
 Unrechecked computational premises are input irreducibility/root classification and the older return-core native proofs.
 The attachment proves the finite witness assertions over its specified data and all real weights; it does not prove an optimum over all algebraic units or any near-one uniformity.
+
+## Current bounded maintenance check
+
+On 4 November 2026, the maintenance author checked the citation-map logarithmic determinant against the displayed multiplicative definition and scalar-return proposition, and checked the Schur-complement application description against the formal matrix pencil and retained BV04 inspection scope.
+The growth section now states the long-window certificate's objects, optimization domain, rank-energy bound and small-measure ceiling explicitly.
+The author compared that exposition with the retained complete C516 v2 statement and argument, including the fixed-input onset and lower-certificate limitation.
+This is an author self-check of the changed exposition and attribution, with independent maintenance acceptance separate; it does not extend the historical whole-manuscript or source-proof review.
+The standalone return-core attachment remains incomplete and is not certified by the finite optimization verifier.
 
 ## Boundaries
 

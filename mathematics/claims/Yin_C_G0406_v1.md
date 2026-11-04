@@ -11,12 +11,34 @@ The full allocation/handoff and source/review account remains at the original L3
 
 ## Statement
 
-Let P=z^s Q(z+z^-1) be the complete irreducible minimal polynomial of a genuine Salem number beta>1, with d=2s>=4, x_0=beta+beta^-1 and H=sum|a_j|. Retain precisely the critical polynomial F=(z^2-1)z^(s-1)Q'(z+z^-1)=zP'-sP and nearest-root constant c_P of C402, with every original root, leading factor and multiplicity; no freely rescaled polynomial is substituted.
-Put h=content(Q')=content(F), a=s/h>=1, e=1 if Q'(2)=0 and0 otherwise, V=Q'/[h(x-2)^e], t=s-1-e, R=F/[h(z-1)^(2e)]=(z^2-1)z^t V(z+z^-1), and n=d-2e. Then R is primitive integral, has leading coefficient a and is squarefree, including t=0 where s=2,e=1,V=1,R=z^2-1. Its full polynomial discriminant is Delta=4|disc V|^2|V(2)V(-2)|^3>=1, with disc V=1 in degrees0/1; disc F or a field discriminant cannot replace it.
-Let b be1 when V has its unique possible exterior trace root y>2, otherwise0. For e=0 this is exactly Q'(2)<0; e=1 forces b=0. Let Lambda=beta if b=1, otherwise1, L=n-2b be the distinct circle-root count, C_n=(n-1)^((n-1)/2) and B_*=h sqrt(Delta)/[C_n(a Lambda)^(n-2)]. Every circle root eta of R satisfies |(hR)'(eta)|>=B_*. Define tau_*=|V(2)|/[a4^(s-2)(x_0+2)] in the exterior branch and delta_*=min{4,|V(2)|/[a4^max(t-1,0)]} in the e=1 branch. The actual c_P has these coefficient-exact root-data-free lower bounds: (2/H)2^(-(L-1))B_* for e=b=0; that same expression times tau_* for e=0,b=1; and (2/H)2^(-(L+1))B_*delta_* for e=1. Each full leading/content/endpoint/off-circle factor is retained.
-For every fixed B>1 and1<beta<=B, writing X_B=B+B^-1+2, all branches imply c_P>=[H2^d d^(d/2)(sB)^(d-2)s4^(s-2)X_B]^-1 and H<=2^(d-2)X_B, hence log(1/c_P)=O_B(d log d). This is a degree-paid upper bound on conditioning expense, not uniform conditioning.
-In the reverse direction, let q=1 if b=0 and q=y-2 if b=1. The same specified constant satisfies c_P<=2sLq/[H2^(L-1)]. For m_*=1 when e=0 and3 when e=1, J=16d+2 and K_P^tr=L/pi+2Jpi^(m_*-1)/(2^(m_*)c_P), this gives K_P^tr-L/pi>=JHpi^(m_*-1)2^(L-1-m_*)/(sLq). With q_B=max{1,B+B^-1-2}, K_P^tr>=2H2^d/(d q_B). For every fixed C>0,A>=0 and integer1<=N<=Cd^A, its displayed sufficient tail T_N=(m_*+1)K_P^tr N^(-1/(m_*+1)) is at least4H2^d/[q_B sqrt(C)d^(1+A/2)]. Tuning the arc radius inside that same global estimate cannot remove the exponential-over-polynomial complementary term. These are lower bounds for this specified sufficient expression, not actual moments, optimal constants or every other method. Any hypothetical beta->1 sequence necessarily has d->infinity; its existence is not asserted.
-On the accepted no-padding irreducible Salem progression N=120k+9,k>=1, P_N=z^(N+3)-z^(N+1)-z^N+1-z^2-z^3, the actual degree is d=N+3=2s, H=6, plastic<beta_N<4/3 and beta_N tends to the plastic root above1. Exact symbolic substitution gives Q'(2)=(-N^2+14N-1)/4<0, Q'(-2)=-(N^2+2N+17)/4, h=1,a=s,e=0,b=1,m_*=1,L=d-2 and0<q<1/12. Therefore K_(P_N)^tr>144*2^d/(d-2). This actual bounded-measure family disproves degree-uniform control of this K on beta<4/3, while its total measure tends to positive log(plastic). No arbitrary function of the exact beta, justified near-one restriction, different local/signed-tail estimate, actual finite certificate or unrestricted Mahler gap is excluded or established. No new source proof, program, root isolation or parameter scan was performed.
+Let P=z^s Q(z+z^-1) be the complete irreducible minimal polynomial of a genuine Salem number beta>1, with d=2s>=4, x_0=beta+beta^-1 and H=sum|a_j|.
+Retain precisely the critical polynomial F=(z^2-1)z^(s-1)Q'(z+z^-1)=zP'-sP and nearest-root constant c_P of C402, with every original root, leading factor and multiplicity; no freely rescaled polynomial is substituted.
+Put h=content(Q')=content(F), a=s/h>=1, e=1 if Q'(2)=0 and0 otherwise, V=Q'/[h(x-2)^e], t=s-1-e, R=F/[h(z-1)^(2e)]=(z^2-1)z^t V(z+z^-1), and n=d-2e.
+Then R is primitive integral, has leading coefficient a and is squarefree, including t=0 where s=2,e=1,V=1,R=z^2-1.
+Its full polynomial discriminant is Delta=4|disc V|^2|V(2)V(-2)|^3>=1, with disc V=1 in degrees0/1; disc F or a field discriminant cannot replace it.
+Let b be1 when V has its unique possible exterior trace root y>2, otherwise0.
+For e=0 this is exactly Q'(2)<0; e=1 forces b=0.
+Let Lambda=beta if b=1, otherwise1, L=n-2b be the distinct circle-root count, C_n=(n-1)^((n-1)/2) and B_*=h sqrt(Delta)/[C_n(a Lambda)^(n-2)].
+Every circle root eta of R satisfies |(hR)'(eta)|>=B_*.
+Define tau_*=|V(2)|/[a4^(s-2)(x_0+2)] in the exterior branch and delta_*=min{4,|V(2)|/[a4^max(t-1,0)]} in the e=1 branch.
+The actual c_P has these coefficient-exact root-data-free lower bounds: (2/H)2^(-(L-1))B_* for e=b=0; that same expression times tau_* for e=0,b=1; and (2/H)2^(-(L+1))B_*delta_* for e=1.
+Each full leading/content/endpoint/off-circle factor is retained.
+For every fixed B>1 and1<beta<=B, writing X_B=B+B^-1+2, all branches imply c_P>=[H2^d d^(d/2)(sB)^(d-2)s4^(s-2)X_B]^-1 and H<=2^(d-2)X_B, hence log(1/c_P)=O_B(d log d).
+This is a degree-paid upper bound on conditioning expense, not uniform conditioning.
+In the reverse direction, let q=1 if b=0 and q=y-2 if b=1.
+The same specified constant satisfies c_P<=2sLq/[H2^(L-1)].
+For m_*=1 when e=0 and3 when e=1, J=16d+2 and K_P^tr=L/pi+2Jpi^(m_*-1)/(2^(m_*)c_P), this gives K_P^tr-L/pi>=JHpi^(m_*-1)2^(L-1-m_*)/(sLq).
+With q_B=max{1,B+B^-1-2}, K_P^tr>=2H2^d/(d q_B).
+For every fixed C>0,A>=0 and integer1<=N<=Cd^A, its displayed sufficient tail T_N=(m_*+1)K_P^tr N^(-1/(m_*+1)) is at least4H2^d/[q_B sqrt(C)d^(1+A/2)].
+Tuning the arc radius inside that same global estimate cannot remove the exponential-over-polynomial complementary term.
+These are lower bounds for this specified sufficient expression, not actual moments, optimal constants or every other method.
+Any hypothetical beta->1 sequence necessarily has d->infinity; its existence is not asserted.
+On the accepted no-padding irreducible Salem progression N=120k+9,k>=1, P_N=z^(N+3)-z^(N+1)-z^N+1-z^2-z^3, the actual degree is d=N+3=2s, H=6, plastic<beta_N<4/3 and beta_N tends to the plastic root above1.
+Exact symbolic substitution gives Q'(2)=(-N^2+14N-1)/4<0, Q'(-2)=-(N^2+2N+17)/4, h=1,a=s,e=0,b=1,m_*=1,L=d-2 and0<q<1/12.
+Therefore K_(P_N)^tr>144*2^d/(d-2).
+This actual bounded-measure family disproves degree-uniform control of this K on beta<4/3, while its total measure tends to positive log(plastic).
+No arbitrary function of the exact beta, justified near-one restriction, different local/signed-tail estimate, actual finite certificate or unrestricted Mahler gap is excluded or established.
+No new source proof, program, root isolation or parameter scan was performed.
 
 ## Current assessment
 [Selected decision](#decision-complete-isolated-whole-adoption)
@@ -47,7 +69,7 @@ On the accepted no-padding irreducible Salem progression N=120k+9,k>=1, P_N=z^(N
 | --- | --- |
 | date | 2026-10-21T17:54 |
 | status | proved |
-| reason | Adopt the actual complete SELF finding for the unchanged necessary theorem and proof after checking every primitive/nonmonic/endpoint/root factor, both estimate directions, finite constants, exact original family and all sufficient-expression/source/near-one limits. Original R273 UNKNOWN and author contribution/check remain separate; no fresh source/native run or Task completion is asserted. |
+| reason | Adopt the actual complete SELF finding for the unchanged necessary theorem and proof after checking every primitive/nonmonic/endpoint/root factor, both estimate directions, finite constants, exact original family and all sufficient-expression/source/near-one limits. Original R197 UNKNOWN and author contribution/check remain separate; no fresh source/native run or Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

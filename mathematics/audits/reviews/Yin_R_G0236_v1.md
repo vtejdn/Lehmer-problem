@@ -37,7 +37,9 @@ No native mathematical program, solver, J, scan, package, new source search/inta
 | [Entire normalized-error author finding](#normalized-error-damping-whole-author-finding) | self-reviewed |
 | [Actual C37 extraction finding](#c37-normalized-error-damping-extraction-finding) | self-reviewed |
 
-The original arrangement supplied the normalized-error proof ingredients and proposed conclusions before review; the extraction account expressly carries that supplied proof context forward. Both findings are self-reviewed under the current context rule, independent of unrelated D4/C36 authorship or earlier C34 review. The actual whole reconstruction, dates, source limits, all-profile domain, support and conditional-selection boundaries remain unchanged.
+The original arrangement supplied the normalized-error proof ingredients and proposed conclusions before review; the extraction account expressly carries that supplied proof context forward.
+Both findings are self-reviewed under the current context rule, independent of unrelated D4/C36 authorship or earlier C34 review.
+The actual whole reconstruction, dates, source limits, all-profile domain, support and conditional-selection boundaries remain unchanged.
 
 ## Review bindings
 

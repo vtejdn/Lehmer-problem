@@ -43,9 +43,9 @@ The target selected decision is open; this finding does not adopt it or change C
 | [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [C592v2 current SELF scope](../../claims/Yin_C_G0592_v2.md#decision-complete-current-self-adoption) | Actual current whole-input SELF relationship and exclusion of unrelated native/example claims; not reclassified by this new special-case calculation. |
 | [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [GMR18 fixed source account](../literature/GMR18/Yin_U001.md#gmr18-u001) | Actual2016 arXiv v2 passage-level Poisson logarithmic derivative/normalization, excluding2018 typeset and whole-original-proof upgrades and preserving the recorded original SELF limit. |
 | [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [L264 weighted calculation](../../ledger/Yin_L_G0264_v1.md#exact-blaschke-two-moment-budget) | Differentiated orthogonality and geometric-series normalization only, with the present signed one-pole deductions independently reconstructed. |
-| [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [Earlier whole C676 finding](Yin_R_G0856_v1.md#contact-aligned-return-whole-independent-finding) | Exact unchanged two-family, cyclic/aligned/scalar/finite-return/source input evidence only; no prospective coverage of C653. |
-| [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [Earlier whole C672 finding](Yin_R_G0852_v1.md#balanced-prime-family-whole-independent-finding) | Actual arithmetic/source/degree/translated-law chain underlying the same two fixed inputs only. |
-| [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [Earlier whole C668v2 finding](Yin_R_G0850_v1.md#contact-weighted-joint-shell-whole-independent-finding) | Exact unchanged torus/probability and finite weak Fourier scope only. |
+| [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [Earlier whole C648 finding](Yin_R_G0856_v1.md#contact-aligned-return-whole-independent-finding) | Exact unchanged two-family, cyclic/aligned/scalar/finite-return/source input evidence only; no prospective coverage of C653. |
+| [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [Earlier whole C644 finding](Yin_R_G0852_v1.md#balanced-prime-family-whole-independent-finding) | Actual arithmetic/source/degree/translated-law chain underlying the same two fixed inputs only. |
+| [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [Earlier whole C641v2 finding](Yin_R_G0850_v1.md#contact-weighted-joint-shell-whole-independent-finding) | Exact unchanged torus/probability and finite weak Fourier scope only. |
 | [Whole one-pole finding](#one-pole-band-contract-whole-independent-finding) | [C653 exact limits](../../claims/Yin_C_G0653_v1.md#reuse-scope-and-exact-boundaries) | Separate-estimate versus actual-error distinction, per-k m1 contract versus arbitrary captures, and exact unresolved coupled-control/width/measure boundaries; comparison-only screens are not proof inputs. |
 
 ## Actual families, phase polynomial and unique inner root
@@ -212,14 +212,14 @@ This distinguishes a valid exact finite identity from the unresolved coupled qua
 
 ## Source, review and completion boundaries
 
-The unchanged actual-family and original-law chains are reused at the exact C648/C672/C641 scopes and the earlier R856/R852/R850 scopes listed above.
+The unchanged actual-family and original-law chains are reused at the exact C648/C644/C641 scopes and the earlier R856/R852/R850 scopes listed above.
 The Poisson derivative and differentiated orthogonality are the actual C172/L264/GMR18 interfaces; the new signed root count, residue, density and finite scalar calculations are supplied locally and were reconstructed here.
 GMR18 retains its actual2016 arXiv v2 passage-level formula/normalization scope, not a newly inspected2018 typeset or whole-source proof.
 Its original project SELF relationship and all other source/SELF/UNKNOWN limitations remain unchanged.
 C592v2's current whole adoption is SELF; the new direct special-case calculation neither relabels that review nor audits its unrelated native examples.
 No original MS05 torsion-coset/Mann/Schmidt proof, RY26 counting theorem or original Bertrand proof is newly audited.
 
-The comparison-only C143/C479/CRW08 screen supplies no mathematical input to these conclusions and was not treated as a missing dependency or an external absence proof.
+The comparison-only C143/C475/CRW08 screen supplies no mathematical input to these conclusions and was not treated as a missing dependency or an external absence proof.
 No new source acquisition, source-version substitution, native experiment or formal verification was performed.
 The source identification and applicability are adequate for the actual declared uses at their stated accepted depth.
 The finite budget improvement, separate-estimate limitations and per-k cardinality obstruction do not establish a lower bound for the actual complete cap error or a new width exponent.

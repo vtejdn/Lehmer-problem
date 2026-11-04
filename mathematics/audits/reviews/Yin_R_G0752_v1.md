@@ -6,7 +6,7 @@ author: Yin
 
 Publication date: 2026-10-22T19:28.
 Human record author Yin.
-The current constructor read every original physical L426–L429 version in full, their complete old R585–R588 accounts and the necessary fixed interfaces before constructing the exact current responsible C homes.
+The current constructor read every original physical L426–L429 version in full, their complete old R439–R442 accounts and the necessary fixed interfaces before constructing the exact current responsible C homes.
 The current statements and responsible-home transfer are this constructor's work, so the four current whole findings and the wrapper-precision finding are SELF.
 They are not isolated independent reviews.
 The four first registrations were open at2026-10-22T19:24.
@@ -73,9 +73,9 @@ The selected existing source/fixed-input scopes are reused without recursive upg
 
 ## Current and original scopes
 
-R585–R588 retain their original relationship declarations, exact original L/input bindings, author/contributor accounts, source/native limits and real dates.
+R439–R442 retain their original relationship declarations, exact original L/input bindings, author/contributor accounts, source/native limits and real dates.
 This constructor does not determine old isolation from the word nonblind, scope requests, accepted upstream interfaces or assembly alone.
-R588 specifically discloses frozen-scope mathematical descriptions, author explanations, upstream review conclusions and the reviewer's prior notes before its actual closeout check; that real context is preserved rather than silently treated as an isolated initial arrangement.
+R442 specifically discloses frozen-scope mathematical descriptions, author explanations, upstream review conclusions and the reviewer's prior notes before its actual closeout check; that real context is preserved rather than silently treated as an isolated initial arrangement.
 Its2026-10-19 preliminary check, stop before registered review, and actual2026-10-20T08:26 closeout review remain distinct.
 The new current findings here claim only the actual constructor SELF arrangement.
 

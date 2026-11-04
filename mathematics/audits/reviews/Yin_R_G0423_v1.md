@@ -8,8 +8,8 @@ Human record author Yin.
 Root separately reviews entropy_attainment_bridge's complete L414, retained without mathematical alteration from the author-ready construction dated2026-10-18T16:36.
 Root supplied only the open union-connectivity question and asked that the actual quartic core premise be checked; no construction, proof step or repair was supplied to this new argument.
 The arrangement is nonblind: author messages, all five proof sections, fourteen formulas and eight input rows were available.
-Root contributed to upstream C170 and L409; their existing R556/R560 findings are reused at their exact scopes, not relabelled as new independent audits by a contributor.
-L411's full-weight interface and separate R562 are likewise reused.
+Root contributed to upstream C170 and L409; their existing [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding)/R414 findings are reused at their exact scopes, not relabelled as new independent audits by a contributor.
+L411's full-weight interface and separate R416 are likewise reused.
 The exact L170 strip proof, L309 whole-core path argument and their R69/R208 applicability findings were read, including the explicit quartic above the golden ratio.
 There was no mathematical program, source acquisition or original external-proof audit in this review.
 
@@ -33,9 +33,9 @@ There was no mathematical program, source acquisition or original external-proof
 | [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Actual strict strip](../../ledger/Yin_L_G0170_v1.md#exact-salem-return-strip) | Narrow co-return premise explicitly supplied at this quartic, reciprocal involution and strict necessity; R69 reused. |
 | [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Whole-core selected paths](../../ledger/Yin_L_G0309_v1.md#quartic-full-core-linear-return) | Actual fixed quartic A_D rho+B_D bound, B in O and reciprocal reversal; R208 reused with no stochastic hitting-time consequence. |
 | [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Forced original digit](../../ledger/Yin_L_G0319_v1.md#actual-forced-boundary-segments) | Exact expanding threshold B/beta only; reverse uniqueness proved in the new argument, R218 boundary reused. |
-| [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Original weighted graph](../../claims/Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix) | Complete full-word component correspondence and original probabilities via separate R556; no fresh audit of root's upstream contributions. |
+| [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Original weighted graph](../../claims/Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix) | Complete full-word component correspondence and original probabilities via separate [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding); no fresh audit of root's upstream contributions. |
 | [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Original midpoint](../../claims/Yin_C_G0170_v1.md#four-digit-overlap-exact-marks) | Unique four-digit basis, exact midpoint sign and no within-edge mark variance. |
-| [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Least component defect](../../ledger/Yin_L_G0409_v1.md#bulk-component-defect) | Actual mass-union variance and fixed-defect boundary through independent R560. |
+| [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Least component defect](../../ledger/Yin_L_G0409_v1.md#bulk-component-defect) | Actual mass-union variance and fixed-defect boundary through independent R414. |
 | [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Complete endpoint weights](../../ledger/Yin_L_G0411_v1.md#seed-complete-count-comparison) | Binary autocorrelation, chronological path concatenation, monotonic p_k and extension from fixed seed endpoints to any fixed constructed endpoint. |
 | [Whole persistent-edge finding](#persistent-carry-whole-independent-finding) | [Return normalization](../../ledger/Yin_L_G0411_v1.md#seed-path-load-and-mass) | Full t_k versus D_k, exact four-step zero probability and no omitted complete-word factor. |
 

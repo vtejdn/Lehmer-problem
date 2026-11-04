@@ -316,7 +316,7 @@ If Q(a) instead has any unramified2-prime or3-prime, C178/C184 exclude the resid
 Neither deduction imports C155's different e=f=0 singleton estimate into x=f=0.
 
 The complete q=1 unbuffered integer numerator, supplied denominator L^2 with L=972000, phase B_s^0(alpha)=Q_s, exact degree30d, endpoint coefficient100352 and full30m(P) supremum return are already fixed in [C191v2's original-return proof](Yin_C_G0191_v2.md#exact-original-return).
-That proof explicitly preserves draft_inventory_later's original contribution to the former formulas(52)--(54), alongside [L439's earlier unbuffered family](Yin_C_G0581_v1.md#unbuffered-balanced-reassessment).
+That proof explicitly preserves draft_inventory_later's original contribution to the former formulas(52)--(54), alongside [L438's earlier unbuffered family](Yin_C_G0581_v1.md#unbuffered-balanced-reassessment).
 Those complete constructions are not recopied here.
 They retain Norm_K(alpha)=1, [K:F]=2, all original phases and the full denominator power L^(2d), rather than the own degree of g or Q_s.
 

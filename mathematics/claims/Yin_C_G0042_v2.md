@@ -113,14 +113,14 @@ The recorded review description was `under review`.
 | dependency | [Strict positive rational Gram](Yin_C_G0034_v1.md#statement) | Actual-radius rational positive definite Gram and weighted squares with all precision/denominator boundaries. |
 | dependency | [Complete original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only actual nonzero integral original values and complete complementary packets, with full signed norms/q/final weights/copies/physical width. |
 | support | [Whole-author finding](../audits/reviews/Yin_R_G0241_v1.md#quadratic-linear-damping-whole-finding) | Exact original author freeze only; the corrected physical version has its separately selected actual extraction finding below. |
-| review | [Actual corrected-version independent extraction](../audits/reviews/Yin_R_G0241_v1.md#c42-v2-corrected-extraction-finding) | Exact v2 statement, complete selected argument and domain clarification, actual direct interfaces and full preservation; prior v1 findings remain at their original nonpassing scope. |
+| review | [Actual corrected-version extraction](../audits/reviews/Yin_R_G0241_v1.md#c42-v2-corrected-extraction-finding) | Exact v2 statement, complete selected argument and domain clarification, actual direct interfaces and full preservation; prior v1 findings remain at their original nonpassing scope. Finding relationship: self-reviewed. |
 
 ## Argument
 
 Version2 author correction: the conditional sufficient-gap corollary uses EXPLICIT constants m0>0 and0<=eta strictly below its displayed threshold.
 A nonpositive window cannot justify a positive minimum and C43's real square root requires nonnegative eta.
 C42's original A8 already states both restrictions.
-C43's original author account stated eta>=0 and used positive-window language but omitted the explicit m0>0 domain in that sentence; the later R333 correction records this omission and the original whole review's missed clarification.
+C43's original author account stated eta>=0 and used positive-window language but omitted the explicit m0>0 domain in that sentence; the later [R240 correction](../audits/reviews/Yin_R_G0240_v1.md#c43-v2-corrected-extraction-finding) records this omission and the original whole review's missed clarification.
 Read the exact corrected Statement above for the current proposition.
 The entire earlier author account and its history follow unchanged; this clarification supplies no new uniform upper estimate or unrestricted gap.
 
@@ -528,7 +528,6 @@ This addendum uses a first-order damping factor that is allowed to exceed1 when 
 The complete product, rather than each factor separately, has its required maximum at0.
 Root supplied the candidate N=floor B and the key logarithmic-derivative factorization; this author verifies the entire construction, improves the integer choice to N=ceil(B/2), gives an explicit rational positive margin, and checks all original support/Gram/arithmetic interfaces.
 Root and this author are contributors, not independent reviewers.
-Fresh39percent account observation uses the same unchanged weekly window; no new allowance is made.
 
 <a id="linear-damping-domain-and-statement"></a>
 ### A1. Same actual input and precise changed construction

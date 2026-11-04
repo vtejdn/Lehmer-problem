@@ -16,7 +16,7 @@ The complete frozen D3, its author self-check and current source-only/status loc
 No proof-generation dialogue, separate author explanatory exchange or previous D3 review conclusion was supplied or consulted.
 The reviewer previously performed R214 on the different field-profile construction now fixed in L388; that relationship is disclosed, not treated as a contribution to this new cost derivation.
 The exact L388 weight asymptotic was re-read at its fixed locator.
-L318's local Poisson/reversal proof and R217 scope, L372's two-real-root coefficient interface, L377's independent-twist boundary and ABR01's selected attribution were already read in the same session and are reused at those unchanged interfaces.
+L318's local Poisson/reversal proof and [R785 original L318](Yin_R_G0785_v1.md#simultaneous-coherence-complete-independent-review) scope, L372's two-real-root coefficient interface, L377's independent-twist boundary and ABR01's selected attribution were already read in the same session and are reused at those unchanged interfaces.
 
 This is a whole local mathematical/application review: actual trace-unit values, independent signed twists, common union support, finite covariance and coefficient bounds, every scalar/content/norm/weight cost, and all fixed-input asymptotic restrictions.
 No native mathematical program, solver, numerical bound calculation, scan or new J was used.
@@ -25,7 +25,7 @@ The reviewed target was not edited.
 
 Current relationship clarification (2026-10-21T21:52): the initial assignment supplied the actual claimed inequalities and normalization/order mathematical boundaries before autonomous reconstruction, and the complete target author self-check was visible.
 Those concrete target mathematical inputs establish SELF under the current isolation rule; earlier checking of different fixed inputs and the noncontributor role alone establish neither SELF nor independence.
-The original00:07 review, full mathematical account/bindings,00:05 author freeze and00:19 retention remain unchanged; C10v2 already retains the complete argument at its selected scope with an adequate R296 SELF finding.
+The original00:07 review, full mathematical account/bindings,00:05 author freeze and00:19 retention remain unchanged; C10v2 already retains the complete argument at its selected scope with an adequate R220 SELF finding.
 This is relationship and home maintenance, not a new mathematical review or a retrospective independent pass.
 
 ## Review relationships

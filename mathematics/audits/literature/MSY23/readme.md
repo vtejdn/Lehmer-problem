@@ -158,9 +158,10 @@ No private manuscript text was sent to a public service.
 ## What Linearization Supplies for Yin_C_F0001
 
 **Subsequent assessment, 2026-09-10:** the paragraphs below preserve the source-audit stage, when bounded representation existence was still an open project obligation.
-The later Yin_C_F0012 refutes its universal form even for two selfadjoint generators with bounded duals.
+The earlier project account reports a later refutation even for two selfadjoint generators with bounded duals under former Yin_C_F0012.
+The original fixed proof/review homes remain unlocated, as stated in [the project-deduction boundary](Yin_U003.md#bounded-linearization-recheck); this report supplies no currently reusable obstruction proof.
 The user-requested [source-domain recheck](Yin_U003.md#bounded-linearization-recheck) and the retained counterexample comparison confirms that Definition 4.5, Theorem 4.4 and Lemma 4.8 concern the chosen ambient evaluation domain, and Proposition 2.3 does not change it.
-The counterexample excludes every alternative bounded inverse pencil, not merely an arbitrary nonminimal representation.
+The reported project argument would exclude every alternative bounded inverse pencil, rather than only one arbitrary nonminimal representation; that stronger claim requires the unlocated original argument for reuse.
 This supplement leaves the earlier inspected mathematical content and historical completion review intact.
 
 Set \(F_X=\operatorname{Div}_U(B)\) and \(R_X=\operatorname{Div}_M(B)\).
@@ -304,42 +305,6 @@ Yin_C_F0001 remains unchanged.
 The independent integrated-contract review and verification limits are in the linked completion record.
 Follow-up readings of Theorem 4.4 and Proposition 2.3 clarify Schur elimination and the inner-rank criterion; they do not change Yin_C_F0001 or assert bounded descent.
 
-<a id="decision-candidate-0001"></a>
-<a id="decision-candidate-0002"></a>
-<a id="decision-candidate-0003"></a>
-<a id="decision-candidate-0004"></a>
-## Historical recorded completion
-
-The four historical publications `MSY23 free-field and Atiyah source audit_v1` through `MSY23 free-field and Atiyah source audit_v4` retain one unchanged source-audit disposition: **completed within the original assignment scope**.
-The substantive inspection and completion dates remain those stated in the audit and contract above.
-The record registration time is 2026-09-14T01:14; it is not a new inspection or inferred historical completion date.
-
-Recorded by: Yin.
-Recorded event: 2026-09-14T01:14.
-Original transition: no prior recorded disposition to `completed`.
-No resumption condition was recorded.
-
-Contract: [original audit assignment, physical v1](#historical-contract-v1).
-Selected completion evidence: [Completion review](#goal-completion-review).
-Covered materials are this source audit and that assignment.
-Original reviewed publication: `MSY23 free-field and Atiyah source audit_v1`.
-The evidence basis is the recorded completion review; its actual inspection relationship and limitations remain in the review itself.
-No separately declared fixed dependencies or independent review classification is invented.
-
-Recorded scope: The original completion criteria and limitations in the cited completion comparison for MSY23 free-field and Atiyah source audit.
-Preserve recorded lifecycle and completion evidence; historical review classification is not inferred.
-
-Recorded reason: Preserve the completed disposition already recorded at registration; this timestamp is registration, not an inferred historical completion date.
-
-Recorded authority: initial recorded disposition in `MSY23 free-field and Atiyah source audit_v1`, preserving the [original assignment and criteria](#historical-contract-v1).
-This is a historical account of the retired registration, not a new audit-task lifecycle.
-
-| Historical publication | Recorded update | Meaning of the recording |
-| --- | --- | --- |
-| `MSY23 free-field and Atiyah source audit_v1` | 2026-09-14T02:10 | Yin, 2026-09-14T01:14: registration; Yin, 2026-09-14T01:25: Repair relative links after Goal-to-Task path migration; contract unchanged. |
-| `MSY23 free-field and Atiyah source audit_v2` | 2026-09-14T04:01 | Yin, 2026-09-14T04:01: Register previously selected proof/review support; verified legacy correspondence, no new mathematical audit |
-| `MSY23 free-field and Atiyah source audit_v3` | 2026-09-14T14:42 | Yin, 2026-09-14T14:42: Approved framework separation: relocate mathematical material and rebase local documentation locators; preserve mathematics, assessments and historical evidence. |
-| `MSY23 free-field and Atiyah source audit_v4` | 2026-09-15T08:24 | Yin, 2026-09-15T08:24: Separate execution metadata from existing Task bodies; preserve mathematical contracts, lifecycle, historical evidence and prior review classification. |
 
 ## Bibliographic Display Observed in the Published Edition
 

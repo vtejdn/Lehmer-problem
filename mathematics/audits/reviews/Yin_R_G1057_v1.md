@@ -17,7 +17,8 @@ The reviewer received no inherited proof-development conversation, contributed n
 The obligations were enumerated from the fixed statement and checked against the complete argument and directly needed fixed dependencies.
 The target's own proof, authorship explanation and selected source accounts were read as the materials under review.
 Adopted dependency decisions were inspected for their selected scope; their separate historical R findings were not used as substitutes for checking the interfaces below.
-No native computation, numerical image, rank, logarithm approximation, value-alphabet enumeration or C884 result was a premise.
+No native computation, numerical image, rank, logarithm approximation, value-alphabet enumeration or unlisted finite-classification result was a premise.
+The exclusion adds no dependency beyond the exact source and project interfaces bound below and identifies no unique additional Claim counterpart.
 
 The source check included direct text extraction and complete rendered-page inspection of [Yu99](../../literature/pdf/Yu99.pdf), published Acta Arithmetica 89(4), 1999, printed 337--339, PDF pages 1--3.
 The established external theorem is accepted at the statement and hypothesis scope retained in [Yu99-U001](../literature/Yu99/Yin_U001.md#fixed-input-logarithmic-bound).

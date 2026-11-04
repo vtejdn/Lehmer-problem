@@ -6,7 +6,7 @@ author: Yin
 
 Contributor original_signed_asymptotic developed the original-law conditional-mean and tail implications, rational root comparison, canonical-dual and positive-phase consequences, and the exact finite-arithmetic program.
 Root supplied the substantive improvement using the entire adopted first-return prefix through512 and its uniform late-mass comparison.
-These are joint author contributions for Yin; independent whole review and separate adoption remain outstanding.
+These are joint author contributions for Yin; independent whole review and separate adoption were outstanding at author registration.
 No return graph, source certificate or chronological computation range is enlarged.
 
 ## Statement
@@ -73,7 +73,7 @@ The renewal identity gives
 
 The bounded reuse screen read C785's exact positive-level derivative gate, C563's one-critical secant/full-critical convolution criteria, C555's limsup overlap comparison and C204's finite-mean limits.
 Those fixed identities are reused, not re-proved as new mechanisms.
-C826's level-only obstruction and C408's full essential-radius boundary supply no missing upper critical moment; neither is bypassed by the new strict R<beta fact.
+C783's level-only obstruction and C405's full essential-radius boundary supply no missing upper critical moment; neither is bypassed by the new strict R<beta fact.
 The changed calculation here combines the paid subcritical defect in CM4 with an independently controlled small interval containing the TRUE R, and then removes the complete known early first-return mass before applying exponential convexity.
 
 ### Rational upper root and uniform interval constants

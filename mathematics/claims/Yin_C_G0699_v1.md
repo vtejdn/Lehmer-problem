@@ -100,7 +100,7 @@ When they hold, C689's full fiber remains exactly2^(2d-47A/4) modulo32.
 That count is over ALL lifts above the fixed modulo8 class, not a count restricted by the actual factors in CP3.
 No proof that CP6 or CP8 holds for a particular constructed input is claimed here.
 
-For the complete C667/C698/C691 families, take a=2m and Y_b=Y_0 with their already paid full representative.
+For the complete C667/C668 v2/C691 families, take a=2m and Y_b=Y_0 with their already paid full representative.
 Their fresh-factor margin gives h_b>181a, so CP1's34a condition costs no new degree or support.
 The quantities
 
@@ -131,7 +131,7 @@ In particular
     X^(3A/2)|K_0 over Z, J_3|K_0 over Z,
     degK_0<h+17A/2<d-2A.
 
-The full actual C699 eta is e_s^q for a lower class e_s modulo phi^(3a).
+The full actual C669 eta is e_s^q for a lower class e_s modulo phi^(3a).
 The sign-dependent integer halves remain M_+bar=0 and M_-bar=rem_(phi^A)(k_0^6), and Delta(K_0)bar=0.
 Thus no new integer-half condition is assumed in describing e_s.
 
@@ -142,7 +142,7 @@ Then
     J_2|W_0 over Z, degW_0<h/2+3A<d,
     T_0=S^2+2Phi^AK_0+4W_0.
 
-C699/C702 give both residuals zero modulo4 for this exact T_0.
+C669/C672 give both residuals zero modulo4 for this exact T_0.
 The C683 FP3--FP4 integer fourth-power remainder calculation applies unchanged: K_0,C are q-th powers, W_0 a q/2-th power, and S is an integer square.
 Its actual low second quarter belongs to I_low=phi^A Fr(F_2[X]/phi^(4A)).
 C694 NP7 already makes both residuals zero modulo16 on H_0-primary components of T_0.

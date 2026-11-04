@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T21:54.
 Human operator: Yin.
 The checking agent read all209original L193 lines, all76original R92 lines, and the entire286-line published open C463 Statement, Argument, registration and remaining limitations.
-It read the complete necessary C413v2 nonlinear construction, all four evaluations, integrality/nonvanishing/formal-actual reversal/content proof and exact application domain.
+It read the complete necessary C410v2 nonlinear construction, all four evaluations, integrality/nonvanishing/formal-actual reversal/content proof and exact application domain.
 The different C7 radical controls were checked as disclosed comparison only; they are not an irreducibility premise for this elementary family.
 The full original7555-character reuse/Sections1--4/equations(1)--(9) proof and844-character remaining boundary are retained modulo same-object proof homes.
 The agent rederived the entire current chain below, rather than checking only text retention.
@@ -72,7 +72,7 @@ Thus f is primitive regardless of lower overlaps, and the precise content of f_R
 Submultiplicativity and triangle inequality give4*9+2*8*5=116, independently of p and without assuming disjoint supports.
 The common scalar identity gives f(alpha_i)=4alpha_i and f(alpha_i^2)=4(alpha_i^4-1), including inverse roots.
 
-All hypotheses of the complete C413v2 mechanism hold for this actual irreducible reciprocal nontorsion unit polynomial and nonzero scalar4.
+All hypotheses of the complete C410v2 mechanism hold for this actual irreducible reciprocal nontorsion unit polynomial and nonzero scalar4.
 Modulo2 the two cubic numerator terms agree, so the half-sum is integral.
 The four evaluations with actual reversal degree k=3p+2 cancel at alpha, and monic division makes P an integral factor.
 If the auxiliary vanished identically, s=-f*/f would satisfy s(t^2)=s(t)^2.
@@ -90,7 +90,7 @@ Multiplicativity of the entire factorization gives m(C)=m(G_f)-log beta.
 Every nonzero integer polynomial has nonnegative logarithmic Mahler measure, including a constant with its leading scalar, proving the full two-sided complementary bound.
 
 This establishes the complete actual primitive-content collapse and full auxiliary/cofactor upper cost for unbounded degree.
-It confirms the existing general content warning, rather than correcting the fixed C413v2 proof.
+It confirms the existing general content warning, rather than correcting the fixed C410v2 proof.
 It excludes inferring a general exponential primitive floor from resultant cardinality alone.
 The total measure remains fixed positive, so it neither refutes a near-one-only obstruction nor proves a cyclotomic or vanishing cofactor, optimized coefficient bound, controlled near-one representation or uniform gap.
 The complete current Statement and Argument, all original contribution/reuse/check scopes and every domain/quantifier/cost limitation have been checked.

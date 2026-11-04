@@ -21,11 +21,11 @@ author: Yin
 | [Current entire paid-threshold finding](#paid-threshold-whole-self-finding) | [Exact fixed input](../../claims/Yin_C_G0459_v1.md#argument) | Full original monic quotient/first-d constraints/integral U/T=R U^-1/pivot and every fixed-diagonal strong residual limit including neutral roots, with all-future fixed-input but ineffective onset. |
 | [Current entire paid-threshold finding](#paid-threshold-whole-self-finding) | [Exact fixed input](../../claims/Yin_C_G0212_v1.md#radical-collision-control) | Complete actual norm-minus-one dyadic irreducibility/degree2r/relative degree r and original-probability residue product/fixed-r true-rate equality; no imported numerical bit-rate bound or varying-r limit. |
 | [Current entire paid-threshold finding](#paid-threshold-whole-self-finding) | [Exact fixed input](../../claims/Yin_C_G0235_v1.md#one-expanding-comparison) | Only actual one-expanding real1<beta<2/others at most one/TOTAL-m leading comparison with input-dependent support constants, not a general-exterior or uniform finite-horizon theorem. |
-| [Current entire paid-threshold finding](#paid-threshold-whole-self-finding) | [Exact fixed input](../literature/Nat26/Yin_U003.md#nat26-u003) | Existing original DLMF1.2.8 formula/notation/application/failed-access/noartifact/unread-book-proof scope inherited via C469, no new source occurrence or proof/PDF reading. |
+| [Current entire paid-threshold finding](#paid-threshold-whole-self-finding) | [Exact fixed input](../literature/Nat26/Yin_U003.md#nat26-u003) | Existing original DLMF edition 1.2.8, formulas 20.2.3/20.7.32 and Section 20.1 notation/application/failed-access/noartifact/unread-book-proof scope inherited via C469, no new source occurrence or proof/PDF reading. |
 | [Current entire paid-threshold finding](#paid-threshold-whole-self-finding) | [Exact fixed input](../literature/Par88/Yin_U001.md#par88-u001) | Existing theorem/edition/minimality and distinct original compression reuse source scopes inherited through C475, not a new source theorem/proof or bounded inverse-H application. |
 | [Current entire paid-threshold finding](#paid-threshold-whole-self-finding) | [Exact fixed input](../literature/CRW08/Yin_U001.md#crw08-u001) | Existing original bounded title/intro/equation1.2 pp1--2 lead only, later proofs uninspected/no quantitative premise and original unknown snapshot/current metadata/published edition distinct. |
-| [Original complete author check](#paid-threshold-original-author-finding) | [Entire original L272](../../ledger/Yin_L_G0272_v1.md#complete-retained-proof-and-review) | Complete original six sections/18equations/all source/contribution/finite-bound/threshold/actual-control/negative scope; author SELF at day precision and body freeze10:21 distinct. |
-| [Original complete author check](#paid-threshold-original-author-finding) | [Actual original control/check/freeze account](../../ledger/Yin_L_G0272_v1.md#actual-radical-paid-recipe-control) | Actual complete original self-check and frozen full formula/envelope/residue scope; no exact self-check or source-reading minute inferred from10:21 freeze or10:33 project review. |
+| [Original complete author check](#paid-threshold-original-author-finding) | [Entire original L272](../../ledger/Yin_L_G0272_v1.md#complete-retained-proof-and-review) | Complete original six sections/18equations/all source/contribution/finite-bound/threshold/actual-control/negative scope; author SELF at day precision and body freeze 2026-10-10T02:21 distinct. |
+| [Original complete author check](#paid-threshold-original-author-finding) | [Actual original control/check/freeze account](../../ledger/Yin_L_G0272_v1.md#actual-radical-paid-recipe-control) | Actual complete original self-check and frozen full formula/envelope/residue scope; no exact self-check or source-reading minute inferred from 2026-10-10T02:21 freeze or 2026-10-10T02:33 project review. |
 
 <a id="paid-threshold-whole-self-finding"></a>
 ## Current whole paid-threshold and uniform-envelope finding
@@ -72,8 +72,8 @@ The seed lag1 bound is strictly above g(log phi), preserving the three distinct 
 The stronger one-expanding comparison remains only at actual real1<beta<2/other conjugates at most one, with no extension to every exterior configuration.
 
 R171's shared history/scope brief and ordinary previous review/fixed-input roles do not establish exact extra initial target contents/order or target proof contribution.
-Its ENTIRE old whole finding remains UNKNOWN with full original law/source/control/contribution/negative body,10:33 date and old no-correction verdict unchanged.
-The coordinator author supplied the elementary assembly/envelope and complete self-check at original day precision;10:21 is the full body freeze, not a reconstructed check/source-read minute.
+Its ENTIRE old whole finding remains UNKNOWN with full original law/source/control/contribution/negative body,2026-10-10T02:33 date and old no-correction verdict unchanged.
+The coordinator author supplied the elementary assembly/envelope and complete self-check at original day precision;2026-10-10T02:21 is the full body freeze, not a reconstructed check/source-read minute.
 Existing Nat26/Par88/CRW08 inherited records suffice; this assembly requires no new external theorem, source proof/PDF reading, program/native run or numerical experiment.
 No fresh isolated coverage, research Task/E execution, unrestricted floor or near-one arithmetic existence follows from this whole SELF.
 
@@ -84,6 +84,6 @@ Original author date:2026-10-10, at the recorded day precision.
 The coordinating root authored the complete new assembly and all-threshold envelope analysis, reusing L267/L268 at their complete fixed scopes and explicit source boundaries.
 Its prior L268 authorship is a fixed-input role, not an independent origin of that theorem or a new source proof audit.
 The complete original check covered monic/nonzero/nonunit-word domain/TOTAL m/full r,d, exact constants/strict nonconstant detector/lag-versus-onset/every small-N/floor/ceiling/original weight/first-d row deletion/arbitrary coupling/ordered limits/compact positivity/uniform squeeze and actual radical degree/empty-stream/rate normalization.
-The entire body, including finite formula/whole envelope/actual residue control, froze2026-10-10T02:21 for a separate full review; the retained account does not record an exact self-check minute.
-The separate R171 completion is2026-10-10T02:33.
+The entire body, including finite formula/whole envelope/actual residue control, froze 2026-10-10T02:21 for a separate full review; the retained account does not record an exact self-check minute.
+The separate R171 completion is 2026-10-10T02:33.
 No mathematical program, floating computation, new source or unfinished D138 theorem was used, and no old or current SELF is relabelled as that separate review.

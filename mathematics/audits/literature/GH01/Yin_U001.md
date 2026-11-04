@@ -20,7 +20,7 @@ Passages: Sections5.1--5.2, author printed/PDF22--24, equations(4)--(5), Proposi
 Inspection: Complete selected text read; page23 visually checked for every power of2, the subgroup index and exponent m/2. The Stark/Chinburg original proofs and the published article rendering were not inspected; no original-proof acceptance is inferred from the survey.
 
 
-The [retained author manuscript](../../../literature/pdf/GH01--author-2000.pdf) identify this edition.
+The [retained author manuscript](../../../literature/pdf/GH01--author-2000.pdf) identifies this edition.
 This is a different work from the single-author Hir01 pretzel paper and Hir06.
 
 For a Salem extension K/F with [F:Q]=t, the survey's formulas(4)--(5) give

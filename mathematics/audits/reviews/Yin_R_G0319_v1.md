@@ -58,7 +58,7 @@ No original link change or mathematical normalization was used.
 The new A--F was checked against this complete proof, not only a summary or an original-only certificate.
 
 C88 currently selects its initial proof-draft/under-review decision.
-C86 now selects organized-reviewed after actual R425; the historical pending descriptions in D44/R317 are accurate to their recorded reading times and stay unchanged.
+C86 now selects organized-reviewed after actual R316; the historical pending descriptions in D44/R317 are accurate to their recorded reading times and stay unchanged.
 They do not make C88 dependent on anticipated review: its finite argument is fully supplied.
 No adoption or original-draft retirement accompanies this finding.
 

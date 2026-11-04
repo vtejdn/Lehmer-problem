@@ -13,7 +13,12 @@ Source edition: Ope26b, [retained PDF](../../../literature/pdf/Ope26b.pdf), Open
 
 Passages: Theorem 1.1, p.2; exact companion input Theorem 1.2, p.2; internal reduction, Sections 2–5, pp.3–8, especially Proposition 2.2, Lemmas 3.1–3.2 and 4.1–4.2, and Proposition 4.3. Printed and PDF pages coincide.
 
-Inspection: 2026-10-08, human record author Yin. The coordinating AI reviewer read the full source and inspected rendered pp.1,5,8. A separately assigned AI reviewer rederived the complete conditional reduction in Sections 2–5, including its conventions, integrality, ordered matrix products and spectral estimates, then reconciled its exact input with the separately reviewed companion. This arrangement was not blind: the earlier discussion and its explanatory conclusions were supplied as context. Neither reviewer developed the external proof. The findings below record the actual mathematical checks; no independent personal human inspection is asserted.
+Inspection: 2026-10-08, human record author Yin.
+The coordinating AI reviewer read the full source and inspected rendered pp.1,5,8.
+A separately assigned AI reviewer rederived the complete conditional reduction in Sections 2–5, including its conventions, integrality, ordered matrix products and spectral estimates, then reconciled its exact input with the separately reviewed companion.
+This arrangement was not blind: the earlier discussion and its explanatory conclusions were supplied as context.
+Neither reviewer developed the external proof.
+The findings below record the actual mathematical checks; no independent personal human inspection is asserted.
 
 
 ## Assessment and exact dependency boundary

@@ -1,7 +1,8 @@
 # CPSV18: Gram Spectrahedra
 
 The selected source is Chua, Plaumann, Sinn and Vinzant, arXiv:1608.00234v3 (2 May 2018).
-Bibliographic identity is in [references.bib](../../../literature/references.bib) owns the retained [PDF](../../../literature/pdf/CPSV18.pdf) and its edition facts.
+Bibliographic identity is in [references.bib](../../../literature/references.bib).
+The retained [PDF](../../../literature/pdf/CPSV18.pdf) is the selected preprint edition.
 The related 2017 publication has not been compared with this preprint.
 
 | Unit | Responsible reading |

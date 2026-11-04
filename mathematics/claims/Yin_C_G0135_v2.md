@@ -30,7 +30,7 @@ Samuels'2009 publisher introduction was read only as a related source lead; it i
 The exact field and norm proof, any positive coefficient class, and limitations will be developed directly below.
 C129 is available at its adopted scope.
 At this inquiry's first screen its prime-power extension was unsettled; root subsequently confirmed C132's actual independent adoption.
-That independent designation records the historical adoption account; the current R487 whole finding is self-reviewed.
+That independent designation records the historical adoption account; the current R353 whole finding is self-reviewed.
 Neither C129 nor C132 is a premise of the binomial-product proof.
 
 <a id="binary-binomial-antecedent-correction"></a>
@@ -468,7 +468,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T09:58 |
 | status | proved |
-| reason | Adopt R490 actual whole v2 finding. General finite binary-binomial annihilators give the explicit full-norm aggregate bound, with original one-time income, actual parity realizations and complete complexity controls retained. C71 already supplies the two-factor gate and an implicit gap on its admissible domains, including this central class at total width d+1; v2 corrects that antecedent omission without changing any formula. General near-one coverage remains open. |
+| reason | Adopt [R798 original binary-annihilator-v2](../audits/reviews/Yin_R_G0798_v1.md#binary-annihilator-v2-whole-independent-finding) actual whole v2 finding. General finite binary-binomial annihilators give the explicit full-norm aggregate bound, with original one-time income, actual parity realizations and complete complexity controls retained. C71 already supplies the two-factor gate and an implicit gap on its admissible domains, including this central class at total width d+1; v2 corrects that antecedent omission without changing any formula. General near-one coverage remains open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

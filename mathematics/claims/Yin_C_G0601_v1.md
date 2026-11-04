@@ -92,7 +92,7 @@ The exact forced-region solution, marked clock, occupation identity, paid finite
 They do NOT exclude nonmonotone/nonradial/arithmetic/angular U, further variable lengths or finite mean, and do not choose a mean branch or exact R.
 No degree-uniform/near-one estimate or unrestricted gap follows.
 KY14 stays bounded classical-method attribution; only the complete already proved local finite-region repair is used.
-Original structural_research authorship, upstream orbit roles, full20897-byte2026-10-10T10:36 author freeze including real arithmetic correction, original R2182026-10-10T10:41 whole finding, no-program/no-J/no-new-source facts remain unchanged.
+Original structural_research authorship, upstream orbit roles, full20897-byte 2026-10-10T10:36 author freeze including real arithmetic correction, original 2026-10-10T10:41 whole finding retained in [R786's forced-boundary account](../audits/reviews/Yin_R_G0786_v1.md#forced-boundary-complete-independent-review), and no-program/no-J/no-new-source facts remain unchanged.
 
 ## Complete argument
 

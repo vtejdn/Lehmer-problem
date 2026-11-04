@@ -148,7 +148,7 @@ Put K0=N_+N_-=(1+t^h)^2-t^(2k)(1-t^h)^2.
 The SINGLE auxiliary H=f_+f_-=K0/4 has actual Q4, actual width2T0 and D_+D_-=Res(P,K0)/4^d.
 Its exact coefficient table is
 
-| Exponent case | S=||K0||_2^2 | ||K0||_1 | rho=||K0||_1^2/S | ||H||_2^2 |
+| Exponent case | S=\|\|K0\|\|_2^2 | \|\|K0\|\|_1 | rho=\|\|K0\|\|_1^2/S | \|\|H\|\|_2^2 |
 | --- | ---: | ---: | ---: | ---: |
 | h=k | 10 | 6 | 18/5 | 5/8 |
 | h=2k | 12 | 6 | 3 | 3/4 |
@@ -210,7 +210,7 @@ There is no theorem for E>1 generally, no universal degree-linear construction, 
 | dependency | [Actual original quartic](Yin_C_G0051_v1.md#statement) | Fixed irreducible reciprocal original quartic and field normalization for F's exact hand control, not its parity law or finite graph data. |
 | support | [Old all-prime scalar-collapse gap](../ledger/Yin_L_G0067_v1.md#balanced-scalar-congruence-gap) | Existing stronger special-class gap and actual full order congruence, not new two-factor coverage or universal bounded periods. |
 | support | [Old quotient interface](../ledger/Yin_L_G0067_v1.md#scalar-collapse-root-matrix-interface) | Actual O0/pO0 quotient with all nilpotent multiplicities; distinct-root information alone is insufficient. |
-| support | [Original extended whole independent review](../audits/reviews/Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | ENTIRE actual21:10 extended D26, all original and new arguments/controls/interfaces; does not prospectively review this wrapper. |
+| support | [Original extended whole review](../audits/reviews/Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | ENTIRE actual21:10 extended D26, all original and new arguments/controls/interfaces; does not prospectively review this wrapper. Referenced finding relationship: unknown. |
 | review | [Actual extraction](../audits/reviews/Yin_R_G0794_v2.md#c71-unit-energy-actual-extraction-finding) | Complete actual A--F, ENTIRE retained extended body and all direct interfaces, checked after allocation by a noncontributor; R392 remains original whole scope. |
 
 
@@ -260,8 +260,8 @@ There is no theorem for E>1 generally, no universal degree-linear construction, 
 | dependency | [Dependency: statement](Yin_C_G0051_v1.md#statement) | Fixed irreducible reciprocal original quartic and field normalization for F's exact hand control, not its parity law or finite graph data. |
 | support | [Support: balanced-scalar-congruence-gap](Yin_C_G0244_v1.md#balanced-scalar-congruence-gap) | Existing stronger special-class gap and actual full order congruence, not new two-factor coverage or universal bounded periods. |
 | support | [Support: scalar-collapse-root-matrix-interface](Yin_C_G0244_v1.md#scalar-collapse-root-matrix-interface) | Actual O0/pO0 quotient with all nilpotent multiplicities; distinct-root information alone is insufficient. |
-| support | [Support: unit-energy-extended-whole-independent-finding](../audits/reviews/Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | ENTIRE actual21:10 extended D26, all original and new arguments/controls/interfaces; does not prospectively review this wrapper. |
-| review | [Current isolated finding](../audits/reviews/Yin_R_G0794_v2.md#g71-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:45 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
+| support | [Recorded original finding](../audits/reviews/Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | ENTIRE actual21:10 extended D26, all original and new arguments/controls/interfaces; does not prospectively review this wrapper. Finding relationship: unknown. |
+| review | [Current SELF finding](../audits/reviews/Yin_R_G0794_v2.md#g71-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:45 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
 
 
 ### Decision isolated-credited-scalar-comparison-20261022-m04
@@ -285,8 +285,8 @@ There is no theorem for E>1 generally, no universal degree-linear construction, 
 | dependency | [Dependency: statement](Yin_C_G0051_v1.md#statement) | Fixed irreducible reciprocal original quartic and field normalization for F's exact hand control, not its parity law or finite graph data. |
 | support | [Support: balanced-scalar-congruence-gap](Yin_C_G0244_v1.md#balanced-scalar-congruence-gap) | Existing stronger special-class gap and actual full order congruence, not new two-factor coverage or universal bounded periods. |
 | support | [Support: scalar-collapse-root-matrix-interface](Yin_C_G0244_v1.md#scalar-collapse-root-matrix-interface) | Actual O0/pO0 quotient with all nilpotent multiplicities; distinct-root information alone is insufficient. |
-| support | [Support: unit-energy-extended-whole-independent-finding](../audits/reviews/Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | ENTIRE actual21:10 extended D26, all original and new arguments/controls/interfaces; does not prospectively review this wrapper. |
-| review | [Current isolated finding](../audits/reviews/Yin_R_G0794_v2.md#g71-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:45 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
+| support | [Recorded original finding](../audits/reviews/Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | ENTIRE actual21:10 extended D26, all original and new arguments/controls/interfaces; does not prospectively review this wrapper. Finding relationship: unknown. |
+| review | [Current SELF finding](../audits/reviews/Yin_R_G0794_v2.md#g71-current-independent) | Complete current mathematical statement and retained proof, including all late extensions, paid arithmetic, useful controls and accepted necessary interfaces at their exact scopes; exclude post-initial credited comparison scopes identified by the finding; initial conclusion 2026-10-22T22:45 UTC, then old-finding comparison; actual interface and credited-comparison reading limits are disclosed in the finding. |
 | review | [Independent credited scalar comparison](../audits/reviews/Yin_R_G0798_v1.md#g71-credited-scalar-comparison-independent) | ONLY Statement D and Section4 credited old degree-linear scalar-collapse comparison on the exact dense-flat domain; complements R794v2 and its explicit exclusion without a fresh whole review of other C71 parts. |
 
 ## Registration and complete preservation
@@ -899,4 +899,4 @@ No native mathematical run or new external source was used for the extension.
 | dependency | [Actual original quartic](Yin_C_G0051_v1.md#statement) | Fixed irreducible reciprocal original quartic and field normalization for F's exact hand control, not its parity law or finite graph data. |
 | support | [Old all-prime scalar-collapse gap](../ledger/Yin_L_G0067_v1.md#balanced-scalar-congruence-gap) | Existing stronger special-class gap and actual full order congruence, not new two-factor coverage or universal bounded periods. |
 | support | [Old quotient interface](../ledger/Yin_L_G0067_v1.md#scalar-collapse-root-matrix-interface) | Actual O0/pO0 quotient with all nilpotent multiplicities; distinct-root information alone is insufficient. |
-| support | [Original extended whole independent review](../audits/reviews/Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | ENTIRE actual21:10 extended D26, all original and new arguments/controls/interfaces; does not prospectively review this wrapper. |
+| support | [Original extended whole review](../audits/reviews/Yin_R_G0794_v2.md#unit-energy-extended-whole-independent-finding) | ENTIRE actual21:10 extended D26, all original and new arguments/controls/interfaces; does not prospectively review this wrapper. Referenced finding relationship: unknown. |

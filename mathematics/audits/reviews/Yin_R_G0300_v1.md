@@ -16,8 +16,8 @@ No prior D32 verdict was consulted.
 
 The reviewer read the COMPLETE actual D32 allocation/candidate/reuse account, Sections1--5/equations1--16 and22:16 author freeze.
 It reconstructed the new top-coefficient classification, repeated-group cancellation contradiction, negative-delay transformation, primitive direction, source/target excess and sharp example, every pre-step induction index, both strict contrapositives, sequence/degree consequences and true signed cost.
-It then checked the actual adopted C74 statement, local theorem, explicit threshold and true-cost interfaces, and consulted R399 at its C74 extraction scope.
-R399 is accepted-input evidence and not evidence for the new D32 proof.
+It then checked the actual adopted C74 statement, local theorem, explicit threshold and true-cost interfaces, and consulted [R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) at its C74 extraction scope.
+[R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) is accepted-input evidence and not evidence for the new D32 proof.
 This is internal AI mathematical review, not external human refereeing or formal verification.
 
 No native mathematical program, source acquisition, target edit or new source theorem acceptance occurred.
@@ -69,7 +69,8 @@ The V=0 polynomial case is exclusive from the shifting case and fixes every poly
 
 ## Actual local interface and clean representatives
 
-The current C74 selected decision is proved/independently reviewed, with separate R398/R399 coverage.
+The current C74 selected decision is proved with a historically declared independent relationship, with separate R297/[R794 v2 original C74 extraction](Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) coverage.
+Referenced finding relationship: unknown.
 Its local theorem applies to the exact domain here: repeated signed monomials, primitive v, either sign of nonzero integer k, the same actual order, every output nonzero integral and u=(A+abs(k))*m/d<=eta_R.
 At s1 it is a coordinate shift.
 At s>=5R its original norm argument forces V(alpha)=0.

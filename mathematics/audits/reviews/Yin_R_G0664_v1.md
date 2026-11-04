@@ -84,7 +84,7 @@ This proves Z_full and its full2^(-(3r+1)) word factor, and BOTH strict differen
 All finite arithmetic is symbolic and exact; no code, root approximation, sphere sample or new J/native record was used.
 
 The accepted Smy08 normalization/measure-one precision and Nat26 formula interfaces remain at their actual existing depths; no full source-proof or new external passage/PDF reading occurred.
-L260/C452 is comparison context only; the separate D131 exploration was neither consulted nor used.
+L260/C448 is comparison context only; the separate D131 exploration was neither consulted nor used.
 The coordinator's direct/inverse emphasis is retained as that boundary, not imported as a coefficient budget or unrecorded derivation.
 The original R162 mathematical pass, no-repair statement, date and full exact source/control scope remain unchanged.
 Its shared-history/review-brief content and initial ordering are not established; ordinary prior reviews/fixed inputs alone do not make this review SELF or demonstrate isolation.

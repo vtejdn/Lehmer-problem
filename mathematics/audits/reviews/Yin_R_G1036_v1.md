@@ -16,7 +16,7 @@ The reviewer read the statement, enumerated its obligations, and worked through 
 No development Draft body, author chat, substantive mathematical memory or another reviewer's findings about C816 were consulted.
 No substantive correction or replacement proof was contributed to C816.
 
-After forming the initial mathematical finding, the reviewer read [C861's adopted R1035](Yin_R_G1035_v1.md#whole-finding) solely to establish the prior exhaustive native-review scope being reused.
+After forming the initial mathematical finding, the reviewer read [C815's adopted R1035](Yin_R_G1035_v1.md#whole-finding) solely to establish the prior exhaustive native-review scope being reused.
 That finding concerns the necessary fixed local-classification input, not a prior review of C816.
 This sequence is disclosed rather than claiming that no earlier R material was read.
 Other dependency review links were identified through selected decisions without recursively repeating their historical reviews.
@@ -39,7 +39,7 @@ The whole new symbolic proof is checked here; the existing complete local enumer
 | [Whole finding](#whole-finding) | [Adopted C810](../../claims/Yin_C_G0810_v1.md#decision-whole-reviewed-2026-10-26) | UF4--UF5 at s6,n187, full Laurent derivative identity and exact order 64 at Y+1 only; no transfer of its different original-input exclusion. |
 | [Whole finding](#whole-finding) | [Adopted C814](../../claims/Yin_C_G0814_v1.md#decision-whole-reviewed-2026-10-26) | Actual coefficient definitions, DS1 beta square and gamma precision, genuine single-F960 interface through C815, and the first-gate-only contrast in the B/Gamma subset. Its nonmembership certificate is not generalized. |
 | [Whole finding](#whole-finding) | [Adopted C815](../../claims/Yin_C_G0815_v1.md#decision-whole-reviewed-2026-10-26) | Exact rectangle factorization and original global/local equivalence, units, actual constants, injective source maps, all 10240-pair coverage and exact64 roots with unique fifth-order classes. Applicability checked; native classification reused at its adopted scope. |
-| [Whole finding](#whole-finding) | [C861 prior whole finding](Yin_R_G1035_v1.md#whole-finding) | Recorded exhaustive mathematical/native coverage of C815 and accepted-source limits only; this review does not repeat or relabel that reproduction. |
+| [Whole finding](#whole-finding) | [C815 prior whole finding](Yin_R_G1035_v1.md#whole-finding) | Recorded exhaustive mathematical/native coverage of C815 and accepted-source limits only; this review does not repeat or relabel that reproduction. |
 
 <a id="whole-finding"></a>
 ## Whole mathematical finding

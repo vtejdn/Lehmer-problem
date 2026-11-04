@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: actual selected boundary modules, quotients and metric pivots
 
 Recorded 2026-10-22T20:17 after the maintaining Yin agent read the actual published OPEN C597 ENTIRE Statement and ALL THREE COMPLETE mathematical Arguments.
-Full original L311/L313/L315 and whole R210/R212/R214, complete retained HR08 source account, the finite commutative-PID Hun74-U005 statement/completion boundary, and exact C607/C588/C238/C244/C305/C587/C394 interfaces were inspected.
+Full original L311/L313/L315 and whole [R785 original joint-boundary finding](Yin_R_G0785_v1.md#joint-boundary-complete-independent-review)/[R142 original lower-boundary finding](Yin_R_G0142_v1.md#lower-boundary-complete-independent-review)/[R785 original small-measure-pivot finding](Yin_R_G0785_v1.md#small-measure-pivot-complete-independent-review), complete retained HR08 source account, the finite commutative-PID Hun74-U005 statement/completion boundary, and exact C588/C571/C237/C243/C304/C570/C391 interfaces were inspected.
 This is current whole SELF with prior author/review context; no isolated review, source-PDF reading/acquisition or native/program execution occurred.
 
 ## Review relationships
@@ -48,7 +48,7 @@ No d consecutive terms vanish, while a single next coefficient may.
 Dividing by positive rational q gives exactly its rational determinant/valuation and gamma².
 Original coefficient energy is2q²ell and ell<=s/n, so the relative energy bound is>=n gamma² with all factors2 retained.
 The boundary ends at n+2d-1, still degree-linear.
-C588/C394 permit delta1 and q=L only sufficiently far into the stated small-TOTAL-m domain; neither bounds L or gamma from below.
+C571/C391 permit delta1 and q=L only sufficiently far into the stated small-TOTAL-m domain; neither bounds L or gamma from below.
 
 ## Entire selected trace quotient, invariants and modular proof
 
@@ -84,7 +84,7 @@ The pivot j=qell is a positive INTEGER and occurs at two distinct signed exponen
 Orthogonality gives E=q²ell=qj, with both anti-polynomial factors2 in S1/S2/rho.
 The nonzero same-exponent cyclic norm supplies the full resultant lower bound log q even when q is rational.
 Monomial removal preserves all coefficients/norms and leaves positive actual degree T<=2n.
-The complete C587 estimate at Tm/d is increased to u=(C+1)m only by its valid monotonicity.
+The complete C570 estimate at Tm/d is increased to u=(C+1)m only by its valid monotonicity.
 No powered-degree multiplicity, leading factor or coefficient cost is omitted.
 
 Subtracting the matching log q gives the EXACT margin with ell still present.
@@ -113,11 +113,11 @@ No mathematical repair was identified; summary definitions and explicit w=1,a=1 
 
 ## Original relationships and remaining independent scope
 
-R210 original whole2026-10-10T09:15 at original L311 freeze2026-10-10T09:13 has no original relationship table and unestablished actual additional initial target-content/order.
-R214 original whole2026-10-10T09:57 at original L315 freeze2026-10-10T09:49 likewise has no original relationship declaration establishing that arrangement.
+[R785 original joint-boundary finding](Yin_R_G0785_v1.md#joint-boundary-complete-independent-review) original whole 2026-10-10T09:15 at original L311 freeze 2026-10-10T09:13 has no original relationship table and unestablished actual additional initial target-content/order.
+[R785 original small-measure-pivot finding](Yin_R_G0785_v1.md#small-measure-pivot-complete-independent-review) original whole 2026-10-10T09:57 at original L315 freeze 2026-10-10T09:49 likewise has no original relationship declaration establishing that arrangement.
 Those genuine historical UNKNOWNs are disclosed by current maintenance, not fabricated as old declarations.
-R212's existing #lower-boundary-complete-independent-review retains its KNOWN independently reviewed relationship and ALL FIVE original L313 exact bindings, actual whole2026-10-10T09:39 and author freeze2026-10-10T09:36.
+[R142 original lower-boundary finding](Yin_R_G0142_v1.md#lower-boundary-complete-independent-review)'s existing #lower-boundary-complete-independent-review retains its KNOWN independently reviewed relationship and ALL FIVE original L313 exact bindings, actual whole 2026-10-10T09:39 and author freeze 2026-10-10T09:36.
 Generic nonblind/shared-upstream wording is not contrary evidence of new-target substantive development context, so it does not erase the known arrangement.
 That known independent finding remains bound to its ORIGINAL L313 proof, not later C597.
-The three complete original author SELF findings remain at their actual original inputs/dates in R210/R212/R214.
+The three complete original author SELF findings remain at their actual original inputs/dates in [R785 original joint-boundary finding](Yin_R_G0785_v1.md#joint-boundary-complete-independent-review)/[R142 original lower-boundary finding](Yin_R_G0142_v1.md#lower-boundary-complete-independent-review)/[R785 original small-measure-pivot finding](Yin_R_G0785_v1.md#small-measure-pivot-complete-independent-review).
 This current SELF supplies no new isolated coverage of C597 or replacement of the two old genuinely unknown whole scopes.

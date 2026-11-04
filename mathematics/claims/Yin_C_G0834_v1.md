@@ -138,7 +138,7 @@ The generic ST1--ST5 source theorem uses none of C831's numerical values or rank
 No sixty-column matrix, rank, target decision, new word or native outcome is computed in this theorem.
 All112 normalized output coordinates are part of the proposed finite test; no2^60 enumeration is required because linearity is proved.
 Every full input remains reducible and cyclotomic with total logarithmic Mahler measure0.
-Neither possible finite outcome supplies C757's SAME irreducible reciprocal nontorsion input, controlled positive total measure or a paid degree/precision improvement.
+Neither possible finite outcome supplies C720's SAME irreducible reciprocal nontorsion input, controlled positive total measure or a paid degree/precision improvement.
 No characteristic-zero F=X=0 identity, higher coefficient modulus, positive Mahler-gap conclusion or unrestricted G0001 completion follows.
 
 ## Complete argument
@@ -397,7 +397,7 @@ If an ambient member remains, it is unresolved actual full-response attainment; 
 No positive ambient result supplies full X4.
 
 Every input in M remains reducible and cyclotomic with total logarithmic Mahler measure0.
-This finite complete-gate obstruction question is distinct from the C757 SAME irreducible reciprocal nontorsion input, controlled positive total measure and paid degree/precision obligation.
+This finite complete-gate obstruction question is distinct from the C720 SAME irreducible reciprocal nontorsion input, controlled positive total measure and paid degree/precision obligation.
 Neither outcome alone supplies a characteristic-zero F=X=0 identity, a positive Mahler-gap bound or unrestricted G0001 completion.
 The present advance is a complete analytic ambient bound for the FULL gate, not a higher coefficient modulus or an automatic precision ladder.
 

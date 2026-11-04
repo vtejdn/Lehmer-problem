@@ -280,45 +280,10 @@ For \(k=0\), (B) directly gives \(P(X)=0\).
 This supplement distinguishes the fully local analytic estimate from the stronger assertion using projection comparison.
 It does not replace an affiliated inverse by a bounded inverse.
 
-### Local Consequence for the Proposition 2.3 Follow-Up: Bounded Rank Factorizations
+### Fixed bounded-rank consequence
 
-Date and provenance: 2026-09-09.
-This local refinement was authored by the main unit reviewing agent; the coordinating agent independently reconstructed its polar-decomposition argument.
-It is a consequence of the affiliated-operator foundations already retained here, rather than an additional assertion quoted from MSY23.
-
-For every bounded rectangular matrix \(C\in M_{m,n}(M)\),
-
-\[
-\rho_M(C)=\rho_U(C).
-\tag{C}
-\]
-
-These are integer-valued **inner ranks**, not the possibly noninteger tracial rank of the range projection.
-To prove (C), choose a factorization \(C=AB\) over \(U\) through \(k=\rho_U(C)\) columns.
-For \(k>0\), rectangular affiliated polar decomposition gives \(A=V|A|\), with a bounded partial isometry \(V\in M_{m,k}(M)\) and \(VV^*\) the projection onto the closure of the range of \(A\).
-Because the affiliated product is the closure of the ordinary operator product, the closure of the range of \(C=AB\) is contained in that range projection.
-Hence
-
-\[
-C=VV^*C=V(V^*C).
-\]
-
-Both factors in the last expression are bounded matrices over \(M\), so \(\rho_M(C)\le k\).
-The reverse inequality follows by viewing any bounded factorization as an affiliated one.
-If \(k=0\), then \(C=0\), and the equality is immediate.
-This proof does not require projection comparison or a choice of central decomposition.
-
-In particular, suppose \(A\in M_N(M)\) is invertible over \(U\), \(u,v\) are bounded compatible matrices, and the scalar compression \(f=uA^{-1}v\) is bounded.
-Proposition 2.3 over the stably finite algebra \(U\), followed by (C), gives
-
-\[
-\rho_U\!\begin{pmatrix}A&v\\u&f\end{pmatrix}
-=\rho_M\!\begin{pmatrix}A&v\\u&f\end{pmatrix}=N.
-\]
-
-Thus the bounded bordered matrix has a factorization through \(N\) columns with both factors in \(M\), even if the displayed pivot is not boundedly invertible.
-The polar-decomposition construction gives factors in the ambient von Neumann algebra; it does not put their entries in the polynomial algebra or its bounded division closure.
-Algebraic control of such factors, or construction of an appropriate boundedly invertible polynomial block, is the additional premise needed to turn this rank consequence into a bounded rational formula.
+The complete local equality rho_M(C)=rho_U(C), polar-decomposition proof and bounded-border application are retained in [C_F9](../../../claims/Yin_C_F0009_v1.md#statement).
+That project consequence retains its 2026-09-09 author/contributor checks and algebraic-control limitation; it is not an additional theorem quoted from MSY23, a new independent review or a claim about polynomial-algebra factors.
 
 ### Checks, Dependencies, and Handoff
 
@@ -338,7 +303,7 @@ This review was completed before the separately labeled p. 36 supplement was add
 ### Independent Review of the p. 36 Supplement and Its Comparison Input
 
 Date and reviewer: 2026-09-09, the main unit reviewing agent, independent of the supplement's author.
-The reviewed revision before this review paragraph was appended had The supplement passes with the following explicit source interface and checks.
+The supplement passes with the following explicit source interface and checks.
 
 The required primary statement is [AP18, author-hosted draft](https://www.math.ucla.edu/~popa/Books/IIun.pdf), **Proposition 9.1.8, printed p. 142 / PDF p. 148**: in a tracial von Neumann algebra, projections satisfy p subequivalent to q exactly when their normal center-valued traces have that order.
 Proposition 9.1.6 on the same page supplies the faithful normal center-valued trace as the trace-preserving expectation onto the center.

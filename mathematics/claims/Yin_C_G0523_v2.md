@@ -10,7 +10,7 @@ This version fixes b=(A+1/2)/2 in that explicit-rate assertion; the underlying o
 The original finite-quotient and stationary-law results, near-one probability escape, full observation costs and unresolved stronger quantile and gap questions are unchanged.
 The [original R112 finding](../audits/reviews/Yin_R_G0112_v1.md#stationary-quantile-complete-independent-review) retains its frozen input and actual review facts.
 It has no Review relationships declaration; no historical context isolation or inspection of this revised C is inferred.
-The revised statement remains open pending actual complete review of its exact Statement and Argument.
+At initial registration, the revised statement was open pending actual complete review of its exact Statement and Argument.
 
 ## Statement
 Let alpha be an algebraic unit of actual degree d, O=Z[alpha], and q>=2 any integer; the quotient O/qO need not be a field and has M=q^d elements under normalized counting measure.

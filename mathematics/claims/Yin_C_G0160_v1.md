@@ -274,7 +274,6 @@ No such broader computational class has been selected or run here.
 ## Source attribution and author-check boundary
 
 The local targeted reuse searches found the L321 finite diagonal-dominance bound, but no retained theorem establishing (4)--(11) for this specific family.
-An initial PowerShell wildcard-path search failed; it was replaced by rg include globs over the responsible directories, so that failed command supplies no absence evidence.
 The subsequent broader hits concerning circular root distances, finite-range entropy and scalar determinant theory did not provide the needed matrix argument.
 This is a bounded reuse screen, not an exhaustive novelty search.
 

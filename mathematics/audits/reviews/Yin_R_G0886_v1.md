@@ -7,11 +7,11 @@ Review act: 2026-10-24T01:38 UTC.
 Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of C665.
 This is the reviewer's first whole review of this fixed C665 version.
-The reviewer retains its own earlier independent-review context in this repository, but the unrelated five-adic C674 results are not inputs to the present proof.
+The reviewer retains its own earlier independent-review context in this repository, but the unrelated five-adic C646 chain are not inputs to the present proof.
 No D41 or other draft, author dialogue, proof-development summary, agent inventory or prior C665 review conclusion was supplied or consulted.
 The fixed C665 statement and all five argument sections were read in full before forming the finding.
 The exact selected C652/C655 decisions and the necessary mathematical passages of their statements and arguments, and the C608 complete trace/divisor argument, were read directly.
-C693 was not consulted or used as a mathematical input.
+The C664 HG8--HG10 optional representative-selection interface was not consulted or used as a mathematical input.
 
 The checking is direct mathematical verification of the complete formal construction, its source interfaces, every prime certificate, divisor sign, product exponent, rational comparison, uniform threshold, substituted complete root set and necessary-only boundary.
 No native program, prime search, factor scan, numerical experiment or floating-point calculation was used.
@@ -35,7 +35,7 @@ This R supplies review evidence without modifying or adopting the Claim or chang
 | [Whole large-dyadic finding](#large-dyadic-complete-h-whole) | [C652 adopted calibrated character](../../claims/Yin_C_G0652_v1.md#decision-whole-reviewed-2026-10-23) | N1--N4 character/additivity, normalization and exact complete B_d calibration, with the direct formal-unit and trace-index derivations inspected; N5 allowed complete orders including3 and higher multiples of5, without importing sufficiency for a full Y target. |
 | [Whole large-dyadic finding](#large-dyadic-complete-h-whole) | [C655 adopted H domain and dyadic condition](../../claims/Yin_C_G0655_v1.md#decision-whole-reviewed-2026-10-23) | T1 H(0)=1 and strict degree domain, and T6's necessary epsilon1 congruence at dyadic Q=4m; original layers, actual epsilon/q, canonical Y/U/R, CRT, root/gate and characteristic-zero assumptions remain separate unsupplied obligations. |
 | [Whole large-dyadic finding](#large-dyadic-complete-h-whole) | [C608 complete trace/divisor definitions](../../claims/Yin_C_G0608_v1.md#argument) | Complete odd-order trace sets, inverse-pair distinctness, F_2 coefficients, nonzero constant terms, Laurent identity and full divisor partition/inversion; the finite quotient certificate and A0=2 gate are not used. |
-| [Whole large-dyadic finding](#large-dyadic-complete-h-whole) | [C665 exact question and scope](../../claims/Yin_C_G0665_v1.md#exact-question-inputs-and-scope) | Formal compatibility of the selected necessary character and degree conditions, with the actual H domain permitting W_3, no C693 input, and no original-input or entire-target realization claim. |
+| [Whole large-dyadic finding](#large-dyadic-complete-h-whole) | [C665 exact question and scope](../../claims/Yin_C_G0665_v1.md#exact-question-inputs-and-scope) | Formal compatibility of the selected necessary character and degree conditions, with the actual H domain permitting W_3, no C664 HG8--HG10 representative-selection input, and no original-input or entire-target realization claim. |
 
 <a id="large-dyadic-complete-h-whole"></a>
 ## Whole mathematical finding
@@ -63,7 +63,7 @@ C655 T1 states H in F_2[t], H(0)=1 and5deg H<5m-Q, with Q a power of2 in(2m,5m).
 It imposes neither coprimality of H to1+t nor coprimality of its complete orders to3.
 C652 N5 explicitly allows every odd complete order greater than1 except5, including3 and higher multiples of5.
 Thus W_3 and the later W_15,W_(5n) factors are admissible in the selected formal complete-product domain.
-No optional representative choice from C693 is a premise here.
+No optional representative choice from C664 HG8--HG10 is a premise here.
 
 ### Divisor inversion, integer division and the positive sign
 

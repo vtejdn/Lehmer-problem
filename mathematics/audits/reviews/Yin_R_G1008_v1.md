@@ -12,7 +12,7 @@ It read the whole fixed C787 first, then the necessary fixed input passages and 
 The fixed inputs' adoption metadata was visible.
 
 Actual background from the reviewer's independent C774, C778, C781 and C784 reviews is retained and disclosed.
-In particular the [C824 quarter finding](Yin_R_G1003_v1.md#whole-primitive-second-eight-finding) and [C827 low-quarter finding](Yin_R_G1004_v1.md#whole-primitive-low-quarter-finding) are compatible evidence only for their unchanged fixed inputs.
+In particular the [C781 quarter finding](Yin_R_G1003_v1.md#whole-primitive-second-eight-finding) and [C784 low-quarter finding](Yin_R_G1004_v1.md#whole-primitive-low-quarter-finding) are compatible evidence only for their unchanged fixed inputs.
 The new coupled restoration, global cleared representative, actual quotient carry, extended derivative precision and two-part source gate were checked directly here.
 The C777 FP4, C773 original low/high source identities and C603 variation interfaces were inspected at their actual uses.
 C680's fixed square-source statement was inspected only for attribution and the excluded-domain comparison.

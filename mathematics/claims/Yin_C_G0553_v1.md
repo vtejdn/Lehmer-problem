@@ -120,7 +120,7 @@ No numerical graph, width scan, new input polynomial or external theorem is used
 
 The bounded G-line search inspected overlap mixtures, nested conditional projections, growing overlaps and all-interval kernels.
 [C170](Yin_C_G0170_v1.md#statement) owns the actual short-overlap heat baths and the energy bound at each fixed b.
-[L418](Yin_C_G0540_v2.md#all-fixed-overlap-onset) proves persistent isolated full-word components at EVERY fixed b, while explicitly leaving growing overlaps unclassified.
+[L417](Yin_C_G0540_v2.md#all-fixed-overlap-onset) proves persistent isolated full-word components at EVERY fixed b, while explicitly leaving growing overlaps unclassified.
 [C76](Yin_C_G0076_v1.md#statement) already uses nested conditional variance for another original-block comparison; the elementary conditional-expectation principle is reused rather than claimed new.
 [C70](Yin_C_G0070_v1.md#statement) concerns returned-interval sign reflections and a specified uniform interval clock, not the complete endpoint-conditioned heat baths considered here.
 Neither its invariant pairs nor its particular quadratic selection price is imported.
@@ -193,7 +193,7 @@ These are finite-n statements; no identification of normalized carry vertices at
 ## 3. A genuinely odd low-energy test for every fixed cutoff
 
 Fix B>=2.
-L418 supplies an actual isolated union edge at overlap B with nonzero field midpoint Y and finite full-word appearance onset, together with its distinct sign-reversed edge.
+L417 supplies an actual isolated union edge at overlap B with nonzero field midpoint Y and finite full-word appearance onset, together with its distinct sign-reversed edge.
 The construction keeps the actual two real strips and original order, and its sole middle word is the all-negative or all-positive word of length2B.
 All sufficiently large n have both edges with their COMPLETE original conditional word fibers.
 Each is a full communicating component of K_(n,B), not merely one selected word or an unweighted edge.
@@ -275,11 +275,11 @@ The original unrestricted Mahler and attainment objective remains unresolved.
 | Input | Exact role |
 | --- | --- |
 | [C170 original operator](Yin_C_G0170_v1.md#statement), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Complete actual full-word law, positivity, conditional projections, midpoint energy and original work divisor. Root contributed to C170; the independent accepted finding is reused at its exact scope. |
-| [L418 all fixed overlaps](Yin_C_G0540_v2.md#all-fixed-overlap-onset), [R427](../audits/reviews/Yin_R_G0427_v1.md#isolated-mass-whole-independent-finding) | Actual persistent isolated components, nonzero midpoint, complete fibers and finite onset for each fixed B. Root reviewed L418 but did not author its construction. |
-| [L418 internal word law](Yin_C_G0540_v2.md#isolated-component-energy-defect) | Entire conditional components, not selected words; no new total-mass or inside-component bound is inferred. |
+| [L417 all fixed overlaps](Yin_C_G0540_v2.md#all-fixed-overlap-onset), [R427](../audits/reviews/Yin_R_G0427_v1.md#isolated-mass-whole-independent-finding) | Actual persistent isolated components, nonzero midpoint, complete fibers and finite onset for each fixed B. Root reviewed L417 but did not author its construction. |
+| [L417 internal word law](Yin_C_G0540_v2.md#isolated-component-energy-defect) | Entire conditional components, not selected words; no new total-mass or inside-component bound is inferred. |
 | [C76 nested comparison](Yin_C_G0076_v1.md#statement) | Established elementary conditional-variance principle in a different original-block setting; the precise present nesting is proved directly. |
 | [C70 reflected intervals](Yin_C_G0070_v1.md#statement) | Distinct operator and clock comparison only, not a premise about complete heat baths. |
-| [L410 fixed defect](Yin_C_G0514_v2.md#bulk-component-defect) | Ordinary finite-component and uniform weak-inequality boundary only; no claim that its original-law sufficient condition is contradicted. |
+| [L409 fixed defect](Yin_C_G0514_v2.md#bulk-component-defect) | Ordinary finite-component and uniform weak-inequality boundary only; no claim that its original-law sufficient condition is contradicted. |
 
 Both new proof development and the original fixed-weight argument belong to root; the v2 assembly supplies no mathematical repair or new inference.
 
@@ -388,6 +388,6 @@ The complete fixed-weight proof above and the present extension together form th
 | [L424 original test](../ledger/Yin_L_G0424_v1.md#overlap-mixture-odd-obstruction), [R436](../audits/reviews/Yin_R_G0436_v1.md#overlap-mixture-whole-independent-finding) | Complete fixed-B tests, all-late onset independent of weights, exact odd and positive-energy bounds; accepted original proof and whole review. |
 | [L424 energy and clock](../ledger/Yin_L_G0424_v1.md#overlap-mixture-energy-clock) | Exact per-b complex energy, full refresh, complete work cost and sufficient-majorant boundary. |
 | [C170 original law](Yin_C_G0170_v1.md#statement), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Unchanged original quartic, two full-word conditional heat baths and accepted upstream review. Root contributed to C170. |
-| [L418 persistent components](Yin_C_G0540_v2.md#all-fixed-overlap-onset), [R427](../audits/reviews/Yin_R_G0427_v1.md#isolated-mass-whole-independent-finding) | Exact original construction already paid by L424; not a new union graph or an assumed uniform B-onset. |
+| [L417 persistent components](Yin_C_G0540_v2.md#all-fixed-overlap-onset), [R427](../audits/reviews/Yin_R_G0427_v1.md#isolated-mass-whole-independent-finding) | Exact original construction already paid by L424; not a new union graph or an assumed uniform B-onset. |
 
 The complete extension retains its author proof and all stated open boundaries; review and adoption are recorded separately.

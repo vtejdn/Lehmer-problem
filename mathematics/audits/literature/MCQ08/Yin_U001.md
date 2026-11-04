@@ -9,7 +9,7 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: [MCQ08 retained arXiv v2](../../../literature/pdf/MCQ08--arxiv-v2.pdf), Robby G. McKilliam, I. Vaughan L. Clarkson and Barry G. Quinn, *An Algorithm to Compute the Nearest Point in the Lattice A_n star*, arXiv:0801.1364v2,30September2008,3PDF pages. edition.
+Source edition: [MCQ08 retained arXiv v2](../../../literature/pdf/MCQ08--arxiv-v2.pdf), Robby G. McKilliam, I. Vaughan L. Clarkson and Barry G. Quinn, *An Algorithm to Compute the Nearest Point in the Lattice A_n star*, arXiv:0801.1364v2,30September2008,3PDF pages.
 
 Passages: SectionII, printed/PDF p.1, vector/transpose conventions and equations(1)--(2).
 

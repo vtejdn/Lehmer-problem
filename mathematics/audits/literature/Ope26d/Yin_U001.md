@@ -13,7 +13,10 @@ Source edition: Ope26d; [retained PDF](../../../literature/pdf/Ope26d.pdf).
 
 Passages: Manuscript dated 24 September 2026 at commit `adc7f1241b42e322a6451854ab7e4b4c146bf78a`; complete Sections 1--6, Theorem 1.1 and corollaries, printed/PDF pp. 1--20; associated Lean module and comparator descriptions at that commit.
 
-Inspection: 2026-10-07, AI reviewers working for human author Yin at his explicit request to acquire and audit OpenAI Math families 153 and 148. Coordinator completed the whole manuscript proof review and the stated static Lean checks. A separate agent independently checked the finite-pair/conditional-window bridge with its actual interfaces. Exact review arrangements and unchecked formal execution are recorded below.
+Inspection: 2026-10-07, AI reviewers working for human author Yin at his explicit request to acquire and audit OpenAI Math families 153 and 148.
+Coordinator completed the whole manuscript proof review and the stated static Lean checks.
+A separate agent independently checked the finite-pair/conditional-window bridge with its actual interfaces.
+Exact review arrangements and unchecked formal execution are recorded below.
 
 
 ## Assessment and exact statement

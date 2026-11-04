@@ -253,12 +253,12 @@ The coordinator may retain the consolidated argument and this complete review hi
 | [Full-chain finding](#quartic-full-chain-review) | [Complete quartic proof](../../ledger/Yin_L_G0169_v1.md#quartic-infinite-core-proof) | Original D G0013/D G0014 component chain, all exact certificate/completeness obligations, reciprocal reachability and infinitude, radius-dependent timing, and the accepted L157 interface; fixed retention preserves the checked argument. |
 | [Corrected consolidation finding](#quartic-consolidation-review) | [Exact consolidated theorem](../../ledger/Yin_L_G0169_v1.md#quartic-infinite-core-theorem) | All four conclusions at this fixed beta, including the explicitly restored real-strip and radius assumptions and the existence/probability distinction in item 4. |
 | [Corrected consolidation finding](#quartic-consolidation-review) | [Complete quartic proof](../../ledger/Yin_L_G0169_v1.md#quartic-infinite-core-proof) | Complete D G0018 assembly of the already independently reviewed chain, unchanged constants and dependencies, plus the checked corrections and accurate 841-count/259-set evidence wording. |
-| [Original corrected-locations reread](#quartic-original-corrected-locations-finding) | [Original corrected theorem item4](../../ledger/Yin_L_G0169_v1.md#quartic-infinite-core-theorem) | Exactly the actual2026-10-09T15:48 reread of item4 restoring both real-strip hypotheses, abs(z)<=R with R>=10, existence of one original-digit continuation and the separate lower hitting probability, with every-random-trajectory interpretation expressly excluded; not an additional whole corrected-proof inspection. |
-| [Original corrected-locations reread](#quartic-original-corrected-locations-finding) | [Original computation summary](../../ledger/Yin_L_G0169_v1.md#sources-computation-and-contributions) | Exactly the same23:48 actual reread distinguishing agreement of the841 expanding-strip count from equality of the259 retained candidate sets, with the intermediate841 set not retained or compared; unchanged code/certificates were not rerun. |
+| [Original corrected-locations reread](#quartic-original-corrected-locations-finding) | [Original corrected theorem item4](../../ledger/Yin_L_G0169_v1.md#quartic-infinite-core-theorem) | Exactly the actual 2026-10-09T15:48 reread of item4 restoring both real-strip hypotheses, abs(z)<=R with R>=10, existence of one original-digit continuation and the separate lower hitting probability, with every-random-trajectory interpretation expressly excluded; not an additional whole corrected-proof inspection. |
+| [Original corrected-locations reread](#quartic-original-corrected-locations-finding) | [Original computation summary](../../ledger/Yin_L_G0169_v1.md#sources-computation-and-contributions) | Exactly the same 2026-10-09T15:48 actual reread distinguishing agreement of the841 expanding-strip count from equality of the259 retained candidate sets, with the intermediate841 set not retained or compared; unchanged code/certificates were not rerun. |
 
 ## Review relationships
 
-These declarations preserve the complete original23:39 full-chain and23:43 consolidation inspections, both initial scope/evidence findings, actual23:48 two-location reread, original dates, mathematical/native inputs, verdicts and every fixed-input/source/tail limit above.
+These declarations preserve the complete original 2026-10-09T15:39 full-chain and 2026-10-09T15:43 consolidation inspections, both initial scope/evidence findings, actual 2026-10-09T15:48 two-location reread, original dates, mathematical/native inputs, verdicts and every fixed-input/source/tail limit above.
 The original arrangement explicitly supplied or consulted the existing coordinator/contributor review passages before initial findings.
 Those retained L169 passages actually contain target-mathematical norm, zero-prefix/timing and reciprocal-bridge checking/conclusions, in addition to generic progress descriptions.
 This establishes substantive prior target context; the old noncontributor and independently organized labels do not make either whole arrangement isolated under the current rule.
@@ -277,10 +277,10 @@ The earlier exploratory/local checks and their exact contribution/order remain f
 ## Original corrected-locations reread
 
 Date: 2026-10-09T15:48.
-The original23:43 consolidation inspection identified two precise findings before acceptance.
+The original 2026-10-09T15:43 consolidation inspection identified two precise findings before acceptance.
 Theorem item4 needed the real-strip hypotheses and an explicit existence/lower-hitting-probability interpretation rather than a bound on every random trajectory.
 The computation summary needed to distinguish the841 intermediate count from the259 complete set equality.
-At23:48 the same reviewer actually reread those two corrected locations and closed both findings.
+At 2026-10-09T15:48 the same reviewer actually reread those two corrected locations and closed both findings.
 No new hypothesis, constant, dependency or generalization entered the complete component chain, and unchanged code/certificates were not rerun.
 This finding preserves that targeted scope rather than reporting an additional whole corrected-proof inspection.
 It remains self-reviewed under the same known substantive prior-context arrangement disclosed above.

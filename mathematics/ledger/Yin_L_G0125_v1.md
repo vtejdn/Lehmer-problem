@@ -4,6 +4,10 @@ author: Yin
 
 # Small central conjugates force transition products to vanish
 
+Current checking scope is owned by [R553](../audits/reviews/Yin_R_G0553_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct continuation of G0001 by assess_shortness_route for Yin.
 The coordinator proposed centering a nonzero integer defect and applying the rigidity of L G0115 to a compact limit.

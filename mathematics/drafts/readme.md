@@ -84,7 +84,6 @@ Received originals retain their separate provenance and feedback boundary.
 | [Yin_D_G0001](Yin_D_G0001.md) | Positive arithmetic and the unresolved original-root logarithmic comparison |
 | [Yin_D_G0002](Yin_D_G0002.md) | Original count comparison and the remaining uniform sign-flow load |
 | [Yin_D_G0003](Yin_D_G0003.md) | Nontrivial five-adic trace-cluster cycles remain |
-| [Yin_D_G0004](Yin_D_G0004.md) | Original-degree contact layers and balanced prime separation |
 | [Yin_D_G0005](Yin_D_G0005.md) | Complete trace products satisfy the large dyadic positive-character and degree conditions |
 | [Yin_D_G0006](Yin_D_G0006.md) | Controlled characteristic-zero realization of the canonical trace system |
 | [Yin_D_G0007](Yin_D_G0007.md) | Sign complexity and total Mahler control in the copied height-one family |

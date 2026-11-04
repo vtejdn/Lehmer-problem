@@ -8,7 +8,7 @@ Original source inspection: 2026-10-10, retaining actual day precision.
 Current retention: 2026-10-22T00:37.
 The original coordinating AI's official HTML and retained-chapter readings are one recorded source-completeness occurrence with two explicitly inspected versions.
 No source-reading minute is inferred from the original03:59 project-review completion, chapter compilation or earlier artifact acquisition.
-This occurrence is distinct from [U003's2026-09-11 HTML inspection](Yin_U003.md#the26b-u003); neither its date/version/consumer nor any U009 scope is enlarged.
+This occurrence is distinct from [U003's2026-09-11 HTML inspection](Yin_U003.md#the26b-u003); neither its date/version/consumer nor the separate U004 simple-root scope is enlarged.
 
 <a id="the26b-u005"></a>
 ## Source and inspection
@@ -42,4 +42,4 @@ Its source reading neither supplies a new external proof dependency nor reconstr
 This is the classical attribution for the needed DVR mechanism, whose complete local proof remains in the project.
 No historical novelty, new accepted uninspected source theorem, whole-chapter audit, normality theorem without its hypotheses, source-acquisition event, material, numerical program/J or research Task/E is introduced.
 The source role does not establish near-one minimal-Frobenius coverage, uniform residue orders or exceptional tie depth, archimedean inverse/full-cofactor bounds, or a Mahler gap.
-The older U004 normal-domain/valuation reading and later U009 simple-root reading retain their own dates, versions, proof depths and consumers.
+The older U003 normal-domain/valuation reading and later U004 simple-root reading retain their own dates, versions, proof depths and consumers.

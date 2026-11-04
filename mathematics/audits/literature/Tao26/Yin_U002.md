@@ -20,7 +20,13 @@ Source edition: Terence Tao, Lecture notes8for247B, retained undated author-host
 
 Passages: Printed/PDFp.5, Lemma2.5, higher-derivative van der Corput statement for an unweighted oscillatory integral on an interval, derivative order r>=2 and lower bound c>0.
 
-Inspection: The original L375 author account dated2026-10-11T13:59 records direct text reading of the exact Lemma2.5 statement; its Sources/verification section records actual text/visual checking of interval/coefficient normalization. The exact passage-reading minute is not separately recorded:21:59author-account,22:05freeze and22:34retention are not invented reading times. R_G200 at22:11 also records a direct p.5 text/visual statement check in the preceding source check, without a separately captured minute or evidence of an additional new inspection at22:11. The current operation reads these existing accounts only. No source proof or whole-notes audit is claimed.
+Inspection: The original L375 author account dated2026-10-11T13:59 records direct text reading of the exact Lemma2.5 statement; its Sources/verification section records actual text/visual checking of interval/coefficient normalization.
+The exact passage-reading minute is not separately recorded: the author account at 13:59 UTC, freeze at 14:05 UTC and retention at 14:34 UTC are distinct events.
+R_G200 at 14:11 UTC also records a direct p.5 text/visual statement check in the preceding source check, without a separately captured reading minute or evidence of an additional inspection at 14:11 UTC.
+The former 21:59/22:05/22:34/22:11 descriptions express those matching events at UTC+08.
+
+The current operation reads these existing accounts only.
+No source proof or whole-notes audit is claimed.
 
 
 ## Exact statement and adopted role

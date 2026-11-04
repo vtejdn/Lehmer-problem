@@ -23,11 +23,15 @@ C18/C36 and L241's actual stated interfaces were read to confirm that their role
 No native program was run or old computation independently rerun.
 No external source was retrieved or original Szego/Fuglede--Kadison proof re-audited.
 
+The initial C73 input included its author validation checklist beyond the necessary derivation.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole integer-shear finding](#integer-shear-whole-independent-finding) | independently reviewed |
+| [Whole integer-shear finding](#integer-shear-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

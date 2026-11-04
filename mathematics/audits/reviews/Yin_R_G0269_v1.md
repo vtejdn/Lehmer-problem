@@ -20,11 +20,16 @@ The unchanged substantive reconstruction recorded in R268 is reused at that exac
 Every occurrence of K and the norm-field notation was checked in the actual corrected document.
 This is explicitly cumulative original-whole plus actual-correction coverage, not a claim that the original literal finding passed or a prospective approval of a future Claim.
 
+This corrected whole finding continues R268's supplied author-validation context and reuses that actual original reconstruction.
+The corrected mathematical finding remains separate from the original negative notation finding.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Corrected whole finding](#finite-dictionary-corrected-whole-finding) | independently reviewed |
+| [Corrected whole finding](#finite-dictionary-corrected-whole-finding) | self-reviewed |
 
 ## Review bindings
 

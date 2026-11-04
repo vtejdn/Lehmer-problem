@@ -12,7 +12,7 @@ It read the entire fixed C784 first and formed initial findings from that proof 
 No D47 or other development draft, proof-generation dialogue, author mathematical summary, persistent memory or prior C784 finding was supplied or consulted before initial findings.
 Fixed input adoption metadata was visible.
 
-The reviewer retains actual background from its independent [C817 review](Yin_R_G0994_v1.md#whole-integrated-height-one-finding), [C821 review](Yin_R_G0998_v1.md#whole-global-first-eight-finding) and [C824 review](Yin_R_G1003_v1.md#whole-primitive-second-eight-finding).
+The reviewer retains actual background from its independent [C774 review](Yin_R_G0994_v1.md#whole-integrated-height-one-finding), [C778 review](Yin_R_G0998_v1.md#whole-global-first-eight-finding) and [C781 review](Yin_R_G1003_v1.md#whole-primitive-second-eight-finding).
 Their unchanged source, canonical and local-module interfaces are reused at their actual scopes.
 The new earlier-four response, nonsquare quotient cancellation, exact low image and kernel, weaker-input applicability and AL derivative criterion were checked independently rather than inferred from those reviews.
 The actual C777 necessity, C603 variation and C773 derivative passages were read, and the generic C202 identities were matched to the current degree-preserving monic changes.
@@ -168,7 +168,7 @@ It makes no automatic nonphi F8 claim for these arbitrary auxiliaries.
 Although C781 states PQ3 at an F8/selected-X4 seed, its actual PQ4--PQ9 derivation uses only the full source and factor-lift decomposition, 4|A, the primitive root through 3A, globally even b and the actual selected X4 condition.
 The nonsquare Delta(H) and C5 calculations do not require F8.
 The first integer remainder is even from the source cube compatibility, and the second is even from selected X4.
-Thus the same actual canonical-quarter identity applies to every selected-X4 C809 target as claimed here.
+Thus the same actual canonical-quarter identity applies to every selected-X4 C767 target as claimed here.
 The extension to this weaker domain was checked from the proof, not inferred from the older review's stronger stated input.
 
 With only k=Z_0 modulo phi^(3A), the sixth-power difference still gives k^6=C_0^3 modulo phi^(6A).

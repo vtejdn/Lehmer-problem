@@ -615,7 +615,7 @@ The original2d rank/cyclic/sample/Gram/pole and all new probability-law premises
 C678's fixed-torus amplitude and general pointwise/event/finite Fourier mechanisms are reused after their exact new-law hypotheses are verified.
 C681 supplies only its unchanged weighted torus bands, scalar harmonic mass and count before the new original return is applied.
 C637's positive squared-Fejer normalization and bounded classical source attribution remain unchanged.
-The event-norm and height-splitting attribution stays at C678/C668's existing bounded Tao Notes1 account; no general external interpolation theorem is a new premise.
+The event-norm and height-splitting attribution stays at C678/C641 v2's existing bounded Tao Notes1 account; no general external interpolation theorem is a new premise.
 The new degree condition retains the prime multiplier's logarithm and the positive interval log2<m(P_j)<log4.
 It supplies neither a near-one family nor an unrestricted G0001 solution.
 

@@ -56,7 +56,7 @@ The consequence h(x)=E_x tau0,h(0)=0 is finite and satisfies h=1+Q0h for x≠0, 
 No actual successful nonradial W, finite/infinite mean branch, known true R, all-radius escape upper envelope, varying-input/near-one uniformity or unrestricted gap is supplied.
 The earlier unweighted original-row obstruction remains at its exact separate scope.
 KY14 is selected classical-method attribution only; the local killed-row/restart proof is complete.
-Original author/upstream/source roles, entire19972-byte2026-10-10T09:57 freeze, original R2152026-10-10T10:00 whole finding, alternative unadopted source leads/failed fetches and all no-program/no-native limits are retained.
+Original author/upstream/source roles, entire19972-byte 2026-10-10T09:57 freeze, original [R144 tangent finding](../audits/reviews/Yin_R_G0144_v1.md#critical-tangent-complete-independent-review) at 2026-10-10T10:00, alternative unadopted source leads/failed fetches and all no-program/no-native limits are retained.
 
 ## Complete argument
 

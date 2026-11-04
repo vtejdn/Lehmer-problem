@@ -57,4 +57,4 @@ that full check passed and is recorded as a collaborator check.
 The separate review_matrix_completion agent independently read the complete proof (1)--(10), including the nonprimitive coset accounting, averaged fiber guessing probability, conditional entropy directions, all sharpness and entropy-order examples, the covered power-basis window and both finite-time constants.
 That complete independent written review passed without a mathematical correction.
 Neither review used a computation or new external source.
-No source acquisition, computation, fixed-material edit or identifier allocation was performed.
+No source acquisition or computation was performed.

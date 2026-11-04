@@ -31,7 +31,7 @@ Initial whole judgement: 2026-10-22T20:52 UTC.
 
 The entire Statement and five complete arguments pass.
 For every frequency up to T the actual field of alpha^n has degree N and exact repetition d/N.
-C508's retained height lower bound forces N>55 in the stated small interval.
+C504's retained height lower bound forces N>55 in the stated small interval.
 The real compact radius-two test is3-Lipschitz, giving Pri11's factor15; its radial discrepancy costs4h and yields the complete finite-band phase bound.
 Every squared-modulus/radial estimate is valid before nonvanishing; the logarithmic resultant step separately requires nonzero F(alpha).
 Full Gram expansion, scalar norms, radial h and actual rho remain charged.
@@ -61,7 +61,7 @@ Signed orthogonality of L_j Q forces the actual sign-changing circle zeros, keep
 Primitive normalization proves integer q/all-root norm, while the nonmonic leading coefficient and exceptional-root Mahler costs remain charged.
 The complete edge relation does not meet the missing L139 seed hypotheses automatically.
 The quadratic control has all auxiliary roots on the circle but positive leading-coefficient cost.
-Necessary Pri11/C508/C226/L4/L193/L202 and the declared accepted source/attribution interfaces were checked; no native producer, source reacquisition or full external proof audit occurred.
+Necessary Pri11/C504/C226/L4/L193/L202 and the declared accepted source/attribution interfaces were checked; no native producer, source reacquisition or full external proof audit occurred.
 Post-initial comparison preserves all five old findings, the dated non-new-income correction and Nat26 related-statement-only boundary.
 No uniform centered margin, bounded support, controlled exceptional-root cost or unrestricted gap follows.
 

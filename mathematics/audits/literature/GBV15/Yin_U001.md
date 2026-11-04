@@ -12,7 +12,8 @@ Source edition: [GBV15](../../../literature/pdf/GBV15.pdf), arXiv:1111.1287v3, 1
 
 Passages: Introduction pp.2--4, finite grids Section 4.1 p.15, the cofinal denominator set pp.21--22, Theorem 4.17 pp.23--24, and Theorem 5.4 p.26; printed and PDF pages agree.
 
-Inspection: Record consolidated 2026-10-06T06:02: coordinating agent for Yin directly checked the exact formula, normalization and realization interfaces against the retained PDF; assigned Section 5 and Section 7 agents also read their needed primary passages. Statement/applicability check, with selected proof-interface reading, not a complete independent audit of the p-adic proof.
+Inspection: Record consolidated 2026-10-06T06:02: coordinating agent for Yin directly checked the exact formula, normalization and realization interfaces against the retained PDF; assigned Section 5 and Section 7 agents also read their needed primary passages.
+Statement/applicability check, with selected proof-interface reading, not a complete independent audit of the p-adic proof.
 
 
 <a id="gbv15-u001"></a>

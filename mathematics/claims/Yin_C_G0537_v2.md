@@ -121,8 +121,8 @@ No new graph length, word scan, native computation or source acquisition is used
 <a id="persistent-carry-reuse"></a>
 ## Exact question and reused actual core
 
-[L410](Yin_C_G0514_v2.md#nested-normalized-carry-support) proves that normalized b=2 graphs are nested and that certain early n5--7 components join zero through the connected n8 graph.
-[L412](Yin_C_G0519_v1.md#seed-complete-count-comparison) prices complete-fiber weights on that fixed hub, but does not classify all later vertices.
+[L409](Yin_C_G0514_v2.md#nested-normalized-carry-support) proves that normalized b=2 graphs are nested and that certain early n5--7 components join zero through the connected n8 graph.
+[L411](Yin_C_G0519_v1.md#seed-complete-count-comparison) prices complete-fiber weights on that fixed hub, but does not classify all later vertices.
 The question here is whether EVERY fixed returned word eventually joins the zero component after symmetric padding.
 The construction below answers this negatively by actual edges isolated in the entire infinite union.
 
@@ -306,7 +306,7 @@ For the complete component mass, retain all tail representations and put
 
 The middle weight is1, and isolation makes this edge its entire endpoint component.
 Let q_x,q_c be the actual probabilities of the selected endpoint words.
-The complete-count proof of L412 applies with these two fixed probabilities:
+The complete-count proof of L411 applies with these two fixed probabilities:
 
     q_x c_k(0)<=a_k(x)<=c_k(0),
     q_c c_k(0)<=b_k(c)<=c_k(0),
@@ -316,7 +316,7 @@ The complete-count proof of L412 applies with these two fixed probabilities:
 The lower bounds concatenate arbitrary original returns of the remaining length and use monotonicity of p_k; the upper bounds are complete binary autocorrelation.
 All original endpoint multiplicities are retained.
 The sign partner has exactly the same mass by digit symmetry.
-The component indicator gives a zero-energy test, and the exact L410 defect chi is at least M_(c,k)(1-M_(c,k)); a union of both sign partners gives the further valid lower bound2M_(c,k)(1-2M_(c,k)).
+The component indicator gives a zero-energy test, and the exact L409 defect chi is at least M_(c,k)(1-M_(c,k)); a union of both sign partners gives the further valid lower bound2M_(c,k)(1-2M_(c,k)).
 No fixed lower bound approaching1/4 is inferred from these selected component masses.
 
 <a id="persistent-carry-limits"></a>
@@ -325,11 +325,11 @@ No fixed lower bound approaching1/4 is inferred from these selected component ma
 The union of actual normalized b2 graphs is NOT connected.
 There are fixed actual returned words whose symmetric padding remains outside the zero component at every later length, and infinitely many isolated union components with nonzero unbounded midpoint values.
 This is an all-late actual-core construction, not an extrapolation from J106 or the older six-digit frozen family.
-The connected n8 seed and the eventual absorption of its particular early components in L410 remain correct: none of the isolated edges above can be in that connected seed.
+The connected n8 seed and the eventual absorption of its particular early components in L409 remain correct: none of the isolated edges above can be in that connected seed.
 
-L412's complete-fiber fixed-hub estimates remain valid on their own component, but no growth of that connected hub can absorb these isolated union edges.
+L411's complete-fiber fixed-hub estimates remain valid on their own component, but no growth of that connected hub can absorb these isolated union edges.
 A global-gap approach using exactly this fixed overlap is therefore unavailable.
-L410's fixed-defect partial-path condition remains a separate possibility because it permits discarded original product mass and rare disconnected components.
+L409's fixed-defect partial-path condition remains a separate possibility because it permits discarded original product mass and rare disconnected components.
 Whether the total component-mass obstruction forces its defect to1/4, or whether a sufficiently large connected part carries the required mass with paid path loads, is not proved here.
 The actual critical mean remains undetermined.
 No new overlap, graph scan, critical-law surrogate or unrestricted Mahler-gap claim is supplied.
@@ -343,9 +343,9 @@ No new overlap, graph scan, critical-law surrogate or unrestricted Mahler-gap cl
 | [L309 all-core linear paths](../ledger/Yin_L_G0309_v1.md#quartic-full-core-linear-return), [R786](../audits/reviews/Yin_R_G0786_v1.md#weighted-tail-complete-independent-review) | Actual quartic A_D rho+B_D continuation, reciprocal reversal and all boundary/compact expenses, not an expected hitting-time estimate. |
 | [L319 forced boundary](Yin_C_G0601_v1.md#actual-forced-boundary-segments), [R786](../audits/reviews/Yin_R_G0786_v1.md#forced-boundary-complete-independent-review) | Forward unique digit from the expanding strip and its exact b; the reverse uniqueness used here is proved directly from the stable strip. Original probabilities are not replaced by the critical Doob law. |
 | [L316 lattice construction](Yin_C_G0599_v1.md#actual-tangent-core-states) | Full-order pigeonhole mechanism; the present two-real-coordinate use and signed square construction are written completely above. |
-| [C170 exact carry graph](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [marks](Yin_C_G0170_v1.md#four-digit-overlap-exact-marks), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Actual b2 endpoint law, full tail-word fibers, unique four-digit basis, midpoint and component correspondence. This author contributed C170; R556 is the separate independent upstream finding. |
-| [L410 nesting](Yin_C_G0514_v2.md#nested-normalized-carry-support), [component defect](Yin_C_G0514_v2.md#bulk-component-defect) | Normalized embeddings, exact least defect and its distinct fixed-defect condition; finite n8 connectivity is not extended to all vertices. |
-| [L412 complete count comparison](Yin_C_G0519_v1.md#seed-complete-count-comparison), [original normalization](Yin_C_G0519_v1.md#seed-path-load-and-mass), [R416](../audits/reviews/Yin_R_G0416_v1.md#fixed-hub-whole-independent-finding) | Complete autocorrelation/concatenation bounds with fixed selected endpoint probabilities and exact t_k versus D_k; this author contributed L412 and reuses its independent review. |
+| [C170 exact carry graph](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [marks](Yin_C_G0170_v1.md#four-digit-overlap-exact-marks), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Actual b2 endpoint law, full tail-word fibers, unique four-digit basis, midpoint and component correspondence. This author contributed C170; R803 is the separate independent upstream finding. |
+| [L409 nesting](Yin_C_G0514_v2.md#nested-normalized-carry-support), [component defect](Yin_C_G0514_v2.md#bulk-component-defect) | Normalized embeddings, exact least defect and its distinct fixed-defect condition; finite n8 connectivity is not extended to all vertices. |
+| [L411 complete count comparison](Yin_C_G0519_v1.md#seed-complete-count-comparison), [original normalization](Yin_C_G0519_v1.md#seed-path-load-and-mass), [R416](../audits/reviews/Yin_R_G0416_v1.md#fixed-hub-whole-independent-finding) | Complete autocorrelation/concatenation bounds with fixed selected endpoint probabilities and exact t_k versus D_k; this author contributed L411 and reuses its independent review. |
 | [C76 other endpoint paths](Yin_C_G0076_v1.md#statement), [C80 six-digit frozen family](Yin_C_G0080_v1.md#statement) | Different-operator comparisons only; no previously frozen family is transferred to b2. |
 
 Root supplied only the question and subsequently requested verification of the exact already-read core premise; no new construction or proof step came from root.

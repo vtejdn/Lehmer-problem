@@ -6,7 +6,7 @@ author: Yin
 
 Date: 2026-10-21T09:11.
 Human record author: Yin.
-The current checking agent read every complete original L117--L120 proof, all their retained old checking accounts including R34, the current complete C318--C321 bodies, the exact C318 kernel/energy interfaces and the sufficient LS05-U001 source account.
+The current checking agent read every complete original L117--L120 proof, all their retained old checking accounts including R34, the current complete C318--C321 bodies, the exact C317 kernel/energy interfaces and the sufficient LS05-U001 source account.
 It shares the substantive maintenance context and consulted old reviews before its current findings; all four current findings are self-reviewed.
 It checked the entire mathematics and all used interfaces, not only retention changes.
 It supplied no new mathematical mechanism or repair, acquired no source, ran no program and resumed no Task.

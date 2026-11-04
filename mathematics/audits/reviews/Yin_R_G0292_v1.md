@@ -21,7 +21,7 @@ The prior principal mathematical reconstruction was reused and rechecked against
 R291 remains fixed and NEGATIVE at its original scope; it is not relabeled or prospectively extended.
 
 Direct interfaces actually reread are the current C66 statement and selected decision, its full exact sign-product argument and small-measure budget, L229's all-frequency original-root bound including constants and actual powered multiplicities, and L10's local Newton-formula supplement and its retained historical attribution limitation.
-C66 is now selected organized-reviewed with R380 and R384v2; D24's earlier pending-adoption sentence describes its allocation history.
+C66 is now selected organized-reviewed with R285 and R289 v2; D24's earlier pending-adoption sentence describes its allocation history.
 Only the supplied C66/L229 scopes are reused.
 This is not a recursive re-audit of Pri11/Dim19 or the other upstream source proofs.
 

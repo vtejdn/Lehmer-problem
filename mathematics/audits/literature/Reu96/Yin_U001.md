@@ -142,7 +142,6 @@ No material definition or hypothesis mismatch was found.
 
 ## Source and inspection
 
-Source edition: Reu96, the retained 17-page published Selecta Mathematica 2 (1996), pp. 93-109, DOI 10.1007/BF01587940. Printed page equals PDF page plus 92. The historically incorrect supplied filename DR97.pdf was corrected with authorization; it is not a citation alias, and the separately registered DR97 article is distinct. No second version was compared.
 
 Source passages: Sections 1-2, printed pp. 93-98 / PDF pp. 1-6; tensor-series conventions, printed p. 98 / PDF p. 6.
 
@@ -152,11 +151,6 @@ Inspection: 2026-09-08: definitions, height conventions, transformation algebra 
 
 <a id="reu96-definition-recheck"></a>
 
-The following original 2026-09-10 selected-source reading was retained from L_F0094 at 2026-10-21T01:58.
-It retains the exact source-definition/convention content, already sufficient linked U homes, actual primary and visual locators, original reader roles and unreviewed-proof limits.
-The earlier unit proof review does not retrospectively cover this later definition-reading event.
-References to unchanged files and a sidecar describe the original checkpoint; this maintenance performs no source reopening, new proof review or stronger historical attribution.
-
 - Date and reviewer: 2026-09-10, the free-field algebra agent.
 - Source: [Reu96.pdf](../../../literature/pdf/Reu96.pdf), published pp. 93–109 / PDF pp. 1–17.
 - Existing units: [U001, foundations](#reu96-u001), [U002, rational tensor series](Yin_U002.md#reu96-u002), and [U003, height families](Yin_U003.md#reu96-u003).
@@ -165,8 +159,7 @@ References to unchanged files and a sidecar describe the original checkpoint; th
   The existing definition sections and hypothesis map were reread.
   Primary passages on printed pp. 93–98, 100 and 104 were checked; PDF pp. 1, 2, 4, 5, 6, 8 and 12 were rendered and visually inspected.
   This does not newly audit the original representation or height-theorem proofs.
-- Preservation: all existing source units and the source PDF are unchanged.
-  The existing external-input and proof-review boundaries remain in force.
+The existing external-input and proof-review boundaries remain in force.
 
 <a id="reu96-height-and-series-homes"></a>
 ## Existing General Homes and Exact Conventions
@@ -193,7 +186,7 @@ In that ring, invertibility means invertibility of the constant term, hence a no
 
 This is the general scalar division-closure construction applied to the tensor-polynomial inclusion in the formal-series ring.
 It is not a new definition for every \(D,k,X\), and the word “rational” does not by itself assert equality with matrix rational closure in an arbitrary ambient algebra.
-The general Div/Rat distinction is housed in [MSY23-U003](../MSY23/Yin_U003.md#definitions-47-and-410-two-closures-in-one-ambient-algebra); the [MSY23 sidecar](../MSY23/Yin_U002.md#fixed-ambient-closure-conventions) records the notation conversion.
+The general Div/Rat distinction is housed in [MSY23-U003](../MSY23/Yin_U003.md#definitions-47-and-410-two-closures-in-one-ambient-algebra); the [MSY23 convention account](../MSY23/Yin_U002.md#fixed-ambient-closure-conventions) records the notation conversion.
 
 The source's star is a formal-series operation and is unrelated to a Hilbert-space adjoint.
 All convergence here is formal degree convergence.

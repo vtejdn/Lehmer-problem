@@ -93,7 +93,7 @@ They give no uniform Mahler gap or input-independent inverse rank.
 
 For a finite indexed list v_1,...,v_n in an abelian group, let rho be the maximal atom of sum_i X_i v_i for independent fair bits.
 Let D be any inclusion-maximal dissociated sublist, of size k.
-The conditioning and maximality arguments already proved in [C G0280](Yin_C_G0279_v1.md#dissociated-colors-and-cost) and [its signed-span boundary](Yin_C_G0279_v1.md#embedding-and-rank-color-boundaries) give
+The conditioning and maximality arguments already proved in [C279](Yin_C_G0279_v1.md#dissociated-colors-and-cost) and [its signed-span boundary](Yin_C_G0279_v1.md#embedding-and-rank-color-boundaries) give
 
     rho<=2^(-k),
     every v_i belongs to span_{-1,0,1}(D).

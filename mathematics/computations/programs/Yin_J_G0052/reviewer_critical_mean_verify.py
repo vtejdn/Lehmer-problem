@@ -131,7 +131,7 @@ def verify(args):
 
     r = fraction_record
     calculated = {'status':'complete',
-        'scope':{'input':'return_midpoint_512.json','prefix_times':[0,LAST],
+        'scope':{'input':'inputs/return_weights_512.json','prefix_times':[0,LAST],
             'source_input_byte_cap':CAP,'polynomial_coefficients_ascending':[1,-1,-1,-1,1],
             'digit_integer_weights':{'-1':1,'0':2,'1':1},'digit_denominator':4,
             'new_graph_or_return_times':False,'arithmetic':'exact integers and rational numbers'},
@@ -171,7 +171,7 @@ def verify(args):
 def main():
     sys.set_int_max_str_digits(20000)
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--input',type=Path,default=OUTPUT/'return_midpoint_512.json')
+    parser.add_argument('--input',type=Path,default=HERE/'inputs/return_weights_512.json')
     parser.add_argument('--independent-prefix',type=Path,default=OUTPUT/'reviewer_return512_result.json')
     parser.add_argument('--author-result',type=Path,default=OUTPUT/'critical_mean_bounds.json')
     parser.add_argument('--output',type=Path,default=OUTPUT/'reviewer_critical_mean_result.json')

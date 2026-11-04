@@ -3,8 +3,8 @@ author: Yin
 ---
 # Changed integral bilinear form certificate
 
-Current complete mathematics are retained in [C510](../../../claims/Yin_C_G0510_v1.md#statement), formally adopted2026-10-22T03:24 after [R719's entire current SELF](../../../audits/reviews/Yin_R_G0719_v1.md#current-universal-sextic-whole-self-finding).
-The original complete11:50 [R132 independent inspection](../../../audits/reviews/Yin_R_G0132_v1.md#universal-sextic-complete-independent-review) and all original author/native records keep their exact scope and dates; the current whole inspection is static, with no J program or native output rerun.
+Current complete mathematics are retained in [C510](../../../claims/Yin_C_G0510_v1.md#statement), formally adopted 2026-10-22T03:24 after [R719's entire current SELF](../../../audits/reviews/Yin_R_G0719_v1.md#current-universal-sextic-whole-self-finding).
+The original complete 2026-10-10T03:50 [R132 independent inspection](../../../audits/reviews/Yin_R_G0132_v1.md#universal-sextic-complete-independent-review) and all original author/native records keep their exact scope and dates; the current whole inspection is static, with no J program or native output rerun.
 
 ## Question and scope
 
@@ -84,7 +84,7 @@ The author implementations are distinct from review_independent.py and review_re
 
 ## Complete independent inspection
 
-At2026-10-10T03:50 root completed the entire separate noncontributor proof/certificate review in [L279](../../../audits/reviews/Yin_R_G0132_v1.md#universal-sextic-complete-independent-review).
+At 2026-10-10T03:50 root completed the entire separate noncontributor proof/certificate review in [L279](../../../audits/reviews/Yin_R_G0132_v1.md#universal-sextic-complete-independent-review).
 The [independent checker](review_independent.py) and native output (`mathematics/computations/outputs/Yin_J_G0065/review_result.json`) use unfiltered F2 subset determinants for all32768 binary matrices, cofactor-minor derivatives for all5625 target columns, and complete norm-one-column recursion for all three changed forms.
 Every full basis SET, rank19 Gram system, native error/witness and all degree6/6/12 coefficient costs agree.
 The entire independent computation passed without author or third-party imports.

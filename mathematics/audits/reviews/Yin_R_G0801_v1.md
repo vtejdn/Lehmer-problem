@@ -25,7 +25,7 @@ The shared initial assignment also included historical C138 v1.
 After the independent initial report, R494 v2 exposed two omissions not separately identified in that report: its undefined unguarded stock-pair scope and its unselected prime-divergence/finite-tensor input.
 The reviewer then confirmed those objections and narrowed the initial whole-v1 impression: its positive theorem passes, while its whole-v1 changes-required finding remains.
 That post-comparison recognition is not claimed as independent initial discovery and affects no proof step of the other five findings.
-R494's mixed historical account remains at its existing home; the sufficient current C138 v2 isolated review R673 is reused without another whole-v2 review or a new whole-v1 PASS.
+R494's mixed historical account remains at its existing home; the sufficient current C138 v2 isolated review R526 is reused without another whole-v2 review or a new whole-v1 PASS.
 
 Current C assessments were read only in the second phase to identify the exact unchanged nonreview input relations required for a new adoption.
 The actual angular passage in C570 and bounded-degree passage in C391 match the previously read L229/L168 mathematics exactly.
@@ -33,15 +33,21 @@ C570's relevant L237 argument differs only in the three inspected internal/relat
 The current C_F8 positive-regularization and convolution passages were also read at their methodological scope; the five target proofs pay their own finite majorant and path costs.
 This is applicability checking of the exact current homes, not a whole-proof review of every source container.
 
+The initial views explicitly retained author contribution and self-check prose.
+In C137 this includes a validation checklist and no-gap conclusion; C139 and C141 contain author validation checklists; C140 includes checked-result and substantive-contribution conclusions; C144 includes its author validation checklist.
+These additional contents precede the initial judgments, so the five current findings are self-reviewed despite the disclaimer of evidentiary use.
+Their old UNKNOWN findings remain distinct.
+Original independence wording in the retained narrative is historical for those affected findings; performed checks, input order, dates, verdicts and limits are preserved.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [C137 isolated whole finding](#g0137-m04-isolated-whole-finding) | independently reviewed |
-| [C139 isolated whole finding](#g0139-m04-isolated-whole-finding) | independently reviewed |
-| [C140 isolated whole finding](#g0140-m04-isolated-whole-finding) | independently reviewed |
-| [C141 isolated whole finding](#g0141-m04-isolated-whole-finding) | independently reviewed |
-| [C144 isolated whole finding](#g0144-m04-isolated-whole-finding) | independently reviewed |
+| [C137 isolated whole finding](#g0137-m04-isolated-whole-finding) | self-reviewed |
+| [C139 isolated whole finding](#g0139-m04-isolated-whole-finding) | self-reviewed |
+| [C140 isolated whole finding](#g0140-m04-isolated-whole-finding) | self-reviewed |
+| [C141 isolated whole finding](#g0141-m04-isolated-whole-finding) | self-reviewed |
+| [C144 isolated whole finding](#g0144-m04-isolated-whole-finding) | self-reviewed |
 | [Whole finite-logarithmic finding](#finite-logarithmic-whole-independent-finding) | unknown |
 | [Whole uniform-regularization finding](#uniform-bounded-term-whole-independent-finding) | unknown |
 | [Whole normalized-cost finding](#normalized-sparse-cost-whole-independent-finding) | unknown |
@@ -115,7 +121,7 @@ This is applicability checking of the exact current homes, not a whole-proof rev
 | [Whole normalized-cost finding](#normalized-sparse-cost-whole-independent-finding) | [C92 true-span annihilator inequality](../../claims/Yin_C_G0092_v1.md#angular-short-annihilator-effective-support) | Entire required zero-value theorem and its phase-Gram/radial proof, rational coefficients, true span and effective support; no nonzero-resultant logarithm at zero. |
 | [Whole normalized-cost finding](#normalized-sparse-cost-whole-independent-finding) | [F109 scalar normalization](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-normalization) | Normalized Haar logarithm equals ordinary logarithmic Mahler measure, including scalar content, monomial factors and repeated circle zeros; scaling by the actual q is retained. |
 | [Whole normalized-cost finding](#normalized-sparse-cost-whole-independent-finding) | [C137 finite mechanism attribution](../../claims/Yin_C_G0137_v1.md#argument) | Accepted antecedent and attribution only, with this reviewer's authorship disclosed; application to rational f and its normalized l1 budget checked here, without a new independent verdict on that old authored proof. |
-| [Whole normalized-cost finding](#normalized-sparse-cost-whole-independent-finding) | [R801 antecedent independent finding](#finite-logarithmic-whole-independent-finding) | Previously performed independent acceptance of the C137 finite mechanism, reused at its recorded scope rather than relabelled as new independent work by its author. |
+| [Whole normalized-cost finding](#normalized-sparse-cost-whole-independent-finding) | [R801 original antecedent finding](#finite-logarithmic-whole-independent-finding) | Previously performed review of the C137 finite mechanism, reused at its recorded scope and current unknown relationship rather than relabelled as new independent work by its author. |
 | [Whole normalized-cost finding](#normalized-sparse-cost-whole-independent-finding) | [L237 actual all-input construction](../../ledger/Yin_L_G0237_v1.md#uniform-auxiliary-margin-fixed-scope) | Projection, primitive normalization and exact value/degree/energy bounds; comparison establishes the stated missing uniform term-count and normalized-l1 guarantees, not automatic coverage. |
 | [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [C141 actual full statement](../../claims/Yin_C_G0141_v1.md#statement) | Entire Section3, simultaneous same-input properties1--5, fixed Pi,K,C and sufficiently large odd prime h, arbitrary supported q/maximal-order integrality, all degree/height and explicit far-from-one bounds, with Sections1--2 included. |
 | [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [C141 entire argument](../../claims/Yin_C_G0141_v1.md#argument) | Whole Sections1--8 and14 formulas, exact count, sparse-factor budget, CRT, circle identity, local integrality, content/zero cases, reuse assemblies, contribution/source limits and initial decision. |
@@ -125,7 +131,7 @@ This is applicability checking of the exact current homes, not a whole-proof rev
 | [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [C92 fixed-support threshold](../../claims/Yin_C_G0092_v1.md#automatic-fixed-rank-power-independence) | Exact inherited C74 constant K0 and eta_r, strict1/40 margin and original angular domain, applied with actual r<=K. |
 | [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [C139 bounded-term theorem](../../claims/Yin_C_G0139_v1.md#statement) | Exact nonzero integral-value theorem, fixed raw l1 budget and positive BS13-dependent g; Section1 changes only the zero-value handling by C92. |
 | [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [C137 accepted linear-degree mechanism](../../claims/Yin_C_G0137_v1.md#statement) | Section2 nonzero large-degree case, original T=N+3, exact J and mu/C conclusion; antecedent authorship disclosed, no new independent verdict on the old authored mechanism. |
-| [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [R801 prior independent acceptance](#finite-logarithmic-whole-independent-finding) | Previously performed independent whole check of C137, reused only for its accepted mechanism and constants. |
+| [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [R801 original whole finding](#finite-logarithmic-whole-independent-finding) | Previously performed whole check of C137, whose current relationship is unknown, reused only for its accepted mechanism and constants. |
 | [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [L38 actual Salem factor](../../ledger/Yin_L_G0038_v1.md#excess-three-family) | Exact unique noncyclotomic Salem factor for every N>3 and expanding root theta<tau_N<4/3 for N>=16; the complete needed Rouche/reciprocity/Kronecker proof read, without using graph/excess or cyclotomic-table results. |
 | [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [L168 bounded-degree floor](../../ledger/Yin_L_G0168_v1.md#bounded-power-degree-escape) | Positive absolute-height floor epsilon_B at B>=55 and actual conversion to total m for d<=B0; finite definability, no enumeration or numerical bound claimed. |
 | [Whole finite-pool finding](#finite-prime-pool-whole-independent-finding) | [MG89 accepted exact count](../literature/MG89/Yin_U001.md#mg89-u001) | Actual electronic edition, Theorem3 and inspected product/Mobius mechanism, odd-prime half-degree specialization(p^h-p)/(2h), including p=2 and h=p; accepted established-statement scope, no original Carlitz proof audit. |

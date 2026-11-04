@@ -180,6 +180,6 @@ Such a density statement, even if proved, would also need a lower bound on their
 ## Project proof review
 
 The complete original2026-10-07 author/source/native review account is retained in [R_G524](../../reviews/Yin_R_G0524_v1.md#original-ms26-author-finding), with the coordinator scope and unknown initial isolation declared separately.
-The fresh2026-10-21 [independent finding](../../reviews/Yin_R_G0523_v1.md#current-excess-two-salem-finding) checks the exact corrected source unit and C248 application, actual original PDF passages and both original finite programs at their declared scope.
+The fresh2026-10-21 [independent finding](../../reviews/Yin_R_G0523_v1.md#current-excess-two-salem-finding) checks the exact corrected source unit and C247 application, actual original PDF passages and both original finite programs at their declared scope.
 Its initial mathematical/source findings preceded comparison with the old accounts, and it certifies no old reviewer isolation or date.
 The source artifact, source edition, accepted foundational inputs and all length6/whole-paper/human/formal-verification exclusions above are unchanged.

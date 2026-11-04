@@ -35,7 +35,7 @@ The reviewer did not modify C671, other C/T/E/S, old evidence, shared indices, a
 | [Whole finding](#whole-existential-coefficient-invariant-finding) | [C669 fixed-K theorem](../../claims/Yin_C_G0669_v1.md#statement) | Actual all-primary coefficientwise residuals, first-residual vanishing, exact eta, square-image iff, derivative criterion, sign identity and2^(d-3A) fixed-K fibers. |
 | [Whole finding](#whole-existential-coefficient-invariant-finding) | [C669 exact fixed-K proof](../../claims/Yin_C_G0669_v1.md#argument) | MT2--MT5 and the inspected changing-divisor half/cancellation; no residual-coordinate freedom or higher-modulus conclusion is imported. |
 | [Whole finding](#whole-existential-coefficient-invariant-finding) | [C669 actual adoption](../../claims/Yin_C_G0669_v1.md#decision-whole-reviewed-2026-10-24) | Actual selected adoption at2026-10-24T02:12 with unchanged mathematical text. |
-| [Whole finding](#whole-existential-coefficient-invariant-finding) | [Prior own C699 whole finding](Yin_R_G0889_v1.md#whole-same-coefficient-mod-four-finding) | Only the actually unchanged predecessor calculation and source boundaries, not prospective coverage of the new quantifier elimination or rank. |
+| [Whole finding](#whole-existential-coefficient-invariant-finding) | [Prior own C669 whole finding](Yin_R_G0889_v1.md#whole-same-coefficient-mod-four-finding) | Only the actually unchanged predecessor calculation and source boundaries, not prospective coverage of the new quantifier elimination or rank. |
 | [Whole finding](#whole-existential-coefficient-invariant-finding) | [C667 actual canonical input](../../claims/Yin_C_G0667_v1.md#statement) | Application only: U_0^q, actual maximal q, support/forward/derivative/old-gate data, integer layers and paid degrees; no evaluation of the new invariant or original realization. |
 | [Whole finding](#whole-existential-coefficient-invariant-finding) | [C649 optional formal gate](../../claims/Yin_C_G0649_v1.md#statement) | Fixed U/Y polynomial gate and root/error precision, retained during K variation without replacing actual integer residuals or asserting a common characteristic-zero G factorization. |
 
@@ -237,8 +237,9 @@ A successful modulo4 reconstruction does not establish modulo8 residual sufficie
 The C669/R889 input is reused only after actual comparison of its unchanged statement/proof and inspected adoption.
 Every new integer remainder, full-precision variation, global coefficient bound, image and counting argument is checked above independently.
 No old native result is used or extended and no mathematical program is executed.
-The earlier corrected R1055v2 scope and retained R1055v1 error remain unchanged.
-Inherited Smy08/Bel17 source limits and historical SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries, remain at their actual scopes.
+The earlier corrected R888v2 scope and retained R888v1 error remain unchanged.
+The C199v3/v4 inputs retain R489's separate original UNKNOWN findings, and their actual selected v5 chain retains R492's original UNKNOWN finding at its own physical scope.
+The inherited Smy08/Bel17 source limits and earlier SELF/UNKNOWN boundaries are not enlarged or reassigned by this reuse.
 No original classical source was newly acquired or fully re-audited.
 This is not an adoption or an unrestricted Task-completion finding.
 The main agent separately maintains the R index and decides whether to adopt this exact finding.

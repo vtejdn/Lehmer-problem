@@ -59,7 +59,7 @@ The v1 error is not approved by the v2 finding and v1 should not be selected in 
 | [Whole finding](#whole-forward-canonical-representative-v2-finding) | [Fixed initial decision](../../claims/Yin_C_G0667_v1.md#decision-initial) | Open v1 dated2026-10-24T01:36, with only the recorded separately-defined-odd-parts clarification during review; no adoption here. |
 | [Whole finding](#whole-forward-canonical-representative-v2-finding) | [C664 exact finite source theorem](../../claims/Yin_C_G0664_v1.md#statement) | Every G_N=ker Pi_N, exact5L rows, coprime-three replacements, all higher-five finite images, full predivision period, exponent e and actual row degrees. |
 | [Whole finding](#whole-forward-canonical-representative-v2-finding) | [C664 actual adoption](../../claims/Yin_C_G0664_v1.md#decision-whole-reviewed-2026-10-24) | Adopted all-depth theorem at its actual characteristic-two scope. |
-| [Whole finding](#whole-forward-canonical-representative-v2-finding) | [Prior own C693 review](Yin_R_G0884_v1.md#whole-all-depth-complete-kernel-finding) | Unchanged finite generation and actual representative interface only; no prospective coverage of C667's global forward or canonical conclusions. |
+| [Whole finding](#whole-forward-canonical-representative-v2-finding) | [Prior own C664 review](Yin_R_G0884_v1.md#whole-all-depth-complete-kernel-finding) | Unchanged finite generation and actual representative interface only; no prospective coverage of C667's global forward or canonical conclusions. |
 | [Whole finding](#whole-forward-canonical-representative-v2-finding) | [C649 full CRT theorem](../../claims/Yin_C_G0649_v1.md#statement) | Formal all-m sufficiency for every representative of the same two jets, complete B, low derivative, D_0 order, old relation, unique corrected6m root and8m gate; no original realization assumed. |
 | [Whole finding](#whole-forward-canonical-representative-v2-finding) | [C649 actual proof](../../claims/Yin_C_G0649_v1.md#argument) | Inspected substitution/lift precision and all-representative proof supporting exactly the reused formal implication. |
 | [Whole finding](#whole-forward-canonical-representative-v2-finding) | [C650 original upper layers](../../claims/Yin_C_G0650_v1.md#statement) | Actual upper-layer elimination under its original-input hypotheses, and the retained a_b bound used as explicit data here; its original m-even conclusion is not silently imposed on this generic construction. |
@@ -321,7 +321,8 @@ Every new global multiplicity, fresh-factor, primary divisibility, normalization
 C694 and C696 are not proof inputs and were not read.
 No old native certificate or finite rank is used for the new deductions, and no old J was rerun or enlarged.
 
-The C199v3/v4 ingredients are used through the actual accepted v5 chain, while their historical assessments and R635/R638 unknown initial-context limits remain unchanged.
+The C199v3/v4 inputs retain R489's separate original UNKNOWN findings, and their actual selected v5 chain retains R492's original UNKNOWN finding at its own physical scope.
+The inherited Smy08/Bel17 source limits and earlier SELF/UNKNOWN boundaries are not enlarged or reassigned by this reuse.
 The Smy08 source unit was inspected at its scalar Haar normalization scope; no original PDF or full classical proof was newly acquired or re-audited.
 All other inherited Smy08/Bel17 limits and historical SELF/UNKNOWN relationships remain at their original scope.
 This whole finding is not an adoption or Task-completion record.

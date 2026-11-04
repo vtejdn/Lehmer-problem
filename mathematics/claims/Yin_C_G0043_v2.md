@@ -112,7 +112,7 @@ The recorded review description was `under review`.
 | dependency | [Complete original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only actual nonzero integral original values and complete complementary packets, with full signed norms/q/final weights/copies/physical width. |
 | dependency | [Accepted trigonometric Bernstein](../audits/literature/QZ19/Yin_U001.md#qz19-u001) | Only exact sup derivative theorem at recorded statement/selected proof-reading scope, for scalar-interval degree comparison; no QZ19 Mahler derivative input. |
 | support | [Whole-author finding](../audits/reviews/Yin_R_G0240_v1.md#chebyshev-damping-whole-finding) | Exact original author freeze only; the corrected physical version has its separately selected actual extraction finding below. |
-| review | [Actual corrected-version independent extraction](../audits/reviews/Yin_R_G0240_v1.md#c43-v2-corrected-extraction-finding) | Exact v2 statement, complete selected argument and domain clarification, actual direct interfaces and full preservation; prior v1 findings remain at their original nonpassing scope. |
+| review | [Actual corrected-version extraction](../audits/reviews/Yin_R_G0240_v1.md#c43-v2-corrected-extraction-finding) | Exact v2 statement, complete selected argument and domain clarification, actual direct interfaces and full preservation; prior v1 findings remain at their original nonpassing scope. Finding relationship: self-reviewed. |
 
 ## Argument
 

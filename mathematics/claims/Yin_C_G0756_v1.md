@@ -9,10 +9,10 @@ Provenance: project deduction under the unchanged [G0001 original contract](../t
 Root proposed the repeated-primary square mechanism, full old-primary target, exact padding support count and paid gcd repair.
 The characteristic_zero_bridge agent checked the genuine integer canonical carries, derived the half-multiplicity quotient and exact restricted image/count, and proved the shared-primary and support-dimension obstructions.
 Root read the entire saved OP1--OP15 and GC1--GC6 arguments.
-Both agents are substantive contributors; fresh isolated whole review and separate adoption remain outstanding.
+Both agents are substantive contributors; fresh isolated whole review and separate adoption were still outstanding at author registration.
 The [adopted C755](Yin_C_G0755_v1.md#decision-whole-reviewed-2026-10-25) supplies its actual source/padding and structural reference interfaces, but its whole review is not a review of the new mathematics here.
 No native coefficient scan, numerical rank, actual full-primary target membership or original shared-factor gcd has been evaluated.
-The separate continuing endpoint and certificate analyses in D43 are not incorporated into this Claim as unresolved premises.
+The separate continuing endpoint and certificate analyses in D6 are not incorporated into this Claim as unresolved premises.
 
 ## Statement
 
@@ -270,7 +270,7 @@ No actual target nonattainment, full old-primary height1 realization, irreducibi
 <a id="full-old-primary-square-target-and-image"></a>
 ### Full old-primary square targets, exact sign images and two concrete limitations
 
-This is the complete fixed author argument by root and characteristic_zero_bridge, separate from the continuing old-X system and certificate inquiry in D43.
+This is the complete fixed author argument by root and characteristic_zero_bridge, separate from the continuing old-X system and certificate inquiry in D6.
 Root proposed the repeated-primary square property, the full old-primary target and the whole-support count for the dense padding family.
 Characteristic_zero_bridge checked the actual integer carry, derived the exact half-multiplicity quotient and target count, and proved the shared-primary obstruction and the precise padding dimension deficit below.
 The actually consumed fixed inputs are [C736 FT2's integral product rule](Yin_C_G0736_v1.md#complete-argument), [C691 DG3--DG6](Yin_C_G0691_v1.md#decision-whole-reviewed-2026-10-24), [C747's full mask/own-divisor carry](Yin_C_G0747_v1.md#decision-whole-reviewed-2026-10-25), and [adopted C753's paid admissible complete source](Yin_C_G0753_v1.md#decision-whole-reviewed-2026-10-25).
@@ -685,7 +685,7 @@ No rank, target membership, full old-primary height1 solution, irreducibility, c
 | --- | --- |
 | date | 2026-10-25T22:06 |
 | status | open |
-| reason | Register the complete OP1--OP15 and GC1--GC6 author theorem after root read both entire saved arguments. The general repeated-primary square property gives a genuine full old-primary target and an exact half-multiplicity restricted sign-image interface; shared factors force an actual order2 obstruction, and the entire PX support has a precise dimension deficit. A separate fully paid complete-source construction removes the endpoint gcd obstacle without removing that deficit or establishing actual target membership. Root and characteristic_zero_bridge are contributors, not independent reviewers; fresh isolated whole review and separate adoption remain outstanding. The adopted C755 review is not borrowed for this new mathematics. No full old-primary sign solution, irreducibility, original Mahler control or unrestricted Task completion is asserted. |
+| reason | Register the complete OP1--OP15 and GC1--GC6 author theorem after root read both entire saved arguments. The general repeated-primary square property gives a genuine full old-primary target and an exact half-multiplicity restricted sign-image interface; shared factors force an actual order2 obstruction, and the entire PX support has a precise dimension deficit. A separate fully paid complete-source construction removes the endpoint gcd obstacle without removing that deficit or establishing actual target membership. Root and characteristic_zero_bridge are contributors, not independent reviewers; fresh isolated whole review and separate adoption were still outstanding at author registration. The adopted C755 review is not borrowed for this new mathematics. No full old-primary sign solution, irreducibility, original Mahler control or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

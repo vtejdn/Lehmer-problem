@@ -63,10 +63,11 @@ No inverse-Toeplitz estimate, uninspected Gohberg theorem or whole-source proof 
 <a id="original-toeplitz-boundary-reading-20261018"></a>
 ## Original finite-boundary attribution reading
 
-Retained 2026-10-22T01:53 from the complete original L404 author account and its actual R550 input description.
+Retained 2026-10-22T01:53 from the complete original L404 author account and its actual R405 input description.
 The original L404 account, dated2026-10-18T14:40, records a text reading of the retained arXiv0806.1528v1 at printed/PDF pp8--11, especially p9 identifying the Toeplitz Gohberg--Semencul formula with the CD formula.
-The individual source reader and reading minute are not established by that account; the document's22:40 and R550's22:41 completion are not source-reading minutes.
+The individual source reader and reading minute are not established by that account.
+The matching L404 document and R405 completion are dated 2026-10-18T14:40 UTC and 14:41 UTC; the former 22:40/22:41 descriptions express those events at UTC+08, without supplying source-reading minutes.
 This is a distinct occurrence from the original strategy_critique and f_unitary_scope readings above, not a replacement of their actual page/proof/visual scopes.
 The source does not print the finite inverse-matrix formula used in L404 at the cited passage; the complete finite real matrix identity is proved locally by Schur complements and nilpotent shifts, without substituting nearby OPUC conventions.
-R550 inspected this existing source record at that attribution/restricted-use scope and did not perform a new original Simon proof audit.
+R405 inspected this existing source record at that attribution/restricted-use scope and did not perform a new original Simon proof audit.
 The present maintaining constructor read the complete retained original account and this U, without opening a new primary PDF, inspecting another source proof or upgrading any earlier proof coverage.

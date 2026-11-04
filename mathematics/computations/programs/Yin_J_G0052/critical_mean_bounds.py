@@ -39,7 +39,7 @@ def main():
     repository = group.parents[3]
     outputs = repository / "mathematics" / "computations" / "outputs" / group.name
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--input", type=Path, default=outputs / "return_midpoint_512.json")
+    parser.add_argument("--input", type=Path, default=group / "inputs/return_weights_512.json")
     parser.add_argument("--output", type=Path, default=outputs / "critical_mean_bounds.json")
     args = parser.parse_args()
     if args.input.stat().st_size > INPUT_BYTE_CAP:
@@ -101,7 +101,7 @@ def main():
     payload = {
         "status": "complete",
         "scope": {
-            "input": "return_midpoint_512.json",
+            "input": "inputs/return_weights_512.json",
             "prefix_times": [0, LAST], "source_input_byte_cap": INPUT_BYTE_CAP,
             "polynomial_coefficients_ascending": [1, -1, -1, -1, 1],
             "digit_integer_weights": {"-1": 1, "0": 2, "1": 1},

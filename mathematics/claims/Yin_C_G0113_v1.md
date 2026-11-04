@@ -373,9 +373,9 @@ Equality in |z^d-1|<=2 forces z^d=-1, and then z=-1.
 But d is even and(-1)^d=1, a contradiction.
 Hence min_T |P_k|>0 for every fixed k, with NO uniform minimum asserted.
 The full same-symbol Gram fiber has a strictly positive definite point: choose eta>0 small enough that |P_k|^2-(d+1)eta is positive on T, take its real scalar spectral-factor Gram, and add eta I.
-The scalar factorization is the same accepted one-variable finite interface as F109/C34; it is not a multivariate factorization assertion.
+The scalar factorization is the same accepted one-variable finite interface as C_F6/C34; it is not a multivariate factorization assertion.
 
-F109 gives a full PSD maximizing Gram of value M(P_k)^2>4.
+C_F6 gives a full PSD maximizing Gram of value M(P_k)^2>4.
 It is real: complex conjugation preserves the real-coefficient feasible problem and objective, so its proved unique maximizing matrix equals its complex conjugate.
 Interpolating it with that strictly positive definite feasible point retains objective>3/2 for a sufficiently small interpolation fraction.
 C34's exact rational affine correction then approximates that interior matrix closely enough to preserve strict positivity and objective>3/2, while satisfying every original lag exactly.
@@ -402,14 +402,14 @@ The actual Lehmer control reduces the retained regularization envelope to360rho;
 
 The original degree-dependent cost survives.
 Even the sufficient precision in(15), improved from the particular C110 bound, does not force an input-uniform gain.
-F109's real optimum equals M(P)^2, so free access to an increasingly accurate optimizer would only reproduce the unknown measure.
+C_F6's real optimum equals M(P)^2, so free access to an increasingly accurate optimizer would only reproduce the unknown measure.
 A genuine universal argument still needs an arithmetic/structural mechanism producing a fixed gain together with the required finite precision, or a different correctly directed norm-income argument.
 Neither a large discriminant alone nor a small number of negative directions supplies this.
 
 The correction-space theorem isolates a legitimate way to reduce the factor(n+1), while the explicit support-only obstruction shows why this cannot be done simply by retaining the original nonzero coefficients.
 All its phases, exact lag uniqueness, trace, denominator-independent error floor and actual original-degree realization are explicit.
 Fixed-support positivity is already known from DS17 and is not reintroduced as a new uniformity claim.
-The full rational feasibility of the control is an existence interface with C34/F109, not a hidden computation or an assertion of useful uniform denominators.
+The full rational feasibility of the control is an existence interface with C34/C_F6, not a hidden computation or an assertion of useful uniform denominators.
 
 The useful initial failed direction is preserved in Section1: the squarefree linear error and cofactor estimate were initially rediscovered, then correctly identified as L361/L366 ancestry.
 The genuinely changed argument includes ALL trace roots and their normalization, and the new support obstruction is a separate proof.
@@ -575,7 +575,7 @@ The recorded review description was `under review`.
 | date | 2026-10-14T20:35 |
 | status | proved |
 | review-status | independently reviewed |
-| reason | Adopt complete independent R468 review of actual A--D and the entire retained body. All-root/trace-pair regularization removes the separate radial-separation cost while retaining original degree/discriminant expenses; localized corrections and the actual sparse-support obstruction/control hold at their precise scope. Automatic uniform gain and the unrestricted Mahler objective remain unresolved. |
+| reason | Adopt complete independent [R797 original all-root-regularization](../audits/reviews/Yin_R_G0797_v1.md#all-root-regularization-actual-whole-independent-finding) review of actual A--D and the entire retained body. All-root/trace-pair regularization removes the separate radial-separation cost while retaining original degree/discriminant expenses; localized corrections and the actual sparse-support obstruction/control hold at their precise scope. Automatic uniform gain and the unrestricted Mahler objective remain unresolved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

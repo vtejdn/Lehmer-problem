@@ -57,12 +57,12 @@ It contributes no C16 proof repair or substantive formulation.
 
 Before the initial judgment, the agent directly read the entire current C16 Statement and complete Argument, including its fixed original author disclosures and proof, then the exact necessary C14v2 short-coordinate proof and C10v2 finite-polynomial generic-monic paragraph.
 Fixed proof and necessary dependencies are legitimate inputs; reading the fixed proof's author-check section does not make this isolated subagent an author or a collaborator.
-A process-location search in the maintenance handbook returned unrelated historical construction/status passages; it supplied no C16 or R883 mathematical explanation or conclusion seen by this reviewer.
+A process-location search in the maintenance handbook returned unrelated historical construction/status passages; it supplied no C16 or R736 mathematical explanation or conclusion seen by this reviewer.
 The actual Section29 process rule was then read at its exact blueprint anchor.
-No R301 or R883 content was read before the initial whole judgment.
+No R301 or R736 content was read before the initial whole judgment.
 
 Only after the initial complete judgment was recorded to the coordinating agent did this reviewer read all of R301, including both whole-author and C-specific extraction/interface findings, its complete bindings, history and limits.
-The reviewer then read all of R883 and the responsible Sch09-U001 attribution account, and compared the actual C16 selected decision and preservation-operation text.
+The reviewer then read all of R736 and the responsible Sch09-U001 attribution account, and compared the actual C16 selected decision and preservation-operation text.
 The two distinct stages occurred within the same UTC minute in the stated order.
 The second stage did not supply a repair, change the target, replace initial reasoning or enlarge source/compute inspection.
 The initial and final mathematical conclusions agree.
@@ -72,7 +72,7 @@ The initial and final mathematical conclusions agree.
 The complete current exact statement and complete selected argument PASS this isolated independent inspection.
 There is no remaining gap in the bound restricted scope.
 This is a new actual complete-current finding, including the two already explicit statement guards concerning lag cancellation and the allowed window.
-It does not backdate independent coverage or turn either old R301 UNKNOWN finding or R883 SELF into this new relationship.
+It does not backdate independent coverage or turn either old R301 UNKNOWN finding or R736 SELF into this new relationship.
 
 Minimal monicity gives the integer remainder columns, rank min(d,N), and actual monogenic membership.
 The formal-real extension retains the integer vector Af in the scalar-extended quotient; one real-root evaluation is not substituted for that vector.
@@ -148,7 +148,7 @@ Their explicit UNKNOWN relationships remain UNKNOWN because the initial relevant
 Their original18:10 freeze,18:21 inspection, supplementary-checker arrangement, exact text-comparison facts and primary HTML versus later PDF acquisition/inspection facts remain original facts.
 This review does not rerun D11 preservation, authenticate old acquired bytes or claim the old UNKNOWN inspection was isolated.
 
-R883 is a current constructor SELF whole finding with its actual initial-before-old-R comparison sequence.
+R736 is a current constructor SELF whole finding with its actual initial-before-old-R comparison sequence.
 Its mathematical scope agrees with this new current whole check, and its SELF declaration remains true.
 It is not used to manufacture an independent initial judgment.
 No old R date, binding or relationship is changed.

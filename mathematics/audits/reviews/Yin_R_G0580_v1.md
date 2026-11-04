@@ -6,7 +6,7 @@ author: Yin
 
 Date: 2026-10-21T14:21.
 Human operator: Yin.
-The agent read complete L155/L156, R54/R55 and the original actual contribution/checking accounts, both published complete C368v1/C369v1 statements and retained arguments, and the directly used scopes of C213v2/C235/C257/C368 and ESS02-U001.
+The agent read complete L155/L156, R54/R55 and the original actual contribution/checking accounts, both published complete C368v1/C369v1 statements and retained arguments, and the directly used scopes of C213v2/C234/C257/C368 and ESS02-U001.
 Unchanged adequate fixed materials already read during this maintenance were reused at their exact scopes.
 The complete mathematical checks rederived every finite algebraic/state/weight argument and every count, rank, infinite sum, domain and convergence implication below.
 The agent inherited substantive maintenance context, read old review conclusions and authored the current responsible statements, so both current whole relationships are self-reviewed.
@@ -38,7 +38,7 @@ The fixed Lehmer irreducibility and ESS theorem keep their actual existing depth
 
 Date: 2026-10-21T14:21.
 PASS for the entire current C368v1 statement, complete original Sections1--4/(1)--(11), mathematical scope boundary and every used interface.
-The named irreducible Lehmer input is reused at C235's existing scope; every new signed multiplication and state construction is checked directly.
+The named irreducible Lehmer input is reused at C234's existing scope; every new signed multiplication and state construction is checked directly.
 The domain D consists of states on actual finite zero-to-zero paths.
 An accessible transition leaving D cannot later return to zero, so this killing removes no returning path and is not an archimedean cutoff.
 Direct multiplication gives exactly all coefficients of P,(t-1)P,(t-1)^2P.

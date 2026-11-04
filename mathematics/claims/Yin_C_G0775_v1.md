@@ -258,7 +258,7 @@ The degree and all residual/cyclotomic factors of the output remain precisely th
 The case r=1,p_1=2,V_1=1 supplies the all-original-s example in PC3 with nu/N tending to2.
 Thus even unbounded periods or linearly growing ordinary transitions cannot evade the gap while the number and total weight of these periodic templates remain bounded.
 This excludes the displayed actual structured sign class, not the unrestricted affine target kernel and not all sign patterns with a given correlation value.
-Its noncyclotomic degree fraction is not computed, and C807's separate necessary weighted fraction remains in force without a converse.
+Its noncyclotomic degree fraction is not computed, and C765's separate necessary weighted fraction remains in force without a converse.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-26)

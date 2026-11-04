@@ -8,7 +8,7 @@ Human record author: Yin.
 The reviewer is a separate subagent outside development of C692 and its two-term calculation.
 This is its first whole review of fixed C692 v1, covering the entire statement TT1--TT6 and all five proof sections TT2--TT6 with formulas TT7--TT13.
 The fixed target and all directly selected fixed inputs were actually read before forming this finding.
-The reviewer's own [C702 finding](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding), [C718 finding](Yin_R_G0907_v1.md#whole-high-power-simultaneous-mod-eight-finding) and [C722 finding](Yin_R_G0912_v1.md#whole-mod-sixteen-all-lift-finding) are reused only at unchanged, directly matched input or boundary scopes.
+The reviewer's own [C672 finding](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding), [C686 finding](Yin_R_G0907_v1.md#whole-high-power-simultaneous-mod-eight-finding) and [C689 finding](Yin_R_G0912_v1.md#whole-mod-sixteen-all-lift-finding) are reused only at unchanged, directly matched input or boundary scopes.
 All new bounded-root, actual two-term, sign and first-quarter calculations were independently rebuilt.
 No D35, author development dialogue or summary, candidate derivation, other-agent inventory, native output or another reviewer's R was read.
 No native computation, coefficient enumeration or external source acquisition was performed.

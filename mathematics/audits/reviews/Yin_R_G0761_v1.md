@@ -6,15 +6,15 @@ author: Yin
 
 Publication date: 2026-10-22T20:01.
 Human record author Yin.
-All seven physical original L versions, exact mathematical statements, complete arguments, necessary fixed inputs and original R631/R633 findings were read in full.
+All seven physical original L versions, exact mathematical statements, complete arguments, necessary fixed inputs and original R485/R487 findings were read in full.
 The constructor authored the five new C statements and complete responsible-home transfers, and is SELF for every current whole finding.
 C583v1/C584v1 were registered open at2026-10-22T19:57; C585v1/C586v1/C587v1 at2026-10-22T19:58.
 The actual new wrapper precision issues below were identified before any whole PASS or adoption of those four initial predecessors.
 Their corrected physical v2 versions were registered open at2026-10-22T19:59, then the full corrected statements and complete affected chains were inspected at2026-10-22T20:01.
 The actual new corrected sentences were reread; every sentence of all seven complete original mathematical/source/contribution bodies was compared and retained in the current C arguments.
 Original mathematical dates, unstated date precision, author contributions and historical targets remain distinct from current publication and adoption.
-R631 retains its declared INDEP for L441v1 FD/WB only; its root reviewer later contributes to the v2 OC proof.
-R633 retains its declared INDEP for L445v1 only; its reviewer later contributes to v2 DR with root.
+R485 retains its declared INDEP for L440v1 FD/WB only; its root reviewer later contributes to the v2 OC proof.
+R487 retains its declared INDEP for L444v1 only; its reviewer later contributes to v2 DR with root.
 No prior whole finding is back-bound to these new C statements or enlarged to later contributed mathematics.
 No Task/E, research run, native producer/replay, source acquisition or original-source proof review occurred.
 
@@ -35,8 +35,8 @@ No Task/E, research run, native producer/replay, source acquisition or original-
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Current G441](#current-g441-complete-self-finding) | [Exact whole statement](../../claims/Yin_C_G0583_v1.md#statement) | Both complete physical L441 versions: every FD1--FD18/WB1--WB14 full actual-domain and formal-control distinction, and complete OC1--OC14 formal hypotheses, exact all-primary closure and original layer/degree costs; no seed, actual trace field, full JT or original norm realization. |
-| [Current G441](#current-g441-complete-self-finding) | [Exact whole argument](../../claims/Yin_C_G0583_v1.md#argument) | Both complete physical L441 versions: every FD1--FD18/WB1--WB14 full actual-domain and formal-control distinction, and complete OC1--OC14 formal hypotheses, exact all-primary closure and original layer/degree costs; no seed, actual trace field, full JT or original norm realization. |
+| [Current G441](#current-g441-complete-self-finding) | [Exact whole statement](../../claims/Yin_C_G0583_v1.md#statement) | Both complete physical L440 versions: every FD1--FD18/WB1--WB14 full actual-domain and formal-control distinction, and complete OC1--OC14 formal hypotheses, exact all-primary closure and original layer/degree costs; no seed, actual trace field, full JT or original norm realization. |
+| [Current G441](#current-g441-complete-self-finding) | [Exact whole argument](../../claims/Yin_C_G0583_v1.md#argument) | Both complete physical L440 versions: every FD1--FD18/WB1--WB14 full actual-domain and formal-control distinction, and complete OC1--OC14 formal hypotheses, exact all-primary closure and original layer/degree costs; no seed, actual trace field, full JT or original norm realization. |
 | [Current G441](#current-g441-complete-self-finding) | [Exact dependency](../../claims/Yin_C_G0199_v2.md#statement) | Complete actual zero-Haar/uniform order scope for FD, not later formal closure. |
 | [Current G441](#current-g441-complete-self-finding) | [Exact dependency](../../claims/Yin_C_G0197_v3.md#quadratic-primary-local-mod4-bridge) | Exact full local bridge and odd derivative, actual source exponent and arbitrary extra factors. |
 | [Current G441](#current-g441-complete-self-finding) | [Exact dependency](../../claims/Yin_C_G0196_v3.md#canonical-c5-residue-graph) | Exact canonical remainder/support and full source/target multiplicities. |
@@ -138,7 +138,7 @@ The B-to-f normalization uses the FULL original norm and scalar2^d, not value in
 On the actual residual, rational q in the stated nonempty interval gives the exact u35 norm>1, degree15d and negative margin, while scalar q cancels completely from D_G/2.
 The complete resultant relation preserves all original phases and powers; u23 needs its independent J_E condition and retains the Haar difference.
 Actual integer divisibilities and quotient endpoint scalars give only lower Mahler bounds, no upper contact or coefficient cost.
-The earlier R633 reviewer contributes to DR; old INDEP is used only for original v1.
+The earlier R487 reviewer contributes to DR; old INDEP is used only for original v1.
 This adequate whole constructor SELF finding supports a later actual adoption of this exact current version; it makes no C decision itself.
 
 ## Initial wrapper precision SELF finding

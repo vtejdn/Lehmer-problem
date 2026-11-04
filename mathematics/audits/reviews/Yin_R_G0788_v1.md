@@ -6,7 +6,7 @@ author: Yin
 
 The responsible human record author is Yin.
 A separate agent outside substantive development read the fixed mathematical inputs directly, without the proposing dialogue, exploration summaries or target old conclusions before forming all three initial findings.
-The independent J71 and C36 first conclusions were complete at 2026-10-22T21:20, and the independent complete C618 first conclusion at 2026-10-22T21:22.
+The independent J71 and C36 first conclusions were complete at 2026-10-22T21:20, and the independent complete C598 first conclusion at 2026-10-22T21:22.
 Only after all three had been frozen did the agent consult the old target reviews, their relationships and exact bindings, the original J71 review payload and the current assessments for comparison.
 The comparison and necessary supplemental source/schema checks were completed by 2026-10-22T21:28.
 The allowed fixed proof bodies contained their own author self-check and attribution descriptions; the FKMR16 source entrance also mentioned that an older noncontributor review was retained, without supplying its verdict or mathematical findings.
@@ -156,7 +156,12 @@ Existing C10/C14/C18, Den09 and AJL source-unit interfaces and L377/L380 were re
 This review uses no native program, solver, scan, package action, new source acquisition, formal verification or global-material mutation.
 
 
-The original initial arrangement records a separate noncontributor and a supplied candidate/conclusions/countercontrol, but does not establish the inherited mathematical-development context. All three historical relationships therefore remain unknown. The degree-one numerators were already determined by the original fixed formulas; the reviewer identified a precision defect, and the actual author correction changes only every degree equal to 2 into every degree at most 2. Identifying that existing object does not itself supply a new construction or proof. The later findings actually reread the corrected entire freeze and registered extraction, but cannot establish the missing initial isolation facts. The original negative finding, revisions, dates, complete reconstruction and source depths remain intact; an actual new isolated check is still needed for M04 coverage.
+The original initial arrangement records a separate noncontributor and a supplied candidate/conclusions/countercontrol, but does not establish the inherited mathematical-development context.
+All three historical relationships therefore remain unknown.
+The degree-one numerators were already determined by the original fixed formulas; the reviewer identified a precision defect, and the actual author correction changes only every degree equal to 2 into every degree at most 2.
+Identifying that existing object does not itself supply a new construction or proof.
+The later findings actually reread the corrected entire freeze and registered extraction, but cannot establish the missing initial isolation facts.
+The original negative finding, revisions, dates, complete reconstruction and source depths remain intact; an actual new isolated check is still needed for M04 coverage.
 
 
 <a id="rational-completion-initial-whole-inspection"></a>

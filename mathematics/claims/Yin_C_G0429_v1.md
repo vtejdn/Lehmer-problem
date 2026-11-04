@@ -49,7 +49,7 @@ No new target realization, cost optimum, arbitrary-root congruence obstruction o
 
 The following complete argument retains original Sections1--5/equations1--6, including the actual original pre-run declarations, negative outcomes and source-search limits.
 Those declarations describe2026-10-10 history; no Task/E, discovery scan, source-proof reading or source intake resumes here.
-The original proof, author execution/contribution/failure account and fixed R153 inputs remain in L254.
+The original proof, author execution/contribution/failure account and fixed R117 inputs remain in L254.
 
 The exact standard-lattice input is
 
@@ -340,7 +340,7 @@ For e=p(1),u=p(2),w=p(3), reciprocity gives
 Exact scalar Bareiss evaluations and checked integer divisions therefore determine the WHOLE polynomial, not only the target coefficient.
 The checker recovers all11248 fixed-order target-Pfaffian polynomials and all150962 changed-order target-Pfaffian polynomials(79867+71095), verifies their complete alternating endpoint and compares all coefficient-frequency, root, position and energy histograms with the native author records.
 Both complete target counts are zero; every finite bin, height3 and energy range17--69 matches.
-The implementation distinction does not establish agent-context independence: the original R153 is SELF because shared target counts and limits preceded its finding.
+The implementation distinction does not establish agent-context independence: the original R117 is SELF because shared target counts and limits preceded its finding.
 
 The additional deterministic sample uses the first12, last12 and middle unordered-basis key, exactly25 bases and all720 labelled orders, checking36000 original/absolute full polynomials and each again at t=4.
 It checks the author verifier's entire three-basis payload, all4320 degree-six/order polynomials, labels, norms, determinant signs, Grams, energies and complete degree-twelve coefficient lists.
@@ -350,7 +350,7 @@ These samples corroborate the general written symmetry and cover proofs; they do
 For the present whole check, only review_independent.py was replayed on its original fixed domain, with its sole final review_result.json write intercepted in memory and unexpected writes refused.
 Its entire returned native object matched the retained review_result.json; its within-run checks matched every original author mathematical payload.
 No author producer, larger root box, new basis/order, source/PDF passage, floating-root decision or persisted native output was used or changed.
-The original author verifier remains SAME-author checking, and both the original R153 and this maintaining-agent whole finding remain SELF.
+The original author verifier remains SAME-author checking, and both the original R117 and this maintaining-agent whole finding remain SELF.
 
 ## Current assessment
 [Selected decision](#decision-integral-gram-proof-home-maintenance)
@@ -381,7 +381,7 @@ The original author verifier remains SAME-author checking, and both the original
 | --- | --- |
 | date | 2026-10-21T19:27 |
 | status | proved |
-| reason | Adopt after the actual whole C429/R630 self-check of every integer minor/norm/endpoint, both full sign/order companion symmetries, exact genuine finite class for both targets, all unresolved second-root linear/quadratic cases, secondary trace-field/root proof and complete original/absolute/cover costs. Only the original J55 fixed reviewer was replayed, reproducing all native mathematics without a write or expanded domain. Original R153 is whole SELF from known prior target counts/limits; neither algorithm distinction nor upstream roles are misused as isolation. All discarded-control, unbounded, source and near-one negatives remain, with no Task/E resumption. |
+| reason | Adopt after the actual whole C429/R630 self-check of every integer minor/norm/endpoint, both full sign/order companion symmetries, exact genuine finite class for both targets, all unresolved second-root linear/quadratic cases, secondary trace-field/root proof and complete original/absolute/cover costs. Only the original J55 fixed reviewer was replayed, reproducing all native mathematics without a write or expanded domain. Original R117 is whole SELF from known prior target counts/limits; neither algorithm distinction nor upstream roles are misused as isolation. All discarded-control, unbounded, source and near-one negatives remain, with no Task/E resumption. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

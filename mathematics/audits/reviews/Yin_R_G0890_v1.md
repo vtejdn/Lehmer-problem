@@ -7,7 +7,7 @@ Review act: 2026-10-24T02:07 UTC.
 Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of C668 and its m14 extension.
 This is the reviewer's first whole review of C668, covering the full physical v2; no v1 review or acceptance is presumed.
-The reviewer retained its own [C694 review](Yin_R_G0886_v1.md#large-dyadic-complete-h-whole), reread the current fixed C665 mathematics and selected decision, and reused only that unchanged complete-H interface.
+The reviewer retained its own [C665 review](Yin_R_G0886_v1.md#large-dyadic-complete-h-whole), reread the current fixed C665 mathematics and selected decision, and reused only that unchanged complete-H interface.
 All of C668 v2, including the retained large-dyadic statement and SY1--SY4 and the separate SY9--SY12 statement and SY9 hand proof, was read and checked as one new synthesis.
 The exact selected fixed inputs and necessary supporting proof passages were read directly.
 No D41 or other draft, J131, native output, author proof-development conversation or summary, agent inventory or another reviewer's R was consulted.

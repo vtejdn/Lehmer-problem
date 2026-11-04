@@ -198,7 +198,8 @@ It also authored the separate J106 verification program, but no numerical result
 The complete fixed C170 statement, Sections 1--4, formulas (1)--(12), all comparison paragraphs and all initial declarations were actually inspected.
 No proof of a uniform carry contraction, original source-proof upgrade, formal verification, adoption or Task completion is asserted.
 
-Current relationship clarification: Reading the author-ready proof and fixed inputs is legitimate review input. The account records noncontribution and proof-first prechecking but does not establish what substantive mathematical development context was inherited; the isolated-context relationship remains unknown rather than inferred from a separate assignment.
+Current relationship clarification: Reading the author-ready proof and fixed inputs is legitimate review input.
+The account records noncontribution and proof-first prechecking but does not establish what substantive mathematical development context was inherited; the isolated-context relationship remains unknown rather than inferred from a separate assignment.
 The original checking date, mathematical findings and exact input bindings remain unchanged; this is no new mathematical review.
 
 <a id="short-overlap-whole-independent-finding"></a>
@@ -327,8 +328,6 @@ This finding is independently organized and noncontributing relative to the new 
 It does not adopt a fixed material, create a C decision or complete G0001.
 
 The reviewed computation inputs are the complete frozen core.py, discover.py and verify.py, certificate.json, verified.json and README in J G0033.
-The author's retained certificate fingerprint in verified.json was checked against the actual file and agrees:.
-This identifies the actually inspected retained certificate, not a new mathematical hash gate.
 The author files were read only.
 The new independent program is [J G0034 verify.py](../../computations/programs/Yin_J_G0034/verify.py), whose successful result (`mathematics/computations/outputs/Yin_J_G0034/verification.json`) includes both sides of the final bound.
 

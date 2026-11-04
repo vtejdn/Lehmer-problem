@@ -6,17 +6,23 @@ author: Yin
 Date: 2026-10-13T04:55.
 Human record author Yin.
 Root separately reviews the ENTIRE new D23, titled Triple-density tails in squarefree divisor downsets, frozen12:54.
-This is a newly allocated use of a retired rolling address, not the earlier D23 preserved in C96. averaged_lcm authored all new atom-comparison mathematics; root supplied only the model question and coordination.
+This is a newly allocated use of a retired rolling address, not the earlier D23 preserved in C96.
+averaged_lcm authored all new atom-comparison mathematics; root supplied only the model question and coordination.
 Root received the author's candidate/result summaries before the whole read and thus this review is not blind.
 No author proof-generation dialogue or earlier independent finding for this NEW artifact was supplied.
 Root read the complete original and independently reconstructed all obligations below.
 Earlier C96/C98 are reused fixed inputs at their actual scopes, not substituted for the new proof.
 
+The initial complete C99 original argument included its author validation checklist in addition to the candidate/result summaries.
+Those actual validation contents are additional mathematical context.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole squarefree-density finding](#squarefree-density-whole-independent-finding) | independently reviewed |
+| [Whole squarefree-density finding](#squarefree-density-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

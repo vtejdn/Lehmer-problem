@@ -12,8 +12,8 @@ It selects no research Task or E, performs no new exploration and adopts no Clai
 ## Actual arrangement, prior role and input sequence
 
 The reviewer developed none of either target's proof, controls, programs or candidate selection.
-It previously reviewed the fixed upstream C378v2/C383v2/C383v3 materials and recorded R737.
-That earlier task also required reading the surrounding R732/R734/R736 accounts, including their generic regularization and finite-tail upstream mathematics.
+It previously reviewed the fixed upstream C378v2/C380v2/C380v3 materials and recorded R590.
+That earlier task also required reading the surrounding R585/R587/R589 accounts, including their generic regularization and finite-tail upstream mathematics.
 These are disclosed fixed-input relationships, not proof-development participation in the present targets.
 The upstream review role does not automatically make this target review SELF, and its earlier verdict is not substituted for checking either changed target argument.
 
@@ -49,29 +49,29 @@ This order creates no retrospective review of an erroneous or unretained preimag
 
 | Review | Relationship |
 | --- | --- |
-| [Whole isolated C387v1 finding](#g387v1-whole-isolated-finding) | independently reviewed |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | independently reviewed |
+| [Whole isolated C384v1 finding](#g387v1-whole-isolated-finding) | independently reviewed |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | independently reviewed |
 
 ## Review bindings
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Whole isolated C387v1 finding](#g387v1-whole-isolated-finding) | [C384v1 exact statement](../../claims/Yin_C_G0384_v1.md#statement) | Entire quantified analytic/arithmetic/Salem statement, squarefree and no-circle branches, local repeated-root comparison, exact fixed input, reducible failure and every unrun/cost/source boundary. |
-| [Whole isolated C387v1 finding](#g387v1-whole-isolated-finding) | [C384v1 complete argument](../../claims/Yin_C_G0384_v1.md#argument) | Every mathematical Section1--7/(1)--(20), global bounds, ordered exact local limit, full discriminants and trace signs, padding proof, actual rational arithmetic and prospective two-tail control. |
-| [Whole isolated C387v1 finding](#g387v1-whole-isolated-finding) | [Original L361](../../ledger/Yin_L_G0361_v1.md#circle-derivative-reuse-and-domain) | Complete original mathematical body and all prefix, candidate, author-check, freeze, source, finite/unrun and limitation accounts compared after the autonomous initial finding. |
-| [Whole isolated C387v1 finding](#g387v1-whole-isolated-finding) | [Original R188](Yin_R_G0188_v1.md#whole-derivative-error-finding) | Entire actual whole finding, precise original inputs, all positive/negative/cost/source/unrun limits and unknown initial-context relationship compared. |
-| [Whole isolated C387v1 finding](#g387v1-whole-isolated-finding) | [R591 derivative account](Yin_R_G0591_v1.md#circle-derivative-whole-current-finding) | Complete relevant constructor SELF finding and original author-check account; no conversion into independent evidence. |
-| [Whole isolated C387v1 finding](#g387v1-whole-isolated-finding) | [Current scalar error/minorant input](../../claims/Yin_C_G0379_v1.md#zero-compatible-root-error) | Full one-root error identity, half-log/Haar normalization and adjacent complete Chebyshev expansion/tail/lower direction used here; no new native-control replay. |
-| [Whole isolated C387v1 finding](#g387v1-whole-isolated-finding) | [Classical discriminant interface](../literature/Smy08/Yin_U003.md#smy08-discriminant-separation) | Actual polynomial-discriminant/Vandermonde/Hadamard mechanism and source depth only; unrelated questioned survey claims are not adopted. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [C385v3 exact statement](../../claims/Yin_C_G0385_v3.md#statement) | Entire general monic irreducible unit domain, k>0 circle branch, S>=2 sequence/energy consequences, conditional reciprocal singleton, genuine-Salem positive-norm branch, real/rational normalization and every original expense. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [C385v3 complete argument](../../claims/Yin_C_G0385_v3.md#argument) | All Sections1--5/(1)--(15), every inverse orbit, TV and exceptional-energy step, actual projection, full trace norm, zero products and coprime least-denominator limit. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [Original L362](../../ledger/Yin_L_G0362_v1.md#asymmetric-unit-reuse) | Whole original mathematics, author Section6, entire freeze, clarification supplied before first review and subsequent outcome compared at their true scopes. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [Original R187](Yin_R_G0187_v1.md#asymmetric-unit-whole-finding) | Complete whole finding, coprime clarification, source/cost limits and actual author-self-check exposure making the relationship SELF. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [R591 asymmetric account](Yin_R_G0591_v1.md#asymmetric-unit-whole-current-finding) | Complete relevant constructor SELF finding and original author check; earlier open summary domains and identical mathematical bodies compared without backdating. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [Earlier C385v1 statement](../../claims/Yin_C_G0385_v1.md#statement) | Actual earlier reciprocal-input summary and unadopted open registration compared; its mathematical tail equals current v3. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [Earlier C385v2 statement](../../claims/Yin_C_G0385_v2.md#statement) | Actual explicit monic irreducible reciprocal-input summary and unadopted open registration compared; its mathematical tail equals current v3. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [Fixed inverse/trace input](../../claims/Yin_C_G0378_v2.md#argument) | Precise original residuals, either-sign circle/Fourier normalization, Salem finite-frequency scope, full positive-norm trace/damping and linear Poisson upper bound needed by the new inequalities. |
-| [Whole isolated C388v3 finding](#g388v3-whole-isolated-finding) | [Actual monomial projection](../../ledger/Yin_L_G0237_v1.md#monomial-projection-uniform-margin) | Original N=2d projection, rank/trace, exact nonzero integral monomial residual and full resultant/energy; new reversal/nonself-inverse selection checked locally. |
+| [Whole isolated C384v1 finding](#g387v1-whole-isolated-finding) | [C384v1 exact statement](../../claims/Yin_C_G0384_v1.md#statement) | Entire quantified analytic/arithmetic/Salem statement, squarefree and no-circle branches, local repeated-root comparison, exact fixed input, reducible failure and every unrun/cost/source boundary. |
+| [Whole isolated C384v1 finding](#g387v1-whole-isolated-finding) | [C384v1 complete argument](../../claims/Yin_C_G0384_v1.md#argument) | Every mathematical Section1--7/(1)--(20), global bounds, ordered exact local limit, full discriminants and trace signs, padding proof, actual rational arithmetic and prospective two-tail control. |
+| [Whole isolated C384v1 finding](#g387v1-whole-isolated-finding) | [Original L361](../../ledger/Yin_L_G0361_v1.md#circle-derivative-reuse-and-domain) | Complete original mathematical body and all prefix, candidate, author-check, freeze, source, finite/unrun and limitation accounts compared after the autonomous initial finding. |
+| [Whole isolated C384v1 finding](#g387v1-whole-isolated-finding) | [Original R188](Yin_R_G0188_v1.md#whole-derivative-error-finding) | Entire actual whole finding, precise original inputs, all positive/negative/cost/source/unrun limits and unknown initial-context relationship compared. |
+| [Whole isolated C384v1 finding](#g387v1-whole-isolated-finding) | [R591 derivative account](Yin_R_G0591_v1.md#circle-derivative-whole-current-finding) | Complete relevant constructor SELF finding and original author-check account; no conversion into independent evidence. |
+| [Whole isolated C384v1 finding](#g387v1-whole-isolated-finding) | [Current scalar error/minorant input](../../claims/Yin_C_G0379_v1.md#zero-compatible-root-error) | Full one-root error identity, half-log/Haar normalization and adjacent complete Chebyshev expansion/tail/lower direction used here; no new native-control replay. |
+| [Whole isolated C384v1 finding](#g387v1-whole-isolated-finding) | [Classical discriminant interface](../literature/Smy08/Yin_U003.md#smy08-discriminant-separation) | Actual polynomial-discriminant/Vandermonde/Hadamard mechanism and source depth only; unrelated questioned survey claims are not adopted. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [C385v3 exact statement](../../claims/Yin_C_G0385_v3.md#statement) | Entire general monic irreducible unit domain, k>0 circle branch, S>=2 sequence/energy consequences, conditional reciprocal singleton, genuine-Salem positive-norm branch, real/rational normalization and every original expense. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [C385v3 complete argument](../../claims/Yin_C_G0385_v3.md#argument) | All Sections1--5/(1)--(15), every inverse orbit, TV and exceptional-energy step, actual projection, full trace norm, zero products and coprime least-denominator limit. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [Original L362](../../ledger/Yin_L_G0362_v1.md#asymmetric-unit-reuse) | Whole original mathematics, author Section6, entire freeze, clarification supplied before first review and subsequent outcome compared at their true scopes. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [Original R187](Yin_R_G0187_v1.md#asymmetric-unit-whole-finding) | Complete whole finding, coprime clarification, source/cost limits and actual author-self-check exposure making the relationship SELF. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [R591 asymmetric account](Yin_R_G0591_v1.md#asymmetric-unit-whole-current-finding) | Complete relevant constructor SELF finding and original author check; earlier open summary domains and identical mathematical bodies compared without backdating. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [Earlier C385v1 statement](../../claims/Yin_C_G0385_v1.md#statement) | Actual earlier reciprocal-input summary and unadopted open registration compared; its mathematical tail equals current v3. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [Earlier C385v2 statement](../../claims/Yin_C_G0385_v2.md#statement) | Actual explicit monic irreducible reciprocal-input summary and unadopted open registration compared; its mathematical tail equals current v3. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [Fixed inverse/trace input](../../claims/Yin_C_G0378_v2.md#argument) | Precise original residuals, either-sign circle/Fourier normalization, Salem finite-frequency scope, full positive-norm trace/damping and linear Poisson upper bound needed by the new inequalities. |
+| [Whole isolated C385v3 finding](#g388v3-whole-isolated-finding) | [Actual monomial projection](../../ledger/Yin_L_G0237_v1.md#monomial-projection-uniform-margin) | Original N=2d projection, rank/trace, exact nonzero integral monomial residual and full resultant/energy; new reversal/nonself-inverse selection checked locally. |
 
 <a id="g387v1-whole-isolated-finding"></a>
 ## Complete C384v1 result and decisive evidence
@@ -264,15 +264,15 @@ Smy08-U003's relevant passage supplies the polynomial discriminant convention an
 The local cofactor estimate is reconstructed above.
 Mahler's original paper and the source's other theorem reports are not newly audited.
 No totally-positive theorem is imported for the target's negative exterior embedding.
-L66 and the corresponding previously read C244 interface supply the actual quadratic trace extension; total reality is invoked only in genuine Salem scope.
+L66 and the corresponding previously read C243 interface supply the actual quadratic trace extension; total reality is invoked only in genuine Salem scope.
 
-The fixed original Lehmer polynomial, five rational trace brackets, irreducibility mechanism and beta interval were checked at the actual L170/L348 mathematical input slices, with the corresponding C360 retained interface already read.
+The fixed original Lehmer polynomial, five rational trace brackets, irreducibility mechanism and beta interval were checked at the actual L170/L348 mathematical input slices, with the corresponding C359 retained interface already read.
 The exact D=1332031009=36497^2 was read as a retained original polynomial-discriminant fact in L4/L170.
 Its native Sylvester computation, root isolation and old enumeration were not rerun.
 The present new rational inequalities are separate direct deductions.
 No fixed-control metadata is treated as a theorem about all inputs.
 
-For C385, the actual residual/projection and unit normalization in L318/L341/L355, with the corresponding C323/C377 interfaces previously read, were checked at their used original scopes.
+For C385, the actual residual/projection and unit normalization in L318/L341/L355, with the corresponding C322/C374 interfaces previously read, were checked at their used original scopes.
 The complete L237 N=2d projection slice was read directly; its later rounded dyadic construction is not the singleton used here.
 The fixed C378/L357 circle, signed norm, damped trace and Poisson interfaces were checked as the inputs actually required.
 The exact L229/Pri11/Dim19 angular estimate retains the prior accepted statement/applicability limits, actual powered degrees and multiplicities.

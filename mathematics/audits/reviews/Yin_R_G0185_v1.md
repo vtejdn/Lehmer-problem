@@ -27,7 +27,7 @@ No previous D6 review was supplied or relied on.
 | [Whole account](#approximate-moment-whole-review) | [D6 positive inflation](../../ledger/Yin_L_G0360_v1.md#positive-weight-fiber-inflation) | Multinomial moment, effective support, relative correction and exact equality criterion. |
 | [Whole account](#approximate-moment-whole-review) | [D6 period cost](../../ledger/Yin_L_G0360_v1.md#common-period-moment-cost) | Actual quotient norm, explicit modulus domain, linear versus sublinear h, full common-period cost. |
 | [Whole account](#approximate-moment-whole-review) | [D6 signed analysis](../../ledger/Yin_L_G0360_v1.md#signed-phase-guard) | Compatible character reindexing, incompatible exact F2 control and independent finite phase averaging. |
-| [Whole account](#approximate-moment-whole-review) | [L356 quotient interface](../../ledger/Yin_L_G0356_v1.md#affordable-quotient-loss) | Exact quotient cardinality divisibility and actual common-period/intersection scope, reusing R258's independent full review. |
+| [Whole account](#approximate-moment-whole-review) | [L356 quotient interface](../../ledger/Yin_L_G0356_v1.md#affordable-quotient-loss) | Exact quotient cardinality divisibility and actual common-period/intersection scope, reusing R182's full review at its recorded unknown relationship. |
 | [Whole account](#approximate-moment-whole-review) | [L209 modulus](../../ledger/Yin_L_G0209_v1.md#height-uniform-cyclic-cost-modulus) | Stated monotone bound at rm/d<=h_0; original external-source inspection scope is retained. |
 
 <a id="approximate-moment-whole-review"></a>
@@ -86,7 +86,7 @@ The draft maintains those distinctions accurately.
 ## Verification and source boundaries
 
 All new elementary derivations and the exact nontrivial control were reconstructed directly; no numerical program or parameter scan was needed.
-L356/R258 and L209/R108 are reused at their exact local reviewed scopes.
+L356/R182 and L209/R727 original growing-residue review account are reused at their exact local reviewed scopes.
 No original Pri11/Dim19 proof, new BV19b density argument or original L84 unknown moment upper bound is assumed.
 L86 is a comparison delimiting reuse, not a premise needed for the new finite equations.
 No historical novelty assessment, formal verification or full G0001 completion review occurred.

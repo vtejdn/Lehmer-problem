@@ -140,7 +140,8 @@ Every actual coefficient denominator divides Q, so their least common q does too
 
 A union width smaller than d would put this below-one packet into the monogenic short window after ONE common unit monomial, contradicting C17.
 Thus the exact physical width is d, without extending the conclusion to arbitrary overorders.
-Each actual field value is a nonzero original-degree integer; full signed norms, contents, positive copies and possible monomial signs therefore give the displayed resultant/product identities. q may be a proper divisor of Q: the actual numerator bound still follows from |q f_j|<=(q/Q)U<=U.
+Each actual field value is a nonzero original-degree integer; full signed norms, contents, positive copies and possible monomial signs therefore give the displayed resultant/product identities.
+q may be a proper divisor of Q: the actual numerator bound still follows from |q f_j|<=(q/Q)U<=U.
 The monic root bound|beta|<=1+H and |f_j|<=U/Q give precisely the stated full norm upper bound.
 It is not turned into a lower arithmetic income.
 C10 is applied only after full covariance, with the same final weights and original T/d1.

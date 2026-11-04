@@ -130,7 +130,7 @@ Thus C300's genuine signed coefficient and its real-place companion are
     E[Y_n]=T_n/n-sqrt13 mathcal_B_n/(nW),
     |T_n|<BS<430500/130321.                              (MP4)
 
-The full reciprocal-fiber product of C300 and the present forward/backward quotient product describe the same original midpoint state by C423/C776's bijection.
+The full reciprocal-fiber product of C300 and the present forward/backward quotient product describe the same original midpoint state by C419/C776's bijection.
 The first equality therefore retains the original signed integer numerator rather than renaming an unrelated scalar diagnostic.
 The bound on T_n is the actual two-real-strip bound; the native output independently checks that its exact field enclosure lies strictly inside the displayed rational interval.
 It does not treat x_+x_- as a nonnegative squared norm.

@@ -6,7 +6,7 @@ author: Yin
 Date: 2026-10-15.
 Human author Yin.
 New G0001 author inquiry by strategy_critique under root-owned continuing execution.
-Root requested a change from the trace-product route to actual integer-auxiliary or different finite-matrix mechanisms, and directed reuse of C103/C75/F109--111 and C71/C50.
+Root requested a change from the trace-product route to actual integer-auxiliary or different finite-matrix mechanisms, and directed reuse of C103/C75/C_F6/C_F7/C_F8 and C71/C50.
 Root supplied no proof step for the construction developed here.
 This draft is not independently reviewed.
 
@@ -16,7 +16,7 @@ Can one use an explicitly finite regularized logarithmic upper certificate for a
 Seek an actual modular class whose basic numerator has coefficient energy ABOVE the modulus-square threshold, while its fixed finite logarithmic certificate leaves positive original norm income.
 All original roots, degree, Fourier coefficients and radial error must remain visible.
 
-Read actual C103's coefficient-field/padding barriers, C75's inverse-boundary identity, F109's Gram maximum/Toeplitz dual and prediction directions, and F111's regularized upper variation and finite-matrix normalization.
+Read actual C103's coefficient-field/padding barriers, C75's inverse-boundary identity, C_F6's Gram maximum/Toeplitz dual and prediction directions, and C_F8's regularized upper variation and finite-matrix normalization.
 These prohibit treating a Gram lower capacity as a pointwise upper bound.
 Also read C71's complete two-binomial modular gate and C50's existing fixed-denominator low-energy theorem.
 An initial proposed modulo5 six-term auxiliary with a pointwise square-complement bound was abandoned: its energy was already below25, so existence of a gap would be an immediate C50 specialization.
@@ -38,7 +38,7 @@ The bounded local screen read L221's pointwise maximum expenses, L229's complete
 A first broad search was overinclusive and truncated, and one Windows wildcard-path search failed; neither supplies absence evidence.
 Corrected G-only exact-term searches found no retained regularized logarithmic modular-auxiliary transfer matching the candidate.
 Den09/L179's Lawton comparison identifies the classical specialization setting, but no uninspected Lawton rate or interchange through logarithmic zeros will be used: the proposed proof uses an explicit finite polynomial majorant and checks its constant coefficient directly.
-Existing primary-source scopes in F111, L229 and Hir06 suffice; no new external theorem or novelty claim is proposed.
+Existing primary-source scopes in C_F8, L229 and Hir06 suffice; no new external theorem or novelty claim is proposed.
 
 No native mathematical program or J is allocated or run.
 Substantive developments and failures are to be recorded incrementally below.
@@ -95,7 +95,7 @@ For R=1-delta^2/B one has0<=Y(z)<=R<1 and the scalar logarithm series gives
           <=R^(J+1)/[2(J+1)(1-R)].                     (2)
 
 The first inequality is the UPPER direction of positive regularization followed by a finite log majorant.
-It is not a lower-capacity or a pointwise-maximum inference from F109.
+It is not a lower-capacity or a pointwise-maximum inference from C_F6.
 
 There is an exact finite matrix realization.
 Write Y(z)=sum_(|k|<=T)y_k z^k and form the Hermitian matrix K=(y_(i-j)) on indices -JT,...,JT.
@@ -111,7 +111,7 @@ Thus (K^j)_(0,0) is exactly the constant coefficient of Y^j, with no boundary ap
 
 The actual matrix size is2JT+1.
 No efficient-size, capacity or determinant normalization claim is made.
-This is the finite compression mechanism of F111 used in an upper logarithmic cost calculation, with its required no-wrap calculation supplied here.
+This is the finite compression mechanism of C_F8 used in an upper logarithmic cost calculation, with its required no-wrap calculation supplied here.
 
 Use precisely L229's accepted function, with c=log2/4,
 
@@ -192,7 +192,7 @@ Thus the DIRECT L229/C50 second-moment margin of this actual auxiliary is negati
 The cubic f has exactly one real zero theta in(5/4,4/3): its two real critical values are negative, and its values at5/4 and4/3 have opposite signs.
 The other two roots are conjugate complex roots with product1/theta and hence modulus theta^(-1/2)<1.
 Consequently M(f)=theta<4/3.
-This uses the ordinary scalar root formula already accepted in F109/Smy08, not an unknown root of P.
+This uses the ordinary scalar root formula already accepted in C_F6/Smy08, not an unknown root of P.
 
 For |z|1 put x=Re z.
 Direct multiplication gives
@@ -214,7 +214,7 @@ Since |h|=|f| on the circle, integrating the regularized logarithm first in u yi
        <=log|f(z)|+3delta.                            (10)
 
 The identity is elementary one-variable factorization of the positive Laurent polynomial x^2(2+v+v^-1)+delta^2, x=|f(z)|>0: its positive constant outer factor is(sqrt(4x^2+delta^2)+delta)/2, as direct multiplication checks.
-Thus F109's factorwise Jensen identity applies with no circle singularity or limit.
+Thus C_F6's factorwise Jensen identity applies with no circle singularity or limit.
 The inequalities use sqrt(4x^2+delta^2)<=2x+delta and log(1+delta/x)<=delta/x<=3delta.
 Integrating in z gives a two-phase regularized mean at most log theta+3delta.
 The input seed's fixed Mahler measure, not the unknown original M(P), is used here.
@@ -394,8 +394,8 @@ Thus this round supplies a constructive logarithmic cost mechanism and an explic
 
 The proof uses L229's exact epsilon and original-field angular bound, including its inherited Pri11/Dim19 accepted statement/application scopes; L168's actual bounded-degree escape is used only to close the finite low-degree range.
 The source proofs are not newly audited.
-F111 motivates the positive regularization and finite compression direction; equations(1)--(6) are proved directly here and do not invoke an unproved SDP solver, unknown factor or capacity/supremum conversion.
-The scalar Jensen/root formula is the accepted F109/Smy08 interface.
+C_F8 motivates the positive regularization and finite compression direction; equations(1)--(6) are proved directly here and do not invoke an unproved SDP solver, unknown factor or capacity/supremum conversion.
+The scalar Jensen/root formula is the accepted C_F6/Smy08 interface.
 The classical Salem--Boyd form is attributed to the existing actual Hir06 inspection and old L20/L38 plastic-seed family, without claiming new construction, eventual factorization or an imported convergence rate.
 
 Samuels' accepted binomial integral-factor theorem and L229's congruence-only norm floor were inspected as antecedents.
@@ -524,7 +524,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-23T00:52 |
 | status | proved |
-| reason | Select the newly performed isolated whole review of this exact fixed statement, complete argument and all selected input interfaces at their stated restricted scopes. Preserve the proved mathematical status, unchanged statement and argument, every nonreview relation and scope, and all historical decisions. The retained older unknown finding keeps its actual date, checks and limits; this new finding supplies new evidence at its actual date without certifying old isolation, backdating adoption, or completing or resuming G0001. |
+| reason | Select the newly performed whole finding on this exact fixed statement, complete argument and all selected input interfaces at their stated restricted scopes, with its actual self-reviewed relationship. Preserve the proved mathematical status, unchanged statement and argument, every nonreview relation and scope, and all historical decisions. The retained older unknown finding keeps its actual date, checks and limits; this new finding supplies new evidence at its actual date without certifying old isolation, backdating adoption, or completing or resuming G0001. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -536,7 +536,7 @@ The recorded review description was `under review`.
 | support | [Exact retained support](Yin_C_F0008_v1.md#matrix-regularized-interface) | Methodological attribution; actual finite upper certificate proved locally. |
 | support | [Exact retained support](Yin_C_F0008_v1.md#matrix-convolution-capacities) | Finite compression attribution; actual no-wrap calculation proved locally. |
 | support | [Exact retained support](../audits/literature/Con26d/Yin_U001.md#con26d-u001) | Corrected actual theorem-locator attribution and selected proof-reading scope; complete local monic proof already present, no new mathematical premise. |
-| review | [New isolated whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0137-m04-isolated-whole-finding) | Complete exact fixed statement, whole argument, every selected input, all parameter/domain/original-degree costs, exceptional branches and source/noncompletion limits. |
+| review | [New whole finding](../audits/reviews/Yin_R_G0801_v1.md#g0137-m04-isolated-whole-finding) | Complete exact fixed statement, whole argument, every selected input, all parameter/domain/original-degree costs, exceptional branches and source/noncompletion limits. Finding relationship: self-reviewed. |
 
 ## Historical assessments
 
@@ -561,4 +561,4 @@ The recorded review description was `under review`.
 | support | [Exact input](../ledger/Yin_L_F0007_v1.md#matrix-regularized-interface) | Methodological attribution; actual finite upper certificate proved locally. |
 | support | [Exact input](../ledger/Yin_L_F0007_v1.md#matrix-convolution-capacities) | Finite compression attribution; actual no-wrap calculation proved locally. |
 | support | [Exact classical monic criterion](../audits/literature/Con26d/Yin_U001.md#con26d-u001) | Corrected actual theorem-locator attribution and selected proof-reading scope; complete local monic proof already present, no new mathematical premise. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0801_v1.md#finite-logarithmic-whole-independent-finding) | Complete actual fixed statement and argument, all direct inputs, costs, exceptions, source and contribution limits. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0801_v1.md#finite-logarithmic-whole-independent-finding) | Complete actual fixed statement and argument, all direct inputs, costs, exceptions, source and contribution limits. Referenced finding relationship: unknown. |

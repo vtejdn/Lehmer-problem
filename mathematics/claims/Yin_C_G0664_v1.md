@@ -101,7 +101,7 @@ Combining this with C662's actual continuous section gives
 
 The finite assertion uses C657's every-depth kernel projection and the exact finite image of the completed complete-factor group.
 In particular, at every dyadic N>=2, the complete annular intersection has its full required dimension5N-1.
-The smaller source-relation mechanisms in C688/C662 still miss their proved direction; their failure is not a failure of the full complete group.
+The smaller source-relation mechanisms in C659/C662 still miss their proved direction; their failure is not a failure of the full complete group.
 
 ### G4: safe finite source representatives and degree cost
 
@@ -353,7 +353,7 @@ Therefore the derived uniform conclusion is
 
 The finite conclusion uses C657's exact image(ker Pi -> R_r^*)=ker Pi_r and image(Ghat -> R_r^*)=G_r.
 It does not replace a finite lift with an unproved polynomial factorization.
-In particular the earlier missing annular J_N direction is generated somewhere in the full complete source group; it remains absent from the smaller mechanisms fixed in C688/C662.
+In particular the earlier missing annular J_N direction is generated somewhere in the full complete source group; it remains absent from the smaller mechanisms fixed in C659/C662.
 Those earlier failure theorems are preserved, not contradicted.
 
 ### HG7: explicit finite sources, predivision precision and conservative degree cost

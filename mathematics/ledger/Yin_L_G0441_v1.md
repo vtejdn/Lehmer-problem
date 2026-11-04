@@ -3,7 +3,7 @@ author: Yin
 ---
 # Original arithmetic income versus dual and quadratic costs
 
-The complete current statement and necessary original argument are adopted in [C_G0602_v2](../claims/Yin_C_G0584_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g442-complete-self-finding).
+The complete current statement and necessary original argument are adopted in [C584_v2](../claims/Yin_C_G0584_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g442-complete-self-finding).
 Every original physical-version mathematical domain, contribution, source/native boundary, useful failure and historical review scope remains below.
 
 
@@ -24,7 +24,7 @@ They do not identify their dual matrices, weighted norms or order indices with o
 <a id="dual-positive-round-reuse"></a>
 ## Exact Toeplitz dual and existing paid alternatives
 
-For a real coefficient column a of width d+1, [F109's fixed exact dual](Yin_L_F0005_v1.md#scalar-capacity-dual) supplies
+For a real coefficient column a of width d+1, [L_F5's fixed exact dual](Yin_L_F0005_v1.md#scalar-capacity-dual) supplies
 
     D_d={H real symmetric Toeplitz: H>=E00},
     J_a(H)=a^T H a,
@@ -35,8 +35,8 @@ For nonzero P with a circle zero the infimum is not attained, so an individual f
 For real a, averaging a complex feasible matrix with its coefficient conjugate preserves feasibility and the objective; the real restriction does not change the infimum.
 The existing [finite prediction values](Yin_L_F0005_v1.md#scalar-capacity-prediction) are likewise upper values.
 Their original proof and source limits are reused, not registered anew as an SDP result.
-For the zero coefficient column, the capacity is0 under F109's explicit zero branch; no logarithmic Mahler measure of the zero polynomial is used.
-F109's local mathematical proof and its actual whole review do not close its separately recorded missing original-theorem-body attribution for the maximum-first-Gram-entry literature.
+For the zero coefficient column, the capacity is0 under L_F5's explicit zero branch; no logarithmic Mahler measure of the zero polynomial is used.
+L_F5's local mathematical proof and its actual whole review do not close its separately recorded missing original-theorem-body attribution for the maximum-first-Gram-entry literature.
 No complete audit of that external source chain is asserted here.
 
 The earlier bounded interface screen found the actual inner-factor endpoint, coefficient and finite-lag distinctions in [L101](Yin_L_G0101_v1.md#endpoint-row-hardy-closure) and [L264](Yin_L_G0264_v1.md#exact-blaschke-two-moment-budget), and the prediction-normalizer/cokernel denominator costs in [L363](Yin_L_G0363_v1.md) and [L364](Yin_L_G0364_v1.md).
@@ -52,7 +52,7 @@ This alone says nothing that reverses the infimum in(1).
 Restricting H to a denominator grid or to integral matrices makes an infimum LARGER, so its value cannot be used as a lower bound for the unrestricted capacity.
 
 The exact cyclotomic diagnostic is P=1-z, a=(1,-1).
-It is the same F109 boundary input, not a new hard-core counterexample.
+It is the same L_F5 boundary input, not a new hard-core counterexample.
 For each integer t>=2 set
 
     h=t, w=t-1/2-1/(4t),
@@ -71,7 +71,7 @@ The leastness follows because w's numerator4t^2-2t-1 is odd and congruent to-1 m
 This is an explicit finite rational family, not a numerical limiting calculation.
 Every objective exceeds1 and tends to1, while M(1-z)^2=1.
 
-If one restricted to INTEGRAL feasible H, its objective would be an integer strictly greater than1 by F109 nonattainment; it is therefore at least2.
+If one restricted to INTEGRAL feasible H, its objective would be an integer strictly greater than1 by L_F5 nonattainment; it is therefore at least2.
 H=I attains2.
 Thus that restricted infimum is EXACTLY2, although the true capacity is1.
 The arithmetic grid would manufacture a false gap if its optimization direction were reversed.
@@ -107,7 +107,7 @@ Every sequence of duals with bounded J consequently has kappa tending to infinit
 This is a direct restatement at a checked analytic interface, not a new arithmetic obstruction or a proof that the hypothetical sequence exists or is impossible.
 
 Bounded scalar size, a small numerical residual and a finite Toeplitz dimension do not establish the metric condition.
-In particular F109 nonattainment at circle zeros prevents silently replacing a sequence of increasingly singular duals by one bounded positive minimizer.
+In particular L_F5 nonattainment at circle zeros prevents silently replacing a sequence of increasingly singular duals by one bounded positive minimizer.
 The unrelated integral G-self-adjoint condition of L23 is not supplied by this H.
 
 <a id="auxiliary-dual-bridge-still-unclosed"></a>
@@ -245,7 +245,7 @@ Draft_comparison_cleanup derived and checked the original-polynomial discriminan
 This is author-level synthesis, not an independent review of that new comparison.
 The comparison author supplied no construction or proof correction to C198.
 This comparison was first written while C198 was pending.
-The actual [C198v1 statement](../claims/Yin_C_G0198_v1.md#statement) is now adopted by its [whole-reviewed decision](../claims/Yin_C_G0198_v1.md#decision-whole-reviewed-2026-10-20) through R626, so its quantitative conclusion supplies the fixed input(IG1).
+The actual [C198v1 statement](../claims/Yin_C_G0198_v1.md#statement) is now adopted by its [whole-reviewed decision](../claims/Yin_C_G0198_v1.md#decision-whole-reviewed-2026-10-20) through R480, so its quantitative conclusion supplies the fixed input(IG1).
 No mutable draft is a logical input, and no mathematical program, parameter scan, new finite-degree cutoff or new source acquisition is used.
 
 ### Original domain and the exact adopted input

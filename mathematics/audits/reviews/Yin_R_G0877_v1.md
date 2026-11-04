@@ -43,8 +43,8 @@ The reviewer did not modify the target, C/T/E/S, shared indices, old mathematica
 | [Whole finding](#whole-trace-shift-annular-failure-finding) | [C654 complete finite compositions](../../claims/Yin_C_G0654_v1.md#statement) | Every h(chi) belongs to the original G_r at every finite depth, with all-order support and no global-factor or degree substitution. |
 | [Whole finding](#whole-trace-shift-annular-failure-finding) | [C657 annular character and witness](../../claims/Yin_C_G0657_v1.md#statement) | Exact Pi_r, dimension5N-1 dyadic annular norm kernel, completed w_N with Pi(w_N)=N/2 modulo N, and equality G_r=ker Pi_r only for1<=r<=32. |
 | [Whole finding](#whole-trace-shift-annular-failure-finding) | [C657 actual adopted decision](../../claims/Yin_C_G0657_v1.md#decision-whole-reviewed-2026-10-24) | Existing fixed conductor/lifting theorem and exact small-depth equality, not a uniform full-group converse. |
-| [Whole finding](#whole-trace-shift-annular-failure-finding) | [Prior C682 review](Yin_R_G0866_v1.md#whole-density-refined-finite-character-finding) | Accepted composition and norm-character interfaces at their precise physical scope and source limits. |
-| [Whole finding](#whole-trace-shift-annular-failure-finding) | [Prior C685 review](Yin_R_G0872_v1.md#whole-optimal-conductor-kernel-lifting-finding) | Accepted completed witness, all-lift/annular dimensions and N<=32 consequence only; no prospective coverage of the new J_N or ratio identities. |
+| [Whole finding](#whole-trace-shift-annular-failure-finding) | [Prior C654 review](Yin_R_G0866_v1.md#whole-density-refined-finite-character-finding) | Accepted composition and norm-character interfaces at their precise physical scope and source limits. |
+| [Whole finding](#whole-trace-shift-annular-failure-finding) | [Prior C657 review](Yin_R_G0872_v1.md#whole-optimal-conductor-kernel-lifting-finding) | Accepted completed witness, all-lift/annular dimensions and N<=32 consequence only; no prospective coverage of the new J_N or ratio identities. |
 
 <a id="whole-trace-shift-annular-failure-finding"></a>
 ## Whole finding
@@ -252,7 +252,7 @@ C654/C657 and their prior independent findings are reused only at the inspected 
 C657's N<=32 equality is used solely for the explicitly bounded small-depth complete-member conclusion.
 No earlier J period is declared minimal or extended to a sharper predivision quotient, and no old native output is rerun.
 
-The C197/C199 ancestry retains its existing Smy08/Bel17 source limits and all historical SELF/UNKNOWN relationships, including R635/R638 unknown initial-context boundaries.
+The inherited C197/C199 Smy08/Bel17 source limits and historical SELF/UNKNOWN relationships remain at their actual scopes, including R477's C197v3 and R489's separate C199v3/v4 UNKNOWN initial-context findings; no later physical input inherits a broader finding.
 No classical original proof was reacquired or fully re-audited.
 No native or formal-proof-assistant execution, new all-depth converse, original realization, adoption or unrestricted Task-completion finding is claimed.
 The main agent separately maintains the R index and decides whether to adopt this exact finding.

@@ -8,15 +8,15 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: [Pet20](https://math.vanderbilt.edu/peters10/teaching/spring2020/OperatorAlgebras.pdf), Jesse Peterson, *Notes on operator algebras*, edition dated 27 April 2020, 150 PDF pages, author university teaching site. The bounded artifact download timed out; no local PDF is asserted.
+Source edition: [Pet20](https://math.vanderbilt.edu/peters10/teaching/spring2020/OperatorAlgebras.pdf), Jesse Peterson, *Notes on operator algebras*, edition dated 27 April 2020, 150 PDF pages, author university teaching site. At the original 2026-10-10 reading stage, the bounded artifact download timed out and no local PDF was retained.
 
 Passages: Proposition1.1.6 and its statement context, printed/PDF pp.7-8; Exercise1.1.14, printed/PDF p.10; Theorem3.3.1 and the immediately following compact-ideal statement, printed/PDF p.41.
 
 Inspection: On 2026-10-10, the orbit-research AI for Yin directly text-read the identified online title/date, statements and surrounding conventions. The standard statements and applicability are accepted for the local argument. The proofs and their analytic foundations were not independently re-audited; no whole-notes audit or formal check was performed.
 
 
-The source/inspection table records the original2026-10-10online reading and then-failed bounded acquisition.
-The later2026-10-14retained copy and holding are; they do not replace the original inspected-source identity, claim byte equivalence or add a new source-proof inspection.
+The source and inspection account above records the original2026-10-10online reading and then-failed bounded acquisition.
+The later2026-10-14retained [copy](../../../literature/pdf/Pet20.pdf) does not replace the original inspected-source identity, claim byte equivalence or add a new source-proof inspection.
 
 ## Accepted statements and local application
 
@@ -38,5 +38,6 @@ No later representation, factor, free-probability or von Neumann algebra result 
 There is no priority claim.
 The local polynomial support and original-law probability arguments are new deductions in D37 and are not attributed to Pet20.
 
-The acquisition failure limits local availability, not the directly inspected statement identity.
+The acquisition failure limited local availability at the original reading stage, without changing the directly inspected statement identity.
+The later retained-copy fact above removes that earlier availability limit without expanding the proof inspection.
 No follow-up download queue, independent source-proof review or Lean audit is asserted.

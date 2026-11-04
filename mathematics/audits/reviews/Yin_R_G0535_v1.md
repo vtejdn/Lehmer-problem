@@ -134,12 +134,14 @@ The author developed and checked the entire direct group adaptation and rate app
 <a id="historical-fair-group-coordinator-finding"></a>
 ## Original L89 coordinator contribution and whole check
 
-The explicit noninjective pushforward extension is an actual mathematical contribution to this target. The subsequent full collaborator check is self-review, without upgrading the separately recorded source inspection.
+The explicit noninjective pushforward extension is an actual mathematical contribution to this target.
+The subsequent full collaborator check is self-review, without upgrading the separately recorded source inspection.
 
 <a id="historical-fair-group-whole-finding"></a>
 ## Original L89 separate whole check
 
-The complete check and its source limits are real, but the initial substantive author/reviewer context is unestablished and no same-target contribution is specified. The old independent wording alone does not certify isolation, so this exact finding remains unknown.
+The complete check and its source limits are real, but the initial substantive author/reviewer context is unestablished and no same-target contribution is specified.
+The old independent wording alone does not certify isolation, so this exact finding remains unknown.
 
 <a id="historical-thinning-author-finding"></a>
 ## Original L90 author whole check
@@ -149,27 +151,32 @@ The coordinator derived and self-checked the whole target theorem, so this autho
 <a id="historical-thinning-assess-whole-finding"></a>
 ## Original L90 separate assessment whole check
 
-The complete actual check is recorded, but sufficient initial substantive-context facts are not. The fixed input and its old source-review label alone establish neither isolation nor a new-target contribution, so the relationship remains unknown.
+The complete actual check is recorded, but sufficient initial substantive-context facts are not.
+The fixed input and its old source-review label alone establish neither isolation nor a new-target contribution, so the relationship remains unknown.
 
 <a id="historical-thinning-source-whole-finding"></a>
 ## Original L90 source-agent whole check
 
-Earlier authorship of the fixed accepted source/group input is not a contribution to this new thinning proof. Absence of a new-target contribution does not itself establish initial isolation, so the exact actual whole finding remains unknown.
+Earlier authorship of the fixed accepted source/group input is not a contribution to this new thinning proof.
+Absence of a new-target contribution does not itself establish initial isolation, so the exact actual whole finding remains unknown.
 
 <a id="historical-height-one-author-finding"></a>
 ## Original L91 author whole check
 
-The author checked its full direct new norm-grid/effective-cutoff/tradeoff argument, so the complete author finding is self-review. The exact review_matrix own-grid contribution is additionally retained at its original R24 scope, without inventing authorship of any other uncredited argument.
+The author checked its full direct new norm-grid/effective-cutoff/tradeoff argument, so the complete author finding is self-review.
+The exact review_matrix own-grid contribution is additionally retained at its original R24 scope, without inventing authorship of any other uncredited argument.
 
 <a id="historical-height-one-assess-whole-finding"></a>
 ## Original L91 separate assessment whole check
 
-The complete actual proof check is retained, but initial substantive context is unestablished. Its grid-input coverage overlaps the input check reported by the later L92/R24 account; no additional checking occurrence is invented, and no old independent wording alone certifies this full finding.
+The complete actual proof check is retained, but initial substantive context is unestablished.
+Its grid-input coverage overlaps the input check reported by the later L92/R24 account; no additional checking occurrence is invented, and no old independent wording alone certifies this full finding.
 
 <a id="historical-height-one-coordinator-whole-finding"></a>
 ## Original L91 coordinator whole check
 
-The actual full written check is reported, without sufficient initial substantive-context facts or a specific new-target mathematical contribution. It remains unknown rather than inferred self or independent.
+The actual full written check is reported, without sufficient initial substantive-context facts or a specific new-target mathematical contribution.
+It remains unknown rather than inferred self or independent.
 
 ## Complete original L89 checking account
 

@@ -119,7 +119,7 @@ The native [verify.py](verify.py) reproduction command is:
 
 It requires this J's complete author result and execution record, and refuses incomplete or negative branches.
 The complete [R418 whole independent finding](../../../audits/reviews/Yin_R_G0418_v1.md#rank-seven-mod-four-whole-independent-finding) checks this final finite account and all declared evidence boundaries.
-Root adopted that reviewed positive scope in S1/S3/S6; the subsequent [L412 analytic two-adic continuation](../../../ledger/Yin_L_G0412_v1.md#two-adic-complete-realization) has its own separate R565 and is not folded into this finite computation.
+Root adopted that reviewed positive scope in S1/S3/S6; the subsequent [L412 analytic two-adic continuation](../../../ledger/Yin_L_G0412_v1.md#two-adic-complete-realization) has its own separate R419 and is not folded into this finite computation.
 
 ## Reproducing reviewed runs
 

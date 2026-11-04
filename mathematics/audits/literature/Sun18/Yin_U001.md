@@ -76,6 +76,7 @@ The separate original R_G399 reviewer directly text-read the published Sun18 int
 This is distinct from loglog_cyclic_review's original source-author reading retained above.
 Only the actual relative-unit/deleted-place definition, ordinary-ratio identity and distinct high-rank intersection theorem statement/applicability were inspected; its analytic proof and the original Costa--Friedman/Friedman--Skoruppa proofs remain outside that scope.
 The [original complete R_G399 account](../../reviews/Yin_R_G0399_v1.md#salem-regulator-whole-independent-finding) records this distinct occurrence.
-No separate individual source-reading minute is supplied;21:52 is the original2026-10-18 whole-finding completion and21:12 is the existing source-document date, neither a replacement reading minute.
-The original21:14 L400 document and21:54 S1 adoption are also distinct events.
+No separate individual source-reading minute is supplied.
+The matching retained records date R399 whole-finding completion at 2026-10-18T13:52 UTC, the source documents at 13:12 UTC and L400 at 13:14 UTC.
+The earlier 21:52/21:12/21:14 descriptions express those events at UTC+08; they supply no reading minute, and the strategy adoption is a separate event.
 This maintenance reads the adequate existing U and retains the original occurrence; it claims no new PDF passage, acquisition, source version or original proof audit.

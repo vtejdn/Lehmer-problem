@@ -73,7 +73,7 @@ On each open piece the explicit integration-by-parts proof gives4/(k lambda), wi
 Deleted arcs cost at most Lr/pi even when overlapping; r=k^(-1/(M+1)) yields exactly the stated a,K_P and min with one.
 No uniform critical multiplicity or separation is assumed.
 The positive a gives absolute summability and a uniform-in-rho tail K_P N^(-a)/a.
-The same epsilon-independent rational moments from C382, its scalar/rho limits and integrable polynomial logarithm then give the complete unregularized equality, absolute finite error and lower direction.
+The same epsilon-independent rational moments from C379, its scalar/rho limits and integrable polynomial logarithm then give the complete unregularized equality, absolute finite error and lower direction.
 No evaluation of those moments, algebraic root-data certification or practical complexity is claimed.
 
 For each P_n=(1+z)^(2n)+z^n, full derivative substitution proves squarefreeness and the positive actual circle amplitude gives no circle zeros.

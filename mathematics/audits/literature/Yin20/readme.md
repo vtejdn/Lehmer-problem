@@ -11,7 +11,6 @@ Goal: [Yin20 inner-rank source audit](#yin20-inner-rank-source-audit), explicitl
 The source has 109 PDF pages, with printed Arabic pages offset by ten PDF pages.
 The requested Chapter III covers printed pp. 37-48 / PDF pp. 47-58; Chapter IV covers printed pp. 49-62 / PDF pp. 59-72.
 The chapter boundary and all subsection headings were checked against the table of contents and actual pages.
-Source.
 No source PDF is edited or replaced.
 
 Current state, 2026-09-10: all 26 assigned pages have been read, their mathematical arguments reconstructed, and all three new units independently reviewed.
@@ -64,7 +63,8 @@ The complete independent proof review owns the exact inspected argument and acce
 
 For general jointly dependent functions, the source audit supplies no implication from bounded scalar affiliated output to a bounded inverse representation.
 The same-ambient requirement persists through Schur complements, linearization and the division-ring closure theorem.
-The earlier Yin_C_F0012 counterexample and the reviewed Yin_C_F0025-Yin_C_F0027 statements are unchanged; the general small-core converse remains open under Yin_S_F0011.
+The earlier account reports a counterexample under former Yin_C_F0012 and reviewed statements under former Yin_C_F0025--Yin_C_F0027; their original fixed proof/review homes remain unlocated in the current retained F-family collection.
+Those reports supply no currently reusable project obstruction or reviewed theorem here; the general small-core converse remains open.
 
 ## Goal Completion Review
 
@@ -111,7 +111,7 @@ Read every page in this interval, reconstruct the arguments and their hypotheses
 The earlier Yin20-U001 definition audit remains a separate preserved record.
 
 Pay particular attention to same-ambient inversion, Schur complements, rank factorizations, rational-expression domains, linear representations, and rational versus division closure.
-Reconsider the proposed bounded inverse representation inference against the actual thesis proofs and the existing counterexample, rather than assuming either previous assessment settles the new source review.
+Reconsider the proposed bounded inverse representation inference against the actual thesis proofs and the earlier reported counterexample, whose original project proof remains unlocated, rather than assuming either previous assessment settles the new source review.
 After the chapter audit, use its mechanisms in a fresh attempt on the small-core dual criterion under the existing Yin_T_F0001 authorization.
 
 ### Completion Criteria
@@ -144,42 +144,6 @@ Artifact-consistency checks are recorded in the current status independently of 
 - 2026-09-10: registered the explicit two-chapter audit and subsequent research attempt; work in progress.
 - 2026-09-10: completed the original source-study contract after all three source units and the new Yin_C_F0028 proof passed complete independent review; the remaining general research belongs to the still-active Yin_T_F0001.
 
-<a id="decision-candidate-0001"></a>
-<a id="decision-candidate-0002"></a>
-<a id="decision-candidate-0003"></a>
-<a id="decision-candidate-0004"></a>
-## Historical recorded completion
-
-The four historical publications `Yin20 inner-rank source audit_v1` through `Yin20 inner-rank source audit_v4` retain one unchanged source-audit disposition: **completed within the original assignment scope**.
-The substantive inspection and completion dates remain those stated in the audit and contract above.
-The record registration time is 2026-09-14T01:14; it is not a new inspection or inferred historical completion date.
-
-Recorded by: Yin.
-Recorded event: 2026-09-14T01:14.
-Original transition: no prior recorded disposition to `completed`.
-No resumption condition was recorded.
-
-Contract: [original audit assignment, physical v1](#historical-contract-v1).
-Selected completion evidence: [Completion review](#goal-completion-review).
-Covered materials are this source audit and that assignment.
-Original reviewed publication: `Yin20 inner-rank source audit_v1`.
-The evidence basis is the recorded completion review; its actual inspection relationship and limitations remain in the review itself.
-No separately declared fixed dependencies or independent review classification is invented.
-
-Recorded scope: The original completion criteria and limitations in the cited completion comparison for Yin20 inner-rank source audit.
-Preserve recorded lifecycle and completion evidence; historical review classification is not inferred.
-
-Recorded reason: Preserve the completed disposition already recorded at registration; this timestamp is registration, not an inferred historical completion date.
-
-Recorded authority: initial recorded disposition in `Yin20 inner-rank source audit_v1`, preserving the [original assignment and criteria](#historical-contract-v1).
-This is a historical account of the retired registration, not a new audit-task lifecycle.
-
-| Historical publication | Recorded update | Meaning of the recording |
-| --- | --- | --- |
-| `Yin20 inner-rank source audit_v1` | 2026-09-14T02:10 | Yin, 2026-09-14T01:14: registration |
-| `Yin20 inner-rank source audit_v2` | 2026-09-14T04:01 | Yin, 2026-09-14T04:01: Register previously selected proof/review support; verified legacy correspondence, no new mathematical audit |
-| `Yin20 inner-rank source audit_v3` | 2026-09-14T14:42 | Yin, 2026-09-14T14:42: Approved framework separation: relocate mathematical material and rebase local documentation locators; preserve mathematics, assessments and historical evidence. |
-| `Yin20 inner-rank source audit_v4` | 2026-09-15T08:24 | Yin, 2026-09-15T08:24: Separate execution metadata from existing Task bodies; preserve mathematical contracts, lifecycle, historical evidence and prior review classification. |
 
 <a id="presentation-observations"></a>
 ## Definition and explanatory-remark observations

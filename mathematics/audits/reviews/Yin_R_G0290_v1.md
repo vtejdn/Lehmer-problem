@@ -6,9 +6,10 @@ author: Yin
 Date: 2026-10-12T12:31.
 Human record author Yin.
 Separately organized actual Claim review by g0001_routes.
-Root authored original D23 and its literal correction. g0001_review_recovery whole-reviewed it in R287/R288 and then authored the actual C67 wrapper.
+Root authored original D23 and its literal correction.
+g0001_review_recovery whole-reviewed it in R287/R288 and then authored the actual C67 wrapper.
 This reviewer contributed neither new D23 mathematics nor C67 wording.
-The reviewer did author the earlier C63 extraction wrapper after reviewing its original D18; C63 has a different accepted actual review R375.
+The reviewer did author the earlier C63 extraction wrapper after reviewing its original D18; C63 has a different accepted actual review R280 v1.
 That ancestor contribution is disclosed, and no independent re-review of this reviewer's own C63 wrapper is claimed.
 D23's lower-threshold and matrix arguments are reconstructed locally here, not presumed from C63's verdict.
 
@@ -125,7 +126,8 @@ Therefore p0=1 and P*=t^-dP.
 Dividing by the nonzero Laurent factor t^-dP gives epsilon[t^jQ_0*+t^(d-j)Q_0]+P A=0 with the stated shifts.
 The first bracket has at most2r positions, including overlapping intervals, j endpoints or j>d and negative Laurent exponents.
 For every original k-isolated i, coefficient_i(P A)=p_iA0: any other term would need a nonzero P coefficient within distance k, since support(A) lies in[-k,k].
-A0>0, so these h>=16r>2r DISTINCT coefficients cannot be canceled by the bracket. k-isolation, not2k-isolation, is exactly what this convolution uses.
+A0>0, so these h>=16r>2r DISTINCT coefficients cannot be canceled by the bracket.
+k-isolation, not2k-isolation, is exactly what this convolution uses.
 
 This contradiction eliminates all corrections.
 Each normalized row is therefore a genuine signed monomial polynomial row, not merely monomial-valued at alpha.

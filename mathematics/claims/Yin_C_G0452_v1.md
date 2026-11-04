@@ -291,7 +291,7 @@ Concatenating with (6) gives constants A'_beta,B'_beta such that every x in N ha
 Conversely this universal assertion plainly implies compact termination.
 The fixed [complete original-Lehmer theorem](Yin_C_G0399_v1.md#lehmer-infinite-core-theorem) satisfies beta<phi and already has complete narrow-domain co-return, so (7) applies unconditionally to that specific degree-ten input.
 It improves its earlier coarser O(rho^2 log(1+rho)) chosen-word estimate without changing the fixed proof or its retained computations.
-The quartic input retained in C399 lies above phi and is not included by the present use of C428; no extension to it is claimed.
+The quartic input retained in C396 lies above phi and is not included by the present use of C428; no extension to it is claimed.
 
 The linear order is optimal as a deterministic dependence on neutral radius whenever returning states have unbounded radius.
 Along a word of length n, each digit changes the neutral norm by at most sqrt(s) after rotation.

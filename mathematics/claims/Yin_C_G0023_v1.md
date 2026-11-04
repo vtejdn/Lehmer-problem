@@ -108,7 +108,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T21:33 |
 | status | proved |
-| reason | Adopt the separately assigned isolated complete mathematical inspection of this actual fixed statement and entire selected argument. Its recorded initial finding preceded all old target verdicts and substantive target-development context was not shared. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
+| reason | Adopt the separately assigned complete mathematical inspection of this actual fixed statement and entire selected argument at its actual SELF relationship. Its recorded initial finding preceded old target verdict comparison, but the initial fixed argument included completed author-validation conclusions beyond the necessary mathematical derivation. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -116,7 +116,7 @@ The recorded review description was `under review`.
 | argument | [Argument](#argument) | COMPLETE03:42 D19 Sections1--9/equations1--9 plus the complete new local coefficient-only escape bridge below; no necessary proof remains in a rolling draft. |
 | dependency | [Dependency](Yin_C_G0018_v1.md#statement) | Adopted unconditional finite upper/lower capacity inequality and complete complex-scaled original-root Gram identity; includes its exact C17/Sch09 resolved inputs and inspection limits. |
 | dependency | [Dependency](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Original rational packet norms/resultants, final weights and actual support width for the weighted income estimate, without reciprocal lifting or small-height assumptions. |
-| review | [Isolated complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-effective-capacity) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial independent reconstruction precedes old target verdict comparison. |
+| review | [Complete current SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-effective-capacity) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial direct reconstruction precedes old target verdict comparison. |
 
 ## Argument
 

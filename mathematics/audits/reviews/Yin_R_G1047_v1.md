@@ -133,7 +133,7 @@ No previous R verdict was used as a substitute for the reasoning checked here.
 
 The target's deductions are explicit finite-word algebra, positivity, elementary compactness and the selected fixed input limits.
 No missing external theorem premise or new source attribution obligation was identified within those deductions.
-The historical mechanism references to C408/C703 and comparison references to C612/C852 do not supply a missing proof step in RE1--RE10.
+The historical mechanism references to C405/C673 and comparison references to C593v2/C806 do not supply a missing proof step in RE1--RE10.
 Their separate theorems were not re-reviewed, and no priority or exhaustive novelty conclusion is made.
 There was no external source-proof audit, formal verification, native certificate replay or new numerical computation.
 Structural registration checks, if passed, establish declarations and locators only.

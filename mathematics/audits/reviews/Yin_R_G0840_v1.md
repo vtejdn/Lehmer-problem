@@ -39,7 +39,7 @@ No target, Task, execution, strategy or shared-index material was edited.
 | [Whole finding](#whole-laurent-a10-finding) | [Parity applicability](../../claims/Yin_C_G0609_v2.md#argument) | Complete AP8 multiplicities and normalized derivative interface checked at A_0=10. |
 | [Whole finding](#whole-laurent-a10-finding) | [Prior original range](../../claims/Yin_C_G0630_v1.md#statement) | Adopted even A_0>=10 range on exactly this domain, used only after the new proof excludes10; no earlier finite certificate imported into LS1--LS9. |
 | [Whole finding](#whole-laurent-a10-finding) | [Integer/reduced degree interface](../../claims/Yin_C_G0199_v2.md#statement) | Inherited zero-Haar lc(G)=+/-1 and deg R_G=w for the stated exact original costs. |
-| [Whole finding](#whole-laurent-a10-finding) | [Prior C655 review](Yin_R_G0833_v1.md#whole-a8-classification-and-squaring-finding) | Existing independent evidence only for the adopted C630 original range and its preserved source/native limits; no new coverage borrowed. |
+| [Whole finding](#whole-laurent-a10-finding) | [Prior C630 review](Yin_R_G0833_v1.md#whole-a8-classification-and-squaring-finding) | Existing independent evidence only for the adopted C630 original range and its preserved source/native limits; no new coverage borrowed. |
 | [Whole finding](#whole-laurent-a10-finding) | [Prior parity review](Yin_R_G0812_v1.md#whole-trace-parity-finding) | Accepted exact C609v2 parity interface with its historical predecessor/source limitations unchanged. |
 
 <a id="whole-laurent-a10-finding"></a>

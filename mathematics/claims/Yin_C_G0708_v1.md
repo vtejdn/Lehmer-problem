@@ -158,7 +158,7 @@ Only the later first-error KERNEL source phi^(4A) preserves the entire second lo
 
 ### LF3. An exact attainable first-preserving second-low image
 
-Start with a complete actual C702/C733 factor input of the same degree d, now satisfying F16 and X8, with J_3|K and J_2|W over Z and h>=34A.
+Start with a complete actual C702/C699 factor input of the same degree d, now satisfying F16 and X8, with J_3|K and J_2|W over Z and h>=34A.
 Choose an integer N with ACTUAL factor J_2X^(3A), and put
 
     T_1=T+4Phi^(15A/2)N, n=Nbar.
@@ -261,14 +261,14 @@ The uncorrected trace pullback preserves Mahler measure, but the actual16V corre
 
 Use the complete [C707 source theorem](Yin_C_G0707_v1.md#statement) and its [whole actual proof](Yin_C_G0707_v1.md#argument), which were read at their fixed physical version.
 Its hypotheses are exactly LF0a at the selected original q>=8192.
-The proof uses the ORIGINAL C733 initial4A root, with no alternative stronger initial-root construction.
+The proof uses the ORIGINAL C699 initial4A root, with no alternative stronger initial-root construction.
 In the actual unit quotient modulo phi^(8A), writing k_0^11/(H_0C_0^2)=1+delta with ord_phi delta>=4A gives
 
     (1+delta)^6=1+delta^2+delta^4+delta^6=1,
     (k_0^6/C_0^3)^11=H_0^6/C_0^21=1.
 
 The local unit-group order is coprime to11, so k_0^6=C_0^3 modulo phi^(8A).
-The C707 proof then uses the ACTUAL C702 halves M_+bar=0 and M_-bar=rem_(phi^A)(k_0^6), not binary division, in the complete eta.
+The C707 proof then uses the ACTUAL C672 halves M_+bar=0 and M_-bar=rem_(phi^A)(k_0^6), not binary division, in the complete eta.
 It obtains
 
     eta_+=phi^(2A)k_0^2, eta_-=0 modulo phi^(3A),

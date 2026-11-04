@@ -270,7 +270,7 @@ The recorded review description was `unreviewed`.
 | date | 2026-10-20T15:45 |
 | status | proved |
 | authority | Internal adoption of the bounded logarithmic-cost calibration within Yin's retained D36 inquiry. |
-| reason | Adopt the complete prime-cyclotomic TC1--TC10 control through actual whole independent R484. The actual H35 coefficient energy diverges while its normalized Haar logarithm has the stated uniform negative upper bound. All three original quotient polynomials and Q_s vanish, so the input is torsion and supplies no nontorsion or nonzero-original-norm counterexample. Every sparse coefficient, cross term, removable factor, logarithmic zero and scalar is retained. The original varying-input transfer remains unresolved. |
+| reason | Adopt the complete prime-cyclotomic TC1--TC10 control through actual whole R484 at its explicitly unknown relationship. The actual H35 coefficient energy diverges while its normalized Haar logarithm has the stated uniform negative upper bound. All three original quotient polynomials and Q_s vanish, so the input is torsion and supplies no nontorsion or nonzero-original-norm counterexample. Every sparse coefficient, cross term, removable factor, logarithmic zero and scalar is retained. The original varying-input transfer remains unresolved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

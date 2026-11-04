@@ -133,11 +133,14 @@ Otherwise a bounded subsequence would violate the same positive lower bound.
 This necessary escape neither supplies the certificates nor proves the unrestricted original Mahler-gap objective.
 
 **E. Source and remaining scope.**
-GW21-U001 is the sole new external mathematical premise; its actual published theorem is accepted at statement/applicability scope, with no retained local PDF and no complete original proof audit.
+GW21-U001 is the sole new external mathematical premise; its actual published theorem is accepted at statement/applicability scope, with no local PDF retained at that original reading stage and no complete original proof audit.
+The later retained-copy and 2026-10-14 selected theorem/setup comparison are recorded in [GW21-U001](../audits/literature/GW21/Yin_U001.md#gw21-u001); they do not expand that original proof inspection.
 The finite weighted adaptation, global scale factor, residual split and original-norm transfer are the project's complete arguments below.
 Gou and the Annals paper are screened context only.
 The alternative fractional-lcm-moment inequality remains unproved and unused.
-The general fixed-positive-density capture without a scale loss, automatic near-one coverage, unrestricted positive Mahler gap and a zero-gap family remain unresolved.
+The later [C142 v2](Yin_C_G0142_v2.md#statement) proves capture without scale loss for the subclass w_a<=phi(a), using its separately adopted weak-moment argument.
+This Claim's published-statement-based adaptation still pays its stated scale factor, and the broader w_a<=a domain is not settled by that subclass result.
+Automatic near-one coverage, the unrestricted positive Mahler gap and a zero-gap family remain unresolved.
 
 ## Current assessment
 [Selected decision](#decision-current-actual-product-proof-homes)

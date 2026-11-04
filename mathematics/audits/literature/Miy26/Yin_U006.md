@@ -168,6 +168,8 @@ They also check the determinant and Schur identities consumed by U007.
 The analytic implications above are mathematical arguments, not consequences of the finite tests.
 
 The circular-section agent independently read this unit and U007, inspected the source renders on pp. 18-21, read the retained script, and reproduced its 14,355 stated finite checks on 2026-09-08.
+The native program and exact J locator for the historical 14,355-item check have not been located in the selected current computation index/program metadata.
+The recorded result and rerun scope remain historical evidence; reproducing them requires that native input, and no new run or claim that the original program never existed is made.
 That review found no unresolved issue in the formal-to-analytic construction, conjugation conventions, or declared finite-dimensional criterion.
 This is an independent AI cross-review, not external human review.
 

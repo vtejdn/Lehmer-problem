@@ -11,7 +11,7 @@ The reviewer supplied no new proof step, repair, constant, path construction or 
 
 The reviewer authored the earlier C170 construction and J106 author program with root's stated contributions.
 Those upstream objects are NOT independently re-reviewed by their author here.
-Their independently checked analytic and complete finite scopes are reused through loglog_cyclic_review's actual R556 and R412, with the exact interfaces read again for this application.
+Their independently checked analytic and complete finite scopes are reused through loglog_cyclic_review's actual [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) and R412, with the exact interfaces read again for this application.
 The reviewer earlier independently reviewed C169; that original collision interface is reused at its accepted scope.
 
 The arrangement is non-blind: the complete author-ready draft, author checks, contribution declarations and root's scope messages were visible.
@@ -19,7 +19,11 @@ The reviewer reconstructed all20 new formulas and read the actual input interfac
 Only redundant draft/author-check process was omitted during retention; no standalone theorem wrapper or mathematical repair was authored by the reviewer.
 There was no mathematical program, new native input, enlarged graph scan or original external-source proof audit.
 
-Current whole-relationship clarification, recorded 2026-10-22T04:08: the distinct reviewer supplied no new bulk-carry proof step and its authorship of fixed C170/J106 does not make it a contributor to this target. Directly reading the completed target, author checks and necessary fixed upstream findings is legitimate; the non-blind label is not the reason for a relationship change. The retained account identifies those fixed readings and visible root scope messages but does not establish the additional inherited target-development contents, if any, or their order before the initial findings. The isolated-context relationship of the entire original whole is genuinely unestablished and is kept unknown, without asserting actual substantive sharing or self-review. The original23:46 input,23:47 finding, all20-formula mathematics, complete bindings, actual finite/source/clock limits and dates remain unchanged.
+Current whole-relationship clarification, recorded 2026-10-22T04:08: the distinct reviewer supplied no new bulk-carry proof step and its authorship of fixed C170/J106 does not make it a contributor to this target.
+Directly reading the completed target, author checks and necessary fixed upstream findings is legitimate; the non-blind label is not the reason for a relationship change.
+The retained account identifies those fixed readings and visible root scope messages but does not establish the additional inherited target-development contents, if any, or their order before the initial findings.
+The isolated-context relationship of the entire original whole is genuinely unestablished and is kept unknown, without asserting actual substantive sharing or self-review.
+The original23:46 input,23:47 finding, all20-formula mathematics, complete bindings, actual finite/source/clock limits and dates remain unchanged.
 
 ## Review relationships
 
@@ -41,7 +45,7 @@ Current whole-relationship clarification, recorded 2026-10-22T04:08: the distinc
 | [Whole bulk-carry finding](#bulk-carry-whole-independent-finding) | [Partial paths and full words](../../ledger/Yin_L_G0409_v1.md#partial-path-weighted-carry-target) | Ordered product pairs, actual conductances and repeated traversals, bad mass2epsilon, endpoint energy and every word-fiber residual in coefficient4max(1,A)+2. |
 | [Whole bulk-carry finding](#bulk-carry-whole-independent-finding) | [Source and next target](../../ledger/Yin_L_G0409_v1.md#bulk-carry-source-and-boundaries) | RW01 terminology-only use, actual unproved all-late path load, no new computation and complete contribution boundary. |
 | [Whole bulk-carry finding](#bulk-carry-whole-independent-finding) | [Exact input table](../../ledger/Yin_L_G0409_v1.md#bulk-carry-fixed-inputs) | All eight input/comparison rows and their retained scope. |
-| [Whole bulk-carry finding](#bulk-carry-whole-independent-finding) | [C170 original theorem](../../claims/Yin_C_G0170_v1.md#statement) | Author-owned upstream conditional expectations and true midpoint energy at b=2; reused through separate R556, not independently re-proved here. |
+| [Whole bulk-carry finding](#bulk-carry-whole-independent-finding) | [C170 original theorem](../../claims/Yin_C_G0170_v1.md#statement) | Author-owned upstream conditional expectations and true midpoint energy at b=2; reused through separate [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding), not independently re-proved here. |
 | [Whole bulk-carry finding](#bulk-carry-whole-independent-finding) | [C170 weighted reduction](../../claims/Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix) | Original endpoint multiplicities, full-tail residual annihilation, rational two-step kernel and component correspondence. |
 | [Whole bulk-carry finding](#bulk-carry-whole-independent-finding) | [C170 exact marks](../../claims/Yin_C_G0170_v1.md#four-digit-overlap-exact-marks) | Actual middle basis and midpoint used by the normalized graph formula. |
 | [Whole bulk-carry finding](#bulk-carry-whole-independent-finding) | [Independent upstream analytic finding](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Existing whole C170 review and all source/clock/domain limits. |

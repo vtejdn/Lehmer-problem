@@ -131,7 +131,7 @@ Thus A_K=0 and L_Q(r_K,s_K)=g_(epsilon,Q) exactly preserve F8 and cancel the low
 
 ### C. Exact one-input ambient computation and its separator
 
-Let Q_* and K_* be the fixed words in adopted C867, and Q_0=Q_*K_*.
+Let Q_* and K_* be the fixed words in adopted C821, and Q_0=Q_*K_*.
 Let L be the exact126-term positive kernel word specified in [adopted C823](Yin_C_G0823_v1.md#decision-whole-reviewed-2026-10-26), with Xi_16(L)=1.
 Take the LITERAL264-term product Q_1=Q_0L, with all original integer exponents/q values retained.
 Its full binding is the [retained actual word](../computations/programs/Yin_J_G0132/inputs/full_eighth_positive_product_word.json) selected by C823.
@@ -290,7 +290,7 @@ No independently specified local triple is assumed to arise from a cofactor.
 
 ### SX2. Genuine lift choices for an actual Xi_16-kernel multiplier
 
-Let K be an ACTUAL member of M with Xi_16(K)=1, at the C820/C867 source depths16,24,12.
+Let K be an ACTUAL member of M with Xi_16(K)=1, at the C820/C821 source depths16,24,12.
 In the free integer quotient A=Z[X]/J put k_p=K(C_p) for p=2,3,5.
 Full composition precedes restriction.
 The fixed source maps give
@@ -479,7 +479,7 @@ The general response does not assume target membership; SX7 below evaluates the 
 
 Let Q_1=Q_0L be the literal264-term positive cofactor in [adopted C823](Yin_C_G0823_v1.md#decision-whole-reviewed-2026-10-26).
 Its cofactor trace degree is93161974, original trace degree93162348 and reciprocal degree186324696; the endpoint cofactor exponent is451.
-The required source facts are Q_0=Q_*K_* from adopted C867, Xi_16(L)=1, original F8/X2 for Q_1, and its complete original-mod8 arrays.
+The required source facts are Q_0=Q_*K_* from adopted C821, Xi_16(L)=1, original F8/X2 for Q_1, and its complete original-mod8 arrays.
 C823 is now adopted at the exact selected decision after its separate cold whole mathematical/native review.
 Those source facts retain that exact adopted scope; the present calculation neither reruns the original residual probe nor independently reviews that source computation.
 

@@ -127,12 +127,16 @@ The author developed the direct scope controls and checked the reused proof and 
 <a id="historical-exponential-separate-whole-finding"></a>
 ## Original L93 separate whole check
 
-The complete direct1–5 check is recorded, but sufficient initial substantive-context facts are not. No same-target contribution is specified. The old independent wording alone does not certify isolation, so this precise finding remains unknown.
+The complete direct1–5 check is recorded, but sufficient initial substantive-context facts are not.
+No same-target contribution is specified.
+The old independent wording alone does not certify isolation, so this precise finding remains unknown.
 
 <a id="historical-exponential-coordinator-whole-finding"></a>
 ## Original L93 coordinator whole check
 
-The actual complete direct check and bounded NV11 visual statement/erratum inspection are retained. Selection of a fixed source and screening target is not itself a proof-development contribution; initial substantive context is still insufficiently established, so this exact finding is unknown. No article or erratum proof is accepted.
+The actual complete direct check and bounded NV11 visual statement/erratum inspection are retained.
+Selection of a fixed source and screening target is not itself a proof-development contribution; initial substantive context is still insufficiently established, so this exact finding is unknown.
+No article or erratum proof is accepted.
 
 <a id="historical-group-author-finding"></a>
 ## Original L96 author whole check
@@ -142,12 +146,15 @@ The drafting agent proved and checked the complete group-cost argument, so this 
 <a id="historical-group-assess-whole-finding"></a>
 ## Original L96 separate whole check
 
-The complete actual1–15 written check is recorded, with no defect and no new source or calculation. Initial substantive author/reviewer context is unestablished, so its relationship is unknown rather than certified by the old independent wording.
+The complete actual1–15 written check is recorded, with no defect and no new source or calculation.
+Initial substantive author/reviewer context is unestablished, so its relationship is unknown rather than certified by the old independent wording.
 
 <a id="historical-group-coordinator-whole-finding"></a>
 ## Original L96 coordinator whole check
 
-The product-height and group-ball test suggestions identify routes to check, but the record does not establish that the coordinator supplied the new rho derivation, coarea normalization or free-action count before drafting. The old collaborator description is preserved without guessing either contribution or its absence. Initial substantive context remains insufficient, so the whole finding is unknown.
+The product-height and group-ball test suggestions identify routes to check, but the record does not establish that the coordinator supplied the new rho derivation, coarea normalization or free-action count before drafting.
+The old collaborator description is preserved without guessing either contribution or its absence.
+Initial substantive context remains insufficient, so the whole finding is unknown.
 
 ## Complete original L93 checking account
 

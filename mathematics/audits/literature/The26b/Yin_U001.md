@@ -6,7 +6,6 @@ author: Yin
 Date: 2026-10-15.
 Root records direct selected online reading by g_bridge_audit and separate SOURCE-only checking/acquisition by strategy_critique.
 The latter supplied no new project proof.
-This tightly related local-field input group is distinct from the earlier U001 complete-weighted-thickening duality scope.
 
 <a id="the26b-u001"></a>
 ## Read; accepted local-algebra statements and applicability

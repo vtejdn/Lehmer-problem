@@ -4,7 +4,7 @@ author: Yin
 
 # Complete moving-exponent Salem realization, raw-Gram obstruction and paid original-window symbol
 
-This retains the complete necessary mathematical argument from [the complete original G402 fixed account](../ledger/Yin_L_G0402_v1.md#fixed-trace-moving-exponent-source).
+This retains the complete necessary mathematical argument from [the complete original L402 fixed account](../ledger/Yin_L_G0402_v1.md#fixed-trace-moving-exponent-source).
 Original contribution and review accounts remain at their fixed inputs; this maintenance creates no research authority.
 
 ## Statement
@@ -422,6 +422,6 @@ This exact joint Wiener-norm question remains open after the bounded feasibility
 | Fixed killer | [Four-exponent specialization](../audits/literature/MS05/Yin_U001.md#ms05-four-exponent-specialization) | Conservative exact K for four exponents, with a support-size upper bound rather than an unsupported exact-count assertion; no numerical prime or lcm evaluation. |
 | Exterior-root comparison | [RY26-U001](../audits/literature/RY26/Yin_U001.md#exterior-root-measure-expense) | Actual positive-root equation and2<tau<4 at fixed n=3; the all-large-even-degree theorem and its n>=10000 hypothesis are not used. |
 | Fixed-seed comparison | [C160 complete argument](Yin_C_G0160_v1.md#argument) | The precise raw coefficient/coercivity/graph-growth sufficient package that fails here, not an assertion that all projection estimates fail. |
-| Same-window correction | [C160 rank correction](Yin_C_G0160_v1.md#fixed-seed-original-factor-projection) | Nested relation subspaces and positive rank-three correction, retaining original d and common2d window; prior R530 review stays at its accepted scope. |
+| Same-window correction | [C160 rank correction](Yin_C_G0160_v1.md#fixed-seed-original-factor-projection) | Nested relation subspaces and positive rank-three correction, retaining original d and common2d window; prior R385 review stays at its accepted scope. |
 | Joint coefficient identity | [L321 projection identity](Yin_C_G0592_v2.md#residual-laurent-square-identity) | Exact full-column inverse-Gram Laurent symbol, used on the reducible raw numerator with its actual rank and original normalization. |
 | Actual projection target | [C158](Yin_C_G0158_v1.md#statement) | Original rank-d residual kernel and all signed Fourier diagonals defining kappa; raw inverse/coefficient divergence is not a substitute. |

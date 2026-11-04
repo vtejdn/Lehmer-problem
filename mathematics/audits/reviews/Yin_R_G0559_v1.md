@@ -5,7 +5,7 @@ author: Yin
 # Complete signed-power and modular order-unit proof with fixed native check
 
 Recorded 2026-10-21T10:11 for Yin.
-The constructor read the entire original L345, its original R244, the complete current statement/argument and the necessary C323/C313/order interfaces before this finding.
+The constructor read the entire original L345, its original R170, the complete current statement/argument and the necessary C322/C312/order interfaces before this finding.
 The original development and verdict were available and the constructor prepared the retained statement, so this complete current finding is self-reviewed.
 No new source, polynomial input, seed, exponent interval, optimizer, producer or Task/E execution was opened.
 
@@ -56,7 +56,7 @@ The constructor corrected only that reader from HERE/out[input] to _J_OUTPUT/out
 No mathematical author function, parameter, comparison, native result or first-report guard changed, and the producer was not run.
 This operational path repair does not create a mathematical version or retrospectively authenticate the old run.
 
-The entire R244 whole finding was read and compared, preserving its original2026-10-10 date, exact reviewed input, all useful bounded/infinite/expense conclusions and no-unit-group/no-gap exclusions.
+The entire R170 whole finding was read and compared, preserving its original2026-10-10 date, exact reviewed input, all useful bounded/infinite/expense conclusions and no-unit-group/no-gap exclusions.
 Its initial substantive context remains unestablished and its relationship unknown; the present self-check provides no isolated replacement.
 No old finding was deleted or backdated.
 

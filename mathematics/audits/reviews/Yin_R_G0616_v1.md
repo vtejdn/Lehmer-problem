@@ -70,7 +70,7 @@ The classical identity and perturbation/capacity mechanism are attributed to the
 No mathematical defect was found at this exact whole scope.
 The MPV capacity/perturbation statement and Smy08 Kronecker/full measure interfaces retain their accepted original proof depths and artifact versions; no potential-theory/equality-classification proof or journal-version equivalence was newly audited.
 The original central source and original R201 pp.2--3 text/visual plus p.4 trace reading remain distinct actual occurrences, without a fresh PDF operation or source upgrade.
-The original R27722:10 whole account and all negative/factor/degree/source limits were compared; its known initial author-self-check exposure remains SELF.
+The original R20122:10 whole account and all negative/factor/degree/source limits were compared; its known initial author-self-check exposure remains SELF.
 The L37422:34 retention date is not invented as the author's freeze/reading time; the original review describes the complete frozen revision actually present at22:10.
 No native program, new J, mathematical scan, numerical root or measure evaluation, formal verification, global-minimum claim, unrestricted gap or Task/E resumption occurred.
 

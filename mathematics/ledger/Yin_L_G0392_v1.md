@@ -5,17 +5,18 @@ author: Yin
 # Fixed integral seed profiles and nonzero-value complementary lifting
 
 Date:2026-10-11T17:11.
-Root coordinating AI for Yin fixes the complete restricted author account below under the continuing G0001 weekly authorization, after the separately organized complete review recorded at2026-10-11T17:02 as `Yin_R_G0218_v1#fixed-seed-complementary-extension-whole-finding`, whose exact scope and original arrangement are preserved in [R673's mathematical comparison](../audits/reviews/Yin_R_G0673_v1.md#l392-and-r294).
+Root coordinating AI for Yin fixes the complete restricted author account below under the continuing G0001 weekly authorization, after the separately organized complete review recorded at 2026-10-11T17:02.
+That original whole-review account and its arrangement are retained in [R673's mathematical comparison](../audits/reviews/Yin_R_G0673_v1.md#l392-and-r294); the current R218 retains only the distinct listed author/development checks.
 Adopt exactly its stated hypotheses, original costs, failures and source/review limits.
 No unrestricted Mahler gap, canonical Claim or Task completion is asserted.
 
 <a id="coupled-method-fixed-scope"></a>
-The complete fixed-seed construction already has an adequate home in [C11](../claims/Yin_C_G0011_v1.md#statement), whose current decision selects the newly performed [R673 whole finding](../audits/reviews/Yin_R_G0673_v1.md#fixed-seed-whole) at2026-10-21T22:21.
+The complete fixed-seed construction already has an adequate home in [C11](../claims/Yin_C_G0011_v1.md#statement), whose current decision selects the newly performed [R673 whole finding](../audits/reviews/Yin_R_G0673_v1.md#fixed-seed-whole) at 2026-10-21T22:21.
 The original [R220 SELF adoption](../audits/reviews/Yin_R_G0220_v1.md#c11-fixed-seed-assembly-finding) remains its historical exact C10v2 assembly, rather than a past adoption of R673.
 C11's retained21388-character original account differs only in the existing same-object reciprocal-domain home link to C244; all mathematical equations, seed/ideal/norm/content/weight/window and source limits remain intact.
 The full arbitrary-nonzero-value interface also has its exact registered totally-real home in [C10v2](../claims/Yin_C_G0010_v2.md#arbitrary-nonzero-value-rational-lifting-extension); neither a duplicate Claim nor repeated whole finding is needed.
-Original R218 whole is UNKNOWN because its generic assignment descriptors do not establish the actual extra initial context or ordering; the [original listed author/development checks](../audits/reviews/Yin_R_G0218_v1.md#fixed-seed-original-author-check-finding) remain separately SELF.
-The00:41 freeze,01:02 review and01:11 retention on2026-10-12 remain distinct, with no fabricated self-check minute or new Task/E authorization.
+The [retained original whole finding](../audits/reviews/Yin_R_G0673_v1.md#l392-and-r294) is SELF because its initial reading included the completed author checks; the [original listed author/development checks](../audits/reviews/Yin_R_G0218_v1.md#fixed-seed-original-author-check-finding) remain a distinct SELF scope.
+The 2026-10-11T16:41 freeze,2026-10-11T17:02 review and 2026-10-11T17:11 retention on2026-10-11 remain distinct, with no fabricated self-check minute or new Task/E authorization.
 
 ## Fixed scope and preservation
 
@@ -45,7 +46,7 @@ No native mathematical program, scan or new J occurred.
 The complete fixed [L390 lifting proof](Yin_L_G0390_v1.md#complementary-unit-lift-reuse-and-domain) and [R216 whole review](../audits/reviews/Yin_R_G0216_v1.md#rational-complementary-unit-lift-whole-finding) were read, including all correction/damping/Gram/repair and support/cost arguments.
 They concern unit targets.
 Section4 below checks the new precise extension to arbitrary NONZERO targets; original unit inverses are not used in those structural steps.
-[L388's actual-order cone and matrix packet](Yin_L_G0388_v1.md#positive-rational-field-profile-construction) and its whole R290 supply the retained finite method.
+[L388's actual-order cone and matrix packet](Yin_L_G0388_v1.md#positive-rational-field-profile-construction) and its whole R214 supply the retained finite method.
 Section3 explicitly checks the changed nonunit seed premise, without assuming a pending generalization.
 No fixed L or R is edited.
 
@@ -335,6 +336,6 @@ The targeted checker independently inspected the structural target-value interfa
 
 No native mathematical program, scan, solver or J was used.
 Scoped material validation passed for this draft; it checks structure and locators, not mathematical correctness.
-The complete Sections1--8/equations(1)--(13) are frozen at2026-10-11T16:41 for a separately organized whole noncontributor review.
+The complete Sections1--8/equations(1)--(13) are frozen at 2026-10-11T16:41 for a separately organized whole noncontributor review.
 
 The stable Task/execution/navigation and adoption decisions remain root's responsibility.

@@ -246,7 +246,7 @@ The accepted C637 kernel, aliases and witness rectangle are reused at their unch
 The earlier C632/C633/C637 reviews are not enlarged retrospectively.
 The actual fixed source interfaces and their current SELF, historical UNKNOWN and original-proof limits remain unchanged, including MS05/RY26 construction, Deb15/GMR18 witness inputs, Cambridge kernel attribution and C174's probability-Haar Fourier scope.
 The new Tao passage inspection verifies only the classical integral-inequality attribution; no interpolation theorem or historical original proof is imported.
-The related C512 comparison is not a mathematical premise and no developing support theorem or author draft was consulted.
+The related C508v2 finite mixed-norm comparison is not a mathematical premise and no developing support theorem or author draft was consulted.
 
 The full original coefficient dimension, normalized circle law, fixed-j finite Wiener norms and actual contact-minus-Haar margin remain those of the adopted inputs.
 The same family stays in log2<m(P_j)<log4, with no near-one family or unrestricted Mahler conclusion.

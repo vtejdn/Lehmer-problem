@@ -11,9 +11,15 @@ author: Yin
 
 Source edition: BV20, [retained PDF](../../../literature/pdf/BV20.pdf), arXiv:1510.04043v4, 23 April 2021.
 
-Passages: Conjecture 3 and Theorem 4, pp.2--3; complete Section 4, pp.23--30: Theorem 20, Corollaries 21,24,26,31, Lemmas 25,27,29,33 and Remarks 22--23,28,30,32,34. Printed and PDF page numbers coincide. Section 5 is recorded in U002.
+Passages: Conjecture 3 and Theorem 4, pp.2--3; complete Section 4, pp.23--30: Theorem 20, Corollaries 21,24,26,31, Lemmas 25,27,29,33 and Remarks 22--23,28,30,32,34.
+Printed and PDF page numbers coincide.
+Section 5 is recorded in U002.
 
-Inspection: 2026-10-06, human author Yin. The assigned AI source-review agent read the full mathematical body and checked this reduction and record. Root and a second source-review agent separately read Section 4 and cross-checked the main local defects; this is independent checking of source passages, not an independent human review or an independently accepted project proof. Rendered pp.27--30 were used to resolve algebraic-group fonts, subgroup notation and missing logarithms. Original proofs of the external algebraic-group and uniform-Tits inputs were not recursively audited.
+Inspection: 2026-10-06, human author Yin.
+The assigned AI source-review agent read the full mathematical body and checked this reduction and record.
+Root and a second source-review agent separately read Section 4 and cross-checked the main local defects; this is independent checking of source passages, not an independent human review or an independently accepted project proof.
+Rendered pp.27--30 were used to resolve algebraic-group fonts, subgroup notation and missing logarithms.
+Original proofs of the external algebraic-group and uniform-Tits inputs were not recursively audited.
 
 
 ## Assessment

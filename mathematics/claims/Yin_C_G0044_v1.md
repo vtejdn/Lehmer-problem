@@ -89,7 +89,7 @@ The recorded review description was `under review`.
 | statement | [Statement](#statement) | Exact registered statement, all hypotheses, actual costs and limitations. |
 | argument | [Complete retained argument](#argument) | Entire original author account, all proofs, source/reuse boundaries, costs and freeze. |
 | dependency | [Actual trace field and negative seed](Yin_C_G0011_v1.md#integral-seed-positive-field-profiles-all-trace-degrees) | Actual totally real trace degree, order domain, non-torsion exterior place and old existence; new finite boxes and quantitative simplex are proved locally. |
-| dependency | [Exact fixed seed](Yin_C_G0011_v1.md#one-fixed-integral-seed-norm-and-ideal) | Actual1卤alpha seed and full original signed norm; new positive integer targets have variable bounded inventory. |
+| dependency | [Exact fixed seed](Yin_C_G0011_v1.md#one-fixed-integral-seed-norm-and-ideal) | Actual 1±alpha seed and full original signed norm; new positive integer targets have variable bounded inventory. |
 | dependency | [Actual full profile domain](Yin_C_G0037_v1.md#statement) | All finite nonzero actual integral rational half-profiles; later full completion only at its own paid scope. |
 | dependency | [Original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only a later actually complementary packet, retaining all original scalar/norm/weight/width charges. |
 | support | [Whole-author finding](../audits/reviews/Yin_R_G0242_v1.md#trace-box-profile-whole-independent-finding) | Exact original author freeze only, with the actual registered-statement and interface finding still pending. |
@@ -108,7 +108,7 @@ The recorded review description was `under review`.
 | statement | [Statement](#statement) | Exact registered statement, all hypotheses, actual costs and limitations. |
 | argument | [Complete retained argument](#argument) | Entire original author account, all proofs, source/reuse boundaries, costs and freeze. |
 | dependency | [Actual trace field and negative seed](Yin_C_G0011_v1.md#integral-seed-positive-field-profiles-all-trace-degrees) | Actual totally real trace degree, order domain, non-torsion exterior place and old existence; new finite boxes and quantitative simplex are proved locally. |
-| dependency | [Exact fixed seed](Yin_C_G0011_v1.md#one-fixed-integral-seed-norm-and-ideal) | Actual1卤alpha seed and full original signed norm; new positive integer targets have variable bounded inventory. |
+| dependency | [Exact fixed seed](Yin_C_G0011_v1.md#one-fixed-integral-seed-norm-and-ideal) | Actual 1±alpha seed and full original signed norm; new positive integer targets have variable bounded inventory. |
 | dependency | [Actual full profile domain](Yin_C_G0037_v1.md#statement) | All finite nonzero actual integral rational half-profiles; later full completion only at its own paid scope. |
 | dependency | [Original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only a later actually complementary packet, retaining all original scalar/norm/weight/width charges. |
 | support | [Whole-author finding](../audits/reviews/Yin_R_G0242_v1.md#trace-box-profile-whole-independent-finding) | Exact original author freeze only; the actual registered-statement and interface finding is separately selected below. |

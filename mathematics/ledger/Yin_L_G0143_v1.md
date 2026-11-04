@@ -4,12 +4,16 @@ author: Yin
 
 # Every-cluster collar exclusion and a balanced finite coercivity radius
 
+Current checking scope is owned by [R568](../audits/reviews/Yin_R_G0568_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Bounded G0001 derivation by the coordinating AI and the assigned execution_and_deliverables AI for Yin.
 The coordinator identified that the existing local collar proof applies to every nonzero cluster, proposed the smallest-gap merging argument and its balanced recursion, and supplied its intended final radius.
 The assigned agent checked and expanded the complete finite combinatorial proof and derived the exact zero-gap-certificate control below.
 Both are contributors.
-The complete independent review is recorded below.
+The complete checking account below retains the responsible findings' actual relationships.
 No numerical mathematical run, optimization or new source is involved.
 
 ## A combinatorial statement with both boundary anchors

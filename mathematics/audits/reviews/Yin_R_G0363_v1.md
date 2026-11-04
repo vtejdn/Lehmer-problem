@@ -21,11 +21,15 @@ The whole scope includes responsible question, bounded reuse and candidate histo
 No new search, acquisition, native mathematical program, J or formal verification was needed.
 This is a noncontributor written review of the successor and its use of accepted inputs, not a new original-source proof audit or G0001 completion review.
 
+The initial C147 v3 input included the author validation and no-defect conclusions beyond the necessary proof.
+The affected finding relationships are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Actual whole finding](#near-half-power-family-whole-independent-finding) | independently reviewed |
+| [Actual whole finding](#near-half-power-family-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -37,7 +41,7 @@ This is a noncontributor written review of the successor and its use of accepted
 | [Actual whole finding](#near-half-power-family-whole-independent-finding) | [C147v2 finite source application](../../claims/Yin_C_G0147_v2.md#direct-pri11-energy-application) | Applied finite equation is independent of the later house conversion and has no N>=55 condition; all original d/N multiplicities and accepted test regularity remain inherited. |
 | [Actual whole finding](#near-half-power-family-whole-independent-finding) | [AM16 rank-one accepted source](../literature/AM16/Yin_U002.md#am16-u002) | ONLY finite base K=Q,r=1: h(beta)>=C(eta)N^(-1-eta), uniform in actual beta,N for each fixed eta. No numerical/effective constant, varying-r or eta-to-zero control imported. |
 | [Actual whole finding](#near-half-power-family-whole-independent-finding) | [Old quarter-power comparison](../../claims/Yin_C_G0147_v2.md#explicit-quarter-power-modulus) | Existing4h^(1/4)log(1/h) bound on h<=exp(-40), used only for the exact fixed-eta common-domain comparison and minimum. |
-| [Actual whole finding](#near-half-power-family-whole-independent-finding) | [R361 prior whole review](Yin_R_G0361_v1.md#planar-energy-whole-independent-finding) | Inherited actual independent acceptance of v2's finite energy theorem and its old house-based comparison, not independent evidence already covering the new combination. |
+| [Actual whole finding](#near-half-power-family-whole-independent-finding) | [R361 prior whole review](Yin_R_G0361_v1.md#planar-energy-whole-independent-finding) | Inherited actual acceptance of v2's finite energy theorem and its old house-based comparison, not independent evidence already covering the new combination. Referenced finding relationship: self-reviewed. |
 | [Actual whole finding](#near-half-power-family-whole-independent-finding) | [Pri11 restricted energy interface](../literature/Pri11/Yin_U002.md#pri11-u002) | Inherited compact globally Lipschitz finite-energy theorem at all positive radii and actual degree; no expansion to singular/noncompact tests or audit of foundational external proofs. |
 | [Actual whole finding](#near-half-power-family-whole-independent-finding) | [L168 original norm interface](../../ledger/Yin_L_G0168_v1.md#general-unit-actual-product-cost) | Only inherited full norm and powered-field normalization behind the accepted v2 finite formula; no new use of its old discrepancy or finite enumeration. |
 

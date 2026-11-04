@@ -140,7 +140,7 @@ In particular B belongs to O, B_-=-S, and selected original paths to or from zer
 [L319](Yin_C_G0601_v1.md#actual-forced-boundary-segments) gives the exact one-successor boundary and its actual digit probabilities.
 [C170](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix) retains all endpoint and word-fiber weights for arbitrary fixed integer overlap b>=1.
 [L353](Yin_C_G0370_v1.md#general-conditioning-amplification) already proves binary-autocorrelation domination for an arbitrary GAPPED complement; that exact interface, rather than a shorter chronological return probability, is used below.
-[L410](Yin_C_G0514_v2.md#bulk-component-defect) gives the complete finite-component defect formula, and [L412](Yin_C_G0519_v1.md#seed-path-load-and-mass) retains the original mass-normalization distinction.
+[L409](Yin_C_G0514_v2.md#bulk-component-defect) gives the complete finite-component defect formula, and [L411](Yin_C_G0519_v1.md#seed-path-load-and-mass) retains the original mass-normalization distinction.
 
 The new result concerns the COMPLETE collection of isolated edges in the infinite union, not just one selected word or one constructed subfamily.
 It gives a uniform upper bound on their combined ORIGINAL mass and controls their internal word-fiber energy.
@@ -366,7 +366,7 @@ The actual critical mean and unrestricted Mahler gap remain unresolved.
 | [C170 full carry law](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Any fixed overlap, complete middle and tail multiplicities, full conditional word fibers and auxiliary/digit-work clocks; this author contributed C170 and reuses its independent review. |
 | [L353 gapped complement](Yin_C_G0370_v1.md#general-conditioning-amplification) | Actual support-specific binary autocorrelation domination and conditioning, not a chronological replacement for the outside law. |
 | [L410 exact defect](Yin_C_G0514_v2.md#bulk-component-defect), [R414](../audits/reviews/Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Finite component-mean optimization, applied to a clearly labeled coarsened partition; not an upper bound on full graph chi. |
-| [L412 original normalization](Yin_C_G0519_v1.md#seed-path-load-and-mass), [R416](../audits/reviews/Yin_R_G0416_v1.md#fixed-hub-whole-independent-finding) | Complete fiber/return-ratio accounting, generalized with the explicit actual p_h expense; this author contributed L412 and reuses its separate review. |
+| [L411 original normalization](Yin_C_G0519_v1.md#seed-path-load-and-mass), [R416](../audits/reviews/Yin_R_G0416_v1.md#fixed-hub-whole-independent-finding) | Complete fiber/return-ratio accounting, generalized with the explicit actual p_h expense; this author contributed L411 and reuses its separate review. |
 | [L316 lattice mechanism](Yin_C_G0599_v1.md#actual-tangent-core-states) | Finite coefficient boxes and two-real-coordinate differences; the complete signed-square construction for every fixed h is retained here. |
 
 The new mass bound and internal energy estimate are unconditional at the stated original finite inputs.

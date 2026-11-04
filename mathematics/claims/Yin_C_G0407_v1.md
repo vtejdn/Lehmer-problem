@@ -96,7 +96,7 @@ The complete arguments below prove precisely these finite-symbol, full-sign, act
 | dependency | [Exact accepted input](../ledger/Yin_L_G0265_v1.md#actual-quartic-trace-unit-family) | Only the a=2 actual irreducible Salem polynomial, full original roots, order and positive total measure; no full orbit-energy result imported. |
 | dependency | [Exact accepted input](../ledger/Yin_L_G0318_v1.md#polynomial-poisson-majorant) | Fixed-window reversal and all signed autocorrelations before taking absolute values; no high-lag hypothesis for the damped energy inequality. |
 | dependency | [Exact accepted input](../ledger/Yin_L_G0229_v1.md#uniform-powered-angular-coherence) | Only the optional increasing epsilon at its exact small-u domain and unchanged original degree, multiplicity and Pri11/Dim19 source scope. |
-| review | [Actual complete finding](../audits/reviews/Yin_R_G0611_v1.md#current-mixed-unit-whole-finding) | Entire exact Statement and complete necessary mathematical argument, all original signed/denominator/covariance/cost and source limits, with the separately preserved original author check and established SELF R275 history. |
+| review | [Actual complete finding](../audits/reviews/Yin_R_G0611_v1.md#current-mixed-unit-whole-finding) | Entire exact Statement and complete necessary mathematical argument, all original signed/denominator/covariance/cost and source limits, with the separately preserved original author check and established SELF R199 history. |
 
 
 ### Decision current-actual-quartic-home-maintenance
@@ -118,7 +118,7 @@ The complete arguments below prove precisely these finite-symbol, full-sign, act
 | dependency | [Complete actual quartic input](Yin_C_G0464_v1.md#actual-quartic-trace-unit-family) | Same actual a2 irreducible Salem polynomial, all four original roots/trace/order and fixed positive total measure only; no full orbit-energy result imported. |
 | dependency | [Exact accepted input](Yin_C_G0600_v1.md#polynomial-poisson-majorant) | Fixed-window reversal and all signed autocorrelations before taking absolute values; no high-lag hypothesis for the damped energy inequality. |
 | dependency | [Exact accepted input](Yin_C_G0570_v1.md#uniform-powered-angular-coherence) | Only the optional increasing epsilon at its exact small-u domain and unchanged original degree, multiplicity and Pri11/Dim19 source scope. |
-| review | [Actual complete finding](../audits/reviews/Yin_R_G0611_v1.md#current-mixed-unit-whole-finding) | Entire exact Statement and complete necessary mathematical argument, all original signed/denominator/covariance/cost and source limits, with the separately preserved original author check and established SELF R275 history. |
+| review | [Actual complete finding](../audits/reviews/Yin_R_G0611_v1.md#current-mixed-unit-whole-finding) | Entire exact Statement and complete necessary mathematical argument, all original signed/denominator/covariance/cost and source limits, with the separately preserved original author check and established SELF R199 history. |
 | review | [Actual narrow quartic-home SELF finding](../audits/reviews/Yin_R_G0671_v1.md#quartic-current-consumer-home-finding) | Only same-object a2 actual polynomial/field/root/order/measure and current proof-home comparison; no new whole consumer verdict, changed mathematical scope or fresh isolated coverage. All original whole findings and their actual old L265 inputs remain. |
 
 ## Complete retained argument

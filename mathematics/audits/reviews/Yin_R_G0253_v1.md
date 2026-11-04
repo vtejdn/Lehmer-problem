@@ -13,11 +13,14 @@ No C decision is edited by this reviewer.
 
 Root authored D5 and extracted C48.
 This reviewer supplied none of the valid filter, repair, quadratic-family or logarithmic-order construction.
-In the earlier independent whole review it found the false unqualified finite-M nonadmissibility sentence, supplied the M4 countercheck, and checked root's eventual-only correction; that review sequence is fully retained in [R251](Yin_R_G0251_v1.md#positive-margin-corrected-whole-finding).
+In the earlier whole review it found the false unqualified finite-M nonadmissibility sentence, supplied the M4 countercheck, and checked root's eventual-only correction; that review sequence is fully retained in [R251](Yin_R_G0251_v1.md#positive-margin-corrected-whole-finding).
+Referenced finding relationship: self-reviewed.
 The earlier extraction of C47 and authorship of the separate circle-root D2 inquiry remain disclosed.
 They do not make those earlier contributions independently reviewed by this reviewer; C47 is an already accepted input reused only at its exact radius/support and whole-interval scope.
 
 The present context includes that previous review, root's extraction assignment and its author-reported wrapper freeze.
+The same reviewer retains the completed author-validation input from its R251 whole review of this same target, so the actual extraction finding is SELF.
+This classification follows that known inherited verification context, rather than the mere fact of a previous review or an unrelated contribution.
 The reviewer first read the entire new registered statement, selector, initial relations and preservation account, then matched A--D against the complete previously checked D5 and its actual direct inputs.
 An exact text comparison confirmed retention of the ENTIRE corrected author body after only header removal, first-title demotion and necessary Claim-link rebasing.
 The retained body has228 lines and22,083 characters INCLUDING its final newline; all original anchors, candidate/history, both freezes, initial false sentence, concrete objection and corrected scope remain.
@@ -31,7 +34,7 @@ The initial C48 assessment remains proof draft / under review until its responsi
 
 | Review | Relationship |
 | --- | --- |
-| [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | independently reviewed |
+| [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -45,8 +48,8 @@ The initial C48 assessment remains proof draft / under review until its responsi
 | [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | [Existing paired support mechanism](../../claims/Yin_C_G0043_v2.md#chebyshev-damping-gram-repair-and-width) | Finite nonzero-value pairs and full occupied support; C48 proves its general-E0 identity locally rather than broadening a half-energy source statement. |
 | [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | [Actual radius/support and whole-interval input](../../claims/Yin_C_G0047_v1.md#statement) | Only the actual general-energy radius floor, exact product support and the stronger whole-interval degree comparison, each at its original hypotheses. |
 | [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | [Direct complete original-root expense](../../claims/Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Same FINAL weights, complete covariance, nonzero full original resultants and actual common window; no unit-only or totally-real lift restriction is transplanted to this separate inequality. |
-| [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | [Initial independent objection](Yin_R_G0251_v1.md#positive-margin-initial-objection) | Exact false finite-M sentence and actual M4 countercheck as preserved failure history, not support for current acceptance of that sentence. |
-| [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | [Corrected entire independent review](Yin_R_G0251_v1.md#positive-margin-corrected-whole-finding) | Reuse of the completed whole16:54 D5 review after verified exact body preservation, with every source/contribution/cost boundary retained. |
+| [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | [Initial objection](Yin_R_G0251_v1.md#positive-margin-initial-objection) | Exact false finite-M sentence and actual M4 countercheck as preserved failure history, not support for current acceptance of that sentence. Referenced finding relationship: self-reviewed. |
+| [Actual extraction finding](#c48-positive-margin-actual-extraction-finding) | [Corrected entire review](Yin_R_G0251_v1.md#positive-margin-corrected-whole-finding) | Reuse of the completed whole16:54 D5 review after verified exact body preservation, with every source/contribution/cost boundary retained. Referenced finding relationship: self-reviewed. |
 
 <a id="c48-positive-margin-actual-extraction-finding"></a>
 

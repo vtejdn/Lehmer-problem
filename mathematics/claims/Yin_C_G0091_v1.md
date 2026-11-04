@@ -15,7 +15,9 @@ Initial status is proof draft / under review, pending a distinct actual extracti
 ## Statement
 
 The registered results below are the UNCONDITIONAL finite bounds/reduction and the explicitly CONDITIONAL implication.
-The unrestricted assertion that positive global triple density forces positive-linear one-time capture remains UNRESOLVED; neither that assertion nor a uniform upper bound for M_N/N is part of the unconditional conclusion.
+This original Claim proves finite bounds and a conditional implication; it does not itself establish positive-linear capture from positive global triple density.
+The later [C96](Yin_C_G0096_v1.md#statement) refutes its universal short-pair premise, while [C142 v2](Yin_C_G0142_v2.md#statement) supplies the abstract positive-density capture implication by a different weak-moment argument.
+Automatic positive-density coverage by actual polynomial inputs remains unresolved.
 
 Let P be an ACTUAL monic irreducible nontorsion integer-unit polynomial of ORIGINAL degree d, let K=Q(alpha), and fix a GOOD prime p, so p does not divide disc(P).
 Its d reduced roots are distinct nonzero units.
@@ -78,7 +80,8 @@ Suppose there exists an absolute constant K>0 such that
     P_2(Y)<=K Y W
 
 for EVERY such finite capacity array and EVERY real Y>=1.
-This UNIVERSAL upper bound is an OPEN ASSUMPTION.
+This universal premise was open at the original proof stage and is now refuted by [C96](Yin_C_G0096_v1.md#statement).
+The implication below is retained as a conditional result and supplies no unconditional application of that false universal premise.
 Under this assumption, every actual input in A with Dens_X>=delta>0 satisfies
 
     H_X>=delta^2 W^2/(4KX).
@@ -194,8 +197,9 @@ The actual auxiliary is the SINGLE integer polynomial t^n-1 at its full degree n
 No rational coefficient denominator or final indexed packet denominator is introduced.
 The full norm and, in the conditional branch, L168's actual norm-tower cost remain paid.
 
-The ordinary global-average-to-linear implication remains OPEN.
-Neither a uniform upper bound for M_N/N nor an actual polynomial counterexample was obtained.
+At the original proof stage the global-average-to-linear implication and uniform bound for M_N/N were unresolved.
+The later C96 refutes the uniform bound, and C142 v2 establishes the abstract capture implication at the stated totient capacities without it.
+Neither result supplies automatic positive triple density for actual near-one polynomial inputs.
 C86's ALL-three criterion and C88's circular-adjacent density criterion do not settle this statistic.
 C83 has no established positive global triple-density property, and its all-depth local o(d)/full Theta(d) measure scope is not promoted into a counterexample here.
 No near-one coverage, all-prime norm upper bound, unrestricted arithmetic-income theorem or G0001 completion follows from this Claim.

@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T19:07.
 Human operator: Yin.
 The checking agent read all279lines of original L178, all67original R77 lines and the entire actual published C420v1 statement, complete argument, decisions and domain/source/contribution limits.
-It read the necessary complete C420 pointwise/finite-hull/strict-real-margin interface and C421v3 chronological cocycle/joint-phase proof.
+It read the necessary complete C416 pointwise/finite-hull/strict-real-margin interface and C417v3 chronological cocycle/joint-phase proof.
 It rederived the entire prefix, phase, signed-expansion and limiting-boundary chain below.
 The checking agent authored this Claim, inherited target development context and read old findings, so the current whole check is self-reviewed.
 The original R77 complete scope is also self-reviewed on concrete original evidence that its coordinator received this target's preliminary phase-selection discovery during development.

@@ -5,8 +5,8 @@ author: Yin
 
 All original six sections/equations1--11 and both complete finite cost tables are retained.
 L270 remains the meaningful exploration/failed branch/contribution/source record and original fixed review input; no mathematical Task/E resumes.
-The [later complete comparison of original R697](../audits/reviews/Yin_R_G0697_v1.md#l270-and-r169) preserves its whole historical UNKNOWN, exact inputs/date/verdict/source/native/contribution limits and separate original author SELF.
-The unchanged checking account and earlier decision below record the actual2026-10-21T23:35 whole SELF,07:36 adoption and then-retained original input, distinct from the selected08:06 new whole independent adoption.
+The [later complete comparison of original R169](../audits/reviews/Yin_R_G0697_v1.md#l270-and-r169) preserves its whole historical UNKNOWN, exact inputs/date/verdict/source/native/contribution limits and separate original author SELF.
+The unchanged checking account and earlier decision below record the actual 2026-10-21T23:35 whole SELF,2026-10-21T23:36 adoption and then-retained original input, distinct from the selected 2026-10-22T00:06 new whole independent adoption.
 
 ## Statement
 
@@ -390,7 +390,7 @@ Every concrete3-adic normalization/minor/correction/polynomial coefficient, char
 Only the original standard-library reviewer main was replayed in its complete unchanged original domain/cap: both fields, saved9/27/81 steps, sameQ2mod4, five costs/65nodes and the three original reversed-priority controls.
 It completed in0.15632329997606575seconds within120seconds; every normalized JSON field equals the retained reviewer report and all ten original source/readme/native/J60-input files stayed byte-identical across replay.
 No author producer/import, new field/basis/modulus/cost search/output/source passage/PDF/proof inspection or Task/E execution occurred.
-The original author whole SELF remains at recorded2026-10-10 day precision; the separate10:34 original review completion is not invented as an author-check/source-read minute.
+The original author whole SELF remains at recorded2026-10-10 day precision; the separate 2026-10-10T02:34 original review completion is not invented as an author-check/source-read minute.
 R169's assignment/author progress explanations are disclosed, but the retained record does not specify their exact additional initial target contents/order; upstream reviewing or generic signed-cover authorship alone proves neither a target contribution nor isolation.
 Its ENTIRE whole finding remains UNKNOWN with precise old inputs, whole verdict/date/body and all original source/native/two-run-label/negative boundaries retained; current whole SELF supplies no fresh isolated replacement.
 

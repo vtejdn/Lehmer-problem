@@ -15,8 +15,7 @@ Author: another AI agent.
 Goal: Yin_T_F0004.
 Strategy: Yin_S_F0014.
 Initial mathematical assessment: complete proof draft, awaiting independent review.
-No optional Role or novelty claim is assigned.
-The [selected assessment](#decision-candidate-0002) records the mathematical and review assessments.
+The [selected assessment](#decision-isolated-whole-review-2026-10-22) records the current mathematical and review assessment; the candidate decision retains its historical scope.
 
 This record extends the scalar rational-image observation to finite matrices and corners.
 The reuse search checked Yin_C_F0015, Yin_C_F0017, the Miy26 rational-L2 audit, existing rational-coordinate transfers and the local NS06 cumulant/compression chapters before the proof below.

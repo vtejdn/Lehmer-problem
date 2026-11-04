@@ -8,8 +8,8 @@ Human record author Yin.
 Root separately reviews angular_envelope_review's complete C173v1, initial decision, sixteen formulas, eight mathematical input rows and compactness-attribution section.
 Root supplied the open fixed/varying-transform question, but no new cluster path, approximation step, compactness argument or mathematical repair.
 The review is nonblind: author messages and the complete author-ready D51 were available before the fixed Claim was retained and read back.
-Root contributed to upstream L402, C158 and C172; their separate R547/R566 findings and selected definitions are reused rather than re-described as new independent upstream audits.
-Root earlier independently reviewed C171 in R563 and rechecks the new application, not the already accepted source construction.
+Root contributed to upstream L402, C158 and C172; their separate R402/R420 findings and selected definitions are reused rather than re-described as new independent upstream audits.
+Root earlier independently reviewed C171 in R417 and rechecks the new application, not the already accepted source construction.
 
 The proof is mathematically complete without an external compactness proof premise.
 The named Arzela--Ascoli step initially lacked a checked exact attribution; root completed the required primary-source statement/applicability check in Tao09a Corollary14 and its following exact example.
@@ -39,7 +39,7 @@ The whole finding therefore has an unknown relationship; original dates, mathema
 | [Whole scalar-transform finding](#scalar-transform-whole-independent-finding) | [Uniform varying transforms](../../claims/Yin_C_G0173_v1.md#scalar-transform-varying-compactness) | Dense-set/finite-mesh compactness, closed oscillation floor, moving-test coefficient comparison, actual margin implication and uniform Haar limit. |
 | [Whole scalar-transform finding](#scalar-transform-whole-independent-finding) | [All input and scope limits](../../claims/Yin_C_G0173_v1.md#scalar-transform-scope-and-inputs) | All eight mathematical rows, both signs, no arithmetic value for arbitrary psi, no near-one/rate conclusion and no uncontrolled regularity extension. |
 | [Whole scalar-transform finding](#scalar-transform-whole-independent-finding) | [Checked compactness attribution](../../claims/Yin_C_G0173_v1.md#scalar-transform-compactness-attribution) | Exact Tao09a primary statement/example and local applicability; attribution only with original proof unreviewed. |
-| [Whole scalar-transform finding](#scalar-transform-whole-independent-finding) | [Actual L402 sequence](../../ledger/Yin_L_G0402_v1.md#fixed-trace-moving-exponent-schedule) | Actual monic irreducible Salem inputs, separated scales and log2<m<log4; existing R547 and source limits reused. |
+| [Whole scalar-transform finding](#scalar-transform-whole-independent-finding) | [Actual L402 sequence](../../ledger/Yin_L_G0402_v1.md#fixed-trace-moving-exponent-schedule) | Actual monic irreducible Salem inputs, separated scales and log2<m<log4; existing R402 and source limits reused. |
 | [Whole scalar-transform finding](#scalar-transform-whole-independent-finding) | [Original C158 projection](../../claims/Yin_C_G0158_v1.md#statement) | Rank-d residual and normalized full2d symbol, range and original signed Fourier definitions only. |
 | [Whole scalar-transform finding](#scalar-transform-whole-independent-finding) | [C171 channel quotient](../../claims/Yin_C_G0171_v1.md#two-block-torus-phase) | Exact H/C representation, equal moduli and complete common-zero set. |
 | [Whole scalar-transform finding](#scalar-transform-whole-independent-finding) | [C171 uniqueness mechanism](../../claims/Yin_C_G0171_v1.md#two-block-singular-phase-divergence) | Accepted elementary product-Fejer argument; the new full cluster is separately checked above. |

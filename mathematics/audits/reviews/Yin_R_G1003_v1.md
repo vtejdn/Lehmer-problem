@@ -13,7 +13,7 @@ No D47 or other development draft, proof-generation dialogue, author mathematica
 The fixed inputs' adoption metadata was visible.
 No prior C781 R finding was found that already supplied this new evidence.
 
-The reviewer retains actual background from its earlier independent [C817 review](Yin_R_G0994_v1.md#whole-integrated-height-one-finding) and [C821 review](Yin_R_G0998_v1.md#whole-global-first-eight-finding).
+The reviewer retains actual background from its earlier independent [C774 review](Yin_R_G0994_v1.md#whole-integrated-height-one-finding) and [C778 review](Yin_R_G0998_v1.md#whole-global-first-eight-finding).
 Those reviews did not make it a substantive author of the present theorem.
 Their fixed input applicability was rechecked, and the new full-primary half lemma, nonsquare phi quarter and correction argument were examined directly.
 C675's fixed square-input statement was read for the explicit comparison boundary; its theorem was not applied here.

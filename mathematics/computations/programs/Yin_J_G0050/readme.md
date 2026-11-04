@@ -8,6 +8,13 @@ Responsible current argument: [C549](../../../claims/Yin_C_G0549_v1.md#companion
 The original frozen [L230](../../../ledger/Yin_L_G0230_v1.md#complete-retained-proof-and-review) remains the actual input of R129.
 This group retains a bounded integral mutation/cost experiment and its complete exact certificates, including every original and companion factor.
 
+## Native input availability
+
+The original1539-step mutation-index/direction word and its selected final matrix, basis and polynomial fields are unavailable in this checkout and its selected local Git history.
+verify.py therefore cannot currently replay the native mutation-orbit-membership certificate used by C549.
+The separately displayed V1/Q1 realization and congruence calculations retain their own scope; they do not determine the missing mutation path.
+Supply that original path and the verifier's selected final fields at this group's tracked inputs/ and repair its input locator; repeating numerical search would not identify the adopted path.
+
 ## Proof and review
 
 The complete current proof is adopted in [C549](../../../claims/Yin_C_G0549_v1.md#companion-tradeoff-fixed-scope).

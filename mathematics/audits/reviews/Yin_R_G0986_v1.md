@@ -137,7 +137,7 @@ Neither raising nor the local gate asserts irreducibility, new source existence,
 All direct source interfaces named in the Review bindings were inspected in their fixed C materials and matched to their exact adopted decisions.
 C691's complete source existence and C764's complete global first-bit family are reused as accepted results at those scopes; their entire earlier dependency trees and historical reviews were not re-audited.
 C736's integer identity and C724's covariance were also checked directly at the interfaces used here.
-C706 BC4 and C749 OB2 are comparison-only links, not proof premises; their normalized square-base, derivative and earlier-bit hypotheses were not imported, and their proofs were not needed for this verdict.
+C676 BC4 and C713 OB2 are comparison-only links, not proof premises; their normalized square-base, derivative and earlier-bit hypotheses were not imported, and their proofs were not needed for this verdict.
 No unresolved external theorem, new source attribution claim or native computational premise occurs in the reviewed proof.
 The verification was exact algebraic inspection of all displayed steps and boundaries, without finite enumeration or formal proof-assistant certification.
 

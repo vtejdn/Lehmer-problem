@@ -194,9 +194,9 @@ No larger coefficient scan, new numerical evidence or relaxation of total realit
 | Input | Actual role and limit |
 | --- | --- |
 | [C178 local theorem](Yin_C_G0178_v1.md#statement) and [complete proof](Yin_C_G0178_v1.md#argument) | Exact2-prime G=3C, unit equivalences, low-ramification full norm bound, and exclusion of any unramified2-prime. Used after the actual affine field H is identified. |
-| [C178 accepted assessment](Yin_C_G0178_v1.md#decision-whole-reviewed-2026-10-20) and [R447](../audits/reviews/Yin_R_G0447_v1.md#residual-two-adic-whole-independent-finding) | Independent upstream finding and adoption at that exact local scope; this author does not independently re-review his own C178. |
+| [C178 accepted assessment](Yin_C_G0178_v1.md#decision-whole-reviewed-2026-10-20) and [R447](../audits/reviews/Yin_R_G0447_v1.md#residual-two-adic-whole-independent-finding) | Self-reviewed upstream finding and adoption at that exact local scope; this author does not independently re-review his own C178. |
 | [C180 rational-b exclusion](Yin_C_G0180_v1.md#rational-b-exclusion) and [accepted assessment](Yin_C_G0180_v1.md#decision-whole-reviewed-2026-10-20) | Only the u=0 case, where b is a nonzero rational integer. No nonrational residual bound is imported. |
-| [R451](../audits/reviews/Yin_R_G0451_v1.md#c180-whole-rational-branch-finding) | Independent upstream whole review of the three contributors' C180 argument; not a review of this affine extension. |
+| [R451](../audits/reviews/Yin_R_G0451_v1.md#c180-whole-rational-branch-finding) | Upstream whole review with an explicitly unknown relationship of the three contributors' C180 argument; not a review of this affine extension. |
 | [Original singleton inquiry](../ledger/Yin_L_G0438_v1.md#unbuffered-reduction) | Original question and extraction context only; no mutable draft supplies a logical premise. |
 
 The remaining proof uses elementary valuations, integer residue fields, Rolle's theorem, separability and full field-norm/prime-decomposition identities, with every specific application supplied above.

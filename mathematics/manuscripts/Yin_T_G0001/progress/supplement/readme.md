@@ -3,7 +3,18 @@
 This attachment accompanies the progress report's finite comparison of monomial auxiliary polynomials with an enlarged family of unit directions.
 It contains [the complete exact input and witnesses](certificates.json) and [a standalone verifier](verify.py).
 Both files can be copied to any directory and used without the research repository.
+The responsible research input is [J79's retained native certificate](../../../../computations/programs/Yin_J_G0079/inputs/unit-cap-certificates.json).
+The local certificates.json is an identical standalone publication copy; maintain it from that source and check parsed equality when either is changed.
 The verifier uses Python 3.9 or later and only its standard library.
+
+## Coverage limit
+
+This attachment verifies the finite optimization assertions listed below.
+It does not verify the original Lehmer return-core theorem's neutral-descent word certificates, complete 797507-state enumeration, zero-ending paths or certified exclusions.
+The report retains that theorem and its computational premise, so a separate standalone verifier and the necessary exact data remain required before the attachment covers every computationally dependent result in the report.
+The original word and path payloads are unavailable in the current checkout and were not found in the selected local Git histories.
+An implementation of discovery alone would not identify those adopted historical words or paths.
+The existing finite optimization checks supply no verification of that separate premise.
 
 | Report reference (TeX label) | Verification supplied here |
 | --- | --- |

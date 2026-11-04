@@ -8,7 +8,8 @@ L271 remains the meaningful development, contribution/source/negative history an
 
 ## Statement
 
-Put a0=log2. For EVERY A>=a0 define
+Put a0=log2.
+For EVERY A>=a0 define
 
     kappa(A)=min{sqrt(pi/A)*exp(-pi^2/a0),
                  exp(-25A/16)*(1-2^(-3/2))},
@@ -572,7 +573,7 @@ Current whole SELF supplies no new isolated replacement of the old whole obligat
 | dependency | [Actual radical degree and residue product](Yin_C_G0212_v1.md#radical-collision-control) | Complete norm-minus-one dyadic irreducibility/actual degree2r/relative degree r and exact original probability product at fixed r; no imported numerical bit-rate constant or varying-r limit. |
 | support | [One-expanding comparison](Yin_C_G0235_v1.md#one-expanding-comparison) | Only actual real1<beta<2/all other conjugates at most one/total m and stronger leading rate comparison; not extended to arbitrary exterior-root configurations or a uniform horizon. |
 | support | [Earlier matching/nonaccumulation context](../ledger/Yin_L_G0215_v1.md#affine-block-matching-defect) | Exact original normalized Holder profile and its bounded total defect are comparison only, not the new joint conditional-product estimate. Preserve this original fixed input while its separate family is maintained. |
-| support | [Existing theta source scope](../audits/literature/Nat26/Yin_U003.md#nat26-u003) | Original10/10 DLMF1.2.8 formula/notation/application and failed-access/noartifact/book-proof limits inherited through C469, with no new external occurrence, source proof/PDF or acquisition. |
+| support | [Existing theta source scope](../audits/literature/Nat26/Yin_U003.md#nat26-u003) | Original10/10 DLMF edition 1.2.8, formulas 20.2.3/20.7.32 and Section 20.1 notation/application and failed-access/noartifact/book-proof limits inherited through C469, with no new external occurrence, source proof/PDF or acquisition. |
 | support | [Related compression context](Yin_C_G0475_v1.md#statement) | Only the separately retained exact inverse detection context, explicitly NOT a premise or unproved accumulation input for this joint theorem. |
 
 ### Decision complete-whole-self-adoption
@@ -595,7 +596,7 @@ Current whole SELF supplies no new isolated replacement of the old whole obligat
 | dependency | [Actual radical degree and residue product](Yin_C_G0212_v1.md#radical-collision-control) | Complete norm-minus-one dyadic irreducibility/actual degree2r/relative degree r and exact original probability product at fixed r; no imported numerical bit-rate constant or varying-r limit. |
 | support | [One-expanding comparison](Yin_C_G0235_v1.md#one-expanding-comparison) | Only actual real1<beta<2/all other conjugates at most one/total m and stronger leading rate comparison; not extended to arbitrary exterior-root configurations or a uniform horizon. |
 | support | [Earlier matching/nonaccumulation context](../ledger/Yin_L_G0215_v1.md#affine-block-matching-defect) | Exact original normalized Holder profile and its bounded total defect are comparison only, not the new joint conditional-product estimate. Preserve this original fixed input while its separate family is maintained. |
-| support | [Existing theta source scope](../audits/literature/Nat26/Yin_U003.md#nat26-u003) | Original10/10 DLMF1.2.8 formula/notation/application and failed-access/noartifact/book-proof limits inherited through C469, with no new external occurrence, source proof/PDF or acquisition. |
+| support | [Existing theta source scope](../audits/literature/Nat26/Yin_U003.md#nat26-u003) | Original10/10 DLMF edition 1.2.8, formulas 20.2.3/20.7.32 and Section 20.1 notation/application and failed-access/noartifact/book-proof limits inherited through C469, with no new external occurrence, source proof/PDF or acquisition. |
 | support | [Related compression context](Yin_C_G0475_v1.md#statement) | Only the separately retained exact inverse detection context, explicitly NOT a premise or unproved accumulation input for this joint theorem. |
 | review | [Actual entire whole SELF](../audits/reviews/Yin_R_G0699_v1.md#joint-clean-density-whole-self-finding) | Entire exact statement/argument/selected fixed inputs, all Sections1--7/equations1--28 and every all-real/overlap/zero/short-N/original-law/nonunit/lag/onset/density/amplitude/radical/matching/source/negative boundary; no fresh isolated replacement or summary-only review. |
 
@@ -620,7 +621,7 @@ Current whole SELF supplies no new isolated replacement of the old whole obligat
 | dependency | [Exact retained dependency](Yin_C_G0212_v1.md#radical-collision-control) | Complete norm-minus-one dyadic irreducibility/actual degree2r/relative degree r and exact original probability product at fixed r; no imported numerical bit-rate constant or varying-r limit. |
 | support | [Exact retained support](Yin_C_G0235_v1.md#one-expanding-comparison) | Only actual real1<beta<2/all other conjugates at most one/total m and stronger leading rate comparison; not extended to arbitrary exterior-root configurations or a uniform horizon. |
 | support | [Exact retained support](Yin_C_G0522_v1.md#affine-block-matching-defect) | Exact original normalized Holder profile and its bounded total defect are comparison only, not the new joint conditional-product estimate. Preserve this original fixed input while its separate family is maintained. |
-| support | [Exact retained support](../audits/literature/Nat26/Yin_U003.md#nat26-u003) | Original10/10 DLMF1.2.8 formula/notation/application and failed-access/noartifact/book-proof limits inherited through C469, with no new external occurrence, source proof/PDF or acquisition. |
+| support | [Exact retained support](../audits/literature/Nat26/Yin_U003.md#nat26-u003) | Original10/10 DLMF edition 1.2.8, formulas 20.2.3/20.7.32 and Section 20.1 notation/application and failed-access/noartifact/book-proof limits inherited through C469, with no new external occurrence, source proof/PDF or acquisition. |
 | support | [Exact retained support](Yin_C_G0475_v1.md#statement) | Only the separately retained exact inverse detection context, explicitly NOT a premise or unproved accumulation input for this joint theorem. |
 | review | [Exact retained review](../audits/reviews/Yin_R_G0699_v1.md#joint-clean-density-whole-self-finding) | Entire exact statement/argument/selected fixed inputs, all Sections1--7/equations1--28 and every all-real/overlap/zero/short-N/original-law/nonunit/lag/onset/density/amplitude/radical/matching/source/negative boundary; no fresh isolated replacement or summary-only review. |
 

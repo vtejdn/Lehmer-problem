@@ -6,7 +6,8 @@ author: Yin
 
 The complete original mathematical argument is retained from [L435](../ledger/Yin_L_G0435_v1.md#powered-frobenius-statement).
 Its original contributions, fixed inputs, useful failures, source inspection and native-execution limits are preserved.
-The [original R443 whole finding](../audits/reviews/Yin_R_G0443_v1.md#powered-ratio-whole-independent-finding) retains its actual L435 target,2026-10-20T09:17 date and declared independent/nonblind arrangement, including received result summary and shared prior context.
+The [original R443 whole finding](../audits/reviews/Yin_R_G0443_v1.md#powered-ratio-whole-independent-finding) retains its actual L435 target and2026-10-20T09:17 date.
+Its independent/nonblind declaration is historical; the received result summary and shared prior context establish the actual SELF relationship recorded in R443.
 It is not retrospectively bound to this new C, and is not represented as a fresh isolated reconstruction.
 The current constructor has read the original proof and historical reviews; any current whole finding by this constructor is SELF.
 

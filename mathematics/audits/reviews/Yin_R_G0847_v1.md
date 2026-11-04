@@ -231,7 +231,7 @@ No theorem about that remaining range, another Haar or unsaturated branch, a cha
 The new period, exact division, subgroup normal form, CRT reconstruction and obstruction use explicit elementary F_2 algebra, with no newly invoked external theorem.
 The C608/C609 identities were checked at their actual whole-polynomial interfaces rather than treated as numerical evidence.
 The adopted C636 input retains R844's exact proof, native and source boundaries, including the earlier C197/C199 scalar, graph, valuation and complete-support interfaces.
-Smy08/Bel17 source limitations and every historical SELF/UNKNOWN relationship, including the R623/R635 boundary, remain unchanged.
+Smy08/Bel17 source limitations and every historical SELF/UNKNOWN relationship, including the R477/R489 boundary, remain unchanged.
 No classical source was reacquired or fully re-audited, and no earlier C or R received a new whole-ancestor verdict.
 No formal proof assistant, originality claim, expanded native experiment or unrestricted Task completion is asserted.
 

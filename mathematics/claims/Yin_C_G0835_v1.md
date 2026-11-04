@@ -261,9 +261,9 @@ C834's ambient identity L_full,Q(0,0,1)=G_Qbar/f8 supplies no ACTUAL source tupl
 Thus both actual memberships remain separate, and one original polynomial cannot pass both X4 signs.
 A complete new numerical certificate requires all declared source/word bindings and both span directions; this theorem does not assert that such a calculation has run.
 No new native program, source image, rank, target, word or ambient numerical verdict is used in the proof.
-The accepted C87559-dimensional quotient and literal recipes are the bounded existing native inputs, not new response values.
+The accepted C828 59-dimensional quotient and literal recipes are the bounded existing native inputs, not new response values.
 All these inputs remain reducible and cyclotomic with total logarithmic Mahler measure0.
-Neither a positive nor a negative fixed-family gate decision supplies C757's same irreducible reciprocal nontorsion input, controlled positive total measure or paid same-input degree/precision improvement.
+Neither a positive nor a negative fixed-family gate decision supplies C720's same irreducible reciprocal nontorsion input, controlled positive total measure or paid same-input degree/precision improvement.
 No higher-modulus, characteristic-zero identity or unrestricted G0001 conclusion is asserted.
 
 ## Complete argument
@@ -303,7 +303,7 @@ The formal coordinates need not be independent as actual integer factors or as g
 
 ### KP2. The6310 recipes present the entire formal Xi_16 kernel
 
-Use the fixed actual45 odd lift words O_a, a in C_15 x C_3, and92 principal lift words G_j from C867, as retained in C822/C828.
+Use the fixed actual45 odd lift words O_a, a in C_15 x C_3, and92 principal lift words G_j from C821, as retained in C822/C828.
 Regard their literal exponent vectors as elements o_a,g_j of F_0, with o_0=0.
 The actual quotient normal forms are unique:
 
@@ -654,7 +654,7 @@ A positive old-word membership already supplies an actual full-gate input at its
 The two signs are not merged, and no assertion that either full target is attained is made.
 No native code was added or executed, no payload or target was recomputed, and no additional alphabet was enumerated in this inquiry.
 All polynomial inputs remain in the fixed reducible cyclotomic family with total logarithmic Mahler measure0.
-Even a complete full-family F8/X4 decision at this profile leaves the irreducible reciprocal nontorsion, controlled positive total-measure and same-input degree/precision requirements of C757 unresolved.
+Even a complete full-family F8/X4 decision at this profile leaves the irreducible reciprocal nontorsion, controlled positive total-measure and same-input degree/precision requirements of C720 unresolved.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-28)

@@ -324,7 +324,7 @@ Consequently, along any hypothetical sequence of nontorsion algebraic units with
 This is a statement conditional on such a sequence existing.
 It does not produce one or exclude one.
 
-The already proved fair-binary comparison in [C G0281](Yin_C_G0280_v1.md#mahler-to-binary-min-entropy) also gives, for all \(N\),
+The already proved fair-binary comparison in [C280](Yin_C_G0280_v1.md#mahler-to-binary-min-entropy) also gives, for all \(N\),
 
 \[
  H_\infty(S_N)\ge H_1(S_N)/2\ge NB(m)/2,\qquad

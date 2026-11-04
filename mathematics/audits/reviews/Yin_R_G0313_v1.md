@@ -82,7 +82,7 @@ R312 is selected only as original support and does not claim to review this wrap
 For the imposed actual full order, every original target norm is a nonzero integer, so Lambda0>=0.
 Evaluation at alpha of a faithful packet gives e=mu E0+1-mu and therefore the exact retained mass and surplus in A.
 Values at all original indexed labels remain; equal targets do not justify merging their weights.
-The e=E0 endpoint forces mu1 but does not settle existence.
+The e=E0 endpoint forces mu=1 but does not settle existence.
 The working domain E0<e<1 gives0<mu<1.
 
 C11 and C13 are already adopted at their distinct actual domains.
@@ -116,7 +116,7 @@ Equality in the positive-kernel Cauchy--Schwarz estimate for a polynomial requir
 Actual common width T>0 leaves at least one nonconstant normalized coordinate of positive weight, making the inside aggregate strict.
 Thus each off-circle paired bound is strict and, since m>0, Gamma<Tm.
 Padded but unused degree would not justify this step; C85 consistently uses the actual union width.
-T0 keeps the weak bound only.
+T=0 keeps the weak bound only.
 
 The real-trace signed identity V=E+2A^- follows from separating positive and negative real products.
 It is never imposed at genuinely nonreal trace places.

@@ -6,7 +6,7 @@ author: Yin
 
 The responsible human record author is Yin.
 A separate agent outside substantive development read the fixed mathematical inputs directly, without the proposing dialogue, exploration summaries or target old conclusions before forming all three initial findings.
-The independent J71 and C36 first conclusions were complete at 2026-10-22T21:20, and the independent complete C618 first conclusion at 2026-10-22T21:22.
+The independent J71 and C36 first conclusions were complete at 2026-10-22T21:20, and the independent complete C598 first conclusion at 2026-10-22T21:22.
 Only after all three had been frozen did the agent consult the old target reviews, their relationships and exact bindings, the original J71 review payload and the current assessments for comparison.
 The comparison and necessary supplemental source/schema checks were completed by 2026-10-22T21:28.
 The allowed fixed proof bodies contained their own author self-check and attribution descriptions; the FKMR16 source entrance also mentioned that an older noncontributor review was retained, without supplying its verdict or mathematical findings.
@@ -74,7 +74,7 @@ The original author's runtimes and any historical absence-of-other-runs or byte-
 The entire natural R185 finding is exactly retained in R769, including the complete L286 fixed-prefix hyperbolic proof, conditional C1 transfer, the different old checker and actual execution account, source depth, useful failures and unknown relationship.
 Direct text comparison after the initial findings confirmed that complete natural finding is identical in the two current containers.
 The complete [R769 account](Yin_R_G0769_v1.md) remains at its adequate original home with its original relationship rows and full Target/Scope bindings unchanged; this finding reuses that account directly rather than copying it.
-Its [whole C537 finding](Yin_R_G0769_v1.md#whole-current-independent-finding) remains the earlier separately isolated written review, and its [original R769 finding](Yin_R_G0769_v1.md#finite-tail-pressure-complete-independent-review) retains the complete original historical input and unknown relationship.
+Its [whole C529 finding](Yin_R_G0769_v1.md#whole-current-independent-finding) remains the earlier separately isolated written review, and its [original R769 finding](Yin_R_G0769_v1.md#finite-tail-pressure-complete-independent-review) retains the complete original historical input and unknown relationship.
 The exact existing [R551 whole hyperbolic-tail finding](Yin_R_G0551_v1.md#hyperbolic-tails-whole) is reused for the complete C310 statement/argument and the specifically bound L286 Section2 support/Gram interface, including complex dimensions, nonunits, onset, prefix and source limits.
 No J79, J82 or unrelated R551 finding is selected by this reuse.
 The old R185 stationary-maximizer argument and historical execution details remain in the preserved old account; the new J71 finding is not retroactively attached to those acts or presented as a fresh review of that whole original proof.

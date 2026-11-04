@@ -13,7 +13,7 @@ This is an initial whole-proof review of [D_G0015](../../ledger/Yin_L_G0369_v1.m
 The upstream D14 account was subsequently fixed in [L368](../../ledger/Yin_L_G0368_v1.md); the current D15 locator was relocated to that fixed input without a mathematical change during review.
 
 The reviewer supplied none of D15's Salem interlacing, endpoint multiplicity, smaller-polynomial or quartic derivation.
-It shares G0001 conversation/repository context with root and the analytical author, and previously independently reviewed the complete upstream oscillatory proof in [R193](Yin_R_G0193_v1.md#whole-oscillatory-certificate-finding).
+It shares G0001 conversation/repository context with root and the analytical author, and previously checked the complete upstream oscillatory proof at its actual self-reviewed relationship in [R193](Yin_R_G0193_v1.md#whole-oscillatory-certificate-finding).
 It has also reviewed root's distinct D5/D9/D11 arguments and authored separate arithmetic cokernel/moment material.
 Those roles do not supply this new specialization.
 The assigned obligations and complete written frozen proof were available; no additional proof-generation dialogue, author explanation or previous independent D15 verdict was consulted before the present findings.
@@ -22,11 +22,16 @@ The review read the complete D15 body and refreshed the actual reciprocal trace-
 It checked the specialization against its own actual upstream whole reconstruction in R193 and the fixed L368 phase/gcd, paid integration, exact log-series and Fejer conclusions.
 No new source theorem, root-data program, numerical critical-point calculation, moment scan or old computation rerun was used.
 
+The initial complete L369 input included its author outcome and obstacle summary and the final validation checklist, beyond the necessary derivation.
+The whole Salem-specialization finding therefore has a self-reviewed relationship under the current context rule.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole Salem-specialization finding](#whole-salem-specialization-finding) | independently reviewed |
+| [Whole Salem-specialization finding](#whole-salem-specialization-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -38,7 +43,7 @@ No new source theorem, root-data program, numerical critical-point calculation, 
 | [Whole Salem-specialization finding](#whole-salem-specialization-finding) | [D15 actual Salem quarter obstruction](../../ledger/Yin_L_G0369_v1.md#salem-quarter-exponent-actual-control) | Complete Sections4--5: quartic original-degree irreducibility, exact Salem conjugates, fourth-order phase expansion, positive-Fejer sharpness and all fixed-measure/nonuniform-conditioning limits. |
 | [Whole Salem-specialization finding](#whole-salem-specialization-finding) | [L66 trace-domain interface](../../ledger/Yin_L_G0066_v1.md#reciprocal-trace-domain) | Actual irreducible reciprocal trace polynomial/integer normalization and quadratic inverse-pair degree, with the additional Salem all-real root configuration explicitly supplied in D15. |
 | [Whole Salem-specialization finding](#whole-salem-specialization-finding) | [L368 full phase cancellation](../../ledger/Yin_L_G0368_v1.md#exact-phase-critical-cancellation) | Unchanged complete canceled squared-derivative object, endpoint extension, actual algebraic constants and rational monotonicity partition used by the new specialization. |
-| [Whole Salem-specialization finding](#whole-salem-specialization-finding) | [L368 oscillatory and log certificate](../../ledger/Yin_L_G0368_v1.md#unregularized-integer-moment-certificate) | Actual paid first-derivative decay, same exact rational moments, absolute logarithmic series and finite global lower direction, at the scope independently reviewed in R193. |
+| [Whole Salem-specialization finding](#whole-salem-specialization-finding) | [L368 oscillatory and log certificate](../../ledger/Yin_L_G0368_v1.md#unregularized-integer-moment-certificate) | Actual paid first-derivative decay, same exact rational moments, absolute logarithmic series and finite global lower direction, at the actual self-reviewed R193 scope. |
 | [Whole Salem-specialization finding](#whole-salem-specialization-finding) | [L368 positive-kernel obstruction](../../ledger/Yin_L_G0368_v1.md#oscillatory-degeneracy-integer-obstruction) | Only the proved local concentration-to-Fourier-decay Fejer implication, applied to the newly checked quartic phase; no transfer of its old broad-class example as a Salem input. |
 
 ## 1. Original Salem trace and exhausted interlacing

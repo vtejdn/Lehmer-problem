@@ -17,7 +17,7 @@ The recorded authorship, checking relationship, inputs, verdicts and limitations
 The assigned AI review_matrix_completion independently reviewed the current v1 arguments in L G0025, L G0026 and L G0027 and their accepted entropy and sparse-gap interfaces.
 The root had supplied the requested scope and existing files; this was not a blind or human review.
 No mathematical defect was found within their stated scopes.
-The exact inspected file SHA256 values were:
+The exact inspected mathematical inputs were:
 
 - [L G0025](../../ledger/Yin_L_G0025_v1.md)
 - [L G0026](../../ledger/Yin_L_G0026_v1.md)

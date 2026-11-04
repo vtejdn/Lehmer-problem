@@ -25,7 +25,7 @@ def main():
     parser.add_argument('--radius',type=float,default=12)
     parser.add_argument('--cap',type=int,default=1000000)
     args=parser.parse_args()
-    data=json.loads((base/'compact.json').read_text())
+    data=json.loads((_J_PROGRAM/'inputs/compact.json').read_text())
     targets={tuple(a) for a in data['states']}
     u=(1+math.sqrt(13))/2
     beta=(u+math.sqrt(u*u-4))/2

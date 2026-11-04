@@ -4,6 +4,11 @@ author: Yin
 
 # Full-strip Salem operator norms and the certified quartic two-step interval
 
+## Native input replay limits
+
+The [J33 adopted integer-vector payload](../computations/programs/Yin_J_G0033/readme.md#native-input-availability) is currently unavailable for the J33/J34 native replay.
+The fixed phase construction and the original successful finite findings remain at their recorded scopes, without a new certificate selection or execution claim.
+
 ## Current assessment
 
 [Selected decision](#decision-isolated-quartic-certificate-review-20261023)

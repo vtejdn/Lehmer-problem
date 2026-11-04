@@ -13,7 +13,6 @@ author: Yin
 
 <a id="yin_c_f0003"></a>
 The Brown construction and elliptic benchmarks remain explicitly accepted source results.
-No mathematical Role is assigned.
 
 Date: 2026-09-12.
 Author: another AI agent.

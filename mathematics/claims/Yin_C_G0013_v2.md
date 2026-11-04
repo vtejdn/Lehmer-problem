@@ -23,7 +23,7 @@ Principal ideals u_b B=a_b B, u_b O=a_b O and positive full norms kappa_b=Norm_F
 Complex embeddings use complex SQUARES, not squared moduli.
 
 For every eta>0 these profiles have finite rational Laurent lifts with exact constant normalized covariance E<E'<min(1,E+eta), all original values retained before common monomial normalization and only added values+/-1.
-This nonzero-target/nonreal-input lifting interface is proved directly in the argument, not inferred from the formal domain of old L392/R294.
+This nonzero-target/nonreal-input lifting interface is proved directly in the argument, not inferred from the formal domain of the original L392 whole finding retained in R673.
 With the actual common coefficient denominator q and FINAL weights omega_b, the original full resultants are q^d kappa_b, added ones+q^d, I=log q+(1/d)sum_original omega_b log kappa_b, and (T/d)m(P)>=-(1/2)log E'+(1/d)sum_original omega_b log kappa_b>0.
 All support, seed coefficient height, Gram dimension, scalar/weight denominator and content costs are retained.
 No phase-return rate, uniform efficiency or unrestricted Mahler gap is asserted.
@@ -112,7 +112,7 @@ The changed obligations are the specified original values, fixed nonzero seed id
 The complete developing predecessor of that interface and its full norm/ideal account were read; current references use its unchanged fixed L392 version.
 L392's formal original-input domain in Section 1 is TOTALLY REAL, whereas L390's general reciprocal-input theorem assumes UNIT targets.
 The combined nonzero-target/nonreal-input lifting interface is therefore explicitly re-established in Section 7 below as a NEW interface generalization.
-Neither the nonreal profile construction nor this combined formal scope is treated as automatically accepted by L392 or its old R294.
+Neither the nonreal profile construction nor this combined formal scope is treated as automatically accepted by L392 or its original whole finding retained in R673.
 The fixed proofs supply reusable algebraic steps, not retroactively broadened conclusions.
 
 The earlier Con26-U001 is expressly totally real.
@@ -446,7 +446,7 @@ These formulas prove every value, positivity, normalization and tolerance assert
 No target inverse, integrality or real trace embedding was used in these structural steps.
 Integrality is needed separately for the full-norm income floor below.
 Added values +/-1 use the seed-1 ideal already in the inventory.
-This completes the new nonzero-target/nonreal-input lifting proof, without asserting that L392's original formal domain or R294 already included it.
+This completes the new nonzero-target/nonreal-input lifting proof, without asserting that L392's original formal domain or its original whole finding retained in R673 already included it.
 
 After the ACTUAL common monomial and scalar coefficient denominator q, the integer auxiliaries have original values q alpha^m u_(i,a), or +/-q alpha^m for added labels.
 Since alpha^+/-1 is an actual O-unit of full norm1,
@@ -492,7 +492,7 @@ It is not a new generic complementary-bundle existence claim, an efficient metho
 The author self-check covers the actual minimal reciprocal polynomial and K/F involution; F's signature and nonzero imaginary generator values; full B and actual order units; complex logarithmic weight2; all integer seed rounding margins, nondegenerate bad triangle and positive good cones; the corrected large/small-imaginary-part coefficient bound; the fixed s+1 indexed direction count; nonzero values at every embedding and fixed squared full norms; actual finite-place ideal invariance; the one common phase-square tuple, compact-torus quotient return, increasing subsequence and absence of any return-rate/density claim; every coefficient and normalization row in (9), two real rows per complex equation and invertibility of complex division; all limiting blocks and strict positive finite-stage solutions; rationality of the unscaled system through the full real/imaginary Vandermonde interface; fixed-E quantifiers; the imaginary-quadratic discriminant branch without log cones; the original optional quartic's irreducibility, full two-exterior-root measure, actual i-unit and positive full norms; and all renormalized lifting/resultant/weight/content/degree costs in (12)--(15).
 
 The new combined lifting interface was additionally self-checked through the actual evaluation ideal, P^2 correction, self-star B_P, circle positivity and damping including circle zeros, exact rational Gram/LDL hypotheses, removal of every zero-valued coordinate by +/-1 repair, exact retained values and normalized weights, and all full norms/ideals/income after common normalization.
-These deductions explicitly remove the total-reality premise from the combined nonzero-target setting; they are new interface work here, not an expansion of the old R294 verdict.
+These deductions explicitly remove the total-reality premise from the combined nonzero-target setting; they are new interface work here, not an expansion of the original L392 verdict retained in R673.
 
 The general complex-place Dirichlet interface has been directly source-checked at the precise Section 3 conventions and proof depth in Section 1.
 Its classical Minkowski/lattice foundations remain external.
@@ -524,5 +524,5 @@ No native computation or new allowance accompanies registration.
 2026-10-11T17:45: [v1 and its initial decision](Yin_C_G0013_v1.md#decision-initial) remain fixed and unaccepted.
 The independent extraction reviewer identified that the actual full-trace-order proof was still located in L388 rather than the selected C interfaces.
 This v2 supplies that complete signature-free argument locally.
-The statement, every retained original D8 paragraph, source inspection and whole R297 scope are unchanged.
+The statement, every retained original D8 paragraph, source inspection and whole R221 scope are unchanged.
 This repair adds actual proof ownership; it does not change the theorem or retroactively enlarge old reviews.

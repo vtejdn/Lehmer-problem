@@ -86,7 +86,7 @@ Pending or working labels inside the original account record its original moment
 
 Date: 2026-10-11T17:26.
 Authored by general_relative_sign_review AI for Yin under root-coordinated continuing G0001 authorization.
-This agent is an author for this new investigation; its previous whole review R294 of the different fixed result L392 is not independent evidence for this work.
+This agent is an author for this new investigation; its previous whole review of the different fixed result L392, now retained in R673, is not independent evidence for this work.
 Root supplied the question, not a proof candidate.
 
 ## Assigned question and exact domain
@@ -104,7 +104,7 @@ No theorem or whole independent review is asserted by allocation.
 ## 1. Reuse and the actual arithmetic hypotheses
 
 The completed local reuse check read the exact [L318 bundle inequality](Yin_C_G0600_v1.md#weighted-integral-bundle-bound), its [old binomial complements](Yin_C_G0600_v1.md#common-filter-cancellation-obstruction), complete [L390 lifting/cost argument](../ledger/Yin_L_G0390_v1.md#original-norm-denominator-and-degree-costs), and the complete changed [L392 integral-seed account](../ledger/Yin_L_G0392_v1.md#fixed-seed-full-resultants-ideals-and-income).
-The author previously whole-reviewed the last account in R294; that earlier review is not independent checking of the present deductions.
+The author previously whole-reviewed the last account in the original L392 finding now retained in R673; that earlier review is not independent checking of the present deductions.
 These fixed results give exact existence and the necessary analytic expense, not the short-width and minimum coefficient-energy classification below.
 
 The current C_G0001--C_G0008 statement entrances were screened: their resultant/trace, Stokes, annihilator, return and radical-lift subjects do not assert the present complementary coefficient-energy statement.
@@ -389,7 +389,7 @@ The unrelated ordinary binomial construction, L225 sparse-period price, L377 wei
 No missing source theorem or numerical premise is used.
 
 The complete Sections1--8/equations(1)--(13), both exact controls, the necessary-test comparison and all hypotheses/limits are frozen at2026-10-11T17:37 for a separately organized whole noncontributor review.
-This is author self-review, not independent acceptance; the author's former R294 review of L392 supplies no independence for this new proof.
+This is author self-review, not independent acceptance; the author's former L392 review now retained in R673 supplies no independence for this new proof.
 The scoped material check passed before this final freeze paragraph and is rerun afterward; it checks structure and locators, not mathematics.
 No native mathematical program, scan, solver or J was run.
 Root owns later review and adoption.

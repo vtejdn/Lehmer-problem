@@ -8,13 +8,16 @@ Date: 2026-10-10T14:18.
 Human author: Yin.
 Mixed source-application, computational checkpoint and exploration history under [G0001](../tasks/Yin_T_G0001_v1.md), which remains paused.
 
+## Native input replay limits
+
+The [J15 original native coefficient arrays](../computations/programs/Yin_J_G0015/readme.md#native-input-availability) are currently unavailable for replay of the thirteen selected witnesses and their return times below.
+The displayed historical exact observations retain their actual scope, without claiming that a fresh MILP run would reproduce those same witnesses.
+
 ## Organization and current scope
 
-At the user's request, the completed D G0008 record is retained in L according to its role.
 It contains a fixed-input source deduction and finite experiments, with distinct review scopes; it is not a single adopted Claim asserting all exploratory proposals.
-The full original text, title, mathematical formulas, thirteen-witness table, failed bounded attempt and review disclosure follow unchanged except for heading depth and relocated links.
-Programs and exact arrays remain in [J G0015](../computations/programs/Yin_J_G0015/readme.md).
-The redundant D copy is retired only after full-text preservation and incoming-reference checks.
+The account contains the thirteen-witness table, the failed bounded attempt and their distinct review disclosures.
+The native program and array availability limits are recorded in [J15](../computations/programs/Yin_J_G0015/readme.md#native-input-availability).
 
 The source input is Mercat's polynomial \(P_M(t)=t^4-2t^3+t^2-2t+1\).
 The accepted [Mer13 Proposition 4.23 interface](../audits/literature/Mer13/Yin_U001.md), together with the elementary source-to-core conversion and [L G0157](Yin_L_G0157_v1.md), yields the [complete fixed theorem now in C371](../claims/Yin_C_G0371_v1.md#statement): its infinite actual return core and the stated unbounded-norm/quotient consequences.

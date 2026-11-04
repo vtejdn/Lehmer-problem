@@ -9,7 +9,7 @@ The agent second_four_realization developed FP1--FP5; root read the complete sav
 Independent whole review and separate adoption are required.
 The local C603 first-quarter calculation is reused at its actual localized-module scope; no global quarter of an auxiliary is claimed when its other components are untested.
 C677's global square source, J_H and q>=2 hypotheses are not imported; the complete local variation is checked below.
-No C767/C770 global power-family theorem, native computation or new external source is used.
+No C730/C733 global power-family theorem, native computation or new external source is used.
 
 ## Statement
 

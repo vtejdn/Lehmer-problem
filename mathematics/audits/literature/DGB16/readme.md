@@ -1,6 +1,6 @@
 # DGB16 source audit
 
-The identifies the unchanged [published source](../../../literature/pdf/DGB16.pdf), supplied under the filename `DB16.pdf` and registered as `DGB16` on 2026-10-06.
+The unchanged source is the [published source](../../../literature/pdf/DGB16.pdf), supplied under the filename `DB16.pdf` and registered as `DGB16` on 2026-10-06.
 Printed page equals PDF page plus 611.
 This entrance organizes Yin's explicit source audit; it selects no research Task, project Claim or manuscript adoption.
 

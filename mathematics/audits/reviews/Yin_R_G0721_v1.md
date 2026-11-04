@@ -52,7 +52,7 @@ The accepted C476 Statement read for the actual P also included that different i
 No transcript filtering or claim of zero historical-text exposure is made.
 
 The initial mathematical reconstruction of the two assigned targets began at2026-10-22T03:22 and was completed at2026-10-22T03:28, with an observed elapsed5minutes56seconds.
-Only after reporting that initial finding did the reviewer receive and read the entire original R106v1, current R855v1, complete L207v1 including Section6, C497's later checks/Assessment/history and the ordinary J43 README.
+Only after reporting that initial finding did the reviewer receive and read the entire original R106v1, current R708v1, complete L207v1 including Section6, C497's later checks/Assessment/history and the ordinary J43 README.
 The second-stage comparison ran from2026-10-22T03:30 to2026-10-22T03:35, with an observed elapsed5minutes1second.
 The completed whole review includes that original contribution/author-check account and all necessary historical/source/native limits.
 Publication is the separate minute stated above.
@@ -182,7 +182,7 @@ No new review or source reading is backdated to04:04.
 No author-check or freeze completion minute is inferred from that review minute.
 
 The complete original Section6 author finding is retained separately below with its self-reviewed relationship and2026-10-10 day precision.
-R855's actual09:22 current whole SELF remains separate and is not relabelled independent.
+R708's actual09:22 current whole SELF remains separate and is not relabelled independent.
 Current C497's09:23 adoption remains its own original decision until an actually new adoption selects new findings.
 
 The all-integer exclusion covers exactly a rank-four core with three unit pendant-forest vertices and the full single-Phi2 target.

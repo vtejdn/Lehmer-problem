@@ -11,7 +11,7 @@ Scope: complete Statement and Sections1--7/formulas1--18, all three pairwise fie
 Root and f_unitary_scope are new proof contributors.
 This reviewer provided no field/pair or positive-completion proof step.
 The arrangement is non-blind: shared context, root's assignment and the author check were available.
-The reviewer previously performed R367 on C149, R369 on C151 and R495 on C140; C148 was read for its accepted comparison scope, with no new J96 reproduction here.
+The reviewer previously performed R367 on C149, R369 on C151 and [R801 original normalized-sparse-cost](Yin_R_G0801_v1.md#normalized-sparse-cost-whole-independent-finding) on C140; C148 was read for its accepted comparison scope, with no new J96 reproduction here.
 Earlier assistance concerning the continuing D35 was READ-ONLY source/reuse pointing, not this new proof.
 The reviewer's old C137 authorship is only an accepted antecedent behind the C140 comparison, not a fresh independent review of that old proof.
 These relationships do not pre-cover this successor.

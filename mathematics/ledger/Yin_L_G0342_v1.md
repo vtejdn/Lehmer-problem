@@ -64,7 +64,6 @@ The [complete L335 block argument](Yin_L_G0335_v1.md#returned-block-convolution-
 The additional mechanisms are the already retained [binary separated-digit argument](Yin_L_G0173_v1.md#separated-digit-strip-norm) and integral norm with all embeddings, as used in L169/L173.
 A targeted G-ledger search found no existing arbitrary-support version of the L335 bounded-block conclusion.
 The local mechanisms suffice; no new external theorem or source acquisition is needed.
-One initial rules read used the nonexistent short path reuse.md, then read the actual knowledge-reuse.md; it supplied no mathematical evidence.
 No novelty claim is made for binary separation, integer norms or conditional variance.
 
 Fix the ACTUAL primitive quartic

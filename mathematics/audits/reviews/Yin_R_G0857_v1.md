@@ -218,7 +218,7 @@ The square complement X^24 does not make Y or the actual R_0 globally square; in
 All new root, nilpotent correction, CRT and coset calculations are explicit local algebra, with no new external theorem.
 C643v2 is accepted only at R853's exact scope, and C630/C636 old-image evidence only at R833/R844's scopes.
 Their native calculations are neither rerun nor repurposed as larger-image certificates.
-C197/C199 ancestry retains the existing Smy08/Bel17 source limits and all SELF/UNKNOWN relationships, including the R635/R638 unknown initial-context boundaries.
+The C197/C199 ancestry retains the recorded Smy08/Bel17 source limits and R477's actual C197v3 finding and R489's separate C199v3/v4 findings, all at their original UNKNOWN initial-context scopes; the selected C199v5 original-domain input separately retains R492's own UNKNOWN scope without importing its later complement conclusions.
 No classical source was reacquired or fully audited and no ancestor receives a new whole-proof verdict.
 No complete support for either remaining full target, original realization, full A_0=16 exclusion, inhomogeneous A_0=14 conclusion or unrestricted Task completion is established.
 No formal proof assistant verification or mathematical native experiment is claimed.

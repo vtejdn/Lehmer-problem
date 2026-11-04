@@ -84,7 +84,7 @@ The initial observation above is preserved as the actual incremental development
 The complete [C110 v2](Yin_C_G0110_v2.md#statement) already proves a real regularization-corrected lower certificate and a rational all-root denominator floor.
 Its elementary PSD estimate at a circle root is explicitly reused here, not claimed as new.
 [C113](Yin_C_G0113_v1.md#localized-gram-correction) already allows a justified localized PSD correction and prices its whole symbol; its Sidon-support argument has a different independent-phase hypothesis.
-[C117](Yin_C_G0117_v1.md#statement), now actually adopted after R472, supplies the exact original Salem coefficient identities, noncentral invertibility, central exception and complete height/norm bounds.
+[C117](Yin_C_G0117_v1.md#statement), now actually adopted after R349, supplies the exact original Salem coefficient identities, noncentral invertibility, central exception and complete height/norm bounds.
 This author contributed C117 and is not independently reviewing that input.
 
 The author also read [F110](../ledger/Yin_L_F0006_v1.md#coefficient-optimizer-degeneration) in full: its fixed-input root-regularization constants and compactness do not supply the estimates below.
@@ -567,7 +567,7 @@ The recorded review description was `under review`.
 | --- | --- | --- |
 | statement | [Exact real stability statement](#statement) | Full A--D, all original Salem/width/real/symbol/coordinate hypotheses, denominator-free floors, paid constants and exact rank-one exception. |
 | argument | [Entire stability proof](#argument) | Complete Sections 2--7 and all 29 formulas, leakage, affine recovery, noncentral and central distinctions, spectral/arithmetic costs and actual control. |
-| dependency | [Actual Salem coordinate identities](Yin_C_G0117_v1.md#statement) | Entire required original trace-field/coefficient identities, noncentral adjugate, central sign and all-field height bounds from the independently adopted input. |
+| dependency | [Actual Salem coordinate identities](Yin_C_G0117_v1.md#statement) | Entire required original trace-field/coefficient identities, noncentral adjugate, central sign and all-field height bounds from the adopted input, whose selected R349 finding is self-reviewed. |
 | dependency | [Actual Salem argument](Yin_C_G0117_v1.md#argument) | Exact derivations and every nonzero coefficient, determinant and full norm denominator used here. |
 | support | [Prior real regularization](Yin_C_G0110_v2.md#statement) | Existing PSD root-residual mechanism; no rational denominator floor imported to the present real matrices. |
 | support | [Localized correction](Yin_C_G0113_v1.md#localized-gram-correction) | Prior sufficient corrected-symbol Mahler inequality, distinguished from the new necessary correction costs. |

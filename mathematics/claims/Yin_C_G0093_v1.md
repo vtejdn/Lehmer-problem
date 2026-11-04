@@ -228,7 +228,7 @@ The recorded review description was `under review`.
 | dependency | [C71 all-positive-weight E1 selector](Yin_C_G0071_v1.md#statement) | ONLY Part A applied to the COMPLETE sixteen-label nonzero O0 sign packet, actual q2/FINAL M16/E1 and actual common width; source/domain limits retained. |
 | dependency | [C84 exact binary delay interface](Yin_C_G0084_v1.md#statement) | Exact primitive weighted binary signed factors and TRUE-polynomial local unchanged/common-shift classification at K0, fixed metric, every-stage nonzero SAME O0, actual local spread plus absolute delay and optional one-coordinate shifts. |
 | support | [Existing golden-unit control](Yin_C_G0087_v1.md#statement) | ONLY Part E's exact constant rotation, original signed norms and q5/M2/E1/width5 surplus outside K0; its full-order saturation theorem is not a proof premise. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0326_v1.md#seven-power-entire-independent-finding) | ENTIRE actual frozen D48 and direct interfaces independently checked before this wrapper was authored. R326 remains original WHOLE support only; it does not prospectively cover the actual Claim extraction or adopt it. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0326_v1.md#seven-power-entire-independent-finding) | ENTIRE actual frozen D48 and direct interfaces independently checked before this wrapper was authored. R326 remains original WHOLE support only; it does not prospectively cover the actual Claim extraction or adopt it. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -249,7 +249,7 @@ The recorded review description was `under review`.
 | dependency | [C71 all-positive-weight E1 selector](Yin_C_G0071_v1.md#statement) | ONLY Part A applied to the COMPLETE sixteen-label nonzero O0 sign packet, actual q2/FINAL M16/E1 and actual common width; source/domain limits retained. |
 | dependency | [C84 exact binary delay interface](Yin_C_G0084_v1.md#statement) | Exact primitive weighted binary signed factors and TRUE-polynomial local unchanged/common-shift classification at K0, fixed metric, every-stage nonzero SAME O0, actual local spread plus absolute delay and optional one-coordinate shifts. |
 | support | [Existing golden-unit control](Yin_C_G0087_v1.md#statement) | ONLY Part E's exact constant rotation, original signed norms and q5/M2/E1/width5 surplus outside K0; its full-order saturation theorem is not a proof premise. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0326_v1.md#seven-power-entire-independent-finding) | ENTIRE actual frozen D48 and direct interfaces independently checked before this wrapper was authored. R326 remains original WHOLE support only; it does not prospectively cover the actual Claim extraction or adopt it. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0326_v1.md#seven-power-entire-independent-finding) | ENTIRE actual frozen D48 and direct interfaces independently checked before this wrapper was authored. R326 remains original WHOLE support only; it does not prospectively cover the actual Claim extraction or adopt it. Finding relationship: self-reviewed. |
 | review | [Actual extraction finding](../audits/reviews/Yin_R_G0329_v1.md#c93-seven-power-actual-extraction-finding) | Entire actual statement and retained argument, all direct interfaces, individual-versus-union-width distinction and complete preservation; noncontributor actual review distinct from proof and wrapper authors. |
 
 ## Registration and complete preservation

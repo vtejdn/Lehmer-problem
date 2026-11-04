@@ -8,7 +8,7 @@ The [active all-strategy Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategie
 Root requested testing the actual next residual precision without treating large q as automatic success.
 Same_trace derived the complete next first-error image, its explicit finite inverse, the remaining true second-error and composition map, and the all-coefficient-lift criterion and count below.
 This is author mathematics, not independent review.
-Focused reuse read adopted C686 and its whole R1075, C202's exact changing-divisor proof, and the adopted C675/C707/C710 actual same-polynomial interfaces.
+Focused reuse read adopted C686 and its whole R907, C202's exact changing-divisor proof, and the adopted C675/C677/C680 actual same-polynomial interfaces.
 C202 only states its modulo4-to-modulo8 layer; the necessary new integer halves, both canonical quotient terms, proper derivative image and complete modulo16 elimination are proved here.
 No native computation, coefficient enumeration, external source theorem or claim of a passing modulo16 input is used.
 

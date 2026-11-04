@@ -16,7 +16,7 @@ The reviewer enumerated those obligations, read the ENTIRE actual frozen proof a
 No prior D6 review verdict or proof-generation dialogue was used.
 An unrelated R318 format/account was later consulted as a record-format reference only, supplying no D6 mathematical premise.
 
-Upstream roles are explicit: C20 identifies the paraunitary researcher AI and root as its authors; this reviewer was neither that author nor its R305 reviewer.
+Upstream roles are explicit: C20 identifies the paraunitary researcher AI and root as its authors; this reviewer was neither that author nor the reviewer of its [historical whole finding retained in R746](Yin_R_G0746_v1.md#quadratic-parameter-whole-author-finding).
 The current adopted C20 statement and required local coefficient/norm/denominator interfaces were READ as accepted project input, not given a fresh whole-foundation review.
 This reviewer previously authored unrelated D3/D5/J89 original-Lehmer work and other different coefficient/denominator deductions, but D6 has NONE of those as a premise and none was used to prove this finding.
 No native program, matrix/solver scan, new J or formal verification was performed.

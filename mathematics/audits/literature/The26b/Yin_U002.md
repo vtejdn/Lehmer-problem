@@ -24,7 +24,7 @@ Inspection: Root directly read the entire indicated official page statement and 
 
 The inspected object is the official stable-tag HTML page as served on15 October2026, in Commutative Algebra, Section10.36, Finite and integral ring extensions.
 No whole-project commit or fixed chapter-PDF revision was identified for this online page.
-No local HTML/PDF artifact was acquired or modified; the older The26b chapter and the separate U002 HTML snapshots retain their own versions.
+No local HTML/PDF artifact was acquired or modified; the older The26b chapter and the separate U001 HTML snapshots retain their own versions.
 The canonical bibliography identity remains The26b.
 
 ## Statement and accepted use

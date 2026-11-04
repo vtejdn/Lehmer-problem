@@ -540,7 +540,7 @@ The varying-input quantitative gate remains open; present maintenance resumes no
 The maintaining agent read all L263/R162 and checked every matrix/order/quotient constraint, all two-branch block constants and unrestricted shifts, finite coefficient-limit induction/real multiplicities, first-lag/all-future onset assembly, original factors and complete radical degree/Gram/nine-term/five-pair/lower-row control against the actual C436/C445/C296/C212/C235 mechanisms.
 Smy08-U001 was read only as the retained accepted normalization/precision interface; Nat26-U003 is sufficient at its original statement/formula/application depth.
 No new source occurrence/proof/PDF, program/native artifact, numerical computation, producer or Task/E execution was introduced.
-The original author check was at2026-10-10T01:26.
+The original author check was at 2026-10-10T01:26.
 R162 records shared G0001 history and a review brief but not their exact initial proof-relevant content/order; its prior reviews/necessary fixed inputs alone do not establish proof contribution or isolation.
 Its original whole mathematical pass/date/verdict remain, with relationship UNKNOWN at full Sections1--7/equations1--29/source/control scope.
 The present actual whole SELF supplies no fresh isolation and closes no historical whole review obligation.
@@ -576,7 +576,7 @@ The present actual whole SELF supplies no fresh isolation and closes no historic
 | --- | --- |
 | date | 2026-10-21T21:21 |
 | status | proved |
-| reason | Adopt after the actual C459/R664 whole SELF check of all original Sections1--7/equations1--29, actual monic original-law/finite-entry identities, every real-tail block derivative and both positive-part branches, strong residual/fixed finite convolution and first-nonzero actual lag, full all-future onset/boundary/density/perturbation costs and complete symbolic radical9/5/lower-row control. Adequate existing C436/C445/C296/C212/C235 and accepted Smy08/Nat26 mechanisms were compared at their actual scopes; no source-proof/PDF/producer/numerical/Task execution occurred. Original R162 whole UNKNOWN and author09:26 SELF remain, with no fresh isolation, useful uniform onset, total-loss near-one control or gap inferred. |
+| reason | Adopt after the actual C459/R664 whole SELF check of all original Sections1--7/equations1--29, actual monic original-law/finite-entry identities, every real-tail block derivative and both positive-part branches, strong residual/fixed finite convolution and first-nonzero actual lag, full all-future onset/boundary/density/perturbation costs and complete symbolic radical9/5/lower-row control. Adequate existing C436/C445/C296/C212/C235 and accepted Smy08/Nat26 mechanisms were compared at their actual scopes; no source-proof/PDF/producer/numerical/Task execution occurred. Original R162 whole UNKNOWN and author 2026-10-10T01:26 SELF remain, with no fresh isolation, useful uniform onset, total-loss near-one control or gap inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

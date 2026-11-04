@@ -68,42 +68,11 @@ The fixed candidate retains the complete weighted baseline and norm/degree count
 It supplies no full inverse-cycle exclusion, original realization or upper bound on cancellation depth.
 The f-only formal control above remains at its separate unrealized scope and has not been removed or promoted to an original field construction.
 
-
 <a id="opposite-cycle-uniform-distance-candidate"></a>
 ## Author extension: opposite cycles require distance diversity and larger original degree
 
 The root and original_law distance-diversity and local multiplicity arguments are fixed in the complete v2 extension; both remain contributors, not its independent reviewers.
 See the [complete fixed statement](../claims/Yin_C_G0646_v2.md#opposite-cycle-distance-and-degree-extension) and its [selected whole-reviewed decision](../claims/Yin_C_G0646_v2.md#decision-whole-reviewed-2026-10-23).
-
-<a id="opposite-cycle-constant-distance-c5-value"></a>
-### 7. Exact C5 value at every prime of a constant-distance cluster
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v2, this exact proof section](../claims/Yin_C_G0646_v2.md#opposite-cycle-constant-distance-c5-value).
-
-<a id="opposite-cycle-adjacent-distance-separation"></a>
-### 8. The fully paid ratio for two adjacent constant-distance clusters
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v2, this exact proof section](../claims/Yin_C_G0646_v2.md#opposite-cycle-adjacent-distance-separation).
-
-<a id="opposite-cycle-necessary-distance-diversity"></a>
-### 9. Required nonconstant distance cluster and its original-prime consequence
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v2, this exact proof section](../claims/Yin_C_G0646_v2.md#opposite-cycle-necessary-distance-diversity).
-
-<a id="opposite-cycle-unit-multiplicity-degree-bound"></a>
-### 10. No adjacent unit multiplicities and the stronger original-degree bound
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v2, this exact proof section](../claims/Yin_C_G0646_v2.md#opposite-cycle-unit-multiplicity-degree-bound).
-
-<a id="opposite-cycle-no-unit-two-unit"></a>
-### 11. Exclusion of the local multiplicity pattern(1,2,1)
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v2, this exact proof section](../claims/Yin_C_G0646_v2.md#opposite-cycle-no-unit-two-unit).
-
-<a id="opposite-cycle-five-thirds-degree-bound"></a>
-### 12. The stronger cyclic degree budget and order31 consequence
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v2, this exact proof section](../claims/Yin_C_G0646_v2.md#opposite-cycle-five-thirds-degree-bound).
 
 <a id="opposite-cycle-double-average-candidate"></a>
 ## Further author candidate: two units per cluster on average
@@ -153,36 +122,11 @@ Original_law checked this alternative as a contributor; the fixed v3 directed-ed
 The directed(1,2) obstruction, forced distances(16,3), exact arbitrary-successor integer contradiction and full degree consequence are fixed with their complete proofs in v3.
 See the [complete fixed statement](../claims/Yin_C_G0646_v3.md#opposite-cycle-no-unit-extension) and its [selected whole-reviewed decision](../claims/Yin_C_G0646_v3.md#decision-whole-reviewed-2026-10-23).
 
-<a id="opposite-cycle-unit-two-forced-values"></a>
-### 13. Exact forced values if a directed(1,2) edge existed
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v3, this exact proof section](../claims/Yin_C_G0646_v3.md#opposite-cycle-unit-two-forced-values).
-
-<a id="opposite-cycle-unit-two-successor-contradiction"></a>
-### 14. Any actual successor gives an integer contradiction
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v3, this exact proof section](../claims/Yin_C_G0646_v3.md#opposite-cycle-unit-two-successor-contradiction).
-
-<a id="opposite-cycle-double-degree-bound"></a>
-### 15. Full original degree at least four times the cycle size times h
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v3, this exact proof section](../claims/Yin_C_G0646_v3.md#opposite-cycle-double-degree-bound).
-
 <a id="opposite-cycle-no-unit-cluster-candidate"></a>
 ## Strongest author extension in this round: every cluster has weight at least two
 
 The stronger two-neighbor congruence contradiction excludes every N_i=1 under the full original residual domain; its distinct-prime and multiplicity boundaries are retained in v3.
 See the [complete fixed statement](../claims/Yin_C_G0646_v3.md#opposite-cycle-no-unit-extension) and its [selected whole-reviewed decision](../claims/Yin_C_G0646_v3.md#decision-whole-reviewed-2026-10-23).
-
-<a id="opposite-cycle-unit-neighbor-exact-budgets"></a>
-### 16. A hypothetical unit cluster forces two exact neighbor budgets
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v3, this exact proof section](../claims/Yin_C_G0646_v3.md#opposite-cycle-unit-neighbor-exact-budgets).
-
-<a id="opposite-cycle-unit-incompatible-congruences"></a>
-### 17. Maximal original distances force incompatible residues modulo five
-
-The complete statement, original-prime hypotheses and argument are retained in [C646v3, this exact proof section](../claims/Yin_C_G0646_v3.md#opposite-cycle-unit-incompatible-congruences).
 
 <a id="opposite-cycle-weight-two-successor-candidate"></a>
 ## Author candidate: every weight-two cluster forces a weight-at-least-four successor
@@ -203,26 +147,6 @@ The proof gives N_i=2 implies N_(i+1)>=5 and sum N_i>=3L+k, with k the number of
 For the full order31 configuration it gives d>=90+6k: k>0 implies96, while k=0 retains90.
 No general weight-three exclusion, original realization, cancellation-depth bound or Task completion follows.
 
-<a id="opposite-cycle-even-successor-distance-sum"></a>
-### 20. An even integer sum and its forced residue modulo ten
-
-The complete argument, every original-prime case and endpoint are retained in [C646v5, this exact section](../claims/Yin_C_G0646_v5.md#opposite-cycle-even-successor-distance-sum).
-
-<a id="opposite-cycle-weight-four-maximal-prime-cases"></a>
-### 21. Total successor weight four reduces to the endpoint S=6
-
-The complete argument, every original-prime case and endpoint are retained in [C646v5, this exact section](../claims/Yin_C_G0646_v5.md#opposite-cycle-weight-four-maximal-prime-cases).
-
-<a id="opposite-cycle-weight-four-next-successor-contradiction"></a>
-### 22. The constant endpoint is incompatible with its arbitrary next successor
-
-The complete argument, every original-prime case and endpoint are retained in [C646v5, this exact section](../claims/Yin_C_G0646_v5.md#opposite-cycle-weight-four-next-successor-contradiction).
-
-<a id="opposite-cycle-refined-count-with-weight-two-number"></a>
-### 23. Refined original degree with the exact number of weight-two clusters
-
-The complete argument, every original-prime case and endpoint are retained in [C646v5, this exact section](../claims/Yin_C_G0646_v5.md#opposite-cycle-refined-count-with-weight-two-number).
-
 <a id="opposite-cycle-no-weight-two-candidate"></a>
 ## Author extension: every original cluster has total weight at least three
 
@@ -231,21 +155,6 @@ Root supplied the numerator-divisibility and minimum-distance argument, and orig
 The new conclusion is every N_i>=3 and k=0; the unconditional degree bound remains d>=6hL and the full order31 bound remains90.
 The historical k>0 conditional96 statement is retained in its fixed home, while the new theorem excludes that antecedent under the complete original hypotheses.
 No exclusion of weight-three clusters, realization, full opposite-cycle exclusion or Task completion follows.
-
-<a id="opposite-cycle-all-successor-numerators-divisible"></a>
-### 24. Integer numerator divisibility at every successor prime
-
-The complete original-prime argument and all endpoint/scope qualifications are retained in [C646v6, this exact section](../claims/Yin_C_G0646_v6.md#opposite-cycle-all-successor-numerators-divisible).
-
-<a id="opposite-cycle-minimum-bound-forces-weight-five"></a>
-### 25. The complete minimum-root product forces total successor weight five
-
-The complete original-prime argument and all endpoint/scope qualifications are retained in [C646v6, this exact section](../claims/Yin_C_G0646_v6.md#opposite-cycle-minimum-bound-forces-weight-five).
-
-<a id="opposite-cycle-no-weight-two-degree-scope"></a>
-### 26. Local strengthening with the same global numerical degree bound
-
-The complete original-prime argument and all endpoint/scope qualifications are retained in [C646v6, this exact section](../claims/Yin_C_G0646_v6.md#opposite-cycle-no-weight-two-degree-scope).
 
 <a id="opposite-cycle-global-maximum-ramification-candidate"></a>
 ## Author extension: global maxima force original ramification divisible by five
@@ -257,26 +166,6 @@ Its new bound is sum N_i>=3L+2 and original d>=2h(3L+2), giving102 for the compl
 The114 consequence requires the stated s_i=0,1,4 modulo5 branch and is not unconditional.
 Here s_i is the positive integer attached to a global-maximum cluster, distinct from the original signed residual parameter s in{1,-1}.
 No individual weight-three exclusion, original realization, cancellation-depth upper bound or full opposite-cycle exclusion follows.
-
-<a id="opposite-cycle-local-maximum-distance-sum"></a>
-### 27. Complete cluster sums and actual local maxima
-
-The full original-prime argument, cancellation treatment and degree scope are retained in [C646v7, this exact section](../claims/Yin_C_G0646_v7.md#opposite-cycle-local-maximum-distance-sum).
-
-<a id="opposite-cycle-global-maxima-not-adjacent"></a>
-### 28. Global-maximum clusters cannot be adjacent
-
-The full original-prime argument, cancellation treatment and degree scope are retained in [C646v7, this exact section](../claims/Yin_C_G0646_v7.md#opposite-cycle-global-maxima-not-adjacent).
-
-<a id="opposite-cycle-global-maximum-neighbor-integers"></a>
-### 29. Exact neighbor products and compulsory original five-divisible ramification
-
-The full original-prime argument, cancellation treatment and degree scope are retained in [C646v7, this exact section](../claims/Yin_C_G0646_v7.md#opposite-cycle-global-maximum-neighbor-integers).
-
-<a id="opposite-cycle-global-maxima-degree-cost"></a>
-### 30. Original degree cost and exclusion of the all-weight-three equality case
-
-The full original-prime argument, cancellation treatment and degree scope are retained in [C646v7, this exact section](../claims/Yin_C_G0646_v7.md#opposite-cycle-global-maxima-degree-cost).
 
 <a id="opposite-cycle-minimal-weight-budget-open-question"></a>
 ## Remaining structural question
@@ -296,33 +185,6 @@ The proof gives sum N_i>=3L+3 and original d>=2h(3L+3), hence108 in the full ord
 The114 bound remains conditional on its earlier stated residue branch.
 No individual weight-three exclusion, next-equality investigation, cancellation-depth bound, original realization or Task completion follows.
 
-<a id="opposite-cycle-equality-unique-weight-five"></a>
-### 31. Equality forces one original weight-five prime and two possible orientations
-
-The complete original-prime proof and all strict-comparison/end-point qualifications are retained in [C646v8, this exact section](../claims/Yin_C_G0646_v8.md#opposite-cycle-equality-unique-weight-five).
-
-<a id="opposite-cycle-equality-preceding-orientation"></a>
-### 32. The exceptional cluster cannot precede the global maximum
-
-The complete original-prime proof and all strict-comparison/end-point qualifications are retained in [C646v8, this exact section](../claims/Yin_C_G0646_v8.md#opposite-cycle-equality-preceding-orientation).
-
-<a id="opposite-cycle-equality-following-split"></a>
-### 33. The other orientation forces one high unramified and one low ramified prime
-
-The complete original-prime proof and all strict-comparison/end-point qualifications are retained in [C646v8, this exact section](../claims/Yin_C_G0646_v8.md#opposite-cycle-equality-following-split).
-
-<a id="opposite-cycle-equality-half-integer-taylor"></a>
-### 34. The exact half-integer C5 displacement contradicts the original C2 ratio
-
-The complete original-prime proof and all strict-comparison/end-point qualifications are retained in [C646v8, this exact section](../claims/Yin_C_G0646_v8.md#opposite-cycle-equality-half-integer-taylor).
-
-<a id="opposite-cycle-excluded-equality-degree-bound"></a>
-### 35. The next integral degree bound and its exact scope
-
-The complete original-prime proof and all strict-comparison/end-point qualifications are retained in [C646v8, this exact section](../claims/Yin_C_G0646_v8.md#opposite-cycle-excluded-equality-degree-bound).
-
-
-
 <a id="opposite-cycle-unique-wild-weight-five-candidate"></a>
 ## Author extension: a unique weight-five ramified cluster forces a large neighbor
 
@@ -334,38 +196,6 @@ A separate two-ramified-cluster branch gives114; the general unconditional order
 The unique cluster of weight at least6 remains outside this new theorem.
 No original realization, equality attainment, full opposite-cycle exclusion, source-depth upgrade or Task completion follows.
 
-<a id="opposite-cycle-unique-ramified-five-setup"></a>
-### 36. The unique ramified weight-five cluster fixes every global maximum's orientation
-
-The complete original-prime argument, cancellation treatment and conditional scope are retained in [C646v9, this exact section](../claims/Yin_C_G0646_v9.md#opposite-cycle-unique-ramified-five-setup).
-
-<a id="opposite-cycle-low-maximum-below-quarter"></a>
-### 37. The maximum low distance cannot be below one quarter
-
-The complete original-prime argument, cancellation treatment and conditional scope are retained in [C646v9, this exact section](../claims/Yin_C_G0646_v9.md#opposite-cycle-low-maximum-below-quarter).
-
-<a id="opposite-cycle-critical-quarter-cancellation"></a>
-### 38. The critical quarter distance is excluded without resolving a Taylor tie
-
-The complete original-prime argument, cancellation treatment and conditional scope are retained in [C646v9, this exact section](../claims/Yin_C_G0646_v9.md#opposite-cycle-critical-quarter-cancellation).
-
-<a id="opposite-cycle-exact-low-sum-above-quarter"></a>
-### 39. The exact low sum above one quarter requires at least twelve low roots
-
-The complete original-prime argument, cancellation treatment and conditional scope are retained in [C646v9, this exact section](../claims/Yin_C_G0646_v9.md#opposite-cycle-exact-low-sum-above-quarter).
-
-<a id="opposite-cycle-source-weight-thirteen-exclusion"></a>
-### 40. Total source weight thirteen is impossible
-
-The complete original-prime argument, cancellation treatment and conditional scope are retained in [C646v9, this exact section](../claims/Yin_C_G0646_v9.md#opposite-cycle-source-weight-thirteen-exclusion).
-
-<a id="opposite-cycle-unique-weight-five-conditional-degree"></a>
-### 41. Conditional original degree and the actual remaining ramification branch
-
-The complete original-prime argument, cancellation treatment and conditional scope are retained in [C646v9, this exact section](../claims/Yin_C_G0646_v9.md#opposite-cycle-unique-weight-five-conditional-degree).
-
-
-
 <a id="opposite-cycle-unique-weight-six-equality-candidate"></a>
 ## Author extension: exclusion of the next total-weight equality and its weight-six cluster
 
@@ -375,36 +205,6 @@ Together with the adopted v9 weight-five-plus-weight-four exclusion it gives sum
 The168 conclusion still requires the separate exact UD48 additional hypothesis.
 All tied root comparisons remain lower bounds unless strict unequal distances are proved, and no pointwise inverse of C2/C3 is assumed.
 No next-budget exploration, realization, equality attainment, cancellation-depth upper bound, full cycle exclusion or unrestricted Task completion follows.
-
-<a id="opposite-cycle-weight-six-original-decomposition"></a>
-### 42. The only remaining equality pattern and its original prime decomposition
-
-The full original-prime argument, geometric target choice and cancellation/degree scope are retained in [C646v10, this exact section](../claims/Yin_C_G0646_v10.md#opposite-cycle-weight-six-original-decomposition).
-
-<a id="opposite-cycle-weight-six-subunit-gap"></a>
-### 43. A positive gap below one contradicts the original integer valuation
-
-The full original-prime argument, geometric target choice and cancellation/degree scope are retained in [C646v10, this exact section](../claims/Yin_C_G0646_v10.md#opposite-cycle-weight-six-subunit-gap).
-
-<a id="opposite-cycle-weight-six-superunit-gap"></a>
-### 44. A gap greater than one contradicts both global orientations
-
-The full original-prime argument, geometric target choice and cancellation/degree scope are retained in [C646v10, this exact section](../claims/Yin_C_G0646_v10.md#opposite-cycle-weight-six-superunit-gap).
-
-<a id="opposite-cycle-weight-six-critical-gap-common-target"></a>
-### 45. The gap-one root tie forces both distances in the same C2 target
-
-The full original-prime argument, geometric target choice and cancellation/degree scope are retained in [C646v10, this exact section](../claims/Yin_C_G0646_v10.md#opposite-cycle-weight-six-critical-gap-common-target).
-
-<a id="opposite-cycle-weight-six-critical-gap-reverse-product"></a>
-### 46. Complete weight three contradicts the reverse original product
-
-The full original-prime argument, geometric target choice and cancellation/degree scope are retained in [C646v10, this exact section](../claims/Yin_C_G0646_v10.md#opposite-cycle-weight-six-critical-gap-reverse-product).
-
-<a id="opposite-cycle-general-four-excess-degree"></a>
-### 47. General full-cycle degree after both equality patterns are excluded
-
-The full original-prime argument, geometric target choice and cancellation/degree scope are retained in [C646v10, this exact section](../claims/Yin_C_G0646_v10.md#opposite-cycle-general-four-excess-degree).
 
 <a id="opposite-cycle-local-peaks-uniform-six-candidate"></a>
 ## Author extension: local peaks and uniform exclusion of a unique ramified weight-six cluster
@@ -417,27 +217,6 @@ The original general order31 bound remains114 and the weight-five branch's168 re
 A unique such cluster of weight at least7 or multiple such clusters remain possible branches not excluded here.
 No next-budget enumeration, field replacement, realization, cancellation-depth bound or unrestricted Task completion follows.
 
-<a id="opposite-cycle-all-adjacent-maxima-distinct"></a>
-### 48. Every adjacent pair of cluster maxima is unequal, and every strict peak has exact neighbors
-
-The complete original-prime argument, unrestricted target-weight scope and tied-cancellation treatment are retained in [C646v11, this exact section](../claims/Yin_C_G0646_v11.md#opposite-cycle-all-adjacent-maxima-distinct).
-
-<a id="opposite-cycle-uniform-six-original-setup"></a>
-### 49. A unique ramified weight-six cluster has a forced two-prime profile
-
-The complete original-prime argument, unrestricted target-weight scope and tied-cancellation treatment are retained in [C646v11, this exact section](../claims/Yin_C_G0646_v11.md#opposite-cycle-uniform-six-original-setup).
-
-<a id="opposite-cycle-uniform-six-low-distance-budget"></a>
-### 50. The complete low-distance budget excludes both noncritical gaps without a target-weight bound
-
-The complete original-prime argument, unrestricted target-weight scope and tied-cancellation treatment are retained in [C646v11, this exact section](../claims/Yin_C_G0646_v11.md#opposite-cycle-uniform-six-low-distance-budget).
-
-<a id="opposite-cycle-uniform-six-critical-arithmetic"></a>
-### 51. The critical gap violates the exact peak-neighbor integer divisibility
-
-The complete original-prime argument, unrestricted target-weight scope and tied-cancellation treatment are retained in [C646v11, this exact section](../claims/Yin_C_G0646_v11.md#opposite-cycle-uniform-six-critical-arithmetic).
-
-
 <a id="opposite-cycle-five-affine-closure-candidate"></a>
 ## Author extension: exact affine edge laws exclude every complete length-five opposite cycle
 
@@ -447,59 +226,12 @@ The exact original complete length-five domain is excluded for arbitrary common 
 The earlier degree bounds and exclusions remain retained at their exact numbered stages and physical versions.
 No native calculation, new external source or independent self-review is asserted.
 
-<a id="opposite-cycle-five-affine-closure-extension"></a>
-### Complete extension statement
-
-The complete original-domain statement and all historical/remaining-scope qualifications are retained in [C646v12, UD68--UD73](../claims/Yin_C_G0646_v12.md#opposite-cycle-five-affine-closure-extension).
-
-<a id="opposite-cycle-exact-affine-edge-laws"></a>
-### 52. Exact directed edge laws from every original root and quotient
-
-The complete original-root argument, exact arithmetic and all scope qualifications are retained in [C646v12, this exact section](../claims/Yin_C_G0646_v12.md#opposite-cycle-exact-affine-edge-laws).
-
-<a id="opposite-cycle-peak-adjacent-valley"></a>
-### 53. A uniform arithmetic peak-to-valley restriction
-
-The complete original-root argument, exact arithmetic and all scope qualifications are retained in [C646v12, this exact section](../claims/Yin_C_G0646_v12.md#opposite-cycle-peak-adjacent-valley).
-
-<a id="opposite-cycle-five-rotation-classification"></a>
-### 54. All length-five orientation words under rotations only
-
-The complete original-root argument, exact arithmetic and all scope qualifications are retained in [C646v12, this exact section](../claims/Yin_C_G0646_v12.md#opposite-cycle-five-rotation-classification).
-
-<a id="opposite-cycle-five-exact-affine-composites"></a>
-### 55. Hand-computed affine compositions and the intermediate integer obstruction
-
-The complete original-root argument, exact arithmetic and all scope qualifications are retained in [C646v12, this exact section](../claims/Yin_C_G0646_v12.md#opposite-cycle-five-exact-affine-composites).
-
-<a id="opposite-cycle-five-original-order31-exclusion"></a>
-### 56. Exclusion of the full original order31 configuration and exact remaining scope
-
-The complete original-root argument, exact arithmetic and all scope qualifications are retained in [C646v12, this exact section](../claims/Yin_C_G0646_v12.md#opposite-cycle-five-original-order31-exclusion).
-
 <a id="missing-orbit-residue-conflicts"></a>
 ## Adopted missing-orbit residue conflicts on partial opposite cycles
 
 Root developed the complete actual-residue argument now fixed and adopted in [C646v13](../claims/Yin_C_G0646_v13.md#decision-whole-reviewed-2026-10-24), through [independent entire R881](../audits/reviews/Yin_R_G0881_v1.md#opposite-cycle-v13-whole).
 The fixed theorem retains all actual source/unit statuses, same missing Frobenius orbit, both signs and every ninth-root order; its separate ambient domain leaves all original primes and other factors intact.
 The exact remaining support is empty, of size1 or2, or a consecutive triple on the ambient five-cycle; no smaller-pattern realization or arbitrary-T exclusion follows.
-
-### Actual ambient support and the two local boundary residues
-
-The complete domain and MS1--MS2 are retained in [C646v13 Section57](../claims/Yin_C_G0646_v13.md#opposite-cycle-boundary-residue-values).
-
-### Four supported neighbors around one absent orbit are impossible
-
-The complete MS3 proof, permitted small-length overlaps and the limitation against excluding an arbitrary isolated absent orbit are retained in [C646v13 Section58](../claims/Yin_C_G0646_v13.md#opposite-cycle-shared-missing-orbit-conflict).
-
-### A nonconsecutive triple in a five-cycle also contradicts the same original residue equations
-
-The complete MS4--MS5 polynomial, both signs, all order1/3/9 cases and every actual source/Frobenius qualification are retained in [C646v13 Section59](../claims/Yin_C_G0646_v13.md#opposite-cycle-nonconsecutive-triple-residues).
-
-### Exact pending consequence and remaining domain
-
-The exact adopted support alternative and unresolved one-, two- and consecutive-three-factor cases are retained in [C646v13 Section60](../claims/Yin_C_G0646_v13.md#opposite-cycle-complete-partial-support-conclusion).
-
 
 <a id="opposite-cycle-consecutive-triple-profile-candidate"></a>
 ## Author extension: complete original local profiles for a consecutive supported triple
@@ -509,38 +241,3 @@ Root proposed the terminal/middle comparison and supplied the formal integer-val
 The theorem uses the separate ambient support I={0,1,2}, not full supported-cycle hypotheses or common-successor distance inclusion.
 The remaining strict and critical profiles are neither excluded nor realized; the formal table is retained with all of its non-realization limits in fixed Section66.
 All previous D38 content and historical anchors remain unchanged.
-
-<a id="opposite-cycle-consecutive-triple-profile-extension"></a>
-### Complete additional statement
-
-The complete original-domain statement, exact counts and original integer/degree qualifications are retained in [C646v14, UD78--UD84](../claims/Yin_C_G0646_v14.md#opposite-cycle-consecutive-triple-profile-extension).
-
-<a id="opposite-cycle-three-block-original-terminal"></a>
-### 61. The separate supported-block domain and its actual right terminal prime
-
-The complete original-root argument, all actual integer and cancellation conditions, and the precise scope are retained in [C646v14, this exact section](../claims/Yin_C_G0646_v14.md#opposite-cycle-three-block-original-terminal).
-
-<a id="opposite-cycle-minimum-layer-rigidity"></a>
-### 62. A positive integer minimum layer forces the entire middle cluster to be constant-distance
-
-The complete original-root argument, all actual integer and cancellation conditions, and the precise scope are retained in [C646v14, this exact section](../claims/Yin_C_G0646_v14.md#opposite-cycle-minimum-layer-rigidity).
-
-<a id="opposite-cycle-three-block-strict-profile"></a>
-### 63. The strict middle-to-terminal gap forces the complete paid profile
-
-The complete original-root argument, all actual integer and cancellation conditions, and the precise scope are retained in [C646v14, this exact section](../claims/Yin_C_G0646_v14.md#opposite-cycle-three-block-strict-profile).
-
-<a id="opposite-cycle-three-block-critical-left-lower"></a>
-### 64. Critical middle distance and the lower-left alternative
-
-The complete original-root argument, all actual integer and cancellation conditions, and the precise scope are retained in [C646v14, this exact section](../claims/Yin_C_G0646_v14.md#opposite-cycle-three-block-critical-left-lower).
-
-<a id="opposite-cycle-three-block-critical-left-higher"></a>
-### 65. The upper-left alternative, every original integer value, and paid tied factors
-
-The complete original-root argument, all actual integer and cancellation conditions, and the precise scope are retained in [C646v14, this exact section](../claims/Yin_C_G0646_v14.md#opposite-cycle-three-block-critical-left-higher).
-
-<a id="opposite-cycle-three-block-scope-and-control"></a>
-### 66. Complete degree accounting and a formal control for the surviving strict case
-
-The complete original-root argument, all actual integer and cancellation conditions, and the precise scope are retained in [C646v14, this exact section](../claims/Yin_C_G0646_v14.md#opposite-cycle-three-block-scope-and-control).

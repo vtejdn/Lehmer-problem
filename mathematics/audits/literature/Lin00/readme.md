@@ -1,4 +1,4 @@
-# Lin00: Complete Preprint Audit
+# Lin00: retained preprint-audit overview
 
 Author: Yin.
 
@@ -51,8 +51,10 @@ The comparison resolved the question; no journal/preprint equality or new whole-
 
 All locators in the table refer to the seven-page preprint, where printed and PDF page numbers coincide.
 
-| Unit | Content and source locators | Assessment |
-| --- | --- | --- |
+The current Lin00 directory contains this overview but no U001--U004 bodies.
+The U001--U004 labels below describe the historical inspection, not four currently located proof homes.
+The overview preserves the finite-generator conclusions, exact defect summaries, original dates and source/review limits, but the detailed common-denominator, domain, product/inverse and external-interface arguments remain to be located or adequately prepared before their complete proof inspections can be reused.
+This is an evidence-location limit, not a counterexample or an assertion that the original reading did not occur.
 
 ## Findings and repairs
 

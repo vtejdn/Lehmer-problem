@@ -96,7 +96,7 @@ No mathematical defect, missing hypothesis or correction was found.
 
 Date: 2026-10-21T12:36.
 The initial newly authored C354v1 collar-exclusion summary did not directly state that the observed feasible vector has total energy at most B.
-That premise is necessary for the shared-energy estimate and was already explicit in the complete retained proof and its fixed C352 interface.
+That premise is necessary for the shared-energy estimate and was already explicit in the complete retained proof and its fixed C351 v2 interface.
 The v1 statement was not adopted.
 The same-family C354v2 writes the premise directly without changing any line of its complete retained proof; the current whole finding above inspects that actual v2 statement and full chain.
 This is a bounded self-check finding about the newly authored statement, not evidence of an original L147 mathematical failure, new research, or a reconstructed historical repair.

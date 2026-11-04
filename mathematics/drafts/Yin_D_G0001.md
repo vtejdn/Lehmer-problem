@@ -218,7 +218,6 @@ The restriction4 not dividing m is essential to the argument: dividing a differe
 The failure neither excludes the complete A_0=2 branch nor supplies its missing seed, and it is not permission to sweep other orders.
 It records why this particular explicit candidate support cannot complete the current same-input construction.
 
-
 <a id="same-t-dyadic-first-error-handoff"></a>
 ## Same-T dyadic first errors and the unresolved coefficient cancellation
 
@@ -567,7 +566,6 @@ The complete fixed statement, proof, full product/multiplicity certificates and 
 Its exact claim concerns only the local images at precisions8 and16; the inherited character also kills 1+phi^4h by an analytical derivative identity.
 The next actual-input question remains whether an allowed complete support can satisfy the full normalized gate together with its low-X, canonical remainder, original-layer and degree constraints; the local image theorem alone does not supply it.
 
-
 <a id="a4-monomial-complement-coprime-five-obstruction"></a>
 ## Adopted multiplicity-four coprime-five support obstruction
 
@@ -591,7 +589,6 @@ The complete all-order statement, proof, native evidence and original q/layer/ca
 It strengthens physical v1 to nonexistence of the ENTIRE actual A_0=4, B=X^6 subbranch, including arbitrary higher5 orders and every original q; it does not classify other A_0=4 complements.
 Physical v1, its R825 adoption and J125 remain unchanged; the distinct R825v2 finding owns the later whole-extension review.
 That bounded all-order support step did not classify other complements; the separately derived complete classification below uses the actual degree/parity bounds.
-
 
 <a id="a4-complete-complement-classification"></a>
 ## Analytic complete multiplicity-four complement classification
@@ -686,7 +683,6 @@ Neither target is a member, so no such factored witness, invisible-factor insert
 Neither the old positive projection nor the present negative full support test realizes characteristic-zero residual equations, total reality, irreducibility or a SAME-T solution.
 No larger precision or A_0=14 computation was selected in this bounded continuation.
 
-
 <a id="uniform-endpoint-parity-candidate"></a>
 ## Uniform endpoint parity and the necessary original dyadic layer
 
@@ -707,7 +703,6 @@ The proof depends on adopted C634/C636 only at their uniform support/order/modul
 At A_0=14, m=7 and ell=64 lies in(56,70], so this argument gives only a_(k+7)=1 and remaining layer weight20q.
 Its correction has phi order20, below the28 required for the homogeneous projection, so no A_0=14 exclusion, sufficiency or native feasibility test is claimed.
 The proof is fixed for review; no new continuation is selected here.
-
 
 <a id="canonical-square-composition-extraction"></a>
 ## Canonical square-times-composition extraction
@@ -764,7 +759,6 @@ All original q, integer layer indices and weights, root6m/full8m precision and c
 No smaller integer T, canonical Y, residual solution, trace field or change of the actual maximal q follows from these polynomial roots.
 The A_0=14 inhomogeneous branch is untouched, and no original realization or sufficiency claim is made.
 This adopted classification supplies an exact input for the subsequent full formal-gate compatibility question below.
-
 
 <a id="uniform-homogeneous-full-crt-candidate"></a>
 ## Uniform homogeneous full-gate CRT and the multiplicity-sixteen reduction
@@ -1037,7 +1031,6 @@ Its registration-time pending C683 description is historical; C683 was subsequen
 The unchanged complete support, actual maximal q where supplied, original layer weight and canonical degree costs remain those of the original input.
 No modulo16 residual, characteristic-zero identity, equality of synthetic G_int with G_can, or original Task realization is supplied by C686.
 
-
 <a id="complete-mod-sixteen-fiber-obstruction"></a>
 ## Adopted complete modulo-sixteen obstruction above a fixed modulo-eight solution
 
@@ -1067,7 +1060,6 @@ The actual integer conditions J_(3/4)|P and J_(1/2)|W in NP7 suffice to remove t
 That component theorem alone does not establish simultaneous compatibility with the phi-primary roots and original degree; the later adopted C699 construction below supplies it at its stated q range.
 C689's first phi error below9A/2 and its second phi error below4A and high derivative condition still require actual evaluation on the same K,W,T.
 No passing global modulo16 input, characteristic-zero identity or original realization follows from this component result alone.
-
 
 <a id="actual-factor-compatible-mod-eight-lifts"></a>
 ## Actual factor-compatible lifts at unchanged degree
@@ -1100,13 +1092,13 @@ Thus that modified source is not a literal instance of the construction used in 
 Its initial modulo4 equations and subsequent actual carry/retuning chain must first be verified at the altered initial factor and degree.
 If that chain supplies the same seven-power and global-k-power interface with parameter q_new, the numerical requirement q_new>=8192 corresponds to original q>=32768; this conditional arithmetic does not verify the missing chain or change the original maximal-q claim.
 The present author round has not completed that source extension or evaluated its second low error.
-For the actual C724 source, the extension is unnecessary: the unchanged fourth-order root already transmits its stronger old support, as proved in the following section.
+For the actual C691 source, the extension is unnecessary: the unchanged fourth-order root already transmits its stronger old support, as proved in the following section.
 
 <a id="doubled-support-unchanged-root-control"></a>
 ## Doubled old support and the unchanged coefficient construction
 
 The full OS1--OS13 statement and OS2--OS5 proof are retained in [C707](../claims/Yin_C_G0707_v1.md#statement), its [complete argument](../claims/Yin_C_G0707_v1.md#argument) and [whole-review adoption](../claims/Yin_C_G0707_v1.md#decision-whole-reviewed-2026-10-25).
-The original4A root already transmits C724's old8A support through its sixth power; the actual positive/negative eta and low-W residues propagate through the unchanged C699/C702/C706 construction at original q>=8192.
+The original4A root already transmits C691's old8A support through its sixth power; the actual positive/negative eta and low-W residues propagate through the unchanged C699/C702/C706 construction at original q>=8192.
 The exact contributor roles, sign halves, full source degrees, maximal q and integer layers remain in C707.
 The combined actual modulo16 construction at paid degree2d is separately [adopted C708](../claims/Yin_C_G0708_v1.md#decision-whole-reviewed-2026-10-25); characteristic-zero residual identities and the unrestricted Task remain unresolved.
 
@@ -1117,46 +1109,6 @@ The complete bounded construction, quantitative root and height bounds, exact ca
 Its [complete argument](../claims/Yin_C_G0711_v1.md#complete-argument) includes the original C708 source expenses and exact classical Con26d source scope.
 The tower's house tends to one while its full Mahler measure remains a fixed positive constant; the constructed representatives fail the first characteristic-zero identity.
 No near-one full-measure realization or original G0001 conclusion is supplied.
-
-### SL1: prescribed coefficient class and two completely bounded choices
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl1-prescribed-coefficient-class-and-two-completely-bounded-choices).
-
-### SL2: actual canonical data preserved at the stated dyadic precision
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl2-actual-canonical-data-preserved-at-the-stated-dyadic-precision).
-
-### SL3: the additional norm condition and the complete irreducible tower
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl3-the-additional-norm-condition-and-the-complete-irreducible-tower).
-
-### SL4: actual C708 residual solutions and every degree cost
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl4-actual-c744-residual-solutions-and-every-degree-cost).
-
-### SL5: integral trace coordinates, CRT and the central Eisenstein adjustment
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl5-integral-trace-coordinates-crt-and-the-central-eisenstein-adjustment).
-
-### SL6: every trace root, the Salem field and full quantitative bounds
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl6-every-trace-root-the-salem-field-and-full-quantitative-bounds).
-
-### SL7: actual dyadic coefficient continuity and exact composition
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl7-actual-dyadic-coefficient-continuity-and-exact-composition).
-
-### SL8: nonsquareness from the additional norm and positive-root induction
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl8-nonsquareness-from-the-additional-norm-and-positive-root-induction).
-
-### SL9: full C708 application and retained original boundary
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl9-full-c744-application-and-retained-original-boundary).
-
-### SL10: explicit separation from the first characteristic-zero equation
-
-The complete fixed content is retained in [C711](../claims/Yin_C_G0711_v1.md#sl10-explicit-separation-from-the-first-characteristic-zero-equation).
 
 <a id="salem-tower-original-singleton-law"></a>
 ## Direct original-law application of the quantitative Salem tower
@@ -1216,33 +1168,9 @@ It does not classify the distinct small Salem quartic's critical mean, produce a
 The entire actual q>=65536 construction and its proof are retained in [C712v1](../claims/Yin_C_G0712_v1.md#statement), [adopted after independent whole review](../claims/Yin_C_G0712_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete argument](../claims/Yin_C_G0712_v1.md#complete-argument) pays every root-CRT exponent, actual integer factor and polynomial degree through first repair, paired low clearing and the same-degree final16 correction.
 For the pre-final T_2, its derivative is divisible by q/2048, its actual second eighth and chosen quotient b are global q/16384-th powers, and its first sixteenth is a global q/32768-th power.
-The full C746 obstruction is therefore a q/16384-th-power class, without a vanishing claim.
+The full C710 obstruction is therefore a q/16384-th-power class, without a vanishing claim.
 The same-degree final polynomial has both residuals16 and derivative q/2048; the larger sufficient original q and every original source cost remain explicit.
 The separate earlier-bit obstruction-elimination argument and subsequent second32 obligation are not supplied by this result.
-
-### PS1. Complete input and useful outputs
-
-The complete fixed content is retained in [C712](../claims/Yin_C_G0712_v1.md#ps1-complete-input-and-useful-outputs).
-
-### PS2. Root-subring convention and actual initial derivative budget
-
-The complete fixed content is retained in [C712](../claims/Yin_C_G0712_v1.md#ps2-root-subring-convention-and-actual-initial-derivative-budget).
-
-### PS3. The first earlier-bit repair with all powers and factors preserved
-
-The complete fixed content is retained in [C712](../claims/Yin_C_G0712_v1.md#ps3-the-first-earlier-bit-repair-with-all-powers-and-factors-preserved).
-
-### PS4. An actual high-power paired low correction
-
-The complete fixed content is retained in [C712](../claims/Yin_C_G0712_v1.md#ps4-an-actual-high-power-paired-low-correction).
-
-### PS5. The actual same-degree final square and exact count scope
-
-The complete fixed content is retained in [C712](../claims/Yin_C_G0712_v1.md#ps5-the-actual-same-degree-final-square-and-exact-count-scope).
-
-### PS6. Exact next-error power interface and original costs
-
-The complete fixed content is retained in [C712](../claims/Yin_C_G0712_v1.md#ps6-exact-next-error-power-interface-and-original-costs).
 
 <a id="power-preserving-first-thirty-two-and-low-carry"></a>
 ## Actual first-thirty-two preparation and its remaining low second carry
@@ -1251,30 +1179,6 @@ The full actual q>=131072 first32/second16 construction with derivative q/4096, 
 Its [complete argument](../claims/Yin_C_G0715_v1.md#complete-argument) includes every actual integer factor, root CRT and degree expense, both legitimate low halves, the explicit Lambda formula and the original C699 quarter entrance.
 C715 records the exact lowest second-sixteenth class omega Lambda modulo phi^A and its invariance under the specified later changes; [adopted C716](../claims/Yin_C_G0716_v1.md#decision-whole-reviewed-2026-10-25) subsequently proves Lambda=0 and resolves that lowest test.
 This is the actual input interface for a separate conditional paired32 image, not simultaneous32.
-
-### FP32.1. Actual input and outputs
-
-The complete fixed content is retained in [C715](../claims/Yin_C_G0715_v1.md#fp321-actual-input-and-outputs).
-
-### FP32.2. Power-compatible obstruction cancellation and actual factors
-
-The complete fixed content is retained in [C715](../claims/Yin_C_G0715_v1.md#fp322-power-compatible-obstruction-cancellation-and-actual-factors).
-
-### FP32.3. The complete final first32 repair preserves derivative32
-
-The complete fixed content is retained in [C715](../claims/Yin_C_G0715_v1.md#fp323-the-complete-final-first32-repair-preserves-derivative32).
-
-### FP32.4. Actual low canonical values and the two-half carry
-
-The complete fixed content is retained in [C715](../claims/Yin_C_G0715_v1.md#fp324-actual-low-canonical-values-and-the-two-half-carry).
-
-### FP32.5. The exact low quotient half from the unchanged original powers
-
-The complete fixed content is retained in [C715](../claims/Yin_C_G0715_v1.md#fp325-the-exact-low-quotient-half-from-the-unchanged-original-powers).
-
-### FP32.6. Invariance, original quarter entrance and remaining obligation
-
-The complete fixed content is retained in [C715](../claims/Yin_C_G0715_v1.md#fp326-invariance-original-quarter-entrance-and-remaining-obligation).
 
 <a id="earlier-full-bit-low-carry-question"></a>
 ## Remaining earlier-bit composition-image question
@@ -1312,64 +1216,20 @@ The alternative does not alter the fixed C715 statement or assert that its low i
 <a id="strong-factors-same-degree-thirty-two-h64"></a>
 ## Strong actual factors, every-primary sixty-four and an unchanged-degree thirty-two input
 
-The complete actual component theorem and strengthened-factor construction are retained in [C717v1](../claims/Yin_C_G0717_v1.md#statement), [adopted after independent whole R1106](../claims/Yin_C_G0717_v1.md#decision-whole-reviewed-2026-10-25).
+The complete actual component theorem and strengthened-factor construction are retained in [C717v1](../claims/Yin_C_G0717_v1.md#statement), [adopted after independent whole R938](../claims/Yin_C_G0717_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete argument](../claims/Yin_C_G0717_v1.md#complete-argument) proves the actual local modulo64 nilpotence, uses rounded individual-factor roots to retain q/2 and q/4 powers, pays the full original multiplicity and h_b>102a margin, and replays every subsequent canonical error and root CRT with actual Kfactor=H_b^(7q/8), Wfactor=H_b^(3q/4).
 For every original dyadic q>=1048576, the same-degree both32 output has derivative q/16384, both actual next errors globally q/524288-th powers and zero on every full H_0-primary, with the second error also zero below phi^A.
 In particular q>=2097152 supplies derivative128 and global fourth-power thirty-seconds for a later actual first64 repair.
 No characteristic-zero, global64, or preservation of these factors through a trace pullback is inferred.
 
-### SF1. A generic actual component theorem
-
-The complete fixed content is retained in [C717](../claims/Yin_C_G0717_v1.md#sf1-a-generic-actual-component-theorem).
-
-### SF2. Complete source and rounded roots without losing a power
-
-The complete fixed content is retained in [C717](../claims/Yin_C_G0717_v1.md#sf2-complete-source-and-rounded-roots-without-losing-a-power).
-
-### SF3. The rest of the actual modulo8 source with stronger factors
-
-The complete fixed content is retained in [C717](../claims/Yin_C_G0717_v1.md#sf3-the-rest-of-the-actual-modulo8-source-with-stronger-factors).
-
-### SF4. Strong-factor first16 and first32 replay with every later degree
-
-The complete fixed content is retained in [C717](../claims/Yin_C_G0717_v1.md#sf4-strong-factor-first16-and-first32-replay-with-every-later-degree).
-
-### SF5. Same-degree simultaneous32 with derivative64
-
-The complete fixed content is retained in [C717](../claims/Yin_C_G0717_v1.md#sf5-same-degree-simultaneous32-with-derivative64).
-
-### SF6. Actual C724 realization and complete cost boundary
-
-The complete fixed content is retained in [C717](../claims/Yin_C_G0717_v1.md#sf6-actual-c724-realization-and-complete-cost-boundary).
-
 <a id="strong-original-primary-five-twelve"></a>
 ## Strong original factors through precision512
 
-The complete generic q>=256 component theorem and its actual coefficient/module proof are retained in [C718v1](../claims/Yin_C_G0718_v1.md#statement), [adopted after independent whole R1107](../claims/Yin_C_G0718_v1.md#decision-whole-reviewed-2026-10-25).
+The complete generic q>=256 component theorem and its actual coefficient/module proof are retained in [C718v1](../claims/Yin_C_G0718_v1.md#statement), [adopted after independent whole R939](../claims/Yin_C_G0718_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete argument](../claims/Yin_C_G0718_v1.md#complete-argument) proves the exact monic-module filtration, every original C2/C3/C5 composition precision, the actual coefficient divisor of Delta(S) and its full integer expansion, giving a_T divisible by64 and both odd squares and residuals zero modulo512 on every full H_0-primary.
 It is independent of a passing phi construction and does not modify C717's fixed64 review scope.
 The adopted C717 source supplies the same actual strong factors and more than the needed q for the adopted C718 component theorem; its phi component and global higher precision remain separate obligations.
 The remaining work concerns actual phi-primary corrections and their power budgets; the generic512 conclusion supplies no global64/128/512 assertion.
-
-### H512.1. Exact bounded statement
-
-The complete fixed content is retained in [C718](../claims/Yin_C_G0718_v1.md#h5121-exact-bounded-statement).
-
-### H512.2. Actual module filtration and composition precision
-
-The complete fixed content is retained in [C718](../claims/Yin_C_G0718_v1.md#h5122-actual-module-filtration-and-composition-precision).
-
-### H512.3. Odd divided remainders and their complete squares
-
-The complete fixed content is retained in [C718](../claims/Yin_C_G0718_v1.md#h5123-odd-divided-remainders-and-their-complete-squares).
-
-### H512.4. The legitimate dyadic polynomial and exact Delta identity
-
-The complete fixed content is retained in [C718](../claims/Yin_C_G0718_v1.md#h5124-the-legitimate-dyadic-polynomial-and-exact-delta-identity).
-
-### H512.5. Scope for the actual new source
-
-The complete fixed content is retained in [C718](../claims/Yin_C_G0718_v1.md#h5125-scope-for-the-actual-new-source).
 
 <a id="actual-second-sixty-four-low-functional-obstruction"></a>
 ## The actual second sixty-fourth low functional obstruction
@@ -1379,34 +1239,10 @@ Its [complete argument](../claims/Yin_C_G0723_v1.md#complete-argument) proves th
 The actual original omega was not evaluated by that result; its F4 residue must vanish for a passing lowest test, and the specified later factor-compatible changes cannot repair that error.
 The new work instead changes a genuine pre8Z source jet and checks every changed input and power before replaying the higher residual construction.
 
-### EL64.1. Actual input and complete low criterion
-
-The complete fixed content is retained in [C723](../claims/Yin_C_G0723_v1.md#el641-actual-input-and-complete-low-criterion).
-
-### EL64.2. Legitimate maps and actual low divided values
-
-The complete fixed content is retained in [C723](../claims/Yin_C_G0723_v1.md#el642-legitimate-maps-and-actual-low-divided-values).
-
-### EL64.3. Transport of the ACTUAL second quotient at coefficient precision32
-
-The complete fixed content is retained in [C723](../claims/Yin_C_G0723_v1.md#el643-transport-of-the-actual-second-quotient-at-coefficient-precision32).
-
-### EL64.4. Complete assembly and invariance
-
-The complete fixed content is retained in [C723](../claims/Yin_C_G0723_v1.md#el644-complete-assembly-and-invariance).
-
-### EL64.5. The actual C724 residue test
-
-The complete fixed content is retained in [C723](../claims/Yin_C_G0723_v1.md#el645-the-actual-c724-residue-test).
-
-### EL64.6. Original-source entrance and an unraised finite criterion
-
-The complete fixed content is retained in [C723](../claims/Yin_C_G0723_v1.md#el646-original-source-entrance-and-an-unraised-finite-criterion).
-
 <a id="original-pre-eight-jet-control-and-actual-one-twenty-eight"></a>
 ## Original pre-eight jet control and actual same-degree128 closure
 
-The complete original source-jet repair and actual same-degree modulo128 construction are retained in [C725v1](../claims/Yin_C_G0725_v1.md#statement), [adopted after fresh independent whole R1117](../claims/Yin_C_G0725_v1.md#decision-whole-reviewed-2026-10-25).
+The complete original source-jet repair and actual same-degree modulo128 construction are retained in [C725v1](../claims/Yin_C_G0725_v1.md#statement), [adopted after fresh independent whole R946](../claims/Yin_C_G0725_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete argument](../claims/Yin_C_G0725_v1.md#complete-argument) contains the stronger old binary root, actual next-quarter calculation and canonical carry, both source root CRTs, successful low-omega control, explicitly checked weaker-K replay, repaired local E64 identity and complete final n6 pair/root.
 For every separately selected original dyadic q>=2^27 it constructs both residuals128 at the original degree d, with derivative q/2^20, both next errors globally q/2^27-th powers, controlled omega divisible by phi^(A/2), exact strong factors and all full H_0-primary residuals512.
 It pays every actual source/root degree and power cost; the full unrestricted final fiber has2^(d-3A) classes modulo256 over its fixed paired input.
@@ -1414,43 +1250,10 @@ Root, Salem_completion and Earlier_bit_obstruction are contributors; their full 
 The construction changes an original pre8Z source jet; the unmodified C723 omega remains unevaluated.
 No global256/512, compatible infinite integer limit, characteristic-zero, small-Mahler or unrestricted G0001 conclusion is supplied.
 
-### JP1. Complete source and target statement
-
-The complete fixed content is retained in [C725](../claims/Yin_C_G0725_v1.md#jp1-complete-source-and-target-statement).
-
-### JP2. The actual pre8Z source and a stronger old binary root
-
-The complete fixed content is retained in [C725](../claims/Yin_C_G0725_v1.md#jp2-the-actual-pre8z-source-and-a-stronger-old-binary-root).
-
-### JP3. The original next-jet deformation and first8 restoration
-
-The complete fixed content is retained in [C725](../claims/Yin_C_G0725_v1.md#jp3-the-original-next-jet-deformation-and-first8-restoration).
-
-### JP4. Complete next-quarter calculation at precision phi^(5A)
-
-The complete fixed content is retained in [C725](../claims/Yin_C_G0725_v1.md#jp4-complete-next-quarter-calculation-at-precision-phi5a).
-
-### JP5. Power-compatible roots kill the source omega jet
-
-The complete fixed content is retained in [C725](../claims/Yin_C_G0725_v1.md#jp5-power-compatible-roots-kill-the-source-omega-jet).
-
-### JP6. Explicit modified-source replay through64 and first128
-
-The complete fixed content is retained in [C725](../claims/Yin_C_G0725_v1.md#jp6-explicit-modified-source-replay-through64-and-first128).
-
-### JP7. Applicable repaired low lemma and actual simultaneous128 closure
-
-The complete fixed content is retained in [C725](../claims/Yin_C_G0725_v1.md#jp7-applicable-repaired-low-lemma-and-actual-simultaneous128-closure).
-
-### JP8. Complete original cost and actual boundary
-
-The complete fixed content is retained in [C725](../claims/Yin_C_G0725_v1.md#jp8-complete-original-cost-and-actual-boundary).
-
-
 <a id="repaired-source-next-low-two-fifty-six"></a>
 ## Automatic next-low conditions and actual same-degree256 closure
 
-The complete generic local theorem and actual same-degree256 construction are retained in [C727v1](../claims/Yin_C_G0727_v1.md#statement), [adopted after fresh independent whole R1119](../claims/Yin_C_G0727_v1.md#decision-whole-reviewed-2026-10-25).
+The complete generic local theorem and actual same-degree256 construction are retained in [C727v1](../claims/Yin_C_G0727_v1.md#statement), [adopted after fresh independent whole R948](../claims/Yin_C_G0727_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete argument](../claims/Yin_C_G0727_v1.md#complete-argument) contains both actual coefficient64 quotient transports, legitimate C5 precision and canonical halves, monic cancellation and unit lifting, the post-first generic-low application, and every n7 root/CRT/degree/derivative expense.
 For any retained normalized F64/X64 input with actual omega divisible by phi^(A/2), the generic theorem gives both actual residuals in(256,Phi^A).
 From adopted C725 it supplies first256/second128 at original q>=2^29 and SAME-DEGREE simultaneous256 at original q>=2^31, with final derivative q/2^23 and next errors globally q/2^31-th powers.
@@ -1459,46 +1262,12 @@ The complete unrestricted final256R fiber has2^(d-3A) classes modulo512 over its
 The endpoint next256 errors need not be squares; no global512, arbitrary induction, characteristic-zero or unrestricted G0001 conclusion is supplied.
 Root, Salem_completion and Earlier_bit_obstruction are contributors; their whole author checks do not supply independent review.
 
-### NL256.1. Exact normalized input and local conclusion
-
-The complete fixed content is retained in [C727](../claims/Yin_C_G0727_v1.md#nl2561-exact-normalized-input-and-local-conclusion).
-
-### NL256.2. Actual C5 precision and refined canonical values
-
-The complete fixed content is retained in [C727](../claims/Yin_C_G0727_v1.md#nl2562-actual-c5-precision-and-refined-canonical-values).
-
-### NL256.3. The actual first quotient at coefficient64
-
-The complete fixed content is retained in [C727](../claims/Yin_C_G0727_v1.md#nl2563-the-actual-first-quotient-at-coefficient64).
-
-### NL256.4. The actual second quotient at coefficient64
-
-The complete fixed content is retained in [C727](../claims/Yin_C_G0727_v1.md#nl2564-the-actual-second-quotient-at-coefficient64).
-
-### NL256.5. The adopted actual128 input and preserved local domain
-
-The complete fixed content is retained in [C727](../claims/Yin_C_G0727_v1.md#nl2565-the-adopted-actual128-input-and-preserved-local-domain).
-
-### NL256.6. Actual first256 at original q>=2^29
-
-The complete fixed content is retained in [C727](../claims/Yin_C_G0727_v1.md#nl2566-actual-first256-at-original-q229).
-
-### NL256.7. The actual n7 pair and final square root at q>=2^31
-
-The complete fixed content is retained in [C727](../claims/Yin_C_G0727_v1.md#nl2567-the-actual-n7-pair-and-final-square-root-at-q231).
-
-### NL256.8. Complete actual source costs and exact boundary
-
-The complete fixed content is retained in [C727](../claims/Yin_C_G0727_v1.md#nl2568-complete-actual-source-costs-and-exact-boundary).
-
-
-
 <a id="two-source-jets-actual-five-twelve"></a>
 ## Two actual source jets, both next-low conditions and same-degree512 closure
 
-The complete integrated theorem and its local diagnostics are retained in [C730v1](../claims/Yin_C_G0730_v1.md#statement), [adopted after fresh independent whole R1122](../claims/Yin_C_G0730_v1.md#decision-whole-reviewed-2026-10-25).
+The complete integrated theorem and its local diagnostics are retained in [C730v1](../claims/Yin_C_G0730_v1.md#statement), [adopted after fresh independent whole R951](../claims/Yin_C_G0730_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete argument](../claims/Yin_C_G0730_v1.md#complete-argument) includes every actual local quarter, the separated unmodified C727 source test, both new source-jet calculations, actual stronger factor/root costs, the complete two-bit-loss replay, and the n8 first/high/pair/final square-root construction.
-The stronger actual source uses h_b>145a and the adopted C765 q/8 initial W; both jets retain full integer X^4A and X^A factors and prepare omega=0 modulo phi^A and nu_full divisible by phi^(A/2).
+The stronger actual source uses h_b>145a and the adopted C728 q/8 initial W; both jets retain full integer X^4A and X^A factors and prepare omega=0 modulo phi^A and nu_full divisible by phi^(A/2).
 At original q>=2^35 it supplies first512/second256; at original q>=2^37 it supplies SAME-DEGREE simultaneous512, final derivative q/2^28 and both next512 errors globally q/2^37-th powers.
 Every full H_0-primary residual remains zero modulo2^17, including at the final polynomial, so the next512 errors vanish there.
 Global512 itself needs only H512; the stronger precision supplies additional next-error control.
@@ -1507,84 +1276,11 @@ At the endpoint only first-power control of next512 errors is guaranteed; no act
 Root, Salem_completion and Earlier_bit_obstruction are contributors; fresh independent whole review remains separate.
 No global1024, arbitrary-precision induction, characteristic-zero or unrestricted G0001 conclusion is supplied.
 
-### AS512.1. Complete actual statement and exact ranges
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#as5121-complete-actual-statement-and-exact-ranges).
-
-<a id="repaired-source-next-low-five-twelve"></a>
-
-## The first next-low512 vanishing and a new actual second-quarter test
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#the-first-next-low512-vanishing-and-a-new-actual-second-quarter-test).
-
-### NL512.1. Exact current input and two different next obligations
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#nl5121-exact-current-input-and-two-different-next-obligations).
-
-### NL512.2. First quotient transport at coefficient128
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#nl5122-first-quotient-transport-at-coefficient128).
-
-### NL512.3. Exact actual quarter of the second residual
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#nl5123-exact-actual-quarter-of-the-second-residual).
-
-### NL512.4. A lower-half functional obstruction
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#nl5124-a-lower-half-functional-obstruction).
-
-### NL512.5. The actual source entrance of nu
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#nl5125-the-actual-source-entrance-of-nu).
-
-### NL512.6. Scope of the new boundary
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#nl5126-scope-of-the-new-boundary).
-
-<a id="two-earlier-source-jets-for-next-low-five-twelve"></a>
-
-## Two earlier source jets for the next low512 conditions
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#two-earlier-source-jets-for-the-next-low512-conditions).
-
-### J512.1. Extending the original ACTUAL mod8 jet by one phi interval
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#j5121-extending-the-original-actual-mod8-jet-by-one-phi-interval).
-
-### J512.2. A new actual doubled-jet identity at coefficient16
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#j5122-a-new-actual-doubled-jet-identity-at-coefficient16).
-
-### J512.3. The second jet's actual power-root and degree cost
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#j5123-the-second-jets-actual-power-root-and-degree-cost).
-
-### J512.4. The full second-low test under the two prepared coordinates
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#j5124-the-full-second-low-test-under-the-two-prepared-coordinates).
-
-### AS512.2. Complete changed-source finite replay and all actual domains
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#as5122-complete-changed-source-finite-replay-and-all-actual-domains).
-
-### AS512.3. Actual first512 with its post-correction low condition
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#as5123-actual-first512-with-its-post-correction-low-condition).
-
-### AS512.4. Actual n8 pair, final square root and complete fiber
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#as5124-actual-n8-pair-final-square-root-and-complete-fiber).
-
-### AS512.5. All original source expenses and the exact endpoint
-
-The complete fixed content is retained in [C730](../claims/Yin_C_G0730_v1.md#as5125-all-original-source-expenses-and-the-exact-endpoint).
-
-
 <a id="exact-canonical-cofactor-transfer"></a>
 ## Exact canonical cofactor transfer and precision compatibility
 
-The complete integral factor-transfer interface is retained in [C736v1](../claims/Yin_C_G0736_v1.md#statement), [adopted after fresh independent whole R1130](../claims/Yin_C_G0736_v1.md#decision-whole-reviewed-2026-10-25).
-Its [complete argument](../claims/Yin_C_G0736_v1.md#complete-argument) proves the actual p-divisible quotient bracket and integral Delta_p identity, all weighted F/G/X formulas, exact actual-triple defects, unit compatibility and gcd tests, repeated-factor and constant/sign endpoints, and the checked C769 weight products.
+The complete integral factor-transfer interface is retained in [C736v1](../claims/Yin_C_G0736_v1.md#statement), [adopted after fresh independent whole R956](../claims/Yin_C_G0736_v1.md#decision-whole-reviewed-2026-10-25).
+Its [complete argument](../claims/Yin_C_G0736_v1.md#complete-argument) proves the actual p-divisible quotient bracket and integral Delta_p identity, all weighted F/G/X formulas, exact actual-triple defects, unit compatibility and gcd tests, repeated-factor and constant/sign endpoints, and the checked C732 weight products.
 No coprimality, squarefreeness, irreducibility or field hypothesis is needed for the exact integral identity.
 Precision descent is supplied under the stated actual defect/unit conditions; arbitrary factors are not asserted to preserve the product's precision.
 The example's cofactor weights are nonunits, and its first two canonical products acquire an additional bit from orthogonal binary idempotents.
@@ -1592,45 +1288,20 @@ C196v3 and C223 remain only the explicitly scoped old-mechanism comparisons; the
 Root and Salem_completion are contributors, not independent reviewers.
 No compatible factor selection, universal factor obstruction, Mahler bound or unrestricted G0001 conclusion is supplied.
 
-### FT1. Exact domain and canonical factor identity
-
-The complete fixed content is retained in [C736](../claims/Yin_C_G0736_v1.md#ft1-exact-domain-and-canonical-factor-identity).
-
-### FT2. Actual integer division, including common factors
-
-The complete fixed content is retained in [C736](../claims/Yin_C_G0736_v1.md#ft2-actual-integer-division-including-common-factors).
-
-### FT3. The full weighted residual system
-
-The complete fixed content is retained in [C736](../claims/Yin_C_G0736_v1.md#ft3-the-full-weighted-residual-system).
-
-### FT4. Exact precision-descent criteria and sufficient unit weights
-
-The complete fixed content is retained in [C736](../claims/Yin_C_G0736_v1.md#ft4-exact-precision-descent-criteria-and-sufficient-unit-weights).
-
-### FT5. Exact cofactor weights in the adopted C769 example
-
-The complete fixed content is retained in [C736](../claims/Yin_C_G0736_v1.md#ft5-exact-cofactor-weights-in-the-adopted-c769-example).
-
-### FT6. What this interface supplies and does not supply
-
-The complete fixed content is retained in [C736](../claims/Yin_C_G0736_v1.md#ft6-what-this-interface-supplies-and-does-not-supply).
-
-
 <a id="finite-six-coordinate-source-preparation"></a>
 ## A finite six-coordinate source preparation and the complete H17 precision range
 
-The complete FS1--FS10 statement and argument are fixed in [C741v1](../claims/Yin_C_G0741_v1.md#statement), with its [entire proof](../claims/Yin_C_G0741_v1.md#complete-argument) and current [adopted assessment after fresh whole R1136](../claims/Yin_C_G0741_v1.md#decision-whole-reviewed-2026-10-25).
+The complete FS1--FS10 statement and argument are fixed in [C741v1](../claims/Yin_C_G0741_v1.md#statement), with its [entire proof](../claims/Yin_C_G0741_v1.md#complete-argument) and current [adopted assessment after fresh whole R961](../claims/Yin_C_G0741_v1.md#decision-whole-reviewed-2026-10-25).
 Root and Salem_completion are contributors; the adopted assessment selects the separate independent whole review.
-For t=1,...,6 it gives the actual source at q>=max(2^17,2^(6t+5)), and simultaneous target2^n for t+2<=n<=min(2t+6,17) at q>=max(2^17,2^(4n+2t-3)); the separate first-residual branch, all derivatives/errors, actual factors/coordinates, CRT degrees, full fibers and original C724 costs are retained there.
+For t=1,...,6 it gives the actual source at q>=max(2^17,2^(6t+5)), and simultaneous target2^n for t+2<=n<=min(2t+6,17) at q>=max(2^17,2^(4n+2t-3)); the separate first-residual branch, all derivatives/errors, actual factors/coordinates, CRT degrees, full fibers and original C691 costs are retained there.
 The fixed FS4 conditional step explicitly requires4<=l<=16 and e>=10, with the l=3 construction kept separate.
 The t=6 endpoint is simultaneous2^17 at original q>=2^77; no next-error H_0 zero, global2^18, arbitrary-precision or characteristic-zero assertion is made.
-The separate three-jet C776 and any later stronger-primary candidate are not premises of this fixed result.
+The separate three-jet C739 and any later stronger-primary candidate are not premises of this fixed result.
 
 <a id="fourteen-coordinate-source-preparation-primary33"></a>
 ## Fourteen finite source coordinates with separate global second33 and first34 endpoints
 
-The complete NS1--NS12 statement and argument are fixed in [C744v1](../claims/Yin_C_G0744_v1.md#statement), with its [entire proof](../claims/Yin_C_G0744_v1.md#complete-argument) and current [adopted assessment after fresh whole R1140](../claims/Yin_C_G0744_v1.md#decision-whole-reviewed-2026-10-25).
+The complete NS1--NS12 statement and argument are fixed in [C744v1](../claims/Yin_C_G0744_v1.md#statement), with its [entire proof](../claims/Yin_C_G0744_v1.md#complete-argument) and current [adopted assessment after fresh whole R964](../claims/Yin_C_G0744_v1.md#decision-whole-reviewed-2026-10-25).
 Root and Salem_completion are contributors; the adopted assessment selects the separate independent whole review.
 The finite t=1,...,14 construction retains actual31/32 K and15/16 W factors, the old8a/floor2 source, h_b>289a and original q floor2^34.
 Its t=14 endpoint is simultaneous2^33 at q>=2^157 with derivative q/2^124, or separately FIRST2^34/X2^33 at q>=2^159 with derivative q/2^125; every root, degree, coordinate, error-power, primary, fiber and original-cost boundary remains in the fixed proof.
@@ -1644,9 +1315,9 @@ It supplies no BOTH2^18 or next H_0-error-zero assertion and does not assign str
 <a id="parameterized-source-assembly-weak-k-domain"></a>
 ## Arbitrary finite canonical dyadic precision with nonzero canonical G and explicit costs
 
-The complete GA1--GA10 and GA18 statement and argument are fixed in [C748v1](../claims/Yin_C_G0748_v1.md#statement), with its [entire proof](../claims/Yin_C_G0748_v1.md#complete-argument) and current [adopted assessment after fresh whole R1144](../claims/Yin_C_G0748_v1.md#decision-whole-reviewed-2026-10-25).
+The complete GA1--GA10 and GA18 statement and argument are fixed in [C748v1](../claims/Yin_C_G0748_v1.md#statement), with its [entire proof](../claims/Yin_C_G0748_v1.md#complete-argument) and current [adopted assessment after fresh whole R968](../claims/Yin_C_G0748_v1.md#decision-whole-reviewed-2026-10-25).
 Root and Salem_completion are contributors; the adopted assessment selects the separate independent whole review.
-The fixed proof consumes adopted C781, C783 and C784 at their exact scopes and retains every weaker-K canonical entrance, actual root/power/degree/coordinate condition, finite parameter range, full fiber, asymmetric primary endpoint and original source expense.
+The fixed proof consumes adopted C743, C745 and C746 at their exact scopes and retains every weaker-K canonical entrance, actual root/power/degree/coordinate condition, finite parameter range, full fiber, asymmetric primary endpoint and original source expense.
 No mutable source or unproved source-existence premise remains in the fixed argument.
 
 #### Every finite precision, with separate sign quantifiers
@@ -1715,41 +1386,9 @@ The complete PX1--PX8 theorem is fixed in [C755v1](../claims/Yin_C_G0755_v1.md#s
 Root and Salem_completion are contributors; the entire fixed theorem is adopted through [fresh independent whole R975](../audits/reviews/Yin_R_G0975_v1.md#whole-paid-dense-support-finding).
 Two actual invisible complete rows create a genuine consecutive low-half nonedge support block, whose low-X Chebyshev-period columns span every required old-X direction.
 The actual reference canonical target and supported height1 signs are retained, with per-edge count2^(k_*-4-v_p), combined count2^(k_*-2-v_p) and rank v_p+1, where v_p=ceil(m/p)-2 for p=5,3.
-Adopted C793 supplies the unconditional input at every Q=2^ell, ell>=82; the resulting source has d_*<14640Q^4+6006Q^3+945Q^2 and endpoint reciprocal degree6d_*-12.
+Adopted C753 supplies the unconditional input at every Q=2^ell, ell>=82; the resulting source has d_*<14640Q^4+6006Q^3+945Q^2 and endpoint reciprocal degree6d_*-12.
 The height1 outputs pass both old-X and added-modulus first-bit conditions and avoid every factor of z^(2n_e)-1; no all-old-primary solution, full coefficientwise residual evenness, higher precision, irreducibility or Mahler bound is supplied.
 The separate all-old-primary conditional investigation belongs to D43 and is not part of C755.
-
-### PX1. Exact conditional input and conclusion
-
-Retained completely in [C755 PX1](../claims/Yin_C_G0755_v1.md#px1-exact-conditional-input-and-conclusion).
-
-### PX2. Two paid invisible rows with their full source properties
-
-Retained completely in [C755 PX2](../claims/Yin_C_G0755_v1.md#px2-two-paid-invisible-rows-with-their-full-source-properties).
-
-### PX3. A consecutive block in the ACTUAL low-half support
-
-Retained completely in [C755 PX3](../claims/Yin_C_G0755_v1.md#px3-a-consecutive-block-in-the-actual-low-half-support).
-
-### PX4. A whole safe period spans every required low-X direction
-
-Retained completely in [C755 PX4](../claims/Yin_C_G0755_v1.md#px4-a-whole-safe-period-spans-every-required-low-x-direction).
-
-### PX5. The actual reference target and own-divisor carry
-
-Retained completely in [C755 PX5](../claims/Yin_C_G0755_v1.md#px5-the-actual-reference-target-and-own-divisor-carry).
-
-### PX6. Exact feasible counts, actual edge signs and residual scope
-
-Retained completely in [C755 PX6](../claims/Yin_C_G0755_v1.md#px6-exact-feasible-counts-actual-edge-signs-and-residual-scope).
-
-### PX7. Exact costs, maximal powers and retained limits
-
-Retained completely in [C755 PX7](../claims/Yin_C_G0755_v1.md#px7-exact-costs-maximal-powers-and-retained-limits).
-
-### PX8. Actual unconditional source and the paid endpoint family
-
-Retained completely in [C755 PX8](../claims/Yin_C_G0755_v1.md#px8-actual-unconditional-source-and-the-paid-endpoint-family).
 
 <a id="height-one-edge-resultant-uniform-mahler"></a>
 ## Exact height-one edge resultants and a finite-ratio Mahler lower bound
@@ -1761,26 +1400,6 @@ Irreducible inputs are automatically coprime, and the a=d-2 coprime local-passin
 At the actual C755 a=d-3 endpoint, every one of its four edge patterns gives exact cyclic resultant2^(4n+2) and m(P)>=(n-1)log2/(2n)>=(3/7)log2, including every exact dyadic raised family.
 A coprime local-passing nearzero sequence must instead have a/d->1/2; the a=d-3 family is not a nearzero Mahler candidate.
 No individual-factor lower bound, full old-primary feasibility, new precision, irreducibility construction or unrestricted G0001 conclusion is supplied.
-
-### EM1. General actual local-mask domain and result
-
-Retained completely in [C757 EM1](../claims/Yin_C_G0757_v1.md#em1-general-actual-local-mask-domain-and-result).
-
-### EM2. The genuine integer blocks and their extra factor2
-
-Retained completely in [C757 EM2](../claims/Yin_C_G0757_v1.md#em2-the-genuine-integer-blocks-and-their-extra-factor2).
-
-### EM3. Full resultant and full-degree Mahler expense
-
-Retained completely in [C757 EM3](../claims/Yin_C_G0757_v1.md#em3-full-resultant-and-full-degree-mahler-expense).
-
-### EM4. Sharper exact e=2 endpoint with its four actual edge patterns
-
-Retained completely in [C757 EM4](../claims/Yin_C_G0757_v1.md#em4-sharper-exact-e2-endpoint-with-its-four-actual-edge-patterns).
-
-### EM5. Raised sources, finite-ratio exclusion and exact boundaries
-
-Retained completely in [C757 EM5](../claims/Yin_C_G0757_v1.md#em5-raised-sources-finite-ratio-exclusion-and-exact-boundaries).
 
 <a id="finite-ratio-salem-boyd-source-comparison"></a>
 ## Bounded Smyth and Salem--Boyd comparison for the actual endpoint
@@ -1803,41 +1422,6 @@ The real integer-support estimate wt((1-z)P)<=2Qw_H+20+8b_flip and accepted DS17
 A hypothetical nearzero sequence with the same initial complete source must have b_flip tending to infinity; no entire-kernel gap or uniform-in-varying-source gap is claimed.
 All remaining old-primary equations, irreducibility, a Mahler upper estimate and unrestricted G0001 remain unresolved.
 
-### LB1. Statement and fixed complete-source constants
-
-Retained completely in [C759 LB1](../claims/Yin_C_G0759_v1.md#lb1-statement-and-fixed-complete-source-constants).
-
-### LB2. Coupled actual indices and exact gcds
-
-Retained completely in [C759 LB2](../claims/Yin_C_G0759_v1.md#lb2-coupled-actual-indices-and-exact-gcds).
-
-### LB3. Complete source preservation INCLUDING the outer row
-
-Retained completely in [C759 LB3](../claims/Yin_C_G0759_v1.md#lb3-complete-source-preservation-including-the-outer-row).
-
-### LB4. Exact active blocks and four permitted reflection positions
-
-Retained completely in [C759 LB4](../claims/Yin_C_G0759_v1.md#lb4-exact-active-blocks-and-four-permitted-reflection-positions).
-
-### LB5. A real nonzero even mask with no added-order root
-
-Retained completely in [C759 LB5](../claims/Yin_C_G0759_v1.md#lb5-a-real-nonzero-even-mask-with-no-added-order-root).
-
-### LB6. Actual old-X affine surjectivity with four active pairs fixed
-
-Retained completely in [C759 LB6](../claims/Yin_C_G0759_v1.md#lb6-actual-old-x-affine-surjectivity-with-four-active-pairs-fixed).
-
-### LB7. Complete costs, ratios, original gap and raised families
-
-Retained completely in [C759 LB7](../claims/Yin_C_G0759_v1.md#lb7-complete-costs-ratios-original-gap-and-raised-families).
-
-### LB8. The entire single-resultant lower certificate now tends to zero
-
-Retained completely in [C759 LB8](../claims/Yin_C_G0759_v1.md#lb8-the-entire-single-resultant-lower-certificate-now-tends-to-zero).
-
-### LB9. Fixed flip budgets have a genuine uniform Mahler gap
-
-Retained completely in [C759 LB9](../claims/Yin_C_G0759_v1.md#lb9-fixed-flip-budgets-have-a-genuine-uniform-mahler-gap), including the entire true positive-lift/difference support proof and exact DS17 statement-level foundational limits.
 <a id="lower-half-sign-run-complexity"></a>
 ## Lower-half sign-run complexity and long nullspace flips
 
@@ -1961,34 +1545,6 @@ The complete actual removal is P=H_big(1-z^2)(1-z^(2n))K with m(P)=m(K), K monic
 No canonical precision inheritance, remaining-old-primary solution, irreducibility, Mahler gap or nearzero measure claim is supplied.
 The separate SR1--SR4 author inquiry above is retained in full and is not part of C762.
 
-### CB1. Exact domain and the short binary core
-
-Retained completely in [C762 CB1](../claims/Yin_C_G0762_v1.md#cb1-exact-domain-and-the-short-binary-core).
-
-### CB2. Genuine integer copied-block lifts and their trace factor
-
-Retained completely in [C762 CB2](../claims/Yin_C_G0762_v1.md#cb2-genuine-integer-copied-block-lifts-and-their-trace-factor).
-
-### CB3. Actual dyadic carry and two repaired old primaries
-
-Retained completely in [C762 CB3](../claims/Yin_C_G0762_v1.md#cb3-actual-dyadic-carry-and-two-repaired-old-primaries).
-
-### CB4. The added condition forces the zero mask
-
-Retained completely in [C762 CB4](../claims/Yin_C_G0762_v1.md#cb4-the-added-condition-forces-the-zero-mask).
-
-### CB5. The actual cyclotomic multiplier on the outer roots
-
-Retained completely in [C762 CB5](../claims/Yin_C_G0762_v1.md#cb5-the-actual-cyclotomic-multiplier-on-the-outer-roots).
-
-### CB6. Exact remaining reciprocal core and its own degree
-
-Retained completely in [C762 CB6](../claims/Yin_C_G0762_v1.md#cb6-exact-remaining-reciprocal-core-and-its-own-degree).
-
-### CB7. Scope and next discriminating question
-
-Retained completely in [C762 CB7](../claims/Yin_C_G0762_v1.md#cb7-scope-and-next-discriminating-question).
-
 <a id="copied-zero-mask-global-first-bit-completion"></a>
 ## A paid full period completes the copied zero-mask first-bit system
 
@@ -2001,46 +1557,6 @@ The actual equal-Mahler reciprocal core K is noncyclotomic with m(K)=m(P)>0 and 
 Every s has a basis-correction representative using at most t_M flips, with fixed-source positive DS17 bound eta_(16w_H+2+4t_M); no whole-kernel or varying-source gap is asserted.
 The exact dyadic raised family retains maximal original q, first-bit precision, all degrees, core failure and the same fixed-budget Mahler constants, without higher coefficientwise precision or a nearzero claim.
 All earlier SR1--SR4 author content and C762 adopted pointers remain in their own unchanged scopes.
-
-### ZC1. Fixed source, new quotient and precise target
-
-Retained completely in [C764 ZC1](../claims/Yin_C_G0764_v1.md#zc1-fixed-source-new-quotient-and-precise-target).
-
-### ZC2. Actual small-block support, reference and free signs
-
-Retained completely in [C764 ZC2](../claims/Yin_C_G0764_v1.md#zc2-actual-small-block-support-reference-and-free-signs).
-
-### ZC3. Integer pair-to-trace transport and the true square target
-
-Retained completely in [C764 ZC3](../claims/Yin_C_G0764_v1.md#zc3-integer-pair-to-trace-transport-and-the-true-square-target).
-
-### ZC4. The half-multiplicity quotient and full companion period
-
-Retained completely in [C764 ZC4](../claims/Yin_C_G0764_v1.md#zc4-the-half-multiplicity-quotient-and-full-companion-period).
-
-### ZC5. The original source already pays a genuine supported full period
-
-Retained completely in [C764 ZC5](../claims/Yin_C_G0764_v1.md#zc5-the-original-source-already-pays-a-genuine-supported-full-period).
-
-### ZC6. Complete first-bit assembly, nonzero G and paid degrees
-
-Retained completely in [C764 ZC6](../claims/Yin_C_G0764_v1.md#zc6-complete-first-bit-assembly-nonzero-g-and-paid-degrees).
-
-### ZC7. Strict positivity and the full remaining noncyclotomic degree
-
-Retained completely in [C764 ZC7](../claims/Yin_C_G0764_v1.md#zc7-strict-positivity-and-the-full-remaining-noncyclotomic-degree).
-
-### ZC8. The remaining core explicitly loses the second first bit
-
-Retained completely in [C764 ZC8](../claims/Yin_C_G0764_v1.md#zc8-the-remaining-core-explicitly-loses-the-second-first-bit).
-
-### ZC9. Exact bounded-flip support and a fixed-source positive gap
-
-Retained completely in [C764 ZC9](../claims/Yin_C_G0764_v1.md#zc9-exact-bounded-flip-support-and-a-fixed-source-positive-gap).
-
-### ZC10. Exact dyadic raising and final scope
-
-Retained completely in [C764 ZC10](../claims/Yin_C_G0764_v1.md#zc10-exact-dyadic-raising-and-final-scope).
 
 <a id="copied-height-one-first-four-unsquared-target"></a>
 ## An actual unsquared sign target gives global first-four and second-two
@@ -2057,46 +1573,6 @@ At most t_new basis flips give a nonempty fixed-source family with DS17 bound et
 Actual dyadic raising preserves the stated precisions and measure with all full costs; no nearzero, irreducible or coprime conclusion is supplied.
 All preceding SR author content and older adopted pointers remain unchanged.
 
-### QF1. Actual source, copied sign class and fixed integer reference
-
-Retained completely in [C767 QF1](../claims/Yin_C_G0767_v1.md#qf1-actual-source-copied-sign-class-and-fixed-integer-reference).
-
-### QF2. The corrected target and its precise remaining modulus
-
-Retained completely in [C767 QF2](../claims/Yin_C_G0767_v1.md#qf2-the-corrected-target-and-its-precise-remaining-modulus).
-
-### QF3. Full period, actual supported rank and unchanged costs
-
-Retained completely in [C767 QF3](../claims/Yin_C_G0767_v1.md#qf3-full-period-actual-supported-rank-and-unchanged-costs).
-
-### QF4. The complete second-two equation and actual source classes
-
-Retained completely in [C767 QF4](../claims/Yin_C_G0767_v1.md#qf4-the-complete-second-two-equation-and-actual-source-classes).
-
-### QF5. Genuine modulo4 primary localizations and detection of zero
-
-Retained completely in [C767 QF5](../claims/Yin_C_G0767_v1.md#qf5-genuine-modulo4-primary-localizations-and-detection-of-zero).
-
-### QF6. The actual phi-local gate for this reference and target
-
-Retained completely in [C767 QF6](../claims/Yin_C_G0767_v1.md#qf6-the-actual-phi-local-gate-for-this-reference-and-target).
-
-### QF7. All non-phi modulo4 tests
-
-Retained completely in [C767 QF7](../claims/Yin_C_G0767_v1.md#qf7-all-non-phi-modulo4-tests).
-
-### QF8. Global first-four, complete costs and the new affine fiber
-
-Retained completely in [C767 QF8](../claims/Yin_C_G0767_v1.md#qf8-global-first-four-complete-costs-and-the-new-affine-fiber).
-
-### QF9. Positive measure, explicit core failure and bounded-basis gap
-
-Retained completely in [C767 QF9](../claims/Yin_C_G0767_v1.md#qf9-positive-measure-explicit-core-failure-and-bounded-basis-gap).
-
-### QF10. Actual raising and remaining assessment boundary
-
-Retained completely in [C767 QF10](../claims/Yin_C_G0767_v1.md#qf10-actual-raising-and-remaining-assessment-boundary).
-
 <a id="actual-height-one-kernel-pair-square-obstruction"></a>
 ## A genuine height-one target-kernel pair separates the second-half square obstruction
 
@@ -2107,29 +1583,6 @@ Its complete weak local proof does not import the unavailable global J_H hypothe
 The entire family is not excluded, the failing endpoint is not individually identified, and no successful height1 second-four realization is supplied.
 The fixed statement and whole proof, rather than this navigation, own the mathematical scope and its current review status.
 
-### KP1. Domain, actual half error and the permitted correction image
-
-Retained completely in [C768 KP1](../claims/Yin_C_G0768_v1.md#kp1-domain-actual-half-error-and-the-permitted-correction-image).
-
-### KP2. A real target-kernel toggle with a controlled low-X term
-
-Retained completely in [C768 KP2](../claims/Yin_C_G0768_v1.md#kp2-a-real-target-kernel-toggle-with-a-controlled-low-x-term).
-
-### KP3. Genuine matching K representatives and their smaller low order
-
-Retained completely in [C768 KP3](../claims/Yin_C_G0768_v1.md#kp3-genuine-matching-k-representatives-and-their-smaller-low-order).
-
-### KP4. The local half formula remains valid at the actual copied orders
-
-Retained completely in [C768 KP4](../claims/Yin_C_G0768_v1.md#kp4-the-local-half-formula-remains-valid-at-the-actual-copied-orders).
-
-### KP5. Exact non-square separation of the two actual endpoints
-
-Retained completely in [C768 KP5](../claims/Yin_C_G0768_v1.md#kp5-exact-non-square-separation-of-the-two-actual-endpoints).
-
-### KP6. Pairing count, costs and exact remaining boundary
-
-Retained completely in [C768 KP6](../claims/Yin_C_G0768_v1.md#kp6-pairing-count-costs-and-exact-remaining-boundary).
 <a id="low-core-linear-coefficient-square-test"></a>
 ## A candidate explicit low coefficient identifies a failing half
 
@@ -2137,11 +1590,3 @@ The complete LC1--LC5 statement and argument are [adopted in C769](../claims/Yin
 Root developed the argument; its low integer core coefficient identifies exactly half of the actual C767 target fiber as a specified failing subset for the unrestricted second-four correction test.
 The kappa=0 class and total failure count remain unresolved by this particular test.
 C768's review does not cover this additional identification.
-
-### Actual low coefficients of the reference difference
-
-Retained completely in [C769's low-coefficient argument](../claims/Yin_C_G0769_v1.md#actual-low-coefficients-of-the-reference-difference).
-
-### What the normalized derivative detects
-
-Retained completely in [C769's actual derivative and count argument](../claims/Yin_C_G0769_v1.md#what-the-normalized-derivative-detects).

@@ -231,7 +231,7 @@ The recorded review description was `under review`.
 | dependency | [C87 golden-unit control](Yin_C_G0087_v1.md#statement) | Only PartE's matrix, seed, q5/M2/E1/width5, signed norms5,-5 and fixed outside-domain surplus. |
 | dependency | [Pri11 accepted statement](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | Through L229 ONLY: retained integer/simple-zero/actual N>=55, real compact Lipschitz test and original statement/applicability limits. |
 | dependency | [Retained house source unit](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Through L209/L229 ONLY: this unit's house subsection and retained Dim19 v1 actual-powered-degree house-to-height consequence; no new proof or later-version adoption. |
-| support | [Original entire independent finding](../audits/reviews/Yin_R_G0327_v1.md#eight-power-entire-independent-finding) | ENTIRE original11:34 D50 independently reviewed before this wrapper existed; not an actual extraction finding for this new statement. |
+| support | [Original entire finding](../audits/reviews/Yin_R_G0327_v1.md#eight-power-entire-independent-finding) | ENTIRE original11:34 D50 reviewed before this wrapper existed; not an actual extraction finding for this new statement. Finding relationship: self-reviewed. |
 | support | [C90 fixed-rank comparison](Yin_C_G0090_v1.md#statement) | Existing independent-dictionary result with rank-dependent threshold; comparison only. |
 | support | [C92 automatic fixed-rank comparison](Yin_C_G0092_v1.md#statement) | Existing automatic-independence assembly at rank-dependent thresholds; no growing-rank consequence is borrowed. |
 
@@ -256,7 +256,7 @@ The recorded review description was `under review`.
 | dependency | [C87 golden-unit control](Yin_C_G0087_v1.md#statement) | Only PartE's matrix, seed, q5/M2/E1/width5, signed norms5,-5 and fixed outside-domain surplus. |
 | dependency | [Pri11 accepted statement](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | Through L229 ONLY: retained integer/simple-zero/actual N>=55, real compact Lipschitz test and original statement/applicability limits. |
 | dependency | [Retained house source unit](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | Through L209/L229 ONLY: this unit's house subsection and retained Dim19 v1 actual-powered-degree house-to-height consequence; no new proof or later-version adoption. |
-| support | [Original entire independent finding](../audits/reviews/Yin_R_G0327_v1.md#eight-power-entire-independent-finding) | ENTIRE original11:34 D50 independently reviewed before this wrapper existed; not an actual extraction finding for this new statement. |
+| support | [Original entire finding](../audits/reviews/Yin_R_G0327_v1.md#eight-power-entire-independent-finding) | ENTIRE original11:34 D50 reviewed before this wrapper existed; not an actual extraction finding for this new statement. Finding relationship: self-reviewed. |
 | support | [C90 fixed-rank comparison](Yin_C_G0090_v1.md#statement) | Existing independent-dictionary result with rank-dependent threshold; comparison only. |
 | support | [C92 automatic fixed-rank comparison](Yin_C_G0092_v1.md#statement) | Existing automatic-independence assembly at rank-dependent thresholds; no growing-rank consequence is borrowed. |
 | review | [Actual extraction finding](../audits/reviews/Yin_R_G0331_v1.md#c95-eight-power-actual-extraction-finding) | Entire actual statement, complete retained original and all precise coefficient/group/weight/word/norm/source interfaces and preservation; distinct noncontributor actual review. |

@@ -4,6 +4,10 @@ author: Yin
 
 # Moving binomial forcing suppresses central scattering, with an exact norm cost
 
+Current checking scope is owned by [R550](../audits/reviews/Yin_R_G0550_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct derivation by the assigned review_matrix_completion AI agent for Yin.
 This note follows the fixed-trace and decaying-defect boundaries of L G0105 and L G0115.

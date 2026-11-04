@@ -22,11 +22,15 @@ The unchanged direct adopted inputs had already been actually read at the first 
 This reviewer previously reviewed the C74 ancestor and whole-reviewed/authored wrappers for C84/C87; those are accepted-ancestor roles, not independent certification of the reviewer's earlier work by this finding or contributions to D46's new index argument.
 This is an internal independent AI mathematical review, not external human refereeing, a source-wide audit or formal verification.
 
+The consulted inputs explicitly included the root author's target explanations in addition to the original proof, negative finding and correction.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole corrected finding](#fixed-rank-corrected-whole-independent-finding) | independently reviewed |
+| [Whole corrected finding](#fixed-rank-corrected-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

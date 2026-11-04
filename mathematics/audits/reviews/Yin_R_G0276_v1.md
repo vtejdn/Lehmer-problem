@@ -11,7 +11,7 @@ Root's whole-original R271 is a known prior finding, not a blind-review substitu
 This reviewer did help locate limited LP17/TK06 primary metadata and attribution, but supplied no D13 mathematical formula, proof step or wrapper wording.
 
 There is a further disclosed ancestor role: this reviewer authored the original D6/J91 finite work and its C55 wrapper.
-The exact C55 n8 witness is therefore reused as an already independently reviewed and adopted input through R355 and R357.
+The exact C55 n8 witness is therefore reused as an already reviewed and adopted input through the original whole and extraction findings retained in R795, both with their explicitly unknown relationships.
 This review does NOT relabel the reviewer's own ancestor proof or program as independently re-reviewed.
 It reconstructs the NEW C60 operator, energy, conditional transfer and projection arguments and checks their use of that accepted finite interface.
 Root has the disclosed arrangement.
@@ -24,11 +24,12 @@ The reviewer read the full original sections1--9/equations1--17, both freezes, r
 [R271](Yin_R_G0271_v1.md#quartic-local-dynamics-whole-independent-finding) was read and is disclosed support for the unchanged original whole scope only.
 
 Actual direct interfaces read are L335's arbitrary-coordinate block minorization, its original five-digit law and midpoint floor, L329's complete-state tightness theorem and real strips, and C55's current selected finite witness/mass statement.
-R355's original whole/program/reproduction scope and R357's actual C55 extraction finding supply the independent ancestor evidence at the stated finite scope; no native computation or enumeration was rerun.
+The original whole/program/reproduction scope and actual C55 extraction finding retained in R795 supply the ancestor evidence at the stated finite scope and their unknown relationships; no native computation or enumeration was rerun.
 Ordinary LP17/TK06 access accounts were also read.
 No D15 assertion about connectivity or global gap, and no D16 correction, enters this review or C60's proof.
 
-Current relationship clarification: The prior whole R271 finding for this same proof was supplied and read before this extraction finding. The recorded noncontribution and separate organization do not remove that shared mathematical review context; the current relationship is self-reviewed.
+Current relationship clarification: The prior whole R271 finding for this same proof was supplied and read before this extraction finding.
+The recorded noncontribution and separate organization do not remove that shared mathematical review context; the current relationship is self-reviewed.
 The original checking date, mathematical findings and exact input bindings remain unchanged; this is no new mathematical review.
 
 ## Review relationships
@@ -46,9 +47,9 @@ The original checking date, mathematical findings and exact input bindings remai
 | [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [C60 preservation declaration](../../claims/Yin_C_G0060_v1.md#registration-and-complete-preservation) | Exact whole-body preservation and valid original links, history and support versus actual-review distinction. |
 | [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [Original D13 combined freeze](../../claims/Yin_C_G0060_v1.md#quartic-local-dynamics-complete-source-author-freeze) | Ancestry and complete-text comparison only, not an additional mathematical premise. |
 | [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [Original whole R271](Yin_R_G0271_v1.md#quartic-local-dynamics-whole-independent-finding) | Known original combined-body whole finding, read at its explicit direct-interface/source limitations; not automatically transferred to this wrapper. |
-| [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [C55 exact finite witness](../../claims/Yin_C_G0055_v1.md#statement) | Only n8 full returned word arrays, complete two-word parity fiber, equal within-fiber weights and actual mass1/10678; adopted independent input, with this reviewer's ancestor authorship disclosed. |
-| [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [C55 original independent evidence](Yin_R_G0795_v1.md#matched-parity-whole-independent-finding) | Previously completed whole-D6/program and independently authored/executed exact J91 reproduction; reused only for the accepted n8 witness input, no new run or expanded software claim. |
-| [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [C55 actual extraction review](Yin_R_G0795_v1.md#c55-matched-parity-actual-extraction-finding) | Accepted actual finite C55 statement and witness/complete-mass interface, independently reviewed by a different reviewer. |
+| [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [C55 exact finite witness](../../claims/Yin_C_G0055_v1.md#statement) | Only n8 full returned word arrays, complete two-word parity fiber, equal within-fiber weights and actual mass1/10678; adopted input with original whole/extraction relationships unknown and this reviewer's ancestor authorship disclosed. |
+| [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [C55 original whole evidence](Yin_R_G0795_v1.md#matched-parity-whole-independent-finding) | Previously completed whole-D6/program and independently authored/executed exact J91 reproduction; reused only for the accepted n8 witness input, no new run or expanded software claim. |
+| [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [C55 actual extraction review](Yin_R_G0795_v1.md#c55-matched-parity-actual-extraction-finding) | Accepted actual finite C55 statement and witness/complete-mass interface, reviewed by a different reviewer at its explicitly unknown relationship. |
 | [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [L335 actual original conventions](../../ledger/Yin_L_G0335_v1.md#lower-fiber-reuse-and-law) | Original1/4,1/2,1/4 law and two unweighted real neutral coordinates, retained in all C60 formulas. |
 | [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [L335 full-complement minorization](../../ledger/Yin_L_G0335_v1.md#returned-block-convolution-minorization) | Actual arbitrary coordinate block, full complement and center maximum, giving its original return probability as a lower bound after complete conditioning. |
 | [Actual quartic-dynamics extraction finding](#quartic-dynamics-actual-extraction-finding) | [L335 five-digit law and moment floor](../../ledger/Yin_L_G0335_v1.md#quartic-uniform-positive-covariance) | Actual p5=17/512, original zero/+P/-P weights and m_n>=1/512 at every n>=4. |
@@ -188,7 +189,7 @@ No mathematical, probability, clock, inference-direction, source-boundary, role 
 No correction to C60 is required.
 A separate responsible decision may adopt proved / independently reviewed at precisely this fixed original-quartic operator/energy/conditional-transfer/finite-n8 nonclosure scope by selecting this finding.
 
-R271 remains the original whole finding, and R355/R357 remain the accepted independent finite ancestor evidence.
+R271 remains the original whole finding, and the original C55 whole/extraction findings retained in R795 remain accepted finite ancestor evidence at their unknown relationships.
 None is silently broadened.
 This new review neither adopts the Claim nor decides connectivity, a positive lower gap, an infinite-mean branch, asymptotic diffusion or unrestricted G0001 completion.
 Retirement remains a separate decision by root.

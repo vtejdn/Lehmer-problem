@@ -5,7 +5,7 @@ author: Yin
 # Complete repeated-cell congruence and fixed-count cost self-review
 
 Recorded 2026-10-21T10:28 for Yin.
-The constructor read the entire original L346, whole R245 account, complete current C347 statement/argument and the necessary original L330/C312/C314/cover interfaces before this finding.
+The constructor read the entire original L346, whole R171 account, complete current C347 statement/argument and the necessary original L330/C311/C313/cover interfaces before this finding.
 It prepared the retained statement and had the original mathematical development and prior findings available, so the current entire-target finding is self-reviewed.
 No new source, construction, subset, precision, root-isolation run, producer, optimizer or Task/E execution was opened.
 
@@ -52,11 +52,11 @@ Algorithm separation does not make this maintenance agent context-isolated.
 
 ## Original account and limits
 
-The whole R245 original finding was read and compared, including its actual2026-10-10 date, full proof coverage, original142275counter, finite native method, source acceptance boundaries and every growing-count/undecided/class-optimum restriction.
+The whole R171 original finding was read and compared, including its actual2026-10-10 date, full proof coverage, original142275counter, finite native method, source acceptance boundaries and every growing-count/undecided/class-optimum restriction.
 The current relationship of that old finding is unknown because initial substantive development context is unestablished; its broad assignment and prior fixed inputs alone prove neither SELF nor isolation.
 The new full self finding supplies actual current checking and no isolated replacement.
 The original L346 remains meaningful construction/search/failure history and a fixed old-review input; its original active/pending words supply no current authority.
-The complete L330 scalar/interface and C312/C314 used attachment/circle/coefficient proofs were inspected at their uses, without rerunning their old producers or recursively auditing external source originals.
+The complete L330 scalar/interface and C311/C313 used attachment/circle/coefficient proofs were inspected at their uses, without rerunning their old producers or recursively auditing external source originals.
 Fourteen unpriced trace cases, growing-s costs, different congruences that change B_k, every original dimension/height/energy and positive-total-measure boundary remain explicit.
 No unit-circle classification beyond the accepted scalar input, new near-one family, unrestricted gap or research completion is asserted.
 

@@ -321,7 +321,7 @@ The recorded review description was `under review`.
 | dependency | [Exact Fejer interface](Yin_C_G0177_v1.md#argument) | Integrable difference, local continuity and explicit tail bound in the supplied new analytic argument. |
 | support | [Protected2G^2 comparison](Yin_C_G0176_v1.md#statement) | Earlier exact infimum and costs only; no expansion of that theorem to the new protected coefficient. |
 | support | [Exact input and review limits](#inputs-and-limits) | Sole new author, upstream contributor relationships, no computation and no uniform original transfer conclusion. |
-| review | [Whole trace-congruent finding](../audits/reviews/Yin_R_G0469_v1.md#trace-congruent-shear-whole-independent-finding) | Entire actual five-section proof, all1--15 formulas and seven inputs, exact original value, cost and sign interfaces, with upstream authorship disclosed and R468 reused at its actual independent scope. |
+| review | [Whole trace-congruent finding](../audits/reviews/Yin_R_G0469_v1.md#trace-congruent-shear-whole-independent-finding) | Entire actual five-section proof, all1--15 formulas and seven inputs, exact original value, cost and sign interfaces, with upstream authorship disclosed and R468 reused at its actual scope and explicitly unknown relationship. |
 | support | [Whole upstream arithmetic finding](../audits/reviews/Yin_R_G0468_v1.md#actual-trace-cluster-and-return-whole-finding) | Actual all-prime C191v2 and original-return gate; no self-review of that upstream input is substituted by C193's contributor reviewer. |
 
 
@@ -344,6 +344,6 @@ The recorded review description was `under review`.
 | dependency | [Exact dependency](Yin_C_G0177_v1.md#argument) | Integrable difference, local continuity and explicit tail bound in the supplied new analytic argument. |
 | support | [Exact support](Yin_C_G0176_v1.md#statement) | Earlier exact infimum and costs only; no expansion of that theorem to the new protected coefficient. |
 | support | [Exact support](#inputs-and-limits) | Sole new author, upstream contributor relationships, no computation and no uniform original transfer conclusion. |
-| review | [Exact review](../audits/reviews/Yin_R_G0469_v1.md#trace-congruent-shear-whole-independent-finding) | Entire actual five-section proof, all1--15 formulas and seven inputs, exact original value, cost and sign interfaces, with upstream authorship disclosed and R468 reused at its actual independent scope. |
+| review | [Exact review](../audits/reviews/Yin_R_G0469_v1.md#trace-congruent-shear-whole-independent-finding) | Entire actual five-section proof, all1--15 formulas and seven inputs, exact original value, cost and sign interfaces, with upstream authorship disclosed and R468 reused at its actual scope and explicitly unknown relationship. |
 | support | [Exact support](../audits/reviews/Yin_R_G0468_v1.md#actual-trace-cluster-and-return-whole-finding) | Actual all-prime C191v2 and original-return gate; no self-review of that upstream input is substituted by C193's contributor reviewer. |
 

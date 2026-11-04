@@ -11,8 +11,8 @@ The initial whole conclusions and actual UTC minutes precede every old target fi
 The old-finding comparison was completed at 2026-10-22T21:19.
 Necessary upstream source attribution and accepted-interface relationship labels were visible; they supplied neither a target verdict nor fresh certification of their own entire source proofs.
 The fixed mathematical bodies also retain author corrections and original review-existence pointers; these are explicitly distinguished from inheriting an old whole result.
-One OTHER target, C618, disclosed an old completed review in its mathematical Statement before its initial check and was excluded from fresh independent publication by this agent.
-No finding or C618 adoption is made here, and C618 is not a proof premise of the findings below.
+One OTHER target, C598, disclosed an old completed review in its mathematical Statement before its initial check and was excluded from fresh independent publication by this agent.
+No finding or C598 adoption is made here, and C598 is not a proof premise of the findings below.
 No research Task/E, native producer, old reviewer replay, parameter expansion or source acquisition was executed.
 The accepted direct interfaces are used at their stated scopes; this inspection does not recursively certify their entire upstream chains.
 
@@ -26,9 +26,9 @@ The accepted direct interfaces are used at their stated scopes; this inspection 
 
 | Review | Relationship |
 | --- | --- |
-| [Current whole C607](#selected-edge-current-independent) | independently reviewed |
-| [Current whole C617](#boundary-module-current-independent) | independently reviewed |
-| [Current whole C620](#signed-bundle-current-independent) | independently reviewed |
+| [Current whole C588](#selected-edge-current-independent) | independently reviewed |
+| [Current whole C597](#boundary-module-current-independent) | independently reviewed |
+| [Current whole C600](#signed-bundle-current-independent) | independently reviewed |
 | [Original whole written](#selected-edge-complete-written-review) | unknown |
 | [Original whole computational](#selected-edge-complete-computational-review) | unknown |
 | [Original complete author SELF](#original-selected-edge-author-whole-self) | self-reviewed |
@@ -42,13 +42,13 @@ The accepted direct interfaces are used at their stated scopes; this inspection 
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Current whole C607](#selected-edge-current-independent) | [Exact complete statement](../../claims/Yin_C_G0588_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:16, before old target findings. |
-| [Current whole C607](#selected-edge-current-independent) | [Exact complete argument](../../claims/Yin_C_G0588_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:16, before old target findings. |
-| [Current whole C617](#boundary-module-current-independent) | [Exact complete statement](../../claims/Yin_C_G0597_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
-| [Current whole C617](#boundary-module-current-independent) | [Exact complete argument](../../claims/Yin_C_G0597_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
-| [Current whole C620](#signed-bundle-current-independent) | [Exact complete statement](../../claims/Yin_C_G0600_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
-| [Current whole C620](#signed-bundle-current-independent) | [Exact complete argument](../../claims/Yin_C_G0600_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
-| [Current whole C607](#selected-edge-current-independent) | [Original author code](../../computations/programs/Yin_J_G0077/verify.py) | Entire fixed original code read, without import or execution; current reproduction-code limitation separately disclosed, historical execution not overwritten. |
+| [Current whole C588](#selected-edge-current-independent) | [Exact complete statement](../../claims/Yin_C_G0588_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:16, before old target findings. |
+| [Current whole C588](#selected-edge-current-independent) | [Exact complete argument](../../claims/Yin_C_G0588_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:16, before old target findings. |
+| [Current whole C597](#boundary-module-current-independent) | [Exact complete statement](../../claims/Yin_C_G0597_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
+| [Current whole C597](#boundary-module-current-independent) | [Exact complete argument](../../claims/Yin_C_G0597_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
+| [Current whole C600](#signed-bundle-current-independent) | [Exact complete statement](../../claims/Yin_C_G0600_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
+| [Current whole C600](#signed-bundle-current-independent) | [Exact complete argument](../../claims/Yin_C_G0600_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
+| [Current whole C588](#selected-edge-current-independent) | [Original author code](../../computations/programs/Yin_J_G0077/verify.py) | Entire fixed original code read, without import or execution; current reproduction-code limitation separately disclosed, historical execution not overwritten. |
 | [Original whole written](#selected-edge-complete-written-review) | [Entire original L304](../../ledger/Yin_L_G0304_v1.md#complete-retained-proof-and-review) | Whole Sections1--8/equations1--17, all general/finite/source/native and proof-only boundary domains, actual author freeze2026-10-10T07:38; original review date2026-10-10, exact minute unrecorded. |
 | [Original whole computational](#selected-edge-complete-computational-review) | [Entire original J77](../../computations/programs/Yin_J_G0077/readme.md) | All15 windows/50 basis edges/100 diagonals and2761 exact scalar leaves, every original type/key/cost; later proof-only two-boundary identities excluded; precise act minute/runtime unrecorded in the account. |
 | [Original complete author SELF](#original-selected-edge-author-whole-self) | [Original L304 proof](../../ledger/Yin_L_G0304_v1.md#complete-retained-proof-and-review) | Entire Sections1--7/equations1--17 and full J77/source/correction scope, actual author SELF2026-10-10T07:37, not the later C588. |
@@ -57,7 +57,7 @@ The accepted direct interfaces are used at their stated scopes; this inspection 
 | [Original whole reviewer](#small-measure-pivot-complete-independent-review) | [Entire original L315](../../ledger/Yin_L_G0315_v1.md#complete-retained-proof-and-review) | Whole original Sections1--6/equations1--14, exact selected pivot/height/scale/conditional-gap/norm-metric domains, full old weaker-inference history and every coefficient/leading/radial/source limit. Actual author freeze2026-10-10T09:49, whole reviewer2026-10-10T09:57; no later C597 input backfill. |
 | [Original complete author SELF](#original-small-measure-pivot-author-self) | [Original L315 proof](../../ledger/Yin_L_G0315_v1.md#complete-retained-proof-and-review) | Whole original Sections1--6/equations1--14, exact selected pivot/height/scale/conditional-gap/norm-metric domains, full old weaker-inference history and every coefficient/leading/radial/source limit. Actual original author SELF/freeze2026-10-10T09:49, not later C597. |
 | [Original complete author SELF](#original-bundle-projection-author-self) | [Original complete L318 proof](../../ledger/Yin_L_G0318_v1.md#complete-retained-proof-and-review) | Complete original Sections1--7/equations1--15 and actual source/freeze account; author roles, source/no-program limits and original freeze preserved, not later C619/C600/C621. |
-| [Current whole C607](#selected-edge-current-independent) | [Output of the recorded run](../../computations/programs/Yin_J_G0077/readme.md#recorded-runs) | All mathematical keys/lengths/types/values in its predeclared finite domain, independently checked by the new bounded exact method described here; no finite-to-all-input extrapolation. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0077/result.json`; this target locates that original run's computation account. |
+| [Current whole C588](#selected-edge-current-independent) | [Output of the recorded run](../../computations/programs/Yin_J_G0077/readme.md#recorded-runs) | All mathematical keys/lengths/types/values in its predeclared finite domain, independently checked by the new bounded exact method described here; no finite-to-all-input extrapolation. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0077/result.json`; this target locates that original run's computation account. |
 
 <a id="selected-edge-current-independent"></a>
 ## Current C588 complete independent finding
@@ -76,10 +76,10 @@ The formal resolvent gives B_a/P with the exact z^-1 substitution, no analytic a
 Odd dilation separates residue0 of length2N+1 from every paired nonzero residue of length2N; reversal and the explicit isometry identify EVERY competing anti/full block and its diagonal.
 The strict comparison therefore proves global selection rather than an arbitrary favorable lift, with equality/reverse alternatives retained.
 All q preimages and the extra q-1 reversal padding prove the signed resultant powers and unchanged FULL Mahler/coefficient costs with degrees multiplied by q.
-For every odd prime, the accepted C467 actual irreducibility and the complete orthogonal rows give the unique minimum k=q at n=3s>2s.
+For every odd prime, the accepted C463 actual irreducibility and the complete orthogonal rows give the unique minimum k=q at n=3s>2s.
 The corrected literal F/A, scale74, energy148, rho144/37, signed norm(-27380)^q, depths including half-depth at5 and q5, full measures8/21 and negative radial balance all follow exactly.
 The complete formal sequence has c_n=8,c_(n+1)=0,c_(n+q)=21 without cancelling an original denominator root; the other endpoint remains.
-C588/C587/C467/C520/C402 and the algebraic interpolation interfaces were checked at their necessary scopes.
+C588/C570/C463/C515/C399 and the algebraic interpolation interfaces were checked at their necessary scopes.
 Syn26/Nat26 give classical definition/telescoping attribution, with no transferred positive measure or uninspected theorem premise.
 The two finite quartic unit edges have fixed positive total measure and n<=2s; J77 does not test the later two-boundary proof.
 The odd-prime family has fixed TOTAL measure and no circle roots, so it is no near-one or Salem counterexample and no unrestricted coherence/gap follows.
@@ -102,10 +102,10 @@ At every prime the gcd calculation works with repeated factors and characteristi
 The initial primitive s-block and unimodular d-state shift make EVERY d-consecutive block primitive, giving the stated support/l1/l2 and LOWER scale bounds only.
 The reused growing-measure quadratic control keeps all invariants1 and full leading measures while q grows; it refutes only a metric bound from the invariant list/d/n alone.
 For small TOTAL m the actual positive INTEGER pivot j=qell and integer A1<=E imply ell rho<=2j squared.
-Keeping the exact diagonal margin in the full accepted C587 coefficient bound proves the pivot inequality, restricted positive constants, height/q/energy divergence and the stated rate even if ell shrinks.
+Keeping the exact diagonal margin in the full accepted C570 coefficient bound proves the pivot inequality, restricted positive constants, height/q/energy divergence and the stated rate even if ell shrinks.
 The strict selected-height threshold gives exactly a CONDITIONAL uniform gap; it supplies no upper height hypothesis.
 The gamma consequence retains the actual norm factor and is conditional on bounded nu^(1/s); the converse retains its half-log norm expense.
-C588/C588/C238/C244/C394/C587 and Hun74-U005 were read at their consumed scopes.
+C588/C571/C237/C243/C391/C570 and Hun74-U005 were read at their consumed scopes.
 Hun74 remains finite commutative-PID classification with its original SELF completions and uninspected cross-chapter foundations; HR08 remains selected factorization attribution, with no fresh source-proof certification.
 All original local depths, rational scales, leading/root/Mahler/positive-evaluation and actual radial expenses survive, and large log L cancels its coefficient scale rather than creating cyclic income.
 No near-one sequence, future-coefficient upper bound or unrestricted gap is proved.
@@ -132,7 +132,7 @@ At bounded ratios small m makes its damping vanish; at unbounded ratios in the s
 Common complementary filters scale both energy and autocorrelation and leave normalized kappa unchanged, charging all new degrees and norms.
 The complete primitive binomial pair is complementary but its full same-exponent income tends uniformly to zero under C394, leaving negative surplus-log2/2.
 These exclude the two precise recipes, without excluding different directions or proving actual covered arithmetic/coherence bundles.
-C587/C394/C597 and ABR01's selected source record were read at their exact scopes; the Poisson method is attributed and all local polynomial/arithmetic steps are proved directly.
+C570/C391/C597 and ABR01's selected source record were read at their exact scopes; the Poisson method is attributed and all local polynomial/arithmetic steps are proved directly.
 No source-wide theorem upgrade, uniform actual kappa bound, constructed near-one family, new best degree bound or unrestricted gap follows.
 
 ## Actual finite verification, original inputs and reproduction boundary
@@ -142,7 +142,7 @@ It used newly written standard-library coefficient arrays, exact monic division,
 It imported neither author code, old reviewer implementation, SymPy nor a polynomial library, and ran no search or native/reviewer script.
 All 12518 J76 scalar leaves matched, including every full matrix, Q/inverse/congruence,45 full coefficient arrays,612 integer pencils, seed identities/endpoints, cyclotomic boundaries and all rank/height/energy fields.
 All 2761 J77 scalar leaves matched: complete keys and lengths, P/Q/R/H/S_Q, all50 basis edges and100 projection diagonals, every tie/least index, delta/gamma/L/q/w/c, complete F/A/a arrays, trace-dual coefficient identities, signed multiplication-matrix norms, cyclic resultants, order remainders/content, prime factors, complete coefficients and radial/cost ratios.
-The original irreducibility flags were compared with the accepted C520/C402 actual mathematical premises, rather than claimed as a new software factorization.
+The original irreducibility flags were compared with the accepted C515/C399 actual mathematical premises, rather than claimed as a new software factorization.
 The check completed in 0.17834919999586418 seconds and the original J76/J77 code and JSON bytes were identical before and after it.
 This is an actual new bounded read-only check, separate from the historical author runs and historical different implementations.
 It supplies finite evidence only; the all-input written proofs below are checked separately.

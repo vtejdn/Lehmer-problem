@@ -33,8 +33,8 @@ The original containers remain present for the coordinator's separate consumer a
 | [C109v1](../../claims/Yin_C_G0109_v1.md#statement) | 2026-10-22T23:20; no substantive defect found at the full stated scope. | Complete [R796](#original-g0463-account); compared only after the initial judgment. |
 | [C154v1](../../claims/Yin_C_G0154_v1.md#statement) | 2026-10-22T23:20; no substantive defect found at the full stated scope. | Complete [R796](#original-g0517-account); compared only after the initial judgment. |
 
-The mathematical interfaces were initially read at the exact fixed homes appearing in the argument, including retained L229/L159/L168/L66/L8 material and the current C74/C90/C84/C184/C186/C34/C100/C257/C508/C220/C152/C209/C226/source units where invoked.
-After initial judgment, the current selected relation rows were read for publication and the already used same-object interfaces were matched directly at C587/C379v2/C394/C244/C213v2.
+The mathematical interfaces were initially read at the exact fixed homes appearing in the argument, including retained L229/L159/L168/L66/L8 material and the current C74/C90/C84/C184/C186/C34/C100/C256/C504/C220/C152/C209/C226/source units where invoked.
+After initial judgment, the current selected relation rows were read for publication and the already used same-object interfaces were matched directly at C570/C376v2/C391/C244/C213v2.
 This later locator comparison changes no initial mathematical premise and supplies no previously missing source theorem or repaired proof step.
 It does not retrospectively assert an earlier reading of those later physical homes.
 Comparisons and attribution-only support remain comparisons rather than hidden proof premises or newly whole-audited ancestors.
@@ -74,7 +74,7 @@ G108 and G110 are excluded because the coordinator identified their already adeq
 | [Actual C92 finding](#c92-annihilator-actual-extraction-finding) | [L229 radial/nonzero theorem](../../ledger/Yin_L_G0229_v1.md#actual-resultant-coefficient-energy-bound) | Credited pointwise radial comparison ONLY for A--B; its NONZERO resultant/log theorem is expressly not applied to an annihilator. Old nonzero uses inside C90 retain their own domain. |
 | [Actual C92 finding](#c92-annihilator-actual-extraction-finding) | [C74 all-r margins](../../claims/Yin_C_G0074_v1.md#multiplicity-delay-explicit-threshold) | Exact eta_r for every integer r>=1, domain h0 and strict exponential margin yielding the 1/40 criterion. |
 | [Actual C92 finding](#c92-annihilator-actual-extraction-finding) | [C90 actual fixed-rank interface](../../claims/Yin_C_G0090_v1.md#statement) | Entire quotient/simultaneous-denominator and separate E<1/E1 packet/constant-word consequences; its independence premise is supplied before invocation, with every remaining O0/nonzero/rational/current/cumulative condition retained. |
-| [Actual C92 finding](#c92-annihilator-actual-extraction-finding) | [C90 selected adoption](../../claims/Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual 02:08 adoption after R431/R433, earlier negative and author corrections preserved, no future acceptance or cycle. |
+| [Actual C92 finding](#c92-annihilator-actual-extraction-finding) | [C90 selected adoption](../../claims/Yin_C_G0090_v1.md#decision-organized-reviewed) | Actual 02:08 adoption after R321/R323, earlier negative and author corrections preserved, no future acceptance or cycle. |
 | [Actual C92 finding](#c92-annihilator-actual-extraction-finding) | [C84 permitted delays](../../claims/Yin_C_G0084_v1.md#statement) | Exact primitive weighted binary signed-delay formula/denominator and optional one-coordinate shifts, true-polynomial/all-stage O0/fixed rational weights/cumulative costs through C90. |
 | [Actual C92 finding](#c92-annihilator-actual-extraction-finding) | [C87 control/comparison](../../claims/Yin_C_G0087_v1.md#statement) | Golden positive-root relation and old q5 rotation costs; stronger same-K0 three-power full-order result only as comparison, not a premise proving arbitrary-rank independence. |
 | [Actual C92 finding](#c92-annihilator-actual-extraction-finding) | [C89 low-rank comparison](../../claims/Yin_C_G0089_v1.md#statement) | Existing same-K0 four-power O0 result and its order distinction, comparison only. |
@@ -100,8 +100,8 @@ G108 and G110 are excluded because the coordinator identified their already adeq
 | [Whole actual C102 finding](#two-prime-whole-independent-finding) | [L168 criterion](../../ledger/Yin_L_G0168_v1.md#general-unit-finite-income-criterion) | Strict positive Mahler conclusion from uniform eta*d income at n<=Cd, with original norm tower and inherited Pri11 inspection limits. |
 | [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [Actual fixed statement](../../claims/Yin_C_G0103_v1.md#statement) | Entire A--E, coefficient fields, padding, singular PSD, multiplicities, total versus normalized determinant, all embeddings, Salem family and every limitation. |
 | [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [Actual fixed argument](../../claims/Yin_C_G0103_v1.md#argument) | Entire retained Sections2--8 and equations1--23, all constructions, closure/attainment arguments, controls, unsuccessful shortcuts and exact source/contribution interfaces. |
-| [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [F109 scalar capacity](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) | Exact finite padded Hermitian maximum M(p)^2 and unique normalized outer rank-one Gram, including circle zeros; complete local proof of this input reconstructed. |
-| [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [F111 block capacity](../../ledger/Yin_L_F0007_v1.md#matrix-finite-gram-capacity) | Exact unrestricted Hermitian block maximum det(Q00)=D_r^(2r)=M(det A)^2, common Laurent shift, padding, wedge upper bound and outer-factor matching point; retained DR10 acceptance scope. |
+| [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [L_F5 scalar capacity](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) | Exact finite padded Hermitian maximum M(p)^2 and unique normalized outer rank-one Gram, including circle zeros; complete local proof of this input reconstructed. |
+| [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [L_F7 block capacity](../../ledger/Yin_L_F0007_v1.md#matrix-finite-gram-capacity) | Exact unrestricted Hermitian block maximum det(Q00)=D_r^(2r)=M(det A)^2, common Laurent shift, padding, wedge upper bound and outer-factor matching point; retained DR10 acceptance scope. |
 | [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [C34 adopted statement](../../claims/Yin_C_G0034_v1.md#statement) | Real strict-positive factorization and exact rational interior correction only; no boundary descent or unrelated auxiliary-packet theorem adopted. |
 | [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [C34 real factorization](../../claims/Yin_C_G0034_v1.md#strict-real-spectral-factor-local-proof) | Complete reciprocal/conjugate root pairing, positive scalar and padded PD Gram; applicability to real K coefficients. |
 | [Whole C103 finding](#gram-field-actual-whole-independent-finding) | [C34 affine correction](../../claims/Yin_C_G0034_v1.md#rational-affine-gram-density-and-pd) | One-entry-per-positive-lag right inverse and quantitative positivity margin; C103's K-field adaptation checked directly. |
@@ -121,7 +121,7 @@ G108 and G110 are excluded because the coordinator identified their already adeq
 | [Whole finding](#signed-gram-whole-independent-finding) | [C107 statement](../../claims/Yin_C_G0107_v1.md#statement) | Entire A--E with all Salem, field, width, denominator and hypothetical-sequence domains. |
 | [Whole finding](#signed-gram-whole-independent-finding) | [C107 argument](../../claims/Yin_C_G0107_v1.md#argument) | Full Sections2--10/equations1--26, sources, controls, contribution account and rejected conjugation shortcut. |
 | [Whole finding](#signed-gram-whole-independent-finding) | [C103](../../claims/Yin_C_G0103_v1.md#statement) | Accepted coefficient convention and explicit Salem b-family; no new whole C103 review. |
-| [Whole finding](#signed-gram-whole-independent-finding) | [F109](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) | Same-symbol real PSD maximum M(p)^2 and retained source limits. |
+| [Whole finding](#signed-gram-whole-independent-finding) | [L_F5](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) | Same-symbol real PSD maximum M(p)^2 and retained source limits. |
 | [Whole finding](#signed-gram-whole-independent-finding) | [L66 field](../../ledger/Yin_L_G0066_v1.md#reciprocal-trace-domain) | Original degree2h, quadratic involution and integral trace polynomial. |
 | [Whole finding](#signed-gram-whole-independent-finding) | [L66 discriminant](../../ledger/Yin_L_G0066_v1.md#reciprocal-trace-order-index) | Grouped inverse-pair differences and actual coefficient discriminants. |
 | [Whole finding](#signed-gram-whole-independent-finding) | [L8](../../ledger/Yin_L_G0008_v1.md#quartic-projection-obstruction) | Exact irreducible Salem quartic and trace roots. |
@@ -393,14 +393,15 @@ No new valuation surplus, uniform arithmetic margin, native program run or unres
 ## Actual extraction review of short annihilators and automatic fixed-rank rigidity
 
 Date: 2026-10-12T18:19.
-Human record author Yin. g0001_review_recovery reviews the ACTUAL C92 registered at 2026-10-12T18:16.
+Human record author Yin.
+g0001_review_recovery reviews the ACTUAL C92 registered at 2026-10-12T18:16.
 Root authored both all new D47 mathematics and this wrapper; this reviewer supplied neither.
 The reviewer first read the entire actual 02:09:31 D47 final freeze and direct interfaces while awaiting registration, issued no future-C finding, then read ALL actual C92 A--F, declarations and retained original after registration.
 It reconstructed the new mathematics before consulting the original whole R324 for comparison.
 
 Parent instructions and the original author's scope/role account were supplied.
 This is not a blind-review claim.
-Prior accepted-ancestor roles include actual C90 review R433, C89 review R430, C87/C84 actual reviews and C71/C74 reviews.
+Prior accepted-ancestor roles include actual C90 review R323, C89 review R430, C87/C84 actual reviews and C71/C74 reviews.
 Those ancestor roles are disclosed and do not certify the new lower-Gram argument or wrapper by themselves.
 R324 belongs to a different noncontributor and covers the ORIGINAL final whole only.
 This new finding does not rewrite it or turn root's proof/wrapper work into independent review.
@@ -417,7 +418,7 @@ The original remains in place.
 Preservation is separate from mathematical verification.
 
 C90's ACTUAL selected decision is dated 02:08, before D47's 02:09:31 final freeze.
-It adopts corrected whole R431 and separate actual R433 while retaining original negative R429 and both author repairs.
+It adopts corrected whole R321 and separate actual R323 while retaining original negative R320 and both author repairs.
 Thus C92's combined consequence is actually resolved; the earlier conditional paragraph remains truthful development history.
 C90 depends on earlier L229/C74/C50/C71/C84/C87 and not D47/C92.
 Conversely C92 A--B use only the accepted angular and numerical inputs.
@@ -507,7 +508,7 @@ All packet premises survive the assembly: rational Laurent coefficients, positiv
 The no-lag E<1 exclusion remains different from the full Laurent covariance-1 monomiality theorem; coefficient E=1 alone is not substituted for the latter.
 C90's old integer norm floors apply only in this nonzero packet domain.
 No overorder or E>1 extension is introduced.
-Its actual adopted decision was read, not inferred from R431 alone, and its retained dependencies have no use of this new theorem.
+Its actual adopted decision was read, not inferred from R321 alone, and its retained dependencies have no use of this new theorem.
 
 ### True finite words and all actual costs
 

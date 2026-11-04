@@ -16,11 +16,16 @@ The complete adopted C196v5 NF1--NF8 and the corresponding R482 finding were rea
 No mathematical program, parameter scan, root isolation, numerical integration, source acquisition or new original-source reading was performed.
 No reviewed L, D, C, J or index was edited.
 
+The author scope and extraction explanations are disclosed, but their actual contents are not established as either solely retention/locator instructions or additional mathematical development.
+Pure retention instructions alone would not disqualify a reviewer; this unrecorded distinction leaves the actual relationship unknown.
+The affected finding relationships are unknown under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole component and Schur finding](#component-schur-whole-independent-finding) | independently reviewed |
+| [Whole component and Schur finding](#component-schur-whole-independent-finding) | unknown |
 
 ## Review bindings
 

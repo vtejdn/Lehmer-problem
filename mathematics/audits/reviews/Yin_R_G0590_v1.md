@@ -35,7 +35,7 @@ The precise formulas and their applicability were rechecked.
 There was no primary PDF reading or new source-proof audit in this review.
 
 Only after sending the complete initial findings did the reviewer read all of original L357 and L359, R183, R180, R181, R585, R587 and R589, and both target v1 files.
-It then read the current v2 metadata and compared the selected necessary C323/C377/C244/C360 interface slices with their original L homes.
+It then read the current v2 metadata and compared the selected necessary C322/C374/C243/C359 interface slices with their original L homes.
 The historical material was compared as an explicit audit object; it did not supply the initial findings.
 Later comparison neither backdates this review nor changes an old relationship.
 
@@ -54,31 +54,31 @@ The review arrangement and the unchanged-argument coverage justify the finding r
 
 | Review | Relationship |
 | --- | --- |
-| [Whole C381v2 finding](#g381v2-whole-isolated-finding) | independently reviewed |
-| [Whole C383v2 negative](#g383v2-whole-isolated-negative) | independently reviewed |
-| [Whole corrected C383v3 finding](#g383v3-whole-isolated-finding) | independently reviewed |
+| [Whole C378v2 finding](#g381v2-whole-isolated-finding) | independently reviewed |
+| [Whole C380v2 negative](#g383v2-whole-isolated-negative) | independently reviewed |
+| [Whole corrected C380v3 finding](#g383v3-whole-isolated-finding) | independently reviewed |
 
 ## Review bindings
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Whole C381v2 finding](#g381v2-whole-isolated-finding) | [C378v2 exact statement](../../claims/Yin_C_G0378_v2.md#statement) | Entire precise statement, partial/full inverse mass, k>0 original circle-root scope, S>=2 and fixed theta_0>1/2 or a uniform positive theta S-1 margin, positive-norm trace refinement, fixed control and every cost/source/noncompletion limit. |
-| [Whole C381v2 finding](#g381v2-whole-isolated-finding) | [C378v2 exact argument](../../claims/Yin_C_G0378_v2.md#argument) | Every mathematical Section1--5 and equation(1)--(21), including both propositions, source33 and all original domains, roots, signed norms, weights, contents and expenses. |
-| [Whole C381v2 finding](#g381v2-whole-isolated-finding) | [Original L357](../../ledger/Yin_L_G0357_v1.md#inverse-unit-bundle-domain) | Whole original account, mathematical body, candidate/reuse scope, author self-check, freeze and subsequent review notices compared only after the autonomous initial finding. |
-| [Whole C381v2 finding](#g381v2-whole-isolated-finding) | [Original R183](Yin_R_G0183_v1.md#inverse-pair-whole-finding) | Complete mathematical finding, actual author-self-check exposure, source limits, no-program boundary and SELF relationship compared historically. |
-| [Whole C381v2 finding](#g381v2-whole-isolated-finding) | [R585](Yin_R_G0585_v1.md#inverse-pair-explicit-domain-current-finding) | Complete relevant original/current SELF accounts, missed v1 summary qualification, dated negative and v2 reread compared; unrelated C382 mathematics is not newly audited here. |
-| [Whole C381v2 finding](#g381v2-whole-isolated-finding) | [R589](Yin_R_G0589_v1.md#g381-whole-exposed-check) | Whole relevant C378v1 finding and earlier narrow negative, true exposure order, exact source/native boundaries and express absence of a v2 binding compared. |
-| [Whole C383v2 negative](#g383v2-whole-isolated-negative) | [C380v2 exact statement](../../claims/Yin_C_G0380_v2.md#statement) | Whole precise summary; the exact-minimum P specialization and subsequent nonmonomial scope are defective as detailed below. No whole PASS is given. |
-| [Whole C383v2 negative](#g383v2-whole-isolated-negative) | [C380v2 exact argument](../../claims/Yin_C_G0380_v2.md#argument) | All Sections1--4 and equations(1)--(6), independently reconstructed with the actual general-P, nonmonomial-P and P=1-t^s domains distinguished. |
-| [Whole C383v2 negative](#g383v2-whole-isolated-negative) | [Original repaired L359](../../ledger/Yin_L_G0359_v1.md#integer-multiplier-variational-formula) | Complete repaired mathematics, all original author/check/response and nonexecution accounts, not an invented erroneous preimage. |
-| [Whole C383v2 negative](#g383v2-whole-isolated-negative) | [R180 whole and negatives](Yin_R_G0180_v1.md#whole-proof-finding) | Complete initial reconstruction, real K=3/2 and unspecialized s=2 negatives, necessary source/finite scope and unknown actual initial relationship. |
-| [Whole C383v2 negative](#g383v2-whole-isolated-negative) | [R181 actual repair reread](Yin_R_G0181_v1.md#repaired-whole-account-finding) | Complete repaired-account reread and its reuse of the same reviewer's earlier reconstruction; true closure scope and unknown initial context retained. |
-| [Whole C383v2 negative](#g383v2-whole-isolated-negative) | [R587 current SELF](Yin_R_G0587_v1.md#integer-multiplier-whole-current-finding) | Complete relevant multiplier proof/source/old-negative account and original author-check account compared; its whole summary approval missed the new missing P specialization. |
-| [Whole corrected C383v3 finding](#g383v3-whole-isolated-finding) | [C380v3 exact statement](../../claims/Yin_C_G0380_v3.md#statement) | Every new precise quantified assertion: general P; expressly nonmonomial branch; precisely P_s=1-t^s minimum and objective; all integer/epsilon domains, finite controls and limits. |
-| [Whole corrected C383v3 finding](#g383v3-whole-isolated-finding) | [C380v3 exact argument](../../claims/Yin_C_G0380_v3.md#argument) | Complete Sections1--4/(1)--(6), actually reread; identical mathematical tail to the independently checked C380v2 input, with new statement-to-proof interfaces checked in full. |
-| [Whole corrected C383v3 finding](#g383v3-whole-isolated-finding) | [C380v2 negative input](../../claims/Yin_C_G0380_v2.md#statement) | Exact earlier defective summary compared with v3; its negative is preserved and receives no retrospective PASS. |
-| [Whole corrected C383v3 finding](#g383v3-whole-isolated-finding) | [Original L359 domains](../../ledger/Yin_L_G0359_v1.md#fixed-normalizer-arithmetic-floor) | Original nonmonomial Section2 and P=1-t^s Section3 hypotheses, exact repairs already present in the old proof, source and non-gap limits. |
-| [Whole corrected C383v3 finding](#g383v3-whole-isolated-finding) | [Scalar functional](../../ledger/Yin_L_G0431_v1.md#single-haar-formulation) | Defining bounded positive-weight domain, scalar optimization and attainment interface only; no whole audit of unrelated operator/matrix comparisons. |
+| [Whole C378v2 finding](#g381v2-whole-isolated-finding) | [C378v2 exact statement](../../claims/Yin_C_G0378_v2.md#statement) | Entire precise statement, partial/full inverse mass, k>0 original circle-root scope, S>=2 and fixed theta_0>1/2 or a uniform positive theta S-1 margin, positive-norm trace refinement, fixed control and every cost/source/noncompletion limit. |
+| [Whole C378v2 finding](#g381v2-whole-isolated-finding) | [C378v2 exact argument](../../claims/Yin_C_G0378_v2.md#argument) | Every mathematical Section1--5 and equation(1)--(21), including both propositions, source33 and all original domains, roots, signed norms, weights, contents and expenses. |
+| [Whole C378v2 finding](#g381v2-whole-isolated-finding) | [Original L357](../../ledger/Yin_L_G0357_v1.md#inverse-unit-bundle-domain) | Whole original account, mathematical body, candidate/reuse scope, author self-check, freeze and subsequent review notices compared only after the autonomous initial finding. |
+| [Whole C378v2 finding](#g381v2-whole-isolated-finding) | [Original R183](Yin_R_G0183_v1.md#inverse-pair-whole-finding) | Complete mathematical finding, actual author-self-check exposure, source limits, no-program boundary and SELF relationship compared historically. |
+| [Whole C378v2 finding](#g381v2-whole-isolated-finding) | [R585](Yin_R_G0585_v1.md#inverse-pair-explicit-domain-current-finding) | Complete relevant original/current SELF accounts, missed v1 summary qualification, dated negative and v2 reread compared; unrelated C379 mathematics is not newly audited here. |
+| [Whole C378v2 finding](#g381v2-whole-isolated-finding) | [R589](Yin_R_G0589_v1.md#g381-whole-exposed-check) | Whole relevant C378v1 finding and earlier narrow negative, true exposure order, exact source/native boundaries and express absence of a v2 binding compared. |
+| [Whole C380v2 negative](#g383v2-whole-isolated-negative) | [C380v2 exact statement](../../claims/Yin_C_G0380_v2.md#statement) | Whole precise summary; the exact-minimum P specialization and subsequent nonmonomial scope are defective as detailed below. No whole PASS is given. |
+| [Whole C380v2 negative](#g383v2-whole-isolated-negative) | [C380v2 exact argument](../../claims/Yin_C_G0380_v2.md#argument) | All Sections1--4 and equations(1)--(6), independently reconstructed with the actual general-P, nonmonomial-P and P=1-t^s domains distinguished. |
+| [Whole C380v2 negative](#g383v2-whole-isolated-negative) | [Original repaired L359](../../ledger/Yin_L_G0359_v1.md#integer-multiplier-variational-formula) | Complete repaired mathematics, all original author/check/response and nonexecution accounts, not an invented erroneous preimage. |
+| [Whole C380v2 negative](#g383v2-whole-isolated-negative) | [R180 whole and negatives](Yin_R_G0180_v1.md#whole-proof-finding) | Complete initial reconstruction, real K=3/2 and unspecialized s=2 negatives, necessary source/finite scope and unknown actual initial relationship. |
+| [Whole C380v2 negative](#g383v2-whole-isolated-negative) | [R181 actual repair reread](Yin_R_G0181_v1.md#repaired-whole-account-finding) | Complete repaired-account reread and its reuse of the same reviewer's earlier reconstruction; true closure scope and unknown initial context retained. |
+| [Whole C380v2 negative](#g383v2-whole-isolated-negative) | [R587 current SELF](Yin_R_G0587_v1.md#integer-multiplier-whole-current-finding) | Complete relevant multiplier proof/source/old-negative account and original author-check account compared; its whole summary approval missed the new missing P specialization. |
+| [Whole corrected C380v3 finding](#g383v3-whole-isolated-finding) | [C380v3 exact statement](../../claims/Yin_C_G0380_v3.md#statement) | Every new precise quantified assertion: general P; expressly nonmonomial branch; precisely P_s=1-t^s minimum and objective; all integer/epsilon domains, finite controls and limits. |
+| [Whole corrected C380v3 finding](#g383v3-whole-isolated-finding) | [C380v3 exact argument](../../claims/Yin_C_G0380_v3.md#argument) | Complete Sections1--4/(1)--(6), actually reread; identical mathematical tail to the independently checked C380v2 input, with new statement-to-proof interfaces checked in full. |
+| [Whole corrected C380v3 finding](#g383v3-whole-isolated-finding) | [C380v2 negative input](../../claims/Yin_C_G0380_v2.md#statement) | Exact earlier defective summary compared with v3; its negative is preserved and receives no retrospective PASS. |
+| [Whole corrected C380v3 finding](#g383v3-whole-isolated-finding) | [Original L359 domains](../../ledger/Yin_L_G0359_v1.md#fixed-normalizer-arithmetic-floor) | Original nonmonomial Section2 and P=1-t^s Section3 hypotheses, exact repairs already present in the old proof, source and non-gap limits. |
+| [Whole corrected C380v3 finding](#g383v3-whole-isolated-finding) | [Scalar functional](../../ledger/Yin_L_G0431_v1.md#single-haar-formulation) | Defining bounded positive-weight domain, scalar optimization and attainment interface only; no whole audit of unrelated operator/matrix comparisons. |
 
 <a id="g381v2-whole-isolated-finding"></a>
 ## Whole C378v2 result and decisive evidence
@@ -240,11 +240,11 @@ The finite arithmetic floors give no input-uniform denominator/degree price or u
 
 The complete elementary L318 Poisson proof and actual residual-projection slice were read.
 Its positive probability kernel proves the polynomial bound by Cauchy--Schwarz, including radius one by continuity and the same full T reversal.
-L341 Section1 supplies the actual quotient congruence, complete lattice equalities and norm/window identities; the corresponding C323 slice agrees at this used scope.
-L355 supplies the exact all-real unit normalization and retained source33 signed norm/content facts; the corresponding C377 slices retain the same scope.
+L341 Section1 supplies the actual quotient congruence, complete lattice equalities and norm/window identities; the corresponding C322 slice agrees at this used scope.
+L355 supplies the exact all-real unit normalization and retained source33 signed norm/content facts; the corresponding C374 slices retain the same scope.
 Its sixth degree30 case remains only a feasible primal with a rejected dual and is no premise for the present theorem.
-L66 supplies the reciprocal involution and quadratic trace field, as does the necessary C244 slice.
-L280 Section4 and L348 Section1 supply the actual Lehmer trace/root/minimality and rational beta bounds; the necessary C360 slice agrees.
+L66 supplies the reciprocal involution and quadratic trace field, as does the necessary C243 slice.
+L280 Section4 and L348 Section1 supply the actual Lehmer trace/root/minimality and rational beta bounds; the necessary C359 slice agrees.
 These are accepted fixed input facts, not a fresh norm/root calculation, enumeration or whole audit of those other Claims.
 
 The exact L229 finite-frequency proof/interface was read with the powered actual degree and embedding-fiber multiplicity.
@@ -297,7 +297,7 @@ R587's complete relevant multiplier finding and original author account preserve
 R589's initial C378v1 narrow negative is independent, while its later whole C378 check is SELF because the coordinator supplied the correct mathematical conditions before the whole finding was completed.
 It expressly supplies no v2 binding.
 The present review's complete initial findings preceded all those old target conclusions.
-The unrelated C382/C384 portions of the comparison records were read as surrounding historical context and receive no new mathematical audit here.
+The unrelated C379/C381 portions of the comparison records were read as surrounding historical context and receive no new mathematical audit here.
 
 A directed search of the review collection used both exact v2 C paths, both original L paths and both mathematical entrance anchors.
 It also found R262/R267, which were read: they use portions of L359 for different later optimizer/circle-zero targets and do not cover the present complete C380 Statement and argument.

@@ -14,7 +14,7 @@ The [D5 author development](../drafts/Yin_D_G0005.md#remaining-core-paid-modular
 The core and source inputs are [adopted C762](Yin_C_G0762_v1.md#decision-whole-reviewed-2026-10-25) and [adopted C759](Yin_C_G0759_v1.md#decision-whole-reviewed-2026-10-25).
 The analytic transfer is [adopted C246](Yin_C_G0246_v1.md#decision-complete-retained-proof-adoption), whose selected [R522 finding](../audits/reviews/Yin_R_G0522_v1.md#current-published-transfer-finding) is self-reviewed; no independent C246 audit is claimed.
 The numerical constant remains the accepted external published input at [GIM+10-U001](../audits/literature/GIM+10/Yin_U001.md#gim%2B10-u001), without a new source-proof or numerical-margin audit.
-The mutable D35 global first-bit completion is not a premise; MB5 states its extra actual global-X hypothesis explicitly and uses only adopted C752 for the conditional degree consequence.
+The separate fixed C764 ZC3/ZC9 strong-target theorem is not a premise; MB5 states its extra actual global-X hypothesis explicitly and uses only adopted C752 for the conditional degree consequence.
 This complete author theorem is initially open for fresh independent whole review.
 
 ## Statement
@@ -178,7 +178,7 @@ No cost is hidden by calling the modular condition free or by treating K_odd as 
 ### MB5. Separate global-X corollary and the remaining degree-fraction question
 
 Suppose, in addition to the actual C762 domain, that the ORIGINAL full trace T has its OWN X_(epsilon,T) coefficientwise even for either sign.
-This is an extra global premise, not a conclusion of C762 and not an assumed adoption of the mutable D35 completion.
+This is an extra global premise, not a conclusion of C762 and not an inherited conclusion of the separate C764 ZC3/ZC9 strong target.
 C759 supplies the full profile
 
     Tbar=X^A Y_out phi^(7A), A=2m,
@@ -212,7 +212,7 @@ The present result asserts no irreducibility of K, no factor precision inheritan
 | --- | --- |
 | date | 2026-10-25T23:29 |
 | status | open |
-| reason | Register the complete MB1--MB5 author theorem after root read all actual source, height-transfer and numerical-scope interfaces. For every C762 added-passing copied-block core K, choose the least dyadic q_0>=max(8,deg Y_1+28m) and L=q_0 K_odd N. Full reciprocal divisibility Kbar divides z^L-1, including root1 multiplicity4 and every Y_1/old-N/fifth multiplicity, yields an actual integer identity z^L-1=K Q_K+2R_K. C246 applies to every nontorsion root with all original embeddings retained, giving m(K)>=c_0 deg(E_nc)/L after summing ALL noncyclotomic factor multiplicities; c_0=2139/5000 is precisely the accepted published auxiliary evaluation, with the exact-expression alternative retained. Fixed-source nearzero sequences therefore require deg(E_nc)=o(N), while a fixed positive proportional degree would give a fixed-source gap. The separate premise that the original full T has its own X even permits C752's full noncyclotomic degree>=48m and the explicit positive bound48m c_0/L. Root and Earlier_bit_obstruction are contributors; fresh independent whole review remains outstanding. C246's adoption uses its recorded self-review and no independent audit or numerical recertification is invented. No irreducibility, selected-factor precision, mutable-D35 completion, uncharged order period, proportional degree bound, uniform source cost, Mahler upper estimate, actual nearzero sequence, current-best constant or unrestricted Task completion is asserted. |
+| reason | Register the complete MB1--MB5 author theorem after root read all actual source, height-transfer and numerical-scope interfaces. For every C762 added-passing copied-block core K, choose the least dyadic q_0>=max(8,deg Y_1+28m) and L=q_0 K_odd N. Full reciprocal divisibility Kbar divides z^L-1, including root1 multiplicity4 and every Y_1/old-N/fifth multiplicity, yields an actual integer identity z^L-1=K Q_K+2R_K. C246 applies to every nontorsion root with all original embeddings retained, giving m(K)>=c_0 deg(E_nc)/L after summing ALL noncyclotomic factor multiplicities; c_0=2139/5000 is precisely the accepted published auxiliary evaluation, with the exact-expression alternative retained. Fixed-source nearzero sequences therefore require deg(E_nc)=o(N), while a fixed positive proportional degree would give a fixed-source gap. The separate premise that the original full T has its own X even permits C752's full noncyclotomic degree>=48m and the explicit positive bound48m c_0/L. Root and Earlier_bit_obstruction are contributors; fresh independent whole review remains outstanding. C246's adoption uses its recorded self-review and no independent audit or numerical recertification is invented. No irreducibility, selected-factor precision, inherited C764 strong-target completion, uncharged order period, proportional degree bound, uniform source cost, Mahler upper estimate, actual nearzero sequence, current-best constant or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

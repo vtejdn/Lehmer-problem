@@ -56,7 +56,7 @@ The finite prefix-tree likelihood identity and row log-sum inequality prove the 
 The resulting Markov chain need not preserve the chosen excursion distribution; the proof explicitly does not claim that.
 Conditioning original complete words on a supported length n gives a finite actual chain with zero mass1/n and information at most-log f_n/n.
 For two stationary edge flows, convex combination preserves balance, exact zero mass and row-relative-entropy convexity.
-The union communicates through zero; the complete countable invariant-probability/return-occupation lemma in C497 supplies positive recurrence without a hidden selector state or finite stationary entropy.
+The union communicates through zero; the complete countable invariant-probability/return-occupation lemma in C493 supplies positive recurrence without a hidden selector state or finite stationary entropy.
 
 For nonpolynomial F, interior differentiability follows by comparison at a larger convergent parameter.
 The strict length variance follows from f1>0 and another supported length.
@@ -102,7 +102,7 @@ The positive-recurrent critical case retains its unique rooted minimizer and doe
 
 The actual alpha=-1 series gives s=a/(2-a), z=4(1-a)/(2-a)^2 and F=2(1-a)/(2-a).
 Substitution into log z-a log F gives the exact stated curve and its0/log2 endpoint limits; differentiating at0 gives zero first derivative and second derivative1/2, hence a^2/4.
-The q4/q>=8 dyadic distinctions are the actual torsion controls from C497, with all endpoint-mean qualifications.
+The q4/q>=8 dyadic distinctions are the actual torsion controls from C493, with all endpoint-mean qualifications.
 The reciprocal2+sqrt3 and genuine radical controls keep their singleton cores and fixed positive total measure.
 Actual P6 and original-Lehmer infinite cores imply nonpolynomial F by the already proved finite-word implication.
 They therefore receive the exact positive-mass frontier and finite-support approximation WITHOUT determining R_f,endpoint mean,critical classification or a near-one family.
@@ -117,7 +117,7 @@ The project proves all realization and optimization locally and imports neither 
 No new source/PDF reading, external proof audit, numerical experiment or native execution occurred.
 
 The original L212 mathematical text remains fixed.
-R111 keeps the entire original04:33 whole, its actual frozen input, no-defect verdict and affirmative no-target-development-discussion/noncontributor arrangement.
+R108 keeps the entire original04:33 whole, its actual frozen input, no-defect verdict and affirmative no-target-development-discussion/noncontributor arrangement.
 Earlier fixed mathematical/source dependencies are legitimate review inputs, and generic shared-G0001 wording does not invent target contamination.
 The original whole independent relationship is retained at that OLD input and scope; it is not a prospective review of this wrapper.
 The exact complete original author contribution/checking remains separately SELF.

@@ -6,7 +6,6 @@ author: Yin
 # Yin20-U002: Complete Chapter III — Inner Rank
 
 - Source: [Yin20, Chapter III](../../../literature/pdf/Yin20.pdf#page%3D47), printed pp. 37–48 / PDF pp. 47–58.
-- Source.
 - Record: 2026-09-10, the Chapter III authoring agent, for [Yin20 inner-rank source audit](readme.md#yin20-inner-rank-source-audit).
 - Evidence: every assigned page was text-read and visually inspected in a Poppler render, including the blank final page, PDF p. 58.
 - Scope: all of III.1–III.4, including definitions, examples, unnumbered deductions, and cited proof interfaces.
@@ -386,7 +385,8 @@ Chapter III supplies the exact inner-rank Schur criterion, full-submatrix machin
 It supplies no norm, Hilbert-space domain, bounded-inverse realization theorem, or procedure upgrading an affiliated inverse to a bounded matrix inverse.
 Proposition III.1.6 applies in the selected ambient algebra and presupposes the invertible pivot there.
 The fresh chapter audit therefore leaves the bounded-linearization distinction intact.
-It does not by itself close the small-core analytic extension question or contradict the Yin_C_F0012 representation obstruction.
+It does not by itself close the small-core analytic extension question.
+The representation obstruction reported under former Yin_C_F0012 requires its original project proof/review homes, which remain unlocated; that report is not a current reusable consequence here.
 
 The repairs are the arbitrary-ambient scalar-rank/eigenvalue scope, the center qualification, two rectangular dimensions, the order of \(U^{-1}B\), the missing full-square qualification, the empty-block convention, and the exact matched-degree citation locator.
 With those repairs and the explicit external inputs, every numbered Chapter III result has its claimed algebraic conclusion.
@@ -422,7 +422,9 @@ These conclusions concern algebraic fullness and do not exclude ordinary bounded
 
 The reviewer requested two premise clarifications before acceptance: explicitly declare stable finiteness at the start of III.1.6, and record rank preservation after restricting the embedding overring in III.4.2.
 The reviewer also supplied preliminary source-scope observations and the already disclosed optional simplification of the commutative counterexample before the final artifact review.
-Those contributions are not counted as independent discovery of that supplemental proof; the author's original argument and the complete final artifact were checked independently.
+The reviewer-contributed optional simplification is not independently covered by its contributor's own final artifact conclusion.
+The author's original argument remains a distinct checked input.
+The record does not establish the exact use of the preliminary observations or whether a complete initial judgment on that original argument preceded them, so the overlapping initial-review relationship is unknown rather than certified by the final independent wording.
 
 Outcome: accepted under the explicitly retained weak-algorithm, positive commutative Sylvester, matched-degree, and rank-preserving embedding inputs.
 No unresolved mathematical correction remains within the assigned chapter scope.
@@ -436,4 +438,4 @@ Source edition: Yin20, the supplied 109-page doctoral dissertation with title-pa
 
 Passages: All Chapter III, Sections III.1-III.4, printed pp. 37-48 / PDF pp. 47-58, including definitions, examples, deductions and the blank final verso.
 
-Inspection: 2026-09-10: complete chapter reading, rendered-page inspection and local proof reconstruction, followed by the appended independent artifact review. Weak-algorithm, positive commutative Sylvester, matched-degree and rank-preserving embedding inputs remain explicit; stable-finiteness and same-ambient Schur premises are retained. Preliminary reviewer contributions are disclosed and are not counted as independent discovery of the supplemental proof. No recursive book audit or formal/human review.
+Inspection: 2026-09-10: complete chapter reading, rendered-page inspection and local proof reconstruction, followed by the appended independent artifact review. Weak-algorithm, positive commutative Sylvester, matched-degree and rank-preserving embedding inputs remain explicit; stable-finiteness and same-ambient Schur premises are retained. The optional reviewer-contributed simplification has SELF coverage; its exact use and initial-check timing remain unknown at the overlapping scope, without withdrawing the performed source and proof checks. No recursive book audit or formal/human review.

@@ -6,7 +6,7 @@ author: Yin
 # Cyclotomic block copies repair two old primaries and force the added zero mask
 
 Human author Yin.
-This fixed OPEN author candidate requires fresh independent whole review and separate adoption.
+At author registration, this fixed candidate was OPEN pending fresh independent whole review and separate adoption.
 Root proposed the actual large cyclotomic block multiplier, the question of its remaining Mahler cost, and the final exact reciprocal-core removal.
 Salem_completion checked the actual height1 factorization, both exact old-primary dyadic orders, the short-core added-mask obstruction, the nonempty zero-mask fiber and every integer trace factor below.
 Root read the entirety of the saved CB1--CB7, including the actual K and J_n factorization and all scope limits.
@@ -352,7 +352,7 @@ This bounded author result leaves a possible different mask, different non-copie
 | --- | --- |
 | date | 2026-10-25T23:10 |
 | status | open |
-| reason | Register the complete CB1--CB7 author theorem after root read the entire saved argument. Genuine copied height1 blocks factor through an actual cyclotomic multiplier and repair both full old X and B_N primaries with exact own canonical a orders. The actual added condition is equivalent to an antisymmetric short core, giving a nonempty exact zero-mask fiber but no coprime output. The nonzero multiplier resultant is distinguished from the zero full resultant, and all remaining cyclotomic factors are removed with exact degrees, trace factors and total Mahler equality. No core precision inheritance, remaining-old-primary solution, Mahler gap, nearzero construction or unrestricted Task conclusion is asserted. Root and Salem_completion are contributors; fresh independent whole review and separate adoption remain outstanding. |
+| reason | Register the complete CB1--CB7 author theorem after root read the entire saved argument. Genuine copied height1 blocks factor through an actual cyclotomic multiplier and repair both full old X and B_N primaries with exact own canonical a orders. The actual added condition is equivalent to an antisymmetric short core, giving a nonempty exact zero-mask fiber but no coprime output. The nonzero multiplier resultant is distinguished from the zero full resultant, and all remaining cyclotomic factors are removed with exact degrees, trace factors and total Mahler equality. No core precision inheritance, remaining-old-primary solution, Mahler gap, nearzero construction or unrestricted Task conclusion is asserted. Root and Salem_completion are contributors; fresh independent whole review and separate adoption were outstanding at author registration. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

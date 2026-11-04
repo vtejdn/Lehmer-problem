@@ -166,7 +166,7 @@ No claim is made here that positive gap, zero gap, a small-measure sequence or a
 
 The current C introduction preserves the original L1 input and the older finding's unchanged input scope.
 The current L1 wrapper explicitly says its historical review does not become a review of the later Claim wrapper.
-The existing C decision dated 2026-10-21T00:08 selects R_G0644 as contributor self-review; it does not adopt R_G0384 as a newly performed isolated review of v1.
+The existing C decision dated 2026-10-21T00:08 selects R_G0498 as contributor self-review; it does not adopt R_G0384 as a newly performed isolated review of v1.
 This review does not rewrite either adoption.
 The new Statement precision issue is a finding about the v1 wrapper, not a demonstrated error in the old compact L1 reverse paragraph.
 The current argument and the old targeted mathematical conclusion agree; no further reasoning gap was exposed in the comparison.

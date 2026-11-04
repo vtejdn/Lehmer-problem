@@ -27,10 +27,10 @@ The accepted direct interfaces are used at their stated scopes; this inspection 
 
 | Review | Relationship |
 | --- | --- |
-| [Current whole C608](#primitive-model-current-independent) | independently reviewed |
-| [Current whole C609](#actual-path-tail-current-independent) | independently reviewed |
-| [Current whole C619](#actual-tangent-current-independent) | independently reviewed |
-| [Current whole C621](#boundary-clock-current-independent) | independently reviewed |
+| [Current whole C589](#primitive-model-current-independent) | independently reviewed |
+| [Current whole C590](#actual-path-tail-current-independent) | independently reviewed |
+| [Current whole C599](#actual-tangent-current-independent) | independently reviewed |
+| [Current whole C601](#boundary-clock-current-independent) | independently reviewed |
 | [Original whole reviewer](#primitive-singular-convolution-complete-independent-review) | unknown |
 | [Original complete author SELF](#original-primitive-convolution-author-self) | self-reviewed |
 | [Original whole reviewer](#weighted-tail-complete-independent-review) | unknown |
@@ -43,14 +43,14 @@ The accepted direct interfaces are used at their stated scopes; this inspection 
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Current whole C608](#primitive-model-current-independent) | [Exact complete statement](../../claims/Yin_C_G0589_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
-| [Current whole C608](#primitive-model-current-independent) | [Exact complete argument](../../claims/Yin_C_G0589_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
-| [Current whole C609](#actual-path-tail-current-independent) | [Exact complete statement](../../claims/Yin_C_G0590_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
-| [Current whole C609](#actual-path-tail-current-independent) | [Exact complete argument](../../claims/Yin_C_G0590_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
-| [Current whole C619](#actual-tangent-current-independent) | [Exact complete statement](../../claims/Yin_C_G0599_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
-| [Current whole C619](#actual-tangent-current-independent) | [Exact complete argument](../../claims/Yin_C_G0599_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
-| [Current whole C621](#boundary-clock-current-independent) | [Exact complete statement](../../claims/Yin_C_G0601_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
-| [Current whole C621](#boundary-clock-current-independent) | [Exact complete argument](../../claims/Yin_C_G0601_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
+| [Current whole C589](#primitive-model-current-independent) | [Exact complete statement](../../claims/Yin_C_G0589_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
+| [Current whole C589](#primitive-model-current-independent) | [Exact complete argument](../../claims/Yin_C_G0589_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
+| [Current whole C590](#actual-path-tail-current-independent) | [Exact complete statement](../../claims/Yin_C_G0590_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
+| [Current whole C590](#actual-path-tail-current-independent) | [Exact complete argument](../../claims/Yin_C_G0590_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
+| [Current whole C599](#actual-tangent-current-independent) | [Exact complete statement](../../claims/Yin_C_G0599_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
+| [Current whole C599](#actual-tangent-current-independent) | [Exact complete argument](../../claims/Yin_C_G0599_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:12, before old target findings. |
+| [Current whole C601](#boundary-clock-current-independent) | [Exact complete statement](../../claims/Yin_C_G0601_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
+| [Current whole C601](#boundary-clock-current-independent) | [Exact complete argument](../../claims/Yin_C_G0601_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:14, before old target findings. |
 | [Original whole reviewer](#primitive-singular-convolution-complete-independent-review) | [Entire corrected original L305](../../ledger/Yin_L_G0305_v1.md#complete-retained-proof-and-review) | Whole Sections1--6/Propositions1--3/equations1--19 and final2026-10-10T07:23 terminology clarification, all actual/relaxed-law/source/no-program limits; actual whole review2026-10-10T07:28, never backfilled C589. |
 | [Original complete author SELF](#original-primitive-convolution-author-self) | [Original L305 argument](../../ledger/Yin_L_G0305_v1.md#complete-retained-proof-and-review) | Complete original author checking/contribution/source/no-program account before2026-10-10T07:16 freeze; precise separate act minute is unrecorded. |
 | [Original whole reviewer](#weighted-tail-complete-independent-review) | [Entire original L309](../../ledger/Yin_L_G0309_v1.md#complete-retained-proof-and-review) | Whole original Sections1--6/Lemma1/Theorem2/Corollaries3--4/equations1--23, every general-PC/termination/quartic/full-tail/source/no-program domain and all phase/real-boundary/lattice costs. Actual author freeze2026-10-10T08:22, whole reviewer2026-10-10T08:36; later C590 is not backfilled as inspected input. |
@@ -76,7 +76,7 @@ Escape of mass on every fixed finite set and weak dual convergence do not create
 At the ACTUAL first-hit row1, two successors are outside the return strip and beta-1 alone survives with its ORIGINAL weight1/4.
 Thus the true ratio4/R>=2 differs from the candidate ratio beta exp(-tDelta/2), yielding the exact uniform relative residual1-beta/2 for all t>=0 and0<R'<=2.
 The absolute residual can vanish at large t; rejection of the family gives no upper bound for the actual critical mean.
-C399/C403/C579/C534 and Tao09's necessary source account were read, without rerunning old certificates or accepting an unread representation proof.
+C396/C400/C563/C526 and Tao09's necessary source account were read, without rerunning old certificates or accepting an unread representation proof.
 The fixed author norm/density terminology correction and source-note review-existence pointer entered as such, without an old target whole verdict before initial completion.
 The relaxed pi_t/T_t are never identified with genuine stationary/occupation laws, and no all-degree/near-one conclusion follows.
 
@@ -101,7 +101,7 @@ The exponential sufficient test retains its strict threshold and all delayed-ons
 Finite killed-row iteration proves the direct sufficient mean bound without stationary-integrability circularity.
 Actual inner-strip lattice differences with all successors legal, uniform square-root/log errors and ORIGINAL symmetric pair weights prove the radial exponential-polynomial row obstruction for all real exponents.
 That obstruction does not exclude H-weighted/nonradial certificates or radial coefficient envelopes.
-C399/C403/C420/C456/C579/C534/C589 were inspected at the required exact mathematical interfaces; no old core producer or new theorem was used.
+C396/C400/C416/C452/C563/C526/C589 were inspected at the required exact mathematical interfaces; no old core producer or new theorem was used.
 The valid-loose-constant to exact R/2 author-stage refinement remains historical; no mean branch or uniform near-one theorem follows.
 
 <a id="actual-tangent-current-independent"></a>
@@ -121,7 +121,7 @@ The ENTIRE actual finite overshoot maximum pays the return wait even near open r
 Uniform conditional length and failure bounds give the geometric attempt sum without independence or an uncharged infinite wait.
 The first positive return pays exactly time1 plus mass1-R/2 times the full attempt expense.
 Only after finite hitting expectations are proved is h=1+Q0h and v=H+RK0v asserted.
-C590/C534 and KY14's selected source record were inspected at their consumed scopes; local row/restart proofs use neither an unchecked optional-stopping theorem nor the source's Asmussen equivalence.
+C590/C526 and KY14's selected source record were inspected at their consumed scopes; local row/restart proofs use neither an unchecked optional-stopping theorem nor the source's Asmussen equivalence.
 The actual tail witness remains an additional hypothesis, and no finite/infinite mean classification, exact R or unrestricted gap is supplied.
 
 <a id="boundary-clock-current-independent"></a>

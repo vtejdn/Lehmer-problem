@@ -42,11 +42,11 @@ No target, C/T/E/S, shared index, old review, adoption or commit was changed.
 | [Whole finding](#whole-weighted-log-family-degree-finding) | [Mig78 retained prime-source limit](../literature/Mig78/Yin_U001.md#mig78-u001) | Existing standard Bertrand attribution without a new original prime-existence proof audit. |
 | [Whole finding](#whole-weighted-log-family-degree-finding) | [C678 weighted mechanisms](../../claims/Yin_C_G0678_v1.md#complete-argument) | Weighted hypersurface and fixed torus amplitude, generic finite rank/interpolation/pole and pointwise/event/Fourier mechanisms; the new c,d and probability laws are independently checked here. |
 | [Whole finding](#whole-weighted-log-family-degree-finding) | [C678 selected adoption](../../claims/Yin_C_G0678_v1.md#decision-whole-reviewed-2026-10-24) | Actual adoption2026-10-24T03:29 using corrected R899v2, not automatic coverage of a changed schedule. |
-| [Whole finding](#whole-weighted-log-family-degree-finding) | [Own corrected C708 finding](Yin_R_G0899_v2.md#whole-weighted-three-factor-fourier-v2-finding) | Exact unchanged source/phase/general analytic interfaces and their inspection limits; its old square-family degree and original-law conclusion are not transferred. |
+| [Whole finding](#whole-weighted-log-family-degree-finding) | [Own corrected C678 finding](Yin_R_G0899_v2.md#whole-weighted-three-factor-fourier-v2-finding) | Exact unchanged source/phase/general analytic interfaces and their inspection limits; its old square-family degree and original-law conclusion are not transferred. |
 | [Whole finding](#whole-weighted-log-family-degree-finding) | [C681 fixed torus bands](../../claims/Yin_C_G0681_v1.md#statement) | Exact c-independent U, Mobius coefficients, witnesses, integer centers, local bands, scalar harmonics and full torus cardinality only. |
 | [Whole finding](#whole-weighted-log-family-degree-finding) | [C681 torus proof](../../claims/Yin_C_G0681_v1.md#complete-argument) | Sections1--4 up to the complete torus mass/count, with original return replaced by the new WL8; no old critical strip or degree consumer is imported. |
 | [Whole finding](#whole-weighted-log-family-degree-finding) | [C681 actual adoption](../../claims/Yin_C_G0681_v1.md#decision-whole-reviewed-2026-10-24) | Actual adoption2026-10-24T03:48 at its exact stated scope. |
-| [Whole finding](#whole-weighted-log-family-degree-finding) | [Own C711 whole finding](Yin_R_G0902_v1.md#whole-weighted-phase-bands-degree-finding) | Unchanged fixed-torus coefficient/band/scalar-mass proof and source boundaries only, not prospective coverage of the new family. |
+| [Whole finding](#whole-weighted-log-family-degree-finding) | [Own C681 whole finding](Yin_R_G0902_v1.md#whole-weighted-phase-bands-degree-finding) | Unchanged fixed-torus coefficient/band/scalar-mass proof and source boundaries only, not prospective coverage of the new family. |
 | [Whole finding](#whole-weighted-log-family-degree-finding) | [C637 positive finite kernel](../../claims/Yin_C_G0637_v1.md#complete-argument) | Exact squared-Fejer mass, closed support, first moment and finite convolution mechanism, with its existing bounded classical attribution. |
 
 <a id="whole-weighted-log-family-degree-finding"></a>
@@ -261,7 +261,6 @@ The integer Bertrand input is used at the integer product threshold and keeps it
 The own prior MS05 primary text reading is reused only at its unchanged scope; no new full-source, Mann/Schmidt, Bertrand, Cambridge or Tao proof audit is asserted.
 All historical SELF/UNKNOWN relationships and external inspection limits remain unchanged.
 
-Actual commands were fixed-file Get-Content/rg reads, public material.py creation, full R readback and the scoped material.py check.
 The structural check concerns the record and direct declarations, not mathematical correctness.
 No new polynomial coefficients, prime list, native output or external artifact was generated.
 

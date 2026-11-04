@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: coordinate disclosure, higher interactions and all-repeat profiles
 
 Recorded 2026-10-22T19:39 after the maintaining Yin agent read the actual published OPEN C577v1 complete Statement and BOTH entire proof chains.
-The same agent read full L302/L306, whole R201/R205, J78 scope notes and exact C543/C423/C578/C523/C537/C560 interfaces and ODo07 attribution before checking.
+The same agent read full L302/L306, whole R201/R205, J78 scope notes and exact C534/C419/C562/C517/C529/C547 interfaces and ODo07 attribution before checking.
 This whole finding is SELF with prior proof/review context available.
 No isolation, new mathematical research proof, source PDF reading, acquisition or native/program execution is claimed.
 
@@ -27,11 +27,11 @@ No isolation, new mathematical research proof, source PDF reading, acquisition o
 
 Fair-binary differencing gives precisely the original1/4,1/2,1/4 law and collision p.
 Revealing a fixed set of bits translates the remaining endpoint, so the conditional collision is p_(Jc) independently of the actually observed values.
-Thus C543's FULL selector-and-values theorem applies directly without a carry-boundary factor.
+Thus C534's FULL selector-and-values theorem applies directly without a carry-boundary factor.
 Adjoining a bit averages an l2 vector with its translate and can only decrease collision.
 The uniform-threshold coupling therefore has the exact monotonicity direction.
 
-C423's exact complex cosine-square identity gives the nonnegative subset sum with the correct half-tilt factors.
+C419's exact complex cosine-square identity gives the nonnegative subset sum with the correct half-tilt factors.
 Factoring cosh squares produces independent tanh-square deletion parameters and the exact exponent sech(tR).
 Both global elementary inequalities hold for all t, giving the positive H expense and coefficient(V+2HR^2)/4 without a small-tilt assumption.
 At rank zero, zero row/coefficients, z=0 and off the supported range no division by zero is used.
@@ -41,12 +41,12 @@ Choosing l=z^T Q^+ and semidefinite Cauchy--Schwarz gives the full relative coef
 The exact threshold is H ell_*<=(1/log2-1)/2; it is only sufficient.
 The full scalar envelopes meet uniquely for q<log2, and the decreasing/increasing branch minimum gives Psi_q with the stated strict derivative.
 The q>=log2 branch, r0=0 and continuity at q=log2 are included.
-This adds actual disclosure/leverage information rather than optimizing C578's two unchanged estimates.
+This adds actual disclosure/leverage information rather than optimizing C562's two unchanged estimates.
 
 For actual nonzero algebraic integers, each d-column power block has full rank, even for nonunits.
 One invertible prefix map leaves zero atoms and the entire leverage projection unchanged.
 The ordered square completion cancels the POSITIVE outside factor exactly.
-The remaining nonnegative lattice sum, translated unit cubes and C523 full-root determinant inequality pay every K_d/Delta/discriminant/prefix term, including i=0/d=1.
+The remaining nonnegative lattice sum, translated unit cubes and C517 full-root determinant inequality pay every K_d/Delta/discriminant/prefix term, including i=0/d=1.
 The lower bound uses the ENTIRE zero-endpoint fiber, not merely one zero digit word.
 Only FIXED input with i_b=o(b) removes the explicit logarithmic cost divided by b.
 Eventual threshold satisfaction proves the full rate; q_b convergence gives only the claimed liminf/limsup bracket.
@@ -75,7 +75,7 @@ The full four-map J78 domain is historical exact evidence, not a theorem premise
 Original R205 already covers all142284 inequalities and1136786 native scalar leaves by its complete different-method reconstruction, at its actual UNKNOWN relationship.
 Its real2026-10-10T08:34 rank-scope correction distinguishes old r2/r3 controls from new r4/r5 overlaps without changing any formula, domain or native payload.
 The actual author2026-10-10T08:18 and reviewer2026-10-10T08:31 executions and original runtimes/caps remain unchanged.
-ODo07 supplies only the already scoped classical attribution, with C543's complete local proof; no new source proof is a premise.
+ODo07 supplies only the already scoped classical attribution, with C534's complete local proof; no new source proof is a premise.
 
 Finding: the entire C577 Statement and BOTH complete Arguments are proved at their exact distinct sufficient-test, negative-shortcut and all-repeat domains under current whole SELF.
 No universal C1, arbitrary nontorsion eventual criterion, lossless general neutral rate, positive near-one floor or unrestricted gap is established.

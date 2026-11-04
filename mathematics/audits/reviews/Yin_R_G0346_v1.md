@@ -39,8 +39,8 @@ Original dates, physical inputs, negative/pass distinction, mathematical checks 
 | [v2 actual whole finding](#almost-positive-v2-whole-independent-finding) | [C34](../../claims/Yin_C_G0034_v1.md#statement) | Existing rational-affine lag correction, used here without an unproved interior PSD premise. |
 | [v2 actual whole finding](#almost-positive-v2-whole-independent-finding) | [C103](../../claims/Yin_C_G0103_v1.md#statement) | Exact original-width rational PSD singleton and explicit actual Salem Gram family. |
 | [v2 actual whole finding](#almost-positive-v2-whole-independent-finding) | [C107](../../claims/Yin_C_G0107_v1.md#argument) | Actual coefficient basis and two-place indefinite block method, rechecked at the new parameter. |
-| [v2 actual whole finding](#almost-positive-v2-whole-independent-finding) | [F109](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) | Original finite real optimizer and exact same-symbol scalar capacity, at retained source limits. |
-| [v2 actual whole finding](#almost-positive-v2-whole-independent-finding) | [F111](../../ledger/Yin_L_F0007_v1.md#matrix-finite-gram-capacity) | Elementary analytic-vector/scalar-Jensen upper bound only; no new matrix factorization theorem invoked. |
+| [v2 actual whole finding](#almost-positive-v2-whole-independent-finding) | [L_F5](../../ledger/Yin_L_F0005_v1.md#scalar-capacity-finite-sdp) | Original finite real optimizer and exact same-symbol scalar capacity, at retained source limits. |
+| [v2 actual whole finding](#almost-positive-v2-whole-independent-finding) | [L_F7](../../ledger/Yin_L_F0007_v1.md#matrix-finite-gram-capacity) | Elementary analytic-vector/scalar-Jensen upper bound only; no new matrix factorization theorem invoked. |
 
 ## Original observation and actual corrected scope
 
@@ -83,7 +83,7 @@ C34's one-entry-per-lag right inverse restores every lag, including padded zeros
 The maximum entry error is at most(N+1)/(2q), yielding operator error N(N+1)/(2q) and the claimed PSD tolerance.
 The00 correction cancels its own rounding error, leaving exactly the sum of the other N-1 diagonal errors and the sharper objective bound.
 
-The real optimizer is the actual F109 optimizer; its entries are not asserted computable in polynomial time or supplied by a coefficient-only formula.
+The real optimizer is the actual L_F5 optimizer; its entries are not asserted computable in polynomial time or supplied by a coefficient-only formula.
 At an irreducible circle-root unit input, any rational gain violates C103's exact PSD ceiling and is therefore indefinite.
 This proves existence of arbitrarily small negative tolerance with per-input gain, while retaining the q and degree costs.
 It does not assert a denominator-free PSD repair.
@@ -145,7 +145,7 @@ No k was numerically computed, no varying near-one family is constructed, and no
 
 The five direct dependencies were checked at their exact invoked interfaces.
 Older C34/C103 contributions retain their selected mathematical acceptance; this review concerns the new actual C110 proof and its uses.
-F109's external attribution limits remain, and only F111's elementary vector-Jensen mechanism is needed, not its imported matrix factorization theorem.
+L_F5's external attribution limits remain, and only L_F7's elementary vector-Jensen mechanism is needed, not its imported matrix factorization theorem.
 The known rational projection is credited and its new error bounds checked locally.
 
 Root directly read Keith Conrad's primary13-page online Pell's Equation, I at the p2 table entry for13 and p5 Theorem4.1/Corollary4.2 and their proofs: https://kconrad.math.uconn.edu/blurbs/ugradnumthy/pelleqn1.pdf.

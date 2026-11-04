@@ -9,11 +9,14 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: DGB16, [retained published PDF](../../../literature/pdf/DGB16.pdf), *Advances in Mathematics* 298 (2016), 612--653, DOI 10.1016/j.aim.2016.04.020; 42 PDF pages. The entry-key correction from DB16 to DGB16 does not change the artifact.
+Source edition: DGB16, [retained published PDF](../../../literature/pdf/DGB16.pdf), *Advances in Mathematics* 298 (2016), 612--653, DOI 10.1016/j.aim.2016.04.020; 42 PDF pages.
+The entry-key correction from DB16 to DGB16 does not change the artifact.
 
 Passages: Sections 2--4 in full, printed pp.620--635 (PDF pp.9--24), and introductory definitions/conventions on pp.613--616,619--620. In particular: Lemma 2.2, Proposition 2.8, Lemmas 3.3/3.5, Proposition 3.7, Corollaries 3.9/3.10, Lemmas 4.3/4.4/4.6 and Proposition 4.7.
 
-Inspection: 2026-10-06, human author Yin, prepared by an assigned AI source-review agent. Direct reading of the complete assigned passages and self-check of this record; no independent human review or independent project-proof review is asserted. Layout extraction was checked against rendered PDF pp.12,15--19,22--23 for the formulas and findings below.
+Inspection: 2026-10-06, human author Yin, prepared by an assigned AI source-review agent.
+Direct reading of the complete assigned passages and self-check of this record; no independent human review or independent project-proof review is asserted.
+Layout extraction was checked against rendered PDF pp.12,15--19,22--23 for the formulas and findings below.
 
 
 ## Assessment and coverage

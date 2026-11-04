@@ -6,7 +6,7 @@ author: Yin
 Human author Yin.
 Root proposed the exact new full-jet quotient, period reduction and conditional factored canonical construction.
 The same_trace contributor checked all periods, representatives, units, original-layer targets and all-primary implications before declaring this computation.
-The old C643/J126 image and C636/J128 target questions remain fixed and are not used as complete evidence at this new modulus.
+The old C621v2/J126 image and C636/J128 target questions remain fixed and are not used as complete evidence at this new modulus.
 
 ## Question and scope
 

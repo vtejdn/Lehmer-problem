@@ -162,7 +162,7 @@ It has only finitely many circle zeros, each of finite order.
 Near each such point log|A| has a finite multiple of log angular distance plus a bounded term, hence is integrable.
 Away from those points it is continuous.
 The same holds for log|N| because the monomial has modulus1 on the circle and the denominator is constant.
-F109's full scalar root/Jensen identity now gives (5), retaining the absolute leading coefficient, repeated roots and roots on the circle.
+C_F6's full scalar root/Jensen identity now gives (5), retaining the absolute leading coefficient, repeated roots and roots on the circle.
 No positivity, singularity deletion or numerical regularization is used.
 
 Put M_N=sup_T|N|>0.

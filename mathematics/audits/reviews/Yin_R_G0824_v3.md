@@ -159,7 +159,7 @@ No new non-elementary or external-source theorem is needed.
 
 All accepted source scopes and original-proof limits recorded in R824v1/v2 remain unchanged for the retained local arithmetic and analytic chain.
 There is no new source-completeness gap affecting the full v3 result.
-The prior R614/R628 UNKNOWN relationships, inherited SELF findings and all original target scopes are preserved.
+The prior R468/R482 UNKNOWN relationships, inherited SELF findings and all original target scopes are preserved.
 R824v1 and R824v2 are not retrospectively rebound to Part G; the independent relationship in this physical version belongs to the actual whole-v3 comparison and new verification.
 
 No numerical search, native program, J record, source acquisition, numerical inversion of h_star or formal proof was produced.

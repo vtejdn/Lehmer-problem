@@ -11,14 +11,14 @@ This reviewer supplied none of D17's derivation, root/endpoint computations, can
 
 Authorship and arrangement: the preserved initial allocation was by haar_integer_research and contained no developed argument.
 The recorded handoff assigns the substantive mathematics to replacement salem_review AI for Yin, after root recorded interruption and no concurrent writer.
-That replacement author earlier independently reviewed upstream D15/L369 in R271; this prior source review is correctly distinguished from review of its own new D17 work.
+That replacement author earlier independently reviewed upstream D15/L369 in R195; this prior source review is correctly distinguished from review of its own new D17 work.
 The present separate reviewer supplies the whole noncontributor inspection.
-The reviewer previously reviewed the different L361 derivative-error argument in R264; the accepted Vandermonde mechanism is reused at its fixed scope, while D17's new nonmonic/critical-root deductions are reconstructed here.
+The reviewer previously reviewed the different L361 derivative-error argument in R188; the accepted Vandermonde mechanism is reused at its fixed scope, while D17's new nonmonic/critical-root deductions are reconstructed here.
 
 Inputs and sequence: shared user/root/repository context, root's explicit exact review assignment and the complete frozen D17 were supplied.
 The reviewer enumerated statement obligations and the two-sided estimate directions, then read and checked the entire forward argument and the exact L369 input.
 No earlier independent D17 verdict or proof-generation dialogue was consulted.
-The prior R271 is relied on only as the fixed upstream review identified in L369; it does not substitute for any D17 check.
+The prior R195 is relied on only as the fixed upstream review identified in L369; it does not substitute for any D17 check.
 This is a nonblind separately organized whole-proof review with shared context, not isolated provenance or personal human inspection.
 
 Scope: every primitive/squarefree/nonmonic factor, all actual critical roots and endpoint multiplicities, full polynomial discriminant and cofactor, root-data-free arithmetic lower conditioning bound, intrinsic exponential upper conditioning/lower sufficient-tail cost, same-bound radius limitation, actual no-padding L131 progression with all content/endpoint substitutions, and the exact mathematical/family limitations.
@@ -180,4 +180,4 @@ The original record states that shared user/root/repository context and the full
 The prior role on the distinct derivative-error input and the replacement author’s upstream review role are not proof contributions to this target and do not automatically imply SELF.
 The actual whole relationship remains UNKNOWN; no absence or presence of unrecorded author explanations is invented.
 Every original mathematical finding,21:35 freeze/21:29 handoff/21:47 review precision, source interface and no-computation limitation remains unchanged.
-The separately recorded upstream R271 author-check exposure is its own SELF arrangement and changes no necessary mathematical input here.
+The separately recorded upstream R195 author-check exposure is its own SELF arrangement and changes no necessary mathematical input here.

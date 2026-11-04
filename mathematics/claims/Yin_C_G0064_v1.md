@@ -178,7 +178,7 @@ The recorded review description was `under review`.
 | dependency | [J92 original finite graph evidence](../computations/programs/Yin_J_G0092/readme.md#quartic-local-graph-native-completion) | ONLY PartE's complete n4--10 graph data, original full program/result/execution/terminal and original unequal digit weights. Not a premise of the all-n block proof. |
 | support | [J92 actual independent reproduction](../computations/programs/Yin_J_G0092/readme.md#quartic-local-graph-independent-verification-completion) | Separately authored and ACTUALLY executed n4--10 exact reconstruction, all mathematical payloads compared, complete independent program/output retained with no range expansion. |
 | support | [C55 explicit comparison and secondary counts](Yin_C_G0055_v1.md#statement) | ONLY old two-word comparison and original n6--10 totals; matched parity positivity is not a frozen-word or all-n premise. |
-| support | [Original whole/native independent finding](../audits/reviews/Yin_R_G0279_v1.md#quartic-frozen-components-whole-independent-finding) | Complete corrected original19:25 D15, whole original J92 program/output and actual independent reconstruction; not this newly authored wrapper's actual extraction review. |
+| support | [Original whole/native finding](../audits/reviews/Yin_R_G0279_v1.md#quartic-frozen-components-whole-independent-finding) | Complete corrected original19:25 D15, whole original J92 program/output and actual independent reconstruction; not this newly authored wrapper's actual extraction review. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -199,8 +199,8 @@ The recorded review description was `under review`.
 | dependency | [J92 original finite graph evidence](../computations/programs/Yin_J_G0092/readme.md#quartic-local-graph-native-completion) | ONLY PartE's complete n4--10 graph data, original full program/result/execution/terminal and original unequal digit weights. Not a premise of the all-n block proof. |
 | support | [J92 actual independent reproduction](../computations/programs/Yin_J_G0092/readme.md#quartic-local-graph-independent-verification-completion) | Separately authored and ACTUALLY executed n4--10 exact reconstruction, all mathematical payloads compared, complete independent program/output retained with no range expansion. |
 | support | [C55 explicit comparison and secondary counts](Yin_C_G0055_v1.md#statement) | ONLY old two-word comparison and original n6--10 totals; matched parity positivity is not a frozen-word or all-n premise. |
-| support | [Original whole/native independent finding](../audits/reviews/Yin_R_G0279_v1.md#quartic-frozen-components-whole-independent-finding) | Complete corrected original19:25 D15, whole original J92 program/output and actual independent reconstruction; not this newly authored wrapper's actual extraction review. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0282_v1.md#c64-frozen-components-actual-extraction-finding) | Entire actual statement, completely retained argument/history and all current direct interfaces, independently inspected after allocation by a noncontributor. |
+| support | [Original whole/native finding](../audits/reviews/Yin_R_G0279_v1.md#quartic-frozen-components-whole-independent-finding) | Complete corrected original19:25 D15, whole original J92 program/output and actual independent reconstruction; not this newly authored wrapper's actual extraction review. Finding relationship: self-reviewed. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0282_v1.md#c64-frozen-components-actual-extraction-finding) | Entire actual statement, completely retained argument/history and all current direct interfaces, separately inspected after allocation by a noncontributor. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 

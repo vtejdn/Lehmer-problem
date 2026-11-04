@@ -19,7 +19,7 @@ No further precision iteration or full-alphabet image extension inside this fixe
 
 The complete quantitative statement, exact norm proof and source/application boundaries are fixed in [C720 PC1--PC14](../claims/Yin_C_G0720_v1.md#statement), with its [actual selected assessment](../claims/Yin_C_G0720_v1.md#decision-whole-reviewed-2026-10-25).
 Use that fixed material for the exact individual and common thresholds, the full reciprocal degree N=2D and the explicit bounded-measure specialization.
-The C720 result is adopted through its separate whole R1110; its exact statement and comparison limits remain in that fixed material.
+The C720 result is adopted through its separate whole R941; its exact statement and comparison limits remain in that fixed material.
 
 <a id="complete-trace-norm-proof"></a>
 The complete original-domain argument is retained at [C720's proof](../claims/Yin_C_G0720_v1.md#complete-argument).
@@ -48,7 +48,7 @@ Its failure concerns the h bits guaranteed from a supplied passing T_0, not ever
 
 <a id="direct-circle-price-along-tower"></a>
 The exact [tower comparison DC12](../claims/Yin_C_G0722_v1.md#direct-circle-price-along-tower) retains constant S, total measure and true threshold, together with exact residual coefficient precision and the distinct coarse-U degree fee.
-C722 is adopted through its separate whole R1112; neither that review nor R1110 covers the later height/desubstitution candidate below.
+C722 is adopted through its separate whole R943; neither that review nor R941 covers the later height/desubstitution candidate below.
 
 ## Remaining actual-input questions
 
@@ -79,7 +79,7 @@ It excludes the true-S sufficient certificate only at the precision whose matchi
 <a id="height-one-binary-source-descent"></a>
 The complete height1 fixed-binary-source descent and explicit s-based finite certificate are fixed in [C724 HD10--HD13](../claims/Yin_C_G0724_v1.md#height-one-binary-source-descent).
 The actual maximal integer dyadic exponent equals the binary Frobenius exponent only under the proved height1 support condition; general lifts retain that distinction.
-C724 is adopted through its separate whole R1116; its exact limits remain at that fixed material.
+C724 is adopted through its separate whole R945; its exact limits remain at that fixed material.
 
 ## Remaining construction question after exact descent
 
@@ -111,7 +111,7 @@ A future argument should derive an actual constrained-sign obstruction or produc
 The complete LC1--LC23 theorem is fixed in [C729](../claims/Yin_C_G0729_v1.md#statement), at its [adopted assessment](../claims/Yin_C_G0729_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete canonical, Salem and tower proof](../claims/Yin_C_G0729_v1.md#complete-argument) retains every actual integer division, full binary trace root, r/D/u/sign endpoint, exact residual order, positive-coefficient irreducibility and analytic cost.
 The r=5 second-residual order remains only a lower bound; the exact first-residual order fixes the simultaneous precision.
-Root and characteristic_zero_bridge are contributors; the separate whole R1121 and actual adoption remain recorded at C729.
+Root and characteristic_zero_bridge are contributors; the separate whole R950 and actual adoption remain recorded at C729.
 
 <a id="fixed-degree-two-adic-cyclotomic-limit"></a>
 The complete [LC16--LC17 fixed-degree limit argument](../claims/Yin_C_G0729_v1.md#fixed-degree-two-adic-cyclotomic-limit) retains the exact compatible coefficients, all six zero canonical limits, diverging finite archimedean costs and the loss of irreducibility and nontorsion.
@@ -132,7 +132,7 @@ A useful continuation must supply a compatible actual base or a genuine obstruct
 The complete HS1--HS15 and exact-descent theorem is fixed in [C731](../claims/Yin_C_G0731_v1.md#statement), at its [adopted assessment](../claims/Yin_C_G0731_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete proof](../claims/Yin_C_G0731_v1.md#complete-argument) retains every full C691 factor and cost, original reciprocal nonsquareness, actual endpoint/central/sign constraints, integer canonical carry, three full-primary affine systems and exact ascent descent with all norm and measure multiplicities.
 The row-degree bound is deg M=deg H_third+12m<=13m+deg Y/2, including deg phi=2.
-Root and characteristic_zero_bridge are contributors; the separate independent whole finding in R1123 and the actual adoption remain recorded at the fixed Claim.
+Root and characteristic_zero_bridge are contributors; the separate independent whole finding in R952 and the actual adoption remain recorded at the fixed Claim.
 
 <a id="height-one-zero-trace-support-obstruction"></a>
 The complete [support and dyadic-coefficient obstruction](../claims/Yin_C_G0731_v1.md#height-one-zero-trace-support-obstruction) retains w=0 modulo4 as a necessary first-bit condition, its exact dyadic-coefficient expression and HS15's unevaluated first contribution.
@@ -148,7 +148,7 @@ The complete PF1--PF4 counterexample and both-factor table are fixed in [C732](.
 Its [complete proof](../claims/Yin_C_G0732_v1.md#complete-argument) retains the full factorization, both actual irreducible factors, every root and total measure, each factor's own integer canonical quotients and exact order comparison.
 Both smaller-measure factors lose the full product's joint precision9, to0 and3, when their canonical systems are recomputed with their own trace divisors.
 This example supplies no universal factor-selection theorem and no substitute for an actual compatible full-source height1 construction.
-Root and characteristic_zero_bridge are contributors; the separate independent whole finding in R1123 and the actual adoption remain recorded at the fixed Claim.
+Root and characteristic_zero_bridge are contributors; the separate independent whole finding in R952 and the actual adoption remain recorded at the fixed Claim.
 
 <a id="dg3-fixed-dyadic-contributions"></a>
 ## Fixed dyadic-contribution theorem
@@ -156,7 +156,7 @@ Root and characteristic_zero_bridge are contributors; the separate independent w
 The complete DY1--DY8 and finite-jet parity boundary are fixed in [C734](../claims/Yin_C_G0734_v1.md#statement), at its [adopted assessment](../claims/Yin_C_G0734_v1.md#decision-whole-reviewed-2026-10-25).
 The [complete proof](../claims/Yin_C_G0734_v1.md#complete-argument) retains every low B/W coefficient case, complete divisor inversion, actual fourteen-prime source parameter, first contribution1, exact three-term cancellation and strict inverse-composition endpoint.
 Its source exponent ell is independent of the perturbation index j_star.
-Root and characteristic_zero_bridge are contributors; the separate independent whole R1126 finding and actual adoption remain recorded at C734.
+Root and characteristic_zero_bridge are contributors; the separate independent whole R954 finding and actual adoption remain recorded at C734.
 
 <a id="finite-jets-do-not-fix-global-dyadic-parity"></a>
 The full [finite-jet perturbation proof](../claims/Yin_C_G0734_v1.md#finite-jets-do-not-fix-global-dyadic-parity) retains both actual finite jets, unit conditions and complete polynomial degree costs, with explicit failure to establish admissible-completion properties.
@@ -172,7 +172,7 @@ A genuine construction or obstruction must still control the complete-source tai
 The complete PA1--PA12, HB1--HB10 and NF1--NF3 theorem is fixed in [C738](../claims/Yin_C_G0738_v1.md#statement), at its [adopted assessment](../claims/Yin_C_G0738_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete argument](../claims/Yin_C_G0738_v1.md#complete-argument) retains the actual complete multiplier, all original fresh-factor and canonical/root/layer/Haar data, full parity0 and both enlarged degree budgets.
 The original DG8 numerical bounds are not asserted for either enlarged representative.
-Root and characteristic_zero_bridge are contributors; the separate fresh whole R1132 finding and actual acceptance remain recorded at C738.
+Root and characteristic_zero_bridge are contributors; the separate fresh whole R958 finding and actual acceptance remain recorded at C738.
 
 <a id="large-complete-multiplier-height-one-obstruction"></a>
 The complete [larger-subfamily obstruction](../claims/Yin_C_G0738_v1.md#large-complete-multiplier-height-one-obstruction) retains the a_big>=d choice, full two-block support, exact integer carry and all-root degree argument forcing P_q=L(z^q)(1-z^(2n_big q)) from an even own second residual.
@@ -180,7 +180,7 @@ That exclusion is not transferred to the original C691 family or the weaker a_mu
 It excludes irreducible height1 first-bit inputs in the stated larger subfamily without declaring all algebraic sign systems inconsistent.
 
 <a id="complete-multiplier-generic-finite-residual-transfer"></a>
-The complete [generic finite-precision application](../claims/Yin_C_G0738_v1.md#complete-multiplier-generic-finite-residual-transfer) retains the fresh C767/C770 invocation for each enlarged source and separately fixed sign, exact h145 hypothesis check, actual both1024 and first2048/X1024 outputs, every derivative/error endpoint, full binary canonical G and new degree costs.
+The complete [generic finite-precision application](../claims/Yin_C_G0738_v1.md#complete-multiplier-generic-finite-residual-transfer) retains the fresh C730/C733 invocation for each enlarged source and separately fixed sign, exact h145 hypothesis check, actual both1024 and first2048/X1024 outputs, every derivative/error endpoint, full binary canonical G and new degree costs.
 It supplies no height1, irreducibility, canonical/synthetic identification or small-measure conclusion.
 
 The remaining actual question is whether the weaker parity-zero completion or another full source admits a passing restricted sign vector with original irreducibility, and how its SAME canonical residual precision and total measure can be controlled.
@@ -193,7 +193,7 @@ The original representative's individual dyadic tail coefficients and parity als
 The complete WM1--WM15 statement and argument are fixed in [C740](../claims/Yin_C_G0740_v1.md#statement), at its [adopted assessment](../claims/Yin_C_G0740_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete proof](../claims/Yin_C_G0740_v1.md#complete-argument) retains the exact added B_n^2 equivalence with old-source overlap, genuine integer carry, ambient reciprocal support mask, all sign fibers and exact local counts, sharpened a>=d-1 obstruction, a=d-2 endpoint and every raised-source degree and descent.
 These counts are local and do not replace the complete old-primary systems or imply irreducibility from a nonzero mask.
-Root and characteristic_zero_bridge are contributors; the separate fresh whole R1135 finding and actual adoption remain recorded at C740.
+Root and characteristic_zero_bridge are contributors; the separate fresh whole R960 finding and actual adoption remain recorded at C740.
 
 The next actual source question is to compare a genuinely specified C691 representative's degree d with M=30Q n_star, using C740's exact weak-ceiling criterion.
 The original DG8 upper bound is too large to force d<=M+1, and the source construction's existential exponent choices do not by themselves determine a branch.
@@ -206,8 +206,8 @@ No native support expansion or rank search has been performed, and the original 
 
 The complete LT1--LT17 theorem is fixed in [C745](../claims/Yin_C_G0745_v1.md#statement), at its [adopted assessment](../claims/Yin_C_G0745_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete proof](../claims/Yin_C_G0745_v1.md#complete-argument) retains every actual canonical binary identity, monic integer quotient entrance, coefficient transport and t=1 endpoint, the full C2/C3/C5 composition criterion and the conditional source-parameter/root map.
-Root and characteristic_zero_bridge are contributors; the separate fresh whole R1141 finding and actual adoption remain recorded at C745.
-The fixed C774 remains a LOCAL theorem with its original normalized source-domain condition q>=2^27; it is not a source-existence theorem.
+Root and characteristic_zero_bridge are contributors; the separate fresh whole R965 finding and actual adoption remain recorded at C745.
+The fixed C745 remains a LOCAL theorem with its original normalized source-domain condition q>=2^27; it is not a source-existence theorem.
 
 C745 proves a reduced sufficient LOCAL domain without prescribing a Frobenius power of the binary k=Kbar or an actual Delta(K) condition.
 Its conditional factor comparison pays v_2(A)>=t+kappa+1 with A=a_src q and kappa>=5, keeping the base exponent a_src, binary polynomial k and factor parameter kappa distinct.
@@ -222,7 +222,7 @@ A useful continuation must establish such actual source and compatibility inputs
 The complete MP1--MP17 theorem is fixed in [C747](../claims/Yin_C_G0747_v1.md#statement), at its [adopted assessment](../claims/Yin_C_G0747_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete proof](../claims/Yin_C_G0747_v1.md#complete-argument) retains the exact odd-ambient reciprocal bijection, full support and explicit low-reflection basis, ordinary integer pair count, disjoint four-position images and every actual sign fiber.
 The added-modulus count, the refined zero-trace count, the full-own-residual necessary conditions and the actual complete C738 cost family have separately stated scopes.
-Root and characteristic_zero_bridge are contributors; the separate fresh whole R1143 finding and actual adoption remain recorded at C747.
+Root and characteristic_zero_bridge are contributors; the separate fresh whole R967 finding and actual adoption remain recorded at C747.
 
 <a id="zero-trace-parity-refinement-of-local-masks"></a>
 The complete [MP10--MP17 zero-trace argument](../claims/Yin_C_G0747_v1.md#zero-trace-parity-refinement-of-local-masks) retains the global integer carry, full old X-primary order, Delta(L) double zero, the y5 square argument, own-divisor a_Tbar=J(1)X^2 moduloX^3, exact even-basis-parity fibers and all raised-source consequences.
@@ -445,7 +445,7 @@ This useful bounded interface remains a draft; no new fixed Claim is created mer
 
 The complete WR1--WR11 theorem is fixed in [C751](../claims/Yin_C_G0751_v1.md#statement), at its [adopted assessment](../claims/Yin_C_G0751_v1.md#decision-whole-reviewed-2026-10-25).
 Its [complete proof](../claims/Yin_C_G0751_v1.md#complete-argument) retains the exact ordinary/divided row domains, the pre-fresh versus total exponent convention, conditional endpoint count, small invisible ordinary row, all complete source and canonical/root data, exact fresh3, raised normalization and full new degree/gap/layer costs.
-Root and characteristic_zero_bridge are contributors; the separate fresh whole R1147 finding and actual adoption remain recorded at C751.
+Root and characteristic_zero_bridge are contributors; the separate fresh whole R971 finding and actual adoption remain recorded at C751.
 The reciprocal geometric sum is denoted S_5, distinct from the integer trace factors F_e in the synthetic layer.
 
 The original bounded witness's E_pre and endpoint admissibility remain unevaluated.
@@ -512,9 +512,9 @@ The fifteen-divisible nonzero-G domain remains unresolved, and no coefficientwis
 
 The entire ST1--ST12 theorem is fixed in [C766](../claims/Yin_C_G0766_v1.md#statement), now [adopted](../claims/Yin_C_G0766_v1.md#decision-whole-reviewed-2026-10-25) through [fresh whole R986](../audits/reviews/Yin_R_G0986_v1.md#whole-actual-local-half-and-strong-branches-finding).
 Its [complete proof](../claims/Yin_C_G0766_v1.md#complete-argument) retains the genuine arbitrary-T localization and unique half, actual Delta/base and integer K division, local first-four iff, exact source beta and all three cube-related target classes.
-Root and characteristic_zero_bridge are substantive contributors; C806's separate review is not a review of this new precision argument.
+Root and characteristic_zero_bridge are substantive contributors; C764's separate review is not a review of this new precision argument.
 
-The original C806 strong target alpha=gamma has local ord_phi(F/2)bar=8m and, using its actual GLOBAL evenness, EXACT coefficient valuation v_2(F)=1 for every output and every actual dyadic raising.
+The original C764 strong target alpha=gamma has local ord_phi(F/2)bar=8m and, using its actual GLOBAL evenness, EXACT coefficient valuation v_2(F)=1 for every output and every actual dyadic raising.
 The corrected target alpha=beta^2 gamma fixes k only modulo phi^(5m); full phi-local first-four requires the actual additional class k=Z_0 modulo phi^(6m).
 The fixed theorem does not provide the separate restricted-sign realization or assembly over all other primary components.
 It asserts no Hensel factorization, new source existence, irreducibility, characteristic-zero identity or unrestricted G0001 conclusion.
@@ -3546,7 +3546,7 @@ No larger coefficient modulus, complete full-weight group, arbitrary alphabet ex
 
 The larger three-weight construction remains an unexecuted alternative.
 The [smaller two-source implementation](#small-source-full-gate-span-preparation) preserves this exact6369-word and64-target scope while using the later actual source character.
-It is implemented but not run; no source image, full-target membership or correcting word is yet asserted.
+The completed two-source test is fixed in [C836](../claims/Yin_C_G0836_v1.md#decision-whole-reviewed-2026-10-28), with [whole independent R1056](../audits/reviews/Yin_R_G1056_v1.md#whole-finding): all6369 words and64 targets were checked, attaining32 targets and excluding32 in the complete old-alphabet image.
 
 <a id="full-eighth-kernel-cubic-a-invariance"></a>
 ## Cubic-a invariance on the actual Theta kernel
@@ -3601,7 +3601,7 @@ The complete argument is fixed in [C834 CA8](../claims/Yin_C_G0834_v1.md#ca8-bou
 
 The exact symbolic input is [Adopted C834](../claims/Yin_C_G0834_v1.md#decision-whole-reviewed-2026-10-28).
 The complete authorized native screen and its different AUTHOR verification have finished.
-The6369-word actual span remains a separate unexecuted implementation scope.
+The6369-word actual span is the completed two-source result in [C836](../claims/Yin_C_G0836_v1.md#decision-whole-reviewed-2026-10-28); the larger three-weight alternative remains unexecuted.
 
 ### SP1. Exact retained references and full targets
 
@@ -3801,7 +3801,7 @@ The complete argument is fixed in [C837 UV8](../claims/Yin_C_G0837_v1.md#uv8-con
 
 [Adopted C839](../claims/Yin_C_G0839_v1.md#decision-whole-reviewed-2026-10-28), through [whole independent R1059](../audits/reviews/Yin_R_G1059_v1.md#whole-finding), proves F_Q not divisible coefficientwise by128 and nu_2(F_Q)<=6 for the entire unchanged T_0M family.
 Its [actual order denominator](../claims/Yin_C_G0839_v1.md#fixed-norm-and-order-denominator), [relative trace construction](../claims/Yin_C_G0839_v1.md#relative-chebyshev-trace-gain) and complete NC1--NC6 proof retain the exact canonical inputs and full conjugate multiplicities.
-Preparation uses only C837's elementary UV1--UV4, C267's actual cyclotomic-order inverses and C736's original canonical operations at the scopes selected there.
+Preparation uses only C837's elementary UV1--UV4, C266's actual cyclotomic-order inverses and C736's original canonical operations at the scopes selected there.
 No Yu bound, finite evaluated alphabet, height estimate or native outcome supplies a premise.
 R1059 supplies the separate whole review of the new order-unit and trace-gain argument; C837's earlier review is not substituted for it.
 Attainment or optimality of6, altered bases and irreducible positive-measure lifts remain outside this theorem; the unrestricted Task remains unresolved.

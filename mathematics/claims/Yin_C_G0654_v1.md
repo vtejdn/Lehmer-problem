@@ -156,7 +156,7 @@ For clarity retain all original zero-Haar layer data
 
 The integer trace factors F_n are defined by Phi_n(z)=z^(phi(n)/2)F_n(z+z^(-1)), and V_int retains all other factors and the sign.
 No original layer is changed by the finite group argument.
-The full C677 jets, corrected phi^(6m) root and phi^(8m) gate remain at their adopted scope, and the exact costs stay
+The full C649 jets, corrected phi^(6m) root and phi^(8m) gate remain at their adopted scope, and the exact costs stay
 
     r=q(30m+deg Y),
     w=q(26m+deg Y+deg B),
@@ -267,7 +267,7 @@ Thus Phi=-N/5, which is0 modulo N, proving (D9).
 But Pi=-(N/2)/5 is nonzero modulo N=2^floor(log_2 N), proving (D10) and c_N outside G_N.
 Every other completed lift differs in Phi by a multiple of2N and gives the same conclusions by Section4.
 A polynomial CRT representative therefore has the same weak norm-ratio value and the same refined obstruction.
-At N=8 this is exactly the class y^2 with y=(1+X^4,X^2) in C655, whose old coset has order4; the present proof does not require a new run or that older certificate.
+At N=8 this is exactly the class y^2 with y=(1+X^4,X^2) in C630/J127, whose old coset has order4; the present proof does not require a new run or that older certificate.
 The failure concerns the WEAKER finite criterion only, not the exact infinite character kernel or sufficiency of (D7).
 
 ### 6. The three whole finite images and the remaining gap

@@ -45,7 +45,7 @@ For q<=2, concatenation bounds H_R(x) at every actual state, first-step decompos
 The excursion-tail proof keeps 1-u^N>=1-exp(-1), the original finite-return event excludes infinity, and the spatial prefix/backward-terminal estimates use sqrt(r_0+s_0), with the stated ceiling restriction.
 
 I checked [C432's complete-state estimate and quartic application](../../claims/Yin_C_G0432_v1.md#degree-cost-reduced-original-core-norm), [C405's general-unit radius statement](../../claims/Yin_C_G0405_v1.md#statement), [C479's renewal/attainment/canonical interfaces](../../claims/Yin_C_G0479_v1.md#canonical-full-tilt-information-defect), [C493's actual dyadic thresholds](../../claims/Yin_C_G0493_v1.md#cyclotomic-radical-critical-thresholds), and the [whole-order dual singularity and convolution interface](../../ledger/Yin_L_G0240_v1.md#critical-recurrence-singular-dual-measures).
-The actual quartic, sextic and original Lehmer mathematical statements were checked at C399/C402/C480; their existing certificate executions and source proofs were accepted at their recorded scopes.
+The actual quartic, sextic and original Lehmer mathematical statements were checked at C396/C399/C476; their existing certificate executions and source proofs were accepted at their recorded scopes.
 The quartic constant follows from C_non<259/8 and (2+sqrt(2pi))^2<25, giving c>8/6475.
 Its all-time paid certificate yields 2^(5/8)<=R<=beta, without reinterpreting a bare p64.
 Nontorsion recurrence activates the singular-factor theorem but does not establish bounded convolution or finite mean.

@@ -166,7 +166,7 @@ The recorded review description was `under review`.
 | dependency | [C17 actual supporting/quotient interface](Yin_C_G0017_v1.md#finite-lag-value-and-continuity) | Prior finite-lag neighborhood and local supporting-plane method; present finite dictionary epigraph/separation and real weak-dual proof are reconstructed locally. |
 | dependency | [C57 supplied quantitative and indexed product theorem](Yin_C_G0057_v1.md#statement) | Elementary rational degree-only deficit as an applicable example, local integer-conditioning mechanism and full indexed q^k/M^k/kd/copy/energy identities. Its optional house theorem is not used. |
 | dependency | [C10 full original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Same actual finite complementary rational packet, all nonzero full signed original resultants, final weights/copies and physical width. |
-| support | [Original notation objection](../audits/reviews/Yin_R_G0268_v1.md#finite-dictionary-original-norm-field-finding) | Original18:57 literal norm-field collision and its independently performed substantive checking; negative history retained, not current corrected acceptance. |
+| support | [Original notation objection](../audits/reviews/Yin_R_G0268_v1.md#finite-dictionary-original-norm-field-finding) | Original18:57 literal norm-field collision and its separately performed substantive checking; negative history retained, not current corrected acceptance. Finding relationship: self-reviewed. |
 | support | [Corrected original whole finding](../audits/reviews/Yin_R_G0269_v1.md#finite-dictionary-corrected-whole-finding) | Complete ACTUAL19:05 corrected D14 only, with original R268 preserved; this finding does not cover the new registered wrapper written by that same reviewer. |
 
 
@@ -186,9 +186,9 @@ The recorded review description was `under review`.
 | dependency | [C17 actual supporting/quotient interface](Yin_C_G0017_v1.md#finite-lag-value-and-continuity) | Prior finite-lag neighborhood and local supporting-plane method; present finite dictionary epigraph/separation and real weak-dual proof are reconstructed locally. |
 | dependency | [C57 supplied quantitative and indexed product theorem](Yin_C_G0057_v1.md#statement) | Elementary rational degree-only deficit as an applicable example, local integer-conditioning mechanism and full indexed q^k/M^k/kd/copy/energy identities. Its optional house theorem is not used. |
 | dependency | [C10 full original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Same actual finite complementary rational packet, all nonzero full signed original resultants, final weights/copies and physical width. |
-| support | [Original notation objection](../audits/reviews/Yin_R_G0268_v1.md#finite-dictionary-original-norm-field-finding) | Original18:57 literal norm-field collision and its independently performed substantive checking; negative history retained, not current corrected acceptance. |
+| support | [Original notation objection](../audits/reviews/Yin_R_G0268_v1.md#finite-dictionary-original-norm-field-finding) | Original18:57 literal norm-field collision and its separately performed substantive checking; negative history retained, not current corrected acceptance. Finding relationship: self-reviewed. |
 | support | [Corrected original whole finding](../audits/reviews/Yin_R_G0269_v1.md#finite-dictionary-corrected-whole-finding) | Complete ACTUAL19:05 corrected D14 only, with original R268 preserved; this finding does not cover the new registered wrapper written by that same reviewer. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0272_v1.md#c59-finite-dictionary-extraction-finding) | Entire actual A--E, preserved corrected proof/history and all current direct interfaces, independently inspected after actual allocation. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0272_v1.md#c59-finite-dictionary-extraction-finding) | Entire actual A--E, preserved corrected proof/history and all current direct interfaces, separately inspected after actual allocation. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 

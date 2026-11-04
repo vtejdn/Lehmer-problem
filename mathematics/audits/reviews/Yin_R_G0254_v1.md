@@ -1,7 +1,7 @@
 ---
 author: Yin
 ---
-# C49 attained-range scalar filtering: independent actual extraction review
+# C49 attained-range scalar filtering: actual extraction review
 
 Date: 2026-10-12T09:08.
 Human record author Yin.
@@ -11,7 +11,8 @@ This is a new finding about the ACTUAL fixed artifact, not automatic inheritance
 
 ## Arrangement and exact inspection scope
 
-Root and the D2 author supplied its mathematical proof. g0001_routes separately contributed C49's registered statement.
+Root and the D2 author supplied its mathematical proof.
+g0001_routes separately contributed C49's registered statement.
 This reviewer contributed neither D2 nor C49.
 The reviewer previously performed the noncontributor D2 whole review in R249; that unchanged original scope is explicitly reused, and was known BEFORE the present actual-extraction reconstruction.
 It is not represented as a new blind first whole-proof review.
@@ -22,7 +23,9 @@ The reviewer also contributed C46's registration.
 As already disclosed in R249, that antecedent is reused at its separately performed R247v2 independent review and ACTUAL16:28 adoption.
 The present finding does not independently recertify C46.
 The independent descriptions of C46 and R247v2 in this dated account retain their original designation; R247v2's actual extraction relationship is now self-reviewed for its disclosed inherited same-target whole conclusion.
-That relationship clarification neither changes C46's proved assessment and mathematical input nor makes this reviewer's own earlier R249 findings proposing-agent development context for C49.
+That relationship clarification does not change C46's proved assessment and mathematical input.
+The same reviewer's known initial author-validation input in its earlier R249 whole review of this same target remains in the expressly continued context, making the current C49 extraction finding SELF.
+This classification follows the inherited author-validation input, not a previous reviewer's own conclusion alone.
 The C49 finding retains its separately recorded arrangement, exact dates, bindings and scope, without supplying new independent C46 coverage.
 The reviewer supplied no C49 proof or wrapper text and edited no target.
 The unrelated D3 authorship and D4-to-C51 extraction have no role in this proof.
@@ -36,7 +39,7 @@ No target repair was needed.
 
 | Review | Relationship |
 | --- | --- |
-| [Actual C49 finding](#c49-attained-range-extraction-finding) | independently reviewed |
+| [Actual C49 finding](#c49-attained-range-extraction-finding) | self-reviewed |
 
 ## Review bindings
 

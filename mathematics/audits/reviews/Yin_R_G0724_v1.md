@@ -51,7 +51,7 @@ Original fixed whole findings, author contributions, source readings and dates r
 ## Complete all-prime layer whole SELF evidence
 
 Whole checking completed 2026-10-22T04:08.
-The current construction agent read the entire exact C513 Statement and every retained L409 section and equation(1)--(21), including the complete original input table and contribution/source boundaries.
+The current construction agent read the entire exact C513 Statement and every retained L408 section and equation(1)--(21), including the complete original input table and contribution/source boundaries.
 It reconstructed the complete positive-layer distribution at arbitrary primes: the terminal multiplicity increments telescope to d, every label capacity follows from the primitive-order count and the p-power increment, and the companion module gcd identity gives the full corank with the actual original determinant/Smith valuation floor.
 No field-ramification identification is used at repeated or index primes.
 The full identity period includes both the prime-to-p orders and the largest nilpotent multiplicity.
@@ -60,13 +60,13 @@ The complete degree-n auxiliary, full original norm and nonnumerical K_s remain 
 The C147v5 envelope is used only on its actual small-height domain; its strict capped inverse follows supplied positive income, and the uniform budget keeps C,gamma,s fixed with log p>=log2.
 The translated reciprocal P_r is monic Eisenstein at2 for every integer r>=2; the nonreal trace proves nontorsion without a Salem claim.
 Its D_1=2 refutes uncharged raw order mass, while the exact paid power-two layers and non-power-of-two terminal increment have the stated statistics.
-The old complete C495 bounded-residue criterion already puts this control above log2/4, so it is not new near-one coverage.
+The old complete C491 bounded-residue criterion already puts this control above log2/4, so it is not new near-one coverage.
 The complete C144 cyclotomic sequence and original norm tower give the distinct good and repeated-prime layers, exact equality of every local valuation and corank before N, and uniform all-prime density/score decay; these remain torsion comparisons.
 The original automatic small-positive-measure coverage question is not proved or assumed.
-The actual C142v2, C147v5, C495 and C144 interfaces, C252/C257 period and norm conventions, original L221 comparison and existing Con26d-U001v2 monic source scope were read at their necessary bounds.
+The actual C142v2, C147v5, C491 and C144 interfaces, C251/C256 period and norm conventions, original L221 comparison and existing Con26d-U001v2 monic source scope were read at their necessary bounds.
 No new source passage, original source-wide proof, polynomial scan, J/native execution or Task/E continuation was performed.
-The original L409 authors are angular_envelope_review with root direction and later determinant/corank safeguards; the present current construction checking shares that target's mathematical context and is SELF.
-The original R559 full whole finding and its23:30 input/23:37 review are preserved separately; its initial extra target context is unestablished and is UNKNOWN, not retrospectively repaired by this adequate current SELF.
+The original L408 authors are angular_envelope_review with root direction and later determinant/corank safeguards; the present current construction checking shares that target's mathematical context and is SELF.
+The original R413 full whole finding and its23:30 input/23:37 review are preserved separately; its initial extra target context is unestablished and is UNKNOWN, not retrospectively repaired by this adequate current SELF.
 All original mathematics and the eight-row input account are retained; only explicitly identified sufficient-home hrefs changed in the complete C proof.
 PASS at the entire stated conditional theorem and exact-control scope, with no substantive mathematical defect or original proof repair found.
 
@@ -74,7 +74,7 @@ PASS at the entire stated conditional theorem and exact-control scope, with no s
 ## Complete supported bulk-carry whole SELF evidence
 
 Whole checking completed 2026-10-22T04:08.
-The current construction agent read the entire exact C514v2 Statement, its complete retained L410 Sections1--7/equations(1)--(20), every exact input row and all original contribution/source boundaries.
+The current construction agent read the entire exact C514v2 Statement, its complete retained L409 Sections1--7/equations(1)--(20), every exact input row and all original contribution/source boundaries.
 The revised wrapper explicitly restricts both endpoint labels to positive original c_k weights; the complete original proof and all other Statement assertions are unchanged.
 The full original returned law, two tail projections, both real neutral coordinates, exact energy4 and all-late every-real-function quantifiers remain fixed.
 The all-angle clipped projections are centered by sign symmetry, have oscillation at most2 and energy at most4/R^2, giving the exact angular fraction and constants c_*,a_*,R_*,eta_* for every allowed fixed defect.
@@ -82,7 +82,7 @@ Both real embeddings and the neutral ball give a single finite original-order la
 The original digit-work clock pays n+2 in both energy and coefficient and supplies no efficient-sampling conclusion.
 The universal quarter-defect ceiling and the explicitly abstract three-state comparison separate finite capture from a full second moment.
 The finite-component argument uses the exact between-component variance maximum over unions, with all singleton and all-singleton conventions.
-The existing J106 README and actual complete R558 finding were read for all six fixed component controls, their exact original masses, original resource-launch failure versus first mathematical run, separate verifier and shared-runtime limitations.
+The existing J106 README and actual complete R412 finding were read for all six fixed component controls, their exact original masses, original resource-launch failure versus first mathematical run, separate verifier and shared-runtime limitations.
 No current J106 producer, verifier, payload reconstruction, eigenvalue scan or enlarged finite input was run, and finite connectivity is not promoted to an all-late contraction.
 The normalized support predicate is independent of k only on supported endpoints; zero-tail injections multiply each old weight by at least4 without a common stationary-law rescaling.
 Old paths persist, but added vertices may create components, and the n8 absorption concerns only the specifically embedded old n5--7 states.
@@ -94,7 +94,7 @@ The uniform all-late path construction and actual critical-mean branch remain un
 C170's actual conditional-law/mark interfaces, C204 finite capture and finite-branch ratio interfaces, C169 collision/return probabilities and existing RW01-U001 terminology-only source scope were read directly.
 No new source proof, published-edition equivalence, quantitative RW01 theorem, native execution or research Task/E was supplied.
 The original root and angular_envelope_review are target contributors; this construction agent's current whole checking shares the relevant target context and is SELF.
-The complete original R560 mathematics and its23:46 input/23:47 review remain separate with the genuinely unestablished initial extra context UNKNOWN; fixed upstream ownership, non-blind wording and legitimate fixed-proof reading do not alone determine that relationship.
+The complete original R414 mathematics and its23:46 input/23:47 review remain separate with the genuinely unestablished initial extra context UNKNOWN; fixed upstream ownership, non-blind wording and legitimate fixed-proof reading do not alone determine that relationship.
 PASS for the entire explicitly conditional theorem, complete controls, costs and failure boundaries, with no original substantive proof repair found.
 
 <a id="initial-endpoint-wrapper-domain-precision-finding"></a>
@@ -102,7 +102,7 @@ PASS for the entire explicitly conditional theorem, complete controls, costs and
 
 Constructor precision identified after actually reading the published OPEN C514v1 Statement and complete original Argument.
 The v1 wrapper described the normalized edge predicate without explicitly repeating that c_k(a)>0 and c_k(c)>0 on its left/right labels.
-The original L410 and complete retained Argument already restrict the old vertex supports and use the complete positive weights; no mathematical argument, graph, constant, finite result or native certificate was repaired.
+The original L409 and complete retained Argument already restrict the old vertex supports and use the complete positive weights; no mathematical argument, graph, constant, finite result or native certificate was repaired.
 The new fixed C514v2 changes only that one Statement phrase, explicitly adds both positivity conditions and retains v1 OPEN with its exact historical registration bindings.
 The entire Argument is byte-identical between these two versions; all other Statement sentences are identical.
 The actual current whole finding above covers the complete clarified Statement and unchanged proof.

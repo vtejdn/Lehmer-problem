@@ -30,7 +30,7 @@ The result is independent of the choice of a genuine K/W presentation.
 It is not a choice of W, a free half-lift or an approximation to the original integer factorization.
 The proof uses the actual complete factors A_big, (X^2-4), J_n and T_core, with no residual precision inherited by a factor.
 
-For the NEW C834 source domain of the fixed C795 lower-coordinate identity, combining ST1 with that identity gives
+For the NEW C791 source domain of the fixed C795 lower-coordinate identity, combining ST1 with that identity gives
 
     E_X'=0 modulo phi^(2A-2)
        if and only if X^(6A-2)|Y_out'
@@ -38,7 +38,7 @@ For the NEW C834 source domain of the fixed C795 lower-coordinate identity, comb
 
 Here H_even,3A is the ACTUAL integer reference half polynomial from C795, and E_X is defined only after the given actual low-quarter vanishing.
 The C795 identity remains an explicit separately fixed dependency subject to its own whole review and adoption; the actual factor proof of ST1 does not depend on that identity.
-The source requirement in ST2 is strictly stronger than5A and is not assigned to an arbitrary C834 witness.
+The source requirement in ST2 is strictly stronger than5A and is not assigned to an arbitrary C791 witness.
 No source attaining it or sign construction enforcing the extended k condition is supplied here.
 Passing ST2 leaves the high coordinates at orders2A-2 and above unresolved.
 Failure excludes C792's specified factor-compatible earlier-four family and its subsequent8 corrections from this seed, not other earlier2K families or changed sources.
@@ -54,7 +54,7 @@ This is new author work by primitive_second_eight after fixing C795.
 It uses the actual complete copied height-one factorization, not a freely prescribed local W or formal quarter.
 For AV1--AV8, fix ANY complete original C767 source with an ACTUAL low-zero F8/selected-X4 height-one input, genuine integer H,K,W and all original full factors.
 The necessary C787 low gate itself supplies the5A source derivative condition and actual low-k condition used below.
-The final AV9 consequence uses C795's more specific NEW C834 source domain and its separately fixed lower-coordinate identity.
+The final AV9 consequence uses C795's more specific NEW C791 source domain and its separately fixed lower-coordinate identity.
 Put
 
     J_core=w'+phi^A K_even,A,
@@ -197,7 +197,7 @@ Combining AV8 with the complete fixed C795 lower-coordinate identity gives the e
 
 The C795 identity remains subject to its separate whole review and selected adoption; AV1--AV8 are the new independent actual-factor argument here.
 The first condition in AV9 is a STRICTER source jet than5A.
-It cannot be assigned to an arbitrary C834 witness, and no actual source meeting it is claimed by this argument.
+It cannot be assigned to an arbitrary C791 witness, and no actual source meeting it is claimed by this argument.
 The second condition retains the ACTUAL integer reference halves.
 Passing AV9 still leaves the high coordinates at2A-2 and above unresolved.
 There is no unconditional selected-X8, exclusion of other earlier2K families or unrestricted Task conclusion.
@@ -217,7 +217,7 @@ There is no unconditional selected-X8, exclusion of other earlier2K families or 
 
 | Relation | Target | Scope |
 | --- | --- | --- |
-| statement | [Actual half-series vanishing and remaining lower gate](#statement) | Every original actual low-zero seed has J_core=0 and J_h=0; the NEW C834 source domain has the stated stronger exact gate when combined with the fixed C795 identity. All limitations retained. |
+| statement | [Actual half-series vanishing and remaining lower gate](#statement) | Every original actual low-zero seed has J_core=0 and J_h=0; the NEW C791 source domain has the stated stronger exact gate when combined with the fixed C795 identity. All limitations retained. |
 | argument | [Complete AV1--AV4 proof](#complete-argument) | Actual complete factorization, genuine T0 derivative half, forced odd powers, exact modulo4 Chebyshev product, true T derivative quarter and even/odd vanishing. |
 | dependency | [Adopted complete actual copied factors](Yin_C_G0762_v1.md#decision-whole-reviewed-2026-10-25) | Full A_big,T0,J_n,T_core integer identities and binary exponents; no residual inheritance asserted. |
 | dependency | [Adopted actual low source gate](Yin_C_G0787_v1.md#decision-whole-reviewed-2026-10-26) | Necessary5A derivative and actual low-k/reference-half identity at every low-zero input, used to derive AV4. |
@@ -236,13 +236,13 @@ There is no unconditional selected-X8, exclusion of other earlier2K families or 
 
 | Relation | Target | Scope |
 | --- | --- | --- |
-| statement | [Actual half-series vanishing and remaining lower gate](#statement) | Every original actual low-zero seed has J_core=0 and J_h=0; the NEW C834 source domain has the stated stronger exact gate when combined with the fixed C795 identity. All limitations retained. |
+| statement | [Actual half-series vanishing and remaining lower gate](#statement) | Every original actual low-zero seed has J_core=0 and J_h=0; the NEW C791 source domain has the stated stronger exact gate when combined with the fixed C795 identity. All limitations retained. |
 | argument | [Complete AV1--AV4 proof](#complete-argument) | Actual complete factorization, genuine T0 derivative half, forced odd powers, exact modulo4 Chebyshev product, true T derivative quarter and even/odd vanishing. |
 | dependency | [Adopted complete actual copied factors](Yin_C_G0762_v1.md#decision-whole-reviewed-2026-10-25) | Full A_big,T0,J_n,T_core integer identities and binary exponents; no residual inheritance asserted. |
 | dependency | [Adopted actual low source gate](Yin_C_G0787_v1.md#decision-whole-reviewed-2026-10-26) | Necessary5A derivative and actual low-k/reference-half identity at every low-zero input, used to derive AV4. |
 | dependency | [Adopted complete original source and target](Yin_C_G0767_v1.md#decision-whole-reviewed-2026-10-26) | Full Y_out=Y1 B_N^(Q-9) B_n^2, true canonical input, original source/s and all retained exponents. |
 | dependency | [Adopted original copied row jets](Yin_C_G0759_v1.md#decision-whole-reviewed-2026-10-25) | Complete B_N=1 modulo X^(4A) at every original s, used only at2A+4 precision. |
-| dependency | [Adopted complete lower high-coordinate identity](Yin_C_G0795_v1.md#decision-whole-reviewed-2026-10-26) | Unchanged C795 HG1--HG6 mathematics, now adopted through R1199, for ST2 only within its actual source domain and true reference halves. ST1 is proved independently here. |
+| dependency | [Adopted complete lower high-coordinate identity](Yin_C_G0795_v1.md#decision-whole-reviewed-2026-10-26) | Unchanged C795 HG1--HG6 mathematics, now adopted through R1015, for ST2 only within its actual source domain and true reference halves. ST1 is proved independently here. |
 | dependency | [Adopted specified high correction image](Yin_C_G0792_v1.md#decision-whole-reviewed-2026-10-26) | Image starts at2A-2 and the precise family-specific exclusion, with no wider or unconditional conclusion. |
 | review | [Independent whole finding](../audits/reviews/Yin_R_G1016_v1.md#whole-actual-low-half-vanishing-finding) | Entire fixed statement and complete argument, every exact mathematical/source/native input interface and all original scope limits; adoption remains this separate root decision. |
 

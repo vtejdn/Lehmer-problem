@@ -43,7 +43,7 @@ author: Yin
 | dependency | [Complete original midpoint and critical rate](Yin_C_G0204_v1.md#midpoint-capture-fixed-scope) | Accepted exact critical-radius/mean interface and h2 lower bound at the recurrent actual quartic; no mean branch is chosen. |
 | dependency | [Complete moment discriminator](Yin_C_G0285_v1.md#whole-midpoint-moments-and-localization) | Accepted finite-mean uniform-integrability implication; only a genuinely positive diffusive lower bound would force infinite mean. |
 | dependency | [Separated binary digits](../ledger/Yin_L_G0173_v1.md#separated-digit-strip-norm) | Accepted exact norm/digit separation mechanism, directly adapted to arbitrary sparse supports with no new source theorem. |
-| review | [Actual complete independent finding](../audits/reviews/Yin_R_G0554_v1.md#whole-c324) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C323 includes both complete fixed native records, C323/C325 are proof-only. |
+| review | [Actual complete independent finding](../audits/reviews/Yin_R_G0554_v1.md#whole-c324) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C322 includes both complete fixed native records; C323/C324 are proof-only. |
 
 
 
@@ -63,7 +63,7 @@ author: Yin
 | dependency | [Exact retained dependency](Yin_C_G0204_v1.md#midpoint-capture-fixed-scope) | Accepted exact critical-radius/mean interface and h2 lower bound at the recurrent actual quartic; no mean branch is chosen. |
 | dependency | [Exact retained dependency](Yin_C_G0285_v1.md#whole-midpoint-moments-and-localization) | Accepted finite-mean uniform-integrability implication; only a genuinely positive diffusive lower bound would force infinite mean. |
 | dependency | [Exact retained dependency](Yin_C_G0404_v1.md#separated-digit-strip-norm) | Accepted exact norm/digit separation mechanism, directly adapted to arbitrary sparse supports with no new source theorem. |
-| review | [Exact retained review](../audits/reviews/Yin_R_G0554_v1.md#whole-c324) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C323 includes both complete fixed native records, C323/C325 are proof-only. |
+| review | [Exact retained review](../audits/reviews/Yin_R_G0554_v1.md#whole-c324) | Entire exact statement and Sections1–6 at this target, every general/empty/neutral/source/expense boundary; C322 includes both complete fixed native records; C323/C324 are proof-only. |
 
 ## Exact retained theorem
 

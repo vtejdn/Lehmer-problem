@@ -101,7 +101,7 @@ The results concern rational linear combinations; they establish no nonlinear ex
 | --- | --- |
 | date | 2026-10-21T23:58 |
 | status | proved |
-| reason | Adopt the entire exact registered theorem after direct whole SELF inspection of all six retained sections and formulas1--23, all general/unit/weight/own-output domains, full proof and source/contribution/control/remaining boundaries. Preserve original R540 whole UNKNOWN, actual complete original author SELF and original document/review/adoption/source-reading precision; no fresh isolation, native experiment or Task/E resumption. |
+| reason | Adopt the entire exact registered theorem after direct whole SELF inspection of all six retained sections and formulas1--23, all general/unit/weight/own-output domains, full proof and source/contribution/control/remaining boundaries. Preserve original R395 whole UNKNOWN, actual complete original author SELF and original document/review/adoption/source-reading precision; no fresh isolation, native experiment or Task/E resumption. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

@@ -8,13 +8,16 @@ Human record author Yin.
 Root separately assigned entropy_attainment_bridge to review the new cutoff and packing argument authored by root and loglog_cyclic_review.
 The reviewer supplied no proof step, repair or numerical contribution to this consumer.
 The reviewer authored the upstream L402 source application, schedule and original one-vector Gram bound; its accepted independent R402 is reused rather than described as a new independent review of that upstream proof.
-The reviewer also independently reviewed L404 in R550, without contributing its proof.
+The reviewer also independently reviewed L404 in R405, without contributing its proof.
 This is non-blind: the complete author draft, contribution messages and shared project context were visible.
 After reconstructing the complete author argument, the reviewer retained its unchanged mathematics in L406, reread the actual fixed Sections1--4/formulas(1)--(14) and eight-row input table dated2026-10-18T14:56, and performed the present whole review.
 Only obsolete draft/self-check wrapper prose was removed in retention.
 No matrix, prime, spectral or numerical calculation was run, and no source original-proof audit is upgraded.
 
-Current relationship clarification 2026-10-22T02:59: the original22:58 declaration of independence and complete positive finding remain historical facts at the exact L406 input. The separate reviewer supplied no target proof step and reused its upstream L402 work only at the stated accepted interfaces. The disclosed available contribution messages/shared project context do not establish the additional target-mathematical content or an isolated first-judgment order; the actual whole relationship is therefore genuinely unknown under the current rule, without inferring SELF from a name, upstream authorship or the nonblind label. The current constructor whole SELF is a separate later inspection and does not close isolated replacement.
+Current relationship clarification 2026-10-22T02:59: the original22:58 declaration of independence and complete positive finding remain historical facts at the exact L406 input.
+The separate reviewer supplied no target proof step and reused its upstream L402 work only at the stated accepted interfaces.
+The disclosed available contribution messages/shared project context do not establish the additional target-mathematical content or an isolated first-judgment order; the actual whole relationship is therefore genuinely unknown under the current rule, without inferring SELF from a name, upstream authorship or the nonblind label.
+The current constructor whole SELF is a separate later inspection and does not close isolated replacement.
 
 ## Review relationships
 
@@ -32,9 +35,9 @@ Current relationship clarification 2026-10-22T02:59: the original22:58 declarati
 | [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [Low-mode packing](../../ledger/Yin_L_G0406_v1.md#moving-exponent-low-mode-packing) | Actual L402 substitution, polynomial support(9), every quotient and image band, low-Rayleigh subspace and count/trace divergence(10)--(14). |
 | [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [Outcome and remaining scope](../../ledger/Yin_L_G0406_v1.md#joint-cutoff-outcome) | Fixed-threshold rank/trace certificate failure, no actual-kappa divergence or free varying-threshold estimate. |
 | [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [Eight fixed inputs](../../ledger/Yin_L_G0406_v1.md#joint-cutoff-fixed-inputs) | All eight logical, attribution and comparison roles at their stated versions. |
-| [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [L404 exact symbol](../../ledger/Yin_L_G0404_v1.md#joint-boundary-symbol) | Same complete H_P B_n=n W C_q product and original-degree convention; R550 reused within its scope. |
+| [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [L404 exact symbol](../../ledger/Yin_L_G0404_v1.md#joint-boundary-symbol) | Same complete H_P B_n=n W C_q product and original-degree convention; R405 reused within its scope. |
 | [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [L404 separated failure](../../ledger/Yin_L_G0404_v1.md#boundary-factor-budget-and-failure) | Comparison only; the new proof estimates the full matrix product and does not reuse the failed factor certificate. |
-| [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [C160 rank correction](../../claims/Yin_C_G0160_v1.md#fixed-seed-original-factor-projection) | Accepted same-window nesting and positive-semidefinite off-diagonal estimate, reused at R530's existing independent scope. |
+| [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [C160 rank correction](../../claims/Yin_C_G0160_v1.md#fixed-seed-original-factor-projection) | Accepted same-window nesting and positive-semidefinite off-diagonal estimate, reused at R385's existing independent scope. |
 | [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [L321 coefficient identity](../../ledger/Yin_L_G0321_v1.md#residual-laurent-square-identity) | Pure full-column Laurent identity on the raw polynomial, with its actual rank and constant coefficient. |
 | [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [DMS84-U001](../literature/DMS84/Yin_U001.md#dms84-matrix-power-support) | Inspected manuscript polynomial-support attribution only; no bounded-inverse or uninspected Chebyshev estimate is imported. |
 | [Whole cutoff finding](#joint-cutoff-whole-independent-finding) | [L402 actual family](../../ledger/Yin_L_G0402_v1.md#fixed-trace-moving-exponent-schedule) | Original minimal polynomial, fixed K, prime schedule, full cyclotomic removal and same2d window; reviewer authorship disclosed. |

@@ -166,7 +166,7 @@ This is a source-study completion review, not a new project-theorem proof audit.
 | Exact artifact and version record | The source-identity section records the 24-page journal PDF and page mapping, and the actual limited version/errata search. |
 | Stable reusable units | U001-U008 supply source links, locators, hypotheses, mechanisms, and dependency limits; the global source-unit index registers all eight. |
 | Bounded and affiliated proof-chain review | The obligation map and unit reconstructions cover both main chains and exact-domain reformulation; F01-F08 and external inputs remain explicit. |
-| Reproducible finite computations | The linked script and execution record preserve command, environment, scope, output, and limits for 64,325 exact equalities. |
+| Reproducible finite computations | The historical account reports 64,325 exact equalities. The selected current computation index/program metadata does not locate its native program/J; U003 retains the finite scope and concrete reproduction limit. |
 | Integrated outcome and project handoff | This record supplies coverage, correction evidence, and reuse guidance; the goal index and current assessment identify the completed source-audit scope. |
 
 Miy22 source audit's deliverables are supplied by the edition and pagination explanation, eight units, the proof-obligation map, correction evidence, and the registered finite computation.
@@ -224,42 +224,6 @@ Normalize ambiguous source notation explicitly in the audit units.
 - 2026-09-08: initial user-authorized source-audit scope recorded.
   No new mathematical research claim is assigned by this goal.
 
-<a id="decision-candidate-0001"></a>
-<a id="decision-candidate-0002"></a>
-<a id="decision-candidate-0003"></a>
-<a id="decision-candidate-0004"></a>
-## Historical recorded completion
-
-The four historical publications `Miy22 source audit_v1` through `Miy22 source audit_v4` retain one unchanged source-audit disposition: **completed within the original assignment scope**.
-The substantive inspection and completion dates remain those stated in the audit and contract above.
-The record registration time is 2026-09-14T01:14; it is not a new inspection or inferred historical completion date.
-
-Recorded by: Yin.
-Recorded event: 2026-09-14T01:14.
-Original transition: no prior recorded disposition to `completed`.
-No resumption condition was recorded.
-
-Contract: [original audit assignment, physical v1](#historical-contract-v1).
-Selected completion evidence: [Source-audit completion review](#goal-completion-review).
-Covered materials are this source audit and that assignment.
-Original reviewed publication: `Miy22 source audit_v1`.
-The evidence basis is the recorded completion review; its actual inspection relationship and limitations remain in the review itself.
-No separately declared fixed dependencies or independent review classification is invented.
-
-Recorded scope: The original completion criteria and limitations in the cited completion comparison for Miy22 source audit.
-Preserve recorded lifecycle and completion evidence; historical review classification is not inferred.
-
-Recorded reason: Preserve the completed disposition already recorded at registration; this timestamp is registration, not an inferred historical completion date.
-
-Recorded authority: initial recorded disposition in `Miy22 source audit_v1`, preserving the [original assignment and criteria](#historical-contract-v1).
-This is a historical account of the retired registration, not a new audit-task lifecycle.
-
-| Historical publication | Recorded update | Meaning of the recording |
-| --- | --- | --- |
-| `Miy22 source audit_v1` | 2026-09-14T02:10 | Yin, 2026-09-14T01:14: registration |
-| `Miy22 source audit_v2` | 2026-09-14T04:01 | Yin, 2026-09-14T04:01: Register previously selected proof/review support; verified legacy correspondence, no new mathematical audit |
-| `Miy22 source audit_v3` | 2026-09-14T14:42 | Yin, 2026-09-14T14:42: Approved framework separation: relocate mathematical material and rebase local documentation locators; preserve mathematics, assessments and historical evidence. |
-| `Miy22 source audit_v4` | 2026-09-15T08:24 | Yin, 2026-09-15T08:24: Separate execution metadata from existing Task bodies; preserve mathematical contracts, lifecycle, historical evidence and prior review classification. |
 
 <a id="presentation-observations"></a>
 ## Selected rationality terminology and exposition

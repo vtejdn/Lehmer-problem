@@ -3,6 +3,13 @@ author: Yin
 ---
 # Lehmer compact enumeration feasibility
 
+## Native input availability
+
+The selected enumeration and ancestry/path certificates are unavailable in this checkout and its selected local Git history, including the original797507-candidate list,1044588 ancestry nodes and70 exact exclusions.
+The retained mathematical scope and old successful checks do not supply those missing native bytes.
+The separate J28 enumeration and J29 continuation checks therefore cannot currently replay their original selected certificates.
+Retain the indispensable original basis/enclosure and ancestry/coverage data at this group's tracked native input home when supplied; a different pruned path discovery is not identified as the original certificate.
+
 ## Scope
 
 Estimate and, only if bounded and feasible, enumerate a certified finite superset of the radius-eight Lehmer compact residue.

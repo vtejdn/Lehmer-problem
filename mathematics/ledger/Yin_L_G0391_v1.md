@@ -13,7 +13,7 @@ No unrestricted Mahler gap, canonical Claim or Task completion is asserted.
 The complete21455-character original account, including the explicit control and dated monic-input qualification, is already retained unchanged inside [C9](../claims/Yin_C_G0009_v1.md#negative-relative-embedding-profile-criterion).
 Its selected [R220 SELF finding](../audits/reviews/Yin_R_G0220_v1.md#c9-relative-sign-profile-finding) covers the registered general field-profile theorem and actual norm/denominator premises.
 The fully retained biquadratic control and paid representatives remain [their own precise explanatory mathematical scope](../claims/Yin_C_G0009_v1.md#totally-real-biquadratic-full-positive-norm-control), excluded from C9's top registered Statement; no duplicate Claim or repeated whole finding is created.
-Original R217 is SELF because its initial assignment supplied the actual equivalence and explicit mathematical control; its00:21 freeze,00:29 monic-input correction,00:30 whole finding and00:36 retention on2026-10-12 remain distinct.
+Original R217 is SELF because its initial assignment supplied the actual equivalence and explicit mathematical control; its 2026-10-11T16:21 freeze,2026-10-11T16:29 monic-input correction,2026-10-11T16:30 whole finding and 2026-10-11T16:36 retention on2026-10-11 remain distinct.
 The original negative/qualification and narrow reread are preserved; a fresh independent inspection of the complete corrected target and affected chain remains required.
 All original source, finite-cost, no-native and field-versus-Laurent boundaries retain their actual scope without Task/E resumption.
 
@@ -334,7 +334,7 @@ The targeted checker verified the supplied control and displayed representative 
 
 No native mathematical program, scan, solver or J was run.
 Scoped material validation passed for this draft; it checks structure and locators, not mathematical correctness.
-The complete Sections1--7/equations(1)--(14) are frozen at2026-10-11T16:21 for a separately organized whole noncontributor review.
+The complete Sections1--7/equations(1)--(14) are frozen at 2026-10-11T16:21 for a separately organized whole noncontributor review.
 
 This remains an exact FIELD-profile theorem over totally real F, with explicit original costs and boundaries.
 It does not cover nonreal trace fields, supply uniform near-one Laurent covariance, or complete unrestricted G0001.
@@ -347,6 +347,6 @@ During the separate whole review, the reviewer identified that Section4's condit
 Root agreed, and the author clarified that paragraph only.
 The field norm identities are unconditional; resultant and integer-polynomial cost identities additionally require a selected primitive algebraic integer alpha, its monic integer minimal polynomial P, and actual integer polynomial representatives with the stated field values.
 The general criterion, all equations(1)--(14), the supplied control and its already specified monic P are unchanged.
-The original00:21 author freeze above is preserved as history.
+The original 2026-10-11T16:21 author freeze above is preserved as history.
 The amended whole-review scope is complete Sections1--7/equations(1)--(14), with the clarified Section4 q-cost paragraph and this dated account.
 No mathematical program or new candidate was started.

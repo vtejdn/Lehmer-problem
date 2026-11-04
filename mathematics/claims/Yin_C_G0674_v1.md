@@ -13,13 +13,13 @@ Root proposed the complete complement, the elementary smooth-order proof, the fu
 Original_law checked all root multiplicities and costs, completed the finite criterion and canonical proof, and derived the explicit normalized-multiplicity24 synthetic family using the adopted C670 character.
 Both are contributors, not independent reviewers of this new theorem.
 The new content is an extension of C667 to partial H with weaker forward divisibility, not a revision of that theorem's stronger complete-Y conclusion.
-The old complete-H synthesis is retained separately in C698v2.
+The old complete-H synthesis is retained separately in C668v2.
 No new native calculation, support scan or original realization is used.
 
 The exact inputs are [C654](Yin_C_G0654_v1.md#decision-whole-reviewed-2026-10-23), [C664](Yin_C_G0664_v1.md#decision-whole-reviewed-2026-10-24), [C667](Yin_C_G0667_v1.md#decision-whole-reviewed-2026-10-24), the [all-representative C649 gate](Yin_C_G0649_v1.md#statement), the [C652 character calibrations](Yin_C_G0652_v1.md#decision-whole-reviewed-2026-10-23) and the [adopted C670 finite classification](Yin_C_G0670_v1.md#decision-whole-reviewed-2026-10-24).
 C670 is used only for its exact f_31 character and primitive order; no native computation is rerun here.
 The integer trace/Haar interface is the one fully retained in C667 and its accepted C199 dependencies.
-No C683 theorem about actual original inputs is applied to synthetic objects.
+No C655 theorem about actual original inputs is applied to synthetic objects.
 
 <a id="partial-h-completion-statement"></a>
 ## Statement

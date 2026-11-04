@@ -16,13 +16,19 @@ It does not claim a new primary-source proof audit, a complete literature survey
 No mathematical program, parameter scan, numerical integration or original J rerun was performed.
 The reviewed L materials were not edited.
 
+The dual, weight and Gram finding initially read the complete original D35/L441 body, including the author checks now retained in [R761's dual account](Yin_R_G0761_v1.md#original-dual-author-self-finding) and [weighted account](Yin_R_G0761_v1.md#original-weighted-author-checking-account).
+Those additional verification conclusions make that finding SELF, despite the separately performed reconstruction.
+For the positivity-controls and actual-field/order findings, the disclosed author summaries and shared context do not establish the actual additional mathematical contents and initial scope sufficiently.
+Separate reconstruction and noncontribution do not establish their missing isolation condition; those two relationships remain unknown.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | independently reviewed |
-| [Positivity and rational controls finding](#positivity-controls-whole-finding) | independently reviewed |
-| [Actual fields and orders finding](#actual-field-order-whole-finding) | independently reviewed |
+| [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | self-reviewed |
+| [Positivity and rational controls finding](#positivity-controls-whole-finding) | unknown |
+| [Actual fields and orders finding](#actual-field-order-whole-finding) | unknown |
 
 ## Review bindings
 
@@ -40,7 +46,7 @@ The reviewed L materials were not edited.
 | [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | [DS17 accepted source](../literature/DS17/Yin_U001.md#ds17-u001) | Nonzero integer polynomials with fixed support, total logarithmic gap existence and unchanged original-foundation limits; no explicit constant. |
 | [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | [C149 actual defects](../../claims/Yin_C_G0149_v1.md#original-polynomials-and-norms) | Exact three rational coefficient polynomials, integral full-field values and one common nonzero defect at every embedding. |
 | [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | [C151 coupled argument](../../claims/Yin_C_G0151_v1.md#argument) | Section5 real-coefficient square majorant, zero individual-label handling, exact epsilon and0<u<=h0 with u=15m. |
-| [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | [C151 energy obstruction](../../claims/Yin_C_G0151_v1.md#untransformed-three-defect-energy-obstruction) | H25 probability-Haar lower bound E25>1, independent of original value nonvanishing; whole R513 evidence read at this used scope. |
+| [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | [C151 energy obstruction](../../claims/Yin_C_G0151_v1.md#untransformed-three-defect-energy-obstruction) | H25 probability-Haar lower bound E25>1, independent of original value nonvanishing; whole R369 evidence read at this used scope. |
 | [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | [C189v4 local energy proof](../../claims/Yin_C_G0189_v4.md#original-polynomial-energy-with-every-exponent-and-constant-retained) | Only the displayed L10/L6 reverse-triangle mechanism; opposite H35 sign is harmless, and its local hypotheses hold without importing the larger shear theorem. |
 | [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | [L318 weighted theorem](../../ledger/Yin_L_G0318_v1.md#weighted-integral-bundle-bound) | Full nonzero-resultant integer bundle and exact/approximate covariance costs; no automatic uniform coherence. |
 | [Dual, weight and Gram finding](#dual-weight-gram-whole-finding) | [C198 trace-order theorem](../../claims/Yin_C_G0198_v1.md#statement) | Only actual full-residual implication J>=2^ceil(r/11); all original hypotheses matched and R480 reused. |
@@ -63,9 +69,9 @@ The reviewed L materials were not edited.
 | [Actual fields and orders finding](#actual-field-order-whole-finding) | [L443 original norm and order interface](../../ledger/Yin_L_G0443_v1.md#actual-low-coordinate-norm-gate) | Complete second section, fixed original-return substitution,2^d/4^d/8^d bounds, J96 limits and all55--59 whole-order constraints. |
 | [Actual fields and orders finding](#actual-field-order-whole-finding) | [L66 exact field domain](../../ledger/Yin_L_G0066_v1.md#reciprocal-trace-domain) | Actual quadratic trace tower and powered-degree hypotheses; no automatic irreducibility or total reality under composition. |
 | [Actual fields and orders finding](#actual-field-order-whole-finding) | [L66 integral quotients](../../ledger/Yin_L_G0066_v1.md#reciprocal-frobenius-two-copy-module) | Monic integral remainder theta_p, actual Z[delta] membership and original phases. |
-| [Actual fields and orders finding](#actual-field-order-whole-finding) | [C188 positive coordinate](../../claims/Yin_C_G0188_v1.md#statement) | Both residual equations and nonzero g give actual H=Q(a,b,c)=Q(a); actual R605 whole finding reused. |
-| [Actual fields and orders finding](#actual-field-order-whole-finding) | [C178 dyadic bounds](../../claims/Yin_C_G0178_v1.md#statement) | Applied in H, integral nonzero coordinates, e_p<=4 bound and even one unramified-prime exclusion; actual R593 scope read. |
-| [Actual fields and orders finding](#actual-field-order-whole-finding) | [C184 unramified-three exclusion](../../claims/Yin_C_G0184_v1.md#singleton-unramified-three-exclusion) | Full residual system in the actual H and one unramified3-prime; actual R602 evidence reused, no wider saturation assertion. |
+| [Actual fields and orders finding](#actual-field-order-whole-finding) | [C188 positive coordinate](../../claims/Yin_C_G0188_v1.md#statement) | Both residual equations and nonzero g give actual H=Q(a,b,c)=Q(a); actual R459 whole finding reused. |
+| [Actual fields and orders finding](#actual-field-order-whole-finding) | [C178 dyadic bounds](../../claims/Yin_C_G0178_v1.md#statement) | Applied in H, integral nonzero coordinates, e_p<=4 bound and even one unramified-prime exclusion; actual R447 scope read. |
+| [Actual fields and orders finding](#actual-field-order-whole-finding) | [C184 unramified-three exclusion](../../claims/Yin_C_G0184_v1.md#singleton-unramified-three-exclusion) | Full residual system in the actual H and one unramified3-prime; actual R456 evidence reused, no wider saturation assertion. |
 | [Actual fields and orders finding](#actual-field-order-whole-finding) | [C153v2 pairwise exclusions](../../claims/Yin_C_G0153_v2.md#argument) | Exact totally real exclusions for the sole-x/sole-f branches, not individual f nonvanishing. |
 | [Actual fields and orders finding](#actual-field-order-whole-finding) | [C155 two-square mechanism](../../claims/Yin_C_G0155_v1.md#argument) | Fixed pair of nonzero integral squares and complete F-norm; its different e=f=0 singleton is not reused. |
 | [Actual fields and orders finding](#actual-field-order-whole-finding) | [C157v2 buffered value](../../claims/Yin_C_G0157_v2.md#original-return) | Exact q=1 value equals2g^2 in the specified residual branch and retains all original phases. |
@@ -188,7 +194,7 @@ None is promoted to a full original-root/Haar transfer, an admissible near-one u
 
 **PASS for the complete mathematical L443 and its extraction, including all fixed-interface substitutions.**
 No mathematical repair, unverified used source extension, unjustified saturation step or substantive preservation loss was found.
-The actual C178/R593, C184/R602 and C188/R605 inputs are reused at their adopted scopes, not assigned a new upstream review by this finding.
+The actual C178/R447, C184/R456 and C188/R459 inputs are reused at their adopted scopes, not assigned a new upstream review by this finding.
 
 For the quartic control, the trace roots and negative discriminant conjugate prove irreducibility and the exact degree-four Salem arrangement with m<log2.
 Reduction by delta_0^2=delta_0+3 gives all three C_p values and a=delta_0, b=2delta_0+2, c=12delta_0+15.

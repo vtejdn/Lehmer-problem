@@ -8,7 +8,7 @@ Human author Yin.
 Internal fixed extraction under the continuing G0001 instruction.
 g0001_routes authored the complete D6 argument and original J91 computation and now authors this registered statement.
 The ENTIRE original author proof/history is retained below.
-Separate noncontributor R355 covers the original whole D6/J91 proof/program/output and an independently authored exact finite reproduction, not this newly registered statement or its extraction interfaces.
+The separate noncontributor original whole finding retained in R795 covers the original whole D6/J91 proof/program/output and an independently authored exact finite reproduction, not this newly registered statement or its extraction interfaces.
 Root will coordinate the actual extraction review and adoption separately.
 
 ## Statement
@@ -220,12 +220,12 @@ The retained historical findings keep their original dates, declared relationshi
 Date: 2026-10-12T10:16.
 The original author now registers this statement and retains the ENTIRE original D6 body after only short front-matter removal, first-title demotion, exact sibling-Claim link rebasing and terminal whitespace normalization.
 Every derivation, finite result, witness, original probability, failed-transfer/asymptotic boundary, source/reuse/contribution note and17:55 freeze remains.
-Historical pending-review and original one-run statements are retained as the author's then-current record; subsequent R355/J91 independent verification is linked above without rewriting that history.
+Historical pending-review and original one-run statements are retained as the author's then-current record; subsequent R795/J91 independently authored finite verification is linked above without rewriting that history.
 
 The native programs and complete data remain in [J91](../computations/programs/Yin_J_G0091/readme.md): author main.py/worker.py/result.json and separately authored verify.py/verification.json.
 No payload was copied or native computation performed during Claim extraction.
-R355 records the actual independent reconstruction of every matched row; the present author does not reclassify that verifier as formally verified or independently reviewed by a third party.
-R355's original proof/native scope and the new statement/interface review remain distinct.
+The original whole finding retained in R795 records the actual independently authored reconstruction of every matched row; the present author does not reclassify that verifier as formally verified or independently reviewed by a third party.
+The original whole finding's proof/native scope in R795 and the new statement/interface review remain distinct.
 
 ## Argument
 
@@ -532,7 +532,7 @@ This bounded inquiry is frozen at its review handoff; no extra mathematical expe
 | date | 2026-10-12T10:16 |
 | status | proof draft |
 | review-status | under review |
-| reason | Register the exact original-law first positive two-parity certificate, complete n6--10 table and actual matched additive witness with every original probability/cost and the entire original proof retained. R355 independently covers the original whole D6/J91 scope and exact finite reproduction only; this new author-written statement/extraction awaits actual noncontributor review. No asymptotic or unrestricted result is inferred. |
+| reason | Register the exact original-law first positive two-parity certificate, complete n6--10 table and actual matched additive witness with every original probability/cost and the entire original proof retained. The original whole finding retained in R795 covers the original D6/J91 scope and exact independently authored finite reproduction only, at its explicitly unknown review relationship; this new author-written statement/extraction awaits actual noncontributor review. No asymptotic or unrestricted result is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

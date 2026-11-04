@@ -17,7 +17,7 @@ Arrangement and context: root and g0001_strategies are the proof contributors.
 This reviewer supplied no candidate, derivation, repair or author check in either part.
 Shared parent context identified the two consecutive constructions and requested independent review.
 Prior reviewer work was status reading and independent reviews of different D3/C40 and D4/C41.
-In the same assignment, the later DIFFERENT D7 proof was fully reviewed first in R333, but is not a premise or substitute for any step of this combined D6 review.
+In the same assignment, the later DIFFERENT D7 proof was fully reviewed first in the [original C43 account retained in R240](Yin_R_G0240_v1.md#chebyshev-damping-whole-finding), but is not a premise or substitute for any step of this combined D6 review.
 The entire D6 including its own self-check was read; no additional proof-generation dialogue or prior D6 review was consulted.
 Backward obligations and all local scalar/packet/limit arguments were independently reconstructed.
 
@@ -26,13 +26,18 @@ C38's exact statement was inspected only for the final explicitly different genu
 The adopted upstream arguments and source scope remain accepted at their recorded depth; no full-source proof audit or new external theorem is claimed.
 No native mathematical program, numerical optimization, symbolic check, J or source acquisition occurred.
 
+The initial entire C42 input included the original and linear-addendum author validation and contribution conclusions beyond the necessary derivations.
+The combined whole finding and the actual and corrected extractions performed by the same reviewer are self-reviewed.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Combined whole finding](#quadratic-linear-damping-whole-finding) | independently reviewed |
-| [C42 actual extraction finding](#c42-quadratic-linear-extraction-finding) | independently reviewed |
-| [C42 v2 corrected extraction finding](#c42-v2-corrected-extraction-finding) | independently reviewed |
+| [Combined whole finding](#quadratic-linear-damping-whole-finding) | self-reviewed |
+| [C42 actual extraction finding](#c42-quadratic-linear-extraction-finding) | self-reviewed |
+| [C42 v2 corrected extraction finding](#c42-v2-corrected-extraction-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -292,7 +297,8 @@ Version1 and its findings remain historical.
 The result is still an explicitly conditional upper-selection corollary attached to proved constructions/necessary inequalities, not G0001completion.
 
 
-Actual corrected-version validation: the verified Python313 runtime checked R241, R333, C42v2 and C43v2 together, exit0 with4objects checked.
+Actual corrected-version validation: the verified Python313 runtime checked the then-named R241, R333, C42v2 and C43v2 together, exit0 with4objects checked.
+The C43 correction/validation account referred to there is now retained in [R240](Yin_R_G0240_v1.md#c43-v2-corrected-extraction-finding); current R333 is a different review.
 
 
 

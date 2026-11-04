@@ -9,7 +9,7 @@ Review act: 2026-10-26T08:07.
 This is a separate initial whole-proof review of fixed [C773 v1](../../claims/Yin_C_G0773_v1.md#statement), its [complete OF2--OF6 argument](../../claims/Yin_C_G0773_v1.md#complete-argument) and the exact [initially open selection](../../claims/Yin_C_G0773_v1.md#decision-source-offset-open).
 The reviewer is outside substantive development of C773 and received no C773 proof-development dialogue, mathematical summary or proposed repair.
 The reviewer had previously read C767 and some shared fixed inputs for a different independent review; their current exact applicability was checked here.
-No D45 or other development draft, C815 candidate, persistent memory or earlier R finding was read for this review.
+No D45 or other development draft, C772 candidate, persistent memory or earlier R finding was read for this review.
 The fixed dependencies' arguments and selected adoption metadata were inspected directly, with their prior adoption summaries visible; their review bodies were not used as a substitute for the present reasoning.
 No substantive repair was proposed or supplied.
 
@@ -191,7 +191,7 @@ No new external theorem or unverified attribution is required by these finite al
 The fixed C767/C768/C769/C770 conclusions are accepted at their adopted scopes, with their relevant complete arguments and consuming interfaces checked here.
 C691/C753/C759 were inspected at the exact low/high source definitions and preservation passages identified above.
 This finding does not claim a new whole re-audit of those larger source constructions or their earlier R findings.
-No source artifact, fixed input, proposed C815 argument or mutable draft was needed beyond this declared chain.
+No source artifact, fixed input, proposed C772 argument or mutable draft was needed beyond this declared chain.
 
 The theorem establishes arbitrary coefficient-four repairability for an exactly counted part of the actual target fiber.
 The original uncorrected height-one equation still requires E_sigma=0, a stronger condition than E_sigma'=0.

@@ -84,7 +84,7 @@ It is not a fixed/growing-measure substitute or a prohibition on other bundles.
 The complete actual signed bundle theorem, full residual construction, both exact failure mechanisms and all original source/native/negative boundaries are retained.
 ABR01 supplies selected classical Poisson METHOD attribution only; all polynomial/reversal/aggregate/arithmetic steps are locally proved.
 Root's original selected pages/proofs/visuals, uninspected upstream source dependencies and no-new-program/no-J facts remain exactly disclosed.
-The original entire22109-byte2026-10-10T10:37 freeze and R2172026-10-10T10:39 whole noncontributor finding remain original inputs, not current C review.
+The original entire22109-byte 2026-10-10T10:37 freeze and [R785 original coherence finding](../audits/reviews/Yin_R_G0785_v1.md#simultaneous-coherence-complete-independent-review) at 2026-10-10T10:39 remain original inputs, not current C review.
 No bounded actual coherence, covered unrestricted class, near-one existence or unrestricted gap is proved.
 
 ## Complete argument
@@ -110,8 +110,6 @@ On the actual projection bundle a complete elementary bound reduces the coeffici
 The resulting estimate still does not give a uniform gap; it supplies a changed finite discriminator and a conditional coverage target stated precisely below.
 
 A bounded local screen of the responsible ledgers, audits and bibliography did not locate this particular Poisson/autocorrelation bundle bound.
-The first shell search supplied wildcard path arguments unsupported by Windows rg and returned no mathematical evidence; corrected directory/glob searches were used.
-Searches also returned unrelated free-Poisson and theta-Poisson records, which are not analytic inputs.
 Root completed one bounded primary-source check for classical disk Poisson representation; Section7 records its exact attribution.
 A self-contained proof in the required polynomial normalization is given below.
 No new mathematical program, numerical experiment, J or class-of-input scan is used.

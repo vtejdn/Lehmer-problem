@@ -516,11 +516,11 @@ Independent full review is still required before adoption.
 
 ### Actual checking and source boundaries
 
-This whole home was checked against the entire original L259 body, R158 and the exact consumed C436/C296/C212/C235/C280 mechanisms, with Nat26's existing formula interface unchanged.
+This whole home was checked against the entire original L259 body, R120 and the exact consumed C436/C296/C212/C235/C280 mechanisms, with Nat26's existing formula interface unchanged.
 The9 triangular quartic pairs and5 fully admitted pairs were checked symbolically in the complete displayed proof, retaining the prefactor2^-6 and both distinct rational losses.
 No mathematical program, J, numerical scan, Gram-pivot producer, other agent's current proof or machine execution is newly claimed.
 The general conclusions follow from the all-real-shift inequality, actual strong limit and exact irreducible residue decomposition, not extrapolation of those finite pairs.
-Original R158 is known SELF because the brief supplied the claimed outcomes before review; its no-contribution and no-author-repair facts remain unchanged at that relationship.
+Original R120 is known SELF because the brief supplied the claimed outcomes before review; its no-contribution and no-author-repair facts remain unchanged at that relationship.
 No external source pages, source proofs or PDF were newly read/acquired, and no existing source unit's date/depth/reader was expanded.
 
 ## Current assessment
@@ -553,7 +553,7 @@ No external source pages, source proofs or PDF were newly read/acquired, and no 
 | --- | --- |
 | date | 2026-10-21T20:22 |
 | status | proved |
-| reason | Adopt after the actual whole C445/R649 SELF check of every original Section1--7/equation1--24, the all-real-shift uniform deficit/nine-term inequality, original-law Schur/disjoint-pair elimination, actual Hardy/all-root T(P) limit and fully paid input-specific onset, one-expanding comparison and both complete quartic/radical controls. Adequate C436/C296/C212/C235/C280 and existing Nat26 statement interfaces were actually compared at their consumed scopes; no numerical/J/producer/source-book proof or Task/E execution is performed. Original R158 is known SELF from its pre-supplied claimed outcomes, without changing old whole verdict, no-contribution or no-repair facts. |
+| reason | Adopt after the actual whole C445/R649 SELF check of every original Section1--7/equation1--24, the all-real-shift uniform deficit/nine-term inequality, original-law Schur/disjoint-pair elimination, actual Hardy/all-root T(P) limit and fully paid input-specific onset, one-expanding comparison and both complete quartic/radical controls. Adequate C436/C296/C212/C235/C280 and existing Nat26 statement interfaces were actually compared at their consumed scopes; no numerical/J/producer/source-book proof or Task/E execution is performed. Original R120 is known SELF from its pre-supplied claimed outcomes, without changing old whole verdict, no-contribution or no-repair facts. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

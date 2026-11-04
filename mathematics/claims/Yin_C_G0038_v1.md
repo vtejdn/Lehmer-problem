@@ -124,7 +124,7 @@ The recorded review description was `under review`.
 | support | [Support](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | Existing exact statement used inside adopted L229, without a new source or proof audit. |
 | support | [Support](../ledger/Yin_L_G0357_v1.md#inverse-symmetric-circle-obstruction) | Only its complete-circle versus two exterior labels factor; no inversion symmetry or unit-only premise is imported. |
 | support | [Support](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Later actual complementary rational-packet cost boundaries, not field-profile covariance or income from a circle average. |
-| review | [Actual independent extraction finding](../audits/reviews/Yin_R_G0790_v1.md#c38-integer-circle-coherence-extraction-finding) | Exact registered statement, selected complete argument, current source/dependency interfaces and preservation; older whole-only findings retain their original scopes. |
+| review | [Actual extraction finding](../audits/reviews/Yin_R_G0790_v1.md#c38-integer-circle-coherence-extraction-finding) | Exact registered statement, selected complete argument, current source/dependency interfaces and preservation; older whole-only findings retain their original scopes. Referenced finding relationship: unknown. |
 
 
 ### Decision current-degree-bound-proof-home
@@ -179,7 +179,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T21:33 |
 | status | proved |
-| reason | Adopt the separately assigned isolated complete mathematical inspection of this actual fixed statement and entire selected argument. Its recorded initial finding preceded all old target verdicts and substantive target-development context was not shared. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
+| reason | Adopt the separately assigned complete mathematical inspection of this actual fixed statement and entire selected argument at its actual SELF relationship. Its recorded initial finding preceded old target verdict comparison, but the initial fixed argument included completed author-validation conclusions beyond the necessary mathematical derivation. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -193,7 +193,7 @@ The recorded review description was `under review`.
 | support | [Support](../audits/literature/Pri11/Yin_U001.md#pri11-u001) | Existing exact statement used inside adopted L229, without a new source or proof audit. |
 | support | [Support](../ledger/Yin_L_G0357_v1.md#inverse-symmetric-circle-obstruction) | Only its complete-circle versus two exterior labels factor; no inversion symmetry or unit-only premise is imported. |
 | support | [Support](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Later actual complementary rational-packet cost boundaries, not field-profile covariance or income from a circle average. |
-| review | [Isolated complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-integer-coherence) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial independent reconstruction precedes old target verdict comparison. |
+| review | [Complete current SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-integer-coherence) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial direct reconstruction precedes old target verdict comparison. |
 
 ## Argument
 

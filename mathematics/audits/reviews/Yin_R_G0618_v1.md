@@ -65,7 +65,7 @@ No persistent memory was used as mathematical evidence or to reconstruct a targe
 | [C4v1 damped polynomial](../../claims/Yin_C_G0004_v1.md#exact-damped-polynomial) | Exact damped roots/open-disk logarithm and exterior correction for C408, without other C4 estimates or reviews. |
 | [C408v1 complete argument](../../claims/Yin_C_G0408_v1.md#argument) | Exact finite-input energy and fourth-delay coefficient used in C409, independently checked by the first finding here; no old PASS is required for this use. |
 | [C399v1 Lehmer algebraic input](../../claims/Yin_C_G0399_v1.md#lehmer-infinite-core-proof) | Only Algebraic input and word conventions through the trace/irreducibility/root-bracket proof for C409; no core theorem, subsequent finite certificate or new J22 audit. |
-| [Dim16-U001](../literature/Dim16/Yin_U001.md#dim16-cyclic-all-index) | Whole existing unit read for C409: reported Baker--Wustholz statement, bounded Weil height, algebraic degree, n>=1 direct specialization and exponent-one guard; original transcendence proof/numerical constant remain external. |
+| [Dim16-U001 source input](../literature/Dim16/Yin_U001.md#dim16-u001) and [preserved C854 project deduction](../../claims/Yin_C_G0854_v1.md#dim16-cyclic-all-index) | The original whole-unit read for C409 covered the reported Baker--Wustholz statement and its bounded-height/algebraic-degree input, together with the n>=1 direct specialization and exponent-one guard now preserved in C854. The original transcendence proof/numerical constant remain external; relocation supplies no new source reading or broader review. |
 | [C345v1 earlier encoding](../../claims/Yin_C_G0345_v1.md#universal-half-degree-delay-encoding) | Entire half-degree encoding subsection for the C410v2 comparison: monic reciprocal irreducible positive-measure degree 2ell>=4, monic coprime nonreciprocal seed and coefficient costs. |
 | [C409v1 special identity](../../claims/Yin_C_G0409_v1.md#plastic-lehmer-resultant-reduction) | Numerator 2zL/normalized G_f=zL in the C410v2 comparison, independently covered by the second finding; not a premise of general existence/nonzero proof. |
 
@@ -213,8 +213,10 @@ No substantive defect was found in the whole nonlinear theorem or current compar
 
 All four original programs, both J readmes and all retained JSON reports were read completely.
 The J30 evidence separates exact field reduction, 32 moment enclosures, 16 dyadic products and the single actual P129 control.
-The run on 2026-10-22 used the existing .venv Python with -B, the original parameters and one execution of each program, under bounded review authorization.
-The precise execution minute was not captured; the day/timezone and ordering before this record are known, and no finer time is invented.
+The retained execution account dates the run 2026-10-22 without identifying whether that day is UTC or local.
+It used the existing .venv Python with -B, the original parameters and one execution of each program, under bounded review authorization.
+A precise execution minute and timezone were not captured in this account.
+The relation of that date to this record's 2026-10-21T18:47 timestamp is therefore unestablished here; no new run or finer checking minute is inferred.
 
 | Program and saved report | Original scope | Recursive field comparison |
 | --- | --- | --- |

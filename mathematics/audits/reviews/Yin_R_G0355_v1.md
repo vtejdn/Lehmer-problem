@@ -204,7 +204,7 @@ Conversely the review makes no claim about near-one coverage, uniform log-cost i
 AFTER the preceding complete review was registered, root identified the actual adopted L326 H4 counterexample during its current-consumer check and separately asked this reviewer to inspect it.
 L326 was not read before the original finding; the earlier review's broad source-completeness/no-correction statement must not be retroactively represented as having covered it.
 The reviewer now read L326's actual current adopted scope, complete degree20 theorem and costs, full finite-family table and explicit extrapolation limits.
-It also read the retained R225 whole-review/independent-native account to delimit the already accepted evidence, without executing or newly reproducing J79.
+It also read the retained R151 whole-review/independent-native account to delimit the already accepted evidence, without executing or newly reproducing J79.
 After that comparison, the ACTUAL19:50 dated correction in C143 at #prior-h4-status-and-new-growth-scope was read and checked as described below.
 
 L326 already adopted on2026-10-10 the ACTUAL monic irreducible reciprocal nontorsion degree20 polynomial

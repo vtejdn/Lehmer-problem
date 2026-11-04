@@ -358,7 +358,7 @@ The Teichmuller root used here requires only the same simple-root lifting for X^
 The explicit scalar certificate uses [C244](Yin_C_G0244_v1.md#cyclic-prime-power-norm-floor); its needed cube and complex bounds were reproduced in full.
 Hir06 is classical sequence-form attribution only, at its already inspected passage, not a new root-theorem premise.
 C22/C41/C122, L65's depth warning, C71 and C130 are exact comparisons rather than substitutes for the new all-depth argument.
-C135 was initially a fixed candidate; its actual v2 selected whole-reviewed decision and R490 were subsequently read and confirmed.
+C135 was initially a fixed candidate; its actual v2 selected whole-reviewed decision and [R798 original binary-annihilator-v2](../audits/reviews/Yin_R_G0798_v1.md#binary-annihilator-v2-whole-independent-finding) were subsequently read and confirmed.
 No C135 theorem is needed in(1)--(17).
 
 All new calculations in this original are by f_unitary_scope.
@@ -418,7 +418,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T10:41 |
 | status | proved |
-| reason | Adopt actual R491 whole noncontributor review: genuine original-degree Salem inputs exhibit all-depth failure at specified good prime5 and positive original cyclic income at3. Measures tend to log3; automatic near-one coverage and G0001 remain unresolved. |
+| reason | Adopt actual [R798 original Salem-involution](../audits/reviews/Yin_R_G0798_v1.md#salem-involution-whole-independent-finding) whole noncontributor review: genuine original-degree Salem inputs exhibit all-depth failure at specified good prime5 and positive original cyclic income at3. Measures tend to log3; automatic near-one coverage and G0001 remain unresolved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

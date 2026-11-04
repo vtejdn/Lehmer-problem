@@ -9,7 +9,7 @@ Root separately assigned loglog_cyclic_review to inspect the complete J106 proto
 Entropy_attainment_bridge authored the analytic construction and author program, with root's operator direction and resource-guard correction.
 This reviewer supplied no proof repair or author-program mathematical edit.
 It authored and executed only the separate verifier, whose reconstruction is evidence here rather than an independently audited external engine.
-The actual C170 statement and whole proof have the separate R556 analytic finding; no finite numerical output was a premise of that theorem.
+The actual C170 statement and whole proof have the separate [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) analytic finding; no finite numerical output was a premise of that theorem.
 
 The arrangement is non-blind.
 The complete analytic candidate was prechecked, the verifier's independent mathematical core was written before the author source was available, and the final author source/public schema was then read to bind exact comparisons.
@@ -133,7 +133,7 @@ A comment/prose update after verification reports the completed run; the execute
 
 ### Evidence and source boundary
 
-The full analytic proof and its accepted input interfaces are covered separately by R556.
+The full analytic proof and its accepted input interfaces are covered separately by [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding).
 This review checks their actual implementation and every finite output, rather than treating the saved author certificates or executable assertions as their own oracle.
 The implementations share Python's exact arithmetic runtime and operating system, with independently written mathematical paths and no author helper import.
 No floating approximation, generic eigensolver, formal proof, original external-source audit or untested graph classification is claimed.

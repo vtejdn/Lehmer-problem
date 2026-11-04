@@ -13,7 +13,7 @@ This actual finding is therefore self-reviewed under the shared-context rule; th
 The original date, exact inputs, mathematical findings and binding scopes remain unchanged, with no new review performed.
 Root supplied the broad question, relayed averaged_lcm's pre-existing moment idea and requested scope clarity; it supplied no third-moment derivation, deletion argument, polynomial realization or repair.
 Root previously authored the C96 statement wrapper, whose independently reviewed original pair argument supplies credited METHOD ancestry, not the new triple theorem.
-R443/R445 retain that upstream scope.
+R332/R334 retain that upstream scope.
 Root is not a contributor to the new C98 mathematics or wrapper; original whole R335 is reused only for its inspected original, not prospective extraction coverage.
 
 ## Review relationships

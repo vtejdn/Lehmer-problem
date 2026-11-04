@@ -27,13 +27,18 @@ No native mathematical program, symbolic experiment, solver, approximation run, 
 File allocation and scoped checking are operational only.
 This review records the proof and its source boundaries, not a novelty judgment or a numerical certificate.
 
+The initial entire C43 input included its author construction/cost/validation checklist and contribution conclusions beyond the necessary proof.
+The whole finding and the actual and corrected extractions performed by the same reviewer retain that supplied mathematical context and are self-reviewed.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Entire Chebyshev finding](#chebyshev-damping-whole-finding) | independently reviewed |
-| [C43 actual extraction finding](#c43-chebyshev-damping-extraction-finding) | independently reviewed |
-| [C43 v2 corrected extraction finding](#c43-v2-corrected-extraction-finding) | independently reviewed |
+| [Entire Chebyshev finding](#chebyshev-damping-whole-finding) | self-reviewed |
+| [C43 actual extraction finding](#c43-chebyshev-damping-extraction-finding) | self-reviewed |
+| [C43 v2 corrected extraction finding](#c43-v2-corrected-extraction-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -270,7 +275,7 @@ Coefficient means, bounded denominators/bit complexity, an optimizer and an unre
 The complete retained author body again compares EXACTLY to still-present D7 after only newline/front-matter/first-title/edge-whitespace normalization and the ONE declared D6 comparison locator replacement by C42v1's SAME combined-author-freeze anchor.
 Both bodies are25,588characters.
 The target remains C42v1 intentionally: this is preserved author history/comparison, not use of its conditional statement as a proof dependency.
-The full original freeze body is independently checked through R334 and its matching preservation; the unresolved historicalv1wrapper issue is not imported as a premise.
+The full original freeze body is checked through the original whole finding retained in R241 and its matching preservation; the unresolved historicalv1wrapper issue is not imported as a premise.
 The NEW v2correction prefix and registration-operation text lie outside the preserved original body and were read separately.
 
 C37, C34, C10 and QZ19 remain the same exact four selected dependencies.
@@ -284,7 +289,8 @@ It supports root's proved/independently-reviewed adoption of v2 ONLY, with oldv1
 G0001 and the sufficient uniform upper-selection question remain unresolved.
 
 
-Actual corrected-version validation: verified Python313 `scripts/material.py check` on R334/R240/C42v2/C43v2 completed exit0 with4objects checked.
+Actual corrected-version validation: verified Python313 `scripts/material.py check` on the then-named R334/R240/C42v2/C43v2 completed exit0 with4objects checked.
+The C42 whole-freeze finding named R334 in that invocation is now retained in R241; the command fact does not identify current R334 as that mathematical object.
 
 
 

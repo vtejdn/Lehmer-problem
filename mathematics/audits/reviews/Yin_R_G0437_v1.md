@@ -11,7 +11,7 @@ The review is nonblind: the author messages and complete D48 body were available
 The final author version dated2026-10-18T17:41 was read, and its entire mathematical body was preserved in L425 without alteration.
 The only requested wording adjustment before freezing replaced unconditional-in-n by uniform-in-n, without changing the return-conditioned law or a formula.
 
-Root contributed to upstream C170 and L410, whose independent R556/R560 scopes are reused; root previously reviewed L414 and L417 in R569/R573 without authoring their constructions.
+Root contributed to upstream C170 and L409, whose independent [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding)/R414 scopes are reused; root previously reviewed L414 and L417 in R423/R427 without authoring their constructions.
 Those relationships are disclosed and no recursive independent audit of the accepted original core or path theorem is claimed.
 This finding checks all eleven formulas, six input rows, complete original-law interfaces and every stated negative/conditional boundary.
 No native computation, carry-length scan, new source theorem or manuscript audit was performed.

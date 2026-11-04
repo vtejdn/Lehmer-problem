@@ -15,7 +15,7 @@ No native mathematical program or J is involved.
 ## Responsible question and bounded reuse
 
 Can the complete C147 cyclic norm have a numerically explicit square-root estimate with a paid logarithmic loss, instead of the parameter-dependent constants of C147v3?
-Read the actual adopted finite C147v2 formula, the whole C147v3 and its R507, the accepted Smy08-U001 and L80 house consequence, and C134's source-reading paragraph and equation(18).
+Read the actual adopted finite C147v2 formula, the whole C147v3 and its R363, the accepted Smy08-U001 and L80 house consequence, and C134's source-reading paragraph and equation(18).
 The bounded C147/draft searches found no already fixed explicit endpoint with the logarithmic power below.
 This is not a global novelty claim.
 
@@ -215,7 +215,7 @@ The recorded review description was `under review`.
 | argument | [Whole endpoint proof](#argument) | Entire five proof sections and thirteen formulas, actual-degree split, small-degree guard, every analytic fee, finite inverse and source limits. |
 | dependency | [Finite planar energy bound](Yin_C_G0147_v2.md#statement) | ONLY finite equation(1), with actual powered degree, complete original norm and every positive regularization radius. |
 | dependency | [Previously accepted quantitative conversion](Yin_C_G0134_v1.md#two-node-degree-and-inverse-measure-scales) | ONLY equation(18)'s accepted general external Dobrowolski input and total-measure conversion for actual degree>=exp(e), not the main Salem construction or theorem. |
-| dependency | [Accepted source scope](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | General nontorsion algebraic-integer benchmark reported at equation(11), actual retained edition and statement/applicability limits; exact numerical reading also retained in C134/R488. No use of the defective resultant explanation. |
+| dependency | [Accepted source scope](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | General nontorsion algebraic-integer benchmark reported at equation(11), actual retained edition and statement/applicability limits; exact numerical reading also retained in C134/[R798 original two-node](../audits/reviews/Yin_R_G0798_v1.md#two-node-whole-independent-finding). No use of the defective resultant explanation. |
 | dependency | [House consequence](../ledger/Yin_L_G0080_v1.md#degree-only-primitive-escape) | ONLY equation(1), m(beta)>=c/N at actual degreeN>=2, used solely to exclude smallN in the new height domain. |
 | support | [Earlier parameter family](Yin_C_G0147_v3.md#statement) | Comparison with each fixed source parameter; no AM16 input is used to prove the numerical endpoint. |
 | support | [Earlier quantitative source review](../audits/reviews/Yin_R_G0798_v1.md#two-node-whole-independent-finding) | Actual precise source reading and conversion scope for C134, not review of the new argument. |
@@ -236,8 +236,8 @@ The recorded review description was `independently reviewed`.
 | argument | [Whole endpoint proof](#argument) | Entire five proof sections and thirteen formulas, actual-degree split, small-degree guard, every analytic fee, finite inverse and source limits. |
 | dependency | [Finite planar energy bound](Yin_C_G0147_v2.md#statement) | ONLY finite equation(1), with actual powered degree, complete original norm and every positive regularization radius. |
 | dependency | [Previously accepted quantitative conversion](Yin_C_G0134_v1.md#two-node-degree-and-inverse-measure-scales) | ONLY equation(18)'s accepted general external Dobrowolski input and total-measure conversion for actual degree>=exp(e), not the main Salem construction or theorem. |
-| dependency | [Accepted source scope](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | General nontorsion algebraic-integer benchmark reported at equation(11), actual retained edition and statement/applicability limits; exact numerical reading also retained in C134/R488. No use of the defective resultant explanation. |
+| dependency | [Accepted source scope](../audits/literature/Smy08/Yin_U001.md#smy08-u001) | General nontorsion algebraic-integer benchmark reported at equation(11), actual retained edition and statement/applicability limits; exact numerical reading also retained in C134/[R798 original two-node](../audits/reviews/Yin_R_G0798_v1.md#two-node-whole-independent-finding). No use of the defective resultant explanation. |
 | dependency | [House consequence](../ledger/Yin_L_G0080_v1.md#degree-only-primitive-escape) | ONLY equation(1), m(beta)>=c/N at actual degreeN>=2, used solely to exclude smallN in the new height domain. |
 | support | [Earlier parameter family](Yin_C_G0147_v3.md#statement) | Comparison with each fixed source parameter; no AM16 input is used to prove the numerical endpoint. |
 | support | [Earlier quantitative source review](../audits/reviews/Yin_R_G0798_v1.md#two-node-whole-independent-finding) | Actual precise source reading and conversion scope for C134, not review of the new argument. |
-| review | [Actual whole independent finding](../audits/reviews/Yin_R_G0364_v1.md#explicit-square-root-cyclic-whole-independent-finding) | Whole five sections/thirteen formulas, all actual input and finite inverse scopes, source-reading/contribution boundaries and exact comparisons. |
+| review | [Actual whole finding](../audits/reviews/Yin_R_G0364_v1.md#explicit-square-root-cyclic-whole-independent-finding) | Whole five sections/thirteen formulas, all actual input and finite inverse scopes, source-reading/contribution boundaries and exact comparisons. Finding relationship: self-reviewed. |

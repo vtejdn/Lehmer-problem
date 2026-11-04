@@ -3,11 +3,11 @@ author: Yin
 ---
 # Actual trace quotient fields and orders: controls and stronger coordinate-class income
 
-The complete current statement and necessary original argument are adopted in [C_G0605_v2](../claims/Yin_C_G0586_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g444-complete-self-finding).
+The complete current statement and necessary original argument are adopted in [C586_v2](../claims/Yin_C_G0586_v2.md#decision-complete-current-self-adoption), with [actual whole constructor SELF review](../audits/reviews/Yin_R_G0761_v1.md#current-g444-complete-self-finding).
 Every original physical-version mathematical domain, contribution, source/native boundary, useful failure and historical review scope remains below.
 
 
-Original mathematical dates: 2026-10-20T11:17 and2026-10-20T11:32.
+Original mathematical dates: 2026-10-20T11:17 and 2026-10-20T11:32.
 Fixed content extraction: 2026-10-20T15:52.
 Human author Yin.
 The draft_inventory_later agent supplied these original field, order, composition and norm-tower comparisons under root's questions, and contributed to the earlier C188 first projection.
@@ -306,7 +306,7 @@ For the full residual system one may form the exact coordinate polynomial
 where M_a is the ACTUAL monic minimal polynomial of a.
 The exponent in(59) is its full embedding fiber, not an assumption that a generates F.
 C188 permits applying the local residual bounds in Q(a) once(56) also holds, but it does not control the degree or ramification of that field.
-At the original19:32 stage, the sought arithmetic step was to show that the coupled original equations(55)--(58), with the Salem root distribution, force a good prime or another sufficient norm constraint in the actual field of M_a.
+At the original 2026-10-20T11:32 stage, the sought arithmetic step was to show that the coupled original equations(55)--(58), with the Salem root distribution, force a good prime or another sufficient norm constraint in the actual field of M_a.
 The already known monogenic and maximal-order distinctions prevent deducing that result just from an unproved saturation of the displayed coordinate order.
 No such implication, and no general impossibility of actual Salem f=0, was established in that bounded round.
 The later C191v2 theorem now supplies the full original arithmetic gate without this small-coordinate condition; that later theorem is not represented as a premise or accomplishment of the earlier round.

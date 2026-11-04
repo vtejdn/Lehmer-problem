@@ -24,11 +24,15 @@ Starting status: author-complete/self-checked, awaiting independent whole review
 The target was not edited and no author-repair cycle was needed.
 Later registered statement, extraction, adoption and retirement remain root's separate work.
 
+The initial complete C47 input included its outcome and author validation checklist beyond the necessary derivation.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole finding](#retained-scalar-width-whole-finding) | independently reviewed |
+| [Whole finding](#retained-scalar-width-whole-finding) | self-reviewed |
 
 ## Review bindings
 

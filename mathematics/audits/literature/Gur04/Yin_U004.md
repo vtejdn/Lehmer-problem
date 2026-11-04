@@ -67,7 +67,7 @@ Their positive loci differ without the [ERP promise](Yin_U001.md#edmonds-rado-pr
 
 ### Reconstruction and checked constants
 
-Gaussian polar integration gives \(\mathbb E(g^r\overline g^{,s})=\delta_{r,s}r!\); independence proves the polynomial norm identity.
+Gaussian polar integration gives \(\mathbb E(g^r\overline g^{s})=\delta_{r,s}r!\); independence proves the polynomial norm identity.
 For a multi-index \(r\), let \(A[r]\) contain \(r_i\) copies of \(A_i\).
 Determinant polarization gives \(a_r=D(A[r])/\prod_i r_i!\).
 Expanding the Choi blocks in the definition of QP and the alternating determinant sums gives Appendix A's \(A.6\),

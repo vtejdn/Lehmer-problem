@@ -60,7 +60,7 @@ They supplied no new target formula, construction or substantive proof step beyo
 Their source/reuse/date facts were not used to infer the theorem.
 
 My own initial full mathematical PASS and decisive derivations were recorded in a message at the actual local minute 2026-10-21T23:11.
-Only afterward did I read the entire old R167 finding, the entire R831 material, C475's later checking/assessment sections, L268's retained original author proof/self-check, original Par88-U001v1 and the selected Par88/CRW08 source information.
+Only afterward did I read the entire old R167 finding, the entire R684 material, C475's later checking/assessment sections, L268's retained original author proof/self-check, original Par88-U001v1 and the selected Par88/CRW08 source information.
 The old PASS therefore supplied no starting verdict or missing proof step.
 The present finding is independently reviewed because this is a distinct agent outside target proof development, with no inherited/shared substantive development context.
 The judgment follows the actual fixed-input content and order above, without claiming zero exposure to all target-related source prose.
@@ -214,7 +214,7 @@ C459's single-corner perturbation estimate needs control of its other entries an
 Disjoint length-n_A chronological blocks have density at most 1/n_A.
 Even an independently established bounded log saving per such block would retain that divisor and the finite onset.
 Equations (7)-(19) establish no such saving by themselves.
-The separately proved C473 arbitrary-coupling result remains outside the adopted implication here; no cross-application was proved or used in this review.
+The separately proved C469 arbitrary-coupling result remains outside the adopted implication here; no cross-application was proved or used in this review.
 D132-D134 reports are not premises.
 No improved complete scalar cost, unrestricted near-one coverage, entropy floor, Mahler gap or Task completion follows.
 No Task/E execution was selected or resumed.
@@ -273,7 +273,7 @@ That original SELF remains SELF at its actual day precision.
 R167 identifies the inspected author body as 2026-10-10T01:52 and records its own whole-review completion at 2026-10-10T01:55.
 Neither time is treated as the precise original author-self-check or source-reading minute.
 
-The entire current R831 was also read after the first judgment.
+The entire current R684 was also read after the first judgment.
 Its whole current 06:55 finding and separate original-author finding remain their recorded SELF relationships.
 Agreement with them was a subsequent comparison, not the premise for this independent judgment.
 The old no-correction/PASS verdict, complete source/control/negative scope and author/review dates are preserved as historical facts without a retrospective relationship change.

@@ -4,13 +4,17 @@ author: Yin
 
 # Summable central-mode energy charges on actual zero-defect gaps
 
+Current checking scope is owned by [R44](../audits/reviews/Yin_R_G0044_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Direct bounded G0001 derivation by the assigned execution_and_deliverables AI for Yin.
 The coordinator requested actual realizability information beyond a support count and the empty-collar condition.
 The coordinator and entropy_status AI investigated the exact P/(t-beta) boundary flux in parallel and checked its normalization.
 This branch derives a finite filtered Gramian inequality and the coupled weighted-variance charge below.
 No mathematical computation, optimization or source acquisition has been executed.
-The complete written proof received the independent review recorded below.
+The complete written proof received the recorded checks below, at the responsible findings' actual relationships.
 
 The used fixed interfaces are the [finite-cluster proof](Yin_L_G0135_v1.md#explicit-finite-energy-coercivity-radius), the [exact sparse threshold search](Yin_L_G0136_v1.md#sparse-energy-threshold-decision), the [actual long-window control](Yin_L_G0137_v1.md#actual-salem-bounded-energy-window), and the [all-central norm and abstract collar boundary](Yin_L_G0138_v1.md#all-central-coercivity-radius).
 The inequalities below are derived directly for the actual finite recurrence.

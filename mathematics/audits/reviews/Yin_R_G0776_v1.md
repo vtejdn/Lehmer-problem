@@ -16,7 +16,7 @@ The fixed mathematical inputs naturally contain source attributions, original au
 No mathematical-input filter, copied transcript or automatic context classifier was constructed.
 
 The initial inputs were C549's entire Statement and both original arguments; C555, C557, C558, C561, C562 and C567's entire Statements and original arguments; and C571 and C577's entire Statements and both original argument chains.
-Necessary actual interfaces were read directly in C2, C244, C368, C375, C394, C423, C436, C440, C483, C497, C509v2, C523, C528, C534, C543, C558, C559, C560 and C587, the original L232 strict-diagonal/maximum interface and L240 whole convolution criterion, and the accepted Smy08-U001 Dim19v1 statement.
+Necessary actual interfaces were read directly in C2, C244, C368, C375, C391, C423, C432, C436, C483, C493, C505v2, C523, C528, C526, C543, C558, C546, C560 and C570, the original L232 strict-diagonal/maximum interface and L240 whole convolution criterion, and the accepted Smy08-U001 Dim19v1 statement.
 This was an applicability and required mathematical-interface review, not a new audit of every upstream proof or original external paper.
 ODo07 supplies the accepted normalized classical Boolean input through the locally proved disclosure argument; Hir06 is an attribution/comparison for the cycle family; Pri11 remains the accepted input of the fixed cyclic theorem.
 No source-wide proof audit, new literature search, priority claim, formal verification or human review is asserted.
@@ -29,7 +29,7 @@ No new proof repair was needed or contributed.
 
 After all nine initial findings, the old findings were compared at their actual complete scopes.
 The necessary original UNKNOWN accounts below retain their original anchors, complete finding bodies, actual dates, original table rows where present, contribution disclosures, negative findings, source depth and execution limits.
-R125/R129 had no relationship/binding tables: none is retrospectively supplied for those old acts.
+The original [R125](#integral-realization-complete-independent-review) and [R129](#companion-cost-complete-independent-review) accounts had no relationship/binding tables: none is retrospectively supplied for those old acts.
 Their prose records noncontribution and shared progress reports but does not establish isolated initial mathematical context; this missing historical arrangement remains unestablished.
 The existing known SELF findings in R195 and R885/R893/R897/R899/R903/R905 remain at their adequate responsible homes and are not reclassified by this review.
 The older accounts' descriptions of project activity and their original independent terminology are dated historical statements, not current research authorization or new evidence of isolation.
@@ -38,15 +38,15 @@ The older accounts' descriptions of project activity and their original independ
 
 | Review | Relationship |
 | --- | --- |
-| [Current C562 whole finding](#current-integral-rank-and-companion) | independently reviewed |
-| [Current C568 whole finding](#current-dyadic-overlap) | independently reviewed |
-| [Current C571 whole finding](#current-critical-delay) | independently reviewed |
-| [Current C572 whole finding](#current-balanced-radical-tail) | independently reviewed |
-| [Current C577 whole finding](#current-quadratic-profile) | independently reviewed |
-| [Current C578 whole finding](#current-nonlinear-entropy-tail) | independently reviewed |
-| [Current C584 whole finding](#current-unit-cycle-leaf) | independently reviewed |
-| [Current C588 whole finding](#current-anti-columns-orders-and-edges) | independently reviewed |
-| [Current C595 whole finding](#current-disclosure-and-all-repeat) | independently reviewed |
+| [Current C549 whole finding](#current-integral-rank-and-companion) | independently reviewed |
+| [Current C555 whole finding](#current-dyadic-overlap) | independently reviewed |
+| [Current C557 whole finding](#current-critical-delay) | independently reviewed |
+| [Current C558 whole finding](#current-balanced-radical-tail) | independently reviewed |
+| [Current C561 whole finding](#current-quadratic-profile) | independently reviewed |
+| [Current C562 whole finding](#current-nonlinear-entropy-tail) | independently reviewed |
+| [Current C567 whole finding](#current-unit-cycle-leaf) | independently reviewed |
+| [Current C571 whole finding](#current-anti-columns-orders-and-edges) | independently reviewed |
+| [Current C577 whole finding](#current-disclosure-and-all-repeat) | independently reviewed |
 | [Original complete finding](#doubling-overlap-complete-independent-review) | unknown |
 | [Original entire finding](#short-relation-profile-complete-independent-review) | unknown |
 | [Original complete finding](#critical-delay-complete-independent-review) | unknown |
@@ -62,24 +62,24 @@ The older accounts' descriptions of project activity and their original independ
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Current C562 whole finding](#current-integral-rank-and-companion) | [Complete statement](../../claims/Yin_C_G0549_v1.md#statement) | Both complete fixed-input realization and universal companion-cost statements, general parity/mutation domains, all factors, finite histories and nonoptimality limits. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C562 whole finding](#current-integral-rank-and-companion) | [Complete argument](../../claims/Yin_C_G0549_v1.md#argument) | Entire rank-seven realization argument and companion-cost continuation, including original L226 Sections1--8/(1)--(15) and L230 Sections1--4/(1)--(15), every displayed matrix and complete cover/root proof. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C568 whole finding](#current-dyadic-overlap) | [Complete statement](../../claims/Yin_C_G0555_v1.md#statement) | Entire actual-algebraic-integer overlap identities, unit-only finite remainder, exact dyadic identity, eventual-bound implications, genuine golden radicals and all negative attainment limits. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C568 whole finding](#current-dyadic-overlap) | [Complete argument](../../claims/Yin_C_G0555_v1.md#argument) | Complete original Sections1--6/equations1--18, full counting-core remainder, chronological radical products, golden full series, two corrected domains and all costs. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C571 whole finding](#current-critical-delay) | [Complete statement](../../claims/Yin_C_G0557_v1.md#statement) | Entire critical-prefix, recurrent mean/moment, tiny-total-measure gate and distinct finite-peak statement at every stated quantifier. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C571 whole finding](#current-critical-delay) | [Complete argument](../../claims/Yin_C_G0557_v1.md#argument) | Complete original Sections1--6/equations1--22, convex endpoint estimates, accepted Dim19v1 interface, full dyadic expense and conditional maximum/convolution consequences. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C572 whole finding](#current-balanced-radical-tail) | [Complete statement](../../claims/Yin_C_G0558_v1.md#statement) | Entire balanced-tail and genuine-radical identities, both parity formulas, quartic towers, mean branches and exponent-gcd normalization limits. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C572 whole finding](#current-balanced-radical-tail) | [Complete argument](../../claims/Yin_C_G0558_v1.md#argument) | Complete original Sections1--7/equations1--21, exact all-residue chronology, both inequalities/suprema, irreducibility and actual-core/recurrence/attainment interfaces. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C577 whole finding](#current-quadratic-profile) | [Complete statement](../../claims/Yin_C_G0561_v1.md#statement) | Entire all-coefficient irreducible-quadratic profile, every B<=4/composed B<=4q window, prefixes, nonunits and full finite-tail costs. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C577 whole finding](#current-quadratic-profile) | [Complete argument](../../claims/Yin_C_G0561_v1.md#argument) | Complete coefficient/sign exhaustion, short-kernel comparison, twelve residual exact certificates, all actual/composed transfers and complete real-tail estimate. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C578 whole finding](#current-nonlinear-entropy-tail) | [Complete statement](../../claims/Yin_C_G0562_v1.md#statement) | Entire original-map absolute entropy and exact nonlinear envelope, singular cases, full real-tail expense and asymptotic negative boundaries. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C578 whole finding](#current-nonlinear-entropy-tail) | [Complete argument](../../claims/Yin_C_G0562_v1.md#argument) | Complete original Sections1--5/equations1--12, conditional relative entropy, singular optimization, crossover, ordered completion, translated lattice bound and full-root costs. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C584 whole finding](#current-unit-cycle-leaf) | [Complete statement](../../claims/Yin_C_G0567_v1.md#statement) | Entire actual unit signed-cycle/leaf family, all a boundary/root cases, fixed limit, full costs and positive-factor degree claims. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C584 whole finding](#current-unit-cycle-leaf) | [Complete argument](../../claims/Yin_C_G0567_v1.md#argument) | Complete original Sections1--7/equations1--15, literal matrices, determinant identities, Gram root count, all-index motion, resultant degree and a=5 exact certificate. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C588 whole finding](#current-anti-columns-orders-and-edges) | [Complete statement](../../claims/Yin_C_G0571_v1.md#statement) | Entire actual anti-column object and primitive-order/signed-edge continuation, every nonzero/torsion/content/prime/radial qualification. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C588 whole finding](#current-anti-columns-orders-and-edges) | [Complete argument](../../claims/Yin_C_G0571_v1.md#argument) | Both complete argument chains: original L296 Sections1--8/equations1--20 and L300 Sections1--7/equations1--21 plus E_n consequence, including all actual controls and source limits. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C595 whole finding](#current-disclosure-and-all-repeat) | [Complete statement](../../claims/Yin_C_G0577_v1.md#statement) | Entire coordinate-disclosure/leverage profile and higher-interaction/all-repeat object, every sufficient-test, counterexample, singular and torsion domain. Initial whole review2026-10-22T20:49 UTC. |
-| [Current C595 whole finding](#current-disclosure-and-all-repeat) | [Complete argument](../../claims/Yin_C_G0577_v1.md#argument) | Both complete original chains: L302 Sections1--5/equations1--16 and L306 Sections1--6/equations1--11, all paid finite-tail terms, exact binomial arguments, scope clarification and four finite J78 domains. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C549 whole finding](#current-integral-rank-and-companion) | [Complete statement](../../claims/Yin_C_G0549_v1.md#statement) | Both complete fixed-input realization and universal companion-cost statements, general parity/mutation domains, all factors, finite histories and nonoptimality limits. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C549 whole finding](#current-integral-rank-and-companion) | [Complete argument](../../claims/Yin_C_G0549_v1.md#argument) | Entire rank-seven realization argument and companion-cost continuation, including original L226 Sections1--8/(1)--(15) and L230 Sections1--4/(1)--(15), every displayed matrix and complete cover/root proof. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C555 whole finding](#current-dyadic-overlap) | [Complete statement](../../claims/Yin_C_G0555_v1.md#statement) | Entire actual-algebraic-integer overlap identities, unit-only finite remainder, exact dyadic identity, eventual-bound implications, genuine golden radicals and all negative attainment limits. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C555 whole finding](#current-dyadic-overlap) | [Complete argument](../../claims/Yin_C_G0555_v1.md#argument) | Complete original Sections1--6/equations1--18, full counting-core remainder, chronological radical products, golden full series, two corrected domains and all costs. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C557 whole finding](#current-critical-delay) | [Complete statement](../../claims/Yin_C_G0557_v1.md#statement) | Entire critical-prefix, recurrent mean/moment, tiny-total-measure gate and distinct finite-peak statement at every stated quantifier. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C557 whole finding](#current-critical-delay) | [Complete argument](../../claims/Yin_C_G0557_v1.md#argument) | Complete original Sections1--6/equations1--22, convex endpoint estimates, accepted Dim19v1 interface, full dyadic expense and conditional maximum/convolution consequences. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C558 whole finding](#current-balanced-radical-tail) | [Complete statement](../../claims/Yin_C_G0558_v1.md#statement) | Entire balanced-tail and genuine-radical identities, both parity formulas, quartic towers, mean branches and exponent-gcd normalization limits. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C558 whole finding](#current-balanced-radical-tail) | [Complete argument](../../claims/Yin_C_G0558_v1.md#argument) | Complete original Sections1--7/equations1--21, exact all-residue chronology, both inequalities/suprema, irreducibility and actual-core/recurrence/attainment interfaces. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C561 whole finding](#current-quadratic-profile) | [Complete statement](../../claims/Yin_C_G0561_v1.md#statement) | Entire all-coefficient irreducible-quadratic profile, every B<=4/composed B<=4q window, prefixes, nonunits and full finite-tail costs. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C561 whole finding](#current-quadratic-profile) | [Complete argument](../../claims/Yin_C_G0561_v1.md#argument) | Complete coefficient/sign exhaustion, short-kernel comparison, twelve residual exact certificates, all actual/composed transfers and complete real-tail estimate. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C562 whole finding](#current-nonlinear-entropy-tail) | [Complete statement](../../claims/Yin_C_G0562_v1.md#statement) | Entire original-map absolute entropy and exact nonlinear envelope, singular cases, full real-tail expense and asymptotic negative boundaries. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C562 whole finding](#current-nonlinear-entropy-tail) | [Complete argument](../../claims/Yin_C_G0562_v1.md#argument) | Complete original Sections1--5/equations1--12, conditional relative entropy, singular optimization, crossover, ordered completion, translated lattice bound and full-root costs. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C567 whole finding](#current-unit-cycle-leaf) | [Complete statement](../../claims/Yin_C_G0567_v1.md#statement) | Entire actual unit signed-cycle/leaf family, all a boundary/root cases, fixed limit, full costs and positive-factor degree claims. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C567 whole finding](#current-unit-cycle-leaf) | [Complete argument](../../claims/Yin_C_G0567_v1.md#argument) | Complete original Sections1--7/equations1--15, literal matrices, determinant identities, Gram root count, all-index motion, resultant degree and a=5 exact certificate. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C571 whole finding](#current-anti-columns-orders-and-edges) | [Complete statement](../../claims/Yin_C_G0571_v1.md#statement) | Entire actual anti-column object and primitive-order/signed-edge continuation, every nonzero/torsion/content/prime/radial qualification. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C571 whole finding](#current-anti-columns-orders-and-edges) | [Complete argument](../../claims/Yin_C_G0571_v1.md#argument) | Both complete argument chains: original L296 Sections1--8/equations1--20 and L300 Sections1--7/equations1--21 plus E_n consequence, including all actual controls and source limits. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C577 whole finding](#current-disclosure-and-all-repeat) | [Complete statement](../../claims/Yin_C_G0577_v1.md#statement) | Entire coordinate-disclosure/leverage profile and higher-interaction/all-repeat object, every sufficient-test, counterexample, singular and torsion domain. Initial whole review2026-10-22T20:49 UTC. |
+| [Current C577 whole finding](#current-disclosure-and-all-repeat) | [Complete argument](../../claims/Yin_C_G0577_v1.md#argument) | Both complete original chains: L302 Sections1--5/equations1--16 and L306 Sections1--6/equations1--11, all paid finite-tail terms, exact binomial arguments, scope clarification and four finite J78 domains. Initial whole review2026-10-22T20:49 UTC. |
 | [Original complete finding](#doubling-overlap-complete-independent-review) | [Original entire L293 input](../../ledger/Yin_L_G0293_v1.md#complete-retained-proof-and-review) | Original Sections1--6/equations1--18, author2026-10-10T05:22 freeze and actual2026-10-10T05:25/2026-10-10T05:27 repairs; final whole input refrozen2026-10-10T05:27 and reviewed2026-10-10T05:32. This finding does not retrospectively inspect a later C extraction. |
 | [Original entire finding](#short-relation-profile-complete-independent-review) | [Entire original L294 input](../../ledger/Yin_L_G0294_v1.md#complete-retained-proof-and-review) | Complete original all-coefficient/12-certificate proof, actual/composed/prefix transfers, both J73 domains and all costs/source/native limits; actual whole review2026-10-10T05:58. No separate author-freeze minute is invented. This original act does not inspect the later C extraction. |
 | [Original complete finding](#critical-delay-complete-independent-review) | [Original entire L297 input](../../ledger/Yin_L_G0297_v1.md#complete-retained-proof-and-review) | Original entire Sections1--6/equations1--22, all source/Dim19/native/negative limits,2026-10-10T05:53 freeze and2026-10-10T05:56 whole review. This finding does not retrospectively inspect a later C extraction. |
@@ -107,7 +107,7 @@ At rank6, degree and monicity force P6 itself, contradicting the integer Pfaffia
 
 For arbitrary real upper-unitriangular matrices, the finite nilpotent trace expansion gives the stated signed higher-cycle sum, and entrywise absolute path bounds give T>=E-n+|tau-E+n|.
 Reciprocal pairs, including nonreal and repeated roots and the odd-rank -1 root, pay every logarithmic modulus in the cosh bound.
-The accepted C509v2 E>=13 statement applies at absolute endpoint determinant2 and trace zero to every relevant integral rank7 matrix; its separate rank8 Phi2^2 P6 control yields the strict complete-cover comparison.
+The accepted C505v2 E>=13 statement applies at absolute endpoint determinant2 and trace zero to every relevant integral rank7 matrix; its separate rank8 Phi2^2 P6 control yields the strict complete-cover comparison.
 No lattice restriction or finite mutation sample is used to universalize that inequality.
 All original/absolute/cover factors, rational trace-root intervals, modulo5 cubic irreducibility and the negative conjugate of xi^2-4 give the complete sextic root certificates; the original and improved expanding roots lie in (600,602) and (80,81).
 The equal/opposite sheet factorization is exactly C2's literal cover, with doubled rank/energy and both entire Mahler contributions.
@@ -127,7 +127,7 @@ Review act: 2026-10-22T20:49 UTC.
 The complete algebraic-integer overlap identities, unit-only finite remainder and all examples pass.
 The chronological convolution identity is p_(2n)=sum_x mu_n(x)mu_n(alpha^n x); binary autocorrelation gives precisely the normalization M/4^n and its D ratio.
 The entropy is the original h without a degree division.
-Iterating log a_n=-(1/2)log D_n+(1/2)log a_(2n) telescopes with the full endpoint remainder; the C436 counting-kernel bound pays the actual unit q and C_non terms before that remainder tends to zero.
+Iterating log a_n=-(1/2)log D_n+(1/2)log a_(2n) telescopes with the full endpoint remainder; the C432 counting-kernel bound pays the actual unit q and C_non terms before that remainder tends to zero.
 The all-late bound D_n<=C implies a_n>=1/C and, by the nonnegative Abel/renewal quotient, F(R)=1 and mu_R<=C.
 Thus limsup D_n>=mu_R has the claimed direction and infinity convention.
 Unbounded D alone supplies neither the converse nor a mean/attainment classification.
@@ -135,7 +135,7 @@ D_n tending to one forces R=2 and every returned word to be all zero; h is then 
 
 For the golden control, the complete five-state forward first-return series is z/2+(z^3/32)/(1-z^2/8), rather than a finite truncation.
 Its first masses and D1=1,D2=3/2 agree with the original law.
-The relative-degree radical decomposition in C497 applies to the genuine dyadic tower, whose successive nonsquare obstruction follows from the norm -1 argument.
+The relative-degree radical decomposition in C493 applies to the genuine dyadic tower, whose successive nonsquare obstruction follows from the norm -1 argument.
 It gives exact initial plateau, spike D_(2r)=(3/2)^r, unchanged h, product core size5^r and critical mean mu_phi^r.
 The total Mahler measure remains log phi; these are neither near-one nor Salem inputs.
 The whole L240 convolution norm RFprime+1-F is used only at its actual domain and becomes the mean only under the stated recurrence hypothesis.
@@ -153,7 +153,7 @@ Under critical recurrence the remaining mass exceeds1/3 and forces the stated lo
 The maximum-atom and convolution conclusions retain their finite-mean branch and full norm hypotheses.
 
 The accepted Dim19 2019v1 statement is house>=2^(1/(4d)); its original proof and later editions were not re-audited.
-Together with C440's exact g(m) and g'(m)>=1/4 this gives h>1/(24d).
+Together with C436's exact g(m) and g'(m)>=1/4 this gives h>1/(24d).
 The small TOTAL measure m<=2^-16 therefore implies the degree gate, and h<=m orders the two stated horizons correctly.
 The separate finite-peak argument uses n=d floor(1/(4m)), the full dyadic remainder and the actual counting-core constants to obtain one D value above (6m)^(-d/4).
 It is not an eventual lower bound, a limsup theorem or a critical-mean classification.
@@ -170,7 +170,7 @@ Both split-parity formulas follow exactly, including the realizing even times wh
 
 For P=t^4-t^3-t^2-t+1, the trace u=(1+sqrt13)/2 has Norm(u+2)=3 and Norm(u-2)=-1, excluding a square at the first quadratic step.
 A negative real conjugate excludes squares at every later dyadic step, so all tower degrees, infinite actual-core products, q=2r and fixed total measure are genuine.
-The C534 critical recurrence and C559 mu_R>3/2 interfaces supply exactly recurrence and a mean allowed to be infinite.
+The C526 critical recurrence and C546 mu_R>3/2 interfaces supply exactly recurrence and a mean allowed to be infinite.
 Both finite- and infinite-mean branches are retained in the all-late obstruction; neither branch is silently resolved.
 The exponent-gcd reduction P=Q(t^r) has actual irreducible Q, the required relative degree and exact entropy/core/attainment products.
 Recurrence is transferred only in the proved lift-to-base direction, and the Salem specialization has r=1.
@@ -218,7 +218,7 @@ No native program or new numerical result is part of this proof-only finding.
 
 Review act: 2026-10-22T20:49 UTC.
 The complete all-index signed unit-cycle/leaf construction and exact a=5 certificate pass.
-The literal B block, leaf row, absolute matrix and full unit-upper V give P_a=(t+1)(t^a+1)^2-t and the stated negative companion; no cyclotomic factor is dropped from either sparse H=t^2-t-1 identity.
+The literal B block, leaf row, absolute matrix and full unit-upper V give P_a=(t+1)(t^a+1)^2-t C_(2a-1), where C_(2a-1)=1+t+...+t^(2a-1), and the stated negative companion; no cyclotomic factor is dropped from either sparse H=t^2-t-1 identity.
 Full column rank gives exactly one t+1 factor.
 The signed-cycle quadratic form plus a rank-one leaf defect permits at most one Gram eigenvalue above4, proving the full root count together with the exact a=3,4 boundary factors.
 For a>=5 the original and absolute expanding roots lie on opposite sides of phi, remain below2 and move monotonically toward phi; all other roots are on the unit circle.
@@ -241,7 +241,7 @@ The U-remainder matrix has a triangular unimodular leading block, positive Gram 
 Primitive scaling q is rational, not assumed integral.
 The full signed resultant q^d times the cyclic resultant, its S2 norm, every prime/content denominator expense and the adjugate projection height are retained.
 For every nonzero rational row direction, the full anti polynomial has the stated long vanished band; weighted U/sine orthogonality forces the sign changes and O(d) off-circle slots, but pays every radial modulus and leading factor.
-C394's accepted Pri11-based cyclic estimate retains powered-degree loss and its exact original-degree/time regime, and C587's coherence expense retains its actual small-positive-u domain.
+C391's accepted Pri11-based cyclic estimate retains powered-degree loss and its exact original-degree/time regime, and C570's coherence expense retains its actual small-positive-u domain.
 
 The quadratic all-parameter control has identical primitive columns and the exact r_n/H_n formulas; the negative B_n-nm and its limit are valid for each finite n.
 Odd-prime radicals have fixed positive total measure and give no global minimum-column theorem.

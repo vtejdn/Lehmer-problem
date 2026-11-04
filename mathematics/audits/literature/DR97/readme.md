@@ -21,7 +21,7 @@ Section 2.1's results are reconstructed over a commutative field and finite alph
 Its arbitrary-commutative-ring formulations, semiring discussion, and historical attributions were inspected as statements, without a complete proof audit at that broader scope.
 The source's initial unspecified alphabet cannot be read as an unrestricted infinite-alphabet convention: the proof uses finiteness, and one preliminary equivalence fails without it.
 
-The accepted Haagerup and Malcev-Neumann inputs have exact source statements and applicability checks in U006, with original-proof boundaries retained.
+The accepted Haagerup and Malcev-Neumann inputs have exact source statements and applicability checks in U005, with original-proof boundaries retained.
 The optional universal-free-field identification is checked separately and is not a premise of the two rationality criteria.
 The audit finds no unresolved local implication in its reconstructed finite-generator chains; it does not claim an author-endorsed erratum, formal verification, or a new project theorem.
 
@@ -55,7 +55,7 @@ This is complete article reading with the proof-inspection boundaries above, not
   The primary locators above are not transferred to that version.
 - The publisher record and author-hosted material were inspected in a bounded search.
   The comparison did not establish an author-issued correction of the findings below.
-  U006 states the pages and search scope actually checked.
+  U005 states the pages and search scope actually checked.
 
 ## Findings and Corrective Arguments
 
@@ -68,11 +68,11 @@ Each repaired argument is in its authoritative unit.
 | F01 | The alphabet is initially unspecified, but p. 618 uses finite $X$. Theorem 2's recognizability/rational-expression equivalence is false for arbitrary infinite alphabets under finite-expression closure. | State finite $X$ throughout the audited chain. U001 gives the two-state series $\sum_xx$ as a counterexample to that broader preliminary reading. U005 identifies further uses of finiteness. |
 | F02 | The p. 618 injectivity sentence cannot mean multiplication by $\bar x-1$ on all group coefficient functions: a bilateral series on $\langle x\rangle$ is a counterexample. | U002 proves injectivity on the actual residual span, where appending $\bar x$ causes no cancellation, using its least nonzero degree. The finite residual bound follows. |
 | F03 | Pp. 613 and 619 treat general $\ell^2$ coefficients as everywhere-defined convolution operators; boundedness does not follow from square summability. The p. 613 norm notation also omits a square root. | U004 initially uses finite-support inputs, establishes boundedness by normal convergence, and supplies an explicit nonrational $\ell^2(\mathbb Z)$ counterexample to the general boundedness claim. Conventional Hilbert norms are stated. |
-| F04 | The p. 619 application of Lemma 8 misidentifies the commutator's ambient algebra; the source representation also has a nonunital scalar block. | U003 uses the algebraic quotient $B(H)/\operatorname{Fin}(H)$, where the representation is unital and its commutator derivation has the right bimodule type. Finite rank is not replaced by compactness. U005 separately treats the scalar block on its algebraic domain. |
+| F04 | The p. 619 application of Lemma 8 misidentifies the commutator's ambient algebra; the source representation also has a nonunital scalar block. | U003 uses the algebraic quotient $B(H)/\operatorname{Fin}(H)$, where the representation is unital and its commutator derivation has the right bimodule type. Finite rank is not replaced by compactness. The historical separate algebraic-domain scalar-block treatment remains part of the unlocated Section 4 body; current U005 owns its external interfaces. |
 | F05 | Lemma 10(ii)'s contraction estimate fails for polynomial shifts; the printed decay estimate also carries an unjustified unchanged exponential rate from squared coefficients to operator norms. | U004 inserts the finite factors $\|P\|_1\|Q\|_1$ and derives $\|a_m\|\leq\sqrt M(m+1)c^{m/2}$. Both corrections preserve the required normal convergence. |
 | F06 | Lemma 11's diagonal Schur formulas on p. 620 have misplaced inverse parentheses. The subsequent decay step cites Lemma 11(i) where Lemma 10(i) supplies the needed estimate. | U004 gives correctly ordered block formulas, a sufficiently-small-power scalar-pivot proof, and the corrected logical reference. Invertibility of a matrix is not assumed to imply arbitrary unpermuted pivots are invertible. |
-| F07 | Section 4 compresses inverse commutators and formal-to-group substitution without specifying a common composition domain or all support/pivot conditions. | U005 constructs $D\oplus D^X\oplus k$, verifies support preservation by $P$, corrects inverses using the scalar projection, substitutes only finite polynomial identities, and uses division-ring elimination with permutations. These are supplied details, not counterexamples to Theorem 12. |
-| F08 | The bibliography's reference [8] gives a misleading journal/year for Fliess's *Matrices de Hankel*. | U006 records the bibliographic discrepancy and actual evidence depth. U001 reconstructs the field interfaces locally, so no uninspected Fliess erratum or corrected proof is silently imported. |
+| F07 | Section 4 compresses inverse commutators and formal-to-group substitution without specifying a common composition domain or all support/pivot conditions. | The historical audit reports a construction on $D\oplus D^X\oplus k$, support preservation, scalar-projection inverse correction, finite polynomial substitution and permuted elimination. Its detailed local body is not located in the current five units; U005 checks the external foundation only. This is a location gap, not a counterexample to Theorem 12. |
+| F08 | The bibliography's reference [8] gives a misleading journal/year for Fliess's *Matrices de Hankel*. | U005 records the bibliographic discrepancy and actual evidence depth. U001 reconstructs the field interfaces locally, so no uninspected Fliess erratum or corrected proof is silently imported. |
 
 All downstream uses within this audit are indicated by the unit links.
 No pre-existing project claim depends on these new units, and no project claim ID, research route, or ledger theorem is allocated by this source study.
@@ -82,20 +82,21 @@ No pre-existing project claim depends on these new units, and no project claim I
 | Conclusion | Forward construction and decisive input | Boundary or checked interface |
 | --- | --- | --- |
 | Proposition 5 | Edge cancellation gives suffix residuals multiplied by a fixed letter difference; restricted injectivity and finite $X$ give finite residual span. | U001 finite-alphabet field theorem; no multiplication of two arbitrary group coefficient functions. |
-| Lemma 10 | A finite representation makes the squared-coefficient generating function rational; summability excludes poles on the closed disk; Cauchy estimates and Haagerup give normal convergence. | U006 checks the homogeneous Haagerup statement; the rational-decay step is proved locally without reliance on a vague Kronecker citation. |
+| Lemma 10 | A finite representation makes the squared-coefficient generating function rational; summability excludes poles on the closed disk; Cauchy estimates and Haagerup give normal convergence. | U005 checks the homogeneous Haagerup statement; the rational-decay step is proved locally without reliance on a vague Kronecker citation. |
 | Proposition 9 | Minimality makes every matrix coefficient series a finite combination of residuals and zero on nonreduced words; powers specialize to exact homogeneous parts; a small power permits scalar inversion. | No unrestricted substitution of infinite word series, no prior boundedness assumption, and no jump from matrix to scalar closure. |
 | Theorem 7 | Group polynomials have finite-rank defects; the repaired derivation preserves this under all matrix inverses. Conversely Proposition 5 plus Proposition 9 realizes every finite-rank element in scalar closure. | Equality of coefficients determines a bounded regular operator by right translations. Neither inclusion assumes the desired equality. |
-| Theorem 12 | Inverse closure preserves finite rank on the specified Malcev-Neumann space. Conversely residual representations preserve well-ordered support and give a matrix inverse over the division closure. | U006 accepts the exact ordered-series field construction; the optional identification with a universal free field is a separate interface. |
+| Theorem 12 | Inverse closure preserves finite rank on the specified Malcev-Neumann space. Conversely residual representations preserve well-ordered support and give a matrix inverse over the division closure. | U005 accepts the exact ordered-series field construction; the optional identification with a universal free field is a separate interface. |
 | Corollary 13 | Finite positive generators make the positive free monoid well ordered by the supplied subsequence argument; restrict a doubled-alphabet representation to positive letters. | Positivity is needed for embedding all positive formal series, but is not needed for Theorem 12 itself. |
 
-The dependency graph is acyclic: U001 supplies the common formal machinery; U002 supplies the algebraic criterion; U004 and U005 construct realizations in their separate ambient settings; U003 combines U002 and U004 with the independent closure direction.
-U006 documents external interfaces and comparisons.
+The dependency graph is acyclic: U001 supplies the common formal machinery; U002 supplies the algebraic criterion; U004 constructs the analytic realization; the separately reported Malcev-Neumann realization body remains unlocated; U003 combines U002 and U004 with the independent closure direction.
+U005 documents external interfaces and comparisons.
 The Malcev-Neumann proof does not assume an analytic norm theorem.
+The historical Section 4 verdict is preserved as that earlier review account; present reuse of Theorem 12/Corollary 13 needs the reported support/inverse/substitution/pivot body to be located or adequately prepared, without retroactively extending the current external-interface U005.
 
 ## Reuse Guidance
 
 For a free-group problem, cite the exact unit and retain finite $X$, the coefficient field, the ambient algebra, and the source's scalar/matrix closure convention.
-For a semicircular problem, consult U006's comparison with [Miy22](../../../literature/pdf/Miy22.pdf): the shared residual/realization mechanism does not identify their generators, bases, commutators, or affiliated domains.
+For a semicircular problem, consult U005's comparison with [Miy22](../../../literature/pdf/Miy22.pdf): the shared residual/realization mechanism does not identify their generators, bases, commutators, or affiliated domains.
 Neither DR97 nor this audit automatically supplies a theorem about all affiliated operators.
 
 The original free-field identification, where desired, must be cited through its separately checked interface.
@@ -106,7 +107,7 @@ No novelty or present-day open-problem assessment is made.
 
 | Activity | Actual evidence and limits |
 | --- | --- |
-| Source inspection | All ten primary DR97 pages read; the coordinating agent visually inspected all ten rendered pages, and content agents independently inspected their assigned formula pages. Primary artifact unchanged. Supporting sources and the author version have only the passage-level coverage recorded in U006. |
+| Source inspection | All ten primary DR97 pages read; the coordinating agent visually inspected all ten rendered pages, and content agents independently inspected their assigned formula pages. Primary artifact unchanged. Supporting sources and the author version have only the passage-level coverage recorded in U005. |
 | Local mathematical reconstruction | U001-U005 contain the proof mechanisms, explicit repairs, and boundary cases. The coordinating agent reviewed the complete analytic and Malcev-Neumann drafts against the relevant rendered source pages. |
 | Independent AI cross-review | the analytic reviewer checked U001's residual/inverse/minimality proof and U005's domain/support/pivot/corollary chain. the Malcev-Neumann reviewer checked U002's identity, injectivity, rank, and scalar column, and all U003-U004 local analytic and closure steps. Exact scopes are also in the unit records. This is review within one AI team. |
 | Computation | Exact word-action check: 78,185 equalities passed for the specified finite ranks and word lengths, including 1,892 nonzero edge-defect cases. No analytic estimate or general rationality theorem is certified by the run. |
@@ -128,13 +129,14 @@ The broader preliminary statements and original external proofs retain their dec
 
 | Original acceptance criterion | Completion evidence |
 | --- | --- |
-| Identity, version, and searches | Primary title page and all ten pages inspected; the author edition is separately identified; U006 records the bounded searches and selected comparison. |
-| Stable units with precise hypotheses and locators | U001-U006 cover the requested definitions, tree criterion, analytic realization, Malcev-Neumann application, and necessary interfaces. Six unique authoritative unit anchors were checked. |
+| Identity, version, and searches | Primary title page and all ten pages inspected; the author edition is separately identified; U005 records the bounded searches and selected comparison. |
+| Stable units with precise hypotheses and locators | The retained U001--U005 cover formal series, the tree criterion, analytic realization and external interfaces. The historical six-unit account included a separate Malcev-Neumann construction whose current detailed home remains unlocated. |
 | Local proof reconstruction and justified corrections | U001-U005 supply the explicit arguments; F01-F08 identify findings and consequences. Complementary agents independently inspected the critical algebraic, analytic, domain, and boundary steps. |
-| Accurate evidence and trust boundaries | U006 distinguishes primary statements, a published foundational exposition, original-proof limits, and secondary bibliography evidence. The computation record separates its finite checks from universal proofs. |
+| Accurate evidence and trust boundaries | U005 distinguishes primary statements, a published foundational exposition, original-proof limits, and secondary bibliography evidence. The computation record separates its finite checks from universal proofs. |
 | Integrated review and project handoff | Independent contract comparison and coordinating-agent review completed; source-unit index, goal index, audit navigation, computation index, and current assessment updated. No unassigned theorem-discovery objective was created. |
 
-The independent computation review also reran the script and reproduced all 78,185 equalities.
+The historical independent computation review reports rerunning the script and reproducing all 78,185 equalities.
+The native program/J locator remains unlocated as stated in U002; no current reproduction is asserted.
 Its 77,688 endpoint/suffix comparisons test two distinct calculations; the 497 auxiliary scalar-column checks have the weaker independence described in the computation record.
 Neither count certifies the general rationality conclusions.
 
@@ -196,40 +198,3 @@ Explicitly track finite-alphabet assumptions, scalar inverse closure versus matr
 
 - 2026-09-08: initial user-assigned scope recorded.
   DR97 is the distinct Duchamp-Reutenauer paper already registered at intake; this goal does not reopen the historical Reu96 filename correction.
-
-<a id="decision-candidate-0001"></a>
-<a id="decision-candidate-0002"></a>
-<a id="decision-candidate-0003"></a>
-<a id="decision-candidate-0004"></a>
-## Historical recorded completion
-
-The four historical publications `DR97 rational-series source audit_v1` through `DR97 rational-series source audit_v4` retain one unchanged source-audit disposition: **completed within the original assignment scope**.
-The substantive inspection and completion dates remain those stated in the audit and contract above.
-The record registration time is 2026-09-14T01:14; it is not a new inspection or inferred historical completion date.
-
-Recorded by: Yin.
-Recorded event: 2026-09-14T01:14.
-Original transition: no prior recorded disposition to `completed`.
-No resumption condition was recorded.
-
-Contract: [original audit assignment, physical v1](#historical-contract-v1).
-Selected completion evidence: [Source-audit completion review](#goal-completion-review).
-Covered materials are this source audit and that assignment.
-Original reviewed publication: `DR97 rational-series source audit_v1`.
-The evidence basis is the recorded completion review; its actual inspection relationship and limitations remain in the review itself.
-No separately declared fixed dependencies or independent review classification is invented.
-
-Recorded scope: The original completion criteria and limitations in the cited completion comparison for DR97 rational-series source audit.
-Preserve recorded lifecycle and completion evidence; historical review classification is not inferred.
-
-Recorded reason: Preserve the completed disposition already recorded at registration; this timestamp is registration, not an inferred historical completion date.
-
-Recorded authority: initial recorded disposition in `DR97 rational-series source audit_v1`, preserving the [original assignment and criteria](#historical-contract-v1).
-This is a historical account of the retired registration, not a new audit-task lifecycle.
-
-| Historical publication | Recorded update | Meaning of the recording |
-| --- | --- | --- |
-| `DR97 rational-series source audit_v1` | 2026-09-14T02:10 | Yin, 2026-09-14T01:14: registration |
-| `DR97 rational-series source audit_v2` | 2026-09-14T04:01 | Yin, 2026-09-14T04:01: Register previously selected proof/review support; verified legacy correspondence, no new mathematical audit |
-| `DR97 rational-series source audit_v3` | 2026-09-14T14:42 | Yin, 2026-09-14T14:42: Approved framework separation: relocate mathematical material and rebase local documentation locators; preserve mathematics, assessments and historical evidence. |
-| `DR97 rational-series source audit_v4` | 2026-09-15T08:24 | Yin, 2026-09-15T08:24: Separate execution metadata from existing Task bodies; preserve mathematical contracts, lifecycle, historical evidence and prior review classification. |

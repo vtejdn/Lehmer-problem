@@ -103,7 +103,7 @@ There is no unsupported reassignment of a J_W-only root into K.
 
 Consequently every term is divisible by (H_b^new)^r_H, and monicity makes the quotient an integer monic polynomial of exact degree d_core=d-r_H h_b=2h/M+14A.
 The formulas use the same degree h_b and the integral exponents 2q/M and r_H.
-The construction proves the whole-factor relift directly and relies only on LP2--LP3 for its precision, so it does not misuse C781's stronger individual-psi lift hypotheses or the old Phi composition identities.
+The construction proves the whole-factor relift directly and relies only on LP2--LP3 for its precision, so it does not misuse C743's stronger individual-psi lift hypotheses or the old Phi composition identities.
 
 ### Complete cyclotomic source and reciprocal measure
 

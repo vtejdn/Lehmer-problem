@@ -6,7 +6,7 @@ author: Yin
 
 The complete necessary original D76 proof is retained from [L209](../ledger/Yin_L_G0209_v1.md#complete-retained-proof-and-review).
 The resultant_research author supplied the quantitative modulus, degree-adapted exponents, uniform mass escape, factor-complexity and multi-prime arguments; the coordinator supplied the broad exploration question only.
-The [complete original R727 whole and source account](../audits/reviews/Yin_R_G0727_v1.md#original-growing-residue-review-account) keeps its 2026-10-09T20:32 completion and every actual mathematical/source/input/nonexecution fact.
+The [complete original R108 whole and source account retained in R727](../audits/reviews/Yin_R_G0727_v1.md#original-growing-residue-review-account) keeps its 2026-10-09T20:32 completion and every actual mathematical/source/input/nonexecution fact.
 Actual prior additional shared-context/progress mathematical contents and initial order are not established, so its justified original whole relationship is UNKNOWN rather than inferred from its independent label.
 The [complete original author-check/contribution account](../audits/reviews/Yin_R_G0727_v1.md#growing-residue-original-author-check-finding) remains separately SELF at its original 2026-10-10 day precision.
 The sufficient Pri11 and retained Dim19 v1 source units are reused directly, with distinct original R108 reading facts retained and no new source unit, PDF inspection or external proof audit.
@@ -446,7 +446,7 @@ Neither the minimal-Frobenius class nor local maximal orders are assumed, and no
 ## Original checking, source and fixed-input boundary
 
 The exact complete original author-check/contribution/then-pending account remains in [its separately declared original SELF finding](../audits/reviews/Yin_R_G0727_v1.md#growing-residue-original-author-check-finding).
-The [original R727 whole account](../audits/reviews/Yin_R_G0727_v1.md#original-growing-residue-review-account) retains its actual 04:32 completion, no-defect verdict, complete fixed L209 input, source-reading passages and all proof/inspection limits.
+The [original R108 whole account retained in R727](../audits/reviews/Yin_R_G0727_v1.md#original-growing-residue-review-account) retains its actual 04:32 completion, no-defect verdict, complete fixed L209 input, source-reading passages and all proof/inspection limits.
 The original reviewer directly text-read retained Dim19v1 PDF p1 and Pri11 PDF pp2,7 at statement/application scope; those reading minutes were not separately recorded and are not inferred from the review completion.
 The current complete local proof uses exactly those accepted source statements, not a later version or an uninspected stronger theorem.
 All original L209 proof, history, fixed inputs and active/pending language remain unchanged and select no present research execution.

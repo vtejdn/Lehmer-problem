@@ -6,12 +6,12 @@ author: Yin
 # Exact height-one edge resultants and finite-ratio Mahler lower bounds
 
 Human author Yin.
-This complete fixed OPEN author candidate awaits fresh independent whole review and separate adoption.
+At author registration, this complete fixed candidate was OPEN pending fresh independent whole review and separate adoption.
 The initial investigation compared Smyth and Salem--Boyd inputs; the exact retained edge values instead give a direct finite cyclic resultant with a positive surplus after the FULL degree expense.
 Salem_completion derived the sharp e=2 endpoint resultant and bound, and root proposed the extension to every admissible local-mask multiplier in the C740/C747 range.
 Both contributors checked the actual integer half-sum, complete support, root-of-unity products, sign domains and unchanged multiplicities below.
 The direct cyclic-resultant upper estimate is the elementary one already retained in [adopted C245, equation(5)](Yin_C_G0245_v1.md#cyclic-norm-residue-density); it is proved again here for the present possibly reducible polynomial, without importing that Claim's irreducible arithmetic hypotheses.
-The [adopted C755 PX5--PX8](Yin_C_G0755_v1.md#decision-whole-reviewed-2026-10-25) supplies the actual endpoint family; the broader local mask interface is [adopted C747/C747](Yin_C_G0747_v1.md#decision-whole-reviewed-2026-10-25).
+The [adopted C755 PX5--PX8](Yin_C_G0755_v1.md#decision-whole-reviewed-2026-10-25) supplies the actual endpoint family; the broader local mask interface is [adopted C740/C747](Yin_C_G0747_v1.md#decision-whole-reviewed-2026-10-25).
 The separate source comparison following this proof is not an external theorem dependency of the result.
 
 Root read the entire saved EM1--EM5/equations EM1--EM16 and the entire integrated source comparison.
@@ -25,7 +25,7 @@ All quantities concern the full monic polynomial with its actual multiplicities;
 
 ### EM1. General actual local-mask domain and result
 
-Let U_0 be any actual complete source in the structural local domain verified in C740/C747, including the paid complete extensions whose same properties are explicitly established in C793/C755.
+Let U_0 be any actual complete source in the structural local domain verified in C740/C747, including the paid complete extensions whose same properties are explicitly established in C753/C755.
 Let d=deg U_0, r=2d-2 and
 
     Dbar=z^d U_0(z+z^(-1))/(z^2+1).
@@ -310,7 +310,7 @@ It does not assert that no stronger external theorem exists or that all reciproc
 | --- | --- |
 | date | 2026-10-25T22:18 |
 | status | open |
-| reason | Register the complete EM1--EM5/equations EM1--EM16 and integrated source comparison after root read both entire sections. Actual supported integer half-sums yield integral B_+,B_- and a full cyclic resultant divisible by4^(2n); nonvanishing pays the complete degree r+2n and gives the general finite-ratio lower bound. Every irreducible input is coprime, the a=d-2 coprime domain is empty, and all four e2 endpoint patterns have exact resultant2^(4n+2), hence m(P)>=3log2/7. Complete multiplicities, exact dyadic substitutions and nearzero necessary ratio a/d->1/2 are retained. The comparison records the accepted Smyth seed-only use, actual Hir06 text/visual scope and seed-dependent constants, and SSS reciprocal-domain mismatch without acquisition or theorem adoption. Root and Salem_completion are contributors; fresh independent whole review and separate adoption remain outstanding. No individual-factor bound, full old-primary solution, new precision, irreducibility construction or unrestricted Task completion is asserted. |
+| reason | Register the complete EM1--EM5/equations EM1--EM16 and integrated source comparison after root read both entire sections. Actual supported integer half-sums yield integral B_+,B_- and a full cyclic resultant divisible by4^(2n); nonvanishing pays the complete degree r+2n and gives the general finite-ratio lower bound. Every irreducible input is coprime, the a=d-2 coprime domain is empty, and all four e2 endpoint patterns have exact resultant2^(4n+2), hence m(P)>=3log2/7. Complete multiplicities, exact dyadic substitutions and nearzero necessary ratio a/d->1/2 are retained. The comparison records the accepted Smyth seed-only use, actual Hir06 text/visual scope and seed-dependent constants, and SSS reciprocal-domain mismatch without acquisition or theorem adoption. Root and Salem_completion are contributors; fresh independent whole review and separate adoption were outstanding at author registration. No individual-factor bound, full old-primary solution, new precision, irreducibility construction or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

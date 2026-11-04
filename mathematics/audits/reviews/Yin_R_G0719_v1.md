@@ -49,7 +49,7 @@ author: Yin
 ## Current complete limiting tail-pressure proof
 
 Date: 2026-10-22T03:22.
-The maintaining author read the whole original L278/R177 and complete necessary fixed mathematics, created the open C509, then read its ACTUALLY WRITTEN entire Statement and Argument before this finding.
+The maintaining author read the whole original L278/R131 and complete necessary fixed mathematics, created the open C509, then read its ACTUALLY WRITTEN entire Statement and Argument before this finding.
 Construction and complete original-proof/context exposure make this ENTIRE current relationship SELF, not isolated coverage.
 The scope includes every opening/reuse/source paragraph, Sections1--5/equations1--13, all finite/infinite quantifiers, original probabilities, input-dependent expenses, contribution/self-check and negative boundary.
 
@@ -75,7 +75,7 @@ Using the centered autocorrelation bound at that global maximizer proves the ful
 The exact zero shift and C503's complete p_n comparison preserve every degree/stable/neutral/eigenvalue/volume cost and all original2^-n factors.
 Taking both logarithmic sides at FIXED input proves the two rates with the correct g sign, without varying-input or growing actual-window interchange.
 
-The actual old R177 arrangement has a separate frozen-body check and no target contribution; its precise extra assignment content/initial mathematical order remains unestablished, so its ENTIRE original relationship stays UNKNOWN at that exact missing-context boundary.
+The actual old R131 arrangement has a separate frozen-body check and no target contribution; its precise extra assignment content/initial mathematical order remains unestablished, so its ENTIRE original relationship stays UNKNOWN at that exact missing-context boundary.
 A legitimate question/statement or fixed-proof input is allowed, and no exposure is inferred merely from summary, nonblind wording or upstream roles.
 The original day-precision author check,11:39 freeze,11:44 finding, whole body/verdict and all old fixed inputs remain.
 The source DC23-U001 preserves only the original10/10 Section6.2/printed186--187/(6.6)--(6.7) reflection-positive Ising lead, which cannot be applied from PSD alone and is NOT a premise here.

@@ -80,7 +80,7 @@ The complete original domain covered every32768 upper form, all5625 actual bases
 Every parsed report field matched the retained native report, and all seven readme/program/native inputs stayed byte-identical across the run.
 Its sole expected report write was intercepted in memory, mkdir accepted only existing directories, and an audit hook rejected other writes/creation/renames/removals.
 No author producer/import, new modulus/prime/vector domain, source passage/PDF/proof reading, output/digest or Task/E execution occurred.
-The earlier [ENTIRE C500 whole SELF](../../../audits/reviews/Yin_R_G0707_v1.md#all-bases-mod-four-whole-self-finding) was selected on 2026-10-22T01:21; that event supplied no isolated replacement of the original whole UNKNOWN obligation.
+The earlier [ENTIRE C496 whole SELF](../../../audits/reviews/Yin_R_G0707_v1.md#all-bases-mod-four-whole-self-finding) was selected on 2026-10-22T01:21; that event supplied no isolated replacement of the original whole UNKNOWN obligation.
 The current C496 decision at 2026-10-22T04:03 selects [the new whole independent finding](../../../audits/reviews/Yin_R_G0720_v1.md#entire-mod-four-independent-finding), whose existing-checker replay and representation limits are separately recorded there.
 The [original complete author SELF](../../../audits/reviews/Yin_R_G0707_v1.md#all-bases-mod-four-original-author-finding) retains day precision, the separate10:54 freeze and11:06 review, original0.703000-second complete classification, initial symbolic-display comparison failure and corrected0.281000-second author check.
 These original events remain distinct from the current readonly replay; no mathematical certificate failure or new mechanism repair is invented.

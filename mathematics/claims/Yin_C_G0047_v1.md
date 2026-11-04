@@ -136,7 +136,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-12T08:28 |
 | status | proved |
-| reason | Adopt the exact retained-coordinate whole-interval scalar width theorem and its explicitly conditional profile-price compositions after separate whole and actual-extraction reviews. C46 now has its own independent acceptance; retain the original conditional formulation and each reviewer contribution boundary. No arbitrary-packet width theorem or Task completion is inferred. |
+| reason | Adopt the exact retained-coordinate whole-interval scalar width theorem and its explicitly conditional profile-price compositions after separate whole and actual-extraction reviews. C46 now has its own acceptance through the self-reviewed R247 v2 extraction finding; retain the original conditional formulation and each reviewer contribution boundary. No arbitrary-packet width theorem or Task completion is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

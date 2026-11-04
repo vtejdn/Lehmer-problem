@@ -7,7 +7,7 @@ author: Yin
 Human author Yin.
 Root developed the LC1--LC5 candidate and checked its complete saved argument before fixed registration.
 The [D1 author development](../drafts/Yin_D_G0001.md#low-core-linear-coefficient-square-test) is provenance only; the necessary argument is retained below.
-This fixed candidate is OPEN pending independent whole review and separate adoption.
+At author registration, this fixed candidate was OPEN pending independent whole review and separate adoption.
 The independent review of C768 does not cover this additional coefficient identification.
 
 ## Statement

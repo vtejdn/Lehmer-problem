@@ -13,9 +13,9 @@ This is a whole mathematical review of the entire Statement and Complete argumen
 The reviewing agent did not participate in the corridor construction or its proof development.
 It read the complete fixed C803 first, then the directly needed fixed mathematical inputs identified below.
 No corridor draft, proof-generation dialogue, author explanation outside the fixed Claim, other C803 verdict or agent-summary inventory was consulted before forming its initial whole finding.
-The agent had previously independently reviewed the unchanged C780, C826, C828 and C790 mathematics; that background supplies only its original scopes, and the present level and unit interfaces were reread directly.
-Its separate author contribution to C846 concerns a different multiple-neutral mirror argument and supplies no independent evidence for C803.
-No C846 mathematics is an input of this review.
+The agent had previously independently reviewed the unchanged C780, C783, C785 and C790 mathematics; that background supplies only its original scopes, and the present level and unit interfaces were reread directly.
+Its separate author contribution to C802 concerns a different multiple-neutral mirror argument and supplies no independent evidence for C803.
+No C802 mathematics is an input of this review.
 
 A separately spawned helper received a fresh context containing the fixed C803 path, precise review-only scope and applicable operating instructions, without the corridor author's discussion or this reviewer's mathematical conclusions.
 The helper independently read C803 and the necessary fixed interfaces and found no gap in FC1--FC13.
@@ -119,13 +119,13 @@ These statements preserve their coefficientwise scope and do not claim a failure
 
 The proof supplies no positive lower bound on a chosen corridor's occupation height or its entrance probability from zero.
 It also supplies no disjointness across the different (m,k) corridors.
-Hence neither deterministic lengths nor harmonic ratios establish divergence of the extended total mu, a fixed-state return-tail lower bound, a positive linear complete-bridge level moment, or a bound on the C828 positive-phase derivative.
+Hence neither deterministic lengths nor harmonic ratios establish divergence of the extended total mu, a fixed-state return-tail lower bound, a positive linear complete-bridge level moment, or a bound on the C785 positive-phase derivative.
 The finite-mean and infinite-mean alternatives, summability question and unrestricted Task conclusion remain unresolved exactly as stated.
 
 ## Verification limits and disposition
 
 This whole finding rests on exact analytic arithmetic, finite-row reasoning and the inspected adopted input interfaces.
 It is not formal verification or a new execution of the C396 native certificates.
-C826's one-step flat-row result, C621/C612's variable-time reductions and C828's renewal classification remain comparison/background scopes rather than necessary unproved premises of FC1--FC13.
+C783's one-step flat-row result, C601/C593v2's variable-time reductions and C785's renewal classification remain comparison/background scopes rather than necessary unproved premises of FC1--FC13.
 The present review adds no stronger radius or critical-mean claim.
 The author candidate can be considered for separate whole-proof adoption at this exact version and scope; the responsible C decision must perform that adoption.

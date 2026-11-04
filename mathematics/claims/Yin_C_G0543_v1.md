@@ -119,7 +119,7 @@ No numerical scan, factorization run or new source acquisition is performed.
 <a id="small-coefficient-reuse"></a>
 ## 1. Reuse and the actual new scope
 
-The bounded screen read [L417](Yin_C_G0539_v1.md#sparse-trace-factor-profile), the [fixed same-time quadratic-remainder account](Yin_C_G0541_v1.md#same-time-norm-square), the [L33 sparse antecedent](../ledger/Yin_L_G0033_v1.md#lehmer-two-cycle-realization), and [L45's length-five cyclotomic classification](../ledger/Yin_L_G0045_v1.md#complete-length-five-cyclotomic-table).
+The bounded screen read [L416](Yin_C_G0539_v1.md#sparse-trace-factor-profile), the [fixed same-time quadratic-remainder account](Yin_C_G0541_v1.md#same-time-norm-square), the [L33 sparse antecedent](../ledger/Yin_L_G0033_v1.md#lehmer-two-cycle-realization), and [L45's length-five cyclotomic classification](../ledger/Yin_L_G0045_v1.md#complete-length-five-cyclotomic-table).
 L45 does not assume its whole noncyclotomic quotient is irreducible, and its repair conclusion is not asserted separately for each arbitrary noncyclotomic factor.
 The present proof does not require that classification or an irreducibility theorem for the sparse polynomial.
 
@@ -381,8 +381,8 @@ No small-n finite check is silently included.
 
 Gent21-U001 supplies only the already inspected norm minimum and field normalization; its other theorems are not inputs.
 Smy08-U001 supplies Mahler normalization and the already accepted Dim19 theorem statement, not a new source-proof audit.
-L417, L33, L45, L399, C92 and DS17 are precise reuse comparisons; C147v5 is used only for(16).
-L419 is a comparison for the earlier minus-sign remainder; the needed identities and all new plus-sign reasoning are explicitly proved here, and its separate review is not a review of the present argument.
+L416, L33, L45, L399, C92 and DS17 are precise reuse comparisons; C147v5 is used only for(16).
+L418 is a comparison for the earlier minus-sign remainder; the needed identities and all new plus-sign reasoning are explicitly proved here, and its separate review is not a review of the present argument.
 
 <a id="small-coefficient-fixed-inputs"></a>
 ## Complete fixed input scopes
@@ -395,8 +395,8 @@ L419 is a comparison for the earlier minus-sign remainder; the needed identities
 | [Gent21-U001 square-norm minimum](../audits/literature/Gent21/Yin_U001.md#algebraic-square-norm-minimum), [common-field normalization](../audits/literature/Gent21/Yin_U001.md#normalized-algebraic-square-norm) | Nonzero integral alpha+1 has normalized squared norm at least1 over all original K embeddings; no unit or nontorsion hypothesis on alpha+1. |
 | [C92 short annihilators](Yin_C_G0092_v1.md#statement), [selected assessment](Yin_C_G0092_v1.md#decision-organized-reviewed) | Prior five-power independence at span times m/D<=eta_5, hence existing positive gap from2n<=27D; no new arithmetic-income location follows from that comparison. |
 | [C147v5](Yin_C_G0147_v5.md#statement) | Only the final strict capped H_5(7/330)/27 expense consequence, retaining original field multiplicities; not a premise of the norm lower bound. |
-| [L417 factor profile](Yin_C_G0539_v1.md#sparse-trace-factor-profile) | Earlier a>=6 comparison; absence of circle roots is not imported into the new a1 through5 range. |
-| [L419 quadratic remainder](Yin_C_G0541_v1.md#same-time-norm-square) | Earlier same-time minus-sign mechanism only; all present plus-sign identities and every new bound are supplied in this body. |
+| [L416 factor profile](Yin_C_G0539_v1.md#sparse-trace-factor-profile) | Earlier a>=6 comparison; absence of circle roots is not imported into the new a1 through5 range. |
+| [L418 quadratic remainder](Yin_C_G0541_v1.md#same-time-norm-square) | Earlier same-time minus-sign mechanism only; all present plus-sign identities and every new bound are supplied in this body. |
 | [L33 sparse antecedent](../ledger/Yin_L_G0033_v1.md#lehmer-two-cycle-realization) | Existing sparse realization context, comparison only. |
 | [L45 cyclotomic classification](../ledger/Yin_L_G0045_v1.md#complete-length-five-cyclotomic-table) | Prior length-five comparison and actual-factor caveat; no classification or irreducibility premise is needed here. |
 | [L399 norm-AMGM use](../ledger/Yin_L_G0399_v1.md#hilbert-coefficient-proof) | Prior classical norm mechanism, comparison only; no integral convex-hull conclusion is used. |

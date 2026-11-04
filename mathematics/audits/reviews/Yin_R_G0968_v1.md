@@ -47,7 +47,7 @@ The accepted-input decisions below were read as precise support selections; thei
 | [C721 v1 adopted first64 low calculation](../../claims/Yin_C_G0721_v1.md#decision-whole-reviewed-2026-10-25) | FL2--FL3 actual quotient ideals and two successive coefficient divisions giving the lowest128 condition. |
 | [C691 v1 adopted complete original source](../../claims/Yin_C_G0691_v1.md#decision-whole-reviewed-2026-10-24) | Entire DG1--DG8 source interface, Section3 complete representative/canonical identity and Section5 full fresh triple-factor expenses, together with Section6 distinction between synthetic and canonical integer polynomials. Its accepted internal source construction is reused without a new ancestor audit. |
 
-C782 and C779 are comparison/provenance only and supply no inference in this review.
+C744 and C741 are comparison/provenance only and supply no inference in this review.
 The complete argument has no mutable-D premise or cycle through a downstream assembly.
 The necessary original source is actual adopted C746, while C743 and C745 retain their separately conditional component and transport roles.
 

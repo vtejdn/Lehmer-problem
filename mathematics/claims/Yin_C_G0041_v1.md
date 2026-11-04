@@ -96,7 +96,7 @@ The recorded review description was `under review`.
 | dependency | [Unchanged-symbol true tail](../ledger/Yin_L_G0382_v1.md#necessary-quadratic-coefficient-scale) | Supporting-line tail obstruction at any valid scalar normalization; local adaptation to L is explicitly checked. |
 | dependency | [Actual original Salem family](Yin_C_G0022_v1.md#statement) | Only a=2,d=6n irreducibility, true Salem scope and full M(S)<2; general-a phase proof is local. |
 | support | [Whole-author finding](../audits/reviews/Yin_R_G0238_v1.md#cyclotomic-positive-tail-whole-finding) | Exact original author freeze only; the separate actual registered-statement and interface finding is selected below. |
-| review | [Actual independent extraction](../audits/reviews/Yin_R_G0238_v1.md#c41-cyclotomic-tail-extraction-finding) | Exact actual registered statement, full selected argument, present dependency interfaces and complete preservation, checked separately from the earlier whole-author scope. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0238_v1.md#c41-cyclotomic-tail-extraction-finding) | Exact actual registered statement, full selected argument, present dependency interfaces and complete preservation, checked separately from the earlier whole-author scope. Referenced finding relationship: self-reviewed. |
 
 
 ### Decision sufficient-positive-log-home

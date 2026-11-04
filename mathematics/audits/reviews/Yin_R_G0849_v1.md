@@ -223,13 +223,13 @@ The complete factor degrees are deg U_0=2m+28m+deg Y=30m+deg Y and deg R_0=2m+24
 Monicity preserves the original U degree, and the accepted zero-Haar leading coefficient +1 or -1 preserves the integer G_can degree on reduction.
 Actual Frobenius multiplication by q therefore gives all three exact degree identities, with strict positivity from deg B<4m.
 The global nonsquareness of U_0,R_0 remains an inherited actual normalization conclusion and does not follow from endpoint parity.
-No later full-jet result, C667 remaining range, finite certificate or A_0=14 calculation is needed by this proof.
+No later full-jet result, C640 remaining range, finite certificate or A_0=14 calculation is needed by this proof.
 
 ### Sources and retained review limits
 
 All new steps are explicit formal-series, polynomial and local-valuation arguments; no new external theorem or source acquisition is needed.
 The C634 uniform input, C636 module interface and C609 actual parity theorem retain precisely the R840, R844 and R812 scopes used here.
 Their prior native material is neither rerun nor relabelled as new evidence for EP1--EP14.
-Accepted C197/C199 ancestor arguments retain their original source and review limitations, including the recorded R635/R638 unknown initial-context relationships and all earlier SELF/UNKNOWN boundaries.
+Accepted C197/C199 ancestor arguments retain their original source and review limitations, including the recorded R489/R492 unknown initial-context relationships and all earlier SELF/UNKNOWN boundaries.
 Smy08/Bel17 scalar, cyclotomic and local-source evidence is inherited at its existing scope; no original classical proof was reacquired or fully audited.
 No formal proof assistant verification, novelty claim, original characteristic-zero construction or unrestricted Task completion is asserted.

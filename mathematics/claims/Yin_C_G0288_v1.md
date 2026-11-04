@@ -195,7 +195,7 @@ satisfies TV(mu,tau_(e_i)mu)<=theta+(1-theta)/L<=epsilon in every coordinate, ye
 Hence H_infinity(mu)<=log(2/epsilon) and H_2(mu)<=2log(2/epsilon), independently of d.
 This does not contradict (1), which concerns Shannon and support entropy.
 
-For the actual fair binary laws of G0001, the additional comparison in [C G0281](Yin_C_G0280_v1.md#abelian-binary-entropy-comparison) does give H_infinity>=H_1/2 and H_2>=H_1/2.
+For the actual fair binary laws of G0001, the additional comparison in [C280](Yin_C_G0280_v1.md#abelian-binary-entropy-comparison) does give H_infinity>=H_1/2 and H_2>=H_1/2.
 Thus on that subclass half of (1)'s Shannon lower bound also holds for these two entropies.
 The arbitrary mixture just displayed is not claimed to belong to that subclass.
 
@@ -204,7 +204,7 @@ The arbitrary mixture just displayed is not claimed to belong to that subclass.
 
 For an algebraic unit alpha of degree d, the shifts 1,alpha,...,alpha^(d-1) form an integral basis of O=Z[alpha].
 There is no coset term.
-In the notation of [C G0284](Yin_C_G0283_v1.md#effective-binary-near-invariance-time), let 0<m=log M(alpha)<1/4 and take its centered binary law nu.
+In the notation of [C283](Yin_C_G0283_v1.md#effective-binary-near-invariance-time), let 0<m=log M(alpha)<1/4 and take its centered binary law nu.
 Its covered power window contains this basis, and its errors are at most 2sqrt(m).
 Equations (1) and L G0092 therefore give
 
@@ -241,7 +241,7 @@ A requested Delta_k<=delta entails
 
     k>=(d/(2log2))log(1/(2delta))-d+1.                    (9)
 
-The norm-grid bound of [C G0282](Yin_C_G0281_v1.md#norm-grid-support-bound) can be substituted for N log2 in the same argument, giving the alternative finite inequality
+The norm-grid bound of [C281](Yin_C_G0281_v1.md#norm-grid-support-bound) can be substituted for N log2 in the same argument, giving the alternative finite inequality
 
     Delta_k>=(1/(32N^2))exp[-2(N-1)m/d],   N=k+d-1.        (10)
 

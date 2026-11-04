@@ -8,8 +8,8 @@ Human author Yin.
 Root developed the square-input half-remainder argument, exact low-odd-coefficient criterion, bounded CRT construction and application to every nontrivial Frobenius power below.
 This is author mathematics and has not yet received an independent whole review.
 The active [G0001 Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23) authorizes the continuation.
-Focused reuse read the entire adopted C669 actual same-T calculation and C668v2 canonical families, and compared the new generic existential C701 statement.
-C701 is not a premise: the square case and its complete counts are proved directly from C669 below.
+Focused reuse read the entire adopted C669 actual same-T calculation and C668v2 canonical families, and compared the new generic existential C671 statement.
+C671 is not a premise: the square case and its complete counts are proved directly from C669 below.
 No native calculation, parameter enumeration or external source theorem is used.
 
 ## Statement

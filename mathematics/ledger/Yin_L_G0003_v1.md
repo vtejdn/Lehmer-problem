@@ -381,7 +381,7 @@ They exercise noninjective maps and alphabets omitting zero; they are checks of 
 Relative local link targets, control characters and the repaired spacing in (5.4) were also checked.
 No formal proof assistant verification or publication-level independent review is claimed.
 
-The original parent/contributor cross-check and separate-agent finding are retained in [R G0643](../audits/reviews/Yin_R_G0497_v1.md#historical-parent-cyclic-review), with the actual 2026-10-06 input, date precision, mathematical checks and limits.
+The original parent/contributor cross-check and separate-agent finding are retained in [R G0497](../audits/reviews/Yin_R_G0497_v1.md#historical-parent-cyclic-review), with the actual 2026-10-06 input, date precision, mathematical checks and limits.
 The separate historical finding's context isolation remains unestablished; this maintenance does not claim a new independent review.
 
 The exact originally supplied finite-check program, its recorded 1,530 comparisons and original stdout are retained in [J G0113](../computations/programs/Yin_J_G0113/readme.md), without rerunning it.

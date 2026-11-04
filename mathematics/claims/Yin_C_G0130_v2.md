@@ -387,7 +387,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T09:16 |
 | status | proved |
-| reason | Adopt R486 actual whole v2 finding. The original minimal-factor family has vanishing chosen-good-prime linear-time density and capture, including every complete linear-mass selection; the binary specialization pays every local valuation depth. Formula L now has its necessary finite nonempty-window guard. Preserve v1 and its precise finding. Other primes, near-one reciprocal coverage and the unrestricted goal remain open. |
+| reason | Adopt [R798 original translation-v2](../audits/reviews/Yin_R_G0798_v1.md#translation-v2-whole-independent-finding) actual whole v2 finding. The original minimal-factor family has vanishing chosen-good-prime linear-time density and capture, including every complete linear-mass selection; the binary specialization pays every local valuation depth. Formula L now has its necessary finite nonempty-window guard. Preserve v1 and its precise finding. Other primes, near-one reciprocal coverage and the unrestricted goal remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -406,7 +406,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-21T04:54 |
 | status | proved |
-| reason | Select the complete retained original minimal-factor and unramified-lifting proofs at their current C239/C241 homes; statement, full argument, source limits, assessment and actual original R486 finding are unchanged. This maintenance adds no independent review or unrestricted-goal conclusion. |
+| reason | Select the complete retained original minimal-factor and unramified-lifting proofs at their current C239/C241 homes; statement, full argument, source limits, assessment and actual original [R798 original translation-v2](../audits/reviews/Yin_R_G0798_v1.md#translation-v2-whole-independent-finding) finding are unchanged. This maintenance adds no independent review or unrestricted-goal conclusion. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

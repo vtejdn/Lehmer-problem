@@ -5,7 +5,7 @@ author: Yin
 # Sparse auxiliary completion and actual cyclic synchronization
 
 The complete current mathematical home is [C548](../claims/Yin_C_G0548_v1.md#statement), adopted at 2026-10-22T18:52 after the [actual final current whole SELF](../audits/reviews/Yin_R_G0738_v1.md#current-g225-postmaintenance-whole-self-finding).
-The original dated mathematics and frozen input below remain the actual inputs of R124; the original whole relationship declaration remains missing rather than silently reclassified.
+The original dated mathematics and frozen input below remain the actual inputs of the original sparse-completion whole finding retained in R777; the original whole relationship declaration remains missing rather than silently reclassified.
 
 Date: 2026-10-10.
 The original2026-10-10 coordinating account adopted this restricted result after its separately organized noncontributor review, at that original scope.
@@ -376,7 +376,7 @@ Historical novelty is not claimed.
 The complete original author SELF account is retained in [R738](../audits/reviews/Yin_R_G0738_v1.md#original-g225-author-self-finding), with the actual original checking scope and date precision.
 
 Author freeze: 2026-10-09T21:54.
-That original freeze covers complete Sections1--5, equations(1)--(18), source/reuse boundaries, actual controls and the failed sparse-balancing scope inspected in R124.
+That original freeze covers complete Sections1--5, equations(1)--(18), source/reuse boundaries, actual controls and the failed sparse-balancing scope inspected by that original finding retained in R777.
 
 
 

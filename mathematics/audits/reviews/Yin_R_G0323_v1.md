@@ -4,7 +4,8 @@ author: Yin
 # Actual extraction review of fixed-rank coefficient-index rigidity
 
 Date: 2026-10-12T18:05.
-Human record author Yin. g0001_review_recovery reviews the ACTUAL registered C90 at 2026-10-12T18:01, including ALL A--F, the entire preserved corrected D46 argument and every invoked interface.
+Human record author Yin.
+g0001_review_recovery reviews the ACTUAL registered C90 at 2026-10-12T18:01, including ALL A--F, the entire preserved corrected D46 argument and every invoked interface.
 Root authored D46 and its actual corrections; g0001_matrix_recovery authored this wrapper after separately reviewing the initial and corrected original.
 This reviewer contributed neither D46 mathematics nor this wrapper.
 Prior accepted-ancestor review roles include C71 original/actual reviews, C74 actual review and C84/C87 actual reviews; earlier C57 review and C59 wrapper roles concern different old results.

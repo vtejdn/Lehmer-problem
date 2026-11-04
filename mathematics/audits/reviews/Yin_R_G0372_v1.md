@@ -18,7 +18,7 @@ The entire actual v2 was read, and a read-only textual comparison with retained 
 The added correction account and changed decision/source selection were checked separately.
 The complete unchanged source/input interfaces had just been read and checked in R371; their applicability was reconsidered section by section below without a recursive ancestor/source-proof audit.
 R371's changes-required finding and v1's false8 remain untouched.
-Prior C149/R511 and C151/R513 reviews, the earlier read-only D35 source/reuse assistance, and the old C137 antecedent authorship behind the C140 comparison retain their recorded roles.
+Prior C149/R367 and C151/R369 reviews, the earlier read-only D35 source/reuse assistance, and the old C137 antecedent authorship behind the C140 comparison retain their recorded roles.
 C148/J96 is a comparison, not a new native verification here.
 
 No fixed C, source, execution/strategy or shared navigation record was edited by this reviewer.

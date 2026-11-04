@@ -98,7 +98,7 @@ The nontrivial zero component has mean0, and global sign symmetry gives E_pi Z_n
 Write m_n=E_pi|Z_n|^2 and h_n=E_pi[Z_n | support component].
 Then
 
-| n | m_n | ||h_n||_2^2 |
+| n | m_n | \|\|h_n\|\|_2^2 |
 | --- | --- | --- |
 | 7 | (1324-547u)/2195 | 0 |
 | 8 | (3672-1560u)/5339 | 0 |

@@ -4,7 +4,7 @@
 ## Bounded standard-identity reading, 2026-10-09
 
 The original selected statement, applicability and inspected-version account is retained in [JR17-U001](Yin_U001.md#jr17-u001).
-[Retained JR17.pdf](../../../literature/pdf/JR17.pdf) and the sole bibliographic, acquisition locate the actual source holdings.
+The [retained JR17.pdf](../../../literature/pdf/JR17.pdf) is the selected local source; bibliographic identity belongs to [references.bib](../../../literature/references.bib).
 The current responsible unit preserves the original publisher-HTML reading and selected retained-v1 comparison, their 2026-10-09 precision, and their source-proof and whole-version limits.
 The complete current project proof is [C_G387v2](../../../claims/Yin_C_G0387_v2.md#argument).
 The project's original mathematical input and actual historical review account remain [L_G164](../../../ledger/Yin_L_G0164_v1.md) and [R_G63](../../reviews/Yin_R_G0063_v1.md#matching-character-independent-review).

@@ -195,7 +195,7 @@ The recorded review description was `independently reviewed`.
 | dependency | [Monogenic short-window interface](Yin_C_G0017_v1.md#statement) | ONLY E_T=1 for T<d in actual O0, hence a below-one packet has actual union width at least d; no full duality or optimizer claim needed. |
 | dependency | [Actual short-width proof](Yin_C_G0014_v2.md#short-width-power-order-obstruction) | Power-basis uniqueness after an actual unit shift, integer coefficients below degree d and the actual lower union-width boundary. |
 | support | [Original whole independent finding](../audits/reviews/Yin_R_G0278_v1.md#isolated-extra-window-whole-independent-finding) | Complete original D18 proof and its inspected direct interfaces; it does not cover this new registered statement/wrapper or prospectively adopt it. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0280_v2.md#c63-isolated-extra-window-actual-extraction-finding) | Entire actual statement, completely retained argument/history and all current direct interfaces, independently inspected after allocation by a noncontributor. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0280_v2.md#c63-isolated-extra-window-actual-extraction-finding) | Entire actual statement, completely retained argument/history and all current direct interfaces, separately inspected after allocation by a noncontributor. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 

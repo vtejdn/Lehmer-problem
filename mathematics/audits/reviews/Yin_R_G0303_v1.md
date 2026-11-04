@@ -4,7 +4,8 @@ author: Yin
 # Independent whole review of the period-eighteen frozen six-digit family
 
 Date: 2026-10-12T15:58.
-Human record author Yin. g0001_matrix_recovery is the separately assigned reviewer of root's COMPLETE D36 periodic-family argument.
+Human record author Yin.
+g0001_matrix_recovery is the separately assigned reviewer of root's COMPLETE D36 periodic-family argument.
 Root authored all new period/table/seam/padding/midpoint/invariant mathematics and cannot independently review it.
 The reviewer authored the parallel D35 local-test/old-library account and C76's extraction wrapper; these antecedent contributions are explicitly disclosed and are not independently certified here.
 D36 credits D35's local algebra but proves the entire local criterion again, and its new periodic family and consequences do not use D35 as a pending premise.
@@ -18,7 +19,7 @@ These descriptive counts identify the inspected state; exact mathematical scope 
 
 The reviewer first read the actual complete D36 and enumerated its obligations, reconstructed all finite identities/tables and both midpoint parities by hand, and then directly reread C76's original operator/Dirichlet and global-gap interfaces.
 Root's assignment and the target's author explanations were supplied.
-The reviewer knows the parallel D35 argument from authorship and saw its separate R407 status while completing an unrelated meaning-preserving D35 maintenance request.
+The reviewer knows the parallel D35 argument from authorship and saw its separate R302 status while completing an unrelated meaning-preserving D35 maintenance request.
 That is not a prior review of D36.
 No earlier D36 finding was relied upon.
 
@@ -28,11 +29,16 @@ D33/J93 were named as an unreviewed DISCOVERY LEAD by the author; their native o
 The17-digit word, its quotient, all local obstructions and every infinite-family conclusion were reconstructed directly.
 No mathematical native program, finite enumeration, numerical evaluation, source acquisition or external theorem was used.
 
+The initial entire D36 input included C80's complete author verification checklist and AUTHOR proof-draft conclusion beyond the necessary derivation.
+The precise additional contents of the separately supplied author explanations remain unrecorded, but that uncertainty does not remove the known author-validation input.
+The whole finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole periodic-family finding](#period18-whole-independent-finding) | independently reviewed |
+| [Whole periodic-family finding](#period18-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

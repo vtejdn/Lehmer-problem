@@ -11,11 +11,11 @@ This reviewer contributed no construction, regularization choice, balance, cutof
 
 The arrangement was NOT blind.
 Shared G0001 context, root's candidate description, the reported target formula and root's listed review concerns were available before the assignment.
-This reviewer had independently reviewed the OLD C131 as R484, without authoring it, and is an author of the separate C146 inquiry; neither role supplies new C147 proof authorship.
+This reviewer had independently reviewed the OLD C131 as [R798 original moving-cutoff](Yin_R_G0798_v1.md#moving-cutoff-whole-independent-finding), without authoring it, and is an author of the separate C146 inquiry; neither role supplies new C147 proof authorship.
 No C146 application is included in this review.
 The reviewer had no proof contribution to the relevant C137, L229 or L209 arguments.
 The actual C147 was first read and its obligations enumerated to root, then its formulas and precise inputs were reconstructed.
-The old R484 arrangement was reread afterwards to verify the previous role, not to replace the present numerical recheck.
+The old [R798 original moving-cutoff](Yin_R_G0798_v1.md#moving-cutoff-whole-independent-finding) arrangement was reread afterwards to verify the previous role, not to replace the present numerical recheck.
 No previous C147 review or author's agreement was used to establish a verdict.
 
 ## Review relationships
@@ -183,7 +183,7 @@ Every source-domain, provenance and limitation in the current fixed Claim is con
 This was a separately organized whole written-proof review, including all fifteen formulas and every selected input/support.
 It did not use the author's approval as evidence, run mathematical code, create a J, formally verify the theorem or recursively audit the external source proofs.
 Those unperformed activities do not substitute for or enlarge the written scope above.
-The existing C131 R484 was relevant only to the disclosed old reviewer role; its numerical step was freshly reconstructed here.
+The existing C131 [R798 original moving-cutoff](Yin_R_G0798_v1.md#moving-cutoff-whole-independent-finding) was relevant only to the disclosed old reviewer role; its numerical step was freshly reconstructed here.
 No fixed C, E/T/S, source record or adoption selector was changed by the reviewer.
 
 The required next action is the Claim owner's adoption judgment, not a mathematical correction identified by this review.

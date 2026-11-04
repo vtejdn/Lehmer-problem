@@ -203,7 +203,7 @@ The recorded review description was `under review`.
 | support | [Necessary coefficient-denominator boundary](Yin_C_G0050_v1.md#statement) | General original-unit q-growth and complete q-versus-M/surplus distinction, as a consistency comparison only. |
 | support | [Full first-window existence](Yin_C_G0017_v1.md#statement) | Accepted full E_d<1 comparison, distinct from the restricted diagonal obstruction. |
 | support | [Actual quadratic optimum](Yin_C_G0020_v1.md#statement) | Accepted a3,T2 optimum1/3 comparison only; all present q4 arithmetic is independently local. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0261_v1.md#modular-rounding-whole-independent-finding) | Original18:00 D7 whole proof only. The same reviewer's present wrapper contribution bars a self-supplied independent actual extraction verdict. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0261_v1.md#modular-rounding-whole-independent-finding) | Original18:00 D7 whole proof only. The same reviewer's present wrapper contribution bars a self-supplied independent actual extraction verdict. Finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -225,7 +225,7 @@ The recorded review description was `under review`.
 | support | [Necessary coefficient-denominator boundary](Yin_C_G0050_v1.md#statement) | General original-unit q-growth and complete q-versus-M/surplus distinction, as a consistency comparison only. |
 | support | [Full first-window existence](Yin_C_G0017_v1.md#statement) | Accepted full E_d<1 comparison, distinct from the restricted diagonal obstruction. |
 | support | [Actual quadratic optimum](Yin_C_G0020_v1.md#statement) | Accepted a3,T2 optimum1/3 comparison only; all present q4 arithmetic is independently local. |
-| support | [Original whole independent finding](../audits/reviews/Yin_R_G0261_v1.md#modular-rounding-whole-independent-finding) | Original18:00 D7 whole proof only. The same reviewer's present wrapper contribution bars a self-supplied independent actual extraction verdict. |
+| support | [Original whole finding](../audits/reviews/Yin_R_G0261_v1.md#modular-rounding-whole-independent-finding) | Original18:00 D7 whole proof only. The same reviewer's present wrapper contribution bars a self-supplied independent actual extraction verdict. Finding relationship: self-reviewed. |
 | review | [Actual extraction](../audits/reviews/Yin_R_G0262_v1.md#c54-modular-rounding-actual-extraction-finding) | Actual fixed statement, complete original preservation and present mathematical/computation interfaces, inspected separately from the original whole scope. |
 
 ## Registration and preservation

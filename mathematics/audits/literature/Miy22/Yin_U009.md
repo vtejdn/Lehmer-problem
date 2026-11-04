@@ -6,13 +6,13 @@ author: Yin
 # Miy22-U009: Kronecker's Theorem and the One-Normal-Generator Criterion
 
 - Source: [Miy22](../../../literature/pdf/Miy22.pdf), Section 2.3, printed/PDF pp. 7-8, especially Theorem 2.8; references [11] and [16] on p. 24.
-- Date and authorization: 2026-09-09, the user requested the audit status and a comparison with Yin_C_F0004.
+- Date and authorization: 2026-09-09, the user requested the audit status and a comparison with the earlier one-normal-generator argument.
 - Previous boundary: [U002](Yin_U002.md#miy22-u002) checked the theorem's statement, bounded-operator hypothesis and pole conventions, and independently proved the downstream decay consequence.
   It explicitly did not audit the complete original Kronecker or Partington proof.
   The original Miy22 source audit completion record retains that historical boundary.
 - New scope: a complete local proof of the exact Theorem 2.8 statement, including the rank/pole equality, together with a proof-level comparison.
   The coordinating agent and the classical-proof reviewing agent independently reconstructed the state-space argument.
-  The comparison reviewing agent independently checked the Haar block identities and Yin_C_F0004 rank refinement.
+  The comparison reviewing agent independently checked the Haar block identities and the earlier one-normal-generator argument rank refinement.
   Exact final reviews are recorded below; no complete audit of either cited original or any book is claimed.
 
 ## Exact Statement and Conventions
@@ -127,9 +127,13 @@ This proof also explains U002's repeated-pole repair: one chooses a radius stric
 The stronger printed rate at the pole modulus itself fails for \(\alpha_n=(n+1)t^n\), 0<t<1.
 Neither the theorem nor Corollary 2.9 fails.
 
-## Comparison with Yin_C_F0004: The Same Finite-Dimensional Mechanism
+## Historical one-normal-generator comparison: the same finite-dimensional mechanism
 
-Under Yin_C_F0004, the normal spectral representation is \(M=L^\infty(S,\mu)\), X is multiplication by z, and \([D,X]=P_\Omega\) makes mu nonatomic.
+The original fixed Claim proof and its exact-rank review home have not been located in the current retained F-family collection.
+Current C_F0004 is an affine-capacity theorem and does not supply that proof.
+The comparison below preserves its actual mathematical mechanism and 2026-09-09 review limits; neither this reconstruction nor a current same-number Claim substitutes for the missing original fixed proof.
+
+Under the earlier one-normal-generator argument, the normal spectral representation is \(M=L^\infty(S,\mu)\), X is multiplication by z, and \([D,X]=P_\Omega\) makes mu nonatomic.
 For bounded f and finite-rank T_f=[D,f], scalar commutation gives
 
 \[
@@ -138,10 +142,10 @@ K_f(z,w)=\frac{f(z)-f(w)}{z-w}
 \quad\text{almost everywhere}.
 \]
 
-The authoritative proof and its domain checks remain in Yin_C_F0004.
+The authoritative proof and its domain checks remain in the earlier one-normal-generator argument.
 The mechanisms compare as follows:
 
-| Step | Kronecker / Miy22 Theorem 2.8 | Yin_C_F0004, one normal generator |
+| Step | Kronecker / Miy22 Theorem 2.8 | the earlier one-normal-generator argument, one normal generator |
 | --- | --- | --- |
 | Column family | Tails \((\alpha_{n+j})_{n\ge0}\) | Divided differences \((f(z)-f(w))/(z-w)\) indexed by w |
 | Finite-rank consequence | A finite backward-shift invariant state space | A finite-dimensional span of almost-everywhere defined difference columns |
@@ -151,13 +155,13 @@ The mechanisms compare as follows:
 | Hypotheses supplying structure | A bounded Hankel operator on the standard sequence space | A bounded normal generator and a bounded dual on the tracial spectral space |
 
 The pole statements are compatible.
-In Yin_C_F0004 a polynomial part is allowed, so total pole multiplicity is counted on the Riemann sphere, including infinity.
-The rank-degree equality was added to Yin_C_F0004 with a separate proof and review during this comparison.
+In the earlier one-normal-generator argument a polynomial part is allowed, so total pole multiplicity is counted on the Riemann sphere, including infinity.
+The rank-degree equality was added to the earlier one-normal-generator argument with a separate proof and review during this comparison.
 It is not justified merely by an analogy with Kronecker's theorem.
 
 For arbitrary compact spectral support and measure, the difference kernel need not be a Hankel matrix in an orthonormal monomial basis.
 The monomials may not be total, much less orthonormal.
-Therefore the general Yin_C_F0004 proof is not a direct application of the sequence-space theorem; it is a direct divided-difference argument with a measure-specific final pole exclusion.
+Therefore the earlier general one-normal-generator proof is not a direct application of the sequence-space theorem; it is a direct divided-difference argument with a measure-specific final pole exclusion.
 No classification of measures admitting a bounded dual, and no novelty claim for this criterion, is made here.
 
 ## Two Precise Bridges
@@ -217,9 +221,9 @@ f(z)=\beta_0+a_+(z^{-1})+a_-(z)
 \]
 
 The right side is rational and has no pole on the unit circle, hence supplies a bounded scalar rational expression in U.
-This proves the complete Haar instance of the Yin_C_F0004 reverse implication directly from Kronecker.
+This proves the complete Haar instance of the earlier one-normal-generator reverse implication directly from Kronecker.
 For any other bounded dual D', D'-D commutes with U, hence with U^{-1}=U* and W*(U); thus the commutators agree for all f.
-The argument therefore retains Yin_C_F0004's quantifier over dual systems.
+The argument therefore retains the earlier one-normal-generator argument's quantifier over dual systems.
 
 ## External Source Search and Verification Boundary
 
@@ -245,9 +249,6 @@ The coordinating agent read Miy22 pp. 6-8 and 24 and visually inspected p. 8.
 The finite-state realization, recurrence, coefficient integral, Hilbert-Schmidt sum, zero-pole test, difference identity and Haar blocks were checked mathematically.
 No numerical experiment, proof assistant, external human review, exhaustive historical search or novelty claim is asserted.
 
-Artifact verification, 2026-09-09: all 88 permanent Markdown files passed local file/anchor checks, and tracked changes passed the whitespace check.
-These are record-integrity checks, not a substitute for the mathematical reviews.
-
 ## Independent Review
 
 The final written reviews follow.
@@ -257,7 +258,7 @@ Comparison review, 2026-09-09, the comparison reviewing agent: independently che
 The one-power formal shift, the two Fourier blocks and signs, the orthogonal rank sum, and reconstruction by Fourier uniqueness are correct.
 Bounded Hardy components are conclusions after Kronecker, not assumed before applying it.
 The difference between arbitrary duals commutes with the entire Haar-generated algebra.
-The exact-rank refinement of Yin_C_F0004 has its own proof audit; it does not depend on this unit's classical theorem.
+The exact-rank refinement of the earlier one-normal-generator argument has its own proof audit; it does not depend on this unit's classical theorem.
 This review covers the comparison sections, complementing the complete classical-proof review below.
 
 2026-09-09, independent review by the classical-proof reviewing agent: the complete written Theorem 2.8 reconstruction passes.
@@ -275,7 +276,7 @@ The reversed-identity example correctly has rank m and a pole of order m at zero
 The geometric-decay radius is strictly larger than all pole moduli, preserving the repeated-pole correction.
 
 The formal divided-difference identity and its one-power shift were independently recomputed; the two Haar coefficient formulas also match direct word/Fourier action.
-The general spectral-measure comparison makes no orthonormal-monomial assumption and does not use the sequence theorem as a substitute for Yin_C_F0004's separate proof.
+The general spectral-measure comparison makes no orthonormal-monomial assumption and does not use the sequence theorem as a substitute for the earlier one-normal-generator argument's separate proof.
 The stated source limits agree with the actual inspection: Miy22's exact local statement and the modern MAR07 passages were read, while the original Kronecker and Partington proofs remain unreviewed.
 No substantive correction to this written proof was required.
 This review is mathematical and source-scoped; it is not a numerical or proof-assistant verification.

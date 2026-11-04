@@ -5,7 +5,7 @@ author: Yin
 # Complete true-radius critical recurrence, canonical information thresholds and excursion costs
 
 This retains the complete mathematical argument of [L285](../ledger/Yin_L_G0285_v1.md#complete-retained-proof-and-review), with its actual original authorship, source scopes, quantitative controls and unresolved mean questions.
-The original author check and R184 fixed-input review remain at their original homes; this registration supplies no new source inspection, native run or research execution.
+The original author check and original R184 fixed-input review retained in [R768](../audits/reviews/Yin_R_G0768_v1.md#actual-critical-return-complete-independent-review) remain at their original homes; this registration supplies no new source inspection, native run or research execution.
 
 ## Statement
 

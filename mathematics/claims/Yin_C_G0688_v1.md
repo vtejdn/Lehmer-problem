@@ -414,7 +414,7 @@ The new work is the global all-width budget, exact scalar first harmonic and its
 The weaker global estimate is used for positive fixed widths, not to claim an improvement of the contact-weighted shrinking corridor.
 C684 already implies divergence at each fixed0<tau<=1/64; that existing consequence is retained, not counted as a new exponent.
 The source applicability and inspection depths inherited from C684 remain unchanged: the general MS05 torsion/interlacing and accepted integer Bertrand statements, the locally proved weighted adaptation, and no new whole-source proof audit.
-The event-norm and finite height-splitting attribution remains the bounded Tao Notes1 account already retained by C678/C668, while the squared-Fejer attribution remains the C637 account.
+The event-norm and finite height-splitting attribution remains the bounded Tao Notes1 account already retained by C678/C641 v2, while the squared-Fejer attribution remains the C637 account.
 No external strong Hausdorff--Young theorem, independent original-circle coordinates, uniform Gram ratio or unregistered family is assumed.
 The actual positive measure interval log2<m(P_j)<log4 remains an explicit limitation for G0001.
 

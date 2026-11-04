@@ -50,7 +50,7 @@ Then
     Psi(h)<=liminf g_B<=limsup g_B<=h.
 At h=0 this forces g_B to0; at h>0 the lower bound is strictly greater than kappa h, but no existence/equality of the full limit is claimed.
 The ratio Psi(h)/h tends to kappa<1 near zero.
-C311's stronger hyperbolic fixed-prefix rate remains applicable in its actual domain.
+C310's stronger hyperbolic fixed-prefix rate remains applicable in its actual domain.
 All source-discovery leads remain unadopted, and no new source, J, numerical computation, C1 theorem, lossless neutral rate or uniform Mahler gap is asserted.
 
 ## Complete argument

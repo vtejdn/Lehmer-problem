@@ -8,7 +8,7 @@ Human record author: Yin.
 The reviewer is a separate subagent outside substantive development of C686, its coefficient-subring construction and its integer derivative lemma.
 This is the reviewer's first whole review of fixed C686 v1, covering its complete statement, all six proof sections HP2--HP7 and HP1--HP24.
 The fixed target was read before forming the finding, followed by the exact selected fixed inputs and necessary proof passages.
-The reviewer retained its own [C715 whole review](Yin_R_G0904_v1.md#whole-structured-higher-power-finding), [C710 whole review](Yin_R_G0901_v1.md#whole-first-preserving-low-elimination-finding), [C705 whole review](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding) and [C702 whole review](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding), and reused only current, unchanged applicable scopes after direct checks.
+The reviewer retained its own [C683 whole review](Yin_R_G0904_v1.md#whole-structured-higher-power-finding), [C680 whole review](Yin_R_G0901_v1.md#whole-first-preserving-low-elimination-finding), [C675 whole review](Yin_R_G0896_v1.md#whole-square-mod-eight-error-finding) and [C672 whole review](Yin_R_G0893_v1.md#whole-square-input-mod-four-finding), and reused only current, unchanged applicable scopes after direct checks.
 The new exact M_F power, different integer L_1, coefficient subrings, monic divisions, specified fourth-power residues, integer derivative lemma and complete final existence/count were independently rebuilt.
 No D35 or other draft, author development dialogue or summary, candidate derivation, other-agent inventory, native output or another reviewer's R was consulted.
 No native computation, coefficient search, parameter enumeration or external source acquisition was used.

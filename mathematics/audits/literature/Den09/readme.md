@@ -1,6 +1,6 @@
 # Den09 source audit
 
-The identifies the retained [arXiv:0905.0604v1 source](../../../literature/pdf/Den09.pdf), dated 5 May 2009.
+The inspected edition is the retained [arXiv:0905.0604v1 source](../../../literature/pdf/Den09.pdf), dated 5 May 2009.
 Printed and PDF pages agree.
 The publication-year key identifies the work; the inspection below is of this exact preprint, not a substituted journal version.
 This source study follows Yin's explicit request on 2026-10-06 to register and audit the papers cited in the Mahler/determinant discussion.

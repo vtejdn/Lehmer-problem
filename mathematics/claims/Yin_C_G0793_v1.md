@@ -9,7 +9,7 @@ The original_return_512 contributor developed this new bounded native calculatio
 The source graph logic, real-strip enclosures and original-coordinate quadratic mark are reused from the actual author programs of J52, with a separately declared new scope and reached-state cap.
 The old programs, outputs and accepted C776/C779 conclusions remain unchanged.
 No prior J52 review is transferred to this longer calculation.
-This candidate is OPEN pending fresh whole independent mathematical and native review.
+At author registration, this candidate was OPEN pending fresh whole independent mathematical and native review.
 
 ## Statement
 
@@ -187,7 +187,7 @@ The successful complete JSON is written through an atomic sibling replacement on
 The completed run required no cap or range change and left old programs and outputs intact.
 
 These are author calculations reusing author mathematical helpers, not independent implementation or formal verification of Python.
-Fresh independent whole inspection must cover FC1--FC6, the new graph cap/scope, native recurrences, saved vectors, complete old-prefix comparisons, exact p512, midpoint intervals and both finite tests before adoption.
+At the original author stage, fresh independent whole inspection was required to cover FC1--FC6, the new graph cap/scope, native recurrences, saved vectors, complete old-prefix comparisons, exact p512, midpoint intervals and both finite tests before adoption.
 The data can supply an exact input to a separately proved infinite-time radius estimate, but this Claim selects no such new estimate and makes no asymptotic conclusion.
 
 ## Current assessment

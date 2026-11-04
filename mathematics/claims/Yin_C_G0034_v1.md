@@ -95,7 +95,7 @@ The recorded review description was `under review`.
 | dependency | [Dependency](Yin_C_G0013_v2.md#nonreal-fixed-inventory-and-lifting-costs) | Its OWN nonreal arbitrary-nonzero-target completion, not a silent extension of C10 unit scope. |
 | support | [Support](../audits/literature/GL06/Yin_U001.md#gl06-u001) | Existing large-dimension Gram attribution only; new local real factor and exact rational-interior proof are physically complete. |
 | support | [Support](../audits/reviews/Yin_R_G0235_v1.md#minimal-rational-gram-whole-author-finding) | Whole 10:17 D2 Sections1-8/equations1-16 only; actual registered statement and later canonical source interfaces require their own finding. |
-| review | [Actual independent extraction finding](../audits/reviews/Yin_R_G0235_v1.md#c34-minimal-rational-gram-extraction-finding) | Exact registered statement, selected complete argument, current source/dependency interfaces and preservation; older whole-only findings retain their original scopes. |
+| review | [Actual self-reviewed extraction finding](../audits/reviews/Yin_R_G0235_v1.md#c34-minimal-rational-gram-extraction-finding) | Exact registered statement, selected complete argument, current source/dependency interfaces and preservation; older whole-only findings retain their original scopes. |
 
 ## Argument
 

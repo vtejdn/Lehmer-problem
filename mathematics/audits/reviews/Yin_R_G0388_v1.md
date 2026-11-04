@@ -7,7 +7,7 @@ Date: 2026-10-18T11:28.
 Human record author Yin.
 The coordinating agent assigned this separate whole review of [C163v1](../../claims/Yin_C_G0163_v1.md#statement), whose initial decision is dated 2026-10-18T11:24.
 Root is its sole proof contributor; this reviewer supplied no new deduction, repair or edit.
-The reviewer previously supplied the independent R532 inspection of C162, which is now an actually accepted input, not proof authorship of this consumer.
+The reviewer previously supplied the independent R387 inspection of C162, which is now an actually accepted input, not proof authorship of this consumer.
 
 The arrangement is non-blind.
 The assignment supplied the proposed quotient counts and constants, and the reviewer read the complete actual fixed C163 before reconstructing the group action, transport and two norm branches.
@@ -19,7 +19,7 @@ No mathematical program, prime scan, numerical inverse, new source acquisition o
 The actual initial context is not sufficiently specified to establish isolation before the first mathematical judgment.
 Fixed proposed counts and constants, own earlier C162 review and directly inspected accepted inputs do not themselves imply contribution to this new consumer.
 The whole finding therefore has an unknown relationship; original dates, mathematical checks and exact binding scopes remain unchanged, with no new review performed.
-The dated C162 adoption and original R532 input remain historical; R532 now declares unknown initial context, and the later AM16-U003 comparison keeps its separate source/application scope.
+The dated C162 adoption and original R387 input remain historical; R387 now declares unknown initial context, and the later AM16-U003 comparison keeps its separate source/application scope.
 
 ## Review relationships
 
@@ -34,7 +34,7 @@ The dated C162 adoption and original R532 input remain historical; R532 now decl
 | [Whole normal-trace finding](#normal-trace-whole-independent-finding) | [C163 complete statement](../../claims/Yin_C_G0163_v1.md#statement) | Genuine Salem inputs of original degree 2t>=4 with actual trace field Galois, every prime/ideal/lift, exact quotient alternatives and all supplied-class bounds, including the additional strictly unramified height conclusion. |
 | [Whole normal-trace finding](#normal-trace-whole-independent-finding) | [C163 complete argument](../../claims/Yin_C_G0163_v1.md#argument) | Regular trace action, full/even inversion kernel, small t, off-pair and identity counts, threshold cap, direct depth and constants, original-field transport, exponent expenses and strict unramified norm bound. |
 | [Whole normal-trace finding](#normal-trace-whole-independent-finding) | [L162 actual Salem kernel](../../ledger/Yin_L_G0162_v1.md#salem-kernel-class-population) | Full kernel for even t and even-weight containment for odd t, actual trace splitting quotient, complete elementary complex-conjugation proof and the retained CM10 attribution limits; no splitting theorem. |
-| [Whole normal-trace finding](#normal-trace-whole-independent-finding) | [C162 accepted orbital theorem](../../claims/Yin_C_G0162_v1.md#statement) | Actual nontorsion unit ratio, original fields/fibers, gamma/s norm income, both gap functions and all signed-norm/time costs, with its actual 19:22 whole-reviewed adoption through R532 checked before use. |
+| [Whole normal-trace finding](#normal-trace-whole-independent-finding) | [C162 accepted orbital theorem](../../claims/Yin_C_G0162_v1.md#statement) | Actual nontorsion unit ratio, original fields/fibers, gamma/s norm income, both gap functions and all signed-norm/time costs, with its actual 19:22 whole-reviewed adoption through R387 checked before use. |
 | [Whole normal-trace finding](#normal-trace-whole-independent-finding) | [C147v5 complete inverse](../../claims/Yin_C_G0147_v5.md#statement) | Exact capped H5 and monotonicity in the supplied income, including the equality case at its cap; not an angular estimate or an executed inversion. |
 | [Whole normal-trace finding](#normal-trace-whole-independent-finding) | [The26b local valuations](../literature/The26b/Yin_U001.md#the26b-u001) | Residue Frobenius lifts and valuation normalization; unramifiedness in L makes positive local values integers only in the additional branch. |
 | [Whole normal-trace finding](#normal-trace-whole-independent-finding) | [AM16 prior abelian coverage](../literature/AM16/Yin_U002.md#am16-u002) | Existing stronger absolute-height theorem when the actual trace field is abelian and the relative degree is at most two, with inherited source-proof limits. |

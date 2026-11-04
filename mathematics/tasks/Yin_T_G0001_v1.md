@@ -164,7 +164,7 @@ Autonomous internal decomposition and additional route selection are authorized 
 Use the [execution rules](../../framework/rules/execution.md) and the applicable stopping conditions in the selected Task decision when an actual autonomous run begins.
 Registration and activation alone grant no research execution.
 The Task remains mathematically unresolved.
-The [responsible current continuation](../strategies/Yin_S_G0001.md#parallel-algebraic-haar-2026-10-15) locates the parallel algebraic and F-inspired inquiries and their review limits, with earlier pause handoffs preserved as history; the selected decision below owns lifecycle.
+The [responsible current continuation](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the current allocation across all eight routes and their retained inquiries and review limits, with earlier pause handoffs preserved as history; the selected decision below owns lifecycle.
 
 ## Current decision
 [Selected decision](#decision-resume-after-account-handoff-2026-10-25)

@@ -23,11 +23,15 @@ J91/J92 outputs are not a premise or substituted for an all-length proof.
 No new source-original theorem, full-book audit or native mathematical execution is asserted.
 The inherited local finite conditional-expectation facts retain their existing attribution scope.
 
+The initial C70 input included its author validation checklist beyond the necessary derivation.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Primitive-reflection whole finding](#primitive-reflection-whole-independent-finding) | independently reviewed |
+| [Primitive-reflection whole finding](#primitive-reflection-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

@@ -23,11 +23,16 @@ The new verify.py was completely read and AST-parsed before its actual SINGLE ex
 Source inspection and material checks alone are not presented as that native reproduction.
 Actual C60 original-law/quotient/operator/gap interfaces and the C55 two-word comparison were read at the precise scopes used; this is not a new whole review of those Claims.
 
+The initial context included author explanations and the complete C64 author validation account before the whole/native finding.
+Separately implemented arithmetic execution remains an algorithmic fact, distinct from the supplied mathematical review context.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole proof and finite native finding](#quartic-frozen-components-whole-independent-finding) | independently reviewed |
+| [Whole proof and finite native finding](#quartic-frozen-components-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

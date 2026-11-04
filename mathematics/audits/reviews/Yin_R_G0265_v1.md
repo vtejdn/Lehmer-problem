@@ -6,7 +6,8 @@ author: Yin
 Date: 2026-10-12T10:30.
 Human record author Yin.
 Separately assigned noncontributor AI reviewer g0001_review_recovery.
-Root supplied the substantive candidate and rounding_recovery authored D10. g0001_routes independently reviewed that original proof in R263 and then AUTHORED this C56 wrapper.
+Root supplied the substantive candidate and rounding_recovery authored D10.
+g0001_routes reviewed that original proof in R263 under the actual SELF arrangement and then authored this C56 wrapper.
 This reviewer contributed to none of that mathematics or extraction.
 No human external referee or formal verification is claimed.
 

@@ -217,7 +217,8 @@ W_x is the complete INTEGER word-weight sum over all original n-digit words, wit
 The unique opposite endpoint is -beta^(-1)x; it contributes only when represented by an actual original finite odd word.
 Multiplying the two original block laws gives C_n/16^n and conditional endpoint probability W_x W_y/C_n.
 Every stated row of C_n, matched/positive group counts, m_n and a_n is the same exact rational trace pair in the retained output and independent verification.
-In particular the n9 displayed denominator522155 is merely the same unreduced presentation of the verified pairs, not changed data. h_n=m_n-a_n preserves every conditional-mean contribution.
+In particular the n9 displayed denominator522155 is merely the same unreduced presentation of the verified pairs, not changed data.
+h_n=m_n-a_n preserves every conditional-mean contribution.
 The full return counts75,201,547,1481,4083 are word counts with all zero weights retained, not uniform probabilities.
 The6171 row and6387 complete-word totals identify the actually reproduced native scope without extending it.
 

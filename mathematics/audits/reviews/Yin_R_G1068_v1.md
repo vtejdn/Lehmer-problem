@@ -7,7 +7,7 @@ author: Yin
 Human record author: Yin.
 Review act: 2026-10-28T23:06 UTC.
 This separately assigned reviewer was outside substantive proof development and received the fixed C848 statement, complete proof, exact dependency locators and review obligations without the development dialogue, author explanation or a previous target verdict.
-No mutable Draft, including the linked D44, was read.
+No mutable Draft, including C848's currently linked D7 provenance, was read.
 The target's own contributor and attribution statements were read as part of the fixed artifact, not as evidence of correctness.
 Initial findings were formed from the target and the required mathematical interfaces before comparing applicable accepted-input reviews.
 No substantive repair or new proof premise was supplied.

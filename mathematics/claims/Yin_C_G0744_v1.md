@@ -12,8 +12,8 @@ Provenance: project deduction from the exact adopted stronger source, component 
 Root proposed the stronger-source extension and its finite parameter and endpoint formulas.
 Salem_completion checked the entire fixed C742 source and component proof, the exact adopted uniform local domains, every new-factor root/degree expense, actual low-prefix induction and the separate first-only highest step.
 These are author contributions, not independent review.
-The fixed [C742 primary34/33 and actual both8 source](Yin_C_G0742_v1.md#statement) is now [adopted through fresh whole R1137](Yin_C_G0742_v1.md#decision-whole-reviewed-2026-10-25).
-The [C741 finite source mechanisms](Yin_C_G0741_v1.md#complete-argument) are now [adopted through whole R1136](Yin_C_G0741_v1.md#decision-whole-reviewed-2026-10-25).
+The fixed [C742 primary34/33 and actual both8 source](Yin_C_G0742_v1.md#statement) is now [adopted through fresh whole R962](Yin_C_G0742_v1.md#decision-whole-reviewed-2026-10-25).
+The [C741 finite source mechanisms](Yin_C_G0741_v1.md#complete-argument) are now [adopted through whole R961](Yin_C_G0741_v1.md#decision-whole-reviewed-2026-10-25).
 This complete author candidate is not adopted; the accepted inputs do not supply independent review of its assembly.
 C741's old H17 global conclusion is not extrapolated: local canonical identities are reused at their actual coefficient-uniform scopes and new full-primary budgets are paid from C742.
 No mutable D41 argument or old higher global polynomial is a premise.
@@ -154,7 +154,7 @@ Its exact mod8 identity through phi^(6A) is
     delta O_2=phi^(4A)(k_2^5/H_0)v_1^2 modulo phi^(6A).
 
 The coefficient square root has q/256 power and all targets/lower factors admit the selected r_1 root lifts.
-The genuine dyadic, odd and old-divisor carries are those in C742's C767-consuming proof.
+The genuine dyadic, odd and old-divisor carries are those in C742's C730-consuming proof.
 The jet keeps F8/X4 and its high W change leaves NS5 unchanged.
 Its derivative is q/256 and new quarter global q/1024, so its final Z_1 has actual power q/2048, J_W factor, degree<15h/16+3A and full binary phi^A order.
 The highest8Z_1 gives BOTH8, derivative q/256 and next eighths global q/2048.

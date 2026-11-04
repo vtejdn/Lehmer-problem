@@ -66,10 +66,26 @@ Self-check covers both Fourier orientations and the contiguous interval in(4); n
 Actual completion: 2026-10-22T19:22.
 Relationship: self-reviewed.
 
-I inspected the complete actual published Statement against all four full original proofs and their exact original-law inputs. Both Abel correlations retain n0, complete whole-order endpoints and possibly different reach/hit lengths; support is EXACTLY the actual core only for their product. The distinguished-visit split uses last-zero prefixes, not first-hit-to-x, and counts repeated visits with the correct special zero factor F. Thus every probability correction and finite quotient sign is charged. The actual postcritical golden failure remains outside U convergence and is not a false counterexample to critical positivity.
-The two L1 Abel measures have their actual weighted pushforward orientations and unique all-order weak limits, including transient eta_R. Nontorsion/ergodicity is explicit. The absolutely continuous decomposition, positivity-set invariance, finite measurable but not assumed-integrable log density, one-Lipschitz truncation and exact log4 contradiction justify pure singularity without an uninspected Birkhoff or Bochner proof. Both directions of the bounded-convolution mean criterion use the full nonnegative Fourier sequence and finite Fejer necessity. The reciprocal image J is not ordinary equality; the actual singleton singular/Haar control proves precisely that separate-factor regularity is unnecessary. Accepted Wal18 foundations retain their original inspected and uninspected limits.
-For regularity I checked all-centered and translated cube enclosures under actual M and M inverse, nonnegative transient source terms, t0/Q/delta choices and uniformity in t only. Every expanding real/complex volume and inverse-unit determinant in the one-sided Lp lower estimate remains, and essential unboundedness is obtained on positive-measure sets rather than evaluating a single exceptional point. All coefficient-box constants and infinite occupation boundaries survive.
-For the mixed theorem I checked the complete contiguous original word identity at n=m0, strict interior summability/Tonelli, diagonal divided difference and transient critical correction. Nonnegative l1 coefficients give exact density norms and uniform errors, without assuming the difference is pointwise nonnegative. Complete last-zero and inverse first-hit lengths use distinct actual coefficient matrix norms and retain the EXTRA inverse Lambda factor. The first-return sequence is possibly defective; the sufficient higher-moment bound is conditional, and both-critical infinity is not suppressed. Every rational quartic/s<R/u<R comparison and the exhaustive non-L2 critical alternatives hold without knowing recurrence. No new native/source proof, old relationship classification, M04 closure or research is asserted.
+I inspected the complete actual published Statement against all four full original proofs and their exact original-law inputs.
+Both Abel correlations retain n0, complete whole-order endpoints and possibly different reach/hit lengths; support is EXACTLY the actual core only for their product.
+The distinguished-visit split uses last-zero prefixes, not first-hit-to-x, and counts repeated visits with the correct special zero factor F.
+Thus every probability correction and finite quotient sign is charged.
+The actual postcritical golden failure remains outside U convergence and is not a false counterexample to critical positivity.
+The two L1 Abel measures have their actual weighted pushforward orientations and unique all-order weak limits, including transient eta_R.
+Nontorsion/ergodicity is explicit.
+The absolutely continuous decomposition, positivity-set invariance, finite measurable but not assumed-integrable log density, one-Lipschitz truncation and exact log4 contradiction justify pure singularity without an uninspected Birkhoff or Bochner proof.
+Both directions of the bounded-convolution mean criterion use the full nonnegative Fourier sequence and finite Fejer necessity.
+The reciprocal image J is not ordinary equality; the actual singleton singular/Haar control proves precisely that separate-factor regularity is unnecessary.
+Accepted Wal18 foundations retain their original inspected and uninspected limits.
+For regularity I checked all-centered and translated cube enclosures under actual M and M inverse, nonnegative transient source terms, t0/Q/delta choices and uniformity in t only.
+Every expanding real/complex volume and inverse-unit determinant in the one-sided Lp lower estimate remains, and essential unboundedness is obtained on positive-measure sets rather than evaluating a single exceptional point.
+All coefficient-box constants and infinite occupation boundaries survive.
+For the mixed theorem I checked the complete contiguous original word identity at n=m0, strict interior summability/Tonelli, diagonal divided difference and transient critical correction.
+Nonnegative l1 coefficients give exact density norms and uniform errors, without assuming the difference is pointwise nonnegative.
+Complete last-zero and inverse first-hit lengths use distinct actual coefficient matrix norms and retain the EXTRA inverse Lambda factor.
+The first-return sequence is possibly defective; the sufficient higher-moment bound is conditional, and both-critical infinity is not suppressed.
+Every rational quartic/s<R/u<R comparison and the exhaustive non-L2 critical alternatives hold without knowing recurrence.
+No new native/source proof, old relationship classification, M04 closure or research is asserted.
 
 Administrative sentence inspection: 2026-10-22T19:23.
 The final original pending-review sentence is expressed as its historical subsequent action; no mathematical statement, proof, bound or review input changed.

@@ -52,8 +52,7 @@ These are local reading findings, not an author-issued erratum.
 | Finding | Source passage | Correction and effect |
 | --- | --- | --- |
 | F01 | p. 4 twice attributes the explicit determinant formula to Theorem 1.3 | The formula is Theorem 1.2; Theorem 1.3 is the integer-capacity lower bound. |
-| F02 | Proposition 2.4, p. 7, prints `sup_n ||T_n|| <= infinity` | Use a finite uniform norm bound.
-The actual applications supply it. The reconstructed ordinary-determinant argument is in U001. |
+| F02 | Proposition 2.4, p. 7, prints `sup_n \|\|T_n\|\| <= infinity` | Use a finite uniform norm bound. The actual applications supply it. The reconstructed ordinary-determinant argument is in U001. |
 | F03 | p. 8, sentence immediately after Proposition 2.8 | The normalized map is automatically unital; its adjoint is not automatically unital for an arbitrary positive matrix. U001 gives the correct formula and a counterexample. Capacity minimizers and the quantified approximation input supply the missing adjoint normalization in the proof. |
 | F04 | Definition 2.5(v), Remark 2.6(iii), and Proposition 2.8, pp. 7-8 | For matrix size one the printed indecomposability test is vacuous, including the zero map. Require positive capacity when using the scaling conclusion, or handle this scalar zero case separately. The main theorem already separates zero capacity. |
 | F05 | Lemma 3.5(i), pp. 11-12, compared with the scaling definition on p. 8 | For coefficients `c1 ai c2` the covariance is `eta_{c1,c2*}`, with the corresponding adjoint correction. All scaling factors actually used later are positive matrices, so the main proof is unaffected. U002 records the full formulas. |

@@ -387,7 +387,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T08:40 |
 | status | proved |
-| reason | Adopt R482 complete actual noncontributor review. Full Euler comparable-prime layers lose positive triple density as the nonendpoint pool grows; arbitrary capacity thinning with a fixed positive retained fraction has original-window capture. All original-law, Newton, time, norm and boundary costs are proved. Vanishing retained mass, general mixed/scaled inventories and actual coverage remain open. |
+| reason | Adopt [R798 original Euler-layer](../audits/reviews/Yin_R_G0798_v1.md#euler-layer-whole-independent-finding) complete actual noncontributor review. Full Euler comparable-prime layers lose positive triple density as the nonendpoint pool grows; arbitrary capacity thinning with a fixed positive retained fraction has original-window capture. All original-law, Newton, time, norm and boundary costs are proved. Vanishing retained mass, general mixed/scaled inventories and actual coverage remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

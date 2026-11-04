@@ -4,12 +4,16 @@ author: Yin
 
 # Three consecutive cuts resolve the equal-modulus branch
 
+Current checking scope is owned by [R46](../audits/reviews/Yin_R_G0046_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Bounded G0001 derivation by assigned AI `growth_arithmetic_status` for Yin.
 The assigned agent derived the three-cut rigidity, exceptional-cut count and complete local collar alternative.
 The coordinator requested an explicit cost control and proposed the family (1+t)(1-t^L), whose full properties are checked below.
 The coordinator is therefore a contributor to that control, not an independent reviewer of the complete account.
-Full independent review is recorded below.
+The full checking account below retains the responsible findings' actual relationships.
 No new source or numerical execution is part of this derivation.
 
 Use the exact domain of [L G0142](Yin_L_G0142_v1.md#two-block-phase-elimination): P is a monic irreducible integer polynomial of degree d, with constant coefficient +/-1, positive logarithmic Mahler measure, and q>0 roots on the unit circle.

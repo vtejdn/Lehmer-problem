@@ -9,7 +9,7 @@ Root separately reviews angular_envelope_review's entire fixed C174v1 after read
 Root supplied the boundary-layer question but no contact expansion, cap model, Fourier estimate, phase-average argument, moment calculation or mathematical repair.
 This is nonblind review: the author's development and messages were available, and the earlier D52 author body was read before the fixed Claim.
 Root contributed to upstream L402/C158/C172; their separate accepted findings and precise interfaces are reused, not re-described as new independent audits.
-Root previously reviewed C171 and C173 in R563/R576 and checks their new applications here.
+Root previously reviewed C171 and C173 in R417/R430 and checks their new applications here.
 The mathematical body was preserved; an encoding defect in the word Holder and a raw vertical bar in an input-table cell were corrected as presentation only.
 No mathematical program, numerical Fourier sum or parameter scan was used.
 
@@ -40,7 +40,7 @@ The encoding and table-cell presentation corrections change no mathematics and c
 | [Whole narrow-contact finding](#narrow-contact-whole-independent-finding) | [Original projection](../../claims/Yin_C_G0158_v1.md#statement) | Original residual rank, 2d normalization, actual circle range/mean and complete signed Fourier convention. |
 | [Whole narrow-contact finding](#narrow-contact-whole-independent-finding) | [Original Laurent identity](../../ledger/Yin_L_G0321_v1.md#residual-laurent-square-identity) | Actual positive Gram inverse and exact factorization of1-k, without replacing P or omitting a conjugate. |
 | [Whole narrow-contact finding](#narrow-contact-whole-independent-finding) | [Inverse-pair independence](../../claims/Yin_C_G0165_v1.md#off-pair-salem-ratio-proof) | Actual multiplicative independence proof and its fixed-input character consequence; no Galois-group genericity or rate. |
-| [Whole narrow-contact finding](#narrow-contact-whole-independent-finding) | [Bounded-Lipschitz comparison](../../claims/Yin_C_G0173_v1.md#scalar-transform-statement) | Uniform theorem used only for tau in a fixed interval away from zero; unchanged upstream R576 reused. |
+| [Whole narrow-contact finding](#narrow-contact-whole-independent-finding) | [Bounded-Lipschitz comparison](../../claims/Yin_C_G0173_v1.md#scalar-transform-statement) | Uniform theorem used only for tau in a fixed interval away from zero; unchanged upstream R430 reused. |
 | [Whole narrow-contact finding](#narrow-contact-whole-independent-finding) | [Paid L1 comparison](../../claims/Yin_C_G0172_v1.md#moving-cubic-original-l1-return) | Only the unresolved epsilon_j/tau cost and its correct scope; no silent moving-transform extension. |
 
 <a id="narrow-contact-whole-independent-finding"></a>

@@ -242,5 +242,5 @@ There is no claim of a Lehmer gap, and the argument does not include unit-circle
 
 ## Original contribution and actual checks
 
-The complete original base,addition,contributor and necessary-input checking account is retained in [R546](../audits/reviews/Yin_R_G0546_v1.md#complete-original-l110-checking-account).
-Its original inputs,date,mathematical scopes and verdicts remain unchanged,with the exact base-versus-addition and finding-specific relationships.
+The complete original base, addition, contributor and necessary-input checking account is retained in [R546](../audits/reviews/Yin_R_G0546_v1.md#complete-original-l110-checking-account).
+Its original inputs, date, mathematical scopes and verdicts remain unchanged, with the exact base-versus-addition and finding-specific relationships.

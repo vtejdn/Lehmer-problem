@@ -499,7 +499,7 @@ The required classical Poisson identity, differentiated coefficient calculation 
 The actual Cauchy convolution in(OP20) is the fixed elementary integral from C629v3; all new density changes and normalizations are proved explicitly here.
 The root count, residue, geometric negative spectrum, contact correction and per-k cardinality result are local deductions about those actual objects.
 
-A further bounded local screen read C143's finite-projection scope and C479/CRW08-U001's distinct finite Blaschke compression lead.
+A further bounded local screen read C143's finite-projection scope and C475/CRW08-U001's distinct finite Blaschke compression lead.
 Neither supplies the uniform ratio control needed in Section5.
 Their unrelated H4 examples, original source proof depths and fixed-input limits are not mathematical inputs here.
 No external absence, priority or novel general model-space theorem is asserted.

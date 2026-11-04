@@ -4,9 +4,13 @@ author: Yin
 
 # Near-one coefficient and convolution budgets in the retained collar recipe
 
+Current checking scope is owned by [R572](../audits/reviews/Yin_R_G0572_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08--09.
 Bounded G0001 derivation by the coordinating AI and the assigned execution_and_deliverables AI for Yin, with the separate endpoint/discriminant gate contributed by entropy_status.
-The coordinator accepted this result for fixed-ledger preservation on 2026-10-09 after the complete independent review recorded below.
+The coordinator accepted this result for fixed-ledger preservation on 2026-10-09 after the complete recorded review below, at its responsible finding's actual relationship.
 No numerical mathematical run, optimization or new source intake is involved.
 The mathematical cost below concerns the specified sufficient recipe, not the actual least energy window or a necessary orbit length.
 

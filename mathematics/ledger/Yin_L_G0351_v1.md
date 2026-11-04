@@ -276,9 +276,6 @@ The sole new native files are J79 budget-release-author.py (8,353bytes) and budg
 Whole noncontributor proof and full different-method native review remain pending.
 No new computation or expansion is authorized by this freeze.
 
-During coordinated retirement of D213, root reported one working-tree broad-check missing-target failure while the live draft still carried the former draft href.
-Before this freeze the actual dependency href was relocated to fixed L347 with its retained anchor, and all historical D213 wording was preserved as provenance.
-This was a transient link-coordination failure, not a mathematical failure; root owns the subsequent broad recheck.
 
 
 

@@ -94,7 +94,8 @@ Earlier faithful models at long periods in L81 are compatible with it.
 ## Source and verification limits
 
 The direct elementary adaptations above were checked in full.
-The L209 proof and its Pri11/Dim19 accepted interfaces are reused at their recorded independently reviewed statement/applicability scope; no fresh proof audit of those external results or later source version was performed.
+The project L209 proof is reused through its recorded whole finding with unknown initial context.
+Its Pri11/Dim19 external inputs remain accepted at statement/applicability scope; no fresh proof audit of those external results or later source version was performed.
 BV19b's finite collision definitions were checked against the current local source audit; its density equivalences and sum-product inputs are not dependencies of this deduction.
 No new source acquisition, numerical program, exact parameter scan, formal verification or Task completion audit occurred.
 Historical novelty is not assessed.

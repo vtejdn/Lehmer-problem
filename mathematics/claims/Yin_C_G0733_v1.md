@@ -62,7 +62,7 @@ The large source q guarantees128|A, which is more than the composition precision
 
 ### G1024.1. Exact finite n9 source and output interface
 
-For the finite construction additionally take the COMPLETE actual source domain and canonical polynomials of fixed [C730 AS512.1](Yin_C_G0730_v1.md#statement), now [adopted through fresh isolated whole R1122](Yin_C_G0730_v1.md#decision-whole-reviewed-2026-10-25).
+For the finite construction additionally take the COMPLETE actual source domain and canonical polynomials of fixed [C730 AS512.1](Yin_C_G0730_v1.md#statement), now [adopted through fresh isolated whole R951](Yin_C_G0730_v1.md#decision-whole-reviewed-2026-10-25).
 In particular its source has h_b>145a, the stronger actual J_K^+,J_W^+ factors, both actual prepared coordinates omega=0 and nu_full in(phi^(A/2)), and the twice changed integer K_star with precisely the binary root/power/Delta data in L1024.1.
 Choose the ORIGINAL q in the ranges below before invoking that adopted construction.
 The consumed output is an actual same-degree T_512 with
@@ -490,7 +490,7 @@ Every correction is even, so actual odd-canonical reduction preserves these bina
 The reciprocal degree remains2d, and the separate synthetic layer is12m_src q with all other layers zero; it is not identified with actual G(T).
 The stronger local first2048 conclusion in L10.3 still applies to the final T_1024, but the next actual second-low2048 error remains the legitimate quarter L10.19 and has not been shown zero.
 No simultaneous global2048, arbitrary-precision induction, characteristic-zero solution, small-Mahler/root/irreducibility claim or unrestricted Task conclusion is supplied.
-The integrated local-plus-n9 argument is complete as author work under the exact C730 source input, now adopted through fresh isolated whole R1122.
+The integrated local-plus-n9 argument is complete as author work under the exact C730 source input, now adopted through fresh isolated whole R951.
 
 ## Current assessment
 [Selected decision](#decision-whole-reviewed-2026-10-25)

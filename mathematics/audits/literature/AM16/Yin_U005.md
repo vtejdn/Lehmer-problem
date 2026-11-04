@@ -22,7 +22,7 @@ Passages: Height normalization on printed1/PDF2, complete Theorem2.1 across prin
 Inspection: Direct pdftotext reading of the actual retained PDF pages2--3, checking the complete statement, its continuation and adjacent attribution. Fixed K=Q and each fixed positive rank are accepted; no original Amoroso--David or Delsinne proof audit, explicit constant extraction or varying-rank uniformity.
 
 
-The [actual postprint](../../../literature/pdf/AM16--author-postprint.pdf) identify the inspected edition.
+The [actual postprint](../../../literature/pdf/AM16--author-postprint.pdf) identifies the inspected edition.
 The author-order erratum and original proof-inspection boundaries remain those of [U001](Yin_U001.md#am16-u001).
 The earlier units deliberately accepted narrower rank-one or rank-two applications and remain unchanged.
 

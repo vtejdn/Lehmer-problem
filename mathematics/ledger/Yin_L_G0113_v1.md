@@ -4,6 +4,10 @@ author: Yin
 
 # An exact finite-section barrier for short integer forcing
 
+Current checking scope is owned by [R549](../audits/reviews/Yin_R_G0549_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct derivation by the assigned review_matrix_completion AI agent for Yin.
 The argument reuses the explicit outer factor of L G0111 and turns its impulse estimate into an exact polynomial variational problem.

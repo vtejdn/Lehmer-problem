@@ -238,7 +238,7 @@ def main():
     beta,zeta=roots()
     out={'scale':Q,'author_code_imported':False,
          'triangles':triangle_check(json.loads((j18/'triangles.json').read_text()),beta,zeta)}
-    out['enumeration'],candidates=enumeration_check(json.loads((j19/'compact.json').read_text()),embedding_matrix(beta,zeta),beta)
+    out['enumeration'],candidates=enumeration_check(json.loads((_J_PROGRAM.parent/'Yin_J_G0019/inputs/compact.json').read_text()),embedding_matrix(beta,zeta),beta)
     out['continuations']=continuation_check(json.loads((j19/'paths.json').read_text()),candidates)
     (base/'verification.json').write_text(json.dumps(out,indent=2)+'\n')
     print(json.dumps(out,indent=2))

@@ -66,7 +66,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-21T22:16 |
 | status | proved |
-| reason | Adopt the new R673 isolated whole finding after complete coordinator reading of the entire42443-character R. It covers the exact registered three-condition theorem, all selected order/cone/matrix/rationality/cost and genuine-Salem specialization, and the complete corrected monic-resultant interface. Its additional biquadratic control is a separate checked scope, not an extra top registered conclusion. Preserve original R293 negative/correction/precision, R214--R293/R220 SELF and their actual source/date limits; no historical isolation, Task/E or uniform-cost conclusion is supplied. |
+| reason | Adopt the new R673 isolated whole finding after complete coordinator reading of the entire42443-character R. It covers the exact registered three-condition theorem, all selected order/cone/matrix/rationality/cost and genuine-Salem specialization, and the complete corrected monic-resultant interface. Its additional biquadratic control is a separate checked scope, not an extra top registered conclusion. Preserve original R217 negative/correction/precision and R214/R217/R220 SELF and their actual source/date limits; no historical isolation, Task/E or uniform-cost conclusion is supplied. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -685,7 +685,7 @@ Root's substantive supplied proof candidate is not an independent review.
 
 ## Extraction operation and preserved history
 
-2026-10-11T17:29: reusable mathematical registration extracts L391 Sections1--4 and the genuine-Salem specialization in L388, with historical R293/R214 whole findings.
+2026-10-11T17:29: reusable mathematical registration extracts L391 Sections1--4 and the genuine-Salem specialization in L388, with historical R217/R214 whole findings.
 Fixed L originals and R findings are preserved.
 The complete author accounts below retain their original freezes, contribution disclosures, corrections, comparisons and historical pending statements.
 The present decision controls current assessment; copied historical pending prose is not an alternative selection.

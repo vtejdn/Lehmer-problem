@@ -15,37 +15,43 @@ It would nevertheless be inaccurate to describe this whole review activity as in
 
 The corrected entire body was fixed in L423 with its original date 2026-10-18T17:30 and actual retention timestamp 2026-10-18T17:35.
 The reviewer reread the actual fixed body, all five sections, twelve formulas and seven input rows after the author's correction.
-The core proof finding is a separately organized independent review.
+The core proof finding covers the twelve unchanged core formulas and their original-law consumer at its actual SELF relationship.
+It excludes the reviewer-contributed comparison counterexample and the corrected comparison qualification, whose support belongs to the separate self-reviewed countercontrol.
 The countercontrol in this R is separately labeled self-reviewed and is not represented as an independently checked author theorem.
 No duplicate Claim or counterexample ledger is created.
 
 This is nonblind review: root's scope request, the author's completed-scope messages and the review correspondence were available.
-The reviewer previously reviewed C170 in R556, L419 in R574, L421 in R578 and L422 in R579, and authored J106's independent verifier underlying R412.
+The reviewer previously reviewed C170 in [R803 original short-overlap](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding), L419 in R428, L421 in R432 and L422 in R433, and authored J106's independent verifier underlying R412.
 Those upstream roles are reused at their stated scopes and do not constitute authorship of the current finite theorem or original-law consumer.
 The actual L409, L329, L411, L417, C170 and J106 interfaces and their stated boundaries were read.
 No new native execution, graph enumeration, numerical gap estimate, source acquisition, formal proof or eight-vertex extension occurred.
+
+The complete initial L423 read included its original whole-author validation checklist, now retained with its original date at R743's original-author finding.
+That additional author verification account is distinct from the twelve core derivations.
+The core finding is therefore self-reviewed; its original independent declaration remains historical, and the reviewer-contributed comparison countercontrol retains its separate SELF scope.
+All performed core checks, comparison corrections, exact inputs, dates and mathematical conclusions remain intact.
 
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | independently reviewed |
+| [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | self-reviewed |
 | [Comparison countercontrol](#odd-comparison-countercontrol) | self-reviewed |
 
 ## Review bindings
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [Complete fixed L423](../../ledger/Yin_L_G0423_v1.md#odd-defect-reuse) | Entire final corrected exploration, all twelve formulas, five sections, seven input rows and exact comparison qualification. |
+| [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [Complete fixed L423](../../ledger/Yin_L_G0423_v1.md#odd-defect-reuse) | The twelve unchanged core formulas, five-section core argument and seven input interfaces; excludes the reviewer-contributed comparison reasoning and its corrected qualification, which are covered by the separate SELF countercontrol. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [Finite exact theorem](../../ledger/Yin_L_G0423_v1.md#odd-component-exact-theorem) | Attained minimum, all self-sign/exchanged components, s=0, s=1, zero odd subspace, selected-component variant and finite four-state comparison. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [Original full-word involution](../../ledger/Yin_L_G0423_v1.md#odd-carry-original-involution) | Exact negation of all digits, full conditional fibers, original weights, true midpoint and every clipped odd test. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [All-late capture](../../ledger/Yin_L_G0423_v1.md#odd-defect-fixed-capture) | Uniform selected mass and odd coefficients, all angular constants, delta=1 and B=0, actual finite lattice set and unchanged digit-work clock. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [Automatic original mass](../../ledger/Yin_L_G0423_v1.md#zero-component-complete-original-mass) | Complete half-return mass, both legal clearing blocks, selected transition probabilities, q0 versus s, null subsequence and the six reused finite controls. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [Remaining obligations](../../ledger/Yin_L_G0423_v1.md#odd-component-remaining-input) | No automatic positive all-late component mass or uniform odd coefficient; isolated/high-edge mass and topology remain insufficient. |
-| [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [Seven inputs](../../ledger/Yin_L_G0423_v1.md#odd-defect-inputs) | Complete dependencies, comparisons, author relationships and the author's recorded comparison correction. |
+| [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [Seven inputs](../../ledger/Yin_L_G0423_v1.md#odd-defect-inputs) | Complete core dependency interfaces and retained author relationships; the author's comparison correction is located here but its contributed reasoning is covered by the separate SELF countercontrol. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [L409 finite defect](../../ledger/Yin_L_G0409_v1.md#bulk-component-defect) | All-function optimization and finite component coercivity, not an inherited odd-minimum proof. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [L409 clipped capture](../../ledger/Yin_L_G0409_v1.md#bulk-one-defect-midpoint-capture) | Odd clipped projections, full angular integration, fixed constants before time, both real and neutral places and original work clock. |
-| [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [R414 prior finding](Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Independently reviewed upstream L409 scope, with its actual author/reviewer relationships. |
+| [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [R414 prior finding](Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Checked upstream L409 scope at its actual UNKNOWN relationship. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [C170 operator and energy](../../claims/Yin_C_G0170_v1.md#short-overlap-operator-and-energy) | Both complete conditional expectations, block lengths n+2, true complex midpoint energy at most four and digit-work normalization. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [C170 full endpoint law](../../claims/Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix) | Every original tail-word fiber, actual components, original probabilities and full c_(2n)(0) normalizer. |
 | [Whole corrected odd-interface finding](#odd-component-whole-independent-finding) | [R803 upstream analytic review](Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | This reviewer's earlier independent C170 finding, not a new execution or proof contribution. |
@@ -69,7 +75,8 @@ No new native execution, graph enumeration, numerical gap estimate, source acqui
 <a id="odd-component-whole-independent-finding"></a>
 ## Whole corrected finding
 
-**PASS for the complete final L423 body, with the comparison correction and reviewer contribution disclosed above.**
+**PASS for the twelve unchanged core formulas and their complete original-law consumer.**
+The final body's corrected comparison is supported separately by the reviewer-authored SELF countercontrol below; this core finding does not cover that separate contribution.
 All twelve formulas, the attained finite minimum and the conditional original-law consumer are correct at their stated scopes.
 The initial global comparison was not accepted and is not silently erased: its precise obstruction is retained in the separate finding below.
 The final material correctly distinguishes a weaker odd test class from one particular sufficient component-mass/energy mechanism.

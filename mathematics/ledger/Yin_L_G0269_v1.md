@@ -6,9 +6,9 @@ author: Yin
 
 Date: 2026-10-10.
 
-Current responsible mathematical home: [C480](../claims/Yin_C_G0480_v1.md#statement), proved by its selected2026-10-22T00:06 decision after the [complete R697 independent whole finding](../audits/reviews/Yin_R_G0697_v1.md#c484-whole-independent-finding).
+Current responsible mathematical home: [C480](../claims/Yin_C_G0480_v1.md#statement), proved by its selected 2026-10-22T00:06 decision after the [complete R697 independent whole finding](../audits/reviews/Yin_R_G0697_v1.md#c484-whole-independent-finding).
 The prior actual07:27 decision after the [complete R691 whole SELF](../audits/reviews/Yin_R_G0691_v1.md#rank-two-sextic-whole-self-finding) retains its original inputs and relationship.
-The original `Yin_R_G0168_v1#cubic-trace-complete-independent-review` remains historically UNKNOWN at its entire original scope, with [the full later comparison](../audits/reviews/Yin_R_G0697_v1.md#l269-and-r168) preserving its exact10:34 review/source/native/contribution account and the distinct10:30 original author SELF.
+The original `Yin_R_G0168_v1#cubic-trace-complete-independent-review` remains historically UNKNOWN at its entire original scope, with [the full later comparison](../audits/reviews/Yin_R_G0697_v1.md#l269-and-r168) preserving its exact 2026-10-10T02:34 review/source/native/contribution account and the distinct 2026-10-10T02:30 original author SELF.
 [Sha74-U001](../audits/literature/Sha74/Yin_U001.md#sha74-u001) retains the exact original author/reviewer attribution reading, edition and source-depth/time/access limits.
 The full exploration, old mathematical/source statements, contribution/clarification/failed-implication history and fixed review input below remain; historical active/independent wording grants no present Task/E authority or fresh isolated coverage.
 The coordinating AI for Yin adopts this restricted result after complete separately organized noncontributor review under the continuing G0001 authorization.
@@ -395,7 +395,7 @@ Merely taking larger powers of this D, declaring all-circle roots cheap, replaci
 <a id="cubic-trace-unit-author-selfcheck"></a>
 ### 9. Author self-check and freeze
 
-At2026-10-10T02:30 the author completed the whole written check of Sections1--8, equations(1)--(19), both root sign intervals and the actual degree-six irreducibility argument;
+At 2026-10-10T02:30 the author completed the whole written check of Sections1--8, equations(1)--(19), both root sign intervals and the actual degree-six irreducibility argument;
 the order inverses, logarithmic rank, norm signs, cube relation and exact primitive content;
 all integer exponents in(11)--(12); both interpolation comparisons and the real-relaxation domain;
 each leading/root factor in(15)--(18);
@@ -415,4 +415,4 @@ This body and J62 author files are now frozen for a separate complete noncontrib
 No fixed adoption or unrestricted gap is asserted.
 
 
-The original whole review of this complete fixed input was `Yin_R_G0168_v1#cubic-trace-complete-independent-review`, completed2026-10-10T02:34; [the later full comparison](../audits/reviews/Yin_R_G0697_v1.md#l269-and-r168) preserves its inspected scope, actual inputs, no-required-repair verdict and UNKNOWN relationship without backdating a later C/U read.
+The original whole review of this complete fixed input was `Yin_R_G0168_v1#cubic-trace-complete-independent-review`, completed 2026-10-10T02:34; [the later full comparison](../audits/reviews/Yin_R_G0697_v1.md#l269-and-r168) preserves its inspected scope, actual inputs, no-required-repair verdict and UNKNOWN relationship without backdating a later C/U read.

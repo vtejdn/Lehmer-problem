@@ -82,14 +82,14 @@ The theorem does not evaluate DP7 or assert that every earlier first-repair choi
 
 The bound q>=8192 is sufficient, not asserted optimal.
 It is a condition on the initially selected actual q, not a silent increase of a fixed smaller input or a claim that high q alone solves the residuals.
-For the C697/C698/C724 input families, a=2m and the already paid representative gives h_b>181a.
+For the C667/C668/C691 input families, a=2m and the already paid representative gives h_b>181a.
 For each selected q>=8192 the unchanged costs are
 
     A=2mq, d=q(30m+degY_0),
     original integer layer weight=12mq,
     canonical degree gap=q(5m-Q-5degH_aux),          (DP8)
 
-with gap q(m-8-5degH_aux) for C724.
+with gap q(m-8-5degH_aux) for C691.
 Actual maximal q is inherited only where the original normalized nonsquare input proves it.
 No new support, enlarged degree for that q, characteristic-zero residual identity, original realization or Mahler estimate is supplied.
 

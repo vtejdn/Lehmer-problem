@@ -133,7 +133,8 @@ The result is ready for separately recorded fixed adoption; G0001 remains active
 
 ## Review relationships
 
-The original account records a broad assignment without a new proof step, fixed upstream inputs and available agent progress messages. The substantive contents and initial ordering of the messages are not established; supplying the broad task or authoring an accepted upstream proof is not itself target-proof contribution.
+The original account records a broad assignment without a new proof step, fixed upstream inputs and available agent progress messages.
+The substantive contents and initial ordering of the messages are not established; supplying the broad task or authoring an accepted upstream proof is not itself target-proof contribution.
 
 | Review | Relationship |
 | --- | --- |

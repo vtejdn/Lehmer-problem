@@ -222,7 +222,7 @@ All new algebra is explicit over F_2 and the stated elementary local rings; no n
 The accepted C634, C621v2 and C630 inputs retain exactly the prior R840, R825v2 and R833 scopes.
 C197/C199 original graph, valuation, scalar Jensen/Kronecker and cyclotomic-source arguments remain accepted fixed inputs with their recorded Smy08/Bel17 and ancestor-proof limitations.
 No original classical source was reacquired or fully re-audited in this review.
-Historical SELF/UNKNOWN findings, including the inherited R623/R635 relationship boundary, are preserved and are not promoted by this new independent finding.
+Historical SELF/UNKNOWN findings, including the inherited R477/R489 relationship boundary, are preserved and are not promoted by this new independent finding.
 The author's two implementations remain author checks; the separately named reviewer program supplies new independent native evidence only at the declared three targets.
 No formal proof assistant verification, originality claim or unrestricted G0001 completion is asserted.
 

@@ -207,7 +207,7 @@ The higher first-error inverse solves only the first residual; it does not suppl
 
 The exact C202 changing-divisor mechanism, C603 actual first-quarter calculation, C689 first inverse and required quotient/composition mechanisms, C700 complete integer first-eighth calculation, and C694 non-phi ideal/factor proof were read directly and rechecked at every point consumed by C702.
 C675's required global representative and odd-quotient mechanisms were also read directly, so no unexplained free remainder coordinate is substituted.
-The C699 construction was read to identify its actual hypotheses, exact integer factor outputs, degree/cost formulas and derivative limitations; its older C699/C707/C710/C715/C718/C728 construction chain remains accepted fixed upstream mathematics rather than a new recursive whole-audit claim here.
+The C699 construction was read to identify its actual hypotheses, exact integer factor outputs, degree/cost formulas and derivative limitations; its earlier C669 half obstruction, C677 first correction, C680 low elimination, C683 higher-power and C686/C695 carry constructions remain accepted fixed upstream mathematics rather than a new recursive whole-audit claim here.
 No prior R conclusion is borrowed to replace any C702 derivation.
 There is no dependency cycle: C700 supplies an explicit error formula and C689 supplies a separate next-bit inverse, neither of which presumes the earlier-bit surjectivity or automatic phi^A result proved in C702.
 

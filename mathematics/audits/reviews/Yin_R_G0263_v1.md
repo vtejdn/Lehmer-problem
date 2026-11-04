@@ -24,11 +24,16 @@ These established inputs are reused only at those interfaces, not re-audited as 
 D10 explicitly does not depend on C52, and this reviewer uses no C52 premise.
 All new classification, rational realization, support accounting, norm/copy arithmetic, limit and quartic facts were independently reconstructed by exact hand reasoning.
 
+The initial complete C56 input included its author validation checklist and completed-outcome account, expressly retained as author evidence.
+Not using it as this reviewer's reasoning does not remove that supplied mathematical context.
+The affected findings below are self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole finding](#central-binomial-whole-independent-finding) | independently reviewed |
+| [Whole finding](#central-binomial-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

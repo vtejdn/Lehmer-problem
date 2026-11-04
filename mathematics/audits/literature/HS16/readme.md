@@ -1,7 +1,5 @@
 # HS16: multidimensional interior criterion
 
-Exact version and acquisition:.
-
 [U001](Yin_U001.md#hs16-u001) checks Theorem 1.1, the source's path-connectedness interface, and the complete residue-class proof on pp.1--4.
 The literal image-span wording of Proposition 1.5 is replaced by an independently proved endpoint-path statement sufficient for that proof.
 The connectedness results cited by the source remain external at statement scope.

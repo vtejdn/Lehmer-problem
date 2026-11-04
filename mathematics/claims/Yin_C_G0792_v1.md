@@ -75,7 +75,7 @@ No unconditional global selected-X8 family, new source-jet condition, arbitrary 
 
 This is new author work by primitive_second_eight after the fixed low-quarter/source candidates.
 The input below is an ACTUAL original height-one F8/selected-X4 seed whose entire low quarter is zero.
-Its existence from C832/C834 remains subject to their responsible whole reviews and selected adoptions; no existence assertion is borrowed merely from a candidate.
+Its existence from C789/C791 remains subject to their responsible whole reviews and selected adoptions; no existence assertion is borrowed merely from a candidate.
 The theorem here is conditional on the displayed actual input and uses the adopted C781/C784 canonical response, not an automatic square assumption.
 
 ### HI1. Actual input and genuine correction class

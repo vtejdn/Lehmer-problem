@@ -9,7 +9,7 @@ Provenance: project deduction under the unchanged [G0001 original contract](../t
 Root identified the mismatch between the copied-block strong first-bit target and the source eleventh-root gate.
 The characteristic_zero_bridge agent derived and checked the formula directly for arbitrary actual monic T in its stated local domain, including legitimate halves, every true integer representative, the nontrivial source root, all three branches and the exact dyadic consequence.
 Root read the entire saved ST1--ST12 proof.
-Both agents are substantive contributors; fresh isolated whole review and separate adoption remain outstanding.
+Both agents are substantive contributors; fresh isolated whole review and separate adoption were still outstanding at author registration.
 No normalized square-base assumption, artificial independent canonical variables, Hensel factorization, native computation or new original-source theorem is used.
 The complete argument is fixed below without a D proof dependency.
 [C676 BC4](Yin_C_G0676_v1.md#complete-argument) and [C713 OB2](Yin_C_G0713_v1.md#complete-argument) are earlier normalized-source comparisons only; their additional square-base, derivative and earlier-bit hypotheses are not premises or silently transferred conclusions here.
@@ -149,7 +149,7 @@ Root identified the possible mismatch between the copied-block strong target and
 Characteristic_zero_bridge derived the formula below directly for ANY actual monic T in its stated binary domain, using localization of the genuine modulo4 quotient; no normalized square-base or artificial independent canonical coordinates are assumed.
 The actual source inputs read are [C691 DG6](Yin_C_G0691_v1.md#decision-whole-reviewed-2026-10-24), [C736's genuine integer canonical and Delta interface](Yin_C_G0736_v1.md#decision-whole-reviewed-2026-10-25), and the exact [C724 dyadic covariance](Yin_C_G0724_v1.md#decision-whole-reviewed-2026-10-25).
 C676 BC4 and C713 OB2 were read as earlier normalized-source comparisons; their square-base, derivative, earlier-bit and K hypotheses are NOT silently transferred to the present arbitrary T.
-The [adopted C764 ZC3/ZC9 target](Yin_C_G0764_v1.md#decision-whole-reviewed-2026-10-25) was read at its exact strong-target/source scope without modifying D35 or its fixed material; C764's review is not a review of this new argument.
+The [adopted C764 ZC3/ZC9 target](Yin_C_G0764_v1.md#decision-whole-reviewed-2026-10-25) was read at its exact strong-target/source scope without modifying that fixed material; C764's review is not a review of this new argument.
 The present argument neither borrows C764's review nor depends on a new source existence assertion: its conclusion applies to every ACTUAL input having the explicit binary and target properties below.
 No Hensel factorization, native computation or unproved full-primary modulo4 assembly is used.
 
@@ -378,7 +378,7 @@ No source existence or independent review is borrowed, and no characteristic-zer
 | --- | --- |
 | date | 2026-10-25T23:39 |
 | status | open |
-| reason | Register the complete ST1--ST12 author theorem after root read the entire genuine localization/annihilator proof, actual Delta and integer-division calculation, canonical local half equivalence, exact nontrivial source root, all three branch classes, original strong-target precision ceiling, corrected last-m condition and dyadic consequence. The arbitrary-T local domain is separate from C764's global-evenness specialization; no normalized square-base hypothesis, Hensel factor or global higher-bit assembly is imported. Root and characteristic_zero_bridge are substantive contributors, not independent reviewers; fresh isolated whole review and separate adoption remain outstanding. The corrected branch still needs its actual additional class and any global assembly; no new higher-precision realization or unrestricted Task completion is asserted. |
+| reason | Register the complete ST1--ST12 author theorem after root read the entire genuine localization/annihilator proof, actual Delta and integer-division calculation, canonical local half equivalence, exact nontrivial source root, all three branch classes, original strong-target precision ceiling, corrected last-m condition and dyadic consequence. The arbitrary-T local domain is separate from C764's global-evenness specialization; no normalized square-base hypothesis, Hensel factor or global higher-bit assembly is imported. Root and characteristic_zero_bridge are substantive contributors, not independent reviewers; fresh isolated whole review and separate adoption were still outstanding at author registration. The corrected branch still needs its actual additional class and any global assembly; no new higher-precision realization or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

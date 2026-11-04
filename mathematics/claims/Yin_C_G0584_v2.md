@@ -252,7 +252,7 @@ The next section's product at original conjugates uses these squared absolute va
 
 2026-10-15T15:52.
 Root develops this new bounded calculation directly in the continuing positive arithmetic/Gram inquiry.
-It follows the actual C149 norm-square interface and the author-complete [C151 energy obstruction](Yin_C_G0151_v1.md#untransformed-three-defect-energy-obstruction), whose complete independent review was pending when this section began and is now adopted through C151/R513; this new Section7 itself remains author-only.
+It follows the actual C149 norm-square interface and the author-complete [C151 energy obstruction](Yin_C_G0151_v1.md#untransformed-three-defect-energy-obstruction), whose complete independent review was pending when this section began and is now adopted through C151/R369; this new Section7 itself remains author-only.
 Root is a proof contributor to that input and to this section.
 The general coefficient-energy and positive-weight mechanisms are already fixed in C50/C78/L318; the following is their exact application to the specified three defects, not a new general capacity theorem.
 No native program is used, and this section is not yet independently reviewed.
@@ -351,7 +351,7 @@ Draft_comparison_cleanup derived and checked the original-polynomial discriminan
 This is author-level synthesis, not an independent review of that new comparison.
 The comparison author supplied no construction or proof correction to C198.
 This comparison was first written while C198 was pending.
-The actual [C198v1 statement](Yin_C_G0198_v1.md#statement) is now adopted by its [whole-reviewed decision](Yin_C_G0198_v1.md#decision-whole-reviewed-2026-10-20) through R626, so its quantitative conclusion supplies the fixed input(IG1).
+The actual [C198v1 statement](Yin_C_G0198_v1.md#statement) is now adopted by its [whole-reviewed decision](Yin_C_G0198_v1.md#decision-whole-reviewed-2026-10-20) through R480, so its quantitative conclusion supplies the fixed input(IG1).
 No mutable draft is a logical input, and no mathematical program, parameter scan, new finite-degree cutoff or new source acquisition is used.
 
 ### Original domain and the exact adopted input

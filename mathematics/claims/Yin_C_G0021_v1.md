@@ -90,7 +90,7 @@ The recorded review description was `under review`.
 | dependency | [Dependency](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Individual E_d<1 for ACTUAL monic irreducible nontorsion integer-unit P_d in O_0; no uniform deficit or optimizer inherited. |
 | dependency | [Dependency](Yin_C_G0014_v2.md#minimum-energy-mod-two-period-width) | h_2>=d and exact S2 class use the ACTUAL full O_0/2O_0, retaining all repeated factors. |
 | dependency | [Dependency](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Nonzero original resultants, final weights and actual width d+1; its separate reciprocal lifting theorem is not used. |
-| review | [Current independent finding](../audits/reviews/Yin_R_G0225_v1.md#c21-first-window-deficit-extraction-finding) | Exact registered statement, selected complete argument, changed interfaces and dependencies in this physical version; preserved original reviews are not silently expanded. |
+| review | [Current finding](../audits/reviews/Yin_R_G0225_v1.md#c21-first-window-deficit-extraction-finding) | Exact registered statement, selected complete argument, changed interfaces and dependencies in this physical version; preserved original reviews are not silently expanded. Finding relationship: self-reviewed. |
 
 ## Argument
 

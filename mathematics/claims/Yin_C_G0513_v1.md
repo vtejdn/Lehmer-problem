@@ -152,7 +152,7 @@ No new native calculation, selected numerical input, external-source proof audit
 | support | [Exact support](Yin_C_G0162_v1.md#statement) | Earlier strategy scope only, not automatic high-residue-degree layer density. |
 | support | [Exact support](Yin_C_G0483_v1.md#own-ratio-old-mass-proof) | Prior coverage comparison only, not a new subclass or near-one family. |
 | dependency | [Exact dependency](../audits/literature/Con26d/Yin_U001.md#con26d-u001) | Existing monic Theorem4.1 and monic Gauss scope only for the displayed translated monic family; no nonmonic extension or new source reading. |
-| review | [Exact review](../audits/reviews/Yin_R_G0724_v1.md#complete-all-prime-layer-whole-self-finding) | Entire exact all-prime Statement and complete original nine sections/equations1–21, full layer capacities/companion-corank/Smith floor, original single-time capture and strict capped inverse, complete reciprocal and all-prime torsion controls, source/input/contribution/negative limits and the open automatic-coverage boundary. Actual current relation is SELF; old R559 whole UNKNOWN remains separate. |
+| review | [Exact review](../audits/reviews/Yin_R_G0724_v1.md#complete-all-prime-layer-whole-self-finding) | Entire exact all-prime Statement and complete original nine sections/equations1–21, full layer capacities/companion-corank/Smith floor, original single-time capture and strict capped inverse, complete reciprocal and all-prime torsion controls, source/input/contribution/negative limits and the open automatic-coverage boundary. Actual current relation is SELF; old R413 whole UNKNOWN remains separate. |
 
 ## Complete retained argument
 
@@ -531,7 +531,7 @@ No numerical experiment or unrestricted G0001 conclusion is supplied.
 
 | Material | Role in this argument |
 | --- | --- |
-| [C142v2 adopted statement](Yin_C_G0142_v2.md#statement) | Direct dependency: general finite real phi-capacity weak moment and positive-triple capture, with its existing GW21-U002 scope and R497 whole review. No fresh source proof or independent re-review of that theorem is claimed. |
+| [C142v2 adopted statement](Yin_C_G0142_v2.md#statement) | Direct dependency: general finite real phi-capacity weak moment and positive-triple capture, with its existing GW21-U002 scope and R804 retained original whole review. No fresh source proof or independent re-review of that theorem is claimed. |
 | [C147v5 adopted statement](Yin_C_G0147_v5.md#statement) | Direct dependency: the same full original cyclic logarithmic norm, monotone Phi_5, capped strict inverse H_5 and powered-field multiplicities, at their declared source limits. |
 | [C88 finite gap/bucket mechanism](Yin_C_G0088_v1.md#statement) | Credited combinatorial antecedent; the needed counting proof is reproduced completely at (10), with the new layer inventory justified here. Its old good-prime arithmetic scope is not silently enlarged as a premise. |
 | [L205 bounded-residue theorem](Yin_C_G0491_v1.md#bounded-residue-mass-near-one-escape) | Direct dependency only for the old positive gap m(P_r)>=log 2/4 and prior-coverage exclusion of that control. |

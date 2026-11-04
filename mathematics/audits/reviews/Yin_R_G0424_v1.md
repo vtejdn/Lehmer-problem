@@ -8,7 +8,7 @@ Human record author Yin.
 Root separately reviews angular_envelope_review's entire corrected L415 and its J109 formal evidence.
 Root supplied the broad changed-family question and suggested releasing U_(3,5), but authored none of the new coefficient map, square identities, integer range closure or candidate reduction.
 The review is nonblind: author progress, complete proof and author native schema were available.
-Root authored upstream L412 and J108; their separate R565/R568 scopes are reused rather than claimed as new independent upstream review.
+Root authored upstream L412 and J108; their separate R419/R422 scopes are reused rather than claimed as new independent upstream review.
 The author wrote both J109 determinant methods; root wrote a third independent mathematical reconstruction using integer triangular inverse, Newton identities and tensor interpolation.
 Only the operating-system resource guard is reused, and all calculations share this Windows host and Python integer runtime.
 No formal proof, independent arithmetic hardware, new source theorem or broader matrix search is claimed.
@@ -41,8 +41,8 @@ No new existence argument, range bound or replacement exclusion mechanism was su
 | [Whole corrected four-entry finding](#four-entry-whole-independent-finding) | [Independent verification protocol](../../computations/programs/Yin_J_G0109/verify_protocol.md) | Declared81-node reconstruction, integer square identities and complete justified finite table; same caps before both verifier batches. |
 | [Whole corrected four-entry finding](#four-entry-whole-independent-finding) | [Original failed verifier](../../computations/programs/Yin_J_G0109/verify_initial.py) | Original exact source retained; failure before final payload, no successful initial comparison claimed. |
 | [Whole corrected four-entry finding](#four-entry-whole-independent-finding) | [Corrected independent verifier](../../computations/programs/Yin_J_G0109/verify.py) | Unchanged independent mathematics, two corrected expected entries and separate output directory; all81 complete pencils and32 actual candidates. |
-| [Whole corrected four-entry finding](#four-entry-whole-independent-finding) | [L412 original seed](../../ledger/Yin_L_G0412_v1.md#two-adic-fixed-witness) | Actual base matrix and complete target via separate R565; no independent review of own upstream proof. |
-| [Whole corrected four-entry finding](#four-entry-whole-independent-finding) | [J108 accepted old slice](../../computations/programs/Yin_J_G0108/readme.md#three-entry-author-results) | Exact w2 specialization and modulo3 boundary via separate R568 only. |
+| [Whole corrected four-entry finding](#four-entry-whole-independent-finding) | [L412 original seed](../../ledger/Yin_L_G0412_v1.md#two-adic-fixed-witness) | Actual base matrix and complete target via separate R419; no independent review of own upstream proof. |
+| [Whole corrected four-entry finding](#four-entry-whole-independent-finding) | [J108 accepted old slice](../../computations/programs/Yin_J_G0108/readme.md#three-entry-author-results) | Exact w2 specialization and modulo3 boundary via separate R422 only. |
 
 <a id="four-entry-whole-independent-finding"></a>
 ## Whole finding

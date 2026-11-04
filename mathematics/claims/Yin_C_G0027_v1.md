@@ -67,12 +67,12 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-11T20:27 |
 | status | open |
-| reason | Register the complete04:22 author proof and exact accepted source interface, preserving the old support result and new universal coefficient-denominator coupling. Separate whole and actual extraction review remain pending. |
+| reason | Register the complete 2026-10-11T20:22 author proof and exact accepted source interface, preserving the old support result and new universal coefficient-denominator coupling. Separate whole and actual extraction review remain pending. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | ACTUAL flat inputs/O_0/FIRST window only, fixedQ restricted gap and universal every-packet denominator escape along a HYPOTHETICAL positive-m-near-zero sequence, with exact q cancellation. |
-| argument | [Argument](#argument) | COMPLETE04:22 D22 author freeze, source/application hypotheses, Q1/strict-bound/sequence quantifiers and all full arithmetic costs. |
+| argument | [Argument](#argument) | COMPLETE 2026-10-11T20:22 D22 author freeze, source/application hypotheses, Q1/strict-bound/sequence quantifiers and all full arithmetic costs. |
 | dependency | [Accepted fixed-support source statement](../audits/literature/DS17/Yin_U001.md#ds17-u001) | Exact NONZERO UNIVARIATE integer polynomial consequence of Theorem2; original reference13 foundations uninspected, no explicit eta/monotonicity adopted. |
 | dependency | [Actual first-window coefficient denominator theorem](Yin_C_G0025_v1.md#statement) | Every below-one rational packet has ACTUAL common q>n(P)/2 for the original flat minimal polynomial and O_0. |
 | dependency | [Qualitative first-window existence](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Guarantees a finite rational below-one full-domain packet for each actual input, without q/M bounds or a constructed near-one family. |
@@ -90,7 +90,7 @@ The recorded review description was `under review`.
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | ACTUAL flat inputs/O_0/FIRST window only, fixedQ restricted gap and universal every-packet denominator escape along a HYPOTHETICAL positive-m-near-zero sequence, with exact q cancellation. |
-| argument | [Argument](#argument) | COMPLETE04:22 D22 author freeze, source/application hypotheses, Q1/strict-bound/sequence quantifiers and all full arithmetic costs. |
+| argument | [Argument](#argument) | COMPLETE 2026-10-11T20:22 D22 author freeze, source/application hypotheses, Q1/strict-bound/sequence quantifiers and all full arithmetic costs. |
 | dependency | [Dependency](../audits/literature/DS17/Yin_U001.md#ds17-u001) | Exact NONZERO UNIVARIATE integer polynomial consequence of Theorem2; original reference13 foundations uninspected, no explicit eta/monotonicity adopted. |
 | dependency | [Dependency](Yin_C_G0025_v1.md#statement) | Every below-one rational packet has ACTUAL common q>n(P)/2 for the original flat minimal polynomial and O_0. |
 | dependency | [Dependency](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Guarantees a finite rational below-one full-domain packet for each actual input, without q/M bounds or a constructed near-one family. |
@@ -104,21 +104,21 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T21:33 |
 | status | proved |
-| reason | Adopt the separately assigned isolated complete mathematical inspection of this actual fixed statement and entire selected argument. Its recorded initial finding preceded all old target verdicts and substantive target-development context was not shared. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
+| reason | Adopt the separately assigned complete mathematical inspection of this actual fixed statement and entire selected argument at its actual SELF relationship. Its recorded initial finding preceded old target verdict comparison, but the initial fixed argument included completed author-validation conclusions beyond the necessary mathematical derivation. Preserve the exact current mathematical domain, complete proof, source-depth and native-execution limits, all earlier findings and their original relationships, and every arithmetic and physical-window charge. No new uniform construction, optimality or Task/E resumption is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
 | statement | [Statement](#statement) | ACTUAL flat inputs/O_0/FIRST window only, fixedQ restricted gap and universal every-packet denominator escape along a HYPOTHETICAL positive-m-near-zero sequence, with exact q cancellation. |
-| argument | [Argument](#argument) | COMPLETE04:22 D22 author freeze, source/application hypotheses, Q1/strict-bound/sequence quantifiers and all full arithmetic costs. |
+| argument | [Argument](#argument) | COMPLETE 2026-10-11T20:22 D22 author freeze, source/application hypotheses, Q1/strict-bound/sequence quantifiers and all full arithmetic costs. |
 | dependency | [Dependency](../audits/literature/DS17/Yin_U001.md#ds17-u001) | Exact NONZERO UNIVARIATE integer polynomial consequence of Theorem2; original reference13 foundations uninspected, no explicit eta/monotonicity adopted. |
 | dependency | [Dependency](Yin_C_G0025_v1.md#statement) | Every below-one rational packet has ACTUAL common q>n(P)/2 for the original flat minimal polynomial and O_0. |
 | dependency | [Dependency](Yin_C_G0017_v1.md#first-low-energy-window-exact-degree) | Guarantees a finite rational below-one full-domain packet for each actual input, without q/M bounds or a constructed near-one family. |
 | dependency | [Dependency](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | SAME q, actual signed norms/resultants, final weights and original union width; no invented log(q) loss after cancellation. |
-| review | [Isolated complete current finding](../audits/reviews/Yin_R_G0790_v1.md#current-near-one-denominator) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial independent reconstruction precedes old target verdict comparison. |
+| review | [Complete current SELF finding](../audits/reviews/Yin_R_G0790_v1.md#current-near-one-denominator) | Complete current fixed statement and entire selected argument, actual required mathematical interfaces and all quantifier, source and execution limits; initial direct reconstruction precedes old target verdict comparison. |
 
 ## Argument
 
-The COMPLETE04:22 D22 author account follows unchanged apart from first-title depth and final whitespace.
+The COMPLETE 2026-10-11T20:22 D22 author account follows unchanged apart from first-title depth and final whitespace.
 Its finite-support contradiction is fully local after the exactly accepted DS17 statement, and its arithmetic cancellation uses the same actual scalar q.
 L19 is the already established stronger cyclotomic-completion support ancestry, not a necessary proof left behind a redirect.
 The selected new U preserves source edition/date and actual inspection limits; no new PDF acquisition or whole-source proof audit is inferred.
@@ -165,7 +165,7 @@ The printed Corollary2 height formula is not used at actual support1; a monomial
 No explicit numerical eta_K or law for its variation with K is adopted.
 This acceptance depth resolves the external premise without claiming a whole-source or original-foundation proof audit.
 
-The second input is the NOW ADOPTED [C25 exact first-window denominator theorem](Yin_C_G0025_v1.md#statement), selected organized-reviewed decision2026-10-11T20:13 and exact R312 extraction scope.
+The second input is the NOW ADOPTED [C25 exact first-window denominator theorem](Yin_C_G0025_v1.md#statement), selected organized-reviewed decision 2026-10-11T20:13 and exact [R790 extraction scope](../audits/reviews/Yin_R_G0790_v1.md#c25-first-window-denominator-extraction-finding).
 It applies to ACTUAL flat-coefficient minimal polynomials in their monogenic orders and gives the necessary actual common denominatorq>n/2 for every below-one packet in allowed[0,d].
 Its scalar converse is individual only.
 C16/C17 retain the rational packet domain and existence conventions.
@@ -362,7 +362,7 @@ G0001 remains active and unrestrictedly unresolved.
 
 ## Registration and preservation operation
 
-2026-10-11T20:27: retain the ENTIRE2026-10-11T20:22 author freeze directly as the selected fixed argument.
+2026-10-11T20:27: retain the ENTIRE 2026-10-11T20:22 author freeze directly as the selected fixed argument.
 The separate reviewer will inspect this actual registration/source interface after the whole proof.
 Working-address retirement waits for complete preservation and incoming-reference maintenance.
 No native computation, explicit sparse-gap constant, new allowance or unrestricted Task completion accompanies this registration.

@@ -170,7 +170,8 @@ def compose(a, b):
 def main():
     home = Path(__file__).resolve().parent
     out = home.parents[2]/'computations'/'outputs'/home.name
-    data = json.loads((out/'certificate.json').read_text(encoding='utf-8'))
+    out.mkdir(parents=True, exist_ok=True)
+    data = json.loads((home/'inputs'/'certificate.json').read_text(encoding='utf-8'))
     premodulus = [0]*8+powmod(PHI,17)
     assert encode(MODULUS)==data['M'] and encode(premodulus)==data['predivision_M']
     identity = [[[1],[]],[[],[1]]]

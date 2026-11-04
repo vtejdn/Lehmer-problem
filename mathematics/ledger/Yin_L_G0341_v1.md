@@ -69,7 +69,6 @@ It already uses a computationally discovered unimodular integer transformation a
 Its J26 prepare.py uses `lll_transform`.
 The same candidate-only boundary is sufficient here.
 No general LLL approximation, termination or enumeration-completeness theorem is invoked.
-An unsupported Windows wildcard path in one initial search yielded no mathematical evidence; corrected directory searches supplied the stated result.
 No new source theorem or novelty claim is introduced.
 
 Let P be an actual monic irreducible nontorsion integer UNIT polynomial, of degree d, and fix N>d.

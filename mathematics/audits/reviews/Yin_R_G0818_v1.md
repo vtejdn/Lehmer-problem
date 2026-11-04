@@ -11,7 +11,7 @@ The reviewer is a separately assigned agent outside substantive development of C
 The assignment supplied its fixed path, the whole-review scope and administrative authorization only.
 No proof-development dialogue, exploration draft, mathematical summary, author explanation or prior C615 review conclusion was supplied or consulted.
 The reviewer read the entire fixed statement and complete Sections 1--5 directly, reconstructed the obligations and checked every actual dependency interface.
-Fixed upstream materials include their own assessments and review pointers; R938's accepted path-interface account was consulted during this inspection, and R970's arrangement was read after the initial mathematical conclusion.
+Fixed upstream materials include their own assessments and review pointers; [R786's current actual-path-tail finding](Yin_R_G0786_v1.md#actual-path-tail-current-independent) was consulted during this inspection, and R809's arrangement was read after the initial mathematical conclusion.
 Those upstream findings are reused only at their declared scopes and relationships.
 No earlier C615 finding was located, and no historical review relationship is relabelled by this new inspection.
 
@@ -148,8 +148,8 @@ This was a small direct arithmetic check of the displayed finite facts; it creat
 J118's original witness-discovery diagnostics are not needed by C615 and were not rerun.
 The fresh finding relies on the complete C615 analytic reasoning and the accepted fixed interfaces identified above, with the finite arithmetic serving as a direct check rather than a substitute for the argument.
 
-R970 records an independently reviewed C606 finding and separately executed native verification at its own exact scope.
-R938 distinguishes its current independently reviewed C609 path finding from its original L309 reviewer relationship marked unknown and original author self-review.
+R809 records an independently reviewed C606 finding and separately executed native verification at its own exact scope.
+R786 distinguishes its current independently reviewed C590 path finding from its [original L309 weighted-tail finding](Yin_R_G0786_v1.md#weighted-tail-complete-independent-review), whose reviewer relationship is unknown, and the original author self-review.
 This review preserves those distinctions and does not manufacture historical independence from the existence of an old review pointer.
 The all-core path theorem and actual strict-core identification are reused as accepted project inputs with their domains checked; their old finite core certificates and entire transitive source proofs were not freshly audited.
 The new coordinate, interval, pigeonhole and probability steps are elementary direct arguments, and no unresolved named external theorem or new novelty claim enters this finding.

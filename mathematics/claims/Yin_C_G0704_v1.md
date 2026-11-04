@@ -8,7 +8,7 @@ Human author Yin.
 Root proposed the finite Hankel and Toeplitz-circulant comparison and its actual square-prime consequence.
 Phase_bands checked the finite algebra, pole multiplicities, matrix orientation, original-law transfer and all costs below.
 Both are contributors, not independent reviewers.
-The actual polynomial family is exactly the adopted C678 square-prime weighted family; the C716 and C701 families remain unchanged.
+The actual polynomial family is exactly the adopted C678 square-prime weighted family; the earlier logarithmically balanced C684 family and square-log C701 family retain their separate scopes.
 No native test, prime enumeration or new source theorem is used.
 
 ## Statement

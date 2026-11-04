@@ -25,11 +25,16 @@ Existing source inspection is reused only at its stated scope.
 The reviewer additionally checked the directly linked Conrad primary text at printed pp.4--6 and the existing Smy08 Hadamard/discriminant account.
 No native mathematical program, numerical solver, atom enumeration, source artifact acquisition or complete classical-source audit was performed or claimed.
 
+The initial entire C44 input included the author validation checklist, completed-mechanism summary and contribution conclusions beyond the necessary derivation.
+The whole finding is self-reviewed, alongside the already self-reviewed extraction; upstream authorship of unrelated damping arguments is not the reason.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole finding](#trace-box-profile-whole-independent-finding) | independently reviewed |
+| [Whole finding](#trace-box-profile-whole-independent-finding) | self-reviewed |
 | [Actual extraction finding](#c44-trace-box-profile-extraction-finding) | self-reviewed |
 
 ## Review bindings

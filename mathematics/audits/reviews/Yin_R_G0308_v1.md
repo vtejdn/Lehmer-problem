@@ -23,11 +23,16 @@ The new theorem fixes arbitrary positive rational weights and arbitrary finite a
 It concerns only primitive binary directions with equal absolute entries, nonzero integer delays, monomial seeds, nonzero original-order membership at EVERY stage and cumulative absolute-delay expense.
 These restrictions are part of the statement, not defects repaired by an unspecified factorization.
 
+The record explicitly discloses author explanations and the developing target proof before the freeze.
+That supplied development context prevents an independent classification despite noncontribution.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole weighted-binary finding](#binary-weighted-whole-independent-finding) | independently reviewed |
+| [Whole weighted-binary finding](#binary-weighted-whole-independent-finding) | self-reviewed |
 
 ## Review bindings
 

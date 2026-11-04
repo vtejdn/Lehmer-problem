@@ -46,9 +46,9 @@ The canonical zero atom's strict gap, vanishing competing atoms and stationary-f
 Excursion truncation converges in total variation; a fixed longer-excursion correction retains the exact maximum itself.
 The positive recurrent small-mass frontier remains unclassified.
 The full expanding-embedding run bound and sine eigenvalue profile, golden n2 sharpness and alpha=−1 curve are exact.
-C483/C515 and declared source interfaces were checked at the necessary scopes, without native or source-proof execution.
+C479/C511 and declared source interfaces were checked at the necessary scopes, without native or source-proof execution.
 Post-initial comparison preserves all original contributor/source boundaries.
-R131 only began22:19 and finished after22:21 on2026-10-09; no exact completion minute is invented.
+The original [R131 maximum-atom account](#maximum-atom-complete-independent-review) only began22:19 and finished after22:21 on2026-10-09; no exact completion minute is invented.
 No Salem classification, uniform escape rate or unrestricted gap follows.
 
 ## Original mathematical findings on their fixed inputs

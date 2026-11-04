@@ -5,7 +5,7 @@ author: Yin
 
 ## Question and scope
 
-Before execution at2026-10-10T04:09, [D150 Section3](../../../ledger/Yin_L_G0283_v1.md#four-by-four-paid-test-declaration) declared ALL integral4-by4 matrices B with squared-entry sum8, modulo independent row/column signs normalized along a deterministic spanning forest.
+Before execution at 2026-10-10T04:09, [D150 Section3](../../../ledger/Yin_L_G0283_v1.md#four-by-four-paid-test-declaration) declared ALL integral4-by4 matrices B with squared-entry sum8, modulo independent row/column signs normalized along a deterministic spanning forest.
 The full target for V=[[I4,-B],[0,I4]] is Phi2^2 Phi6 P4, equivalently chi_(B^T B)=s(s^3-8s^2+18s-9).
 The declared domain was all12870 eight-unit supports and all21840 one-double/four-unit weighted supports, with EVERY cycle-edge sign, plus the120 two-double supports explicitly rejected by rank.
 These are all square partitions of8.
@@ -75,7 +75,7 @@ No author computation failed or reached its cap.
 
 ## Complete independent inspection
 
-The coordinating AI for Yin completed the entire frozen D150 Sections1--6/(1)--(14) review at2026-10-10T04:26; see the [complete finding](../../../audits/reviews/Yin_R_G0136_v1.md#paid-stabilization-complete-independent-review).
+The coordinating AI for Yin completed the entire frozen D150 Sections1--6/(1)--(14) review at 2026-10-10T04:26; see the [complete finding](../../../audits/reviews/Yin_R_G0136_v1.md#paid-stabilization-complete-independent-review).
 It passed without author correction.
 The separate [review_independent.py](review_independent.py) and review_result.json (`mathematics/computations/outputs/Yin_J_G0067/review_result.json`) use only row-first-sign normalization, squared B minors and complete inverse/Newton coefficient arrays, importing no author program or third-party package.
 The entire same finite domain and both full controls passed.
@@ -87,7 +87,7 @@ The completed fixed retention is L283.
 ## Fixed retention
 
 The complete current mathematical home is [C520v2](../../../claims/Yin_C_G0520_v2.md#statement), with its [actual maintaining whole SELF](../../../audits/reviews/Yin_R_G0728_v1.md#current-paid-stabilization-whole-self-finding).
-This current organization runs no program and preserves the original pre-execution protocol, native bytes and12:26 independent review above.
+This current organization runs no program and preserves the original pre-execution protocol, native bytes and 2026-10-10T04:26 independent review above.
 [L283](../../../ledger/Yin_L_G0283_v1.md#complete-retained-proof-and-review) retains the full author proof and separate review.
 G0001 remains unresolved.
 

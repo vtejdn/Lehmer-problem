@@ -16,11 +16,11 @@ The reviewer received the exact fixed targets, scope and governing rules in a fr
 No local persistent-memory file, other chat or rollout was consulted.
 Before the initial finding, the reviewer read C493's entire first Statement, lines 16--88, and its complete original mathematical body from argument, lines 137--393, stopping before Original author checking and historical boundary.
 It also read the necessary fixed mathematical definitions, statements and proofs described below.
-The parallel fixed C502 body was another assigned review target, not a development explanation of this proof.
+The parallel fixed C498 body was another assigned review target, not a development explanation of this proof.
 
 This was not zero exposure to checking or historical prose.
 C493's fixed body contains reuse/source-check assertions.
-The fixed C502 body contains its original initially-self-reviewed declaration, source-unit reuse, author self-check/freeze and structural-check statements.
+The fixed C498 body contains its original initially-self-reviewed declaration, source-unit reuse, author self-check/freeze and structural-check statements.
 The necessary C476 Statement contains original native-checker and UNKNOWN/SELF history, and dependency-heading inventories exposed old adoption/checking heading names.
 These were encountered directly in the fixed inputs, disclosed as they appeared, and treated as author/history assertions to check rather than mathematical verdict premises.
 The target Assessment sections, C493's original author-check suffix, current R705, old R105 and the maintenance handbook's target summaries were not read before the initial finding.
@@ -171,7 +171,7 @@ The complete original author-check account is SELF at its original 2026-10-10 da
 No author-check minute is invented.
 
 [Current R705v1](Yin_R_G0705_v1.md#current-radical-core-attainment-whole-finding) records a separate whole SELF at 2026-10-22T01:18 after preparing the current presentation from the original author and reviewer records.
-C493's 09:17 registration and 09:18 adoption are current decisions, not old review dates.
+C493's 2026-10-22T01:17 registration and 2026-10-22T01:18 adoption are current decisions, not old review dates.
 The present review does not recast that preparation as independent.
 The old whole UNKNOWN, original author SELF, current whole SELF and this new whole independent inspection keep their distinct relationships and inputs.
 
@@ -182,7 +182,8 @@ The actual edition is the 5 July 2006 author-hosted version derived from the 198
 The coordinator's comparison reading and the old reviewer's direct text reading of p.72 and pp.98--101 are distinct original occurrences.
 Section 2.1.4 supplies the classical simple-lattice threshold and Sections 2.3.1--2.3.3 supply return-series and displayed central-binomial comparisons.
 The source's nearest-neighbor model, informal per-path probability wording, electrical arguments and other uninspected proofs are not inputs proving the cyclic algebraic law.
-The acquisition at 03:51 and mathematical review completion at 03:58 do not establish an unrecorded source-reading minute.
+The retained acquisition caption is "03:51", without an explicit date or timezone here; the actual mathematical review completion is 2026-10-09T19:58.
+Neither occurrence establishes an unrecorded source-reading minute.
 
 [Sar15-U001](../literature/Sar15/Yin_U001.md#sar15-u001) retains the undated 36-page author survey, published-work identification, two original statement-level reading occurrences and the excluded p.18 pressure-as-eigenvalue sentence.
 The correct exponential eigenvalue relation remains separate.

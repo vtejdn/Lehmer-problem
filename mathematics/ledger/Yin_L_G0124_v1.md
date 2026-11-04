@@ -4,6 +4,10 @@ author: Yin
 
 # A finite concentration threshold forces exact local-rule cancellation
 
+Current checking scope is owned by [R552](../audits/reviews/Yin_R_G0552_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct continuation of G0001 by the assigned AI ms25_source for Yin.
 The coordinator proposed combining the finite-memory moment mechanism with algebraic norm separation.

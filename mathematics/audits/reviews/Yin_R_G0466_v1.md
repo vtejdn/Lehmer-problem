@@ -50,7 +50,7 @@ No mathematical defect, omitted applicable hypothesis or unresolved used interfa
 The proof establishes actual totally real integral unit residuals and the exact protected-coefficient threshold on the abstract triple domain.
 It does not derive global existence from local solvability alone, discard nonreal poles, or invoke a GVF existence assertion.
 The fixed input contains the full required capacity bridge and applies the appropriate compact-set theorem after that bridge.
-This finding supplies independent evidence; it does not adopt the Claim or complete G0001.
+This finding supplies checked evidence at its unknown relationship; it does not adopt the Claim or complete G0001.
 
 ### Actual curve, all poles and the nonzero target
 

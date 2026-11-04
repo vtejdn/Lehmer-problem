@@ -8,7 +8,7 @@ author: Yin
 # One-ascent cycle to three-arm tree complete controls
 
 [C578](../../../claims/Yin_C_G0578_v1.md#statement) retains the complete current theorem and proof; [R784](../../../audits/reviews/Yin_R_G0784_v1.md#preserved-complete-original-r202-accounts) retains the full original written and computational findings at their actual inputs.
-The [current isolated whole C596 finding](../../../audits/reviews/Yin_R_G0784_v1.md#cycle-tree-current-independent) includes the separately declared new read-only check of this complete original payload; it is distinct from both historical executions.
+The [current isolated whole C578 finding](../../../audits/reviews/Yin_R_G0784_v1.md#cycle-tree-current-independent) includes the separately declared new read-only check of this complete original payload; it is distinct from both historical executions.
 The exact finite domain is n=4,...,12.
 V has size n+1, diagonal1, entries V[i,i+1]=-1 for0<=i<=n-3, V[n-2,n-1]=+1, V[0,n-1]=V[n-1,n]=-1, and zero elsewhere above the diagonal.
 For h=e1+...+e(n-2), Q has columns e0,-e2,...,-e(n-2),e(n-1)-h,h,en.

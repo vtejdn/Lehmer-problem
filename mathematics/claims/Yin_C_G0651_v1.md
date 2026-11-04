@@ -9,7 +9,7 @@ The paid_comparison contributor prepared the complete all-order reduction, two s
 Same_trace supplied a bounded author-side algebraic check of periods, representatives, unit exponents and finite operation bounds before execution.
 All are mathematical contributors; both native programs are author work, not independent agent review.
 The [selected Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23) authorizes this continuation.
-Focused reuse inspected C649's adopted full CRT and actual complete-factor bridge, and C667/J129's earlier multiplicity-twelve normal-form mechanism.
+Focused reuse inspected C649's adopted full CRT and actual complete-factor bridge, and C640/J129's earlier multiplicity-twelve normal-form mechanism.
 The complete-trace identities are also retained in [C608](Yin_C_G0608_v1.md#argument) and the order-five composition in [C609v2](Yin_C_G0609_v2.md#argument); the needed identities are proved explicitly below.
 The earlier quotient and membership outcomes are not inputs to the new complete image.
 This entire statement and argument are initially open for fresh isolated whole mathematical and native review.

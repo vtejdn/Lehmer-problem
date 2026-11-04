@@ -7,7 +7,8 @@ author: Yin
 Date: 2026-10-07.
 Direct derivation by the coordinating AI for Yin, within G0001.
 The input is the finite fair-sum comparison H_infinity >= H_Shannon/2 from the separately inspected Li26 largest-fiber proof and its direct abelian-group adaptation.
-The [source proof](../audits/literature/Li26/Yin_U001.md#li26-largest-fiber-proof) and [group adaptation](Yin_L_G0089_v1.md#abelian-binary-entropy-comparison) have received independent review at their explicitly recorded scopes.
+The [source proof](../audits/literature/Li26/Yin_U001.md#li26-largest-fiber-proof) retains its separately recorded source-inspection scope.
+The [group adaptation](Yin_L_G0089_v1.md#abelian-binary-entropy-comparison) retains its actual [R535 findings](../audits/reviews/Yin_R_G0535_v1.md), including SELF author/coordinator checks and a historical whole finding with UNKNOWN initial context.
 No numerical experiment or novelty claim is involved.
 
 All logarithms are natural.

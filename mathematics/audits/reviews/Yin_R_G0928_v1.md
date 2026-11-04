@@ -136,14 +136,14 @@ Auxiliary powers q/4 used inside a CRT construction do not renormalize the origi
 The whole reviewer read the complete statement and argument of C707 and of C669, C672, C691, C699, C702 and C706.
 The new C707 implications and all its direct hypotheses, precision interfaces, sign choices and source costs were checked above.
 The unchanged residual identities and construction conclusions of those fixed adopted dependencies are accepted inputs at their exact stated scopes; this is not a fresh recursive whole-proof audit of every predecessor or of their former reviews.
-In particular C699's underlying C718/C728 carry and subring arguments, C702's C734/C722 formulas, and the underlying C727 all-primary theorem were not independently rederived from their earliest predecessors in this activity.
+In particular C699's underlying C686/C695 carry and subring arguments, C702's C700/C689 formulas, and the underlying C694 all-primary theorem were not independently rederived from their earliest predecessors in this activity.
 Their literal hypotheses and uses in the actual unchanged construction were inspected in the direct fixed proofs.
 
 The source reviewer additionally read the entire [C667 statement and FC1--FC7 argument](../../claims/Yin_C_G0667_v1.md#argument), including the complete forward factors, fresh factor, all-primary canonical remainder and original integer layers.
 That reviewer inspected the relevant [C643v2 SC12--SC14 endpoint proof](../../claims/Yin_C_G0643_v2.md#argument), the complete [C665 character and degree calculation](../../claims/Yin_C_G0665_v1.md#argument), and [C668v2 SY2 and SY9 calibration](../../claims/Yin_C_G0668_v2.md#argument).
 The exact C643v2 order2Q-1 is sufficient because16m=4Q-32<4Q-2 after squaring, so no forbidden endpoint extension is used by C691.
 The reviewer also inspected the [C664 statement and HG7 finite-row interface](../../claims/Yin_C_G0664_v1.md#statement) and the relevant [C199v2 complete reduction and Haar passages](../../claims/Yin_C_G0199_v2.md#argument).
-C664 HG1--HG6 and its all-depth kernel theorem, C667's C677 target theorem, C680/C682 formal character inputs, and the original cyclotomic/Jensen/Kronecker sources were not recursively re-audited.
+C664 HG1--HG6 and its all-depth kernel theorem, C667's C649 full-target theorem, the C652 completed-norm and C654 refined-character inputs, and the original cyclotomic/Jensen/Kronecker sources were not recursively re-audited.
 The C199v2 order/cancellation theorem outside the used reduction/Haar interface was not wholly reviewed.
 No fresh external-source audit is claimed; C707 introduces no new external theorem beyond its fixed project inputs and elementary algebra checked here.
 

@@ -16,7 +16,7 @@ The reviewer read neither D37, author development dialogue or summaries, nor oth
 The statement, proof and selected fixed inputs were read directly.
 No repair was supplied and no target mathematics was edited.
 
-The same reviewer previously completed [R851's independent C673 review](Yin_R_G0851_v1.md#linear-overlap-whole-independent-finding).
+The same reviewer previously completed [R851's independent C645 review](Yin_R_G0851_v1.md#linear-overlap-whole-independent-finding).
 That earlier result is retained only for its exact C645 statement and argument.
 The present proof's count lower bounds, current path collection, complete conductance denominators, mixed word lift and load constants were reconstructed anew.
 The C645 upper-overlap interface was reread and used only at the final indicated substitution.

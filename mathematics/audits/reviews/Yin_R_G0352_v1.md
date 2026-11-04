@@ -8,7 +8,7 @@ Human record author Yin.
 Root separately assigned f_unitary_scope to the ACTUAL fixed C124 v1, whose entire original is authored by g_bridge_audit.
 Root contributed global-mean pruning and the first matching-prime removal observation.
 The reviewer supplied no proof step, last-occurrence mechanism, counting estimate, constant, construction or repair and edited neither C124 nor its former D37.
-Prior reviews R469/R474/R477 of its accepted C114/C119/C121 inputs were performed by this reviewer without proof contributions to those inputs.
+Prior reviews [R800 original heavy-prime-positive](Yin_R_G0800_v1.md#heavy-prime-positive-whole-independent-finding)/[R797 original canonical-tree](Yin_R_G0797_v1.md#canonical-tree-whole-independent-finding)/[R798 original residual-capacity-v2](Yin_R_G0798_v1.md#residual-capacity-v2-whole-independent-finding) of its accepted C114/C119/C121 inputs were performed by this reviewer without proof contributions to those inputs.
 
 This was not a blind arrangement.
 Root's requested obligations and mechanism contributions, the author progress/freeze notices and source-organization account were visible.

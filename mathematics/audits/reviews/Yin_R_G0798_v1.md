@@ -182,7 +182,7 @@ No native/J input or output was changed and no necessary mathematical input exis
 | [Current G136 whole finding](#g136-current-whole-independent) | [Exact retained dependency](../../claims/Yin_C_G0241_v1.md#direct-etale-frobenius-lift) | Simple-root unramified lifting and Frobenius. |
 | [Current G136 whole finding](#g136-current-whole-independent) | [Exact retained dependency](../../claims/Yin_C_G0256_v1.md#content-versus-ideal-norm) | Full original norm and valuations. |
 | [Current G136 whole finding](#g136-current-whole-independent) | [Exact retained dependency](../../claims/Yin_C_G0244_v1.md#cyclic-prime-power-norm-floor) | Integral-order prime-power certificate; local costs rederived. |
-| [G71 scalar comparison](#g71-credited-scalar-comparison-independent) | [C71 Statement](../../claims/Yin_C_G0071_v1.md#statement) | ONLY Statement D credited degree-linear scalar-collapse comparison at its exact dense-flat domain; complements existing R949v2. |
+| [G71 scalar comparison](#g71-credited-scalar-comparison-independent) | [C71 Statement](../../claims/Yin_C_G0071_v1.md#statement) | ONLY Statement D credited degree-linear scalar-collapse comparison at its exact dense-flat domain; complements existing R794 v2. |
 | [G71 scalar comparison](#g71-credited-scalar-comparison-independent) | [C71 Argument](../../claims/Yin_C_G0071_v1.md#argument) | ONLY Section4 credited comparison and actual quantified domain; no fresh whole review of other C71 parts. |
 | [G71 scalar comparison](#g71-credited-scalar-comparison-independent) | [C244 complete argument](../../claims/Yin_C_G0244_v1.md#argument) | Complete scalar-congruence proof, exact dyadic certificate and balanced all-prime scalar scope; no original BDM07/DM05 proof audit. |
 | [G71 scalar comparison](#g71-credited-scalar-comparison-independent) | [C244 scalar-collapse gap](../../claims/Yin_C_G0244_v1.md#balanced-scalar-congruence-gap) | Every actual dense-flat C71 input has alpha^(d+1)=1 modulo 2Z[alpha], hence m>=d*log5/[4(d+1)]. |
@@ -485,7 +485,7 @@ It requires neither integer reciprocity nor good reduction at 2, powered-degree 
 C244's complete original norm/dyadic circle-cost proof gives m(P)>=d*log5/[4(d+1)], uniformly at least log5/5 since C71 D assumes d+1>=5.
 Thus the statement that many such inputs already satisfy the old degree-linear scalar-collapse gap is supported; in fact this entire displayed dense-flat domain satisfies that scalar condition.
 The sentence is credited comparison, not a premise of the tailored modular minimization or nonzero proof, and implies no unrestricted gap.
-Only after this initial narrow conclusion, the R949v2 g71 finding and its explicit verification-sequence exclusion were read.
+Only after this initial narrow conclusion, the R794 v2 g71 finding and its explicit verification-sequence exclusion were read.
 That existing independent whole account excludes this credited scalar comparison, so the present finding complements it exactly and reuses that adequate account in place.
 No other C71 whole scope is newly reviewed here and no old comparison check is retrospectively relabelled independent.
 
@@ -505,7 +505,7 @@ Root separately assigned f_unitary_scope to the actual fixed C121.
 The g_bridge_audit author supplied the new proof.
 This reviewer supplied no capacity identity, counting estimate, constant, control or proof repair and edited neither C121 version nor its former D43.
 Root contributed to the older C119 tree, which is an accepted input; it did not replace this separate review.
-The reviewer had whole-reviewed C119 in R474 and C114 in R469 without contributing their proofs.
+The reviewer had whole-reviewed C119 in [R797 original canonical-tree](Yin_R_G0797_v1.md#canonical-tree-whole-independent-finding) and C114 in [R800 original heavy-prime-positive](Yin_R_G0800_v1.md#heavy-prime-positive-whole-independent-finding) without contributing their proofs.
 
 The arrangement was not blind.
 The root's scope instructions, author progress/freeze notice and source/adoption summaries were visible.
@@ -820,8 +820,8 @@ Human record author Yin.
 Root conducts a separately organized whole review of the actual fixed C125 v1.
 The strategy_critique author supplied every new proof step.
 Root assigned the screened direction and read progress and the complete draft without supplying a proof, estimate, construction or correction.
-Root previously reviewed the accepted C123 input in R478 and is not its mathematical author.
-That historical independent designation does not certify the current R478 relationship, which is unknown.
+Root previously reviewed the accepted C123 input in [R798 original trace-residual](Yin_R_G0798_v1.md#trace-residual-whole-independent-finding) and is not its mathematical author.
+That historical independent designation does not certify the current [R798 original trace-residual](Yin_R_G0798_v1.md#trace-residual-whole-independent-finding) relationship, which is unknown.
 This review is not blind: instructions, progress explanations and author-check notices were visible.
 No previous C125 review existed.
 Root enumerated A--D obligations, reconstructed the complete proof and direct inputs, then inspected the final fixed statement, all Sections1--6, twenty equations, source/contribution account, explicit d>=2 guard, freeze and initial decision.
@@ -1139,7 +1139,7 @@ Root separately assigned f_unitary_scope to the ACTUAL fixed C127 v1 authored by
 Root supplied the inquiry and source registration, not a proof step.
 The reviewer supplied no Newton specialization, covariance or marginal calculation, asymptotic estimate, thinning argument, constant or repair and edited neither the draft nor C127.
 Prior reviews of C104 and C126 supplied context but are not substitutes for this original-law review.
-Their historical independent designations do not certify the current R459 and R481 relationships, which are unknown.
+Their historical independent designations do not certify the current [R797 original product-fractional](Yin_R_G0797_v1.md#product-fractional-whole-independent-finding) and [R798 original complete-layer-v2](Yin_R_G0798_v1.md#complete-layer-v2-whole-independent-finding) relationships, which are unknown.
 
 The arrangement was not blind: root's requested obligations and the author's completion/source/freeze notice were visible.
 The reviewer read the entire actual fixed C127 v1, reconstructed Sections1--7 and equations1--19 including the source input(N), and checked the actual fixed source unit and direct mathematical interfaces.
@@ -1314,7 +1314,7 @@ Root assigned the inquiry, read progress and the complete account, and required 
 The peer reuse reply supplied existing-material pointers only.
 This is an initial whole review, not blind: instructions, progress, the author draft and freeze were visible.
 Root previously reviewed C123/C125 without contributing their mathematics; those reviews do not substitute for checking the new product/remainder argument.
-Their historical independent designations do not certify the current R478 and R480 relationships, which are unknown.
+Their historical independent designations do not certify the current [R798 original trace-residual](Yin_R_G0798_v1.md#trace-residual-whole-independent-finding) and [R798 original relative-mixture](Yin_R_G0798_v1.md#relative-mixture-whole-independent-finding) relationships, which are unknown.
 
 The review enumerated A--D obligations and reconstructed the entire final author account, then read the actual fixed statement, all Sections1--8 and twenty-four equations, source/contribution limits, pre-freeze author guards and initial decision.
 The actual fixed body was compared with that complete inspected original.
@@ -1353,7 +1353,8 @@ This check supports the advertised boundary and prevents treating an unbounded r
 
 Monic division by the degree-k trace product gives S monic of degree h-k and R of degree less than k, including zero R and repeated nodes.
 Substituting z+z^-1 and multiplying by the declared powers of z produces ordinary C,e.
-The extreme coefficients of C are1; e is supported in h-k+1,...,h+k-1, so both original endpoint coefficients vanish. d>=2 and1<=k<=h ensure that those endpoints are distinct.
+The extreme coefficients of C are1; e is supported in h-k+1,...,h+k-1, so both original endpoint coefficients vanish.
+d>=2 and1<=k<=h ensure that those endpoints are distinct.
 The exact identity P-e=C D_z and the product of the quadratic same-modulus identities give |f|=|P-e| and f0=B.
 
 Expanding ff^T+pe^T+ep^T-ee^T gives precisely the original |P|^2 symbol.
@@ -1472,7 +1473,7 @@ Root is a contributor and cannot independently review its own contribution to th
 The arrangement was not blind: shared G0001 context, root's assignment and its listed review concerns were visible.
 The reviewer did not develop or inspect D41 during authorship.
 Starting from the actual C131 v1 statement, the reviewer read the complete fixed body and reconstructed its finite and limiting obligations, then checked the precise C128, L229 and C125 interfaces.
-C128's existing R483 was read after reconstructing the new finite calculations, to verify its prior accepted scope; it does not review or substitute for this new moving-cutoff argument.
+C128's existing [R798 original multiple-factor](Yin_R_G0798_v1.md#multiple-factor-whole-independent-finding) was read after reconstructing the new finite calculations, to verify its prior accepted scope; it does not review or substitute for this new moving-cutoff argument.
 The review covers all Statement A--C, Sections1--6, equations1--23, the complete source/contribution/freeze account, fixed organization and initial decision dated17:00.
 No earlier C131 review was supplied or used.
 The record excludes developing or inspecting D41 during authorship, but does not sufficiently establish the substantive shared context preceding the first mathematical judgment.
@@ -2007,7 +2008,7 @@ Shared G0001 context, root's assignment and listed concerns, and earlier discuss
 The reviewer previously supplied existing-material pointers for C128, without developing its proof, and contributed to the older accepted C107 and C113 inputs.
 Those earlier contributions are disclosed; this finding checks the NEW C134 whole proof and its uses of the accepted inputs, and is not a fresh independent whole review of C107 or C113.
 The review started from actual C134, enumerated its finite and asymptotic obligations, reconstructed the whole body, then read its exact direct input passages.
-The earlier R483/R484 findings were consulted after the new mathematical reconstruction to confirm the inherited C128/C131 acceptance scope; they do not cover C134.
+The earlier [R798 original multiple-factor](Yin_R_G0798_v1.md#multiple-factor-whole-independent-finding)/[R798 original moving-cutoff](Yin_R_G0798_v1.md#moving-cutoff-whole-independent-finding) findings were consulted after the new mathematical reconstruction to confirm the inherited C128/C131 acceptance scope; they do not cover C134.
 No prior C134 finding was supplied or substituted.
 The earlier product-remainder discussion and shared context are not specified sufficiently to establish whether relevant author development preceded the first mathematical judgment.
 The fixed target and concerns, existing-material pointers, and earlier accepted-input authorship do not by themselves establish either participation in this new proof or isolation from its development.
@@ -2542,7 +2543,7 @@ L217 is accurately credited for the CRT/Eisenstein mechanism, while this coeffic
 
 #### 7. C130 exact input and the growing-complexity consequence
 
-The actual selected C130 v2 decision is the whole-reviewed2026-10-15 decision, with R486.
+The actual selected C130 v2 decision is the whole-reviewed2026-10-15 decision, with the [original C130 v2 finding retained here](#translation-v2-whole-independent-finding); its former R486 container number is historical.
 Its binary specialization concerns the minimal-factor P_q for q=2^s>=4, not a claim that the full trinomial is irreducible or has original degree q.
 Its proof excludes both signed first depths greater than1 by the modulo4 unramified Frobenius argument, then obtains v_2(C_n)=(1+v_2(n))*h(n).
 Using odd residue orders and h(t)<=sqrt(2t) gives the all-integer-n bound(3/2)sqrt(2n).
@@ -2657,7 +2658,8 @@ The new family proof, rational involution, fixed defect, Teichmuller depth bound
 This reviewer supplied no step, repair or mathematical suggestion for those arguments.
 Root supplied the research direction only.
 The reviewer has authored other G0001 materials and reviewed C130; those earlier activities do not supply proof evidence for this new result.
-C130's historical independent designation does not certify the current R486 findings, whose relationships are unknown.
+C130's historical independent designation does not establish isolation of its [retained original v2 whole finding](#translation-v2-whole-independent-finding), whose relationship remains unknown.
+The current R486 container concerns different L441--L443 findings and supplies no C130 evidence.
 
 The arrangement is separately organized and non-blind.
 Root's assignment and requested checks, the shared G0001 history and earlier source scopes were visible.

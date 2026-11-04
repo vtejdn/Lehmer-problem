@@ -18,18 +18,23 @@ No external human referee or formal proof assistant is claimed.
 The reviewer read the ENTIRE actual23:40 D33: allocation/reuse and stop-before-run history, exact finite reduction, author observations, every displayed frozen word/quotient/midpoint/probability and invariant-energy claim, finite gap implication, all exclusions and final freeze.
 It read the COMPLETE709-line author main.py and current J93 declaration, original execution/progress/terminal, all mathematical output through full JSON inspection and the subsequent independent all-field reconstruction.
 The actual C76 A--F and ENTIRE retained D31 proof were read at the precise finite operator/path/energy interfaces consumed here.
-R405 was consulted as the separate accepted C76 extraction evidence, not as verification of J93 or a reason to assume graph connectivity.
+[R794 v2 original C76 extraction](Yin_R_G0794_v2.md#c76-six-digit-actual-extraction-finding) was consulted as the separate accepted C76 extraction evidence, not as verification of J93 or a reason to assume graph connectivity.
 
 The original finite observations and earlier ancestor counts were visible before reconstruction; this is not a blind review claim.
 The verifier nevertheless generates every original vertex, local/global fiber, transition, component and midpoint independently from the fixed polynomial/digit/domain definitions, never from the author's returned vertex or graph tables.
 The new source was fully read, AST-parsed without import, declared in the SAME J and separately inspected in full by root before the specifically confirmed ONE native invocation.
 Static parsing, schema inspection and material checks are not presented as that actual execution.
 
+The initial entire C81 author account included author observations and the conclusion that the saved words, counts and component means had been matched to the output, beyond the necessary fixed native coefficients and domain definitions.
+The separately implemented all-field reconstruction and actual successful execution remain retained at their exact scopes.
+The affected finding is self-reviewed under the current context rule.
+Original independence declarations in the retained narrative describe historical wording; performed checks, dates, exact inputs, verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Whole finite/native finding](#six-digit-finite-whole-native-independent-finding) | independently reviewed |
+| [Whole finite/native finding](#six-digit-finite-whole-native-independent-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -189,7 +194,7 @@ The finite enumeration, field arithmetic, component and singleton arguments are 
 Ordinary source README files are not canonical Review bindings.
 
 The earlier C64/C68/C70 graphs have different update rules and are not contradicted or automatically extended.
-R405 remains only the actual C76 hand-proof extraction review.
+[R794 v2 original C76 extraction](Yin_R_G0794_v2.md#c76-six-digit-actual-extraction-finding) remains only the actual C76 hand-proof extraction review.
 This new R covers the existing whole D33 and its ACTUAL complete finite native evidence, not a new mathematical extension or future Claim wrapper.
 Only the separate verifier, its declared independent outputs, the authorized same-J execution account and this new R were written.
 The original D33/main.py/result/execution/progress/terminal were not edited.

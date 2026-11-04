@@ -91,7 +91,7 @@ The complete analytical target, period, complete-group argument and original-dom
 Claim adoption remains with C608's selected decision.
 Failure of this complete restricted support family prevents its proposed same-T construction; the character also excludes supports in which every group of order divisible by5 beyond5 has even normalized multiplicity.
 It does not exclude a support with an odd normalized multiplicity at such an order.
-It does not decide whether C624 FE5 is forced on the unrestricted full gate, does not construct a characteristic-zero original input and gives no unrestricted Mahler estimate.
+It does not decide whether C603 FE5 is forced on the unrestricted full gate, does not construct a characteristic-zero original input and gives no unrestricted Mahler estimate.
 
 ## Reproducing reviewed runs
 

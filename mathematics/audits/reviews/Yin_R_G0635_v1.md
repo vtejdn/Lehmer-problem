@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T19:45.
 Human operator: Yin.
 The checking agent read all264lines of sole original L182, all66original R81 lines, the entire actual C433v1 statement/argument/decisions and the adequate complete BGMP24-U001/source entrance.
-The exact complete C428 universal-limit and rational-margin proof was retained at its fixed required scope.
+The exact complete C424 universal-limit and rational-margin proof was retained at its fixed required scope.
 It rederived every primitive-kernel/support/normalization, regularization constant, local branch/Fourier and cutoff step below.
 The agent authored this current Claim, inherited substantive target context and read the old finding, so the whole current check is self-reviewed.
 The old whole R81 initial arrangement remains unknown because the actual mathematical contents of its recorded shared context/progress reports are unestablished.
@@ -40,7 +40,7 @@ PASS for the complete actual theorem and proof, original equations(1)--(8), the 
 For primitive0<b<a, gcd(b,a-b)=1.
 The integer kernel of(b,a-b) is exactly the multiples of(a-b,-b), so its shortest nonzero infinity norm is q=max(b,a-b)>=a/2.
 The full displayed F and eleven-term G specialize exactly to the original f and complete G_(a,b), retaining the reciprocal degree convention, every factor and leading coefficient.
-The accepted complete C428 fixed limit is the exact Delta_infinity>1/250 used here.
+The accepted complete C424 fixed limit is the exact Delta_infinity>1/250 used here.
 The current rate does not come from a qualitative Lawton assertion.
 
 For P=F and G/2, maximum coefficient modulus is one.

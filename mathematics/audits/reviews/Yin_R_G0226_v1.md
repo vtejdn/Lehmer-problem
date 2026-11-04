@@ -181,4 +181,4 @@ Scoped material validation is operational only and is run after allocation; its 
 
 2026-10-11T19:59: the two old D19 statement/freeze links now reach the SAME original03:42 author account physically preserved in C23 before working-address retirement.
 This changes only the locator, retaining the original whole-review scope.
-The new coefficient-only bridge remains OUTSIDE this finding and is separately checked solely in R309.
+The new coefficient-only bridge remains OUTSIDE this finding and is separately checked solely in [R790 original C23 extraction](Yin_R_G0790_v1.md#c23-effective-capacity-extraction-finding).

@@ -11,7 +11,7 @@ The assignment supplied only the target path, whole-review scope and nonmathemat
 No author summary, development draft, D35, dialogue or agent inventory was supplied or consulted.
 
 The entire candidate was read and its formal algebra reconstructed directly before the dependency interfaces and current accepted scopes were checked.
-The reviewer retains its own earlier independent C643 and C626 reviews.
+The reviewer retains its own earlier independent C621 and C626 reviews.
 Those fixed findings supply only their exact earlier scopes; none prospectively reviews the new multiplicity-six argument.
 C626 is used here only for the final remaining-range statement, after the new A_0=6 contradiction is complete.
 No mathematical program, coefficient scan, new J, native rerun or primary-source acquisition was performed.
@@ -39,7 +39,7 @@ No target Claim, strategy, Task, execution record or index was edited.
 | [Whole finding](#whole-a6-complement-obstruction-finding) | [Parity application](../../claims/Yin_C_G0609_v2.md#argument) | AP8 whole normalized multiplicities and derivative threshold verified at A_0=6, before assuming completeness of Y itself. |
 | [Whole finding](#whole-a6-complement-obstruction-finding) | [Prior A_0=4 exclusion](../../claims/Yin_C_G0626_v1.md#statement) | Exact adopted original A_0=4 exclusion for the final range only; its finite algebra does not prove the new twelve-representative obstruction. |
 | [Whole finding](#whole-a6-complement-obstruction-finding) | [Integer/reduced degree interface](../../claims/Yin_C_G0199_v2.md#statement) | Inherited zero-Haar Part A gives lc(G)=+/-1 and deg R_G=w, needed for the stated conditional original degree identities. |
-| [Whole finding](#whole-a6-complement-obstruction-finding) | [Fixed C649 review](Yin_R_G0829_v1.md#whole-a4-complement-classification-finding) | Existing independent evidence only for the exact adopted A_0=4 predecessor and its unchanged upstream limits. |
+| [Whole finding](#whole-a6-complement-obstruction-finding) | [Fixed C626 review](Yin_R_G0829_v1.md#whole-a4-complement-classification-finding) | Existing independent evidence only for the exact adopted A_0=4 predecessor and its unchanged upstream limits. |
 | [Whole finding](#whole-a6-complement-obstruction-finding) | [Fixed parity review](Yin_R_G0812_v1.md#whole-trace-parity-finding) | Accepted independent C609v2 parity/range evidence with its inherited source and predecessor limitations. |
 | [Whole finding](#whole-a6-complement-obstruction-finding) | [Earlier original interfaces](Yin_R_G0825_v1.md#a4-whole-proof-and-native-finding) | Previously checked unchanged C197/C199 interface applicability and actual historical SELF/UNKNOWN/source limits; no extension of its J125 computation scope. |
 

@@ -11,8 +11,8 @@ The initial whole conclusions and actual UTC minutes precede every old target fi
 The old-finding comparison was completed at 2026-10-22T21:19.
 Necessary upstream source attribution and accepted-interface relationship labels were visible; they supplied neither a target verdict nor fresh certification of their own entire source proofs.
 The fixed mathematical bodies also retain author corrections and original review-existence pointers; these are explicitly distinguished from inheriting an old whole result.
-One OTHER target, C618, disclosed an old completed review in its mathematical Statement before its initial check and was excluded from fresh independent publication by this agent.
-No finding or C618 adoption is made here, and C618 is not a proof premise of the findings below.
+One OTHER target, C598, disclosed an old completed review in its mathematical Statement before its initial check and was excluded from fresh independent publication by this agent.
+No finding or C598 adoption is made here, and C598 is not a proof premise of the findings below.
 No research Task/E, native producer, old reviewer replay, parameter expansion or source acquisition was executed.
 The accepted direct interfaces are used at their stated scopes; this inspection does not recursively certify their entire upstream chains.
 
@@ -25,8 +25,8 @@ The accepted direct interfaces are used at their stated scopes; this inspection 
 
 | Review | Relationship |
 | --- | --- |
-| [Current whole C596](#cycle-tree-current-independent) | independently reviewed |
-| [Current whole C597](#positive-half-current-independent) | independently reviewed |
+| [Current whole C578](#cycle-tree-current-independent) | independently reviewed |
+| [Current whole C579](#positive-half-current-independent) | independently reviewed |
 | [Original whole written finding](#plastic-tree-complete-written-review) | unknown |
 | [Original whole computational finding](#plastic-tree-complete-computational-review) | unknown |
 | [Original whole finding](#positive-half-lattice-complete-independent-review) | unknown |
@@ -35,15 +35,15 @@ The accepted direct interfaces are used at their stated scopes; this inspection 
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Current whole C596](#cycle-tree-current-independent) | [Exact complete statement](../../claims/Yin_C_G0578_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:16, before old target findings. |
-| [Current whole C596](#cycle-tree-current-independent) | [Exact complete argument](../../claims/Yin_C_G0578_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:16, before old target findings. |
-| [Current whole C597](#positive-half-current-independent) | [Exact complete statement](../../claims/Yin_C_G0579_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:08, before old target findings. |
-| [Current whole C597](#positive-half-current-independent) | [Exact complete argument](../../claims/Yin_C_G0579_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:08, before old target findings. |
-| [Current whole C596](#cycle-tree-current-independent) | [Original author code](../../computations/programs/Yin_J_G0076/verify.py) | Entire fixed original code read, without import or execution; current reproduction-code limitation separately disclosed, historical execution not overwritten. |
+| [Current whole C578](#cycle-tree-current-independent) | [Exact complete statement](../../claims/Yin_C_G0578_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:16, before old target findings. |
+| [Current whole C578](#cycle-tree-current-independent) | [Exact complete argument](../../claims/Yin_C_G0578_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:16, before old target findings. |
+| [Current whole C579](#positive-half-current-independent) | [Exact complete statement](../../claims/Yin_C_G0579_v1.md#statement) | ENTIRE current statement, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:08, before old target findings. |
+| [Current whole C579](#positive-half-current-independent) | [Exact complete argument](../../claims/Yin_C_G0579_v1.md#argument) | ENTIRE current argument, every mathematical section, original hypothesis/quantifier/domain, accepted input, finite/source/contribution/correction/negative limit and complete cost; actual initial whole conclusion 2026-10-22T21:08, before old target findings. |
+| [Current whole C578](#cycle-tree-current-independent) | [Original author code](../../computations/programs/Yin_J_G0076/verify.py) | Entire fixed original code read, without import or execution; current reproduction-code limitation separately disclosed, historical execution not overwritten. |
 | [Original whole written finding](#plastic-tree-complete-written-review) | [Entire original L303 input](../../ledger/Yin_L_G0303_v1.md#complete-retained-proof-and-review) | Complete Sections1--7/equations1--13, every n/cost/source/native domain and original frozen19248-byte input; actual2026-10-10T07:35 whole written act, not the later C extraction. |
 | [Original whole computational finding](#plastic-tree-complete-computational-review) | [Entire original J76 evidence](../../computations/programs/Yin_J_G0076/readme.md) | All nine n4..12,45 complete arrays,612 pencils, full bases/inverses/covers/metadata and12518 scalar leaves; original2026-10-10 review round, exact act minute/runtime unrecorded. |
 | [Original whole finding](#positive-half-lattice-complete-independent-review) | [Entire original L307 input](../../ledger/Yin_L_G0307_v1.md#complete-retained-proof-and-review) | Complete corrected Sections1--7/equations1--10, all positive/adapted/global/stabilized/scalar/source domains and terminology clarification; actual whole act2026-10-10T08:35, with legacy refreeze offset unestablished. No later C is substituted as its inspected input. |
-| [Current whole C596](#cycle-tree-current-independent) | [Output of the recorded run](../../computations/programs/Yin_J_G0076/readme.md#recorded-runs) | All mathematical keys/lengths/types/values in its predeclared finite domain, independently checked by the new bounded exact method described here; no finite-to-all-input extrapolation. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0076/result.json`; this target locates that original run's computation account. |
+| [Current whole C578](#cycle-tree-current-independent) | [Output of the recorded run](../../computations/programs/Yin_J_G0076/readme.md#recorded-runs) | All mathematical keys/lengths/types/values in its predeclared finite domain, independently checked by the new bounded exact method described here; no finite-to-all-input extrapolation. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0076/result.json`; this target locates that original run's computation account. |
 
 <a id="cycle-tree-current-independent"></a>
 ## Current C578 complete independent finding
@@ -58,9 +58,9 @@ The strict epsilon Rouche count followed on disjoint exterior disks preserves mu
 The successive numerator signs prove both strict monotonic directions, and the uniform exterior lower bounds identify the two seed limits and the complete saving greater than log(3/2).
 Integer unit constants force both nonneutral roots into one reciprocal irreducible factor; the other factors are cyclotomic.
 The two NONZERO complete integer resultants retain the contracting cost2 and circle cost3 for F, and contracting cost2 and circle cost5 for G, producing precisely constants8/26 and the strict lower degree bounds.
-C590's accepted ALL-rank/height companion floor applies to the full Lehmer-times-cyclotomic target; the tree attains the resulting cover minimum2log(beta9).
+C573's accepted ALL-rank/height companion floor applies to the full Lehmer-times-cyclotomic target; the tree attains the resulting cover minimum2log(beta9).
 An irreducible degree10 factor belongs to one connected support component, forcing at least10 vertices and9 integral nonzero edges, and these rank/energy minima are attained.
-The necessary C2/C441v2/C492/C590/C402 interfaces were read at their consumed mathematical scopes.
+The necessary C2/C437v2/C488/C573/C399 interfaces were read at their consumed mathematical scopes.
 The J76 controls confirm their declared finite roles; they are not extrapolated to all n or to target optimality.
 Original McM02/Hir06 attribution and accepted theorem depth remain bounded, with no fresh full-source proof audit.
 No optimum for n>9, arbitrary smaller scalar realization, near-one family or unrestricted gap follows.
@@ -81,7 +81,7 @@ The residual minimum at least2 proves the stronger arbitrary-basis obstruction a
 Thus this is a form-specific obstruction and the ranks/heights/full-square/strict-upper costs remain distinct for proper and relaxed matrices.
 At successful extraction the real singular-value transform only evaluates the already integral matrix: every paired quadratic, unmatched Phi2 and zero singular value remains.
 Applying it separately to -|C'| gives the full companion and all branches of g, then the literal proper cover pays the full product and doubled energy.
-C462v2/C2 and the selected Gro02 source record were read at their necessary scopes.
+C458v2/C2 and the selected Gro02 source record were read at their necessary scopes.
 Gro02 supplies selected statement/partial-proof attribution, without adopting its classification, ideal-class conditions or arithmetic examples; no new PDF inspection is asserted.
 The fixed body contains the author norm-one terminology clarification, and the source note exposed the existence of an old review but no target whole verdict before initial completion.
 The argument proves no free cross-block cost, arbitrary scalar coverage or unrestricted gap.
@@ -93,7 +93,7 @@ It used newly written standard-library coefficient arrays, exact monic division,
 It imported neither author code, old reviewer implementation, SymPy nor a polynomial library, and ran no search or native/reviewer script.
 All 12518 J76 scalar leaves matched, including every full matrix, Q/inverse/congruence,45 full coefficient arrays,612 integer pencils, seed identities/endpoints, cyclotomic boundaries and all rank/height/energy fields.
 All 2761 J77 scalar leaves matched: complete keys and lengths, P/Q/R/H/S_Q, all50 basis edges and100 projection diagonals, every tie/least index, delta/gamma/L/q/w/c, complete F/A/a arrays, trace-dual coefficient identities, signed multiplication-matrix norms, cyclic resultants, order remainders/content, prime factors, complete coefficients and radial/cost ratios.
-The original irreducibility flags were compared with the accepted C520/C402 actual mathematical premises, rather than claimed as a new software factorization.
+The original irreducibility flags were compared with the accepted C520/C399 actual mathematical premises, rather than claimed as a new software factorization.
 The check completed in 0.17834919999586418 seconds and the original J76/J77 code and JSON bytes were identical before and after it.
 This is an actual new bounded read-only check, separate from the historical author runs and historical different implementations.
 It supplies finite evidence only; the all-input written proofs below are checked separately.

@@ -7,6 +7,11 @@ author: Yin
 This retains the complete necessary mathematical argument from [L347](../ledger/Yin_L_G0347_v1.md).
 Original contribution and review accounts remain at their fixed inputs; this maintenance creates no research authority.
 
+## Native input replay limits
+
+The [J79 selected joint-budget/native nonlinear input](../computations/programs/Yin_J_G0079/readme.md#nonlinear-bound-native-input-availability) is currently unavailable for replay of the adopted98-direction,32-cell certificate.
+The retained n18 source family and scalar lambda/mu values do not determine the selected full dual; no replacement optimization or new successful nonlinear execution is asserted.
+
 ## Statement
 
 Fix a monic irreducible nontorsion integer unit P of degree d, a positive integer q, an integer N>d, and a finite nonempty family of nonzero integer polynomials F_j=qB_j-PU_j of degree<N with integer B_j,U_j and P not dividing B_j.

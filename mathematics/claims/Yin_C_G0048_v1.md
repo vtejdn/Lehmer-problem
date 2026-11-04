@@ -126,7 +126,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-12T09:20 |
 | status | proved |
-| reason | Adopt the separate noncontributor actual registered-statement, complete-preservation and selected-interface finding, alongside the exact whole-author review. Retain all original proofs, corrections, contribution and source limits, actual costs and historical assessments. The supplied-profile, finite-class or fixed-input scopes do not establish unrestricted Task completion. |
+| reason | Adopt the separate noncontributor actual registered-statement, complete-preservation and selected-interface finding at its actual SELF relationship, alongside the exact whole-author review. The same reviewer retained the known author-validation context of its earlier same-target whole review. Retain all original proofs, corrections, contribution and source limits, actual costs and historical assessments. The supplied-profile, finite-class or fixed-input scopes do not establish unrestricted Task completion. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -138,7 +138,7 @@ The recorded review description was `under review`.
 | dependency | [Complete original-root expense](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Actual nonzero integral values, exact completed covariance, original degree, all scalar/weight/norm/physical-width charges. |
 | support | [Original negative review finding](../audits/reviews/Yin_R_G0251_v1.md#positive-margin-initial-objection) | Exact original finite-M overstatement and M4 countercheck; retained failure history, not current acceptance evidence. |
 | support | [Corrected entire author review](../audits/reviews/Yin_R_G0251_v1.md#positive-margin-corrected-whole-finding) | Entire corrected16:54 D5 only; separate actual registered-statement/interface finding remains pending. |
-| review | [Actual independent extraction](../audits/reviews/Yin_R_G0253_v1.md#c48-positive-margin-actual-extraction-finding) | Actual registered statement, complete retained argument and present selected interfaces, checked separately from the original whole-author freeze. |
+| review | [Actual SELF extraction](../audits/reviews/Yin_R_G0253_v1.md#c48-positive-margin-actual-extraction-finding) | Actual registered statement, complete retained argument and present selected interfaces, checked separately from the original whole-author freeze. |
 
 ## Registration and preservation
 

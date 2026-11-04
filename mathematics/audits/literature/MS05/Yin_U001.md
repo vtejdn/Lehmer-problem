@@ -201,8 +201,8 @@ No small killer exponent, uniform projection bound, actual coherence growth or n
 ## Distinct original moving-exponent reviewer inspection
 
 Retained 2026-10-22T01:16.
-The original angular_envelope_review agent separately text-read the retained math/0308213v2 primary PDF on printed/PDF pages3--6 and8--10 and visually checked page9, as expressly reported in R547.
+The original angular_envelope_review agent separately text-read the retained math/0308213v2 primary PDF on printed/PDF pages3--6 and8--10 and visually checked page9, as expressly reported in R402.
 This is distinct from the entropy_attainment_bridge source-author occurrence above, whose complete selected Lemma12 proof/Lemmas10--11/Corollary9/interlacing reading and pages8--9 visual scope already supply the adequate author account.
 The reviewer reconstructed the specific torsion classification, arbitrary eligible-prime application, exact factor removal and construction interfaces; general interlacing/exponent statements and original Mann/Schmidt proofs retain their declared external-premise and uninspected-proof boundaries.
-No individual old reading minute is recorded; the source-unit22:05 registration, L40221:55 document and R54722:10 whole completion are not replacement reading minutes.
+No individual old reading minute is recorded; the source-unit 14:05 UTC registration, L402 13:55 UTC document and R402 14:10 UTC whole completion are not replacement reading minutes.
 Current maintenance reads this adequate occurrence record and opens no PDF or new source passage, acquires no artifact and gives no whole-source or journal-edition equivalence verdict.

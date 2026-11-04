@@ -8,7 +8,7 @@ The review act is 2026-10-26T14:10 UTC; the human record author is Yin.
 The reviewer is a separate agent outside the substantive development of C800.
 The supplied inputs were its fixed statement, complete CM1--CM12 argument and exact required interfaces, without author development dialogue, mutable drafts or another C800 verdict.
 The whole target was read first, followed by the needed fixed dependency interfaces and the entire author arithmetic program before computation.
-The reviewer previously independently reviewed C793 and C796 in this conversation; those unchanged accepted results and R1196/R1202 scopes are explicitly reused, not claimed as new graph/source executions.
+The reviewer previously independently reviewed C793 and C796 in this conversation; those unchanged accepted results and R1012/R1017 scopes are explicitly reused, not claimed as new graph/source executions.
 Every current C793 W/V entry was also compared with the previously independently generated complete result.
 The C800 proof, conditional-probability steps, new rational arithmetic and downstream implications were checked afresh.
 
@@ -28,8 +28,8 @@ It changes no Claim assessment or Task objective.
 | --- | --- | --- |
 | [Whole finding](#whole-critical-time-finding) | [C800 statement](../../claims/Yin_C_G0800_v1.md#statement) | Entire actual critical probability law, both mean/tail levels, all extended expectations, actual positive-phase derivative/time, conditional stationary and canonical-dual bounds, complete overlap conclusions and exclusions. |
 | [Whole finding](#whole-critical-time-finding) | [C800 argument](../../claims/Yin_C_G0800_v1.md#complete-argument) | Whole CM1--CM12 including exact Green defect, root interval, all-R conditional convexity and tail bounds, complete finite-prefix use, every rational certificate and exact reused interface. |
-| [Whole finding](#whole-critical-time-finding) | [Adopted C796](../../claims/Yin_C_G0796_v1.md#decision-whole-reviewed-2026-10-26) | Exact complete Green bound U(t0)<=1/delta0 and t0<R<beta at the accepted original-law/source/witness scope; prior R1202 applies unchanged. |
-| [Whole finding](#whole-critical-time-finding) | [Adopted C793](../../claims/Yin_C_G0793_v1.md#decision-whole-reviewed-2026-10-26) | Complete original W/V arrays for0--512 and exact p512, with prior R1196 finite-completeness/native scope reused without extending its graph or time. |
+| [Whole finding](#whole-critical-time-finding) | [Adopted C796](../../claims/Yin_C_G0796_v1.md#decision-whole-reviewed-2026-10-26) | Exact complete Green bound U(t0)<=1/delta0 and t0<R<beta at the accepted original-law/source/witness scope; prior R1017 applies unchanged. |
+| [Whole finding](#whole-critical-time-finding) | [Adopted C793](../../claims/Yin_C_G0793_v1.md#decision-whole-reviewed-2026-10-26) | Complete original W/V arrays for0--512 and exact p512, with prior R1012 finite-completeness/native scope reused without extending its graph or time. |
 | [Whole finding](#whole-critical-time-finding) | [C526 recurrence](../../claims/Yin_C_G0526_v1.md#decision-complete-isolated-whole-adoption) | Actual F(R)=1 and first-return probability normalization, with the same true R and no finite-mean assumption. |
 | [Whole finding](#whole-critical-time-finding) | [C396 root structure](../../claims/Yin_C_G0396_v1.md#quartic-infinite-core-theorem) | Only actual exterior/interior real roots, nonreal unit pair and degree-four factorization, used for the exact upper endpoint beta<x; no new co-return certificate audit. |
 | [Whole finding](#whole-critical-time-finding) | [C785 actual positive phase](../../claims/Yin_C_G0785_v1.md#decision-whole-reviewed-2026-10-26) | Exact original g-series, g(R), extended mean/derivative equality, true-H/Q phase exit distribution and zero-level excursion occupation; no surrogate phase. |
@@ -40,7 +40,7 @@ It changes no Claim assessment or Task objective.
 | [Whole finding](#whole-critical-time-finding) | [New independent checker](../../computations/programs/Yin_J_G0052/reviewer_critical_mean_verify.py) | Separate ascending common-denominator integer evaluation of every finite term, all stated rational differences and complete exact-payload comparison; no author functions imported. |
 | [Whole finding](#whole-critical-time-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0052/readme.md#recorded-runs) | All exact mathematical payload fields, full finite polynomials and every threshold certificate, independently reproduced; display-only floating fields are not evidence. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0052/critical_mean_bounds.json`; this target locates that original run's computation account. |
 | [Whole finding](#whole-critical-time-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0052/readme.md#recorded-runs) | Complete accepted W/V arrays and original scope, all513 entries compared and all512 renewals reconstructed. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0052/return_midpoint_512.json`; this target locates that original run's computation account. |
-| [Whole finding](#whole-critical-time-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0052/readme.md#recorded-runs) | Prior R1196 independently generated complete W/V payload reused at unchanged0--512 scope and compared entrywise, without rerunning its graph. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0052/reviewer_return512_result.json`; this target locates that original run's computation account. |
+| [Whole finding](#whole-critical-time-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0052/readme.md#recorded-runs) | Prior R1012 independently generated complete W/V payload reused at unchanged0--512 scope and compared entrywise, without rerunning its graph. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0052/reviewer_return512_result.json`; this target locates that original run's computation account. |
 | [Whole finding](#whole-critical-time-finding) | [Output of the recorded run](../../computations/programs/Yin_J_G0052/readme.md#recorded-runs) | Completed exact finite arithmetic and comparison evidence, with explicit reused input and analytic-proof limitations. Recorded-run output: `mathematics/computations/outputs/Yin_J_G0052/reviewer_critical_mean_result.json`; this target locates that original run's computation account. |
 
 ## Critical law and CM4
@@ -97,7 +97,7 @@ It recomputes every displayed rational difference for that eta bound, the cubic-
 The denominator condition10000 epsilon0<1 is separately checked.
 This establishes the weaker Green-only assertions without using any coefficient past time1.
 
-For the stronger calculation, all513 entries of both currently consumed W/V arrays agree exactly with the earlier independently generated R1196 result.
+For the stronger calculation, all513 entries of both currently consumed W/V arrays agree exactly with the earlier independently generated R1012 result.
 Their original polynomial, digit weights, denominator and0--512 scope were checked.
 Every nonnegative integer coefficient, time0/time1 convention and exact p512 control was checked, and all512 return coefficients were reconstructed from the first-return array by renewal.
 These new consistency checks supplement the accepted C793 completeness proof rather than establishing completeness on their own.
@@ -183,7 +183,7 @@ No native source verifier, return graph, larger prefix or new root search is run
 No hard process-memory ceiling or formal verification of Python is claimed; the fixed input/iteration bounds are the computational scope.
 The native result proves the specified rational comparisons, while the analytic findings above establish their conditional-probability, true-phase and convolution interpretation.
 
-The prior C793/R1196 and C796/R1202 evidence is reused only at unchanged accepted scope.
+The prior C793/R1012 and C796/R1017 evidence is reused only at unchanged accepted scope.
 The C785/C563/C555/C204 interfaces were inspected where consumed, without claiming a recursive fresh audit of every older dependency.
 No new external theorem, critical-mean classification, positive linear midpoint estimate, finite crossing time, upper radius deficit, varying-input or unrestricted G0001 conclusion is supplied.
 

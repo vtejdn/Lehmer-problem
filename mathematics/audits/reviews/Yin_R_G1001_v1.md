@@ -116,7 +116,7 @@ Together with the already checked even a_T this proves the full added-primary re
 
 The pairwise coprimalities partition every nonphi primary into X, Y1, BN or Bn, with none of their original multiplicities lost.
 All arguments hold for every original C767 source, original s and fixed permitted factor reference; no choice of new seed, sign, source row, larger parameter or free trace coefficient enters them.
-C821 is comparison only, and the generic high-power families supply no input to this finding.
+C778 is comparison only, and the generic high-power families supply no input to this finding.
 The fixed dependency graph used here has no circular reliance on C782.
 The new reasoning consists of finite polynomial and local-ring algebra with explicit derivations; no new external theorem or unresolved source-attribution input was identified.
 The accepted source constructions are consumed at the exact interfaces declared above, rather than recursively re-certified in their unrelated count, measure or phi conclusions.

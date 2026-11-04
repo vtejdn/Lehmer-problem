@@ -9,7 +9,7 @@ Root separately assigned draft_comparison_cleanup to review the complete J112 an
 Root and entropy_attainment_bridge contributed the reduction and author computation; this reviewer supplied no original parameter selection or proof step.
 The arrangement is nonblind: the assigned scope, four-case author result and shared residual context were available.
 The reviewer read the complete readme.md, record.md, inputs.json and main.py, the actual results.json, and the exact accepted C178/C182/C184 interfaces.
-The reviewer previously independently reviewed C182 in R599 and C184 in R602 and knew C178/R593; those are accepted upstream inputs, not new reviews inferred from agreement.
+The reviewer previously independently reviewed C182 in R453 and C184 in R456 and knew C178/R447; those are accepted upstream inputs, not new reviews inferred from agreement.
 
 A separately written same-scope verifier was declared before its first execution in its native source and was run once under the same15-second worker,60-second aggregate and64MiB output limits.
 It did NOT import or rerun main.py, enlarge the parameter family, scan primes, or execute the unused field branches.

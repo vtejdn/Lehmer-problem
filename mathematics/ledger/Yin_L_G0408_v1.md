@@ -378,7 +378,7 @@ No numerical experiment or unrestricted G0001 conclusion is supplied.
 
 | Material | Role in this argument |
 | --- | --- |
-| [C142v2 adopted statement](../claims/Yin_C_G0142_v2.md#statement) | Direct dependency: general finite real phi-capacity weak moment and positive-triple capture, with its existing GW21-U002 scope and R497 whole review. No fresh source proof or independent re-review of that theorem is claimed. |
+| [C142v2 adopted statement](../claims/Yin_C_G0142_v2.md#statement) | Direct dependency: general finite real phi-capacity weak moment and positive-triple capture, with its existing GW21-U002 scope and original R804 whole review. No fresh source proof or independent re-review of that theorem is claimed. |
 | [C147v5 adopted statement](../claims/Yin_C_G0147_v5.md#statement) | Direct dependency: the same full original cyclic logarithmic norm, monotone Phi_5, capped strict inverse H_5 and powered-field multiplicities, at their declared source limits. |
 | [C88 finite gap/bucket mechanism](../claims/Yin_C_G0088_v1.md#statement) | Credited combinatorial antecedent; the needed counting proof is reproduced completely at (10), with the new layer inventory justified here. Its old good-prime arithmetic scope is not silently enlarged as a premise. |
 | [L205 bounded-residue theorem](Yin_L_G0205_v1.md#bounded-residue-mass-near-one-escape) | Direct dependency only for the old positive gap m(P_r)>=log 2/4 and prior-coverage exclusion of that control. |

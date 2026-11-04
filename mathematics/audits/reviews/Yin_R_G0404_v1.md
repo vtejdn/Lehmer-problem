@@ -12,7 +12,8 @@ The earlier draft precheck is not treated as prospective review of the fixed wra
 No program, graph calculation, sampler, matrix evaluation or new source audit is used.
 The existing C76/C70/C80 and L329/L332/L353 results are consumed only at their inspected declared interfaces.
 
-Current relationship clarification: The account records author-scope messages and the same proof's development/precheck context supplied before the fixed finding. Under the current rule this shared mathematical context makes the relationship self-reviewed despite noncontribution.
+Current relationship clarification: The account records author-scope messages and the same proof's development/precheck context supplied before the fixed finding.
+Under the current rule this shared mathematical context makes the relationship self-reviewed despite noncontribution.
 The original checking date, mathematical findings and exact input bindings remain unchanged; this is no new mathematical review.
 
 ## Review relationships
@@ -41,7 +42,7 @@ The original checking date, mathematical findings and exact input bindings remai
 **PASS for the complete actual fixed C169v1 statement, E1--E8 argument and declarations.**
 No unsupported length extension, probability normalization error, missing endpoint case, wrong kernel product, spectral/rank error or unpaid chronological conclusion was found.
 The reviewer requested no mathematical repair.
-This is a complete written independent review of the fixed claim, not formal verification, adoption or Task completion.
+This is the complete written review of the fixed claim at its disclosed self-reviewed relationship; the historical independent-review wording does not establish isolation, formal verification, adoption or Task completion.
 
 ### Complete original probabilities and the N=10 boundary
 

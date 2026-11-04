@@ -18,7 +18,7 @@ In particular, C109's unrestricted-prime divergence and efficiency escape are no
 The new core, all-exponent gcd, progression, simultaneous prime-base and efficiency mechanism belongs to root and the current author and was directly reconstructed below.
 The arrangement supplied author explanations concerning this new target mathematics in the shared research context.
 This actual whole finding is therefore self-reviewed for that substantive shared context, rather than because of the unrelated earlier C106/C109 authorship.
-Those predecessors retain their adopted mathematical scope; their original independent designations are historical, with current aggregate fields retired and R460/R463 now declaring unknown initial context.
+Those predecessors retain their adopted mathematical scope; their original independent designations are historical, with current aggregate fields retired and [R796 original three-prime](Yin_R_G0796_v1.md#three-prime-whole-independent-finding)/[R796 original four-prime](Yin_R_G0796_v1.md#four-prime-whole-independent-finding) now declaring unknown initial context.
 The original date, exact inputs, mathematical checks and binding scopes remain unchanged, with no new review performed.
 
 ## Review relationships

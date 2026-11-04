@@ -36,7 +36,7 @@ This stronger analytic floor covers those eight cases without assuming existence
 
 Root proposed the finite affine elimination and exact screen; entropy_attainment_bridge supplied the even-even saving and the integrality simplification from a^3=Q(c).
 Both are contributors to this computational reduction; no independent review is asserted before its actual separate check.
-The existing C178 whole R593 scope is reused only for the displayed local consequence.
+The existing C178 whole R447 scope is reused only for the displayed local consequence.
 No previous J has this affine elimination question or these parameters; J97--J102 supply unrelated original-polynomial circle diagnostics and are not rerun here.
 
 ## Files

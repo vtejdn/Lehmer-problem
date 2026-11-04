@@ -4,11 +4,15 @@ author: Yin
 
 # Sparse integer defects give exact finite-energy threshold certificates
 
+Current checking scope is owned by [R42](../audits/reviews/Yin_R_G0042_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Direct bounded G0001 derivation by the assigned execution_and_deliverables AI for Yin.
 The coordinator requested an exact lower-certificate method for the finite problem of L G0130 and its actual-product application in L G0132.
 The coordinator contributed the cube-free Gram obstruction in the last section.
-Completed independent review is recorded below.
+The completed checking account is retained below at its responsible finding scope.
 No optimization, coefficient search or numerical mathematical computation has been executed.
 
 ## The same finite problem, with its recurrence dimension retained

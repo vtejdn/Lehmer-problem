@@ -133,7 +133,7 @@ The recorded review description was `under review`.
 | support | [Support](Yin_C_G0010_v2.md#second-order-original-quotient-correction) | The identity and original mechanism are credited; normalized-error square damping is proved locally. |
 | support | [Support](Yin_C_G0010_v2.md#nonzero-unit-residue-completion) | The elementary paired formula is rechecked locally on the actual integral values; no zero residue is assigned a norm. |
 | support | [Support](Yin_C_G0035_v1.md#statement) | Necessary circle bound and fixed-cone scope for its registered old recipe only; no new equivalence or converse for its restricted infimum. |
-| review | [Actual independent extraction finding](../audits/reviews/Yin_R_G0236_v1.md#c37-normalized-error-damping-extraction-finding) | Exact registered statement, selected complete argument, current source/dependency interfaces and preservation; older whole-only findings retain their original scopes. |
+| review | [Actual self-reviewed extraction finding](../audits/reviews/Yin_R_G0236_v1.md#c37-normalized-error-damping-extraction-finding) | Exact registered statement, selected complete argument, current source/dependency interfaces and preservation; older whole-only findings retain their original scopes. |
 
 ## Argument
 

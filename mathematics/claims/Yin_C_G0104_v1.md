@@ -436,7 +436,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-14T19:31 |
 | status | proved |
-| reason | Adopt R459's separately organized complete review of this actual statement, entire retained proof and selected inputs. Sharp product-profile constants, controlled product-envelope capture, full actual-norm conditional transfer and uniform weak bounds for the retained strong counterfamilies are proved at their exact scopes. General correlated capacities, automatic near-one coverage and the original unrestricted gap remain unresolved. |
+| reason | Adopt [R797 original product-fractional](../audits/reviews/Yin_R_G0797_v1.md#product-fractional-whole-independent-finding)'s separately organized complete review of this actual statement, entire retained proof and selected inputs. Sharp product-profile constants, controlled product-envelope capture, full actual-norm conditional transfer and uniform weak bounds for the retained strong counterfamilies are proved at their exact scopes. General correlated capacities, automatic near-one coverage and the original unrestricted gap remain unresolved. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

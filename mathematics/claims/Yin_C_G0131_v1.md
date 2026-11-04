@@ -426,7 +426,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-15T09:12 |
 | status | proved |
-| reason | Adopt the complete noncontributor R484 finding of the finite moving-cutoff obstruction and growing-factor conclusions. Retain km and all original angular/radial costs. Add the directly used L229 input omitted from the initial table without changing the proof; all larger-count or different-algebra regimes remain open. |
+| reason | Adopt the complete noncontributor [R798 original moving-cutoff](../audits/reviews/Yin_R_G0798_v1.md#moving-cutoff-whole-independent-finding) finding of the finite moving-cutoff obstruction and growing-factor conclusions. Retain km and all original angular/radial costs. Add the directly used L229 input omitted from the initial table without changing the proof; all larger-count or different-algebra regimes remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

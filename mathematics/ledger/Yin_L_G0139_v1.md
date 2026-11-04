@@ -4,12 +4,16 @@ author: Yin
 
 # Uniform gaps for varying delay seeds and exact reciprocal-core encoding
 
+Current checking scope is owned by [R43](../audits/reviews/Yin_R_G0043_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Joint bounded G0001 derivation by the coordinating AI and assigned AI `growth_arithmetic_status` for Yin.
 The coordinator derived the exterior-root Poisson estimate, the height-free Blaschke ratio bound, and the uniform relative-delay criterion in Sections 1--3.
 The assigned agent checked that proof and derived the half-degree encoding, its exact coefficient and norm costs, and the cubic/quartic control in Sections 4--6.
 Both contributed to the assembled conclusions.
-Completed independent full review is recorded below.
+The complete checking account is retained below at its responsible finding scope.
 
 No new source, numerical experiment, root-isolation run, or novelty claim is a premise.
 The contextual input is [L G0134](Yin_L_G0134_v1.md), which gives an effective gap for all positive factors of every fixed seed and of every fixed finite seed collection.

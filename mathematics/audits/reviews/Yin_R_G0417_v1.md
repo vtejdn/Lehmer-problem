@@ -12,8 +12,8 @@ The complete fixed statement/proof and input table agree with the author body al
 No mathematical correction was requested or incorporated.
 
 Root contributed to upstream L402's source direction, same-window correction question and joint-symbol target, and to comparison L406.
-Their separate R402/R554 scopes are reused, not independently re-proved by a contributor here.
-Root earlier independently reviewed C160 in R530 and now checks its new same-window application.
+Their separate R402/R409 scopes are reused, not independently re-proved by a contributor here.
+Root earlier independently reviewed C160 in R385 and now checks its new same-window application.
 Root contributed to C158; only its adopted definition/normalization is consumed, without a new independent audit of that whole theorem.
 The new author's C160 authorship is likewise disclosed in the Claim.
 No mathematical computation, source acquisition, original external proof audit or novelty search belongs to this review.
@@ -43,10 +43,10 @@ The whole finding therefore has an unknown relationship; original dates, mathema
 | [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Actual raw blocks](../../ledger/Yin_L_G0402_v1.md#moving-exponent-raw-numerator) | Integral A,B,R,S expansion, degrees and complete(x-1)^3 removal. |
 | [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Original joint symbol](../../ledger/Yin_L_G0402_v1.md#moving-exponent-joint-kernel-question) | Actual full-column space, Xi and original-d signed diagonal normalization. |
 | [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Prior whole L402 review](Yin_R_G0402_v1.md#moving-exponent-whole-independent-finding) | Accepted source/application and raw-Gram scope, with root contribution disclosed. |
-| [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Same-window correction](../../claims/Yin_C_G0160_v1.md#fixed-seed-original-factor-projection) | Nested relation spaces, positive rank3 difference and complete additive cost<6; R530 reused. |
+| [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Same-window correction](../../claims/Yin_C_G0160_v1.md#fixed-seed-original-factor-projection) | Nested relation spaces, positive rank3 difference and complete additive cost<6; R385 reused. |
 | [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Original coherence definition](../../claims/Yin_C_G0158_v1.md#statement) | Rank-d residual and(2/d)sum positive diagonal magnitudes; no new independent audit of own upstream theorem. |
 | [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Joint formula comparison](../../ledger/Yin_L_G0404_v1.md#joint-boundary-symbol) | Motivation only; no inverse estimate or logical premise. |
-| [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Low-mode cutoff comparison](../../ledger/Yin_L_G0406_v1.md#joint-cutoff-target) | Existing R554 boundary, not evidence for actual divergence. |
+| [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Low-mode cutoff comparison](../../ledger/Yin_L_G0406_v1.md#joint-cutoff-target) | Existing R409 boundary, not evidence for actual divergence. |
 | [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Bounded-symbol control](../../ledger/Yin_L_G0407_v1.md#neutral-factor-bounded-symbol) | Spectrum growth alone is insufficient; comparison only. |
 | [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Earlier divergent control](../../claims/Yin_C_G0143_v1.md#statement) | Existing different growing-measure scope only. |
 | [Whole actual-coherence finding](#moving-salem-coherence-whole-independent-finding) | [Bounded-coherence control](../../claims/Yin_C_G0160_v1.md#statement) | Different actual fixed-positive-measure family and disclosed upstream authorship. |

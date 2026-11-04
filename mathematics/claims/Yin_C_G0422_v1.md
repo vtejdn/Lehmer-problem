@@ -95,7 +95,7 @@ The earlier exponential obstruction for a different global product cost does not
 | --- | --- |
 | date | 2026-10-21T19:09 |
 | status | proved |
-| reason | Adopt after actual complete current SELF inspection of every original critical/cusp/radius/derivative/partition/root-factor and normalized whole-circle/tail step, exact symbolic quartic and source/near-one limits. Original R276 initial whole reading included the explicit full author check, so its SELF relationship/date/scopes remain separately historical; no independent coverage or new source/native run is inferred. |
+| reason | Adopt after actual complete current SELF inspection of every original critical/cusp/radius/derivative/partition/root-factor and normalized whole-circle/tail step, exact symbolic quartic and source/near-one limits. Original R200 initial whole reading included the explicit full author check, so its SELF relationship/date/scopes remain separately historical; no independent coverage or new source/native run is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

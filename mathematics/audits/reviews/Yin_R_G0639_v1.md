@@ -10,7 +10,8 @@ This separately assigned reviewer is outside the substantive development of all 
 Its initial context supplied the three exact fixed C targets, the applicable rules and the required historical-comparison scope, without the proof-development dialogue, mathematical summaries, author explanations or earlier target verdicts.
 It first read each actual Markdown Statement section to the next H2 boundary and established the obligations below.
 It then directly read each complete argument from its argument anchor to the next Current assessment section if present, otherwise to EOF.
-For these actual files the assessment sections precede the argument, so the full argument body was read through EOF.
+C417 has its assessment before the argument; C419 and C421 place theirs after the argument.
+The described argument-to-assessment reading therefore covers the complete arguments in all three files.
 The complete fixed proofs themselves include their original reuse, contribution and checking-provenance sentences.
 Those sentences were encountered in the prescribed proof bodies and are disclosed as such; no additional target author explanation, old L/R finding, target assessment/history or J README verification summary was read before the initial whole findings.
 

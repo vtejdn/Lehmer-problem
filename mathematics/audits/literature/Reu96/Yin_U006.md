@@ -239,9 +239,8 @@ Independent review, 2026-09-08: the separate reviewing agent compared the exampl
 It verified the signs in $QBP$, the polynomial-degree obstruction, minimality over the chosen $D$ without assuming an embedding of $\mathbb C$, and both cancellation cases leading to the no-square-root contradiction.
 No additional local gap was found; this does not verify the external existence construction.
 
-## Source and inspection
+## Exact passage and inspection limits
 
-Source edition: Reu96, the retained 17-page published Selecta Mathematica 2 (1996), pp. 93-109, DOI 10.1007/BF01587940. Printed page equals PDF page plus 92. The historically incorrect supplied filename DR97.pdf was corrected with authorization; it is not a citation alias, and the separately registered DR97 article is distinct. No second version was compared.
 
 Passages: Sections 5.1-5.2, printed pp. 107-108 / PDF pp. 15-16; relevant references, printed pp. 108-109 / PDF pp. 16-17.
 

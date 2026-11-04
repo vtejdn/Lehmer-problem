@@ -27,19 +27,23 @@ The old roles and contribution scopes are distinguished below without guessing t
 
 ### Finding: original block coordinator contribution
 
-The original coordinator contributed whole-block divisibility, as the fixed L44 opening explicitly records. Its reread of that whole-block component is self-review; this does not label the rest of its full check self merely because it identified one ingredient.
+The original coordinator contributed whole-block divisibility, as the fixed L44 opening explicitly records.
+Its reread of that whole-block component is self-review; this does not label the rest of its full check self merely because it identified one ingredient.
 
 <a id="original-block-coordinator-remainder"></a>
 
 ### Finding: original block coordinator remainder
 
-The same coordinator checked the complete field-degree/support-gcd/lcm/quotient chain. Outside its actual whole-block contribution, the initial mathematical-context content and order are not established; neither its complete reading nor the old role name establishes isolation. No source-access or original Mann proof audit is added.
+The same coordinator checked the complete field-degree/support-gcd/lcm/quotient chain.
+Outside its actual whole-block contribution, the initial mathematical-context content and order are not established; neither its complete reading nor the old role name establishes isolation.
+No source-access or original Mann proof audit is added.
 
 <a id="original-block-separate-whole"></a>
 
 ### Finding: original block separate whole
 
-The separate review_matrix_completion check covered both field extensions, support gcd, all component/lcm/whole-block conclusions, prime2/maximal-component boundaries and exact quotient-growth/no-same-excess limitation. The original account establishes real checking but not its initial mathematical-context isolation; source-access checks were not repeated.
+The separate review_matrix_completion check covered both field extensions, support gcd, all component/lcm/whole-block conclusions, prime2/maximal-component boundaries and exact quotient-growth/no-same-excess limitation.
+The original account establishes real checking but not its initial mathematical-context isolation; source-access checks were not repeated.
 
 ## Review relationships
 

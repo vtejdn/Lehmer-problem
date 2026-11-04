@@ -17,7 +17,7 @@ Root supplied the exact D3 path, 2026-10-12T04:28 freeze and review obligations 
 Shared parent context includes that status inquiry, the continuing Task and the assignment's summary of the proposed conclusion.
 The entire D3 body, including the author's own self-check, was read; this is not a blinded review.
 No additional author dialogue or proof-generation transcript was consulted.
-The new mathematical obligations were reconstructed before consulting the existing R304/R327 findings, which concern accepted upstream interfaces only.
+The new mathematical obligations were reconstructed before consulting the existing [R746 original C19](Yin_R_G0746_v1.md#c19-radical-capacity-extraction-finding)/R236 findings, which concern accepted upstream interfaces only.
 No earlier finding about this new D3 was supplied or reused.
 
 Exact target: [the NEW D3 entire author freeze](../../claims/Yin_C_G0040_v1.md#radical-circle-infimum-entire-author-freeze), dated 2026-10-12T04:28, COMPLETE Sections 1--9, equations (1)--(17), all hypotheses, costs, self-check and contributor/history paragraphs.
@@ -33,12 +33,17 @@ Their older source inspection depth is not enlarged.
 No native mathematical program, numerical computation, solver, J, source acquisition or proof-assistant check occurred.
 Scoped material validation is operational and separate from the mathematical review.
 
+The initial entire C40 input included the author's verification checklist and no-defect/completion conclusions beyond its necessary proof.
+The whole finding and its subsequent same-context extraction are self-reviewed; the proposed-conclusion summary alone would not establish that classification.
+The original independence wording in the retained narrative records the historical declaration; the current finding relationships are those in the table below.
+The performed checks, original dates, exact inputs, mathematical verdicts and limits remain unchanged.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Entire radical-circle finding](#radical-circle-entire-author-finding) | independently reviewed |
-| [C40 actual extraction finding](#c40-radical-circle-extraction-finding) | independently reviewed |
+| [Entire radical-circle finding](#radical-circle-entire-author-finding) | self-reviewed |
+| [C40 actual extraction finding](#c40-radical-circle-extraction-finding) | self-reviewed |
 
 ## Review bindings
 
@@ -184,7 +189,7 @@ Neither C38 nor C17 strong duality is a premise of the new theorem.
 
 The classical finite grouping, normalized trace and finite phase sum are proved locally.
 C19 is correctly credited for the older module/root-fiber/cost identities and C16 for the exact domain and nonlinear norm warning.
-After the initial reconstruction, the existing R304 and R327 extraction findings were inspected only to confirm the adopted scope of C19 and C37.
+After the initial reconstruction, the existing [R746 original C19](Yin_R_G0746_v1.md#c19-radical-capacity-extraction-finding) and R236 extraction findings were inspected only to confirm the adopted scope of C19 and C37.
 No new source theorem, source-proof inspection, novelty claim or unresolved attribution issue is introduced at this exact changed scope.
 An exhaustive priority search and recursive audit of all accepted source foundations were not performed or claimed.
 

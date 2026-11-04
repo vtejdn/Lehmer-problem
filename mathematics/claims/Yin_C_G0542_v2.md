@@ -132,7 +132,7 @@ This is [L170's actual core](Yin_C_G0400_v1.md#exact-salem-return-strip), with i
 In particular17/10<beta<18/10<2, B>1 and B belongs to O with B_-=-S.
 Let iota(beta)=beta^-1 and J=beta^-1 iota.
 The involution J preserves D and reverses an original edge with its digit negated.
-The [L415 complete union identification](Yin_C_G0537_v2.md#union-carry-original-incidence) says that the normalized b2 union is precisely the bipartite graph with two copies of D, here labeled c and y=-x, and an edge whenever
+The [L414 complete union identification](Yin_C_G0537_v2.md#union-carry-original-incidence) says that the normalized b2 union is precisely the bipartite graph with two copies of D, here labeled c and y=-x, and an edge whenever
 
     y=beta^4 c+theta,
     theta=sum_(j=0)^3 eta_j beta^j, eta_j in{-1,0,1}.    (2)
@@ -142,7 +142,7 @@ Its four-step path and all attached tails are original legal core paths.
 Ascending polynomial digits are reversed into chronological order.
 All degrees below refer to this COMPLETE infinite union, never to a truncated graph; they are positive integers at most81.
 
-[L418](Yin_C_G0540_v2.md#fixed-overlap-isolated-classification) already classifies isolated edges and prices their whole original mass and internal product-fiber energy.
+[L417](Yin_C_G0540_v2.md#fixed-overlap-isolated-classification) already classifies isolated edges and prices their whole original mass and internal product-fiber energy.
 This inquiry does not repeat that construction.
 C76 and C80 concern another operator, while C170's trivial four-digit quotient does not prove connectivity.
 A bounded reuse search of the actual carry, forced-boundary and controlled-core material found no retained classification of non-isolated finite union components.
@@ -303,7 +303,7 @@ Neither the four-digit basis nor irreducibility of the original chronological ke
 The set A_n need not be a union of closed full-word components, since a low-degree edge can be left through its other endpoint.
 Thus5/13 is a mass bound, not a component-defect theorem.
 The tempting(5/13)(8/13)=40/169<1/4 is NOT an upper bound on full graph chi.
-[L418's isolated-product argument](Yin_C_G0540_v2.md#isolated-component-energy-defect) does not transfer to this nonclosed set.
+[L417's isolated-product argument](Yin_C_G0540_v2.md#isolated-component-energy-defect) does not transfer to this nonclosed set.
 No uniform energy coefficient, conditional-remainder gap, actual critical mean or Mahler gap follows.
 C170's D_(n,2)<=4 and digit-work divisor n+2 remain unchanged: no new operator or unpaid path comparison is introduced.
 
@@ -321,10 +321,10 @@ A future finite test would need its own declared symbolic region or exact word p
 | [L309](../ledger/Yin_L_G0309_v1.md#quartic-full-core-linear-return), [R786](../audits/reviews/Yin_R_G0786_v1.md#weighted-tail-complete-independent-review) | Actual beta bracket, original order and reciprocal core paths; no new quantitative path-length assertion. |
 | [L319](Yin_C_G0601_v1.md#actual-forced-boundary-segments), [R786](../audits/reviews/Yin_R_G0786_v1.md#forced-boundary-complete-independent-review) | Exact one-successor region and sign-preserving forced segment. |
 | [C170](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Actual four-digit basis, all original tail/middle weights and unchanged clock; this author contributed C170 and reuses its independent review. |
-| [L415](Yin_C_G0537_v2.md#union-carry-original-incidence) | Complete normalized union equals original four-step incidence, with actual legal tails and finite onsets. |
-| [L418](Yin_C_G0540_v2.md#fixed-overlap-isolated-classification) | Prior isolated-edge classification and its distinct closed-component mass/energy scope; this author contributed it and claims no independent review. |
+| [L414](Yin_C_G0537_v2.md#union-carry-original-incidence) | Complete normalized union equals original four-step incidence, with actual legal tails and finite onsets. |
+| [L417](Yin_C_G0540_v2.md#fixed-overlap-isolated-classification) | Prior isolated-edge classification and its distinct closed-component mass/energy scope; this author contributed it and claims no independent review. |
 | [L353](Yin_C_G0370_v1.md#general-conditioning-amplification) | Support-specific binary autocorrelation maximum and original conditioning. |
-| [L410](Yin_C_G0514_v2.md#bulk-component-defect), [R414](../audits/reviews/Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Full component defect and separate fixed-defect/uniform-energy targets; no new chi upper bound supplied. |
+| [L409](Yin_C_G0514_v2.md#bulk-component-defect), [R414](../audits/reviews/Yin_R_G0414_v1.md#bulk-carry-whole-independent-finding) | Full component defect and separate fixed-defect/uniform-energy targets; no new chi upper bound supplied. |
 
 Root supplied the question only and no proof step.
 All original new arguments are by entropy_attainment_bridge.

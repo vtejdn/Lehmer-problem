@@ -2,7 +2,7 @@
 
 Exponent-set arithmetic is reviewer-authored and imports no contributor code.
 The unchanged full group theorem and J126 source reconstruction are accepted
-at R987v2's exact scope; only the two new targets are reduced here.
+at R825v2's exact scope; only the two new targets are reduced here.
 """
 
 import json
@@ -100,10 +100,10 @@ def leading(a):
 def main():
     home = Path(__file__).resolve().parent
     outputs = home.parents[2] / 'computations' / 'outputs'
-    fixed_path = outputs / 'Yin_J_G0126' / 'certificate.json'
+    fixed_path = home.parent / 'Yin_J_G0126' / 'inputs' / 'certificate.json'
     fixed = json.loads(fixed_path.read_text(encoding='utf-8'))
     certificate = json.loads((outputs / home.name / 'certificate.json').read_text(encoding='utf-8'))
-    assert certificate['fixed_input'] == 'mathematics/computations/outputs/Yin_J_G0126/certificate.json'
+    assert certificate['fixed_input'] == 'mathematics/computations/programs/Yin_J_G0126/inputs/certificate.json'
     assert fixed['M'] == certificate['modulus'] == encode(MODULUS)
     assert certificate['tested_powers'] == [2, 4]
     rows = certificate['results']
@@ -179,7 +179,7 @@ def main():
               'results': results, 'used_pivot_expressions': sorted(used),
               'total_cancellations': sum(len(r['trace']) for r in results),
               'quotient_class_order': 4,
-              'accepted_input': 'Unchanged C643v2/J126 complete group theorem, previously reviewed in R987v2',
+              'accepted_input': 'Unchanged C621v2/J126 complete group theorem, previously reviewed in R825v2',
               'limits': 'No new group construction, source scan, quotient, or original-input witness.'}
     (outputs / home.name / 'reviewer_verification.json').write_text(json.dumps(output, indent=2)+'\n', encoding='utf-8')
     print(json.dumps(output, indent=2))

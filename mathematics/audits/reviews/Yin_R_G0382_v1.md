@@ -11,7 +11,7 @@ The inspection covers the complete statement, Sections 1--6, every declared depe
 
 The arrangement is non-blind.
 The assignment supplied the proposed bounds and identified the powered-degree, source-radius, radial and cubic risks; preceding G0001 context was available.
-The reviewer first read the complete candidate, enumerated its local obligations and checked the substantive dependency passages before consulting the actual C158 adoption and R525 findings.
+The reviewer first read the complete candidate, enumerated its local obligations and checked the substantive dependency passages before consulting the actual C158 adoption and R380 findings.
 The reviewer did not read D39 development dialogue or independently rediscover the proof.
 The prior accepted inputs were used at their exact scopes, rather than being reclassified as newly source-proof audited.
 No mathematical program, numerical integration, parameter scan or new source search was used.
@@ -19,7 +19,7 @@ No mathematical program, numerical integration, parameter scan or new source sea
 The available preceding G0001 context is not specified sufficiently to establish isolation before the first mathematical judgment.
 The fixed proposed bounds and risk checklist, and later consultation of a different accepted input's finding, do not themselves imply contribution to this angular proof.
 The whole finding therefore has an unknown relationship; original dates, mathematical checks and exact binding scopes remain unchanged, with no new review performed.
-The original C158 decision and R525 input remain historical at their recorded date; R525 now declares unknown initial context rather than current independent certification.
+The original C158 decision and R380 input remain historical at their recorded date; R380 now declares unknown initial context rather than current independent certification.
 
 ## Review relationships
 
@@ -38,7 +38,7 @@ The original C158 decision and R525 input remain historical at their recorded da
 | [Whole angular finding](#refined-angular-whole-independent-finding) | [Pri11 finite Lipschitz statement](../literature/Pri11/Yin_U001.md#pri11-u001) | Actual simple integer minimal polynomial, N>=55, global Lipschitz constant, support radius and max(log N/N,u) normalization; original source proof is not newly audited. |
 | [Whole angular finding](#refined-angular-whole-independent-finding) | [L229 angular interface](../../ledger/Yin_L_G0229_v1.md#uniform-powered-angular-coherence) | Exact compact cosine test, original powered multiplicity and old increasing envelope on 0<u<=(log2/4)exp(-20), used for comparison and an optional minimum. |
 | [Whole angular finding](#refined-angular-whole-independent-finding) | [C158 cubic statement](../../claims/Yin_C_G0158_v1.md#statement) | Actual N=2d projection kernel, real cubic coefficients, valid frequency upper bound 3(2d-1), exact original Laurent evaluations and uniform error 1/32. |
-| [Whole angular finding](#refined-angular-whole-independent-finding) | [C158 actual acceptance](../../claims/Yin_C_G0158_v1.md#decision-whole-reviewed-2026-10-18) | The selected proved and independently reviewed decision actually adopts R525 before this use; no pending-candidate assumption supplies the cubic. |
+| [Whole angular finding](#refined-angular-whole-independent-finding) | [C158 actual acceptance](../../claims/Yin_C_G0158_v1.md#decision-whole-reviewed-2026-10-18) | The selected proved and independently reviewed decision actually adopts R380 before this use; no pending-candidate assumption supplies the cubic. |
 | [Whole angular finding](#refined-angular-whole-independent-finding) | [C145 logarithmic contact](../../claims/Yin_C_G0145_v1.md#logarithmic-contact-discrepancy) | Same h=log(1+k), N=2d and delta=1; original angular discrepancy at least log(4/3)-(log2)D_N with D_N<=2(2d-1)m/d<=4m. |
 
 <a id="refined-angular-whole-independent-finding"></a>
@@ -127,7 +127,7 @@ There is no infinite Fourier interchange, missing zero-frequency contribution or
 
 ### Actual cubic, contact deficit and scope of the conclusion
 
-C158's current 18:25 whole-reviewed decision and actual R525 finding were inspected after the local obligations above.
+C158's current 18:25 whole-reviewed decision and actual R380 finding were inspected after the local obligations above.
 Its cubic uses the actual N=2d residual projection and satisfies 0<=G_3-h<=1/32 on the circle, with a valid integer frequency upper bound 3(2d-1).
 Any smaller bound L in C159 must really be a valid bound for that same cubic; no low scalar degree is substituted for its expanded Fourier width.
 The original values G_3(alpha_i)=log2 are Laurent evaluations at the original complex roots.

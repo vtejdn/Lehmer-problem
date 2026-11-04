@@ -10,7 +10,7 @@ The reviewer was a separate agent outside substantive development of C772 and su
 The first input for this review was the complete fixed [C772 statement](../../claims/Yin_C_G0772_v1.md#statement), [HL2--HL6 argument](../../claims/Yin_C_G0772_v1.md#complete-argument) and exact selected input scopes.
 The reviewer then checked the directly used fixed C767, C768, C770 and C764 interfaces, including the actual localization detection and the original supported plateau.
 D46, author conversation, a new source-offset argument and prior conclusions about C772 were not consulted.
-Existing knowledge of C767/C768 and earlier independent reviews of C811/C770 is disclosed; none of that replaced checking the new integer period, actual bit construction or changing-divisor comparison.
+Existing knowledge of C767/C768 and earlier independent reviews of C769/C770 is disclosed; none of that replaced checking the new integer period, actual bit construction or changing-divisor comparison.
 This finding covers the whole standalone conditional C772 theorem, using its adopted inputs at the interfaces below rather than recursively re-auditing all earlier mathematics and external sources.
 
 ## Review relationships

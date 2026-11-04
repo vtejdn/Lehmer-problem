@@ -82,14 +82,14 @@ The full input and its complete proof were read, including the lack of a lower e
 The [adopted C805 statement and RB1--RB12 proof](Yin_C_G0805_v1.md#decision-whole-reviewed-2026-10-26) construct Q as a contraction on the entire l2(D,sigma), without assuming finite mu.
 They give Q=mathsf J L, J-invariant sigma, and the positive finite L blocks with exact invariant weights.
 No raw counting-measure operator estimate is transferred to this weighted space.
-The full fixed proof and whole independent R1210 were read before use.
+The full fixed proof and whole independent R1025 were read before use.
 
 The [accepted Pet20 source interface](../audits/literature/Pet20/Yin_U001.md#pet20-u001) supplies the standard compact weak-to-norm property and the closed two-sided compact ideal with its Banach quotient norm.
 Its source statements and applicability are accepted at the retained statement-reading depth, not a newly audited source proof.
 The spaces used here are infinite-dimensional complex Hilbert spaces; their compact ideal is proper because an infinite orthonormal family has no norm-convergent subsequence.
 No further Fredholm theorem is needed: essential spectral inclusion is proved directly from noninvertibility in this quotient.
 
-The focused reuse screen inspected C805's explicit one-step boundary, C803's fixed-horizon state-profile and occupation conclusions, C408's raw counting-space all-power translation theorem and C703's exact cost and stationary-mass distinction.
+The focused reuse screen inspected C805's explicit one-step boundary, C803's fixed-horizon state-profile and occupation conclusions, C405's raw counting-space all-power translation theorem and C673's exact cost and stationary-mass distinction.
 Searches for weighted essential norms, Q powers and spectral gaps also identified C547/C566/C650/C675, whose word-fiber, overlap-mixture or bridge-count clocks differ from the present chronological actual Q.
 None of those selected accounts supplies SC2--SC6 on the actual sigma-weighted space.
 This is a bounded reuse statement, not a priority claim.

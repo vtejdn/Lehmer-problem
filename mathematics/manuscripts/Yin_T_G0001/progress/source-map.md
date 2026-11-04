@@ -3,7 +3,7 @@
 This record is not compiled.
 It maps the strategy-structured 11 October 2026 English revision to the responsible mathematics, including the completed bounded comparison through L355.
 The compiled report contains no internal material identifiers.
-The [current authoring check and build record](readme.md#authoring-check-of-the-strategy-revision) covers the new presentation.
+The [current build record](readme.md#local-build-verification) covers the new presentation.
 The [manuscript review](review.md#strategy-revision-authoring-check) records the review scope and limits for this strategy revision.
 Underlying results retain their own assessments, accepted inputs and reviewer relationships.
 
@@ -51,7 +51,7 @@ This is manuscript organization under the same Task and strategy records; it cha
 | `str:base-family`, `str:original`, `str:original-cost`, `str:uniform-cost` | [L_G330](../../../ledger/Yin_L_G0330_v1.md), [R_G155](../../../audits/reviews/Yin_R_G0155_v1.md), [L_G346](../../../ledger/Yin_L_G0346_v1.md), [L_G349](../../../ledger/Yin_L_G0349_v1.md#all-count-cost-fixed-scope), [R_G174](../../../audits/reviews/Yin_R_G0174_v1.md). Growing subset counts use L349's complete-circle proof. |
 | `str:changed`, `str:closed`, `str:changed-cost` | [L_G352](../../../ledger/Yin_L_G0352_v1.md#changed-bulk-fixed-scope), [R_G177](../../../audits/reviews/Yin_R_G0177_v1.md); every attachment, cleared denominator, neutral factor, trace and energy expense is retained. BV04 gives Schur-complement attribution. |
 | `out:coherence`, `out:neutral`, `det:completion-question` | The above adopted inputs and [current discriminators](../../../strategies/Yin_S_G0001.md#next-unit-lattice-discriminator). The scoped earlier Fourier and long-window barriers are [L_G125](../../../ledger/Yin_L_G0125_v1.md#central-small-transition-collapse) and [C_G516](../../../claims/Yin_C_G0516_v2.md#statement). The outlook creates no new theorem or execution mandate. |
-| `fo:transition-collapse` | [L_G125](../../../ledger/Yin_L_G0125_v1.md#central-small-transition-collapse), including its recorded complete independent written-proof review and used rigidity interfaces. The stated collapse is at fixed input, uniform over admissible windows and without a height restriction. No effective modulus or varying-input conclusion is added; the separate complete orbit-budget consequence would additionally need subexponential height. |
+| `fo:transition-collapse` | [L_G125](../../../ledger/Yin_L_G0125_v1.md#central-small-transition-collapse), its [current whole finding](../../../audits/reviews/Yin_R_G0553_v1.md#current-transition-collapse-finding), and the used rigidity interfaces. The current finding is SELF; the original review arrangement remains UNKNOWN as recorded there. The stated collapse is at fixed input, uniform over admissible windows and without a height restriction. No effective modulus or varying-input conclusion is added; the separate complete orbit-budget consequence would additionally need subexponential height. |
 | `det:scalar-return`, `det:full-cost` | [Task determinant scope](../../../tasks/Yin_T_G0001_v1.md#contract), [Luc22 audits](../../../audits/literature/Luc22/readme.md), and the same [C_G2 full-factor identity](../../../claims/Yin_C_G0002_v1.md#statement). The cyclic scalar identity and multiplicativity are written out with the unnormalized matrix trace; no unrestricted rectangular-operator or other-group result is substituted. |
 
 ## Standalone attachment provenance
@@ -61,6 +61,10 @@ Data are extracted from the existing `unit-cap-output.json` native output record
 No new direction, optimization or missing sixth realization is supplied.
 The verifier is independently written for the attachment, using quotient-ring multiplication, fraction-free determinants, coefficient convolutions and direct weak duality.
 It imports no research checker.
+
+The return-core theorem's J24 normalized words and J26 enumeration/path payloads have no standalone counterpart in this attachment.
+The selected output paths and their corresponding earlier program locations have no recoverable payload in the local Git histories checked during this maintenance.
+Standalone coverage of `ret:lehmer-core` therefore remains incomplete; the existing finite optimization data and verifier cannot close it.
 
 The attachment verifies all 304 source columns, the exact selector, five optima, two strict improvements and the sixth feasible primal with its lag-9 box violation.
 It does not reprove input irreducibility, root classification, the discovery procedure or the historically failed floating tableau.

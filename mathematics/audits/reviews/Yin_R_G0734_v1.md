@@ -5,7 +5,7 @@ author: Yin
 # Current complete SELF: true-radius critical thresholds and conditional sharp-profile transfer
 
 Recorded 2026-10-22T18:08 by the maintaining Yin agent after full reading of the published OPEN C526v1 and C529v1 Statements and complete Arguments.
-The same agent read and organized the original L285/L286 mathematics, R184/R185 findings and exact current fixed interfaces before this check, so both current findings are SELF.
+The same agent read and organized the original L285/L286 mathematics, original R184/R185 findings retained in [R768](Yin_R_G0768_v1.md#actual-critical-return-complete-independent-review) and [R769](Yin_R_G0769_v1.md#finite-tail-pressure-complete-independent-review) and exact current fixed interfaces before this check, so both current findings are SELF.
 No isolated arrangement, new original mathematical proof, source PDF reading, native execution or research Task/E is claimed.
 The original author checks and old review acts keep their original dates and distinct scopes below.
 
@@ -33,10 +33,10 @@ The original author checks and old review acts keep their original dates and dis
 
 The actual original zero-to-zero law gives f1=p1=1/2 and p_(n+k)>=p_n p_k.
 Thus1<=R<=2 and R^n p_n<=1 with the stated Fekete direction.
-C436 supplies the full same counting-l2 operator bound at EVERY n, with both rows and columns, early singular covariances and both dimensions of each complex neutral pair.
+C432 supplies the full same counting-l2 operator bound at EVERY n, with both rows and columns, early singular covariances and both dimensions of each complex neutral pair.
 Its all-time entropy comparison gives R^n p_n>=1/E_n>=c n^(-q/2), with the stated fixed-input c and no replacement of R by exp(m).
-C408's radius interface and C483's complete original first-return/tilt formulas have matching spaces, chronology and word weights.
-The quartic lower entropy input is C436's fully paid all-time consequence, rather than a bare finite p64 assertion.
+C405's radius interface and C479's complete original first-return/tilt formulas have matching spaces, chronology and word weights.
+The quartic lower entropy input is C432's fully paid all-time consequence, rather than a bare finite p64 assertion.
 
 For q<=2 the harmonic comparison and monotone full renewal give F(R)=1.
 At q0, retaining a0>=c bounds the complete difference quotient by C_non; monotone summation proves the finite first mean only in that stated case.
@@ -75,10 +75,10 @@ No new entropy floor, actual mean classification, Task completion, native rerun 
 <a id="current-conditional-profile-whole-self-finding"></a>
 ## Complete sharp-profile conditional implication
 
-C523 supplies the exact integer z_j=-M^(d+j)v, all consecutive d-column independence for every actual nonzero algebraic integer, W_i=(I+A_iA_i^T)^(-1), D_i=det(W_i)^(-1), original zero atom p_b and full Schur precision.
+C517 supplies the exact integer z_j=-M^(d+j)v, all consecutive d-column independence for every actual nonzero algebraic integer, W_i=(I+A_iA_i^T)^(-1), D_i=det(W_i)^(-1), original zero atom p_b and full Schur precision.
 M need only be invertible over the field/reals; unimodularity is not assumed for nonunits.
 The selected current C529 statement explicitly assumes C1 at EVERY attained endpoint for each required actual X.
-It does not claim that the original J71 finite tests, the half-profile, or the separate adequate hyperbolic C311 theorem prove C1.
+It does not claim that the original J71 finite tests, the half-profile, or the separate adequate hyperbolic C310 theorem prove C1.
 
 With H0=W_i+Q^-1 and c=-H0^-1 W_i u, expansion preserves the cross term and leaves constant W_i-W_iH0^-1W_i=(W_i^-1+Q)^-1.
 That is exactly W_(i+b), so the POSITIVE completion prefactor cancels and is never discarded.
@@ -100,13 +100,13 @@ The unrestricted sharp-profile conjecture remains unresolved; a proved implicati
 
 ## Original accounts and retained review limits
 
-The complete original R184 finding was read with its2026-10-10T04:28 date and exact2026-10-10T04:19 author-freeze scope.
+The complete original R184 finding retained in [R768](Yin_R_G0768_v1.md#actual-critical-return-complete-independent-review) was read with its2026-10-10T04:28 date and exact2026-10-10T04:19 author-freeze scope.
 It preserves all equations1--20, source-interface depths, no-run facts, negative controls and unchanged-author-text finding.
 Its broad/shared/proposed-outcome description does not establish the precise additional target mathematics and initial order needed for an isolated classification.
 The original relationship remains UNKNOWN rather than being inferred from upstream authorship, a generic question or noncontribution.
 No mathematical defect or original correction was reported there.
 
-The complete original R185 finding was read at its2026-10-10T05:00 date and2026-10-10T04:52 author-freeze scope.
+The complete original R185 finding retained in [R769](Yin_R_G0769_v1.md#finite-tail-pressure-complete-independent-review) was read at its2026-10-10T05:00 date and2026-10-10T04:52 author-freeze scope.
 Its exact fixed-prefix hyperbolic proof, conditional C1 implication, all source/constant/nonunit/complex-dimension limits,704 finite-map tests and distinct full J71 comparison remain original evidence.
 The original separate implementation and28374 native-entry agreement are historical facts; this maintenance performs no execution or new native certification.
 Its broad shared outcome/assignment and upstream-role account does not establish the missing exact initial mathematical context/order, so its whole relationship remains UNKNOWN.

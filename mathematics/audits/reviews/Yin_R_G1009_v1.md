@@ -11,7 +11,7 @@ The reviewer was outside substantive development and supplied no repair or new c
 It read the whole fixed C789 first, then the needed exact fixed input passages, without D47, other development drafts, proposing-agent explanations, proof-generation dialogue, persistent memory, new source evaluations or earlier C789 conclusions.
 The fixed inputs' adoption metadata was visible.
 
-The reviewer retains actual background from its independent C774/C778/C824/C827 reviews and the completed [C830 whole review](Yin_R_G1008_v1.md#whole-primitive-source-low-gate-finding).
+The reviewer retains actual background from its independent C774/C778/C781/C784 reviews and the completed [C787 whole review](Yin_R_G1008_v1.md#whole-primitive-source-low-gate-finding).
 C787 is reused only as the exact unchanged fixed source-gate and coupled-removal statement reviewed there; its canonical adoption belongs to its own responsible material.
 That earlier finding did not review the new supported low-k feasibility, enlarged proof quotient or repair-jet preservation proved in C789.
 Those new obligations and every equivalence direction were checked directly here.

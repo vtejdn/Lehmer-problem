@@ -373,7 +373,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-14T19:51 |
 | status | proved |
-| reason | Adopt R461's complete independent review and independent J94 native reproduction. The full-capacity divisor-ideal extremal reduction and the strict correlated obstruction to the sharp product constant, including every e>=8 extension and exact positive-density control, are established. Existence of a larger universal constant, general density capture and the unrestricted Mahler gap remain open. |
+| reason | Adopt [R797 original correlated-fractional](../audits/reviews/Yin_R_G0797_v1.md#correlated-fractional-actual-whole-independent-finding)'s complete independent review and independent J94 native reproduction. The full-capacity divisor-ideal extremal reduction and the strict correlated obstruction to the sharp product constant, including every e>=8 extension and exact positive-density control, are established. Existence of a larger universal constant, general density capture and the unrestricted Mahler gap remain open. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

@@ -376,13 +376,13 @@ $$
 I=\beta^{-1}I\ \cup\ \beta^{-1}(1+I)
 $$
 
-iterates and, after scaling by $\beta^n$, yields
+iterates and, after scaling by $\beta^n$, yields the following cover, where $\mathcal X_n(\beta)=\{\sum_{j=0}^{n-1}\epsilon_j\beta^j:\epsilon_j\in\{0,1\}\}$ is the support set and $D_n(\beta)=|\mathcal X_n(\beta)|$ is its cardinality:
 
 $$
-\beta^n I=\bigcup_{x\in D_n(\beta)}(x+I).
+\beta^n I=\bigcup_{x\in \mathcal X_n(\beta)}(x+I).
 $$
 
-Interval length therefore gives $|D_n(\beta)|\ge\beta^n$ for every $n$.
+Interval length therefore gives $D_n(\beta)=|\mathcal X_n(\beta)|\ge\beta^n$ for every $n$.
 For the Pisot/Salem cases with $M(\beta)=\beta$, the already accepted support packing upper bound gives support rate $\log\beta$.
 Unit-circle conjugates do not prevent this support conclusion.
 The covering gives no upper bound on $\sum_xr_n(x)^2$ and therefore does not close the collision problem.

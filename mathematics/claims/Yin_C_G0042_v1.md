@@ -497,7 +497,6 @@ This addendum uses a first-order damping factor that is allowed to exceed1 when 
 The complete product, rather than each factor separately, has its required maximum at0.
 Root supplied the candidate N=floor B and the key logarithmic-derivative factorization; this author verifies the entire construction, improves the integer choice to N=ceil(B/2), gives an explicit rational positive margin, and checks all original support/Gram/arithmetic interfaces.
 Root and this author are contributors, not independent reviewers.
-Fresh39percent account observation uses the same unchanged weekly window; no new allowance is made.
 
 <a id="linear-damping-domain-and-statement"></a>
 ### A1. Same actual input and precise changed construction

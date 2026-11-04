@@ -13,7 +13,7 @@ The reviewer enumerated obligations and reconstructed the arguments in the mutab
 The earlier accepted reviews were then used to verify the scope and limits of the reused interfaces.
 This is not blind review or a new reproduction of the old numerical calculations.
 
-This reviewer's earlier work reorganized the unrelated comparisons retained in L431/L434 and authored the separate powered-ratio comparison in L436.
+This reviewer's earlier work reorganized the unrelated comparisons retained in L431/L434 and authored the separate powered-ratio comparison in L435.
 None is a proof input of L437, and the reviewer contributed to neither argument now reviewed.
 Root's older input contributions and requests for explicit current error/degree accounting are not recast as independent upstream proof audits.
 The existing C153v2/C157v3, J102/R397, J100/R379 and L358/R184 scopes are reused at their actual limits.
@@ -21,7 +21,7 @@ No mathematical program, evaluated N, root isolation, parameter scan, source acq
 
 The contents of the shared author summaries and the actual initial context are not specified sufficiently to establish isolation before the first mathematical judgment.
 A complete directly inspected mutable or fixed proof is a legitimate input; the record does not establish whether the separate summaries exceeded fixed conclusions and requested cost/comparison checks.
-The reviewer's unrelated retention and L436 work does not itself imply participation in the new mixing or shear arguments.
+The reviewer's unrelated retention and L435 work does not itself imply participation in the new mixing or shear arguments.
 The whole finding therefore has an unknown relationship; original dates, mathematical checks and exact binding scopes remain unchanged, with no new review performed.
 
 ## Review relationships

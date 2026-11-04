@@ -1,6 +1,6 @@
 # Luc22 source audit
 
-The identifies the retained [arXiv:1901.00827v2 artifact](../../../literature/pdf/Luc22.pdf), revised 16 September 2020.
+The inspected edition is the retained [arXiv:1901.00827v2 artifact](../../../literature/pdf/Luc22.pdf), revised 16 September 2020.
 The citation key uses the 2022 publication year.
 All page locators below refer to this 25-page preprint; printed and PDF page numbers agree.
 Coverage does not automatically transfer to the journal text.

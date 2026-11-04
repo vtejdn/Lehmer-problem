@@ -158,7 +158,7 @@ No unresolved source premise or mathematical gap was found at this bounded local
 ### Subsequent comparison with every specified old and self account
 
 The entire [C325 v1 argument](../../claims/Yin_C_G0325_v1.md#argument) still contains the false assertion that an arbitrary admitted family's feasible set is nonempty because it contains the old monomial optimum.
-The scaling control in [R554's whole C326 finding](Yin_R_G0554_v1.md#whole-c326) correctly refutes that assertion.
+The scaling control in [R554's whole C325 finding](Yin_R_G0554_v1.md#whole-c326) correctly refutes that assertion.
 The present v2 guards and exact maximum-ratio criterion cover its full effect on witness containment, change of variables, compactness, attainment, conditional weak certificates and the concrete successful/failed controls.
 This fresh finding therefore supports the repaired complete chain without erasing or retrospectively passing the old sentence.
 

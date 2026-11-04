@@ -8,7 +8,8 @@ Date: 2026-10-21T08:42.
 Human record author: Yin.
 A fresh reviewing agent outside these proofs' development performed this review with isolated mathematical context.
 The assignment supplied fixed target locations and applicable rules, without the development conversation, mathematical development summaries, author explanations or another agent's mathematical conclusions.
-The reviewer first read every statement and complete argument of C286-C294 and C297-C300 and checked necessary fixed inputs.
+The twelve-target round concerned C286--C293 and C296--C299.
+This material retains the four whole-target findings for C286--C289, whose complete statements, arguments and necessary fixed inputs were read; the round-wide comparison supplies no additional finding for the other eight targets.
 It reported its initial mathematical conclusions at 2026-10-21T08:33 before opening any of the eight specified old R records.
 Old checking assertions embedded in the fixed C/U inputs were treated as assertions to examine, not as correctness evidence.
 After those initial conclusions, the reviewer fully read the eight old R records and compared their useful whole and partial scopes with the actual original L93-L104 mathematical bodies and the current C arguments.

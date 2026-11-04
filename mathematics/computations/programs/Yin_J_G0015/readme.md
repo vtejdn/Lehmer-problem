@@ -3,6 +3,13 @@ author: Yin
 ---
 # Actual return cores and low-height quotient experiments
 
+## Native input availability
+
+The selected pilot.json and lehmer-long.json native coefficient arrays are unavailable in this checkout and its selected local Git history.
+The thirteen adopted witnesses and their original return times in [L354](../../../ledger/Yin_L_G0354_v1.md) do not determine the missing complete p/q/product arrays.
+The verification-only command therefore cannot currently replay those original witnesses.
+Retain the original selected arrays in this group's tracked inputs/ and point verify.py there when they are available; a new MILP witness would not identify this historical selection.
+
 ## Question and scope
 
 For the quartic Salem, Mercat quartic, Lehmer and golden-ratio controls, find height-one integer multiples Pq with large quotient height.

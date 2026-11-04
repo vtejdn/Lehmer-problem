@@ -272,7 +272,6 @@ No change in their root radii or degree normalization creates near-zero coverage
 
 The complete original whole author checklist and its actual date precision are retained at [the responsible original SELF finding](../audits/reviews/Yin_R_G0765_v1.md#original-g328-author-self-finding).
 
-The complete original whole author checklist and its actual date precision are retained at [the responsible original SELF finding](../audits/reviews/Yin_R_G0765_v1.md#original-g328-author-self-finding).
 
 This round supplies an explicit rational reweighting mechanism and a necessary/sufficient fixed-surplus optimality test at differentiable uniform points, together with two complete actual improvements.
 The solver timeout leaves the GLOBAL best reweighting over S>=2 unresolved on both inputs.

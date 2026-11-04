@@ -104,7 +104,7 @@ The explicit lower amplitude obeys the prior convolution budget; no degree-free 
 Let alpha be a hyperbolic algebraic unit, with monic irreducible polynomial P of degree d and m=log M(P)>0.
 Put O=Z[alpha], let O_K be the full integer ring, and write (Sx)_j=x_(j+1).
 All root sums count both members of every complex pair.
-We use the exact residue and open-cube converse of [C G0305](Yin_C_G0304_v1.md#rounded-defect-residue-class).
+We use the exact residue and open-cube converse of [C304](Yin_C_G0304_v1.md#rounded-defect-residue-class).
 
 <a id="dyadic-green-rounding"></a>
 ### Removing every half-integer rounding boundary

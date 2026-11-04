@@ -14,7 +14,7 @@ The reviewer supplied none of the rational-optimizer scout, primitive-cofactor/c
 The separate scout's contribution and root's subsequent derivations are explicitly credited in the draft and were not treated as independent review.
 
 The reviewer shares G0001 conversation/repository context with the author.
-It previously performed the actual whole-proof D_G0005 inspection recorded in R256 and its repair closure R257, and has authored separate arithmetic quotient/moment drafts D_G0002/D_G0006.
+It previously performed the actual whole-proof D_G0005 inspection recorded in R180 and its repair closure R181, and has authored separate arithmetic quotient/moment drafts D_G0002/D_G0006.
 These roles are disclosed; they did not contribute to D_G0009's derivation.
 The review assignment specified the obligations to emphasize.
 No scout proof-generation dialogue or additional author derivation was consulted before forming the present findings.
@@ -39,7 +39,7 @@ No original Szego proof, old computation or external source search is part of th
 | [Whole-proof outcome](#primitive-normalizer-whole-proof-outcome) | [D9 cokernel denominator identity](../../ledger/Yin_L_G0363_v1.md#cokernel-denominator-identity) | Complete Section2: exact selected cokernel element order, Smith/cardinality distinction, primitive energy and necessary divisibility with its nonconverse scope. |
 | [Whole-proof outcome](#primitive-normalizer-whole-proof-outcome) | [D9 normalizer divergence](../../ledger/Yin_L_G0363_v1.md#normalizer-divergence) | Complete Section3: fixed-input residual convergence from L359 approximation, strict finite nonattainment, finite-rational-value proof of k_n tending to infinity and all scope limits. |
 | [Whole-proof outcome](#primitive-normalizer-whole-proof-outcome) | [D9 cyclotomic cofactor cancellation](../../ledger/Yin_L_G0363_v1.md#cyclotomic-cofactor-cancellation) | Complete Sections4--5: every n=sL+r, all block counts and wraparound cases, exact optimizer/minimal k/gcd/energy, moving-window exponential cancellation and non-gap/non-novelty boundaries. |
-| [Whole-proof outcome](#primitive-normalizer-whole-proof-outcome) | [L359 multiplier representation](../../ledger/Yin_L_G0359_v1.md#integer-multiplier-variational-formula) | Direct input: Jensen lower inequality, strict finite nonattainment and fixed-input rational zero-free approximation, with circle-root and denominator/rate limits as independently inspected in R256/R257. |
+| [Whole-proof outcome](#primitive-normalizer-whole-proof-outcome) | [L359 multiplier representation](../../ledger/Yin_L_G0359_v1.md#integer-multiplier-variational-formula) | Direct input: Jensen lower inequality, strict finite nonattainment and fixed-input rational zero-free approximation, with circle-root and denominator/rate limits as inspected in R180/R181, whose current relationships are unknown. |
 | [Whole-proof outcome](#primitive-normalizer-whole-proof-outcome) | [L359 exact cyclotomic control](../../ledger/Yin_L_G0359_v1.md#cyclotomic-exact-window-normalizer) | Comparison and supporting residue-chain mechanism only; the changed real optimizer and cofactor/cokernel formulas in D9 were independently derived here. |
 
 ## Reconstructed obligations and decisive checks

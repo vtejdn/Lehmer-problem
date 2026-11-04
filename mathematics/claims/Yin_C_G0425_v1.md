@@ -318,7 +318,7 @@ For clarity the exact full phase identity is
 
 It follows by factoring 2G_f=f(z)^2 f(z^2)(r(z)^2+r(z^2)).
 Here f has no unit-circle zero, and the finitely many possible G_f zeros have integrable logarithms.
-The identity is the same complete balance used in C415, not a positive-mode truncation.
+The identity is the same complete balance used in [C412 equation (11)](Yin_C_G0412_v1.md#argument), with its general form also proved in [C413 equation (5)](Yin_C_G0413_v1.md#why-this-is-the-actual-full-circle-phase-balance).
 
 For k=4 we have C_4=128^2=16384 and F_4=32769.
 The exact rational comparison, also checked in J37, is

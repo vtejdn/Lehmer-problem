@@ -109,9 +109,9 @@ The two vertex copies are c and y in the ACTUAL core D={q in O:|q_+|<B,|q_-|<S},
     theta=eta_0+eta_1 beta+eta_2 beta^2+eta_3 beta^3.    (1)
 
 Chronological time reads(eta_3,eta_2,eta_1,eta_0).
-[L415](Yin_C_G0537_v2.md#union-carry-original-incidence) proves that this is the entire normalized b2 union, with one legal four-word per edge, actual original tails and finite appearance onsets.
-[L420](Yin_C_G0542_v2.md#low-degree-exact-classification) supplies the exact degree<=2 thresholds and reciprocal J=beta^-1 iota symmetry.
-The [L422 high-core argument](Yin_C_G0550_v1.md#one-low-neighbor) proves that every vertex has at most one neighbor of degree<=2 and that the induced graph on vertices of degree>=3 has minimum degree2.
+[L414](Yin_C_G0537_v2.md#union-carry-original-incidence) proves that this is the entire normalized b2 union, with one legal four-word per edge, actual original tails and finite appearance onsets.
+[L419](Yin_C_G0542_v2.md#low-degree-exact-classification) supplies the exact degree<=2 thresholds and reciprocal J=beta^-1 iota symmetry.
+The [L421 high-core argument](Yin_C_G0550_v1.md#one-low-neighbor) proves that every vertex has at most one neighbor of degree<=2 and that the induced graph on vertices of degree>=3 has minimum degree2.
 Its complete independent review is [R432](../audits/reviews/Yin_R_G0432_v1.md#branching-core-whole-independent-finding), reused at that exact upstream scope.
 
 All degrees mean COMPLETE-UNION degrees, not the currently visible finite-length degree.
@@ -133,7 +133,7 @@ The accepted17/10<beta<18/10 also gives B>1 and beta>1.
 
 Call a chronological state central when |q_+|<b0=B/beta.
 It then has at least two legal successors.
-If there are exactly two, L420 proves that they differ by1 and at least one is central, since two forced states cannot have that spacing.
+If there are exactly two, L419 proves that they differ by1 and at least one is central, since two forced states cannot have that spacing.
 If there are three, their middle successor has expanding value beta q_+, with |beta q_+|<B-1<b0, and is central too.
 Thus every branching state has a central successor, and a branch can be followed by a further branch at every remaining step.
 All other prefix words also have a legal continuation, since every core state has a successor.
@@ -204,7 +204,7 @@ Thus there are exactly four H--L incidences, two at either high bipartite side.
 If |L|<=2, at least two low vertices are necessary and both must have degree2, with no edge between them.
 Each low vertex connects two H vertices of the same side, so one low vertex joins both high c vertices and the other joins both high y vertices.
 The high c vertices then have degree3 and identical three-neighbor sets, contradicting Section2.
-If |L|=3, its induced graph has either no edge or one edge, by L420.
+If |L|=3, its induced graph has either no edge or one edge, by L419.
 With one low--low edge, four H--L incidences force all three low vertices to have degree2.
 The low pair then supplies one high port of each side, whereas the low singleton supplies two high ports on just one side.
 The resulting high-port counts are(3,1) or(1,3), contradicting the required(2,2).
@@ -246,7 +246,7 @@ No assertion is made that an eight-vertex closed component exists.
 ## 4. Original-law scope and the remaining problem
 
 Every vertex and edge above belongs to the actual order and the two open real strips.
-For a finite union component, L415's finite edge onsets can be maximized, so the whole component appears and remains closed in every later sufficiently long normalized endpoint graph.
+For a finite union component, L414's finite edge onsets can be maximized, so the whole component appears and remains closed in every later sufficiently long normalized endpoint graph.
 C170 then identifies its whole original returned-word component with all conditional tail fibers, not merely one chosen representative word.
 Thus(6) excludes genuine persistent finite components at the stated size, without claiming anything about accidental small components that later acquire new neighbors.
 In particular finite n5--7 J106 components are not contradicted: they were never known to be closed in the entire union.
@@ -266,10 +266,10 @@ No further size enumeration, graph-length experiment or parameter box is authori
 
 | Input | Actual role |
 | --- | --- |
-| [L415 actual incidence](Yin_C_G0537_v2.md#union-carry-original-incidence) | Full original four-step graph, exact two-strip core, finite onsets and reciprocal reversal. |
+| [L414 actual incidence](Yin_C_G0537_v2.md#union-carry-original-incidence) | Full original four-step graph, exact two-strip core, finite onsets and reciprocal reversal. |
 | [L191 quartic root proof](Yin_C_G0458_v2.md#irreducible-quartic-gram-family) | Actual quartic has one exterior root above1 and its remaining roots on the circle or reciprocal inside; used for beta<sqrt3, not a numeric approximation. |
-| [L420 degree input](Yin_C_G0542_v2.md#low-degree-exact-classification), [R428](../audits/reviews/Yin_R_G0428_v1.md#low-degree-carry-whole-independent-finding) | Exact branching/central/degree<=2 input and independent upstream review; this author contributed L420. |
-| [L422 high-core theorem](Yin_C_G0550_v1.md#branching-core-topology), [R432](../audits/reviews/Yin_R_G0432_v1.md#branching-core-whole-independent-finding) | Every vertex has at most one low neighbor, induced H minimum degree2 and full original mass boundaries; reused at its independently reviewed fixed scope. |
+| [L419 degree input](Yin_C_G0542_v2.md#low-degree-exact-classification), [R428](../audits/reviews/Yin_R_G0428_v1.md#low-degree-carry-whole-independent-finding) | Exact branching/central/degree<=2 input and independent upstream review; this author contributed L419. |
+| [L421 high-core theorem](Yin_C_G0550_v1.md#branching-core-topology), [R432](../audits/reviews/Yin_R_G0432_v1.md#branching-core-whole-independent-finding) | Every vertex has at most one low neighbor, induced H minimum degree2 and full original mass boundaries; reused at its independently reviewed fixed scope. |
 | [C170 full law](Yin_C_G0170_v1.md#short-overlap-exact-carry-matrix), [R803](../audits/reviews/Yin_R_G0803_v1.md#short-overlap-whole-independent-finding) | Four-word uniqueness, complete original fibers and unchanged midpoint/clock costs; no new native run or independent reproof claimed. |
 
 All new arguments are authored by entropy_attainment_bridge; root supplied the bounded question only.

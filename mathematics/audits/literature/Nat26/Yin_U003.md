@@ -39,7 +39,8 @@ That truncation, all integral quotient constraints, sequential Gram elimination 
 <a id="original-gaussian-theta-reviewer-reading"></a>
 ### Separate original reviewer occurrence
 
-The original R155 resultant-research reviewer of [L_G256](../../../ledger/Yin_L_G0256_v1.md#three-point-gaussian-maximum) separately inspected the same two official formulas and [20.1 notation](https://dlmf.nist.gov/20.1) on2026-10-10 at that same displayed edition.
+The original resultant-research reviewer of [L_G256](../../../ledger/Yin_L_G0256_v1.md#three-point-gaussian-maximum) separately inspected the same two official formulas and [20.1 notation](https://dlmf.nist.gov/20.1) on2026-10-10 at that same displayed edition.
+Its original finding is retained in [R653](../../reviews/Yin_R_G0653_v1.md#return-projection-isolated-whole), with the original unknown relationship preserved.
 It checked q=exp(i pi tau), Im(tau)>0, the principal square root and the entire tau/z specialization at exact statement/formula/application depth.
 This distinct occurrence does not establish the original project review's agent-context isolation or a source-book proof audit.
 

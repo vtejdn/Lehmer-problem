@@ -42,7 +42,7 @@ All three commands were actually run during the [isolated whole review](../../..
 ## Results and limits
 
 The exact pair certificate completed all 6,561 ordered pairs for both update types.
-Each type has exactly 183 rectangle-feasible pairs, of which 36 change the C627 integer coordinate.
+Each type has exactly 183 rectangle-feasible pairs, of which 36 change the C606 integer coordinate.
 The retained three-update excursion changes lambda from -1 to 0 at actual n=26.
 Two further short bridges produce a complete seven-update route to the all-zero word; all eight full length-52 words and all seven positive original transitions were checked exactly.
 The retained words have zero counts 15,13,15,16,14,16,32,52; target variable-block zero counts are 8,8,10,8,10,26,28.

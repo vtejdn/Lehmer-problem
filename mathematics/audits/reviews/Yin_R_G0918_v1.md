@@ -19,7 +19,7 @@ Statements describing development and adopted status inside the fixed mathematic
 
 The direct mathematical inputs were C684v1 at its adopted weighted-family decision, C693v2 at its adopted curvature decision, the scalar coefficient and exact weighted phase portions of C681v1, the exact positive-kernel argument of C637v1, and Tao26-U003v2.
 Their applicable statements and derivations were inspected at the scopes specified below.
-The two-factor C714/C723 discussions are comparisons in the target, not premises of this proof, and their conclusions were not imported.
+The two-factor C682/C690 discussions are comparisons in the target, not premises of this proof, and their conclusions were not imported.
 No new computation, numerical approximation, source acquisition, source-proof audit or formalization was used.
 This review is new necessary evidence for the assigned fixed candidate, rather than a duplicate statement of its author assessment.
 

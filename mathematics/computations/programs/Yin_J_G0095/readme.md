@@ -77,7 +77,8 @@ All 7,580 original nonempty candidates, 8,636 correlations and classifications p
 Independent bounds give 1342/1000<C*<1343/1000 and strict separation>1/250.
 All 99% boxes are empty; every 90% possible member satisfies rho<15/16 at cap 1/4 and rho<49/50 at cap 1/2.
 The output retains every independent row and required correlation, not only a winning mask or agreement flag.
-The original headings retain their historical designation; the current R347 whole/native relationship is self-reviewed and the repaired analytic guard still requires independent re-review at the stated affected scope.
+The original headings retain their historical designation; the original R347 whole/native relationship is self-reviewed.
+The later C111 selected [R521 whole finding](../../../audits/reviews/Yin_R_G0521_v1.md#c111-current-independent-whole-finding) covers the repaired analytic guard and actual finite reproduction at its declared scope, without changing R347's earlier relationship.
 The execution date, fixed parameters, distinct algorithms and complete mathematical outputs are unchanged, with no new run or review performed here.
 This historical review relationship does not claim a new review of storage maintenance.
 

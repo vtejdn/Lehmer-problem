@@ -7,8 +7,8 @@ author: Yin
 Date: 2026-10-21T21:35.
 Human operator: Yin.
 The checking agent read all366original L192 lines, all135original R91 lines and the entire488-line published open C462 Statement, Argument, registration and remaining boundaries.
-It read the complete necessary C407 separated-digit proof/constants, C408 actual-core/maximum-atom/reciprocal collision mechanism, C456 conditional linear-return theorem and exact original-Lehmer application, and C368 complete renewal/weighted-tail proof.
-The fixed original C402 narrow co-return/unbounded-narrow-state premise is reused at its exact scope, without rerunning its old certificates.
+It read the complete necessary C404 separated-digit proof/constants, C405 actual-core/maximum-atom/reciprocal collision mechanism, C452 conditional linear-return theorem and exact original-Lehmer application, and C365 complete renewal/weighted-tail proof.
+The fixed original C399 narrow co-return/unbounded-narrow-state premise is reused at its exact scope, without rerunning its old certificates.
 The original15616-character conventions/Sections1--5/equations(1)--(19) proof is retained modulo adequate same-object homes.
 The already written original R91 stable-boundary substitution is explicit in the new C.
 The agent rederived the entire current proof as recorded below; this check is not merely text retention or a difference review.
@@ -40,7 +40,7 @@ No new source/PDF reading, proof audit, fingerprint computation, numerical test,
 
 The original law is unchanged and the actual core is defined by complete zero-to-zero words, rather than by all strip points.
 Every such state has strict nonneutral bounds from finite past and future.
-The C407 strip power bound transfers to the actual core by nonnegative compression, or by its same row and reciprocal-column bounds and Schur estimate.
+The C404 strip power bound transfers to the actual core by nonnegative compression, or by its same row and reciprocal-column bounds and Schur estimate.
 The exact n>=1 prefactor is C_beta=2(floor(2B)+1)exp(gamma), with gamma=log2 log(beta)/log(1+beta)>0 and q=exp(-gamma).
 The fair binary-difference autocorrelation has its largest atom at zero by Cauchy--Schwarz.
 An ambient x-to-zero displacement therefore has endpoint probability at most p_n for every x in O, with no actual-core reachability requirement.
@@ -56,7 +56,7 @@ Thus every original hitting path lies in the open strip.
 For x in the actual core, adjoining an actual zero-to-x prefix makes every x-to-zero ambient continuation part of a closed original word.
 This justifies exact ambient/core equality where used, without identifying every ambient strip point with D.
 
-Only beta<phi and the complete actual compact-termination premise allow C456's all-N length at most A rho+B_0.
+Only beta<phi and the complete actual compact-termination premise allow C452's all-N length at most A rho+B_0.
 The probability of that one chosen word is at least4^(-A rho-B_0), and its occurrence forces a hit even if zero is reached earlier.
 This supplies precisely the positive lower bound for H.
 It is not substituted for the already established all-path upper bound.

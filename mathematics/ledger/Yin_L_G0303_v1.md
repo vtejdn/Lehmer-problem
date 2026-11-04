@@ -44,7 +44,6 @@ The Task, repository entry rules and knowledge-reuse rule were read.
 The local screen read the full [L299 unit-cycle leaf argument](Yin_L_G0299_v1.md#unit-cycle-leaf-fixed-scope), [L184 cycle-order formula and integral sweep](Yin_L_G0184_v1.md#cycle-order-polynomial), [L203 pendant determinant and exterior-root argument](Yin_L_G0203_v1.md#pendant-chain-full-determinant), [L238 uniform companion lower bound](Yin_L_G0238_v1.md#uniform-companion-gap-and-bounded-ratio), and the [D9 literal cover](../claims/Yin_C_G0002_v1.md#signed-cover-identity).
 L38's plastic PLUS sequence is a different sign from the minus sequence below and is not silently substituted.
 These interfaces suffice for the new calculation.
-The unavailable local path `framework/rules/knowledge.md` in one operational read was corrected to the existing `knowledge-reuse.md`; no missing mathematical source or proof was assumed.
 
 The lower seed discovered by changing the cycle's ordering is t^3-t-1.
 Its three-arm tree realization is CLASSICAL.

@@ -71,7 +71,8 @@ Pass for the entire current exact domain and full counterfamily.
 The unique expanding k-subset strictly maximizes modulus, so a real sign correction gives a simple positive beta without squaring; summing positive logarithms gives the exact full exterior-power upper count.
 Irreducible divisibility gives the universal m(P_beta) lower bound and the accepted strict-Perron neutral construction attains it; equality means all other beta conjugates are inside or on the circle.
 A unit-circle root forces reciprocal irreducibility, yielding the Salem alternative; a reciprocal Pisot would have degree2 and trace>=3, while the accepted nonreciprocal bound excludes every other Pisot below theta0.
-Transporting one equal subset product back to the unique maximum proves orbit injectivity. Root transitivity gives integer incidence kD/d, and inverse-pair counting proves the displayed2^k binomial(r,k) bound without a universal inversion automorphism.
+Transporting one equal subset product back to the unique maximum proves orbit injectivity.
+Root transitivity gives integer incidence kD/d, and inverse-pair counting proves the displayed2^k binomial(r,k) bound without a universal inversion automorphism.
 The recursive square-free parts have disjoint prime supports, giving independent quadratic sign automorphisms; flipping one coordinate proves all products distinct and every positive power degree-preserving.
 At odd s and T>s max log u_i, majority signs control all conjugate logarithms, and the unmatched tied configurations give exactly c_s.
 The resulting unbounded ratio belongs only to the growing-measure global family and does not decide either near-one quantifier.

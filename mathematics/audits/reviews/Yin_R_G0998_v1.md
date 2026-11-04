@@ -188,7 +188,7 @@ No exact higher-precision count, simultaneous both-sign passing polynomial or st
 
 Full target membership preserves degP=2d_out, the complete equal-Mahler core degree 7N+h-3, positivity and the full noncyclotomic reciprocal degree at least 48m, with all multiplicities.
 The core's own two second residuals retain valuation 0; they are not assigned the full product's new precision.
-The 7D-flip bound gives nu<=28D in the same C814 statistic used by C774.
+The 7D-flip bound gives nu<=28D in the same C771 statistic used by C774.
 Thus its actual first difference has at most 8w_H+28D terms and squared coefficient energy at most 8w_H+112D.
 The same accepted DS17 application and total logarithmic energy estimate give exactly the stated two-sided measure constants.
 They remain fixed-source constants, with no assertion of effective values, monotonicity, varying-source uniformity or a full-fiber gap.
@@ -212,7 +212,7 @@ The endpoint q=1 is included, and no new residual bit is gained by raising.
 ## Input review and source boundaries
 
 C777 is consumed as the separately adopted local theorem supported by [R997](Yin_R_G0997_v1.md#whole-local-preparation-finding).
-Its complete fixed text and matching interface were read; no new recursive whole audit of the earlier C624/C707 calculations is claimed here.
+Its complete fixed text and matching interface were read; no new recursive whole audit of the earlier C603/C677 calculations is claimed here.
 The compatible C772 supported-bit proof and the previously reviewed C774 cost theorem retain their fixed input and source limits.
 The actual new modulo-eight nilpotence, matching, canonical continuity and global assembly were checked directly rather than inherited from any earlier modulo-four review.
 There is no circular use of the desired global F8 statement: the initial T_* has only the adopted F4/selected-X4 input, and the auxiliary's supplied F8 is local only.

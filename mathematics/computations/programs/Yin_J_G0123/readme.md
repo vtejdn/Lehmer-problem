@@ -59,7 +59,7 @@ All computations stop after these four groups and their exact square-kernel chec
 | --- | --- |
 | [main.py](main.py) | Bit-polynomial all-order representatives, bounded principal-unit pivots, exact membership and square-kernel calculations, with complete generator exponent certificates. |
 | [verify.py](verify.py) | Separate dense polynomial arithmetic, Euclidean inverses and direct symmetric Laurent reconstruction; verifies every source row, pivot expression, leading bit, closure relation, kernel, group order and product witness. |
-| [reviewer_check.py](reviewer_check.py) | Isolated reviewer's sparse-exponent arithmetic; independently reconstructs all96 source rows, all four group certificates, both square kernels, the witness, every displayed C617 table and all32 used C629 character rows. |
+| [reviewer_check.py](reviewer_check.py) | Isolated reviewer's sparse-exponent arithmetic; independently reconstructs all96 source rows, all four group certificates, both square kernels, the witness, every displayed C617 table and all32 used C608 character rows. |
 | certificate.json (`mathematics/computations/outputs/Yin_J_G0123/certificate.json`) | Complete96 source rows, four subgroup certificates, both square-intersection tests and explicit whole-group polynomial witness. |
 | verification.json (`mathematics/computations/outputs/Yin_J_G0123/verification.json`) | Complete verification result at the declared finite scope. |
 | reviewer-verification.json (`mathematics/computations/outputs/Yin_J_G0123/reviewer-verification.json`) | Independently reconstructed native evidence for the fixed C617 whole review. |
@@ -81,7 +81,7 @@ The verifier checks the matrix periods modulo phi^16 and the predivision phi^17,
 It checks supplied pivot expressions and closure, without rerunning the generator's insertion algorithm.
 Both implementations are contributor work and do not constitute an independent agent review.
 
-The separate reviewer checker requires this group's certificate and the fixed C629v1/C617v1 tables, imports no author program and writes only its own same-J verification output.
+The separate reviewer checker requires this group's certificate and the fixed C608v1/C617v1 tables, imports no author program and writes only its own same-J verification output.
 After generation, run:
 
 ```text
@@ -111,7 +111,7 @@ Its initial status is open pending a fresh whole review.
 
 The isolated reviewer read and reran both author programs and then executed reviewer_check.py successfully at the same exact scope.
 The independent arithmetic verified all96 reconstructed representatives, four subgroup orders, every pivot expression and closure relation, ranks15 and16, all square-kernel roots and membership data, every displayed C617 table, and the complete degree2813 witness with residueX^2.
-It also reconstructed the32 C629 character rows used by the inherited all-order character proof.
+It also reconstructed the32 C608 character rows used by the inherited all-order character proof.
 The mathematical proof coverage, independence arrangement, precise bindings and historical relationship limits are retained in [R820](../../../audits/reviews/Yin_R_G0820_v1.md#whole-group-saturation-finding).
 The reviewer checker is verification of the existing fixed argument, not a proof repair or an original-gate realization.
 

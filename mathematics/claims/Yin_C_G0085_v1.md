@@ -43,7 +43,7 @@ Any such complementary completion has
     Lambda_final=mu Lambda0,
     sigma_final=mu Lambda0-(1/2)log e.
 
-At e=E0 this identity forces mu1 and no positive added mass, without deciding endpoint existence.
+At e=E0 this identity forces mu=1 and no positive added mass, without deciding endpoint existence.
 The following assertions use E0<e<1.
 
 Whenever an accepted nonzero-target lifting interface supplies faithful rational packets with energy arbitrarily close ABOVE E0, EVERY prescribed rational e in(E0,1) has a faithful packet of EXACT energy e.
@@ -259,7 +259,7 @@ The recorded review description was `under review`.
 | dependency | [C46 moment proof](Yin_C_G0046_v1.md#salem-coupled-moment-obstruction) | Full original norm and finite Jensen argument; retained D39 explicitly checks its moment-only applicability to full O without integer-representative or initial-q inheritance. |
 | dependency | [C57 elementary degree bound](Yin_C_G0057_v1.md#statement) | ONLY elementary PartsB/D positive fixed-degree measure bound to force d->infinity along hypothetical m->0; no optional house sharpening or tensor input. |
 | dependency | [Accepted quartic control domain](Yin_C_G0076_v1.md#statement) | Old actual irreducible Salem quartic and root configuration only; no heat-bath or native result is a premise. |
-| support | [Original amended whole finding](../audits/reviews/Yin_R_G0312_v1.md#paired-profile-whole-independent-finding) | Complete original00:43 proof plus actual00:53 attribution correction/amended freeze, independently reconstructed before this wrapper; no prospective coverage of the new statement or extraction. |
+| support | [Original amended whole finding](../audits/reviews/Yin_R_G0312_v1.md#paired-profile-whole-independent-finding) | Complete original00:43 proof plus actual00:53 attribution correction/amended freeze, directly reconstructed before this wrapper; no prospective coverage of the new statement or extraction. Referenced finding relationship: self-reviewed. |
 
 
 ### Decision organized-reviewed
@@ -283,7 +283,7 @@ The recorded review description was `under review`.
 | dependency | [C46 moment proof](Yin_C_G0046_v1.md#salem-coupled-moment-obstruction) | Full original norm and finite Jensen argument; retained D39 explicitly checks its moment-only applicability to full O without integer-representative or initial-q inheritance. |
 | dependency | [C57 elementary degree bound](Yin_C_G0057_v1.md#statement) | ONLY elementary PartsB/D positive fixed-degree measure bound to force d->infinity along hypothetical m->0; no optional house sharpening or tensor input. |
 | dependency | [Accepted quartic control domain](Yin_C_G0076_v1.md#statement) | Old actual irreducible Salem quartic and root configuration only; no heat-bath or native result is a premise. |
-| support | [Original amended whole finding](../audits/reviews/Yin_R_G0312_v1.md#paired-profile-whole-independent-finding) | Complete original00:43 proof plus actual00:53 attribution correction/amended freeze, independently reconstructed before this wrapper; no prospective coverage of the new statement or extraction. |
+| support | [Original amended whole finding](../audits/reviews/Yin_R_G0312_v1.md#paired-profile-whole-independent-finding) | Complete original00:43 proof plus actual00:53 attribution correction/amended freeze, directly reconstructed before this wrapper; no prospective coverage of the new statement or extraction. Referenced finding relationship: self-reviewed. |
 | review | [Actual extraction](../audits/reviews/Yin_R_G0313_v1.md#c85-faithful-profile-actual-extraction-finding) | ENTIRE actual A--F, complete amended original and every direct qualitative/analytic/moment/control/cost interface; old C46 credit and original R312 scope retained. |
 
 ## Argument
@@ -405,7 +405,7 @@ Evaluation at alpha gives the exact identity
 For E0<e<1 there is0<mu<1.
 Thus the energy fixes original retained mass exactly.
 Neither a large coefficient denominator nor a different Gram repair can retain a larger mu at the same e under these value/ratio hypotheses.
-If e=E0 then mu1 and there can be no positive added weight; this equation does not decide existence of such an endpoint completion.
+If e=E0 then mu=1 and there can be no positive added weight; this equation does not decide existence of such an endpoint completion.
 
 **Proposition1 (exact rational energy refinement).**
 Whenever the accepted lifting interface supplies arbitrarily close-above-E0 faithful packets, EVERY prescribed rational e in(E0,1) has a faithful packet with that EXACT covariance, not just an approximation to e.

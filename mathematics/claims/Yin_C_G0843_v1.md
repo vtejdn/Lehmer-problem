@@ -82,7 +82,7 @@ All products and reflection compatibilities are proved below rather than inferre
 Apply the [adopted C842 finite-family criterion](Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) to the complete finite set in ST2 with modulus2 and k=6.
 Its effective proof has cutoff B0=max(55,6J); every degree above it satisfies D>=8 and ST2.
 The sharper original large-degree budgets K=14,S=7,C=7/4 in ST3 are valid for its error step, while its generic ratio1+k/2 would also suffice.
-C842's C394 bounded-degree completion covers every degree at most B0.
+C842's C391 bounded-degree completion covers every degree at most B0.
 The proof does not reproduce C842's certificate algorithm, qualitative alternative or earlier period cases, and does not execute any of them.
 
 There is no ternary period-six result, arbitrary residue period, uniform arbitrary-modulus bound, near-one construction, new root-distribution theorem or unrestricted Lehmer conclusion.
@@ -272,7 +272,7 @@ Its original degree and length are those in BP10, not the degree or support of(x
 Applying [C842's fixed finite-reversal criterion and effective proof](Yin_C_G0842_v1.md#fixed-reversal-auxiliary-class) to m=2 and this finite set gives a computable positive rational gap for the large-degree class.
 The actual large-degree budgets are K=14,S=7,C=7/4.
 The generic effective proof has k=6 and cutoff B0=max(55,6J), so every original degree above the cutoff satisfies D>=8 and the exact reflection/ideal construction.
-Its already paid C394 bounded-degree height floor handles every smaller degree, in particular D=2,4,6, without imposing constraints on unused residues.
+Its already paid C391 bounded-degree height floor handles every smaller degree, in particular D=2,4,6, without imposing constraints on unused residues.
 The sharper degree ratio in BP10 is valid in that large-degree error step; the generic criterion would also remain valid with its unsharpened ratio1+k/2.
 No new algorithm, root computation, Fourier calculation, finite polynomial enumeration or numerical gap has been run.
 
@@ -303,7 +303,7 @@ The full original total measure, irreducibility and degree are retained througho
 | --- | --- | --- |
 | statement | [Entire binary period-six theorem](#statement) | ST1--ST4 and all accompanying conditions: original irreducible reciprocal full measure, every degree/tuple,48 labeled finite lifts, signed-run lemma and exceptions, exact ideal/scalar/zero/degree costs, effective cutoff/small degrees and no ternary/general-period/unrestricted conclusion. |
 | argument | [Complete BP1--BP6](#complete-argument) | All reciprocal classes and endpoint blocks, strict Jensen/support-run endpoints with signs and zero constants, complete s0/s2/s4 case split, explicit cyclotomic/golden-ratio products, bijective reversal, finite-set budgets and exact accepted-criterion application. |
-| dependency | [Adopted effective finite-reversal criterion and earlier binary cases](Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | ST1--ST6/FG2--FG3/EF1--EF6 only for the general finite-G transfer, actual original ideal/zero-value/degree conditions, effective certificate and C394 low-degree completion; PF3 for strict Jensen/Parseval and full Mahler conventions; earlier binary periods through5 only for the finite-union corollary. Its entire proof and source limits are reused without duplicate derivation or transferred review coverage for BP. |
+| dependency | [Adopted effective finite-reversal criterion and earlier binary cases](Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | ST1--ST6/FG2--FG3/EF1--EF6 only for the general finite-G transfer, actual original ideal/zero-value/degree conditions, effective certificate and C391 low-degree completion; PF3 for strict Jensen/Parseval and full Mahler conventions; earlier binary periods through5 only for the finite-union corollary. Its entire proof and source limits are reused without duplicate derivation or transferred review coverage for BP. |
 
 ### Decision whole-reviewed-2026-10-28
 
@@ -317,6 +317,6 @@ The full original total measure, irreducibility and degree are retained througho
 | --- | --- | --- |
 | statement | [Entire binary period-six theorem](#statement) | ST1--ST4 and all accompanying conditions: original irreducible reciprocal full measure, every degree/tuple,48 labeled finite lifts, signed-run lemma and exceptions, exact ideal/scalar/zero/degree costs, effective cutoff/small degrees and no ternary/general-period/unrestricted conclusion. |
 | argument | [Complete BP1--BP6](#complete-argument) | All reciprocal classes and endpoint blocks, strict Jensen/support-run endpoints with signs and zero constants, complete s0/s2/s4 case split, explicit cyclotomic/golden-ratio products, bijective reversal, finite-set budgets and exact accepted-criterion application. |
-| dependency | [Adopted effective finite-reversal criterion and earlier binary cases](Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | ST1--ST6/FG2--FG3/EF1--EF6 only for the general finite-G transfer, actual original ideal/zero-value/degree conditions, effective certificate and C394 low-degree completion; PF3 for strict Jensen/Parseval and full Mahler conventions; earlier binary periods through5 only for the finite-union corollary. Its entire proof and source limits are reused without duplicate derivation or transferred review coverage for BP. |
+| dependency | [Adopted effective finite-reversal criterion and earlier binary cases](Yin_C_G0842_v1.md#decision-whole-reviewed-2026-10-28) | ST1--ST6/FG2--FG3/EF1--EF6 only for the general finite-G transfer, actual original ideal/zero-value/degree conditions, effective certificate and C391 low-degree completion; PF3 for strict Jensen/Parseval and full Mahler conventions; earlier binary periods through5 only for the finite-union corollary. Its entire proof and source limits are reused without duplicate derivation or transferred review coverage for BP. |
 | review | [Whole independent binary period-six finding](../audits/reviews/Yin_R_G1063_v1.md#whole-binary-period-six-finding) | Entire fixed statement/ST1--ST4 and BP1--BP6, all cases and exact adopted C842 effective/zero-value/low-degree/finite-union scopes; eight precise bindings, no author dialogue, mutable Draft, prior target verdict or substantive repair. |
 

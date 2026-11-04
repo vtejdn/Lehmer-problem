@@ -7,7 +7,7 @@ author: Yin
 Human author Yin.
 The [current all-strategy continuation](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25) authorizes this work.
 Earlier_bit_obstruction and root are contributors to the following argument.
-The inquiry began with C715's actual low two-half carry and the possibility of modifying the earlier full C736 coefficient class.
+The inquiry began with C715's actual low two-half carry and the possibility of modifying the earlier full C702 coefficient class.
 Inspection of the original canonical representatives instead gives an automatic quotient divisibility, so that modification is unnecessary for the present lowest test.
 The present author derived the actual integer-ideal argument for Q_X modulo4 and automatic lowest32 vanishing; root checked it and proposed the stronger modulo8-quotient and lowest64 refinement, which the present author also checked in full.
 The now adopted C714 paired closure and C715 actual derivative-preserving input then supply the same-input actual simultaneous32 consequence below.
@@ -62,7 +62,7 @@ In particular, for such a global X16 input, its ACTUAL coefficient sixteenth sat
 If the normalized input is globally X32, then (X_s(T)/32)bar also vanishes modulo phi^A.
 AV3 is only a lowest-component statement; it does not assert global simultaneous64.
 
-For every original C748/C715 old8a strong-forward source and EVERY separately selected original q>=131072, C715 supplies an actual T_bullet of degree d with F32/X16, derivative q/4096, global-square second sixteenth and both full non-phi residuals32.
+For every original C712 old8a strong-forward source and EVERY separately selected original q>=131072, the C715 derivative-prepared construction supplies an actual T_bullet of degree d with F32/X16, derivative q/4096, global-square second sixteenth and both full non-phi residuals32.
 It retains exactly the S,K,W and w assumptions above.
 AV4 discharges its actual lowest second-error condition.
 Therefore the adopted C714 construction gives an ACTUAL monic T_final of degree2d with
@@ -86,7 +86,7 @@ Then
 Every full factor remains; the original maximal common Frobenius exponent q becomes2q, reciprocal degree is4d, and the separate synthetic integer layer is24m_src q with all other layers zero.
 The actual G_can is not identified with the synthetic lift.
 This theorem supplies no characteristic-zero residual equation, Mahler or height bound, root location, irreducibility, or unrestricted G0001 completion.
-It does not establish that the original C733 omega or original quarter O_2 vanishes: the actual C715 factor Lambda is zero, which already suffices for their product.
+It does not establish that the original C699 omega or original quarter O_2 vanishes: the actual C715 factor Lambda is zero, which already suffices for their product.
 
 ## Complete argument
 
@@ -222,7 +222,7 @@ It establishes no global64 residual claim.
 
 ### AV6. Application to the actual derivative-prepared source and paid simultaneous32
 
-Select an original q>=131072 and the exact C715 construction from the C748 pre-final T_2.
+Select an original q>=131072 and the exact C715 construction from the C712 pre-final T_2.
 C715 FP32.1--FP32.3 gives the actual monic T_bullet of degree d, unchanged original K and S, exact J_3/J_2 factors, w divisible by phi^A, F32/X16, derivative q/4096 and the global-square E=(X_s/16)bar.
 Its coefficient corrections preserve every root, forward and original degree premise in AV1.
 Thus AV4 proves E=0 modulo phi^A for this SAME actual input; the stronger AV3 also holds there.
@@ -231,7 +231,7 @@ C715's explicit product is consequently zero because Lambda itself is zero, with
 All premises of adopted C714 PQ1 are now checked simultaneously.
 Its actual8Phi^(15A/2)N and16Phi^(3A/2)U_1 pair keeps original degree d, SAME K and actual factors, restores first32 and clears the actual second-sixteenth part below phi^(4A).
 Every full non-phi residual remains32.
-Its C730 l=2 closure then gives AV5, its one short correction and complete final coefficient fiber.
+Its C697 l=2 closure then gives AV5, its one short correction and complete final coefficient fiber.
 No derivative preservation after that pair is needed or asserted.
 This supplies an unconditional finite-precision construction for every source and every original q stated in AV1's actual-family corollary.
 
@@ -271,7 +271,7 @@ The unrestricted G0001 contract remains unresolved.
 | --- | --- |
 | date | 2026-10-25T15:13 |
 | status | proved |
-| reason | Adopt the complete AV1--AV6 statement and AV2--AV6 argument after entire main-agent reading and fresh isolated whole R937, including the end-to-end C715-to-C714-to-C730 construction. Actual polynomial products and two monic coefficient divisions prove both quotient bounds and the precise lowest32/64 statements. The actual Lambda vanishes, so every original q>=131072 prepared input satisfies the missing low premise and yields SAME-polynomial simultaneous32 at paid trace degree2d, with the full final fiber and every original degree/gap/maximality/synthetic cost. The stronger64 result remains local to the displayed lowest component; neither global64 nor characteristic-zero realization or unrestricted Task completion is asserted. |
+| reason | Adopt the complete AV1--AV6 statement and AV2--AV6 argument after entire main-agent reading and fresh isolated whole R937, including the end-to-end C715-to-C714-to-C697 construction. Actual polynomial products and two monic coefficient divisions prove both quotient bounds and the precise lowest32/64 statements. The actual Lambda vanishes, so every original q>=131072 prepared input satisfies the missing low premise and yields SAME-polynomial simultaneous32 at paid trace degree2d, with the full final fiber and every original degree/gap/maximality/synthetic cost. The stronger64 result remains local to the displayed lowest component; neither global64 nor characteristic-zero realization or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

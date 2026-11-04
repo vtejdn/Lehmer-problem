@@ -7,7 +7,7 @@ author: Yin
 Date: 2026-10-21T23:24.
 Human operator: Yin.
 The checking agent read all271original L201 lines, all104original R100 lines and the entire375-line published open C479 Statement, Argument, registration and remaining arithmetic boundary.
-It checked the necessary complete C408 all-unit actual-core radius, C478 finite-mean occupation/moment/likelihood mechanisms and the exact finite Perron algebra in C435.
+It checked the necessary complete C405 all-unit actual-core radius, C474 finite-mean occupation/moment/likelihood mechanisms and the exact finite Perron algebra in C431.
 The original12347-character complete reuse/attribution/Sections1--5/equations(1)--(10) is retained with only adequate same-object mathematical/source homes.
 The full proof was reconstructed below rather than inferred from retention, source attribution or old PASS.
 The checking agent authored the Claim, inherited target mathematical context and read old findings, so the actual current whole relationship is SELF.

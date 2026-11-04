@@ -161,7 +161,7 @@ This strict contradiction applies to every lift and both signs, without using T_
 The C608 input was used only for its displayed root definition, recurrence and matrix identities, all directly checked above.
 Its finite32-row character certificate and J119 are not premises of this family.
 C197v3 remains the accepted necessary theorem at its exact selected arbitrary-monic scope; its QX1--QX14 statement and argument were read, and the complete new application was checked.
-The [historical R477 finding](Yin_R_G0477_v1.md#quadratic-primary-generalized-consumer-whole-finding) currently declares relationship unknown, as do its inherited R620/R622 context declarations.
+The [historical R477 finding](Yin_R_G0477_v1.md#quadratic-primary-generalized-consumer-whole-finding) currently declares relationship unknown, as do its inherited R474/R476 context declarations.
 This review does not relabel that history or claim a new independent whole review of C197, its degree corollary or its upstream source chain.
 
 C199v4 supplies exact gate/layer definitions and their required precision at the recorded original domain.

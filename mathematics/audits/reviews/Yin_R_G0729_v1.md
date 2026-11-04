@@ -52,7 +52,7 @@ Original dated mathematical reviews and authorship retain their own actual input
 ## Complete higher Smith-threshold whole SELF
 
 Whole checking completed 2026-10-22T04:53.
-The current construction agent read the entire exact C518 Statement, the whole original L411 Sections1--7/formulas1--21, the retained contribution account and every necessary fixed interface.
+The current construction agent read the entire exact C518 Statement, the whole original L410 Sections1--7/formulas1--21, the retained contribution account and every necessary fixed interface.
 It reconstructed the two separate product directions: the reduced liftable kernel gives only a preimage inclusion for the upper bound, and the graded-cokernel surjection gives the lower bound, without commutation or a false equality.
 The finite original-order CRT retains the exact p2 lifting horizon, original primary multiplicities, free compatible idempotent summands and finite-modulus lifts; it assumes no full p-adic block lift or maximal-order invariance.
 Each prime-to-p quotient is invertible on the correct block, every positive increment is bounded by the full cyclic-primary nullity, and the primitive-order count gives the exact totient bound.
@@ -63,10 +63,10 @@ The normalized truncated-kernel law retains factor K in the original norm, while
 For arbitrary complete selected weights the C142v2 capture uses ordered triples with replacement and one maximizing actual exponent; every discarded weight and label above X remains priced through W.
 The exact C147v5 Phi5 domain and strict capped H5 handle both height branches, and the necessary all-prime/depth budget keeps the full q factor and fixed C,gamma,s.
 The odd-j actual quadratic has discriminant of odd 3-adic valuation, Smith factors1 and3^j, exact label-one depth mass and the full norm3^j; its exterior root bounds show growing total measure rather than a near-one counterexample.
-The accepted C513, C142v2 and C147v5 interfaces and C257/C243/L221 antecedent boundaries were inspected at their necessary scopes; no upstream whole re-audit or inherited source constant was changed.
+The accepted C513, C142v2 and C147v5 interfaces and C256/C242/L221 antecedent boundaries were inspected at their necessary scopes; no upstream whole re-audit or inherited source constant was changed.
 All original mathematics remains intact except four identified sufficient-home hrefs and demotion of the original title to a subsection.
 Root and loglog_cyclic_review contributed to the original proof, including root's two product arguments; the current construction agent shares this target context and is SELF.
-The complete original R561 whole and23:50 date remain separate, with its extra initial development context not fully established; current adequate SELF does not retrospectively establish old isolation.
+The complete original R415 whole and23:50 date remain separate, with its extra initial development context not fully established; current adequate SELF does not retrospectively establish old isolation.
 PASS for the entire stated theorem, conditional capture, full countercontrol and explicit open arithmetic boundary, with no substantive mathematical defect or original proof repair found.
 No numerical program, prime scan, factorization, new source passage, source-proof audit or Task/E resumption was performed.
 
@@ -91,7 +91,7 @@ The earlier C76 paid-path antecedent was read at its relevant mass/energy scope;
 All original mathematical sentences and contribution/source/finite limits are retained, with only seven sufficient-home hrefs and the original title heading syntax maintained.
 The original entropy_attainment_bridge author supplied the new mathematics, root supplied the question, and original C170/J106 contributions remain disclosed.
 This construction agent shares the target context and performs current SELF, not isolated independent review.
-The original R562 00:02 whole and its actual exposure facts remain separate; the content of the earlier mechanism summary and complete initial development-context order is not established by the retained account.
+The original R416 00:02 whole and its actual exposure facts remain separate; the content of the earlier mechanism summary and complete initial development-context order is not established by the retained account.
 PASS for the entire fixed-hub theorem and its exact remaining mass expense, with no substantive defect or original proof repair found.
 No source-proof upgrade, fresh numerical evidence, actual critical-mean decision or Task/E selection follows.
 

@@ -63,7 +63,6 @@ The latter ALREADY proves optimization over every endpoint row-space representat
 That general projection principle is reused, not claimed as a new result here.
 
 The bounded local screen included midpoint, conditional covariance, endpoint residual, variance and moment interfaces.
-An initial shell brace-pattern search was invalid and was replaced by the directory/glob form; no mathematical evidence came from the failed command.
 The fixed L256 input supplies the complete needed probability/linear-algebra mechanism.
 No new external theorem, source acquisition, J or numerical experiment is needed.
 The Gaussian integral used below is the same elementary complete-square calculation already used in L255; all its additional applications are proved directly.

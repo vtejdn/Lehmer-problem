@@ -4,7 +4,7 @@ author: Yin
 # Complete fractional critical-moment regularity and exponential unbounded control
 
 This retains the complete original L252 theorem/proof, all required transient dual/Fourier interfaces and all negative, endpoint and input-dependent boundaries.
-Original exploration, source comparison and old R151 inputs remain fixed.
+Original exploration, source comparison and old R116 inputs remain fixed.
 No Task/E execution or source proof reading resumes.
 
 ## Statement
@@ -438,7 +438,7 @@ No program, numerical evidence, source-wide audit or unrestricted result is asse
 | --- | --- |
 | date | 2026-10-21T19:09 |
 | status | proved |
-| reason | Adopt after the actual whole C421/R623 check of all transient dual/Fourier/monotonicity/Fejer interfaces and every original mixture, complete moment, weak endpoint, strict strong-Lp, dyadic approximation and exponential-control argument. Reuse the adequate fixed C405/C419 inputs only at the declared original-law/d4 scopes, retaining the full transience and moment hypotheses, every eta_R/root/input cost, endpoint exclusion and torsion/nonuniformity negative. No new native/source proof, fresh isolated coverage, unknown nontorsion moment or Task/E resumption is claimed; original R151 remains whole UNKNOWN. |
+| reason | Adopt after the actual whole C421/R623 check of all transient dual/Fourier/monotonicity/Fejer interfaces and every original mixture, complete moment, weak endpoint, strict strong-Lp, dyadic approximation and exponential-control argument. Reuse the adequate fixed C405/C419 inputs only at the declared original-law/d4 scopes, retaining the full transience and moment hypotheses, every eta_R/root/input cost, endpoint exclusion and torsion/nonuniformity negative. No new native/source proof, fresh isolated coverage, unknown nontorsion moment or Task/E resumption is claimed; original R116 remains whole UNKNOWN. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -455,7 +455,7 @@ No program, numerical evidence, source-wide audit or unrestricted result is asse
 | --- | --- |
 | date | 2026-10-21T20:02 |
 | status | proved |
-| reason | Adopt the actual new isolated whole finding after complete reading of the exact proof, all original whole bindings and useful source/moment/endpoint limits. Keep the sufficient DS84 README as an ordinary attribution account and bind its already retained source-comparison interface through canonical R151, without inventing another U or changing mathematical scope. Original UNKNOWN/SELF, dates and fixed inputs remain. |
+| reason | Adopt the actual new isolated whole finding after complete reading of the exact proof, all original whole bindings and useful source/moment/endpoint limits. Keep the sufficient DS84 README as an ordinary attribution account and bind its already retained source-comparison interface through canonical R116, without inventing another U or changing mathematical scope. Original UNKNOWN/SELF, dates and fixed inputs remain. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -463,5 +463,5 @@ No program, numerical evidence, source-wide audit or unrestricted result is asse
 | argument | [Complete selected argument](#argument) | Full transient dual/mixed-overlap/monotonicity/Fejer criterion plus original Sections1--5/equations1--17, all mixture normalizations, distribution/integrability limits, renewal moments and exponential constants. |
 | dependency | [Exact accepted input](Yin_C_G0405_v1.md#collision-operator-fixed-scope) | Exact original core/return law, existence of possibly zero h2 and R in[1,2]; no nontorsion restriction or essential-norm result is imported. |
 | dependency | [Exact accepted input](Yin_C_G0419_v1.md#argument) | Only d4 full actual core/cyclic coordinate law, central-binomial product and all-j induction bounds; this proof derives its own transience/critical-mean and regularity conclusions. |
-| review | [Actual complete finding](../audits/reviews/Yin_R_G0639_v1.md#isolated-critical-regularity-whole-finding) | Entire exact current Statement and Argument and original complete L252/R151 whole scope, every transient/mixed/Fejer/moment/endpoint/exponential-control argument and original source/negative limitation. |
+| review | [Actual complete finding](../audits/reviews/Yin_R_G0639_v1.md#isolated-critical-regularity-whole-finding) | Entire exact current Statement and Argument and original complete L252/R116 whole scope, every transient/mixed/Fejer/moment/endpoint/exponential-control argument and original source/negative limitation. |
 

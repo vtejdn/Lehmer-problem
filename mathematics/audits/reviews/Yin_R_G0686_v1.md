@@ -7,8 +7,8 @@ author: Yin
 Date: 2026-10-21T23:16.
 Human operator: Yin.
 The checking agent read all142original L200 lines, all71original R99 lines and the entire193-line published open C478 Statement, Argument and registration.
-It checked the complete necessary fixed C439 degree-six input, C471v2 actual quotient/interval and C244 trace-resultant interface.
-C477 is used only for the degree4 comparison and C480 only at its disclosed structural state/word discovery scope.
+It checked the complete necessary fixed C435 degree-six input, C467v2 actual quotient/interval and C243 trace-resultant interface.
+C473 is used only for the degree4 comparison and C476 only at its disclosed structural state/word discovery scope.
 The original3824-character proof/equations(1)--(5) is retained with only adequate same-object homes, together with its exact544-character remaining limitation.
 The complete proof was reconstructed below, rather than inferred from retention or old PASS.
 The checking agent authored this Claim and inherited substantive target context and old findings, so the current whole relationship is SELF.
@@ -75,7 +75,7 @@ Finally the polynomial relation gives beta^6 a=beta^5+beta-1.
 Under the chronological update the six digits(-1,0,0,0,-1,1) contribute-beta^5-beta+1 and cancel it exactly.
 Sign symmetry proves the return of-a.
 These state/word identifications retain the structural agent's original discovery attribution.
-The local cross-route proof does not independently discover those words or replace C480/J40's complete hull and compact certificates.
+The local cross-route proof does not independently discover those words or replace C476/J40's complete hull and compact certificates.
 
 All actual-order, full-powered, norm/index, sign, interval, neutral-pair, return-order, contribution, source and remaining-cost boundaries of the entire Statement and Argument have been checked.
 No substantive defect or missing hypothesis was found.

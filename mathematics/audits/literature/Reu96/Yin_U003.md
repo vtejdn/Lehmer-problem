@@ -250,11 +250,10 @@ The review checked arbitrary left coefficients, the echelon-support reduction, r
 It confirmed the two p. 104 corrections and identified no additional local mathematical gap.
 This cross-review does not extend the inspection depth of the external CR94 proofs.
 
-## Source and inspection
+## Exact passage and inspection limits
 
 [Source and edition notes](readme.md).
 
-Source edition: Reu96, the retained 17-page published Selecta Mathematica 2 (1996), pp. 93-109, DOI 10.1007/BF01587940. Printed page equals PDF page plus 92. The historically incorrect supplied filename DR97.pdf was corrected with authorization; it is not a citation alias, and the separately registered DR97 article is distinct. No second version was compared.
 
 Passages: Height bases and (3.1)-(3.2), printed p. 100; Lemma 3.3, p. 101; Lemma 3.4, pp. 102-103; Lemma 3.5, pp. 103-105; height families and Lemma 3.6, p. 104.
 

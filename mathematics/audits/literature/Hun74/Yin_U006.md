@@ -6,7 +6,7 @@ author: Yin
 Date: 2026-10-18T11:33.
 Human record author Yin.
 The realization author directly inspected the retained primary pages while constructing the actual Salem family and reread the same rendered pages before this source-unit registration.
-This is a selected statement/applicability inspection, separate from the earlier Chapter IV proof audit and its PID unit U006.
+This is a selected statement/applicability inspection, separate from the earlier Chapter IV proof audit and its PID unit U005.
 
 <a id="hun74-u006"></a>
 ## Source and inspection

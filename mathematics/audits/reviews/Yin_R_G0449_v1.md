@@ -7,7 +7,7 @@ Date: 2026-10-20T09:54.
 Human record author Yin.
 Root separately assigned draft_comparison_cleanup to review the complete actual [C177](../../claims/Yin_C_G0177_v1.md), registered2026-10-20T09:41 from the continuation authored at 2026-10-20T09:31.
 Root and draft_inventory_later contributed the original-embedding mechanism and its complete continuation; this reviewer contributed no proof step, rate formula, construction or control computation.
-The arrangement is nonblind: the reviewer inherited their explanations and previously reviewed the C176/L438 precursor in R445 and its registered extraction in R448.
+The arrangement is nonblind: the reviewer inherited their explanations and previously reviewed the C176/L437 precursor in R445 and its registered extraction in R448.
 Those earlier reviews do not cover the new T1--T7 mathematics.
 The present reviewer enumerated the actual original-domain, vanishing/threshold, Fourier-uniqueness, explicit-rate and exact-control obligations from C177 and checked the entire new proof and all six input rows.
 The reviewer's earlier unrelated L431/L434 retention and L436 authorship do not enter this argument.

@@ -10,7 +10,7 @@ Root supplied the rational-g reduction, its derivative and two-real-root bound, 
 The entropy_attainment_bridge agent supplied the additional root-distance and integer-trace contradiction, reconstructed both complete arguments and authored this fixed candidate.
 The rational-b monotonicity idea was also examined independently in the latter author's scratch analysis before receipt of the full proof; no independent review is claimed for this parallel author discussion.
 All three agents are contributors to the present proof.
-The entropy_attainment_bridge author also authored the upstream C178 valuation theorem and the earlier q>=2 comparison; root independently reviewed C178 through R447, which is reused at that actual scope.
+The entropy_attainment_bridge author also authored the upstream C178 valuation theorem and the earlier q>=2 comparison; root reviewed C178 through the self-reviewed R447 finding, which is reused at that actual scope.
 
 ## Statement
 
@@ -46,7 +46,7 @@ All algebraic integers and field degrees in(1) remain exact; no numerical root i
 The first equation of(1) gives a>0 at every real embedding, because3a^5=2c^2>0.
 The accepted [C178 unramified-prime conclusion](Yin_C_G0178_v1.md#statement) says that a triple(1) cannot lie in any number field having an unramified prime over2.
 In particular no such triple of nonzero rational integers exists.
-The complete fixed input is [C178's proof](Yin_C_G0178_v1.md#argument), independently checked in [R447](../audits/reviews/Yin_R_G0447_v1.md#residual-two-adic-whole-independent-finding) and adopted in its [selected decision](Yin_C_G0178_v1.md#decision-whole-reviewed-2026-10-20).
+The complete fixed input is [C178's proof](Yin_C_G0178_v1.md#argument), checked in the self-reviewed [R447](../audits/reviews/Yin_R_G0447_v1.md#residual-two-adic-whole-independent-finding) and adopted in its [selected decision](Yin_C_G0178_v1.md#decision-whole-reviewed-2026-10-20).
 This input is not being independently re-proved by its author here.
 
 We also use the following elementary field fact with its proof.
@@ -195,7 +195,7 @@ The original ambient field need not be quadratic, normal or unramified; the argu
 | --- | --- |
 | [C178 statement](Yin_C_G0178_v1.md#statement) | Only the impossibility of a residual triple in Q, whose2-prime is unramified; no high-ramification norm floor is imported. |
 | [C178 complete argument](Yin_C_G0178_v1.md#argument) | The accepted explicit valuation/parity proof supplies that rational-field obstruction. |
-| [R447](../audits/reviews/Yin_R_G0447_v1.md#residual-two-adic-whole-independent-finding) | Independent upstream review of C178, authored there by the present entropy_attainment_bridge contributor; this is not a review of the new rational-branch proof. |
+| [R447](../audits/reviews/Yin_R_G0447_v1.md#residual-two-adic-whole-independent-finding) | Self-reviewed upstream finding for C178, authored there by the present entropy_attainment_bridge contributor; this is not a review of the new rational-branch proof. |
 | [Original singleton responsibility](../ledger/Yin_L_G0438_v1.md#unbuffered-reduction) | Original question and extraction context only; no mutable draft is a logical premise. |
 
 The remaining background consists of elementary separability, real embeddings, integral traces, exact rational inequalities and one-variable differentiation; every nonroutine application is supplied above.

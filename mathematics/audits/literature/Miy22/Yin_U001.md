@@ -103,28 +103,13 @@ No claim is made for an arbitrary tuple of noncommuting operators, a nontracial 
 This unit supplies the objects used by all other Miy22 units.
 No new project theorem or formal verification is asserted.
 
-## Source and inspection
-
-Source edition: Miy22, the retained 24-page published Journal of Functional Analysis 283 (2022), article 109609, DOI 10.1016/j.jfa.2022.109609.
-Printed and PDF pages agree, treating the opening article page as p. 1. The related 20-page arXiv preprint was not compared line by line; its locators are not substituted here.
-
-Source passages: Section 2.1, pp. 3-6, Definitions 2.1-2.3; Section 3 opening, p. 8; Section 4 opening, p. 19.
-
-Inspection: 2026-09-08: source text and rendered formulas inspected; creation/deletion, word reversal and elementary closure conventions reconstructed. Trace/free-semicircular identification and general affiliated-algebra construction remain foundational source-reported inputs; no independent reconstruction of all external theories or formal verification is claimed.
-
 ## Additional retained definition source recheck
 
 <a id="definition-recheck"></a>
 
-This original 2026-09-10 source-reading account was retained from L_F0082 at 2026-10-21T01:37.
-It adds the exact definition locators, convention distinctions and actual reading/visual evidence; it does not repeat the earlier proof review.
-Its references to unchanged units and a sidecar record the original checkpoint, while the already sufficient definitions and theorem arguments remain at their exact linked U homes.
-No original source was reopened and no source bytes, acquisition facts, external-proof depth or independent-review status were changed by this retention.
-
 Date: 2026-09-10.
 Reviewer: the unbounded-operator agent, source reading and self-review.
-This is a definition/convention sidecar to the existing Miy22 audit, not a new source unit, claim, proof version or whole-source reassessment.
-The user authorized source-definition rechecking and indexing under the [definition rules](../../../definitions/readme.md).
+This is a selected definition/convention reading, with no new whole-source proof review.
 
 Source: [Miy22](../../../literature/pdf/Miy22.pdf), the 24-page published journal version.
 This review retains its original input and inspection scope.
@@ -134,7 +119,7 @@ Printed and PDF pages agree.
 
 Extracted text was reread on pp. 3–8 and 19.
 Complete rendered pages 4–8 and 19 were inspected, including closure bars, transpose, word cancellation and Laurent exponents.
-The entries below retain the existing complete definitions in place; this sidecar supplies the newly checked source locators.
+The entries below retain the existing complete definitions in place; this section supplies the checked source locators.
 
 | Concept | Exact existing home | Source locator and confirmed convention |
 | --- | --- | --- |
@@ -182,8 +167,9 @@ No rank metric is introduced in these inspected passages.
   The existing rank statement counts reduced poles with multiplicity, including zero; [U009](Yin_U009.md#exact-statement-and-conventions) already records the zero-series convention and the distinction from the one-normal divided-difference kernel.
   The earlier repeated-pole estimate correction remains in [U002](Yin_U002.md#scalar-rational-decay-and-the-printed-error).
 
-Actual forward uses include Yin_C_F0011, Inputs and Their Exact Roles, using U001's Fock model; Yin_C_F0015, using the residual/word-basis interfaces while distinguishing its own proof from the optional rationality equivalence; Yin_C_F0017, using recognizability and the scalar formal-elimination interface; and Yin_C_F0004's rank comparison, a comparison with U009 rather than a dependency of the original divided-difference proof.
-Yin_C_F0032's analytic inputs cite U006's affiliation foundations; the abstract definition is not newly supplied by Miy22.
+The earlier source account described Fock/residual/formal-elimination and analytic applications in a former F-family collection.
+Those fixed consumers are not located in the current retained F-family collection, and their old numbers do not identify the current same-number Claims.
+The one-normal-generator comparison remains in U009, with its original fixed-proof-location limit stated there.
 
 Citation purposes: current formulation or notation for the Fock/residual/Hankel conventions, and exposition for their role in semicircular rationality.
 No origin claim is made.

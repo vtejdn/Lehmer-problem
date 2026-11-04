@@ -5,9 +5,10 @@ author: Yin
 
 Date: 2026-10-12T14:16.
 Human record author Yin.
-Separately assigned noncontributor AI reviewer g0001_review_recovery. g0001_matrix_recovery authored every new D30 construction and proof; root supplied only the broad question.
+Separately assigned noncontributor AI reviewer g0001_review_recovery.
+g0001_matrix_recovery authored every new D30 construction and proof; root supplied only the broad question.
 This reviewer supplied no formula, candidate, proof step or target edit.
-The reviewer previously performed the actual C73 extraction review R397, but did not author that ancestor's mathematics or wrapper; that role is disclosed and does not certify this new general-matrix proof.
+The reviewer previously performed the actual C73 extraction review [R794 v2 original C73 extraction](Yin_R_G0794_v2.md#c73-integer-shear-actual-extraction-finding), but did not author that ancestor's mathematics or wrapper; that role is disclosed and does not certify this new general-matrix proof.
 No external human referee or formal assistant is claimed.
 
 ## ENTIRE actual scope and direct source inspection

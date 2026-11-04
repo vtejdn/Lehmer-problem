@@ -9,7 +9,7 @@ author: Yin
 
 [Source and edition notes](readme.md).
 
-Source edition: [Smy15](../../../literature/pdf/Smy15.pdf), retained25-page author rendering Salem_survey220315.pdf; artifact.
+Source edition: [Smy15](../../../literature/pdf/Smy15.pdf), retained25-page author rendering Salem_survey220315.pdf.
 
 Passages: Lemma2 and Proposition3, printed/PDFpp.2--4, including the displayed proof and its final strengthening note.
 

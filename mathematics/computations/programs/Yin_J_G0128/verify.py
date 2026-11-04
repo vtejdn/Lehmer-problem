@@ -94,7 +94,7 @@ def expression(e, gs):
 def main():
     home=Path(__file__).resolve().parent
     outputs=home.parents[2]/'computations'/'outputs'
-    data=json.loads((outputs/'Yin_J_G0126'/'certificate.json').read_text(encoding='utf-8'))
+    data=json.loads((home.parent/'Yin_J_G0126'/'inputs'/'certificate.json').read_text(encoding='utf-8'))
     cert=json.loads((outputs/home.name/'certificate.json').read_text(encoding='utf-8'))
     assert cert['parameters']==[[0,1],[1,0],[1,1]] and len(cert['results'])==3
     assert cert['modulus']==data['M']==encode(MODULUS)
@@ -143,7 +143,7 @@ def main():
         summaries.append({'u':u,'v':v,'member':result['member'],'missing_bit':bit,
                           'crt_identity':True,'target_product_identity':True})
     out={'verified':True,'exact_targets':summaries,'used_pivot_expressions':len(used),
-         'unchanged_group_completeness':'adopted C643v2 and fixed J126, not reproved here'}
+         'unchanged_group_completeness':'adopted C621v2 and fixed J126, not reproved here'}
     (outputs/home.name/'verification.json').write_text(json.dumps(out,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(out,indent=2))
 

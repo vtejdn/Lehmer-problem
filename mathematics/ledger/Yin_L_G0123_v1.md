@@ -4,6 +4,10 @@ author: Yin
 
 # Polynomial-height multipliers with small central conjugates and a finite transition cost
 
+Current checking scope is owned by [R35](../audits/reviews/Yin_R_G0035_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct G0001 derivation by the assigned review_matrix_completion AI for Yin.
 The coordinator requested an arithmetic test of the finite-window interface [L G0120](Yin_L_G0120_v1.md#central-whitening-fourier-test).

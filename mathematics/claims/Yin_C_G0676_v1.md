@@ -124,7 +124,7 @@ The sign relation is eta_-+eta_+=(phi^A k)^2 in R_phi, and a valid solution is t
 
 ### C. Partial-H application with every actual cost
 
-Take the full formal target and polynomial domain of C674: m>=1, Q a power of2 with2m<Q<5m, H(0)=1,5degH<5m-Q, B=X^(Q-m)H(chi), a specified square S in phi^(4m) modulo phi^(8m), and the full C677 CRT class with Pi_(4m)=0.
+Take the full formal target and polynomial domain of C674: m>=1, Q a power of2 with2m<Q<5m, H(0)=1,5degH<5m-Q, B=X^(Q-m)H(chi), a specified square S in phi^(4m) modulo phi^(8m), and the full C649 CRT class with Pi_(4m)=0.
 Use the SAME actual finite order set M and smooth set M_smooth defined from J=H(chi) in C674, and its actual largest irreducible multiplicity mu_max.
 Choose now ANY integer
 
@@ -430,7 +430,7 @@ No normalized degree is silently substituted for the full polynomial degree.
 
 For q>=2, H_0=H_norm^q and Y=Y_0^q are squares, the two inequalities raise unchanged, and the original old support identity raises to precision4A=8mq.
 The exact integer factorized base can use the full q-multiplied exponents, so it is an integer square as required by BC1.
-All hypotheses of the generic theorem hold, while the original canonical remainder, full C677 gate, maximal Frobenius q, integer layers and Haar compatibility remain those of the same characteristic-two input.
+All hypotheses of the generic theorem hold, while the original canonical remainder, full C649 gate, maximal Frobenius q, integer layers and Haar compatibility remain those of the same characteristic-two input.
 Substituting A,h,d gives the two displayed count exponents.
 
 For the order31 example mu_max=1 and E_pad=4 already satisfy BS10, so C674's complete costs remain exactly those in BS13.
@@ -458,7 +458,7 @@ This does not identify the actual integer residual with the synthetic G_int or s
 | argument | [Complete actual-divisor proof](#balanced-square-mod-four-argument) | BC1--BC7 and BE1--BE5: exact square lift, integer quotient/half-remainder, odd denominators, effective local orders and every cross term, all-primary detection, unchanged full phi error, exact derivative/CRT/counts and complete padding/cost application. |
 | dependency | [Adopted actual local same-T calculation](Yin_C_G0669_v1.md#decision-whole-reviewed-2026-10-24) | Only the verified factorized-base, actual-divisor phi calculation and complete eta/square-image/sign interfaces at their explicitly checked local hypotheses. Its stronger all-primary assumptions are replaced by the new BC1--BC3 proof, not silently imported. |
 | dependency | [Adopted square-base refinement](Yin_C_G0672_v1.md#decision-whole-reviewed-2026-10-24) | Actual integer square half-remainder, complete derivative and low coefficient obstruction, bounded CRT and coefficient-fiber count; every applicability condition is rechecked after replacing strong forward divisibility. |
-| dependency | [Adopted complete partial-H construction](Yin_C_G0674_v1.md#decision-whole-reviewed-2026-10-24) | Complete PH1--PH11/PC1--PC9 construction, exact smooth/partial factors and finite sources, canonical/full gate/q/odd parts/layers/Haar and all costs, strong-C3 obstruction and m12 norm. Only corrected R1062v2 is selected by its adoption; empty M leaves C_comp=J, Y_seed=1. The new padding inequalities are proved here. |
+| dependency | [Adopted complete partial-H construction](Yin_C_G0674_v1.md#decision-whole-reviewed-2026-10-24) | Complete PH1--PH11/PC1--PC9 construction, exact smooth/partial factors and finite sources, canonical/full gate/q/odd parts/layers/Haar and all costs, strong-C3 obstruction and m12 norm. Only corrected R895 v2 is selected by its adoption; empty M leaves C_comp=J, Y_seed=1. The new padding inequalities are proved here. |
 | support | [Exact remaining realization limits](#exact-limits) | Actual simultaneous residuals modulo4 do not imply modulo8 residuals, equality with the synthetic integer Haar polynomial, characteristic-zero equations, irreducibility, total reality or unrestricted Task completion. |
 
 ### Decision whole-reviewed-2026-10-24
@@ -475,6 +475,6 @@ This does not identify the actual integer residual with the synthetic G_int or s
 | argument | [Complete actual-divisor proof](#balanced-square-mod-four-argument) | BC1--BC7 and BE1--BE5: exact square lift, integer quotient/half-remainder, odd denominators, effective local orders and every cross term, all-primary detection, unchanged full phi error, exact derivative/CRT/counts and complete padding/cost application. |
 | dependency | [Adopted actual local same-T calculation](Yin_C_G0669_v1.md#decision-whole-reviewed-2026-10-24) | Only the verified factorized-base, actual-divisor phi calculation and complete eta/square-image/sign interfaces at their explicitly checked local hypotheses. Its stronger all-primary assumptions are replaced by the new BC1--BC3 proof, not silently imported. |
 | dependency | [Adopted square-base refinement](Yin_C_G0672_v1.md#decision-whole-reviewed-2026-10-24) | Actual integer square half-remainder, complete derivative and low coefficient obstruction, bounded CRT and coefficient-fiber count; every applicability condition is rechecked after replacing strong forward divisibility. |
-| dependency | [Adopted complete partial-H construction](Yin_C_G0674_v1.md#decision-whole-reviewed-2026-10-24) | Complete PH1--PH11/PC1--PC9 construction, exact smooth/partial factors and finite sources, canonical/full gate/q/odd parts/layers/Haar and all costs, strong-C3 obstruction and m12 norm. Only corrected R1062v2 is selected by its adoption; empty M leaves C_comp=J, Y_seed=1. The new padding inequalities are proved here. |
+| dependency | [Adopted complete partial-H construction](Yin_C_G0674_v1.md#decision-whole-reviewed-2026-10-24) | Complete PH1--PH11/PC1--PC9 construction, exact smooth/partial factors and finite sources, canonical/full gate/q/odd parts/layers/Haar and all costs, strong-C3 obstruction and m12 norm. Only corrected R895 v2 is selected by its adoption; empty M leaves C_comp=J, Y_seed=1. The new padding inequalities are proved here. |
 | support | [Exact remaining realization limits](#exact-limits) | Actual simultaneous residuals modulo4 do not imply modulo8 residuals, equality with the synthetic integer Haar polynomial, characteristic-zero equations, irreducibility, total reality or unrestricted Task completion. |
 | review | [Fresh isolated whole mathematical review](../audits/reviews/Yin_R_G0897_v1.md#whole-balanced-forward-mod-four-finding) | Complete fixed statement, argument, exact input applicability, actual integer/global scope, every application and all stated limitations; the main agent read the complete finding before this adoption. |

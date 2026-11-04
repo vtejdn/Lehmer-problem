@@ -53,7 +53,11 @@ author: Yin
 <a id="statement"></a>
 <a id="positive-class-cost-fixed-scope"></a>
 
-For every integer k>=3, the explicit determinant-one two-move basis Q gives a proper height-one X_k=Q^T V_k Q with the full original scalar, rank4k+1 and energy5k+2, through the sharp one-unit energy excursion only within the stated adjacent/sign operations. The full original/companion/proper-cover polynomials and trace are (5)--(8). At actual k3 all roots are accounted for and the complete companion/cover saving exceeds log(7/4). The complete fixed k3/k4 capped native domains have8000 admitted states and15407 attempts with their explicit unexpanded frontiers, not a closed orbit. No all-k positive saving, neutral splitting, class optimum or near-one conclusion is proved.
+For every integer k>=3, the explicit determinant-one two-move basis Q gives a proper height-one X_k=Q^T V_k Q with the full original scalar, rank4k+1 and energy5k+2, through the sharp one-unit energy excursion only within the stated adjacent/sign operations.
+The full original/companion/proper-cover polynomials and trace are (5)--(8).
+At actual k3 all roots are accounted for and the complete companion/cover saving exceeds log(7/4).
+The complete fixed k3/k4 capped native domains have8000 admitted states and15407 attempts with their explicit unexpanded frontiers, not a closed orbit.
+No all-k positive saving, neutral splitting, class optimum or near-one conclusion is proved.
 All input, source, failed-method and expense boundaries in the complete argument below are part of this fixed statement.
 No current Task/E execution is selected by the dated original research prose.
 

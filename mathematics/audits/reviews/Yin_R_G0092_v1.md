@@ -15,7 +15,7 @@ The recorded authorship, checking relationship, inputs, verdicts and limitations
 On 2026-10-10 the assigned resultant_research AI for Yin independently reviewed the entire argument, Sections1-4 and its reuse/conclusion boundaries.
 The reviewer contributed none of the family selection, irreducibility argument, ideal or interpolation calculation, adjugate normalization, or auxiliary/cofactor estimates.
 It had shared G0001 context and received the author's proposed result and requested review points, so this is a separately organized noncontributor review, not a blind or human review.
-The exact pre-review author file had The full preceding author text was retained unchanged when this review was appended.
+The full preceding author text was retained unchanged when this review was appended.
 No mathematical defect or required proof correction was found.
 
 For irreducibility, a proper factor of X^p-beta over K really does give a selected-root product c in K with c^p=beta^r, even though its individual roots need not lie in K.

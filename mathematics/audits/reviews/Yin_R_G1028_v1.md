@@ -34,7 +34,7 @@ No mathematical repair or author-side construction was supplied during this revi
 ## Fixed project and source inputs
 
 The mathematical project input is [adopted C804 v1](../../claims/Yin_C_G0804_v1.md#decision-whole-reviewed-2026-10-26).
-Its exact F_A identity, full-factor equality m(P)=m(K)=m(L_0), nonempty Jensen floor m_2(F_A)>=log 2, actual C842/C844 domain and paid nonempty masks are used.
+Its exact F_A identity, full-factor equality m(P)=m(K)=m(L_0), nonempty Jensen floor m_2(F_A)>=log 2, actual C799/C801 domain and paid nonempty masks are used.
 The source and original N progression retain all full primary, multiplicity, canonical-divisor, gap and original minimum-s conditions.
 C808 does not obtain a rate from C804's qualitative Lawton theorem and does not need C804's cyclotomic-degree certificate.
 The earlier source-proof and complete-construction limits of R1024 remain unchanged for the adopted inputs.

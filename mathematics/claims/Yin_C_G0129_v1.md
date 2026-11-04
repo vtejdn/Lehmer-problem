@@ -487,7 +487,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-22T03:02 |
 | status | proved |
-| reason | Locate only the existing finite mixed-norm exchange at the complete same-object C508v2 home after reading this consumer statement and full counting-measure tensor argument against the complete retained input. C129 still explicitly derives its conjugate-exponent/counting-measure version and imports no different cyclic-noise constant, actual stationary law or new independence premise. Every other field except this date/reason, all nonmatching relation/review tuples and scopes, every old decision and the complete mathematical text remain unchanged. R485 and all original author/reviewer readings retain their actual fixed L211 inputs and are not represented as having inspected later C508; no new whole review or isolated coverage is asserted. |
+| reason | Locate only the existing finite mixed-norm exchange at the complete same-object C508v2 home after reading this consumer statement and full counting-measure tensor argument against the complete retained input. C129 still explicitly derives its conjugate-exponent/counting-measure version and imports no different cyclic-noise constant, actual stationary law or new independence premise. Every other field except this date/reason, all nonmatching relation/review tuples and scopes, every old decision and the complete mathematical text remain unchanged. [R798 original squarefree-tensor](../audits/reviews/Yin_R_G0798_v1.md#squarefree-tensor-whole-independent-finding) and all original author/reviewer readings retain their actual fixed L211 inputs and are not represented as having inspected later C508; no new whole review or isolated coverage is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |
@@ -530,7 +530,7 @@ The recorded review description was `under review`.
 | date | 2026-10-15T09:12 |
 | status | proved |
 | review-status | independently reviewed |
-| reason | Adopt the complete noncontributor R485 finding. Arbitrary same-scale squarefree capacity inventories have original-window capture with explicit harmonic prime cost. Record all body-used inputs omitted from the initial table; no proof premise changed. Unrestricted prime powers and automatic actual coverage were not proved in this version. |
+| reason | Adopt the complete noncontributor [R798 original squarefree-tensor](../audits/reviews/Yin_R_G0798_v1.md#squarefree-tensor-whole-independent-finding) finding. Arbitrary same-scale squarefree capacity inventories have original-window capture with explicit harmonic prime cost. Record all body-used inputs omitted from the initial table; no proof premise changed. Unrestricted prime powers and automatic actual coverage were not proved in this version. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

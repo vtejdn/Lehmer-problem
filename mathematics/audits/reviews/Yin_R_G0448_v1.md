@@ -6,7 +6,7 @@ author: Yin
 Date: 2026-10-20T09:49.
 Human record author Yin.
 Root separately assigned the draft_comparison_cleanup AI to review the actual registered C176 statement, complete argument extraction and declared inputs.
-This reviewer authored [R445](Yin_R_G0445_v1.md#polynomial-mixing-whole-independent-finding), the earlier independent whole review of the complete L437 proof, and contributed no step or construction to that proof.
+This reviewer authored [R445](Yin_R_G0445_v1.md#polynomial-mixing-whole-independent-finding), the earlier whole review of the complete L437 proof at its unknown relationship, and contributed no step or construction to that proof.
 The present review is a nonblind interface review which deliberately consults R445 and the already inspected source proof before assessing the new Claim wrapper.
 The earlier mutable-D36 precheck, author/root summaries, unrelated L431/L434 retention work and separate L436 authorship remain disclosed in R445; none is reclassified as blind or independent upstream proof development here.
 No old review is backfilled and no new mathematical calculation, N evaluation, root isolation, numerical certificate or literature acquisition is performed for this review.
@@ -47,7 +47,7 @@ Original dates, mathematical checks and exact binding scopes remain unchanged, w
 | [Statement and extraction finding](#c176-statement-extraction-finding) | [Constant-matrix prior boundary](../../ledger/Yin_L_G0401_v1.md#constant-spd-determinant-screen) | support: Comparison only: the unchanged constant two-shear class is already excluded; variable matrices require the new local proof. |
 | [Statement and extraction finding](#c176-statement-extraction-finding) | [Normalized sparse-transfer comparison](../../claims/Yin_C_G0140_v1.md#argument) | support: Exact degree, term-count and normalized-size requirements remain unpaid uniformly for the new dense family; no new automatic coverage is imported. |
 | [Statement and extraction finding](#c176-statement-extraction-finding) | [Original full author account](../../ledger/Yin_L_G0437_v1.md#polynomial-mixing-direct-inputs) | support: Extraction provenance and complete original input/comparison scope; the selected argument is now the full proof in this Claim. |
-| [Statement and extraction finding](#c176-statement-extraction-finding) | [Source-proof whole finding](Yin_R_G0445_v1.md#polynomial-mixing-whole-independent-finding) | support: Actual whole independent review of the unchanged L437 mathematics; does not by itself review this new Claim's selected statement and extraction interfaces. |
+| [Statement and extraction finding](#c176-statement-extraction-finding) | [Source-proof whole finding](Yin_R_G0445_v1.md#polynomial-mixing-whole-independent-finding) | support: Actual whole review of the unchanged L437 mathematics at its unknown relationship; does not by itself review this new Claim's selected statement and extraction interfaces. |
 | [Statement and extraction finding](#c176-statement-extraction-finding) | [C176 eleven-row input account](../../claims/Yin_C_G0176_v1.md#polynomial-mixing-direct-inputs) | Every direct input, numerical limitation and comparison-only draft role; no promotion of a draft adaptation to an accepted dependency. |
 | [Statement and extraction finding](#c176-statement-extraction-finding) | [Complete source ledger](../../ledger/Yin_L_G0437_v1.md) | Exact unchanged complete proof already covered by R445; mathematical coverage is reused at that recorded scope. |
 

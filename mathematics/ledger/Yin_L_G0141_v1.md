@@ -4,12 +4,16 @@ author: Yin
 
 # Exact central boundary flux and the remaining endpoint cost
 
+Current checking scope is owned by [R567](../audits/reviews/Yin_R_G0567_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-08.
 Joint bounded G0001 derivation by the assigned entropy_status AI and the coordinating AI for Yin.
 The coordinator proposed replacing the crude telescoping constant by the exact central boundary functional.
 The assigned agent derived its normalization, joint-block selection, geometric-mean and matrix bounds, coefficient control and the explicit family comparison below.
 The coordinator supplied the grouped endpoint estimate; the assigned agent derived and the coordinator checked the remaining inverse-Vandermonde cost obstruction.
-These are contributor checks; complete independent review is recorded below.
+These are contributor checks; the complete checking account below retains the responsible findings' actual relationships.
 No numerical experiment, optimization, root-isolation run or new source is involved.
 
 <a id="exact-central-boundary-flux"></a>

@@ -6,7 +6,7 @@ author: Yin
 
 Recorded 2026-10-21T10:26 for Yin.
 Review-arrangement correction recorded 2026-10-21T10:38 for Yin.
-This is the explicitly authorized M04 review of the fixed G0339 mathematics and its two existing review accounts.
+This is the explicitly authorized M04 review of the fixed G0338 mathematics and its two existing review accounts.
 It neither selects nor resumes a research Task or execution record.
 The performed mathematical check is self-reviewed and does not discharge M04's pending isolated replacement coverage.
 
@@ -20,7 +20,7 @@ The auxiliary Python wrapper only redirected the existing verifier's output to m
 The correct relationship is self-reviewed, not unknown: the relevant prior-conclusion exposure is actually known.
 Different algorithms and the absence of a proof contribution do not remove that exposure.
 
-The reviewer first read the entire current G0339 statement and Sections 1–6, equations (1)–(5), and followed the actual arithmetic, residual, norm and original-input interfaces.
+The reviewer first read the entire current G0338 statement and Sections 1–6, equations (1)–(5), and followed the actual arithmetic, residual, norm and original-input interfaces.
 Before forming initial findings, the reviewer also read the signed-power section of the [J79 README](../../computations/programs/Yin_J_G0079/readme.md#signed-power-classification-pre-run).
 That section explicitly supplied the prior conclusion that all vectors, decisions, quotients and original costs matched, described R170's historical whole check and R559's whole self-review, and stated that R559's mathematical summary records matched the original saved review.
 Its earlier 834-vector, 133680-decision and 31-identity summaries and the 202735/202736 tally comparison were therefore visible before this review's initial findings.
@@ -38,7 +38,7 @@ The existing finding anchor is retained for actual references and historical dec
 <a id="whole-signed-power-isolated-finding"></a>
 ## Finding: complete current theorem and all retained original argument
 
-PASS for the exact [G0339 statement](../../claims/Yin_C_G0338_v1.md#statement) and its complete [argument](../../claims/Yin_C_G0338_v1.md#argument), including every substantive obligation in Sections 1–6 and equations (1)–(5).
+PASS for the exact [G0338 statement](../../claims/Yin_C_G0338_v1.md#statement) and its complete [argument](../../claims/Yin_C_G0338_v1.md#argument), including every substantive obligation in Sections 1–6 and equations (1)–(5).
 The same mathematical Sections 1–6 in [original L345](../../ledger/Yin_L_G0345_v1.md#signed-power-classification-proof) were checked in full after the initial findings and compared with the current retained target.
 The original assignment, freeze and execution wording remains historical context, not present authority.
 No target-proof repair was necessary or supplied.
@@ -202,11 +202,11 @@ No temporary artifact was needed or left by this review.
 
 | Review | Target | Scope |
 | --- | --- | --- |
-| [Whole signed-power finding](#whole-signed-power-isolated-finding) | [Exact G0339 statement](../../claims/Yin_C_G0338_v1.md#statement) | Complete original n18/n30 finite signed-power classification and separate n18 row17 all-integer-exponent order-unit exclusion, with every hypothesis, cost and negative limitation. |
-| [Whole signed-power finding](#whole-signed-power-isolated-finding) | [Complete G0339 argument](../../claims/Yin_C_G0338_v1.md#argument) | Entire Sections 1–6/(1)–(5), both integral recurrences, all bounded matches and exclusions, quotient identities, all-root projection costs, modulo-19 homomorphism and original-order unit proof. |
+| [Whole signed-power finding](#whole-signed-power-isolated-finding) | [Exact G0338 statement](../../claims/Yin_C_G0338_v1.md#statement) | Complete original n18/n30 finite signed-power classification and separate n18 row17 all-integer-exponent order-unit exclusion, with every hypothesis, cost and negative limitation. |
+| [Whole signed-power finding](#whole-signed-power-isolated-finding) | [Complete G0338 argument](../../claims/Yin_C_G0338_v1.md#argument) | Entire Sections 1–6/(1)–(5), both integral recurrences, all bounded matches and exclusions, quotient identities, all-root projection costs, modulo-19 homomorphism and original-order unit proof. |
 | [Whole signed-power finding](#whole-signed-power-isolated-finding) | [Original L345 proof](../../ledger/Yin_L_G0345_v1.md#signed-power-classification-proof) | Complete original Sections 1–6 and their finite/native, expense, source and nonuniformity boundaries; compared after initial current-target findings, without rewriting original dates or historical authority. |
 | [Whole signed-power finding](#whole-signed-power-isolated-finding) | [Residual and cost input](../../claims/Yin_C_G0322_v1.md#argument) | Necessary actual integral residual lattice, full fixed seeds/input provenance, all-root norm and energy interface, row17 strict paid conservative step; not a new full theorem review of unrelated Schur or n30 improvement claims. |
-| [Whole signed-power finding](#whole-signed-power-isolated-finding) | [All-root residue normalization](../../claims/Yin_C_G0312_v1.md#nonmonomial-full-resultant-cost) | Direct F=qB-PU, full signed resultant, original energy/content and mass-weight cost interface actually used by G0339. |
+| [Whole signed-power finding](#whole-signed-power-isolated-finding) | [All-root residue normalization](../../claims/Yin_C_G0312_v1.md#nonmonomial-full-resultant-cost) | Direct F=qB-PU, full signed resultant, original energy/content and mass-weight cost interface actually used by G0338. |
 | [Whole signed-power finding](#whole-signed-power-isolated-finding) | [Fixed classification verifier](../../computations/programs/Yin_J_G0079/power-classification-review.py) | Entire source and imported helper source read before original-domain in-memory verification, within the original 30-second cap, no author producer or mathematical output write. |
 | [Whole signed-power finding](#whole-signed-power-isolated-finding) | [R170 old account](Yin_R_G0170_v1.md#signed-power-complete-independent-review) | Complete original finding and all five detailed sections, binding and unknown relationship compared after first findings; useful mathematical/source/expense limits retained without historical-isolation reconstruction. |
 | [Whole signed-power finding](#whole-signed-power-isolated-finding) | [R559 current self-review](Yin_R_G0559_v1.md#complete-signed-power-current-finding) | Entire account, mathematical/native conclusions, path-only correction, separate 202736/202735 tallies, actual self relationship and limits; no retrospective promotion of either earlier relationship. |

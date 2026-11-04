@@ -119,7 +119,7 @@ C704 Sections 1--6 were read, including the finite rational interpolation, missi
 No incompatible family, changed constant, unverified new local extension or cycle back through C705 was found in this use.
 
 This review accepts the upstream statements already selected by C704 at their retained inspection depths.
-In particular, C708's weighted source, torsion-killer and minimality conclusions, C726's unchanged stationary-phase patch and localized square mass, and the other adopted scalar/kernel mechanisms are not presented as newly re-audited source proofs here.
+In particular, C678's weighted source, torsion-killer and minimality conclusions, C693 v2's unchanged stationary-phase patch and localized square mass, and the other adopted scalar/kernel mechanisms are not presented as newly re-audited source proofs here.
 C704 retains the Tao26 primary-statement/applicability scope without a full-source proof audit, and its classical Par88 attribution does not replace the finite proof actually written there.
 C705 introduces no further external theorem premise beyond this resolved project input and the elementary fully displayed estimates.
 The local Fourier reuse attribution was checked at the exact C174 and C690 passages.

@@ -9,7 +9,7 @@ Human record author Yin.
 This is a separately arranged isolated whole review of [C633v1](../../claims/Yin_C_G0633_v1.md#statement), its [complete argument](../../claims/Yin_C_G0633_v1.md#complete-argument), and the exact [initial selected decision](../../claims/Yin_C_G0633_v1.md#decision-exact-phase-integration-open), dated 2026-10-23T20:01.
 The reviewer did not contribute to C633 and received no contributor dialogue, mathematical development summary, exploration drafts or other-agent inventory/findings.
 It read the entire fixed statement and proof and the actual fixed dependency interfaces before forming this finding.
-The same reviewer previously performed R999 on C632v1; that review remains at its exact C632 physical scope and is not extended prospectively to C633.
+The same reviewer previously performed R836 on C632v1; that review remains at its exact C632 physical scope and is not extended prospectively to C633.
 The new fixed proof supplies all new mathematical input for the present review.
 Earlier R conclusions were not consulted to determine this verdict.
 
@@ -31,7 +31,7 @@ This finding does not adopt C633 or alter any C/T/E/S decision or index.
 | --- | --- | --- |
 | [Whole exact-phase finding](#exact-phase-integration-whole-independent-finding) | [C633 entire statement](../../claims/Yin_C_G0633_v1.md#statement) | EI1--EI6 with exact original K, primes, polynomial, full degree/window, every rho and tau in their stated ranges, every positive sublevel parameter, complete finite box/cutoffs and every uniform width-strip and sequence-entry quantifier. |
 | [Whole exact-phase finding](#exact-phase-integration-whole-independent-finding) | [C633 complete argument](../../claims/Yin_C_G0633_v1.md#complete-argument) | All four proof sections, EI7--EI14, exact normalized integration, every region and constant, correlated-shift conditioning, derivative reuse, complete five comparison costs, balanced parameter, finite original support and uniform exponents. |
-| [Whole exact-phase finding](#exact-phase-integration-whole-independent-finding) | [C632 polynomial derivatives](../../claims/Yin_C_G0632_v1.md#square-root-regularization-derivative) | Exact same polynomials, common-zero-inclusive derivative sums, inversion, four-coordinate Lipschitz sum and both normalized Fejer constants A_der,K and D_reg,K; the previous R999 scope is unchanged. |
+| [Whole exact-phase finding](#exact-phase-integration-whole-independent-finding) | [C632 polynomial derivatives](../../claims/Yin_C_G0632_v1.md#square-root-regularization-derivative) | Exact same polynomials, common-zero-inclusive derivative sums, inversion, four-coordinate Lipschitz sum and both normalized Fejer constants A_der,K and D_reg,K; the previous R836 scope is unchanged. |
 | [Whole exact-phase finding](#exact-phase-integration-whole-independent-finding) | [C565 original family/projection](../../claims/Yin_C_G0565_v2.md#statement) | Actual irreducible Salem input, exact complete cyclotomic removal, original degree and rank-d_j residual projection in every original 2d_j coefficient coordinate, phase and epsilon_j. |
 | [Whole exact-phase finding](#exact-phase-integration-whole-independent-finding) | [C565 denominator and phase](../../claims/Yin_C_G0565_v2.md#moving-band-denominator) | Same Acal, Bcal, g and Ncal, equal modulus, U=Ncal/g off the common-zero set, zero convention and actual inverse phase. |
 | [Whole exact-phase finding](#exact-phase-integration-whole-independent-finding) | [C565 original return](../../claims/Yin_C_G0565_v2.md#moving-band-fejer-budget) | Full original-window epsilon_j, both regularizations, both finite Fejer errors and exact Fourier normalization/sign; probability and derivative budgets are supplied at the new target's actual scope. |
@@ -264,7 +264,7 @@ The same original family remains in log 2<m(P_j)<log 4, so the result supplies n
 ## Source and review boundaries
 
 The entire C633 proof has been scrutinized independently at its stated exact accepted-input scope.
-C632's amplitude bounds are reused at the unchanged physical version actually reviewed by R999; no part of that earlier review is represented as an earlier review of C633.
+C632's amplitude bounds are reused at the unchanged physical version actually reviewed by R836; no part of that earlier review is represented as an earlier review of C633.
 C629v3's adopted unequal-cutoff and scalar-harmonic interfaces are used at their actual expanded-version scope, rather than treating v2 review as coverage of v3.
 The direct source reading here includes C629v3's complete displayed proof and retained Deb15/GMR18 source account; it does not reopen or independently re-audit those original source proofs.
 

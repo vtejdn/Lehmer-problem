@@ -166,7 +166,7 @@ Equivalently, the positive tail sum in NL2 must have linear size along an unboun
 A sufficient stronger form is fixed a,delta>0 with Pr_(2n){K(X_n)>=a n}>=delta along such a sequence.
 The bounded-error identity NL3 transfers that premise to C285's genuine diffusive lower moment.
 No such unbounded-sequence premise is supplied here.
-The complete finite C819/C779 values remain finite data, and the original C324/C45/C703 comparison costs remain effective.
+The complete finite C776/C779 values remain finite data, and the original C324/C45/C673 comparison costs remain effective.
 
 This fixed candidate contains author mathematics only, without independent review or adoption.
 No J program or numerical experiment was needed.

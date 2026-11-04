@@ -7,7 +7,7 @@ author: Yin
 Date and attribution:2026-10-11T14:57; human record author Yin.
 The integer_symbol_review AI performs a separately organized initial whole-proof review of root's frozen D_G0028.
 It supplied none of the mod8 necessity, explicit shear construction, finite quotient classification or exact norm comparison.
-It previously reviewed the distinct D26 argument in R282 and the quartic unit input in R275; D28 invokes no unreviewed D26 factorization, and every matrix identity needed for this new proof is checked directly here.
+It previously reviewed the distinct D26 argument in R206 and the quartic unit input in R199; D28 invokes no unreviewed D26 factorization, and every matrix identity needed for this new proof is checked directly here.
 
 Inputs and sequence: the exact scope and frozen target were assigned, and the complete D28 including self-check was read and reconstructed before any earlier D28 review conclusion was consulted; none was supplied or consulted.
 No proof-generation dialogue or extra author explanatory exchange was supplied.
@@ -20,7 +20,7 @@ It is a whole local proof/interface review, not an exact original-field interpol
 
 Current arrangement clarification (2026-10-21T20:17): the original initial input explicitly contained the complete author mathematical self-check.
 This known exposure makes the whole relationship SELF under the current isolation condition, preserving all original direct reconstructions, mathematical conclusions, eight bindings and no-native/source limits.
-Prior R282/R275 roles do not infer a substantive contribution to this new target or supply initial isolation.
+Prior R206/R199 roles do not infer a substantive contribution to this new target or supply initial isolation.
 The original day-precision author freeze,22:57 review and23:00 retention remain different events.
 
 ## Review relationships
@@ -121,7 +121,7 @@ The decisive independent rechecks follow.
 The old scalar-denominator proof and original input are reused at L377's fixed scope.
 The new projection, inverse, conjugation, shear and evaluation identities were all reconstructed directly, with no imported rational factorization or group-generation assertion.
 D26 is a motivation/attribution entrance; its complete factorization is not a premise of this classification.
-Its selected classical complex source scope, independently checked in R282, supplies no additional interpolation theorem here.
+Its selected classical complex source scope, independently checked in R206, supplies no additional interpolation theorem here.
 No external proof, software, native program, finite enumeration or old Macaulay outcome is used to establish the image.
 
 The exact mod2 classification removes one possible obstruction at this target and nothing more.

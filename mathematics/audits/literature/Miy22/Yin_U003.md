@@ -77,7 +77,7 @@ Consequently, finite ranks for all $d$ commutators imply that the right residual
 By U002, $Z$ is recognizable and rational.
 
 This is the algebraic half of Proposition 3.9.
-Concluding that the original $a$ lies in bounded division closure still requires the analytic realization in [U004-U004](Yin_U004.md#miy22-u004).
+Concluding that the original $a$ lies in bounded division closure still requires the analytic realization in [U004](Yin_U004.md#miy22-u004).
 The coefficient-to-word map is not multiplicative.
 
 ## Closure Direction of the Bounded Theorem
@@ -115,6 +115,8 @@ This does not prove the corresponding theorem for a general operator tuple merel
 
 The universal word and closure calculations above were checked algebraically by two agents.
 A separate exact computation exercises finite word cases without truncating intermediate support.
+The native program and exact J locator for the historical 64,325-item check have not been located in the selected current computation index/program metadata.
+The recorded result and rerun scope remain historical evidence; reproducing them requires that native input, and no new run or claim that the original program never existed is made.
 Its evidence concerns those finite cases only; it does not prove the bounded analytic converse or the affiliated theorem.
 
 Use this unit to translate a finite-rank commutator hypothesis into a finite residual space, to prove the rational-to-finite-rank direction, and to normalize suffix/reversal and adjoint signs.
@@ -128,4 +130,4 @@ Source edition: Miy22, the retained 24-page published Journal of Functional Anal
 
 Passages: Lemmas 3.2-3.3, pp. 9-10; Proposition 3.9, pp. 16-17; Theorem 3.1 proof and Remarks 3.10-3.11, pp. 17-18.
 
-Inspection: 2026-09-08: universal word and closure identities reconstructed and checked by two agents. The separately linked exact computation covers only finite word cases; it proves neither the analytic converse nor the affiliated theorem. Bounded dual systems remain for the same semicircular tuple, and bounded formulas do not transfer silently to arbitrary affiliated operators.
+Inspection: 2026-09-08: universal word and closure identities reconstructed and checked by two agents. The recorded exact computation covers only finite word cases; it proves neither the analytic converse nor the affiliated theorem. Bounded dual systems remain for the same semicircular tuple, and bounded formulas do not transfer silently to arbitrary affiliated operators.

@@ -57,7 +57,7 @@ The substantive proof assessment also relies on the preserved whole-argument rev
 ## Fixed doubling resultants and low modes
 
 The three statement parts match the exact saturation calculation, actual radial split, continuous two-frequency control and actual trace error.
-The retained [2026-10-09T23:16 review](../../claims/Yin_C_G0001_v1.md#local-calculation-review) checked the whole elementary (1)--(10), including the even/odd root-squaring formulas, Salem pair count, Fourier signs, positivity, Abel integrability and trace constant.
+The retained [2026-10-09T15:16 review](../../claims/Yin_C_G0001_v1.md#local-calculation-review) checked the whole elementary (1)--(10), including the even/odd root-squaring formulas, Salem pair count, Fourier signs, positivity, Abel integrability and trace constant.
 Current extraction checking confirmed that the continuous density is never promoted to an algebraic conjugate set, and that conjectural (11) is explicitly excluded.
 The necessary floor is a lower bound on the exact mixed energy, not a contradiction.
 
@@ -76,7 +76,7 @@ The original separate review retains its disclosed relationship.
 ## Integral Stokes covers and presentation cost
 
 Parts A--E match the exact cover factorization, both current-entry adjacent congruences, the dense neutral family, literal five-dimensional plateau and the all-k ten-dimensional recurrence.
-The [2026-10-09T23:16 historical review](../../claims/Yin_C_G0002_v1.md#separately-organized-local-review) checked the complete direct (1)--(8).
+The [2026-10-09T15:16 historical review](../../claims/Yin_C_G0002_v1.md#separately-organized-local-review) checked the complete direct (1)--(8).
 The retained proof contains the full U and V_0 matrices, the congruence, H and recurrence; no sampled extrapolation is used in the unbounded claim.
 
 The author-side extraction read identified an omitted explicit zero-entry branch in the newly written Statement A.
@@ -98,7 +98,7 @@ Proved / self-reviewed is supported for the present extraction.
 ## Triangle-free rigidity and the sharp one-unit surgery
 
 Parts A--D match D12's complete (1)--(7).
-The [2026-10-09T23:32 historical review](../../claims/Yin_C_G0003_v1.md#separately-organized-local-review) covers those derivations.
+The [2026-10-09T15:32 historical review](../../claims/Yin_C_G0003_v1.md#separately-organized-local-review) covers those derivations.
 The current interface check matches C2's two energy formulas and current-entry mutations exactly.
 Disjoint neighbor supports in the triangle-free case give nonnegative differences; equality is a leaf relabeling with a sign change, allowing induction.
 The literal ten-edge witness supplies the lower barrier, and its three displayed moves attain it.
@@ -123,13 +123,13 @@ The general monic integer unit domain is retained for the damped object and coef
 The Salem identities retain sign twists, full radical multiplicities, cancellation before evaluation and the pole-free alternative.
 The growing-band conclusion restores the actual irreducible nontorsion minimal-polynomial domain, takes Abel limits separately per input, and retains all pair-specific damping and error terms.
 
-The retained [2026-10-09T23:51 review](../../claims/Yin_C_G0004_v1.md#combined-arithmetic-local-review) checked all D15 equations (1)--(16), including the guards prompted by reviewer interaction before the final historical revision.
+The retained [2026-10-09T15:51 review](../../claims/Yin_C_G0004_v1.md#combined-arithmetic-local-review) checked all D15 equations (1)--(16), including the guards prompted by reviewer interaction before the final historical revision.
 The present statement does not generalize that guarded scope.
 The coefficient implication still requires d->infinity and log H_coeff=o(sqrt(d)); the forced positive tail is not an upper bound or a Mahler gap.
 The fixed-seed radical family keeps constant total m.
 
 D15 originally invoked D11's mutable smoothing subsection.
-This actual dependency is now fixed as [the full original (3)--(5) calculation](../../claims/Yin_C_G0004_v1.md#damped-cyclotomic-norm-inequalities), with the [entire historical 23:25 review](../../claims/Yin_C_G0004_v1.md#local-review-of-the-self-contained-calculations) retained.
+This actual dependency is now fixed as [the full original (3)--(5) calculation](../../claims/Yin_C_G0004_v1.md#damped-cyclotomic-norm-inequalities), with the [entire historical 2026-10-09T15:25 review](../../claims/Yin_C_G0004_v1.md#local-review-of-the-self-contained-calculations) retained.
 The new statement explicitly defines c_r,T_r,E_N, so no omitted Mobius-inversion step is needed.
 The current check matches the rootwise trace error, integral cyclotomic norm and exact smoothing identity to their uses in D15.
 The original D11 domain remains unchanged in its appendix; D15's already reviewed rootwise extension supplies the broader monic-polynomial scope with explicit nonvanishing.

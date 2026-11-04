@@ -53,7 +53,8 @@ The [full window table](../../../claims/Yin_C_G0284_v1.md#golden-finite-computat
 The [nonblind noncontributor finding](../../../audits/reviews/Yin_R_G0156_v1.md#golden-all-window-complete-independent-review) records the complete proof review and earlier project roles.
 The original reviewer imported or reran no author program.
 Its full proof-review relationship is currently unknown because the initial shared context content/order is not established; the separate implementation and native execution facts remain as originally recorded.
-The current complete self check and nonwriting full maintenance replay are recorded at [R536](../../../audits/reviews/Yin_R_G0536_v1.md#current-complete-golden-fiber-finding), after the replay confirmed both native files and all three inputs unchanged.
+The earlier complete self check and nonwriting full maintenance replay are recorded at [R536](../../../audits/reviews/Yin_R_G0536_v1.md#current-complete-golden-fiber-finding), after that replay confirmed both native files and all three inputs unchanged.
+The current C284 decision selects [R538's complete golden-fiber finding](../../../audits/reviews/Yin_R_G0538_v1.md#isolated-complete-golden-fiber-finding); its actual source/native scope is separate from the earlier replay.
 Binary endpoint multiplicities and full autocorrelation reconstruct the counts, including96889246 unordered endpoint pairs; injective integer flattening loses no difference.
 All114072 words are checked against both their columns and backwards carry products.
 Independent exact Q(sqrt5) signs exhaust the29 states and reconstruct all transition matrices.

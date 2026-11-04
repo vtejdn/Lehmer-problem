@@ -194,4 +194,4 @@ Author timestamps and wall times remain author provenance; reviewer inspection c
 The whole written noncontributor review is in [D190's complete finding](#actual-overlap-profile-complete-independent-review).
 It separately checks all hypotheses, metric identities, old quartic b6 reuse, finite theorem assembly, partial residue classes, actual irreducibility/prefix/full-coordinate transfers and every full-tail cost.
 This complete finite result establishes no unrestricted C1, all-time neutral pressure, near-one sequence or Mahler gap.
-The default exclusive-create guard refuses an existing report; the directed cleanup below permits authorized reproduction after retaining the actual inspection and failure facts at their responsible material.
+The default exclusive-create guard refuses an existing report; the directed [J80 cleanup conditions](../../computations/programs/Yin_J_G0080/readme.md#programs-data-and-reproduction) permit authorized reproduction after retaining the actual inspection and failure facts at their responsible material.

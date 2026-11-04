@@ -10,9 +10,9 @@ This reviewer supplied no step, construction, parameter choice, constant or repa
 The review is nonblind: the continuing G0001 context, root's author-result summary and the requested obligation list were supplied before inspection.
 The reviewer has earlier related Galois-ratio and Salem-realization author experience, including C162 and C164, and is presently an author of the separate D37/C178/C180/C182 work.
 None of those author contributions is a mathematical premise newly re-proved in this review.
-The accepted L435/R589 and C179/R596 interfaces are used at their actual scopes rather than converted into independent upstream reviews by the present reader.
+The accepted L435/R443 and C179/R450 interfaces are used at their actual scopes rather than converted into independent upstream reviews by the present reader.
 
-The reviewer first enumerated obligations from C181's full statement and checked its complete argument, then read the declared fixed inputs and formed the initial findings before comparing the actual upstream R589/R596 accounts.
+The reviewer first enumerated obligations from C181's full statement and checked its complete argument, then read the declared fixed inputs and formed the initial findings before comparing the actual upstream R443/R450 accounts.
 There was no existing C181 review to reuse.
 The complete final source/input and decision tables were reread.
 The retained Sch14 publisher pages113--114 and The26b chapter pages334--335 were directly text-read for the exact quadratic-field classification and unramified normal-closure statement.
@@ -41,8 +41,8 @@ The later declarations identify simple-root and unramified-normal-closure interf
 | [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [C181 prior-coverage conclusions](../../claims/Yin_C_G0181_v1.md#prior-coverage-boundaries) | Absolute versus total height, exact chosen ADZ quotient, B-only old coverage, original-residue countercontrol and fixed-radical comparison; no unsupported whole-literature noncoverage claim. |
 | [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [C181 initial declarations](../../claims/Yin_C_G0181_v1.md#decision-initial) | Every selected statement, argument, dependency and support relation at the actual18:20 candidate version; no adoption by this review. |
 | [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [Sch14 accepted source](../literature/Sch14/Yin_U001.md#sch14-u001) | Exact actual field class, three quadratic fields and ramification; pro-2 realization is comparison context with its inherited classical-proof limit. |
-| [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [C179 local-degree interface](../../claims/Yin_C_G0179_v1.md#local-degree-source-interface) | Actual decomposition/inertia and intermediate-completion indices, including nonnormal intermediate fields; accepted R596 scope reused. |
-| [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [L435 complete powered transfer](../../ledger/Yin_L_G0435_v1.md#powered-lift-residue-transfer) | Exact own-ratio residue fraction and original-measure multiplier at p=2,f=k=1; accepted R589 scope reused. |
+| [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [C179 local-degree interface](../../claims/Yin_C_G0179_v1.md#local-degree-source-interface) | Actual decomposition/inertia and intermediate-completion indices, including nonnormal intermediate fields; accepted R450 scope reused. |
+| [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [L435 complete powered transfer](../../ledger/Yin_L_G0435_v1.md#powered-lift-residue-transfer) | Exact own-ratio residue fraction and original-measure multiplier at p=2,f=k=1; accepted R443 scope reused. |
 | [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [L205 all-input residue theorem](../../ledger/Yin_L_G0205_v1.md#bounded-residue-mass-near-one-escape) | Complete original multiplicities and no ramification/index condition; actual equation(14) supplies the old ratio criterion and B-only comparison. |
 | [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [Con26d monic Eisenstein statement](../literature/Con26d/Yin_U001.md#con26d-u001) | Exact monic translate P_n(X+1), all lower coefficients even and constant-2; no uninspected nonmonic extension. |
 | [Whole dyadic-compositum finding](#dyadic-composita-whole-independent-finding) | [ADZ14 source](../literature/ADZ14/Yin_U001.md#adz14-u001) | Accepted finite central-extension parameter convention and original inspection limits; no uniform bound after dropping the computed local degree. |
@@ -119,7 +119,7 @@ The complete conjugate fibers give linear reduction-factor mass1 for rho, with e
 The accepted old residue bound is then m(rho)>=log2/4, and division by3 gives m(alpha)>=log2/12.
 This independently checks the specialization of L435's denominator k^2(p-1)(p^f+1)p^(k+1), rather than treating a supplied class condition as automatic before the field construction.
 No normal-closure degree replaces the original degree in the height conversion.
-The accepted L435/R589 and L205/R104 scopes supply the complete old theorem; this review checks their new actual-field application.
+The accepted L435/R443 and L205/R104 scopes supply the complete old theorem; this review checks their new actual-field application.
 
 Composita of finitely many allowed A remain finite abelian and unramified at2.
 Composita of finitely many allowed B remain Galois of2-power degree and unramified at odd primes.

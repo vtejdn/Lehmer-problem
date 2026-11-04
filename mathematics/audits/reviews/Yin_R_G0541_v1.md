@@ -140,12 +140,15 @@ The author developed and checked the entire reconstruction, including the incorp
 <a id="historical-endpoint-coordinator-finding"></a>
 ## Original L101 coordinator contribution and whole check
 
-The actual Wiener coefficient estimate and strict posterior consequence are mathematical development of this target. The coordinator subsequent whole1–15 check is self-reviewed. The separately credited assess contribution does not invent another whole-check occurrence.
+The actual Wiener coefficient estimate and strict posterior consequence are mathematical development of this target.
+The coordinator subsequent whole1–15 check is self-reviewed.
+The separately credited assess contribution does not invent another whole-check occurrence.
 
 <a id="historical-endpoint-source-whole-finding"></a>
 ## Original L101 separate whole check
 
-The actual full1–15 check and finite cubic-premise reading are recorded, with no defect and no new source/computation. Initial substantive context is unestablished, so the old independent wording does not certify this whole finding; it remains unknown.
+The actual full1–15 check and finite cubic-premise reading are recorded, with no defect and no new source/computation.
+Initial substantive context is unestablished, so the old independent wording does not certify this whole finding; it remains unknown.
 
 <a id="historical-fourier-author-finding"></a>
 ## Original L102 author whole check
@@ -155,12 +158,15 @@ The assigned author derived and checked the full Gaussian/smoothing/KL target, i
 <a id="historical-fourier-coordinator-finding"></a>
 ## Original L102 coordinator contribution and whole check
 
-The fastest-stable spacing and unit-circle obstruction are concrete new mathematical ingredients contributed here. The subsequent whole Fourier proof check is self-reviewed; mere precision requests are not separately treated as substantive repair.
+The fastest-stable spacing and unit-circle obstruction are concrete new mathematical ingredients contributed here.
+The subsequent whole Fourier proof check is self-reviewed; mere precision requests are not separately treated as substantive repair.
 
 <a id="historical-fourier-assess-whole-finding"></a>
 ## Original L102 separate whole check
 
-The reviewer earlier contributed to the fixed accepted endpoint theorem E(m), but this finding checks its application/interface rather than re-auditing its own old proof. That earlier role does not by itself make the new Fourier proof self-reviewed. Sufficient initial substantive context for isolation is still absent, so the exact whole1–14 finding is unknown.
+The reviewer earlier contributed to the fixed accepted endpoint theorem E(m), but this finding checks its application/interface rather than re-auditing its own old proof.
+That earlier role does not by itself make the new Fourier proof self-reviewed.
+Sufficient initial substantive context for isolation is still absent, so the exact whole1–14 finding is unknown.
 
 <a id="historical-torus-author-finding"></a>
 ## Original L104 author whole check
@@ -170,17 +176,23 @@ The author reconstructed and checked the actual toral theorem, so this whole tar
 <a id="historical-torus-cap-input-finding"></a>
 ## Original L104 author limited companion-cap input check
 
-This is the explicitly reported limited companion8–12 input check by the L104 author, not authorship of the L103 cap or a full companion review. Neither a new-target contribution to that cap nor sufficient initial substantive context is recorded. The exact partial relationship is unknown; authorship of L104 alone does not decide it.
+This is the explicitly reported limited companion8–12 input check by the L104 author, not authorship of the L103 cap or a full companion review.
+Neither a new-target contribution to that cap nor sufficient initial substantive context is recorded.
+The exact partial relationship is unknown; authorship of L104 alone does not decide it.
 
 <a id="historical-torus-coordinator-finding"></a>
 ## Original L104 coordinator contribution and whole check
 
-The concrete same-automorphism convolution-power interpretation is a mathematical contribution to this target. Its subsequent whole1–8 check is self-review. The companion cap retains its own proof and actual contribution at R29.
+The concrete same-automorphism convolution-power interpretation is a mathematical contribution to this target.
+Its subsequent whole1–8 check is self-review.
+The companion cap retains its own proof and actual contribution at R29.
 
 <a id="historical-torus-assess-whole-finding"></a>
 ## Original L104 separate whole check
 
-The actual final whole1–8 check and reuse of the separately completed companion-cap review are recorded. No second cap-review occurrence is invented. Initial substantive context is not sufficiently established, so the old independent description alone does not certify this whole finding; it remains unknown.
+The actual final whole1–8 check and reuse of the separately completed companion-cap review are recorded.
+No second cap-review occurrence is invented.
+Initial substantive context is not sufficiently established, so the old independent description alone does not certify this whole finding; it remains unknown.
 
 ## Complete original L101 checking account
 

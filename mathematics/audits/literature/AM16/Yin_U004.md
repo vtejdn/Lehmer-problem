@@ -113,48 +113,9 @@ This is not a positive lower bound for s_min/d and does not assert s_min is asym
 No choice delta=delta_n tending to zero is justified without additional control of C_2(epsilon_delta).
 Neither existence of a zero-gap sequence nor attainment of these necessary bounds is asserted.
 
-### 4. The two excluded orbitals and their existing residue coverage
+### Fixed diagonal/inverse coverage classification
 
-The diagonal y=x and inverse y=x^(-1) cases have s=1, but x,y are multiplicatively dependent, so (1)--(8) do not apply to them.
-They occur for every Salem polynomial and cannot be silently included in the off-pair minimum.
-Their treatment retains the ACTUAL residue-Frobenius lift and positive matching density from C162.
-
-The needed independent existing result is [L_G205 Section 4](../../../ledger/Yin_L_G0205_v1.md#bounded-residue-mass-near-one-escape), selected in its [adopted scope](../../../ledger/Yin_L_G0205_v1.md#local-rigidity-near-one-mass-fixed-scope) and covered by the [complete R_G104 review](../../reviews/Yin_R_G0104_v1.md#minimal-frobenius-local-complete-independent-review).
-For any nontorsion monic irreducible unit polynomial P, let W_(p,F)(P) count its complete mod-p factor degree in factors of degree at most F, including each polynomial multiplicity.
-For a supplied fixed 0<gamma_0<=1, the condition W_(p,F)>=gamma_0 d gives
-
-    m>=gamma_0 log2/
-       [N_(p,F) p^(ceil(1/gamma_0)+1)],
-    N_(p,F)=lcm_(1<=f<=F)(p^f-1).                   (9)
-
-This is L205 equation (14), which needs no unramifiedness, distinct reductions, maximal power-basis order or bound on the normal-closure ramification.
-The original-label counting and repeated-reduction scope are explicitly checked in R104.
-The present account uses that accepted result; it performs no new independent review of L205.
-
-For C162's diagonal orbital, b matching roots obey sigma(z)=z, hence their nonzero reductions satisfy z_bar^p=z_bar and lie in F_p.
-Thus W_(p,1)>=b and a matching density b/d>=gamma_0 satisfies (9) with F=1.
-For the inverse orbital, b matching roots obey sigma(z)=z^(-1), hence z_bar^(p+1)=1 and z_bar^(p^2)=z_bar.
-Their reductions lie in F_(p^2), so W_(p,2)>=b and (9) applies with F=2, where N_(p,2)=p^2-1.
-Several roots may have the same reduction; W counts the original root labels with exactly their reduction multiplicities, so the inequalities still hold.
-This establishes the inverse case also at ramified primes, without borrowing the narrower unramified hypothesis from the earlier L160/L162 inverse-matching estimates.
-
-For each fixed p, L205 also says W_(p,2)/d tends to zero along any hypothetical total-zero-gap sequence.
-Consequently both diagonal and inverse matching densities tend to zero, uniformly over actual Frobenius lifts at that p, since both are bounded above by W_(p,2)/d.
-A fixed finite prime pool permits the same conclusion by taking the maximum of finitely many such bounds.
-
-### 5. Exact consequence for the C162 Salem domain
-
-For genuine Salem inputs, C162's chosen pair belongs to exactly one of the three preceding cases; membership in the same inverse pair is G-invariant.
-Suppose its prime belongs to a fixed finite set, its valency satisfies s<=S for fixed S, and its matching density satisfies gamma>=gamma_0>0.
-An off-pair orbit is already covered by (3), independently of the prime and gamma.
-A diagonal or inverse orbit is already covered by (9), with F=1 or 2.
-The minimum of (3) and the finitely many F=2 constants in (9) is therefore a uniform positive gap covering the ENTIRE stated bounded-parameter Salem class.
-
-Accordingly the bounded-valency C162 specialization supplies no new qualitative Salem gap coverage beyond the classical rank-two theorem and existing residue-mass result.
-Its explicit parameter dependence, local norm identities, signs and original-field return may still be useful and need not coincide numerically with these bounds.
-No comparison of unknown C_2(epsilon) with C162's explicit constants is asserted.
-This does not classify C162's full domain of arbitrary nontorsion algebraic integer units: the off-pair independence used above is specific to the Salem signature.
-The original unrestricted G0001 gap and possible methods using growing off-pair subdegrees remain unresolved.
-
-This bounded reuse check stops after the exhaustive Salem scope split.
-No further literature search, computation, source-proof review or new-theorem claim is needed for the stated classification.
+The distinct diagonal/inverse residue-mass argument and exhaustive C162 Salem case split are retained in [C483's unselected fixed supplement](../../../claims/Yin_C_G0483_v1.md#salem-diagonal-inverse-coverage).
+The general rank-two inequality and bounded-s coverage already have C483/L398's adequate fixed home; [C165](../../../claims/Yin_C_G0165_v1.md#off-pair-salem-ratio-proof) owns inverse-pair independence and the exact off-pair cost.
+The sublinear-power and logarithmic-ratio formulas above are their direct fixed-parameter algebraic consequences, with no new uniform-in-epsilon input or source-proof depth.
+C162/C165 retain their actual support selections; no source statement, project adoption or old review is broadened by this placement.

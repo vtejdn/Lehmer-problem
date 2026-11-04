@@ -4,6 +4,10 @@ author: Yin
 
 # Isolated review of four affine determinant and spectral modules
 
+The current fixed C_F0003 derivative/spectral proof is located and explicitly bound below.
+The former C_F0078--C_F0080 and C_F0073 proof homes named by the combined historical assignment are not located in the current retained F-family collection.
+Their retained review reconstructions preserve actual findings and limits but do not substitute for the original fixed arguments or supply new current Claim adoptions.
+
 New review act: 2026-10-23T00:16 UTC.
 Human record author: Yin.
 The reviewer is a separate agent outside substantive development of the four target proofs.

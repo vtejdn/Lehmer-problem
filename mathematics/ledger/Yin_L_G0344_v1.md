@@ -67,7 +67,6 @@ The already fixed [L339 complete norm and active-step argument](Yin_L_G0339_v1.m
 The new linear program uses the same elementary weak inequality already attributed to BV04 printed216, Eq.(5.2); no strong-duality, simplex convergence or numerical stability theorem is a premise.
 The actual tableau and rational reconstruction code from J79/fast-optimum.py was read before reuse.
 It is candidate discovery followed by exact verification, not an exactness claim for floating simplex.
-Initial operational reads used two nonexistent rule/profile paths; corrected reads supplied the actual rules and no mathematical evidence was inferred from those errors.
 
 Fix one actual monic irreducible nontorsion unit P of original degree d and a window N>d.
 Retain the same q and coefficient projection R of L339.

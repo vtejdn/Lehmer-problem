@@ -10,7 +10,7 @@ This page adds only the following reading; it supplies no whole-project source a
 ## Original principal-maximal-ideal and valuation attribution
 
 The [complete original Oct10 reading](Yin_U005.md#the26b-u005) retains official Tag00PD/Lemma10.119.7 and the unchanged ed88ff78/2026-07-14 chapter Lemma119.7 on printed/PDF pp285--286, statement/displayed-proof depth and uninspected ancestors.
-This occurrence remains distinct from U004's Sep11 HTML inspection and every later unit.
+This occurrence remains distinct from [U003's Sep11 HTML inspection](Yin_U003.md#the26b-u003) and every later unit.
 The [complete current local theorem](../../../claims/Yin_C_G0491_v1.md#minimal-frobenius-maximal-order) proves its component domain/maximality mechanism directly; the source supplies classical attribution without a new uninspected proof premise.
 This navigation performs no new HTML/PDF reading or source-proof audit.
 

@@ -12,7 +12,7 @@ The present reviewer supplied no proof step, construction, correction or repair.
 This arrangement is nonblind: shared G0001 context, the announced frozen scope and root's explicit review obligations were available before the actual text was examined.
 The reviewer read the complete statement Parts A--D, every PT1--PT21 step, all five input rows and the two-dependency/three-support declaration.
 The complete physical C201v1 theorem/proof and actual R488 were read for the unchanged Part A scope.
-The actual adopted C134 equation18, its source/conversion account and R488 Section5, and the actual C107 endpoint floor were read at their exact uses.
+The actual adopted C134 equation18, its source/conversion account and the original two-node finding retained in R798 Section5, and the actual C107 endpoint floor were read at their exact uses.
 The original C153v2 trace and scalar Mahler interfaces retain their accepted scope through v1/R488; the reviewer's unrelated C196/C197 contributions are not premises here.
 No new primary-source reading, source acquisition, mathematical program, numerical scan, coefficient calculation by software or formal verification was performed.
 Neither the candidate nor shared drafts, decisions or navigation were edited.
@@ -20,7 +20,7 @@ Neither the candidate nor shared drafts, decisions or navigation were edited.
 The actual shared initial context and frozen-scope arrangement are not specified sufficiently to establish isolation before the first mathematical judgment on the new PT proof.
 The complete fixed proof, obligations and accepted unchanged endpoint theorem are legitimate inputs; prior reviewer roles or unrelated author contributions do not themselves establish participation in the new two-point argument.
 The whole-v2 finding therefore has an unknown relationship, preserving its original date, complete checks and exact bindings without a new review.
-R488 and R488 also have unknown initial context at their exact predecessor and degree/source scopes, without changing the old mathematics or source-inspection limits.
+R488 and the original two-node finding retained in R798 also have unknown initial context at their exact predecessor and degree/source scopes, without changing the old mathematics or source-inspection limits.
 
 ## Review relationships
 
@@ -139,7 +139,7 @@ This count is used only in that range, not for an empty or one-term small-degree
 For every degree, the old integer endpoint identity gives x>4^(-(r-1)).
 Thus any hypothetical m->0 sequence has d->infinity and eventually enters the required large-degree range; bounded degrees cannot be silently retained as exceptions.
 
-The actual adopted C134 equation18 and the source-specific R488 Section5 supply m>=1/[2400(log d)^3] for d>=exp(exp1).
+The actual adopted C134 equation18 and the source-specific original two-node finding retained in R798 Section5 supply m>=1/[2400(log d)^3] for d>=exp(exp1).
 The reported Smy08 equation is for multiplicative measure M>1+(1/1200)(log log d/log d)^3.
 At this threshold log log d>=1, and log(1+y)>=y/2 for the smaller y=1/[1200(log d)^3]<=1 gives exactly the safe TOTAL-m bound used here.
 The original lambda is a nonzero nontorsion algebraic integer of degree d, so the source domain matches.

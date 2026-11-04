@@ -8,7 +8,7 @@ Root proposed the full two-parity quotient, exact period reduction and condition
 The same_trace contributor checked those interfaces, derived the complete finite image certificate and its separate arithmetic verification, and proved the original multiplicity-twelve exclusion.
 Both are mathematical contributors; both native programs are author work, not independent agent review.
 The [active Task](../tasks/Yin_T_G0001_v1.md#decision-all-strategies-resume-2026-10-23) authorizes this bounded continuation.
-Focused reuse inspected C636's adopted complete complement/full formal-gate theorem, C608/C609's complete trace identities and C643v2/J126's earlier, smaller quotient.
+Focused reuse inspected C636's adopted complete complement/full formal-gate theorem, C608/C609's complete trace identities and C621v2/J126's earlier, smaller quotient.
 The latter quotient is comparison context, not evidence for this new full image.
 The [D1 question](../drafts/Yin_D_G0001.md#a12-full-jet-support-question) is development provenance, not a logical input.
 The new statement is initially open for fresh isolated whole mathematical and native review.

@@ -128,7 +128,15 @@ A second primary publisher record confirms J.W.McLean and H.J.Woerdeman, *Spectr
 The author's Drexel full-text link was located but could not be fetched (web timeout/local DNS11001).
 No claim to have inspected either complete proof is made.
 The self-contained argument(1)--(7) proves the exact local scalar result independently of those unchecked theorem bodies.
-Further source-location verification is explicitly outstanding before final source organization.
+<a id="verified-maximum-gram-attribution"></a>
+On 2026-11-03, the maintenance agent directly text-read the author-uploaded [MW02 paper](https://www.researchgate.net/publication/2459893_Spectral_Factorizations_and_Sums_of_Squares_Representations_via_Semidefinite_Programming), Section 2, Proposition 2.3 and the following spectral-factor paragraph and Algorithm 1.
+Proposition 2.3 maximizes trace F_00 over positive semidefinite block Gram matrices with prescribed diagonal sums, giving rank F=rank F_00<=rank Q_0.
+For scalar coefficients this is precisely maximization of the first Gram entry, with a rank-one optimizer for nonzero input.
+The following paragraph and Algorithm 1 identify the maximizing construction with spectral factorization.
+This verifies an adequate primary attribution alternative; Dumitrescu's indexed Theorem 2.15 remains an uninspected lead and is not needed for that attribution.
+The author-uploaded text is not asserted identical to the publisher rendering; its displayed page 4 contains the Proposition 2.3 proof, and Algorithm 1 follows in Section 2.
+The reading was text-only, without a retained PDF, rendered-page check, complete paper-proof audit or review of its cited factorization foundations.
+The local all-degenerate-case value and uniqueness argument above remains the mathematical proof; source attribution adds no new premise or solver guarantee.
 
 <a id="scalar-capacity-dual"></a>
 ## 3. Finite Toeplitz dual, exact equality and its attainment boundary

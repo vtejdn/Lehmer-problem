@@ -39,7 +39,7 @@ The author reread [L168](../ledger/Yin_L_G0168_v1.md#bounded-power-degree-escape
 These are actual polynomial statements, not the formal capacity realization allowed in L159's separate finite-field construction.
 
 At the initial source-status check of this round, [C114](Yin_C_G0114_v1.md#statement) still selected its initial proof-draft/under-review decision, and Sections3–4 were developed with that explicitly pending dependency.
-Before this author's freeze its actual selector was rechecked: it now selects [the whole-reviewed decision](Yin_C_G0114_v1.md#decision-whole-reviewed-2026-10-15), adopting the separate independent R469 review.
+Before this author's freeze its actual selector was rechecked: it now selects [the whole-reviewed decision](Yin_C_G0114_v1.md#decision-whole-reviewed-2026-10-15), adopting the separate independent [R800 original heavy-prime-positive](../audits/reviews/Yin_R_G0800_v1.md#heavy-prime-positive-whole-independent-finding) review.
 Thus Sections3–4 use that exact adopted finite-core theorem.
 The author's prior contribution to C114 is disclosed and does not supply independent evidence for either C114 or the present deductions.
 Sections1–2 need only the already adopted C101/L74/L159/L168 inputs.
@@ -395,7 +395,7 @@ The recorded review description was `under review`.
 | --- | --- |
 | date | 2026-10-14T21:02 |
 | status | proved |
-| reason | Adopt R471 whole independent review of actual A--D and all exact source/project interfaces. The full prime-size factor pays scale or growing-core costs on actual positive-density inputs; uniform near-one exclusion at polynomially large good primes and the eligible intermediate-collision condition hold. No automatic coverage or contradiction of the remaining collision pattern is inferred. |
+| reason | Adopt [R800 original actual-prime-budget](../audits/reviews/Yin_R_G0800_v1.md#actual-prime-budget-whole-independent-finding) whole independent review of actual A--D and all exact source/project interfaces. The full prime-size factor pays scale or growing-core costs on actual positive-density inputs; uniform near-one exclusion at polynomially large good primes and the eligible intermediate-collision condition hold. No automatic coverage or contradiction of the remaining collision pattern is inferred. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

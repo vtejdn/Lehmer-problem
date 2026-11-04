@@ -122,7 +122,7 @@ No current-length positive-mass uniformly bounded flow, actual mean branch, new 
 | dependency | [Original full zero-middle mass](Yin_C_G0554_v1.md#zero-middle-complete-probability) | Complete event mass at least 1/16 at each n>=5, including all outside representations and its full original normalizer; no sign-path membership imported. |
 | support | [Existing path-Cauchy mechanism](Yin_C_G0514_v2.md#partial-path-weighted-carry-target) | Standard elementary weighted path-Cauchy regrouping and true original conductance accounting, specialized here to sign pairs; no existing load bound transferred. |
 | support | [Paid original fixed-hub comparison](Yin_C_G0519_v1.md#seed-path-load-and-mass) | Reuse of the original mass versus path-load distinction; no fixed-hub mass bound is substituted for the selected word mass. |
-| review | [Whole isolated independent finding](../audits/reviews/Yin_R_G0805_v2.md#whole-sign-flow-v2-finding) | Entire exact current statement, complete argument and every selected input at the explicit binding scopes; actual isolated independent review and inherited source/input limits remain distinct. |
+| review | [Whole finding](../audits/reviews/Yin_R_G0805_v2.md#whole-sign-flow-v2-finding) | Entire exact current statement, complete argument and every selected input at the explicit binding scopes; actual self-reviewed finding and inherited source/input limits remain distinct. |
 
 ## Complete author argument
 

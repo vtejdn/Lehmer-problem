@@ -43,4 +43,4 @@ The following original relationship wording retains its historical claim, qualif
 The assigned agent derived and checked the finite model, exact posterior ratios, direct binomial normalization, strict relative-entropy comparison, small-parameter expansion and diagonal finite-model construction.
 The coordinating agent independently read and checked the complete written proof (1)--(9), including parity, binomial normalization, compact-window posterior ratios, strict Gaussian relative entropy, the global Taylor remainder and the diagonal finite-model selection.
 That complete independent review passed without a mathematical correction; the coordinator had not contributed this proof before reviewing it.
-No computation, source acquisition, fixed-material edit or identifier allocation was performed.
+No computation or source acquisition was performed.

@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: cycle-to-tree conversion and positive-half integral realization
 
 Recorded 2026-10-22T19:54 after the maintaining Yin agent read the actual published OPEN C578v1/C579v1 complete Statements and ENTIRE Arguments.
-The same agent read the complete original L303/L307, whole R202/R206, J76 original execution and complete computational finding, the scoped Gro02 source home and the exact accepted C2/C441v2/C492/C590/C402/C462v2 interfaces.
+The same agent read the complete original L303/L307, whole original written/computational and positive-half-lattice findings in R784, J76 original execution and complete computational finding, the scoped Gro02 source home and the exact accepted C2/C437v2/C488/C573/C399/C458v2 interfaces.
 This is SELF with the original proof and review context available.
 No isolated review, source-PDF reading, acquisition, new research proof or native/program execution occurred.
 
@@ -54,7 +54,7 @@ F has no common allowed root; irreducibility of G excludes a common interior roo
 The constants8,26 and exponents n-1 in both strict degree bounds follow from the complete products.
 Full measure is at least log beta9>0, equal there exactly at n9 and increasing to log theta; no zero-measure limit is inferred.
 
-C590 supplies the accepted complete companion floor at ALL integral proper ranks/heights with positive original measure.
+C573 supplies the accepted complete companion floor at ALL integral proper ranks/heights with positive original measure.
 For the exact FULL Lehmer-times-monic-cyclotomic target this gives cover>=2log beta9, attained by W9.
 The irreducible degree10 target must divide one connected support-component determinant, giving at least10 vertices and9 integral nonzero edges in it.
 This proves the independent rank/energy minima and their doubled literal-cover costs, including arbitrary neutral stabilization.
@@ -62,7 +62,7 @@ No n>9 optimum, smaller arbitrary scalar realization or unrestricted original-me
 
 The entire nine-input J76 scope is retained:45 complete arrays,612 pencils, full Q/inverse/congruence and every boundary/expense.
 The author2026-10-10T07:13 run and actual runtime/cap remain historical, not replayed.
-The original whole computational finding has been fully retained in R202, with its separate act minute/runtime unrecorded.
+The original whole computational finding has been fully retained in [R784](Yin_R_G0784_v1.md#plastic-tree-complete-computational-review), with its separate act minute/runtime unrecorded.
 McM02 attribution and canonical-action theorem scopes, Hir06 root mechanism and original authorship stay exact.
 The unchanged written all-index proof supplies the theorem; finite evidence is not extrapolated.
 
@@ -108,7 +108,7 @@ Zero deficits alone bound neither C' nor its expense.
 
 The selected Gro02 preprint passages retain their actual statement/partial-proof reading and pagination boundaries.
 No full classification, arithmetic example, ideal-class condition or new existence premise is adopted.
-The whole original R206 terminology clarification changes only the name for absence of norm-one vectors, not a formula or hypothesis.
+The original [R784 positive-half-lattice finding](Yin_R_G0784_v1.md#positive-half-lattice-complete-independent-review) terminology clarification changes only the name for absence of norm-one vectors, not a formula or hypothesis.
 No native computation or program is part of this proof-only branch.
 
 Finding: the whole C579 Statement and complete Argument are proved under current whole SELF, with every adapted/global/positive/indefinite distinction and scalar countercontrol retained.
@@ -116,9 +116,9 @@ No arbitrary scalar coverage, positive near-one floor or unrestricted gap is est
 
 ## Historical relationships and remaining independent scope
 
-Original R202 written2026-10-10T07:35 and computational2026-10-10 round findings retain their ENTIRE original L303/J76 inputs.
+The original [R784 written](Yin_R_G0784_v1.md#plastic-tree-complete-written-review) and [computational](Yin_R_G0784_v1.md#plastic-tree-complete-computational-review) acts, written 2026-10-10T07:35 and computational2026-10-10 round findings retain their ENTIRE original L303/J76 inputs.
 Their nonblind/noncontributor/different-method descriptions do not establish the actual additional initial target context and order.
 Both are UNKNOWN; the computational act minute/runtime are unrecorded.
-Original R206 whole2026-10-10T08:35 has shared route context with additional initial target-content/order unestablished and remains UNKNOWN.
+The original [R784 positive-half-lattice finding](Yin_R_G0784_v1.md#positive-half-lattice-complete-independent-review), whole 2026-10-10T08:35 has shared route context with additional initial target-content/order unestablished and remains UNKNOWN.
 Its legacy16:33:17 refreeze has no established offset in the retained author input and is not backfilled as UTC.
 This current whole SELF supplies no M04 isolated replacement of any of those original scopes.

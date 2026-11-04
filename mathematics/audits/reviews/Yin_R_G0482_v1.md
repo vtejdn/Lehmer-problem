@@ -16,14 +16,14 @@ The reviewer contributed to C188, C191v2 and earlier C196 arithmetic and quotien
 Their unchanged inputs are reused through actual R459, R468 and R473 evidence, not independently re-proved by their contributor.
 The reviewer independently reviewed C196v4's new joint budget in R478 and C198 in R480; those were review roles, not authorship of the new arguments.
 Those findings supply their precise fixed inputs and do not prospectively review K, AW or the changed norm-only NF application.
-The actual C140 proof and R495, the complete needed L229 angular interface and the BS13/Smy08 source units were read at their stated scopes.
+The actual C140 proof and the original C140 finding retained in R801, the complete needed L229 angular interface and the BS13/Smy08 source units were read at their stated scopes.
 No original-source proof boundary is upgraded.
 The physical predecessors and their decisions remain unchanged.
 
 The actual shared initial context and freeze account are not specified sufficiently to establish isolation before the first mathematical judgment on the complete K/AW/NF assembly.
 The announced conclusions, fixed proof and accepted upstream interfaces are legitimate inputs; prior author contributions to those fixed interfaces and the reviewer's own earlier consumer findings are not themselves contributions to this successor proof.
 The whole-v5 consumer/extraction finding therefore has an unknown relationship, with its original date, complete checks and exact bindings retained and no new review performed.
-The reused R459/R468/R473/R478/R480/R495 findings likewise have unknown initial context at their own fixed scopes, rather than current independent certification.
+The reused R459/R468/R473/R478/R480 findings and the [original C140 finding retained in R801](Yin_R_G0801_v1.md#normalized-sparse-cost-whole-independent-finding) likewise have unknown initial context at their own fixed scopes, rather than current independent certification.
 
 ## Review relationships
 
@@ -45,7 +45,7 @@ The reused R459/R468/R473/R478/R480/R495 findings likewise have unknown initial 
 | [Whole all-width finding](#all-width-canonical-cost-whole-finding) | [C191v2 arithmetic theorem](../../claims/Yin_C_G0191_v2.md#statement) | dependency: All-input Norm_K Q_s>=2^d and full-residual abs(Norm_F g)>=2^(6r/11), retaining all conjugates and conditional domains through R468. |
 | [Whole all-width finding](#all-width-canonical-cost-whole-finding) | [C188 primitive field](../../claims/Yin_C_G0188_v1.md#statement) | dependency: Only H=Q(a,b,c)=Q(a), not F=H or H=Q(g), on the complete residual domain, through R459. |
 | [Whole all-width finding](#all-width-canonical-cost-whole-finding) | [C198 trace-order theorem](../../claims/Yin_C_G0198_v1.md#statement) | dependency: Full actual residual implies t_2>=ceil(r/11) and v_2(J)>=t_2, for the same order, without a converse or upper index bound. |
-| [Whole all-width finding](#all-width-canonical-cost-whole-finding) | [C140 analytic proof](../../claims/Yin_C_G0140_v1.md#argument) | dependency: Earlier two-case finite-log mechanism at its printed integral-value scope; the changed norm-only theorem is completely checked here, not presumed covered by R495. |
+| [Whole all-width finding](#all-width-canonical-cost-whole-finding) | [C140 analytic proof](../../claims/Yin_C_G0140_v1.md#argument) | dependency: Earlier two-case finite-log mechanism at its printed integral-value scope; the changed norm-only theorem is completely checked here, not presumed covered by the original C140 finding retained in R801. |
 | [Whole all-width finding](#all-width-canonical-cost-whole-finding) | [L229 angular interface](../../ledger/Yin_L_G0229_v1.md#uniform-powered-angular-coherence) | dependency: Exact c_ang,h_0,b,epsilon and monotonicity, frequencies up to M_0 D_u and all original powered-field repetitions, with accepted Pri11/Dim19 limits. |
 | [Whole all-width finding](#all-width-canonical-cost-whole-finding) | [BS13-U001](../literature/BS13/Yin_U001.md#bs13-u001) | dependency: Pure-imaginary measurable-set theorem, ordinary supremum, actual term count and unspecified absolute A>=1; no original-proof upgrade. |
 | [Whole all-width finding](#all-width-canonical-cost-whole-finding) | [Smy08-U001](../literature/Smy08/Yin_U001.md#smy08-u001) | dependency: Scalar Jensen, products, constants, circle zeros, coefficient bounds and Kronecker products with multiplicities. |

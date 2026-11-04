@@ -16,7 +16,7 @@ No mathematical target was edited.
 No numerical solver, mathematical program, formal proof or independent native computation was run.
 The arrangement supplied author explanations of the new C120 mathematics in shared context, so this whole finding is self-reviewed.
 The older C103 contribution and prior reviewer roles do not themselves decide that relationship.
-C117's original independent designation is historical: its current aggregate field is retired and selected R472 is now self-reviewed, with adopted mathematical scope unchanged.
+C117's original independent designation is historical: its current aggregate field is retired and selected R349 is now self-reviewed, with adopted mathematical scope unchanged.
 Original dates, exact inputs, mathematical checks and binding scopes remain unchanged, with no new review performed.
 
 ## Review relationships

@@ -10,7 +10,7 @@ The exact target is fixed [C792 v1](../../claims/Yin_C_G0792_v1.md#statement), i
 The whole reviewer was outside substantive development and supplied no repair or new construction.
 It read the entire fixed C792 first, followed by the directly needed fixed input passages, without D47, author derivation dialogue, proposing-agent explanations, persistent memory, new source evaluations or prior C792 conclusions.
 The fixed inputs' adoption metadata was visible.
-The reviewer retains its actual independent C774/C778/C781/C784/C830/C832 review background, reused only at unchanged input scope.
+The reviewer retains its actual independent C774/C778/C781/C784/C787/C789 review background, reused only at unchanged input scope.
 In particular [R1004](Yin_R_G1004_v1.md#whole-primitive-low-quarter-finding), [R1003](Yin_R_G1003_v1.md#whole-primitive-second-eight-finding), [R998](Yin_R_G0998_v1.md#whole-global-first-eight-finding) and [R994](Yin_R_G0994_v1.md#whole-integrated-height-one-finding) retain their exact earlier input coverage, not coverage of the new high image or transfer.
 No existing R supplied the whole C792 finding.
 
@@ -48,7 +48,7 @@ The bounded check is not represented as a whole HI4 review or an actual obstruct
 
 The theorem assumes an actual original height-one T with its own F8, selected-X4 and zero low quarter modulo phi^(4A).
 This supplies the integral canonical coefficient quarter and makes cancellation by phi^(4A) well defined with the residual precision phi^(3A).
-No seed existence is inferred from C832/C834 or from the earlier source gate.
+No seed existence is inferred from C789/C791 or from the earlier source gate.
 The C784 first-eight necessity gives the same actual k=Z_0 modulo phi^(4A), so k/H_0 is a square unit at the required precision.
 Omega is a square unit directly from its displayed powers.
 

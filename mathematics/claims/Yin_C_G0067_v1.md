@@ -211,7 +211,7 @@ The recorded review description was `under review`.
 | dependency | [C10 original common-window price](Yin_C_G0010_v2.md#direct-exact-covariance-window-inequality) | Only the actual-packet expense interface after common normalization and measurement of NEW union width, retaining all original roots and final copies; not a premise of matrix rigidity. |
 | support | [Original literal whole objection](../audits/reviews/Yin_R_G0287_v1.md#isolated-universal-original-literal-finding) | Entire original20:11 mathematical reconstruction and fixed negative type/encoding scope, retained rather than overwritten. |
 | support | [Corrected complete whole finding](../audits/reviews/Yin_R_G0288_v1.md#isolated-universal-corrected-whole-finding) | ENTIRE actual20:20 corrected original proof and interfaces only; this reviewer now contributes the new wrapper and cannot provide its independent actual-extraction verdict. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0290_v1.md#isolated-universal-actual-extraction-finding) | Entire actual statement, complete retained original body and precise direct interfaces independently inspected after allocation, preserving earlier review scopes and corrections. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0290_v1.md#isolated-universal-actual-extraction-finding) | Entire actual statement, complete retained original body and precise direct interfaces separately inspected after allocation, preserving earlier review scopes and corrections. Finding relationship: self-reviewed. |
 
 ## Registration and complete preservation
 
@@ -240,7 +240,7 @@ No mathematical program or source acquisition is planned.
 
 Adopted [C63](Yin_C_G0063_v1.md#statement) proves isolated coefficient rows control every rational quotient fraction, giving all-residue shell/income bounds in a fixed extra window under h>=1024(k+1).
 The complete C63 proof and [C65](Yin_C_G0065_v1.md#statement) short-row universal matrix argument have been read.
-C65 has now passed actual extraction R379 and awaits root's mechanical adoption; it is credited as the author antecedent, while all steps needed here will be reproved locally.
+C65 has now passed actual extraction R284 v1 and awaits root's mechanical adoption; it is credited as the author antecedent, while all steps needed here will be reproved locally.
 A bounded current screen at C53/C63/C65 found no universal matrix classification in a wider row window with a quantitative isolated-support hypothesis.
 This is not a novelty assertion.
 

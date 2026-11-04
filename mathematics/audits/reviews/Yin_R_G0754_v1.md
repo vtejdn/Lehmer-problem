@@ -5,7 +5,7 @@ author: Yin
 # Complete current SELF: actual anti columns, primitive orders and signed trace edges
 
 Recorded 2026-10-22T19:32 after the maintaining Yin agent read the actual published OPEN C571v1 full Statement and BOTH entire Arguments.
-The same agent organized full L296/L300, read R195/R199 and the actual C558/C587/C394/C244/C467 interfaces before this check.
+The same agent organized full L296/L300, read R195/R199 and the actual C545/C570/C391/C243/C463 interfaces before this check.
 The current whole finding is SELF with prior proof and review context available.
 No isolation, new research derivation, source PDF reading, acquisition or native/program execution is claimed.
 The unchanged original author whole self-review is retained separately below at its real2026-10-10T06:27 input/date.
@@ -34,15 +34,15 @@ Trace and projection idempotence give the selected minimum and the exact simulta
 Clearing the full rational column gives a primitive positive rational q, with denominator/content in the ACTUAL order.
 The complete signed resultant has q^d and every original p-adic depth retains v_p(q), even when negative.
 Neither a surviving dyadic floor nor a cheap determinant height is inferred.
-C587's original trace/projection mechanism is reused rather than claimed as new generic scalar existence.
+C570's original trace/projection mechanism is reused rather than claimed as new generic scalar existence.
 
 For EVERY nonzero rational row direction, the entire anti-kernel orthogonality removes the coefficient band d through2n of PF.
 It gives the full two-edge identity, formal reversal at d-1 and primitive/nonzero edge with true auxiliary monomial/leading degree.
 The positive sine weight and the full n-s test space force the stated sign changes even when Q has nonreal conjugates.
 All n>=s+r and smaller-window cases, degree drops, endpoints and exterior slots are included.
 The count bounds no root modulus or leading coefficient.
-The actual n=ceil(Cs) margin retains the full radial charge; C394 applies at every2k<=2n with actual powered-degree loss.
-C587's separate small-h domain is used exactly, yielding only the necessary coherence lower cost.
+The actual n=ceil(Cs) margin retains the full radial charge; C391 applies at every2k<=2n with actual powered-degree loss.
+C570's separate small-h domain is used exactly, yielding only the necessary coherence lower cost.
 No upper cost or same-exponent linear cyclic income is supplied.
 
 The unimodular initial block proves BOTH inclusion directions of the exact integral row lattice and equality of content.
@@ -51,10 +51,10 @@ Bezout primitivity proves content(adj(H)u) divides Delta.
 It makes L=Delta/gamma the EXACT additive order modulo H Z^s and the scale q=L/delta, which remains rational on general inputs.
 Every original p-adic factor after L is integral, so the full L floor is genuine and separately charged in the exact energy.
 delta^d divides the cyclic norm; L^d is not silently assigned to that different quantity.
-C394's uniform small-total-measure estimate makes all delta_k=1 simultaneously in degree-linear windows, while leaving L, Delta and coherence unpaid.
+C391's uniform small-total-measure estimate makes all delta_k=1 simultaneously in degree-linear windows, while leaving L, Delta and coherence unpaid.
 The denominator-only consequence was already present in the first chain and is not credited again.
 
-C244's ACTUAL integral direct sum gives the inversion-fixed ring B without maximal-order assumptions.
+C243's ACTUAL integral direct sum gives the inversion-fixed ring B without maximal-order assumptions.
 The forward edge map and its converse by monic division retain every formal coefficient band and include n=s.
 The maps are Z-linear inverse bijections with all contents preserved through unit multiplication, the integral basis and disjoint edge blocks.
 The full EDGE norm is the trace norm squared, positive and retaining every inverse-pair prime label.
@@ -65,7 +65,7 @@ No selected-column membership is claimed, and all original-conjugate evaluation 
 The actual quadratic control has every auxiliary root on the circle but full leading M(F_n)=r_n and negative full radial excess at EVERY n.
 Its edge has norm1 with leading M(A_n)=r_(n+1).
 The exact a3,n2,k2 control has delta3,L10,q10/3, signed resultant-500, energy20, M(F)3 and M(A)8.
-C467's actual odd-prime radicals preserve the residue-zero column and every full cost at fixed positive total measure; no larger-space minimum is inferred.
+C463's actual odd-prime radicals preserve the residue-zero column and every full cost at fixed positive total measure; no larger-space minimum is inferred.
 The separate prime torsion control excludes all zero columns, retains every4K coefficient, full norm, monomial degree and unit Mahler factorization.
 Its cheap positive surplus is at torsion measure zero and cannot invoke the separate nontorsion coherence theorem.
 

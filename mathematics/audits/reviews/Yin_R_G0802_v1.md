@@ -22,13 +22,18 @@ It accepts previously established inputs only at their checked interfaces and re
 It does not recursively audit the original proofs of every external theorem, establish new arithmetic coverage, inspect C138v2 as a new whole-review target, or resume G0001.
 No mathematical target, Task, E, native J program or existing review was edited.
 
+The initial C138 v1 view retained its author validation/completion summary, and the C143 v1 view retained its author checklist and no-defect conclusion.
+Those two findings are self-reviewed.
+C142 v2's retained minimum-counterexample, relation and fiber calculations are necessary proof content despite their checking heading; that section's heading alone supplies no reason to change its separately declared finding.
+Original independence wording in the retained narrative is historical for those affected findings; performed checks, input order, dates, verdicts and limits are preserved.
+
 ## Review relationships
 
 | Review | Relationship |
 | --- | --- |
-| [Historical C138v1 whole finding](#g0138v1-historical-isolated-finding) | independently reviewed |
+| [Historical C138v1 whole finding](#g0138v1-historical-isolated-finding) | self-reviewed |
 | [Complete C142v2 whole finding](#g0142v2-isolated-whole-finding) | independently reviewed |
-| [Complete C143v1 whole finding](#g0143v1-isolated-whole-finding) | independently reviewed |
+| [Complete C143v1 whole finding](#g0143v1-isolated-whole-finding) | self-reviewed |
 
 ## Review bindings
 

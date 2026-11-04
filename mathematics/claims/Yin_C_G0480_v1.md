@@ -5,8 +5,8 @@ author: Yin
 
 All original eight mathematical sections/equations1--19 and the full nine-row exact classification are retained.
 L269 remains the meaningful exploration, contribution/clarification/source account and original fixed review input; no research Task/E resumes.
-The [later complete comparison of original R697](../audits/reviews/Yin_R_G0697_v1.md#l269-and-r168) preserves its whole historical UNKNOWN, exact inputs/date/verdict/source/native/contribution limits and separate original author SELF.
-The unchanged checking account and earlier decision below record the actual2026-10-21T23:27 whole SELF and then-retained original input, distinct from the selected08:06 new whole independent adoption.
+The [later complete comparison of original R168](../audits/reviews/Yin_R_G0697_v1.md#l269-and-r168) preserves its whole historical UNKNOWN, exact inputs/date/verdict/source/native/contribution limits and separate original author SELF.
+The unchanged checking account and earlier decision below record the actual 2026-10-21T23:27 whole SELF and then-retained original input, distinct from the selected 2026-10-22T00:06 new whole independent adoption.
 
 ## Statement
 
@@ -419,7 +419,8 @@ Every full auxiliary leading coefficient/degree/monomial/exterior and neutral ro
 The original reviewer checker alone was replayed in its unchanged symbolic/energy<=12/a1,2,3,6 domain and original120-second cap, without importing or running the author producer.
 Its sole report write was intercepted for stdout comparison; it completed in0.7522517000033986seconds and every JSON field equals the retained report, with all five original program/readme/native files byte-identical across the replay.
 No new parameter/exponent/root search, output file, source passage/PDF/proof read, producer or Task/E execution occurred.
-The original author whole SELF completed2026-10-10T02:30; the source acquisition10:22 and original project review10:34 are distinct from unknown source-reading minutes.
+The original author whole SELF completed 2026-10-10T02:30 UTC and the original project review at 2026-10-10T02:34 UTC.
+The source-acquisition account retains the clock caption10:22 without an established timezone; it supplies neither a reconstructed UTC acquisition minute nor a source-reading minute.
 R168 reports topic/source coordination and a pre-freeze signed-trace-norm wording clarification without supplied derivations; these roles alone establish neither contribution to the mathematics nor a sufficiently known initial target context.
 Its ENTIRE original finding remains UNKNOWN with precise original bindings, date, verdict and unabridged body; current whole SELF is no fresh isolated review of that obligation.
 
@@ -452,7 +453,7 @@ Its ENTIRE original finding remains UNKNOWN with precise original bindings, date
 | --- | --- |
 | date | 2026-10-21T23:27 |
 | status | proved |
-| reason | Adopt after actual complete C480/R691 whole SELF check of every original Section1--8/equation1--19/nine-row proof, all-a actual sextic/order/exhibited rank-two group/primitive cycles/ALL integer exponents/full original signed resultant/individual local depths/continuous relaxation/all degree-root-leading-energy-Mahler/margin and negative/source/native limits. Exact original-domain reviewer-only replay matched every native field with all five files unchanged. R168 retains its ENTIRE original UNKNOWN scope and original author10:30 SELF; no fresh isolated coverage, source proof/PDF/new domain/producer or Task/E execution. |
+| reason | Adopt after actual complete C480/R691 whole SELF check of every original Section1--8/equation1--19/nine-row proof, all-a actual sextic/order/exhibited rank-two group/primitive cycles/ALL integer exponents/full original signed resultant/individual local depths/continuous relaxation/all degree-root-leading-energy-Mahler/margin and negative/source/native limits. Exact original-domain reviewer-only replay matched every native field with all five files unchanged. R168 retains its ENTIRE original UNKNOWN scope and original author 2026-10-10T02:30 SELF; no fresh isolated coverage, source proof/PDF/new domain/producer or Task/E execution. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

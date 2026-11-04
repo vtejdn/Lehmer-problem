@@ -69,7 +69,7 @@ For the [C482 degree-six input](Yin_C_G0478_v1.md#degree-six-principal-saturatio
 | Review | Target | Scope |
 | --- | --- | --- |
 | [Whole principal saturation finding](#c482-whole-independent-finding) | [Exact C478 Statement](../../claims/Yin_C_G0478_v1.md#statement) | Entire fixed degree-six irreducible Salem input/actual order/F4 quotient/all inverse pairs/full powered polynomial and signed resultants/explicit inverse/principal ideal/index/strict real and stable candidates/all neutral pairs/exact radius/chronological return/structural discovery attribution and every compact/inverse/cofactor/income/near-one/Task limitation. |
-| [Whole principal saturation finding](#c482-whole-independent-finding) | [Exact complete C478 Argument](../../claims/Yin_C_G0478_v1.md#argument) | Entire retained proof/equations1--5 and six-digit return, all necessary C435/C467v2/C243 interfaces and C473 quartic comparison, plus complete original author/source/nonexecution and separate C480/J40 certificate boundaries. |
+| [Whole principal saturation finding](#c482-whole-independent-finding) | [Exact complete C478 Argument](../../claims/Yin_C_G0478_v1.md#argument) | Entire retained proof/equations1--5 and six-digit return, all necessary C435/C467v2/C243 interfaces and C473 quartic comparison, plus complete original author/source/nonexecution and separate C476/J40 certificate boundaries. |
 | [Whole stationary information finding](#c483-whole-independent-finding) | [Exact C479 Statement](../../claims/Yin_C_G0479_v1.md#statement) | Every algebraic unit including torsion/actual original kernel/rooted admissible positive recurrent laws/full-word KL defect/finite Perron infimum/exact critical finite-mean attainment and uniqueness/full tilted family/variance and endpoint formulas/actual high-degree cyclotomic controls/classical attribution and all remaining arithmetic boundaries. |
 | [Whole stationary information finding](#c483-whole-independent-finding) | [Exact complete C479 Argument](../../claims/Yin_C_G0479_v1.md#argument) | Entire five sections/equations1--10/reuse and source paragraph, absolute integrability/occupation/finite exhaustion/critical prefix comparison/full support/exceptional zero row/finite and infinite critical derivatives/all limiting orders and source-version qualifications. |
 | [Whole rank-two sextic cost finding](#c484-whole-independent-finding) | [Exact C480 Statement](../../claims/Yin_C_G0480_v1.md#statement) | Every integer a>=1/actual irreducible sextic/order/exhibited independent units/three primitive classes/all signed exponents/every original root and local depth/uniform energy and complete Mahler costs/continuous relaxation/leading and actual-degree cases/entire norm-H minimum for a>=6/complete nine-row certificate/margins/source and negative boundaries. |
@@ -102,7 +102,7 @@ For each neutral pair the contribution is3-z_j^2.
 The full two-pair sum is zplus^2-1 in(3,4), proving the strict joint-radius inclusion.
 The chronological six-digit word contributes-beta^5-beta+1 and cancels beta^6a exactly; sign symmetry gives the return of-a.
 Structural discovery of the state/word is retained as reuse.
-These facts do not prove compact-slice completeness, hull coverage or termination; those remain the distinct C480/J40 obligations.
+These facts do not prove compact-slice completeness, hull coverage or termination; those remain the distinct C476/J40 obligations.
 No varying-input inverse/cofactor estimate, degree-linear income from the fixed short norms, near-one family or Mahler gap is concluded.
 
 <a id="c483-whole-independent-finding"></a>
@@ -194,7 +194,7 @@ No finite exponent box supplies the infinite-orbit estimate.
 
 The entire [Sha74-U001](../literature/Sha74/Yin_U001.md#sha74-u001) preserves the original16-page1974 publisher edition, printed1137--1139/PDF1--3 and printed1138 equations3--6 attribution/exhibited-unit reading.
 The prime-H condition before the fundamental-units assertion is not imported into an arbitrary-a whole-unit-group theorem.
-The initial403 responses, oversized compilation, successful10:22 acquisition and later printing-only encoding failure remain source-access facts at that U/registry scope.
+The initial403 responses, oversized compilation, successful acquisition with original10:22 clock caption of unrecorded timezone, and later printing-only encoding failure remain source-access facts at that U/registry scope.
 No new PDF passage, source proof, maximal-order/regulator/splitting/class-number theorem or novelty search was performed.
 The actual family has growing original measure and supplies no centered-column output, near-one coverage or unrestricted gap.
 
@@ -327,7 +327,7 @@ The current07:53/07:54 replays are new checking events and are not backdated as 
 
 ## Full comparison with the original and current review accounts
 
-Only after the initial independent findings, the agent read the entire original R99, R100, R168, R101 and R169 accounts, the entire current R833, R837, R691, R839 and R693 accounts, every remaining target author/check/source/negative section and all of the original L200, L201, L269, L202 and L270.
+Only after the initial independent findings, the agent read the entire original R99, R100, R168, R101 and R169 accounts, the entire current R686, R690, R691, R692 and R693 accounts, every remaining target author/check/source/negative section and all of the original L200, L201, L269, L202 and L270.
 Every still-useful checked claim, objection, limitation, source fact, native obligation and contribution distinction was compared with the whole findings above.
 The original findings report no required mathematical repair; this inspection also found no substantive defect within any exact selected whole scope.
 This agreement follows the independent reconstruction and finite verification, rather than serving as their initial premise.
@@ -368,7 +368,7 @@ It found no remaining mathematical or scope defect and supported restricted fixe
 The resultant_research author's whole check/freeze remains separately [SELF](Yin_R_G0691_v1.md#rank-two-sextic-original-author-finding) at2026-10-10T02:30.
 The coordinator supplied the broad question/topic/source coordination and pre-freeze wording clarification distinguishing sign-changing trace norm from unchanged full signed ORIGINAL RESULTANT; explicit order products/inverses replaced an imprecise constant-term-sign reference without changing a formula, derivation or executed certificate.
 Those roles do not by themselves establish target authorship or a sufficiently known initial context/order, and the entire original whole remains UNKNOWN.
-The separately recorded Sha74 acquisition10:22 is not a source-reading minute: the actual author/reviewer printed1137--1139/PDF1--3 reading, especially1138 equations3--6 and the prime-H/fundamental-unit restriction, is retained in [Sha74-U001](../literature/Sha74/Yin_U001.md#sha74-u001).
+The separately recorded Sha74 acquisition clock caption10:22 has no established timezone and is not a source-reading minute: the actual author/reviewer printed1137--1139/PDF1--3 reading, especially1138 equations3--6 and the prime-H/fundamental-unit restriction, is retained in [Sha74-U001](../literature/Sha74/Yin_U001.md#sha74-u001).
 The old J62 reviewer declared the unchanged symbolic/complete energy<=12/a=1,2,3,6 domain and120-second cap before execution, independently constructed norm matrices/permutation determinants/exact quadratic roots/full six-by-six resultants, then compared native results; the first run passed37 representatives/nine rows/four inputs with no failed run, repair or enlargement.
 The two original author runs, including the already declared root-isolation addition, remain distinct from that original reviewer run and the later current SELF/new07:53 replays.
 The [whole current finding](#c484-whole-independent-finding) preserves the actual irreducible sextic/order/exhibited rank-two group, all integer-exponent bounds/primitive classes/individual depths/full signed resultant, continuous-relaxation negative, all leading/root/Mahler/energy/short-vector/margin and finite-completeness results; finite native checks do not replace the infinite-exponent proof or claim a full unit group or near-one family.
@@ -403,7 +403,7 @@ Those runs and the later current SELF/new07:54 replays remain distinct events; t
 The [whole current finding](#c486-whole-independent-finding) covers both infinite odd-prime/all-dimension proofs, full derivative/determinant residue, all saved3-adic steps/singleQ2mod4 contradiction, every full polynomial/leading/rank/degree/height/energy/cost and all source/global negatives, without assigning an Archimedean cost to the limiting Z3 basis or claiming other classes/primes, rational/integer realization or optimized costs.
 The actual2026-10-10T02:37 orbit_research entries in S3/S6 record the coordinator's adoption after this old structural_research review; that old adoption/input remains distinct from the actual current C482 adoption of R697 at2026-10-22T00:06.
 
-The current whole R833/R837/R691/R839/R693 findings remain their actual SELF checks, with their own07:16/07:24/07:27/07:33/07:35 times, inputs, replay facts and limits.
+The current whole R686/R690/R691/R692/R693 findings remain their actual SELF checks, with their own07:16/07:24/07:27/07:33/07:35 times, inputs, replay facts and limits.
 R691 and R693 separately retain the original author SELF events at their actual precision.
 They are not retroactively relabelled as isolated inspections by this new review.
 The original source-reading minutes stay unknown; source acquisition, author freeze/check and original project-review completion remain distinct events.

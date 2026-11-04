@@ -138,7 +138,7 @@ The recorded review description was `under review`.
 | support | [Old word criterion](../ledger/Yin_L_G0380_v1.md#finite-word-exact-interpolation-criterion) | Reuse boundary: rational factorization supplies neither intermediate legality nor short cumulative expense. |
 | support | [Single positive-delay antecedent](Yin_C_G0072_v1.md#statement) | Motivation only, no pending premise; historical status in original body remains intact. |
 | support | [Original whole finding](../audits/reviews/Yin_R_G0297_v1.md#legal-delay-word-whole-independent-finding) | Entire actual21:48 proof only; no prospective wrapper review. |
-| review | [Actual extraction](../audits/reviews/Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) | ENTIRE actual A--D and retained original, all exact direct interfaces and preservation independently checked after registration; original R297 remains original-whole scope. |
+| review | [Actual extraction](../audits/reviews/Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) | ENTIRE actual A--D and retained original, all exact direct interfaces and preservation separately checked after registration; original R297 remains original-whole scope. Referenced finding relationship: unknown. |
 
 
 ### Decision sufficient-rational-delay-home
@@ -161,7 +161,7 @@ The recorded review description was `under review`.
 | support | [Exact support](Yin_C_G0441_v1.md#finite-word-exact-interpolation-criterion) | Reuse boundary: rational factorization supplies neither intermediate legality nor short cumulative expense. |
 | support | [Exact support](Yin_C_G0072_v1.md#statement) | Motivation only, no pending premise; historical status in original body remains intact. |
 | support | [Exact support](../audits/reviews/Yin_R_G0297_v1.md#legal-delay-word-whole-independent-finding) | Entire actual21:48 proof only; no prospective wrapper review. |
-| review | [Exact review](../audits/reviews/Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) | ENTIRE actual A--D and retained original, all exact direct interfaces and preservation independently checked after registration; original R297 remains original-whole scope. |
+| review | [Exact review](../audits/reviews/Yin_R_G0794_v2.md#c74-legal-delay-word-actual-extraction-finding) | ENTIRE actual A--D and retained original, all exact direct interfaces and preservation separately checked after registration; original R297 remains original-whole scope. Referenced finding relationship: unknown. |
 
 
 ### Decision independent-current-whole-review-20261022

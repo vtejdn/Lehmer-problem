@@ -204,7 +204,7 @@ The current [R570 phase finding](Yin_R_G0570_v1.md#current-phase-linear-window-f
 Their mathematical conclusions agree with this review, while their stated inherited context remains their own relationship boundary.
 This review was not obtained by promoting those self-review labels or by relying on their PASS text.
 
-The [initial C355v1 premise finding](Yin_R_G0570_v1.md#initial-linear-window-statement-finding) remains useful negative evidence at its exact scope.
+The [initial C354v1 premise finding](Yin_R_G0570_v1.md#initial-linear-window-statement-finding) remains useful negative evidence at its exact scope.
 Direct comparison confirms that C354v1's new summary did not explicitly impose energy at most B on the collar-exclusion vector, although its complete proof already imposed that premise.
 C354v2 states it directly, and the complete retained argument is unchanged.
 This review covers the actual v2 statement and affected shared-energy chain; it does not retrofit an accepting review or historical adoption to the open v1.

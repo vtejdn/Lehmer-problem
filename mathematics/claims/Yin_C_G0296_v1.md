@@ -118,7 +118,7 @@ Write V_N for its d-by-N matrix of power remainders, Pi_N=V_N^T(V_NV_N^T)^(-1)V_
 Thus a_0^(N)=l_N is the endpoint leverage.
 The reversal is part of the definition, not a change to the observed binary fibers.
 
-We reuse the exact finite posterior and Gram identities in [C G0288](Yin_C_G0287_v1.md#endpoint-gram-mahler-entropy), the fourth-moment function in [C G0291](Yin_C_G0290_v1.md#fourth-posterior-moment), and the finite cubic projection calculation in [C G0292](Yin_C_G0291_v1.md#cubic-orthogonal-posterior-certificate).
+We reuse the exact finite posterior and Gram identities in [C287](Yin_C_G0287_v1.md#endpoint-gram-mahler-entropy), the fourth-moment function in [C290](Yin_C_G0290_v1.md#fourth-posterior-moment), and the finite cubic projection calculation in [C291](Yin_C_G0291_v1.md#cubic-orthogonal-posterior-certificate).
 The limiting row is proved here, including its unit-circle boundary case.
 
 <a id="endpoint-row-hardy-closure"></a>

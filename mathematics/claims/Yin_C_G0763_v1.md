@@ -9,7 +9,7 @@ Provenance: project deduction under the unchanged [G0001 original contract](../t
 Root proposed the true modulo4 quotient lemma and the subsequent necessary multiplicity and valuation conditions.
 The characteristic_zero_bridge agent checked every quotient/representative step, local root/place evaluation, strict endpoint and parity branch, and derived the final actual b-evaluation.
 Root read the entire saved FM1--FM15 argument, including the generic lemma and all source/remaining-scope boundaries.
-Both agents are substantive contributors; fresh isolated whole review and separate adoption remain outstanding.
+Both agents are substantive contributors; fresh isolated whole review and separate adoption were still outstanding at author registration.
 No native coefficient scan, disposable experiment, Hensel theorem, new source reading or assumed ramification index is a premise.
 The complete proof is fixed below, without a D proof dependency.
 
@@ -389,7 +389,7 @@ No disposable experimental trial, native computation, characteristic-zero identi
 | --- | --- |
 | date | 2026-10-25T23:16 |
 | status | open |
-| reason | Register the complete FM1--FM15 author theorem after root read the entire genuine modulo4 quotient lemma, actual canonical application, same-binary cofactor model, strict local bounds, forced valuation tie, exact second-residual multiplicities and separate parity branches. Every remaining nonzero binary G component of a fully cyclotomic F4/X2 input must satisfy the displayed arithmetic constraints at every irreducible component of its complete odd-order trace factor, with original degree and multiplicities retained. Root and characteristic_zero_bridge are contributors, not independent reviewers; fresh isolated whole review and separate adoption remain outstanding. These are necessary conditions only: no leading-unit cancellation, realizable profile, nonzero-G example, fifteen-domain exclusion or unrestricted Task completion is asserted. |
+| reason | Register the complete FM1--FM15 author theorem after root read the entire genuine modulo4 quotient lemma, actual canonical application, same-binary cofactor model, strict local bounds, forced valuation tie, exact second-residual multiplicities and separate parity branches. Every remaining nonzero binary G component of a fully cyclotomic F4/X2 input must satisfy the displayed arithmetic constraints at every irreducible component of its complete odd-order trace factor, with original degree and multiplicities retained. Root and characteristic_zero_bridge are contributors, not independent reviewers; fresh isolated whole review and separate adoption were still outstanding at author registration. These are necessary conditions only: no leading-unit cancellation, realizable profile, nonzero-G example, fifteen-domain exclusion or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

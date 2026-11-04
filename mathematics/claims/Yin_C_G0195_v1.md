@@ -405,7 +405,7 @@ No uniform such comparison, original near-one sequence, all-parameter failure of
 | support | [Actual meromorphic extraction review](../audits/reviews/Yin_R_G0788_v1.md#c36-rational-completion-extraction-finding) | Exact C36 proof and source/pole-sign scope. |
 | support | [Independent finite control review](../audits/reviews/Yin_R_G0377_v1.md#two-input-component-finding) | Existing complete J99 numerical and exact-input scope; no new independent computation is claimed. |
 | support | [Inputs and remaining boundary](#exact-inputs) | Nine exact input rows, shared author relationships, no new source/program and unresolved full rational transfer. |
-| review | [Whole independent rational-regularizer finding](../audits/reviews/Yin_R_G0471_v1.md#rational-trace-regularizer-whole-independent-finding) | Entire actual RR1--RR16 proof, all nine inputs, exact degrees/scalars/resultants, finite error, complete pole multiplicities and cancellation exceptions, fixed-input limits and Fourier scope; noncontributor review with no mathematical repair. |
+| review | [Whole rational-regularizer finding with unknown relationship](../audits/reviews/Yin_R_G0471_v1.md#rational-trace-regularizer-whole-independent-finding) | Entire actual RR1--RR16 proof, all nine inputs, exact degrees/scalars/resultants, finite error, complete pole multiplicities and cancellation exceptions, fixed-input limits and Fourier scope; noncontributor review with no mathematical repair. |
 
 ## Historical assessments
 

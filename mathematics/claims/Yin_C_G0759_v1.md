@@ -6,11 +6,11 @@ author: Yin
 # Complete-source lower-half-ratio height-one families and fixed-flip Mahler bounds
 
 Human author Yin.
-This complete fixed OPEN author candidate requires fresh independent whole review and separate adoption.
+At author registration, this complete fixed candidate was OPEN pending fresh independent whole review and separate adoption.
 Root proposed the coupled padding and outer indices, the two active support blocks and adjacent reflection mask, and the optional complete-resultant certificate test.
 Salem_completion checked their actual integer gcds, complete-source preservation, explicit large-parameter threshold, support positions, genuine canonical sign map and exact counts, and derived the constants and shift used below.
 The starting source is [adopted C753](Yin_C_G0753_v1.md#decision-whole-reviewed-2026-10-25); the complete-row and low-X mechanisms are reused from [C751](Yin_C_G0751_v1.md#decision-whole-reviewed-2026-10-25) and [C755](Yin_C_G0755_v1.md#decision-whole-reviewed-2026-10-25), with every changed parameter checked below.
-The masks use the actual [C747/C747 local carry](Yin_C_G0747_v1.md#decision-whole-reviewed-2026-10-25), and the concluding single-resultant comparison uses [adopted C757](Yin_C_G0757_v1.md#decision-whole-reviewed-2026-10-25).
+The masks use the actual [C740/C747 local carry](Yin_C_G0747_v1.md#decision-whole-reviewed-2026-10-25), and the concluding single-resultant comparison uses [adopted C757](Yin_C_G0757_v1.md#decision-whole-reviewed-2026-10-25).
 No complete-quotient period, unrestricted trace variable, native computation or new external source result is used.
 
 Root read the entire saved LB1--LB9, including every actual source, sign, cost, resultant and integer-support argument.
@@ -575,7 +575,7 @@ The full kernel has no fixed flip-budget restriction, so LB9 does not assert a g
 | --- | --- |
 | date | 2026-10-25T22:42 |
 | status | open |
-| reason | Register the complete LB1--LB9 author theorem after root read the entire saved proof and source interfaces. A fixed complete C753 source is extended by explicit coupled invisible rows whose true gcds also separate the outer factor from every old primary, preserving the complete canonical source and original gap. An exact threshold locates two adjacent reflection pairs and a separate low-X support period, producing a nonzero even coprime height1 mask and nonempty actual old-X/added-modulus sign fibers with exact k_s-5 counts as a/d tends to1/2. All degrees, maximal powers and raised multiplicities are paid. The exact binomial resultant gives a lower-certificate value O(1/n), not an upper estimate for Mahler measure. A complete integer support proof and accepted DS17 give a positive gap for every fixed flip budget, including natural at-most-v3 basis corrections; hypothetical nearzero sequences at the same fixed source require unboundedly increasing flips. Root and Salem_completion are contributors; fresh independent whole review and separate adoption remain outstanding. No full old-primary solution, irreducibility, nearzero Mahler sequence, entire-kernel gap or unrestricted Task completion is asserted. |
+| reason | Register the complete LB1--LB9 author theorem after root read the entire saved proof and source interfaces. A fixed complete C753 source is extended by explicit coupled invisible rows whose true gcds also separate the outer factor from every old primary, preserving the complete canonical source and original gap. An exact threshold locates two adjacent reflection pairs and a separate low-X support period, producing a nonzero even coprime height1 mask and nonempty actual old-X/added-modulus sign fibers with exact k_s-5 counts as a/d tends to1/2. All degrees, maximal powers and raised multiplicities are paid. The exact binomial resultant gives a lower-certificate value O(1/n), not an upper estimate for Mahler measure. A complete integer support proof and accepted DS17 give a positive gap for every fixed flip budget, including natural at-most-v3 basis corrections; hypothetical nearzero sequences at the same fixed source require unboundedly increasing flips. Root and Salem_completion are contributors; fresh independent whole review and separate adoption were outstanding at author registration. No full old-primary solution, irreducibility, nearzero Mahler sequence, entire-kernel gap or unrestricted Task completion is asserted. |
 
 | Relation | Target | Scope |
 | --- | --- | --- |

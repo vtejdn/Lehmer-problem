@@ -13,7 +13,11 @@ Source edition: Ope26, [retained PDF](../../../literature/pdf/Ope26a.pdf), OpenA
 
 Passages: Theorem 1.1, printed/PDF p.1; complete main-theorem proof in Sections 2--6, pp.4--24. Additional checked transfer: Sections 7.1--7.2, pp.25--26. Excluded additional conclusion: Section 7.3, p.27. The PDF has 28 pages and its printed and PDF page numbers agree.
 
-Inspection: 2026-10-08, human record author Yin. A separately assigned AI reviewer read and checked the full main-theorem chain in the fixed-commit TeX and checked the PDF locators. The coordinating AI reviewer independently checked the critical algebraic and geometric arguments, reconciled the findings, and inspected rendered PDF pp.1, 20 and 24. This is a separately organized mathematical proof review, with the published least-prime theorem retained at its checked applicability scope. The enormous finite prescription was not executed.
+Inspection: 2026-10-08, human record author Yin.
+A separately assigned AI reviewer read and checked the full main-theorem chain in the fixed-commit TeX and checked the PDF locators.
+The coordinating AI reviewer independently checked the critical algebraic and geometric arguments, reconciled the findings, and inspected rendered PDF pp.1, 20 and 24.
+This is a separately organized mathematical proof review, with the published least-prime theorem retained at its checked applicability scope.
+The enormous finite prescription was not executed.
 
 
 ## Statement, conventions, and supported scope

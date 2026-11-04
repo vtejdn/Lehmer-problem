@@ -4,6 +4,10 @@ author: Yin
 
 # Fixed mixed trace frequencies have no linear spectral budget
 
+Current checking scope is owned by [R552](../audits/reviews/Yin_R_G0552_v1.md), with its exact findings and declared relationships.
+Retained review narration and relationship labels below preserve historical declarations; they do not establish an independent current relationship beyond those responsible findings.
+
+
 Date: 2026-10-07.
 Bounded direct continuation of G0001 by assess_shortness_route for Yin.
 The coordinator proposed the mixed stable-plus-central frequency test and contributed its extension to optimized bounded central covectors.
