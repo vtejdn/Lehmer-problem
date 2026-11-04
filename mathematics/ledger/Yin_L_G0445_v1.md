@@ -73,13 +73,54 @@ For the reciprocal Salem control \(P=x^4-x^3-x^2-x+1\), one has \(U=x^4-3x^3+x^2
 Thus \(r_0=(x+x^2+x^3+x^4)/(1+x^5)\) in characteristic two, with poles at the four nontrivial fifth roots.
 For \(q\ne5\) the rotated pole sets are disjoint and \(r_q=q\).
 For \(q=5\) the five rotated functions have common denominator \(1+x^5\), and canceling the four numerator coefficients leaves exactly the all-ones relation.
+Indeed, a mask polynomial \(A(z)=\sum_{j=0}^4 e_jz^j\), with \(e_j\in\mathbb F_2\), must vanish at all four nontrivial fifth roots.
+Since \(\deg A\le4\), it is either zero or \(\Phi_5\); these are the empty and full masks.
 This example isolates both outcomes without inferring that small measure forces either of them.
+
+<a id="full-rotation-product"></a>
+For any odd prime \(q\), multiplying over all rotations gives
+\[
+ \prod_{j=0}^{q-1}P_n(\zeta^j x)=P_{nq}(x^q),\qquad
+ \prod_{j=0}^{q-1}F_j(x)=\sqrt{P_{2q}(x^q)P_{4q}(x^q)},
+\]
+with the square root chosen to have constant coefficient 1.
+The first identity follows from \(\prod_j(1-a\zeta^jx)=1-a^q x^q\), and the second follows by squaring and comparing constant coefficients.
+Thus the full product is the same radical construction for the powered input, followed by \(x\mapsto x^q\).
+Its first correction need not be rational for a general input; in the quartic control it accounts for the only nonempty mask and supplies no growing space of additional relations.
+
+<a id="covered-control-family"></a>
+## Why the cyclotomic-reduction family is a control
+
+The initial proposed family has \(\overline U=\Phi_\ell\) for an odd prime \(\ell\), so \(d=\ell-1\).
+If there is any pole, rotations at a prime \(q\ne\ell\) have disjoint pole sets, while at \(q=\ell\) all denominators can be written \(1+x^\ell\).
+Write \(B(x)=(1+x)\overline W(x)\) in the latter case.
+For each exponent \(t\) occurring in \(B\), cancellation requires \(\sum_{j\in I}\xi^{jt}=0\), which gives the exact binary kernel from the coefficient support.
+The numerator must come from the original integral \(P\), and the useful overlapping rotation already costs \(q=d+1\).
+
+The overlap comparison on 2026-11-04 identifies this entire class as already covered by the old scalar-congruence bound.
+Reciprocity and the definitions give
+\[
+ P_2(t^2)=P(t)P(-t)\equiv P(t)^2\equiv P(t^2)\pmod2,
+\]
+so \(\overline P=\overline{P_2}=\Phi_\ell\).
+Every coefficient of \(P\) is therefore odd, and \(\overline P\mid t^\ell-1\).
+In the actual order \(\mathbb Z[\alpha]\), the [order-divisibility equivalence](../claims/Yin_C_G0244_v1.md#scalar-collapse-root-matrix-interface) gives \(\alpha^\ell\equiv1\pmod{2\mathbb Z[\alpha]}\).
+The [existing dyadic certificate](../claims/Yin_C_G0244_v1.md#dyadic-log-five-norm-certificate) then gives
+\[
+ m(P)\ge\frac{d}{\ell}\frac{\log5}{4}
+       =\left(1-\frac1\ell\right)\frac{\log5}{4}.
+\]
+These inputs cannot have positive measures tending to zero, even as the degree grows.
+The classical all-odd coefficient theorem is [Borwein--Dobrowolski--Mossinghoff (2007)](https://annals.math.princeton.edu/2007/166-2/p02); the deduction here uses C244's retained direct order argument and preserves its source and review scope.
+The family and its quartic example remain useful controls for the relation test, but a gap on them is not new coverage for the Lehmer Task.
 
 <a id="paid-lifting"></a>
 ## The first research question
 
-Can a subspace of masks whose dimension grows with \(q\) retain rational approximations modulo increasing powers \(2^s\) with sufficiently low degrees on a specified unbounded-degree class?
-Track both numerator and denominator degrees, a unit denominator at zero, the degree \(d\), the rotation prime \(q\), and descent of the chosen combinations to rational integral series.
+Can a growing space of masks beyond the full-product control yield sufficiently economical rational approximations modulo \(2^s\) on an unbounded-degree class outside the existing gap criteria?
+In addition to C244, the [bounded-binomial-cover estimate](../claims/Yin_C_G0135_v2.md#statement) already supplies a uniform gap when \(\overline P\) divides \(\prod_{j=1}^k(t^{a_j}-1)\), including all multiplicities, with bounded \(k\) and bounded \(\sum_j a_j/d\).
+Not being excluded by these sufficient criteria does not assert that a class has arbitrarily small positive measure.
+Track both numerator and denominator degrees, a unit denominator at zero, the degree \(d\), the rotation prime \(q\), the mask size and descent of the chosen combinations to rational integral series.
 The squarefree residue test supplies an algebraic starting point and identifies inputs with no first-layer gain.
 Repeated reduction factors require a separate pole analysis.
 
@@ -88,12 +129,26 @@ Here \(k_0\) is a matrix size and the valuation is normalized by \(v_2(2)=1\).
 Linear growth of \(b_s\) with \(s\) can give a quadratic valuation, but its coefficient must retain the true degree and rotation costs.
 An isolated mod-4 relation supplies no such coefficient.
 
-One concrete first family has \(\overline U=\Phi_\ell\) for an odd prime \(\ell\), so \(d=\ell-1\).
-If there is any pole, rotations at a prime \(q\ne\ell\) have disjoint pole sets, while at \(q=\ell\) all denominators can be written \(1+x^\ell\).
-Write \(B(x)=(1+x)\overline W(x)\) in the latter case.
-For each exponent \(t\) occurring in \(B\), cancellation requires \(\sum_{j\in I}\xi^{jt}=0\), which gives the exact binary kernel from the coefficient support.
-The numerator must come from the original integral \(P\), and the useful overlapping rotation already costs \(q=d+1\).
-This is a test of whether a structural gain survives those costs, with neither existence of small Salem numbers in this class nor coverage of the general core presupposed.
+Local liftability by itself is inexpensive in the squarefree pole-cancellation case.
+To see the cost that remains, fix a nonempty mask \(I\), let \(\mathcal O\) be the ring of integers of the completion of \(\mathbb Q(\zeta)\) at the chosen place over 2, and put
+\[
+ D_I=\prod_{j\in I}U(\zeta^jx),\qquad
+ N_I=\prod_{j\in I}P_4(\zeta^jx),\qquad
+ G_I=\prod_{j\in I}F_j(x)/D_I(x).
+\]
+This local extension is unramified because \(q\) is odd, so 2 is a uniformizer of \(\mathcal O\).
+Complete cancellation of the simple poles gives \(\sum_{j\in I}r_j=0\), since the sum is proper and has no poles.
+Expanding \(N_I=\prod_{j\in I}(U(\zeta^jx)+4W(\zeta^jx))\) modulo 8 therefore shows \(N_I-D_I=8A_I\) with \(A_I\in\mathcal O[x]\).
+All three polynomials have degree at most \(d|I|\), with \(D_I(0)=1\) and \(A_I(0)=0\), and
+\[
+ G_I^2=1+8A_I/D_I.
+\]
+For \(s\ge1\), truncate the square-root expansion after the term of index \(s-1\).
+For every \(n\ge1\), the coefficient \(8^n\binom{1/2}{n}\) has valuation \(2n-v_2(n!)\ge n+1\), so the omitted terms vanish modulo \(2^s\).
+Putting this truncation over \(D_I^{s-1}\) gives integral local numerator and denominator degrees at most \((s-1)d|I|\).
+This is only a local bound for the normalized product.
+Returning to the original product multiplies by \(D_I\), and forming rational integral orbit sums still requires compatible divisibility at the conjugate places and the actual denominator and rank costs.
+No surviving global gain follows from this elementary lifting observation alone.
 
 A useful next result would either exhibit a scalable family and its cost, or give a structural obstruction showing why the available masks never pay enough.
 A theorem combining that finite-place information with the complex analytic loss, and coverage of the unrestricted inputs or a complementary treatment, would still be needed.
