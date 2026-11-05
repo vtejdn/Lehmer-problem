@@ -23,3 +23,11 @@ This navigation performs no new HTML/PDF reading or source-proof audit.
   Original inspection dates/depths and source-versus-project proof boundaries remain exact; no new primary reading or Task execution is supplied.
 
 - [The26b-U004: original simple-root attribution](Yin_U004.md#the26b-u004) retains distinct2026-10-10 author/reviewer Tag04GE statement/nearby uniqueness-proof reading, uninspected full equivalence/deeper etale/chapter-PDF boundaries and the unadopted Tag09XI/Grochow-timeout leads.
+
+<a id="curves-and-finite-lattices"></a>
+## Curves and finite polynomial lattices
+
+The official HTML [Tag 0BXX](https://stacks.math.columbia.edu/tag/0BXX) and [Tag 0B5B](https://stacks.math.columbia.edu/tag/0B5B) inspected on 2026-11-05 are retained as [the curve-model page](../../../literature/pdf/The26b/0BXX--20261105.html) and [the Riemann--Roch page](../../../literature/pdf/The26b/0B5B--20261105.html).
+Their native theorem labels and embedded mathematical text are preserved; they are not assigned the revision of an older chapter PDF.
+The finite-integral-closure input instead uses the already retained [Commutative Algebra chapter](../../../literature/pdf/The26b--algebra-20261002.pdf#page=442), revision ed88ff78 compiled 2026-07-14, printed/PDF p.442, Lemma 161.8/Tag 032L.
+[Yin_U006](Yin_U006.md#the26b-u006) owns the exact statements, application hypotheses and source-proof inspection limits.

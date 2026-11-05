@@ -40,6 +40,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [CDPT26](CDPT26/readme.md) | [Yin_U001](CDPT26/Yin_U001.md) |
 | [CFMZ26](CFMZ26/readme.md) | [Yin_U001](CFMZ26/Yin_U001.md), [Yin_U002](CFMZ26/Yin_U002.md), [Yin_U003](CFMZ26/Yin_U003.md) |
 | [CFMZ26b](CFMZ26b/readme.md) | [Yin_U001](CFMZ26b/Yin_U001.md) |
+| [CGL26](CGL26/readme.md) | [Yin_U001](CGL26/Yin_U001.md#cgl26-u001): construction and existing fixed-support coverage |
 | [CK14](CK14/readme.md) | [Yin_U001](CK14/Yin_U001.md) |
 | [CLOZ25](CLOZ25/readme.md) | Source and edition notes |
 | [CM10](CM10/readme.md) | Source and edition notes |
@@ -62,6 +63,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [DR97](DR97/readme.md) | [Yin_U001](DR97/Yin_U001.md), [Yin_U002](DR97/Yin_U002.md), [Yin_U003](DR97/Yin_U003.md), [Yin_U004](DR97/Yin_U004.md), [Yin_U005](DR97/Yin_U005.md) |
 | [DS17](DS17/readme.md) | [Yin_U001](DS17/Yin_U001.md), [Yin_U002](DS17/Yin_U002.md) |
 | [DS84](DS84/readme.md) | Source and edition notes |
+| [Dan20](Dan20/readme.md) | Artin--Schreier reduction attribution and exact v3 source scope |
 | [Del09](Del09/readme.md) | [Yin_U001](Del09/Yin_U001.md) |
 | [Den09](Den09/readme.md) | [Yin_U001](Den09/Yin_U001.md), [Yin_U002](Den09/Yin_U002.md) |
 | [Dim16](Dim16/readme.md) | [Yin_U001](Dim16/Yin_U001.md) |
@@ -102,6 +104,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [HR08](HR08/readme.md) | Source and edition notes |
 | [HS16](HS16/readme.md) | [Yin_U001](HS16/Yin_U001.md) |
 | [HS16b](HS16b/readme.md) | [Yin_U001](HS16b/Yin_U001.md) |
+| [Han16](Han16/readme.md) | [Yin_U001](Han16/Yin_U001.md#han16-u001): quadratic finite-field Hankel periodicity and the synchronization boundary |
 | [Hir06](Hir06/readme.md) | [Yin_U001](Hir06/Yin_U001.md) |
 | [Hou16](Hou16/readme.md) | [Yin_U001](Hou16/Yin_U001.md) |
 | [Hun74](Hun74/readme.md) | [Yin_U001](Hun74/Yin_U001.md), [Yin_U002](Hun74/Yin_U002.md), [Yin_U003](Hun74/Yin_U003.md), [Yin_U004](Hun74/Yin_U004.md), [Yin_U005](Hun74/Yin_U005.md), [Yin_U006](Hun74/Yin_U006.md), [Yin_U007](Hun74/Yin_U007.md) |
@@ -114,6 +117,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [KY14](KY14/readme.md) | Source and edition notes |
 | [Kar26](Kar26/readme.md) | Source and edition notes |
 | [Keh25](Keh25/readme.md) | [Yin_U001](Keh25/Yin_U001.md) |
+| [Kou11](Kou11/readme.md) | Square-root Cayley attribution and exact v2 recurrence limitations |
 | [LL10](LL10/readme.md) | Source and edition notes |
 | [LL25](LL25/readme.md) | Source and edition notes |
 | [LP17](LP17/readme.md) | Source and edition notes |
@@ -129,6 +133,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [MPV98](MPV98/readme.md) | [Yin_U001](MPV98/Yin_U001.md) |
 | [MS05](MS05/readme.md) | [Yin_U001](MS05/Yin_U001.md) |
 | [MS12](MS12/readme.md) | [Yin_U001](MS12/Yin_U001.md) |
+| [MS12b](MS12b/readme.md) | [Yin_U001](MS12b/Yin_U001.md) |
 | [MS17](MS17/readme.md) | [Yin_U001](MS17/Yin_U001.md) |
 | [MS24](MS24/readme.md) | [Yin_U001](MS24/Yin_U001.md), [Yin_U002](MS24/Yin_U002.md), [Yin_U003](MS24/Yin_U003.md), [Yin_U004](MS24/Yin_U004.md), [Yin_U005](MS24/Yin_U005.md), [Yin_U006](MS24/Yin_U006.md) |
 | [MS25](MS25/readme.md) | Source and edition notes |
@@ -197,9 +202,10 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Tao09](Tao09/readme.md) | Source and edition notes |
 | [Tao26](Tao26/readme.md) | [Yin_U001](Tao26/Yin_U001.md), [Yin_U002](Tao26/Yin_U002.md), [Yin_U003](Tao26/Yin_U003.md) |
 | [The26](The26/readme.md) | [Yin_U001](The26/Yin_U001.md) |
-| [The26b](The26b/readme.md) | [Yin_U001](The26b/Yin_U001.md), [Yin_U002](The26b/Yin_U002.md), [Yin_U003](The26b/Yin_U003.md), [Yin_U004](The26b/Yin_U004.md), [Yin_U005](The26b/Yin_U005.md) |
+| [The26b](The26b/readme.md) | [Yin_U001](The26b/Yin_U001.md), [Yin_U002](The26b/Yin_U002.md), [Yin_U003](The26b/Yin_U003.md), [Yin_U004](The26b/Yin_U004.md), [Yin_U005](The26b/Yin_U005.md), [Yin_U006](The26b/Yin_U006.md#the26b-u006) |
 | [Var25](Var25/readme.md) | [Yin_U001](Var25/Yin_U001.md) |
 | [Vav18](Vav18/readme.md) | Source and edition notes |
+| [VG19](VG19/readme.md) | [Yin_U001](VG19/Yin_U001.md#vg19-u001): bounded proof-claim inspection and independently checked local gaps |
 | [Voi98](Voi98/readme.md) | [Yin_U001](Voi98/Yin_U001.md) |
 | [Wal18](Wal18/readme.md) | [Yin_U001](Wal18/Yin_U001.md) |
 | [War05](War05/readme.md) | [Yin_U001](War05/Yin_U001.md) |
@@ -211,3 +217,6 @@ The source notes and units own their editions, inspected passages and actual ins
 | [dlP19](dlP19/readme.md) | [Yin_U001](dlP19/Yin_U001.md) |
 | [vdB59](vdB59/readme.md) | [Yin_U001](vdB59/Yin_U001.md) |
 | [Tao09](Tao09/readme.md) | Source and edition notes |
+| [DD04](DD04/readme.md) | [Yin_U001](DD04/Yin_U001.md#dd04-u001) |
+| [Dub16](Dub16/readme.md) | [Yin_U001](Dub16/Yin_U001.md#dub16-u001) |
+| [Dub02](Dub02/readme.md) | [Yin_U001](Dub02/Yin_U001.md#dub02-u001): selected degree-sixteen two-circle example |

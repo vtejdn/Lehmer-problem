@@ -10,11 +10,15 @@ author: Yin
 | --- | --- |
 | [Lehmer contract](../tasks/Yin_T_G0001_v1.md#contract) | Equivalent growth formulation and its exact transfer to the common classical Mahler-gap target. |
 
-**Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
-2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
-The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
-Coordinate the current route-specific mathematical obligations and separately scoped reviews below, preserving the original contract and actual accepted-input boundaries.
-Existing route-specific alternatives and next steps remain available at their retained scopes.
+**Current allocation.** Continue the equivalent unrestricted affine-growth question jointly with [S7](Yin_S_G0007.md#route), using the original probability law.
+The adopted [critical-mean scaling theorem](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04) excludes a mean cap over all algebraic units, even at one fixed positive rate and Mahler measure.
+A strict tail result for the fixed quartic would give only an input-dependent finite mean and is not the next substitute for an unrestricted estimate.
+The [current continuation](../drafts/Yin_D_G0009.md#radical-critical-mean-scaling) is a quantitative original-law estimate on a justified reciprocal power-stable near-one domain, or another information quantity with a proved uniform return to Mahler measure.
+The [one-core target](../drafts/Yin_D_G0009.md#one-finite-core-mean-target) reuses the existing logarithmic delay: constructing one finite original core per near-one input with h_A<=2m and mu_A<=C*d/m would suffice, without first proving full critical recurrence.
+Its [exact linear certificate](../drafts/Yin_D_G0009.md#finite-core-linear-return-certificate) retains the full induced kernel and converts those two bounds into finite resolvent inequalities on a supplied core; no such uniform construction has yet been obtained.
+That upper-bound construction remains unproved; finite spectral exhaustion alone gives no mean bound.
+The [zero-holding test](../drafts/Yin_D_G0009.md#zero-holding-fails-perron-transfer) specializes C511 to show why a cheap admissible law with small information and short mean cannot replace the original Perron law required by that target.
+Existing fixed controls and their unresolved questions remain available at their exact scope.
 
 <a id="resumption-two-percent-2026-10-25"></a>
 ## Renewed continuation
@@ -539,6 +543,8 @@ Its [exact full coefficient budgets](../claims/Yin_C_G0461_v1.md#exact-blaschke-
 The [detection bounds](../claims/Yin_C_G0461_v1.md#quantitative-finite-lag-detection) give max_(1<=j<=r)|c_j|>=2sinh(m)/(2^r-1), or at K=ceil(2r/(1-exp(-2m))) capture at least half the total squared mass and give a coefficient at least sqrt((exp(2m)-1)/(2K)).
 Actual finite rational residuals inherit fixed-input detection with an unquantified onset.
 Bounded quadratic accounting of these DIRECT coefficients has total budget tending to zero; that restriction concerns the specified numerical certificate, not true entropy or every possible amplification.
+The independently adopted [C461 v2](../claims/Yin_C_G0461_v2.md#decision-whole-independent-review-2026-11-04) additionally shows that exactly one distinct coefficient-field embedding has finite Hardy energy, while the full orbit norm of the rational function is one.
+Its coefficient norm estimate pays the actual coefficient degree and gives only a nonuniform lower bound; a different integral combination or original-field auxiliary remains possible.
 
 The [INVERSE distinction](../claims/Yin_C_G0461_v1.md#direct-inverse-coefficient-separation) is essential for L263: H=1/F has genuine poles inside the disk, and its coefficients h_j satisfy limsup |h_j|^(1/j)=max_v|alpha_v|>1, with exp(m/r)<=max_v|alpha_v|<=exp(m).
 They are unbounded along a subsequence and are not covered by the direct squared-mass budget.

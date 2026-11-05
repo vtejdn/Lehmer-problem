@@ -15,6 +15,7 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 | [Algebraic entropy and abelian flows](#algebraic-entropy-and-flows) | Exact definitions, normalizations and source limits in the entries below. |
 | [Project cofactor characters and arithmetic coefficient classes](#project-cofactor-characters-and-arithmetic-coefficient-classes) | Exact project constructions and actual consumer navigation. |
 | [Original-clock killed kernels and boundary operators](#original-clock-killed-kernels-and-boundary-operators) | Exact original-weight conventions and actual consumer navigation. |
+| [Finite-field divisors and Hankel indices](#finite-field-divisors-and-hankel-indices) | Rational divisor conventions, the original shifted determinant and its polynomial lattice. |
 
 ### Free Fields and Representations
 
@@ -66,6 +67,9 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 | Unit logarithmic lattice | [Smy08-U004](../audits/literature/Smy08/Yin_U004.md#smy08-unit-lattice-convention) | Full embedding norm differs from the projected weighted norm; positive unit rank required |
 | Nondegenerate multiplicative-group equation | [ESS02-U001](../audits/literature/ESS02/Yin_U001.md#ess-exact-counting-bound) | Fixed nonzero coefficients, characteristic zero, no nonempty vanishing subsum; rank belongs to the tuple group, not one scalar coordinate group |
 | Normalized minimal power-relation shape | [ESS02 direct specialization](../audits/literature/ESS02/Yin_U001.md#ess-normalized-power-shapes); [L G0085 use](../ledger/Yin_L_G0085_v1.md#nondegenerate-energy-setting) | Ordered fixed-sign exponent tuples modulo common translation; repeated exponents allowed; k-term normalization has tuple rank k-1 for nontorsion alpha |
+| Mahler-preserving membership blocks | [C866 v7 membership atoms](../claims/Yin_C_G0866_v7.md#membership-atoms) | Fibers of membership in all Galois translates of the original large-root set; the classical compatible-block mechanism is attributed at [DD04-U001](../audits/literature/DD04/Yin_U001.md#dd04-u001). |
+| Fixed-value inverse-Mahler candidate set | [C866 v7 F_alpha](../claims/Yin_C_G0866_v7.md#finite-raw-attainment); [Salem T_alpha](../claims/Yin_C_G0866_v8.md#statement) | Monic irreducible units with exact measure alpha, splitting in its normal closure and bounded by the stated binomial or Salem transversal cap; the coefficient box alone is not a realization. |
+| Globally basal irreducible realization | [C866 v7 basal boundary](../claims/Yin_C_G0866_v7.md#basal-boundary) | Minimum degree over all irreducible realizations at the source's large-root orientation; distinct from coarsest compatible blocks or a minimum raw norm, with an actual strict separation in [C866 v9](../claims/Yin_C_G0866_v9.md#statement). |
 
 ### Modules, Hom and Algebraic Tensors
 
@@ -80,6 +84,8 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 | [Torsion, order ideal, primary components and invariant factors](../audits/literature/Hun74/Yin_U005.md#torsion-and-invariants) | IV.6, pp. 220–225. Integral-domain/PID and unitary-module conditions retained; generators of principal ideals are determined up to units. | —; reference material. |
 
 <a id="numerical-semigroups-and-semigroup-polynomials"></a>
+
+
 ## Numerical-semigroup and Apéry constructions
 
 | Concept and entry | Exact home | Source and adopted convention | Consumer navigation |
@@ -183,3 +189,11 @@ These links identify the corrected source conventions and their inspection bound
 | Whole-exterior communication graph and condensation | [C841 Definition](../claims/Yin_C_G0841_v1.md#finite-boundary-condensation-criterion) | Project formulation; Retain all components/channels and the stated convergence conditions. | [C841 statement and argument](../claims/Yin_C_G0841_v1.md#statement); forward uses in [C846](../claims/Yin_C_G0846_v1.md#statement) |
 | Finite boundary connector majorant | [C846 Definition](../claims/Yin_C_G0846_v1.md#boundary-connector-majorant) | Project formulation; Actual finite boundary, saved closing words and original lengths/weights. | [C846 statement and argument](../claims/Yin_C_G0846_v1.md#statement) |
 | Complete deleted-diagonal and fixed-state loop rates | [C850 Definition](../claims/Yin_C_G0850_v1.md#deleted-loop-rates) | Project formulation; Complete exterior states, original killed kernel and limsup rates. | [C850 statement and argument](../claims/Yin_C_G0850_v1.md#statement) |
+
+## Finite-field divisors and Hankel indices
+
+| Concept | Exact home | Convention and source boundary | Consumer navigation |
+| --- | --- | --- | --- |
+| Rational divisor classes and Riemann--Roch spaces | [C858 v3 divisor conventions](../claims/Yin_C_G0858_v3.md#divisor-conventions) | Closed-point degrees over k; linear equivalence by K-rational functions; [The26b-U006](../audits/literature/The26b/Yin_U006.md#accepted-curve-lattice-inputs) supplies the accepted standard curve interfaces. | [C858 v3 finite class group and zero progression](../claims/Yin_C_G0858_v3.md#genus-and-period) |
+| Shifted leading Hankel matrix and nonzero indices | [C858 v3 exact definition](../claims/Yin_C_G0858_v3.md#exact-theorem) | Entries f_(i+j+1), Delta_0=1; [Han16-U001](../audits/literature/Han16/Yin_U001.md#shifted-application-and-limit) identifies the direct conversion from leading determinants. | [C858 v3 exact coefficient map](../claims/Yin_C_G0858_v3.md#exact-pade-map) |
+| Split-quadratic polynomial lattice and two-place subspace | [C858 v3 M and V_h](../claims/Yin_C_G0858_v3.md#general-quadratic-lattice) | M=k[X]+k[X]f is a module, without assumed multiplicative closure; both exact infinity orders are retained. | [C858 v3 repeated-pole synchronization](../claims/Yin_C_G0858_v3.md#all-nonzero-as-synchronization) |

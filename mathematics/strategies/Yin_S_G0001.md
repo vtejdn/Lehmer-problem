@@ -10,11 +10,80 @@ author: Yin
 | --- | --- |
 | [Lehmer contract](../tasks/Yin_T_G0001_v1.md#contract) | Uniform algebraic-entropy gap and finite-set attainment for arbitrary discrete abelian flows. |
 
-**Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
-2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
-The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
-Coordinate the current route-specific mathematical obligations and separately scoped reviews below, preserving the original contract and actual accepted-input boundaries.
-Existing route-specific alternatives and next steps remain available at their retained scopes.
+**Current allocation.** Continue the unchanged unrestricted G0001 contract through an actual original-input construction or another fully paid mechanism.
+The Task remains unresolved; the supplied-class theorem below does not establish that every near-one input belongs to its class.
+
+[C855 v2](../claims/Yin_C_G0855_v2.md#decision-whole-independent-review-2026-11-04) now establishes a universal raw p=2 Mahler floor 1/sqrt(10), using an all-root slit contour, ordinary norm descent and the finite-place floor.
+Its FM13 operator consequence holds only on the specified arithmetic set, and neither conclusion supplies the original p=1 gap.
+For reciprocal power-stable inputs, a uniform upper bound on d times the radial square mass divided by m(P)^2 would give a total gap; that ratio is exactly d on the Salem boundary, so a different return is needed there unless degrees can be bounded.
+[C855 v3](../claims/Yin_C_G0855_v3.md#decision-whole-independent-review-2026-11-04) now proves that the same radial-hull capacities are asymptotic to 4*m(P)^2 on a hypothetical Salem near-one sequence, uniformly in the disk radius; any nonempty rotation collection retains a quadratic lower cost.
+[C855 v6](../claims/Yin_C_G0855_v6.md#decision-whole-independent-review-2026-11-05) now proves a positive capacity cost for every compact cut admitting the same original exterior trace, with no boundary regularity or finite-component restriction.
+The bound log cap(K)>=m(P)^2/log d, uniform over the stated prime rotations, dominates log d/d on a hypothetical actual Salem near-one sequence; changing this function's compact cut cannot supply an upper envelope at that smaller scale.
+Further investment therefore needs stronger determinant arithmetic, a genuinely different analytic object or another original-input return.
+The [working rational-line calculation](../drafts/Yin_D_G0001.md#p2-arithmetic-return-boundary) retains the exact concentration ratio and ordinary norm-descent comparison at its stated scope.
+[C866](../claims/Yin_C_G0866_v1.md#decision-whole-independent-review-2026-11-04) now pays the full rational conjugate-monomial class, including arbitrary external radicals and torsion: on a primitive Salem source the output raw p=2 measure is at least half the original raw measure, with the nonprimitive power cost retained separately.
+Thus passing to roots or larger fields within that class does not remove the growing square-root-degree loss; the exact quartic saturation control is already above log2 and supplies no near-one coverage.
+[C866 v2](../claims/Yin_C_G0866_v2.md#decision-whole-independent-review-2026-11-04) extends the comparison to arbitrary separate conjugate-field factors, including cancellation of their finite valuations and arbitrary external radicals.
+For a primitive Salem source, its three branches give the lower bound M_2(beta)>=min(log(phi),M_2(alpha)/2); the size of genuinely coupled unit outputs remains an open arithmetic question.
+[C866 v3](../claims/Yin_C_G0866_v3.md#decision-whole-independent-review-2026-11-04) now treats input-dependent rational functions of several inverse pairs under the actual neutral-orbit modulus-one condition, including nonreal off-circle outputs.
+Bounded raw-p2 output requires at least a constant times d^(1/7) coupled pairs eventually; its exact Cayley operation with arbitrary rational weights of absolute value at least one still has bounded usable arity and cannot supply the desired near-zero compression.
+[C866 v4](../claims/Yin_C_G0866_v4.md#decision-whole-independent-review-2026-11-05) gives an exact coordinate-norm return m(beta)=N*m(alpha_0), an integer N, and pays the small positive convex-weight class when an unused pair or the full flip kernel is available.
+Its original-measure ratio then diverges with degree even after the source-power cost; the exact quartic unit control has weights one half but already lies above log2.
+[C866 v5](../claims/Yin_C_G0866_v5.md#decision-whole-independent-review-2026-11-05) now removes the convex normalization: a strict full-root marginal and both integer norms pay all rational weight scales, denominators and signs in that same exact sign domain.
+The actual output degree gives a divergent ratio to the original total measure, with the nonprimitive source power paid; the generic marginal itself applies to all stated monic irreducible integer inputs.
+[C866 v6](../claims/Yin_C_G0866_v6.md#decision-whole-independent-review-2026-11-05) now treats the remaining full-use odd even-kernel branch through actual index-two norm descent.
+When the whole norm is one, its coordinate norms and actual output degree give a square-root-degree cost; the other norm branch retains its constant lower bound.
+Together with v5 and the independent finite-place bound, every rational linear Cayley operation on original Salem conjugates has a paid obstruction to a fixed-constant original-measure return along a hypothetical near-zero sequence.
+This construction class supplies no further unclassified sign branch; it neither constructs useful outputs nor reduces unrestricted inputs to Salem sources.
+Other coefficient fields, functions or additional radial places still need their actual unit and degree costs.
+[C866 v7](../claims/Yin_C_G0866_v7.md#decision-whole-independent-review-2026-11-05) now supplies a general inverse-measure reduction: every realization of an algebraic integer unit Mahler value descends to its own-field intersection with the measure's normal closure, preserving that measure and not increasing raw M_2.
+For each fixed measure the raw infimum is attained in a finite coefficient set, with degree at most binom(d,floor(d/2)) in the measure's degree d.
+The cap is exponential, and no uniformly cheap realization has been supplied; this changes the search domain without proving the original gap.
+[C866 v9](../claims/Yin_C_G0866_v9.md#decision-whole-independent-review-2026-11-05) now proves that every genuine Salem value of degree d>=10 has basal realization degree exactly d, and all such low-degree realizations have M_2>=sqrt(d)log(alpha).
+Its actual half-norm construction attains the global raw minimum 2log(alpha) at higher-power Salem values, so the unrestricted BD12 raw-monotone passage to degree at most d is false.
+The concrete value has log(alpha)>1, leaving sufficiently-small-measure variants and G0001 unresolved.
+The [working Dub02 example check](../drafts/Yin_D_G0001.md#dub02-degree16-positive-certificate-test) retains a reported lower-measure candidate, the failed exact positive-sign certificate and an unexecuted negative-sign comparison; no new mathematical adoption follows from that failed check.
+[C866 v8](../claims/Yin_C_G0866_v8.md#decision-whole-independent-review-2026-11-05) now identifies the exact oriented inverse-pair signatures and coefficient fields of these endpoints when the measure alpha is Salem.
+For every realization M(beta)=alpha, a bound M_2(beta)<=C log(alpha) forces deg(beta)>=2^(2d/C^2-1), where d=deg(alpha); the finite attaining class has the sharper transversal cap.
+This necessary exponential cost applies beyond prescribed Cayley or monomial formulas, but remains compatible with the available exponential search domain and supplies no uniform upper comparison.
+The [Dub16 comparison](../audits/literature/Dub16/Yin_U001.md#dub16-u001) retains the half-norm construction's exponential original-source power, so its two-circle output is not such an automatic cheap return.
+The [bounded full-goal reassessment](../drafts/Yin_D_G0019.md#goal-directed-reallocation-after-inverse-fibers) found no supported new uniform-return mechanism in its inspected scope.
+Its complete author calculation excludes the proposed Lehmer full-transversal sign-chamber control by actual whole-group parity and the accepted nonreciprocal gap; no unit-image computation is selected for that already excluded control.
+Other signature fields remain unclassified, but that fact alone supplies neither a new construction nor an automatic reason to enlarge this investigation.
+The [working coupled-unit screen](../drafts/Yin_D_G0001.md#p2-coupled-norm-one-units) finds extra norm-one directions but no size control, and an explicit coupled quotient whose finite-place cost grows as its archimedean part shrinks.
+The [entire-field reuse calculation](../drafts/Yin_D_G0001.md#p2-entire-salem-field-return) extends the same-field screen to arbitrary rational-function outputs from a primitive Salem source, using the fixed relative-unit kernel and the accepted totally real height bound.
+The [trace-unit quadratic construction](../drafts/Yin_D_G0001.md#p2-trace-unit-quadratic-return) can leave that field and pays the exact output degree, but its supplied small-source class is already bounded-degree by the older Dobrowolski bound; it supplies no new gap coverage or automatic unit existence.
+[C865](../claims/Yin_C_G0865_v1.md#decision-whole-independent-review-2026-11-04) extends the coverage check to every unit whose conjugates are real or on the unit circle: bounded total measure forces raw-p2 divergence with degree, so bounded raw sublevels are finite.
+Its exact broadened trace calculation shows that adding negative real expanding pairs still selects a finite small-source class under the proposed compression bound; a genuinely different output geometry or arithmetic mechanism remains necessary.
+
+[C864 v2](../claims/Yin_C_G0864_v2.md#decision-whole-independent-review-2026-11-04) now gives a uniform positive total-Mahler gap for every supplied binary reflection auxiliary with at most four pairs, integral half-value and original span at most C*d.
+Its finite-period and full original-norm return eliminates the phase condition without requiring a universal good sign on the remaining circles.
+The arithmetic priority is therefore automatic supply on actual near-one inputs, or a different paid certificate; the resulting exclusion of trace-code weights one through four and exact Sidon count do not force such supply.
+
+[C863 v4](../claims/Yin_C_G0863_v4.md#decision-whole-independent-review-2026-11-04) independently settles every admissible torus of dimension at least two and leaves only finitely many bounded primitive circle candidates.
+That remaining pure sign question is still open, but its completion is no longer a prerequisite for the covered binary arithmetic class.
+Further analytic work should be selected by its concrete return to the original input rather than by completing this finite remainder alone.
+
+The alternative [one-finite-core target](../drafts/Yin_D_G0009.md#one-finite-core-mean-target) asks for h_A<=2m and mu_A<=C*d/m on one actual original core per near-one input.
+Its upper-bound construction remains unproved; the existing logarithmic delay is reused, while [C856](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04) still excludes the broader all-unit mean cap.
+The [finite resolvent certificate](../drafts/Yin_D_G0009.md#finite-core-linear-return-certificate) now makes both required inequalities exactly checkable by rational linear witnesses on a supplied actual core, including all induced edges; the uniform core construction remains missing.
+The [working complete-bridge calculation](../drafts/Yin_D_G0009.md#finite-bridge-clock-and-perron-cost) separates clock loss from Perron-law loss and gives an exact actual Salem example where the short auxiliary return mean does not transfer to the original induced kernel.
+Its finite original graph and information identity remain author work; the needed upper mean still requires direct control of the original Perron occupation.
+The [rotated-radical route](Yin_S_G0009.md#binary-test) now uses [C860 v4](../claims/Yin_C_G0860_v4.md#decision-whole-independent-review-2026-11-04): exact trace ranks and a resultant budget exclude a uniform elementary-disk certificate from fixed coherent centers of degree below d and subexponential denominator norm, even with arbitrary rotation primes.
+The [higher-degree common-component recentering](../drafts/Yin_D_G0011.md#common-as-recentering) has an explicit paid precision/rank comparison and a finite first-error test for joint Pade sums; it remains author-working, with higher binary layers and optimal joint rank open.
+[C860 v6](../claims/Yin_C_G0860_v6.md#decision-whole-independent-review-2026-11-04) now supplies a general bad-reduction rank lower bound and an exact original control showing that a bad presentation's apparent slope need not be optimal; it supplies neither the sharp general rank nor automatic near-one coverage.
+[C860 v7](../claims/Yin_C_G0860_v7.md#decision-whole-independent-review-2026-11-04) determines the exact leading precision, rank and counting certificate for the supplied fixed componentwise Pade trace family; it leaves genuinely different joint approximants and input-dependent supply open.
+[C860 v8](../claims/Yin_C_G0860_v8.md#decision-whole-independent-review-2026-11-04) determines the exact minimum over all rational approximants for coprime residual blocks and the original single radical with squarefree reduction.
+Its two original branches give either the weighted finite profile with a vanishing resultant-budget coefficient, or no rational approximation modulo four; several-mask traces and repeated reduction remain outside this theorem.
+For the squarefree original single radical on the hypothetical Salem boundary, this exact certificate and the C855 v6 compact-cut comparison leave a strict asymptotic cost separation; completing a different rational approximant or choosing a different compact cut alone cannot close that particular route.
+[C858 v2](../claims/Yin_C_G0858_v2.md#decision-whole-independent-review-2026-11-05) gives infinitely many exact linear dyadic valuations in the original nonzero AS branch and infinitely many unit determinants for each good odd prime; it makes no joint-prime or total-valuation assertion.
+[C858 v3](../claims/Yin_C_G0858_v3.md#decision-whole-independent-review-2026-11-05) now synchronizes those actual indices on common positive multiples for any fixed finite collection of nonrational residue places, including every nonzero dyadic class with repeated poles.
+A fixed collection of these places alone cannot give an all-late quadratic gain.
+The [characteristic-zero working calculation](../drafts/Yin_D_G0019.md#characteristic-zero-power-interface) identifies the original Hankel divisor positions but shows that their varying index disappears under the tested natural power correspondence.
+This author work leaves the scalar determinant normalization and a different surviving arithmetic quantity unresolved; further investment needs an actual uniform original-measure return beyond fixed-curve positivity and the product formula.
+The [working factorwise family](../drafts/Yin_D_G0011.md#factorwise-pade-sharing) supplies a different shared-denominator construction, but its comparison with the stronger old union-binomial certificate does not yet give new total-gap coverage.
+The [exterior-factor norm test](../claims/Yin_C_G0461_v2.md#decision-whole-independent-review-2026-11-04) also excludes transferring its small original Hardy energy to all coefficient-field embeddings; the full rational-function norm is exactly one.
+Preserve the original field, degree, probability law and complete arithmetic/analytic costs when comparing these routes.
 
 <a id="resumption-two-percent-2026-10-25"></a>
 ## Renewed continuation
@@ -1120,7 +1189,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Coordinate the eight retained routes through the unchanged entropy/gap contract; combine independent mechanisms and shared paid interfaces while rotating discovery and consolidation work |
+| priority | Coordinate the retained routes through the unchanged entropy/gap contract; prioritize quantitative estimates on actual near-one inputs and retain all paid arithmetic and analytic interfaces |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

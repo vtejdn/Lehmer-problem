@@ -10,11 +10,20 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
-2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
-The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
-Coordinate the current route-specific mathematical obligations and separately scoped reviews below, preserving the original contract and actual accepted-input boundaries.
-Existing route-specific alternatives and next steps remain available at their retained scopes.
+**Current allocation.** Seek an actual short integral auxiliary or another arithmetic certificate on the original near-one unit.
+The adopted [C864 v2](../claims/Yin_C_G0864_v2.md#decision-whole-independent-review-2026-11-04) now covers every supplied binary reflection with at most four pairs and span at most C*d, including every allowed energy-four seed and positive integer shift, without a phase-separation condition.
+Its bounded primitive-frequency branch uses a full binary period and the original degree-d norm, so the remaining finite pure-circle sign problem is not needed for this arithmetic implication.
+
+Automatic supply is the unresolved step in the [continuing inquiry](../drafts/Yin_D_G0013.md#binary-reflection-reduction).
+Below the new fixed-C threshold, the actual reciprocal trace code has no words of weight one through four and has exact Sidon pair counts.
+Those counts remain compatible with a degree-linear window; they do not produce a short relation.
+Require an input-specific integrality or norm mechanism involving genuine small total Mahler measure, rather than generic finite-field identities or a pigeonhole claim at this window.
+The [trace-order test](../drafts/Yin_D_G0013.md#trace-order-supply-test) makes one candidate quantitative: its image dimension would have to fall below a logarithmic-in-window threshold; the inspected linear rank bounds under extra residual hypotheses do not force this.
+The inspected [Pisot/interlacing representation](../audits/literature/MS12b/Yin_U001.md#ms12b-u001) also leaves coefficient-energy or binary-support control missing, even in its Salem domain.
+
+The [C859 resonance control](../claims/Yin_C_G0859_v1.md#decision-whole-independent-review-2026-11-04) retains its lesson that an alternative allowed coefficient lift may already fall under the existing scalar criterion.
+Other denominators or coefficient budgets must retain full original integrality, degree and span, and compare that actual scalar coverage first.
+The fixed-family precision ceilings and [C860](../claims/Yin_C_G0860_v1.md#decision-whole-independent-review-2026-11-04) remain in force; increasing precision inside an excluded family is not a new covering mechanism.
 
 <a id="resumption-two-percent-2026-10-25"></a>
 ## Renewed continuation

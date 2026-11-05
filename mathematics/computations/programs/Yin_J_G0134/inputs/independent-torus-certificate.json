@@ -1,0 +1,9 @@
+{
+  "order": 4096,
+  "rounding_bits": 40,
+  "scaled_lower_sum": 3565677176283,
+  "denominator": 1099511627776,
+  "target_numerator": 81,
+  "target_denominator": 25,
+  "positive_integer_margin": 81487557219
+}

@@ -163,7 +163,7 @@ The fixed-field minima can tend to zero as K varies unless a new uniform arithme
 Orthogonality, integral coefficients in a free group and discrete finite-dimensional pieces do not exclude it.
 For example, the abstract subgroup direct_sum_(j>=1) Z(e_j/j) of l2 has those properties but contains nonzero vectors of norm 1/j tending to zero.
 This is a logical Hilbert-space comparison, not an algebraic-number or near-one counterexample.
-The missing input for Gamma_p remains the arithmetic uniform bound on its component minima.
+In the source's argument, the arithmetic uniform bound on these component minima is an additional input; the later project p=2 result is recorded separately at C855 v2 below.
 
 ## Literal source guards in the inspected version
 
@@ -200,8 +200,9 @@ Its historical conjecture wording is not current project status: the accepted [D
 No reverse implication from this endpoint to p=2 or p=1 is supplied.
 Moreover Gamma_infinity and Gamma_2 use potentially different minimizing choices; they are not a single fixed subgroup with automatically interchangeable norm topologies.
 
-The substantial local radial-support/degree p=2 deduction and its house/Dobrowolski/Salem boundaries are fixed in [C855](../../../claims/Yin_C_G0855_v1.md#statement).
-It is a restricted project argument, not FM13's source theorem or a general p=2 resolution.
+The earlier local radial-support/degree p=2 deduction and its house/Dobrowolski/Salem boundaries remain fixed and unassessed in [C855 v1](../../../claims/Yin_C_G0855_v1.md#statement).
+The later [C855 v2 project proof](../../../claims/Yin_C_G0855_v2.md#decision-whole-independent-review-2026-11-04) supplies a universal raw p=2 floor and the operator consequence on S through a separate independently reviewed capacity and norm-descent argument.
+That result is project mathematics, not a theorem or proof attributed to FM13, and it does not establish the original p=1 gap.
 
 The bounded primary search for later p=2 resolution found the stated paper and related source references but no verified theorem resolving its general p=2 assertion.
 This is the search outcome and the boundary of the accepted inputs, not an exhaustive current-literature status claim.
@@ -217,5 +218,5 @@ Merely having many nonzero radial coordinates does not supply this control.
 The existing G0001 finite coefficient projections, fixed 2d quotient-fiber energies and B3 Haar logarithms live in different spaces and have different normalizations.
 P_K is a normalized algebraic norm in logarithmic place space, T^(n) isolates arithmetic-degree components, and their output may change the field, representative and radical degree.
 None is an identity for the finite coefficient projection or a free replacement of the original auxiliary's full norm, denominator, support or transfer fees.
-The useful retained contribution is a precise reduction and a sharper formulation of the missing p=2 arithmetic inequality, together with the already covered low-support subdomain.
-No new positive arithmetic coverage or G0001 completion is claimed.
+The source's retained contribution is the precise reduction and normalization; the later project p=2 assessment belongs only to C855 v2.
+No source-proof upgrade, uniform p=2-to-p=1 comparison or G0001 completion is claimed by this source unit.

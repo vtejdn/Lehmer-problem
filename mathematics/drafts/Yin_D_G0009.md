@@ -7,11 +7,25 @@ author: Yin
 Human author Yin.
 Root proposed testing the reciprocal antisymmetric log-harmonic correction after C805 and supplied the finite Perron/relative-entropy comparison.
 Contributor original_signed_asymptotic derived the exact actual block-entropy identity, the escaping actual two-state orientation obstruction, the relation to C593's canonical potential, and the actual three-state geometry with two opposite-sign locally feasible profiles.
-This is continuing author mathematics, with no independent review or mean classification asserted.
+This is continuing author mathematics, with no independent review or quartic critical-mean classification asserted.
+
+## Preparation for a return-mean estimate that addresses the original Task
+
+The [distance-eight criterion](../claims/Yin_C_G0850_v1.md#first-return-injection-and-strict-equivalence) reduces the fixed quartic strict-tail question to one original-weight exterior loop rate.
+Even a successful proof there would classify only that fixed positive-measure input.
+The [all-unit stationary-information identity](../claims/Yin_C_G0479_v1.md#statement) shows that finite critical mean makes a variational infimum attained, but supplies no uniform positive value for that infimum.
+The [radical calculation below](#radical-critical-mean-scaling) sharpens this limitation: full-degree root extensions preserve the original collision entropy while raising a finite critical mean to the extension degree.
+The retained irreducible golden radicals therefore have unbounded critical means at one fixed positive Mahler measure and one fixed positive collision entropy.
+The earlier [C493 attainment theorem](../claims/Yin_C_G0493_v1.md#radical-attainment-equivalence) already gives this exact mean scaling and its [golden controls](../claims/Yin_C_G0493_v1.md#nontorsion-radical-attainment-controls).
+The explicit Task-facing synthesis and separate direct derivation are independently reviewed in [C856](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04), without new coverage or a new native computation.
+
+A mean-based route to the unrestricted Task must provide an actual input-uniform quantitative estimate after a justified reduction to the relevant reciprocal power-stable near-one class, or use a different quantity that survives that reduction.
+Finite mean, a strict but input-dependent return-radius gap, or further precision on the fixed quartic does not provide that estimate.
+The existing quartic inquiries below remain mathematically unresolved and available as controls, without making them prerequisites for the unrestricted Task.
 
 ## Preparation for finite arithmetic resolution of the actual tail
 
-The next exact target remains a finite critical first-return mean or the stronger R_f>R for the unchanged quartic law.
+The retained quartic subproblem is a finite critical first-return mean or the stronger R_f>R for the unchanged quartic law.
 [C593 v2](../claims/Yin_C_G0593_v2.md#central-count-complete-clock-comparison) already pays the entire forced-boundary clock through the actual log-H potential, and its central-visit expectation remains unresolved.
 [C827](../claims/Yin_C_G0827_v1.md#decision-whole-reviewed-2026-10-27) excludes arbitrary radial envelopes with bounded central angular distortion, even after a finite repair; its translated complete-return comparison is a usable exact input, not a mean classification.
 The [retained source-applicability analysis](#closed-loop-source-applicability), including the inspected KPV22 criteria, supplies no deleted-zero strict-radius witness; no new source acquisition is needed for the finite-arithmetic test below.
@@ -1716,3 +1730,398 @@ The Buzzi source screen explains which further model/entropy estimates would be 
 It is not a counterexample to the desired quartic strict gap and not a claim that no applicable theorem exists.
 The actual inequality r_I<1/R, or another justified estimate implying it, remains unresolved.
 The C850 extraction fixes the separate author deduction; this source screen adds no further Claim, native program, larger graph, E/status decision or source-proof upgrade.
+
+<a id="radical-critical-mean-scaling"></a>
+## Critical means and the remaining near-one question
+
+The complete radical scaling, actual fixed-measure unbounded-mean family and conditional uniformity interface are now [C856](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04), adopted through [independent R1073](../audits/reviews/Yin_R_G1073_v1.md#critical-return-mean-scaling-finding).
+The fixed quartic strict-tail problem above remains mathematically open, but solving that control alone would not supply a uniform estimate on the original near-one inputs.
+Further work should first specify a justified reciprocal power-stable near-one domain and the exact quantitative information estimate needed there.
+The original all-input law has f_1=1/2 and f_n=0 for 2<=n<=d by [C474](../claims/Yin_C_G0474_v1.md#statement).
+Thus critical recurrence gives mu>=R/2+(d+1)(1-R/2)=1+d(1-R/2), including infinity; even the remaining near-one question must pay this actual degree-dependent first-return delay.
+A useful next estimate must address the weighted long-return law or another information bound beyond pointwise finite mean, without silently changing the original process.
+
+<a id="one-finite-core-mean-target"></a>
+## One finite original core would suffice, with its quantitative mean cost
+
+Contributor near_one_return prepared this continuation for Yin on 2026-11-05, Asia/Shanghai.
+It is author mathematics and a conditional target, without independent review or an established upper bound.
+The reuse screen found that the stronger logarithmic excursion delay is already retained in [C557](../claims/Yin_C_G0557_v1.md#critical-delay-small-total-measure), while [C431](../claims/Yin_C_G0431_v1.md#statement) already gives the finite Perron normalization and the earlier degree-over-entropy mean expense.
+No new account of those lower-bound theorems is needed.
+Their combination with the [full original finite-word exhaustion](../claims/Yin_C_G0479_v1.md#argument) isolates a sufficient target that does not first require classifying the infinite critical law.
+
+Let alpha be an actual nontorsion algebraic unit of degree d, and write m=log M(alpha) and h=h_2(alpha), with natural logarithms and total Mahler measure throughout.
+Assume 0<m<=2^(-16).
+Let A be a finite subset of the actual original return core, containing zero, for which the unchanged restricted original matrix K_A is irreducible.
+Its allowed entries keep the original digit weights 1/4,1/2,1/4; there is no boundary renormalization.
+Write r_A=r(K_A), h_A=-log r_A, and assume
+
+    h<=h_A<=2m.                                          (FC1)
+
+Such finite A exist individually for every actual input in this domain by C479's finite-word exhaustion, since h<=m<2m.
+That existence controls only the spectral rate.
+It supplies no estimate for the size of A, its Perron vectors or the mean below.
+
+For positive finite Perron vectors v_A,w_A, let Q_A(x,y)=K_A(x,y)v_A(y)/(r_A v_A(x)), with stationary probability proportional to w_A(x)v_A(x).
+If f_n^A is the original restricted first-return mass, the finite Perron telescoping and occupation argument gives
+
+    b_n^A=exp(h_A n) f_n^A,
+    sum_(n>=1)b_n^A=1,
+    b_1^A=exp(h_A)/2,
+    mu_A=sum_(n>=1)n b_n^A=1/pi_A(0)<infinity.           (FC2)
+
+These are the finite-chain identities used in C431; their proof uses finite irreducibility and the original weights, not that material's separate finite-prime or Salem profile assumptions.
+Here f_n^A<=f_n coefficientwise, because a restricted first return is an original first return.
+The zero loop at zero is retained exactly.
+
+The [C557 finite-prefix proof](../claims/Yin_C_G0557_v1.md#critical-delay-finite-mass) also applies with its positive parameter h replaced by h_A and its coefficients replaced by f_n^A.
+Its proof of the prefix estimate uses only the original degree-block upper bound, the vanishing segment 2<=n<=d, and the numerical conditions 0<h_A<=1/64 and d>=64log(1/h_A); it does not use equality of that parameter to the full critical exponent.
+These numerical conditions hold here: C557's accepted house-statement and entropy comparison give d>64log(1/h), while h_A>=h and h_A<=2m<=2^(-15).
+This reuses the exact Dim19 statement scope recorded in C557, without a new source-proof inspection.
+Consequently, putting
+
+    L_A=log(1/h_A), K_A^time=floor(L_A/(8h_A)),
+    N_A=d(K_A^time+1)-1,
+
+the complete restricted prefix satisfies
+
+    sum_(n=2)^(N_A) exp(h_A n) f_n^A<=exp(-d/4).
+
+The superscript in K_A^time distinguishes the integer from the restricted transition matrix K_A.
+By (FC2), the same normalization argument as [C557's mean consequence](../claims/Yin_C_G0557_v1.md#critical-delay-mean-bound) gives
+
+    Pr_(b^A){tau>N_A}>1/3,
+    mu_A>d log(1/h_A)/(24h_A)
+          >=d log(1/(2m))/(48m).                       (FC3)
+
+The last inequality uses that log(1/t)/t decreases on (0,1), together with h_A<=2m.
+All floors, original chronological times, complete first-return events and finite stationary normalization remain those in the cited argument.
+No assertion F(exp(h))=1 for the full original core occurs in this deduction.
+
+Thus the following is a sufficient, still unproved upper target on any specified class of actual inputs:
+
+    There exist constants C>0 and 0<m_0<=2^(-16) such
+    that, for every input in the class with 0<m<=m_0,
+    at least one finite original core A satisfies
+    h_A<=2m and mu_A<=C d/m.                            (FC4)
+
+Combining (FC3) and (FC4) forces log(1/(2m))<48C, hence m>(1/2)exp(-48C).
+It follows that the class has no input with 0<m<=min{m_0,(1/2)exp(-48C)}.
+Only one such A per input is required; a uniform mean bound along an entire cofinal exhaustion is a stronger assertion.
+If the selected class is reciprocal and power-stable, a complete Lehmer argument must also supply its actual reduction from the unrestricted Task, with every field, powered-degree and total-measure cost.
+This conditional calculation does not supply that reduction or assume the class contains a hypothetical near-one sequence.
+
+There is presently no proof of (FC4) in the inspected inputs.
+[C432's actual-core estimate](../claims/Yin_C_G0432_v1.md#degree-cost-reduced-original-core-norm) bounds operator powers using the full input-dependent nonneutral factor C_non and the neutral factor [2+sqrt(2pi N)]^q.
+It supplies no upper mean for Q_A.
+Its [actual varying-Salem comparison](../claims/Yin_C_G0432_v1.md#phase-free-covariance-expense-and-next-gate) retains both real-strip factors and all d-2 neutral dimensions, without a near-one upper bound of the form (FC4).
+The [stationary residue and neutral-energy constraints](../ledger/Yin_L_G0211_v1.md#stationary-geometry-fixed-scope) likewise force support and moment spread rather than an upper return time.
+C856's fixed-measure radicals exclude an all-unit uniform critical-mean cap, but they do not constitute a counterexample to this one-core near-one target.
+The useful next step would be an actual mechanism constructing a core satisfying both inequalities in (FC4), or an exact obstruction to a proposed construction; further lower-bound refinements or fixed-quartic mean calculations alone do not settle this target.
+
+<a id="zero-holding-fails-perron-transfer"></a>
+## Zero holding meets a weaker target without controlling the original Perron mean
+
+Contributor near_one_return tested zero-state pinning and holding against (FC4) for Yin on 2026-11-05, Asia/Shanghai.
+The [C511 prescribed-mass theorem](../claims/Yin_C_G0511_v1.md#prescribed-mass-fixed-scope), specifically its stationary-flow mixture equations (12)--(13), already supplies the complete actual-law mechanism below.
+The following is its application to the new finite-core target, not a new mixture theorem or an independent review.
+
+For every actual nontorsion algebraic unit with 0<m<=2^(-16), there exists a finite irreducible admissible original-edge law Q_t with
+
+    I(Q_t)<2m,        E_(Q_t,0) tau_+<=4d/m.             (ZH1)
+
+These inequalities alone therefore cannot replace (FC4)'s requirements on the ORIGINAL restricted matrix's Perron law.
+To verify (ZH1), use C479's finite-word exhaustion to choose a finite original core A whose Perron law Q has I(Q)=h_A<=3m/2.
+Let pi be its stationary probability, J(x,y)=pi(x)Q(x,y), a=pi(0), and s=m/(4d).
+If a>=s, retain Q, which already has mean 1/a<=4d/m and information below 2m.
+If a<s, put
+
+    t=(1-s)/(1-a) in (0,1),
+    J_t=t J+(1-t) delta_((0,0)),
+    pi_t=t pi+(1-t) delta_0,
+    Q_t(x,y)=J_t(x,y)/pi_t(x).                          (ZH2)
+
+C511's flow balance and row log-sum conclusions give a finite irreducible law on the same actual states and allowed edges, with pi_t(0)=s and
+
+    I(Q_t)<=t I(Q)+(1-t)log2.
+
+The added edge is the actual zero-digit self-loop, and its cost against the ORIGINAL digit probabilities is log2.
+Since a<s<1/2, one has 1-t=(s-a)/(1-a)<=2s.
+Thus
+
+    I(Q_t)<=3m/2+2s log2
+            =3m/2+m log2/(2d)<2m,
+    E_(Q_t,0)tau_+=1/pi_t(0)=4d/m.                    (ZH3)
+
+All information costs here use the original weights 1/4,1/2,1/4, not a free change of reference measure.
+Irreducibility is preserved because t>0 leaves every original Q edge positive.
+This is an actual construction conditional only on the existence of the stated input, rather than an abstract finite-graph countermodel or an assertion that near-one inputs exist.
+
+The original matrix K_A, its spectral radius and its original Perron law Q are unchanged by the auxiliary choice (ZH2).
+In the nontrivial case a<s, that original law still has pi(0)=a<s and mean 1/a>4d/m.
+The altered law Q_t cannot be its Perron law: it has the different invariant mass s, whereas the finite irreducible Perron transform is unique.
+Consequently (ZH1) gives no transfer of the short mean to (FC4), even though it pays the original information cost and uses only original edges.
+
+Multiplying the entire zero row of K_A by a positive scalar is also not a new input to this issue.
+If its Perron reciprocal parameter is z and the multiplier is exp(theta), complete first-return telescoping gives exp(theta)F_A(z)=1 and excursion probabilities f_n^A z^n/F_A(z).
+This is exactly C511's canonical return tilt on the finite core, with zero mass F_A(z)/(zF_A'(z)) and original information log z-pi(0)log F_A(z).
+Returning to theta=0 restores the same original Perron derivative whose upper bound is missing in (FC4).
+The tested holding and whole-row pinning constructions therefore do not select a new original core with the required derivative control.
+
+<a id="finite-core-linear-return-certificate"></a>
+## A finite linear certificate for the original core's rate and mean
+
+Contributor original_core_supply prepared this exact certificate for Yin on 2026-11-05, Asia/Shanghai.
+It is continuing author mathematics, without independent review or an actual near-one construction.
+The responsible content is a simultaneous finite certificate for the two inequalities in [the one-core target](#one-finite-core-mean-target), rather than another stationary-law substitution.
+It reuses [C590's complete finite original first-return resolvent](../claims/Yin_C_G0590_v1.md#finite-original-escape-resolvent) and [C431's finite Perron return normalization](../claims/Yin_C_G0431_v1.md#statement).
+The argument below supplies its own finite convergence witness and applies to the actual finite core selected here; it does not import C590's quartic geometry or C431's separate finite-prime hypotheses.
+This is an elementary resolvent specialization and derivative certificate, with no claim of a new general matrix theorem.
+
+Keep the actual unit, original digits, total m, degree d and range 0<m<=2^(-16) of (FC4).
+Let A be a finite subset of the original return core containing zero, with irreducible unchanged restricted matrix K_A.
+Require A to contain a nonzero state, and write C=A minus {0} and
+
+    K_A = [ 1/2  b ],
+          [  c   B ] .
+
+Here b is the complete original entrance row from zero to C, c is the complete original exit column from C to zero, and B contains every original transition between states of C.
+In particular no edge inside A is deleted separately, no boundary row is normalized, and no copy of a state is introduced to remember a word's history.
+The singleton cannot meet h_A<=2m in the selected range, since its h_A is log2.
+
+Choose a scalar z and proposed mean cap M_cap with
+
+    1<z<=exp(2m),       M_cap>0.
+
+Suppose there are column vectors ell>=0, u>0 and t>=0 on C satisfying the componentwise linear inequalities
+
+    ell <= z c+z B ell,
+    u   >= z c+z B u,
+    t   >= u+z B t,                                    (RC1)
+
+and the two scalar inequalities
+
+    z/2+z b ell >=1,
+    z/2+z b(u+t) <=M_cap.                              (RC2)
+
+Then the ORIGINAL Perron law of this same A satisfies
+
+    h<=h_A<=log z<=2m,       mu_A<=M_cap.               (RC3)
+
+Consequently a uniform construction with M_cap<=C_0 d/m for one such A per input would supply (FC4) with its constant C_0.
+No existence of these data on the required near-one inputs is asserted.
+
+To prove (RC3), first note that t>=u>0 and zBt<=t-u.
+With delta=min_(x in C) u(x)/t(x)>0, multiplication by zB contracts the weighted maximum norm max_(x in C)|v(x)|/t(x) by at most 1-delta.
+Thus rho(zB)<1, and the inverse (I-zB)^(-1) is its nonnegative geometric series.
+This proves convergence; finite matrix invertibility alone would not suffice.
+Multiplying the first two inequalities in (RC1) by this nonnegative inverse gives
+
+    ell<=H(z)<=u,
+    H(z)=z(I-zB)^(-1)c.
+
+For 0<=s<=z define H(s)=s(I-sB)^(-1)c.
+The complete first-return series of the unchanged restricted original walk is
+
+    F_A(s)=s/2+s b H(s).
+
+The term s/2 retains the original one-step zero loop.
+Every longer first return has one entrance edge, any number of B steps and one exit edge, so this expression includes every induced path and all recombinations of previously selected words.
+Differentiating the convergent finite resolvent gives, at s=z,
+
+    V(z):=zH'(z)=H(z)+zB V(z)
+                  =(I-zB)^(-1)H(z).
+
+The third inequality of (RC1) therefore implies V(z)<=t, and (RC2) yields
+
+    F_A(z)>=1,
+    zF_A'(z)=z/2+z b(H(z)+V(z))<=M_cap.               (RC4)
+
+Since F_A(0)=0 and F_A is strictly increasing, there is a unique R_0 in (0,z] with F_A(R_0)=1.
+Every state of C reaches zero inside A, so every entry of H(R_0) is positive.
+The column with zero coordinate 1 and remaining coordinates H(R_0) is a positive eigenvector of K_A with eigenvalue 1/R_0, by the hitting equation and F_A(R_0)=1.
+Finite irreducibility therefore identifies R_0=1/r_A=:R_A.
+Original path domination gives h<=h_A, as in C479's finite-core comparison.
+C431's finite first-return normalization gives mu_A=R_AF_A'(R_A), and nonnegative first-return coefficients imply
+
+    mu_A=R_AF_A'(R_A)<=zF_A'(z)<=M_cap.
+
+This proves (RC3) with the original chronological clock and original Perron law.
+
+For fixed actual A and rational z,M_cap, (RC1)--(RC2) form a finite system of rational linear inequalities, because all original matrix entries are 0,1/4 or 1/2.
+Thus a proposed witness can be checked exactly without first numerically approximating the Perron vectors.
+When z is rational and rho(zB)<1, H(z) and V(z) are rational, and the choices ell=u=H(z), t=V(z) attain the exact values F_A(z) and zF_A'(z) in (RC2).
+The certificate therefore introduces no relaxation at fixed z; positivity of H(z) follows from the original return paths inside A.
+For any such finite irreducible A, C431's finite hitting argument gives rho(R_A B)<1: its Perron transform has a positive path from each state to zero, so a common finite path-length bound and minimum positive path probability give geometric survival decay after zero is killed.
+That killed transform is diagonally similar to R_A B.
+At z=R_A the exact choices ell=u=H(R_A) and t=R_A H'(R_A) recover the original mean itself; the certificate does not hide an additional upper-mean theorem.
+If a selected core has strict bounds h_A<2m and mu_A<M_cap, continuity permits a rational z just above R_A with z<exp(2m) and zF_A'(z)<M_cap, and the exact resolvent vectors at that rational z are rational witnesses.
+The remaining construction problem is to choose actual A and certificate vectors with a uniform cap C_0 d/m.
+Neither finite spectral exhaustion, arbitrary admissible stationary laws, nor the matrix identities alone provide that missing choice.
+
+<a id="finite-bridge-clock-and-perron-cost"></a>
+## Original finite bridges: exact clock loss and a failed mean transfer
+
+Contributor entropy_global_bridge prepared this continuation for Yin on 2026-11-05, Asia/Shanghai.
+It is author mathematics, without independent review or a near-one core construction.
+The tested construction uses every original return word of one fixed length, cyclic occupation and finite-state Markovization.
+Unlike the separate zero-holding construction above, it introduces no additional holding flow.
+The calculation identifies two distinct information decreases and gives an exact actual Salem example where the short mean does not pass to the original induced kernel.
+
+### BF1. The complete finite bridge and its two information decreases
+
+Let alpha be an actual algebraic unit of degree d, and let K be the original transition kernel x -> alpha*x+eta on Z[alpha], with digit probabilities 1/4,1/2,1/4.
+For an integer n>=1, condition the original path X_0=0,...,X_n on X_n=0, and denote its law by B_n.
+Its positive normalizer is p_n=K^n(0,0), since the all-zero word is present.
+For j=0,...,n-1, put
+
+    a_j(x)=Pr_(B_n){X_j=x},
+    q_j(x,y)=Pr_(B_n){X_(j+1)=y | X_j=x}
+
+on positive-mass rows.
+The usual finite bridge formula follows directly by splitting a word at its next edge:
+
+    q_j(x,y)=K(x,y) H_(n-j-1)(y)/H_(n-j)(x),
+    H_l(x)=K^l(x,0).                                   (BF1)
+
+Only finite sums are used, and the denominator is positive on each row in question.
+Let A_n be the finite union of all positive-mass bridge states, including zero, and define
+
+    J_n(x,y)=(1/n) sum_(j=0)^(n-1) a_j(x)q_j(x,y),
+    pi_n(x)=(1/n) sum_(j=0)^(n-1) a_j(x),
+    Q_n(x,y)=J_n(x,y)/pi_n(x).                          (BF2)
+
+Because X_n=X_0=0, the incoming and outgoing marginals of J_n coincide with pi_n.
+Every bridge prefix and suffix is an allowed positive Q_n path, so Q_n is irreducible on A_n and pi_n is its stationary probability.
+It follows that its actual return mean is
+
+    mu_(Q_n)=1/pi_n(0)<=n.                              (BF3)
+
+This is the auxiliary Q_n mean; it has not yet been identified with the original induced kernel's Perron mean.
+
+For a stationary law (pi,Q) on these original edges, write
+
+    I_K(pi,Q)=sum_(x,y) pi(x)Q(x,y) log[Q(x,y)/K(x,y)].
+
+Every sum here is finite, and terms of zero mass are omitted.
+Telescoping (BF1) along each entire conditioned word gives the exact lifted information per original chronological step:
+
+    (1/n) sum_j sum_(x,y) a_j(x)q_j(x,y)
+                  log[q_j(x,y)/K(x,y)]
+       = -log(p_n)/n.                                 (BF4)
+
+Choose a uniform clock C in {0,...,n-1}, then sample (X,Y) with conditional law a_C(x)q_C(x,y).
+The row log-sum identity, with its full difference retained, gives
+
+    -log(p_n)/n - I_K(pi_n,Q_n)
+       = (1/n) sum_j sum_x a_j(x) D(q_j(x,.) || Q_n(x,.))
+       = I(C;Y | X) =: Delta_clock >=0.                (BF5)
+
+Thus erasing the clock can improve the information cost by a conditional mutual information at every original step.
+There is no division of Delta_clock by another factor n in (BF5).
+The elementary finite-clock entropy estimate gives only Delta_clock<=H(C | X)<=log n; a stronger bound log(n)/n would require another argument.
+
+Now let K_(A_n) contain every original transition between states of A_n, including any edge absent from the length-n bridges.
+It is irreducible because the bridge paths already connect every state through zero.
+Let r_n be its Perron root, h_(A_n)=-log(r_n), v_n>0 a right Perron vector, and
+
+    Q_(A_n)(x,y)=K_(A_n)(x,y)v_n(y)/(r_n v_n(x)).
+
+Stationarity of pi_n cancels the finite coboundary log(v_n(y))-log(v_n(x)), so
+
+    I_K(pi_n,Q_n)-h_(A_n)
+       = sum_x pi_n(x) D(Q_n(x,.) || Q_(A_n)(x,.))
+       =: Delta_Perron >=0.                            (BF6)
+
+Together these identities read
+
+    -log(p_n)/n = h_(A_n)+Delta_clock+Delta_Perron.      (BF7)
+
+They retain every bridge weight, every induced edge and the original chronological clock.
+Neither information decrease identifies the stationary probability of Q_(A_n) with pi_n.
+
+### BF2. An exact actual Salem failure of the mean transfer
+
+Let alpha>1 be the real root of
+
+    P(t)=t^4-t^3-t^2-t+1.
+
+For completeness, setting y=t+t^(-1) gives y^2-y-3=0.
+Its roots are (1+sqrt(13))/2>2 and (1-sqrt(13))/2 in (-2,2), so the four roots of P have the Salem configuration.
+P is irreducible: over Q(sqrt(13)), the discriminant of t^2-y*t+1 is y^2-4=y-1, whose norm is -3, so it is not a square in that real quadratic field.
+Thus alpha has actual degree four and is a nontorsion unit.
+This fixed positive-measure input is not in the tiny near-one range of (FC4).
+
+At n=5 the only returning digit polynomials are 0,P,-P.
+Indeed any polynomial of degree at most four vanishing at alpha is a rational scalar multiple of the monic minimal P, and its coefficients in {-1,0,1} force the scalar to be 0,1 or -1.
+The all-zero word has probability 1/32=16/512, and the two nonzero words together have probability 1/512.
+Hence p_5=17/512.
+The all-zero bridge visits zero at all five sampled clock positions, while each nonzero bridge visits zero only at position zero.
+Consequently
+
+    pi_5(0)=81/85,       mu_(Q_5)=85/81.                (BF8)
+
+Put
+
+    a=1, b=alpha-1, c=alpha^2-alpha-1,
+    e=alpha^3-alpha^2-alpha-1=-alpha^(-1).
+
+The actual bridge state set is A_5={0,+/-a,+/-b,+/-c,+/-e}.
+These are nine distinct states by the degree-four power basis.
+Coefficient comparison in that basis lists every induced transition:
+
+    0 -> 0                  weight 1/2,
+    0 -> +/-a               weight 1/4 each,
+    +/-a -> +/-b            weight 1/4,
+    +/-b -> +/-c            weight 1/4,
+    +/-c -> +/-e            weight 1/4,
+    +/-e -> 0               weight 1/4,
+    +/-e -> -/+a            weight 1/2.                (BF9)
+
+No other original edge has both endpoints in A_5.
+The last edge permits nonzero detours absent from the five-step bridges.
+Each additional passage from +/-e through -/+a,-/+b,-/+c to -/+e has length four and weight 1/128; two such passages form an actual nonzero circuit of length eight.
+The initial-and-final nonzero first-return passage has length five and total weight 1/512, and any number of these sign-alternating four-step passages can be inserted before its final exit.
+Therefore the unchanged induced kernel has exact first-return series
+
+    F_(A_5)(z)=z/2+z^5/[512(1-z^4/128)].              (BF10)
+
+Let R_5=1/r(K_(A_5)), the unique root F_(A_5)(R_5)=1 below the positive pole.
+The finite Perron return identity from (FC2) applies to this same kernel.
+For z_0=39/20, one has z_0^4<16<128 and
+
+    F_(A_5)(z_0)
+       >39/40+(7/4)^5/512
+       >39/40+1/40=1,
+
+where (7/4)^5/512=16807/524288>1/40.
+Thus R_5<39/20.
+Its one-step first-return probability is R_5/2 and every other first return has length at least five, whence
+
+    mu_(A_5)>=R_5/2+5(1-R_5/2)
+              =5-2R_5>11/10>85/81=mu_(Q_5).           (BF11)
+
+This exact inequality disproves automatic transfer even for the complete fixed-length original bridge, its natural cyclic occupation and the same actual finite state set.
+It is not an abstract graph counterexample, a changed digit law or a zero-holding perturbation.
+The argument is complete from the displayed polynomial and graph; no finite numerical experiment is a premise.
+
+### BF3. The remaining expense at the proposed near-one length
+
+For an actual nontorsion unit with 0<m<=2^(-16), choose n=ceil(d/m).
+Then n<=2d/m and the auxiliary bridge law automatically has mu_(Q_n)<=2d/m by (BF3).
+However, the exact original degree-block estimate used in [C557](../claims/Yin_C_G0557_v1.md#critical-delay-finite-mass) gives, with k=floor(n/d),
+
+    p_n<=(3k+1)^(-d/2),
+    -log(p_n)/n >= (m/4) log[1+3/(2m)].                (BF12)
+
+Here k>=1/m-1>=1/(2m), and d/(2n)>=m/4.
+Thus, if this particular induced core also satisfies h_(A_n)<=2m, its exact losses must obey
+
+    Delta_clock+Delta_Perron
+       >=(m/4)log[1+3/(2m)]-2m.                       (BF13)
+
+This is a necessary cost identity, not a lower bound on either loss separately.
+The construction therefore supplies a short auxiliary mean, but neither the required original spectral rate nor transfer to its original Perron mean.
+BF11 rules out the direct mean comparison already on one exact actual Salem input.
+Uniform control of a different original core, or a substantive arithmetic control of both information decreases and its Perron occupation, remains missing.
+No near-one sequence, uniform positive gap, or impossibility of the one-core target is asserted.

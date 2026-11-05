@@ -9,11 +9,14 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#linear-growth-contract) | Seek a uniform estimate for the actual affine binary law through original-orbit collisions, with the exact return to Mahler measure. |
 
-**Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
-2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
-The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
-Coordinate the current route-specific mathematical obligations and separately scoped reviews below, preserving the original contract and actual accepted-input boundaries.
-Existing route-specific alternatives and next steps remain available at their retained scopes.
+**Current allocation.** Work with [S2](Yin_S_G0002.md#route) on a quantitative original-law estimate that can apply to genuine near-one inputs.
+The adopted [C856](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04) gives the exact radical growth of critical means and excludes the all-unit uniform-mean shortcut.
+The fixed quartic strict-tail question is still open and remains a control; proving it alone would not discharge the original uniformity obligation.
+Use the [remaining near-one interface](../drafts/Yin_D_G0009.md#radical-critical-mean-scaling), retaining the full original law, degree-dependent first-return delay and all reduction costs.
+The [current one-core target](../drafts/Yin_D_G0009.md#one-finite-core-mean-target) asks for an actual finite original core with h_A<=2m and mu_A<=C*d/m on each sufficiently near-one input.
+The [finite linear certificate](../drafts/Yin_D_G0009.md#finite-core-linear-return-certificate) checks both bounds on the original induced kernel with rational resolvent witnesses; constructing those witnesses uniformly remains open.
+The logarithmic lower-delay mechanism is already retained in C557; the missing contribution is this upper-bound construction, not another refinement of the lower delay.
+The [holding and pinning comparison](../drafts/Yin_D_G0009.md#zero-holding-fails-perron-transfer) leaves the original restricted matrix and its Perron mean unchanged, even when an auxiliary original-edge law meets the cheaper information/mean inequalities.
 
 <a id="resumption-two-percent-2026-10-25"></a>
 ## Renewed continuation

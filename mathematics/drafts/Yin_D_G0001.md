@@ -1590,3 +1590,663 @@ The complete LC1--LC5 statement and argument are [adopted in C769](../claims/Yin
 Root developed the argument; its low integer core coefficient identifies exactly half of the actual C767 target fiber as a specified failing subset for the unrestricted second-four correction test.
 The kappa=0 class and total failure count remain unresolved by this particular test.
 C768's review does not cover this additional identification.
+
+<a id="galois-outer-factor-norm-obstruction"></a>
+## Continuing exterior-factor arithmetic question
+
+The complete original-input Galois calculation is fixed in [C461 v2](../claims/Yin_C_G0461_v2.md#statement), with its [independently reviewed assessment](../claims/Yin_C_G0461_v2.md#decision-whole-independent-review-2026-11-04).
+It includes integral coefficients, the exact coefficient field, norm one for the rational function, the unique finite-energy orbit member, a finite all-embedding energy floor and the nonuniform coefficient-norm cost.
+The wider original analytic theorem keeps its separate v1 SELF assessment and source limits.
+
+The continuing question is whether a different integral combination of orbit functions, a paid coefficient estimate, or a direct original-field auxiliary gives a uniform return.
+Such a construction must control its actual field degree, all conjugate poles and numerator values, denominator clearing, and original span or window before invoking a norm.
+No short binary auxiliary or unrestricted positive gap has been supplied.
+
+<a id="p2-arithmetic-return-boundary"></a>
+## Arithmetic compression after the raw p=2 floor
+
+The general rational-line and same-input comparison paragraphs are working author mathematics for Yin, developed on 2026-11-05 by the assigned arithmetic-return contributor.
+The integer and rational monomial part now has the separate fixed C866 assessment identified below; that assessment does not extend to the other working paragraphs.
+The question is whether the [adopted C855 v2 raw bound](../claims/Yin_C_G0855_v2.md#decision-whole-independent-review-2026-11-04) can yield the unrestricted total Mahler gap by constructing, from every relevant original input alpha, a nontorsion beta with M_2(beta)<=C m(alpha) for one absolute C.
+Here M_2(alpha)=deg(alpha)||f_alpha||_2 uses all places in the [retained FM13 normalization](../audits/literature/FM13/Yin_U001.md#place-space-and-height-normalization), and m(alpha)=deg(alpha)h_abs(alpha) is the original TOTAL logarithmic measure.
+The calculations below retain the actual output degree and show why rational-line changes, ordinary power-field norm descent and integer monomials in genuine Salem conjugates do not supply that return.
+They do not reduce all unresolved inputs to Salem numbers or assert the existence of a Salem sequence with measure tending to zero.
+
+### Rational-line changes preserve the exact concentration ratio
+
+Let alpha and beta be nonzero nontorsion algebraic numbers with f_beta=q f_alpha for a nonzero rational q, and write d=deg(alpha), D=deg(beta).
+This includes arbitrary rational powers and multiplication by roots of unity, without assuming how their actual degrees change.
+Absolute homogeneity of the all-place norms and ||f_alpha||_1=2h_abs(alpha) give exactly
+
+    m(beta)=(D|q|/d)m(alpha),
+    M_2(beta)=(D|q|/d)M_2(alpha),
+    M_2(beta)/m(beta)=M_2(alpha)/m(alpha).             (AR1)
+
+For the [C231 ordinary norm descent](../claims/Yin_C_G0231_v1.md#all-positive-power-existence-descent), put K=Q(alpha), L=Q(alpha^n), e=[K:L], gamma=Norm_(K/L)(alpha), and f=[L:Q(gamma)].
+Its equality gamma^n=(alpha^n)^e gives f_gamma=e f_alpha, and deg(gamma)=d/(ef).
+Thus on its nontorsion unit domain AR1 gives both exact identities
+
+    m(gamma)=m(alpha)/f,
+    M_2(gamma)=M_2(alpha)/f.                           (AR2)
+
+The second is the [C855 v2 checked square-norm identity](../claims/Yin_C_G0855_v2.md#raw-p-two-norm-descent).
+Consequently every step and every finite iteration of that degree descent preserves M_2/m, even when it lowers both quantities.
+A root or a torsion representative can change raw size only together with the same proportional change in total measure; no improvement of this ratio has been obtained.
+
+### Fixed home of the integer and rational monomial costs
+
+The complete AR3--AR6 calculation is now [C866 Part C and its full orbit proof](../claims/Yin_C_G0866_v1.md#salem-monomial-orbits), with the [selected whole assessment](../claims/Yin_C_G0866_v1.md#decision-whole-independent-review-2026-11-04).
+It retains the exact raw norm at the actual monomial degree, every support/parity case, arbitrary integer signs and the lower bound M_2(eta)>=M_2(alpha), without requiring a primitive source for the integer-monomial assertion.
+Products, quotients, integer powers and ordinary relative norms remain in that class after collecting exponents; zero effective support is torsion.
+The fixed field-containment argument also retains arbitrary external torsion prefixes and their actual degree cost.
+
+The previously open root-denominator question is now covered by C866 Parts A--B and D.
+For a primitive Salem source, arbitrary rational powers of conjugate monomials satisfy M_2(beta)>=M_2(alpha)/2 even in external fields; the theorem retains the precise nonprimitive power loss separately.
+This fixed assessment does not independently review the general rational-line formulas AR1--AR2 above or the separate same-field/Mobius working comparisons below.
+
+### The already covered positive Mobius candidate and the remaining question
+
+The [C166 exact contraction theorem](../claims/Yin_C_G0166_v1.md#salem-mobius-statement) already covers genuine Salem alpha and coprime positive integers a>b>=1 with beta=(a alpha+b)/(b alpha+a).
+Its integral-output hypothesis forces beta to be a Salem unit in the same field and degree, and forces h_abs(alpha)>h_0 for one absolute positive h_0 uniform over this coefficient family.
+Consequently it supplies no integral compression along a putative original total-measure-to-zero sequence, whose source heights also tend to zero.
+Its separate classical primitive-generator exclusion and source/output distinction remain at that fixed scope; no new Mobius proof or review is asserted here.
+
+These calculations give the exact cost of rational-line changes and C231 descent, and exclude uniform raw-norm compression by integer conjugate monomials on unbounded-degree Salem inputs.
+They leave genuinely input-dependent nonmonomial arithmetic operations open, with all actual output fields, finite-place costs, integrality and non-torsion still to be proved.
+No unrestricted p=1 gap or near-zero construction follows from this comparison.
+The monomial result has its exact C866 assessment; the remaining working paragraphs receive no independent review by association.
+
+<a id="p2-entire-salem-field-return"></a>
+## Small unit outputs in the entire original Salem field
+
+This is a working reuse consequence for Yin, developed on 2026-11-05 by the arithmetic-return contributor and not independently reviewed.
+It tests arbitrary input-dependent rational functions, including functions of growing degree, rather than adding another fixed-function estimate to C852 or repeating C166's positive Mobius calculation.
+The new comparison uses the [C485 full-field relative-unit identity](../claims/Yin_C_G0485_v1.md#salem-relative-regulator-identity), at its [selected SELF assessment](../claims/Yin_C_G0485_v1.md#decision-complete-current-self-adoption), and the [accepted Schinzel totally-real statement](../audits/literature/Smy08/Yin_U002.md#smy08-restricted-height-gap).
+The latter is the retained survey equation (22), M(eta)>=phi^(deg(eta)/2) for a totally real algebraic integer eta outside {0,1,-1}, with phi=(1+sqrt(5))/2; its original proof is not newly inspected.
+No novelty or new unrestricted gap is claimed.
+
+Let alpha be a genuine Salem number, K=Q(alpha), d=[K:Q]>=4, sigma(alpha)=alpha^(-1), and F=K^sigma the totally real trace field.
+Write alpha=tau^a, where tau>1 is the smallest Salem number in the FULL field K and a>=1 is an integer, as in [Smy15's fixed-field theorem](../audits/literature/Smy15/Yin_U001.md#smy15-u001).
+Then deg(tau)=d; tau need not generate the original order Z[alpha].
+For every nontorsion unit beta in O_K^*, put D=[Q(beta):Q] and eta=Norm_(K/F)(beta)=beta sigma(beta).
+The following dichotomy retains the actual own degree D:
+
+    eta=1:
+      beta=+/-tau^j, j in Z\{0}, D=d,
+      M_2(beta)=sqrt(2d)|j|m(tau);
+
+    eta!=1:
+      h_abs(beta)>=log(phi)/4,
+      M_2(beta)>=D log(phi)/2.                        (SF1)
+
+Indeed eta is a totally real algebraic integer unit.
+At every nonsplit real place of F its value is the positive squared modulus of a complex image of beta, so eta cannot be the constant -1; there is at least one such place because d>=4.
+If eta=1, C485 gives the exact full unit kernel {+/-tau^j}, and the fixed-field power theorem gives D=d for j!=0.
+Its two nonzero radial logarithms give the first raw-norm formula in SF1.
+If eta!=1, it lies outside {0,1,-1}, and Schinzel gives h_abs(eta)>=log(phi)/2.
+The elementary all-place height inequality and Galois invariance give h_abs(eta)<=h_abs(beta)+h_abs(sigma(beta))=2h_abs(beta).
+Finally beta is a unit, so its place function is supported on the archimedean probability component and ||f_beta||_2>=||f_beta||_1=2h_abs(beta).
+Multiplication by its own degree D proves the second raw-norm bound in SF1.
+This proof uses neither an ordinary-regulator lower bound nor a varying-rank constant.
+
+For any nonzero nonunit beta in K, whether integral or not, the separate [C855 all-place floor](../claims/Yin_C_G0855_v2.md#statement) gives M_2(beta)>=log(2).
+Thus allowing a denominator in a rational-function output does not remove the finite-place cost.
+Torsion outputs are excluded from the proposed application of a positive raw p=2 floor.
+
+For a PRIMITIVE source alpha=tau, every nontorsion beta in K consequently satisfies the useful common bound
+
+    M_2(beta)/m(alpha)
+      >=min{sqrt(2d), log(phi)/(2m(alpha))}.           (SF2)
+
+For a unit outside the kernel, use D>=1 in SF1; for a nonunit use log(2)>log(phi)/2.
+Along any hypothetical sequence of primitive Salem sources with m(alpha) tending to zero, their degrees tend to infinity by the fixed-degree coefficient finiteness argument, and the right side of SF2 tends to infinity.
+Accordingly no same-field recipe can provide one degree-independent C in M_2(beta)<=C m(alpha) on that hypothetical sequence.
+For a NONPRIMITIVE source alpha=tau^a, the kernel branch instead has ratio sqrt(2d)|j|/a relative to m(alpha), and taking the smaller generator tau may lower the raw norm.
+That possibility is expressly retained; it supplies the old fixed-field power reduction, not a new bound for m(tau).
+
+Every defined nonzero value R_alpha(alpha), with R_alpha in Q(X), remains in K, even when its degree, coefficients and denominators vary with the entire original polynomial.
+Therefore SF1--SF2 apply to all such outputs at their actual unit or nonunit status, not only to a fixed rational graph.
+If additionally R_alpha(X)R_alpha(X^(-1))=1 as a rational identity, then its value has relative norm one; whenever that value is integral it is a unit and is necessarily +/-tau^j.
+This includes real-rational inner functions: on the unit circle their unit-modulus identity gives the displayed reciprocal rational identity, hence it holds identically wherever defined.
+For a nonprimitive source, their possible contraction still only returns another power of tau.
+
+The surviving arithmetic-compression question must therefore genuinely leave the primitive original field, for example through a paid algebraic extension or operations on conjugates not contained in K.
+The integer-monomial and rational-line restrictions in AR1--AR6 still apply where those constructions fall in their domains.
+No unconditional construction with controlled own degree, all-place norm and non-torsion has been obtained outside K, and no automatic extension or nonmonomial unit supply is asserted.
+
+<a id="p2-trace-unit-quadratic-return"></a>
+## A conditional trace-unit return and its existing degree limitation
+
+This is working author mathematics for Yin, developed on 2026-11-05 by the arithmetic-return contributor and not independently reviewed.
+The positive construction below preserves integrality and the exact degree once an actual trace-field unit satisfies the stated inequalities.
+The older accepted Dobrowolski input below already confines this supplied class at m<=1 to bounded degree, so this is a calibration of the required compression rather than new gap coverage or a generic unit-supply priority.
+No unrestricted G0001 completion or reduction of all reciprocal inputs to Salem inputs is asserted.
+
+The bounded reuse screen read C454's actual-order relative-unit classification, C485's full-field kernel and regulator costs, C9's actual unit-cone construction, C44's integer trace-lattice boxes, C164's unit motion and quadratic Salem lift, and C585 v2's original trace-positivity comparison.
+The [C454 affine profile](../claims/Yin_C_G0454_v1.md#statement) concerns units in the original K-order and an actual denominator-three identity, not the unit inequalities below.
+[C485](../claims/Yin_C_G0485_v1.md#salem-relative-regulator-identity) supplies the old fixed-field kernel, while the [C9 logarithmic-lattice argument](../claims/Yin_C_G0009_v1.md#actual-order-units-in-every-log-cone) supplies units far along open cones with uncontrolled size.
+[C44](../claims/Yin_C_G0044_v1.md#statement) supplies bounded-norm integer elements with explicit interpolation costs, not necessarily units.
+The quadratic degree and integrality mechanism already appears in [C164, argument Section 6](../claims/Yin_C_G0164_v1.md#argument), where taking sufficiently large unit powers makes the exterior trace and the resulting Salem measure grow.
+[C585 v2](../claims/Yin_C_G0585_v2.md#statement) treats the actual self-composition quotient, its interlacer and two rational controls, rather than the integral shifted trace used here.
+The new working content is the original-input division by a positive unit near trace endpoint 2, the complete resulting p=2 compression and its explicit occupancy problem; no new quadratic-lift theorem, unit-cone theorem or novelty claim is made.
+
+Let alpha>1 be a genuine Salem number of degree d=2t>=4, let m=log alpha, and put theta=alpha+alpha^(-1), F=Q(theta).
+Use its actual monic trace polynomial T, so P_alpha(X)=X^t T(X+X^(-1)), [F:Q]=t, and P_alpha(1)=T(2), as in the [C243 reciprocal trace interface](../claims/Yin_C_G0243_v1.md#statement).
+Index all real embeddings rho_j of F by j=0,...,t-1, with theta_0=rho_0(theta)=2cosh(m)>2 and theta_j in(-2,2) for j>0.
+Suppose there is an ACTUAL totally positive unit u in O_F^* whose values u_j=rho_j(u) satisfy
+
+    u_0>=d,
+    u_j>=(2-theta_j)/4 for every 1<=j<t.             (TU1)
+
+The full integer ring O_F is permitted; membership in Z[theta] is not required or inferred.
+Define the algebraic integer
+
+    gamma=2+(theta-2)/u in O_F,
+    beta=(gamma_0+sqrt(gamma_0^2-4))/2>1.             (TU2)
+
+Integrality of gamma uses the actual inverse u^(-1) in O_F and introduces no rational denominator or uncharged finite-place term.
+At the distinguished embedding gamma_0=2+(theta_0-2)/u_0>2.
+For every other embedding, positivity and TU1 give -2<=gamma_j<2.
+Equality gamma_j=-2 is impossible: injectivity of rho_j would imply gamma=-2 in F, contradicting gamma_0>2.
+Thus gamma has exactly one F-embedding above 2 and all others strictly in(-2,2).
+
+It follows that Q(gamma)=F.
+Indeed if gamma lay in a proper subfield E, each embedding of E would occur [F:E]>1 times among embeddings of F, so the value gamma_0>2 would repeat, contrary to its uniqueness.
+The polynomial X^2-gamma X+1 is irreducible over F because gamma^2-4 is negative at every j>0, and a square in a totally real field cannot have a negative embedding.
+Consequently
+
+    [Q(beta):Q]=2t=d,
+    P_beta(X)=Norm_(F/Q)(X^2-gamma X+1) in Z[X]      (TU3)
+
+is the monic irreducible polynomial of beta, with constant coefficient one.
+Its original conjugates are beta,beta^(-1) and d-2 nonreal roots on the unit circle.
+In particular beta is a genuine nontorsion algebraic integer UNIT, with zero finite-place contributions and no splitting-field or auxiliary-degree multiplier.
+The new quadratic extension of F need not equal the original K=Q(alpha).
+If alpha is the primitive Salem generator of K, then beta is outside K: TU1 gives beta<alpha, contradicting the fixed-field generator theorem if beta were in K.
+For a nonprimitive alpha, no such field-distinctness assertion is made.
+
+The complete norm cost is explicit.
+From cosh(log beta)-1=(cosh(m)-1)/u_0 one obtains
+
+    m(beta)=log beta
+      =2 asinh(sinh(m/2)/sqrt(u_0)),
+    M_2(beta)=2sqrt(2d) asinh(sinh(m/2)/sqrt(u_0)).    (TU4)
+
+For 0<m<=1, asinh(x)<=x for x>=0 and convexity of sinh on [0,1/2] give
+
+    M_2(beta)<=2sqrt(2d/u_0)sinh(m/2)
+             <=C_0 m,
+    C_0=2sqrt(2)sinh(1/2).                           (TU5)
+
+Thus the [C855 raw floor](../claims/Yin_C_G0855_v2.md#statement) applied to this actual beta would give
+
+    m>=1/(sqrt(10)C_0)=1/(4sqrt(5)sinh(1/2))         (TU6)
+
+on the stated conditional domain.
+There is no assertion that TU1 holds for every Salem input, or even for one unspecified near-one input.
+
+The coordinating agent identified the decisive older-input comparison before closing this inquiry.
+Because the output is itself Salem of the SAME degree d, TU4 and 0<m<=1 already give
+
+    m(beta)<=2sinh(1/2)/sqrt(d).
+
+    For d>=exp(e), the accepted C147 benchmark gives
+    m(beta)>=(1/2400)(log log d/log d)^3.            (TU6a)
+
+The latter is exactly the [retained numerical Dobrowolski consequence](../claims/Yin_C_G0147_v5.md#argument), with total measure obtained by multiplying its absolute-height inequality by the output degree d; its external statement/proof-inspection limits are unchanged.
+Since sqrt(d)(log log d/log d)^3 tends to infinity, the two inequalities are incompatible for every sufficiently large d.
+Thus the source degrees admitting TU1 with m<=1 are bounded by an absolute finite threshold, whose numerical value has not been computed here.
+At bounded degree and m<=1 the usual coefficient bounds leave only finitely many monic integer polynomials, and their nonzero Mahler measures have a positive minimum.
+Accordingly the TU1 supplied class already has a uniform positive gap from the older accepted inputs alone, without the new raw p=2 floor.
+Along any hypothetical Salem measure-to-zero sequence, TU1 is eventually impossible, since its degrees must tend to infinity.
+The displayed constructor therefore supplies neither a new near-one coverage class nor a justified generic supply claim; moving to a new Salem field of the same degree does not remove this old cost.
+
+The product formula imposes a necessary original-input restriction before any such supply attempt.
+Since u is a totally positive unit, product_j u_j=1.
+Multiplying the t-1 lower bounds in TU1, and retaining the [actual endpoint norm identity](../claims/Yin_C_G0201_v1.md#argument), gives
+
+    u_0=1/product_(j>0)u_j
+       <=4^(t-1)/product_(j>0)(2-theta_j)
+       =(theta_0-2)4^(t-1)/|P_alpha(1)|.
+
+    TU1 therefore requires
+    |P_alpha(1)|<=(theta_0-2)4^(t-1)/d.             (TU7)
+
+This includes every original trace conjugate and the nonzero integer |P_alpha(1)|; it is not a replacement by a free trace configuration.
+TU7 is necessary and is not asserted sufficient.
+In logarithmic coordinates the exact input-specific occupancy condition is that the ACTUAL positive-unit lattice meet the bounded region
+
+    x_0>=log d,
+    x_j>=log((2-theta_j)/4) for j>0,
+    sum_j x_j=0.                                    (TU8)
+
+The sum and all lower bounds make every coordinate bounded above as well.
+Dirichlet's full-lattice theorem, the existence of units in unbounded cones, or the Euclidean volume of this region alone does not prove its occupancy.
+Taking large powers of a cone unit eventually violates at least one fixed lower bound in TU1, so the old C9/C164 motion is not an occupancy argument.
+No regulator-uniform estimate, short fundamental-unit basis, lattice-covering bound or small-source unit meeting TU1 has been supplied in this inquiry.
+TU1/TU8 records the exact conditional construction and the already-covered range it would select, rather than a new route priority for unrestricted G0001.
+
+### Exact nonempty control from the old quartic
+
+Use only the [already established quartic Salem input](../claims/Yin_C_G0396_v1.md#statement), tau with minimal polynomial X^4-X^3-X^2-X+1 and trace gamma=(1+sqrt(13))/2.
+It satisfies gamma^2=gamma+3, so tau^3+tau^(-3)=gamma^3-3gamma=gamma+3.
+Take the NONPRIMITIVE source alpha=tau^3 and, in F=Q(sqrt(13)), set
+
+    theta=gamma+3=(7+sqrt(13))/2,
+    u=3gamma+4=(11+3sqrt(13))/2,
+    u^(-1)=(11-3sqrt(13))/2.
+
+Both embeddings of u are positive, its norm is one, u_0>4=d, and u(gamma-2)=theta-2.
+At the other embedding gamma_1 in(-2,2), this identity gives (2-theta_1)/4=u_1(2-gamma_1)/4<u_1.
+Thus TU1 holds and TU2 returns beta=tau exactly.
+Since theta_0>5, the source alpha>4 and m(alpha)>log(4)>1.
+This proves that the general constructor is nonempty, but supplies neither the 0<m<=1 domain of TU5 nor a primitive source whose output leaves K.
+It reuses the old quartic and its fixed-field powers without a new numerical experiment or new small-measure family.
+
+### An original cyclic candidate and its simultaneous arithmetic gate
+
+The coordinating agent proposed the following one-parameter trial family, and the arithmetic-return contributor checked its exact integrality, norm and angle conditions.
+Let R_0(X)=2, R_1(X)=X, R_(n+1)(X)=X R_n(X)-R_(n-1)(X), so R_n(theta)=alpha^n+alpha^(-n), as in C243.
+For every integer n>=1 define
+
+    theta_n=R_n(theta),
+    u_n=(theta_n-2)/(theta-2) in Z[theta].           (TU9)
+
+The integrality follows because R_n(2)=2 and hence (R_n(X)-2)/(X-2) is an integer polynomial.
+No original conjugate is a root of unity, so every embedding of u_n is strictly positive.
+Write A_n=|Norm_(K/Q)(alpha^n-1)| for the complete original cyclic norm, retaining the [C256 norm convention](../claims/Yin_C_G0256_v1.md#content-versus-ideal-norm).
+The full trace product gives exactly
+
+    Norm_(F/Q)(u_n)=A_n/A_1 in Z_(>0),
+    u_n is a unit if and only if A_n=A_1,
+    (u_n)_0=[sinh(nm/2)/sinh(m/2)]^2>=n^2.         (TU10)
+
+For the norm equality use |Norm_F(theta_n-2)|=A_n and |Norm_F(theta-2)|=A_1, with every original embedding counted.
+The real inequality follows from sinh(nx)>=n sinh(x) for x>=0 and integer n>=1.
+If the neutral root pairs are exp(plus-or-minus i phi_j), with 0<phi_j<pi, then
+
+    (u_n)_j=[sin(n phi_j/2)/sin(phi_j/2)]^2,
+    (u_n)_j>=(2-theta_j)/4
+      if and only if |sin(n phi_j/2)|>=sin^2(phi_j/2). (TU11)
+
+Therefore one integer n>=ceil(sqrt(d)) satisfying A_n=A_1 and every inequality TU11 would supply the ACTUAL unit TU1 and the completed quadratic return.
+These two requirements must hold at the same n.
+The [C417 joint phase-density theorem](../claims/Yin_C_G0417_v3.md#salem-joint-phase-density) gives arbitrarily late n satisfying the strict sine inequalities by approaching the vector (-1,...,-1) with the neutral powers.
+It supplies no equality A_n=A_1 on those times.
+Likewise the [C391 cyclic norm upper-cost theorem](../claims/Yin_C_G0391_v1.md#statement) does not turn a small positive upper estimate into this exact integer equality without a separately paid below-log(2) bound for the quotient.
+The [existing C199 normalized cyclotomic-unit gate](../claims/Yin_C_G0199_v5.md#statement) has its separate original residual and zero-Haar hypotheses, and is not a supply for TU10.
+
+The accepted [Ste77 primitive-ideal statement](../audits/literature/Ste77/Yin_U001.md#ste77-theorem-one) also gives a precise finite restriction:
+
+    A_n=A_1, n>=2
+      implies n<=max{2(2^d-1), exp(452)d^67}.       (TU12)
+
+Indeed an n above this threshold has a prime ideal dividing alpha^n-1 but not alpha-1, whereas alpha-1 divides alpha^n-1 in O_K and equality of their absolute norms would make the quotient a unit.
+This uses the source's retained statement and proof-inspection limits, not a new primitive-divisor proof or a small-index prime coverage assertion.
+No n satisfying the simultaneous gate has been supplied; no finite search up to this enormous bound was performed.
+The bounded screen identifies TU10--TU11 as a concrete way to test TU1's already-covered class; TU6a excludes a simultaneous gate along any hypothetical near-zero sequence.
+It adds no new gap coverage or justified generic same-n supply claim, and the unrestricted total-Mahler return remains unresolved.
+
+<a id="p2-real-or-circle-output-boundary"></a>
+## Fixed real-or-circle output theorem and retained raw-bound specialization
+
+The complete general argument is now [C865 v1](../claims/Yin_C_G0865_v1.md#argument), with its [selected whole assessment](../claims/Yin_C_G0865_v1.md#decision-whole-independent-review-2026-11-04) and [independent R1087 finding](../audits/reviews/Yin_R_G1087_v1.md#real-circle-p2-whole-independent-finding).
+Its Statement A proves raw-p2 divergence with degree at bounded TOTAL measure on the entire real-or-circle unit class, and finiteness of every bounded raw sublevel.
+Parts B--C retain all RC1--RC5 field, unit, degree and radial costs and show that allowing many shifted traces below -2 still yields only a finite small-source class under the proposed compression bound.
+The fixed proof carries these facts directly and does not rely on this mutable Draft or the unreviewed preceding SF/TU work.
+No unrestricted total gap or automatic unit construction follows.
+
+The earlier raw-bound specialization below remains a compact author-working refinement, not an additional conclusion reviewed in R1087.
+If M_2(beta)<=B and
+
+    D>=max{55,exp(B/2),(B/log(2))^2},
+
+then every root has modulus at most 2 and log(max(D,M(beta)))=log D.
+Use the globally 1-Lipschitz tent phi_r(z)=max(0,r-dist(z,[-2,2])), supported in the disk of radius3.
+Its circle integral is at most r^2, and the accepted Pri11 discrepancy contributes 7sqrt(log D/D), by the same direct test calculation now retained in C865.
+With r=(log D/D)^(1/4), the real-root count therefore satisfies
+
+    k/D<=8(log D/D)^(1/4),
+    M_2(beta)>=[1/(1200sqrt(8))]
+                 D^(1/8)(log log D)^3/(log D)^(25/8).
+
+The second bound uses the directly proved supported Cauchy inequality and C147's exact numerical input, with no universal raw-p2 floor.
+This retains the original constant8 specialization and its extra raw-bound threshold without duplicating the fixed general proof.
+
+<a id="p2-salem-monomial-radical-degree"></a>
+## Fixed home of the full Salem monomial-radical degree cost
+
+The complete SR1--SR10 inquiry and the full earlier integer-monomial proof are retained in [C866 v1](../claims/Yin_C_G0866_v1.md#argument), with its [selected whole assessment](../claims/Yin_C_G0866_v1.md#decision-whole-independent-review-2026-11-04) and [independent R1088 finding](../audits/reviews/Yin_R_G1088_v1.md#whole-salem-radical-degree-finding).
+That fixed home includes all required arguments directly, rather than relying on this Draft or an author-working AR premise.
+
+For a primitive Salem source, normalized beta^s=xi eta^g with arbitrary external torsion and gcd(g,s)=1 obeys D>=sN/gcd(s,2) at the actual respective degrees D,N.
+The exact measure multiplier is gD/(sN), so M_2(beta)>=M_2(alpha)/2; odd denominators have no loss relative to the integer monomial.
+The [positive coordinate descent](../claims/Yin_C_G0866_v1.md#coordinate-norm-descent) and [ordinary external norm](../claims/Yin_C_G0866_v1.md#external-radical-degree) retain every field, torsion, unit and degree cost.
+Nonprimitive sources keep their original power loss, and the odd-trace-degree torsion observation is ancillary rather than a premise.
+
+The [exact primitive quartic control](../claims/Yin_C_G0866_v1.md#quadratic-saturation-control) attains the quadratic degree multiplier and half the raw norm of its integer monomial.
+Its ratio to the original Salem raw norm is one over sqrt(2), not one half, and its source measure is already greater than log2.
+No sharpness of the final half-alpha constant, favorable near-one supply or unrestricted G0001 conclusion follows.
+The separate SF/TU calculations and raw-B constant8 specialization above retain their stated author-working scopes.
+
+<a id="p2-coupled-norm-one-units"></a>
+## Nonmonomial norm-one units: actual rank and a coupled finite-place test
+
+This is author-working mathematics for Yin on 2026-11-05, not independently reviewed.
+The arithmetic-return contributor developed the rank, separable-factor and coupled-quotient calculations; the coordinating agent checked the signature count and the distinction between rank and shortness.
+The bounded inquiry seeks an actual unit operation beyond C866's rational conjugate span and C865's real-or-circle output geometry.
+The fixed-function and fixed-finite-sum comparisons in C852/C853 were read at their retained scopes; no new version or broader fixed-function claim is inferred.
+No short unit or unrestricted positive return has been obtained.
+
+### The proposed surviving norm-one class is genuinely larger
+
+Let alpha be a genuine Salem number of degree d=2t>=4, let L be its splitting field of degree N over Q, and let c be ordinary complex conjugation.
+Set F_c=L^<c> and E_c={b in O_L^*:b c(b)=1}.
+The field F_c is real in the chosen embedding but is generally NOT totally real.
+The accepted full-signature Dirichlet input is [Con26-U002](../audits/literature/Con26/Yin_U002.md#con26-u002), including its complex-pair convention and recorded source-proof limits; the totally-real U001 is not silently extended.
+That adequate source home already contains the needed theorem, so no new source unit is required.
+
+The normal closure L is totally imaginary, with signature (0,N/2).
+The [C383 complex-conjugation class](../claims/Yin_C_G0383_v1.md#salem-kernel-class-population) has exactly t elements, one fixing each inverse pair, so |C_G(c)|=N/t.
+Embeddings of F_c correspond to the N/2 cosets of <c> in G.
+Such an embedding represented by g is real exactly when g^(-1)c g lies in <c>, which here means g^(-1)c g=c.
+The number of real embeddings is therefore |C_G(c)|/2, giving
+
+    r_1(F_c)=N/(2t),
+    r_2(F_c)=N/4-N/(4t).                                  (NU1)
+
+Dirichlet now gives rank O_L^*=N/2-1 and rank O_(F_c)^*=N/4+N/(4t)-1.
+For the concrete unit map D_c(a)=a/c(a), its kernel is O_(F_c)^*.
+Its image lies in E_c and contains the square of every element of E_c, since D_c(b)=b^2 when c(b)=b^(-1).
+Thus its image and E_c have the same rational rank, namely
+
+    rank E_c=N(t-1)/(4t).                                (NU2)
+
+The rational span modulo torsion of one original root from each inverse pair has dimension t by C165's independence.
+The action of c fixes the real pair and negates the other t-1 logarithmic directions.
+Its intersection with the norm-one unit space therefore has dimension exactly t-1: the neutral original roots supply those independent directions, and the coefficient at the real pair must vanish.
+Consequently, if N>4t, E_c and the actual image D_c(O_L^*) contain units outside the rational conjugate span.
+This is mathematical nonemptiness of the intended surviving class, with no height or short-vector estimate.
+
+For t=2, C383 gives N=8 and rank E_c=1=t-1, so this norm-one class has no extra rational directions.
+For t=3, N=12 gives rank two and no extra directions, whereas N>12 gives extra directions.
+For every t>=4, the actual lower bound N>=t 2^(t-1)>4t makes extra directions unavoidable.
+An actual basis of O_L^* would exhibit an a whose a/c(a) lies outside the old span, but no such basis, controlled-height element, degree saving or regulator bound has been supplied here.
+The large rank does not imply a small raw M_2 value.
+
+### Products of separate conjugate-field factors still collapse
+
+Choose oriented original roots u_i and, in K_i=Q(u_i), let r_i be any nonzero element with r_i*iota_i(r_i)=1 for the inverse involution iota_i.
+No initial integrality assumption on the individual r_i is made.
+Suppose w=zeta product_i r_i is a unit of L, with zeta in mu(L).
+For the conjugate complex conjugation c_i fixing pair i and flipping all others,
+
+    w c_i(w)=r_i^2.                                       (NU3)
+
+Indeed c_i fixes r_i, sends every r_j with j!=i to r_j^(-1), and inverts zeta.
+The left side is a unit, so r_i and r_i^(-1) are integral by their monic square equations.
+Every r_i is therefore an actual norm-one unit of K_i.
+For a primitive source, the [C485 full-field kernel](../claims/Yin_C_G0485_v1.md#salem-relative-regulator-identity) makes each r_i a signed integer power of u_i, and w is already in C866's class.
+For a nonprimitive source the same conclusion holds in the rational span after passage to its primitive field generator, with the retained original power cost.
+Thus even an input-dependent product of separate factors r_i=F_i(u_i)/F_i(u_i^(-1)), with arbitrary rational functions F_i and defined nonzero values, does not supply a new unit through cancellation of their finite valuations.
+Genuine coupling between different inverse pairs inside one factor is needed to leave this particular class.
+
+### A coupled quotient has small archimedean cost but fails its exact unit gate
+
+Take u_i,u_j from distinct original inverse pairs and an integer n>=1, and put x=u_i^n, y=u_j^n.
+Suppose every original neutral n-th power z satisfies |z-1|<=delta, with 0<delta<=1/4.
+This is an actual condition on one original input and one common exponent.
+The [C417 phase-density interface](../claims/Yin_C_G0417_v3.md#salem-joint-phase-density) permits arbitrarily small such delta at arbitrarily late n for each fixed Salem input; it supplies no integrality claim.
+Let
+
+    a=1+x, b=1+x^2,
+    A=a+b y, B=a y+b,
+    beta=A/B,
+    Q=(1-x)(1-y)/B.                                      (NU4)
+
+Let c_i fix x and invert y.
+It preserves K_xy=Q(x,y), and B=y c_i(A), so beta c_i(beta)=1 whenever defined.
+The actual pair-field degree J=[K_xy:Q] is at most d(d-2), by the original ordered off-pair orbit, and the output degree D=[Q(beta):Q] is at most J.
+The bounds below show that A and B are nonzero throughout this close-phase domain.
+
+At every conjugate, at most one of x,y is a positive real number alpha^n or alpha^(-n); every remaining coordinate is on the unit circle within delta of 1.
+The three possible cases give the following complete denominator and quotient bounds:
+
+    both neutral:
+      |B|>=4-5delta,
+      |Q|<=delta^2/(4-5delta);
+
+    x=R>0 real, y neutral:
+      |B|>=(1-delta)(2+R+R^2),
+      |Q|<=delta |1-R|/[(1-delta)(2+R+R^2)]
+           <delta/(1-delta);
+
+    y=R>0 real, x neutral:
+      |B|>=2(1-delta)(1+R),
+      |Q|<=delta |1-R|/[2(1-delta)(1+R)]
+           <=delta/[2(1-delta)].                       (NU5)
+
+For the first line, compare B to 4 and use |1+x|<=2, |x^2-1|<=2delta.
+For the second, compare y to 1 in (1+R)y+1+R^2; for the third compare x to 1 in (1+x)R+1+x^2.
+These give exactly the displayed bounds and show B never vanishes; A=y c_i(B) is also nonzero.
+Since x,y are powers of nontorsion conjugates, Q is nonzero.
+
+The archimedean behavior is favorable in isolation.
+If x is real, the positive real coefficients a,b and |y|=1 give |a+b y|=|a y+b|, so |beta|=1 exactly.
+In the other two cases use
+
+    beta-1=x(1-x)(1-y)/B=xQ.
+
+There |x|=1 and NU5 bounds |beta-1| by delta.
+Thus |log|beta||<=2delta at every conjugate.
+Define the raw archimedean contribution by M_(2,arch)(beta)=[D sum_(beta embeddings)log^2|beta_i|]^(1/2); it obeys
+
+    M_(2,arch)(beta)<=2D delta<=2d(d-2)delta.           (NU6)
+
+This is not the full all-place M_2 for a nonunit.
+There are genuinely nonreal off-circle conjugates here: send y to alpha^n=R>1, leaving x=exp(i theta) neutral with theta in(-pi,pi), x!=1 and |x-1|<=1/4.
+Then b/a=exp(i theta/2)cos(theta)/cos(theta/2) has nonzero imaginary part and modulus less than one.
+For beta=(1+(b/a)R)/(R+b/a), its imaginary part is nonzero and
+
+    Im beta=(R^2-1)Im(b/a)/|R+b/a|^2,
+    |1+(b/a)R|^2-|R+b/a|^2
+       =(R^2-1)(|b/a|^2-1)<0.
+
+So this candidate is not being discarded by C865's real-or-circle hypothesis.
+
+Its finite-place condition nevertheless fails exactly.
+The identity beta-1=xQ and the fact that x is an integer unit imply that beta is integral if and only if Q is integral, equivalently
+
+    B divides (1-x)(1-y) in O_(K_xy).                    (NU7)
+
+Since c_i(beta)=beta^(-1), integrality here is also equivalent to beta being a unit.
+But every bound in NU5 is strictly less than one for delta<=1/4.
+If Q were integral, its nonzero ordinary field norm would be a nonzero integer of absolute value at least one, while the product of all its actual conjugate absolute values would be strictly less than one.
+This contradiction proves that beta is NOT an algebraic integer anywhere in the stated close-phase domain.
+The missing finite places therefore cannot be omitted from NU6.
+This exact original-input failure does not use a fixed-small-input-height premise: n may grow and the powers x,y may have large absolute heights.
+
+### The finite-place expense grows as the same archimedean compression improves
+
+The coordinating agent proposed the following quantitative strengthening, and the arithmetic-return contributor checked every conjugate case, field norm and local normalization.
+In the same NU4 domain, the stronger bound holds at EVERY actual embedding:
+
+    |sigma(beta)-1|<=delta.                              (NU8)
+
+The both-neutral and y-real cases already follow from NU5 and beta-1=xQ.
+For the remaining x=R>0 real case, use the sharper positive-real-part bound
+
+    |B|>=1+R^2+(1-delta)(1+R),
+    |beta-1|<=R|1-R|delta/|B|<=delta.
+
+If R>=1 the denominator is at least R^2>=R|1-R|; if R<=1 it is at least 1>=R|1-R|.
+Thus NU8 includes the embeddings previously known only to have |beta|=1.
+Also beta-1 is nonzero because x,1-x and 1-y are nonzero and B never vanishes.
+
+Work now in the ACTUAL output field K_beta=Q(beta)=Q(beta-1), of degree D.
+For a finite place v above p, let e_v,f_v be its ramification and residue degrees, normalize ord_v to be integer-valued, and use the [retained all-place convention](../audits/literature/FM13/Yin_U001.md#place-space-and-height-normalization)
+
+    log|beta|_v=-(ord_v(beta)/e_v)log p,
+    w_v=e_v f_v/D,
+    h_fin^+(beta)=sum_(v finite) w_v log^+|beta|_v.
+
+NU8 and the product formula for the nonzero beta-1 give
+
+    sum_(v finite)w_v log|beta-1|_v
+      =-(1/D)sum_(sigma:K_beta->C)log|sigma(beta)-1|
+      >=log(1/delta).
+
+At each finite place, the ultrametric inequality gives log|beta-1|_v<=log^+|beta|_v.
+Therefore
+
+    h_fin^+(beta)>=log(1/delta).                         (NU9)
+
+The formal relative-norm identity also fixes the signed finite mass.
+The nontrivial involution c_i on K_xy satisfies beta c_i(beta)=1, so Norm_(K_xy/Q)(beta)=1.
+Taking the norm tower from K_xy to K_beta gives |Norm_(K_beta/Q)(beta)|=1.
+Thus the signed archimedean logarithmic average of beta is zero; the product formula makes the signed finite average zero as well.
+Its positive and negative finite masses are equal, and hence
+
+    sum_(v finite) f_v |ord_v(beta)| log p
+       =2D h_fin^+(beta).                               (NU10)
+
+The finite contribution to the RAW p=2 quantity is
+
+    M_(2,fin)(beta)^2
+      =D sum_(v finite)(f_v/e_v)ord_v(beta)^2(log p)^2
+      >=log(2) sum_(v finite)f_v |ord_v(beta)|log p
+      =2D log(2) h_fin^+(beta)
+      >=2D log(2)log(1/delta).                          (NU11)
+
+The termwise inequality uses e_v<=D, p>=2 and the integral valuation ord_v; a zero valuation contributes zero on both sides.
+With the same actual degree, M_2(beta)^2=M_(2,arch)(beta)^2+M_(2,fin)(beta)^2.
+Consequently the full raw norm diverges as delta tends to zero, despite the shrinking archimedean bound NU6.
+The total logarithmic Mahler measure also satisfies m(beta)=D h_abs(beta)>=D log(1/delta), with its finite-place denominator cost included.
+These deductions use the ordinary product formula and local valuations, not a new external theorem or the universal raw-p2 floor.
+
+### Remaining scope
+
+NU2 proves that genuinely new norm-one unit directions exist for the stated splitting fields, while NU3 rules out obtaining them from separate conjugate-field norm-one factors.
+NU4 is a genuinely coupled, nonreal-output operation with an exact arithmetic gate, but NU5--NU7 show that its favorable close-phase regime never meets that gate.
+NU8--NU11 quantify the failure: strengthening its archimedean compression forces a diverging finite-place expense.
+No actual unit outside the old rational span with controlled own degree and full raw norm has been constructed in this bounded inquiry.
+A successful construction still needs coupling, finite-place cancellation and a quantitative size bound simultaneously; rank, phase approximation and a formal norm-one identity supply none of that conjunction by themselves.
+The original unrestricted G0001 total-Mahler target remains unresolved.
+
+<a id="p2-separable-radical-dichotomy"></a>
+## Fixed home of the arbitrary separate-factor radical dichotomy
+
+The complete SD1--SD10 argument is now [C866 v2](../claims/Yin_C_G0866_v2.md#argument), with its [selected whole assessment](../claims/Yin_C_G0866_v2.md#decision-whole-independent-review-2026-11-04) and [independent R1088 v2 finding](../audits/reviews/Yin_R_G1088_v2.md#whole-separate-factor-radical-finding).
+The fixed proof retains all-place normalization, arbitrary finite valuations of the separate factors, external torsion and radicals, the actual intersection-field norm towers, recovered unit hypotheses, and normalization into the fixed v1 theorem.
+It uses no assumption that an individual factor is a unit or has relative norm one.
+
+For a primitive Salem source and the exact separate-factor radical domain, it proves M_2(beta)>=min(log(phi),M_2(alpha)/2).
+The nonprimitive source power remains explicit, and the hypothetical near-zero sequence consequence is stated only with its actual primitive-source quantifiers.
+The constant-height branch does not imply bounded degree for every source with m(alpha)<=1.
+No factorization theorem for general coupled units, short coupled-unit construction or unrestricted G0001 conclusion follows.
+The preceding norm-one rank and concrete coupled finite-place calculations remain at their separate author-working scope; this assessment does not independently review them.
+
+<a id="p2-bounded-coupling-arity"></a>
+## Fixed home and remaining scope of the coupling-arity inquiry
+
+The complete BA1--BA8 argument is fixed in [C866 v3](../claims/Yin_C_G0866_v3.md#p2-bounded-coupling-arity), with its [selected whole assessment](../claims/Yin_C_G0866_v3.md#decision-whole-independent-review-2026-11-04) and [independent R1088 v3 finding](../audits/reviews/Yin_R_G1088_v3.md#whole-coupled-output-finding).
+That fixed home retains the actual-output-degree and full-place conventions, arbitrary input-dependent rational functions, original-orbit modulus-one condition, common positive powers, growing-arity bounds, and every branch of the eventual BA8 estimate.
+The fixed v1/v2 results and the preceding NU author work keep their separate scopes.
+
+The remaining construction question is whether genuinely coupled units can be supplied with the required own-degree and full-norm control outside this exclusion.
+Growing coupling at or above the necessary BA8 rate is an unconstructed possibility, not evidence that the threshold is sufficient.
+Allowing radial output on wholly neutral input tuples requires a new count and payment of those actual output places; BA3 cannot be reused without its stated condition.
+Auxiliary coefficient fields and external radicals likewise require their additional actual-degree and all-place costs.
+No suitable unit or unrestricted G0001 conclusion is supplied here.
+
+<a id="p2-cayley-coupled-unit-gate"></a>
+## Fixed home and remaining scope of the Cayley unit inquiry
+
+The complete CY1--CY13 construction, exact unit restrictions and arbitrary-arity consequence are fixed in [C866 v3](../claims/Yin_C_G0866_v3.md#p2-cayley-coupled-unit-gate), under the whole assessment and independent finding linked above.
+The fixed proof retains all rational-weight hypotheses, original source restrictions, actual output degree, full integer norm, Galois sign actions, discrepancy and moment constants, and the distinction between an archimedean bound and the full norm of a nonunit.
+
+Weights of arbitrarily small absolute value and coefficients in an input-dependent number field remain outside that Cayley conclusion.
+A continuing construction in either domain must establish actual integrality and invertibility together with its own-degree and full-norm estimate; a formal norm-one expression or an archimedean contraction does not provide those facts.
+Other coupled functions and general splitting-field units remain unclassified.
+
+<a id="p2-convex-cayley-unit-norms"></a>
+## Fixed home and remaining scope of the small convex Cayley inquiry
+
+The complete CQ1--CQ24 argument is fixed in [C866 v4](../claims/Yin_C_G0866_v4.md#p2-convex-cayley-unit-norms), with its [selected whole assessment](../claims/Yin_C_G0866_v4.md#decision-whole-independent-review-2026-11-05) and [independent R1088 v4 finding](../audits/reviews/Yin_R_G1088_v4.md#whole-convex-cayley-finding).
+That fixed home retains the actual coordinate fields and norms, integer original-Mahler return, nonprimitive source power, small convex-weight comparison, full-place costs, and the exact quartic unit control with its irreducibility and own-degree measure identities.
+The comparison-only inverse-Mahler literature lead and its inspection limits are also retained there.
+The prior NU work and C866 v1--v3 keep their separate scopes.
+
+The full-use branch r=t with odd t and the actual even-flip kernel is now treated by [C866 v6](../claims/Yin_C_G0866_v6.md#decision-whole-independent-review-2026-11-05).
+Its actual norm-one tower pays the higher odd cases without adding individual flips; whether the exact norm-one equation has actual unit solutions is not decided or required by the cost bound.
+
+The coordinate-norm identities already apply to arbitrary positive rational weights in the fixed unused-pair or full-kernel domain, while the uniform small-weight comparison uses their convex normalization.
+The arbitrary-scale comparison is now proved in [C866 v5](../claims/Yin_C_G0866_v5.md#decision-whole-independent-review-2026-11-05), with the same exact sign-domain boundary and the stronger v4 convex coefficient retained.
+Coefficients in an input-dependent number field, other coupled functions and general splitting-field units remain distinct construction questions, with their actual fields, finite places and original-measure return still to be established.
+The fixed positive quartic example proves nonempty unit supply for one source above log 2; it supplies no near-one family or unrestricted G0001 completion.
+
+<a id="p2-arbitrary-rational-cayley-weights"></a>
+## Fixed home and remaining scope of arbitrary rational Cayley weights
+
+The complete FW1--FW12 argument is fixed in [C866 v5](../claims/Yin_C_G0866_v5.md#p2-arbitrary-rational-cayley-weights), with its [selected whole assessment](../claims/Yin_C_G0866_v5.md#decision-whole-independent-review-2026-11-05) and [independent R1088 v5 finding](../audits/reviews/Yin_R_G1088_v5.md#whole-arbitrary-weight-cayley-finding).
+The fixed home includes the general monic integer marginal, both integer norms, arbitrary total weight and denominators, actual output degree, source power, uniform comparison and signed-coefficient reduction.
+It also retains the stricter v4 convex coefficient and all original-source inspection limits.
+The higher odd full-use even-kernel cost is now supplied by [C866 v6](../claims/Yin_C_G0866_v6.md#decision-whole-independent-review-2026-11-05); input-field-dependent coefficients, other coupled operations and general splitting-field units remain outside this rational linear construction.
+This construction restriction supplies neither automatic outputs nor the unrestricted G0001 total-Mahler gap.
+
+<a id="p2-even-kernel-norm-one-bridge"></a>
+## Fixed home of the even-kernel norm-one descent
+
+The complete EK1--EK20 argument is fixed in [C866 v6](../claims/Yin_C_G0866_v6.md#p2-even-kernel-norm-one-bridge), with its [selected whole assessment](../claims/Yin_C_G0866_v6.md#decision-whole-independent-review-2026-11-05) and [independent R1088 v6 finding](../audits/reviews/Yin_R_G1088_v6.md#whole-even-kernel-cayley-finding).
+The fixed home retains the actual index-two fields, every norm multiplicity, positive coordinate Salem norms, square-root-degree estimate, arbitrary scales and source powers, constant branch and full rational-construction conclusion.
+It proves a positive gap for each fixed supplied return constant, without finiteness of the entire source class or a decision about the existence of norm-one unit solutions.
+General coupled operations and input-dependent coefficient fields still require useful actual unit supply and their complete original-measure costs.
+The unrestricted G0001 objective remains unresolved.
+
+<a id="p2-mahler-preserving-block-descent"></a>
+## Fixed home of the Mahler-preserving block reduction
+
+The complete BD1--BD11 reduction and finite-attainment argument is fixed in [C866 v7](../claims/Yin_C_G0866_v7.md#argument), with its [selected whole assessment](../claims/Yin_C_G0866_v7.md#decision-whole-independent-review-2026-11-05) and [independent R1088 v7 finding](../audits/reviews/Yin_R_G1088_v7.md#block-descent-whole).
+The fixed home retains the generic unit-Mahler-value domain, every starting realization, membership atoms and actual relative norm, unchanged total measure, nonincreasing actual-degree raw M_2, binomial degree cap and finite attainment.
+It also retains the DD04 attribution and inspection limits, the exact C855 normalization comparison and the original BD12 boundary; the unrestricted BD12 assertion is now refuted by [C866 v9](../claims/Yin_C_G0866_v9.md#decision-whole-independent-review-2026-11-05).
+No uniformly cheap inverse realization or unrestricted G0001 solution is supplied.
+
+<a id="p2-salem-inverse-fiber-signatures"></a>
+## Fixed home of the Salem inverse-Mahler signature bounds
+
+The complete IF1--IF14 argument and sharpened finite-attainment class are fixed in [C866 v8](../claims/Yin_C_G0866_v8.md#p2-salem-inverse-fiber-signatures), with its [selected whole assessment](../claims/Yin_C_G0866_v8.md#decision-whole-independent-review-2026-11-05) and [independent R1088 v8 finding](../audits/reviews/Yin_R_G1088_v8.md#salem-inverse-signatures-whole).
+The fixed home retains reciprocal negative sets without assuming reciprocal beta, exact signature and coefficient fields, actual radial proportions, all orbit branches, finite attainment and both the fixed-C and fixed-B degree costs.
+The bound deg(beta)>=2^(2d/C^2-1) is necessary for M(beta)=alpha and M_2(beta)<=C log(alpha); it does not conflict by itself with the exponential endpoint and splitting-field degrees still allowed.
+A uniformly inexpensive inverse realization, globally basal raw minimizer or general radical-monomial classification remains unsupplied.
+The unrestricted G0001 total-Mahler objective remains unresolved.
+
+<a id="p2-basal-raw-descent-counterexample"></a>
+## Fixed home of the basal-degree and raw-minimum separation
+
+The complete HR1--HR6 argument is fixed in [C866 v9](../claims/Yin_C_G0866_v9.md#p2-basal-raw-descent-counterexample), with its [selected whole assessment](../claims/Yin_C_G0866_v9.md#decision-whole-independent-review-2026-11-05) and [independent R1088 v9 finding](../audits/reviews/Yin_R_G1088_v9.md#basal-raw-separation-whole).
+The fixed home retains the general low-degree theorem for every genuine Salem value of degree at least ten, both actual half-norm degrees, full source-power cost, exact raw minimum and strict separation from all basal realizations.
+It includes the retained actual Lehmer input and exact bound log(alpha)>1, and refutes only the unrestricted BD12 replacement assertion.
+The binomial-degree/raw-monotone descent and finite attainment remain valid; sufficiently-small-measure variants and the unrestricted G0001 objective remain unresolved.
+
+<a id="dub02-degree16-positive-certificate-test"></a>
+## The actual degree-sixteen positive-sign certificate test
+
+This is an author-working finite test, without independent review or an adopted mathematical conclusion.
+The coordinating agent inspected retained Dub02, printed p.202/PDF p.7, and supplied the degree-sixteen polynomial claimed there to have Mahler measure tau^4 for the actual Lehmer source tau.
+The [canonical source record](../audits/literature/Dub02/Yin_U001.md#dub02-u001) retains that actual inspection and its limits; the arithmetic contributor did not newly inspect the source's full proof.
+
+The exact supplied input and complete native program are preserved in [J135](../computations/programs/Yin_J_G0135/readme.md).
+For F(y)=y^5+y^4-5y^3-5y^2+4y+3, the proposed certificate uses C_0=2, C_1=y and C_n=y C_(n-1)-C_(n-2).
+The product of C_n over the five original trace roots equals the sum of the n-th powers of the 32 products obtained by choosing either orientation in every original inverse pair.
+The program computed those power sums exactly as integer multiplication determinants for n=1,...,32 and used Newton identities to construct the monic Q32.
+For the supplied q16, it formed q(z)=E(z^2)+z O(z^2) and P16(Y)=E(Y)^2-Y O(Y)^2.
+
+The executed positive-sign divisibility test failed: the exact remainder of Q32(Y) on division by P16(Y) is nonzero, of degree 15 with leading coefficient -5096.
+The complete polynomial coefficients, all power sums, quotient and remainder are retained in J135's [fixed positive-case payload](../computations/programs/Yin_J_G0135/inputs/positive_case.json).
+The q(z)q(-z)=P16(z^2) identity and integer reconstruction checks passed.
+Thus this particular finite test does not establish that the squares of the q16 roots are the stated half-products, and it does not certify q16's irreducibility, Mahler value or proposed lower-measure counterexample.
+It does not refute the published source assertion, whose possible phase or different algebraic mechanism has not been settled by this positive-sign test.
+
+The specifically proposed follow-up divisibility P16(Y) dividing Q32(-Y) was not executed.
+No negative-sign output, higher-power test or other torsion test is claimed.
+The earlier fixed high-measure basal/raw counterexample retains its separate scope; no new C, R or assessment has been created from this incomplete certificate route.
