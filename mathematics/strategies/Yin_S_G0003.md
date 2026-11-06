@@ -10,6 +10,26 @@ author: Yin
 | --- | --- |
 | [Lehmer contract](../tasks/Yin_T_G0001_v1.md#contract) | Operator-algebra and topological mechanisms with an explicit return obligation to the classical scalar gap. |
 
+<a id="arithmetic-random-matrix-assessment-2026-11-05"></a>
+## Arithmetic random-matrix comparison
+
+2026-11-05T11:20.
+The continued comparison [L446v2](../ledger/Yin_L_G0446_v2.md#scope-and-strategic-assessment) retains exact graph and volume-sampling tests alongside the independently adopted [full local-depth theorem](../claims/Yin_C_G0867_v2.md#decision-whole-full-valuation-review-2026-11-05).
+A graph lift with one independent cycle reduces by integral permutation basis changes to the same cyclic resultant; multiple labels can already produce positive normalized determinant at Phi_3 and need their own original-P return.
+Volume sampling puts integer minors inside a probability law, but the corrected entropy-plus-minor-size certificate is precisely C209 and its cyclotomic boundary can cancel all apparent gain.
+The remaining concrete structural lead belongs with [S6's integral-minor question](Yin_S_G0006.md#integral-minor-proliferation-2026-11-05); no new random-matrix Strategy is selected.
+Disposition remains active, with positive arithmetic supply and a genuinely changed original-measure return both unresolved.
+
+2026-11-05T09:06.
+The bounded exploration in [L446](../ledger/Yin_L_G0446_v1.md#scope-and-strategic-assessment) found no new positive uniform arithmetic lower bound; retain these comparisons inside this route and S8 without creating a new Strategy.
+Disposition remains active.
+For uniform permutations at dimension d, a linear arithmetic mean already implies a fixed positive-probability logarithmic determinant lower bound, so that probability conversion is not the missing step.
+Independent integral signs give exactly doubled-time cyclic norms, while unimodular presentation changes preserve the determinant and Smith factors.
+The explicit one-sided shear creates a positive determinant floor even at an irreducible cyclotomic input and therefore needs a separately proved return to the original Mahler measure.
+A further changed-ensemble attempt should identify both new arithmetic information and its complete original-input return, with cyclotomic calibration and any added scalar cost retained.
+The independently adopted [C867](../claims/Yin_C_G0867_v1.md#decision-whole-independent-review-2026-11-05) constrains the first-layer prime certificate; it is not an impossibility theorem for all random matrices or higher valuations.
+All other retained route obligations and their review limits remain in force.
+
 **Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
 2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
 The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
@@ -101,8 +121,8 @@ This is preparation for a future explicitly authorized resumption.
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
-| priority | Advance the single-Haar integer application and exact determinant/Gram transfers, alongside changed geometric realizations with S6; preserve every scalar and boundary cost |
+| disposition | paused |
+| priority | Defer determinant and Gram proof development under the counterexample-first allocation; retain exact transfers and reconsider if a concrete realization changes the complete original-input cost |
 
 <a id="signed-gram-frontier-2026-10-15"></a>
 ## Signed all-place frontier

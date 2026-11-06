@@ -19,7 +19,10 @@ The retained irreducible golden radicals therefore have unbounded critical means
 The earlier [C493 attainment theorem](../claims/Yin_C_G0493_v1.md#radical-attainment-equivalence) already gives this exact mean scaling and its [golden controls](../claims/Yin_C_G0493_v1.md#nontorsion-radical-attainment-controls).
 The explicit Task-facing synthesis and separate direct derivation are independently reviewed in [C856](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04), without new coverage or a new native computation.
 
-A mean-based route to the unrestricted Task must provide an actual input-uniform quantitative estimate after a justified reduction to the relevant reciprocal power-stable near-one class, or use a different quantity that survives that reduction.
+A mean-based route may work on the reciprocal near-one endpoints supplied by [C231's all-positive-power norm descent](../claims/Yin_C_G0231_v1.md#all-positive-power-existence-descent).
+That complete retained argument, currently selected with SELF review, preserves positive total Mahler measure without increasing it and terminates at an endpoint whose every positive power preserves degree; the accepted nonreciprocal gap restores reciprocity in the stated small-measure window.
+The endpoint's own original digit law is the object of the required input-uniform estimate.
+The descent does not identify its transition kernel, collision entropy or return mean with those of the unreplaced input.
 Finite mean, a strict but input-dependent return-radius gap, or further precision on the fixed quartic does not provide that estimate.
 The existing quartic inquiries below remain mathematically unresolved and available as controls, without making them prerequisites for the unrestricted Task.
 
@@ -1736,7 +1739,8 @@ The C850 extraction fixes the separate author deduction; this source screen adds
 
 The complete radical scaling, actual fixed-measure unbounded-mean family and conditional uniformity interface are now [C856](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04), adopted through [independent R1073](../audits/reviews/Yin_R_G1073_v1.md#critical-return-mean-scaling-finding).
 The fixed quartic strict-tail problem above remains mathematically open, but solving that control alone would not supply a uniform estimate on the original near-one inputs.
-Further work should first specify a justified reciprocal power-stable near-one domain and the exact quantitative information estimate needed there.
+The endpoint domain is available from [C231's complete all-positive-power norm descent](../claims/Yin_C_G0231_v1.md#all-positive-power-existence-descent), at its selected SELF-review scope: every hypothetical positive-Mahler sequence tending to zero has a termwise positive, no-larger-measure replacement whose every positive power preserves degree and which is reciprocal in the accepted small-measure window.
+Further work must obtain the quantitative estimate for each endpoint's own original law; no probability-law or return-mean transfer back to the unreplaced input is supplied or needed for a gap-by-existence argument.
 The original all-input law has f_1=1/2 and f_n=0 for 2<=n<=d by [C474](../claims/Yin_C_G0474_v1.md#statement).
 Thus critical recurrence gives mu>=R/2+(d+1)(1-R/2)=1+d(1-R/2), including infinity; even the remaining near-one question must pay this actual degree-dependent first-return delay.
 A useful next estimate must address the weighted long-return law or another information bound beyond pointwise finite mean, without silently changing the original process.
@@ -1808,8 +1812,10 @@ Thus the following is a sufficient, still unproved upper target on any specified
 Combining (FC3) and (FC4) forces log(1/(2m))<48C, hence m>(1/2)exp(-48C).
 It follows that the class has no input with 0<m<=min{m_0,(1/2)exp(-48C)}.
 Only one such A per input is required; a uniform mean bound along an entire cofinal exhaustion is a stronger assertion.
-If the selected class is reciprocal and power-stable, a complete Lehmer argument must also supply its actual reduction from the unrestricted Task, with every field, powered-degree and total-measure cost.
-This conditional calculation does not supply that reduction or assume the class contains a hypothetical near-one sequence.
+It suffices to establish (FC4) on the reciprocal all-positive-power degree-preserving endpoint class from [C231](../claims/Yin_C_G0231_v1.md#all-positive-power-existence-descent).
+Its norm descent preserves positivity and does not increase total Mahler measure, while the accepted nonreciprocal gap supplies reciprocity at the sufficiently small endpoint; hence a uniform gap on that class rules out a positive-Mahler sequence tending to zero in the unrestricted Task.
+This reuses C231's complete retained proof and current SELF-review scope, rather than supplying a new descent or assuming such a sequence exists.
+All quantities in (FC1)--(FC4) belong to the selected endpoint and its own original process; no comparison of Perron means or transition kernels across the descent is asserted.
 
 There is presently no proof of (FC4) in the inspected inputs.
 [C432's actual-core estimate](../claims/Yin_C_G0432_v1.md#degree-cost-reduced-original-core-norm) bounds operator powers using the full input-dependent nonneutral factor C_non and the neutral factor [2+sqrt(2pi N)]^q.
@@ -2125,3 +2131,29 @@ The construction therefore supplies a short auxiliary mean, but neither the requ
 BF11 rules out the direct mean comparison already on one exact actual Salem input.
 Uniform control of a different original core, or a substantive arithmetic control of both information decreases and its Perron occupation, remains missing.
 No near-one sequence, uniform positive gap, or impossibility of the one-core target is asserted.
+
+<a id="spectral-threshold-and-small-zero-reward"></a>
+## Spectral threshold selection and a small zero-state reward
+
+The complete bounded construction test is retained in [L212 v2](../ledger/Yin_L_G0212_v2.md#small-zero-reward-original-law-test), with its actual author-check scope and no independent review or new core construction.
+The exact reward-pressure derivative is the reciprocal of the original rewarded excursion mean, but convexity controls the unmodified occupation in the wrong direction for the proposed inference.
+The existing complete logarithmic delay persists for rewards 0<=theta<=m on every original core with h_A<=2m.
+Neither that small reward nor choosing the first spectral-threshold core supplies the missing uniform original Perron occupation bound.
+The fixed comparison preserves the full rate, mean, variance, original-law and nonattainment qualifications; larger reward parameters and further convexity manipulations are not selected as a new mechanism.
+A new arithmetic state-selection rule or actual excursion-distribution estimate remains necessary for the one-core target.
+
+<a id="original-binary-input-to-inverse-addition"></a>
+## Original binary objects for an inverse-addition comparison
+
+The complete original-law calculations and the separately inspected inverse-theorem comparison are retained in [L447](../ledger/Yin_L_G0447_v1.md#original-binary-input-to-inverse-addition), at author-checking scope.
+The available same-law two-block budget is N(m+epsilon), while its sequential-bit certificate retains a degree cost at least d/2.
+Exact mod-two saturation discards the integer conditional entropy and collision terms; its K=1 does not bound those terms.
+A further inverse-additive attempt needs a stronger same-object expansion estimate or actual control of that integer lift, with the mass, degree, prime and time costs paid.
+
+<a id="power-basis-carry-cocycle-test"></a>
+## The actual power-basis carry cocycle preserves the unresolved information
+
+The complete coordinate formulas, conditional-information identities and cycle-mass calculation are retained in [L447 v2](../ledger/Yin_L_G0447_v2.md#power-basis-carry-cocycle-test), at author-checking scope.
+The residue process is exactly uniform after d steps, but the net conditional integer entropy increment is precisely the original Delta_(n+1), averaged over all 2^d conditional branches.
+The local half-bit innovation and cycle telescoping give no additional lower bound, consistently with the existing C530 carry-rate identity and C556's genuine integer-lift obligation.
+This particular implementation is not extended without a new estimate on the actual conditional integer laws; it does not exclude stronger arithmetic carry arguments.

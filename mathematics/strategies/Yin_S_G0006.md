@@ -9,11 +9,32 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#contract) | Retain neutral-completion and graph-compression mechanisms; evaluate candidate constructions or tests against coverage and unbounded-complexity obstructions. |
 
+<a id="integral-minor-proliferation-2026-11-05"></a>
+## Integral minors and the missing proliferation estimate
+
+2026-11-05T11:20.
+The [volume-sampling comparison](../ledger/Yin_L_G0446_v2.md#integer-minors-and-the-volume-sampling-probability-law) gives an exact probability decomposition of the existing C209 determinant certificate, with its entire discriminant and finite-window boundary retained.
+The degree-unbounded irreducible cyclotomic control has positive volume entropy and only unit nonzero minors, with exact cancellation of that boundary.
+The [regular-matroid comparison](../ledger/Yin_L_G0446_v2.md#a-distinct-structural-lead-escape-from-unit-maximal-minors) supplies a concrete new source interface: Heller's column bound, at the inspected modern statement scope, forces a nonunit companion-orbit minor by a quadratic window.
+That author-checked transfer is not an independently reviewed Claim, and one witness or its translates give no uniform exponential gain.
+A uniform-gap conclusion would require quantitative proliferation of compatible nonunit minors, beyond translated copies, that exceeds the full C209 boundary at the original degree.
+Do not prioritize another first-witness bound alone; no independent accessibility argument for the required proliferation has yet been found.
+Retain this as a structural lead within the active route, without a new Strategy or an asserted Mahler gap.
+The completed [local propagation test](../ledger/Yin_L_G0446_v3.md#deletion-budget) identifies the fixed total deletion budget and the exterior recursion's lack of a repeatable degree reset.
+Its [paid dyadic gain](../ledger/Yin_L_G0446_v3.md#paid-dyadic-gain) subtracts the entire window increase exactly, but the obtained integer gap retains the denominator 2^d G_L and supplies no uniform rate.
+Low-order exterior-lattice saturation is already automatic, including on the irreducible cyclotomic controls, so that proposed added input does not amplify a nonunit witness.
+Do not extend this particular block or saturation calculation without a new arithmetic quotient or quantitative metric constraint; retain the active route and its other constructions under the [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05).
+
 **Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
 2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
 The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
 Coordinate the current route-specific mathematical obligations and separately scoped reviews below, preserving the original contract and actual accepted-input boundaries.
 Existing route-specific alternatives and next steps remain available at their retained scopes.
+
+The [two-block cyclotomic test](../ledger/Yin_L_G0133_v2.md#scope-and-family-comparison) allows arbitrary degrees and supports in yA(x)-B(x), but distinct monic cyclotomic blocks have a uniform boundary-log separation by the existing Smyth and Lawton interfaces.
+The resulting raw Euler-truncation obstruction applies to every positive-measure integral unit polynomial: different actual truncations cannot approach each other in boundary L1.
+Thus formal integral factorization does not supply the boundary approximation needed by that attempted cancellation mechanism.
+This finding leaves the v1 delay accounting and graph-completion results at their original scopes, and supplies no new control on selected irreducible factors or a different approximation procedure.
 
 <a id="resumption-two-percent-2026-10-25"></a>
 ## Renewed continuation
@@ -65,8 +86,8 @@ The [current two-line continuation](Yin_S_G0001.md#ratio-and-logarithmic-frontie
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
-| priority | Seek genuinely new varying-input integer completion or neutral-coupling mechanisms with full scalar/cover prices; use known all-rank7 cost floors and completed finite domains to avoid repeated fixed-input searches |
+| disposition | paused |
+| priority | Defer completion and neutral-coupling proof searches; retain existing cost floors and reconsider on a concrete varying-input construction with a different complete return |
 | parent | [Coordinating strategy](Yin_S_G0001.md#route) |
 
 <a id="current-same-input-cost-frontier"></a>

@@ -13,12 +13,23 @@ author: Yin
 **Current allocation.** Continue the equivalent unrestricted affine-growth question jointly with [S7](Yin_S_G0007.md#route), using the original probability law.
 The adopted [critical-mean scaling theorem](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04) excludes a mean cap over all algebraic units, even at one fixed positive rate and Mahler measure.
 A strict tail result for the fixed quartic would give only an input-dependent finite mean and is not the next substitute for an unrestricted estimate.
-The [current continuation](../drafts/Yin_D_G0009.md#radical-critical-mean-scaling) is a quantitative original-law estimate on a justified reciprocal power-stable near-one domain, or another information quantity with a proved uniform return to Mahler measure.
+The [current continuation](../drafts/Yin_D_G0009.md#radical-critical-mean-scaling) is a quantitative original-law estimate on reciprocal power-stable near-one units, or another information quantity with a proved uniform return to Mahler measure.
+The [existing C231 norm descent](../claims/Yin_C_G0231_v1.md#all-positive-power-existence-descent) justifies that endpoint domain without increasing positive total measure, under its selected SELF review and accepted nonreciprocal-threshold scope.
+Construct the law on the actual endpoint; no return mean or original flow is transported through the descent.
 The [one-core target](../drafts/Yin_D_G0009.md#one-finite-core-mean-target) reuses the existing logarithmic delay: constructing one finite original core per near-one input with h_A<=2m and mu_A<=C*d/m would suffice, without first proving full critical recurrence.
 Its [exact linear certificate](../drafts/Yin_D_G0009.md#finite-core-linear-return-certificate) retains the full induced kernel and converts those two bounds into finite resolvent inequalities on a supplied core; no such uniform construction has yet been obtained.
 That upper-bound construction remains unproved; finite spectral exhaustion alone gives no mean bound.
 The [zero-holding test](../drafts/Yin_D_G0009.md#zero-holding-fails-perron-transfer) specializes C511 to show why a cheap admissible law with small information and short mean cannot replace the original Perron law required by that target.
 Existing fixed controls and their unresolved questions remain available at their exact scope.
+
+The separate [fixed-dimensional spectral-height test](../ledger/Yin_L_G0451_v1.md#scope-and-strategic-assessment) tries a non-virtually-solvable lift over the original field, using Breuillard's all-place height gap.
+Its explicit Hadamard pair has a nonvanishing dyadic contribution as the original absolute height tends to zero; its proposed upper comparison with total Mahler measure is equivalent to the original gap.
+Fixed integral Laurent tuples jointly compact on the entire circle also cannot supply the lift, by the retained closed-locus argument.
+Only a concretely different input-dependent tuple, with every finite-place joint radius and exceptional infinite place paid, can change this transfer assessment.
+The [reciprocal-field follow-up](../ledger/Yin_L_G0451_v2.md#whole-task-return-and-limits) computes those finite radii for a general norm-form conjugator and tests an explicit input-dependent half-sum family.
+Its finite cancellation is precisely a supplied two-pair integer half-value; C864v2 already gives a gap if its span is degree-linear, while the automatic mod-two order has only the retained exponential bound.
+The unresolved norm ratio and exceptional-embedding control for a different construction remain explicit, without selecting the interval-splitting reformulation as a new strategy.
+This bounded construction question is distinct from the original affine-law core target; neither result transports the original return law or establishes a new covering mechanism.
 
 <a id="resumption-two-percent-2026-10-25"></a>
 ## Renewed continuation
@@ -70,8 +81,8 @@ The [current two-line continuation](Yin_S_G0001.md#ratio-and-logarithmic-frontie
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
-| priority | Advance original-law affine growth through actual component means, centered residuals and genuinely changed dynamics or joint pressure estimates, linked to S7 |
+| disposition | paused |
+| priority | Defer the affine proof campaign, including S7, under the counterexample-first allocation; retain the original-core mean problem and reconsider on a concrete new occupation mechanism |
 
 ## Current original-law operator frontier through C81
 

@@ -164,10 +164,10 @@ Autonomous internal decomposition and additional route selection are authorized 
 Use the [execution rules](../../framework/rules/execution.md) and the applicable stopping conditions in the selected Task decision when an actual autonomous run begins.
 Registration and activation alone grant no research execution.
 The Task remains mathematically unresolved.
-The [responsible current continuation](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the current allocation across all eight routes and their retained inquiries and review limits, with earlier pause handoffs preserved as history; the selected decision below owns lifecycle.
+The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-resume-after-account-handoff-2026-10-25)
+[Selected decision](#decision-human-pause-after-rotation-closeout-2026-11-06)
 
 ## Lifecycle and completion
 
@@ -531,6 +531,19 @@ The [responsible current continuation](../strategies/Yin_S_G0001.md#entropy-gap-
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unchanged unrestricted contract](#contract) | Entire classical positive Mahler gap or rigorously established arbitrarily small positive values, with all original hypotheses, quantifiers, equivalent formulations and completion criteria; unresolved and explicitly resumed under the retained weekly threshold. |
+
+### Decision human-pause-after-rotation-closeout-2026-11-06
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-06T13:54 |
+| status | paused |
+| authority | Yin explicitly instructed in this conversation: finish the current work, then pause. |
+| reason | The underway rotation-iteration check is complete and retained in L458 v6, with the earlier constructions, exact computations and root tests preserved at their responsible homes. Pause G0001 and all nine associated strategies, including their subroutes, before any further exploration, computation or mathematical review. The unrestricted Lehmer contract remains unresolved. Retain the counterexample-first allocation and small complementary S9 effort for a later explicit resumption, together with the ninety-eight-percent weekly stopping threshold. Neither this closeout, unused quota nor a reset authorizes resumption. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unchanged unrestricted contract](#contract) | Entire classical positive Mahler gap or rigorously established arbitrarily small positive values, with all original hypotheses, quantifiers, equivalent formulations and completion criteria; unresolved and paused on the human's instruction after current-work closeout. |
 
 ## Execution boundary
 

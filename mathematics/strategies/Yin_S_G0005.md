@@ -15,6 +15,25 @@ The preceding resource pause preserved all mathematical and review limits; the u
 Coordinate the current route-specific mathematical obligations and separately scoped reviews below, preserving the original contract and actual accepted-input boundaries.
 Existing route-specific alternatives and next steps remain available at their retained scopes.
 
+<a id="raw-ghost-contracted-tail-frontier"></a>
+## Raw integer traces and the complete contracted tail
+
+The author-checked [L453 comparison](../ledger/Yin_L_G0453_v1.md#same-input-tensor-and-mahler-cost) gives D_P(t)=det(I-t(A tensor A^2)) for the original integer companion A, with raw traces s_n*s_(2n), degree d^2 and total measure equal to C1's radial pair cost.
+Its full resultant and ghost arithmetic reuse C477 and L10 v3; they create no new norm income.
+The [actual Fourier comparison](../ledger/Yin_L_G0453_v1.md#contracted-trace-error-and-finite-tail) pays the radial contraction error and the entire tail, rather than assigning the raw integer congruences to contracted coefficients.
+The [Phi_(2p) control](../ledger/Yin_L_G0453_v1.md#cyclotomic-full-ghost-and-linear-tail-control) has every signed-index positive moment constraint and complete ghost arithmetic but leaves at least d*log2-1 beyond any initial N<p; torsion and a power-degree drop exclude it from the target endpoint domain.
+The separate [negative quartic](../ledger/Yin_L_G0453_v1.md#negative-quartic-original-endpoint-control) is a genuine power-stable nontorsion unit with s_1*s_2=-3 and fixed positive total measure, so only a universal termwise sign rule is excluded.
+The [same-input two-prime extension](../ledger/Yin_L_G0453_v2.md#simultaneous-two-three-full-tail) has nonzero doubling, tripling and cross-resultants and complete tails at least d*log2-2 and d*log3-3 beyond the same N=d/2.
+Its exact shared factors supply no extra evaluation income; torsion and the tripling degree drop remain essential exclusions from the target domain.
+The [finite tensor cutoff](../ledger/Yin_L_G0453_v2.md#finite-tensor-truncation) retains all labels and proves an explicit lower bound -M*s/d for a total-degree-s test, but the fixed-test limiting statement loses the original doubling floor of order 1/d.
+OS23's inspected multivariate theorem supplies neither a finite empirical-measure smoothing construction nor the required singular-test rate.
+The [x^4-yz test](../ledger/Yin_L_G0453_v2.md#three-variable-test-full-cost) is nonzero on every genuine noncyclotomic unit input, yet its complete higher norm still pays d^3 labels and radial cost at most 6d^2*m.
+Additional variables or fixed primes therefore receive no default continuation without a concrete extra-income or complete-tail mechanism on small-measure inputs.
+The next useful estimate must constrain the complete contracted boundary tail on actual near-zero endpoints with all original costs paid; neither fixed smoothing nor these controls supplies it.
+The [finite cyclotomic-log comparison](../ledger/Yin_L_G0452_v2.md#weighted-finite-fejer-bound) applies C168's positive finite kernel to arbitrary positive mixtures, eliminating the common-period loss in its exact weighted estimate.
+Its total-weight consequence prevents both bounded degree-times-mean loss and a degree-uniform absolute-coefficient radial slope at fixed positive total logarithmic weight, even when individual weights vanish.
+The [actual small-weight control and normalization](../ledger/Yin_L_G0452_v2.md#positive-kernel-original-return-boundary) retain the changing norm income; sharper correlated-root estimates and additional arithmetic income remain open, with no new Claim adoption or independent review from these author calculations.
+
 <a id="resumption-two-percent-2026-10-25"></a>
 ## Renewed continuation
 
@@ -65,8 +84,8 @@ The [current two-line continuation](Yin_S_G0001.md#ratio-and-logarithmic-frontie
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
-| priority | Advance actual Fourier and joint-correlation mechanisms, including the projection energy budget and original-law short-scale alternatives; do not infer whole-route failure from a particular norm estimate |
+| disposition | paused |
+| priority | Retain the finite signed-correlation question without active proof development; reconsider if an actual near-zero construction exposes a new cancellation identity or usable estimate |
 | parent | [Coordinating strategy](Yin_S_G0001.md#route) |
 
 <a id="current-same-input-cost-frontier"></a>

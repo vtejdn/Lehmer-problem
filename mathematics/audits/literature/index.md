@@ -14,6 +14,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [AM01](AM01/readme.md) | Source and edition notes |
 | [AM16](AM16/readme.md) | [Yin_U001](AM16/Yin_U001.md), [Yin_U002](AM16/Yin_U002.md), [Yin_U003](AM16/Yin_U003.md), [Yin_U004](AM16/Yin_U004.md), [Yin_U005](AM16/Yin_U005.md) |
 | [AP18](AP18/readme.md) | [Yin_U001](AP18/Yin_U001.md) |
+| [AS18](AS18/readme.md) | Source and edition notes |
 | [AV09](AV09/readme.md) | [Yin_U001](AV09/Yin_U001.md) |
 | [AZ10](AZ10/readme.md) | [Yin_U001](AZ10/Yin_U001.md) |
 | [AZ90](AZ90/readme.md) | [Yin_U001](AZ90/Yin_U001.md) |
@@ -24,6 +25,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BK21](BK21/readme.md) | [Yin_U001](BK21/Yin_U001.md) |
 | [BKT04](BKT04/readme.md) | [Yin_U001](BKT04/Yin_U001.md) |
 | [BL02](BL02/readme.md) | [Yin_U001](BL02/Yin_U001.md) |
+| [BR06](BR06/readme.md) | [Yin_U001](BR06/Yin_U001.md) |
 | [BR10](BR10/readme.md) | [Yin_U001](BR10/Yin_U001.md), [Yin_U002](BR10/Yin_U002.md) |
 | [BS09](BS09/readme.md) | [Yin_U001](BS09/Yin_U001.md) |
 | [BS13](BS13/readme.md) | [Yin_U001](BS13/Yin_U001.md) |
@@ -38,6 +40,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Bil97](Bil97/readme.md) | [Yin_U001](Bil97/Yin_U001.md), [Yin_U002](Bil97/Yin_U002.md) |
 | [Bin22](Bin22/readme.md) | [Yin_U001](Bin22/Yin_U001.md) |
 | [CDPT26](CDPT26/readme.md) | [Yin_U001](CDPT26/Yin_U001.md) |
+| [CDT24](CDT24/readme.md) | [Yin_U001](CDT24/Yin_U001.md) |
 | [CFMZ26](CFMZ26/readme.md) | [Yin_U001](CFMZ26/Yin_U001.md), [Yin_U002](CFMZ26/Yin_U002.md), [Yin_U003](CFMZ26/Yin_U003.md) |
 | [CFMZ26b](CFMZ26b/readme.md) | [Yin_U001](CFMZ26b/Yin_U001.md) |
 | [CGL26](CGL26/readme.md) | [Yin_U001](CGL26/Yin_U001.md#cgl26-u001): construction and existing fixed-support coverage |
@@ -84,6 +87,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [FP18](FP18/readme.md) | [Yin_U001](FP18/Yin_U001.md) |
 | [FPZ20](FPZ20/readme.md) | [Yin_U001](FPZ20/Yin_U001.md) |
 | [Fen16](Fen16/readme.md) | [Yin_U001](Fen16/Yin_U001.md) |
+| [Fil22](Fil22/readme.md) | Source and edition notes |
 | [Fio19](Fio19/readme.md) | [Yin_U001](Fio19/Yin_U001.md) |
 | [GBV15](GBV15/readme.md) | [Yin_U001](GBV15/Yin_U001.md) |
 | [GGOW20](GGOW20/readme.md) | [Yin_U001](GGOW20/Yin_U001.md), [Yin_U002](GGOW20/Yin_U002.md), [Yin_U003](GGOW20/Yin_U003.md), [Yin_U004](GGOW20/Yin_U004.md), [Yin_U005](GGOW20/Yin_U005.md) |
@@ -120,6 +124,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Kou11](Kou11/readme.md) | Square-root Cayley attribution and exact v2 recurrence limitations |
 | [LL10](LL10/readme.md) | Source and edition notes |
 | [LL25](LL25/readme.md) | Source and edition notes |
+| [LN23](LN23/readme.md) | Source and edition notes |
 | [LP17](LP17/readme.md) | Source and edition notes |
 | [LS05](LS05/readme.md) | [Yin_U001](LS05/Yin_U001.md) |
 | [Li26](Li26/readme.md) | [Yin_U001](Li26/Yin_U001.md) |
@@ -176,9 +181,15 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Reu96](Reu96/readme.md) | [Yin_U001](Reu96/Yin_U001.md), [Yin_U002](Reu96/Yin_U002.md), [Yin_U003](Reu96/Yin_U003.md), [Yin_U004](Reu96/Yin_U004.md), [Yin_U005](Reu96/Yin_U005.md), [Yin_U006](Reu96/Yin_U006.md) |
 | [Rib12](Rib12/readme.md) | [Yin_U001](Rib12/Yin_U001.md) |
 | [Rum13](Rum13/readme.md) | [Yin_U001](Rum13/Yin_U001.md) |
+| [SSS18](SSS18/readme.md) | Source and edition notes |
 | [SW91](SW91/readme.md) | Source and edition notes |
 | [Sam07](Sam07/readme.md) | [Yin_U001](Sam07/Yin_U001.md) |
 | [Sar15](Sar15/readme.md) | [Yin_U001](Sar15/Yin_U001.md) |
+| [Sch00](Sch00/readme.md) | Source and edition notes; introduction-only applicability scope |
+| [Sch75](Sch75/readme.md) | [Yin_U001](Sch75/Yin_U001.md#sch75-u001): monic integral non-self-inversive relative measure gap |
+| [Sch99](Sch99/readme.md) | 1999 printed-statement applicability; [L450 v6](../../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary) |
+| [Sch19](Sch19/readme.md) | Published correction identified; correction text and scope not inspected |
+| [Len99a](Len99a/readme.md) | Propositions 2.2--2.3 gap comparison; [L450 v6](../../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary) |
 | [Sch01](Sch01/readme.md) | [Yin_U001](Sch01/Yin_U001.md) |
 | [Sch09](Sch09/readme.md) | [Yin_U001](Sch09/Yin_U001.md), [Yin_U002](Sch09/Yin_U002.md) |
 | [Sch14](Sch14/readme.md) | [Yin_U001](Sch14/Yin_U001.md) |

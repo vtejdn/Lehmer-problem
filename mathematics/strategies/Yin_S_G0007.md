@@ -18,6 +18,18 @@ The [finite linear certificate](../drafts/Yin_D_G0009.md#finite-core-linear-retu
 The logarithmic lower-delay mechanism is already retained in C557; the missing contribution is this upper-bound construction, not another refinement of the lower delay.
 The [holding and pinning comparison](../drafts/Yin_D_G0009.md#zero-holding-fails-perron-transfer) leaves the original restricted matrix and its Perron mean unchanged, even when an auxiliary original-edge law meets the cheaper information/mean inequalities.
 
+<a id="original-core-construction-next-2026-11-05"></a>
+The construction interface under the [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) still needs an arithmetic state-selection rule and occupation estimate for the same original induced kernel, reusing D9.
+Try to supply the actual A, ell, u, t and z in its finite certificate, or a concrete new lemma explaining how both the spectral and mean bounds could be obtained together.
+The [existing C231 all-power norm descent](../claims/Yin_C_G0231_v1.md#all-positive-power-existence-descent), at its selected SELF-review scope, now supplies the needed existence reduction to reciprocal power-stable near-one endpoints.
+Construct the original law of that actual endpoint; the descent preserves the needed gap implication, not the source's probability law or mean.
+The [complete bridge comparison](../drafts/Yin_D_G0009.md#finite-bridge-clock-and-perron-cost) already retains the clock and Perron-transfer losses, so deleting induced edges, retaining history copies or controlling only an auxiliary law is not a new construction.
+Continue for a new original occupation mechanism or a propagating uncovered class; stop that implementation if it only reproduces those losses, finite spectral exhaustion or a fixed-input mean bound.
+These D9 combinations are author-working inputs, not newly adopted independently reviewed theorems.
+The [completed small-reward test](../ledger/Yin_L_G0212_v2.md#small-zero-reward-original-law-test) supplies no such construction, and further pressure-convexity manipulation alone is not selected.
+The joint [inverse-additive comparison](../ledger/Yin_L_G0447_v1.md#original-binary-input-to-inverse-addition) retains the distinction between whole-block costs, a single-digit increment and the quotient's automatic expansion one.
+Its [integer carry follow-up](../ledger/Yin_L_G0447_v2.md#power-basis-carry-cocycle-test) preserves the full conditional laws and cycle masses but only recovers the original entropy increment; it supplies no new occupation or entropy estimate.
+
 <a id="resumption-two-percent-2026-10-25"></a>
 ## Renewed continuation
 
@@ -68,8 +80,8 @@ The [current two-line continuation](Yin_S_G0001.md#ratio-and-logarithmic-frontie
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
-| priority | Advance true original-return component means, centered midpoint behavior and diffusion-scale occupation with complete weights, jointly with S2 and S5 |
+| disposition | paused |
+| priority | Defer original-orbit proof development with S2; retain exact laws and mean obligations and reconsider when a concrete new occupation construction changes their cost |
 | parent | [Coordinating strategy](Yin_S_G0002.md#route) |
 
 <a id="current-complete-fiber-continuation"></a>

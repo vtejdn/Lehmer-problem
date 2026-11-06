@@ -9,6 +9,128 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#contract) | Seek generator-sensitive cyclic-norm or local arithmetic coverage with uniform exponent costs on a sufficiently near-one irreducible core. |
 
+<a id="matrix-integer-damping-2026-11-05"></a>
+## Matrix integer damping and original-input realization
+
+The independently adopted [C868 v3](../claims/Yin_C_G0868_v3.md#decision-whole-matrix-review-2026-11-05) proves a dimension-independent arithmetic price for nonconstant analytic matrix germs F=I+sum C_n z^n with integer coefficients.
+If Q and U are disk-holomorphic Euclidean contractions, Q(0) is invertible and U=FQ near zero, the complete price tau=-log|det Q(0)| is at least log(5/4)/2.
+The proof uses the first nonzero integer matrix coefficient and column Parseval, with no matrix-size or coefficient-index loss and no norm assumption on the full germ F.
+This supplies a matrix estimate, not an original-input construction or a random-matrix probability law.
+
+The [metric and replication account](../claims/Yin_C_G0868_v3.md#matrix-metric-and-copy-costs) shows that copying a scalar multiplier r times pays r times its logarithmic price, while a positive inner product pays its actual condition number.
+A fixed size-two integer germ has determinant price tending to zero as that condition number grows, so unrestricted metric changes cannot silently preserve the uniform estimate.
+The [normalized companion reversal](../claims/Yin_C_G0868_v3.md#companion-reversal-cost) is circle-unitary only for integer orthogonal, hence zero-measure, inputs; its unnormalized version already has a constant-term price exceeding the original measure on the retained fixed C227 example.
+The [original-polynomial pole obstruction](../claims/Yin_C_G0868_v3.md#original-circle-pole-rigidity) forces every rational circle-unitary germ with value I at zero and only an irreducible circle-root P as finite nonzero denominator to be constant, at every rank and denominator multiplicity.
+
+The independently adopted [C868 v4](../claims/Yin_C_G0868_v4.md#decision-whole-integral-metric-review-2026-11-05) strengthens this account for positive integral Gram metrics.
+If Delta is the primitive integral Gram determinant and k is the rank of the first nonzero integer coefficient, the total price is at least (k/2)*log(1+1/(4*Delta^(1/k))).
+For Delta=1 this is k*log(5/4)/2 without a condition-number loss, and simultaneous unimodular integral changes of basis preserve the arithmetic hypotheses and price.
+The more general comparison Delta^(1/k)<=A*k also gives a uniform positive price; neither the needed Gram form nor that rank comparison is supplied for general original inputs.
+Numerical determinant-one normalization of a nonintegral metric does not supply this arithmetic hypothesis.
+
+The independently adopted [C868 v5 exact price theorem](../claims/Yin_C_G0868_v5.md#decision-whole-rational-price-review-2026-11-05) identifies the infimum determinant expense of every supplied normalized rational matrix germ as J(F)+N(F).
+Here J integrates the sum of positive logarithms of all boundary singular values, while N counts the actual local pole-cancellation lengths with their disk Green weights; the net determinant pole order is insufficient.
+Complex-rational contraction pairs approach this infimum, and circle-unitary germs attain it with rational inner pairs.
+The [two integral models](../claims/Yin_C_G0868_v5.md#optimized-integral-model-prices) consequently have exact minima 2*m(P) and 4*m(P), improving their previous valid scalar-copy prices without changing their fixed positive original measure.
+This supplies a precise test for a proposed original realization; it does not supply a realization with J(F)+N(F)<=C_tr*m(P) on the unrestricted core.
+
+The author-checked [L133 v8 constructions](../ledger/Yin_L_G0133_v8.md#matrix-power-pullback-realization) give actual prices 4*m(P) and 12*m(P) for P=z^2-3z+1 and its stated substitutions, whose total measures already have a fixed gap.
+Its [power-pullback obstruction](../ledger/Yin_L_G0133_v8.md#power-pullback-circle-pole-rigidity) shows that finitely many denominators P(z^h) still cannot produce a nonconstant normalized rational circle-unitary germ when the irreducible original P has a circle conjugate.
+Strict positivity also fails to supply the proposed integral square-sum completion, while the [companion and integral-basis tests](../ledger/Yin_L_G0133_v8.md#standard-companion-first-coefficient-cost) distinguish one chosen Euclidean construction from every possible basis.
+The [v4 full-spectrum bound](../claims/Yin_C_G0868_v4.md#trace-block-full-price) detects growing cost even in that explicit trace-basis model whose first-coefficient operator norm stays bounded: tau>=log(7/2)+(n-1)*log(5/4), at fixed original positive measure.
+This excludes that complete model, with its removable cyclotomic content, rather than all bases or irreducible inputs.
+
+The author-checked [L133 v9 original trace-order construction](../ledger/Yin_L_G0133_v9.md#natural-trace-gram-price) keeps the integer germ for every stated totally real trace input of degree 2d, but its natural trace Gram forces tau>=d*log(5/4).
+This obstruction also applies on an actual irreducible Salem family: [C222's selected theorem](../claims/Yin_C_G0222_v1.md#decision-complete-retained-proof-adoption) supplies degrees d_N tending to infinity and m(p_N)<log(4/3), so the same construction pays tau/m(p_N)>d_N*log(5/4)/(2*log(4/3)).
+Thus no degree-independent comparison tau<=C_tr*m(p_N) holds for that natural trace construction even after restricting to these irreducible inputs.
+In contrast, the [piecewise real metric](../ledger/Yin_L_G0133_v9.md#cheap-real-schur-realization) supplies actual price 2*m(P), but on mixed hyperbolic/neutral irreducible inputs its [first nonzero coefficient is irrational](../ledger/Yin_L_G0133_v9.md#cheap-real-first-coefficient-irrationality).
+The required arithmetic and analytic properties therefore hold separately in these two constructions, and a rational metric interpolation need not restore an integer germ.
+This does not exclude every positive integral metric or every nonunitary realization.
+
+The author-checked [L133 v10 rank-one test](../ledger/Yin_L_G0133_v10.md#integer-numerator-boundary-floor) proves a boundary floor for every nonzero integer numerator in a nilpotent shear, after all actual cancellations: J>=arsinh(exp(-k*m(P))/2), with pole price N=k*m(P).
+A single companion output genuinely removes the repeated pole rank but retains this floor, and the logarithmic derivative has an additional degree expense on an explicit irreducible fixed-measure family.
+Its [two-shear comparison](../ledger/Yin_L_G0133_v10.md#boundary-improves-total-cost-worsens) shows that an actual boundary improvement can be outweighed by the increased pole multiplicity; the fixed-column obstruction does not extend to arbitrary longer products.
+
+The independently adopted [C868 v6 certificate theorem](../claims/Yin_C_G0868_v6.md#decision-whole-integral-reflection-review-2026-11-05) supplies a genuine original-input return on a specified class.
+For monic irreducible reciprocal P of degree 2d and constant term one, an exact identity 2*epsilon*z^(-d)*P=sum_j v_j*v_j^star with integer polynomials of degree at most d gives m(P)>=log(5/4)/2, independently of their number and sizes.
+Its reflection has a simple rank-one pole at every original root and exact total pole price m(P); the constant integer involution either permits orthogonal normalization or itself pays the stronger log(2)/2 price.
+For a general integer multiplier c and collective coefficient content g, the [exact arithmetic criterion](../claims/Yin_C_G0868_v6.md#primitive-sos-content-gate) requires c/g^2 in {1,2}; rational Gram completion and denominator clearing do not supply this condition.
+The theorem excludes every irreducible circle-root input from its certificate domain, including Salem inputs, and it supplies no universal certificate for the remaining no-circle-root class.
+Keep the next certificate-coverage test within this actual domain and arithmetic criterion; the [finite feasibility test](../claims/Yin_C_G0868_v6.md#finite-sos-feasibility-and-source-limits) does not turn bounded numerical success into degree-uniform coverage.
+The author-checked [L133 v11 term-count argument](../ledger/Yin_L_G0133_v11.md#certificate-term-count-mahler-bound) further shows that below M(P)=3/2, every eligible certificate must reduce to exactly two nonzero summands with multiplier two.
+Its [endpoint tests](../ledger/Yin_L_G0133_v11.md#endpoint-two-square-obstruction) give necessary arithmetic conditions for those two summands; the inspected controls and bounded primary tables supplied no actual no-circle-root counterexample satisfying the required strict Mahler bound.
+The author-checked [L133 v12 positive-norm equality](../ledger/Yin_L_G0133_v12.md#central-three-positive-integer-product) strengthens the central-coefficient screen to p_0>=3 and, at equality, forces p=1 on every root of z^d+epsilon.
+The resulting exact quotient P=(z^d+epsilon)*Q+epsilon*z^d and Q^*=epsilon*Q retains the original finite degree; it supplies no uniform transfer from a fixed-block Lawton limit.
+For any actual doubled certificate, its [remainder energy identity](../ledger/Yin_L_G0133_v12.md#central-three-certificate-quotient-energy) leaves exactly two unit coefficients across the remainders modulo z^d+epsilon.
+Every fixed central bound p_0<=B is already qualitatively covered: positivity gives ||p||_1=p_0, the [accepted Littlewood interface](../audits/literature/JKS24/Yin_U001.md#jks24-u001) gives N+1<=exp(52B) for the actual support count, and the [accepted fixed-support gap](../audits/literature/DS17/Yin_U001.md#ds17-u001) applies directly to the original P with K_B=ceil(exp(52B)).
+The zero-measure branch would force every root of a monic constant-one P onto the circle and is excluded here; hence m(P)>=eta_(K_B)>0, without an effective value or a bound uniform in B.
+The completed author-checked [L133 v13 classification](../ledger/Yin_L_G0133_v13.md#central-three-four-certificate-forms) gives four necessary and sufficient row forms for the actual degree-bounded central-three certificates.
+Its [irreducible original return](../ledger/Yin_L_G0133_v13.md#central-three-irreducible-original-return) leaves only two substitution families with fixed total measures lambda=(3+sqrt(5))/2 and mu_4=(1+sqrt(21)+sqrt(6+2sqrt(21)))/4, with the attained bound M(P)>=mu_4>2; a two-row certificate forces M(P)=lambda.
+This completes that certificate diagnostic without classifying all positive central-three inputs; prioritize genuinely new arithmetic structure on unbounded-central inputs or the excluded circle-root core.
+The finite scan and arbitrary multiplier completion establish no universal certificate, and fixed-central searches are not extended by default.
+The author-checked [L133 v14 binary norm classification](../ledger/Yin_L_G0133_v14.md#binary-hermitian-norm-classification) applies to actual two-row certificates without a central-coefficient bound.
+After removing binary monomials, the two rows have the exact form G*A and G*A^R with gcd(A,A^R)=1.
+If A=1 or G is reciprocal, an actual monomial shift or reversal followed by half-sums gives p itself as two integer Laurent norms, at width at most 2d, and the original irreducible input has M(P)>=2.
+Thus [below M(P)=2](../ledger/Yin_L_G0133_v14.md#small-measure-two-row-binary-obstruction), both asymmetries must survive and d>=6; the earlier M(P)<3/2 condition remains the separate entrance forcing two rows.
+Its [coprime integer control](../ledger/Yin_L_G0133_v14.md#nonreciprocal-common-factor-integer-control) prevents an automatic lift of the binary common factor to an integer common factor, without asserting a small-measure irreducible counterexample or excluding other norm-preserving transformations.
+
+The author-checked [L133 v15 signed construction](../ledger/Yin_L_G0133_v15.md#universal-normalized-rank-two-germ) supplies a normalized two-by-two rational integer germ for every original irreducible reciprocal input, including the circle-root domain.
+Every original pole has cancellation length one, so N(F_2)=m(P), and its directly calculated Euclidean price lies between A(P)-log2 and A(P) for the explicit analytic-part functional A(P).
+The resulting floor log(5/2) concerns this realization's price; no upper comparison A(P)<=C*m(P) has been supplied.
+Its [fixed Salem control](../ledger/Yin_L_G0133_v15.md#signed-fixed-input-expense-control) makes arbitrary signed-certificate expense diverge at fixed original polynomial, rank and degree window, without refuting canonical F_2 or every optimized certificate.
+This removes the algebraic coverage obstacle for signed reflections and leaves a precise analytic expense to test against actual irreducible inputs.
+That test now has a negative all-input answer for this canonical germ: the author-checked [L133 v16 original Salem family](../ledger/Yin_L_G0133_v16.md#canonical-analytic-expense-divergence) has log2<m(P_j)<log4 while its exact central coefficient plateau forces tau_min(F_2)/m(P_j) to tend to infinity.
+The [positive-symbol estimate](../ledger/Yin_L_G0133_v16.md#canonical-positive-symbol-upper-bound) separately gives A(P)<=2*arsinh(c), with no degree factor but no comparison to the original m(P).
+The [elementary cancellation](../ledger/Yin_L_G0133_v16.md#canonical-failure-near-one-boundary) E(-g)F_2E(-g)=L(-q) removes g from a newly chosen candidate and returns exactly to the existing single-shear cost; its boundary floor remains.
+The counterfamily stays above m(P)=log2, so it does not exclude a sufficiently small-measure comparison or every optimized certificate.
+The author-checked [L133 v17 strict-positive control](../ledger/Yin_L_G0133_v17.md#positive-dirichlet-bounded-measure-control) has bounded positive total measure and unbounded central coefficient, without a proved irreducibility assertion; positivity alone does not pay the central-coefficient expense.
+Its [parity completion](../ledger/Yin_L_G0133_v17.md#degree-preserving-positive-parity-descent) supplies a same-degree strictly positive output R=A(x)^2+xB(x)^2 from each stated non-even irreducible reciprocal P=A(z^2)+zB(z^2), including circle-root inputs.
+The [exact return calculation](../ledger/Yin_L_G0133_v17.md#parity-positivity-exact-cosh-expense) retains m(R)=2m(P)+E(P), with E(P)>=log2-2m(P); the actual undoubled two-row certificate belongs to R and gives no original gap for P.
+The output's irreducibility is not asserted, and neither this conversion nor its zero-to-positive cyclotomic control supplies a cheap reduction to the positive-symbol class.
+
+Neither det G=1 nor the complex AJL16 factorization interface supplies integer Taylor coefficients, the needed contractions or a degree-uniform total determinant cost.
+The pole result leaves general nonunitary Schur quotients, denominator factors outside the checked power-pullback class and larger coefficient fields outside its scope; each requires its own actual arithmetic and expense account.
+Under the [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05), the all-input canonical test is complete and is not extended by default.
+Renewed investment requires genuinely new arithmetic structure specific to sufficiently small original measure or a different complete mechanism, rather than the desired missing comparison alone.
+Any eventual original return must control the full normalization by C_tr*m(P), and pay its primitive Gram determinant against the actual first-coefficient rank when a positive non-Euclidean metric is used.
+The integer-Gram theorem removes an unnecessary conditioning requirement from such a supplied realization, but supplies neither the realization nor its original-measure upper bound.
+No uniformly affordable original-core realization or new covering Strategy is adopted, and the unrestricted G0001 objective remains unresolved.
+
+<a id="random-matrix-prime-budget-2026-11-05"></a>
+## Random-matrix prime budgets and actual excess depth
+
+2026-11-05T11:20.
+The independently adopted [C867v2](../claims/Yin_C_G0867_v2.md#decision-whole-full-valuation-review-2026-11-05) now controls full actual valuations, including bad primes and arbitrarily deep initial or critical events, on irreducible nontorsion inputs of bounded total Mahler measure.
+For deterministic S with sum log p=o(log d), their normalized expected contribution tends uniformly to zero; a fixed finite S therefore cannot repair the first-layer deficit through higher depth.
+The same proof controls every prime at sublinear cyclotomic orders and forces any positive normalized mean to obtain quadratic logarithmic mass from orders proportional to d.
+The complementary [prime-growth comparison](../ledger/Yin_L_G0446_v2.md#full-order-coverage-still-needs-mass-beyond-primitive-existence) shows that even primitive-ideal existence at every order, and adaptive selection from that floor, supply only polylogarithmic mean income.
+Any renewed valuation construction must supply actual norm size or disjoint contributing multiplicity at proportional orders with a prime budget outside the proved vanishing range; no such uniform supply has been established.
+Under the [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05), this remains a diagnostic requirement rather than a separate open-ended assignment to prove the desired mass lower bound.
+Use a new concrete arithmetic supply mechanism from S4 or another route to justify further investment; fixed-prime refinements and primitive existence alone do not provide that mechanism.
+The author-checked [joint-cycle controls](../ledger/Yin_L_G0446_v4.md#slow-integral-cycle-control) show that integer recurrence, positive orbit counts, integer cyclotomic layers and rational dynamic zeta still permit arbitrarily slow positive upper growth in an abstract family; actual residue-degree arithmetic is not supplied and fails already at L=5.
+Conversely, its [all-depth local reciprocal model](../ledger/Yin_L_G0446_v4.md#local-reciprocal-control-without-global-recurrence) has zero growth but no global constant-coefficient recurrence; these separate controls do not settle their intersection on original inputs.
+The [finite-window coefficient construction](../ledger/Yin_L_G0446_v4.md#finite-window-irreducible-coefficient-control) realizes primitive coverage of every order in (d/2,d] within one actual monic irreducible reciprocal integer polynomial, while the captured prime part has only O(d log d) terminal mass and O(log d) permutation mean.
+The construction does not control its full resultants or omitted-prime contributions and supplies no near-one counterexample.
+The subsequent [original-field return](../ledger/Yin_L_G0446_v5.md#fixed-eisenstein-output-already-has-a-gap) strengthens this scope: the construction's mod-four irreducibility condition forces m(P)>log2/4 by the accepted C864v2 binomial norm argument, so its entire output family is already excluded from tending to zero.
+Without that mod-four condition, [terminal-order coefficient compatibility](../ledger/Yin_L_G0446_v5.md#terminal-orders-force-crt-box-uniqueness) still makes each fixed complete CRT class contain at most one candidate in the m<=1 necessary coefficient box; it does not exclude the candidate or all changing classes.
+The [full-rank Hankel test](../ledger/Yin_L_G0446_v5.md#unit-resultant-full-rank-hankel-invariance) gives a shift-invariant absolute determinant on actual unit inputs, while the smaller-minor estimate retains an unpaid dimension baseline.
+The [arbitrary-cycle-law comparison](../ledger/Yin_L_G0446_v6.md#arbitrary-cycle-law-and-original-return) preserves the older single-exponent route: the quadratic terminal-mass requirement is specific to uniform permutation averaging and is not a prerequisite for every other ensemble.
+On C376v2's actual fixed-measure irreducible family, its [complete prime calculation](../ledger/Yin_L_G0446_v6.md#full-prime-mass-under-uniform-and-conditioned-laws) gives E(Y_3)/d -> 0 under uniform permutations but Y_3/d>=log3 after conditioning on one long cycle, at exact relative-entropy cost log N=o(d).
+Thus vanishing relative entropy per degree alone cannot transfer the uniform-law ceiling; the favorable exponent in this example is already supplied by C376v2 and gives no new near-one coverage.
+The remaining useful arithmetic input must supply the required complete joint local mass or a proportional single-time norm on the original small-measure domain; adding only finite CRT compatibility or those abstract integer conditions does not supply either conclusion.
+These results refine the next arithmetic target without creating a new Strategy or changing this route's active disposition.
+The earlier first-layer result below has a wider polynomial domain and a different budget range, so remains separately useful.
+
+2026-11-05T09:06.
+The bounded arithmetic random-matrix exploration is retained in [L446](../ledger/Yin_L_G0446_v1.md#scope-and-strategic-assessment), with disposition active unchanged and no new Strategy selected.
+The independently adopted [C867](../claims/Yin_C_G0867_v1.md#decision-whole-independent-review-2026-11-05) proves an O(sqrt(d)H_N) expected mod-p nullity bound for P(Pi_N), including bad primes and repeated roots.
+At N=d, any fixed-for-the-experiment prime budget sum log p=o(sqrt(d)/log(d+1)) therefore gives vanishing normalized first-layer income in probability, uniformly in the original monic unit polynomial.
+The separately derived [automatic-lift comparison](../ledger/Yin_L_G0446_v1.md#every-automatic-good-prime-lift-still-has-vanishing-density) has the same vanishing-density limitation for its complete guaranteed good-prime floor.
+These bounds concern those lower certificates only; they do not bound actual excess valuations or the full determinant.
+A useful continuation must demonstrate contributing original-input excess depth, a sufficiently large contributing prime budget with its costs paid, or a genuinely different integral ensemble with a proved original-measure return.
+The mean lower bound itself remains unresolved; fixed-prime generic cokernel laws, marginal CRT mixing and signed-cycle averaging did not supply it in this round.
+The unrestricted Task remains unresolved.
+
 **Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
 2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
 The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
@@ -79,8 +201,8 @@ This is preparation for a future explicitly authorized resumption.
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
-| priority | Advance automatic same-exponent arithmetic coverage or changed fully paid profiles, connecting actual quotient fibers with S4, S2 and S3 without uncharged period substitution |
+| disposition | paused |
+| priority | Defer automatic arithmetic-coverage proofs while S4 prioritizes counterexamples; reuse existing bounds as candidate filters and reconsider on a concrete new original-input supply mechanism |
 | parent | [Coordinating strategy](Yin_S_G0004.md#route) |
 
 <a id="integer-coefficient-coupling-focus"></a>

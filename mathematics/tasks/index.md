@@ -5,7 +5,7 @@ Status belongs to the exact selected decision; original lineage and acquisition 
 
 | Family and entrance | Title | Author | Original repository | Selected decision | Status | Statement or contract | Current argument | Review evidence |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Yin_T_G0001](Yin_T_G0001_v1.md) | Resolve Lehmer's conjecture | Yin | Local original | [decision-resume-after-account-handoff-2026-10-25](Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25) | active | [Entire classical positive Mahler gap or rigorously established arbitrarily small positive values, with all original hypotheses, quantifiers, equivalent formulations and completion criteria; unresolved and explicitly resumed under the retained weekly threshold.](Yin_T_G0001_v1.md#contract) | Not selected | Not selected |
+| [Yin_T_G0001](Yin_T_G0001_v1.md) | Resolve Lehmer's conjecture | Yin | Local original | [decision-human-pause-after-rotation-closeout-2026-11-06](Yin_T_G0001_v1.md#decision-human-pause-after-rotation-closeout-2026-11-06) | paused | [Entire classical positive Mahler gap or rigorously established arbitrarily small positive values, with all original hypotheses, quantifiers, equivalent formulations and completion criteria; unresolved and paused on the human's instruction after current-work closeout.](Yin_T_G0001_v1.md#contract) | Not selected | Not selected |
 
 ## Joint Tasks and Participation
 

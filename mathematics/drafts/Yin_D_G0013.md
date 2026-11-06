@@ -309,6 +309,14 @@ The inspected [MS12b Pisot/interlacing representation](../audits/literature/MS12
 Its source statement does not supply the coefficient-energy or binary-support bound needed by C864 v2, and it does not cover the entire reciprocal-unit domain.
 Any use of that representation must establish the missing support/integrality-window interface on the chosen representative; the existence of some interlacing representation alone does not discharge it.
 
+<a id="sparse-compactness-and-cgl26-test"></a>
+## Existing sparse-gap coverage of the generalized Boyd family
+
+[CGL26-U001](../audits/literature/CGL26/Yin_U001.md#cgl26-u001) already records inspection of the original v1 abstract and Sections 4.1--4.2, including Equation (19), rendered PDF pages 16--17 and comparison with versioned HTML.
+Its existing DS17/L19 comparison covers the seven-term numerator and its entire quotient by cyclotomic factors, while the reported searches and further asymptotic, irreducibility and cyclotomic-classification arguments retain their unverified scope.
+An arbitrary selected noncyclotomic factor requires separate information, with the source unit linking C92's bounded span-to-factor-degree interface.
+Neither this construction, the [C221 completion criteria](../claims/Yin_C_G0221_v1.md#controlled-entropy-completion), nor the [fixed-polynomial Lawton interface](../audits/literature/Den09/Yin_U002.md#den09-u002) supplies automatic uniformly bounded-support completion for arbitrary near-one inputs.
+
 <a id="automatic-multiple-and-frobenius-supply"></a>
 ## Automatic small-coefficient multiples and Frobenius values retain different missing costs
 
