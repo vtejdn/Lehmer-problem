@@ -20,16 +20,19 @@ For \(p>5\) each irreducible factor of degree \(e\) satisfies
 Consequently producing an actual factor of degree \(o(p)\) along an unbounded prime sequence is equivalent to producing a counterexample sequence within this family.
 This uses the [complete original-factor estimate](Yin_L_G0458_v4.md#prime-square-sublinear-factor-criterion).
 For a reducible divisor \(F\) the upper bound still holds with \(e=\deg F\) by addition over factors, and its measure is strictly positive.
-This escape from the [fixed-unit substitution obstruction](Yin_L_G0450_v1.md#unit-ray-saturation) depends on changing the source polynomial.
+Changing the source polynomial avoids the [fixed-unit substitution obstruction](Yin_L_G0450_v1.md#unit-ray-saturation).
+[C877](../claims/Yin_C_G0877_v1.md#statement) proves that \(H_p\) is irreducible over \(\mathbb Q\) for all sufficiently large primes, so its only nonconstant monic integral divisor then has degree \(8p-6\).
+Thus this family cannot realize the \(o(p)\) criterion, and its nonconstant monic integral divisors have a uniform positive lower bound on \(m\).
+The proof gives no numerical irreducibility threshold.
 
 [C871](../claims/Yin_C_G0871_v1.md#statement) gives indivisible multiplicity-eight binary Frobenius blocks.
 For a reciprocal factor, inversion pairs distinct orbits if \(\rho=\operatorname{ord}_p(2)\) is odd.
 Using the rational exponent \(7/30\) for a target \(M<2^{7/30}\), the sufficient height test is \(270e<7(2p-10)\).
 It forces reciprocity for every qualifying irreducible input by the [Smyth threshold](../claims/Yin_C_G0870_v1.md#source-interfaces).
 At \(p=2113\) the former degree candidates 88 and 90 violate the block restriction.
-The [exact parameter sieve](../computations/programs/Yin_J_G0145/readme.md) tests all primes \(7\le p\le8191\) and leaves only \(p=8191\) for this sufficient height test.
+The original [degree screen](../computations/programs/Yin_J_G0145/readme.md) tested all primes \(7\le p\le13367\) and retained \(8191\) and \(13367\) for this sufficient height test.
 This scope allows smaller actual measures at degrees outside the test.
-At this prime \(\rho=13\), there are 630 primitive binary irreducibles of degree 13 and 315 unordered pairs under inversion.
+At \(p=8191\), \(\rho=13\), and the 630 primitive binary irreducibles of degree 13 form 315 unordered pairs under inversion.
 Candidate original degrees are \(208,210,416,418\).
 The corresponding trace degrees are \(104,105,208,209\), but the following search works on the original reciprocal polynomial.
 
@@ -44,8 +47,7 @@ Thus each candidate gives a single coefficient vector modulo \(2^k\).
 An actual integer divisor at any of the four selected degrees has \(M(F)<2\) and \(|[z^j]F|\le \binom ej M(F)<2^{e+1}\).
 At \(k=e+2\) its centered integer representative is therefore unique.
 Exact monic division by the reconstructed candidate in \(\mathbb Z[z]\) decides whether it divides \(H_p\).
-A nonconstant verified divisor at \(e=208,210\) has \(1<M(F)\le2^{9e/16372}<1.084\).
-One such value would improve on the degree-ten control and would still leave the sequence condition open.
+The motivation for testing \(e=208,210\) was the bound \(1<M(F)\le2^{9e/16372}<1.084\) for any divisor of either degree, below the degree-ten control.
 
 The two endpoint values allow earlier rejection.
 The polynomial \(H_p\) has no real roots, so any of its monic nonconstant divisors has even degree and is positive on the real axis.
@@ -56,13 +58,10 @@ In particular the endpoint block itself has residues twice the inverse of the pr
 Shared data and the actual finite lifting scope are owned by [J145](../computations/programs/Yin_J_G0145/readme.md).
 At \(p=8191\) the endpoint test modulo \(2^{15}\) eliminates all 99540 candidates in the four target degrees.
 The full product of local factors was also checked through every coefficient modulo \(2^{16}\).
-In particular this putative improvement is impossible at the tested degrees, although the height bound leaves factors of other degrees to be assessed by their actual measure.
-The next prime through 13367 that passes the same degree screen is \(13367\), with \(\rho=41\) and degrees \(656,658\).
-Each degree would have 163 candidate reciprocal pairs before lifting.
-The Mersenne enumeration in J145 is specific to its tested inputs.
-For the next prime one can construct a primitive \(p\)-th root \(u\) in \(\mathbb F_{2^{41}}\) by exponentiation to \((2^{41}-1)/p\), choosing a base with nonidentity result.
-Taking the products over doubling orbits of \(u^a\) gives the binary irreducible blocks directly, without enumerating all degree-41 binary polynomials.
-This next parameter has passed only the degree screen.
+At \(p=13367\), where \(\rho=41\), the [subsequent endpoint computation in J145](../computations/programs/Yin_J_G0145/readme.md#prime-13367) constructs a primitive \(p\)-th root \(u\) in \(\mathbb F_{2^{41}}\) by raising a nonzero field element to \((2^{41}-1)/p\) and checking that the result differs from one.
+For each doubling orbit \(O\) in \((\mathbb Z/p\mathbb Z)^\times\), the product \(\prod_{a\in O}(z-u^a)\) gives one of the 326 binary irreducibles of degree 41.
+Each of the 163 inversion pairs gives one candidate of degree 656 and, with the endpoint block, one of degree 658.
+The endpoint test eliminates all candidates in both degrees modulo 512, and the product of all lifted blocks agrees with \(H_{13367}\) coefficient by coefficient modulo 4096.
 
 <a id="complex-trace-cells"></a>
 ## Constructing a positive witness with a nonreal conjugate trace pair
@@ -82,7 +81,7 @@ For \(b_k=Q^{(k)}(c)/k!\), impose
 \[
  |b_0|+\sum_{k=2}^n|b_k|r^k<r|b_1|.
 \]
-Rouch茅's theorem counts one root in the disk, conjugation supplies the lower root and the real brackets exhaust the remaining degree.
+Rouché's theorem counts one root in the disk, conjugation supplies the lower root and the real brackets exhaust the remaining degree.
 This certifies the full inequality \(1<M(P)<\rho^2\), including positivity.
 Take rational endpoints and radius and rational real and imaginary parts of \(c\).
 Choose a sign orientation in each bracket and a signed real or imaginary component of \(b_1\) for a lower bound on \(|b_1|\).
@@ -112,12 +111,13 @@ An infeasible finite cell settles only that cell.
 For a concrete degree-64 pilot, take the control \(Q_9\) and the degree-23 trace polynomial \(\Psi_{47}\) satisfying \(\Phi_{47}(z)=z^{23}\Psi_{47}(z+z^{-1})\).
 The product \(Q_9\Psi_{47}\) has 30 simple real roots in \((-2,2)\), since the cyclotomic trace factor is irreducible of degree 23 and the seven original real brackets are disjoint.
 Its reciprocal lift is the product of the known degree-18 input and \(\Phi_{47}\), with coefficient height three by direct convolution with 47 consecutive ones.
-Use rational separators between the ordered real roots, include the outer endpoints \(-2,2\), and impose the alternating signs of this seed at those 31 points.
-One target disk has center \((-177624+8300i)/100000\), radius \(1/10000\), and ellipse parameter \(219/200\).
+The [31 rational separators](../computations/programs/Yin_J_G0144/trace64_cell.py) include the outer endpoints \(-2,2\) and bracket the ordered real roots in 30 open gaps, with the signs of the seed alternating at the separators.
+The target is the closed disk with center \((-177624+8300i)/100000\) and radius \(1/10000\), inside the ellipse with parameter \(219/200\).
 At the outer bounding-box corner, the ellipse expression is less than \(992/1000\) by rational substitution, so the positive-measure target is \(M<(219/200)^2=1.199025\).
 The seed supplies bracket orientations and is excluded by that very threshold.
-Varying all free coefficients of the reciprocal lift in the height-three box makes this a finite integer feasibility problem.
-This is a proposed inverse search; the known degree-18 input alone was certified in this branch.
+[C876 v1](../claims/Yin_C_G0876_v1.md#statement) excludes the configuration for reciprocal lifts of coefficient height at most three.
+[C876 v2](../claims/Yin_C_G0876_v2.md#statement) proves that at any coefficient height there is no monic integral trace polynomial of degree 32 with a root in each of these 30 open gaps and another in the specified closed disk.
+The exclusion for reciprocal degree 64 is confined to those separators and that disk.
 
 <a id="newton-prefix-search"></a>
 ## Pruning coefficient prefixes using circle moments

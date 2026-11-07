@@ -55,11 +55,12 @@ Each certificate supplies integer separating normals and scales.
 The verifiers recompute vertex extrema, prefix bounds and all required branches with integer arithmetic.
 The ordinary verification commands require neither a solver nor the scripts used to find the normals.
 
-- [cell_bound_short.py](cell_bound_short.py) enumerates all height-three changes to at most five different seed coordinates by a meet-in-the-middle sign test and checks Taylor remainders using Gaussian integers.
-  Of 1613593345 inputs, 38 pass the real signs and none can have a root in the closed disk.
-- [cell_bound_measures.py](cell_bound_measures.py) classifies all 38 by their whole multiplicative Mahler measure using cyclotomic division and Graeffe bounds.
-  All 38 have \(M>1.199025\) and the maximum number of root squarings used is 12.
-  This test retains the 30 real gaps and at most five changed seed coefficients, and permits every location of the remaining roots.
+- [cell_bound_short.py](cell_bound_short.py) enumerates all monic reciprocal integer polynomials of degree 64 and coefficient height at most three that differ from the seed in at most five of the 32 independent coordinates.
+  Of the 1,613,593,345 inputs, exactly 38 pass the meet-in-the-middle test for the seed's strict signs \((-1)^i Q(s_i)>0\) at all 31 ordered separators \(s_0<\cdots<s_{30}\), where \(Q\) is the trace polynomial.
+  Gaussian-integer Taylor bounds exclude a root of \(Q\) in the closed disk for each of these 38 inputs.
+- [cell_bound_measures.py](cell_bound_measures.py) uses cyclotomic division and Graeffe bounds to prove that all 38 polynomials passing those inequalities have whole multiplicative Mahler measure \(M>(219/200)^2=1.199025\).
+  The maximum number of root squarings used was 12.
+  If each open gap contains a root and two additional real roots lie in different gaps, then \(Q\) has the same sign at the two endpoints of each of those two gaps.
 - [cyclotomic_slice.py](cyclotomic_slice.py) exhausts all candidates divisible by the seed's \(\Phi_{47}\), with positive endpoint sign and coefficient height at most three.
   The cofactor \(U\) is reciprocal and monic of degree 18, and \(s=U(1)\) is a plateau coefficient of \(\Phi_{47}U\).
   The positive choices are \(s=1,2,3\).
