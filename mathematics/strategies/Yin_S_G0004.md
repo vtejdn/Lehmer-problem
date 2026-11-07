@@ -10,8 +10,12 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state: paused.** The [human pause after current-work closeout](../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-rotation-closeout-2026-11-06) includes this route and its subroutes; resume only on explicit human instruction.
+**Current state.** This route and its subroutes are paused after the [bounded strategic exploration](../tasks/Yin_T_G0001_v1.md#decision-strategy-handoff-2026-11-07).
 **Retained allocation.** Prioritize actual integer counterexample constructions and their complete positive total Mahler measure, with the existing arithmetic certificates used as filters.
+The next construction to test is a [moving sign transition on the original Chebyshev grid](../ledger/Yin_L_G0462_v2.md#moving-sign-test).
+Seek root-count control and growing signed-residue variation together in a fixed ellipse before tightening its radius.
+The [whole-lift theorem](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) disposes of positive residues and bounded total variation, and the [weighted central test](../ledger/Yin_L_G0462_v2.md#central-sign-test) also excludes the stated transition at zero.
+The [fixed-template extension](../claims/Yin_C_G0879_v2.md#dyadic-application) rules out vanishing positive factors in the rotated dyadic family, independently of how it factors.
 The [eventual irreducibility theorem](../claims/Yin_C_G0877_v1.md#statement) excludes a sequence of factors of vanishing positive measure throughout the odd-prime square family.
 The [binary block restriction](../claims/Yin_C_G0871_v1.md#statement) and [finite endpoint tests](../computations/programs/Yin_J_G0145/readme.md) settle the listed degree exclusions at particular primes without a numerical threshold.
 For a different fixed Gaussian template \(a(z)(t^2+1)-b(z)t\), first compare \(m(a)\) with the normalized logarithm of the factor norm of \(a(\beta)\).
@@ -22,7 +26,7 @@ Within this quadratic template form with \(M(a)=1\), a sublinear-degree search w
 For the complementary [degree-64 trace construction](../ledger/Yin_L_G0462_v1.md#complex-trace-cells), the [convex hull certificate](../claims/Yin_C_G0876_v2.md#statement) excludes the fixed target cell at every coefficient height.
 The [resultant displacement bound](../computations/programs/Yin_J_G0144/trace64-resultant.md) applies also to the specified perturbations of the real separators.
 For degree-64 monic reciprocal integer polynomials of height at most three that differ from the seed in at most five independent coefficients, the [whole-measure comparison](../computations/programs/Yin_J_G0144/readme.md#degree64-cell) gives \(M>1.199025\) for all 38 whose traces have the seed's strict alternating signs at the 31 specified separators.
-The next geometric test is to let the upper trace move in adjoining rational rectangles inside the target ellipse and apply the interpolation hull to each rectangle.
+The adjoining rational rectangles inside the target ellipse remain available for a localized interpolation-hull comparison if the moving-sign construction supplies a candidate.
 Change the real-root placement when extending the construction beyond this pattern and certify the full measure of every surviving positive input.
 Use the [two full reciprocal box controls](../computations/programs/Yin_J_G0144/readme.md) to test candidate filters and the treatment of the measure-one mass.
 The former automatic-supply proof campaign is deferred under the [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05); its unresolved interfaces and accepted bounds remain below for reuse.
@@ -223,7 +227,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Retain actual integer counterexample constructions and their complete costs for explicit human resumption; this route and its subroutes are paused |
+| priority | At resumption test a moving sign transition on the original trace grid, with unbounded residue variation and a certified full exterior cost. |
 
 The current [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) puts counterexample construction first and reserves a small positive effort for S9.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

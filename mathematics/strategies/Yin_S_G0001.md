@@ -13,11 +13,13 @@ author: Yin
 <a id="whole-goal-allocation-2026-11-05"></a>
 ## Whole-goal allocation after the arithmetic random-matrix inquiry
 
-**Current state: paused.** The [human pause after current-work closeout](../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-rotation-closeout-2026-11-06) stops all nine strategies and their subroutes until explicit resumption.
+**Current state.** All nine strategies and their subroutes are paused after the [bounded strategic handoff](../tasks/Yin_T_G0001_v1.md#decision-strategy-handoff-2026-11-07).
 The results and remaining construction obligations below are retained without active research.
 **Retained allocation.** Keep the unrestricted proof-or-refutation contract, with counterexample construction as the main direction and a small complementary proof effort.
 The human author permits limited positive exploration while shifting the main effort toward counterexamples; this does not retain the former broad proof campaign.
 S4 coordinates actual integer constructions and their complete positive total-measure return, using existing obstructions as filters rather than requiring new universal lower bounds.
+For the next counterexample construction, prioritize the [moving signed-residue test](../ledger/Yin_L_G0462_v2.md#moving-sign-test) under S4.
+The [positive-residue and bounded-variation gap](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) and the [central transition calculation](../ledger/Yin_L_G0462_v2.md#central-sign-test) specify which inputs to set aside.
 S9 retains a bounded joint-evaluation inquiry, preferably on the same inputs or constructions considered for counterexamples, to look for arithmetic structure beyond the already extracted Boolean factors.
 S2, S3, S5, S6, S7 and S8 are deferred, including the S2 child S7 and the S1 children S5 and S6; their evidence and unresolved questions remain available.
 The finite signed radial comparison is retained as a dormant question, to reconsider if an actual candidate supplies a new cancellation mechanism.
@@ -61,6 +63,7 @@ The separate [dyadic deletion template](../ledger/Yin_L_G0458_v4.md#dyadic-delet
 Its [rational rotation](../ledger/Yin_L_G0458_v5.md#dyadic-rational-rotation) halves the complete measure and degree, and J143 retains the actual degree-fourteen positive factor at k=3 with all three exterior roots accounted for.
 The rotated whole family still has a six-term completion gap; coprime rotations and the [even-power bivariate obstruction](../ledger/Yin_L_G0458_v5.md#dyadic-even-power-bivariate-obstruction) do not supply a repeated-halving mechanism.
 The [completed iteration check](../ledger/Yin_L_G0458_v6.md#cyclotomic-repair-parity-obstruction) excludes restoring the paired rotation product on any positive integer divisor of Q_n even after cyclotomic multiplication or extraction; other norm constructions remain unresolved.
+The [fixed-template factor theorem](../claims/Yin_C_G0879_v2.md#dyadic-application) now gives a positive lower bound for every positive divisor of these \(Q_n\), regardless of any further arithmetic factorization.
 The [changing sparse map](../ledger/Yin_L_G0450_v5.md#moving-map-uniform-asymptotic) g_n=z^n-z-1 now gives the uniform factor formula m(f)=deg(f)(E+o(1))/(n-2), with E>0, while its whole measure tends to 10E.
 Its [remaining counterexample criterion](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion) is an actual factor of degree o(n); unbounded within-input factor count is sufficient but no longer the only target.
 The [factorwise structure](../ledger/Yin_L_G0450_v6.md#moving-map-factorwise-involution) now makes every rational factor reciprocal and the whole output squarefree, while sublinear factors must eventually have relative norm one and omit the uniformly separated off-circle pairs.

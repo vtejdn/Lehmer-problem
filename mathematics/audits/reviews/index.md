@@ -1,6 +1,7 @@
 # Reviews Index
 
-- [R1104](Yin_R_G1104_v1.md#fixed-template-whole) independently reviews the linear degree and positive Mahler measure bounds for every positive factor in a fixed quadratic template with measure-one endpoint.
+- [R1105](Yin_R_G1105_v1.md#whole-lift-review) independently reviews the whole-lift gap for bounded signed residue variation and for strictly positive residues.
+- [R1104 v2](Yin_R_G1104_v2.md#general-template-whole) independently reviews the fixed-template factor bounds and the dyadic application, extending the scope of the [v1 quadratic-template review](Yin_R_G1104_v1.md#fixed-template-whole).
 - [R1103](Yin_R_G1103_v1.md#whole-proof) independently reviews the complete prime-index trace factorization and the positive limiting measure of its degree-4p factor.
 - [R1101](Yin_R_G1101_v1.md#natural-box-finding) independently verifies the height-free trace-cell exclusion and retains the [separate height-three proof check](Yin_R_G1101_v1.md#height-three-finding).
 

@@ -12,7 +12,7 @@ author: Yin
 Yin's instruction to establish a joint Task for G0001 authorizes this individual Task's adoption of the full common contract.
 Participation covers the common question through the formulations, completion criteria and source-use boundaries retained below.
 The primitive normalization below preserves that question: for an integer polynomial \(f=c f_0\) with primitive \(f_0\), one has \(M(f)=|c|M(f_0)\), and nonprimitive inputs have \(M(f)\ge2\).
-The selected paused decision and all effective individual execution conditions remain in force.
+The selected individual decision and its effective execution conditions govern this participation.
 
 <a id="lehmer-entropy-growth"></a>
 ## Contract
@@ -178,7 +178,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-human-pause-after-rotation-closeout-2026-11-06)
+[Selected decision](#decision-strategy-handoff-2026-11-07)
 
 ## Lifecycle and completion
 
@@ -555,6 +555,35 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unchanged unrestricted contract](#contract) | Entire classical positive Mahler gap or rigorously established arbitrarily small positive values, with all original hypotheses, quantifiers, equivalent formulations and completion criteria; unresolved and paused on the human's instruction after current-work closeout. |
+
+### Decision bounded-strategy-discovery-2026-11-07
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-07T17:53 |
+| status | active |
+| authority | Yin requested a progress assessment, a next direction from the main research agent and independent exploration by agent-S. |
+| reason | Resume for this strategic exploration and its bounded first test, retaining the weekly stop at 98 percent used and the counterexample-first allocation. The assignment ends with the comparison and handoff. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unrestricted Lehmer contract](#contract) | Identify a next investigation that could change the prospects for a uniform gap or a sequence of positive total measures tending to zero. |
+
+### Decision strategy-handoff-2026-11-07
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-07T18:07 |
+| status | paused |
+| authority | Yin requested a progress assessment, a next direction and a bounded independent exploration by agent-S. |
+| reason | The requested comparison and first tests have returned. Retain the moving signed-residue construction for further work under S4 and the limited complementary S9 allocation. The prior general pause resumes at this handoff. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unrestricted Lehmer contract](#contract) | A uniform gap and the existence of arbitrarily small positive measures are both unresolved. |
+| support | [Fixed template factors](../claims/Yin_C_G0879_v2.md#decision-general-template-whole) | Each positive divisor of the rotated dyadic family has a uniform positive floor. |
+| support | [Whole lifts with cyclotomic trace poles](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) | Positive residues and bounded signed total variation each imply a whole-output gap. |
+| support | [Moving sign test](../ledger/Yin_L_G0462_v2.md#moving-sign-test) | Bounded first tests and the remaining simultaneous construction problem. |
 
 ## Execution boundary
 

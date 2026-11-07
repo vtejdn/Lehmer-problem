@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v2](Yin_L_G0462_v2.md) | Trace interlacing with signed residues and a test at the central separator | Necessary Chebyshev variation, the degree-18 positive control, the central sign obstruction and the moving-transition test. |
 | [Yin_L_G0462_v1](Yin_L_G0462_v1.md) | Searching for positive Mahler measures in reciprocal integer polynomials | Whole-block Hensel search, exact nonreal trace cells and coefficient-prefix pruning with finite controls |
 | [Yin_L_G0461_v1](Yin_L_G0461_v1.md) | Mahler-nonincreasing operations: normalized derivatives and radical factors | Exact derivative and finite free contraction estimates, integer coefficient domains, and strict unit-preserving factor descent; no universally repeatable positive descent |
 | [Yin_L_G0460_v1](Yin_L_G0460_v1.md) | Integer coefficient finite free variants and their Mahler costs | Closed binomial coefficient subclasses, a signed Hadamard variant with a dimension cost, the finite-difference normalization failure and the missing total Green-cost transfer |
