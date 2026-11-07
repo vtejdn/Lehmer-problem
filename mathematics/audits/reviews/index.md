@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R1104](Yin_R_G1104_v1.md#fixed-template-whole) independently reviews the linear degree and positive Mahler measure bounds for every positive factor in a fixed quadratic template with measure-one endpoint.
+- [R1103](Yin_R_G1103_v1.md#whole-proof) independently reviews the complete prime-index trace factorization and the positive limiting measure of its degree-4p factor.
+- [R1101](Yin_R_G1101_v1.md#natural-box-finding) independently verifies the height-free trace-cell exclusion and retains the [separate height-three proof check](Yin_R_G1101_v1.md#height-three-finding).
+
+- [R1102](Yin_R_G1102_v1.md#whole-proof) independently reviews eventual rational irreducibility and the positive divisor gap throughout the odd-prime square family.
+- R1100 independently reviews the [binomial gaps and integral multipliers](Yin_R_G1100_v1.md#binomial-gaps-and-multipliers) and the [integral normalized derivative classification](Yin_R_G1100_v1.md#integral-normalized-derivative).
+- R1098 independently reviews the [factorwise height limit](Yin_R_G1098_v1.md#factor-heights) and the [factorwise unit-circle root count](Yin_R_G1098_v1.md#unit-circle-roots).
+
 - [R1095](Yin_R_G1095_v1.md#integral-block-finding) independently reviews the complete C871 resultant and indivisible-block argument.
 
 - [R1094](Yin_R_G1094_v1.md#small-shell-probability-finding): self-review of C870's small-Mahler probability count, complete discrete counterexample criterion, reciprocal conditioning and exact source comparisons.

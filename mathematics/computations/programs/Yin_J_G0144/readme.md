@@ -33,3 +33,49 @@ It reconstructs the entire reciprocal polynomial and verifies seven real interva
 The resulting strict measure interval is \((1.2013475236,1.20143521)\).
 The [mathematical search conditions](../../../ledger/Yin_L_G0462_v1.md) supply the interpretation of both controls.
 These programs were executed by their developers and rerun by the coordinating agent.
+
+<a id="degree64-cell"></a>
+## Finite searches in the degree-64 trace cell
+
+The [exact cell input](trace64_cell.py) specifies the 31 rational separators, the 32 free Chebyshev coefficients, the seed and the closed target disk.
+Run it with standard Python to check the sign pattern and the ellipse bound for the proposed measure \(M<(219/200)^2\).
+
+The [height-free proof](../../../claims/Yin_C_G0876_v2.md#argument) excludes the whole specified root configuration by bounding the coefficients with the vertices of its interpolation polytope.
+With standard Python, run the following commands from this directory.
+
+~~~text
+python -E -B exact_cell_unbounded.py
+python -E -B exact_cell_hull.py
+~~~
+
+The [unrestricted verifier](exact_cell_unbounded.py) checks the [height-free certificate](exact_cell_unbounded_proof.json.gz) and exhausts 2639 internal prefixes.
+Of its two remaining vectors, the seed has no root in the closed disk, and the height-four vector already vanishes at the left separator.
+The [height-three verifier and vertex construction](exact_cell_hull.py) checks the [first certificate](exact_cell_hull_proof.json.gz) and exhausts 959 internal prefixes, leaving only the seed.
+Each certificate supplies integer separating normals and scales.
+The verifiers recompute vertex extrema, prefix bounds and all required branches with integer arithmetic.
+The ordinary verification commands require neither a solver nor the scripts used to find the normals.
+
+- [cell_bound_short.py](cell_bound_short.py) enumerates all height-three changes to at most five different seed coordinates by a meet-in-the-middle sign test and checks Taylor remainders using Gaussian integers.
+  Of 1613593345 inputs, 38 pass the real signs and none can have a root in the closed disk.
+- [cell_bound_measures.py](cell_bound_measures.py) classifies all 38 by their whole multiplicative Mahler measure using cyclotomic division and Graeffe bounds.
+  All 38 have \(M>1.199025\) and the maximum number of root squarings used is 12.
+  This test retains the 30 real gaps and at most five changed seed coefficients, and permits every location of the remaining roots.
+- [cyclotomic_slice.py](cyclotomic_slice.py) exhausts all candidates divisible by the seed's \(\Phi_{47}\), with positive endpoint sign and coefficient height at most three.
+  The cofactor \(U\) is reciprocal and monic of degree 18, and \(s=U(1)\) is a plateau coefficient of \(\Phi_{47}U\).
+  The positive choices are \(s=1,2,3\).
+  If \(B_j\) is the partial sum of the first \(j+1\) outer coefficients of \(U\), then \(B_0=1\), and \(B_j,s-B_j\) occur as coefficients of the product for \(1\le j\le8\).
+  The middle coefficient of \(U\) is \(s-2B_8\).
+  This gives \(6^8+5^8+4^8=2135777\) vectors, counting all such positive-endpoint choices.
+  The degree-nine cofactor trace must supply the upper-half-plane root since the cyclotomic traces are all real.
+  A box-wide Taylor bound at the center leaves 17 vectors, and coefficient-specific Taylor bounds exclude the closed disk for all 17.
+- [cell_bound_moments.py](cell_bound_moments.py) uses the real brackets and complex disk to enclose all 32 Newton sums by rational arithmetic.
+  Exactly 13409 height-three prefixes satisfy these bounds through depth eight.
+  The later congruence and interval bounds give at most \(13409\cdot4^{22}\cdot3^2\) complete candidates before applying other constraints.
+
+Run each named script with python -B from this directory.
+These subdomains may overlap.
+The preliminary [full-variable MILP](trace64_milp.py) used HiGHS 1.15.1 and NumPy 2.5.4 and returned no certified candidate within its node caps.
+The [subbox branch search](trace64_blocks.py) checks every cut with integer arithmetic and independently exhausts the frequency intervals 4 through 27 and 8 through 31 when the other eight coefficients are fixed to the seed.
+These solver-based runs served as comparisons during construction of the full certificate.
+
+The [degree-64 resultant certificate](trace64-resultant.md) forces a real-root displacement in the target disk search, with an exact bound of \(1/50\) for at least one original control root in the midpoint cells.

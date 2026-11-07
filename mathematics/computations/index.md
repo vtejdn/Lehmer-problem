@@ -1,7 +1,7 @@
 # Computations Index
 
-- [Yin_J_G0145](programs/Yin_J_G0145/readme.md) exhausts the four selected degrees at prime 8191 by endpoint tests and verifies the entire modular product against the defining polynomial.
-- [Yin_J_G0144](programs/Yin_J_G0144/readme.md) classifies two full reciprocal degree-ten boxes and certifies a degree-18 example with two nonreal exterior roots.
+- [Yin_J_G0145](programs/Yin_J_G0145/readme.md) excludes the four selected degrees at prime 8191 and degrees 656 and 658 at 13367 by exact endpoint tests with full modular coefficient checks.
+- [Yin_J_G0144](programs/Yin_J_G0144/readme.md) excludes the specified degree-64 trace configuration at every coefficient height, with fixed replayable certificates, and retains the degree-ten and degree-18 calibration cases.
 
 - [Yin_J_G0143](programs/Yin_J_G0143/readme.md): the single dyadic deletion input k=3 has one positive degree-28 factor; an exact rational rotation gives a degree-14 positive factor with half its measure, and exact trace-root counts retain all three exterior roots; no numerical measure or larger-parameter scan.
 

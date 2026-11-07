@@ -55,6 +55,55 @@ def binary_blocks(prime, order):
     return blocks
 
 
+def field_orbit_blocks(prime, order, field_polynomial):
+    """Build each irreducible factor of Phi_p from a primitive root and Frobenius."""
+    def multiply(a, b):
+        return binary_remainder(binary_product(a, b), field_polynomial)
+
+    def power(value, exponent):
+        result = 1
+        while exponent:
+            if exponent & 1:
+                result = multiply(result, value)
+            value = multiply(value, value)
+            exponent >>= 1
+        return result
+
+    # Here the degree 41 is prime, so testing x^(2^41)=x and no linear factor
+    # proves irreducibility of the specified degree-41 polynomial.
+    assert order == 41 and field_polynomial.bit_length() == order + 1
+    assert field_polynomial & 1 and field_polynomial.bit_count() % 2 == 1
+    assert power(2, 1 << order) == 2
+    field_size_minus_one = (1 << order) - 1
+    assert field_size_minus_one % prime == 0
+    root = power(2, field_size_minus_one // prime)
+    assert root != 1 and power(root, prime) == 1
+    root_powers = [1]
+    for _ in range(1, prime):
+        root_powers.append(multiply(root_powers[-1], root))
+
+    visited = {0}
+    blocks = []
+    for starting_exponent in range(1, prime):
+        if starting_exponent in visited:
+            continue
+        exponent = starting_exponent
+        coefficients = [1]
+        while exponent not in visited:
+            visited.add(exponent)
+            constant = root_powers[exponent]
+            next_coefficients = [multiply(c, constant) for c in coefficients] + [0]
+            for i, coefficient in enumerate(coefficients):
+                next_coefficients[i + 1] ^= coefficient
+            coefficients = next_coefficients
+            exponent = 2 * exponent % prime
+        assert exponent == starting_exponent and len(coefficients) == order + 1
+        assert all(c in (0, 1) for c in coefficients)
+        blocks.append(sum(c << i for i, c in enumerate(coefficients)))
+    assert len(set(blocks)) == len(blocks) == (prime - 1) // order
+    return blocks
+
+
 class PackedRing:
     """Polynomial residues mod a monic integer polynomial and 2^bits."""
 
@@ -191,19 +240,25 @@ def verify_product(prime, bits, factors):
 
 def main():
     parser = ArgumentParser(description=__doc__)
-    parser.add_argument('--prime', type=int, choices=(7, 8191), default=8191)
+    parser.add_argument('--prime', type=int, choices=(7, 8191, 13367), default=8191)
     parser.add_argument('--bits', type=int, default=16)
     options = parser.parse_args()
     assert options.bits >= 2
     prime, bits = options.prime, options.bits
-    order = prime.bit_length()
     mask = (1 << bits) - 1
-    blocks = binary_blocks(prime, order)
+    if prime == 13367:
+        blocks = field_orbit_blocks(prime, 41, (1 << 41) + (1 << 3) + 1)
+        pair_counts = (1,)
+    else:
+        blocks = binary_blocks(prime, prime.bit_length())
+        pair_counts = (1, 2)
+    block_set = set(blocks)
     factors = [lift_block(prime, 3, bits)]
     end = endpoints(factors[0], mask)
     pairs = []
     for phi in blocks:
         inverse = int(f'{phi:b}'[::-1], 2)
+        assert inverse in block_set and inverse != phi
         if phi >= inverse:
             continue
         left = lift_block(prime, phi, bits)
@@ -230,11 +285,12 @@ def main():
                 counts[k, number, 2] += 1
     for pair in pairs:
         record(pair, 1)
-    for a, b in combinations(pairs, 2):
-        record(tuple((u * v) & mask for u, v in zip(a, b)), 2)
+    if 2 in pair_counts:
+        for a, b in combinations(pairs, 2):
+            record(tuple((u * v) & mask for u, v in zip(a, b)), 2)
     for k in range(2, bits + 1):
         print(f'p={prime} mod={1 << k} pairs={len(pairs)} candidates='
-              f'{[counts[k, n, endpoint] for n in (1, 2) for endpoint in (0, 2)]}')
+              f'{[counts[k, n, endpoint] for n in pair_counts for endpoint in (0, 2)]}')
 
 
 if __name__ == '__main__':
