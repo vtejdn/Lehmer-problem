@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R1095](Yin_R_G1095_v1.md#integral-block-finding) independently reviews the complete C871 resultant and indivisible-block argument.
+
+- [R1094](Yin_R_G1094_v1.md#small-shell-probability-finding): self-review of C870's small-Mahler probability count, complete discrete counterexample criterion, reciprocal conditioning and exact source comparisons.
+- [R1093](Yin_R_G1093_v1.md#coefficient-box-expectation-finding): self-review of C869's finite coefficient-box bounds and fixed-N logarithmic and arithmetic Mahler expectation limits, including the precise NNS13 interface.
 - [R1073](Yin_R_G1073_v1.md#critical-return-mean-scaling-finding): independent whole review of critical-mean scaling and its uniformity limits.
 - [R1074 v4](Yin_R_G1074_v4.md#synchronized-hankel-indices-whole): independent whole review of C858 v3's exact shifted kernels, split quadratic divisor models, complete polynomial-lattice stabilization and common finite-prime multiples, including repeated dyadic poles.
   The [v3 residue-layer finding](Yin_R_G1074_v3.md#actual-hankel-residue-whole) retains its actual linear valuation subsequences, characteristic-p source and shifted-index checks.

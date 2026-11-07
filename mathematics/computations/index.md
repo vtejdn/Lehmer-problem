@@ -1,5 +1,8 @@
 # Computations Index
 
+- [Yin_J_G0145](programs/Yin_J_G0145/readme.md) exhausts the four selected degrees at prime 8191 by endpoint tests and verifies the entire modular product against the defining polynomial.
+- [Yin_J_G0144](programs/Yin_J_G0144/readme.md) classifies two full reciprocal degree-ten boxes and certifies a degree-18 example with two nonreal exterior roots.
+
 - [Yin_J_G0143](programs/Yin_J_G0143/readme.md): the single dyadic deletion input k=3 has one positive degree-28 factor; an exact rational rotation gives a degree-14 positive factor with half its measure, and exact trace-root counts retain all three exterior roots; no numerical measure or larger-parameter scan.
 
 - [Yin_J_G0142](programs/Yin_J_G0142/readme.md): four changing maps g_n=z^n-z-1 at n=5,7,9,13 yield exactly irreducible noncyclotomic outputs of degrees 50,70,90,130; all four 50-digit full-root diagnostics completed without certified measure enclosures.

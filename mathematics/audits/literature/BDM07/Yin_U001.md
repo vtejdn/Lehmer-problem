@@ -30,3 +30,13 @@ Its coefficient-congruence theorem is not silently identified with the monogenic
 State: **Read** within the specified attribution scope.
 The later [DM05 refinement](../DM05/Yin_U001.md#dm05-u001) explains the noncyclotomic escape from the dyadic-only class.
 The bounded search stopped once the exact classical certificate and its primary locator were identified; no current-best assertion is made.
+
+<a id="odd-coefficient-gap-interface"></a>
+## Odd-coefficient gap used in the sampling comparison
+
+On 2026-11-07 Yin's coordinating AI agent additionally read printed pp. 347-348/PDF pp. 1-2 of the existing published original and visually checked the abstract on printed p. 347.
+The selected established input says that an odd-coefficient polynomial of degree d with no cyclotomic factors satisfies log M(f)>=(log 5)/4 times d/(d+1).
+This statement is accepted at its exact hypothesis scope, without a new full-proof audit.
+In particular it applies to irreducible noncyclotomic Littlewood polynomials, whose coefficients are all -1 or 1.
+It is not asserted for the ternary coefficient box {-1,0,1}, or for an arbitrary factor after removing cyclotomic factors from a Littlewood polynomial, since the factor need not keep odd coefficients.
+[C870](../../../claims/Yin_C_G0870_v1.md#model-selection-and-remaining-target) uses this interface to distinguish sampling models in the counterexample search.

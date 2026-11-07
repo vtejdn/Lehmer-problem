@@ -34,6 +34,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BSS17](BSS17/readme.md) | [Yin_U001](BSS17/Yin_U001.md) |
 | [BV04](BV04/readme.md) | [Yin_U001](BV04/Yin_U001.md), [Yin_U002](BV04/Yin_U002.md), [Yin_U003](BV04/Yin_U003.md) |
 | [BV19b](BV19b/readme.md) | [Yin_U001](BV19b/Yin_U001.md), [Yin_U002](BV19b/Yin_U002.md), [Yin_U003](BV19b/Yin_U003.md) |
+| [BV19c](BV19c/readme.md) | Selected published-source scope; [C870](../../claims/Yin_C_G0870_v1.md#source-interfaces): Proposition 38's positive-divisor estimate and distinction from whole-polynomial measure |
 | [BV20](BV20/readme.md) | [Yin_U001](BV20/Yin_U001.md), [Yin_U002](BV20/Yin_U002.md), [Yin_U003](BV20/Yin_U003.md) |
 | [BZ22](BZ22/readme.md) | [Yin_U001](BZ22/Yin_U001.md) |
 | [Bel17](Bel17/readme.md) | [Yin_U001](Bel17/Yin_U001.md), [Yin_U002](Bel17/Yin_U002.md) |
@@ -100,6 +101,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [GMR18](GMR18/readme.md) | [Yin_U001](GMR18/Yin_U001.md) |
 | [GO08](GO08/readme.md) | [Yin_U001](GO08/Yin_U001.md) |
 | [GW21](GW21/readme.md) | [Yin_U001](GW21/Yin_U001.md), [Yin_U002](GW21/Yin_U002.md) |
+| [GW96](GW96/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#hadamard-variant): selected Hadamard real-rootedness input and signed adaptation |
 | [Gent21](Gent21/readme.md) | [Yin_U001](Gent21/Yin_U001.md) |
 | [Gro02](Gro02/readme.md) | Source and edition notes |
 | [Gur04](Gur04/readme.md) | [Yin_U001](Gur04/Yin_U001.md), [Yin_U002](Gur04/Yin_U002.md), [Yin_U003](Gur04/Yin_U003.md), [Yin_U004](Gur04/Yin_U004.md) |
@@ -126,6 +128,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [LL25](LL25/readme.md) | Source and edition notes |
 | [LN23](LN23/readme.md) | Source and edition notes |
 | [LP17](LP17/readme.md) | Source and edition notes |
+| [LR17](LR17/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#finite-difference-normalization-check): finite-difference mesh input and monic-normalization check |
 | [LS05](LS05/readme.md) | [Yin_U001](LS05/Yin_U001.md) |
 | [Li26](Li26/readme.md) | [Yin_U001](Li26/Yin_U001.md) |
 | [Lin00](Lin00/readme.md) | Source and edition notes |
@@ -144,6 +147,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [MS25](MS25/readme.md) | Source and edition notes |
 | [MS26](MS26/readme.md) | [Yin_U001](MS26/Yin_U001.md) |
 | [MSEDSV22](MSEDSV22/readme.md) | [Yin_U001](MSEDSV22/Yin_U001.md) |
+| [MSS15](MSS15/readme.md) | [Yin_U001](MSS15/Yin_U001.md): finite free coefficient normalization and exact failures of integer closure |
 | [MSY23](MSY23/readme.md) | [Yin_U001](MSY23/Yin_U001.md), [Yin_U002](MSY23/Yin_U002.md), [Yin_U003](MSY23/Yin_U003.md), [Yin_U004](MSY23/Yin_U004.md), [Yin_U005](MSY23/Yin_U005.md), [Yin_U006](MSY23/Yin_U006.md) |
 | [MV226](MV226/readme.md) | [Yin_U001](MV226/Yin_U001.md): elementary theory, companion checks and source-use limits |
 | [Mas05](Mas05/readme.md) | Source and edition notes |
@@ -156,6 +160,8 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Miy22](Miy22/readme.md) | [Yin_U001](Miy22/Yin_U001.md), [Yin_U002](Miy22/Yin_U002.md), [Yin_U003](Miy22/Yin_U003.md), [Yin_U004](Miy22/Yin_U004.md), [Yin_U005](Miy22/Yin_U005.md), [Yin_U006](Miy22/Yin_U006.md), [Yin_U007](Miy22/Yin_U007.md), [Yin_U008](Miy22/Yin_U008.md), [Yin_U009](Miy22/Yin_U009.md) |
 | [Miy26](Miy26/readme.md) | [Yin_U001](Miy26/Yin_U001.md), [Yin_U002](Miy26/Yin_U002.md), [Yin_U003](Miy26/Yin_U003.md), [Yin_U004](Miy26/Yin_U004.md), [Yin_U005](Miy26/Yin_U005.md), [Yin_U006](Miy26/Yin_U006.md), [Yin_U007](Miy26/Yin_U007.md), [Yin_U008](Miy26/Yin_U008.md) |
 | [Mor14](Mor14/readme.md) | [Yin_U001](Mor14/Yin_U001.md) |
+| [Mos26](Mos26/readme.md) | [Two exterior-root-count controls](Mos26/readme.md) |
+| [NNS13](NNS13/readme.md) | Selected source scope; [C869](../../claims/Yin_C_G0869_v1.md#source-interface): conditional Rademacher logarithmic moments used in coefficient-box expectations |
 | [NPR13](NPR13/readme.md) | [Yin_U001](NPR13/Yin_U001.md) |
 | [NS06](NS06/readme.md) | [Yin_U001](NS06/Yin_U001.md), [Yin_U002](NS06/Yin_U002.md) |
 | [NV11](NV11/readme.md) | [Yin_U001](NV11/Yin_U001.md) |
@@ -172,6 +178,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Paz14](Paz14/readme.md) | [Yin_U001](Paz14/Yin_U001.md) |
 | [Pet20](Pet20/readme.md) | [Yin_U001](Pet20/Yin_U001.md) |
 | [Pol20](Pol20/readme.md) | [Yin_U001](Pol20/Yin_U001.md) |
+| [Pri08](Pri08/readme.md) | Source and access limits; [L461](../../ledger/Yin_L_G0461_v1.md#sources-and-scope): selected composition and normalized-derivative estimates |
 | [Pri11](Pri11/readme.md) | [Yin_U001](Pri11/Yin_U001.md), [Yin_U002](Pri11/Yin_U002.md) |
 | [QY26](QY26/readme.md) | [Yin_U001](QY26/Yin_U001.md), [Yin_U002](QY26/Yin_U002.md) |
 | [QZ19](QZ19/readme.md) | [Yin_U001](QZ19/Yin_U001.md) |

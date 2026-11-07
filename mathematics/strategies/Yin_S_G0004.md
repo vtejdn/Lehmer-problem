@@ -12,6 +12,10 @@ author: Yin
 
 **Current state: paused.** The [human pause after current-work closeout](../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-rotation-closeout-2026-11-06) includes this route and its subroutes; resume only on explicit human instruction.
 **Retained allocation.** Prioritize actual integer counterexample constructions and their complete positive total Mahler measure, with the existing arithmetic certificates used as filters.
+For a directed factor search, the [odd-prime block restriction](../claims/Yin_C_G0871_v1.md#statement) and the [complete endpoint sieve at 8191](../computations/programs/Yin_J_G0145/readme.md) remove four apparent low-degree targets.
+The [next factor test](../ledger/Yin_L_G0462_v1.md#factor-reconstruction) is a 163-pair lifting problem at 13367, with genuine integer division required for any surviving factor.
+The complementary [degree-64 trace construction](../ledger/Yin_L_G0462_v1.md#complex-trace-cells) searches for an integer point with a certified positive complete measure in a specified root configuration.
+Use the [two full reciprocal box controls](../computations/programs/Yin_J_G0144/readme.md) to test candidate filters and the treatment of the measure-one mass.
 The former automatic-supply proof campaign is deferred under the [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05); its unresolved interfaces and accepted bounds remain below for reuse.
 The adopted [C864 v2](../claims/Yin_C_G0864_v2.md#decision-whole-independent-review-2026-11-04) now covers every supplied binary reflection with at most four pairs and span at most C*d, including every allowed energy-four seed and positive integer shift, without a phase-separation condition.
 Its bounded primitive-frequency branch uses a full binary period and the original degree-d norm, so the remaining finite pure-circle sign problem is not needed for this arithmetic implication.
