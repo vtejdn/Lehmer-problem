@@ -145,6 +145,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [MS26](MS26/readme.md) | [Yin_U001](MS26/Yin_U001.md) |
 | [MSEDSV22](MSEDSV22/readme.md) | [Yin_U001](MSEDSV22/Yin_U001.md) |
 | [MSY23](MSY23/readme.md) | [Yin_U001](MSY23/Yin_U001.md), [Yin_U002](MSY23/Yin_U002.md), [Yin_U003](MSY23/Yin_U003.md), [Yin_U004](MSY23/Yin_U004.md), [Yin_U005](MSY23/Yin_U005.md), [Yin_U006](MSY23/Yin_U006.md) |
+| [MV226](MV226/readme.md) | [Yin_U001](MV226/Yin_U001.md): elementary theory, companion checks and source-use limits |
 | [Mas05](Mas05/readme.md) | Source and edition notes |
 | [Mas12](Mas12/readme.md) | Source and edition notes |
 | [Mat96](Mat96/readme.md) | [Yin_U001](Mat96/Yin_U001.md) |

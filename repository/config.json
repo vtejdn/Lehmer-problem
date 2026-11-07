@@ -117,6 +117,7 @@
     "U/MS26/Yin": 2,
     "U/MSEDSV22/Yin": 2,
     "U/MSY23/Yin": 7,
+    "U/MV226/Yin": 2,
     "U/Mat96/Yin": 2,
     "U/McM02/Yin": 2,
     "U/McM11/Yin": 2,
@@ -192,7 +193,7 @@
     "Yin_S_G": 10,
     "Yin_T_G": 2
   },
-  "repository": "liang-yin",
+  "repository": "Lehmer-problem",
   "repository_abbr": null,
-  "repository_display_name": null
+  "repository_display_name": "Lehmer's Mahler Measure Problem"
 }
