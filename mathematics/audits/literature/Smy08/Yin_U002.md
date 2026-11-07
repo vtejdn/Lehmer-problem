@@ -70,6 +70,7 @@ M(\alpha)\ge\theta_0,
 
 This is a direct statement by the author of the cited theorem; it was already used as a statement-level input in the G0001 strategy.
 This unit does not upgrade the 1971 proof to a complete independent proof audit.
+The later [Smy71 primary-source inspection](../Smy71/Yin_U001.md#smy71-u001) checks the complete original proof and corollaries; this survey unit retains its original edition and inspection scope.
 The equality classification by conjugates of \((\pm\theta_0)^{\pm1/k}\), the isolated gap, and the listed subsequent small values remain reported results with the source's stated references and scope.
 
 Two elementary proof interfaces were checked:
@@ -84,6 +85,7 @@ Two elementary proof interfaces were checked:
    This is a recoverable missing reduction: nonunits have \(M(P)\ge |P(0)|\ge2>\theta_0\), so only units need that analytic argument.
    For example \(P=z-2\) has \(F(0)=4\), and cannot satisfy the displayed equal-at-zero factorization as written.
    No defect in the nonreciprocal theorem follows.
+   The primary 1971 paper explicitly makes this unit reduction on printed p.171, as checked in [Smy71-U001](../Smy71/Yin_U001.md#smy71-inner-products); the omission discussed here concerns the later survey sketch.
 
 <a id="smy08-kroneckerian-field"></a>
 A **Kroneckerian number field** here means a totally real number field or a totally imaginary quadratic extension of a totally real field (a CM field).

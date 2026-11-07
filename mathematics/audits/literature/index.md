@@ -200,6 +200,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Smi11](Smi11/readme.md) | [Yin_U001](Smi11/Yin_U001.md) |
 | [Smy08](Smy08/readme.md) | [Yin_U001](Smy08/Yin_U001.md), [Yin_U002](Smy08/Yin_U002.md), [Yin_U003](Smy08/Yin_U003.md), [Yin_U004](Smy08/Yin_U004.md) |
 | [Smy15](Smy15/readme.md) | [Yin_U001](Smy15/Yin_U001.md), [Yin_U002](Smy15/Yin_U002.md) |
+| [Smy71](Smy71/readme.md) | [Yin_U001](Smy71/Yin_U001.md): full original proof, corollaries and lemma endpoint |
 | [Sou07](Sou07/readme.md) | [Yin_U001](Sou07/Yin_U001.md) |
 | [Ste12](Ste12/readme.md) | [Yin_U001](Ste12/Yin_U001.md) |
 | [Ste13](Ste13/readme.md) | Source and edition notes |
