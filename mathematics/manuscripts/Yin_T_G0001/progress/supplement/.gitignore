@@ -1,2 +1,5 @@
 !certificates.json
 !verify.py
+!verify_return_core.py
+!return-core.json
+!return-paths.bin.gz

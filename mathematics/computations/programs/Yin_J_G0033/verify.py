@@ -11,7 +11,7 @@ import core
 
 def main():
     start=perf_counter();base=(_J_PROGRAM / 'verify.py').parent
-    data=json.loads(((_J_OUTPUT / 'certificate.json')).read_text())
+    data=json.loads((_J_PROGRAM / 'inputs/certificate.json').read_text(encoding='utf-8'))
     assert data['pattern_cap']==50000
     pass
     assert data['coordinate_box']==[-8,8,-7,7]

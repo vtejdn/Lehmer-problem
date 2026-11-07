@@ -233,8 +233,8 @@ def continuation_check(data,candidates):
 
 def main():
     base= _J_OUTPUT
-    j18=base.parent/'Yin_J_G0018'
-    j19=base.parent/'Yin_J_G0019'
+    j18=_J_PROGRAM.parent/'Yin_J_G0018/inputs'
+    j19=_J_PROGRAM.parent/'Yin_J_G0019/inputs'
     beta,zeta=roots()
     out={'scale':Q,'author_code_imported':False,
          'triangles':triangle_check(json.loads((j18/'triangles.json').read_text()),beta,zeta)}

@@ -5,10 +5,10 @@ author: Yin
 
 ## Native input availability
 
-The selected fifty-cell triangle certificate, including its150 original integer words, is unavailable in this checkout and its selected local Git history.
-verify.py and J21's whole checker cannot currently replay that adopted native object.
-The retained proof and original reviews keep their historical scope; a fresh floating hull selection is not recovery of those selected words.
-The necessary continuation is to supply the original cell/word payload at this group's tracked inputs/ and repair both consumers.
+[inputs/triangles.json](inputs/triangles.json) retains all fifty original cell indices and their 150 selected integer words.
+The minimal payload was extracted from the author's retained original triangles, without rerunning floating hull selection or retaining its numerical diagnostics.
+The exact author verifier and J21's distinct complete checker now read this one native input.
+Both current replays passed all fifty full closed cells and 150 words, with maximum length nine and the original drop bounds 557/500 and 1114267/1000000 at their respective arithmetic scales.
 
 ## Question and scope
 
@@ -18,7 +18,7 @@ This is a geometric mechanism test, not a full weighted return estimate.
 ## Files
 
 - [probe.py](probe.py): floating-point discovery enumerates ternary words of length at most ten, then uses planar convex hulls to choose a triangle over each of fifty cells.
-- triangles.json (`mathematics/computations/outputs/Yin_J_G0018/triangles.json`): integer digit words, rational cell indices, and nonbinding floating-point discovery diagnostics.
+- [inputs/triangles.json](inputs/triangles.json): the adopted integer digit words and rational cell indices, without discovery diagnostics.
 - [verify.py](verify.py): separate standard-library Fraction interval verifier.
   It imports no discovery code and uses no floating-point arithmetic.
 - verification.json (`mathematics/computations/outputs/Yin_J_G0018/verification.json`): the actually rerun exact result.
@@ -26,9 +26,8 @@ This is a geometric mechanism test, not a full weighted return estimate.
 The responsible argument and exact domain are [fixed quartic descent](../../../claims/Yin_C_G0396_v1.md#quartic-neutral-descent).
 
 Generated results and verification data use `mathematics/computations/outputs/Yin_J_G0018/`, independently of the caller's directory.
-Actual required inputs are read from their producing J output homes; program imports still use the corresponding program homes.
-These retained outputs are local and Git-ignored; a clone can lack them.
-Verification reports unavailable inputs without automatically rerunning discovery or substituting other results.
+Required verification inputs are tracked in this group's inputs/ and reused there by J21.
+Optional discovery writes a new triangles.json to the ignored output home; it does not replace the adopted native selection.
 
 ## Reproduction
 
@@ -73,7 +72,7 @@ The [whole-chain SELF review](../../../audits/reviews/Yin_R_G0068_v1.md#quartic-
 
 ## Reproducing reviewed runs
 
-The review findings concern outputs of particular recorded runs.
-Generated output files are kept locally and are not synchronized.
-To verify a recorded result, reproduce the documented program, inputs and parameters and repeat the applicable verifier checks.
-A fresh run does not retrospectively change the historical finding date or inspected scope.
+The historical review findings retain their original scope and relationship.
+The selected native inputs are now tracked, so the documented verification-only commands replay those mathematical objects without rerunning discovery.
+Generated verification reports remain local and replaceable.
+Current repair checks establish the stated finite replay results, not a new independent-agent proof review or independent maintenance acceptance.

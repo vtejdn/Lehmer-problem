@@ -64,7 +64,7 @@ def evaluate_block(word,x,beta,zeta):
 
 def main():
     base= _J_OUTPUT
-    data=json.loads((base/'triangles.json').read_text())
+    data=json.loads((_J_PROGRAM/'inputs/triangles.json').read_text())
     assert data['grid']==100
     assert [r['j'] for r in data['cells']]==list(range(50,100))
     beta,zeta=root_intervals()

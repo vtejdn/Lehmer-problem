@@ -5,7 +5,10 @@ author: Yin
 # Isolated reviews of holomorphic realization, finite-index transfer and affine attainment
 
 This file retains and binds the C_F0005 affine-attainment finding.
-The original combined assignment also read former C_F0017/C_F0041 and other background proofs; those fixed proof homes are not located in the current retained F-family collection, and their labels create no current-target correspondence.
+The original combined assignment's distinct proof homes are [original C_F0017](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0017_v1.md) and [original C_F0041](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0041_v1.md); its finite-residual and differentiated-Dyson background is [original C_F0015](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0015_v1.md) and [original C_F0079](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0079_v1.md).
+These source-only references identify Yin's original experimental-math-ai objects at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree; remote access is unconfirmed.
+They create no local Claim receipt, current same-number correspondence, new adoption or additional review binding.
+The retained current C_F0005 bindings and original review limitations below remain unchanged.
 
 ## Arrangement and inspected inputs
 

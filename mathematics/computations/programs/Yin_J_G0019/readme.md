@@ -5,11 +5,11 @@ author: Yin
 
 ## Native input availability
 
-The complete259-state compact candidate input is retained at [inputs/compact.json](inputs/compact.json).
-It was deterministically reconstructed by enumerate.py and matched against J21's distinct exact enumeration of all22275 coefficient tuples,841 expanding-strip tuples and259 retained states.
-paths.py, verify_paths.py and J21 now reuse that single tracked input.
-The original259 adopted path witnesses in paths.json are unavailable in this checkout and its selected local Git history.
-Their floating-pruned discovery is not rerun as a substitute for that original selection; verify_paths.py and J21's whole replay remain incomplete until the selected integer state/word payload is supplied at this group's tracked input home.
+The complete 259-state compact input is retained at [inputs/compact.json](inputs/compact.json), and the original 259 state/word continuations are retained at [inputs/paths.json](inputs/paths.json).
+The compact set was deterministically reconstructed and matched against J21's distinct exact enumeration of all 22275 coefficient tuples, 841 expanding-strip tuples and 259 retained states.
+The path payload was extracted from the author's retained original calculation; the current radius-twelve discovery independently produced the same complete integer witness list, but the retained input is the original selected payload.
+verify_paths.py and J21 now check the single tracked state/word list, with complete coverage and maximum length 25.
+The floating search-region pruning is used only by discovery, not by either exact verifier.
 
 ## Question and scope
 
@@ -17,16 +17,15 @@ Enumerate a certified finite superset of the compact residual K from [fixed quar
 The responsible new argument is [fixed compact argument](../../../claims/Yin_C_G0396_v1.md#quartic-compact-termination).
 
 Generated results and verification data use `mathematics/computations/outputs/Yin_J_G0019/`, independently of the caller's directory.
-The adopted compact-list input is read from this group's tracked inputs/compact.json; the still-missing original paths retain their historical output locator until that selected payload is supplied.
-These retained outputs are local and Git-ignored; a clone can lack them.
-Verification reports unavailable inputs without automatically rerunning discovery or substituting other results.
+The adopted compact list and original path list are read from this group's tracked inputs/.
+Optional enumeration and discovery still write replaceable outputs; neither automatically replaces an adopted input.
 
 ## Files and reproduction
 
 - [enumerate.py](enumerate.py) uses the reviewed J G0018 Fraction root intervals, exact adjugate/determinant inverse bounds, and outward integer-scaled embedding intervals.
-- compact.json (`mathematics/computations/outputs/Yin_J_G0019/compact.json`) retains the certified coefficient bounds and all 259 candidates, a finite superset of K.
+- [inputs/compact.json](inputs/compact.json) retains the certified coefficient bounds and all 259 candidates, a finite superset of K.
 - [paths.py](paths.py) discovers backward paths with floating-point search-region pruning; its selected region is not a proof premise.
-- paths.json (`mathematics/computations/outputs/Yin_J_G0019/paths.json`) retains all integer start states and original-digit continuations.
+- [inputs/paths.json](inputs/paths.json) retains all integer start states and original-digit continuations.
 - [verify_paths.py](verify_paths.py) checks complete candidate coverage and every forward integer recurrence, importing no discovery helper or approximate embedding code.
 - verification.json (`mathematics/computations/outputs/Yin_J_G0019/verification.json`) records the successful exact path check.
 
@@ -59,7 +58,7 @@ No unrestricted Lehmer-gap conclusion is asserted.
 
 ## Reproducing reviewed runs
 
-The review findings concern outputs of particular recorded runs.
-Generated output files are kept locally and are not synchronized.
-To verify a recorded result, reproduce the documented program, inputs and parameters and repeat the applicable verifier checks.
-A fresh run does not retrospectively change the historical finding date or inspected scope.
+The historical review findings retain their original scope and relationship.
+The selected native inputs are now tracked, so the documented verification-only commands replay those mathematical objects without rerunning discovery.
+Generated verification reports remain local and replaceable.
+Current repair checks establish the stated finite replay results, not a new independent-agent proof review or independent maintenance acceptance.

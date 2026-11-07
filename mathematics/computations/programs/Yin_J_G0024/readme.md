@@ -5,10 +5,10 @@ author: Yin
 
 ## Native input availability
 
-The selected217 original words and32 cell/axis barycentric certificates in pilot.json are unavailable in this checkout and its selected local Git history.
-The normalized-descent proof and original checking accounts do not encode that full native selection.
-The author verifier and J27 cannot currently replay it.
-Supply only the original selected cell/word/barycentric payload at this group's tracked inputs/ and update those consumers; a new floating LP selection would supply different evidence.
+[inputs/pilot.json](inputs/pilot.json) retains the two original cells, exact rational axis targets and all 32 nine-word supports: 288 uses of 217 distinct original integer words.
+The minimal payload was extracted from the author's retained original calculation without rerunning an LP, retaining floating weights or substituting a new selection.
+The author verifier and J27 now read that one tracked input.
+Both current exact replays passed all 32 barycentric certificates, full-cell/intermediate-strip word checks, positive denominators and uniform squared-norm drop 57/100.
 
 ## Scope
 
@@ -20,7 +20,7 @@ The responsible proof and domain are [C399 normalized descent](../../../claims/Y
 ## Files and reproduction
 
 - [probe.py](probe.py): numerical radial linear programs for normalized joint vectors over the two wide cells, followed by positive barycentric witness discovery at fixed rational axis targets.
-- pilot.json (`mathematics/computations/outputs/Yin_J_G0024/pilot.json`): retained integer words and nonbinding numerical diagnostics.
+- [inputs/pilot.json](inputs/pilot.json): original integer word supports, complete cells and exact rational targets; floating roots, weights and optima are omitted.
 - [verify.py](verify.py): exact denominator, full-cell and positive-barycentric checks using the J G0022 interval primitives.
 - verification.json (`mathematics/computations/outputs/Yin_J_G0024/verification.json`): the completed exact result.
 
@@ -36,6 +36,7 @@ python -B mathematics/computations/programs/Yin_J_G0024/verify.py
 ```
 
 Discovery requires NumPy and SciPy; exact verification uses the standard library.
+The verification-only command reads the tracked selected input, independently of optional discovery output.
 
 ## Result and limits
 
@@ -53,7 +54,7 @@ The [complete SELF normalized-body review](../../../audits/reviews/Yin_R_G0069_v
 
 ## Reproducing reviewed runs
 
-The review findings concern outputs of particular recorded runs.
-Generated output files are kept locally and are not synchronized.
-To verify a recorded result, reproduce the documented program, inputs and parameters and repeat the applicable verifier checks.
-A fresh run does not retrospectively change the historical finding date or inspected scope.
+The historical review findings retain their original scope and relationship.
+The selected native inputs are now tracked, so the documented verification-only commands replay those mathematical objects without rerunning discovery.
+Generated verification reports remain local and replaceable.
+Current repair checks establish the stated finite replay results, not a new independent-agent proof review or independent maintenance acceptance.

@@ -5,8 +5,10 @@ author: Yin
 # Isolated review of four affine determinant and spectral modules
 
 The current fixed C_F0003 derivative/spectral proof is located and explicitly bound below.
-The former C_F0078--C_F0080 and C_F0073 proof homes named by the combined historical assignment are not located in the current retained F-family collection.
-Their retained review reconstructions preserve actual findings and limits but do not substitute for the original fixed arguments or supply new current Claim adoptions.
+The former fixed proof homes named by the combined assignment are [original C_F0078](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0078_v1.md), [original C_F0079](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0079_v1.md), [original C_F0080](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0080_v1.md), [original C_F0073](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0073_v1.md).
+These source-only references identify Yin's original experimental-math-ai objects at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree; remote access is unconfirmed.
+They create no local Claim receipt, current same-number correspondence, new adoption or additional review binding.
+Their retained review reconstructions preserve actual findings and limits; the fixed original arguments remain their proof homes, and the bindings below remain those of current C_F0003.
 
 New review act: 2026-10-23T00:16 UTC.
 Human record author: Yin.

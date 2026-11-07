@@ -9,6 +9,17 @@ Goal: [Miy22 source audit](#miy22-source-audit).
 Source: [Miy22](../../../literature/pdf/Miy22.pdf), Akihiro Miyagawa, *A characterization of rationality in free semicircular operators*, Journal of Functional Analysis 283 (2022), article 109609.
 [references.bib](../../../literature/references.bib) is the canonical bibliography.
 
+<a id="original-native-check"></a>
+## Original finite-check input
+
+These are source-only locators in Yin's original experimental-math-ai repository at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree.
+Remote access to that snapshot is unconfirmed; the links do not assert public availability, local receipt, a new mathematical adoption or an expanded historical review.
+
+The native [J_F0003 program](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/computations/programs/Yin_J_F0003/main.py) and [execution account](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/computations/programs/Yin_J_F0003/versions/v1/record.md) locate the historical 64,325-item exact Fock-word check used by U003.
+Its two-letter word ranges, degrees 1--6, adjoint/sign cases and absence of intermediate support truncation remain those of the original account.
+All inputs are encoded in the standard-library program; no separate dataset or new run is required to identify the original calculation.
+The finite result does not certify the universal or analytic theorem.
+
 ## Audit Outcome
 
 Follow-up, 2026-09-09: the user's Kronecker/Yin_C_F0004 comparison adds [Miy22-U009](Yin_U009.md#miy22-u009), a complete local reconstruction of Theorem 2.8 and its exact rank formula.
@@ -166,7 +177,7 @@ This is a source-study completion review, not a new project-theorem proof audit.
 | Exact artifact and version record | The source-identity section records the 24-page journal PDF and page mapping, and the actual limited version/errata search. |
 | Stable reusable units | U001-U008 supply source links, locators, hypotheses, mechanisms, and dependency limits; the global source-unit index registers all eight. |
 | Bounded and affiliated proof-chain review | The obligation map and unit reconstructions cover both main chains and exact-domain reformulation; F01-F08 and external inputs remain explicit. |
-| Reproducible finite computations | The historical account reports 64,325 exact equalities. The selected current computation index/program metadata does not locate its native program/J; U003 retains the finite scope and concrete reproduction limit. |
+| Reproducible finite computations | The historical account reports 64,325 exact equalities. The [fixed original J_F0003 program and account](#original-native-check) locate its native evidence; U003 retains the finite scope, historical execution facts and source-only access limit. |
 | Integrated outcome and project handoff | This record supplies coverage, correction evidence, and reuse guidance; the goal index and current assessment identify the completed source-audit scope. |
 
 Miy22 source audit's deliverables are supplied by the edition and pagination explanation, eight units, the proof-obligation map, correction evidence, and the registered finite computation.

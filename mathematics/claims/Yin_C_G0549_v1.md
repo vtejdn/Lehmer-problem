@@ -7,13 +7,13 @@ author: Yin
 Human author Yin.
 This single responsible Claim joins the original orbit_research author's complete L226 minimum-rank construction and L230 full companion-cost continuation for the same prescribed Phi2 P6 input.
 Both entire arguments, distinct bounded native histories, matrices, failures and source/review scopes remain separate within this home.
-Original L226/L230, R125/R129 and J49/J50 retain their own dated inputs; current maintenance resumes no research or computation.
+Original L226/L230, R125/R129 and J49/J50 retain their own dated inputs; the current certificate replays are bounded material repair.
 
-## Native input replay limits
+## Native input replay
 
-The [J50 original1539-step mutation input](../computations/programs/Yin_J_G0050/readme.md#native-input-availability) is currently unavailable for exact native path replay.
-This limitation concerns the adopted mutation-orbit-membership certificate, while the explicitly displayed V1/Q1 realization and its congruences remain separately available.
-The original R776 checks retain their actual dates and input scope; no new path search or successful replay is claimed.
+The [J50 original 1539-step mutation input](../computations/programs/Yin_J_G0050/readme.md#native-input-availability) is retained in its tracked `inputs/mutation-certificate.json` for exact native replay.
+The recovered original word replays to the displayed V1/Q1 with the original path bounds and complete polynomial checks, without a new search.
+This current replay leaves the original R776 checks at their actual dates and input scope.
 
 ## Statement
 

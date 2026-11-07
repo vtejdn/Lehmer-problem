@@ -15,7 +15,7 @@ iv=importlib.util.module_from_spec(spec);spec.loader.exec_module(iv)
 
 
 def main(output_path=None):
-    data=json.loads(((_J_OUTPUT / 'pilot.json')).read_text())
+    data=json.loads((_J_PROGRAM/'inputs/pilot.json').read_text())
     assert data['grid']==100 and [r['cell'] for r in data['cells']]==[[50,75],[75,100]]
     iv.check_trace_identity_and_irreducibility()
     beta,zs,_=iv.roots()

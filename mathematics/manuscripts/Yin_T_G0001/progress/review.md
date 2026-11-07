@@ -88,10 +88,22 @@ On 4 November 2026, the maintenance author checked the citation-map logarithmic 
 The growth section now states the long-window certificate's objects, optimization domain, rank-energy bound and small-measure ceiling explicitly.
 The author compared that exposition with the retained complete C516 v2 statement and argument, including the fixed-input onset and lower-certificate limitation.
 This is an author self-check of the changed exposition and attribution, with independent maintenance acceptance separate; it does not extend the historical whole-manuscript or source-proof review.
-The standalone return-core attachment remains incomplete and is not certified by the finite optimization verifier.
+At that 4 November check, the standalone return-core attachment remained incomplete and was not certified by the finite optimization verifier.
+The later [return-core attachment author check](#current-return-core-attachment-author-check) records the added standalone coverage at its actual scope.
 
 ## Boundaries
 
 This review supports delivery of the progress report with the limitations above.
 The Task is not mathematically completed or reactivated.
 No research optimization, new candidate search, commit, push or publication was performed.
+
+## Current return-core attachment author check
+
+The separately implemented [return-core verifier](supplement/verify_return_core.py) and its [reader guide](supplement/return-core.md) now cover the finite premise formerly excluded from the optimization attachment.
+The author checked the original polynomial and every conjugate, both complete normalized-descent cells and all 32 axis certificates, the complete 797507-state compact superset, every 1044588-node integer ancestry edge and all seventy exact exclusions.
+The full original counts, drop 57/100, 797437 covered targets and maximum depth 25 passed.
+The source word supports and ancestry were recovered from the author's retained original calculation, not replaced by a new floating selection.
+The reader-facing program re-implements the mathematical checks without importing or copying research routines.
+Only its three attachment files were then copied to an isolated temporary directory and run successfully with Python -I -O; invalid-digit and altered-ancestry controls failed as required, and the temporary copies were removed.
+This is an attachment-author implementation and execution check, not a new isolated manuscript proof review or independent maintenance acceptance.
+The older exclusions above retain their original historical scope, and the theorem's analytic/lattice argument and original review relationships are unchanged.

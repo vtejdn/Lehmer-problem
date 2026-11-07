@@ -134,7 +134,7 @@ def review(a,old,parent):
     energy=Q(q*q)/S;ac=[q*q*x/S for x in cn]
     assert sum(mult)==den and aggregate==aggregate[::-1] and Q(aggregate[39],den)==energy
     assert [Q(aggregate[39+h],den) for h in range(1,N)]==ac
-    exp={'schema': 'J79-exact-nonlinear-budget-release-v1', 'status': 'complete', 'input': 'joint-budget-output.json', 'input_n': 18, 'd': d, 'N': N, 'q': q, 'coefficients': p, 'family': family, 'compressed_indices': comp, 'r_prime': seq(ep), 'H_prime': [seq(row) for row in hp], 'old_compressed_u': seq(uc), 'support': I, 'zero_lags': [h + 1 for h in Z], 'solve_matrix': [seq(row) for row in rows], 'solve_rhs': seq(rhs), 'solve_info': {'rank': 13, 'unknown_count': 13, 'free_indices': [], 'equation_count': 13}, 'delta_compressed_u': seq(delta), 'delta_original_v': seq(dv), 'delta_correlations': seq(dc), 'old_correlations': seq(corr), 'y': seq(y), 'lambda_value': enc(lam), 'mu': enc(mu), 'compressed_dual_slacks': seq(slacks), 'old_S': enc(S0), 'sigma': enc(sigma), 'M': enc(M), 'D': enc(D), 'bounds': bounds, 'tau': enc(tau), 'limiting_bound_indices': ties, 'new_compressed_u': seq(unew), 'v': seq(v), 'S': enc(S), 'L': enc(LL), 'budget': enc(S + 2 * LL), 'correlations': seq(cn), 'old_kappa': enc(K0), 'kappa': enc(K), 'strict_gap': enc(mu * tau), 'tangent_lower': enc(tl), 'actual_surplus_margin_lower': enc(margin), 'weights': seq(w), 'weight_denominator': den, 'multiplicities': mult, 'positive_indices': [j for j, x in enumerate(w) if x], 'energy': enc(energy), 'aggregate_autocorrelations': seq(ac), 'aggregate_polynomial': aggregate, 'income': {'log_q_argument': q, 'norm_terms': [{'D': c['D'], 'coefficient': enc(w[j] / d)} for j, c in enumerate(family)]}, 'exact_arithmetic_product': {'q_base': q, 'q_exponent': d * den, 'norm_factors': [{'D': c['D'], 'exponent': mult[j]} for j, c in enumerate(family)]}, 'degree_bound': 39, 'radial_multiplier': [39, 20], 'strict_actual_surplus': True, 'strictly_below_old': True, 'kappa_le_4': K <= 4, 'kappa_ten_thousandth_bin': [K.numerator * 10000 // K.denominator, K.numerator * 10000 // K.denominator + 1], 'actual_worker_exit_code': 0, 'outer_timed_out': False}
+    exp={'schema': 'J79-exact-nonlinear-budget-release-v1', 'status': 'complete', 'input': 'inputs/joint-budget-n18.json', 'input_n': 18, 'd': d, 'N': N, 'q': q, 'coefficients': p, 'family': family, 'compressed_indices': comp, 'r_prime': seq(ep), 'H_prime': [seq(row) for row in hp], 'old_compressed_u': seq(uc), 'support': I, 'zero_lags': [h + 1 for h in Z], 'solve_matrix': [seq(row) for row in rows], 'solve_rhs': seq(rhs), 'solve_info': {'rank': 13, 'unknown_count': 13, 'free_indices': [], 'equation_count': 13}, 'delta_compressed_u': seq(delta), 'delta_original_v': seq(dv), 'delta_correlations': seq(dc), 'old_correlations': seq(corr), 'y': seq(y), 'lambda_value': enc(lam), 'mu': enc(mu), 'compressed_dual_slacks': seq(slacks), 'old_S': enc(S0), 'sigma': enc(sigma), 'M': enc(M), 'D': enc(D), 'bounds': bounds, 'tau': enc(tau), 'limiting_bound_indices': ties, 'new_compressed_u': seq(unew), 'v': seq(v), 'S': enc(S), 'L': enc(LL), 'budget': enc(S + 2 * LL), 'correlations': seq(cn), 'old_kappa': enc(K0), 'kappa': enc(K), 'strict_gap': enc(mu * tau), 'tangent_lower': enc(tl), 'actual_surplus_margin_lower': enc(margin), 'weights': seq(w), 'weight_denominator': den, 'multiplicities': mult, 'positive_indices': [j for j, x in enumerate(w) if x], 'energy': enc(energy), 'aggregate_autocorrelations': seq(ac), 'aggregate_polynomial': aggregate, 'income': {'log_q_argument': q, 'norm_terms': [{'D': c['D'], 'coefficient': enc(w[j] / d)} for j, c in enumerate(family)]}, 'exact_arithmetic_product': {'q_base': q, 'q_exponent': d * den, 'norm_factors': [{'D': c['D'], 'exponent': mult[j]} for j, c in enumerate(family)]}, 'degree_bound': 39, 'radial_multiplier': [39, 20], 'strict_actual_surplus': True, 'strictly_below_old': True, 'kappa_le_4': K <= 4, 'kappa_ten_thousandth_bin': [K.numerator * 10000 // K.denominator, K.numerator * 10000 // K.denominator + 1], 'actual_worker_exit_code': 0, 'outer_timed_out': False}
     history=[]
     assert set(a)==set(exp)|set(history)
     same({k:v for k,v in a.items() if k not in history},exp,'whole-native')
@@ -147,14 +147,19 @@ def review(a,old,parent):
 
 def worker(output):
     start=time.perf_counter()
-    names=['budget-release-author.py','budget-release-output.json','joint-budget-output.json',
-           'residual-lattice-output.json','nonmonomial-norm-review.py']
-    before={n:(((_J_PROGRAM if n in ('author.py', 'budget-release-author.py', 'budget-release-review.py', 'direct-author.py', 'family-author.py', 'family-review.py', 'fast-optimum-review.py', 'fast-optimum.py', 'joint-budget-author.py', 'joint-budget-review.py', 'lehmer-bundle-author.py', 'lehmer-bundle-review.py', 'nonlinear-bound-author.py', 'nonlinear-bound-review.py', 'nonmonomial-author.py', 'nonmonomial-norm-review.py', 'norm-funded-author.py', 'power-classification-author.py', 'power-classification-review.py', 'readme.md', 'residual-lattice-author.py', 'residual-lattice-review.py', 'review_independent.py', 'unit-cap-author.py', 'unit-cap-remainder-review.py', 'unit-cap-review.py', 'weights-author.py', 'weights-review.py') else _J_OUTPUT) / n)).read_bytes() for n in names}
+    before={'budget-release-output.json':(_J_OUTPUT/'budget-release-output.json').read_bytes()}
     draft=(_J_ROOT / 'mathematics/drafts/Yin_D_G0217.md');db=draft.read_bytes() if draft.exists() else None
     out={'schema': 'J79-budget-release-independent-review-v1'}
     try:
-        old=next(r for r in json.loads(before['joint-budget-output.json'])['records'] if r['n']==18)
-        parent=next(r for r in json.loads(before['residual-lattice-output.json'])['records'] if r['n']==18)
+        spec=importlib.util.spec_from_file_location('release_fixed_reviewer',_J_PROGRAM/'nonlinear-bound-review.py')
+        fixed=importlib.util.module_from_spec(spec);spec.loader.exec_module(fixed)
+        old=fixed.fixed_record()
+        source=json.loads((_J_PROGRAM/'inputs/unit-cap-certificates.json').read_text())
+        raw=next(r for r in source['inputs'] if r['name']=='P20')
+        U=sp.Matrix([c['B'][:20] for c in raw['columns'][40:60]])
+        Ui=U.inv(method='DM')
+        assert all(x.q==1 for x in Ui)
+        parent={'U_rows':U.tolist(),'U_inverse_rows':Ui.tolist()}
         out['complete_result']=review(json.loads(before['budget-release-output.json']),old,parent)
         out.update(status='passed',exact_scalar_comparisons=own.COUNT,author_replayed=False,optimizer_replayed=False)
     except BaseException as exc:out.update(status='failed',error_type=type(exc).__name__,error=_record_text(str(exc)),traceback=_record_text(traceback.format_exc()))

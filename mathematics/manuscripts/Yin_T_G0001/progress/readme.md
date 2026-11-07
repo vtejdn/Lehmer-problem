@@ -10,8 +10,8 @@ Its four subsidiary-strategy subsections follow the actual strategy hierarchy.
 Important mathematical results are stated in theorem, proposition, lemma or corollary environments.
 The [source map](source-map.md) records the strategy correspondence and every substantive group of results.
 The project [citation applications map](../citation.md) records every external citation use in the current TeX with its passage, source evidence and limits.
-The [computation attachment](supplement/readme.md) can be copied out of the repository and verifies the finite optimization table with Python's standard library.
-It does not yet provide standalone verification of the return-core enumeration and paths used in the report.
+The [computation attachment](supplement/readme.md) can be copied out of the repository.
+Its standard-library verifier checks the finite optimization table; a separately implemented [return-core verifier](supplement/return-core.md) with NumPy and python-flint checks the original normalized words, complete 797507-state compact enumeration, original-digit ancestry and exact exclusions.
 
 ## Writing choices
 
@@ -75,4 +75,7 @@ Pages 16--18 were rendered and visually inspected, covering the changed passage 
 The manuscript-specific mathematical checking scope remains in [review.md](review.md).
 
 The command `python -B supplement/verify.py` passed all 304 source columns, five exact finite-family optima and two strict improvements, and correctly rejected the sixth dual certificate.
-This checks the finite optimization attachment only; standalone return-core certificate coverage remains incomplete as described in the [attachment](supplement/readme.md#coverage-limit).
+That run checked the finite optimization attachment only.
+The separately implemented [return-core attachment](supplement/return-core.md) now supplies and verifies the additional finite computational premise with all 797507 candidates, 1044588 ancestry nodes and seventy exact exclusions.
+Its full check also passed after copying only its three reader-facing files to an isolated directory and running Python with -I -O; invalid-digit and altered-ancestry controls were rejected.
+These are current attachment author checks, with historical manuscript proof reviews and independent maintenance acceptance distinct.

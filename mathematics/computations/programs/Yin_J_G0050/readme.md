@@ -10,10 +10,10 @@ This group retains a bounded integral mutation/cost experiment and its complete 
 
 ## Native input availability
 
-The original1539-step mutation-index/direction word and its selected final matrix, basis and polynomial fields are unavailable in this checkout and its selected local Git history.
-verify.py therefore cannot currently replay the native mutation-orbit-membership certificate used by C549.
-The separately displayed V1/Q1 realization and congruence calculations retain their own scope; they do not determine the missing mutation path.
-Supply that original path and the verifier's selected final fields at this group's tracked inputs/ and repair its input locator; repeating numerical search would not identify the adopted path.
+The original 1539-step mutation-index/direction word and its selected final matrix, basis and polynomial are retained in `inputs/mutation-certificate.json`.
+These fields were recovered from the original author's existing result, without rerunning numerical search or substituting a different path.
+verify.py reads this fixed input and replays every full congruence from its explicit starting matrices.
+The complete search history and approximate objective values are unnecessary for this native replay.
 
 ## Proof and review
 
@@ -29,6 +29,7 @@ These computations neither claim a global optimum nor exhaust any mutation orbit
 | Artifact | Actual role |
 | --- | --- |
 | [search.py](search.py) | Predeclared60000-proposal discovery from the fixed L226 matrix; exact integer matrices and full reciprocal coefficients, numerical root values only for the annealing objective. |
+| `inputs/mutation-certificate.json` | The original 1539 mutations and selected final matrix, root basis and absolute polynomial needed by the exact verifier. |
 | search_result.json (`mathematics/computations/outputs/Yin_J_G0050/search_result.json`) | Complete configuration and counters, all improving cost values, explicit final matrix/root basis, and1539-step mutation word. |
 | [verify.py](verify.py) | A separate integer/congruence and SymPy determinant certificate that does not import the search or its polynomial routine. |
 | verification.json (`mathematics/computations/outputs/Yin_J_G0050/verification.json`) | Actual successful certificate output, including full degree7 original/absolute factors, full degree14 cover, root/sign tests, integer bases, actual path bounds and the trace/cycle terms. |
@@ -57,14 +58,18 @@ The root assigned the question, responsible materials and bounded budget but sup
 
 ## Reproduction
 
-From the repository root, run the NumPy discovery followed by the SymPy certificate check:
+From the repository root, replay the retained certificate with Python and SymPy:
 
 ```powershell
-.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0050/search.py
-.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0050/verify.py
+python -B mathematics/computations/programs/Yin_J_G0050/verify.py
 ```
 
-The search writes `search_result.json` under `mathematics/computations/outputs/Yin_J_G0050/`; the verifier reads that result and writes `verification.json` there.
+The verifier reads `inputs/mutation-certificate.json` and writes `verification.json` under `mathematics/computations/outputs/Yin_J_G0050/`.
+It requires neither NumPy nor a search-output file.
+Replaying the recovered original input verifies all 1539 congruences, the displayed V1/Q1, both complete degree-seven polynomials and all fifteen cover-determinant values at the recorded finite scope.
+
+The optional command `python -B mathematics/computations/programs/Yin_J_G0050/search.py` requires NumPy and writes replaceable `search_result.json` in the same output home.
+A new search does not overwrite the adopted mutation input or identify its historical trajectory.
 
 ## Original complete inspection and replay
 

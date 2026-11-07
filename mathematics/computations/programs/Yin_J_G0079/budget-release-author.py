@@ -8,6 +8,7 @@ _J_ROOT = next(parent for parent in _J_PROGRAM.parents if (parent / 'repository/
 _J_OUTPUT = _J_ROOT / 'mathematics/computations/outputs' / _J_PROGRAM.name
 _J_OUTPUT.mkdir(parents=True, exist_ok=True)
 import importlib.util,json,platform,subprocess,sys,time,traceback
+import fixed_joint_budget
 
 HERE=(_J_PROGRAM / 'budget-release-author.py').parent
 OUTPUT=(_J_OUTPUT / 'budget-release-output.json')
@@ -43,12 +44,11 @@ def save(out):
 
 def worker():
     start=time.monotonic()
-    out={'schema': 'J79-exact-nonlinear-budget-release-v1', 'status': 'running', 'input': 'joint-budget-output.json', 'input_n': 18}
+    out={'schema': 'J79-exact-nonlinear-budget-release-v1', 'status': 'running', 'input': 'inputs/joint-budget-n18.json', 'input_n': 18}
     save(out)
     try:
-        src=json.loads(((_J_OUTPUT / 'joint-budget-output.json')).read_text())
-        candidates=[r for r in src['records'] if r['n']==18];assert len(candidates)==1
-        old=candidates[0];assert old['status']=='complete' and old['global_finite_family_optimum_certified']
+        old=fixed_joint_budget.load()
+        assert old['status']=='complete' and old['global_finite_family_optimum_certified']
         d,N,q=old['d'],old['N'],old['q'];assert (d,N)==(20,40)
         family=old['family'];assert len(family)==98
         e=[rr(c['e']) for c in family];ell=[rr(c['ell']) for c in family]

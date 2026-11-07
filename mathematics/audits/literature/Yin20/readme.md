@@ -54,6 +54,16 @@ The source's Ami66 and KV12 citations remain historical construction references,
 U004 directly checks the selected published Reich result and the dissertation locator; neither entire external work is audited.
 Canonical bibliographic identities are in [references.bib](../../../literature/references.bib).
 
+<a id="original-project-arguments"></a>
+## Original project-argument homes
+
+These source-only references identify Yin's original experimental-math-ai objects at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree; remote access is unconfirmed.
+They create no local Claim receipt, current same-number correspondence, new adoption or additional review binding.
+The restricted one-coordinate argument described below is [original C_F0028](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0028_v1.md).
+The earlier [C_F0025](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0025_v1.md), [C_F0026](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0026_v1.md) and [C_F0027](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0027_v1.md) proof homes remain original-source objects, with their actual statements and selected findings retained there.
+The bounded-dual counterexample and the limited R_F0184 checks are located at [the MSY23 project-obstruction account](../MSY23/Yin_U003.md#original-project-obstruction).
+The historical integration findings below do not create current local Claims or expand any of those original proof reviews.
+
 ## Integration and Research Follow-Up
 
 The fresh attempt produces Yin_C_F0028: on the starred polynomial core, vacuum adjoints, dual relations and bounded starred-generator commutators suffice for a complete finite-rank criterion for bounded functions of one normal coordinate.
@@ -63,8 +73,8 @@ The complete independent proof review owns the exact inspected argument and acce
 
 For general jointly dependent functions, the source audit supplies no implication from bounded scalar affiliated output to a bounded inverse representation.
 The same-ambient requirement persists through Schur complements, linearization and the division-ring closure theorem.
-The earlier account reports a counterexample under former Yin_C_F0012 and reviewed statements under former Yin_C_F0025--Yin_C_F0027; their original fixed proof/review homes remain unlocated in the current retained F-family collection.
-Those reports supply no currently reusable project obstruction or reviewed theorem here; the general small-core converse remains open.
+The earlier account's C_F0012 and C_F0025--C_F0027 objects are located at the [fixed original homes](#original-project-arguments), without correspondence to current same-number Claims.
+Those source-only references create no local adoption or enlarged review scope; this source audit alone does not establish the general small-core converse.
 
 ## Goal Completion Review
 

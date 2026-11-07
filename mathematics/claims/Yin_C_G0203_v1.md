@@ -4,10 +4,10 @@ author: Yin
 
 # Full-strip Salem operator norms and the certified quartic two-step interval
 
-## Native input replay limits
+## Native input replay
 
-The [J33 adopted integer-vector payload](../computations/programs/Yin_J_G0033/readme.md#native-input-availability) is currently unavailable for the J33/J34 native replay.
-The fixed phase construction and the original successful finite findings remain at their recorded scopes, without a new certificate selection or execution claim.
+The [J33 adopted integer-vector payload](../computations/programs/Yin_J_G0033/readme.md#native-input-availability) is retained in its tracked `inputs/certificate.json` and shared by the J33/J34 exact checkers.
+The original positive vectors and actual lower witness were recovered without a new selection; their successful current replay preserves the original findings' dates and finite scope.
 
 ## Current assessment
 
@@ -286,7 +286,7 @@ For the quartic input and the complete original-law strip operator,
 Both sides refer to the actual full infinite-state operator.
 The upper bound covers every two-real phase, without a neutral cutoff.
 The lower bound is witnessed by one actual algebraic coset, not by a relaxed phase.
-The exact checks are in [J33](../computations/programs/Yin_J_G0033/readme.md), with its retained certificate (`mathematics/computations/outputs/Yin_J_G0033/certificate.json`) and successful exact result (`mathematics/computations/outputs/Yin_J_G0033/verified.json`).
+The exact checks are in [J33](../computations/programs/Yin_J_G0033/readme.md), with its retained certificate (`mathematics/computations/programs/Yin_J_G0033/inputs/certificate.json`) and regenerated exact result (`mathematics/computations/outputs/Yin_J_G0033/verified.json`).
 This is a computer-assisted finite certificate with the coverage argument proved below; the selected R findings retain its actual author checks, full frozen-input inspection and declared relationship limits.
 
 <a id="quartic-two-step-proof"></a>

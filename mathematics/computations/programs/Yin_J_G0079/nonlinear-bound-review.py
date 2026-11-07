@@ -63,12 +63,98 @@ def conv(a,b):
     for i,x in enumerate(a):
         for j,y in enumerate(b):c[i+j]+=x*y
     return c
+def solve_fixed(rows,rhs):
+    n=len(rows)
+    assert n==len(rhs) and all(len(row)==n for row in rows)
+    matrix=[[F(x) for x in row]+[F(b)] for row,b in zip(rows,rhs)]
+    for col in range(n):
+        pivot=next(i for i in range(col,n) if matrix[i][col])
+        matrix[col],matrix[pivot]=matrix[pivot],matrix[col]
+        scale=matrix[col][col]
+        matrix[col]=[x/scale for x in matrix[col]]
+        for i in range(n):
+            if i!=col:
+                scale=matrix[i][col]
+                matrix[i]=[x-scale*y for x,y in zip(matrix[i],matrix[col])]
+    values=[row[-1] for row in matrix]
+    assert all(sum(a*b for a,b in zip(row,values))==v for row,v in zip(rows,rhs))
+    return values
+
+def fixed_record():
+    # This checker forms its own matrices and both reconstruction systems.
+    # It imports no author program, solver or upstream generated output.
+    from math import gcd
+    fixed=json.loads((_J_PROGRAM/'inputs/joint-budget-n18.json').read_text())
+    assert fixed['format']=='joint-budget-n18-v1'
+    assert fixed['source_family']=='unit-cap-certificates.json' and fixed['source_input']=='P20'
+    assert [fixed[k] for k in ('n','d','N','q')]==[18,20,40,36887312]
+    source=json.loads((_J_PROGRAM/'inputs/unit-cap-certificates.json').read_text())
+    selected=[r for r in source['inputs'] if r['name']=='P20'];assert len(selected)==1
+    raw=selected[0];q=raw['q'];P=raw['P'];assert q==36887312 and len(P)==21
+    family=[];l2=series(F(1,3))
+    assert len(raw['columns'])==98
+    for j,column in enumerate(raw['columns']):
+        B,f,U=column['B'],column['F'],column['U']
+        assert len(B)==len(f)==40 and len(U)==20
+        assert [q*b-a for b,a in zip(B,f)]==conv(P,U)
+        assert all(sum(f[k+i]*P[i] for i in range(21))==0 for k in range(20))
+        assert gcd(*f)==column['content_F'] and type(column['norm_B']) is int and column['norm_B']!=0
+        if j<40:assert B==[int(k==j) for k in range(40)] and column['norm_B']==1
+        D=abs(column['norm_B']);aut=conv(f,f[::-1]);cert=None if j<40 else logcert(D,20,l2)
+        meta={'kind':'monomial' if j<40 else 'frozen_residue','index':j if j<40 else j-40}
+        if j>=40:
+            k=j-40
+            meta.update(seed_kind='basis' if k<20 else 'adjacent',basis_index=k if k<20 else (k-20)//2,
+                seed_sign=0 if k<20 else (-1 if (k-20)%2==0 else 1),z=B[:20])
+        ell_value=F(0) if cert is None else dec(cert['ell_lower'])
+        norm=column['norm_B'];content=column['content_F'];full=q**20*norm
+        assert full%content**20==0
+        family.append(dict(meta,B=B,F_coefficients=f,kernel_multiplier=U,signed_res_B=norm,signed_res_F=full,
+            content=content,e=enc(F(aut[39],q*q)),h=vec([F(x,q*q) for x in aut[40:]]),
+            ell=enc(ell_value),D=D,log_certificate=cert,integer_energy=aut[39],integer_autocorrelations=aut[40:],
+            a=enc(1+2*ell_value),primitive_coefficients=[x//content for x in f],
+            signed_res_primitive=full//content**20,actual_degree=max(k for k,x in enumerate(f) if x)))
+    e=[dec(c['e']) for c in family];ell=[dec(c['ell']) for c in family];aa=[1+2*x for x in ell]
+    H=[[dec(c['h'][h]) for c in family] for h in range(39)]
+    compressed=list(range(20))+list(range(40,98));ep=[e[j]/aa[j] for j in compressed]
+    hp=[[row[j]/aa[j] for j in compressed] for row in H]
+    support=fixed['compressed_support'];zero=fixed['zero_lags']
+    assert support==[0,1,2,15,16,17,36,37,42,45,55,66,75]
+    assert zero==[1,2,9,10,11,15,20,24,30,35,38]
+    rows=[[ep[j] for j in support],[F(1)]*13]+[[hp[h-1][j] for j in support] for h in zero]
+    values=solve_fixed(rows,[F(1),F(2)]+[F(0)]*11)
+    uc=[F(0)]*len(compressed)
+    for j,x in zip(support,values):uc[j]=x
+    v=[F(0)]*98
+    for j,x in zip(compressed,uc):
+        if j<20:v[j]=v[39-j]=x/2
+        else:v[j]=x/aa[j]
+    corr=[sum(x*y for x,y in zip(row,v)) for row in H]
+    assert [h+1 for h,x in enumerate(corr) if not x]==zero
+    y=[dec(x) for x in fixed['y']];assert len(y)==39 and all(abs(x)<=1 for x in y)
+    free=[h-1 for h in zero]
+    assert all(y[h]==(1 if x>0 else -1) for h,x in enumerate(corr) if x)
+    dr=[[2*hp[h][j] for h in free]+[-ep[j],F(-1)] for j in support]
+    db=[-sum(2*hp[h][j]*y[h] for h in range(39) if h not in free) for j in support]
+    dual=solve_fixed(dr,db);assert dual[:-2]==[y[h] for h in free]
+    lam,mu=dual[-2:];assert enc(lam)==fixed['lambda_value'] and enc(mu)==fixed['mu'] and mu>0
+    slacks=[2*sum(y[h]*H[h][j] for h in range(39))-lam*e[j]-mu*aa[j] for j in range(98)]
+    K=2*sum(map(abs,corr))
+    assert min(v)>=0 and sum(x*y for x,y in zip(e,v))==1
+    assert sum(x*y for x,y in zip(aa,v))==2 and min(slacks)>=0
+    assert all(x*y==0 for x,y in zip(v,slacks)) and K==lam+2*mu
+    return {'n':18,'d':20,'N':40,'q':q,'coefficients':P,'status':'complete',
+        'global_finite_family_optimum_certified':True,'family':family,'v':vec(v),'y':vec(y),
+        'lambda_value':enc(lam),'mu':enc(mu),'dual_slacks':vec(slacks),'kappa':enc(K),'S':enc(sum(v)),
+        'compressed_indices':compressed,'r_prime':vec(ep),'H_prime':[vec(row) for row in hp],
+        'compressed_u':vec(uc),'correlations':vec(corr)}
+
 def worker(output):
     start=time.perf_counter();report={'schema': 'J79-nonlinear-independent-review-v1'}
-    paths=[(_J_PROGRAM / 'nonlinear-bound-author.py'),(_J_OUTPUT / 'nonlinear-bound-output.json'),(_J_OUTPUT / 'joint-budget-output.json'),(_J_PROGRAM / 'norm-funded-author.py')]
+    paths=[(_J_OUTPUT / 'nonlinear-bound-output.json')]
     old={p.name:p.read_bytes() for p in paths};draft=(_J_ROOT / 'mathematics/drafts/Yin_D_G0213.md');db=draft.read_bytes() if draft.exists() else None
     try:
-        observed=json.loads(old['nonlinear-bound-output.json']);src=json.loads(old['joint-budget-output.json']);rr=[r for r in src['records'] if r['n']==18];assert len(rr)==1;r=rr[0]
+        observed=json.loads(old['nonlinear-bound-output.json']);r=fixed_record()
         assert r['status']=='complete' and r['global_finite_family_optimum_certified']
         family=r['family'];assert len(family)==98
         q=r['q'];q2=q*q;energies=[];columns=[];logs=[];lower=[];upper=[];l2=series(F(1,3));tail=F(9,260*3**65);assert tail<F(1,GRID)
@@ -92,7 +178,7 @@ def worker(output):
         S=sum(v);L=sum(a*b for a,b in zip(v,lower));assert S+2*L>=2
         corr=[sum(v[j]*H[h][j] for j in range(98)) for h in range(39)];kap=2*sum(map(abs,corr));same(enc(kap),r['kappa']);assert kap==lam+2*mu
         A=1/max(energies);B=1/min(energies);width=(B-A)/32
-        expect={'schema': 'J79-full-nonlinear-cell-bound-v1', 'status': 'complete', 'input': 'joint-budget-output.json', 'input_n': 18, 'cell_count': 32, 'log_terms': 32, 'log_grid': GRID, 'ell_grid': ELL, 'cells': [], 'd': 20, 'N': 40, 'q': q, 'coefficients': r['coefficients'], 'family_count': 98, 'family_labels': [{'kind': c['kind'], 'index': c['index'], 'D': c['D']} for c in family], 'e': vec(energies), 'ell_lower': vec(lower), 'ell_upper': vec(upper), 'ell_errors': vec(err), 'epsilon': enc(eps), 'max_error_indices': [j for j, x in enumerate(err) if x == eps], 'norm_log_certificates': logs, 'y': vec(y), 'lambda_value': enc(lam), 'mu': enc(mu), 'H_rows': [vec(row) for row in H], 'dual_slacks': vec(slack), 'A': enc(A), 'B': enc(B), 'width': enc(width), 'max_energy_indices': [j for j, x in enumerate(energies) if x == max(energies)], 'min_energy_indices': [j for j, x in enumerate(energies) if x == min(energies)], 'log2_certificate': l2, 'tail_upper': enc(tail)}
+        expect={'schema': 'J79-full-nonlinear-cell-bound-v1', 'status': 'complete', 'input': 'inputs/joint-budget-n18.json', 'input_n': 18, 'cell_count': 32, 'log_terms': 32, 'log_grid': GRID, 'ell_grid': ELL, 'cells': [], 'd': 20, 'N': 40, 'q': q, 'coefficients': r['coefficients'], 'family_count': 98, 'family_labels': [{'kind': c['kind'], 'index': c['index'], 'D': c['D']} for c in family], 'e': vec(energies), 'ell_lower': vec(lower), 'ell_upper': vec(upper), 'ell_errors': vec(err), 'epsilon': enc(eps), 'max_error_indices': [j for j, x in enumerate(err) if x == eps], 'norm_log_certificates': logs, 'y': vec(y), 'lambda_value': enc(lam), 'mu': enc(mu), 'H_rows': [vec(row) for row in H], 'dual_slacks': vec(slack), 'A': enc(A), 'B': enc(B), 'width': enc(width), 'max_energy_indices': [j for j, x in enumerate(energies) if x == max(energies)], 'min_energy_indices': [j for j, x in enumerate(energies) if x == min(energies)], 'log2_certificate': l2, 'tail_upper': enc(tail)}
         for i in range(32):
             assert time.perf_counter()-start<CAP
             a=A+(B-A)*F(i,32);b=A+(B-A)*F(i+1,32);z=b/2

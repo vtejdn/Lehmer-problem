@@ -5,7 +5,10 @@ author: Yin
 # Holomorphic comparison, repaired product spectrum and matrix L2 transfer: isolated review
 
 This retained file binds the current C_F0001 matrix/corner transfer only.
-Former holomorphic/product-spectrum targets and C17/C43/C49 background labels in the original combined inspection are not located by this file in the current retained F-family collection; they are neither current same-number Claims nor substitute fixed proof homes.
+The former holomorphic/product-spectrum and arbitrary-rate proof homes are [original C_F0017](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0017_v1.md), [original C_F0043](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0043_v1.md) and [original C_F0049](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0049_v1.md).
+These source-only references identify Yin's original experimental-math-ai objects at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree; remote access is unconfirmed.
+They create no local Claim receipt, current same-number correspondence, new adoption or additional review binding.
+The retained bindings below remain limited to current C_F0001; locating a former proof adds no target or retrospective finding.
 
 The newly assigned reviewer was outside proof development and read the exact fixed statements, complete current arguments and necessary fixed mathematical inputs directly.
 No target's author development discussion or earlier review verdict was supplied before its whole initial finding.

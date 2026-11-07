@@ -51,10 +51,20 @@ The comparison resolved the question; no journal/preprint equality or new whole-
 
 All locators in the table refer to the seven-page preprint, where printed and PDF page numbers coincide.
 
-The current Lin00 directory contains this overview but no U001--U004 bodies.
-The U001--U004 labels below describe the historical inspection, not four currently located proof homes.
-The overview preserves the finite-generator conclusions, exact defect summaries, original dates and source/review limits, but the detailed common-denominator, domain, product/inverse and external-interface arguments remain to be located or adequately prepared before their complete proof inspections can be reused.
-This is an evidence-location limit, not a counterexample or an assertion that the original reading did not occur.
+The current Lin00 directory retains this overview; its original U001--U004 proof homes are located as follows.
+These are source-only locators in Yin's original experimental-math-ai repository at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree.
+Remote access to that snapshot is unconfirmed; the links do not assert public availability, local receipt, a new mathematical adoption or an expanded historical review.
+
+| Original unit | Mathematical scope |
+| --- | --- |
+| [U001](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Lin00/Yin_U001.md) | Exact two-test statements, closed amplification domains and common-denominator reconstruction. |
+| [U002](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Lin00/Yin_U002.md) | Fraction changes, rank-one scalar corrections, product/inverse/adjoint closure and final regularization. |
+| [U003](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Lin00/Yin_U003.md) | Complete algebraic finite-codimension restriction argument, including equality of restriction domains. |
+| [U004](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Lin00/Yin_U004.md) | Exact external interfaces, original-proof limits and the finite-generator boundary. |
+
+The historical complete-proof assessment below concerns these original bodies and the retained preprint.
+This overview and a source-only link do not themselves reproduce those arguments locally; a new use requiring them must select and prepare that exact scope.
+The earlier [Miy26-U008](../Miy26/Yin_U008.md#miy26-u008) statement/applicability acceptance remains at its original depth.
 
 ## Findings and repairs
 
@@ -113,4 +123,4 @@ This audit does not insert a new theorem or change project Claim decisions.
 
 The earlier [Miy26-U008](../Miy26/Yin_U008.md#miy26-u008) records only the Lin00 statement/applicability check actually performed on 2026-09-08.
 That fixed evidence remains unchanged.
-The present units supply new proof-inspection evidence for the retained v1; they do not retrospectively upgrade the earlier inspection or unrelated source audits.
+The located original units retain the later 2026-10-10 proof-inspection evidence for the retained v1; they do not retrospectively upgrade the earlier inspection or unrelated source audits.

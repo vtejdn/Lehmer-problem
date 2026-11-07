@@ -14,8 +14,8 @@ Separate whole and independently reconstructed native findings are pending actua
 ## Native input replay limits
 
 The complete ten-coordinate standalone packet below remains available in [its exact table](#highs-original-lehmer-explicit-packet).
-The [J89 original eleven-column basis selection](../computations/programs/Yin_J_G0089/readme.md#native-input-availability), including its zero-weight column and ordered original indices, is unavailable for J90's historical native replay.
-That missing selection does not erase the displayed packet or turn a new solver result into the original run.
+The [J89 original eleven-column basis selection](../computations/programs/Yin_J_G0089/inputs/basis-packet.json), including its zero-weight column and ordered original indices, is retained as tracked native input for [J90's exact replay](../computations/programs/Yin_J_G0090/readme.md).
+The restored-input check reproduces the original mathematical packet and preserves the historical solver, failure and review scopes.
 
 ## Statement
 

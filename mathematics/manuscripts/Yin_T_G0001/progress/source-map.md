@@ -62,9 +62,17 @@ No new direction, optimization or missing sixth realization is supplied.
 The verifier is independently written for the attachment, using quotient-ring multiplication, fraction-free determinants, coefficient convolutions and direct weak duality.
 It imports no research checker.
 
-The return-core theorem's J24 normalized words and J26 enumeration/path payloads have no standalone counterpart in this attachment.
-The selected output paths and their corresponding earlier program locations have no recoverable payload in the local Git histories checked during this maintenance.
-Standalone coverage of `ret:lehmer-core` therefore remains incomplete; the existing finite optimization data and verifier cannot close it.
+The [return-core attachment](supplement/return-core.md) now has its own verifier and exact data for `ret:lehmer-core` and the finite compact-termination input reused in `ret:linear-control`.
+Its return-core.json contains exactly J24's [tracked original signed-axis word selection](../../../computations/programs/Yin_J_G0024/inputs/pilot.json) and J26's [tracked enclosing certificate](../../../computations/programs/Yin_J_G0026/inputs/enumeration-certificate.json), alongside the original polynomial.
+Its return-paths.bin.gz is the standalone publication copy of J26's [necessary original ancestry](../../../computations/programs/Yin_J_G0026/inputs/path-nodes.bin.gz); it contains the same complete mathematical records after decompression.
+The words, compact candidates and ancestry were restored from the author's retained original native calculation, with floating roots, weights, discovery stores and incidental diagnostics omitted.
+No new floating search supplied these adopted witnesses.
+The native compact-state input remains in J26 for its existing consumers; the standalone verifier reconstructs the complete candidate set itself and needs no duplicate candidate-list attachment.
+The new reader-facing code was separately written from the mathematical argument with exact Laurent arithmetic, rational sign isolation and integral matrix inversion, Arb normalized-coordinate and enclosure checks, complete integer branching with range-proved NumPy filters, and original-digit ancestry/coverage checks.
+It imports no research module and copies no research routine; the original mathematical algorithms and native word/path objects remain its inputs and subject matter.
+Its current full run checked all 32 barycentric certificates, 217 distinct words, 4818379 recursion nodes, 3077691 leaves, 797507 candidates, 1044588 ancestry nodes, 797437 covered candidates and the seventy exact exclusions at maximum length 25.
+These executions do not change the original manuscript or R69 proof-review relationships.
+For source maintenance, compare the parsed normalized-descent/enumeration subobjects and the decompressed ancestry records at these precise responsible inputs; no fingerprint baseline or manifest is needed.
 
 The attachment verifies all 304 source columns, the exact selector, five optima, two strict improvements and the sixth feasible primal with its lag-9 box violation.
 It does not reprove input irreducibility, root classification, the discovery procedure or the historically failed floating tableau.

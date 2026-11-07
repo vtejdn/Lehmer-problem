@@ -5,7 +5,10 @@ author: Yin
 # Isolated reviews of correlated normal transfer, finite q tests and original soft-inverse proofs
 
 The actual retained finding and bindings below concern the fixed L_G0286 hyperbolic-tail argument.
-The original combined assignment also inspected former C_F0100/C_F0169--C_F0171, but their complete fixed proof homes are not located in the current retained F-family collection; the review summaries do not replace those original proofs or identify current same-number Claims.
+The original combined assignment's complete fixed proof homes are [original C_F0100](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0100_v1.md), [original C_F0169](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0169_v1.md), [original C_F0170](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0170_v1.md), [original C_F0171](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0171_v1.md).
+These source-only references identify Yin's original experimental-math-ai objects at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree; remote access is unconfirmed.
+They create no local Claim receipt, current same-number correspondence, new adoption or additional review binding.
+The retained finding below concerns L_G0286; the original proofs, their q branches and their own dependency selections remain distinct from this review's summaries.
 
 ## Arrangement and actual input sequence
 

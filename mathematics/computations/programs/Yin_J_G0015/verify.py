@@ -90,8 +90,23 @@ def main():
     base= _J_OUTPUT
     out={'scope':'exact integer witnesses only; no optimality or unboundedness claim','inputs':{}}
     for filename in ['pilot.json','lehmer-long.json']:
-        payload=json.loads((base/filename).read_text(encoding='utf-8'))
+        payload=json.loads((_J_PROGRAM/'inputs'/filename).read_text(encoding='utf-8'))
         rows=[check(r) for r in payload['cases'] if 'q_ascending' in r]
+        expected=(
+            [('quartic_1722',20,2,17),('quartic_1722',40,3,69),('quartic_1722',80,5,101),
+             ('mercat_1883',20,1,4),('mercat_1883',40,3,23),('mercat_1883',80,4,151),
+             ('lehmer',20,6,379),('lehmer',40,11,5666599),('lehmer',80,19,116138093),
+             ('golden_ratio',20,1,1),('golden_ratio',40,1,1),('golden_ratio',80,1,1)]
+            if filename=='pilot.json' else [('lehmer',160,30,10323130327)])
+        assert [(r['name'],r['quotient_length'],r['quotient_height'],r['max_absolute_state_norm'])
+                for r in rows]==expected
+        if filename=='lehmer-long.json':
+            assert rows[0]['return_times']==[1,170]
+            assert rows[0]['norm_witness']=={'cut_length':84,
+                'state_ascending':[4,0,-3,-4,5,-13,5,-6,1,7]}
+            failed=[r for r in payload['cases'] if 'q_ascending' not in r]
+            assert len(failed)==1 and failed[0]['quotient_length']==320
+            assert failed[0]['optimizer_status']==1
         out['inputs'][filename]=rows
         print(filename,[(r['name'],r['quotient_length'],r['quotient_height'],r['max_absolute_state_norm']) for r in rows])
     (base/'verification.json').write_text(json.dumps(out,indent=2)+'\n',encoding='utf-8')

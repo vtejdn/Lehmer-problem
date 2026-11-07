@@ -7,9 +7,10 @@ author: Yin
 <a id="pre-run-declaration"></a>
 ## Native input availability
 
-The indispensable selected native input is [J89's original basis/packet certificate](../Yin_J_G0089/readme.md#native-input-availability), which is unavailable in this checkout.
-verify.py still preserves the historical multi-file checking interface and cannot currently replay it.
-Its future input adaptation must reuse one minimum tracked J89 certificate, retaining all actual packet/congruence/negative-witness checks and the capped-failure boundary rather than requiring whole solver logs or inventing a new failed run.
+The verifier reads [J89's tracked original basis/packet certificate](../Yin_J_G0089/inputs/basis-packet.json).
+That minimum input restores the original eleven basic vectors/indices, ten packet coordinates/weights and seed recipes, rational congruence, negative/ternary witnesses and actual failure limits.
+The current standard-library replay reconstructs the same eleven-row system and all mathematical packet/matrix fields as the original J90 certificate, without a solver or full atom scan.
+This restoration check preserves the original review's actual date, relationship and limits.
 
 ## Question and scope
 
@@ -28,13 +29,13 @@ It imports no author mathematical code and uses no SymPy or HiGHS.
 From any working directory, invoke the program through its actual path; the repository-root command is:
 
 ```powershell
-.venv/Scripts/python.exe -B -X utf8 mathematics/computations/programs/Yin_J_G0090/main.py
+python -B -X utf8 mathematics/computations/programs/Yin_J_G0090/main.py
 ```
 
-Required J89 outputs are highs_result.json (`mathematics/computations/outputs/Yin_J_G0089/highs_result.json`), highs_lead.json (`mathematics/computations/outputs/Yin_J_G0089/highs_lead.json`), matrix.json (`mathematics/computations/outputs/Yin_J_G0089/matrix.json`), progress.json (`mathematics/computations/outputs/Yin_J_G0089/progress.json`) and failure.json (`mathematics/computations/outputs/Yin_J_G0089/failure.json`).
-The progress file is the completed atom-generation input, not a disposable console record.
+The sole required input is [J89 inputs/basis-packet.json](../Yin_J_G0089/inputs/basis-packet.json).
 The verifier writes its distinct certificate.json (`mathematics/computations/outputs/Yin_J_G0090/certificate.json`).
-Missing required output is reported as missing; the verifier does not regenerate the source family or solver result.
+It requires no previously generated J89 or J90 output and reports a missing fixed input directly.
+Historical atom counts, ordered global indices and terminal search facts are retained source facts; this small checker verifies selected generator membership and certificate arithmetic without re-enumerating those counts or authenticating a new failure.
 
 ## Actual sole review execution and result
 

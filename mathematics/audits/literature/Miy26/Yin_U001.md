@@ -204,7 +204,8 @@ This entry supports the existing source audit and provides a notation citation c
 ## Consumer navigation and inspection limits
 
 The earlier consumer account distinguished its model-specific semicircular/circular/Haar interfaces from general finite-residual and R-diagonal holomorphic settings.
-The former C_F0015/C_F0017 fixed proof consumers are not located in the current retained F-family collection; no current same-number theorem or additional proof dependency is inferred from those historical labels.
+The fixed original consumers are [C_F0015](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0015_v1.md#yin_c_f0015) and its [applications record](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/ledger/Yin_L_F0027_v1.md#finite-residual-applications) for the model-specific Miy26-U002 interface; [C_F0017](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0017_v1.md#yin_c_f0017) has a general R-diagonal holomorphic setting and no direct Miy26-U004 proof dependence.
+These source-only locators use the [original repository/snapshot boundary](readme.md#original-native-checks); no current same-number theorem or new proof dependency is inferred.
 
 Citation purposes are current formulation and notation for the circular normalization and canonical \(L^2\) realization, and exposition for the semicircular/Haar applications.
 No historical priority claim is supported by this check.

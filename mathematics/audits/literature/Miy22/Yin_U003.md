@@ -115,8 +115,9 @@ This does not prove the corresponding theorem for a general operator tuple merel
 
 The universal word and closure calculations above were checked algebraically by two agents.
 A separate exact computation exercises finite word cases without truncating intermediate support.
-The native program and exact J locator for the historical 64,325-item check have not been located in the selected current computation index/program metadata.
-The recorded result and rerun scope remain historical evidence; reproducing them requires that native input, and no new run or claim that the original program never existed is made.
+The native program and execution account are located at [original J_F0003](readme.md#original-native-check).
+The source-only fixed program encodes all finite inputs and requires no separate dataset.
+The recorded result and checking relationships remain historical evidence; this locator repair performs no new run.
 Its evidence concerns those finite cases only; it does not prove the bounded analytic converse or the affiliated theorem.
 
 Use this unit to translate a finite-rank commutator hypothesis into a finite residual space, to prove the rational-to-finite-rank direction, and to normalize suffix/reversal and adjoint signs.

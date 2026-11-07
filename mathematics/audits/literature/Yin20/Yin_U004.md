@@ -403,7 +403,7 @@ It does not identify the set in (18) with all values $r(X)\in M$ obtained using 
 The latter condition first asserts $X\in\operatorname{dom}_{U(M)}(r)$ and then boundedness of one evaluated output.
 
 The earlier project account reports an illustration under its bounded-dual hypotheses in former Yin_C_F0012.
-Its original fixed proof/review homes remain unlocated in the current retained F-family collection, so it supplies no currently reusable project obstruction here.
+Its exact fixed proof/review homes are located in the [original C12 source account](../MSY23/Yin_U003.md#original-project-obstruction), with source-only access and no newly adopted local obstruction theorem.
 Its polynomial matrix $\begin{pmatrix}h&-Y\\0&h\end{pmatrix}$ has affiliated inverse $\begin{pmatrix}h^{-1}&b\\0&h^{-1}\end{pmatrix}$, with bounded selected output $b$ and unbounded diagonal entries.
 The source theorem audited here does not change the ambient of that inverse.
 The further exclusion of alternative bounded matrix representations in that model is a project argument involving its C*-algebra, not a conclusion imported from Yin20 without proof.

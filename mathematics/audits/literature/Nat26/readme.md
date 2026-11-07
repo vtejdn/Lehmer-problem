@@ -54,15 +54,31 @@ Its local proof and finite product/factorial estimates are supplied directly by 
 Existing fixed Nat26 units and their scopes are unchanged.
 The bounded download for this additional scope failed; no local bytes were retained.
 
-The earlier 2026-09-24 q-Hermite-I/terminating q-Chu--Vandermonde, Wall-polynomial, 2026-10-02 polynomial-discriminant and positive-orthogonality/moment descriptions used former unit labels U003--U006.
-Their corresponding C_W0385/C_W0333/C_W0427 proof consumers and detailed source accounts are not located in the current three-unit collection or selected current Claim collection.
-The current U003 is the Gaussian-theta unit and is not evidence for those distinct scopes.
-These background descriptions are unadopted historical leads here; a future use needs the actual source passage and corresponding project argument, without inferring that the old calculations failed or that the proof accounts were lost.
+<a id="original-selected-source-use-homes"></a>
+## Original selected source and project-use homes
+
+These are source-only locators in Yin's original experimental-math-ai repository at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree.
+Remote access to that snapshot is unconfirmed; the links do not assert public availability, local receipt, a new mathematical adoption or an expanded historical review.
+
+The earlier source descriptions have the following exact original homes; the project arguments remain distinct from their classical source attributions.
+
+| Original source account | Particular source/use scope | Original project proof |
+| --- | --- | --- |
+| [U003](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Nat26/Yin_U003.md) | q-Hermite I, positive real-base norm and terminating q-Chu--Vandermonde; project signed/complex continuation is separate. | [C_W0383](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_W0383_v1.md) |
+| [U004](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Nat26/Yin_U004.md) | Wall weight identification; complete signed physical-functional equalities are a project deduction. | [C_W0385](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_W0385_v1.md#d4d4-orthogonal-reweighting-wall-interface) |
+| [U005](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Nat26/Yin_U005.md) | Polynomial-discriminant normalization, with the project critical-value and degree/content bounds separate. | [C_W0333](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_W0333_v1.md#t_w0004-higher-v-source-bound) |
+| [U006](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Nat26/Yin_U006.md) | Positive orthogonality/moments; the quartic Gaussian positivity and integration argument is local to the consumer. | [C_W0427](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_W0427_v1.md#t_w0004-quartic-positivity-interface) |
+| [U010](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Nat26/Yin_U010.md#nat26-u010) | DLMF 15.4.24/15.2.4 finite Chu--Vandermonde with termination fixed before the nonpositive denominator limit. | [C_W0476](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_W0476_v1.md#argument) |
+
+The current U003 is Gaussian theta, corresponding to [original U009](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Nat26/Yin_U009.md); it supplies none of the distinct U003--U006/U010 scopes above.
+No current mathematical consumer in this repository was located for those former W-family source/use accounts.
+They remain source-only background here, without a new adoption or automatic recovery of their other dependencies.
+A future use must select the particular source statement and complete project argument with their actual hypotheses, edition and review limits.
 
 The original author and separate reviewer readings of DLMF18.12.9 belong to [Nat26-U002](Yin_U002.md#nat26-u002), with their exact formula/attribution depth and unrecorded page-version limits.
 
-The former U010/C_W0476 finite Chu--Vandermonde account is likewise not located in this collection.
-Sections 15.4 and 15.2 remain the stated original source locators, not a currently retained U010 or verified local specialization.
+The [located original U010/C_W0476 account](#original-selected-source-use-homes) separates classical attribution from the consumer's complete finite inclusion-exclusion proof.
+The original sections 15.4 and 15.2 and their terminating-limit convention are not replaced by current U003 or a new local specialization.
 
 <a id="retained-selected-pages"></a>
 ## Yin: retained editions for the selected formulas

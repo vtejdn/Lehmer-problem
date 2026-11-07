@@ -386,7 +386,8 @@ It supplies no norm, Hilbert-space domain, bounded-inverse realization theorem, 
 Proposition III.1.6 applies in the selected ambient algebra and presupposes the invertible pivot there.
 The fresh chapter audit therefore leaves the bounded-linearization distinction intact.
 It does not by itself close the small-core analytic extension question.
-The representation obstruction reported under former Yin_C_F0012 requires its original project proof/review homes, which remain unlocated; that report is not a current reusable consequence here.
+The representation obstruction reported under former Yin_C_F0012 is located at the [fixed original project proof and review homes](../MSY23/Yin_U003.md#original-project-obstruction).
+Their source-only access and exact review limits remain in force; Chapter III alone supplies no such obstruction and no local theorem is newly adopted.
 
 The repairs are the arbitrary-ambient scalar-rank/eigenvalue scope, the center qualification, two rectangular dimensions, the order of \(U^{-1}B\), the missing full-square qualification, the empty-block convention, and the exact matched-degree citation locator.
 With those repairs and the explicit external inputs, every numbered Chapter III result has its claimed algebraic conclusion.

@@ -20,7 +20,8 @@ def identity(n):return [[int(i==j) for j in range(n)] for i in range(n)]
 def energy(v):return sum(int(v[i,j])**2 for i in range(v.rows) for j in range(i+1,v.cols))
 def coeff(p):return [int(v) for v in s.Poly(p,t).all_coeffs()]
 def main():
-    data=json.loads(((_J_OUTPUT / 'search_result.json')).read_text());b=data['best']
+    data=json.loads((_J_PROGRAM / 'inputs/mutation-certificate.json').read_text(encoding='utf-8'));b=data['best']
+    assert len(b['path'])==1539
     v=[r[:] for r in V0];q=[r[:] for r in Q0];u=identity(n)
     max_energy=87;max_height=4;max_basis=3
     for i,forward in b['path']:

@@ -5,10 +5,11 @@ author: Yin
 
 ## Native input availability
 
-The selected pilot.json and lehmer-long.json native coefficient arrays are unavailable in this checkout and its selected local Git history.
-The thirteen adopted witnesses and their original return times in [L354](../../../ledger/Yin_L_G0354_v1.md) do not determine the missing complete p/q/product arrays.
-The verification-only command therefore cannot currently replay those original witnesses.
-Retain the original selected arrays in this group's tracked inputs/ and point verify.py there when they are available; a new MILP witness would not identify this historical selection.
+[inputs/pilot.json](inputs/pilot.json) and [inputs/lehmer-long.json](inputs/lehmer-long.json) retain the original thirteen selected p/q/product integer arrays and the failed length-320 attempt.
+They were extracted from the author's retained native calculation, preserving the exact witnesses rather than running the time-limited MILP again.
+Only the selected mathematical arrays, quotient bounds and necessary failure fields are retained; optimizer logs and floating diagnostics are not verification inputs.
+The standard-library verifier now reads these tracked files and rechecks all thirteen heights, norms and integer identities, including the length-160 Lehmer witness's return times 1 and 170 and its norm-10323130327 state at cut 84.
+This current replay passed without SciPy or NumPy.
 
 ## Question and scope
 
@@ -20,8 +21,8 @@ This is finite evidence for [L G0157's returning-core question](../../../ledger/
 | File | Role |
 | --- | --- |
 | [probe.py](probe.py) | MILP witness discovery with a direct integer check before saving. |
-| pilot.json (`mathematics/computations/outputs/Yin_J_G0015/pilot.json`) | Four inputs at quotient lengths 20,40,80; twelve feasible witnesses. |
-| lehmer-long.json (`mathematics/computations/outputs/Yin_J_G0015/lehmer-long.json`) | Length 160 witness and failed length 320 attempt. |
+| [inputs/pilot.json](inputs/pilot.json) | Four inputs at quotient lengths 20,40,80; twelve feasible witnesses. |
+| [inputs/lehmer-long.json](inputs/lehmer-long.json) | Length 160 witness and failed length 320 attempt. |
 | [verify.py](verify.py) | Separate standard-library polynomial division, Horner return and Bareiss state-norm verification; imports no author helper. |
 | verification.json (`mathematics/computations/outputs/Yin_J_G0015/verification.json`) | Exact verified finite payload. |
 
@@ -51,8 +52,8 @@ Normally installed SciPy needs no such argument.
 The verification-only command reads the two saved native JSON witness files and requires no SciPy/NumPy.
 It compares mathematical arrays and identities rather than timestamps or file hashes.
 
-Generated data are retained locally and excluded from Git; a clone can lack them.
-Required verification inputs remain explicit, without automatic producer execution or a substituted result.
+Discovery products and verification reports remain in the ignored output home.
+The verification-only command reads the tracked adopted inputs; running discovery does not replace that fixed selection or make a new MILP witness its historical original.
 
 ## Results and limits
 
@@ -74,7 +75,7 @@ The related source/domain review is recorded in D G0008.
 
 ## Reproducing reviewed runs
 
-The review findings concern outputs of particular recorded runs.
-Generated output files are kept locally and are not synchronized.
-To verify a recorded result, reproduce the documented program, inputs and parameters and repeat the applicable verifier checks.
-A fresh run does not retrospectively change the historical finding date or inspected scope.
+The historical review findings retain their original scope and relationship.
+The selected native inputs are now tracked, so the documented verification-only commands replay those mathematical objects without rerunning discovery.
+Generated verification reports remain local and replaceable.
+Current repair checks establish the stated finite replay results, not a new independent-agent proof review or independent maintenance acceptance.

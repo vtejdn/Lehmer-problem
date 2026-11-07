@@ -5,17 +5,34 @@ author: Yin
 
 ## Native input availability
 
-The selected enumeration and ancestry/path certificates are unavailable in this checkout and its selected local Git history, including the original797507-candidate list,1044588 ancestry nodes and70 exact exclusions.
-The retained mathematical scope and old successful checks do not supply those missing native bytes.
-The separate J28 enumeration and J29 continuation checks therefore cannot currently replay their original selected certificates.
-Retain the indispensable original basis/enclosure and ancestry/coverage data at this group's tracked native input home when supplied; a different pruned path discovery is not identified as the original certificate.
+The original selected enclosing certificate, 797507-candidate superset and necessary 1044588-node ancestry are retained under [inputs/](inputs/).
+The payload was extracted from the author's retained original calculation, not produced by a new pruned discovery.
+Only the enclosing matrices/bounds, complete compact set, necessary ancestry closure, seventy outer states and concise fixed-scope metadata are retained; floating path parameters, the 4003565-state discovery store, runtime diagnostics and logs are not verification inputs.
+[compact-states.bin.gz](inputs/compact-states.bin.gz) is the original little-endian candidate array compressed with gzip.
+[path-nodes.bin.gz](inputs/path-nodes.bin.gz) concatenates the two original ancestry parts before compression, retaining every original 13-byte state/parent/digit record.
+The original exact enclosure and path checks, J28's complete distinct traversal and J29's separate edge/exclusion checks all passed using these tracked inputs.
+J28 reproduced all 797507 states and the complete original sequence, with 4818379 recursion nodes and 3077691 leaves; J29 checked all 1044588 edges, 797437 covered candidates and seventy exact exclusions at maximum depth 25.
 
 ## Scope
 
 Estimate and, only if bounded and feasible, enumerate a certified finite superset of the radius-eight Lehmer compact residue.
 Numerical count estimates are distinct from exact completeness certificates.
 
-## Files and reproduction
+## Fixed inputs and verification
+
+The verification-only commands below need Python with its standard library and no previous output:
+
+```powershell
+python -B mathematics/computations/programs/Yin_J_G0026/verify_certificate.py
+python -B mathematics/computations/programs/Yin_J_G0026/classify_uncovered.py
+python -B mathematics/computations/programs/Yin_J_G0026/verify_paths.py
+```
+
+They read [enumeration-certificate.json](inputs/enumeration-certificate.json), [enumeration.json](inputs/enumeration.json), the compressed compact set, [path-certificate.json](inputs/path-certificate.json), the compressed ancestry and [uncovered.bin](inputs/uncovered.bin).
+The generated reports use the ignored output home.
+The gzip format changes storage only; exact integers and full finite coverage are checked.
+
+## Discovery programs and optional reproduction
 
 The responsible proof is [C399 compact enumeration](../../../claims/Yin_C_G0399_v1.md#lehmer-compact-complete-enumeration).
 
@@ -30,15 +47,16 @@ Reproduction from repository root:
 
 ```powershell
 python -B mathematics/computations/programs/Yin_J_G0026/estimate.py
-.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0026/prepare.py
+python -B mathematics/computations/programs/Yin_J_G0026/prepare.py
 & mathematics/computations/programs/Yin_J_G0026/run.ps1
-python -B mathematics/computations/programs/Yin_J_G0026/verify_certificate.py
 ```
 
 Preparation uses Python with SymPy solely to produce the integer LLL change of basis.
 Its determinant and identity are checked exactly.
 The certificate checker uses only the standard library.
 The bounded traversal uses PowerShell `Add-Type` to compile the C# implementation.
+These optional producer commands write discovery outputs, while the verification-only commands deliberately check the tracked adopted inputs.
+A new discovery result is not automatically adopted or identified as an original historical certificate.
 
 ## Completed enumeration and limits
 
@@ -56,7 +74,8 @@ The [complete SELF enumeration review](../../../audits/reviews/Yin_R_G0069_v1.md
 
 ## Exact path certificate
 
-Path discovery consumes the preceding enumeration.
+Optional path discovery consumes the preceding generated enumeration.
+The verification-only command instead consumes the tracked adopted compact set and ancestry described above.
 Its files are:
 
 - [prepare_paths.py](prepare_paths.py), path-parameters.json (`mathematics/computations/outputs/Yin_J_G0026/path-parameters.json`): floating search-region data only.
@@ -69,8 +88,6 @@ Its files are:
 ```powershell
 python -B mathematics/computations/programs/Yin_J_G0026/prepare_paths.py
 & mathematics/computations/programs/Yin_J_G0026/run_paths.ps1
-python -B mathematics/computations/programs/Yin_J_G0026/classify_uncovered.py
-python -B mathematics/computations/programs/Yin_J_G0026/verify_paths.py
 ```
 
 The reverse search visited 4003565 states below its 6000000-node cap and covered 797437 original candidates.
@@ -88,7 +105,7 @@ This path conclusion has its own scope in [C399 compact continuations](../../../
 
 ## Reproducing reviewed runs
 
-The review findings concern outputs of particular recorded runs.
-Generated output files are kept locally and are not synchronized.
-To verify a recorded result, reproduce the documented program, inputs and parameters and repeat the applicable verifier checks.
-A fresh run does not retrospectively change the historical finding date or inspected scope.
+The historical review findings retain their original scope and relationship.
+The selected native inputs are now tracked, so the documented verification-only commands replay those mathematical objects without rerunning discovery.
+Generated verification reports remain local and replaceable.
+Current repair checks establish the stated finite replay results, not a new independent-agent proof review or independent maintenance acceptance.

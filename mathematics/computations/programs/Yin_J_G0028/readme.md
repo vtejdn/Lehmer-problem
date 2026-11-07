@@ -21,9 +21,10 @@ The linked original R records the complete proof review as SELF after its actual
 
 ## Reproduction
 
-From repository root run `.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0028/verify.py`.
+From repository root run `python -B mathematics/computations/programs/Yin_J_G0028/verify.py`.
 Dependencies: Python, NumPy, SymPy and python-flint.
-Inputs are J G0026's enumeration-certificate.json, compact-states.bin and enumeration.json.
+Inputs are J G0026's tracked inputs/enumeration-certificate.json, inputs/compact-states.bin.gz and inputs/enumeration.json.
+The checker decompresses the native binary and compares every regenerated mathematical state and its sequence order; no previous author output is required.
 The code imports no author enumeration/checker code.
 It reuses only the reviewer's own J G0023 independent_roots helper; that helper checks irreducibility and isolates all trace roots exactly.
 
@@ -47,7 +48,7 @@ This result is a complete finite superset; exact candidate membership, later exc
 
 ## Reproducing reviewed runs
 
-The review findings concern outputs of particular recorded runs.
-Generated output files are kept locally and are not synchronized.
-To verify a recorded result, reproduce the documented program, inputs and parameters and repeat the applicable verifier checks.
-A fresh run does not retrospectively change the historical finding date or inspected scope.
+The historical review findings retain their original scope and relationship.
+The selected native inputs are now tracked, so the documented verification-only commands replay those mathematical objects without rerunning discovery.
+Generated verification reports remain local and replaceable.
+Current repair checks establish the stated finite replay results, not a new independent-agent proof review or independent maintenance acceptance.

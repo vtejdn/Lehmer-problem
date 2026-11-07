@@ -29,9 +29,9 @@ The table identifies the actual stage inputs and outputs; earlier output used by
 | Residual-lattice directions | [residual-lattice-author.py](residual-lattice-author.py), residual-lattice-output.json (`mathematics/computations/outputs/Yin_J_G0079/residual-lattice-output.json`) | [residual-lattice-review.py](residual-lattice-review.py), residual-lattice-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/residual-lattice-review-result.json`) | Exact monomial optima |
 | Joint linear budget | [joint-budget-author.py](joint-budget-author.py), joint-budget-output.json (`mathematics/computations/outputs/Yin_J_G0079/joint-budget-output.json`) | [joint-budget-review.py](joint-budget-review.py), joint-budget-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/joint-budget-review-result.json`) | Monomial optima and residual-lattice output |
 | Signed-power classification | [power-classification-author.py](power-classification-author.py), power-classification-output.json (`mathematics/computations/outputs/Yin_J_G0079/power-classification-output.json`) | [power-classification-review.py](power-classification-review.py), power-classification-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/power-classification-review-result.json`) | Residual-lattice output |
-| Nonlinear 32-cell lower bound | [nonlinear-bound-author.py](nonlinear-bound-author.py), nonlinear-bound-output.json (`mathematics/computations/outputs/Yin_J_G0079/nonlinear-bound-output.json`) | [nonlinear-bound-review.py](nonlinear-bound-review.py), nonlinear-bound-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/nonlinear-bound-review-result.json`) | Completed n18 part of joint-budget output |
+| Nonlinear 32-cell lower bound | [nonlinear-bound-author.py](nonlinear-bound-author.py), nonlinear-bound-output.json (`mathematics/computations/outputs/Yin_J_G0079/nonlinear-bound-output.json`) | [nonlinear-bound-review.py](nonlinear-bound-review.py), nonlinear-bound-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/nonlinear-bound-review-result.json`) | [Tracked n18 family and adopted joint-budget input](#nonlinear-bound-native-input-availability) |
 | Original Lehmer bundle | [lehmer-bundle-author.py](lehmer-bundle-author.py), lehmer-bundle-output.json (`mathematics/computations/outputs/Yin_J_G0079/lehmer-bundle-output.json`) | [lehmer-bundle-review.py](lehmer-bundle-review.py), lehmer-bundle-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/lehmer-bundle-review-result.json`) | Fixed original polynomial |
-| Exact budget release | [budget-release-author.py](budget-release-author.py), budget-release-output.json (`mathematics/computations/outputs/Yin_J_G0079/budget-release-output.json`) | [budget-release-review.py](budget-release-review.py), budget-release-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/budget-release-review-result.json`) | Completed n18 joint-budget certificate |
+| Exact budget release | [budget-release-author.py](budget-release-author.py), budget-release-output.json (`mathematics/computations/outputs/Yin_J_G0079/budget-release-output.json`) | [budget-release-review.py](budget-release-review.py), budget-release-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/budget-release-review-result.json`) | [Tracked n18 family and adopted joint-budget input](#nonlinear-bound-native-input-availability) |
 | Norm-one energy-cap comparison | [unit-cap-author.py](unit-cap-author.py), unit-cap-output.json (`mathematics/computations/outputs/Yin_J_G0079/unit-cap-output.json`) | [unit-cap-review.py](unit-cap-review.py), unit-cap-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/unit-cap-review-result.json`) | Residual-lattice, monomial-optimum and Lehmer-bundle outputs |
 | Sixth-instance exact remainder | No replacement author output | [unit-cap-remainder-review.py](unit-cap-remainder-review.py), unit-cap-remainder-review-result.json (`mathematics/computations/outputs/Yin_J_G0079/unit-cap-remainder-review-result.json`) | Unit-cap author data and the actual failed first review report |
 
@@ -565,7 +565,35 @@ Generated output files remain local and are not synchronized.
 ## Nonlinear-bound native input availability
 
 The n18 source data in [inputs/unit-cap-certificates.json](inputs/unit-cap-certificates.json) retain the complete98-column source family with all58 residue labels, original q and coefficient/norm inputs.
-The joint-budget selection's different thirty-nine-coordinate dual, its fixed/free/sign reconstruction identities and its exact primal/slack fields are unavailable in this checkout and its selected local Git history.
-The norm-one dual in that retained file is for a different constraint system and cannot replace the adopted joint-budget dual.
-nonlinear-bound-author.py and nonlinear-bound-review.py cannot currently replay C325/C358's selected nonlinear-bound evidence.
-Supply that minimum original joint-budget native selection at this group's tracked inputs/ and adapt both consumers while retaining all98 directions and32 cells; rerunning an LP would not identify the adopted selection.
+[inputs/joint-budget-n18.json](inputs/joint-budget-n18.json) retains the adopted thirty-nine-coordinate joint-budget dual, lambda/mu, thirteen compressed positive-support indices and eleven zero/free lags.
+It was extracted from the completed n18 record in experimental-math-ai's existing original joint-budget-output.json, and every retained source column was compared with this group's already tracked family.
+The fixed signs are the nonzero-correlation signs; the eleven zero lags are precisely the free dual positions.
+[fixed_joint_budget.py](fixed_joint_budget.py) derives both unique rank13 rational systems, all98 masses and slacks, the exact energy and norm-log bounds from those minimum inputs.
+Its reconstructed y, lambda, mu, v, S, L, kappa and all slacks agree with the original adopted record.
+[nonlinear-bound-author.py](nonlinear-bound-author.py) and [nonlinear-bound-review.py](nonlinear-bound-review.py) now use these tracked inputs, and the latter separately forms both reconstruction systems without importing author code.
+Their exact98-direction,32-cell replay agrees with every original mathematical nonlinear-bound field, including the lower interval[2.5016,2.5017), all27 negative and5 positive endpoint signs and minimizing cell0.
+These checks supply no new optimization, historical review relationship or n30 completion.
+The older joint discovery retains its separate documented upstream-output requirements.
+The later budget-release author now uses the same restored selection, and its separate checker reconstructs the twenty-row lattice basis directly from the retained source B vectors and forms the exact inverse.
+That pair reproduces every original mathematical budget-release field, including its coherence interval [3.7016,3.7017), without a joint-budget or residual-lattice output input.
+
+From the repository root, replay this selected finite certificate with only the Python standard library:
+
+```powershell
+python -B mathematics/computations/programs/Yin_J_G0079/fixed_joint_budget.py
+python -B mathematics/computations/programs/Yin_J_G0079/nonlinear-bound-author.py
+python -B mathematics/computations/programs/Yin_J_G0079/nonlinear-bound-review.py
+```
+
+The last two commands write distinct replaceable outputs in the responsible J output home.
+Their existing overwrite refusals require removing only those selected replaceable outputs before another authorized replay, after preserving any still-needed consumers.
+
+The same retained n18 input also supports the existing exact budget-release commands:
+
+```powershell
+python -B mathematics/computations/programs/Yin_J_G0079/budget-release-author.py
+python -B mathematics/computations/programs/Yin_J_G0079/budget-release-review.py
+```
+
+The budget-release author uses the standard library; its separate checker additionally requires SymPy and reuses its disclosed earlier reviewer helpers.
+Its existing output refusal likewise protects a selected result until that replaceable output is deliberately removed for a further authorized replay.

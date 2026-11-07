@@ -14,9 +14,20 @@ That assessment retains the exact external foundations described in the units; i
 ## Retained overview and presently locatable evidence
 
 The overview below records the 2026-10-06 inspection and its restrictions.
-The current Kar26 directory contains this overview but no U001--U004 bodies or detailed F01--F05 findings.
-Those detailed mathematical/review accounts have not been located in the selected public materials, so their old inspection cannot be reused as presently inspectable complete proof evidence.
-Recover or otherwise adequately prepare the particular required account before relying on it; this limitation establishes neither that the original inspection was false nor that the source theorem fails.
+The current Kar26 directory retains this overview; the detailed U001--U004 bodies and F01--F05 findings are located at the fixed original source homes below.
+These are source-only locators in Yin's original experimental-math-ai repository at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree.
+Remote access to that snapshot is unconfirmed; the links do not assert public availability, local receipt, a new mathematical adoption or an expanded historical review.
+The 60-page manuscript and revealing original audit bodies retain their local-research restriction; no permission to publish them or transfer their inspection to the public edition follows.
+
+| Original unit | Mathematical scope |
+| --- | --- |
+| [U001](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Kar26/Yin_U001.md) | Closed feasible domain, boundary energy and geometry; detailed [F01](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Kar26/Yin_U001.md#kar26-f01), [F02](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Kar26/Yin_U001.md#kar26-f02) and [F03](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Kar26/Yin_U001.md#kar26-f03). |
+| [U002](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Kar26/Yin_U002.md) | Dyson determinant primitive, normalizers, regularized competitors and gap limits. |
+| [U003](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Kar26/Yin_U003.md) | Global extension, affine algebraicity/Puiseux interfaces and detailed [F04](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Kar26/Yin_U003.md#kar26-f04). |
+| [U004](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Kar26/Yin_U004.md) | Capacity, Dyson action, Brown-measure consequences and the Section 11 model-mismatch finding F05. |
+
+A local use requiring a detailed private-edition argument still needs that selected account available within the authorized local scope.
+No such project proof adoption is made here.
 The later public lead below remains a separate edition with its own limited reading.
 
 The title, abstract, contents, introduction and bibliography on pp.59-60 were also read.
@@ -31,7 +42,7 @@ The bounded repository search found no earlier Kar26 registration, assessment or
 Existing Claim and Task decisions are unchanged.
 Detailed triggers, impact, exact reproductions and recommendations are retained at the linked locations.
 
-The detailed five findings are not currently located; the following overview preserves only its actual recorded mathematical limits.
+The five detailed findings are located by the original-unit links above; the following overview preserves their original mathematical limits.
 
 Two smaller notation slips are recorded with their local arguments: Lemma 3.7's undefined operator label on pp.16-17 in U001, and the reversed order of the two kernel summands on p.41 in U003/U004.
 Their corrections do not change the calculations.
@@ -100,7 +111,7 @@ This is lightweight source discovery/reading, not a new accepted theorem or a fu
 It therefore supplies no current G0001 Haar-to-original-root transfer.
 
 No local public artifact was acquired.
-The60-page private edition and its restriction remain distinct; this retained overview does not locate the four unit bodies or five detailed findings, and transfers no private inspection to the public version.
+The60-page private edition and its restriction remain distinct; the fixed original-unit locators above transfer no private inspection to the public version.
 The no-public-release observation was made on 2026-10-06; it is not a current publication-status check.
 A future use must separately compare the relevant public statements/proofs and record that edition.
 No private text was used in an external query or uploaded.

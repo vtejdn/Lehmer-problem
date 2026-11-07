@@ -296,7 +296,7 @@ For the quartic input and the complete original-law strip operator,
 Both sides refer to the actual full infinite-state operator.
 The upper bound covers every two-real phase, without a neutral cutoff.
 The lower bound is witnessed by one actual algebraic coset, not by a relaxed phase.
-The exact checks are in [J33](../computations/programs/Yin_J_G0033/readme.md), with its retained certificate (`mathematics/computations/outputs/Yin_J_G0033/certificate.json`) and successful exact result (`mathematics/computations/outputs/Yin_J_G0033/verified.json`).
+The exact checks are in [J33](../computations/programs/Yin_J_G0033/readme.md), with its retained certificate (`mathematics/computations/programs/Yin_J_G0033/inputs/certificate.json`) and regenerated exact result (`mathematics/computations/outputs/Yin_J_G0033/verified.json`).
 This is a computer-assisted finite certificate with the coverage argument proved below; it is author self-checked and independently reviewed by the complete finding retained below.
 
 <a id="quartic-two-step-proof"></a>

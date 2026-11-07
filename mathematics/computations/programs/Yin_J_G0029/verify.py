@@ -8,10 +8,10 @@ _J_OUTPUT.mkdir(parents=True, exist_ok=True)
 from fractions import Fraction as F
 from array import array
 from math import isqrt
-import json, struct, platform
+import json, struct, platform, gzip
 
 BASE=(_J_PROGRAM / 'verify.py').parent
-SOURCE=(_J_ROOT / 'mathematics/computations/outputs/Yin_J_G0026')
+SOURCE=(_J_ROOT / 'mathematics/computations/programs/Yin_J_G0026/inputs')
 P=(1,1,0,-1,-1,-1,-1,-1,0,1,1)
 PRECISION=10**50
 
@@ -79,7 +79,7 @@ def repack(a):
 
 def main():
     # Explicit little-endian reads; no native-endian array interpretation.
-    raw=((_J_ROOT / 'mathematics/computations/outputs/Yin_J_G0026/compact-states.bin')).read_bytes()
+    raw=gzip.decompress((SOURCE/'compact-states.bin.gz').read_bytes())
     assert len(raw)%8==0
     targets=set()
     for (key,) in struct.iter_unpack('<Q',raw):
@@ -89,10 +89,8 @@ def main():
         targets.add(value)
     assert len(targets)==797507
     keys=array('Q');depths=array('I');seen=set()
-    discovered=json.loads(((_J_ROOT / 'mathematics/computations/outputs/Yin_J_G0026/paths-r8/discovery.json')).read_text(encoding='utf-8-sig'))
     max_depth=0
-    for part in range(discovered['retained_parts']):
-        data=(SOURCE/'paths-r8'/f'path-nodes-{part:03d}.bin').read_bytes()
+    for data in [gzip.decompress((SOURCE/'path-nodes.bin.gz').read_bytes())]:
         assert len(data)%13==0
         for key,parent,code in struct.iter_unpack('<QIB',data):
             index=len(keys)
@@ -115,7 +113,7 @@ def main():
     assert len(keys)==1044588 and max_depth==25
     uncovered=targets-seen
     assert len(uncovered)==70
-    saved={key for (key,) in struct.iter_unpack('<Q',((_J_ROOT / 'mathematics/computations/outputs/Yin_J_G0026/paths-r8/uncovered.bin')).read_bytes())}
+    saved={key for (key,) in struct.iter_unpack('<Q',(SOURCE/'uncovered.bin').read_bytes())}
     assert uncovered==saved
     rows,stable=embeddings()
     records=[];counts={}

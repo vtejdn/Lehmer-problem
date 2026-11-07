@@ -159,9 +159,9 @@ No private manuscript text was sent to a public service.
 
 **Subsequent assessment, 2026-09-10:** the paragraphs below preserve the source-audit stage, when bounded representation existence was still an open project obligation.
 The earlier project account reports a later refutation even for two selfadjoint generators with bounded duals under former Yin_C_F0012.
-The original fixed proof/review homes remain unlocated, as stated in [the project-deduction boundary](Yin_U003.md#bounded-linearization-recheck); this report supplies no currently reusable obstruction proof.
+The exact fixed proof/review homes are located at [the original project-obstruction references](Yin_U003.md#original-project-obstruction), with their source-only access and actual review limits; no local obstruction theorem is newly adopted.
 The user-requested [source-domain recheck](Yin_U003.md#bounded-linearization-recheck) and the retained counterexample comparison confirms that Definition 4.5, Theorem 4.4 and Lemma 4.8 concern the chosen ambient evaluation domain, and Proposition 2.3 does not change it.
-The reported project argument would exclude every alternative bounded inverse pencil, rather than only one arbitrary nonminimal representation; that stronger claim requires the unlocated original argument for reuse.
+The reported project argument would exclude every alternative bounded inverse pencil, rather than only one arbitrary nonminimal representation; that stronger claim requires the located original argument and its actual inputs for reuse.
 This supplement leaves the earlier inspected mathematical content and historical completion review intact.
 
 Set \(F_X=\operatorname{Div}_U(B)\) and \(R_X=\operatorname{Div}_M(B)\).

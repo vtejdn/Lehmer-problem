@@ -54,7 +54,7 @@ This is Lemma IV.2.3.
 No topology or boundedness is involved.
 
 This exact source input is accepted for the right-basis extension reported under former Yin_C_F0035-P1.
-The original project proof/review homes remain unlocated in the current retained F-family collection; the source input alone supplies no currently reusable equalizer proof.
+The [original project proof and actual review scope](readme.md#original-equalizer-use) are located in the fixed source collection; this source input alone supplies no local equalizer proof or new adoption.
 Its unitary module hypothesis holds because the division subring and ambient ring share their identity.
 
 ## Remaining Main Results and Proof Checks

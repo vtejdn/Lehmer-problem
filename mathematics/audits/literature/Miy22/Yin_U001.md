@@ -167,9 +167,10 @@ No rank metric is introduced in these inspected passages.
   The existing rank statement counts reduced poles with multiplicity, including zero; [U009](Yin_U009.md#exact-statement-and-conventions) already records the zero-series convention and the distinction from the one-normal divided-difference kernel.
   The earlier repeated-pole estimate correction remains in [U002](Yin_U002.md#scalar-rational-decay-and-the-printed-error).
 
-The earlier source account described Fock/residual/formal-elimination and analytic applications in a former F-family collection.
-Those fixed consumers are not located in the current retained F-family collection, and their old numbers do not identify the current same-number Claims.
-The one-normal-generator comparison remains in U009, with its original fixed-proof-location limit stated there.
+The earlier source account's actual Fock/residual/formal-elimination consumers are [original C_F0011](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0011_v1.md#inputs-and-their-exact-roles), [original C_F0015](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0015_v1.md#yin_c_f0015) and [original C_F0017](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0017_v1.md#yin_c_f0017).
+The [fixed original proof and comparison-review boundary](Yin_U009.md#historical-one-normal-generator-comparison-the-same-finite-dimensional-mechanism) applies to these source-only links.
+Their old numbers identify original-source objects, not current same-number Claims; they create no new local dependencies.
+The one-normal-generator comparison remains in U009, with the fixed original proof, source-only access and actual review boundary stated there.
 
 Citation purposes: current formulation or notation for the Fock/residual/Hankel conventions, and exposition for their role in semicircular rationality.
 No origin claim is made.

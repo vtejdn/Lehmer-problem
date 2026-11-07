@@ -1,28 +1,26 @@
-# Exact finite comparison certificates
+# Exact finite comparison and return-core certificates
 
-This attachment accompanies the progress report's finite comparison of monomial auxiliary polynomials with an enlarged family of unit directions.
-It contains [the complete exact input and witnesses](certificates.json) and [a standalone verifier](verify.py).
-Both files can be copied to any directory and used without the research repository.
-The responsible research input is [J79's retained native certificate](../../../../computations/programs/Yin_J_G0079/inputs/unit-cap-certificates.json).
-The local certificates.json is an identical standalone publication copy; maintain it from that source and check parsed equality when either is changed.
-The verifier uses Python 3.9 or later and only its standard library.
+This attachment accompanies the progress report's finite optimization comparison and its theorem on the original Lehmer return core.
+The optimization part contains [the complete exact input and witnesses](certificates.json) and [a standalone standard-library verifier](verify.py).
+The [return-core part](return-core.md) supplies its own commented [standalone verifier](verify_return_core.py), [exact word and enclosure data](return-core.json) and [necessary ancestry](return-paths.bin.gz).
+Each documented file set can be copied to any directory and used without the research repository.
+The return-core verifier requires NumPy and python-flint; its portable commands, expected output and mathematical scope are given in its [reader guide](return-core.md).
 
-## Coverage limit
+## Coverage
 
-This attachment verifies the finite optimization assertions listed below.
-It does not verify the original Lehmer return-core theorem's neutral-descent word certificates, complete 797507-state enumeration, zero-ending paths or certified exclusions.
-The report retains that theorem and its computational premise, so a separate standalone verifier and the necessary exact data remain required before the attachment covers every computationally dependent result in the report.
-The original word and path payloads are unavailable in the current checkout and were not found in the selected local Git histories.
-An implementation of discovery alone would not identify those adopted historical words or paths.
-The existing finite optimization checks supply no verification of that separate premise.
+The optimization verifier checks the finite assertions in the table below.
+The return-core verifier separately checks all 32 normalized-descent certificates using 217 distinct original words, independently reconstructs the complete 797507-state compact superset, verifies 1044588 original ancestry nodes and proves all seventy necessary exclusions.
+Its checks include the original polynomial's irreducibility and all embedding roots.
+The report supplies the analytic and lattice arguments that apply those finite premises to the full return-core theorem and linear control; a successful computation is not a new independent-agent review of those arguments.
 
 | Report reference (TeX label) | Verification supplied here |
 | --- | --- |
+| The original Lehmer return-core theorem, `ret:lehmer-core`, and compact termination reused in `ret:linear-control` | [Complete neutral descent, compact enumeration, original-digit paths and exact exclusions](return-core.md), with the actual 797507-state scope. |
 | Proposition 5.9, `ar:finite-certificate` | Complete original coefficient identities, energies and signed correlations; primal and dual feasibility; matched objectives; original integer realization. The real-weight weak-duality argument is stated below and in the script. |
 | Proposition 5.11 and Table 2, `ar:unit-optima` and `ar:unit-comparison` | All five rational optimum intervals, both strict improvements, the full finite selector and the sixth feasible primal with its rejected dual. |
 | Equation (5.18), `ar:unit-exact-domain` | Original full unit norms, energies and masses used by the exact true-surplus normalization. |
 
-## Run
+## Finite comparison: run
 
 With the two files in the same directory, run:
 

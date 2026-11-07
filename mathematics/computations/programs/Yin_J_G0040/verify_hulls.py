@@ -8,7 +8,6 @@ _J_PROGRAM = Path(__file__).resolve().parent
 _J_ROOT = next(parent for parent in _J_PROGRAM.parents if (parent / 'repository/config.json').is_file())
 _J_OUTPUT = _J_ROOT / 'mathematics/computations/outputs' / _J_PROGRAM.name
 _J_OUTPUT.mkdir(parents=True, exist_ok=True)
-import random
 import time
 from exact import roots, word_geometry, image, floor
 
@@ -81,9 +80,10 @@ def exact_hull(vertices):
 
 def main():
     started = time.monotonic()
-    base = (_J_PROGRAM / 'verify_hulls.py').parent
-    data = json.loads(((_J_OUTPUT / 'cover12.json')).read_text())
-    assert data['grid'] == 100 and data['max_length'] == 12
+    data = json.loads((_J_PROGRAM / 'inputs/ideal-cover.json').read_text())
+    assert data['format'] == 'degree-six-ideal-cover-v1'
+    assert data['cell_grid'] == 100 and data['max_length'] == 12
+    assert data['rational_grid'] == GRID and len(data['words']) == 818
     assert [row['j'] for row in data['cells']] == list(range(50, 100))
     beta, zs = roots()
     cached = {}
@@ -92,7 +92,9 @@ def main():
     minimum_real_margin = None
     for row in data['cells']:
         j = row['j']
-        words = row['words']
+        words = [data['words'][index] for index in row['word_indices']]
+        vertices = row['rational_vertices']
+        assert len(words) == len(vertices)
         intervals = []
         for word in words:
             assert 1 <= len(word) <= 12
@@ -105,26 +107,21 @@ def main():
             assert margin > 0
             minimum_real_margin = min(minimum_real_margin, margin) if minimum_real_margin is not None else margin
             intervals.append(vector)
-        for trial in range(5):
-            rng = random.Random(1729+j*100+trial)
-            vertices = [[floor((a+b)*GRID/2)+rng.randrange(-30, 31) for a, b in vector]
-                        for vector in intervals]
-            for vertex, vector in zip(vertices, intervals):
-                assert all(max(abs(F(v, GRID)-a), abs(F(v, GRID)-b)) <= COORDINATE_ERROR
-                           for v, (a, b) in zip(vertex, vector))
-            try:
-                facets = exact_hull(vertices)
-                break
-            except ValueError:
-                if trial == 4: raise
+        for vertex, vector in zip(vertices, intervals):
+            assert len(vertex) == 4 and all(type(v) is int for v in vertex)
+            assert all(max(abs(F(v, GRID)-a), abs(F(v, GRID)-b)) <= COORDINATE_ERROR
+                       for v, (a, b) in zip(vertex, vector))
+        facets = exact_hull(vertices)
         for normal, offset in facets.values():
             assert offset < 0
             # Exact Euclidean distance of the origin to every supporting plane.
             assert offset*offset > Q_RADIUS**2*GRID**2*sum(n*n for n in normal)
         assert Q_RADIUS-2*COORDINATE_ERROR > ACTUAL_RADIUS
         result.append({'j': j, 'selected_words': len(words), 'rational_facets': len(facets),
-                       'perturbation_trial': trial, 'rational_vertices': vertices})
+                       'rational_vertices': vertices})
         print(json.dumps({k: v for k, v in result[-1].items() if k != 'rational_vertices'}), flush=True)
+    assert len(cached) == 818 and sum(row['selected_words'] for row in result) == 1379
+    assert minimum_norm2 > F(61, 250) and minimum_real_margin >= F(71, 2000000)
     m = F(floor(minimum_norm2*1000), 1000)
     assert m > 0
     delta = m*(5*ACTUAL_RADIUS-1)

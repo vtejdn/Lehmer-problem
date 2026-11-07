@@ -15,7 +15,7 @@ iv=e.iv;BASE=(_J_PROGRAM / 'classify_uncovered.py').parent
 
 def main():
     beta,M=e.embeddings();S=iv.div(beta,iv.sub(beta,iv.point(1)))
-    raw=((_J_OUTPUT / 'paths-r8/uncovered.bin')).read_bytes();keys=array('Q');keys.frombytes(raw)
+    raw=(_J_PROGRAM/'inputs/uncovered.bin').read_bytes();keys=array('Q');keys.frombytes(raw)
     records=[];counts={}
     for key in keys:
         a=[((key>>(5*i))&31)-16 for i in range(10)]

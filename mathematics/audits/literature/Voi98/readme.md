@@ -18,10 +18,25 @@ Author: Yin
 | --- | --- | --- |
 | [Voi98-U001: Free entropy](Yin_U001.md#voi98-u001) | Section 7, pp. 222-226 | Integral existence, algebra operations, upper semicontinuity, heat trajectory, orthogonal invariance, corrected scaling and finite-information bound checked. Scalar 7.6 reduction retains its earlier analytic-input boundary. |
 
-The current collection locates only the Section 7 unit above.
-The former finite-tracial, conjugate-variable, derivation, Fisher-information and external-interface bodies U001--U009 have not been located at their described scopes; the current differently scoped U001 is not a substitute for them.
-The former dependency and review descriptions below preserve the historical account but do not establish presently inspectable full-article coverage.
-Recover or adequately prepare the particular missing interface before reusing it, without inferring that its original inspection was false or its theorem failed.
+The local collection retains only the Section 7 unit above, whose scope corresponds to original U008.
+The other original bodies and their exact inspection limits are located in the following source collection.
+These are source-only locators in Yin's original experimental-math-ai repository at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree.
+Remote access to that snapshot is unconfirmed; the links do not assert public availability, local receipt, a new mathematical adoption or an expanded historical review.
+
+| Original unit | Actual scope |
+| --- | --- |
+| [U001](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U001.md) | Finite-tracial setting, normalization and historical scope |
+| [U002](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U002.md) | Conjugate variables and scalar Hilbert transforms |
+| [U003](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U003.md) | Free extensions, semicircular regularization and entropy variation |
+| [U004](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U004.md) | Closed difference quotients, domains and analytic changes of variable |
+| [U005](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U005.md) | Bounded dual systems and rank-one commutators |
+| [U006](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U006.md) | Fisher projection, scaling, Stam and Cramer--Rao inequalities |
+| [U007](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U007.md) | Fisher continuity, regularization and higher-limit boundaries |
+| [U008](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U008.md) | Section 7 entropy integrals; corresponding scope of current U001 |
+| [U009](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U009.md) | Accepted external statements, scalar-survey input and original-proof/access limits |
+
+Current U001 does not replace original U001 or the upstream proof units.
+The historical whole-article descriptions below concern the nine original units; any new local use requiring an upstream interface must select its actual statement, proof and limits from that source rather than inherit full coverage from the present one-unit collection.
 Source-state judgments apply to the specified corrected arguments.
 The unestablished assertions below remain questioned at that exact scope, not silently included in an undifferentiated whole-paper approval.
 
@@ -35,7 +50,7 @@ Unless explicitly described otherwise, corrections are local findings, not autho
 | --- | --- | --- |
 | F10: Entropy integral displays | 7.2 uses upper cutoff 1 instead of infinity; 7.4 drops numerator n in the integrable majorant; 7.9 prints 1+t^-1 instead of (1+t)^-1. | [U001](Yin_U001.md#voi98-u001): corrected improper integrals and reverse Fatou proof, with all minus-infinite endpoints accounted for. Conclusions survive. |
 | F11: Entropy scaling | Proposition 7.8 omits the dimension n in its statement; a free semicircular pair is an exact counterexample. | [U001](Yin_U001.md#voi98-u001): chi*(aX:B) = chi*(X:B) + **n log(abs(a))**, real a nonzero, including minus infinity. Replace the defective proof calculation by the integrable change of variables. |
-| F12: Scalar comparison and version | 7.6 corrects an earlier heat coefficient but its original analytic proof was not obtained; its tail upper bound also silently normalizes X. The bibliography dates Part IV to 1996, versus 1997 in the author's publication list. | [U001](Yin_U001.md#voi98-u001), U009: restore the second moment in the tail bound, retain scalar scope and the exact analytic proof boundary, and register Voi97 with the date discrepancy. |
+| F12: Scalar comparison and version | 7.6 corrects an earlier heat coefficient but its original analytic proof was not obtained; its tail upper bound also silently normalizes X. The bibliography dates Part IV to 1996, versus 1997 in the author's publication list. | [U001](Yin_U001.md#voi98-u001), [original U009](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/Voi98/Yin_U009.md): restore the second moment in the tail bound, retain scalar scope and the exact analytic proof boundary, and register Voi97 with the date discrepancy. |
 
 Minor variable, tensor-index and cross-reference slips are recorded alongside their affected arguments.
 None warrants silently changing the object being differentiated, the ambient Hilbert space, or an infinite endpoint.

@@ -230,23 +230,20 @@ def compact(beta, zs, tables):
 
 def main():
     started = time.monotonic()
-    native_names = ('exact.py', 'verify_hulls.py', 'verify_compact.py', 'probe.py',
-                    'cover12.json', 'pilot.json', 'pilot12.json', 'hull_verification.json',
-                    'compact_verification.json', 'readme.md')
-    before = {name: (((_J_PROGRAM if name in ('exact.py', 'probe.py', 'readme.md', 'review_independent.py', 'verify_compact.py', 'verify_hulls.py') else _J_OUTPUT) / name)).read_bytes() for name in native_names}
-    words_data = json.loads(before['cover12.json'])
-    vertices_data = json.loads(before['hull_verification.json'])
-    assert [r['j'] for r in words_data['cells']] == list(range(50, 100))
-    assert [r['j'] for r in vertices_data['cells']] == list(range(50, 100))
-    grid = vertices_data['rational_grid']
+    data = json.loads((_J_PROGRAM / 'inputs/ideal-cover.json').read_text())
+    assert data['format'] == 'degree-six-ideal-cover-v1'
+    assert data['cell_grid'] == 100 and data['max_length'] == 12
+    assert [r['j'] for r in data['cells']] == list(range(50, 100))
+    assert len(data['words']) == 818 and len({tuple(w) for w in data['words']}) == 818
+    grid = data['rational_grid']
     assert grid == 10**10
     _, beta, zs = root_data()
     tables = [trace_tables(scaled(z[0], 2)) for z in zs]
     cache, rows = {}, []
     min_norm = None
     min_margin = None
-    for wr, vr in zip(words_data['cells'], vertices_data['cells']):
-        j, words, verts = wr['j'], wr['words'], vr['rational_vertices']
+    for cell in data['cells']:
+        j, words, verts = cell['j'], [data['words'][i] for i in cell['word_indices']], cell['rational_vertices']
         assert len(words) == len(verts)
         for word, vertex in zip(words, verts):
             key = tuple(word)
@@ -273,15 +270,11 @@ def main():
     assert F(201, 1000)-2*F(1, 100000) > F(2009, 10000)
     assert F(61, 250)*(5*F(2009, 10000)-1) == F(549, 500000)
     compact_result = compact(beta, zs, tables)
-    saved_compact = json.loads(before['compact_verification.json'])
-    assert compact_result['classification'] == saved_compact['classification']
-    assert [list(a) for a in compact_result['retained']] == [r['coefficients'] for r in saved_compact['retained']]
-    assert [[list(a) for a in path] for path in compact_result['return_paths']] == [r['integer_path'] for r in saved_compact['exact_returns']]
-    for row, saved in zip(rows, vertices_data['cells']):
-        assert row['supporting_hyperplanes'] == saved['rational_facets']
-    unchanged = all((((_J_PROGRAM if name in ('exact.py', 'probe.py', 'readme.md', 'review_independent.py', 'verify_compact.py', 'verify_hulls.py') else _J_OUTPUT) / name)).read_bytes() == content for name, content in before.items())
-    assert unchanged
-    result = dict(exact_cells=50, word_uses=sum((r['word_uses'] for r in rows)), distinct_words=len(cache), all_four_subsets=sum((r['all_four_subsets'] for r in rows)), all_supporting_hyperplanes=sum((r['supporting_hyperplanes'] for r in rows)), certified_actual_radius='2009/10000', minimum_norm_squared_lower='61/250', squared_radius_drop_lower='549/500000', independent_real_margin_lower=str(F(min_margin, Q)), compact=compact_result, cells=rows, native_files_compared=list(before))
+    assert compact_result['classification'] == dict(nonzero_residue=4220, real_excluded=1330,
+        stable_excluded=6, neutral_excluded=66, retained=3)
+    assert sum(r['all_four_subsets'] for r in rows) == 1080626
+    assert sum(r['supporting_hyperplanes'] for r in rows) == 5453
+    result = dict(exact_cells=50, word_uses=sum((r['word_uses'] for r in rows)), distinct_words=len(cache), all_four_subsets=sum((r['all_four_subsets'] for r in rows)), all_supporting_hyperplanes=sum((r['supporting_hyperplanes'] for r in rows)), certified_actual_radius='2009/10000', minimum_norm_squared_lower='61/250', squared_radius_drop_lower='549/500000', independent_real_margin_lower=str(F(min_margin, Q)), compact=compact_result, cells=rows, fixed_input='inputs/ideal-cover.json')
     ((_J_OUTPUT / 'review_independent_result.json')).write_text(json.dumps(result, indent=2)+'\n', encoding='utf-8')
     print(json.dumps({k:v for k,v in result.items() if k not in ('cells', 'compact')}))
     print(json.dumps(compact_result))

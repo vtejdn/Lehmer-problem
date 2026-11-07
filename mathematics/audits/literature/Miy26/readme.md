@@ -11,6 +11,21 @@ Audit date: **2026-09-08**.
 Reviewers: the coordinating agent (foundations, main theorem, and integration), the spectral-interface reviewer (spectral and external interfaces), the circular-resolvent reviewer (circular resolvents and examples), and the quadratic-case reviewer (quadratic recurrence and spectral-radius cases).
 Independent review means complementary review within this AI team; no external human review is claimed.
 
+<a id="original-native-checks"></a>
+## Original finite-check inputs
+
+These are source-only locators in Yin's original experimental-math-ai repository at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree.
+Remote access to that snapshot is unconfirmed; the links do not assert public availability, local receipt, a new mathematical adoption or an expanded historical review.
+
+| Finite scope | Native program | Original execution account |
+| --- | --- | --- |
+| Circular/mixed-word and product-formula checks, 193,363 items | [J_F0006/main.py](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/computations/programs/Yin_J_F0006/main.py) | [J_F0006 account](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/computations/programs/Yin_J_F0006/versions/v1/record.md) |
+| Quadratic state/coefficient/determinant/Schur/boundary checks, 14,355 items | [J_F0007/main.py](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/computations/programs/Yin_J_F0007/main.py) | [J_F0007 account](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/computations/programs/Yin_J_F0007/versions/v1/record.md) |
+
+Both programs use the Python standard library and encode their finite inputs, including J_F0007's seed `260319528`, 48 Gaussian-rational cases and word cutoff seven.
+They require no external dataset; the original coordinating and quadratic-script reviewer reruns retain their recorded scopes.
+No new execution, infinite-order conclusion or broader source-proof review is made by locating them.
+
 ## Outcome and Scope
 
 The reconstructed local arguments support Theorem 1.1, its spectral Corollary 1.2, the Haar-unitary variant, Corollary 4.2, the homogeneous and free-walk spectral formulas, and the quadratic criterion in Theorem 4.6.
@@ -113,7 +128,7 @@ No project claim ID or theorem-discovery route is allocated by this study.
 | Source inspection | All 23 primary pages read. The coordinating agent inspected main-theorem and circular formulas visually; content agents visually inspected all assigned circular/quadratic proof pages and the four figures. References and introductory contextual claims have the coverage stated above. |
 | Local reconstruction | U001-U007 give the domain, inverse, convergence, coefficient, matrix and boundary arguments. The coordinating agent read all eight completed units and both preserved scripts. |
 | Independent AI review | the spectral-interface reviewer checked U001-U002's regularizer, coefficient limit, residual spaces, decay and final identification. the quadratic-case reviewer checked U004-U005, including the primary NS06 mechanism. the circular-resolvent reviewer checked U006-U007, including Schur and zero cases. The coordinating agent separately reviewed U003-U008. This is not external peer review. |
-| Exact computation | Circular check: 193,363 checks of the stated mixed-word, holomorphic and product-formula finite cases. Quadratic check: 14,355 state, coefficient, determinant, Schur and boundary checks. The historical account reports exact standard-library scripts, coordinating-agent reruns and a circular-reviewer rerun of the quadratic script. Their native program/J locators are not currently located; the finite scopes and reproduction limits remain in U005/U006. |
+| Exact computation | Circular check: 193,363 checks of the stated mixed-word, holomorphic and product-formula finite cases. Quadratic check: 14,355 state, coefficient, determinant, Schur and boundary checks. The historical account reports exact standard-library scripts, coordinating-agent reruns and a circular-reviewer rerun of the quadratic script. The [fixed original J_F0006/J_F0007 programs and accounts](#original-native-checks) locate their native evidence; the finite scopes and historical reproduction limits remain in U005/U006. |
 | Numerical figures | Coefficients, hypotheses, captions and analytic homogeneous radius checked. The original size-3000 Ginibre experiments were not rerun; no seed, source code, or numerical error control was supplied in those passages. |
 | External proofs | Precise statements and applicability of the recorded interfaces accepted. The main original proofs of MSY23, AP18, Lin00, HL00 and DHH+25 and the general NS06 product formula were not independently audited. The short MSY23 dual-system argument and the relevant NS06 homogeneous combinatorial proof were inspected. |
 | Artifact validation | Repository Markdown links and anchors, eight unique source-unit anchors, English-language and trailing-whitespace checks on all 14 new Miy26 content files passed. `git diff --check` found no whitespace errors; its line-ending conversion notices do not indicate changed source bytes. |

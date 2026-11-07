@@ -47,15 +47,24 @@ This is neither a whole-book audit nor an independent or formal verification.
 | [Hun74-U004](Yin_U004.md#hun74-u004) | §IV.4, 199–207 (225–233) | Hom variance, bimodules, algebraic duals; main results audited within scope, with explicit left/right conventions. |
 | [Hun74-U005](Yin_U005.md#hun74-u005) | §IV.6, 218–226 (244–252) | PID structure theory; main proof chain audited with local completions and associate-class convention. |
 
+<a id="original-equalizer-use"></a>
+## Original tensor-equalizer use
+
+These source-only references identify Yin's original experimental-math-ai objects at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree; remote access is unconfirmed.
+They create no local Claim receipt, current same-number correspondence, new adoption or additional review binding.
+The right-basis/coordinate-functional deduction is [original C_F0035-P1](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0035_v1.md#yin_c_f0035-p1), with its [Hun74 source supplement](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0035_v1.md#yin_c_f0035-hun74-source-supplement).
+The actual [complete equalizer finding](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/reviews/Yin_R_F0034_v1.md#division-equalizer-finding) is self-reviewed under its explicit relationship; it retains the same-unit, possibly noncentral division-subring scope and no analytic premise.
+The source basis and functional theorems do not themselves state that project equalizer, and no fixed equalizer Claim is newly adopted here.
+
 ## Inputs for Current Research
 
 | Need | Exact reusable source interface | Current use boundary |
 | --- | --- | --- |
-| A basis containing a prescribed independent set over a division ring | [IV.2.4](Yin_U002.md#division-ring-bases), p. 183; right-module conversion is explicit | Accepted source input for the right-basis extension reported under former Yin_C_F0035-P1; that project proof home remains unlocated. |
-| A coefficient functional and the induced tensor map | [IV.4.11](Yin_U004.md#algebraic-dual), p. 204; IV.5.2, p. 209 | The former Yin_C_F0035 source supplement reports this algebraic use; its project proof/review homes remain unlocated. No continuity or boundedness of the functional is asserted. |
+| A basis containing a prescribed independent set over a division ring | [IV.2.4](Yin_U002.md#division-ring-bases), p. 183; right-module conversion is explicit | Accepted source input for the [located original C_F0035-P1 right-basis argument](#original-equalizer-use); no local project adoption. |
+| A coefficient functional and the induced tensor map | [IV.4.11](Yin_U004.md#algebraic-dual), p. 204; IV.5.2, p. 209 | The [located original C_F0035 source supplement and proof](#original-equalizer-use) report this algebraic use. No continuity or boundedness of the functional is asserted. |
 | Module, bimodule, Hom, dual, algebra and tensor terminology | [Definition-group index](../../../definitions/index.md#modules-hom-and-algebraic-tensors) | Definitions remain in these source units. Concrete choices of M, affiliated algebra or division subring remain with each consuming theorem. |
 
-The tensor equalizer was reported as a project argument under former Yin_C_F0035, whose original fixed proof/review homes remain unlocated in the current retained F-family collection.
+The tensor equalizer remains a project argument at the located original C_F0035 proof/review homes above, distinct from the current retained F-family collection.
 Hungerford is not cited as stating that exact equalizer theorem, and the accepted basis/functional inputs alone supply no currently reusable project equalizer proof.
 No new C IDs, mathematical Roles or proof-status promotions result from this audit.
 The book's terminology role does not make it a style model or certify uninspected chapters.

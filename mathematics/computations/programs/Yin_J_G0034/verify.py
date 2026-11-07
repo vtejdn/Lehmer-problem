@@ -15,7 +15,7 @@ from math import isqrt
 import json,platform,time
 
 HERE=(_J_PROGRAM / 'verify.py').parent
-SOURCE=(_J_ROOT / 'mathematics/computations/outputs/Yin_J_G0033/certificate.json')
+SOURCE=(_J_ROOT / 'mathematics/computations/programs/Yin_J_G0033/inputs/certificate.json')
 ZERO=(F(0),)*4; ONE=(F(1),F(0),F(0),F(0)); X=(F(0),F(1),F(0),F(0))
 P=(1,-1,-1,-1,1)
 def plus(a,b):return tuple(x+y for x,y in zip(a,b))

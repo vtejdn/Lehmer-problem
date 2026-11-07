@@ -7,6 +7,7 @@ _J_ROOT = next(parent for parent in _J_PROGRAM.parents if (parent / 'repository/
 _J_OUTPUT = _J_ROOT / 'mathematics/computations/outputs' / _J_PROGRAM.name
 _J_OUTPUT.mkdir(parents=True, exist_ok=True)
 import importlib.util, json, platform, subprocess, sys, time, traceback
+import fixed_joint_budget
 
 HERE=(_J_PROGRAM / 'nonlinear-bound-author.py').parent
 OUTPUT=(_J_OUTPUT / 'nonlinear-bound-output.json')
@@ -43,13 +44,10 @@ def save(out):
 
 def worker():
     start=time.monotonic()
-    out={'schema': 'J79-full-nonlinear-cell-bound-v1', 'status': 'running', 'input': 'joint-budget-output.json', 'input_n': 18, 'cell_count': CELLS, 'log_terms': logs.TERMS, 'log_grid': logs.GRID, 'ell_grid': logs.ELLGRID, 'cells': []}
+    out={'schema': 'J79-full-nonlinear-cell-bound-v1', 'status': 'running', 'input': 'inputs/joint-budget-n18.json', 'input_n': 18, 'cell_count': CELLS, 'log_terms': logs.TERMS, 'log_grid': logs.GRID, 'ell_grid': logs.ELLGRID, 'cells': []}
     save(out)
     try:
-        src=json.loads(((_J_OUTPUT / 'joint-budget-output.json')).read_text())
-        records=[r for r in src['records'] if r['n']==18]
-        assert len(records)==1
-        r=records[0]
+        r=fixed_joint_budget.load()
         assert r['status']=='complete' and r['global_finite_family_optimum_certified']
         family=r['family']
         assert len(family)==98 and r['N']==40 and r['d']==20

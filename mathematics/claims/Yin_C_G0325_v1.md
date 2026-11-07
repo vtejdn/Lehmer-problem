@@ -6,8 +6,8 @@ author: Yin
 
 ## Native input replay limits
 
-The [J79 selected joint-budget native dual](../computations/programs/Yin_J_G0079/readme.md#nonlinear-bound-native-input-availability) is currently unavailable for the exact adopted native replay.
-The complete n18 source family is retained, but the different norm-one dual does not replace this selection's thirty-nine coordinates or its reconstruction systems.
+The [J79 selected joint-budget native dual](../computations/programs/Yin_J_G0079/inputs/joint-budget-n18.json) is retained together with the thirteen support indices and eleven zero/free lags needed for its exact reconstruction.
+The [native replay](../computations/programs/Yin_J_G0079/readme.md#nonlinear-bound-native-input-availability) uses the existing complete98-column source family and reproduces the adopted full y, primal masses, scalar parameters and slacks.
 The existing mathematical assessment and historical positive/failed-candidate scopes remain unchanged.
 
 ## Current assessment

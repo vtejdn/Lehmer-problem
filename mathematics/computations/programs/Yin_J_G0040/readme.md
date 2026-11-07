@@ -5,10 +5,11 @@ author: Yin
 
 ## Native input availability
 
-The selected fifty-cell,818-word cover and its rational auxiliary-vertex certificates are unavailable in this checkout and its selected local Git history.
-verify_hulls.py and review_independent.py cannot currently replay those selected native inputs.
-The exact compact-residue program remains available, but it does not reconstruct the floating-selected cover words.
-Supply only the original adopted word/vertex payload at this group's tracked inputs/ and repair the shared consumers without retaining incidental hull diagnostics.
+The adopted fifty-cell cover is retained in [inputs/ideal-cover.json](inputs/ideal-cover.json):818 distinct integer words,1379 cell uses and the selected rational auxiliary vertices.
+This minimum payload was extracted from the existing original cover12.json and hull_verification.json in experimental-math-ai's local J40 outputs; the source discovery diagnostics and pilot runs are unnecessary verification inputs.
+Both [verify_hulls.py](verify_hulls.py) and [review_independent.py](review_independent.py) read that same tracked certificate and reproduce the complete geometric scope with the standard library.
+The restored-input checks reproduce the original radius, displacement and real-margin bounds, all1080626 four-vertex subsets and5453 supporting hyperplanes, together with the distinct5625-tuple compact check.
+These are current replay checks of the retained object; the original dated proof and review relationships keep their recorded scopes.
 
 ## Question and scope
 
@@ -19,11 +20,12 @@ The norm-only target was not attained by discovery; the changed construction suc
 
 ## Files
 
+- [inputs/ideal-cover.json](inputs/ideal-cover.json): the adopted words and rational vertices, with each cell referencing the shared818-word list.
 - [probe.py](probe.py): bounded floating-point word discovery, retaining integer words and nonbinding numerical hull data.
 - pilot.json (`mathematics/computations/outputs/Yin_J_G0040/pilot.json`), pilot12.json (`mathematics/computations/outputs/Yin_J_G0040/pilot12.json`): initial three-cell diagnostics at lengths10 and12.
 - cover12.json (`mathematics/computations/outputs/Yin_J_G0040/cover12.json`): integer words for the complete50-cell length12 cover, plus nonbinding numerical discovery fields.
 - [exact.py](exact.py): rational outward interval and field-embedding utilities, adapted from the inspected J22 interval pattern to the degree-six trace cubic.
-- [verify_hulls.py](verify_hulls.py): exact rational inner-polytope construction, complete real-cell and F4 checks, and error transfer to the actual normalized vectors.
+- [verify_hulls.py](verify_hulls.py): exact reconstruction of the retained rational inner-polytope boundaries, complete real-cell and F4 checks, and error transfer to the actual normalized vectors.
 - hull_verification.json (`mathematics/computations/outputs/Yin_J_G0040/hull_verification.json`): successful exact50-cell output and rational auxiliary vertices.
 - [verify_compact.py](verify_compact.py): complete coefficient box proof,5625-tuple classification and exact integer return paths.
 - compact_verification.json (`mathematics/computations/outputs/Yin_J_G0040/compact_verification.json`): successful complete three-state residue and path output.
@@ -39,7 +41,8 @@ From the repository root, the complete discovery command is:
 
 For discovery, select a compatible Python environment containing the declared NumPy and SciPy dependencies; the shared baseline dependency file does not include SciPy.
 The command below uses normal package resolution.
-Exact verification requires only the Python standard library and the retained integer words and rational certificates.
+Exact verification requires only the Python standard library and [inputs/ideal-cover.json](inputs/ideal-cover.json).
+It needs no discovery run or previously generated J40 output.
 
 ```powershell
 $geometryCells = (50..99) -join ','
@@ -58,7 +61,7 @@ python -B mathematics/computations/programs/Yin_J_G0040/verify_compact.py
 
 The exact checks passed.
 Algebraic interval operations round outward at scale10^35.
-The auxiliary rational hull uses grid10^(-10), with deterministic per-cell perturbations only to avoid degeneracy; every actual-coordinate error is explicitly bounded by1/100000.
+The retained auxiliary rational vertices use grid10^(-10), with the original deterministic per-cell perturbations avoiding degeneracy; every actual-coordinate error is checked explicitly against1/100000.
 Integer supporting-plane tests construct and inspect the full rational hull boundary.
 Outputs are written only after all assertions pass.
 

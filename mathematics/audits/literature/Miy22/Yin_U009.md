@@ -129,9 +129,12 @@ Neither the theorem nor Corollary 2.9 fails.
 
 ## Historical one-normal-generator comparison: the same finite-dimensional mechanism
 
-The original fixed Claim proof and its exact-rank review home have not been located in the current retained F-family collection.
-Current C_F0004 is an affine-capacity theorem and does not supply that proof.
-The comparison below preserves its actual mathematical mechanism and 2026-09-09 review limits; neither this reconstruction nor a current same-number Claim substitutes for the missing original fixed proof.
+The original fixed proof is [original C_F0004](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0004_v1.md#proof), including its [exact-rank refinement](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0004_v1.md#exact-rank-refinement-and-the-kronecker-comparison).
+The exact original findings are retained in [original R_F0003](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/reviews/Yin_R_F0003_v1.md).
+These are source-only locators in experimental-math-ai at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree; remote access is unconfirmed.
+The original one-generator finding has unknown initial-context relationship, while the 2026-09-09 exact-rank refinement finding is self-reviewed under that record's explicit relationships.
+Current C_F0004 is an affine-capacity theorem and supplies neither this proof nor those findings.
+The comparison below preserves its actual mathematical mechanism and 2026-09-09 review limits; no local Claim receipt, new adoption or retrospective independent review follows.
 
 Under the earlier one-normal-generator argument, the normal spectral representation is \(M=L^\infty(S,\mu)\), X is multiplication by z, and \([D,X]=P_\Omega\) makes mu nonatomic.
 For bounded f and finite-rank T_f=[D,f], scalar commutation gives
@@ -142,7 +145,7 @@ K_f(z,w)=\frac{f(z)-f(w)}{z-w}
 \quad\text{almost everywhere}.
 \]
 
-The authoritative proof and its domain checks remain in the earlier one-normal-generator argument.
+The authoritative proof and its domain checks remain at the located original C_F0004 proof above.
 The mechanisms compare as follows:
 
 | Step | Kronecker / Miy22 Theorem 2.8 | the earlier one-normal-generator argument, one normal generator |

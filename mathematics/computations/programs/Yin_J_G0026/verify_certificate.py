@@ -7,7 +7,7 @@ _J_OUTPUT = _J_ROOT / 'mathematics/computations/outputs' / _J_PROGRAM.name
 _J_OUTPUT.mkdir(parents=True, exist_ok=True)
 from fractions import Fraction as F
 from array import array
-import json
+import gzip,json
 import estimate as e
 
 iv=e.iv;BASE=(_J_PROGRAM / 'verify_certificate.py').parent
@@ -41,7 +41,8 @@ def verify_states(raw, run, bounds):
 
 
 def main():
-    c=json.loads(((_J_OUTPUT / 'enumeration-certificate.json')).read_text())
+    inputs=_J_PROGRAM/'inputs'
+    c=json.loads((inputs/'enumeration-certificate.json').read_text())
     beta,M=e.embeddings();S,bd=e.bounds(beta,M)
     assert bd==c['original_coefficient_bounds'] and S[1]<F(67,10)
     U=c['unimodular_U'];assert abs(e.determinant(U))==1
@@ -84,8 +85,8 @@ def main():
         term=sum(bbound[i]*abs(T[i][j]) for i in range(j,10))
         assert term*term<2**63-1
     assert sum((sum(bd[i]*max(abs(c['embedding_lower'][j][i]),abs(c['embedding_upper'][j][i])) for i in range(10)))**2 for j in range(2,10))<2**63-1
-    run=json.loads(((_J_OUTPUT / 'enumeration.json')).read_text(encoding='utf-8-sig'))
-    raw=((_J_OUTPUT / 'compact-states.bin')).read_bytes()
+    run=json.loads((inputs/'enumeration.json').read_text(encoding='utf-8-sig'))
+    raw=gzip.decompress((inputs/'compact-states.bin.gz').read_bytes())
     states=verify_states(raw, run, bd)
     result={'exact_containing_ellipsoid_verified':True,'unimodular_change_verified':True,
             'coefficient_and_outward_filter_bounds_verified':True,'int64_arithmetic_bounds_verified':True,

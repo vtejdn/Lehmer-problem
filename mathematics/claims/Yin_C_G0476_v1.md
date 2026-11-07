@@ -15,8 +15,8 @@ The unchanged retention/checking accounts below record their actual checkpoints,
 
 ## Native input replay limits
 
-The [J40 selected word/vertex payload](../computations/programs/Yin_J_G0040/readme.md#native-input-availability) is currently unavailable for the author and separate native checker.
-The compact-residue construction remains distinct from the missing fifty-cell818-word geometric selection; the original dated proof and review scopes are preserved.
+The [J40 selected word/vertex payload](../computations/programs/Yin_J_G0040/inputs/ideal-cover.json) is retained for the author and separate native checker.
+The [restored-input replay](../computations/programs/Yin_J_G0040/readme.md#native-input-availability) reproduces the complete fifty-cell818-word geometric certificate and the distinct compact-residue check; the original dated proof and review scopes are preserved.
 
 ## Statement
 

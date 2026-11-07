@@ -7,10 +7,10 @@ Context: [fixed quantitative argument](../../../claims/Yin_C_G0203_v1.md#quartic
 
 ## Native input availability
 
-The adopted138 positive integer vectors and actual lower-vector certificate are unavailable in this checkout and its selected local Git history.
-The fixed program reconstructs the phase matrices, but the documented NumPy discovery and the scalar Rayleigh quotient do not determine those selected native vectors.
-verify.py and the cross-J J34 verifier cannot currently check that complete selected certificate.
-Supply the minimum original matrix-to-vector and actual lower-witness payload at this group's tracked inputs/ and point both exact consumers there; do not describe a newly selected positive vector as the original evidence.
+The adopted 138 positive integer vectors, their matrix/cell correspondence and the actual lower-vector certificate are retained in `inputs/certificate.json`.
+This selected payload was recovered from the original author's existing certificate, without rerunning NumPy discovery or selecting new vectors.
+Both verify.py and the cross-J J34 verifier read this one tracked native input.
+The exact phase construction and all integer inequalities remain the verification boundary; approximate discovery eigenvalues are not retained as proof input.
 
 ## Question and scope
 
@@ -24,7 +24,8 @@ No neutral-radius truncation or Lehmer-input calculation is part of the current 
 | --- | --- |
 | [core.py](core.py) | Exact degree-four field operations, rational root enclosure, proved coordinate-box checks, threshold arrangement and integer block construction. |
 | [discover.py](discover.py) | Complete exact phase construction, NumPy discovery of positive-vector witnesses and one actual algebraic lower-bound coset. |
-| certificate.json (`mathematics/computations/outputs/Yin_J_G0033/certificate.json`) | All 138 integer matrices with positive integer upper witnesses and the actual lower witness; approximate discovery fields are labelled separately. |
+| `inputs/certificate.json` | The selected original 138 integer matrices, positive upper vectors, exact cell correspondence and actual lower witness; shared fixed input for J33 and J34. |
+| certificate.json (`mathematics/computations/outputs/Yin_J_G0033/certificate.json`) | Replaceable discovery output, including approximate diagnostic fields; verification uses the retained input instead. |
 | [verify.py](verify.py) | Standard-library-only reconstruction of every phase matrix and exact integer verification of both bounds. |
 | verified.json (`mathematics/computations/outputs/Yin_J_G0033/verified.json`) | Successful exact result with its finite scope, counts and mathematical bounds. |
 
@@ -32,11 +33,13 @@ No neutral-radius truncation or Lehmer-input calculation is part of the current 
 
 From the repository root, run `python -B mathematics/computations/programs/Yin_J_G0033/verify.py`.
 The exact checker needs only the standard library.
+It reads `inputs/certificate.json` without requiring discovery output or NumPy.
 It regenerates `verified.json` in `mathematics/computations/outputs/Yin_J_G0033/`.
 It does not call the discovery program or use approximate eigenvalues from the certificate.
 
 To reproduce discovery, use `.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0033/discover.py` with NumPy installed.
 It regenerates the full mathematical `certificate.json` in the same J output home.
+Discovery does not overwrite the adopted native input and is unnecessary for replaying it.
 The checker and discovery share `core.py`; this is a second execution/arithmetic boundary, not independent code authorship.
 There is no random seed.
 Caps are 50000 open phase cells and 60-second elapsed-time guards in the main loops.
@@ -47,6 +50,7 @@ The coordinate box has exactly 255 candidates per side; no neutral-radius cutoff
 The completed exact check reconstructed 63 by 65 open phase cells, 138 distinct nonempty matrices, maximum dimensions 13 by 13, and checked every integer inequality `(M M^T)v<=97v` with positive integer v.
 Minimum integer slack was 999999951.
 The actual representative `r=-413+774 beta-180 beta^3` supplied a separate Gram Rayleigh quotient `9633565984214612/100000003825002>96`.
+The recovered input passes both the original exact checker and the separately implemented J34 checker at these same finite scopes.
 No cap was hit.
 
 Together with D34's full coverage and boundary-submatrix proof, this certifies `sqrt(96)/16 < ||K^2|| <= sqrt(97)/16` for the entire quartic strip operator with the original weights.
@@ -68,6 +72,7 @@ A fresh run does not retrospectively change the historical finding date or inspe
 ## Recorded runs
 
 The local output names below identify the particular recorded runs used by the linked fixed materials.
+The necessary original certificate payload is now retained in `inputs/certificate.json`; this relocation does not enlarge or redate the original review.
 Those records retain the original inputs, parameters, known dates and checked scopes; the existing instructions above identify the programs and reproduction commands.
 These links locate the original results and checks, without asserting verification of the present README or a new execution.
 Generated output files remain local and are not synchronized.

@@ -9,16 +9,17 @@ All original retired-draft retention, local/contributor checks and adoption fact
 The full-chain reviewer received actual target-mathematical coordinator/contributor review passages before its initial findings; independently coded arithmetic is distinct from an isolated review arrangement.
 The old consolidation's restored real-domain/existence/probability qualification and accurate841-count versus259-set wording are preserved, without inventing another complete corrected-proof inspection.
 The original J18/J19 exact certificate executions and J21 separate arithmetic implementation/replay reports are reused at their actual fixed scopes.
-Current maintenance reads their complete exact checker code, saved report and certificate interfaces without rerunning discovery, rewriting outputs or claiming a new native execution.
+The adopted proof below reused the original exact checker and certificate evidence at its recorded scope.
+The current fixed-input repair additionally replays the restored original witnesses as described in the native-input section below, without replacing them by a fresh discovery selection.
 The complete C372 norm/prime-support/quotient-height equivalence is reused at its original accepted ESS statement/applicability boundary.
 [Mer13-U001](../audits/literature/Mer13/Yin_U001.md#mer13-u001) supplies method attribution for a different quartic, without transferring its published theorem or source computer table to this input.
-No new source search/PDF inspection/acquisition, source-proof audit, numerical/native discovery, formal verification or Task/E resumption is performed.
+No new source search/PDF inspection/acquisition, source-proof audit, formal verification or Task/E resumption is performed.
 
 ## Native input replay limits
 
-The [J18 selected triangle input](../computations/programs/Yin_J_G0018/readme.md#native-input-availability) and [J19 selected continuation input](../computations/programs/Yin_J_G0019/readme.md#native-input-availability) are currently unavailable for native replay.
-The deterministic259-state compact list is now retained and separately rechecked, but that does not supply the missing150 selected triangle words or259 selected continuation witnesses.
-The original dated mathematical and review scopes below are preserved; no new full-chain execution is asserted.
+The original [J18 selected triangle input](../computations/programs/Yin_J_G0018/readme.md#native-input-availability) and [J19 selected continuation input](../computations/programs/Yin_J_G0019/readme.md#native-input-availability) are restored at their responsible tracked native input homes.
+The exact author checkers and J21 now replay all fifty cells, 150 original words, the complete compact enumeration and all 259 original continuations, with the original drop bounds and maximum path length 25.
+These current native checks preserve the original dated mathematical decisions and review relationships; they are not a new independent-agent proof review or independent maintenance acceptance.
 
 ## Statement
 

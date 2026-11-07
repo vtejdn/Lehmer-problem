@@ -9,8 +9,9 @@ Original contribution and review accounts remain at their fixed inputs; this mai
 
 ## Native input replay limits
 
-The [J79 selected joint-budget/native nonlinear input](../computations/programs/Yin_J_G0079/readme.md#nonlinear-bound-native-input-availability) is currently unavailable for replay of the adopted98-direction,32-cell certificate.
-The retained n18 source family and scalar lambda/mu values do not determine the selected full dual; no replacement optimization or new successful nonlinear execution is asserted.
+The [J79 selected joint-budget/native nonlinear input](../computations/programs/Yin_J_G0079/inputs/joint-budget-n18.json) is retained for replay of the adopted98-direction,32-cell certificate.
+The [standard-library author and separate checker](../computations/programs/Yin_J_G0079/readme.md#nonlinear-bound-native-input-availability) reconstruct the full dual and both rational systems from the adopted input and existing source family, reproducing the original mathematical lower-bound fields.
+This restored-input replay preserves the historical theorem, review and optimization limits.
 
 ## Statement
 

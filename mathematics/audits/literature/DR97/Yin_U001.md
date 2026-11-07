@@ -149,7 +149,8 @@ Minimality is essential to this inference: a nonminimal representation can conta
 The map $s$ is a polynomial algebra homomorphism, but **not an unrestricted map on all formal series**: an infinite coefficient sum may be required after cancellations.
 On reduced-supported series it is a coefficient relabeling.
 Products, matrix inverses and infinite sums require separate ambient-space justification.
-U004 contains the analytic argument; U005 supplies the external Malcev-Neumann foundation, while the separate local support/inverse/substitution/pivot construction reported by the historical audit remains unlocated.
+U004 contains the analytic argument; U005 supplies the external Malcev-Neumann foundation.
+The separate support/inverse/substitution/pivot construction is located in the [fixed original DR97-U005](readme.md#original-section-4-evidence), whose source identity and scope differ from current U005.
 
 ## Findings, dependencies, and limits
 
@@ -169,7 +170,8 @@ U004 contains the analytic argument; U005 supplies the external Malcev-Neumann f
 
 On 2026-09-08 the coordinating agent read the extracted pp. 614-616 and 621 and visually inspected those pages, including residual orientation, Theorem 4, and formula (2).
 The local reconstruction above received independent AI cross-review by the analytic reconstruction agent: inverse-residual span invariance, minimal reachable/unobservable constructions, polynomial row/column selection, formal pivots, and the infinite-alphabet counterexample were checked without an unresolved objection.
-The Malcev-Neumann reconstruction agent separately inspected the field/minimality interfaces for its Section 4 application; that application body is not presently located in U005, which owns external interfaces.
+The Malcev-Neumann reconstruction agent separately inspected the field/minimality interfaces for its Section 4 application, retained in the [original construction](readme.md#original-section-4-evidence).
+The current U005 owns external interfaces and does not inherit that construction's content or review scope.
 These are mathematical reviews, not audits of every original reference or formal verification.
 This initial unit supplies the formal interface for U002, U004, and U005; no new project claim ID is assigned.
 

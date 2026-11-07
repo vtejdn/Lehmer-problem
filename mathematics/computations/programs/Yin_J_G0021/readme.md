@@ -5,9 +5,10 @@ author: Yin
 
 ## Native input availability
 
-The exact259-state enumeration input is now reused from [J19's tracked compact list](../Yin_J_G0019/inputs/compact.json), and this program's enumeration_check has matched that entire set by its distinct exact construction.
-The [selected J18 triangle payload](../Yin_J_G0018/readme.md#native-input-availability) and [selected J19 path payload](../Yin_J_G0019/readme.md#native-input-availability) remain unavailable.
-Those two concrete inputs prevent the complete current replay; the old full-chain and SELF review scopes are not converted into a new execution or a different relationship.
+The checker reads [J18's original tracked triangles](../Yin_J_G0018/inputs/triangles.json), [J19's compact list](../Yin_J_G0019/inputs/compact.json) and [J19's original path list](../Yin_J_G0019/inputs/paths.json).
+The current full replay passed all fifty cells and 150 words, the complete 22275-tuple enumeration with 841 expanding-strip tuples and 259 candidate states, and all 259 continuations of maximum length 25.
+replay_authors.py also passed from those tracked inputs and checks their actual finite assertions without requiring old ignored verification reports.
+These current executions do not change the original full-chain/SELF review scopes or supply a new independent-agent review.
 
 ## Scope
 
@@ -22,9 +23,8 @@ The current complete mathematical home is [C396](../../../claims/Yin_C_G0396_v1.
 This directory owns the continuing review programs and their executed evidence.
 
 Generated results and verification data use `mathematics/computations/outputs/Yin_J_G0021/`, independently of the caller's directory.
-The adopted compact list is read directly from J19's tracked inputs/compact.json; the missing triangle and path selections retain their historical output locators until those native payloads are supplied.
-These retained outputs are local and Git-ignored; a clone can lack them.
-Verification reports unavailable inputs without automatically rerunning discovery or substituting other results.
+All indispensable data are read directly from their responsible tracked input homes named above.
+Only newly generated review reports use ignored outputs.
 
 ## Files and execution
 
@@ -32,15 +32,15 @@ Verification reports unavailable inputs without automatically rerunning discover
   It isolates beta by exact sign bisection, constructs independently coded outward integer intervals, checks every saved triangle and word, bounds the inverse embedding matrix by interval Gaussian elimination, exhaustively checks the whole coefficient box, and verifies continuations by integer polynomial long division.
 - verification.json (`mathematics/computations/outputs/Yin_J_G0021/verification.json`) records that independent implementation's result.
 - [replay_authors.py](replay_authors.py) reruns the three exact author programs, intercepting only output writes and preserving them here.
-  It checks that regenerated mathematical outputs equal the retained originals, on their complete mathematical payloads.
+  It compares the regenerated compact input with the complete tracked compact list and checks the original declared finite triangle and path assertions.
 - author_replay.json (`mathematics/computations/outputs/Yin_J_G0021/author_replay.json`) records those comparisons.
   The redirected outputs are J18 verification (`mathematics/computations/outputs/Yin_J_G0021/Yin_J_G0018_verification.json`), J19 compact enumeration (`mathematics/computations/outputs/Yin_J_G0021/Yin_J_G0019_compact.json`) and J19 path verification (`mathematics/computations/outputs/Yin_J_G0021/Yin_J_G0019_verification.json`).
 
 From the repository root, using only the standard library:
 
 ```powershell
-.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0021/review.py
-.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0021/replay_authors.py
+python -B mathematics/computations/programs/Yin_J_G0021/review.py
+python -B mathematics/computations/programs/Yin_J_G0021/replay_authors.py
 ```
 
 All checks passed.
@@ -48,7 +48,8 @@ The independent enclosure scale is 10^25; all 50 cells and 150 words pass with m
 The independently derived coefficient bounds are (5,7,7,4).
 Testing all 22,275 tuples retains 841 expanding-strip tuples and exactly the same 259 candidate states as the author's enumeration.
 All 259 whole-word polynomial identities vanish modulo P; the longest path is 25 digits.
-Author replays reproduce the retained outputs.
+The historical author replays reproduced the then-retained outputs.
+The current repaired replay instead checks the tracked inputs and their complete stated finite scope, without an ignored-output baseline dependency.
 
 ## Boundaries
 
@@ -62,7 +63,7 @@ The review programs themselves are reviewer evidence and are not formally verifi
 
 ## Reproducing reviewed runs
 
-The review findings concern outputs of particular recorded runs.
-Generated output files are kept locally and are not synchronized.
-To verify a recorded result, reproduce the documented program, inputs and parameters and repeat the applicable verifier checks.
-A fresh run does not retrospectively change the historical finding date or inspected scope.
+The historical review findings retain their original scope and relationship.
+The selected native inputs are now tracked, so the documented verification-only commands replay those mathematical objects without rerunning discovery.
+Generated verification reports remain local and replaceable.
+Current repair checks establish the stated finite replay results, not a new independent-agent proof review or independent maintenance acceptance.

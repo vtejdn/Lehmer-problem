@@ -14,9 +14,10 @@ The retained [verify.py](verify.py) imports no author root, algebraic, phase, ma
 It uses the explicit nested-radical quartic root with rational square-root enclosures, recomputes all phase events and exact rank-based membership masks, matches the complete integer matrix set and verifies the retained positive-vector inequalities through M(M^T v).
 It also checks the new actual lower coset and its Rayleigh quotient through ||M^T h||^2.
 Only the standard library is required.
+Its fixed source is J33's `inputs/certificate.json`; it requires no ignored discovery output.
 
 ```powershell
-.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0034/verify.py
+python -B mathematics/computations/programs/Yin_J_G0034/verify.py
 ```
 
 The checker uses Python.

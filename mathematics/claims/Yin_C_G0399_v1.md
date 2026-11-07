@@ -9,15 +9,17 @@ The earlier radius1500 partial certificate, its geometry/search costs, original 
 The adequate original [R69](../audits/reviews/Yin_R_G0069_v1.md) account retains the complete old input, mathematical/native findings and actual whole versus targeted scopes.
 Current review relationships distinguish known substantive shared target mathematics from unspecified historical context and from separately implemented arithmetic.
 The original J22/J24/J26 exact certificate executions and J23/J27/J28/J29 separate checking implementations are reused at their actual scopes.
-Current maintenance statically reads their complete decisive checkers and saved certificate/report interfaces without relabelling an old execution as a new run.
+The adopted proof below reused the original exact checker and certificate evidence at its recorded scope.
+The current native-input repair additionally replays those restored original objects as described below, without rerunning numerical discovery.
 The full C372 actual-core equivalence is reused at its existing accepted ESS statement/applicability depth.
 [Mer13-U001](../audits/literature/Mer13/Yin_U001.md#mer13-u001) supplies method attribution for a different quartic; its published theorem and computer table do not establish this degree-ten result.
 Task/E execution remains paused.
 
 ## Native input replay limits
 
-Current replay of the [J24 normalized-descent certificate](../computations/programs/Yin_J_G0024/readme.md#native-input-availability) and [J26 compact/ancestry certificates](../computations/programs/Yin_J_G0026/readme.md#native-input-availability) remains unavailable at the specific retained-input scopes recorded there.
-The old mathematical findings and their actual checking relationships below are historical evidence, not a claim that those original native inputs have been supplied in this checkout.
+The original [J24 normalized-descent certificate](../computations/programs/Yin_J_G0024/readme.md#native-input-availability) and [J26 compact/ancestry certificates](../computations/programs/Yin_J_G0026/readme.md#native-input-availability) are restored at their responsible tracked native input homes.
+The current author checkers and J27/J28/J29 replays passed all 32 axis certificates and 217 distinct words, the complete 797507-state superset, all 1044588 ancestry nodes, 797437 covered targets and seventy exact exclusions at maximum depth 25.
+Those current native checks preserve the original mathematical decisions and historical checking relationships; they are not a new independent-agent proof review or independent maintenance acceptance.
 
 ## Statement
 
@@ -57,7 +59,8 @@ Under independent original digits with probabilities P(-1)=1/4,P(0)=1/2,P(1)=1/4
 The norm lower bound uses the actual exact-root inequality S<67/10 and bounds zero-prefix lengths only at nonzero narrow-domain endpoints; intermediate neutral radii need not stay below R.
 The conclusion asserts existence of a chosen finite word and a bounded-radius hitting lower estimate.
 It supplies neither a bound for every random trajectory nor a uniform excursion-tail, degree-uniform entropy or unrestricted Mahler-gap result.
-The conventional exact rational/integer certificates and separately coded checks are reused from their original executions; no current native run or proof-assistant formalization is asserted.
+The adopted theorem and reviews retain their original execution scopes.
+The restored fixed certificates also pass the current native replays documented above; no proof-assistant formalization is asserted.
 
 ## Current assessment
 [Selected decision](#decision-complete-isolated-whole-adoption)

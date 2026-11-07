@@ -1,0 +1,8 @@
+{
+  "completed": true,
+  "nodes": 4818379,
+  "ellipsoid_leaves": 3077691,
+  "retained_candidates": 797507,
+  "node_cap": 50000000,
+  "candidate_cap": 2000000
+}

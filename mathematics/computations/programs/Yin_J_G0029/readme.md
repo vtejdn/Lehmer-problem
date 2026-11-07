@@ -24,13 +24,15 @@ It explicitly decodes little-endian packed files, checks every parent edge by th
 From the repository root, use Python with its standard library:
 
 ```powershell
-.venv/Scripts/python.exe -B mathematics/computations/programs/Yin_J_G0029/verify.py
+python -B mathematics/computations/programs/Yin_J_G0029/verify.py
 ```
 
 verification.json (`mathematics/computations/outputs/Yin_J_G0029/verification.json`) records the successful result:1044588 distinct path nodes,797507 initial distinct targets,797437 covered targets,70 excluded targets and maximum depth25.
 Independent rational intervals exclude68 states by rho^2>=64 and two by strict failure of the contracting strip.
 The result retains every excluded coefficient vector and its reason.
-All reads are from J26; the program writes only its own output.
+All reads are from J26's tracked inputs/: compact-states.bin.gz, path-nodes.bin.gz and uncovered.bin.
+The checker explicitly decompresses and decodes those fixed native objects; no discovery report or ignored author output is required.
+It writes only its own output.
 
 ## Boundaries
 
@@ -43,7 +45,7 @@ The output does not itself establish infinite reachability, a quantitative retur
 
 ## Reproducing reviewed runs
 
-The review findings concern outputs of particular recorded runs.
-Generated output files are kept locally and are not synchronized.
-To verify a recorded result, reproduce the documented program, inputs and parameters and repeat the applicable verifier checks.
-A fresh run does not retrospectively change the historical finding date or inspected scope.
+The historical review findings retain their original scope and relationship.
+The selected native inputs are now tracked, so the documented verification-only commands replay those mathematical objects without rerunning discovery.
+Generated verification reports remain local and replaceable.
+Current repair checks establish the stated finite replay results, not a new independent-agent proof review or independent maintenance acceptance.

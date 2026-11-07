@@ -283,7 +283,12 @@ The stable-finite overlap proof and its Schur factors keep the same chosen ambie
 The complete source arguments are already retained in the preceding Theorem4.4/Lemma4.8 sections of this unit and are not duplicated.
 
 The earlier deliberately nonminimal semicircular example records the original source unit's limited diagnostic.
-The earlier account reports a later bounded-dual model, C*-distance obstruction and minimal two-state argument under former C_F0012 Sections6--7, with checks under former R_F0184.
-Those original fixed project proof/review homes have not been located in the current retained F-family collection; the current same-number objects supply no substitute.
-The claimed matrix C*-inverse-closure exclusion is a project deduction requiring that original argument for reuse, not an assertion of MSY23's source theorem or a newly adopted consequence here.
+<a id="original-project-obstruction"></a>
+The later bounded-dual model is located in [original C_F0012](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0012_v1.md), with the [C*-distance calculation](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0012_v1.md#6-exclusion-from-the-norm-closed-and-scalar-division-algebras) and [minimal two-state argument](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/claims/Yin_C_F0012_v1.md#7-the-monic-two-state-form-and-the-original-conjecture) in its Sections 6--7.
+The retained checks are [R_F0184v5's C12 portion finding](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/reviews/Yin_R_F0184_v5.md#bounded-linearization-c12-recheck) and [complete-note finding](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/reviews/Yin_R_F0184_v5.md#bounded-linearization-complete-note-finding).
+These source-only references identify Yin's original experimental-math-ai objects at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree; remote access is unconfirmed.
+They create no local Claim receipt, current same-number correspondence, new adoption or additional review binding.
+The C12 portion finding is self-reviewed after reading existing target reviews; the complete-note finding has unknown initial-context relationship and does not freshly review the entire C12 construction.
+The matrix C*-inverse-closure exclusion is a project deduction at that original proof home, not an assertion of MSY23's source theorem or a newly adopted consequence here.
+A local use of that exclusion requires the actual model, distance proof and selected inputs; the earlier nonminimal example alone is insufficient.
 No original-source opening, mathematical proof change or new source review occurred during this retention.

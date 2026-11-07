@@ -39,6 +39,19 @@ All page references below are printed pages of the primary published PDF: **prin
 | [DR97-U004](Yin_U004.md#dr97-u004) | Square-summability, decay, Banach matrix inverses, and realization | Lemmas 10-11, Proposition 9, pp. 619-621 | Local analytic proof reconstructed and cross-reviewed; primary-checked Haagerup estimate accepted. |
 | [DR97-U005](Yin_U005.md#dr97-u005) | Exact external inputs, comparison with Miy22, and version/search evidence | DR97 dependencies and selected passages in supporting sources | Passage-specific source statements and applicability, not full audits of the supporting works. |
 
+<a id="original-section-4-evidence"></a>
+## Original Section 4 proof and finite-check inputs
+
+These are source-only locators in Yin's original experimental-math-ai repository at fixed commit `f1ab0a38da990d7e62f5f79acff1dd2312149ca9`, checked against its local Git tree.
+Remote access to that snapshot is unconfirmed; the links do not assert public availability, local receipt, a new mathematical adoption or an expanded historical review.
+
+The [original Malcev--Neumann construction](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/DR97/Yin_U005.md#dr97-u005) retains the complete finite-generator support, inverse-domain, substitution, scalar-projection and pivot chain for Theorem 12 and Corollary 13, including its original 2026-09-08 cross-review limits.
+Its original U005 number belongs to that source collection.
+This repository's current [U005](Yin_U005.md#dr97-u005) instead corresponds to [original external-interface U006](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/audits/literature/DR97/Yin_U006.md#dr97-u006) and supplies the accepted ordered-series-field foundation.
+The [original J_F0001 program](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/computations/programs/Yin_J_F0001/main.py) and [execution account](https://github.com/vtejdn/experimental-math-ai/blob/f1ab0a38da990d7e62f5f79acff1dd2312149ca9/mathematics/computations/programs/Yin_J_F0001/versions/v1/record.md) locate U002's 78,185-equality check and distinguish 77,688 endpoint/suffix comparisons from 497 weaker scalar-column checks.
+Its fixed inputs are encoded in the standard-library program; there is no separate input dataset.
+No new execution was performed, and the original theorem proof is not replaced by that finite check.
+
 The introduction, pp. 613-614, was checked for closure definitions and intended conclusions.
 The bibliography on p. 622 was inspected for dependency identities and misleading locators.
 This is complete article reading with the proof-inspection boundaries above, not a recursive audit of all 17 references.
@@ -68,10 +81,10 @@ Each repaired argument is in its authoritative unit.
 | F01 | The alphabet is initially unspecified, but p. 618 uses finite $X$. Theorem 2's recognizability/rational-expression equivalence is false for arbitrary infinite alphabets under finite-expression closure. | State finite $X$ throughout the audited chain. U001 gives the two-state series $\sum_xx$ as a counterexample to that broader preliminary reading. U005 identifies further uses of finiteness. |
 | F02 | The p. 618 injectivity sentence cannot mean multiplication by $\bar x-1$ on all group coefficient functions: a bilateral series on $\langle x\rangle$ is a counterexample. | U002 proves injectivity on the actual residual span, where appending $\bar x$ causes no cancellation, using its least nonzero degree. The finite residual bound follows. |
 | F03 | Pp. 613 and 619 treat general $\ell^2$ coefficients as everywhere-defined convolution operators; boundedness does not follow from square summability. The p. 613 norm notation also omits a square root. | U004 initially uses finite-support inputs, establishes boundedness by normal convergence, and supplies an explicit nonrational $\ell^2(\mathbb Z)$ counterexample to the general boundedness claim. Conventional Hilbert norms are stated. |
-| F04 | The p. 619 application of Lemma 8 misidentifies the commutator's ambient algebra; the source representation also has a nonunital scalar block. | U003 uses the algebraic quotient $B(H)/\operatorname{Fin}(H)$, where the representation is unital and its commutator derivation has the right bimodule type. Finite rank is not replaced by compactness. The historical separate algebraic-domain scalar-block treatment remains part of the unlocated Section 4 body; current U005 owns its external interfaces. |
+| F04 | The p. 619 application of Lemma 8 misidentifies the commutator's ambient algebra; the source representation also has a nonunital scalar block. | U003 uses the algebraic quotient $B(H)/\operatorname{Fin}(H)$, where the representation is unital and its commutator derivation has the right bimodule type. Finite rank is not replaced by compactness. The separate algebraic-domain scalar-block treatment is in the [original Section 4 construction](#original-section-4-evidence); current U005 owns its external interfaces. |
 | F05 | Lemma 10(ii)'s contraction estimate fails for polynomial shifts; the printed decay estimate also carries an unjustified unchanged exponential rate from squared coefficients to operator norms. | U004 inserts the finite factors $\|P\|_1\|Q\|_1$ and derives $\|a_m\|\leq\sqrt M(m+1)c^{m/2}$. Both corrections preserve the required normal convergence. |
 | F06 | Lemma 11's diagonal Schur formulas on p. 620 have misplaced inverse parentheses. The subsequent decay step cites Lemma 11(i) where Lemma 10(i) supplies the needed estimate. | U004 gives correctly ordered block formulas, a sufficiently-small-power scalar-pivot proof, and the corrected logical reference. Invertibility of a matrix is not assumed to imply arbitrary unpermuted pivots are invertible. |
-| F07 | Section 4 compresses inverse commutators and formal-to-group substitution without specifying a common composition domain or all support/pivot conditions. | The historical audit reports a construction on $D\oplus D^X\oplus k$, support preservation, scalar-projection inverse correction, finite polynomial substitution and permuted elimination. Its detailed local body is not located in the current five units; U005 checks the external foundation only. This is a location gap, not a counterexample to Theorem 12. |
+| F07 | Section 4 compresses inverse commutators and formal-to-group substitution without specifying a common composition domain or all support/pivot conditions. | The historical audit reports a construction on $D\oplus D^X\oplus k$, support preservation, scalar-projection inverse correction, finite polynomial substitution and permuted elimination. The [original proof home](#original-section-4-evidence) is located in the fixed source collection; it has not been received as a sixth local unit. Current U005 checks the external foundation only. |
 | F08 | The bibliography's reference [8] gives a misleading journal/year for Fliess's *Matrices de Hankel*. | U005 records the bibliographic discrepancy and actual evidence depth. U001 reconstructs the field interfaces locally, so no uninspected Fliess erratum or corrected proof is silently imported. |
 
 All downstream uses within this audit are indicated by the unit links.
@@ -88,10 +101,11 @@ No pre-existing project claim depends on these new units, and no project claim I
 | Theorem 12 | Inverse closure preserves finite rank on the specified Malcev-Neumann space. Conversely residual representations preserve well-ordered support and give a matrix inverse over the division closure. | U005 accepts the exact ordered-series field construction; the optional identification with a universal free field is a separate interface. |
 | Corollary 13 | Finite positive generators make the positive free monoid well ordered by the supplied subsequence argument; restrict a doubled-alphabet representation to positive letters. | Positivity is needed for embedding all positive formal series, but is not needed for Theorem 12 itself. |
 
-The dependency graph is acyclic: U001 supplies the common formal machinery; U002 supplies the algebraic criterion; U004 constructs the analytic realization; the separately reported Malcev-Neumann realization body remains unlocated; U003 combines U002 and U004 with the independent closure direction.
+The dependency graph is acyclic: U001 supplies the common formal machinery; U002 supplies the algebraic criterion; U004 constructs the analytic realization; the [original Malcev-Neumann construction](#original-section-4-evidence) supplies the separate algebraic realization; U003 combines U002 and U004 with the independent closure direction.
 U005 documents external interfaces and comparisons.
 The Malcev-Neumann proof does not assume an analytic norm theorem.
-The historical Section 4 verdict is preserved as that earlier review account; present reuse of Theorem 12/Corollary 13 needs the reported support/inverse/substitution/pivot body to be located or adequately prepared, without retroactively extending the current external-interface U005.
+The historical Section 4 verdict retains its original proof and review scope at the [located fixed source home](#original-section-4-evidence).
+A new local use must select and check that exact input with the required receiving preparation; the current external-interface U005 alone supplies no local Section 4 construction.
 
 ## Reuse Guidance
 
@@ -130,13 +144,13 @@ The broader preliminary statements and original external proofs retain their dec
 | Original acceptance criterion | Completion evidence |
 | --- | --- |
 | Identity, version, and searches | Primary title page and all ten pages inspected; the author edition is separately identified; U005 records the bounded searches and selected comparison. |
-| Stable units with precise hypotheses and locators | The retained U001--U005 cover formal series, the tree criterion, analytic realization and external interfaces. The historical six-unit account included a separate Malcev-Neumann construction whose current detailed home remains unlocated. |
+| Stable units with precise hypotheses and locators | The retained U001--U005 cover formal series, the tree criterion, analytic realization and external interfaces. The historical six-unit account's separate Malcev-Neumann construction is located at the [fixed original source home](#original-section-4-evidence), without equating it to current U005. |
 | Local proof reconstruction and justified corrections | U001-U005 supply the explicit arguments; F01-F08 identify findings and consequences. Complementary agents independently inspected the critical algebraic, analytic, domain, and boundary steps. |
 | Accurate evidence and trust boundaries | U005 distinguishes primary statements, a published foundational exposition, original-proof limits, and secondary bibliography evidence. The computation record separates its finite checks from universal proofs. |
 | Integrated review and project handoff | Independent contract comparison and coordinating-agent review completed; source-unit index, goal index, audit navigation, computation index, and current assessment updated. No unassigned theorem-discovery objective was created. |
 
 The historical independent computation review reports rerunning the script and reproducing all 78,185 equalities.
-The native program/J locator remains unlocated as stated in U002; no current reproduction is asserted.
+The [original J_F0001 program and execution account](#original-section-4-evidence) locate that finite check; no current reproduction is asserted.
 Its 77,688 endpoint/suffix comparisons test two distinct calculations; the 497 auxiliary scalar-column checks have the weaker independence described in the computation record.
 Neither count certifies the general rationality conclusions.
 

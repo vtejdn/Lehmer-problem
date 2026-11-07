@@ -6,13 +6,13 @@ author: Yin
 
 ## Native input availability
 
-The original eleven basic columns/indices and the selected native seed/anchor and congruence certificate are unavailable in this checkout and its selected local Git history.
-The complete ten positive packet numerators and exact weights remain explicitly reconstructible from [C31's standalone table](../../../claims/Yin_C_G0031_v1.md#highs-original-lehmer-explicit-packet).
-That complete standalone mathematical witness does not determine the eleventh zero-weight basic column or the original ordered HiGHS indices.
-The displayed generator rules and packet therefore do not uniquely determine the selected original basis.
-J90 cannot currently replay this selected native certificate.
-Supply that minimum payload at this group's tracked inputs/ and repair J90's actual consumers; the full762150-atom store, floating log and incidental progress data are unnecessary.
-The original3000-pivot failure, absent Phase-A final basis and unreached branches remain the recorded limits; rerunning a solver is not recovery of that evidence.
+The adopted original eleven-column basis and ten-coordinate packet are retained in [inputs/basis-packet.json](inputs/basis-packet.json).
+The selected data were extracted from the existing original highs_lead.json, highs_result.json, matrix.json, progress.json and failure.json in experimental-math-ai's local J89 outputs.
+The native input keeps all eleven original indices/vectors and weights, ten original packet numerators and seed recipes, the two actual anchors, rational congruence and negative/ternary witnesses, and the original capped-failure boundary.
+Derived autocorrelations, norms, resultants and equality rows are recalculated by [J90's standard-library verifier](../Yin_J_G0090/readme.md).
+Its restored-input replay agrees with the original eleven-row system, zero at atom966, all ten signed norms and complete packet arithmetic.
+The complete ten positive numerators and weights also remain in [C31's standalone table](../../../claims/Yin_C_G0031_v1.md#highs-original-lehmer-explicit-packet).
+The original3000-pivot failure, absent Phase-A final floating state and unreached branches remain the recorded limits; this input restoration performs no solver or full-family rerun.
 
 ## Question and scope
 
@@ -41,16 +41,18 @@ The second stage requires highspy/HiGHS, NumPy and SymPy.
 Output paths resolve from the actual repository/J location, independently of caller cwd.
 
 ```powershell
-.venv/Scripts/python.exe -B -X utf8 mathematics/computations/programs/Yin_J_G0089/main.py
-.venv/Scripts/python.exe -B -X utf8 mathematics/computations/programs/Yin_J_G0089/highs_main.py
+python -B -X utf8 mathematics/computations/programs/Yin_J_G0089/main.py
+python -B -X utf8 mathematics/computations/programs/Yin_J_G0089/highs_main.py
 ```
 
 The first command's retained matrix.json (`mathematics/computations/outputs/Yin_J_G0089/matrix.json`), progress.json (`mathematics/computations/outputs/Yin_J_G0089/progress.json`) and failure.json (`mathematics/computations/outputs/Yin_J_G0089/failure.json`) have distinct mathematical roles.
-The progress file is a completed atom-generation input required by the second command and [J90's checker](../Yin_J_G0090/readme.md); it is not disposable progress text.
+The progress file is a completed atom-generation input required by the second discovery command; it is not disposable while that temporary generation pipeline needs it.
+[J90's certificate replay](../Yin_J_G0090/readme.md) instead uses the tracked minimum input and needs none of those generated files.
 The second command regenerates and compares every required seed/count/anchor/initial-index/vector fact before solving.
 highs_lead.json (`mathematics/computations/outputs/Yin_J_G0089/highs_lead.json`) retains the actual returned original basis and uncertified primal lead before exact postchecks.
 highs_result.json (`mathematics/computations/outputs/Yin_J_G0089/highs_result.json`) retains the completed exact packet.
-Keep these required inputs and original lead data when reproducing a later stage.
+Preserve the required pipeline inputs while reproducing discovery.
+The adopted small certificate remains independently available through the tracked input even when those replaceable outputs are absent.
 
 ## Actual sole-run outcome and inspection limits
 

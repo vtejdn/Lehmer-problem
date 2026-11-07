@@ -15,6 +15,7 @@ _J_OUTPUT.mkdir(parents=True, exist_ok=True)
 from math import isqrt, prod
 import importlib.util
 import json
+import gzip
 import time
 
 import flint
@@ -192,7 +193,7 @@ def enumerate_independently(c):
                 visit(j-1,remaining-term*term)
         visit(9,int(c["squared_enumeration_radius"]))
         flush()
-    original = np.fromfile((_J_ROOT / 'mathematics/computations/outputs/Yin_J_G0026/compact-states.bin'),dtype="<u8")
+    original = np.frombuffer(gzip.decompress((AUTHOR/'inputs/compact-states.bin.gz').read_bytes()),dtype="<u8")
     independent = np.fromfile(partial,dtype="<u8")
     assert len(independent) == retained and np.all(independent < np.uint64(1<<40))
     sorted_values = np.sort(independent)
@@ -202,7 +203,7 @@ def enumerate_independently(c):
     for j in range(10):
         decoded = ((independent >> np.uint64(4*j)) & np.uint64(15)).astype(np.int64)-8
         assert np.all(np.abs(decoded) <= ab[j])
-    report = json.loads(((_J_ROOT / 'mathematics/computations/outputs/Yin_J_G0026/enumeration.json')).read_text(encoding="utf-8-sig"))
+    report = json.loads((AUTHOR/'inputs/enumeration.json').read_text(encoding="utf-8-sig"))
     assert report["completed"] and report["nodes"] == nodes
     assert report["ellipsoid_leaves"] == leaves and report["retained_candidates"] == retained
     assert nodes < node_cap and retained < candidate_cap
@@ -211,7 +212,7 @@ def enumerate_independently(c):
 
 
 def main():
-    certificate = json.loads(((_J_ROOT / 'mathematics/computations/outputs/Yin_J_G0026/enumeration-certificate.json')).read_text())
+    certificate = json.loads((AUTHOR/'inputs/enumeration-certificate.json').read_text())
     bounds = check_certificate(certificate)
     print("Independent embedding, LDL, rounding, filter and overflow certificate checks passed.",flush=True)
     traversal = enumerate_independently(certificate)

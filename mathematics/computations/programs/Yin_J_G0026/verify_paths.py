@@ -9,7 +9,7 @@ _J_ROOT = next(parent for parent in _J_PROGRAM.parents if (parent / 'repository/
 _J_OUTPUT = _J_ROOT / 'mathematics/computations/outputs' / _J_PROGRAM.name
 _J_OUTPUT.mkdir(parents=True, exist_ok=True)
 from array import array
-import struct,json
+import struct,json,gzip
 import estimate as e
 
 iv=e.iv;BASE=(_J_PROGRAM / 'verify_paths.py').parent
@@ -53,12 +53,12 @@ def verify_path_records(original, raw_parts, expected_nodes, expected_depth, sav
 
 
 def main():
-    data=json.loads(((_J_OUTPUT / 'paths-r8/discovery.json')).read_text(encoding='utf-8-sig'))
-    original=array('Q');original.frombytes(((_J_OUTPUT / 'compact-states.bin')).read_bytes())
+    inputs=_J_PROGRAM/'inputs'
+    data=json.loads((inputs/'path-certificate.json').read_text())
+    original=array('Q');original.frombytes(gzip.decompress((inputs/'compact-states.bin.gz').read_bytes()))
     assert len(original)==797507
-    saved=array('Q');saved.frombytes(((_J_OUTPUT / 'paths-r8/uncovered.bin')).read_bytes())
-    raw_parts=((_J_OUTPUT/'paths-r8'/f'path-nodes-{part:03d}.bin').read_bytes()
-               for part in range(data['retained_parts']))
+    saved=array('Q');saved.frombytes((inputs/'uncovered.bin').read_bytes())
+    raw_parts=[gzip.decompress((inputs/'path-nodes.bin.gz').read_bytes())]
     targets,remaining,keys,maxdepth=verify_path_records(
         original,raw_parts,data['retained_path_nodes'],data['max_retained_path_length'],saved,70)
     beta,M=e.embeddings();S=iv.div(beta,iv.sub(beta,iv.point(1)))
