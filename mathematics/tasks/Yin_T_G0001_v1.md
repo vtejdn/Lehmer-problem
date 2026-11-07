@@ -3,6 +3,17 @@ author: Yin
 ---
 # Resolve Lehmer's conjecture
 
+## Task coordination
+
+| Field | Value |
+| --- | --- |
+| joint-task | [Adopted common Lehmer contract](Yin_T_G0002_v1.md#contract) |
+
+Yin's instruction to establish a joint Task for G0001 authorizes this individual Task's adoption of the full common contract.
+Participation covers the common question through the formulations, completion criteria and source-use boundaries retained below.
+The primitive normalization below preserves that question: for an integer polynomial \(f=c f_0\) with primitive \(f_0\), one has \(M(f)=|c|M(f_0)\), and nonprimitive inputs have \(M(f)\ge2\).
+The selected paused decision and all effective individual execution conditions remain in force.
+
 <a id="lehmer-entropy-growth"></a>
 ## Contract
 
@@ -13,7 +24,7 @@ This paragraph preserves the original authorization history.
 Yin subsequently clarified that all formulations belong to one Task and that their current ordering belongs to the strategy priorities.
 G is the research-line letter within the numbered T family, not a revival of retired short goal identifiers.
 
-This is the **single Lehmer Task, Yin_T_G0001**.
+This is **Yin's individual Lehmer Task, Yin_T_G0001**.
 Its mathematical objective and completion criteria are common to all formulations below.
 The associated rolling S materials own route priorities, dispositions and next steps; no formulation is a separate Task.
 Use the full T/S identifiers to distinguish the objective from its routes.
