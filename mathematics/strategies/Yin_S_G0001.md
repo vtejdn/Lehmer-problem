@@ -13,14 +13,17 @@ author: Yin
 <a id="whole-goal-allocation-2026-11-05"></a>
 ## Whole-goal allocation after the arithmetic random-matrix inquiry
 
-**Current state.** All nine strategies and their subroutes are paused after the [bounded strategic handoff](../tasks/Yin_T_G0001_v1.md#decision-strategy-handoff-2026-11-07).
-The results and remaining construction obligations below are retained without active research.
-**Retained allocation.** Keep the unrestricted proof-or-refutation contract, with counterexample construction as the main direction and a small complementary proof effort.
+**Current state.** Yin [resumed the unrestricted Task](../tasks/Yin_T_G0001_v1.md#decision-resume-small-shell-2026-11-08) on 2026-11-08.
+S1 and S4 resume from paused to active; the seven other routes keep their previous dispositions.
+**Allocation.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess.
+The [conditional probability](../claims/Yin_C_G0870_v2.md#amplification) can already tend to one from one positive value; count new values below the supplied seeds before attributing a gain to this strategy.
+At a single degree the [irreducible comparison](../ledger/Yin_L_G0462_v3.md#different-measures-one-degree) produces many distinct measures near the plastic number; none of these approach one.
+In the one-transition model, use the [restriction on limiting cuts](../ledger/Yin_L_G0464_v2.md#torsion-limits) and the [fourth-root prefix test](../ledger/Yin_L_G0464_v3.md#fourth-root) to select the next integer construction, with support allowed to grow.
 The human author permits limited positive exploration while shifting the main effort toward counterexamples; this does not retain the former broad proof campaign.
 S4 coordinates actual integer constructions and their complete positive total-measure return, using existing obstructions as filters rather than requiring new universal lower bounds.
 For the next counterexample construction, prioritize the [moving signed-residue test](../ledger/Yin_L_G0462_v2.md#moving-sign-test) under S4.
 The [positive-residue and bounded-variation gap](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) and the [central transition calculation](../ledger/Yin_L_G0462_v2.md#central-sign-test) specify which inputs to set aside.
-S9 retains a bounded joint-evaluation inquiry, preferably on the same inputs or constructions considered for counterexamples, to look for arithmetic structure beyond the already extracted Boolean factors.
+S9 retains a deferred joint-evaluation inquiry, to reconsider if the counterexample search supplies a specific new arithmetic structure on the same inputs.
 S2, S3, S5, S6, S7 and S8 are deferred, including the S2 child S7 and the S1 children S5 and S6; their evidence and unresolved questions remain available.
 The finite signed radial comparison is retained as a dormant question, to reconsider if an actual candidate supplies a new cancellation mechanism.
 Neither this allocation nor an active route disposition resumes an execution boundary or asserts that a counterexample mechanism has been found.
@@ -1458,8 +1461,8 @@ All eight routes and the Task remain paused, with no computation or proof-review
 
 | Field | Value |
 | --- | --- |
-| disposition | paused |
-| priority | Retain the counterexample-first allocation and small complementary S9 effort for explicit human resumption; all research and subroutes are paused |
+| disposition | active |
+| priority | Seek a new positive measure in shrinking reciprocal shells; distinguish new values from repeat occurrences of a supplied measure. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

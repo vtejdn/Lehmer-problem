@@ -13,6 +13,7 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 | [Numerical-semigroup and Apéry constructions](#numerical-semigroups-and-semigroup-polynomials) | Exact definitions, normalizations and source limits in the entries below. |
 | [Group growth, Bernoulli entropy and Lehmer constants](#group-growth-and-bernoulli-entropy) | Exact definitions, normalizations and source limits in the entries below. |
 | [Fourier algebra norm on a finite abelian group](../audits/literature/San20/Yin_U001.md#finite-abelian-fourier-algebra-norm) | The Fourier transform uses Haar probability on the group, and the norm sums the coefficient magnitudes over its dual. |
+| [Bounded characteristic in the disk](../audits/literature/Can63/Yin_U001.md#bounded-characteristic) | A quotient of bounded holomorphic functions; for holomorphic inputs, the circle means of the positive logarithm are bounded near the boundary. |
 | [Algebraic entropy and abelian flows](#algebraic-entropy-and-flows) | Exact definitions, normalizations and source limits in the entries below. |
 | [Project cofactor characters and arithmetic coefficient classes](#project-cofactor-characters-and-arithmetic-coefficient-classes) | Exact project constructions and actual consumer navigation. |
 | [Original-clock killed kernels and boundary operators](#original-clock-killed-kernels-and-boundary-operators) | Exact original-weight conventions and actual consumer navigation. |

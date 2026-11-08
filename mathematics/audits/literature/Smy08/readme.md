@@ -36,7 +36,7 @@ Contextual exclusions are separated from substantive misquotations rather than a
 | P1 | Equation (42), p.340: only degree is restricted | The distance bound fails at unrestricted height even off roots of unity. Use Dub98's small-height scope; an Eisenstein family gives an exact counterexample. [U004 F2](Yin_U004.md#smy08-u004). |
 | P2 | Section 7.4, p.335 | The Kronecker constant needs the largest admissible gap and exclusion of zero/torsion, not the least positive gap over all integers. [U002 definition](Yin_U002.md#smy08-kronecker-constant). |
 | P2 | Equations (34)--(37), pp.336--338 | Retain discriminant modulus and Mat96's integral degree-preserving domain; repair m to d and exclude repeated roots in (35); require real gamma>=1 in (37). [U003](Yin_U003.md#smy08-u003). |
-| P2 | Section 11, p.338 | Counting conventions differ from the original source and a located upper bound contains an extra factor. Withhold the unqualified sharper transfer until its exact theorem/range is checked. This is unresolved, not a demonstrated refutation of every stronger bound. [U003 counting](Yin_U003.md#smy08-bounded-measure-count). |
+| P2 | Section 11, p.338 | Equation (38) counts exact-degree monic cyclotomic products in the MPV98 restatement. The survey's literal count includes signs and zero roots. The cited sharper upper bound has a separate unresolved factor and range. [U003 counting](Yin_U003.md#smy08-bounded-measure-count). |
 | P2 | Sections 12,14.1,14.4--14.5, pp.338--341 | Carry the nonpreperiodic domain, factor-count parameter and zero-root restrictions, (43)'s constant and a specified unit-lattice metric. [U004](Yin_U004.md#smy08-u004). |
 
 The source is therefore **not accepted wholesale**.

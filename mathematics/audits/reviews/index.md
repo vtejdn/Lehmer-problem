@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R1105 v5](Yin_R_G1105_v5.md#fourth-root-review) independently checks the neutral central control and the fourth-root limit on coefficient agreement.
+- R1105 v4 independently checks the [torsion-trace restriction on limiting cuts](Yin_R_G1105_v4.md#torsion-limit-review) and the [positive resolvent estimates](Yin_R_G1105_v4.md#positive-resolvent-review).
+- [R1105 v3](Yin_R_G1105_v3.md#prefix-rigidity-review) checks rational prefix limits, their cyclotomic form in a shrinking shell, the limit laws and the boundary phase.
+- [R1105 v2](Yin_R_G1105_v2.md#weighted-lift-review) checks arbitrary fixed integral weights and the separator escape rate for the whole lift.
+- R1094 v2 checks the [conditional probability dichotomy](Yin_R_G1094_v2.md#conditional-sublevel-finding) and the [distinct irreducible measures at one degree](Yin_R_G1094_v2.md#distinct-ternary-measures-finding).
+
 - [R1105](Yin_R_G1105_v1.md#whole-lift-review) independently reviews the whole-lift gap for bounded signed residue variation and for strictly positive residues.
 - [R1104 v2](Yin_R_G1104_v2.md#general-template-whole) independently reviews the fixed-template factor bounds and the dyadic application, extending the scope of the [v1 quadratic-template review](Yin_R_G1104_v1.md#fixed-template-whole).
 - [R1103](Yin_R_G1103_v1.md#whole-proof) independently reviews the complete prime-index trace factorization and the positive limiting measure of its degree-4p factor.

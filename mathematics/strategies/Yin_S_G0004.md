@@ -10,10 +10,16 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state.** This route and its subroutes are paused after the [bounded strategic exploration](../tasks/Yin_T_G0001_v1.md#decision-strategy-handoff-2026-11-07).
-**Retained allocation.** Prioritize actual integer counterexample constructions and their complete positive total Mahler measure, with the existing arithmetic certificates used as filters.
+**Current state.** Under the [2026-11-08 continuation](../tasks/Yin_T_G0001_v1.md#decision-resume-small-shell-2026-11-08), S4 resumes from paused to active; its child S8 remains paused.
+Prioritize integer constructions and discrete existence arguments that control the complete positive total Mahler measure.
 The next construction to test is a [moving sign transition on the original Chebyshev grid](../ledger/Yin_L_G0462_v2.md#moving-sign-test).
-Seek root-count control and growing signed-residue variation together in a fixed ellipse before tightening its radius.
+Seek integral trace data with a nonreal pair in a fixed ellipse, then tighten its radius while keeping the sign and root-count conditions on those same data.
+The [fixed-weight test](../claims/Yin_C_G0880_v2.md#moving-cut) excludes a fixed algebraic separator and quantifies how quickly a moving separator must escape it relative to the unsigned residue mass.
+On the original grid the [integer resultant and limiting phase](../ledger/Yin_L_G0464_v2.md#torsion-limits) force every limiting separator to be a trace of a root of unity.
+For the [explicit neutral comparison](../ledger/Yin_L_G0464_v3.md#central-control) a positive sequence shrinking to measure one must first differ at index little-o of the fourth root of the trace degree.
+The next construction test is a transition approaching the central trace through a growing number of grid gaps, with the first coefficient difference earlier than that scale and the full exterior cost still controlled.
+Use the [mesh and resultant tests](../ledger/Yin_L_G0464_v1.md#moving-gap-mesh) when the two outstanding roots are nonreal.
+Independent checks cover the [prefix and phase argument](../audits/reviews/Yin_R_G1105_v3.md#prefix-rigidity-review), the [torsion-trace conclusion](../audits/reviews/Yin_R_G1105_v4.md#torsion-limit-review) and the [central-prefix scale](../audits/reviews/Yin_R_G1105_v5.md#fourth-root-review).
 The [whole-lift theorem](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) disposes of positive residues and bounded total variation, and the [weighted central test](../ledger/Yin_L_G0462_v2.md#central-sign-test) also excludes the stated transition at zero.
 The [fixed-template extension](../claims/Yin_C_G0879_v2.md#dyadic-application) rules out vanishing positive factors in the rotated dyadic family, independently of how it factors.
 The [eventual irreducibility theorem](../claims/Yin_C_G0877_v1.md#statement) excludes a sequence of factors of vanishing positive measure throughout the odd-prime square family.
@@ -226,8 +232,8 @@ This is preparation for a future explicitly authorized resumption.
 
 | Field | Value |
 | --- | --- |
-| disposition | paused |
-| priority | At resumption test a moving sign transition on the original trace grid, with unbounded residue variation and a certified full exterior cost. |
+| disposition | active |
+| priority | Test moving sign transitions and the full exterior cost on the original integral trace grid; seek positive probability in shrinking shells. |
 
 The current [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) puts counterexample construction first and reserves a small positive effort for S9.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

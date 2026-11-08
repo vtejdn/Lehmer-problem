@@ -5,6 +5,10 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0464_v3](Yin_L_G0464_v3.md) | A fourth-root bound on agreement with a cyclotomic prefix | A neutral example, quadrature localization of the sign change and the first necessary differing coefficient. |
+| [Yin_L_G0464_v2](Yin_L_G0464_v2.md) | Rational limits for integer trace polynomials with a moving sign change | Cyclotomic prefix limits, purely atomic prefix laws and torsion traces as the only limiting cuts on the Chebyshev grid. |
+| [Yin_L_G0464_v1](Yin_L_G0464_v1.md) | Locating a nonreal trace pair relative to a moving residue sign change | Positive resolvent, endpoint mass, mesh width and two original coefficient tests. |
+| [Yin_L_G0462_v3](Yin_L_G0462_v3.md) | Distinct strict-shell measures in a single ternary box, with and without cyclotomic padding | Many different irreducible measures just below the plastic number, compared with padding at the Lehmer value. |
 | [Yin_L_G0462_v2](Yin_L_G0462_v2.md) | Trace interlacing with signed residues and a test at the central separator | Necessary Chebyshev variation, the degree-18 positive control, the central sign obstruction and the moving-transition test. |
 | [Yin_L_G0462_v1](Yin_L_G0462_v1.md) | Searching for positive Mahler measures in reciprocal integer polynomials | Whole-block Hensel search, exact nonreal trace cells and coefficient-prefix pruning with finite controls |
 | [Yin_L_G0461_v1](Yin_L_G0461_v1.md) | Mahler-nonincreasing operations: normalized derivatives and radical factors | Exact derivative and finite free contraction estimates, integer coefficient domains, and strict unit-preserving factor descent; no universally repeatable positive descent |

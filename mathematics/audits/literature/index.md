@@ -51,6 +51,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [CPSV18](CPSV18/readme.md) | [Yin_U001](CPSV18/Yin_U001.md) |
 | [CR94](CR94/readme.md) | [Yin_U001](CR94/Yin_U001.md) |
 | [CRW08](CRW08/readme.md) | [Yin_U001](CRW08/Yin_U001.md) |
+| [Can63](Can63/readme.md) | [Yin_U001](Can63/Yin_U001.md#cantor-rationality) |
 | [Con26](Con26/readme.md) | [Yin_U001](Con26/Yin_U001.md), [Yin_U002](Con26/Yin_U002.md), [Yin_U003](Con26/Yin_U003.md) |
 | [Con26b](Con26b/readme.md) | [Yin_U001](Con26b/Yin_U001.md) |
 | [Con26c](Con26c/readme.md) | [Yin_U001](Con26c/Yin_U001.md) |
@@ -138,7 +139,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [MCQ08](MCQ08/readme.md) | [Yin_U001](MCQ08/Yin_U001.md) |
 | [MG89](MG89/readme.md) | [Yin_U001](MG89/Yin_U001.md) |
 | [MMS26](MMS26/readme.md) | [Yin_U001](MMS26/Yin_U001.md) |
-| [MPV98](MPV98/readme.md) | [Yin_U001](MPV98/Yin_U001.md) |
+| [MPV98](MPV98/readme.md) | [Yin_U001](MPV98/Yin_U001.md), [Yin_U002](MPV98/Yin_U002.md) |
 | [MS05](MS05/readme.md) | [Yin_U001](MS05/Yin_U001.md) |
 | [MS12](MS12/readme.md) | [Yin_U001](MS12/Yin_U001.md) |
 | [MS12b](MS12b/readme.md) | [Yin_U001](MS12b/Yin_U001.md) |

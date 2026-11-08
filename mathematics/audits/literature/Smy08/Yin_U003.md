@@ -193,7 +193,7 @@ $$
 c(\log d)^{-1/2}d^{-1}
  \exp\!\left(\frac{\sqrt{105\zeta(3)d}}\pi\right)(1+o(1)),
 \qquad
-c=\frac{\sqrt{105\zeta(3)}}{4\pi^2}e^{-\gamma_E},
+c=\frac{\sqrt{105\zeta(3)e^{-\gamma_E}}}{4\pi^2},
 $$
 for $\#(d,1)$, attributed to Boyd--Montgomery [41]; the bounds
 $$
@@ -213,9 +213,10 @@ $$
 \#(d,1)=2\sum_{j=0}^d C_j,
 $$
 because every such polynomial is uniquely $\pm z^{d-j}$ times one such product.
-It is not simply the count $C_d$ of cyclotomic products of exact degree $d$.
-The original Boyd--Montgomery statement was not located at sufficient depth to certify the displayed asymptotic and constant under either convention.
-Its transfer is therefore **unresolved**, not silently approved or replaced by a guessed constant.
+The [MPV98 statement immediately after (3.12)](../MPV98/Yin_U002.md#unrestricted-cyclotomic-products) reports the leading term in (38) for $C_d$, including the same factor $e^{-\gamma_E/2}$ outside the radical.
+A visual check of the [Smy08 preprint](../../../literature/pdf/Smy08.pdf), printed p. 338, confirms that $e^{-\gamma_E}$ lies inside the radical.
+Since $\#(d,1)\ge 2C_d$, the reported asymptotic for $C_d$ precludes (38) for the survey's literal all-polynomial count.
+Direct inspection of the [Boyd–Montgomery chapter](https://doi.org/10.1515/9783110848632-004) remains outstanding.
 
 Moreover the directly located primary passage [72], p.328, equation (5), has the general estimate
 $$
