@@ -20,8 +20,12 @@ The [conditional probability](../claims/Yin_C_G0870_v2.md#amplification) can alr
 At a single degree the [irreducible comparison](../ledger/Yin_L_G0462_v3.md#different-measures-one-degree) produces many distinct measures near the plastic number; none of these approach one.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
-For growing odd conductors, condition on an [admissible negative-block size](../ledger/Yin_L_G0464_v5.md#endpoint-index-exponent) and an [admissible resultant](../ledger/Yin_L_G0464_v6.md#norm-ceiling), then test the whole exterior cost of the same sampled input.
+The [prescribed-cut census](../computations/programs/Yin_J_G0149/readme.md#nonunit-atom) gives a binary atom of probability \(1/256\) at conductor 15, with nonunit resultant and two exterior roots.
+At every odd conductor from 17 through 43 the same cut has no atom of whole measure strictly between one and \(13/10\).
+For growing odd conductors, concentrate on the [explicit nonunit sign classes at powers of three](../ledger/Yin_L_G0464_v8.md#small-norm-terminal-block), retaining the full exterior cost as the unsettled step.
+The [height requirement](../ledger/Yin_L_G0464_v7.md#height-escape) excludes a fixed coefficient alphabet, and [light-tailed sampling](../ledger/Yin_L_G0464_v9.md#rare-shell) makes success in sufficiently small shells rare at logarithmic cuts even for growing heights.
 At every shrinking radius the required conclusion is positive probability for an actual integral polynomial with strictly positive whole measure inside that radius.
+For the unrestricted coefficient count, the [volume and lattice calculation](../ledger/Yin_L_G0449_v1.md#uniform-volume-and-lattice-obstruction) controls a random translate of the lattice, while the strict excess must occur on the unshifted integer lattice.
 The human author permits limited positive exploration while shifting the main effort toward counterexamples; this does not retain the former broad proof campaign.
 S4 coordinates actual integer constructions and their complete positive total-measure return, using existing obstructions as filters rather than requiring new universal lower bounds.
 S4 also retains the original moving signed-residue construction subject to the [five possible Chebyshev cuts and explicit prefix bound](../claims/Yin_C_G0881_v2.md#statement).

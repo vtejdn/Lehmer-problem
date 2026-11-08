@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R1107 v3](Yin_R_G1107_v3.md#three-power-review) checks the integer sign construction at powers of three, the norm restrictions and the complete cost of enforcing the endpoint.
+- [R1107 v2](Yin_R_G1107_v2.md#cut-census-review) checks the prescribed-cut census at all odd conductors from 13 through 43 and the bounded prime numerator experiment.
+- R1107 v1 checks the [coefficient height and prefix bounds](Yin_R_G1107_v1.md#height-review) and their [sampling probability consequences](Yin_R_G1107_v1.md#tail-review).
 - [R1106 v6](Yin_R_G1106_v6.md#resultant-ceiling-review) checks the normalized resultant ceiling with its explicit constant and the conductor-19 calibration.
 - [R1106 v5](Yin_R_G1106_v5.md#shell-census-review) checks the all-height census, the unique degree-20 input and the two finite probability laws.
 - [R1106 v4](Yin_R_G1106_v4.md#odd-grid-review) checks the full odd-grid endpoint, five profiles, exceptional-pair constraint, prefix exclusion and growth of the negative block.

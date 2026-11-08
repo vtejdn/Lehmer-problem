@@ -37,3 +37,15 @@ The subgroups underlying different cosets may differ.
 The Fourier convention and statement were read in the [preprint](../../../literature/pdf/San20--arxiv-v5.pdf) and compared with Section 1 and Theorem 1.1 in the [published article](https://doi.org/10.1007/s00041-020-09732-y).
 Theorem 1.1 is used at statement level.
 Its proof and the preceding analytic and combinatorial estimates were outside this inspection.
+
+<a id="near-integer-iteration"></a>
+## The nearby integer function in Lemma 10.2
+
+Section 9 of the [same preprint](readme.md#arxiv-v5), printed p. 38, defines \(f_{\mathbb Z}\) by \(\|f-f_{\mathbb Z}\|_\infty\le\epsilon<1/2\), which determines the integer function uniquely.
+Lemma 10.2 on printed pp. 43–44 applies to \(f\in A(G)\) with this approximation, \(f_{\mathbb Z}\ne0\), \(\|f\|_A\le M\), \(M\ge1\), and \(\epsilon\le\min(e^{-C M},1/8)\) for the absolute constant in the lemma.
+For each \(0<\eta\le1/4\) it supplies a function \(g\) within \(\epsilon+\eta\) of an integer linear combination of cosets of one subgroup.
+The sum of absolute coefficients of that combination is bounded in terms of \(M,\eta\) alone, and \(\|f-g\|_A\le\|f\|_A-1+\epsilon+\eta\).
+The same statement appears on p. 51 of the [published article](https://doi.org/10.1007/s00041-020-09732-y).
+Both editions print an integer codomain for \(f\) in Theorem 10.1, while Lemma 10.2 explicitly allows the near-integer input needed here.
+The [odd-grid application](../../../ledger/Yin_L_G0464_v7.md#rounding) uses the lemma at statement level and gives its own finite iteration.
+This inspection covers the convention and the stated input and output of the lemma, without an audit of its proof.

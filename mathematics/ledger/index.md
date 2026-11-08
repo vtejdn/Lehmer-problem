@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0464_v9](Yin_L_G0464_v9.md) | Sampling tails at a logarithmic cut in the full odd grid | Probability decay for light-tailed coefficient laws and the distinction from strict positive support at each radius. |
+| [Yin_L_G0464_v8](Yin_L_G0464_v8.md) | Integral realization and norm cost of cuts at conductors \(3^m\) | Every sign pattern, lower bounds for arbitrary integral remainders and the complete exterior cost of one positive unit scaling. |
+| [Yin_L_G0464_v7](Yin_L_G0464_v7.md) | Coefficient height and prefix length in the odd-grid shrinking shell | Escape of all fixed filtered heights and an explicit upper bound on the matching prefix at a prescribed cut. |
 | [Yin_L_G0464_v6](Yin_L_G0464_v6.md) | A resultant ceiling for nonunit inputs on the full odd trace grid | A quantitative upper bound for the normalized absolute resultant along any strict shrinking sequence. |
 | [Yin_L_G0464_v5](Yin_L_G0464_v5.md) | Cuts, prefixes and unit magnitudes on the odd-conductor trace grid | The only possible cut limit, five coefficient profiles, localization of the nonreal pair and the necessary number of negative poles. |
 | [Yin_L_G0464_v4](Yin_L_G0464_v4.md) | A moving rational cut and the cost of clearing its denominator | An integral family with one nonreal pair, its full measure and a degree cost for rational cuts. |
