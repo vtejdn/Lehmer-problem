@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0464_v12](Yin_L_G0464_v12.md) | From two prescribed residue moments to lower bounds for the entire lift | Layerwise third-moment bounds and exterior-root tests at 243, 729 and 2187. |
+| [Yin_L_G0464_v11](Yin_L_G0464_v11.md) | Integer endpoint and two-moment exclusions on the full three-power grid | Endpoints, layer costs and classification of fixed two-power norm orbits. |
+| [Yin_L_G0464_v10](Yin_L_G0464_v10.md) | Positive-unit squares and exact moment ellipsoids at powers of three | All positive units of the full order, exact lattice enumeration and finite-conductor probabilities. |
 | [Yin_L_G0464_v9](Yin_L_G0464_v9.md) | Sampling tails at a logarithmic cut in the full odd grid | Probability decay for light-tailed coefficient laws and the distinction from strict positive support at each radius. |
 | [Yin_L_G0464_v8](Yin_L_G0464_v8.md) | Integral realization and norm cost of cuts at conductors \(3^m\) | Every sign pattern, lower bounds for arbitrary integral remainders and the complete exterior cost of one positive unit scaling. |
 | [Yin_L_G0464_v7](Yin_L_G0464_v7.md) | Coefficient height and prefix length in the odd-grid shrinking shell | Escape of all fixed filtered heights and an explicit upper bound on the matching prefix at a prescribed cut. |
