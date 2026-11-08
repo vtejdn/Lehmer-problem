@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0464_v6](Yin_L_G0464_v6.md) | A resultant ceiling for nonunit inputs on the full odd trace grid | A quantitative upper bound for the normalized absolute resultant along any strict shrinking sequence. |
+| [Yin_L_G0464_v5](Yin_L_G0464_v5.md) | Cuts, prefixes and unit magnitudes on the odd-conductor trace grid | The only possible cut limit, five coefficient profiles, localization of the nonreal pair and the necessary number of negative poles. |
+| [Yin_L_G0464_v4](Yin_L_G0464_v4.md) | A moving rational cut and the cost of clearing its denominator | An integral family with one nonreal pair, its full measure and a degree cost for rational cuts. |
 | [Yin_L_G0464_v3](Yin_L_G0464_v3.md) | A fourth-root bound on agreement with a cyclotomic prefix | A neutral example, quadrature localization of the sign change and the first necessary differing coefficient. |
 | [Yin_L_G0464_v2](Yin_L_G0464_v2.md) | Rational limits for integer trace polynomials with a moving sign change | Cyclotomic prefix limits, purely atomic prefix laws and torsion traces as the only limiting cuts on the Chebyshev grid. |
 | [Yin_L_G0464_v1](Yin_L_G0464_v1.md) | Locating a nonreal trace pair relative to a moving residue sign change | Positive resolvent, endpoint mass, mesh width and two original coefficient tests. |

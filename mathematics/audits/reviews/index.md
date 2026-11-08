@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R1106 v6](Yin_R_G1106_v6.md#resultant-ceiling-review) checks the normalized resultant ceiling with its explicit constant and the conductor-19 calibration.
+- [R1106 v5](Yin_R_G1106_v5.md#shell-census-review) checks the all-height census, the unique degree-20 input and the two finite probability laws.
+- [R1106 v4](Yin_R_G1106_v4.md#odd-grid-review) checks the full odd-grid endpoint, five profiles, exceptional-pair constraint, prefix exclusion and growth of the negative block.
+- [R1106 v3](Yin_R_G1106_v3.md#rational-family-review) checks the moving rational construction, its whole exterior cost and the uniform numerator-degree obstruction.
+- [R1106 v2](Yin_R_G1106_v2.md#finite-prefix-review) checks the interior Chebyshev profiles and the explicit 2048-coefficient rigidity bound.
+- [R1106 v1](Yin_R_G1106_v1.md#chebyshev-shell-review) checks the five necessary limiting Chebyshev cuts and finite central determination.
 - [R1105 v5](Yin_R_G1105_v5.md#fourth-root-review) independently checks the neutral central control and the fourth-root limit on coefficient agreement.
 - R1105 v4 independently checks the [torsion-trace restriction on limiting cuts](Yin_R_G1105_v4.md#torsion-limit-review) and the [positive resolvent estimates](Yin_R_G1105_v4.md#positive-resolvent-review).
 - [R1105 v3](Yin_R_G1105_v3.md#prefix-rigidity-review) checks rational prefix limits, their cyclotomic form in a shrinking shell, the limit laws and the boundary phase.

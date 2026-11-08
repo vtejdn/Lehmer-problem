@@ -12,14 +12,17 @@ author: Yin
 
 **Current state.** Under the [2026-11-08 continuation](../tasks/Yin_T_G0001_v1.md#decision-resume-small-shell-2026-11-08), S4 resumes from paused to active; its child S8 remains paused.
 Prioritize integer constructions and discrete existence arguments that control the complete positive total Mahler measure.
-The next construction to test is a [moving sign transition on the original Chebyshev grid](../ledger/Yin_L_G0462_v2.md#moving-sign-test).
-Seek integral trace data with a nonreal pair in a fixed ellipse, then tighten its radius while keeping the sign and root-count conditions on those same data.
+On the odd trace grid, test integral remainders \(C\) in \(Q=(t-a)B+C\) with unit and nonunit resultants.
+The [complete census at three conductors](../computations/programs/Yin_J_G0147/readme.md#whole-shell) gives the finite calibration, including one nonunit input of measure between 1.18836814 and 1.18836815.
+Use the [left-endpoint localization](../ledger/Yin_L_G0464_v5.md#only-left-endpoint) to fix a candidate \(x\in\{-2,-1,0,1,2\}\), the associated first coefficients and \(a=2x\).
+Test cuts with negative-block length \(k=o(p)\) and \(\log k/\log p\to1\), for instance \(k=\lfloor p/\log p\rfloor\) at large \(p\), subject to the [resultant ceiling](../ledger/Yin_L_G0464_v6.md#norm-ceiling).
+The target on those same inputs is either a positive counting bound in successively smaller whole-measure shells or an explicit shrinking sequence.
 The [fixed-weight test](../claims/Yin_C_G0880_v2.md#moving-cut) excludes a fixed algebraic separator and quantifies how quickly a moving separator must escape it relative to the unsigned residue mass.
-On the original grid the [integer resultant and limiting phase](../ledger/Yin_L_G0464_v2.md#torsion-limits) force every limiting separator to be a trace of a root of unity.
-For the [explicit neutral comparison](../ledger/Yin_L_G0464_v3.md#central-control) a positive sequence shrinking to measure one must first differ at index little-o of the fourth root of the trace degree.
-The next construction test is a transition approaching the central trace through a growing number of grid gaps, with the first coefficient difference earlier than that scale and the full exterior cost still controlled.
+On the original Chebyshev grid the [five possible limiting cuts](../claims/Yin_C_G0881_v1.md#statement) and [interior profile list](../claims/Yin_C_G0881_v2.md#interior-list) constrain candidate coefficients.
+At trace degree at least 8192, [2048 central comparison coefficients](../claims/Yin_C_G0881_v2.md#finite-conclusion) already force whole measure one.
+The [moving rational family](../ledger/Yin_L_G0464_v4.md#variation-and-whole-measure) realizes a nonreal pair but its exterior measure diverges, and the [numerator-degree bound](../ledger/Yin_L_G0464_v4.md#numerator-degree-obstruction) restricts other rational-cut trials.
 Use the [mesh and resultant tests](../ledger/Yin_L_G0464_v1.md#moving-gap-mesh) when the two outstanding roots are nonreal.
-Independent checks cover the [prefix and phase argument](../audits/reviews/Yin_R_G1105_v3.md#prefix-rigidity-review), the [torsion-trace conclusion](../audits/reviews/Yin_R_G1105_v4.md#torsion-limit-review) and the [central-prefix scale](../audits/reviews/Yin_R_G1105_v5.md#fourth-root-review).
+Independent checks cover the [Chebyshev limit argument](../audits/reviews/Yin_R_G1106_v1.md#chebyshev-shell-review), the [finite prefix](../audits/reviews/Yin_R_G1106_v2.md#finite-prefix-review) and the [odd-grid restrictions](../audits/reviews/Yin_R_G1106_v4.md#odd-grid-review).
 The [whole-lift theorem](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) disposes of positive residues and bounded total variation, and the [weighted central test](../ledger/Yin_L_G0462_v2.md#central-sign-test) also excludes the stated transition at zero.
 The [fixed-template extension](../claims/Yin_C_G0879_v2.md#dyadic-application) rules out vanishing positive factors in the rotated dyadic family, independently of how it factors.
 The [eventual irreducibility theorem](../claims/Yin_C_G0877_v1.md#statement) excludes a sequence of factors of vanishing positive measure throughout the odd-prime square family.

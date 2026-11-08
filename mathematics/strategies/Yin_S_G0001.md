@@ -18,10 +18,13 @@ S1 and S4 resume from paused to active; the seven other routes keep their previo
 **Allocation.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess.
 The [conditional probability](../claims/Yin_C_G0870_v2.md#amplification) can already tend to one from one positive value; count new values below the supplied seeds before attributing a gain to this strategy.
 At a single degree the [irreducible comparison](../ledger/Yin_L_G0462_v3.md#different-measures-one-degree) produces many distinct measures near the plastic number; none of these approach one.
-In the one-transition model, use the [restriction on limiting cuts](../ledger/Yin_L_G0464_v2.md#torsion-limits) and the [fourth-root prefix test](../ledger/Yin_L_G0464_v3.md#fourth-root) to select the next integer construction, with support allowed to grow.
+The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
+Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
+For growing odd conductors, condition on an [admissible negative-block size](../ledger/Yin_L_G0464_v5.md#endpoint-index-exponent) and an [admissible resultant](../ledger/Yin_L_G0464_v6.md#norm-ceiling), then test the whole exterior cost of the same sampled input.
+At every shrinking radius the required conclusion is positive probability for an actual integral polynomial with strictly positive whole measure inside that radius.
 The human author permits limited positive exploration while shifting the main effort toward counterexamples; this does not retain the former broad proof campaign.
 S4 coordinates actual integer constructions and their complete positive total-measure return, using existing obstructions as filters rather than requiring new universal lower bounds.
-For the next counterexample construction, prioritize the [moving signed-residue test](../ledger/Yin_L_G0462_v2.md#moving-sign-test) under S4.
+S4 also retains the original moving signed-residue construction subject to the [five possible Chebyshev cuts and explicit prefix bound](../claims/Yin_C_G0881_v2.md#statement).
 The [positive-residue and bounded-variation gap](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) and the [central transition calculation](../ledger/Yin_L_G0462_v2.md#central-sign-test) specify which inputs to set aside.
 S9 retains a deferred joint-evaluation inquiry, to reconsider if the counterexample search supplies a specific new arithmetic structure on the same inputs.
 S2, S3, S5, S6, S7 and S8 are deferred, including the S2 child S7 and the S1 children S5 and S6; their evidence and unresolved questions remain available.

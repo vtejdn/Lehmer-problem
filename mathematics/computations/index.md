@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J147](programs/Yin_J_G0147/readme.md#whole-shell) counts every strict reciprocal input below \(6/5\) at degrees 14, 18 and 20, and identifies the unique chamber input at degree 20.
+- [J146](programs/Yin_J_G0146/readme.md#finite-shell) gives four different measures in a finite circular-unit law at conductor 13 and checks all integer shifts in four specified higher-conductor exponent boxes.
 - [Yin_J_G0145](programs/Yin_J_G0145/readme.md) excludes the four selected degrees at prime 8191 and degrees 656 and 658 at 13367 by exact endpoint tests with full modular coefficient checks.
 - [Yin_J_G0144](programs/Yin_J_G0144/readme.md) excludes the specified degree-64 trace configuration at every coefficient height, with fixed replayable certificates, and retains the degree-ten and degree-18 calibration cases.
 

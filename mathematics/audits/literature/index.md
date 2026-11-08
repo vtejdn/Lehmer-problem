@@ -58,6 +58,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Con26d](Con26d/readme.md) | [Yin_U001](Con26d/Yin_U001.md) |
 | [Con26e](Con26e/readme.md) | [Yin_U001](Con26e/Yin_U001.md) |
 | [DC23](DC23/readme.md) | [Yin_U001](DC23/Yin_U001.md) |
+| [DDK19](DDK19/readme.md) | [Yin_U001](DDK19/Yin_U001.md#sine-signatures) |
 | [DGB16](DGB16/readme.md) | [Yin_U001](DGB16/Yin_U001.md), [Yin_U002](DGB16/Yin_U002.md), [Yin_U003](DGB16/Yin_U003.md), [Yin_U004](DGB16/Yin_U004.md) |
 | [DGT20](DGT20/readme.md) | Source and edition notes |
 | [DJ20](DJ20/readme.md) | [Yin_U001](DJ20/Yin_U001.md) |
