@@ -178,7 +178,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-strategy-handoff-2026-11-07)
+[Selected decision](#decision-resume-small-shell-2026-11-08)
 
 ## Lifecycle and completion
 
@@ -584,6 +584,19 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | support | [Fixed template factors](../claims/Yin_C_G0879_v2.md#decision-general-template-whole) | Each positive divisor of the rotated dyadic family has a uniform positive floor. |
 | support | [Whole lifts with cyclotomic trace poles](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) | Positive residues and bounded signed total variation each imply a whole-output gap. |
 | support | [Moving sign test](../ledger/Yin_L_G0462_v2.md#moving-sign-test) | Bounded first tests and the remaining simultaneous construction problem. |
+
+### Decision resume-small-shell-2026-11-08
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-08T01:52 |
+| status | active |
+| authority | Yin explicitly requested continuation of G0001 after discussing probabilistic existence. |
+| reason | Resume the unrestricted objective with counterexample-first priority, seeking discrete positive mass in arbitrarily small strict Mahler shells and testing the moving trace construction under the shared weekly stop. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unrestricted Lehmer contract](#contract) | A uniform positive gap or a proof of arbitrarily small positive total measures, including nonconstructive existence. |
 
 ## Execution boundary
 
