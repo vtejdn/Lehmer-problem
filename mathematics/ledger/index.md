@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0464_v13](Yin_L_G0464_v13.md) | The full two-moment chamber at conductor 6561 for the negative-one profile | Cubic layer traces force three integer possibilities and conjugate-root ellipse bounds exclude the strict small shell in each. |
+| [Yin_L_G0462_v4](Yin_L_G0462_v4.md) | Quotients of nearby Salem numbers and the cost of their other conjugates | A two-field lower bound, the adjacent three-arm obstruction and the relative-degree test for radical quotients. |
 | [Yin_L_G0464_v12](Yin_L_G0464_v12.md) | From two prescribed residue moments to lower bounds for the entire lift | Layerwise third-moment bounds and exterior-root tests at 243, 729 and 2187. |
 | [Yin_L_G0464_v11](Yin_L_G0464_v11.md) | Integer endpoint and two-moment exclusions on the full three-power grid | Endpoints, layer costs and classification of fixed two-power norm orbits. |
 | [Yin_L_G0464_v10](Yin_L_G0464_v10.md) | Positive-unit squares and exact moment ellipsoids at powers of three | All positive units of the full order, exact lattice enumeration and finite-conductor probabilities. |

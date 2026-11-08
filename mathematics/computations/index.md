@@ -1,5 +1,6 @@
 # Computations Index
 
+- [J152](programs/Yin_J_G0152/readme.md#sparse-unit-sieve) screens fixed-norm unit adjustments at conductor 6561 for the exact \((3,4)\) moments and bounds the necessary variation across order-27 fibers.
 - [J151](programs/Yin_J_G0151/readme.md#complete-27) exhausts the fixed cut and norm at 27, computes both full trace lifts passing the two moments, and checks a third-moment obstruction at 243.
 - [J150](programs/Yin_J_G0150/readme.md#whole-measures) checks fixed-norm positive-unit boxes at 27, 81 and 243, including a separate cut with a strict positive-measure witness.
 - [J149](programs/Yin_J_G0149/readme.md#fixed-cut-census) completes all odd conductors 13 through 43 below \(13/10\) for the prescribed logarithmic cut, including a unique binary nonunit witness at 15.

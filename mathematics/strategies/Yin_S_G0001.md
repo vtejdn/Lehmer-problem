@@ -18,6 +18,8 @@ S1 and S4 resume from paused to active; the seven other routes keep their previo
 **Allocation.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess.
 The [conditional probability](../claims/Yin_C_G0870_v2.md#amplification) can already tend to one from one positive value; count new values below the supplied seeds before attributing a gain to this strategy.
 At a single degree the [irreducible comparison](../ledger/Yin_L_G0462_v3.md#different-measures-one-degree) produces many distinct measures near the plastic number; none of these approach one.
+The [Salem quotient test](../ledger/Yin_L_G0462_v4.md#adjacent-ratios) excludes quotients of the close three-arm seeds, including powers and root-of-unity twists, by counting the exterior conjugates over each fixed seed.
+For the [degree-aligned radical variant](../ledger/Yin_L_G0462_v4.md#aligned-radical-test), a shrinking sequence would require unbounded common root index and a relative degree of smaller order than that index.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
 The [prescribed-cut census](../computations/programs/Yin_J_G0149/readme.md#nonunit-atom) gives a binary atom of probability \(1/256\) at conductor 15, with nonunit resultant and two exterior roots.

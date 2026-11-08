@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R1107 v7](Yin_R_G1107_v7.md#whole-6561) checks the full third-moment and Mahler bounds on the conductor-6561 negative-one branch.
+- [R1107 v6](Yin_R_G1107_v6.md#sparse-sieve-review) records checks of the modular search, order-27 fiber estimates and the separate Salem-quotient investigation.
 - [R1107 v5](Yin_R_G1107_v5.md#claim-assembly) checks the full fixed two-moment theorem, the exterior costs at 243, 729 and 2187 and the two finite searches at 243.
 - [R1107 v4](Yin_R_G1107_v4.md#square-moment-review) checks the square representation, moment ellipsoid, endpoint sieve, full enumeration at 27, finite unit boxes at 27 and 81 and a third-moment obstruction at 243.
 - [R1107 v3](Yin_R_G1107_v3.md#three-power-review) checks the integer sign construction at powers of three, the norm restrictions and the complete cost of enforcing the endpoint.
