@@ -178,7 +178,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-pause-after-pole-round-2026-11-09)
+[Selected decision](#decision-resume-adaptive-sampling-2026-11-09)
 
 ## Lifecycle and completion
 
@@ -610,6 +610,20 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unchanged unrestricted contract](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total measures, including nonconstructive existence; unresolved and paused after the current round. |
+
+
+### Decision resume-adaptive-sampling-2026-11-09
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-09T17:24 |
+| status | active |
+| authority | Yin explicitly appointed this chat's agent as the main research agent and requested that G0001 be started as a goal and advanced. |
+| reason | Resume the unchanged unrestricted Lehmer objective with counterexample-first priority, initially implementing and testing S10's bounded adaptive-sampling comparison alongside S4's retained integer constructions. The shared weekly stopping threshold remains ninety-eight percent; stop on reaching it, loss of reliable monitoring or an account change. A finite experiment, improved example or conditional construction does not complete the Task. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unchanged unrestricted contract](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total measures, including nonconstructive existence, with unrestricted degree and coefficients. |
 
 ## Execution boundary
 

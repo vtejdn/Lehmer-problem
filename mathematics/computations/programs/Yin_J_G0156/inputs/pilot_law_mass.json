@@ -1,0 +1,155 @@
+{
+  "scope": "Post-run conditional target probabilities for all 15 completed adaptive runs; binary64 diagnostic, not experimental yield.",
+  "results": [
+    {
+      "source_journal": "pilot_d14_adaptive_s0.jsonl",
+      "degree": 14,
+      "seed": 0,
+      "updates_replayed": 171,
+      "initial_target_mass_approx": 0.0006508394870701001,
+      "final_target_mass_approx": 1.616488221787866e-05,
+      "final_to_initial_ratio_approx": 0.024836972155221404,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d14_adaptive_s1.jsonl",
+      "degree": 14,
+      "seed": 1,
+      "updates_replayed": 247,
+      "initial_target_mass_approx": 0.0006508394870701001,
+      "final_target_mass_approx": 2.0935667643488426e-05,
+      "final_to_initial_ratio_approx": 0.03216717494775098,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d14_adaptive_s2.jsonl",
+      "degree": 14,
+      "seed": 2,
+      "updates_replayed": 264,
+      "initial_target_mass_approx": 0.0006508394870701001,
+      "final_target_mass_approx": 2.0179263475951585e-05,
+      "final_to_initial_ratio_approx": 0.031004977228399375,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d14_adaptive_s3.jsonl",
+      "degree": 14,
+      "seed": 3,
+      "updates_replayed": 228,
+      "initial_target_mass_approx": 0.0006508394870701001,
+      "final_target_mass_approx": 2.3060093777985942e-05,
+      "final_to_initial_ratio_approx": 0.03543130715961339,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d14_adaptive_s4.jsonl",
+      "degree": 14,
+      "seed": 4,
+      "updates_replayed": 180,
+      "initial_target_mass_approx": 0.0006508394870701001,
+      "final_target_mass_approx": 1.7408151312802694e-05,
+      "final_to_initial_ratio_approx": 0.02674722671048954,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d18_adaptive_s0.jsonl",
+      "degree": 18,
+      "seed": 0,
+      "updates_replayed": 138,
+      "initial_target_mass_approx": 0.00010563130048024217,
+      "final_target_mass_approx": 1.2387871099126865e-06,
+      "final_to_initial_ratio_approx": 0.01172746244986727,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d18_adaptive_s1.jsonl",
+      "degree": 18,
+      "seed": 1,
+      "updates_replayed": 142,
+      "initial_target_mass_approx": 0.00010563130048024217,
+      "final_target_mass_approx": 1.436586664399458e-06,
+      "final_to_initial_ratio_approx": 0.013600009257371252,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d18_adaptive_s2.jsonl",
+      "degree": 18,
+      "seed": 2,
+      "updates_replayed": 104,
+      "initial_target_mass_approx": 0.00010563130048024217,
+      "final_target_mass_approx": 1.174304204903135e-06,
+      "final_to_initial_ratio_approx": 0.011117009821561205,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d18_adaptive_s3.jsonl",
+      "degree": 18,
+      "seed": 3,
+      "updates_replayed": 133,
+      "initial_target_mass_approx": 0.00010563130048024217,
+      "final_target_mass_approx": 1.203185867224807e-06,
+      "final_to_initial_ratio_approx": 0.01139042936851712,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d18_adaptive_s4.jsonl",
+      "degree": 18,
+      "seed": 4,
+      "updates_replayed": 158,
+      "initial_target_mass_approx": 0.00010563130048024217,
+      "final_target_mass_approx": 1.1938289207250174e-06,
+      "final_to_initial_ratio_approx": 0.011301848176604788,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d20_adaptive_s0.jsonl",
+      "degree": 20,
+      "seed": 0,
+      "updates_replayed": 116,
+      "initial_target_mass_approx": 5.53794340640857e-05,
+      "final_target_mass_approx": 2.436579636266e-07,
+      "final_to_initial_ratio_approx": 0.00439979150643967,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d20_adaptive_s1.jsonl",
+      "degree": 20,
+      "seed": 1,
+      "updates_replayed": 148,
+      "initial_target_mass_approx": 5.53794340640857e-05,
+      "final_target_mass_approx": 2.3778829675709655e-07,
+      "final_to_initial_ratio_approx": 0.004293801494647368,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d20_adaptive_s2.jsonl",
+      "degree": 20,
+      "seed": 2,
+      "updates_replayed": 146,
+      "initial_target_mass_approx": 5.53794340640857e-05,
+      "final_target_mass_approx": 2.4329719605195526e-07,
+      "final_to_initial_ratio_approx": 0.00439327703801395,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d20_adaptive_s3.jsonl",
+      "degree": 20,
+      "seed": 3,
+      "updates_replayed": 146,
+      "initial_target_mass_approx": 5.53794340640857e-05,
+      "final_target_mass_approx": 2.4923047665066434e-07,
+      "final_to_initial_ratio_approx": 0.004500415738489708,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    },
+    {
+      "source_journal": "pilot_d20_adaptive_s4.jsonl",
+      "degree": 20,
+      "seed": 4,
+      "updates_replayed": 149,
+      "initial_target_mass_approx": 5.53794340640857e-05,
+      "final_target_mass_approx": 2.6578612076062606e-07,
+      "final_to_initial_ratio_approx": 0.004799365057668437,
+      "interpretation": "Post-run approximate probability of a whole-polynomial target under the current law; not distinct-value yield, training data or a uniform-population estimate."
+    }
+  ]
+}

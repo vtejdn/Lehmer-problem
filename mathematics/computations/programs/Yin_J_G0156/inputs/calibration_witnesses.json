@@ -1,0 +1,12 @@
+{
+  "protocol": "S10-first-experiment",
+  "source_label": "degree-14 implementation calibration; not pilot data",
+  "purpose": "Exact input for separate full-measure replay; never used by a sampler.",
+  "witnesses": [
+    {
+      "coefficients_ascending": [1, 0, -1, 2, 0, -1, 1, 0, 1, -1, 0, 2, -1, 0, 1],
+      "roles": ["known Lehmer-value recovery"],
+      "origin": {"degree": 14, "arm": "adaptive", "seed": 0, "proposal": 3028}
+    }
+  ]
+}

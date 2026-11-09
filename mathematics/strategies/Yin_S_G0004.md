@@ -10,9 +10,18 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state.** S4 and its child routes remain paused under Yin's [instruction to finish this round and pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-pole-round-2026-11-09).
-The following continuation points require an explicit resumption before further exploration or review.
-The [adaptive integer sampling child S10](Yin_S_G0010.md#route) owns distribution updates, search-efficiency metrics and a [first comparison of three sampling laws](Yin_S_G0010.md#first-experiment), prepared at Yin's request while research remains paused.
+**Current state.** S4 and its adaptive-sampling child S10 are active under Yin's [explicit G0001 resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-sampling-2026-11-09); S8 remains paused.
+The [adaptive integer sampling child S10](Yin_S_G0010.md#route) owns distribution updates, search-efficiency metrics and the [first comparison of three sampling laws](Yin_S_G0010.md#first-experiment).
+The [independently reviewed central-deformation classification](../claims/Yin_C_G0884_v1.md#decision-central-deformation-reviewed) closes the retained fixed-coefficient first test: its only strict sign inputs are the conductor-9 and conductor-11 cases at length 3.
+The [complete positive-integer-amplitude classification](../claims/Yin_C_G0884_v2.md#decision-positive-amplitudes-reviewed) now leaves exactly those two inputs even when the amplitude grows.
+The [independently reviewed signed-amplitude theorem](../claims/Yin_C_G0884_v3.md#decision-signed-amplitudes-reviewed) closes the entire single-term family, with arbitrary signed amplitude and all permitted conductors.
+Its only integer sign-and-endpoint inputs are the same conductor-9 and conductor-11 cases, so further amplitude or conductor enlargement in that family is not selected.
+Their [complete certified measures](../computations/programs/Yin_J_G0157/readme.md#survivor-measures) lie respectively in \((2.853749309,2.853749310)\) and \((2.759883858,2.759883859)\), so neither retained chamber input reaches the \(6/5\) target.
+The [complete signed finite test](../computations/programs/Yin_J_G0157/readme.md#results) remains separate reproducible evidence through conductor 101; the unrestricted family theorem is analytic.
+The [independently checked adjacent-term investigation](../ledger/Yin_L_G0464_v19.md#complete-lift) gives a cyclotomic multiple with at most twenty nonzero terms and unchanged complete measure.
+Its [general fixed-term extension](../ledger/Yin_L_G0464_v19.md#fixed-number-of-terms) has at most \(12+4K\) terms for \(K\) central perturbations, so the accepted fixed-support theorem prevents positive measures tending to one for any fixed \(K\), with no degree or amplitude bound.
+This supplies no effective exclusion of the finite \(6/5\) target.
+Further fixed-term enlargement is not selected as a shrinking-measure mechanism; an actual completion with unbounded support and simultaneous integer signs, endpoint and nonneutrality is the remaining construction obligation.
 S4 retains integer constructions, structural exclusions and the separate obligation to obtain positive mass in arbitrarily small strict shells.
 S10 returns certified candidates and observed features to that work; its finite performance comparison supplies no arbitrary-radius existence conclusion.
 Prioritize integer constructions and discrete existence arguments that control the complete positive total Mahler measure.
@@ -53,11 +62,14 @@ The [adopted integer-pole theorem](../claims/Yin_C_G0882_v10.md#decision-fixed-p
 Its strict residual-pair inequality closes the remaining 71 cells and excludes \(1<M(P)\le101/100\) for \((10,18,27)\), while leaving the measure-one case unresolved.
 The four remaining positive-shell triples are \((11,20,33),(11,20,34),(11,21,36),(11,21,37)\).
 At the forced atom, the [four residual-matrix forms](../ledger/Yin_L_G0464_v17.md#joint-remainder-test) remain positive definite and the [five inherited scalar minima](../ledger/Yin_L_G0464_v17.md#conditional-layer-cost) do not increase.
-The next S4 test after explicit resumption is the joint fixed-pole and root-geometry constraint for those four triples, preserving original integer realization as a separate obligation.
+The four triples remain available for a later joint fixed-pole and root-geometry test; that calculation is not selected while the current allocation evaluates the candidate-generating laws.
 Agent-S's [exact simple-root atom and central deformation](../ledger/Yin_L_G0462_v12.md#central-deformation) provide a separate integer supply mechanism.
-Its [unperformed growing-degree test](../ledger/Yin_L_G0462_v12.md#first-test) must first preserve a unique terminal negative block; the finite probability \(1/25\) establishes no arbitrary-radius conclusion.
+Its [fixed-coefficient growing-degree test](../claims/Yin_C_G0884_v1.md#statement) is now excluded at every length at least four; the original finite probability \(1/25\) establishes no arbitrary-radius conclusion.
 These fixed-conductor certificates do not settle the growing-conductor route.
 Prioritize a concrete source of new integer inputs and its exact joint moment support before extending the conductor table again.
+The [bounded positive-unit-class comparison](../ledger/Yin_L_G0464_v18.md#arithmetic-bridge) identifies full-order nonsquare units as an exploratory arithmetic possibility, but supplies no developed new completion mechanism.
+Its summed ellipsoid-volume bound remains compatible with exceptional integer vectors and gives no positive count.
+No broader nonternary unit campaign is selected without an actual full-order class and a concrete short-vector or prefix-completion mechanism.
 The [moving linear cut times an arbitrary integer square](../claims/Yin_C_G0880_v3.md#decision-moving-linear-square-gap) has a uniform whole-measure gap, so dropping the unit restriction through that factor does not supply shrinking shells.
 The initial construction uses the [one- and two-filter Galois law](../ledger/Yin_L_G0462_v6.md#galois-filter-law) on slow cuts with representative norm 32 in the initial window.
 Its [exact joint-support test](../computations/programs/Yin_J_G0154/readme.md) uses conductors 27, 81, 243 and 729, every allowed Galois index and every pair, retaining labelled multiplicities.
@@ -321,7 +333,7 @@ This is preparation for a future explicitly authorized resumption.
 
 | Field | Value |
 | --- | --- |
-| disposition | paused |
+| disposition | active |
 | priority | Coordinate moving-sign integer constructions and adaptive sampling; test full exterior cost and positive mass in shrinking shells. |
 
 The current [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) puts counterexample construction first and reserves a small positive effort for S9.

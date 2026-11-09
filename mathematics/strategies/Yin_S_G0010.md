@@ -14,14 +14,13 @@ author: Yin
 
 | Field | Value |
 | --- | --- |
-| disposition | paused |
-| priority | After explicit resumption, compare uniform, fixed-biased and adaptive integer sampling at equal cost, prioritizing distinct certified measures in \(1<M<6/5\). |
+| disposition | active |
+| priority | Test reduced pair-prior strength in a separate small live comparison, retaining full-measure certification and the fixed-biased baseline. |
 | parent | [Arithmetic constructions](Yin_S_G0004.md#route) |
 
-Yin requested this child strategy, its evaluation criteria and first controlled experiment while explicitly keeping research paused.
-This document prepares that experiment; implementation, sampling and new mathematical investigation have not begun.
-The [current Task pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-pole-round-2026-11-09) and the existing stopped execution boundary remain in force.
-Execution requires an explicit human resumption and its applicable resource limits.
+The [explicit G0001 resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-sampling-2026-11-09) selects implementation and execution of this bounded comparison under the main research agent.
+The first protocol below was prepared while research was paused and has now been completed without changing its sampling laws.
+The existing Task limits continue to govern the work.
 
 <a id="question"></a>
 ## Question and contribution
@@ -75,7 +74,7 @@ No improvement in average \(\log M(P)/\deg P\), maximum root radius or moment fi
 <a id="first-experiment"></a>
 ## First controlled experiment
 
-The following is an unrun pilot specification.
+The following is the frozen first-pilot specification.
 Its finite scope calibrates search performance in degrees with existing reference data; it is not a new exhaustive search or an attempt to evade those degree results.
 
 ### Common integer space and evaluation
@@ -146,9 +145,12 @@ Different sampling laws have different hit probabilities; estimating a probabili
 <a id="decision-conditions"></a>
 ## Continuation and redirection
 
-After explicit resumption, first implement and check the common evaluator and these three laws in a J group, then execute the bounded comparison.
-Retain the native program, seeds, exact discoveries and costs at that responsible computation home.
-This strategy records no experiment result.
+The [J156 evaluator and sampling laws](../computations/programs/Yin_J_G0156/readme.md) have been implemented and checked, including complete measure certification and failed-run accounting.
+The [completed frozen comparison](../computations/programs/Yin_J_G0156/readme.md#pilot-results) contains all 45 valid runs; J156 owns the native program, exact discoveries, costs and retained observations.
+Its exact offline probabilities for the two fixed laws are separate calibration evidence and do not train the adaptive arm.
+The adaptive arm won against both baselines in zero of five matched seeds at each held-out degree, losing to a baseline in four seeds at degree 18 and two at degree 20.
+It fails the continuation screen below, so the original law is not enlarged in degree or runtime.
+Every whole-polynomial hit below \(6/5\) recovered the known Lehmer value.
 
 Continue bounded validation when the adaptive arm improves distinct-value discovery below \(6/5\) against both baselines in at least four of the five matched seeds at a held-out degree, without a corresponding loss at the other held-out degree.
 This is a screening rule for resource allocation, not a statistical significance theorem.
@@ -159,3 +161,26 @@ When gain comes mainly from neutral outputs, repeated cores or certification bac
 When all methods have zero target hits, report the comparison as inconclusive at the stated budget; it establishes no absence of integer candidates.
 Evidence for a finite gain does not justify an arbitrary-radius positive-probability claim.
 S4 retains that separate integer-existence obligation and decides whether a discovered feature supports a new construction or count.
+
+<a id="prior-strength-follow-up"></a>
+## Prior-strength mechanism and next bounded live control
+
+The [pair-prior calculation](../computations/programs/Yin_J_G0156/readme.md#prior-dilution) proves that the original 81 pseudocounts force the pair's expected absolute coefficient sum above its initial value, regardless of the elite data.
+That coefficient statement is not a Mahler-measure probability theorem.
+The separate [exact fixed-elite control](../computations/programs/Yin_J_G0156/readme.md#prior-strength-control) has now been executed on the 13 calibration batches.
+Changing only the pair total pseudocount from 81 to 1 raises final target mass from 0.1171515 to 1.5507105 times its initial value on that same recorded path.
+This identifies a useful mechanism change, while alternative live proposals and elite sets remain untested.
+
+The main agent's next discriminating investigation is a separately labelled live control at degree 14, with new seeds 5 through 9 and three arms: the fixed bias, the unchanged original adaptive law O, and the reduced-strength adaptive law A.
+For A, a pair frequency is \((c(s)+1/81)/(m+1)\); singleton pseudocounts remain one per state, and all other laws, batch rules, precision, certification, caching and duplicate conventions stay as in the first pilot.
+Use 10 seconds per run on one worker, arms serially rotated by seed, for a total experimental ceiling of 150 seconds.
+The separate implementation must preserve the frozen first-pilot source and identify its changed law explicitly.
+This next live control is specified but has not been implemented or run.
+
+Retain all five seed outcomes and the same primary target count and first-hit censoring conventions.
+Before increasing its scope, require A to avoid a loss to the fixed arm in target count in at least four seeds, and to improve on O in at least four seeds either by a higher target count or, at equal positive target count, by an earlier first hit.
+These are allocation screens for this small reused benchmark, not significance tests or claims about unknown degrees.
+If either screen fails, retain the result and reassess the model or feedback before another prior-parameter trial.
+The comparison returns to the main agent after all 15 runs or any execution stop; unfinished runs cannot establish a passing result.
+Degree 14 is reused calibration data, and any later degree-18/20 evaluation is likewise a reused benchmark rather than a new unseen held-out test.
+The fixed-elite control and this next live comparison remain separate from the original 45-run pilot.
