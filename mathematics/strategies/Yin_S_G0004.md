@@ -31,7 +31,10 @@ The old \(N=8\) quartic certificate [fails on this cut](../claims/Yin_C_G0882_v3
 Higher integer moments now give [\(M(P)>5/4\) for every \(x=2,N=14\) input](../claims/Yin_C_G0882_v4.md#decision-fourth-moment-whole-19683), using every allowed endpoint and the full fixed-norm valuation set.
 The [negative-one certificate](../claims/Yin_C_G0882_v5.md#decision-negative-one-higher-19683) gives \(M(P)>23/20\) for every \(N=8\) input, without additional moment matching.
 Thus both surviving third-moment matches have strict full-measure floors at this conductor, while the stronger \(6561\) threshold is still unresolved for the negative-one match.
-The unmatched \(N=7\) branch is reduced to 18 necessary higher-moment triples and retains an unresolved full-measure estimate.
+The unmatched \(N=7\) branch now has [thirteen complete-measure exclusions among its eighteen necessary triples](../claims/Yin_C_G0882_v6.md#decision-negative-one-seven-whole-19683).
+Eleven have \(M>26/25\) and two have \(M>101/100\), leaving only \((10,18,27),(11,20,33),(11,20,34),(11,21,36),(11,21,37)\) when \(M\le101/100\).
+Exact [positive-mass and fractional-occupancy models](../claims/Yin_C_G0882_v6.md#relaxation-barrier) show that no real test polynomial of degree at most seven separates those five triples through the present negative-variation and twice-maximum interface.
+The next bounded comparison restores two exceptional trace atoms, each of mass one, before spending further effort on this interface; neither model feasibility nor a failed numerical test decides original integral realizability.
 These fixed-conductor certificates do not settle the growing-conductor route.
 Prioritize a concrete source of new integer inputs and its exact joint moment support before extending the conductor table again.
 The [moving linear cut times an arbitrary integer square](../claims/Yin_C_G0880_v3.md#decision-moving-linear-square-gap) has a uniform whole-measure gap, so dropping the unit restriction through that factor does not supply shrinking shells.
@@ -41,17 +44,26 @@ Only actual two-moment hits proceed to endpoint and complete-root certification.
 That full baseline support misses the targets; the following controls examine magnitudes and square classes before enlarging the window.
 The [balanced-base control](../computations/programs/Yin_J_G0154/balanced.md) reuses the existing strict conductor-27 input and reduces the conductor-81 energy to 11, but neither final base supplies a joint moment hit under the stated filters.
 At the conductor-81 base, all [2813 radius-two unit labels](../computations/programs/Yin_J_G0154/unit_ball.md#results) also miss the targets, including the 20 labels at energies 17 and 34.
-The [40-dimensional integer-square search](../computations/programs/Yin_J_G0154/low_energy_shell.md#partial-result) includes arbitrary integer square multipliers, but its energy-at-most-six traversal is incomplete at one million nodes.
-Its four encountered classes do not match a target, and no emptiness conclusion follows for the remaining search.
+The earlier [40-dimensional integer-square prefix](../computations/programs/Yin_J_G0154/low_energy_shell.md#partial-result) remains an incomplete one-million-node run.
+Its larger [complete energy-six successor](../computations/programs/Yin_J_G0154/energy_six.md#complete-result) now covers every integer square multiplier in each of three fixed classes.
 The [separate energy-one and energy-two ball](../computations/programs/Yin_J_G0154/two_energy_shell.md#scope) is now complete after 2084 nodes and has no nonzero vector, with [independent review](../audits/reviews/Yin_R_G1107_v12.md#two-energy-review).
 This excludes the \(x=1,2\) targets throughout the fixed base's integer-square domain, including nonunits; it does not cover every sign-compatible input.
 The [signed-unit construction](../ledger/Yin_L_G0462_v7.md#signed-unit-rectification) changes the square class while preserving the cut and controlling the resultant.
 Its [first single-filter control](../computations/programs/Yin_J_G0154/nonsquare_control.md#complete-result) also completely excludes energies one and two, now for the norm-5216 base and every integer square multiplier of it.
-This 895-node result concerns only \(p=81,k=9,a=1\), leaving the energy-six target and the other new square classes unresolved.
+This 895-node result concerns only \(p=81,k=9,a=1\).
 The single seed cannot be rectified by a unit from layer six onward, whereas [paired rectification](../ledger/Yin_L_G0462_v7.md#paired-filter-supply) supplies integral positive multipliers at every \(3^m\), with norm root tending to \(\mu^2\) inside the necessary budget.
-Select the already certified conductor-81 pair \((1,2)\) as the next bounded test: reconstruct its norm-850208 base, verify its positive Gram form, and traverse only energies one and two under the same 5,000,000-node or 120-second limit.
-An actual joint hit must still pass the nonzero resultant, strict endpoint and complete Mahler test; incomplete traversal supplies no exclusion.
-Do not enlarge the conductor or Galois window before assessing this paired control.
+The [fixed paired control](../computations/programs/Yin_J_G0154/paired_control.md#complete-result) completes those same two energies after 862 nodes.
+The subsequent three energy-six balls all complete: the original class has six nonzero sign-pairs, the single class one, and the paired class none.
+Only the single vector meets \((K,L)=(2,0)\), with unit multiplier and \(P(-1)=-104\).
+Its [complete diagnostic](../computations/programs/Yin_J_G0154/candidate_diagnostic.md#full-measure) gives \(M(P)=3.722425522937468\ldots\), unchanged after removing its sole cyclotomic factor.
+The [independent checks](../audits/reviews/Yin_R_G1107_v17.md#energy-six-review) cover the three complete balls and separately bind the full-measure calculation to that exact candidate.
+Agent-S's [joint local analysis](../ledger/Yin_L_G0462_v8.md#odd-prime-count) removes every odd-prime moment obstruction for all paired labels at 81.
+The [exact mod-eight computation](../computations/programs/Yin_J_G0154/dyadic_support.md#real-and-global-boundary) completes real and local feasibility for the fixed pair, even though its three targets at energies one, two and six have no integer solution.
+Thus another finite-prime sieve cannot supply the missing integer count in this class.
+Prioritize a direct search in the full affine integer coefficient lattice of \(h\), retaining the two moments and strict endpoint but allowing different square classes.
+A numerical mixed-integer solver may propose actual inputs; absence of a proposal gives no complete exclusion without exact coverage evidence.
+Every proposed input still needs exact integer moments, certified grid signs, its full resultant and complete Mahler measure.
+An arbitrary-radius existence argument still needs a positive count on the actual integer law; the [local-density, discrete-mean and marked-genus boundaries](../ledger/Yin_L_G0462_v8.md#actual-label-average) identify what remains missing.
 An arbitrary-radius probability proof requires nonempty strict whole-measure shells at unbounded conductors; the [finite exponent-box probability](../ledger/Yin_L_G0464_v10.md#whole-measure-and-probability) alone supplies no such lower count.
 The [positive unit that enforces the endpoint](../ledger/Yin_L_G0464_v8.md#small-norm-terminal-block) sends the measure to infinity, while [every fixed filtered height](../ledger/Yin_L_G0464_v7.md#height-escape) must grow faster than each fixed power of \(\log p\) at this cut.
 The target on those same inputs is either a positive counting bound in successively smaller whole-measure shells or an explicit shrinking sequence.

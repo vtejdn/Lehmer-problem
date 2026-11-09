@@ -1,5 +1,12 @@
 # Reviews Index
 
+- [R1107 v18](Yin_R_G1107_v18.md#local-moment-review) independently checks the all-label odd-prime moment argument and the discrete-count and genus boundaries.
+  Its [fixed-pair dyadic finding](Yin_R_G1107_v18.md#dyadic-support-review) checks the complete mod-eight counts, lifting, real feasibility and separate integer obstruction.
+- [R1107 v17](Yin_R_G1107_v17.md#energy-six-review) independently checks all three complete energy-six balls and the unique failed endpoint.
+  Its [separate diagnostic finding](Yin_R_G1107_v17.md#candidate-diagnostic-review) binds the exact candidate to its complete factorization and all-root Mahler enclosure.
+- [R1107 v16](Yin_R_G1107_v16.md#negative-one-seven-review) independently checks the thirteen N=7 complete-measure certificates and the five exact residual degree-seven models.
+  Its [complete-assembly finding](Yin_R_G1107_v16.md#negative-one-seven-assembly) separately checks C882v6's statement, full argument and exact dependencies.
+- [R1107 v15](Yin_R_G1107_v15.md#paired-control-review) independently checks the fixed paired input and its complete two-energy exclusion.
 - [R1107 v14](Yin_R_G1107_v14.md#nonsquare-control-review) independently checks the rectified single-filter input and the complete energy-one and energy-two exclusion in its fixed new square-multiple family.
 - [R1107 v13](Yin_R_G1107_v13.md#signed-filter-review) independently checks signed-unit rectification, the all-conductor paired supply, both native nonsquare inputs and the zero-component overlap boundary.
 - [R1107 v12](Yin_R_G1107_v12.md#unit-ball-review) independently checks the complete 2813-label conductor-81 unit window.

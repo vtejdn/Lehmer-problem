@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v8](Yin_L_G0462_v8.md) | Joint local moments and the remaining global probability gap | All odd-prime joint support for the paired family, an exact dyadic lifting threshold, and the discrete count and marked-genus transfer boundaries. |
 | [Yin_L_G0462_v7](Yin_L_G0462_v7.md) | Positive nonsquare multipliers from signed-unit rectification | Two norm-cost obstructions, actual new square classes, the single-filter parity boundary and paired integer supply at all ternary conductors. |
 | [Yin_L_G0462_v6](Yin_L_G0462_v6.md) | Integer residuals, exact factor diagnostics and Galois-permuted nonunit filters | Moving linear-factor obstruction, reciprocal core diagnostics and an exact integer supply law with one- and two-filter norm budgets. |
 | [Yin_L_G0464_v13](Yin_L_G0464_v13.md) | The full two-moment chamber at conductor 6561 for the negative-one profile | Cubic layer traces force three integer possibilities and conjugate-root ellipse bounds exclude the strict small shell in each. |

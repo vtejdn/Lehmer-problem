@@ -33,14 +33,22 @@ The initial [exact support test](../computations/programs/Yin_J_G0154/readme.md)
 It does not infer positive small-shell probability from the norm budget or from a continuous approximation.
 The [balanced-base control](../computations/programs/Yin_J_G0154/balanced.md#filtered-results) still finds no filter hit, despite reducing the conductor-81 positive energy to 11.
 The [complete two-step unit window](../computations/programs/Yin_J_G0154/unit_ball.md#results) also misses all five moment targets.
-The [integer-square search](../computations/programs/Yin_J_G0154/low_energy_shell.md#partial-result) has a certified positive form but stopped at its node cap, leaving the unvisited low-energy vectors unresolved.
+The earlier [integer-square prefix](../computations/programs/Yin_J_G0154/low_energy_shell.md#partial-result) stopped at its node cap.
 The [separate complete smaller ball](../computations/programs/Yin_J_G0154/two_energy_shell.md#scope) excludes both energies one and two for every integer square multiplier of this fixed base, including nonunits.
-The energy-six target remains unresolved.
+The [three complete energy-six balls](../computations/programs/Yin_J_G0154/energy_six.md#complete-result) now extend the actual coverage in the original, single-filter and paired-filter classes.
 Agent-S's [signed-unit rectification](../ledger/Yin_L_G0462_v7.md#signed-unit-rectification) now supplies positive multipliers outside those integer squares.
 One unsquared filter has a permanent layer-parity obstruction from \(3^6\) onward; a [pair of filters](../ledger/Yin_L_G0462_v7.md#paired-filter-supply) removes that obstruction at every ternary conductor and has limiting norm root \(\mu^2\) within the existing necessary budget.
 The [first conductor-81 single-filter control](../computations/programs/Yin_J_G0154/nonsquare_control.md#complete-result) exhausts its energy-one and energy-two ball after 895 nodes, again with no nonzero vector.
-The current arithmetic allocation selects the already constructed paired input \((1,2)\) at conductor 81 for the next bounded two-energy test, before any wider Galois or conductor scan.
-Neither the new square class nor the all-conductor integer supply proves a positive count in arbitrarily small strict Mahler shells.
+The [paired two-energy test](../computations/programs/Yin_J_G0154/paired_control.md#complete-result) also finishes with no nonzero vector.
+At energy six the three complete balls contain respectively six, one and zero sign-pairs.
+Only the single-filter vector meets both target moments; it fails the endpoint, and its [complete measure](../computations/programs/Yin_J_G0154/candidate_diagnostic.md#full-measure) is about 3.722425522937468.
+Agent-S's [local-support analysis](../ledger/Yin_L_G0462_v8.md#odd-prime-count) and the [fixed-pair dyadic certificate](../computations/programs/Yin_J_G0154/dyadic_support.md#real-and-global-boundary) give real and all-prime moment solutions alongside three global integer exclusions.
+They expose the actual integer-count step rather than establish a positive original Mahler probability.
+The next arithmetic allocation tests the full affine integer coefficient lattice of \(h\), preserving the two moments and strict endpoint while admitting square classes outside the tested families.
+Numerical proposals must be checked exactly and by complete-root measure; numerical failure alone is not an exclusion.
+At conductor 19683, [C882v6](../claims/Yin_C_G0882_v6.md#decision-negative-one-seven-whole-19683) leaves five N=7 triples below \(101/100\) and proves that the present degree-seven relaxed interface cannot separate them.
+A bounded two-unit-atom comparison tests whether restoring that discarded root structure changes the conclusion.
+Neither these finite controls nor the all-conductor filter supply proves a positive count in arbitrarily small strict Mahler shells.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
 The [prescribed-cut census](../computations/programs/Yin_J_G0149/readme.md#nonunit-atom) gives a binary atom of probability \(1/256\) at conductor 15, with nonunit resultant and two exterior roots.

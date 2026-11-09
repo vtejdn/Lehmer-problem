@@ -126,8 +126,14 @@ Five fixed integer Chebyshev polynomials and rational Bernstein enclosures on 10
 Their strict certificate margins exceed respectively 6544, 2562, 53, 386 and 11815.
 The [independent negative-one finding](../../../audits/reviews/Yin_R_G1107_v10.md#negative-one-higher-19683) checks the complete argument and reproduces these bounds by separate rational interpolation and subdivision.
 The exact pole bracket is \(-161/100<b_{7851}<-1006/625\), checked by the recurrence's respective counts 7851 and 7850.
-For \(N=7\), the program retains the [necessary 18 triples](../../../claims/Yin_C_G0882_v5.md#statement) of \(O,V,W=\sum b^5r\), with no assertion of realization or a complete-measure gap for that branch.
+For \(N=7\), that program retains the [necessary 18 triples](../../../claims/Yin_C_G0882_v5.md#statement) of \(O,V,W=\sum b^5r\), without asserting realization.
 The positive weight \((b-y)(b-1)^2(b-2)^2r\) has the normalized bound \(593881/656100\) at the specified norm.
+
+The subsequent [degree-seven certificate set](negative_one_seven.md#full-measure-certificates) proves \(M(P)>26/25\) for eleven of the eighteen triples and \(M(P)>101/100\) for two more.
+The [five remaining triples](negative_one_seven.md#exact-relaxed-models) admit exact positive-mass and fractional-occupancy models throughout the certified cut interval.
+They rule out a positive margin from the stated degree-seven negative-variation and twice-maximum interface, without constructing an original integral polynomial.
+The [independent finding](../../../audits/reviews/Yin_R_G1107_v16.md#negative-one-seven-review) reproduces all thirteen rational margins and forty exact model systems by separate methods.
+The [complete C882v6 statement and argument](../../../claims/Yin_C_G0882_v6.md#statement) retain this thirteen/five partition and the exact method boundary.
 
 Both default programs completed using only standard-library integer and rational arithmetic.
 The negative-one program's optional `--explore` mode uses sampled SciPy linear programs to propose coefficients, but is not called by the fixed certificate path and supplies no proof.
@@ -147,6 +153,7 @@ python -B mathematics/computations/programs/Yin_J_G0151/conductor19683.py
 python -B mathematics/computations/programs/Yin_J_G0151/exterior19683.py
 python -B mathematics/computations/programs/Yin_J_G0151/higher_moments19683.py
 python -B mathematics/computations/programs/Yin_J_G0151/negative_one_higher.py
+python -B mathematics/computations/programs/Yin_J_G0151/negative_one_seven.py
 ~~~
 
 The raw shell interface also accepts the five profiles at 81 and 243 with separators \(-1/3\) and \(-5/6\), respectively, at the original representative.

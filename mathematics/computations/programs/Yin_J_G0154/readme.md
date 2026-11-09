@@ -159,4 +159,14 @@ The [signed-unit rectifiers](signed_filters.md#scope) supply two positive nonsqu
 Their [independent arithmetic finding](../../../audits/reviews/Yin_R_G1107_v13.md#signed-filter-review) checks both actual constructions and the general paired-supply argument at its stated scope.
 The [single-filter square-multiple control](nonsquare_control.md#complete-result) separately exhausts energies one and two at the resulting norm-5216 input.
 The [independent single-filter finding](../../../audits/reviews/Yin_R_G1107_v14.md#nonsquare-control-review) checks that actual input, exact matrices and complete traversal.
-It excludes those two energies in that new class, leaving other labels, the paired input and larger energies unresolved.
+It excludes those two energies in that new class.
+The [paired-input control](paired_control.md#complete-result) completes the same two-energy test for the fixed pair \((1,2)\) after 862 nodes, with [independent review](../../../audits/reviews/Yin_R_G1107_v15.md#paired-control-review).
+The later [three complete energy-six balls](energy_six.md#complete-result) exhaust the original, single and paired classes under their stated bounds.
+They contain respectively six, one and zero nonzero classes modulo simultaneous sign, all at energy six.
+Only the single-filter vector meets \((K,L)=(2,0)\), and its strict endpoint fails.
+The [separate complete-root diagnostic](candidate_diagnostic.md#full-measure) gives its full measure between 3.72242552293746802492690401570893 and 3.72242552293746802492690401570894.
+The [two independent findings](../../../audits/reviews/Yin_R_G1107_v17.md#energy-six-review) distinguish complete enumeration from this separately executed candidate diagnostic.
+The [exact dyadic calculation](dyadic_support.md#joint-counts) and [odd-prime analysis](../../../ledger/Yin_L_G0462_v8.md#odd-prime-count) address local joint-moment support.
+For the fixed pair, their [real and local feasibility](dyadic_support.md#real-and-global-boundary) coexists with the complete integer exclusions at energies one, two and six.
+This contrast supplies no positive count in a strict small-Mahler shell.
+The [independent local and dyadic findings](../../../audits/reviews/Yin_R_G1107_v18.md#local-moment-review) check the analytic all-label scope separately from the fixed-pair computation.
