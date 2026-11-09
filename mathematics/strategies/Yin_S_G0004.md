@@ -24,7 +24,12 @@ The [endpoint and exterior estimates](../ledger/Yin_L_G0464_v12.md#negative-one)
 At \(p=6561,\ k=746\), the [next-moment test](../computations/programs/Yin_J_G0151/readme.md#next-conductor) leaves only \(x=-1\) if the third moment also matches.
 At this conductor every strict \((K,L)=(3,4)\) hit has \(P(-1)=1\) and \(N\in\{8,9,10\}\); the [whole-measure bounds](../claims/Yin_C_G0882_v2.md#statement) start at \(2209/1600\) when \(N=8\).
 The [discrete tests](../computations/programs/Yin_J_G0152/readme.md#sparse-unit-sieve) count actual moment candidates, while the [order-27 fibers](../computations/programs/Yin_J_G0152/fibers.md#fiber-screen) impose a necessary variation on all adjustments of the original representative.
-For shrinking targets move to the next conductor \(3^9\), recompute the surviving profiles, and test whether a low-degree integral polynomial changes sign in its new gap before choosing unit parameters.
+At \(p=19683,\ k=1990,\ \Delta=2^{4391}\), the [new integer table](../claims/Yin_C_G0882_v3.md#statement) leaves all five first-two-moment profiles at the level of necessary conditions.
+Requiring the matching third moment leaves \(x=-1,N=8,U=1\) and the additional \(x=2,N=14,-5\le U\le13\) branch.
+For \(x=-1\), the full third-moment set is \(\{7,8,9,10\}\), with [complete-measure bounds](../claims/Yin_C_G0882_v3.md#whole-measure) \(M>25/16\) at \(N=9\) and \(M>49/25\) at \(N=10\).
+The old \(N=8\) quartic certificate [fails on this cut](../claims/Yin_C_G0882_v3.md#remaining-cases); the truth of its former \(2209/1600\) conclusion at the new conductor remains unresolved.
+The next discriminating work is the integral realization of the surviving \(x=-1\) and \(x=2\) third-moment matches, beginning with higher normalized layer traces and the allowed endpoint values before another unit enumeration.
+The unmatched \(N=7\) branch also retains an unresolved full-measure estimate.
 An arbitrary-radius probability proof requires nonempty strict whole-measure shells at unbounded conductors; the [finite exponent-box probability](../ledger/Yin_L_G0464_v10.md#whole-measure-and-probability) alone supplies no such lower count.
 The [positive unit that enforces the endpoint](../ledger/Yin_L_G0464_v8.md#small-norm-terminal-block) sends the measure to infinity, while [every fixed filtered height](../ledger/Yin_L_G0464_v7.md#height-escape) must grow faster than each fixed power of \(\log p\) at this cut.
 The target on those same inputs is either a positive counting bound in successively smaller whole-measure shells or an explicit shrinking sequence.

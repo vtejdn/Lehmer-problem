@@ -93,6 +93,24 @@ Thus only \(x=-1\) survives these necessary tests for a matching third moment.
 This additional arithmetic check was self-checked after the fixed reviews of the smaller conductors.
 The double-moment family without that extra assumption has a wider scope.
 
+<a id="conductor-19683"></a>
+## Integer combinations at the next logarithmic cut
+
+The [exact standard-library program](conductor19683.py) treats \(p=19683\), \(k=1990\), \(y=-161/100\) and the sign-representative norm \(\Delta=2^{4391}\).
+It verifies the logarithmic cut by a rational series bound, counts all 7851 poles above the separator, and derives the nine layer parities.
+Exact integer-root bounds for positive normalized layer traces are minimized over every nonnegative valuation vector of the required parity and total norm exponent.
+The resulting rational inequalities, the strict endpoint, strict Cauchy--Schwarz and a cubic separator give the [necessary integer table](../../../claims/Yin_C_G0882_v3.md#statement).
+The minimum unweighted layer mass is 15407, and the cubic-weighted minimum is 219942.
+The dynamic program and its incumbent cutoff are justified in the [complete argument](../../../claims/Yin_C_G0882_v3.md#argument).
+These finite arithmetic filters test all valuation allocations, without asserting realization by an integral input.
+
+Requiring \(N=6+2x^2\) leaves \(x=-1,N=8,U=1\) and \(x=2,N=14,-5\le U\le13\).
+The [second exact program](exterior19683.py) verifies the new quartic Sturm inequalities giving \(M(P)>25/16\) for \(x=-1,N=9\) and \(M(P)>49/25\) for \(x=-1,N=10\).
+It also checks an endpoint and square-root argument for \(N\in\{7,8,9,10\}\) at every nonzero resultant in this branch.
+The original \(6561\) quartic has negative real-line separation at \(N=8\) on the new cut.
+The [scope of that failure](../../../claims/Yin_C_G0882_v3.md#remaining-cases) leaves the corresponding whole-measure inequality unresolved.
+Both new programs use only Python integers and `fractions.Fraction`; no floating-point value supplies a certificate.
+
 <a id="replay"></a>
 ## Reproduction
 
@@ -103,6 +121,8 @@ These commands print the complete table and its witnesses at 27 and the separato
 python -B mathematics/computations/programs/Yin_J_G0151/shell.py 27 --x -2 -1 0 1 2 --witnesses
 python -B mathematics/computations/programs/Yin_J_G0151/shell.py 243 --separator
 python -B mathematics/computations/programs/Yin_J_G0151/shell.py 6561 --separator
+python -B mathematics/computations/programs/Yin_J_G0151/conductor19683.py
+python -B mathematics/computations/programs/Yin_J_G0151/exterior19683.py
 ~~~
 
 The raw shell interface also accepts the five profiles at 81 and 243 with separators \(-1/3\) and \(-5/6\), respectively, at the original representative.

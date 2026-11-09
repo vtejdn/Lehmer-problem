@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R1107 v8](Yin_R_G1107_v8.md#whole-19683) independently checks all necessary integer combinations and the two conditional whole-measure bounds at conductor 19683.
 - [R1107 v7](Yin_R_G1107_v7.md#whole-6561) checks the full third-moment and Mahler bounds on the conductor-6561 negative-one branch.
 - [R1107 v6](Yin_R_G1107_v6.md#sparse-sieve-review) records checks of the modular search, order-27 fiber estimates and the separate Salem-quotient investigation.
 - [R1107 v5](Yin_R_G1107_v5.md#claim-assembly) checks the full fixed two-moment theorem, the exterior costs at 243, 729 and 2187 and the two finite searches at 243.
@@ -63,6 +64,9 @@
   The [v4 exterior graph finding](Yin_R_G1086_v4.md#exterior-salem-cut-whole) and [v3 component-graph finding](Yin_R_G1086_v3.md#disconnected-salem-cut-whole) retain their exact filling, monodromy, discriminant and all-conductor scopes.
   The [v2 radial-hull finding](Yin_R_G1086_v2.md#salem-radial-hull-whole) retains the actual Salem mesh guard, quadratic cost and coefficient-four asymptotic; none of these findings supplies a Hankel lower bound or p=1 completion.
   The separate [v1 raw p=2 finding](Yin_R_G1086_v1.md#raw-p2-whole) retains its all-root capacity proof, universal floor, norm descent, restricted FM13 operator identity and conditional total-Mahler scope.
+
+- [R1109](Yin_R_G1109_v1.md#whole-topological-gap): independent whole review of C883's bounded-normalized-entropy homological Mahler gap and universal probability-zero consequence.
+  Its [separate computation finding](Yin_R_G1109_v1.md#finite-shear-computation) checks the same-site rotating-shear law, exact separable control and all 72 certified J153 samples, without an unbounded-family conclusion.
 
 This navigation lists present review entrances with their stated adoption limits; it is not an exhaustive inventory of historical R materials.
 See the [owning rule](../../../framework/rules/proof-audits.md) for entry content, authority and maintenance.

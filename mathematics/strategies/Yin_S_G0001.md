@@ -20,6 +20,11 @@ The [conditional probability](../claims/Yin_C_G0870_v2.md#amplification) can alr
 At a single degree the [irreducible comparison](../ledger/Yin_L_G0462_v3.md#different-measures-one-degree) produces many distinct measures near the plastic number; none of these approach one.
 The [Salem quotient test](../ledger/Yin_L_G0462_v4.md#adjacent-ratios) excludes quotients of the close three-arm seeds, including powers and root-of-unity twists, by counting the exterior conjugates over each fixed seed.
 For the [degree-aligned radical variant](../ledger/Yin_L_G0462_v4.md#aligned-radical-test), a shrinking sequence would require unbounded common root index and a relative degree of smaller order than that index.
+The [surface-monodromy test](../claims/Yin_C_G0883_v1.md#statement) gives a whole-homology gap for every fixed bound on normalized pseudo-Anosov entropy, using exact Alexander specialization and filling of punctures.
+Any shrinking sequence from that construction therefore requires unbounded normalized entropy.
+Agent-S's [coupled rotating symplectic model](../ledger/Yin_L_G0462_v5.md#rotating-symplectic-law) supplies a separate discrete law on integral reciprocal polynomials with a growing number of signed local shears.
+Its [72-input first test](../computations/programs/Yin_J_G0153/readme.md#full-measures) returned 24 cyclotomic outputs and 48 positive outputs, whose smallest complete measure is between 1.75487766624669 and 1.75487766624670.
+Keep this as an exploratory alternative pending a signed interaction with a justified reduction in full exterior cost; the current finite sample supplies no shrinking sequence or positive-probability lower bound for arbitrarily small shells.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
 The [prescribed-cut census](../computations/programs/Yin_J_G0149/readme.md#nonunit-atom) gives a binary atom of probability \(1/256\) at conductor 15, with nonunit resultant and two exterior roots.
