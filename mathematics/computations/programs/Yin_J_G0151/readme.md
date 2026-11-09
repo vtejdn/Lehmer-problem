@@ -134,8 +134,13 @@ The [five remaining triples](negative_one_seven.md#exact-relaxed-models) admit e
 They rule out a positive margin from the stated degree-seven negative-variation and twice-maximum interface, without constructing an original integral polynomial.
 The [independent finding](../../../audits/reviews/Yin_R_G1107_v16.md#negative-one-seven-review) reproduces all thirteen rational margins and forty exact model systems by separate methods.
 The [complete C882v6 statement and argument](../../../claims/Yin_C_G0882_v6.md#statement) retain this thirteen/five partition and the exact method boundary.
+The [two-unit-atom refinement](two_atom_models.md#scope) restores two different rational atoms, each of mass one, in all five residual models.
+Its forty exact occupancy-control systems still satisfy all degree-seven identities throughout the cut interval, as stated in [C882v7](../../../claims/Yin_C_G0882_v7.md#statement) and checked by the [independent complete finding](../../../audits/reviews/Yin_R_G1107_v19.md#two-atom-models-review).
+Actual pole-pairing intervals, integer coefficients and the complete resultant remain outside these relaxed models.
+The [quadratic-sign refinement](../../../claims/Yin_C_G0882_v8.md#statement) localizes the actual exceptional roots, including both exterior components and the nonreal case.
+The fixed [common-location certificates](diagonal_atom_scan.py) nevertheless give exact admissible double-atom models for all five residual triples, with the finite discovery scope and the rejected pole location retained in [L464v14](../../../ledger/Yin_L_G0464_v14.md#fixed-scan).
 
-Both default programs completed using only standard-library integer and rational arithmetic.
+The default higher-moment and residual-model verifiers completed using only standard-library integer and rational arithmetic.
 The negative-one program's optional `--explore` mode uses sampled SciPy linear programs to propose coefficients, but is not called by the fixed certificate path and supplies no proof.
 These tests produce neither an actual integral moment hit nor an arbitrarily small positive Mahler shell.
 
@@ -143,7 +148,7 @@ These tests produce neither an actual integral moment hit nor an arbitrarily sma
 ## Reproduction
 
 Run from the repository root with Python, python-flint, NumPy and SymPy.
-These commands print the complete table and its witnesses at 27 and the separator certificates at 243 and 6561.
+These commands print the complete table and its witnesses at 27, check the later separator bounds, and verify the fixed higher-moment and residual-model certificates.
 
 ~~~text
 python -B mathematics/computations/programs/Yin_J_G0151/shell.py 27 --x -2 -1 0 1 2 --witnesses
@@ -154,6 +159,8 @@ python -B mathematics/computations/programs/Yin_J_G0151/exterior19683.py
 python -B mathematics/computations/programs/Yin_J_G0151/higher_moments19683.py
 python -B mathematics/computations/programs/Yin_J_G0151/negative_one_higher.py
 python -B mathematics/computations/programs/Yin_J_G0151/negative_one_seven.py
+python -B mathematics/computations/programs/Yin_J_G0151/two_atom_models.py
+python -B mathematics/computations/programs/Yin_J_G0151/diagonal_atom_scan.py
 ~~~
 
 The raw shell interface also accepts the five profiles at 81 and 243 with separators \(-1/3\) and \(-5/6\), respectively, at the original representative.

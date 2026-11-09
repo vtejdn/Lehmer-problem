@@ -44,10 +44,16 @@ At energy six the three complete balls contain respectively six, one and zero si
 Only the single-filter vector meets both target moments; it fails the endpoint, and its [complete measure](../computations/programs/Yin_J_G0154/candidate_diagnostic.md#full-measure) is about 3.722425522937468.
 Agent-S's [local-support analysis](../ledger/Yin_L_G0462_v8.md#odd-prime-count) and the [fixed-pair dyadic certificate](../computations/programs/Yin_J_G0154/dyadic_support.md#real-and-global-boundary) give real and all-prime moment solutions alongside three global integer exclusions.
 They expose the actual integer-count step rather than establish a positive original Mahler probability.
-The next arithmetic allocation tests the full affine integer coefficient lattice of \(h\), preserving the two moments and strict endpoint while admitting square classes outside the tested families.
+The next arithmetic allocation uses the [full affine integer coefficient lattice](../ledger/Yin_L_G0462_v9.md#candidate-test) at \(p=81,k=3,x=0\), preserving both moments and the strict endpoint while admitting every compatible square class and resultant.
+Its covering coefficient box is proved from the original conditions.
+The [completed single proposal](../computations/programs/Yin_J_G0155/readme.md#results-limits) supplies \(h=2E_0+E_2+E_7\) with all strict signs, endpoint four, third moment three and complete measure about 2.620597651610943.
+A separate next test fixes \(N=6\), or \(a_2=4\), to inspect the next-profile match in the same full coefficient chart before increasing the conductor.
 Numerical proposals must be checked exactly and by complete-root measure; numerical failure alone is not an exclusion.
 At conductor 19683, [C882v6](../claims/Yin_C_G0882_v6.md#decision-negative-one-seven-whole-19683) leaves five N=7 triples below \(101/100\) and proves that the present degree-seven relaxed interface cannot separate them.
-A bounded two-unit-atom comparison tests whether restoring that discarded root structure changes the conclusion.
+The [two-unit-atom refinement](../claims/Yin_C_G0882_v7.md#decision-two-unit-atoms-19683) remains exactly feasible for all five triples.
+The [completed root-structure comparison](../claims/Yin_C_G0882_v8.md#decision-diagonal-localization-19683) proves strict quadratic signs at every pole and confines the real exceptional roots to one connected component after removing the poles and the left endpoint.
+All five residual triples still have exact coincident-unit-atom models satisfying those signs across the whole cut enclosure.
+Their nonintegral rational atom locations cannot be roots of an actual monic integer polynomial; further separation requires actual root-to-pole interval structure or global integer constraints.
 Neither these finite controls nor the all-conductor filter supply proves a positive count in arbitrarily small strict Mahler shells.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).

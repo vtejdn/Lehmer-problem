@@ -34,7 +34,12 @@ Thus both surviving third-moment matches have strict full-measure floors at this
 The unmatched \(N=7\) branch now has [thirteen complete-measure exclusions among its eighteen necessary triples](../claims/Yin_C_G0882_v6.md#decision-negative-one-seven-whole-19683).
 Eleven have \(M>26/25\) and two have \(M>101/100\), leaving only \((10,18,27),(11,20,33),(11,20,34),(11,21,36),(11,21,37)\) when \(M\le101/100\).
 Exact [positive-mass and fractional-occupancy models](../claims/Yin_C_G0882_v6.md#relaxation-barrier) show that no real test polynomial of degree at most seven separates those five triples through the present negative-variation and twice-maximum interface.
-The next bounded comparison restores two exceptional trace atoms, each of mass one, before spending further effort on this interface; neither model feasibility nor a failed numerical test decides original integral realizability.
+The [two-unit-atom comparison](../claims/Yin_C_G0882_v7.md#decision-two-unit-atoms-19683) also has exact feasible models for all five triples, with two distinct rational locations fixed across the whole cut interval.
+Restoring the two individual masses therefore does not resolve this relaxed system.
+The [completed localization comparison](../claims/Yin_C_G0882_v8.md#decision-diagonal-localization-19683) proves that the residual quadratic is strictly positive at every pole and at \(-2\), and that its real roots lie in the same component between those test points.
+This excludes the particular five separated pairs, but all five triples admit exact coincident-unit-atom models satisfying the restored signs, full degree-seven identities and zero separation.
+The retained rational atoms are nonintegral and cannot be roots of an actual monic integer polynomial.
+Further separation must restore actual root-to-pole interval indicators or global integer constraints; the present relaxed model neither realizes nor excludes an original input.
 These fixed-conductor certificates do not settle the growing-conductor route.
 Prioritize a concrete source of new integer inputs and its exact joint moment support before extending the conductor table again.
 The [moving linear cut times an arbitrary integer square](../claims/Yin_C_G0880_v3.md#decision-moving-linear-square-gap) has a uniform whole-measure gap, so dropping the unit restriction through that factor does not supply shrinking shells.
@@ -60,7 +65,13 @@ The [independent checks](../audits/reviews/Yin_R_G1107_v17.md#energy-six-review)
 Agent-S's [joint local analysis](../ledger/Yin_L_G0462_v8.md#odd-prime-count) removes every odd-prime moment obstruction for all paired labels at 81.
 The [exact mod-eight computation](../computations/programs/Yin_J_G0154/dyadic_support.md#real-and-global-boundary) completes real and local feasibility for the fixed pair, even though its three targets at energies one, two and six have no integer solution.
 Thus another finite-prime sieve cannot supply the missing integer count in this class.
-Prioritize a direct search in the full affine integer coefficient lattice of \(h\), retaining the two moments and strict endpoint but allowing different square classes.
+The [full affine coefficient test](../ledger/Yin_L_G0462_v9.md#candidate-test) fixes \(p=81,k=3,x=0\), retains both moments and the strict endpoint, and allows every square class and compatible resultant.
+Its [finite coefficient box](../ledger/Yin_L_G0462_v9.md#complete-coefficient-box) covers the entire strict chamber as a consequence of the signs and moments.
+The [one bounded proposal](../computations/programs/Yin_J_G0155/readme.md#fixed-incumbent) returns \(h=2E_0+E_2+E_7\), with \(K=2,L=0,N=3,U=2\), all strict signs and \(P(-1)=4\).
+Its absolute resultant is 23915931223391 and its [complete Mahler measure](../computations/programs/Yin_J_G0155/readme.md#factorization-measure) is between 2.62059765161094301246636259541059 and 2.62059765161094301246636259541060.
+This establishes arithmetic supply in the changed cut and domain, with no exact L1-minimality conclusion and no near-one result.
+The next separate bounded coefficient test should impose the next-profile third moment \(N=6\), equivalently \(a_2=4\), in this same chamber before extending the conductor.
+Retain the original two-moment run unchanged; this added condition defines a new conditional test and is not evidence that its integer domain is nonempty.
 A numerical mixed-integer solver may propose actual inputs; absence of a proposal gives no complete exclusion without exact coverage evidence.
 Every proposed input still needs exact integer moments, certified grid signs, its full resultant and complete Mahler measure.
 An arbitrary-radius existence argument still needs a positive count on the actual integer law; the [local-density, discrete-mean and marked-genus boundaries](../ledger/Yin_L_G0462_v8.md#actual-label-average) identify what remains missing.

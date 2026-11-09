@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R1107 v21](Yin_R_G1107_v21.md#diagonal-localization-review) independently checks the complete exceptional-root localization and all five exact coincident-atom models, with historical LP records kept at their stated review limit.
+- [R1107 v20](Yin_R_G1107_v20.md#affine-chamber-review) independently checks the full affine coefficient chamber, rigorous covering box and future one-run candidate contract.
+  Its [separate incumbent finding](Yin_R_G1107_v20.md#affine-incumbent-review) checks J155's actual integer candidate, model evidence and complete measure through solver-free reproduction.
+- [R1107 v19](Yin_R_G1107_v19.md#two-atom-models-review) independently checks the complete two-unit-atom refinement, forty exact systems and whole-interval scope.
 - [R1107 v18](Yin_R_G1107_v18.md#local-moment-review) independently checks the all-label odd-prime moment argument and the discrete-count and genus boundaries.
   Its [fixed-pair dyadic finding](Yin_R_G1107_v18.md#dyadic-support-review) checks the complete mod-eight counts, lifting, real feasibility and separate integer obstruction.
 - [R1107 v17](Yin_R_G1107_v17.md#energy-six-review) independently checks all three complete energy-six balls and the unique failed endpoint.

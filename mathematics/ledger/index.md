@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0464_v14](Yin_L_G0464_v14.md) | Restoring quadratic pole signs and testing a common exceptional-root location | Actual root localization, failure of the earlier separated atoms, a rejected pole hit, and exact common-location certificates with the integer-realization boundary retained. |
+| [Yin_L_G0462_v9](Yin_L_G0462_v9.md) | An affine integer test beyond the selected square families | Complete moment coordinates, exact endpoint, full coefficient box and a single bounded candidate contract at conductor 81 with three negative nodes. |
 | [Yin_L_G0462_v8](Yin_L_G0462_v8.md) | Joint local moments and the remaining global probability gap | All odd-prime joint support for the paired family, an exact dyadic lifting threshold, and the discrete count and marked-genus transfer boundaries. |
 | [Yin_L_G0462_v7](Yin_L_G0462_v7.md) | Positive nonsquare multipliers from signed-unit rectification | Two norm-cost obstructions, actual new square classes, the single-filter parity boundary and paired integer supply at all ternary conductors. |
 | [Yin_L_G0462_v6](Yin_L_G0462_v6.md) | Integer residuals, exact factor diagnostics and Galois-permuted nonunit filters | Moving linear-factor obstruction, reciprocal core diagnostics and an exact integer supply law with one- and two-filter norm budgets. |

@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J155](programs/Yin_J_G0155/readme.md#fixed-incumbent) supplies a strict integer input from one full-coefficient proposal at conductor 81 with three negative nodes.
+  Its [complete measure](programs/Yin_J_G0155/readme.md#factorization-measure) is about 2.620597651610943; the third moment is three, and no mathematical solver-optimality or arbitrary-radius conclusion is claimed.
 - [J154](programs/Yin_J_G0154/readme.md#finite-results) checks every single and double Galois filter on four slow ternary cuts, with exact joint moment support, complete label counts and no joint hit.
   Its [balanced controls](programs/Yin_J_G0154/balanced.md#scope), [complete unit window](programs/Yin_J_G0154/unit_ball.md#results) and [partial integer-square search](programs/Yin_J_G0154/low_energy_shell.md#partial-result) retain their separate bases, finite domains and coverage limits.
   The [complete smaller ball](programs/Yin_J_G0154/two_energy_shell.md#scope) excludes energies one and two throughout the specified integer-square domain.
