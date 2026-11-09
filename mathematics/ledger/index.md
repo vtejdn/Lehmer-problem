@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v11](Yin_L_G0462_v11.md) | Neutral prefix supply, multiplicity rigidity and integer pole mass | Explicit measure-one completions, the strict-chamber double-factor obstruction, a rational-pole length bound and the remaining positive integer count. |
+| [Yin_L_G0464_v16](Yin_L_G0464_v16.md) | Endpoint logarithms, moving roots and the remaining finite-test gaps | Complete necessary pair domain and endpoint constraints, with four fixed duals and two incomplete covers for the first residual triple. |
 | [Yin_L_G0462_v10](Yin_L_G0462_v10.md) | Exact-prefix supply, whole-measure control and the failed first cut | Five odd-grid prefix profiles, the remaining positive integer count, a real obstruction at conductor 401, and compatible growing-cut scales. |
 | [Yin_L_G0464_v15](Yin_L_G0464_v15.md) | Genuine terminal intervals and the missing endpoint value | A certified real configuration for one residual triple restores all 9840 terminal intervals and seven moments but has endpoint value between 0.022 and 0.023, failing the original value one. |
 | [Yin_L_G0464_v14](Yin_L_G0464_v14.md) | Restoring quadratic pole signs and testing a common exceptional-root location | Actual root localization, failure of the earlier separated atoms, a rejected pole hit, and exact common-location certificates with the integer-realization boundary retained. |

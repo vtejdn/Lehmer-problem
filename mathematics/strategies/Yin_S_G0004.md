@@ -42,7 +42,11 @@ The retained rational atoms are nonintegral and cannot be roots of an actual mon
 The [single true-interval certificate](../ledger/Yin_L_G0464_v15.md#existence-certificate) restores all 9840 permitted terminal intervals and the seven polynomial moment equations for \((10,18,27)\).
 Its [certified endpoint value](../ledger/Yin_L_G0464_v15.md#endpoint-value) lies in \((0.022,0.023)\), so this real configuration fails the original \(U=1\).
 The [endpoint-log test](../computations/programs/Yin_J_G0151/endpoint_model.md#finite-result) retains a separate failed numerical parameterization without an exact exclusion.
-Next enforce the endpoint value simultaneously with any retained root geometry, while keeping the prescribed resultant and integer-polynomial obligations explicit.
+The [adopted endpoint-domain theorem](../claims/Yin_C_G0882_v9.md#decision-endpoint-domain-19683) now keeps that value and all factor multiplicities for every mandatory-root choice.
+Every real residual pair has full measure one; a candidate with \(1<M(P)\le101/100\) must have \(v_{1,2}=s\pm\sqrt d\), \(-6/5<s<-1/3\), and \(s^2/40401-1/10100\le d<0\), with the new density and endpoint constraints.
+For the first triple, [four fixed continuous duals](../computations/programs/Yin_J_G0151/endpoint_dual.md#moving-cover) exclude parts of this domain but leave 71 of 4096 cells unresolved at target \(101/100\), and 86 of 16384 at target \(1001/1000\).
+Both covers were independently reproduced and neither gives a new complete-measure lower bound.
+Next test whether the actual integer value \(h(-1)\), jointly with the prescribed two-power resultant and moment constraints, restricts the remaining domain before another dual search or conductor increase.
 These fixed-conductor certificates do not settle the growing-conductor route.
 Prioritize a concrete source of new integer inputs and its exact joint moment support before extending the conductor table again.
 The [moving linear cut times an arbitrary integer square](../claims/Yin_C_G0880_v3.md#decision-moving-linear-square-gap) has a uniform whole-measure gap, so dropping the unit restriction through that factor does not supply shrinking shells.
@@ -78,7 +82,12 @@ The original two-moment run is unchanged; its \(N=3\) candidate passes every oth
 The [adopted odd-grid prefix theorem](../claims/Yin_C_G0881_v3.md#decision-odd-grid-prefix) gives the exact five-profile coordinate map and a complete Mahler upper bound tending to one with the matching length.
 Its [positive cut constraint](../claims/Yin_C_G0881_v3.md#prefix-cut-compatibility) applies to the zero profile and excludes the proposed conductor-401, three-node, length-140 test already at length 83.
 The [remaining count problem](../ledger/Yin_L_G0462_v10.md#actual-count-obligation) is to obtain actual noncyclotomic integer completions at unbounded compatible lengths; no positive count follows from the upper bound alone.
-First test the joint real prefix and strict endpoint constraints on a compatible growing-cut family, then select a bounded integer proposal or a genuine positive-count argument.
+The [adopted rational-pole bound](../claims/Yin_C_G0881_v4.md#decision-integer-pole-prefix) now requires \(27a^3\le4p\) whenever \(3\mid p\), \(c<-1\), and an integer negative-one prefix reaches \(6a-1\le L\le n+1\).
+At conductor 19683 it excludes lengths 89 through 9842, while logarithmic lengths remain possible as a necessary-scale matter.
+It does not exclude the shorter \(N=7\) branch, whose third moment differs from the matching negative-one prefix.
+The [neutral construction comparison](../ledger/Yin_L_G0462_v11.md#neutral-integer-supply) supplies arbitrarily long integer prefixes only at measure one, with nonnegative residues that fail the strict negative block.
+Its [double-factor argument](../ledger/Yin_L_G0462_v11.md#double-factor-obstruction) also shows why retaining the profile's squared trace factor cannot supply a positive measure under the strict chamber and endpoint.
+Prioritize integer completions that break that double factor while satisfying real cut compatibility and the actual pole-mass constraint, then seek a positive count in the finite coefficient law.
 A numerical mixed-integer solver may propose actual inputs; absence of a proposal gives no complete exclusion without exact coverage evidence.
 Every proposed input still needs exact integer moments, certified grid signs, its full resultant and complete Mahler measure.
 An arbitrary-radius existence argument still needs a positive count on the actual integer law; the [local-density, discrete-mean and marked-genus boundaries](../ledger/Yin_L_G0462_v8.md#actual-label-average) identify what remains missing.

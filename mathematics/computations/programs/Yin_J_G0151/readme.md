@@ -148,6 +148,16 @@ The separate terminal-interval verifier uses python-flint ball arithmetic for it
 The negative-one program's optional `--explore` mode uses sampled SciPy linear programs to propose coefficients, but is not called by the fixed certificate path and supplies no proof.
 These tests produce neither an actual integral moment hit nor an arbitrarily small positive Mahler shell.
 
+<a id="continuous-endpoint-duals"></a>
+## Continuous endpoint constraints for the first residual triple
+
+The [complete moving-pair reduction](../../../claims/Yin_C_G0882_v9.md#decision-endpoint-domain-19683) supplies exact polynomial moments, the original logarithmic endpoint equality and a safe nonreal pair domain for all five residual triples.
+The [continuous dual calculation](endpoint_dual.md#scope) selects only \((10,18,27)\) and retains four rational degree-six polynomials in [the native input](inputs/endpoint_first_duals.json).
+Exact root isolation and outward integration certify their four stated fixed positions without restricting the density to a numerical grid.
+The [two moving-pair covers](endpoint_dual.md#moving-cover) leave 71 cells unresolved at target \(101/100\) and 86 at \(1001/1000\), so neither proves a new complete-measure lower bound.
+The [independent finding](../../../audits/reviews/Yin_R_G1107_v25.md#fixed-dual-cover-review) reproduces both covers and all four fixed certificates, with historical LP proposals outside its reproduction scope.
+The [native reproduction instructions](endpoint_dual.md#reproduction) distinguish the three solver-free checks from the optional bounded proposals and identify the required arithmetic libraries.
+
 <a id="replay"></a>
 ## Reproduction
 

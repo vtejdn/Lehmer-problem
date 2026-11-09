@@ -13,6 +13,7 @@
 - [J153](programs/Yin_J_G0153/readme.md#factor-diagnostics) retains the 72 rotating-shear full-measure samples and their exact factor diagnostics, including reciprocal irreducible cores.
 - [J151 higher moments](programs/Yin_J_G0151/readme.md#higher-19683) verifies complete-measure certificates at conductor 19683 for both matching-third-moment branches.
   Its [N=7 extension](programs/Yin_J_G0151/negative_one_seven.md#scope) separates thirteen of eighteen triples and gives exact degree-seven interface obstructions for the five remaining triples.
+  Its [continuous endpoint duals](programs/Yin_J_G0151/endpoint_dual.md#moving-cover) certify four fixed positions for the first residual triple; two moving-pair covers remain incomplete, with no new complete-measure floor.
 - [J152](programs/Yin_J_G0152/readme.md#sparse-unit-sieve) screens fixed-norm unit adjustments at conductor 6561 for the exact \((3,4)\) moments and bounds the necessary variation across order-27 fibers.
 - [J151](programs/Yin_J_G0151/readme.md#complete-27) exhausts the fixed cut and norm at 27, computes both full trace lifts passing the two moments, and checks a third-moment obstruction at 243.
 - [J150](programs/Yin_J_G0150/readme.md#whole-measures) checks fixed-norm positive-unit boxes at 27, 81 and 243, including a separate cut with a strict positive-measure witness.

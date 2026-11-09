@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R1107 v25](Yin_R_G1107_v25.md#endpoint-domain-review) independently checks the complete moving-pair endpoint theorem with all original multiplicities and necessary-domain limits.
+  Its [fixed-dual finding](Yin_R_G1107_v25.md#fixed-dual-cover-review) reproduces the four continuous certificates and both incomplete covers, retaining 71 and 86 unresolved cells and the historical LP-review limit.
+- [R1107 v26](Yin_R_G1107_v26.md#integer-pole-review) independently checks the complete integer-pole prefix bound and exact conductor-19683 consequence.
+  Its [neutral-supply finding](Yin_R_G1107_v26.md#neutral-supply-review) checks the integer cyclotomic family, double-factor obstruction and remaining rounding, jet and positive-count limits.
 - [R1107 v24](Yin_R_G1107_v24.md#odd-grid-prefix-review) independently checks the complete five-profile odd-grid prefix bound and zero-profile cut obstruction.
   Its [integer-supply finding](Yin_R_G1107_v24.md#prefix-supply-review) checks the finite box, actual positive-count implication and fixed-block nonreal-branch boundary.
 - [R1107 v23](Yin_R_G1107_v23.md#terminal-interval-review) independently checks the complete genuine-interval certificate and its endpoint failure, including a separate monomial reconstruction and direct endpoint product.

@@ -54,6 +54,8 @@ Agent-S's [reviewed odd-grid prefix theorem](../claims/Yin_C_G0881_v3.md#decisio
 Its zero-profile compatibility test excludes the first proposed \(p=401,\kappa=3,L=140\) parameters already over the reals and constrains growing cuts by \(\limsup\kappa L/p\le\sqrt3/\pi\).
 The next arithmetic allocation is the [actual integer-prefix completion count](../ledger/Yin_L_G0462_v10.md#actual-count-obligation), with real cut-length compatibility checked before selecting a new numerical proposal.
 This supplies a conditional route to every positive epsilon, while the required positive counts remain unproved.
+Agent-S's [new integer-pole theorem](../claims/Yin_C_G0881_v4.md#decision-integer-pole-prefix) requires \(27a^3\le4p\) for the stated negative-one prefix when \(3\mid p\) and \(c<-1\), excluding lengths at least 89 at conductor 19683 within its admitted range.
+The [neutral-supply comparison](../ledger/Yin_L_G0462_v11.md#strategy-return) leaves the next construction responsible for breaking the squared profile factor and paying the rational pole's integer mass; it supplies no positive count at surviving lengths.
 At conductor 19683, [C882v6](../claims/Yin_C_G0882_v6.md#decision-negative-one-seven-whole-19683) leaves five N=7 triples below \(101/100\) and proves that the present degree-seven relaxed interface cannot separate them.
 The [two-unit-atom refinement](../claims/Yin_C_G0882_v7.md#decision-two-unit-atoms-19683) remains exactly feasible for all five triples.
 The [completed root-structure comparison](../claims/Yin_C_G0882_v8.md#decision-diagonal-localization-19683) proves strict quadratic signs at every pole and confines the real exceptional roots to one connected component after removing the poles and the left endpoint.
@@ -61,6 +63,9 @@ All five residual triples still have exact coincident-unit-atom models satisfyin
 Their nonintegral rational atom locations cannot be roots of an actual monic integer polynomial.
 The [true-interval construction for the first triple](../ledger/Yin_L_G0464_v15.md#existence-certificate) satisfies all seven polynomial equations and all actual root intervals, but its endpoint value lies strictly between 0.022 and 0.023 instead of one.
 The [endpoint-log comparison](../computations/programs/Yin_J_G0151/endpoint_model.md#endpoint-value) identifies this additional original condition; simultaneous endpoint-value, norm and integer realization remain unresolved.
+The [adopted moving-pair theorem](../claims/Yin_C_G0882_v9.md#decision-endpoint-domain-19683) now enforces the exact endpoint equality, excludes positive complete measure for real residual pairs, and supplies a bounded nonreal parameter domain with density-cap constraints.
+The [four continuous duals and two covers](../ledger/Yin_L_G0464_v16.md#exact-dual-tests) leave respectively 71 and 86 cells unresolved for the first triple at the two stated targets, so no new full-measure floor follows.
+The next S4 test couples actual integer pole values to the prescribed resultant and moments; a continuous feasible cell will still not count as positive probability on the original integer law.
 Neither these finite controls nor the all-conductor filter supply proves a positive count in arbitrarily small strict Mahler shells.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
