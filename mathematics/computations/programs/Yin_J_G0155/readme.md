@@ -186,7 +186,12 @@ This candidate required no refinement beyond 256 bits.
 The single bounded proposal produced one fully checked strict-endpoint integer input, with third moment three and full measure approximately 2.620597651610943.
 The observation establishes that arithmetic supply exists at this concrete value in the new coefficient chart and cut.
 Both the cut and the domain differ from the earlier selected square-family controls, so the successful return does not isolate which earlier restriction caused their failures.
-No additional third-moment model, seed, objective, conductor or candidate was tried.
+That original two-moment experiment tried no additional third-moment model, seed, objective, conductor or candidate.
 No exact global coefficient minimum, chamber exclusion or arbitrary-\(\varepsilon\) positive-probability statement is claimed.
 The [independent fixed-incumbent finding](../../../audits/reviews/Yin_R_G1107_v20.md#affine-incumbent-review) reproduces the solver-free candidate verification and checks the saved model at its actual evidence scope.
 Its [separate theoretical finding](../../../audits/reviews/Yin_R_G1107_v20.md#affine-chamber-review) checks the complete coefficient chart and box.
+
+The [separate N=6 conditional test](third_moment.md#result) fixes \(a_2=4\) in the same complete coefficient chamber.
+Its one bounded solver call reached 60 seconds without an incumbent, so no N=6 candidate received a complete-Mahler calculation.
+The original N=3 incumbent was used only as a solver-free negative control for the additional moment check.
+This bounded failure supplies no exact chamber exclusion.

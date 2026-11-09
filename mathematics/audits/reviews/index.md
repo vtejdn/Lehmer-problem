@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R1107 v24](Yin_R_G1107_v24.md#odd-grid-prefix-review) independently checks the complete five-profile odd-grid prefix bound and zero-profile cut obstruction.
+  Its [integer-supply finding](Yin_R_G1107_v24.md#prefix-supply-review) checks the finite box, actual positive-count implication and fixed-block nonreal-branch boundary.
+- [R1107 v23](Yin_R_G1107_v23.md#terminal-interval-review) independently checks the complete genuine-interval certificate and its endpoint failure, including a separate monomial reconstruction and direct endpoint product.
+- [R1107 v22](Yin_R_G1107_v22.md#third-moment-review) independently checks the separate conductor-81 N=6 model and solver-free negative control, without converting its timeout into an integer exclusion.
 - [R1107 v21](Yin_R_G1107_v21.md#diagonal-localization-review) independently checks the complete exceptional-root localization and all five exact coincident-atom models, with historical LP records kept at their stated review limit.
 - [R1107 v20](Yin_R_G1107_v20.md#affine-chamber-review) independently checks the full affine coefficient chamber, rigorous covering box and future one-run candidate contract.
   Its [separate incumbent finding](Yin_R_G1107_v20.md#affine-incumbent-review) checks J155's actual integer candidate, model evidence and complete measure through solver-free reproduction.

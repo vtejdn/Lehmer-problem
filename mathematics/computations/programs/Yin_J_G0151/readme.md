@@ -139,8 +139,12 @@ Its forty exact occupancy-control systems still satisfy all degree-seven identit
 Actual pole-pairing intervals, integer coefficients and the complete resultant remain outside these relaxed models.
 The [quadratic-sign refinement](../../../claims/Yin_C_G0882_v8.md#statement) localizes the actual exceptional roots, including both exterior components and the nonreal case.
 The fixed [common-location certificates](diagonal_atom_scan.py) nevertheless give exact admissible double-atom models for all five residual triples, with the finite discovery scope and the rejected pole location retained in [L464v14](../../../ledger/Yin_L_G0464_v14.md#fixed-scan).
+The [genuine terminal-interval test](../../../ledger/Yin_L_G0464_v15.md#existence-certificate) restores all 9840 actual root-to-pole intervals for the first triple, but its [endpoint diagnostic](../../../ledger/Yin_L_G0464_v15.md#endpoint-value) proves \(0.022<U<0.023\), failing the original \(U=1\).
+The [endpoint-log comparison](endpoint_model.md#endpoint-value) also rejects the old step witnesses for that additional equation and retains one numerical proposal failure without an integer-domain exclusion.
+The [independent terminal-interval review](../../../audits/reviews/Yin_R_G1107_v23.md#terminal-interval-review) verifies the complete native certificate and a separate reconstruction on the same fixed parameter box.
 
 The default higher-moment and residual-model verifiers completed using only standard-library integer and rational arithmetic.
+The separate terminal-interval verifier uses python-flint ball arithmetic for its existence and endpoint certificates.
 The negative-one program's optional `--explore` mode uses sampled SciPy linear programs to propose coefficients, but is not called by the fixed certificate path and supplies no proof.
 These tests produce neither an actual integral moment hit nor an arbitrarily small positive Mahler shell.
 
@@ -161,6 +165,7 @@ python -B mathematics/computations/programs/Yin_J_G0151/negative_one_higher.py
 python -B mathematics/computations/programs/Yin_J_G0151/negative_one_seven.py
 python -B mathematics/computations/programs/Yin_J_G0151/two_atom_models.py
 python -B mathematics/computations/programs/Yin_J_G0151/diagonal_atom_scan.py
+python -B mathematics/computations/programs/Yin_J_G0151/terminal_intervals.py
 ~~~
 
 The raw shell interface also accepts the five profiles at 81 and 243 with separators \(-1/3\) and \(-5/6\), respectively, at the original representative.

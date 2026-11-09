@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v10](Yin_L_G0462_v10.md) | Exact-prefix supply, whole-measure control and the failed first cut | Five odd-grid prefix profiles, the remaining positive integer count, a real obstruction at conductor 401, and compatible growing-cut scales. |
+| [Yin_L_G0464_v15](Yin_L_G0464_v15.md) | Genuine terminal intervals and the missing endpoint value | A certified real configuration for one residual triple restores all 9840 terminal intervals and seven moments but has endpoint value between 0.022 and 0.023, failing the original value one. |
 | [Yin_L_G0464_v14](Yin_L_G0464_v14.md) | Restoring quadratic pole signs and testing a common exceptional-root location | Actual root localization, failure of the earlier separated atoms, a rejected pole hit, and exact common-location certificates with the integer-realization boundary retained. |
 | [Yin_L_G0462_v9](Yin_L_G0462_v9.md) | An affine integer test beyond the selected square families | Complete moment coordinates, exact endpoint, full coefficient box and a single bounded candidate contract at conductor 81 with three negative nodes. |
 | [Yin_L_G0462_v8](Yin_L_G0462_v8.md) | Joint local moments and the remaining global probability gap | All odd-prime joint support for the paired family, an exact dyadic lifting threshold, and the discrete count and marked-genus transfer boundaries. |
