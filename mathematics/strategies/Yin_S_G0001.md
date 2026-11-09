@@ -25,6 +25,17 @@ Any shrinking sequence from that construction therefore requires unbounded norma
 Agent-S's [coupled rotating symplectic model](../ledger/Yin_L_G0462_v5.md#rotating-symplectic-law) supplies a separate discrete law on integral reciprocal polynomials with a growing number of signed local shears.
 Its [72-input first test](../computations/programs/Yin_J_G0153/readme.md#full-measures) returned 24 cyclotomic outputs and 48 positive outputs, whose smallest complete measure is between 1.75487766624669 and 1.75487766624670.
 Keep this as an exploratory alternative pending a signed interaction with a justified reduction in full exterior cost; the current finite sample supplies no shrinking sequence or positive-probability lower bound for arbitrarily small shells.
+The [exact factor diagnostics](../computations/programs/Yin_J_G0153/readme.md#factor-diagnostics) identify that minimum as the plastic constant squared, but 40 of the 48 positive samples have only reciprocal noncyclotomic factors.
+Thus a universal nonreciprocal-factor explanation does not dispose of the model.
+The current arithmetic allocation uses the [Galois-permuted nonunit filters](../ledger/Yin_L_G0462_v6.md#galois-filter-law) on slow-cut representatives.
+One and two filters have an explicit whole-resultant budget below the necessary shrinking-shell ceiling; three or more copies of this seed exceed it.
+The initial [exact support test](../computations/programs/Yin_J_G0154/readme.md) checks every parameter at four stated conductors, then applies the strict endpoint and complete Mahler measure to actual moment hits.
+It does not infer positive small-shell probability from the norm budget or from a continuous approximation.
+The [balanced-base control](../computations/programs/Yin_J_G0154/balanced.md#filtered-results) still finds no filter hit, despite reducing the conductor-81 positive energy to 11.
+The [complete two-step unit window](../computations/programs/Yin_J_G0154/unit_ball.md#results) also misses all five moment targets.
+The [integer-square search](../computations/programs/Yin_J_G0154/low_energy_shell.md#partial-result) has a certified positive form but stopped at its node cap, leaving the unvisited low-energy vectors unresolved.
+The [separate complete smaller ball](../computations/programs/Yin_J_G0154/two_energy_shell.md#scope) excludes both energies one and two for every integer square multiplier of this fixed base, including nonunits.
+The energy-six target remains unresolved; the next supply comparison should include classes outside these integer squares.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
 The [prescribed-cut census](../computations/programs/Yin_J_G0149/readme.md#nonunit-atom) gives a binary atom of probability \(1/256\) at conductor 15, with nonunit resultant and two exterior roots.
@@ -35,6 +46,7 @@ At every shrinking radius the required conclusion is positive probability for an
 For the unrestricted coefficient count, the [volume and lattice calculation](../ledger/Yin_L_G0449_v1.md#uniform-volume-and-lattice-obstruction) controls a random translate of the lattice, while the strict excess must occur on the unshifted integer lattice.
 The human author permits limited positive exploration while shifting the main effort toward counterexamples; this does not retain the former broad proof campaign.
 S4 coordinates actual integer constructions and their complete positive total-measure return, using existing obstructions as filters rather than requiring new universal lower bounds.
+The [moving linear-cut square family](../claims/Yin_C_G0880_v3.md#decision-moving-linear-square-gap) is excluded uniformly by its resultant cost; further residual searches in that family are deferred.
 S4 also retains the original moving signed-residue construction subject to the [five possible Chebyshev cuts and explicit prefix bound](../claims/Yin_C_G0881_v2.md#statement).
 The [positive-residue and bounded-variation gap](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) and the [central transition calculation](../ledger/Yin_L_G0462_v2.md#central-sign-test) specify which inputs to set aside.
 S9 retains a deferred joint-evaluation inquiry, to reconsider if the counterexample search supplies a specific new arithmetic structure on the same inputs.

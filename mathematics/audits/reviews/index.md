@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R1107 v12](Yin_R_G1107_v12.md#unit-ball-review) independently checks the complete 2813-label conductor-81 unit window.
+  Its [separate prefix finding](Yin_R_G1107_v12.md#low-energy-prefix-review) verifies the capped integer-square search and its explicitly incomplete coverage.
+  Its [complete smaller-ball finding](Yin_R_G1107_v12.md#two-energy-review) excludes energies one and two for all integer square multipliers of the fixed base.
+- [R1107 v11](Yin_R_G1107_v11.md#galois-filter-finite-review) independently checks the Galois-filter model, norm budget and all four finite baseline windows, including the ordered/unordered probability boundary.
+  Its [balanced-control finding](Yin_R_G1107_v11.md#balanced-control-review) checks both complete filtered controls, the deterministic unit descent and the conductor-27 complete Mahler enclosure.
+- [R1107 v10](Yin_R_G1107_v10.md#negative-one-higher-19683) independently checks every negative-one third-moment match at conductor 19683, its complete measure bound above 23/20 and the necessary N=7 higher-moment table.
+- [R1107 v9](Yin_R_G1107_v9.md#fourth-moment-whole-19683) independently checks the positive-two fourth-moment separation and complete measure bound above 5/4 at conductor 19683.
+- [R1106 v7](Yin_R_G1106_v7.md#linear-cut-square-review) independently checks the uniform whole-measure gap for moving linear cut factors times arbitrary integer squares, including the resultant ceiling and guarded external interface.
 - [R1107 v8](Yin_R_G1107_v8.md#whole-19683) independently checks all necessary integer combinations and the two conditional whole-measure bounds at conductor 19683.
 - [R1107 v7](Yin_R_G1107_v7.md#whole-6561) checks the full third-moment and Mahler bounds on the conductor-6561 negative-one branch.
 - [R1107 v6](Yin_R_G1107_v6.md#sparse-sieve-review) records checks of the modular search, order-27 fiber estimates and the separate Salem-quotient investigation.

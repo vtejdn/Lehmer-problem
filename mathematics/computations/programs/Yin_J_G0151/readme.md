@@ -111,6 +111,28 @@ The original \(6561\) quartic has negative real-line separation at \(N=8\) on th
 The [scope of that failure](../../../claims/Yin_C_G0882_v3.md#remaining-cases) leaves the corresponding whole-measure inequality unresolved.
 Both new programs use only Python integers and `fractions.Fraction`; no floating-point value supplies a certificate.
 
+<a id="higher-19683"></a>
+## Complete exterior costs from higher integral moments
+
+The [fourth-moment program](higher_moments19683.py) uses the same conductor, signs and norm for \(x=2,K=6,L=-8,N=14\).
+The positive weight \((b-y)(b-2/3)^2r\) gives the exact minimum weighted layer trace 14032098 and forces \(O=\sum b^3r\ge-20\).
+Its fixed fifth-degree polynomial then certifies the [complete bound \(M(P)>5/4\)](../../../claims/Yin_C_G0882_v4.md#whole-measure) at every strict endpoint, without assuming that the exceptional trace roots are nonreal.
+The program checks its factorization, Chebyshev expansion, trace difference, negative-variation value and strict rational cost margin.
+The [independent finding](../../../audits/reviews/Yin_R_G1107_v9.md#fourth-moment-whole-19683) also verifies the mathematical coverage and the exhaustive valuation minimization.
+
+The [negative-one program](negative_one_higher.py) treats \(x=-1,K=3,L=4,U=1\), using exact positive moment matrices with no further profile-matching assumption.
+For \(N=8\) it leaves \(O=11,\ldots,15\); the \(O=14\) case additionally uses \(V=\sum b^4r\in\{26,27,28,29\}\).
+Five fixed integer Chebyshev polynomials and rational Bernstein enclosures on 1024 subintervals give the [complete bound \(M(P)>23/20\)](../../../claims/Yin_C_G0882_v5.md#whole-measure) for all these cases.
+Their strict certificate margins exceed respectively 6544, 2562, 53, 386 and 11815.
+The [independent negative-one finding](../../../audits/reviews/Yin_R_G1107_v10.md#negative-one-higher-19683) checks the complete argument and reproduces these bounds by separate rational interpolation and subdivision.
+The exact pole bracket is \(-161/100<b_{7851}<-1006/625\), checked by the recurrence's respective counts 7851 and 7850.
+For \(N=7\), the program retains the [necessary 18 triples](../../../claims/Yin_C_G0882_v5.md#statement) of \(O,V,W=\sum b^5r\), with no assertion of realization or a complete-measure gap for that branch.
+The positive weight \((b-y)(b-1)^2(b-2)^2r\) has the normalized bound \(593881/656100\) at the specified norm.
+
+Both default programs completed using only standard-library integer and rational arithmetic.
+The negative-one program's optional `--explore` mode uses sampled SciPy linear programs to propose coefficients, but is not called by the fixed certificate path and supplies no proof.
+These tests produce neither an actual integral moment hit nor an arbitrarily small positive Mahler shell.
+
 <a id="replay"></a>
 ## Reproduction
 
@@ -123,6 +145,8 @@ python -B mathematics/computations/programs/Yin_J_G0151/shell.py 243 --separator
 python -B mathematics/computations/programs/Yin_J_G0151/shell.py 6561 --separator
 python -B mathematics/computations/programs/Yin_J_G0151/conductor19683.py
 python -B mathematics/computations/programs/Yin_J_G0151/exterior19683.py
+python -B mathematics/computations/programs/Yin_J_G0151/higher_moments19683.py
+python -B mathematics/computations/programs/Yin_J_G0151/negative_one_higher.py
 ~~~
 
 The raw shell interface also accepts the five profiles at 81 and 243 with separators \(-1/3\) and \(-5/6\), respectively, at the original representative.
