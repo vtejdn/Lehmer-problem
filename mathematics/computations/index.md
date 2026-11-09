@@ -3,6 +3,7 @@
 - [J154](programs/Yin_J_G0154/readme.md#finite-results) checks every single and double Galois filter on four slow ternary cuts, with exact joint moment support, complete label counts and no joint hit.
   Its [balanced controls](programs/Yin_J_G0154/balanced.md#scope), [complete unit window](programs/Yin_J_G0154/unit_ball.md#results) and [partial integer-square search](programs/Yin_J_G0154/low_energy_shell.md#partial-result) retain their separate bases, finite domains and coverage limits.
   The [complete smaller ball](programs/Yin_J_G0154/two_energy_shell.md#scope) excludes energies one and two throughout the specified integer-square domain.
+  The [signed-unit construction](programs/Yin_J_G0154/signed_filters.md#scope) supplies two positive nonsquare multipliers, while the [single-filter control](programs/Yin_J_G0154/nonsquare_control.md#complete-result) excludes the same two energies in its separate new square class.
 - [J153](programs/Yin_J_G0153/readme.md#factor-diagnostics) retains the 72 rotating-shear full-measure samples and their exact factor diagnostics, including reciprocal irreducible cores.
 - [J151 higher moments](programs/Yin_J_G0151/readme.md#higher-19683) verifies complete-measure certificates at conductor 19683 for both matching-third-moment branches.
 - [J152](programs/Yin_J_G0152/readme.md#sparse-unit-sieve) screens fixed-norm unit adjustments at conductor 6561 for the exact \((3,4)\) moments and bounds the necessary variation across order-27 fibers.

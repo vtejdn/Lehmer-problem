@@ -27,7 +27,7 @@ Its [72-input first test](../computations/programs/Yin_J_G0153/readme.md#full-me
 Keep this as an exploratory alternative pending a signed interaction with a justified reduction in full exterior cost; the current finite sample supplies no shrinking sequence or positive-probability lower bound for arbitrarily small shells.
 The [exact factor diagnostics](../computations/programs/Yin_J_G0153/readme.md#factor-diagnostics) identify that minimum as the plastic constant squared, but 40 of the 48 positive samples have only reciprocal noncyclotomic factors.
 Thus a universal nonreciprocal-factor explanation does not dispose of the model.
-The current arithmetic allocation uses the [Galois-permuted nonunit filters](../ledger/Yin_L_G0462_v6.md#galois-filter-law) on slow-cut representatives.
+The initial arithmetic supply uses the [Galois-permuted nonunit filters](../ledger/Yin_L_G0462_v6.md#galois-filter-law) on slow-cut representatives.
 One and two filters have an explicit whole-resultant budget below the necessary shrinking-shell ceiling; three or more copies of this seed exceed it.
 The initial [exact support test](../computations/programs/Yin_J_G0154/readme.md) checks every parameter at four stated conductors, then applies the strict endpoint and complete Mahler measure to actual moment hits.
 It does not infer positive small-shell probability from the norm budget or from a continuous approximation.
@@ -35,7 +35,12 @@ The [balanced-base control](../computations/programs/Yin_J_G0154/balanced.md#fil
 The [complete two-step unit window](../computations/programs/Yin_J_G0154/unit_ball.md#results) also misses all five moment targets.
 The [integer-square search](../computations/programs/Yin_J_G0154/low_energy_shell.md#partial-result) has a certified positive form but stopped at its node cap, leaving the unvisited low-energy vectors unresolved.
 The [separate complete smaller ball](../computations/programs/Yin_J_G0154/two_energy_shell.md#scope) excludes both energies one and two for every integer square multiplier of this fixed base, including nonunits.
-The energy-six target remains unresolved; the next supply comparison should include classes outside these integer squares.
+The energy-six target remains unresolved.
+Agent-S's [signed-unit rectification](../ledger/Yin_L_G0462_v7.md#signed-unit-rectification) now supplies positive multipliers outside those integer squares.
+One unsquared filter has a permanent layer-parity obstruction from \(3^6\) onward; a [pair of filters](../ledger/Yin_L_G0462_v7.md#paired-filter-supply) removes that obstruction at every ternary conductor and has limiting norm root \(\mu^2\) within the existing necessary budget.
+The [first conductor-81 single-filter control](../computations/programs/Yin_J_G0154/nonsquare_control.md#complete-result) exhausts its energy-one and energy-two ball after 895 nodes, again with no nonzero vector.
+The current arithmetic allocation selects the already constructed paired input \((1,2)\) at conductor 81 for the next bounded two-energy test, before any wider Galois or conductor scan.
+Neither the new square class nor the all-conductor integer supply proves a positive count in arbitrarily small strict Mahler shells.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
 The [prescribed-cut census](../computations/programs/Yin_J_G0149/readme.md#nonunit-atom) gives a binary atom of probability \(1/256\) at conductor 15, with nonunit resultant and two exterior roots.

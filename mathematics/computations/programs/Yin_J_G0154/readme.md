@@ -155,3 +155,8 @@ The [integer-square search](low_energy_shell.md#partial-result) reached its node
 Its [independent prefix review](../../../audits/reviews/Yin_R_G1107_v12.md#low-energy-prefix-review) confirms the exact visited prefix and incomplete status; it supplies no exclusion for the unvisited branches.
 The separate [complete ball at energies one and two](two_energy_shell.md#scope) excludes both energies for every integer square multiplier of that fixed base.
 Its 2084-node complete traversal has a [separate independent finding](../../../audits/reviews/Yin_R_G1107_v12.md#two-energy-review), without extending the energy-six result.
+The [signed-unit rectifiers](signed_filters.md#scope) supply two positive nonsquare multipliers at conductor 81, with exact layer norms and modular nonsquare certificates.
+Their [independent arithmetic finding](../../../audits/reviews/Yin_R_G1107_v13.md#signed-filter-review) checks both actual constructions and the general paired-supply argument at its stated scope.
+The [single-filter square-multiple control](nonsquare_control.md#complete-result) separately exhausts energies one and two at the resulting norm-5216 input.
+The [independent single-filter finding](../../../audits/reviews/Yin_R_G1107_v14.md#nonsquare-control-review) checks that actual input, exact matrices and complete traversal.
+It excludes those two energies in that new class, leaving other labels, the paired input and larger energies unresolved.

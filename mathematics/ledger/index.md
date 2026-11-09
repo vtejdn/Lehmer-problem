@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v7](Yin_L_G0462_v7.md) | Positive nonsquare multipliers from signed-unit rectification | Two norm-cost obstructions, actual new square classes, the single-filter parity boundary and paired integer supply at all ternary conductors. |
 | [Yin_L_G0462_v6](Yin_L_G0462_v6.md) | Integer residuals, exact factor diagnostics and Galois-permuted nonunit filters | Moving linear-factor obstruction, reciprocal core diagnostics and an exact integer supply law with one- and two-filter norm budgets. |
 | [Yin_L_G0464_v13](Yin_L_G0464_v13.md) | The full two-moment chamber at conductor 6561 for the negative-one profile | Cubic layer traces force three integer possibilities and conjugate-root ellipse bounds exclude the strict small shell in each. |
 | [Yin_L_G0462_v4](Yin_L_G0462_v4.md) | Quotients of nearby Salem numbers and the cost of their other conjugates | A two-field lower bound, the adjacent three-arm obstruction and the relative-degree test for radical quotients. |

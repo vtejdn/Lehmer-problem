@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R1107 v14](Yin_R_G1107_v14.md#nonsquare-control-review) independently checks the rectified single-filter input and the complete energy-one and energy-two exclusion in its fixed new square-multiple family.
+- [R1107 v13](Yin_R_G1107_v13.md#signed-filter-review) independently checks signed-unit rectification, the all-conductor paired supply, both native nonsquare inputs and the zero-component overlap boundary.
 - [R1107 v12](Yin_R_G1107_v12.md#unit-ball-review) independently checks the complete 2813-label conductor-81 unit window.
   Its [separate prefix finding](Yin_R_G1107_v12.md#low-energy-prefix-review) verifies the capped integer-square search and its explicitly incomplete coverage.
   Its [complete smaller-ball finding](Yin_R_G1107_v12.md#two-energy-review) excludes energies one and two for all integer square multipliers of the fixed base.

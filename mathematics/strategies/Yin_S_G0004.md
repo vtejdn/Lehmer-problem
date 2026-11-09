@@ -35,17 +35,23 @@ The unmatched \(N=7\) branch is reduced to 18 necessary higher-moment triples an
 These fixed-conductor certificates do not settle the growing-conductor route.
 Prioritize a concrete source of new integer inputs and its exact joint moment support before extending the conductor table again.
 The [moving linear cut times an arbitrary integer square](../claims/Yin_C_G0880_v3.md#decision-moving-linear-square-gap) has a uniform whole-measure gap, so dropping the unit restriction through that factor does not supply shrinking shells.
-The selected construction is the [one- and two-filter Galois law](../ledger/Yin_L_G0462_v6.md#galois-filter-law) on slow cuts with representative norm 32 in the initial window.
+The initial construction uses the [one- and two-filter Galois law](../ledger/Yin_L_G0462_v6.md#galois-filter-law) on slow cuts with representative norm 32 in the initial window.
 Its [exact joint-support test](../computations/programs/Yin_J_G0154/readme.md) uses conductors 27, 81, 243 and 729, every allowed Galois index and every pair, retaining labelled multiplicities.
 Only actual two-moment hits proceed to endpoint and complete-root certification.
-If that full finite support misses the targets, investigate the structural or magnitude obstruction before enlarging the window.
+That full baseline support misses the targets; the following controls examine magnitudes and square classes before enlarging the window.
 The [balanced-base control](../computations/programs/Yin_J_G0154/balanced.md) reuses the existing strict conductor-27 input and reduces the conductor-81 energy to 11, but neither final base supplies a joint moment hit under the stated filters.
 At the conductor-81 base, all [2813 radius-two unit labels](../computations/programs/Yin_J_G0154/unit_ball.md#results) also miss the targets, including the 20 labels at energies 17 and 34.
 The [40-dimensional integer-square search](../computations/programs/Yin_J_G0154/low_energy_shell.md#partial-result) includes arbitrary integer square multipliers, but its energy-at-most-six traversal is incomplete at one million nodes.
 Its four encountered classes do not match a target, and no emptiness conclusion follows for the remaining search.
 The [separate energy-one and energy-two ball](../computations/programs/Yin_J_G0154/two_energy_shell.md#scope) is now complete after 2084 nodes and has no nonzero vector, with [independent review](../audits/reviews/Yin_R_G1107_v12.md#two-energy-review).
 This excludes the \(x=1,2\) targets throughout the fixed base's integer-square domain, including nonunits; it does not cover every sign-compatible input.
-Retain the unresolved energy-six target and compare actual integral supply outside this square class before enlarging the same unit window.
+The [signed-unit construction](../ledger/Yin_L_G0462_v7.md#signed-unit-rectification) changes the square class while preserving the cut and controlling the resultant.
+Its [first single-filter control](../computations/programs/Yin_J_G0154/nonsquare_control.md#complete-result) also completely excludes energies one and two, now for the norm-5216 base and every integer square multiplier of it.
+This 895-node result concerns only \(p=81,k=9,a=1\), leaving the energy-six target and the other new square classes unresolved.
+The single seed cannot be rectified by a unit from layer six onward, whereas [paired rectification](../ledger/Yin_L_G0462_v7.md#paired-filter-supply) supplies integral positive multipliers at every \(3^m\), with norm root tending to \(\mu^2\) inside the necessary budget.
+Select the already certified conductor-81 pair \((1,2)\) as the next bounded test: reconstruct its norm-850208 base, verify its positive Gram form, and traverse only energies one and two under the same 5,000,000-node or 120-second limit.
+An actual joint hit must still pass the nonzero resultant, strict endpoint and complete Mahler test; incomplete traversal supplies no exclusion.
+Do not enlarge the conductor or Galois window before assessing this paired control.
 An arbitrary-radius probability proof requires nonempty strict whole-measure shells at unbounded conductors; the [finite exponent-box probability](../ledger/Yin_L_G0464_v10.md#whole-measure-and-probability) alone supplies no such lower count.
 The [positive unit that enforces the endpoint](../ledger/Yin_L_G0464_v8.md#small-norm-terminal-block) sends the measure to infinity, while [every fixed filtered height](../ledger/Yin_L_G0464_v7.md#height-escape) must grow faster than each fixed power of \(\log p\) at this cut.
 The target on those same inputs is either a positive counting bound in successively smaller whole-measure shells or an explicit shrinking sequence.
