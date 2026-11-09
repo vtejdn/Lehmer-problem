@@ -10,7 +10,8 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state.** Under the [2026-11-08 continuation](../tasks/Yin_T_G0001_v1.md#decision-resume-small-shell-2026-11-08), S4 resumes from paused to active; its child S8 remains paused.
+**Current state.** Under Yin's [instruction to finish this round and pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-pole-round-2026-11-09), S4 changes from active to paused at 2026-11-09T16:42; its child S8 remains paused.
+The following continuation points require an explicit resumption before further exploration or review.
 Prioritize integer constructions and discrete existence arguments that control the complete positive total Mahler measure.
 On the odd trace grid, test integral remainders \(C\) in \(Q=(t-a)B+C\) with unit and nonunit resultants.
 The [complete census at three conductors](../computations/programs/Yin_J_G0147/readme.md#whole-shell) gives the finite calibration, including one nonunit input of measure between 1.18836814 and 1.18836815.
@@ -44,9 +45,14 @@ Its [certified endpoint value](../ledger/Yin_L_G0464_v15.md#endpoint-value) lies
 The [endpoint-log test](../computations/programs/Yin_J_G0151/endpoint_model.md#finite-result) retains a separate failed numerical parameterization without an exact exclusion.
 The [adopted endpoint-domain theorem](../claims/Yin_C_G0882_v9.md#decision-endpoint-domain-19683) now keeps that value and all factor multiplicities for every mandatory-root choice.
 Every real residual pair has full measure one; a candidate with \(1<M(P)\le101/100\) must have \(v_{1,2}=s\pm\sqrt d\), \(-6/5<s<-1/3\), and \(s^2/40401-1/10100\le d<0\), with the new density and endpoint constraints.
-For the first triple, [four fixed continuous duals](../computations/programs/Yin_J_G0151/endpoint_dual.md#moving-cover) exclude parts of this domain but leave 71 of 4096 cells unresolved at target \(101/100\), and 86 of 16384 at target \(1001/1000\).
-Both covers were independently reproduced and neither gives a new complete-measure lower bound.
-Next test whether the actual integer value \(h(-1)\), jointly with the prescribed two-power resultant and moment constraints, restricts the remaining domain before another dual search or conductor increase.
+For the first triple, the earlier [four fixed continuous duals](../computations/programs/Yin_J_G0151/endpoint_dual.md#moving-cover) left 71 of 4096 cells unresolved at target \(101/100\), and 86 of 16384 at target \(1001/1000\).
+The [adopted integer-pole theorem](../claims/Yin_C_G0882_v10.md#decision-fixed-pole-first-shell) forces \(h(-1)=32\) in all five branches from the two-power resultant, congruence and exact point-mass bounds.
+Its strict residual-pair inequality closes the remaining 71 cells and excludes \(1<M(P)\le101/100\) for \((10,18,27)\), while leaving the measure-one case unresolved.
+The four remaining positive-shell triples are \((11,20,33),(11,20,34),(11,21,36),(11,21,37)\).
+At the forced atom, the [four residual-matrix forms](../ledger/Yin_L_G0464_v17.md#joint-remainder-test) remain positive definite and the [five inherited scalar minima](../ledger/Yin_L_G0464_v17.md#conditional-layer-cost) do not increase.
+The next S4 test after explicit resumption is the joint fixed-pole and root-geometry constraint for those four triples, preserving original integer realization as a separate obligation.
+Agent-S's [exact simple-root atom and central deformation](../ledger/Yin_L_G0462_v12.md#central-deformation) provide a separate integer supply mechanism.
+Its [unperformed growing-degree test](../ledger/Yin_L_G0462_v12.md#first-test) must first preserve a unique terminal negative block; the finite probability \(1/25\) establishes no arbitrary-radius conclusion.
 These fixed-conductor certificates do not settle the growing-conductor route.
 Prioritize a concrete source of new integer inputs and its exact joint moment support before extending the conductor table again.
 The [moving linear cut times an arbitrary integer square](../claims/Yin_C_G0880_v3.md#decision-moving-linear-square-gap) has a uniform whole-measure gap, so dropping the unit restriction through that factor does not supply shrinking shells.
@@ -312,7 +318,7 @@ This is preparation for a future explicitly authorized resumption.
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
+| disposition | paused |
 | priority | Test moving sign transitions and the full exterior cost on the original integral trace grid; seek positive probability in shrinking shells. |
 
 The current [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) puts counterexample construction first and reserves a small positive effort for S9.

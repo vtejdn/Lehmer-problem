@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R1107 v27](Yin_R_G1107_v27.md#integer-pole-shell-review) independently checks the complete forced-integer-pole theorem and first-triple positive-shell exclusion, retaining the measure-one and four-other-triple limits.
+  Its [native and ledger finding](Yin_R_G1107_v27.md#integer-pole-native-review) reproduces both new fixed programs and checks the remaining arithmetic tests and inherited scalar-cost limits.
+- [R1107 v28](Yin_R_G1107_v28.md#simple-root-deformation-review) independently checks the exact simple-root integer atom, complete-measure positivity, finite probability, fixed-perturbation obstruction and the unperformed growing-degree interface.
 - [R1107 v25](Yin_R_G1107_v25.md#endpoint-domain-review) independently checks the complete moving-pair endpoint theorem with all original multiplicities and necessary-domain limits.
   Its [fixed-dual finding](Yin_R_G1107_v25.md#fixed-dual-cover-review) reproduces the four continuous certificates and both incomplete covers, retaining 71 and 86 unresolved cells and the historical LP-review limit.
 - [R1107 v26](Yin_R_G1107_v26.md#integer-pole-review) independently checks the complete integer-pole prefix bound and exact conductor-19683 consequence.

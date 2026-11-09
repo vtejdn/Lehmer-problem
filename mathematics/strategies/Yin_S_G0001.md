@@ -13,8 +13,8 @@ author: Yin
 <a id="whole-goal-allocation-2026-11-05"></a>
 ## Whole-goal allocation after the arithmetic random-matrix inquiry
 
-**Current state.** Yin [resumed the unrestricted Task](../tasks/Yin_T_G0001_v1.md#decision-resume-small-shell-2026-11-08) on 2026-11-08.
-S1 and S4 resume from paused to active; the seven other routes keep their previous dispositions.
+**Current state.** Under Yin's [instruction to finish this round and pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-pole-round-2026-11-09), S1 and S4 change from active to paused at 2026-11-09T16:42.
+All nine routes are paused, and the retained allocation below requires an explicit resumption before further exploration or review.
 **Allocation.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess.
 The [conditional probability](../claims/Yin_C_G0870_v2.md#amplification) can already tend to one from one positive value; count new values below the supplied seeds before attributing a gain to this strategy.
 At a single degree the [irreducible comparison](../ledger/Yin_L_G0462_v3.md#different-measures-one-degree) produces many distinct measures near the plastic number; none of these approach one.
@@ -64,8 +64,14 @@ Their nonintegral rational atom locations cannot be roots of an actual monic int
 The [true-interval construction for the first triple](../ledger/Yin_L_G0464_v15.md#existence-certificate) satisfies all seven polynomial equations and all actual root intervals, but its endpoint value lies strictly between 0.022 and 0.023 instead of one.
 The [endpoint-log comparison](../computations/programs/Yin_J_G0151/endpoint_model.md#endpoint-value) identifies this additional original condition; simultaneous endpoint-value, norm and integer realization remain unresolved.
 The [adopted moving-pair theorem](../claims/Yin_C_G0882_v9.md#decision-endpoint-domain-19683) now enforces the exact endpoint equality, excludes positive complete measure for real residual pairs, and supplies a bounded nonreal parameter domain with density-cap constraints.
-The [four continuous duals and two covers](../ledger/Yin_L_G0464_v16.md#exact-dual-tests) leave respectively 71 and 86 cells unresolved for the first triple at the two stated targets, so no new full-measure floor follows.
-The next S4 test couples actual integer pole values to the prescribed resultant and moments; a continuous feasible cell will still not count as positive probability on the original integer law.
+The earlier [four continuous duals and two covers](../ledger/Yin_L_G0464_v16.md#exact-dual-tests) left respectively 71 and 86 cells unresolved for the first triple at the two stated targets.
+The [adopted integer-pole theorem](../claims/Yin_C_G0882_v10.md#decision-fixed-pole-first-shell) now forces \(h(-1)=32\) in all five branches and completes the first triple's exclusion of \(1<M(P)\le101/100\), without excluding measure one.
+Its exact pole contribution closes all 71 remaining cells, leaving only \((11,20,33),(11,20,34),(11,21,36),(11,21,37)\) unresolved in the strict positive shell.
+The [remaining arithmetic tests](../ledger/Yin_L_G0464_v17.md#joint-remainder-test) pass all four residual-matrix forms at the forced value, and conditioning the inherited five scalar costs on that value does not improve their minima.
+After explicit resumption, test the fixed integer pole jointly with root geometry in those four branches; continuous feasibility still supplies no positive probability on the original integer law.
+Agent-S's [simple-root example](../ledger/Yin_L_G0462_v12.md#simple-root-atom) gives an exact conductor-nine integer input with \(M(P)>1\) and a probability atom of \(1/25\), disproving the proposed single-root neutrality implication.
+The [independently checked central deformation](../audits/reviews/Yin_R_G1107_v28.md#simple-root-deformation-review) retains a specific growing-degree proposal whose original sign chamber must be checked first after resumption.
+Its long-prefix supply and positive probability in every arbitrarily small shell remain unproved.
 Neither these finite controls nor the all-conductor filter supply proves a positive count in arbitrarily small strict Mahler shells.
 The [prime-grid probability law](../computations/programs/Yin_J_G0146/readme.md#finite-shell) produces four measures in \((6/5,13/10)\) at conductor 13 from circular units and a shift.
 Allow nonunit numerators in the next law because the [all-height census](../computations/programs/Yin_J_G0147/readme.md#unique-input) recovers a unique norm-4313 input in the conductor-19 chamber below \(6/5\).
@@ -1518,7 +1524,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
+| disposition | paused |
 | priority | Seek a new positive measure in shrinking reciprocal shells; distinguish new values from repeat occurrences of a supplied measure. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>

@@ -71,3 +71,33 @@ This is a distinct occurrence from the original strategy_critique and f_unitary_
 The source does not print the finite inverse-matrix formula used in L404 at the cited passage; the complete finite real matrix identity is proved locally by Schur complements and nilpotent shifts, without substituting nearby OPUC conventions.
 R405 inspected this existing source record at that attribution/restricted-use scope and did not perform a new original Simon proof audit.
 The present maintaining constructor read the complete retained original account and this U, without opening a new primary PDF, inspecting another source proof or upgrading any earlier proof coverage.
+
+<a id="point-mass-christoffel"></a>
+## The point-mass bound and the Christoffel variational principle
+
+On 2026-11-09 the conductor_moments research agent for Yin read the actual retained arXiv0806.1528v1 PDF by text extraction at printed/PDF pages 2, 4–5 and 15–16.
+This is a new scoped source reading, not an independent review of the project calculation or a whole-source audit.
+The needed statements are Section 2, Theorem 2.1 on page 5, equation (2.3), and Section 9, Theorem 9.2 on page 15, equations (9.6)–(9.7).
+The finite-dimensional proof in Lemma 9.1 on page 15 was also read.
+The adjacent examples on page 16 supply no premise for the present application.
+
+With the source's notation, the coefficient matrix of the Christoffel–Darboux kernel \(K_n\) is the inverse of the moment matrix \(m^{(n)}\).
+The variational theorem identifies
+\[
+ \min_{\deg q\le n,\ q(x)=1}\int |q|^2\,d\mu=\frac1{K_n(x,x)}.
+\]
+For real support and \(v_n(x)=(1,x,\ldots,x^n)^{\mathsf T}\), these two statements identify the right side with
+\[
+                     \frac1{v_n(x)^{\mathsf T}H_n^{-1}v_n(x)}.
+\]
+An atom of mass \(\lambda\) at \(x\) contributes \(\lambda\) to the integral for every normalized test \(q(x)=1\).
+Thus the familiar point-mass upper bound \(\lambda\le1/(v_n(x)^{\mathsf T}H_n^{-1}v_n(x))\) is the corresponding consequence of this variational mechanism.
+This identification settles attribution of the general mechanism and makes no priority claim about its earliest publication.
+
+The source's global setup on page 2 assumes finite moments and excludes measures supported on a finite set.
+The G0001 measure instead has 9841 positive atoms and uses only degree \(n=2\); after the rational pole is removed, 9840 distinct positive atoms remain.
+Accordingly this record does not claim that the source's blanket hypotheses literally cover the project measure.
+The finite-dimensional squared-polynomial argument is supplied completely in [C882v10](../../../claims/Yin_C_G0882_v10.md#integer-pole), where positive definiteness and strictness follow from that remaining support.
+The source is attribution for a standard mechanism proved in the exact project setting, not an unproved external dependency or a source for the special value \(h(-1)=32\).
+The specialization to the layer parity, norm exponent and five exact rational matrices is project arithmetic.
+Its native arithmetic is retained in [rational_pole.py](../../../computations/programs/Yin_J_G0151/rational_pole.py); that program has not been independently reviewed by this source reading.

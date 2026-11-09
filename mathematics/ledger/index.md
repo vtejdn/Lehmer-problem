@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v12](Yin_L_G0462_v12.md) | A simple profile root, an exact integer atom and the remaining deformation count | Exact conductor-nine positive-measure atom, failure of single-root neutrality, fixed-perturbation limits and an unperformed growing-degree sign test. |
+| [Yin_L_G0464_v17](Yin_L_G0464_v17.md) | The forced rational-pole value and its remaining arithmetic limits | Forced integer value, four residual-matrix tests, unchanged scalar layer minima and the separate first positive-shell exclusion. |
 | [Yin_L_G0462_v11](Yin_L_G0462_v11.md) | Neutral prefix supply, multiplicity rigidity and integer pole mass | Explicit measure-one completions, the strict-chamber double-factor obstruction, a rational-pole length bound and the remaining positive integer count. |
 | [Yin_L_G0464_v16](Yin_L_G0464_v16.md) | Endpoint logarithms, moving roots and the remaining finite-test gaps | Complete necessary pair domain and endpoint constraints, with four fixed duals and two incomplete covers for the first residual triple. |
 | [Yin_L_G0462_v10](Yin_L_G0462_v10.md) | Exact-prefix supply, whole-measure control and the failed first cut | Five odd-grid prefix profiles, the remaining positive integer count, a real obstruction at conductor 401, and compatible growing-cut scales. |

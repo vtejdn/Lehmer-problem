@@ -4,6 +4,16 @@ author: Yin
 
 # Complete moment enumeration at conductor 27 and a third-moment bound at 243
 
+<a id="integer-pole-first-shell"></a>
+## Integer pole and the first residual positive shell at conductor 19683
+
+The [fixed rational-pole calculation](rational_pole.md) checks all five retained N=7 triples and forces \(h(-1)=32\) under their original integer, cut, resultant and small-measure hypotheses.
+All four residual-matrix tests then pass, and the five inherited separate layer minima do not improve.
+The [complete pole-pair cover](pole_pair.md) adds the actual integer contribution to the four retained continuous duals, covering all 4096 cells with first-success counts \((3739,203,66,17,71)\) and no unresolved cell.
+The new pole-gap lower bound exceeds \(0.0043619\) in all 71 previously unresolved cells.
+The [adopted C882v10 theorem](../../../claims/Yin_C_G0882_v10.md#decision-fixed-pole-first-shell) excludes \(1<M(P)\le101/100\) only for \((O,V,W)=(10,18,27)\), retaining measure one and the other four triples as unresolved.
+The [independent native finding](../../../audits/reviews/Yin_R_G1107_v27.md#integer-pole-native-review) reproduces both programs at their full fixed scope.
+
 <a id="complete-27"></a>
 ## The entire prescribed class at conductor 27
 

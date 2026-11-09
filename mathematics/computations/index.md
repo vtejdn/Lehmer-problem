@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J151 integer-pole cover](programs/Yin_J_G0151/readme.md#integer-pole-first-shell) forces the rational-pole value in all five conductor-19683 branches and completes the first triple's strict-positive-shell exclusion through \(101/100\).
+  The fixed 4096-cell certificate leaves no unresolved cell, while measure one and the other four triples remain outside that exclusion.
 - [J155](programs/Yin_J_G0155/readme.md#fixed-incumbent) supplies a strict integer input from one full-coefficient proposal at conductor 81 with three negative nodes.
   Its [complete measure](programs/Yin_J_G0155/readme.md#factorization-measure) is about 2.620597651610943; the third moment is three, and no mathematical solver-optimality or arbitrary-radius conclusion is claimed.
   The separate [third-moment-six test](programs/Yin_J_G0155/third_moment.md#result) reaches its fixed time limit without an incumbent, with no full-domain exclusion.

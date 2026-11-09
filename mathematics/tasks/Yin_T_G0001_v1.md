@@ -178,7 +178,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-resume-small-shell-2026-11-08)
+[Selected decision](#decision-pause-after-pole-round-2026-11-09)
 
 ## Lifecycle and completion
 
@@ -597,6 +597,19 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unrestricted Lehmer contract](#contract) | A uniform positive gap or a proof of arbitrarily small positive total measures, including nonconstructive existence. |
+
+### Decision pause-after-pole-round-2026-11-09
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-09T16:42 |
+| status | paused |
+| authority | Yin explicitly instructed in the current conversation: finish this exploration round, then pause. |
+| reason | The current integer-pole exploration and independent reviews are complete and retained at their responsible homes. Pause G0001 and its routes before any new exploration, computation or mathematical review. The unrestricted objective remains unresolved; further research requires Yin's explicit resumption, with the shared ninety-eight-percent weekly stopping threshold and monitoring conditions retained. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unchanged unrestricted contract](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total measures, including nonconstructive existence; unresolved and paused after the current round. |
 
 ## Execution boundary
 
