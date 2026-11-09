@@ -14,8 +14,9 @@ author: Yin
 ## Whole-goal allocation after the arithmetic random-matrix inquiry
 
 **Current state.** Under Yin's [instruction to finish this round and pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-pole-round-2026-11-09), S1 and S4 change from active to paused at 2026-11-09T16:42.
-All nine routes are paused, and the retained allocation below requires an explicit resumption before further exploration or review.
+All current routes, including the [adaptive sampling child of S4](Yin_S_G0010.md#route), are paused, and the retained allocation below requires an explicit resumption before further exploration or review.
 **Allocation.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess.
+S10 prepares a finite search comparison with [distinct-value and computation-cost metrics](Yin_S_G0010.md#metrics); its first experiment remains unrun.
 The [conditional probability](../claims/Yin_C_G0870_v2.md#amplification) can already tend to one from one positive value; count new values below the supplied seeds before attributing a gain to this strategy.
 At a single degree the [irreducible comparison](../ledger/Yin_L_G0462_v3.md#different-measures-one-degree) produces many distinct measures near the plastic number; none of these approach one.
 The [Salem quotient test](../ledger/Yin_L_G0462_v4.md#adjacent-ratios) excludes quotients of the close three-arm seeds, including powers and root-of-unity twists, by counting the exterior conjugates over each fixed seed.

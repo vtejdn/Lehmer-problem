@@ -10,8 +10,11 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state.** Under Yin's [instruction to finish this round and pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-pole-round-2026-11-09), S4 changes from active to paused at 2026-11-09T16:42; its child S8 remains paused.
+**Current state.** S4 and its child routes remain paused under Yin's [instruction to finish this round and pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-pole-round-2026-11-09).
 The following continuation points require an explicit resumption before further exploration or review.
+The [adaptive integer sampling child S10](Yin_S_G0010.md#route) owns distribution updates, search-efficiency metrics and a [first comparison of three sampling laws](Yin_S_G0010.md#first-experiment), prepared at Yin's request while research remains paused.
+S4 retains integer constructions, structural exclusions and the separate obligation to obtain positive mass in arbitrarily small strict shells.
+S10 returns certified candidates and observed features to that work; its finite performance comparison supplies no arbitrary-radius existence conclusion.
 Prioritize integer constructions and discrete existence arguments that control the complete positive total Mahler measure.
 On the odd trace grid, test integral remainders \(C\) in \(Q=(t-a)B+C\) with unit and nonunit resultants.
 The [complete census at three conductors](../computations/programs/Yin_J_G0147/readme.md#whole-shell) gives the finite calibration, including one nonunit input of measure between 1.18836814 and 1.18836815.
@@ -319,7 +322,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Test moving sign transitions and the full exterior cost on the original integral trace grid; seek positive probability in shrinking shells. |
+| priority | Coordinate moving-sign integer constructions and adaptive sampling; test full exterior cost and positive mass in shrinking shells. |
 
 The current [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) puts counterexample construction first and reserves a small positive effort for S9.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

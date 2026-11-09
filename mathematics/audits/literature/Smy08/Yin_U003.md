@@ -204,9 +204,9 @@ with sufficiently large degree for the stated upper bound; a further bound $T^{d
 Sinclair's reciprocal-polynomial results are mentioned without an explicit formula.
 Their original proofs and constants were not audited.
 
-**F3: the counting convention and the sharper upper bound are not safe for direct reuse.**
+**F3. The counting convention requires normalization.**
 The original DK98, p.325, explicitly defines $N(d,T)$ with **positive leading coefficient and nonzero constant coefficient**.
-This primary opening passage was available through indexed PDF text, while direct PDF access failed with HTTP 403.
+The initial inspection reached the opening passage through indexed PDF text after direct access returned HTTP 403.
 The survey's definition omits both conditions.
 If $C_d$ counts monic products of cyclotomic polynomials of degree $d$, with $C_0=1$, the literally defined all-polynomial count at $T=1$ is exactly
 $$
@@ -218,27 +218,45 @@ A visual check of the [Smy08 preprint](../../../literature/pdf/Smy08.pdf), print
 Since $\#(d,1)\ge 2C_d$, the reported asymptotic for $C_d$ precludes (38) for the survey's literal all-polynomial count.
 Direct inspection of the [Boyd–Montgomery chapter](https://doi.org/10.1515/9783110848632-004) remains outstanding.
 
-Moreover the directly located primary passage [72], p.328, equation (5), has the general estimate
+The initial primary check reached DK98, p. 328, equation (5), which gives the general estimate
 $$
-|N(d,T)|<T^{d(1+16\log\log d/\log d)}e^{3.58\sqrt d},
+|N(d,T)|<T^{d(1+16\log\log d/\log d)}e^{3.58\sqrt d}.
 $$
-whereas Smy08 omits the last factor.
-The full preceding theorem and its family/threshold qualifications were not accessible in this bounded check, so this records a **source-interface discrepancy requiring resolution**, not a proof that no stronger bound can hold.
-In particular one may not drop that factor merely by quoting the located equation.
+The theorem on p. 327 of the published [Dubickas–Konyagin paper](https://matwbn.icm.edu.pl/ksiazki/aa/aa86/aa8643.pdf#page=3) gives the sharper bounds for sufficiently large $d$,
+$$
+\begin{aligned}
+|N(d,T)|&<T^{d(1/2+16\log\log d/\log d)} &&\text{in part (ii)},\\
+|N(d,T)|&<T^{d(1+16\log\log d/\log d)} &&\text{in part (iii)}.
+\end{aligned}
+$$
+Part (ii) requires $\exp((9/4-\varepsilon)(\log\log d/\log d)^3)\le T<\theta$, where $\varepsilon$ is a small positive constant and $\theta=1.324717\ldots$ is the real root of $x^3-x-1$.
+The lower threshold tends to one, so every fixed $T$ in $(1,\theta)$ qualifies for sufficiently large $d$.
+Part (iii) applies for $T\ge\theta$ and confirms the displayed survey bound for the normalized count in its stated range.
 The exact relation between all-polynomial counts and the normalized counts is $\#(d,T)=2\sum_{j=0}^d|N(j,T)|$, extending $N(0,T)$ to positive integer constants at most $T$.
 Any transfer must account for these terms and signs.
 Fixed-degree finiteness or a fixed-degree large-$T$ asymptotic does not supply a gap uniform over unbounded degree.
+
+<a id="dk98-reciprocal-binary-count"></a>
+### The shell below six fifths in the reciprocal binary model
+
+For degree $2n$, each monic reciprocal integer polynomial of constant term one and measure at most $6/5$ belongs to $N(2n,6/5)$.
+Part (ii) bounds that count by $(6/5)^{n+o(n)}$ as $n\to\infty$.
+In the model with the $n$ free reciprocal coefficients independently uniform in $\{0,1\}$, each of the $2^n$ polynomials has probability $2^{-n}$.
+Consequently $\Pr(1<M<6/5)\le (3/5)^n\exp(o(n))$ in that model.
+
+The 2026-11-09 follow-up checked the definition on p. 325, parts (ii) and (iii) on p. 327, and the use of reciprocity at the start of Section 6 on p. 341 in the published online edition.
+The theorem is accepted for this counting application at statement level, with the full proof outside the inspection scope.
 
 ## Dependencies, search limits and downstream effects
 
 The primary checks were bounded responses to concrete mismatches: Matveev [106]'s definition and Theorem 1; Rhin [127] Theorem 1 for (36); Dubickas [67] Theorems A and 1 and the latter's proof with the repairs above; Dubickas [69]'s indexed publisher abstract/Theorem 3 for the additive target; and Dubickas--Konyagin [72]'s indexed definition and equation (5).
 Searches used exact cited titles and implicated formulas.
-The original Boyd--Montgomery asymptotic and the full counting theorem remain unverified at original-statement scope.
+Direct inspection of the original Boyd--Montgomery chapter remains outstanding.
 Failed opens and image-only extraction do not imply that no accessible source exists.
 Following the parent's explicit retention instruction, this reviewer downloaded the selected Rhin and Matveev originals and recorded URL/time/bytes/hash metadata for parent registration; a single counting-PDF acquisition attempt returned HTTP 403.
 No claim of an exhaustive errata search or nonexistence of a corrigendum is made.
 
-Canonical keys for these selected dependencies are **Mat96**, **Rhi04**, **Dub02** (Smy08 [67], published 2002), **Dub04** ([69], no locally obtained PDF), and **DK98** (Dubickas--Konyagin [72], no locally obtained PDF).
+Canonical keys for these selected dependencies are **Mat96**, **Rhi04**, **Dub02** (Smy08 [67], published 2002), **Dub04** ([69], no locally obtained PDF), and **DK98** (Dubickas--Konyagin [72], checked in the published online edition).
 The exact online locators above identify the inspected statements.
 
 The full Sections 8--11 contain mainly theorem reports and examples, not proofs of all their cited results.
