@@ -17,6 +17,23 @@ Under the [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), S4 initiall
 The initial construction focus is a new parent satisfying the full prefix, sign and endpoint conditions, with actual factor production retained as an alternative.
 The proof focus is uniformity beyond fixed transvection count or a genuine extension of the integer-embedding cover.
 These are revisable priorities rather than fixed effort shares or required test sequences; the main researcher may select a better justified method as evidence changes.
+
+<a id="all-cut-and-d4-feasibility"></a>
+The [adopted all-cut positivity theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) now covers every strict terminal cut for integer \(Q=tB_n+C\) with leading remainder coefficient two.
+It forces exactly one nonreal exterior conjugate pair, strict complete measure and the same conditional variable-reference upper bound, without a separate nonneutrality premise.
+Actual simultaneous integer supply remains the first unproved construction step.
+For the squarefree central-parent profile, the [new necessary gates](../ledger/Yin_L_G0457_v5.md#order-localization) force every parent order to be at most \(p\), odd \(n\), and \(A(-1)>1\).
+The [endpoint-repaired parent](../ledger/Yin_L_G0457_v5.md#endpoint-repair-test) \(\Phi_4\Phi_{60}\Phi_{84}\) still fails every terminal cut for every permitted odd geometric length, by an earlier negative residue followed by a later positive residue.
+Thus changing only its geometric length or cut does not supply a new test.
+
+The [adopted D4-block cover](../claims/Yin_C_G0886_v4.md#decision-d4-block-canonical-cover) covers all positive integral block symmetries and both transvection groups at arbitrary block count and word length.
+It gives the unpowered Lehmer gap when the final ordered block permutation is trivial, and otherwise retains the factor \(1/d\) for its order \(d\).
+The [independently checked embedding obstructions](../ledger/Yin_L_G0462_v18.md#scope) show why neither arbitrary standard integer embedding nor a signed-permutation extension of D4 triality can be assumed.
+The explicit canonical construction bypasses those hypotheses for D4, but its negative-index-one scope does not represent the nonreal exterior-pair inputs of the construction inquiry.
+Further proof investment should address an actual new representation or a uniformity mechanism, rather than treat another covered block family as unrestricted polynomial coverage.
+The [independently checked full-group obstruction](../ledger/Yin_L_G0462_v19.md#scope) closes one such implementation: for every \(r\ge2\), the natural \(O(D_4)^r\rtimes S_r\) is not contained in any finite reflection group on the same positive \(4r\)-space.
+This does not exclude larger ambient spaces, radical quotients or direct indefinite covers, and it does not prove that every method must retain the current \(d\)-power cost.
+
 The [adaptive integer sampling child S10](Yin_S_G0010.md#route) owns distribution updates, search-efficiency metrics and the [first comparison of three sampling laws](Yin_S_G0010.md#first-experiment).
 Its [reduced-prior live control](../computations/programs/Yin_J_G0156/readme.md#prior-live-results) and [completed degree-18/20 comparison](Yin_S_G0010.md#degree-validation) pass their finite recovery screens while finding only the known Lehmer target value.
 The [completed exact core-mass diagnostic](Yin_S_G0010.md#core-mass-follow-up) shows increased Lehmer probability but reduced second-core probability in every final law.

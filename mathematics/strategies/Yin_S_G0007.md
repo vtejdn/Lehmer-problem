@@ -9,7 +9,7 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#linear-growth-contract) | Seek a uniform estimate for the actual affine binary law through original-orbit collisions, with the exact return to Mahler measure. |
 
-**Current allocation.** This route and [S2](Yin_S_G0002.md#route) remain paused with G0001; further research requires explicit human resumption.
+**Current allocation.** This route and [S2](Yin_S_G0002.md#route) remain paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select either route within that resumed authority.
 Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), quantitative original-law occupation and finite-core estimates are independently selectable proof alternatives, with priority and effort reassessed from their prospects for genuine near-one inputs.
 The adopted [C856](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04) gives the exact radical growth of critical means and excludes the all-unit uniform-mean shortcut.
 The fixed quartic strict-tail question is still open and remains a control; proving it alone would not discharge the original uniformity obligation.

@@ -15,10 +15,10 @@ author: Yin
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | After explicit G0001 resumption, use sampling as a supporting diagnostic of integer supply, distinct noncyclotomic cores, distinct measures and complete exterior cost; reassess its scope against other routes from current evidence. |
+| priority | Use sampling as a supporting diagnostic of integer supply, distinct noncyclotomic cores, distinct measures and complete exterior cost when selected; reassess its scope against other routes from current evidence. |
 | parent | [Arithmetic constructions](Yin_S_G0004.md#route) |
 
-S10 remains paused with G0001; research execution requires explicit human resumption.
+S10 remains paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select sampling within that resumed authority.
 Its future allocation follows the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and the [current adaptive allocation](Yin_S_G0001.md#adaptive-allocation), with no fixed human-imposed share or precedence for sampling.
 The [earlier G0001 resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-sampling-2026-11-09) selected the completed first comparison.
 The protocols below retain their actual laws, budgets, ordering, success screens and evidence; those experiment-specific choices do not bind the selection of future protocols.
@@ -530,10 +530,10 @@ The bounded strategy comparison found no developed replacement from the inspecte
 The [MS05 construction interface](../audits/literature/MS05/Yin_U001.md#ms05-arbitrary-distinct-prime-construction) retains the [positive exterior expense](../audits/literature/RY26/Yin_U001.md#exterior-root-measure-expense), and [L133 v2](../ledger/Yin_L_G0133_v2.md#cyclotomic-boundary-log-gap) already excludes the proposed boundary-log cancellation of two unrestricted cyclotomic blocks.
 The [positive-lattice two-transvection theorem](../claims/Yin_C_G0885_v2.md#decision-positive-lattice-two-transvection-gap) separately closes that family as a source of positive measures tending to one, even when the positive integral lattice and its isometry vary.
 
-After explicit G0001 resumption, select comparisons for their expected information about integer supply, distinct cores, distinct measures and the full exterior contribution.
+If sampling is selected, choose comparisons for their expected information about integer supply, distinct cores, distinct measures and the full exterior contribution.
 A new generator, arithmetic support or joint-root mechanism is one reason to return to sampling; a justified increase in degree, runtime, mutation range or parent coverage may also be reconsidered from the accumulated evidence.
 The existing failures and exact exclusions determine the scope of that reassessment, rather than imposing a permanent prohibition on a method or a fixed order between strategies.
 Recovery of a known core remains a calibration result, and a larger raw hit count alone does not establish a new value or a smaller positive measure.
 A finite discovery test need not first prove an asymptotic construction, but its evaluation must retain original complete measures, actual primitive degree, distinct values and all costs.
 For any claimed shrinking-measure family, nonneutrality and a vanishing bound on the full exterior contribution remain separate obligations; original support growth alone does not rule out a bounded-support cyclotomic completion.
-This revised allocation leaves S10 and G0001 paused and makes no completion claim.
+S10 remains deferred while G0001's active inquiries compare construction feasibility and structural proof mechanisms; this allocation makes no completion claim.

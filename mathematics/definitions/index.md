@@ -7,6 +7,7 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 
 | Concept group | Contents |
 | --- | --- |
+| [Normalized real roots, simple roots and Coxeter Gram matrices](../audits/literature/Hec18/Yin_U001.md#normalized-root-conventions) | Heckman's squared-norm-two convention, chamber and simple-root definitions, reflection group and positive-definite Coxeter Gram convention; no crystallographic hypothesis. |
 | [Free Fields and Representations](#free-fields-and-representations) | Exact definitions, normalizations and source limits in the entries below. |
 | [Mahler measure, arithmetic heights and the house](#mahler-heights-and-house) | Exact definitions, normalizations and source limits in the entries below. |
 | [Modules, Hom and Algebraic Tensors](#modules-hom-and-algebraic-tensors) | Exact definitions, normalizations and source limits in the entries below. |

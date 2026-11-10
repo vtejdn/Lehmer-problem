@@ -114,12 +114,14 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Gent21](Gent21/readme.md) | [Yin_U001](Gent21/Yin_U001.md) |
 | [Gro02](Gro02/readme.md) | [Yin_U001](Gro02/Yin_U001.md#degree18-example): degree-18 example, scaled positive halves and multiplier interface |
 | [Gur04](Gur04/readme.md) | [Yin_U001](Gur04/Yin_U001.md), [Yin_U002](Gur04/Yin_U002.md), [Yin_U003](Gur04/Yin_U003.md), [Yin_U004](Gur04/Yin_U004.md) |
+| [HL02](HL02/readme.md) | [Yin_U001](HL02/Yin_U001.md#hl02-u001): full D4 lattice automorphism group W(F4) |
 | [HP03](HP03/readme.md) | [Yin_U001](HP03/Yin_U001.md) |
 | [HPM22](HPM22/readme.md) | Source and edition notes |
 | [HR08](HR08/readme.md) | Source and edition notes |
 | [HS16](HS16/readme.md) | [Yin_U001](HS16/Yin_U001.md) |
 | [HS16b](HS16b/readme.md) | [Yin_U001](HS16b/Yin_U001.md) |
 | [Han16](Han16/readme.md) | [Yin_U001](Han16/Yin_U001.md#han16-u001): quadratic finite-field Hankel periodicity and the synchronization boundary |
+| [Hec18](Hec18/readme.md) | [Yin_U001](Hec18/Yin_U001.md#hec18-u001): finite reflection classification and normalized A/B/D/F4 models |
 | [Hir06](Hir06/readme.md) | [Yin_U001](Hir06/Yin_U001.md) |
 | [Hou16](Hou16/readme.md) | [Yin_U001](Hou16/Yin_U001.md) |
 | [Hun74](Hun74/readme.md) | [Yin_U001](Hun74/Yin_U001.md), [Yin_U002](Hun74/Yin_U002.md), [Yin_U003](Hun74/Yin_U003.md), [Yin_U004](Hun74/Yin_U004.md), [Yin_U005](Hun74/Yin_U005.md), [Yin_U006](Hun74/Yin_U006.md), [Yin_U007](Hun74/Yin_U007.md) |

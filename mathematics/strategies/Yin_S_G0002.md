@@ -10,7 +10,7 @@ author: Yin
 | --- | --- |
 | [Lehmer contract](../tasks/Yin_T_G0001_v1.md#contract) | Equivalent growth formulation and its exact transfer to the common classical Mahler-gap target. |
 
-**Current allocation.** This route and [S7](Yin_S_G0007.md#route) remain paused with G0001; further research requires explicit human resumption.
+**Current allocation.** This route and [S7](Yin_S_G0007.md#route) remain paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select either route within that resumed authority.
 Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), the original-law affine-growth question is an independently selectable proof alternative whose priority and effort may be reassessed without a fixed ordering behind counterexample work.
 The adopted [critical-mean scaling theorem](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04) excludes a mean cap over all algebraic units, even at one fixed positive rate and Mahler measure.
 A strict tail result for the fixed quartic would give only an input-dependent finite mean and is not the next substitute for an unrestricted estimate.

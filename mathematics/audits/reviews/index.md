@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R1107 v41](Yin_R_G1107_v41.md#all-cut-positive-sum-review) independently checks the complete all-cut positive-sum theorem, exact nonreal exterior pair, Salem-source exclusions and variable-reference consequence.
+  Its [parent-localization finding](Yin_R_G1107_v41.md#parent-localization-review) independently checks the order and parity gates and complete rejection of the endpoint-repaired parent at every permitted length and cut.
+- [R1114 v16](Yin_R_G1114_v16.md#d4-canonical-cover-review) independently checks the complete D4-block canonical cover, exact radical spectrum, arbitrary generators and permutation-order cost, including its small-spectrum corollaries.
+  Its [embedding finding](Yin_R_G1114_v16.md#embedding-obstructions-review) independently checks the unimodular, triality-extension and full-coordinate mixing obstructions at their stated scopes.
+- [R1114 v17](Yin_R_G1114_v17.md#finite-reflection-enlargement-review) independently checks the complete same-positive-space finite-reflection obstruction for the actual natural D4 block group at every block count at least two, including the classification interfaces, prime-power deficits and rank-one exception.
 - [R1115](Yin_R_G1115_v1.md#balanced-disjoint-edge-transfer-review) independently checks the complete disjoint-edge transfer identity, balanced cyclic classification, Gaussian norm and uniform full-measure bound, including all root multiplicities and the accepted scalar Jensen interface.
   Its [v2 adjacent-cluster finding](Yin_R_G1115_v2.md#adjacent-cluster-transfer-review) independently checks all sixteen two-edge types, the full cyclic polynomial and the internally balanced word bound M>=max(2,sqrt(m)).
   The separate [v2 finite finding](Yin_R_G1115_v2.md#cluster-word-control-review) checks the complete genus-72 control with independently rebuilt inputs, exact factors and fresh 256-bit root enclosures.

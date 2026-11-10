@@ -9,7 +9,7 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#contract) | Retain neutral-completion and graph-compression mechanisms; evaluate candidate constructions or tests against coverage and unbounded-complexity obstructions. |
 
-**Current allocation.** This route remains paused with G0001; further research requires explicit human resumption.
+**Current allocation.** This route remains paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select it within that resumed authority.
 Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), neutral completion, graph compression and integral-minor mechanisms are adaptable structural alternatives for either proof or construction.
 Their priority and effort may be reassessed from the retained obstructions, new mechanisms and complete original-input returns, without a fixed ordering or quota.
 

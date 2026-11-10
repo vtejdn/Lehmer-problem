@@ -17,7 +17,7 @@ author: Yin
 | disposition | paused |
 | priority | Reassess joint Taylor evaluation and residual Smith divisibility as proof alternatives, scaling effort by mathematical promise and the complete arithmetic and complex-place costs without a fixed quota |
 
-**Current allocation.** This route remains paused with G0001; further research requires explicit human resumption.
+**Current allocation.** This route remains paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select it within that resumed authority.
 The [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) remove its former small-effort cap and fixed ordering behind counterexample construction.
 The retained arithmetic and analytic obstructions make a discriminating comparison on specified actual inputs a useful starting choice, while the agent may change the approach, scale or priority as the research judgment develops.
 An early test need not already prove a quadratic gain or the unrestricted return; evidence beyond the explicit Boolean factors and already covered controls would strengthen the case for greater investment.
@@ -27,7 +27,7 @@ The source of information is the change in relations between these functions ove
 [S8](Yin_S_G0008.md#route) supplies the degree descent, while this route tests divisibility of approximants to the functions themselves.
 The [complex disk obstruction](../drafts/Yin_D_G0011.md#neutral-disk) explains why the archimedean dimension theorem alone has low priority and records the unreviewed transfer to actual Salem conjugates.
 
-The retained comparison is one available starting point after explicit resumption, not a fixed limit on this route's methods or allocation.
+The retained comparison is one available starting point if this route is selected, not a fixed limit on its methods or allocation.
 The previously selected \(\overline{P_2}=\Phi_\ell\) family and the quartic Salem example are [calibration controls already covered by a uniform gap](../ledger/Yin_L_G0445_v1.md#covered-control-family).
 The distinction from S4/S8 lies in the function-field relations and rational approximation criterion, not in another gap for that class or the use of a prime-adic determinant alone.
 
@@ -117,7 +117,7 @@ The [prime-square period](../ledger/Yin_L_G0458_v4.md#prime-square-original-fact
 For the retained joint-evaluation test, specify an actual admissible original input, a weighted window and the proposed source of extra residual divisibility after the explicit factors are extracted.
 Its finite certificate must retain full rational column rank and show smaller binary rank for the normalized matrix, including enough actual evaluation rows to exclude the earlier short-window artifact.
 Growing arithmetic gain with the complete complex-place price for the same original minors would support a higher priority for this mechanism.
-A concrete candidate with additional residual divisibility is one reason to expand the test, while other approaches and allocations remain open to autonomous reassessment after resumption.
+A concrete candidate with additional residual divisibility is one reason to expand the test, while other approaches and allocations remain open to autonomous reassessment.
 
 A reason to increase investment would be a quantitative divisibility gain surviving these costs on an unbounded-degree class not already covered by the cited gap criteria, with a precise statement of what remains needed for the unrestricted inputs.
 A full residue rank, only the full-product relation, costs absorbing the gain, or an improvement confined to the covered controls calls for setting aside that family as a route to new coverage.

@@ -9,7 +9,7 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#contract) | Construct a degree-uniform contradiction from actual finite-window Fourier amplitudes and the proved entropy consistency inequality. |
 
-**Current allocation.** This route remains paused with G0001; further research requires explicit human resumption.
+**Current allocation.** This route remains paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select it within that resumed authority.
 Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), finite-window Fourier and signed-correlation mechanisms are supporting proof alternatives whose priority and effort may change with their mathematical promise and complete original-input costs.
 The retained obligations and separately scoped reviews below inform that judgment without requiring another route to advance first.
 
