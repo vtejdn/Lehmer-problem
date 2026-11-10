@@ -9,11 +9,9 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#contract) | Construct a degree-uniform contradiction from actual finite-window Fourier amplitudes and the proved entropy consistency inequality. |
 
-**Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
-2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
-The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
-Coordinate the current route-specific mathematical obligations and separately scoped reviews below, preserving the original contract and actual accepted-input boundaries.
-Existing route-specific alternatives and next steps remain available at their retained scopes.
+**Current allocation.** This route remains paused with G0001; further research requires explicit human resumption.
+Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), finite-window Fourier and signed-correlation mechanisms are supporting proof alternatives whose priority and effort may change with their mathematical promise and complete original-input costs.
+The retained obligations and separately scoped reviews below inform that judgment without requiring another route to advance first.
 
 <a id="raw-ghost-contracted-tail-frontier"></a>
 ## Raw integer traces and the complete contracted tail
@@ -85,7 +83,7 @@ The [current two-line continuation](Yin_S_G0001.md#ratio-and-logarithmic-frontie
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Retain the finite signed-correlation question without active proof development; reconsider if an actual near-zero construction exposes a new cancellation identity or usable estimate |
+| priority | Reassess finite-window Fourier and signed-correlation mechanisms as supporting proof alternatives, preserving the original transition amplitudes and all finite-window costs |
 | parent | [Coordinating strategy](Yin_S_G0001.md#route) |
 
 <a id="current-same-input-cost-frontier"></a>

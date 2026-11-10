@@ -7,7 +7,7 @@ author: Yin
 
 | Task | Scope |
 | --- | --- |
-| [Unrestricted Lehmer gap](../tasks/Yin_T_G0001_v1.md#contract) | Improve finite search for integer polynomials with small positive total Mahler measure and return certified candidates and useful distributional evidence to the unrestricted counterexample direction. |
+| [Unrestricted Lehmer gap](../tasks/Yin_T_G0001_v1.md#contract) | Improve finite search for integer polynomials with small positive total Mahler measure and return certified candidates, distributional evidence and complete-cost diagnostics to the unrestricted proof and counterexample objective. |
 
 <a id="route"></a>
 ## Route
@@ -15,24 +15,26 @@ author: Yin
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Retain the completed sampling comparisons and exact fixed-cell exclusion; resume with a concrete change in integer supply or complete exterior-cost control and a discriminating bounded test. |
+| priority | After explicit G0001 resumption, use sampling as a supporting diagnostic of integer supply, distinct noncyclotomic cores, distinct measures and complete exterior cost; reassess its scope against other routes from current evidence. |
 | parent | [Arithmetic constructions](Yin_S_G0004.md#route) |
 
-The [explicit G0001 resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-sampling-2026-11-09) selects implementation and execution of this bounded comparison under the main research agent.
-The first protocol below was prepared while research was paused and has now been completed without changing its sampling laws.
-The existing Task limits continue to govern the work.
+S10 remains paused with G0001; research execution requires explicit human resumption.
+Its future allocation follows the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and the [current adaptive allocation](Yin_S_G0001.md#adaptive-allocation), with no fixed human-imposed share or precedence for sampling.
+The [earlier G0001 resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-sampling-2026-11-09) selected the completed first comparison.
+The protocols below retain their actual laws, budgets, ordering, success screens and evidence; those experiment-specific choices do not bind the selection of future protocols.
 
 <a id="question"></a>
 ## Question and contribution
 
 Can a distribution learned from complete Mahler-measure feedback find more useful integer candidates per unit of computation than uniform sampling or a fixed structural bias?
-The immediate target is \(1<M(P)<6/5\).
+The completed comparisons used the immediate target \(1<M(P)<6/5\).
+Future target thresholds and comparisons may be chosen for the actual construction or proof question, with their mathematical scope stated explicitly.
 A certified value below the Lehmer number would improve the known minimum; refuting the unrestricted positive-gap statement still requires arbitrarily small positive logarithmic measures.
 Finite calibration and empirical enrichment alone supply neither conclusion.
 
 S4 retains integer constructions, necessary conditions and any argument proving positive mass in arbitrarily small shells.
-This child owns the sampling laws, comparisons and finite search efficiency.
-Its successful candidates and recurrent features return to S4 for mathematical investigation.
+This child owns the sampling laws, comparisons and finite search efficiency as a supporting diagnostic tool.
+Its candidates, distinct noncyclotomic cores and complete exterior-cost patterns inform both integer constructions and concrete proof obstructions through S4 and the main research allocation.
 The initial comparison uses a common reciprocal coefficient box; subsequent trace-grid or central-deformation generators require a separate, explicitly bounded comparison on their stated supports.
 
 <a id="inputs"></a>
@@ -522,13 +524,16 @@ The exclusion covers only the declared fixed nodes and box.
 <a id="allocation-after-fixed-cell"></a>
 ### Allocation after the completed finite tests
 
-On 10 November 2026 the main agent deferred further sampling campaigns under S10 while S1 and S4 continue the unrestricted research.
+The completed finite tests support retaining S10 as a diagnostic tool, with its future effort selected adaptively alongside the proof and counterexample routes.
 The primitive comparison reached its intended degree class but did not control the complete exterior cost, and the subsequent fixed-cell test has now settled its local integer-supply question negatively.
 The bounded strategy comparison found no developed replacement from the inspected interlacing, cyclotomic-delay or two-transvection mechanisms.
 The [MS05 construction interface](../audits/literature/MS05/Yin_U001.md#ms05-arbitrary-distinct-prime-construction) retains the [positive exterior expense](../audits/literature/RY26/Yin_U001.md#exterior-root-measure-expense), and [L133 v2](../ledger/Yin_L_G0133_v2.md#cyclotomic-boundary-log-gap) already excludes the proposed boundary-log cancellation of two unrestricted cyclotomic blocks.
 The [positive-lattice two-transvection theorem](../claims/Yin_C_G0885_v2.md#decision-positive-lattice-two-transvection-gap) separately closes that family as a source of positive measures tending to one, even when the positive integral lattice and its isometry vary.
 
-Resume this sampling allocation when a concrete generator, arithmetic support or joint-root mechanism supplies a discriminating new question beyond changing degree, runtime, a nearby fixed cell or the representation count of known cores.
+After explicit G0001 resumption, select comparisons for their expected information about integer supply, distinct cores, distinct measures and the full exterior contribution.
+A new generator, arithmetic support or joint-root mechanism is one reason to return to sampling; a justified increase in degree, runtime, mutation range or parent coverage may also be reconsidered from the accumulated evidence.
+The existing failures and exact exclusions determine the scope of that reassessment, rather than imposing a permanent prohibition on a method or a fixed order between strategies.
+Recovery of a known core remains a calibration result, and a larger raw hit count alone does not establish a new value or a smaller positive measure.
 A finite discovery test need not first prove an asymptotic construction, but its evaluation must retain original complete measures, actual primitive degree, distinct values and all costs.
 For any claimed shrinking-measure family, nonneutrality and a vanishing bound on the full exterior contribution remain separate obligations; original support growth alone does not rule out a bounded-support cyclotomic completion.
-This is an allocation pause for the child strategy, not a pause or completion of G0001.
+This revised allocation leaves S10 and G0001 paused and makes no completion claim.

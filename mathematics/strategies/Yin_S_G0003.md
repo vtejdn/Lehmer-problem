@@ -10,6 +10,9 @@ author: Yin
 | --- | --- |
 | [Lehmer contract](../tasks/Yin_T_G0001_v1.md#contract) | Operator-algebra and topological mechanisms with an explicit return obligation to the classical scalar gap. |
 
+**Current allocation.** This route remains paused with G0001; further research requires explicit human resumption.
+Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), determinant and Gram mechanisms may be reassessed as proof alternatives or as support for actual constructions, without a fixed ordering behind counterexample work.
+
 <a id="arithmetic-random-matrix-assessment-2026-11-05"></a>
 ## Arithmetic random-matrix comparison
 
@@ -122,7 +125,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Defer determinant and Gram proof development under the counterexample-first allocation; retain exact transfers and reconsider if a concrete realization changes the complete original-input cost |
+| priority | Reassess determinant and Gram mechanisms as proof alternatives or construction support, retaining exact scalar transfers and the complete arithmetic and analytic costs |
 
 <a id="signed-gram-frontier-2026-10-15"></a>
 ## Signed all-place frontier

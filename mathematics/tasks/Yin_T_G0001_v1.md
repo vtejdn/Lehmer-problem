@@ -20,7 +20,7 @@ The selected individual decision and its effective execution conditions govern t
 ### Original question and authority
 
 On 2026-10-06 Yin requested a new G-series Task to prove Lehmer's conjecture or find a counterexample, initially emphasizing geometric group theory, then explicitly added DGB16's algebraic-entropy formulation and set the order: **algebraic entropy first, linear-group growth second; other directions may be selected and ranked by the agent**.
-This paragraph preserves the original authorization history.
+This paragraph preserves the original authorization history; its former ordering is superseded by the [current strategy discretion](#strategy-discretion).
 Yin subsequently clarified that all formulations belong to one Task and that their current ordering belongs to the strategy priorities.
 G is the research-line letter within the numbered T family, not a revival of retired short goal identifiers.
 
@@ -166,11 +166,22 @@ No proof or completion review is claimed by this setup.
 These sources provide formulations and starting mechanisms, not a solution.
 Apply the repository's knowledge-reuse and source-check rules before substantial new proof investment; recorded source dates do not certify a current exhaustive literature survey.
 
+<a id="strategy-discretion"></a>
+## Current strategy discretion
+
+Yin has withdrawn all earlier human-imposed strategy restrictions for G0001 and authorized the main researcher to adopt and adapt the recommended allocation.
+This releases previous requirements about proof versus counterexample priority, route eligibility and ordering, effort shares, agent assignments, prescribed construction families or conductors, and mandatory exploration sequences.
+Those choices in earlier instructions and lifecycle decisions are historical rather than continuing strategic constraints.
+The main researcher may select, combine, replace or reprioritize proof, explicit construction, probabilistic existence and other relevant methods within the unchanged unrestricted contract.
+The [current adaptive allocation](../strategies/Yin_S_G0001.md#adaptive-allocation) is a revisable research judgment, with no fixed proof/counterexample quota or permanent method restriction.
+Actual mathematical exclusions, fixed experimental scopes and evidence retain their stated meaning.
+This strategic discretion leaves the selected Task pause and effective execution limits in force; new research still requires explicit human resumption.
+
 ## Continuation and execution
 
 The [derived strategy navigation](../strategies/index.md) supplies the routes associated to this exact Task contract; their S materials own current priorities, dispositions and next tests under Yin's instructions.
 Consult those records for current work ordering.
-Autonomous internal decomposition and additional route selection are authorized within the unchanged objective.
+Autonomous internal decomposition and additional route selection follow the [current strategy discretion](#strategy-discretion) within the unchanged objective.
 
 Use the [execution rules](../../framework/rules/execution.md) and the applicable stopping conditions in the selected Task decision when an actual autonomous run begins.
 Registration and activation alone grant no research execution.

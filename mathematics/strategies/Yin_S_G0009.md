@@ -15,19 +15,19 @@ author: Yin
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Retain the small joint Taylor and extra Smith-divisibility inquiry for explicit human resumption, with all original costs; no active proof exploration |
+| priority | Reassess joint Taylor evaluation and residual Smith divisibility as proof alternatives, scaling effort by mathematical promise and the complete arithmetic and complex-place costs without a fixed quota |
 
-The [human pause after current-work closeout](../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-rotation-closeout-2026-11-06) includes this route; its unfinished obligations remain below for explicit human resumption.
-The retained [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) gives this route a limited positive role while counterexample construction receives the main effort.
-Use a bounded discriminating test of extra correlations on specified actual inputs rather than reopening the full approximation and determinant program.
-An early test need not already prove the quadratic gain or the unrestricted return, but expanded investment requires evidence beyond the explicit Boolean factors and the already covered controls.
+**Current allocation.** This route remains paused with G0001; further research requires explicit human resumption.
+The [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) remove its former small-effort cap and fixed ordering behind counterexample construction.
+The retained arithmetic and analytic obstructions make a discriminating comparison on specified actual inputs a useful starting choice, while the agent may change the approach, scale or priority as the research judgment develops.
+An early test need not already prove a quadratic gain or the unrestricted return; evidence beyond the explicit Boolean factors and already covered controls would strengthen the case for greater investment.
 
 Use the [power-stable reduction and rotation construction](../ledger/Yin_L_G0445_v1.md#rotated-radicals) to produce many independent integral Taylor series from any input needed for the near-zero infimum.
 The source of information is the change in relations between these functions over characteristic zero and over the residue field at 2.
 [S8](Yin_S_G0008.md#route) supplies the degree descent, while this route tests divisibility of approximants to the functions themselves.
 The [complex disk obstruction](../drafts/Yin_D_G0011.md#neutral-disk) explains why the archimedean dimension theorem alone has low priority and records the unreviewed transfer to actual Salem conjugates.
 
-The retained G0001 allocation selects this bounded comparison for a future explicitly authorized continuation within the unchanged unrestricted contract.
+The retained comparison is one available starting point after explicit resumption, not a fixed limit on this route's methods or allocation.
 The previously selected \(\overline{P_2}=\Phi_\ell\) family and the quartic Salem example are [calibration controls already covered by a uniform gap](../ledger/Yin_L_G0445_v1.md#covered-control-family).
 The distinction from S4/S8 lies in the function-field relations and rational approximation criterion, not in another gap for that class or the use of a prime-adic determinant alone.
 
@@ -114,10 +114,10 @@ Its subsequent [two-adic splitting construction](../ledger/Yin_L_G0450_v6.md#mov
 The [moving-layer content formula](../ledger/Yin_L_G0458_v2.md#moving-pair-exact-content-control) concerns the polynomial output's coefficient gcd; its growth does not establish additional divisibility in the normalized joint Taylor minors, and the explicit global-factor example already pays an increasing complete cost.
 The [square-layer and three-block tests](../ledger/Yin_L_G0458_v3.md#exceptional-layer-next-construction) supply already priced scalar half-values on excluded classes or unit relations, respectively; neither supplies an unexplained normalized joint Taylor rank loss or a reason to enlarge this allocation.
 The [prime-square period](../ledger/Yin_L_G0458_v4.md#prime-square-original-factor-cost) is proportional to its construction parameter, while the [inverse-factor modulo-two and modulo-four conditions](../ledger/Yin_L_G0450_v7.md#inverse-factor-quartic-unit) constrain candidate coefficients before actual divisibility is known; neither is additional Smith divisibility on a supplied original Taylor map.
-Keep this proof direction at its small complementary allocation: a concrete next test needs an actual admissible original input, a specified weighted window and a structural reason for extra residual divisibility after the explicit factors are extracted.
+For the retained joint-evaluation test, specify an actual admissible original input, a weighted window and the proposed source of extra residual divisibility after the explicit factors are extracted.
 Its finite certificate must retain full rational column rank and show smaller binary rank for the normalized matrix, including enough actual evaluation rows to exclude the earlier short-window artifact.
-Increasing this direction's priority would still require growing arithmetic gain and the complete complex-place price for the same original minors.
-This bounded control is not expanded by default; a concrete main-line candidate with additional residual divisibility would justify the next complementary test.
+Growing arithmetic gain with the complete complex-place price for the same original minors would support a higher priority for this mechanism.
+A concrete candidate with additional residual divisibility is one reason to expand the test, while other approaches and allocations remain open to autonomous reassessment after resumption.
 
 A reason to increase investment would be a quantitative divisibility gain surviving these costs on an unbounded-degree class not already covered by the cited gap criteria, with a precise statement of what remains needed for the unrestricted inputs.
 A full residue rank, only the full-product relation, costs absorbing the gain, or an improvement confined to the covered controls calls for setting aside that family as a route to new coverage.

@@ -10,7 +10,8 @@ author: Yin
 | --- | --- |
 | [Lehmer contract](../tasks/Yin_T_G0001_v1.md#contract) | Equivalent growth formulation and its exact transfer to the common classical Mahler-gap target. |
 
-**Current allocation.** Continue the equivalent unrestricted affine-growth question jointly with [S7](Yin_S_G0007.md#route), using the original probability law.
+**Current allocation.** This route and [S7](Yin_S_G0007.md#route) remain paused with G0001; further research requires explicit human resumption.
+Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), the original-law affine-growth question is an independently selectable proof alternative whose priority and effort may be reassessed without a fixed ordering behind counterexample work.
 The adopted [critical-mean scaling theorem](../claims/Yin_C_G0856_v1.md#decision-whole-independent-review-2026-11-04) excludes a mean cap over all algebraic units, even at one fixed positive rate and Mahler measure.
 A strict tail result for the fixed quartic would give only an input-dependent finite mean and is not the next substitute for an unrestricted estimate.
 The [current continuation](../drafts/Yin_D_G0009.md#radical-critical-mean-scaling) is a quantitative original-law estimate on reciprocal power-stable near-one units, or another information quantity with a proved uniform return to Mahler measure.
@@ -82,7 +83,7 @@ The [current two-line continuation](Yin_S_G0001.md#ratio-and-logarithmic-frontie
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Defer the affine proof campaign, including S7, under the counterexample-first allocation; retain the original-core mean problem and reconsider on a concrete new occupation mechanism |
+| priority | Reassess the original-law affine-growth and finite-core mean mechanisms with S7 as proof alternatives, allocating effort by their uniformity prospects and complete original-input return |
 
 ## Current original-law operator frontier through C81
 

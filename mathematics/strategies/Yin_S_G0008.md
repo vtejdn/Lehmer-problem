@@ -9,6 +9,9 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#contract) | Seek generator-sensitive cyclic-norm or local arithmetic coverage with uniform exponent costs on a sufficiently near-one irreducible core. |
 
+**Current allocation.** This route remains paused with G0001; further research requires explicit human resumption.
+Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), cyclic-norm coverage and arithmetic realization may be reassessed as proof alternatives or support for integer constructions, without subordinating their priority to a fixed counterexample-first order.
+
 <a id="matrix-integer-damping-2026-11-05"></a>
 ## Matrix integer damping and original-input realization
 
@@ -202,14 +205,14 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Defer automatic arithmetic-coverage proofs while S4 prioritizes counterexamples; reuse existing bounds as candidate filters and reconsider on a concrete new original-input supply mechanism |
+| priority | Reassess cyclic-norm coverage and arithmetic realization as proof alternatives or integer-construction support, preserving uniform exponent costs and the original-input coverage obligation |
 | parent | [Coordinating strategy](Yin_S_G0004.md#route) |
 
 <a id="integer-coefficient-coupling-focus"></a>
 <a id="registered-profile-and-integer-cost-frontier"></a>
 ## Current adopted quantitative frontier through C92
 
-The unrestricted Task is active and mathematically unresolved.
+The unrestricted Task is paused and mathematically unresolved.
 [C62](../claims/Yin_C_G0062_v1.md#statement) now bounds the ENTIRE original norm surplus of EVERY actual flat first-window packet with E<1 by [log(3n-6)+m(P)]/(n-3)+(1/2)log[n/(n-1)], for support n>=4.
 Its nonmonomial shell and full-norm budget apply to arbitrary q, FINAL weights and actual integer residues.
 Thus merely enlarging that first-window search cannot retain uniform full surplus on bounded-measure inputs with n growing.

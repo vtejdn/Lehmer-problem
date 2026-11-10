@@ -10,12 +10,34 @@ author: Yin
 | --- | --- |
 | [Lehmer contract](../tasks/Yin_T_G0001_v1.md#contract) | Uniform algebraic-entropy gap and finite-set attainment for arbitrary discrete abelian flows. |
 
+<a id="adaptive-allocation"></a>
+## Current adaptive allocation
+
+The [current Task instruction](../tasks/Yin_T_G0001_v1.md#strategy-discretion) releases every earlier human-imposed strategy restriction for G0001.
+The following allocation adopts the latest comparison as an initial research judgment, with no fixed effort shares, mandatory proof/counterexample ordering or permanent exclusion of another method.
+The main researcher may change this allocation as mathematical evidence, a concrete new idea or expected information gain warrants, without another strategy-specific approval.
+All ten routes remain paused under the selected Task decision; the allocation applies after explicit research resumption.
+
+| Role | Initial focus | Useful next distinction |
+| --- | --- | --- |
+| Leading construction and existence inquiry, coordinated with S4 | Actual integer inputs satisfying the variable-neutral-prefix interface, or a discrete positive-count argument for its full admissible event. | Use the complete [C881v9 bound](../claims/Yin_C_G0881_v9.md#statement) and its exact positivity subcase; distinguish integer feasibility from a real relaxation or repeated recovery of a supplied value. |
+| Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer-representation cover. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the coverage conditions in [C886v3](../claims/Yin_C_G0886_v3.md#statement), rather than merely enlarging another fixed parameter range. |
+| Alternative construction inquiry | Actual factor production or another mechanism changing the noncyclotomic core. | Seek the actual sublinear-degree factors in [L450v5](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion), or another explicit return to the unrestricted contract. |
+| Computational support, S10 | Bounded diagnostics tied to a distinguishable supply or complete-exterior-cost mechanism. | Compare distinct noncyclotomic cores and measure values, retaining all exterior roots and the actual integer support; known-core recovery alone is not the discovery objective. |
+| Other retained routes, S2, S3, S5, S6, S7, S8 and S9 | Available proof or construction alternatives under autonomous reassessment. | Reuse their precise failures and open interfaces when judging a new idea; their present lower priority is not a human prohibition or an evidence precondition for reconsideration. |
+
+The current first construction candidate is a changed cyclotomic parent tested through the existing endpoint, phase and amplitude conditions.
+That candidate is not mandatory, and a more informative proof or construction idea may replace it.
+For a probabilistic argument, the intended return is positive probability on actual integer inputs in every prescribed strict small-measure shell; no uniform probability lower bound is required.
+Continuing a proved-excluded family merely by increasing its covered parameters is currently low priority, while a changed mathematical mechanism may justify a new selection.
+Prior route allocations below retain their mathematical context and evidence but do not reinstate the withdrawn human restrictions.
+
 <a id="whole-goal-allocation-2026-11-05"></a>
-## Whole-goal allocation after the arithmetic random-matrix inquiry
+## Retained comparisons after the arithmetic random-matrix inquiry
 
 **Current state.** Yin's [pause after the current exploration round](../tasks/Yin_T_G0001_v1.md#decision-pause-after-neutral-reference-round-2026-11-10) pauses G0001 and every associated route, including S1, S4 and the already paused S10 child.
 The current proofs, independent reviews and computation records are complete; further research requires explicit human resumption.
-**Retained direction for a future resumption.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess.
+**Retained construction question.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess, within the revisable [current allocation](#adaptive-allocation).
 S10 has completed the frozen finite comparison in [J156](../computations/programs/Yin_J_G0156/readme.md#pilot-results); the original adaptive law failed its held-out allocation screen and found no new value below \(6/5\).
 Its [completed reduced-prior live control](../computations/programs/Yin_J_G0156/readme.md#prior-live-results) passes the declared recovery screen while finding the same one known target value as fixed bias, with substantial repeated sampling.
 The [completed degree-18/20 comparison](Yin_S_G0010.md#degree-validation) also passes its declared recovery screen, but every target hit still has the Lehmer core.
@@ -133,14 +155,14 @@ For growing odd conductors, concentrate on the [explicit nonunit sign classes at
 The [height requirement](../ledger/Yin_L_G0464_v7.md#height-escape) excludes a fixed coefficient alphabet, and [light-tailed sampling](../ledger/Yin_L_G0464_v9.md#rare-shell) makes success in sufficiently small shells rare at logarithmic cuts even for growing heights.
 At every shrinking radius the required conclusion is positive probability for an actual integral polynomial with strictly positive whole measure inside that radius.
 For the unrestricted coefficient count, the [volume and lattice calculation](../ledger/Yin_L_G0449_v1.md#uniform-volume-and-lattice-obstruction) controls a random translate of the lattice, while the strict excess must occur on the unshifted integer lattice.
-The human author permits limited positive exploration while shifting the main effort toward counterexamples; this does not retain the former broad proof campaign.
-S4 coordinates actual integer constructions and their complete positive total-measure return, using existing obstructions as filters rather than requiring new universal lower bounds.
+The [current allocation](#adaptive-allocation) selects integer existence as the initial lead and structural uniformity as a proof inquiry, with no human-imposed cap on proof work.
+S4 coordinates actual integer constructions, their complete-measure return and the structural proof interfaces supplied by its arithmetic comparisons.
 The [moving linear-cut square family](../claims/Yin_C_G0880_v3.md#decision-moving-linear-square-gap) is excluded uniformly by its resultant cost; further residual searches in that family are deferred.
 S4 also retains the original moving signed-residue construction subject to the [five possible Chebyshev cuts and explicit prefix bound](../claims/Yin_C_G0881_v2.md#statement).
 The [positive-residue and bounded-variation gap](../claims/Yin_C_G0880_v1.md#decision-whole-residue-gap) and the [central transition calculation](../ledger/Yin_L_G0462_v2.md#central-sign-test) specify which inputs to set aside.
-S9 retains a deferred joint-evaluation inquiry, to reconsider if the counterexample search supplies a specific new arithmetic structure on the same inputs.
-S2, S3, S5, S6, S7 and S8 are deferred, including the S2 child S7 and the S1 children S5 and S6; their evidence and unresolved questions remain available.
-The finite signed radial comparison is retained as a dormant question, to reconsider if an actual candidate supplies a new cancellation mechanism.
+S9 retains its joint-evaluation inquiry as a lower-priority option that can be reassessed from a new arithmetic idea or useful original input, without a fixed effort cap or dependence on a counterexample candidate.
+S2, S3, S5, S6, S7 and S8 remain available alternatives, including the S2 child S7 and the S1 children S5 and S6; their evidence and unresolved questions inform autonomous selection after resumption.
+The finite signed radial comparison likewise remains available for a new cancellation argument or another informative bounded test.
 Neither this allocation nor an active route disposition resumes an execution boundary or asserts that a counterexample mechanism has been found.
 The [bounded proof comparison](../ledger/Yin_L_G0455_v1.md#degree-scale-abel-test) retains linear arithmetic income at degree-scale Abel smoothing, but the accepted radial-square bound forces that scale outside the original integer-trace Taylor disk on a hypothetical near-zero sequence.
 Its [joint evaluation test](../ledger/Yin_L_G0455_v1.md#joint-evaluation-test) pays the Boolean polynomial window and identifies the missing invariant-module enlargement, while its finite covered quartic test supplies no scalable gain.
@@ -1577,7 +1599,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | On explicit resumption, seek a new positive measure in shrinking reciprocal shells; distinguish new values from repeat occurrences of a supplied measure. |
+| priority | Coordinate adaptive proof and construction selection; initially emphasize integer existence, structural uniformity and targeted diagnostics, with no fixed proof/counterexample quota. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

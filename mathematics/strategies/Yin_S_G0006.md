@@ -9,6 +9,10 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#contract) | Retain neutral-completion and graph-compression mechanisms; evaluate candidate constructions or tests against coverage and unbounded-complexity obstructions. |
 
+**Current allocation.** This route remains paused with G0001; further research requires explicit human resumption.
+Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), neutral completion, graph compression and integral-minor mechanisms are adaptable structural alternatives for either proof or construction.
+Their priority and effort may be reassessed from the retained obstructions, new mechanisms and complete original-input returns, without a fixed ordering or quota.
+
 <a id="integral-minor-proliferation-2026-11-05"></a>
 ## Integral minors and the missing proliferation estimate
 
@@ -19,17 +23,11 @@ The [regular-matroid comparison](../ledger/Yin_L_G0446_v2.md#a-distinct-structur
 That author-checked transfer is not an independently reviewed Claim, and one witness or its translates give no uniform exponential gain.
 A uniform-gap conclusion would require quantitative proliferation of compatible nonunit minors, beyond translated copies, that exceeds the full C209 boundary at the original degree.
 Do not prioritize another first-witness bound alone; no independent accessibility argument for the required proliferation has yet been found.
-Retain this as a structural lead within the active route, without a new Strategy or an asserted Mahler gap.
+Retain this as a structural lead within this route, without a new Strategy or an asserted Mahler gap.
 The completed [local propagation test](../ledger/Yin_L_G0446_v3.md#deletion-budget) identifies the fixed total deletion budget and the exterior recursion's lack of a repeatable degree reset.
 Its [paid dyadic gain](../ledger/Yin_L_G0446_v3.md#paid-dyadic-gain) subtracts the entire window increase exactly, but the obtained integer gap retains the denominator 2^d G_L and supplies no uniform rate.
 Low-order exterior-lattice saturation is already automatic, including on the irreducible cyclotomic controls, so that proposed added input does not amplify a nonunit witness.
-Do not extend this particular block or saturation calculation without a new arithmetic quotient or quantitative metric constraint; retain the active route and its other constructions under the [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05).
-
-**Current allocation.** Root resumes this route and all eight associated strategies, including subroutes, under Yin's explicit continuation and the unchanged [active Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-after-account-handoff-2026-10-25).
-2026-10-26T07:26 UTC: disposition paused -> active after verification of the applicable continuation conditions.
-The preceding resource pause preserved all mathematical and review limits; the unrestricted Task remains unresolved.
-Coordinate the current route-specific mathematical obligations and separately scoped reviews below, preserving the original contract and actual accepted-input boundaries.
-Existing route-specific alternatives and next steps remain available at their retained scopes.
+A new arithmetic quotient or quantitative metric constraint would make this particular block or saturation calculation more informative; reassess it alongside the other constructions under the [adaptive allocation](Yin_S_G0001.md#adaptive-allocation).
 
 The [two-block cyclotomic test](../ledger/Yin_L_G0133_v2.md#scope-and-family-comparison) allows arbitrary degrees and supports in yA(x)-B(x), but distinct monic cyclotomic blocks have a uniform boundary-log separation by the existing Smyth and Lawton interfaces.
 The resulting raw Euler-truncation obstruction applies to every positive-measure integral unit polynomial: different actual truncations cannot approach each other in boundary L1.
@@ -87,7 +85,7 @@ The [current two-line continuation](Yin_S_G0001.md#ratio-and-logarithmic-frontie
 | Field | Value |
 | --- | --- |
 | disposition | paused |
-| priority | Defer completion and neutral-coupling proof searches; retain existing cost floors and reconsider on a concrete varying-input construction with a different complete return |
+| priority | Reassess neutral completion, graph compression and integral-minor proliferation as structural proof or construction alternatives, retaining existing cost floors and complete scalar returns |
 | parent | [Coordinating strategy](Yin_S_G0001.md#route) |
 
 <a id="current-same-input-cost-frontier"></a>
