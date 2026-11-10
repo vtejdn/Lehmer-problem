@@ -10,13 +10,13 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state.** S4 is paused under Yin's [instruction to finish this exploration round and pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-neutral-reference-round-2026-11-10), together with G0001 and all associated routes.
+**Current state.** S4 is active under Yin's [adaptive research resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10), initially investigating integer feasibility and the scope of structural proof mechanisms.
 The S10 child remains paused; its completed comparisons and exact local exclusion are retained at their responsible homes.
 The [current Task discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) replaces former human-imposed strategy priorities and method restrictions.
 Under the [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), S4 initially leads actual integer existence and also develops the structural proof interfaces relating complete measure to intrinsic complexity or integer representation.
 The initial construction focus is a new parent satisfying the full prefix, sign and endpoint conditions, with actual factor production retained as an alternative.
 The proof focus is uniformity beyond fixed transvection count or a genuine extension of the integer-embedding cover.
-These are revisable priorities rather than fixed effort shares or required test sequences; the main researcher may select a better justified method after research resumes.
+These are revisable priorities rather than fixed effort shares or required test sequences; the main researcher may select a better justified method as evidence changes.
 The [adaptive integer sampling child S10](Yin_S_G0010.md#route) owns distribution updates, search-efficiency metrics and the [first comparison of three sampling laws](Yin_S_G0010.md#first-experiment).
 Its [reduced-prior live control](../computations/programs/Yin_J_G0156/readme.md#prior-live-results) and [completed degree-18/20 comparison](Yin_S_G0010.md#degree-validation) pass their finite recovery screens while finding only the known Lehmer target value.
 The [completed exact core-mass diagnostic](Yin_S_G0010.md#core-mass-follow-up) shows increased Lehmer probability but reduced second-core probability in every final law.
@@ -490,10 +490,10 @@ This is preparation for a future explicitly authorized resumption.
 
 | Field | Value |
 | --- | --- |
-| disposition | paused |
-| priority | After resumption, initially prioritize actual integer existence alongside structural complexity and integer-embedding proofs; retain factor production and allow autonomous rebalancing within the unrestricted goal. |
+| disposition | active |
+| priority | Initially prioritize actual integer existence alongside structural complexity and integer-embedding proofs; retain factor production and allow autonomous rebalancing within the unrestricted goal. |
 
-The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) retains the Task pause and supplies a revisable balance of construction, proof and computational support for a later explicit resumption.
+The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.
 The [nearest Chebyshev-lattice test](../ledger/Yin_L_G0456_v1.md#nearest-chebyshev-integer-rounding) now gives an explicit positive real target of complete measure below 8/n whose unique nearest integer output is cyclotomic for n>=513.
 Every uniformly bounded L2 repair has bounded lifted support, and the separate growing-energy endpoint-kernel correction has an exact six-term cyclotomic completion; the accepted fixed-support gap excludes both as positive-to-zero mechanisms.

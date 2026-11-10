@@ -175,7 +175,7 @@ Those choices in earlier instructions and lifecycle decisions are historical rat
 The main researcher may select, combine, replace or reprioritize proof, explicit construction, probabilistic existence and other relevant methods within the unchanged unrestricted contract.
 The [current adaptive allocation](../strategies/Yin_S_G0001.md#adaptive-allocation) is a revisable research judgment, with no fixed proof/counterexample quota or permanent method restriction.
 Actual mathematical exclusions, fixed experimental scopes and evidence retain their stated meaning.
-This strategic discretion leaves the selected Task pause and effective execution limits in force; new research still requires explicit human resumption.
+This strategic discretion leaves the selected Task lifecycle and effective execution limits to their responsible decisions; changing priorities alone grants no resumption or additional allowance.
 
 ## Continuation and execution
 
@@ -189,7 +189,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-pause-after-neutral-reference-round-2026-11-10)
+[Selected decision](#decision-resume-adaptive-research-2026-11-10)
 
 ## Lifecycle and completion
 
@@ -649,6 +649,19 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unchanged unrestricted contract](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total Mahler measures, including nonconstructive existence and unrestricted degree and coefficients; unresolved and paused after this exploration round. |
+
+### Decision resume-adaptive-research-2026-11-10
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-10T12:35 |
+| status | active |
+| authority | Yin explicitly requested continuation under the adjusted strategy, independent exploration by agent-S, and flexible selection between proof and counterexample directions. |
+| reason | Resume the unchanged unrestricted objective under the current strategy discretion. Initially investigate integer feasibility of the retained construction interface and the scope of structural proof mechanisms, while agent-S independently seeks alternatives. Retain the shared ninety-eight-percent weekly stopping threshold and stop on unreliable monitoring or an account change. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unchanged unrestricted contract](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total Mahler measures, including nonconstructive existence and unrestricted degree and coefficients. |
 
 ## Execution boundary
 

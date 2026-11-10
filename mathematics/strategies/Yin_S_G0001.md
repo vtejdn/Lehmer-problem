@@ -16,7 +16,8 @@ author: Yin
 The [current Task instruction](../tasks/Yin_T_G0001_v1.md#strategy-discretion) releases every earlier human-imposed strategy restriction for G0001.
 The following allocation adopts the latest comparison as an initial research judgment, with no fixed effort shares, mandatory proof/counterexample ordering or permanent exclusion of another method.
 The main researcher may change this allocation as mathematical evidence, a concrete new idea or expected information gain warrants, without another strategy-specific approval.
-All ten routes remain paused under the selected Task decision; the allocation applies after explicit research resumption.
+The selected Task decision resumes research, with S1 coordinating the initial S4 construction and structural-proof inquiries and independent agent-S discovery.
+Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
 | Role | Initial focus | Useful next distinction |
 | --- | --- | --- |
@@ -35,7 +36,7 @@ Prior route allocations below retain their mathematical context and evidence but
 <a id="whole-goal-allocation-2026-11-05"></a>
 ## Retained comparisons after the arithmetic random-matrix inquiry
 
-**Current state.** Yin's [pause after the current exploration round](../tasks/Yin_T_G0001_v1.md#decision-pause-after-neutral-reference-round-2026-11-10) pauses G0001 and every associated route, including S1, S4 and the already paused S10 child.
+**Current state.** Yin's [adaptive research resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10) activates G0001, S1 and S4; S10 remains deferred while construction feasibility and structural proof inquiries are compared.
 The current proofs, independent reviews and computation records are complete; further research requires explicit human resumption.
 **Retained construction question.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess, within the revisable [current allocation](#adaptive-allocation).
 S10 has completed the frozen finite comparison in [J156](../computations/programs/Yin_J_G0156/readme.md#pilot-results); the original adaptive law failed its held-out allocation screen and found no new value below \(6/5\).
@@ -1598,7 +1599,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 
 | Field | Value |
 | --- | --- |
-| disposition | paused |
+| disposition | active |
 | priority | Coordinate adaptive proof and construction selection; initially emphasize integer existence, structural uniformity and targeted diagnostics, with no fixed proof/counterexample quota. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>

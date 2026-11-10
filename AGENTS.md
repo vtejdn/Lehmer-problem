@@ -9,7 +9,8 @@ Apply the [core principles and interpretation](framework/readme.md#core-principl
 Apply the current human request, actual operator and activity-specific authority under the [identity rules](framework/rules/identity.md) and applicable [personal or manuscript choices](framework/rules/preferences.md).
 Autonomous research requires the selected Task and its stable E under the [execution rules](framework/rules/execution.md); maintenance or discussion does not select a Task.
 
-Apply the [sentence-oriented source layout](framework/rules/organization.md#sentence-oriented-source-layout) to maintained prose and inspect the actual changed sentences and syntax before delivery, within the assigned role.
+Follow the [repository writing language](framework/rules/organization.md#repository-writing-language) and [sentence-oriented source layout](framework/rules/organization.md#sentence-oriented-source-layout) rules for maintained prose.
+Inspect the actual changed sentences and syntax before delivery, within the assigned role.
 Preserve unrelated working changes, fixed mathematical versions, necessary decisions and evidence, and acquired provenance.
 Current status belongs to responsible materials and their explicit decisions; navigation supplies no authority.
 
@@ -19,6 +20,8 @@ Tool results establish neither mathematical equivalence, review sufficiency nor 
 Before creating/registering, retaining or reorganizing substantive mathematics/evidence or retiring drafts, read the [common content decision](framework/rules/records.md#substantive-material-retention), including before direct creation in C/J/R/L/U or another responsible home.
 The [storage rule](framework/rules/organization.md#temporary-storage) reserves `.tmp/` for disposable operational byproducts and creator cleanup.
 
-For Git/GitHub remote operations, establish the actual target, relevant channel/account and authority under the [connection responsibilities](framework/rules/identity.md#git-and-github-connection-checks).
+For Git/GitHub remote operations, determine authority from the current human request and applicable activity rules, including the [default delivery permissions](framework/rules/identity.md#shared-research-git-authority-and-integration) for authorized joint Task work.
+Establish the actual target and relevant channel or account under the [connection responsibilities](framework/rules/identity.md#git-and-github-connection-checks).
 Choose relevant checks from current evidence and the actual operation; local skills and authentication probes are optional aids rather than universal prerequisites.
-Individual local operations require no repeated network preflight; repository tasks in Git working copies with configured remotes still apply the [work-start update](framework/rules/workflow.md#shared-repository-work-starts) before substantive work, and connection success alone authorizes no remote mutation.
+Individual local operations require no repeated network preflight.
+Repository tasks in Git working copies with configured remotes still apply the [work-start update](framework/rules/workflow.md#shared-repository-work-starts) before substantive work.
