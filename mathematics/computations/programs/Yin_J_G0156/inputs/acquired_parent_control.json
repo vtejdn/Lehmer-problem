@@ -1,0 +1,1064 @@
+{
+  "protocol": "S10-observed-parent-offline-mutation-control",
+  "source_label": "s10_degree_validation",
+  "kernel": {
+    "uniform_whole_box_probability": "1/10",
+    "mutation_probability": "9/10",
+    "parent_choice": "uniform over this run's distinct observed Lehmer prefixes",
+    "k_choice": [
+      1,
+      2,
+      3
+    ],
+    "k_probability": "1/3 each",
+    "coordinate_choice": "uniform k-subset of the n free reciprocal coefficients",
+    "sign_choice": "independent uniform -1/+1 for each selected coordinate",
+    "box_exit": "return the unchanged parent; do not reject and resample"
+  },
+  "runs": [
+    {
+      "degree": 18,
+      "seed": 10,
+      "distinct_observed_parents": 6,
+      "complete_parent_library_size": 174,
+      "raw_Lehmer_target_hits": 31,
+      "cached_target_hits": 25,
+      "repeated_target_hits": 25,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 2.777177199983271,
+      "last_new_parent_elapsed": 9.7144672999857,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "1",
+        "denominator": "1937102445",
+        "decimal": 5.162349583426395e-10
+      },
+      "second_core_prefixes_reachable_by_mutation": 0,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 108,
+        "2": 864,
+        "3": 4032
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [],
+      "complete_library_probability": {
+        "numerator": "25830631",
+        "denominator": "5033366993088",
+        "decimal": 5.131879124941923e-06
+      },
+      "fixed_bias_probability": {
+        "numerator": "3657959592724439",
+        "denominator": "3489017224338234577035",
+        "decimal": 1.048421190703135e-06
+      },
+      "A_final_probability": {
+        "numerator": "8127939241847683354031483972104938517572104435716119987039725524933549647148887562390106663921015478167567209106209080097493361587350924513334855835028179519488404527858391186902628424488525409240603195332718138115745758829249214351622177119040651998322913",
+        "denominator": "14919298009187054661864546062367437015741636832077410855209754112569670887855001602211806739466243676851658004788769500968653794730827927363392022685657370055747514285522209589669422517916800994882224550075295180822629019664303517966885692658252082765102386474609375",
+        "decimal": 5.447936784185579e-10
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "12992",
+          "denominator": "129153155",
+          "decimal": 0.00010059374856154308
+        },
+        "to_fixed_bias": {
+          "numerator": "1801152661463",
+          "denominator": "3657959592724439",
+          "decimal": 0.000492392716706175
+        },
+        "to_A_final": {
+          "numerator": "7701863186274102638833097989490915652497478950875729680476323033379719309504563452353603703941555696529853899796595167153719531199511715738602571783784708431229879680174689774690477208042964911379389926935586094323797634597639216735842637717723846435546875",
+          "denominator": "8127939241847683354031483972104938517572104435716119987039725524933549647148887562390106663921015478167567209106209080097493361587350924513334855835028179519488404527858391186902628424488525409240603195332718138115745758829249214351622177119040651998322913",
+          "decimal": 0.9475788335892231
+        }
+      }
+    },
+    {
+      "degree": 18,
+      "seed": 11,
+      "distinct_observed_parents": 7,
+      "complete_parent_library_size": 174,
+      "raw_Lehmer_target_hits": 36,
+      "cached_target_hits": 29,
+      "repeated_target_hits": 29,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 0.9969762999971863,
+      "last_new_parent_elapsed": 6.144014299992705,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "1",
+        "denominator": "1937102445",
+        "decimal": 5.162349583426395e-10
+      },
+      "second_core_prefixes_reachable_by_mutation": 0,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 126,
+        "2": 1008,
+        "3": 4704
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [],
+      "complete_library_probability": {
+        "numerator": "25830631",
+        "denominator": "5033366993088",
+        "decimal": 5.131879124941923e-06
+      },
+      "fixed_bias_probability": {
+        "numerator": "3657959592724439",
+        "denominator": "3489017224338234577035",
+        "decimal": 1.048421190703135e-06
+      },
+      "A_final_probability": {
+        "numerator": "1032526405155853144833346356106384843699656549477778190203150874420778660288786987423539719659720705453204881758993305519656491472225425865002848512647446253538083869883292143388846364926008107539144104463860685709944598714817125894651507886558911647",
+        "denominator": "633981166569459237420865034458522896736982513374718070992210321040412614966843931555758485370409109870156563830426391492557380882015470385729367412806853280924803594911287171690901075146666841737084674313812730165468289911245847179088741540908813476562500000",
+        "decimal": 1.6286389243121612e-09
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "12992",
+          "denominator": "129153155",
+          "decimal": 0.00010059374856154308
+        },
+        "to_fixed_bias": {
+          "numerator": "1801152661463",
+          "denominator": "3657959592724439",
+          "decimal": 0.000492392716706175
+        },
+        "to_A_final": {
+          "numerator": "327283241114002743112982356727407308980492517717470575487405531120690219854037679228554422360666170069366963103712561517394285712140263384846105758132401345931295644465147103611704478100881671096690332407180834550786130421329289674758911132812500000",
+          "denominator": "1032526405155853144833346356106384843699656549477778190203150874420778660288786987423539719659720705453204881758993305519656491472225425865002848512647446253538083869883292143388846364926008107539144104463860685709944598714817125894651507886558911647",
+          "decimal": 0.31697324105198205
+        }
+      }
+    },
+    {
+      "degree": 18,
+      "seed": 12,
+      "distinct_observed_parents": 4,
+      "complete_parent_library_size": 174,
+      "raw_Lehmer_target_hits": 50,
+      "cached_target_hits": 45,
+      "repeated_target_hits": 46,
+      "fresh_repeated_target_hits": 1,
+      "first_parent_elapsed": 1.187771100027021,
+      "last_new_parent_elapsed": 7.860825600015232,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "1",
+        "denominator": "1937102445",
+        "decimal": 5.162349583426395e-10
+      },
+      "second_core_prefixes_reachable_by_mutation": 0,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 72,
+        "2": 576,
+        "3": 2688
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [],
+      "complete_library_probability": {
+        "numerator": "25830631",
+        "denominator": "5033366993088",
+        "decimal": 5.131879124941923e-06
+      },
+      "fixed_bias_probability": {
+        "numerator": "3657959592724439",
+        "denominator": "3489017224338234577035",
+        "decimal": 1.048421190703135e-06
+      },
+      "A_final_probability": {
+        "numerator": "1045381419737011695943652269172254861630946316681823464437503360696828925720512315874107322812941297355968592459369785432461681575097449316092256071434400278007138822050808910401362310859265141475153017757636927419890595415858215812212005591351160229046526937",
+        "denominator": "1623219623399551547210862611585577147312690087330022301046821247447580192598624174320644573253927312041460390921018121705389532866714078497137052068199521862065329554264816403356033169949347948243186031048192115673502037339476222754797163361217826604843139648437500000",
+        "decimal": 6.440172387440967e-10
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "12992",
+          "denominator": "129153155",
+          "decimal": 0.00010059374856154308
+        },
+        "to_fixed_bias": {
+          "numerator": "1801152661463",
+          "denominator": "3657959592724439",
+          "decimal": 0.000492392716706175
+        },
+        "to_A_final": {
+          "numerator": "837962714666622367105041061256611622991725709855279389235823946031713460874096503616072082988841259782448104297869554186324684994506874672359959810075776277317810909203006247486323920235074582358077624050591767062429182644223146780859678983688354492187500000",
+          "denominator": "1045381419737011695943652269172254861630946316681823464437503360696828925720512315874107322812941297355968592459369785432461681575097449316092256071434400278007138822050808910401362310859265141475153017757636927419890595415858215812212005591351160229046526937",
+          "decimal": 0.8015856211385792
+        }
+      }
+    },
+    {
+      "degree": 18,
+      "seed": 13,
+      "distinct_observed_parents": 4,
+      "complete_parent_library_size": 174,
+      "raw_Lehmer_target_hits": 52,
+      "cached_target_hits": 48,
+      "repeated_target_hits": 48,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 1.8636918000120204,
+      "last_new_parent_elapsed": 5.901668800011976,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "1",
+        "denominator": "1937102445",
+        "decimal": 5.162349583426395e-10
+      },
+      "second_core_prefixes_reachable_by_mutation": 0,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 72,
+        "2": 576,
+        "3": 2688
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [],
+      "complete_library_probability": {
+        "numerator": "25830631",
+        "denominator": "5033366993088",
+        "decimal": 5.131879124941923e-06
+      },
+      "fixed_bias_probability": {
+        "numerator": "3657959592724439",
+        "denominator": "3489017224338234577035",
+        "decimal": 1.048421190703135e-06
+      },
+      "A_final_probability": {
+        "numerator": "375802689798741877175032656871858320522158080169469577913031920421981776388433860387937359990802046123024422090329949817087382090133090458538369733672231987109185086171969617055190387934063955926468951040815137057241751611086418415631699641443184264933",
+        "denominator": "536065462933612353666453418180357542395683684028375690770988101963352413734570941230883025488206772414844788573746293939247375060217164157210410108304760318050653331549381660770975526935658704351247440509306269160096775072688046748226042836904525756835937500000",
+        "decimal": 7.010388017578409e-10
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "12992",
+          "denominator": "129153155",
+          "decimal": 0.00010059374856154308
+        },
+        "to_fixed_bias": {
+          "numerator": "1801152661463",
+          "denominator": "3657959592724439",
+          "decimal": 0.000492392716706175
+        },
+        "to_A_final": {
+          "numerator": "276735731926461098275292000976415856207173226725433042737699968141515826611106745689375775625644193750860083486057596679791179067050924174126686473881746774652722784390157362467722003693851465016992139777773224151857789365749340504407882690429687500000",
+          "denominator": "375802689798741877175032656871858320522158080169469577913031920421981776388433860387937359990802046123024422090329949817087382090133090458538369733672231987109185086171969617055190387934063955926468951040815137057241751611086418415631699641443184264933",
+          "decimal": 0.7363857136697577
+        }
+      }
+    },
+    {
+      "degree": 18,
+      "seed": 14,
+      "distinct_observed_parents": 4,
+      "complete_parent_library_size": 174,
+      "raw_Lehmer_target_hits": 62,
+      "cached_target_hits": 58,
+      "repeated_target_hits": 58,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 3.2515879000129644,
+      "last_new_parent_elapsed": 6.623608099995181,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "1",
+        "denominator": "1937102445",
+        "decimal": 5.162349583426395e-10
+      },
+      "second_core_prefixes_reachable_by_mutation": 0,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 72,
+        "2": 576,
+        "3": 2688
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [],
+      "complete_library_probability": {
+        "numerator": "25830631",
+        "denominator": "5033366993088",
+        "decimal": 5.131879124941923e-06
+      },
+      "fixed_bias_probability": {
+        "numerator": "3657959592724439",
+        "denominator": "3489017224338234577035",
+        "decimal": 1.048421190703135e-06
+      },
+      "A_final_probability": {
+        "numerator": "1754496014328264106586814900949718118853644565206021730072074680149057252728153904038760129643189229158196243144772594254093112394218482430490366545016053552865974496786272134161565191460943019180815917565100006257482213368616927944503137293982495213861410741821",
+        "denominator": "3381707548749065723355963774136619056901437681937546460514210932182458734580467029834676194279015233419709147752121086886228193472320996869035525142082337212636103238051700840325069104061141558839970898017066907653129244457242130739160757002537138760089874267578125000000",
+        "decimal": 5.188195575863067e-10
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "12992",
+          "denominator": "129153155",
+          "decimal": 0.00010059374856154308
+        },
+        "to_fixed_bias": {
+          "numerator": "1801152661463",
+          "denominator": "3657959592724439",
+          "decimal": 0.000492392716706175
+        },
+        "to_A_final": {
+          "numerator": "1745755655555463264802168877617940881232761895531832060907966554232736376821034382533483506226752624546766883953894904554843093738555988900749916270991200577745439394172929682263174833823072046579328383438732848046727463842131555793457664549350738525390625000000",
+          "denominator": "1754496014328264106586814900949718118853644565206021730072074680149057252728153904038760129643189229158196243144772594254093112394218482430490366545016053552865974496786272134161565191460943019180815917565100006257482213368616927944503137293982495213861410741821",
+          "decimal": 0.9950183079919123
+        }
+      }
+    },
+    {
+      "degree": 20,
+      "seed": 10,
+      "distinct_observed_parents": 6,
+      "complete_parent_library_size": 344,
+      "raw_Lehmer_target_hits": 42,
+      "cached_target_hits": 36,
+      "repeated_target_hits": 36,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 2.495642800000496,
+      "last_new_parent_elapsed": 8.862078000005567,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "1162264667",
+        "denominator": "11157710083200",
+        "decimal": 0.00010416695346386574
+      },
+      "second_core_prefixes_reachable_by_mutation": 2,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 2
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 120,
+        "2": 1080,
+        "3": 5760
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            1,
+            0,
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            1,
+            -1,
+            -1
+          ]
+        },
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            -1,
+            0,
+            0,
+            -1,
+            1,
+            -1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            -1,
+            1,
+            -1
+          ]
+        }
+      ],
+      "complete_library_probability": {
+        "numerator": "1162283483",
+        "denominator": "76765045372416",
+        "decimal": 1.5140790673168071e-05
+      },
+      "fixed_bias_probability": {
+        "numerator": "2634912996012334147",
+        "denominator": "1444453130876029114892490",
+        "decimal": 1.8241595657827383e-06
+      },
+      "A_final_probability": {
+        "numerator": "13447361106324590936376732888289048666271364066556871968298216169825854769175437069738558944544372320208871503279088379736227050835689987219257798004749514123154660478766676575326760557705771037332609055010707",
+        "denominator": "457190288790714745000446805040775580014127841467919403931923919719200554228813021306122516531838563456153757985500717585986970891308872636012067165835562373096698446719998720766398037085309624671936035156250000000000",
+        "decimal": 2.941305061814274e-08
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "199909522724",
+          "denominator": "29057087075",
+          "decimal": 6.879888620907125
+        },
+        "to_fixed_bias": {
+          "numerator": "48148570260703520839883",
+          "denominator": "843172158723946927040",
+          "decimal": 57.104079828218424
+        },
+        "to_A_final": {
+          "numerator": "47624119536593724011946571735416692362517339704804791821441618905476900970834395878742381243706210627159891451392231344738709171242593417561148758248236151689882257056173064935222782878554426133632659912109375000",
+          "denominator": "13447361106324590936376732888289048666271364066556871968298216169825854769175437069738558944544372320208871503279088379736227050835689987219257798004749514123154660478766676575326760557705771037332609055010707",
+          "decimal": 3541.5215788468004
+        }
+      }
+    },
+    {
+      "degree": 20,
+      "seed": 11,
+      "distinct_observed_parents": 6,
+      "complete_parent_library_size": 344,
+      "raw_Lehmer_target_hits": 40,
+      "cached_target_hits": 34,
+      "repeated_target_hits": 34,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 3.737656599987531,
+      "last_new_parent_elapsed": 8.41580819999217,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "1162264667",
+        "denominator": "11157710083200",
+        "decimal": 0.00010416695346386574
+      },
+      "second_core_prefixes_reachable_by_mutation": 2,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 2
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 120,
+        "2": 1080,
+        "3": 5760
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            1,
+            0,
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            1,
+            -1,
+            -1
+          ]
+        },
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            -1,
+            0,
+            0,
+            -1,
+            1,
+            -1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            -1,
+            1,
+            -1
+          ]
+        }
+      ],
+      "complete_library_probability": {
+        "numerator": "1162283483",
+        "denominator": "76765045372416",
+        "decimal": 1.5140790673168071e-05
+      },
+      "fixed_bias_probability": {
+        "numerator": "2634912996012334147",
+        "denominator": "1444453130876029114892490",
+        "decimal": 1.8241595657827383e-06
+      },
+      "A_final_probability": {
+        "numerator": "39476719604696038770674383682600642687815707898228532153685517187993809743703791426102761004033287022823498179654172896103643123891069542222900323089722516949087972605553446330931442630187236582392437",
+        "denominator": "2207575965875165483002157430054030657782503005945096550414146926644139818990554302878134436968020492116856717129989179200908516589462842156743981457891715458666915357019422394557750521926209330558776855468750",
+        "decimal": 1.7882383308628744e-08
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "199909522724",
+          "denominator": "29057087075",
+          "decimal": 6.879888620907125
+        },
+        "to_fixed_bias": {
+          "numerator": "48148570260703520839883",
+          "denominator": "843172158723946927040",
+          "decimal": 57.104079828218424
+        },
+        "to_A_final": {
+          "numerator": "14717213625937077683234689139721912702656787035633389381163215716618233168586995023556502729483610689810325312521667834991253668461711154409753856263226349047936185494844796295410560560412704944610595703125",
+          "denominator": "2526510054700546481323160555686441132020205305486626057835873100031603823597042651270576704258130369460703883497867065350633159929028450702265620677742241084741630246755420565179612328331983141273115968",
+          "decimal": 5825.115795029531
+        }
+      }
+    },
+    {
+      "degree": 20,
+      "seed": 12,
+      "distinct_observed_parents": 5,
+      "complete_parent_library_size": 344,
+      "raw_Lehmer_target_hits": 111,
+      "cached_target_hits": 106,
+      "repeated_target_hits": 106,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 2.222744099999545,
+      "last_new_parent_elapsed": 5.4276357000053395,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "3486800401",
+        "denominator": "55788550416000",
+        "decimal": 6.250028679719908e-05
+      },
+      "second_core_prefixes_reachable_by_mutation": 1,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 1
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 100,
+        "2": 900,
+        "3": 4800
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            1,
+            0,
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            1,
+            -1,
+            -1
+          ]
+        }
+      ],
+      "complete_library_probability": {
+        "numerator": "1162283483",
+        "denominator": "76765045372416",
+        "decimal": 1.5140790673168071e-05
+      },
+      "fixed_bias_probability": {
+        "numerator": "2634912996012334147",
+        "denominator": "1444453130876029114892490",
+        "decimal": 1.8241595657827383e-06
+      },
+      "A_final_probability": {
+        "numerator": "325690555355378304143091784984684577351693401465174263888888065108180250658732702530940557970644118572624086094766049337704327125943340262019804954784724414103830806514821529171224437667768011896495952190455167",
+        "denominator": "13720983465724502017279990538429002016593542353134303602263901387423603749914844056255256347439015699292865693639039424493232893238550914902357807302237909488906712157730289464684092504143109181313775479793548583984375",
+        "decimal": 2.373667719729892e-08
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "599729668972",
+          "denominator": "145285435375",
+          "decimal": 4.127940749353314
+        },
+        "to_fixed_bias": {
+          "numerator": "144445975911782329873249",
+          "denominator": "4215860793619734635200",
+          "decimal": 34.26251078555209
+        },
+        "to_A_final": {
+          "numerator": "109768371423668218686348723145318327679390515045313060426828531898076660948256162560945894034606598581808120271029618649662677951003187406402436933116069360328245036227958158873974081615187969873659312725067138671875",
+          "denominator": "41688391085488422930315748478039625901016755387542305777777672333847072084317785923960391420242447177295883020130054315226153872120747553538535034212444725005290343233897155733916728021474305522751481880378261376",
+          "decimal": 2633.0680692035194
+        }
+      }
+    },
+    {
+      "degree": 20,
+      "seed": 13,
+      "distinct_observed_parents": 6,
+      "complete_parent_library_size": 344,
+      "raw_Lehmer_target_hits": 65,
+      "cached_target_hits": 59,
+      "repeated_target_hits": 59,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 3.587169400008861,
+      "last_new_parent_elapsed": 9.380535900010727,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "1162264667",
+        "denominator": "11157710083200",
+        "decimal": 0.00010416695346386574
+      },
+      "second_core_prefixes_reachable_by_mutation": 2,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 2
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 120,
+        "2": 1080,
+        "3": 5760
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            1,
+            0,
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            1,
+            -1,
+            -1
+          ]
+        },
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            -1,
+            0,
+            0,
+            -1,
+            1,
+            -1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            -1,
+            1,
+            -1
+          ]
+        }
+      ],
+      "complete_library_probability": {
+        "numerator": "1162283483",
+        "denominator": "76765045372416",
+        "decimal": 1.5140790673168071e-05
+      },
+      "fixed_bias_probability": {
+        "numerator": "2634912996012334147",
+        "denominator": "1444453130876029114892490",
+        "decimal": 1.8241595657827383e-06
+      },
+      "A_final_probability": {
+        "numerator": "22669674425099372243919661086689359528394521999732011208650056000596814681700000038273604602750199533510689116386424445730484637000155920242886435137961502833461554238651454977243006416525930232621",
+        "denominator": "6119334774485714937133261219754563821017053066223411678859677232467565229421986288721469876467759580918180524032064541225928534033204549880672175766781605834118305461966080827096448047086596488952636718750",
+        "decimal": 3.7045978460958758e-09
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "199909522724",
+          "denominator": "29057087075",
+          "decimal": 6.879888620907125
+        },
+        "to_fixed_bias": {
+          "numerator": "48148570260703520839883",
+          "denominator": "843172158723946927040",
+          "decimal": 57.104079828218424
+        },
+        "to_A_final": {
+          "numerator": "40795677483754806827037401250563022357427557984165035402392542126790341171283239868661010691055524918599225091634869863182352807445066077143691661844989955067295080148870312086728517897427082061767578125",
+          "denominator": "1450859163206359823610858309548119009817249407982848717353603584038196139628800002449510694576012770144684103448731164526751016768009978895544731848829536181341539471273693118543552410657659534887744",
+          "decimal": 28118.28916157338
+        }
+      }
+    },
+    {
+      "degree": 20,
+      "seed": 14,
+      "distinct_observed_parents": 7,
+      "complete_parent_library_size": 344,
+      "raw_Lehmer_target_hits": 80,
+      "cached_target_hits": 73,
+      "repeated_target_hits": 73,
+      "fresh_repeated_target_hits": 0,
+      "first_parent_elapsed": 1.5690180999808945,
+      "last_new_parent_elapsed": 9.629166599974269,
+      "kernel_defined": true,
+      "mixture_second_core_probability": {
+        "numerator": "3486790001",
+        "denominator": "19525992645600",
+        "decimal": 0.00017857171536862765
+      },
+      "second_core_prefixes_reachable_by_mutation": 4,
+      "compatible_pairs_by_k": {
+        "1": 0,
+        "2": 0,
+        "3": 4
+      },
+      "mutation_branch_outcomes_by_k": {
+        "1": 140,
+        "2": 1260,
+        "3": 6720
+      },
+      "boundary_returns_by_k": {},
+      "compatible_pair_witnesses": [
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            -1,
+            0,
+            0,
+            -1,
+            1,
+            -1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            -1,
+            1,
+            -1
+          ]
+        },
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            -1
+          ],
+          "second_core_prefix": [
+            0,
+            1,
+            -1,
+            0,
+            -1,
+            -1,
+            0,
+            -1,
+            1,
+            -1
+          ],
+          "changed_coordinates_zero_based": [
+            2,
+            4,
+            8
+          ],
+          "signed_unit_changes": [
+            -1,
+            -1,
+            1
+          ]
+        },
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            -1
+          ],
+          "second_core_prefix": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            -1,
+            0,
+            -1,
+            -1,
+            -1
+          ],
+          "changed_coordinates_zero_based": [
+            2,
+            4,
+            8
+          ],
+          "signed_unit_changes": [
+            1,
+            1,
+            -1
+          ]
+        },
+        {
+          "k": 3,
+          "parent_prefix": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "second_core_prefix": [
+            1,
+            0,
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "changed_coordinates_zero_based": [
+            0,
+            4,
+            5
+          ],
+          "signed_unit_changes": [
+            1,
+            -1,
+            -1
+          ]
+        }
+      ],
+      "complete_library_probability": {
+        "numerator": "1162283483",
+        "denominator": "76765045372416",
+        "decimal": 1.5140790673168071e-05
+      },
+      "fixed_bias_probability": {
+        "numerator": "2634912996012334147",
+        "denominator": "1444453130876029114892490",
+        "decimal": 1.8241595657827383e-06
+      },
+      "A_final_probability": {
+        "numerator": "5897250666691877145652782111146943059975659103934152875249605534561392464008364551952282709094933239253090409754109987815646499294228377957801760682120673679542518012962699919136850593865509008167530747730523",
+        "denominator": "749618509874500079798824499419934068074589000612367930660310460977276740604193320368380059867300548662477114193927906300176245419067557360382341531430746714679492419090844901319314885768108069896697998046875000000000",
+        "decimal": 7.86700246726723e-09
+      },
+      "ratios": {
+        "to_complete_library": {
+          "numerator": "2398911520688",
+          "denominator": "203399609525",
+          "decimal": 11.794081248681788
+        },
+        "to_fixed_bias": {
+          "numerator": "144445545076065707923649",
+          "denominator": "1475551277766907122320",
+          "decimal": 97.89259597583688
+        },
+        "to_A_final": {
+          "numerator": "133860663180364024213122146323710403141325366797248025772831741606321299645495138838518196420736899344750162178291289697212966621323800758549390590207820930713218627672658755933809970883885398507118225097656250000",
+          "denominator": "5897250666691877145652782111146943059975659103934152875249605534561392464008364551952282709094933239253090409754109987815646499294228377957801760682120673679542518012962699919136850593865509008167530747730523",
+          "decimal": 22698.825392723986
+        }
+      }
+    }
+  ],
+  "parent_choice_override": "uniform over each run's distinct actually observed Lehmer prefixes; duplicates carry no additional weight",
+  "scope": "Post hoc finite mechanism calculation on each completed history. Parents were selected after the run by known target/core status. This is not live acquisition, a learned proposal comparison, new random sampling, a cost advantage or a new Mahler value. The full library and second-core census supply evaluation baselines only."
+}

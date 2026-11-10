@@ -10,8 +10,18 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state.** S4 and its adaptive-sampling child S10 are active under Yin's [explicit G0001 resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-sampling-2026-11-09); S8 remains paused.
+**Current state.** S4 is paused under Yin's [instruction to finish this exploration round and pause](../tasks/Yin_T_G0001_v1.md#decision-pause-after-neutral-reference-round-2026-11-10), together with G0001 and all associated routes.
+The S10 child remains paused; its completed comparisons and exact local exclusion are retained at their responsible homes.
 The [adaptive integer sampling child S10](Yin_S_G0010.md#route) owns distribution updates, search-efficiency metrics and the [first comparison of three sampling laws](Yin_S_G0010.md#first-experiment).
+Its [reduced-prior live control](../computations/programs/Yin_J_G0156/readme.md#prior-live-results) and [completed degree-18/20 comparison](Yin_S_G0010.md#degree-validation) pass their finite recovery screens while finding only the known Lehmer target value.
+The [completed exact core-mass diagnostic](Yin_S_G0010.md#core-mass-follow-up) shows increased Lehmer probability but reduced second-core probability in every final law.
+The [completed S10 archive comparison](../computations/programs/Yin_J_G0156/readme.md#archive-comparison-results) observes a passing finite screen through recovery of the second known value in three degree-24 closure runs, with no nonseed value at degree 30.
+Its [independent actual-result finding](../audits/reviews/Yin_R_G1111_v9.md#archive-results-review) verifies that finite archive outcome.
+The subsequent [degree-56 comparison](../computations/programs/Yin_J_G0156/primitive_core_sampling.md#primitive-comparison-results) has completed all ten valid runs, reaching the primary class without a new whole target or a primitive near-miss below \(13/10\), as verified by its [independent actual-result finding](../audits/reviews/Yin_R_G1111_v12.md#primitive-results-review).
+The [retained-root cost diagnostic](Yin_S_G0010.md#primitive-root-cost-follow-up) investigates the full exterior contributions at its separately stated review scope.
+The [fixed degree-56 root-cell test](Yin_S_G0010.md#primitive-fixed-cell-test) returned numerical infeasibility without a candidate under its full-coefficient, joint-root and known-value-exclusion constraints.
+The separate [independently verified exact tree](Yin_S_G0010.md#primitive-cell-exact-certificate) now proves that this closed simplex in the height-four integer box contains only the original parent.
+That closes this finite filtered-cell question without excluding other root configurations or establishing an unrestricted gap.
 The [independently reviewed central-deformation classification](../claims/Yin_C_G0884_v1.md#decision-central-deformation-reviewed) closes the retained fixed-coefficient first test: its only strict sign inputs are the conductor-9 and conductor-11 cases at length 3.
 The [complete positive-integer-amplitude classification](../claims/Yin_C_G0884_v2.md#decision-positive-amplitudes-reviewed) now leaves exactly those two inputs even when the amplitude grows.
 The [independently reviewed signed-amplitude theorem](../claims/Yin_C_G0884_v3.md#decision-signed-amplitudes-reviewed) closes the entire single-term family, with arbitrary signed amplitude and all permitted conductors.
@@ -22,6 +32,148 @@ The [independently checked adjacent-term investigation](../ledger/Yin_L_G0464_v1
 Its [general fixed-term extension](../ledger/Yin_L_G0464_v19.md#fixed-number-of-terms) has at most \(12+4K\) terms for \(K\) central perturbations, so the accepted fixed-support theorem prevents positive measures tending to one for any fixed \(K\), with no degree or amplitude bound.
 This supplies no effective exclusion of the finite \(6/5\) target.
 Further fixed-term enlargement is not selected as a shrinking-measure mechanism; an actual completion with unbounded support and simultaneous integer signs, endpoint and nonneutrality is the remaining construction obligation.
+The [independently reviewed rational linear-cut square theorem](../claims/Yin_C_G0880_v4.md#decision-rational-cut-prefix-rigidity) now classifies every input \(h=(At+\beta)g^2\), \(A,\beta\in\mathbb Z\), \(A\ge1\), \(|\beta|<2A\), \(g\in\mathbb Z[t]\), \(\deg h<n\), with \(a_0=2,a_1=0\).
+Its sole input has \((A,\beta)=(2,3)\), \(g=\pm(t-1)\), and \(a_2=-1\), so increasing the square's support within this class cannot supply a true zero-profile prefix of length four.
+The short survivor satisfies the actual strict signs and endpoint at every odd conductor at least nine, but its [complete conductor-9 lift](../claims/Yin_C_G0880_v4.md#small-control) already has measure greater than \(6/5\).
+The next construction must change the sign representative or the unreduced-input restriction, while respecting the separate existing whole-measure obstruction on the original \(\beta=2A-1\) subfamily.
+The [separate integral orthogonal test](../ledger/Yin_L_G0462_v13.md#first-family-obstruction) controls the full number of expanding roots but excludes its proposed growing-support family by the exact bound \(M>2\) for every \(r\ge4\).
+The [adopted positive-lattice two-transvection theorem](../claims/Yin_C_G0885_v2.md#decision-positive-lattice-two-transvection-gap) gives a uniform positive complete-measure gap for every \(RT_{e,v}T_{f,w}\) over an arbitrary positive integral lattice, with no bound on rank, lattice determinant, isometry order or even-norm integer vector pairs.
+Large vector norms force a real root above two; the remaining integer correlations have bounded Fourier algebra norms, yielding a bounded-support integer polynomial with exactly the same complete measure.
+Changing the positive lattice, vector correlations or their coordinate support within this family therefore cannot give a shrinking positive-measure sequence.
+The theorem gives no effective exclusion of the finite \(6/5\) target and does not cover arbitrary products of transvections or general indefinite-lattice isometries.
+The [independently checked short-word reduction](../ledger/Yin_L_G0462_v14.md#short-word-reduction) extends its gap to all words with at most three transvections at the two fixed cusps, including intervening positive isometries.
+Its [constant-Lehmer conjugacy control](../ledger/Yin_L_G0462_v14.md#unbounded-parameters) shows that unbounded displayed vector norms alone can leave the complete polynomial unchanged.
+The [completed J158 test](../computations/programs/Yin_J_G0158/readme.md#results-and-limits) gives an independently verified integral hyperbolic-plane splitting of the known degree-18 second core's natural trace lattice, preserving the entire polynomial without powers or added dimensions.
+Its [independently verified discriminant obstruction](../computations/programs/Yin_J_G0158/discriminant_action.md#conclusion-and-limits) then excludes the specified positive isometries and fixed-cusp transvections at every finite word length, for every such splitting of this same lattice.
+Thus the expected representation test succeeds at the splitting step but fails at the generator step; enlarging word length on this fixed lattice cannot repair it.
+
+<a id="degree18-unimodular-continuation"></a>
+The different-lattice continuation motivated by the accepted [GM02 unchanged-polynomial realization theorem](../audits/literature/GM02/Yin_U001.md#unimodular-realization) is now complete for the fixed degree-18 input.
+The actual [McM02 source diagram](../audits/literature/McM02/Yin_U002.md#figure-seven-recipe) supplies a direct construction, so an explicit fractional ideal is not needed for this calibration.
+The [independently verified J158 model](../computations/programs/Yin_J_G0158/readme.md#unimodular-model-result) gives an integral \(E_8\oplus E_8\oplus U\) basis and \(A=RT_{e,\theta}T_{f,\theta}\), preserving the entire degree-18 polynomial with no power or added dimension.
+Thus the known value near \(1.188368\) already lies in the two-transvection family controlled by C885 v2; this successful representation supplies neither a new value nor a longer-word escape.
+
+The [adopted all-word E8-block cover](../claims/Yin_C_G0886_v1.md#decision-e8-block-canonical-cover) now gives \(M(P_A)=1\) or \(M(P_A)\ge\lambda_{\rm L}^{1/d}\) for every specified word over \(E_8^r\oplus U\), where \(d\) is the order of its ordered block-permutation product.
+Its [complete independent review](../audits/reviews/Yin_R_G1114_v7.md#e8-block-canonical-cover-review) covers arbitrary word length, integral parameter norms and block count through an explicit canonical Coxeter quotient.
+In particular the entire three-block fixed-cusp group has gap \(\log\lambda_{\rm L}/3\), and a sequence with \(1<M\to1\) in these groups requires unbounded permutation order in every chosen presentation.
+The [Leech chamber warning](../audits/literature/Bor96/Yin_U001.md#canonical-normalization-boundary) concerns a different representation and does not invalidate this explicit canonical cover.
+Unbounded permutation order is necessary here, not sufficient for small radius or new irreducible cores.
+
+<a id="cyclic-commutator-first-test"></a>
+The [completed growing-cycle test](../ledger/Yin_L_G0462_v15.md#candidate) changes the two-transvection word while allowing the block-permutation order to grow.
+It uses \(N=2^n\), \(g=N^3+1\) E8 blocks, a cyclic block permutation \(R_g\), and two disjoint signed norm-two-root sums \(v_n,w_n\), each of squared norm \(2N\), in the four-factor commutator
+\[
+A_n=R_gT_{e,v_n}T_{f,w_n}T_{e,-v_n}T_{f,-w_n}.
+\]
+The specified word has permutation order \(g\), so the existing bounded-order exclusion does not close this presentation.
+Its [complete determinant reduction](../ledger/Yin_L_G0462_v15.md#two-dimensional-exterior-test) separates every neutral factor and reduces the exterior-point test to a two-by-two determinant.
+The [complete independent review](../audits/reviews/Yin_R_G1114_v8.md#growing-cycle-commutator-review) verifies \(P_{A_n}(2)<0\), hence \(M(P_{A_n})>2\), for every \(n\ge1\), including the two small parameters.
+This closes both shrinking measures and the finite \(6/5\) target for this exact family; no parameter enlargement or sampling campaign for it is selected.
+The cancellation in this commutator removes apparent sixth-degree terms but leaves a negative quartic determinant term, so growing permutation order alone does not remove the exterior cost.
+The result does not establish a general four-factor gap.
+
+<a id="post-commutator-allocation"></a>
+The [adopted fixed-count theorem](../claims/Yin_C_G0885_v8.md#decision-fixed-transvection-count-gap) now gives a positive complete-logarithmic gap for every fixed permitted transvection count, with no bound on the original vector norms, positive integral lattice, rank, determinant or positive-isometry orders.
+Its [complete independent finding](../audits/reviews/Yin_R_G1114_v15.md#fixed-count-rational-normalization-gap-review) checks the weighted pair selection, every rational shortening and terminal, all recursive denominator and scale controls, the integral monic quotient and the exact complete-measure identity.
+Thus the minimum permitted word length must tend to infinity along any positive-to-one sequence in these two-cusp groups.
+The constant may depend on the count, so this supplies neither an arbitrary-length uniform gap nor an effective exclusion of all finite values below \(6/5\).
+The [earlier bounded-count and bounded-norm theorem](../claims/Yin_C_G0885_v3.md#decision-bounded-word-bounded-norm-gap) remains a retained arithmetic input at its actual scope.
+
+The [adopted five-factor theorem](../claims/Yin_C_G0885_v6.md#decision-at-most-five-transvection-gap) retains a stronger explicit normalization for every permitted word containing at most five transvections.
+For \(1<M(P_A)\le2\), exact integral conjugacy gives at most four factors whose parameter squared norms are at most 33282, independently of the positive lattice, rank, determinant and positive-isometry orders.
+The [complete independent review](../audits/reviews/Yin_R_G1114_v13.md#at-most-five-transvection-gap-review) checks the rational middle-pair decomposition, all scaling and denominator costs, the neutral effective-zero branches and the return to the original integral presentation before the bounded-word theorem is applied.
+The new general theorem instead permits controlled rational final matrices and keeps the original finite-order integral positive factor separate throughout.
+The [cyclic adjacent-pair theorem](../claims/Yin_C_G0885_v7.md#decision-cyclic-adjacent-short-pair) and [six-factor controls](../ledger/Yin_L_G0462_v17.md#scope) retain the exact selection and failure examples behind that distinction.
+One vanished effective parameter need not be neutral in a longer word, and a rational positive isometry need not have finite order.
+
+The [adopted boundary-expansion theorem](../claims/Yin_C_G0885_v5.md#decision-boundary-expansion-short-pair) also gives an all-word exclusion when the positive lattice has no nonzero permitted vector of squared norm at most eight: every nonneutral output then has measure at least \((7+3\sqrt5)/2\).
+Its [independent finding](../audits/reviews/Yin_R_G1114_v12.md#boundary-expansion-short-parameter-review) retains the actual full-vector multipliers and complete characteristic polynomial.
+The [four-factor exterior tests](../claims/Yin_C_G0885_v4.md#decision-four-factor-exterior-tests) remain exact necessary filters for finite low-measure investigations.
+The [opposite-root reduction and displayed-cusp classification](../ledger/Yin_L_G0462_v16.md#opposite-root-reduction), with their [independent review](../audits/reviews/Yin_R_G1114_v11.md#opposite-root-and-cusp-return-review), retain the exact neutral cases and conjugacy controls rather than treating raw parameter growth as new spectral behavior.
+
+The [adopted neutral-embedding cover](../claims/Yin_C_G0886_v3.md#decision-neutral-integral-embedding-cover) is stronger on its different domain: every word over a positive integral lattice with an integral orthogonal basis has complete measure one or at least the Lehmer value, with no bounds on rank, unequal diagonal entries, word length or vector norms.
+Its [independent complete review](../audits/reviews/Yin_R_G1114_v10.md#neutral-embedding-canonical-gap-review) includes the full canonical action, exact integer embedding and finite-order complement, every positive diagonal isometry and all six rational threshold comparisons.
+In the strict interval \(1<M<6/5\), that entire domain can only reproduce the Lehmer value.
+The same conclusion holds for any specified word satisfying the theorem's actual integer embedding and signed-permutation extension conditions, and for the E8-block presentations with product permutation equal to the identity.
+Increasing the diagonal weights, rank or word length in these domains is therefore not selected for further target-value sampling.
+
+The [constant-Lehmer conjugacy family](../ledger/Yin_L_G0462_v14.md#unbounded-parameters) prevents treating growth of displayed vector norms alone as a new complete-measure mechanism.
+The fixed-count normalization question is now closed; the unresolved construction needs growing minimum count or an integral realization outside the covered two-cusp groups.
+The [Leech chamber translations](../audits/literature/Bor96/Yin_U001.md#affine-chamber-quotient) supply an infinite reflection-group quotient, but this alone gives no small-radius estimate or motivated growing word.
+At negative index one complete measure equals spectral radius; outside that setting a small radius alone leaves the total exterior cost uncontrolled.
+Fixed rank cannot produce a positive-to-one sequence, although a bounded test for a new finite value below \(6/5\) can still be useful.
+The inspected nonorthogonal alternatives retain their distinct missing inputs: [MS05's positive-residue construction](../audits/literature/MS05/Yin_U001.md#ms05-arbitrary-distinct-prime-construction) pays its [complete exterior expense](../audits/literature/RY26/Yin_U001.md#exterior-root-measure-expense), while the trace-prefix construction still lacks a nonneutral integer input meeting the full chamber conditions.
+Reopening an excluded finite cell or changing the lattice without a new complete-measure mechanism is not a selected successor construction.
+The bounded comparison after these exclusions found no justified new sampling family among the inspected interfaces, including extensions of the degree-18 calibration.
+Neutral padding retains its nonneutral core, while the [cyclic block-shift control](../ledger/Yin_L_G0462_v5.md#separable-control) shows why reducing the house by adding expanding roots need not reduce complete measure.
+Sharing one hyperbolic plane avoids that expanding-count loss but requires a new interaction estimate, which the existing degree-18 model does not supply.
+Counterexample construction remains the priority; no new rank, norm or sample-count enlargement is selected without such a mechanism.
+The repeated-pair investigation has returned the complete fixed-count gap, including the previously unresolved denominator and rational-factor costs.
+A bounded comparison of growing E8-block words, repeated nonintegral pair reductions and changed invariant lattices found no supplied mechanism making complete measure decrease.
+The explicit infinite-order correction in [L462 v17](../ledger/Yin_L_G0462_v17.md#infinite-order-positive-factor) already occurs over a standard positive lattice inside the all-word cover, so its denominator growth is not an escape by itself.
+The [remaining construction question](../claims/Yin_C_G0885_v8.md#remaining-work) is whether an actual growing chain closes to integer monodromies with changed nonneutral cores and a complete-measure gain; no such chain was found in that comparison.
+The selected growing-support trace test fixes the zero profile, one terminal negative node and matching length 140.
+The [adopted conductor-401 grid exclusion](../claims/Yin_C_G0881_v5.md#decision-integer-jets-grid-exclusion), with its [complete independent review](../audits/reviews/Yin_R_G1107_v30.md#integer-jets-grid-certificate-review), closes that smaller cell over all real coefficients.
+The [adopted quadratic-kernel theorem](../claims/Yin_C_G0881_v7.md#decision-quadratic-kernel-four-branches) forces \(Q(0)=0\) and restricts nonneutral integer inputs at conductor 2003 to four derivative branches, without using the numerical extrema as bounds.
+The [conductor-1009 application](../computations/programs/Yin_J_G0159/readme.md#p1009-branch) reduces the necessary nonneutral derivative to \(-1\) and supplies its entire 363-dimensional affine integer lattice.
+At both conductors, exact rational points on jets \((0,-1)\) satisfy the full prefix, strict signs and endpoint; the [independent finite review](../audits/reviews/Yin_R_G1107_v34.md#j159-jet-branches-review) checks both complete polynomials and the new conductor's applicability proof.
+The [completed exact-coordinate repair](../computations/programs/Yin_J_G0159/readme.md#jet-lattice-result) supplies no admissible integer point in six starts, with the selected point rigorously failing 490 original signs.
+The three 60-second integer searches in the coefficient box \([-16,16]\), two at conductor 2003 and one at 1009, return no candidate and prove no box or branch infeasibility.
+The real relaxation is feasible, while rounding and squared-loss repair have not supplied simultaneous integer feasibility; increasing those limits alone is not the selected continuation.
+The [adopted endpoint-nontorsion theorem](../claims/Yin_C_G0881_v8.md#decision-endpoint-nontorsion-nonreal-pair), with its [complete independent review](../audits/reviews/Yin_R_G1107_v35.md#endpoint-nontorsion-nonreal-pair-review), now gives \(M(P)>1\) automatically for every integer input in this precise single-negative-node zero-profile domain.
+It forces the endpoint-interval root to belong to the noncyclotomic part, gives exactly one nonreal conjugate exterior pair, and excludes a single Salem seed \(F(\pm z^k)\) with any cyclotomic padding for every \(k\).
+The first unsupported step in the complete prefix construction is consequently simultaneous integer satisfaction of the original strict signs and endpoint for arbitrarily long prefixes; the separate nonneutrality existence gap has been removed.
+
+<a id="prefix-integer-source-allocation"></a>
+
+The bounded strategy comparison after the repair failures supplied this structural discriminator but no new integer supply mechanism among the inspected prefix, fixed-count orthogonal, fixed-support central and single-Salem-seed interfaces.
+The main researcher completed the proposed first discriminator through the adopted theorem, so recovery of the earlier Salem seeds is not used as evidence of supply for this cell.
+The completed [local source comparison](../drafts/Yin_D_G0022.md#target-interface) found no compatible integer supply among its inspected fixed cores and growing constructions.
+Its selected core-changing discriminator, the whole degree-446 central-minus-one quotient at \(N=1155\), has [104 exterior roots](../computations/programs/Yin_J_G0138/readme.md#degree446-exact-root-shape), is irreducible, and has [complete measure between 2.10642510401468 and 2.10642510401469](../computations/programs/Yin_J_G0138/readme.md#degree446-factor-and-measure).
+Both conclusions have independent review at that fixed input; they close this member and its proper-factor question without excluding every later primorial parameter.
+The [Gaussian Hermitian comparison](../drafts/Yin_D_G0022.md#gaussian-hermitian-comparison) gives a different root-count mechanism but no actual decreasing-radius family.
+The exact single-coordinate cyclic input has an [adopted all-parameter exclusion](../claims/Yin_C_G0887_v1.md#decision-gaussian-one-coordinate-gap): its complete measure is one at four parameter pairs and strictly greater than \(6/5\) everywhere else.
+The [complete independent finding](../audits/reviews/Yin_R_G1107_v37.md#gaussian-one-kick-gap-review) covers both the uniform analytic argument and the exhaustive [22-input finite boundary](../computations/programs/Yin_J_G0160/readme.md#small-degree-boundary).
+The broader single-kick support argument remains ordinary Preparation at its stated standard-cycle scope; no general Hermitian-word gap is adopted from it.
+The original asymptotic route would still require integer existence as \(L\to\infty\); the current rational witnesses and root-count theorem do not supply that quantifier.
+An independently justified new finite value below \(6/5\) would warrant follow-up even before an asymptotic family is available.
+
+<a id="unrestricted-integer-supply-allocation"></a>
+
+The completed bounded agent-S comparison returned to the unrestricted Task rather than treating the prefix or two-exterior-root conditions as necessary.
+It found no new integer supply mechanism in the inspected scope and proposed a structural discriminator for fixed spatially periodic matrix constructions.
+The representative fixed-count, sparse-completion, adaptive-sampling and integer-realization failures informed that comparison; they do not establish a gap for all integer polynomials.
+The selected first discriminator is now the [adopted fixed-symbol theorem](../claims/Yin_C_G0888_v1.md#decision-fixed-periodic-symbol-growth), with its [complete independent finding](../audits/reviews/Yin_R_G1107_v38.md#periodic-symbol-and-alternating-review).
+Repeating one fixed integral Laurent matrix symbol gives either complete measure one at every period or total logarithmic measure growing linearly with the period; the positive gap depends on that fixed symbol.
+The exact alternating rotating-shear instance has \(g-2\) exterior roots and the proved linearly growing total cost.
+This closes fixed periodic repetition as a positive-to-zero mechanism, without covering varying primitive periods, nonperiodic defects or extracted factors.
+The subsequent [adopted disjoint-edge theorem](../claims/Yin_C_G0889_v1.md#decision-balanced-disjoint-edge-gap), with its [complete independent finding](../audits/reviews/Yin_R_G1115_v1.md#balanced-disjoint-edge-transfer-review), gives the full polynomial and an explicitly computed nonnegative integer \(c\).
+For balanced signs, \(c=0\) gives \(M=1\), while \(c\ge1\) gives \(M\ge c^2 4^c\ge4\).
+It accounts for arbitrary neutral gaps and an unbounded number of disjoint active edges, including the dilute regime; it supplies no theorem about overlapping edges.
+Consequently a complete output in \(1<M<6/5\) from this particular balanced rotating-shear law must use overlapping active edges, though that condition alone supplies no such output.
+The [adopted adjacent-cluster theorem](../claims/Yin_C_G0889_v2.md#decision-adjacent-cluster-transfer-and-gap), with its [complete independent finding](../audits/reviews/Yin_R_G1115_v2.md#adjacent-cluster-transfer-review), completes the selected calculation for every two-edge sign type, with the full \(DE\), cyclic determinant and all spectral multiplicities.
+For every word of \(m\ge1\) internally balanced monomial-pivot clusters, it gives \(M(P)\ge\max\{2,\sqrt m\}\), uniformly in the neutral gaps and every allowed total length.
+Other globally balanced types, mixtures and larger connected supports remain outside this measure bound.
+The exact remaining-type word has trace in \((-2,2)\) on an open interval, but its [independently verified complete genus-72 measure](../computations/programs/Yin_J_G0153/readme.md#cluster-word-control) lies between 47.97469677926936 and 47.97469677926937.
+Its sole noncyclotomic irreducible factor has degree 132 and the same measure, so this concrete failure of trace positivity supplies no small factor.
+The [paired-sign continuant comparison](../drafts/Yin_D_G0024.md#source-applicability-boundary) identifies the exact open-chain summands in KP15, but no inspected theorem identifies or controls their cyclic closure with the dependent multiplier \(z^g\).
+Further two-edge word sampling is deferred: the new representation has supplied neither a small complete value nor a matched complete-measure theorem for the remaining types.
+The separate [six-factor diagnostic](../computations/programs/Yin_J_G0153/readme.md#reciprocal-factor-measures) completes the below-\(6/5\) proper-factor question for the old 72 labelled inputs, at its ordinary author-checking scope.
+Those finite facts and the whole-polynomial cluster bounds do not exclude small extracted factors elsewhere.
+The bounded strategy comparison's factorwise discriminator is now the [adopted alternating-family factor theorem](../claims/Yin_C_G0888_v2.md#decision-alternating-rational-factor-gap), with its [complete independent finding](../audits/reviews/Yin_R_G1107_v39.md#alternating-factor-gap-review).
+An eigenvalue determines its root-of-unity phase; the resulting distinct conjugates and full integer-unit cost give \(M(f)\ge(1+\sqrt5)/2\) for every positive-measure monic rational divisor of that explicit alternating family.
+This closes proper-factor extraction there for all lengths, without claiming a factor gap for every fixed Laurent symbol or for the other cluster families.
+Counterexample construction remains the retained priority; the matrix exclusions supply no new integer-realization or factor-production mechanism.
+The [adopted variable-neutral-reference bound](../claims/Yin_C_G0881_v9.md#decision-variable-neutral-reference-bound), with its [complete independent review](../audits/reviews/Yin_R_G1107_v40.md#neutral-reference-bound-review), now allows a rational unit-circle-root reference of total numerator-plus-denominator degree \(H\).
+Under the actual cut and endpoint conditions, its complete measure tends to one when \(L\to\infty\) and \(\log(L+H)=o(L)\); the specified integer single-negative-node subcase also has strict positivity.
+The [squarefree-parent construction](../ledger/Yin_L_G0457_v4.md#integer-family) gives actual integer coefficients and a long matching prefix while breaking every parent factor, but supplies no admissible growing sequence.
+Its [independently checked phase criteria](../audits/reviews/Yin_R_G1107_v40.md#squarefree-parent-construction-review) require a new parent to pass endpoint parity, the final-pole condition and all interior phase and amplitude inequalities.
+The fixed parent \(\Phi_{60}\Phi_{84}\Phi_{140}\) fails those sign-and-endpoint requirements at every permitted odd length; its degree-1010 instance separately has [complete measure greater than \(11/4\)](../computations/programs/Yin_J_G0138/readme.md#growing-profile-resultant).
+That exact computation retains a shared trusted FLINT resultant backend and does not determine proper-factor measures.
+After explicit human resumption, a specified new parent should first face the [endpoint and phase tests](../ledger/Yin_L_G0457_v4.md#terminal-phase-gate), then certified amplitude and whole-measure checks if it passes.
+The separate [sublinear-degree factor question](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion) remains another sufficient construction interface, without an actual new divisor.
+Neither sufficient interface restricts the original unrestricted Task.
+No new parent campaign, coefficient box or word scan is selected by this closeout; S4, its S10 child and G0001 are paused until explicit human resumption.
 S4 retains integer constructions, structural exclusions and the separate obligation to obtain positive mass in arbitrarily small strict shells.
 S10 returns certified candidates and observed features to that work; its finite performance comparison supplies no arbitrary-radius existence conclusion.
 Prioritize integer constructions and discrete existence arguments that control the complete positive total Mahler measure.
@@ -333,10 +485,10 @@ This is preparation for a future explicitly authorized resumption.
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
-| priority | Coordinate moving-sign integer constructions and adaptive sampling; test full exterior cost and positive mass in shrinking shells. |
+| disposition | paused |
+| priority | After explicit human resumption, seek a new integer parent passing the exact endpoint, phase and amplitude conditions, or a concrete factor-production mechanism; preserve the unrestricted counterexample objective. |
 
-The current [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) puts counterexample construction first and reserves a small positive effort for S9.
+The current [whole-goal allocation](Yin_S_G0001.md#whole-goal-allocation-2026-11-05) records the human-directed pause of every route and retains counterexample construction as the direction for a later explicit resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.
 The [nearest Chebyshev-lattice test](../ledger/Yin_L_G0456_v1.md#nearest-chebyshev-integer-rounding) now gives an explicit positive real target of complete measure below 8/n whose unique nearest integer output is cyclotomic for n>=513.
 Every uniformly bounded L2 repair has bounded lifted support, and the separate growing-energy endpoint-kernel correction has an exact six-term cyclotomic completion; the accepted fixed-support gap excludes both as positive-to-zero mechanisms.
@@ -346,7 +498,8 @@ That exclusion does not depend on finite factorizations or numerical measures, a
 The next construction needs a mechanism reducing its complete logarithmic error while avoiding the demonstrated arithmetic filter; growing support or a small exterior real root alone does not supply one, and irreducibility is not required.
 The [central-minus-two cyclotomic construction](../ledger/Yin_L_G0457_v1.md#complete-exterior-root-cost) has no cyclotomic factors and has two small exterior real-root contributions, but its remaining nonreal exterior contribution obeys an explicit positive lower bound on the tested large inputs.
 Its finite numerical total measures increase, with no certified quadrature intervals or full-family asymptotic exclusion claimed; another endpoint-only or unchanged primorial scan is not selected.
-The [central-minus-one variant](../ledger/Yin_L_G0457_v2.md#central-minus-one-trace-reduction) has no exterior real roots and admits exact removal of all cyclotomic factors at the three tested inputs; its positive residual degrees are 10,34,446, with the last irreducible-factor count undetermined.
+The [central-minus-one variant](../ledger/Yin_L_G0457_v2.md#central-minus-one-trace-reduction) has no exterior real roots and admits exact removal of all cyclotomic factors at the three tested inputs; its positive residual degrees are 10,34,446.
+The original probe left the last irreducible-factor count undetermined; the later [complete fixed-input calculation](../computations/programs/Yin_J_G0138/readme.md#degree446-factor-and-measure) proves that this degree-446 residual is irreducible with complete measure greater than two, at its recorded independent-review and arithmetic-backend scope.
 Their finite numerical total measures also increase; the [bounded-prime-count completion](../ledger/Yin_L_G0457_v2.md#bounded-prime-count-completion) excludes both central shifts and the stated endpoint variant whenever the number of prime divisors stays bounded.
 Growing prime count remains mathematically open in these families, but a continuation needs a mechanism reducing the complete nonreal exterior cost, beyond another conductor scan.
 The [fixed-seed factor obstruction](../ledger/Yin_L_G0450_v1.md#unit-ray-saturation) prevents treating monomial substitution as an automatic supply of arbitrarily many positive factors.

@@ -80,3 +80,26 @@ The [subbox branch search](trace64_blocks.py) checks every cut with integer arit
 These solver-based runs served as comparisons during construction of the full certificate.
 
 The [degree-64 resultant certificate](trace64-resultant.md) forces a real-root displacement in the target disk search, with an exact bound of \(1/50\) for at least one original control root in the midpoint cells.
+
+<a id="degree56-cell"></a>
+## One fixed degree-56 all-real trace cell
+
+The [selected S10 test](../../../strategies/Yin_S_G0010.md#primitive-fixed-cell-test) uses the actual parent of J156's DP seed-32 proposal-448 minimum after the whole-variable sign change.
+The [complete cell description](trace56_cell.md) retains its 29 fixed rational nodes, complete \(1<M<6/5\) implication, exact open simplex, coefficient-height-four box and exclusion of both complete known-value fibers.
+The [exact preparation program](trace56_cell.py) and [native input](trace56_cell.json) preserve the original-parent correspondence, both positive-exterior trace cores, all vertices, strict integer rows and remainder constraints.
+The [numerical suggestion program](trace56_milp.py) has completed its model-building and separate real-process controls and the [single formal test](trace56_cell.md#formal-result).
+The [independent preparation finding](../../../audits/reviews/Yin_R_G1111_v14.md#fixed-cell-preparation-review) and [implementation finding](../../../audits/reviews/Yin_R_G1111_v14.md#fixed-cell-implementation-review) verify this fixed input, complete-measure reduction, actual model and retention controls.
+Its floating rows are outward relaxations, and every proposed integer polynomial still needs exact checks and the complete original-polynomial certificate.
+The formal run returned numerical infeasibility after 13013 reported MIP nodes and approximately 4.175 seconds of total supervisor time, without an observed or returned candidate.
+The [complete native observation](trace56_observation.json) preserves the actual model and all events.
+The [independent actual-result finding](../../../audits/reviews/Yin_R_G1111_v15.md#fixed-cell-result-review) verifies the complete numerical observation, retention and unresolved interpretation at that stage.
+
+The separate [exact-tree argument and result](trace56_tree.md), [program](trace56_tree.py) and [native proof](trace56_tree_proof.json.gz) now establish that the fixed closed simplex in the height-four integer box contains only the original parent.
+The complete certificate has 1504 internal prefixes, one leaf and an empty frontier; all of its pruning bounds are checked with integer arithmetic.
+The [independent mathematical finding](../../../audits/reviews/Yin_R_G1111_v16.md#fixed-cell-exact-tree-review) verifies the entire coverage and parent membership, while the [evidence finding](../../../audits/reviews/Yin_R_G1111_v16.md#fixed-cell-exact-tree-evidence-review) verifies the actual program, bounded attempt and complete native retention.
+Consequently the selected strict cell contains no height-four integer point outside the known-value fibers, without an exclusion of other cells, heights or degrees.
+
+The separate [conjugate-evaluation resultant test](trace56_resultant.md) checks a fixed sufficient bound on the same vertex simplex, with all five root brackets and 145 vertex-value intervals reproduced by [its program](trace56_resultant.py).
+Its separate-maximum product is enclosed between 537718784.872951328062 and 537718784.872951328063, so that particular bound cannot force divisibility by the Lehmer trace.
+This useful failure supplies neither a feasible integer candidate nor an exclusion of the cell, and does not optimize the common interpolation weights or the coefficient box.
+The [independent auxiliary finding](../../../audits/reviews/Yin_R_G1111_v14.md#fixed-resultant-bound-review) reproduces all intervals and checks that precise insufficient-bound conclusion.

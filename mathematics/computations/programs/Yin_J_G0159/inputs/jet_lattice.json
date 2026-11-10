@@ -1,0 +1,15 @@
+{
+  "p": 2003,
+  "prefix_L": 140,
+  "Q0": 0,
+  "Qprime0": -1,
+  "lp_seconds": 45,
+  "repair_seconds": 45,
+  "seed": 20261110,
+  "restarts": 6,
+  "steps_per_restart": 400,
+  "kicks_per_restart": 8,
+  "kick_coordinates": 4,
+  "max_step": 4,
+  "sine_margin": 0.0000001
+}

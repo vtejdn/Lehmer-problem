@@ -1,0 +1,6402 @@
+{
+  "protocol": "S10-observed-parent-offline-mutation-control",
+  "source_label": "s10_degree_validation",
+  "occurrence_columns": [
+    "proposal",
+    "committed_elapsed",
+    "cached",
+    "repeated_proposal"
+  ],
+  "runs": [
+    {
+      "degree": 18,
+      "seed": 10,
+      "source_summary": "s10_degree_validation_d18_A_s10.json",
+      "source_journal": "s10_degree_validation_d18_A_s10.jsonl",
+      "committed_proposals": 15480,
+      "all_target_evaluations": 31,
+      "Lehmer_target_evaluations": 31,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 6,
+      "parents": [
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2150,
+              2.777177199983271,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2233,
+              2.86234229998081,
+              false,
+              false
+            ],
+            [
+              4045,
+              4.512195999996038,
+              true,
+              true
+            ],
+            [
+              5328,
+              5.346295800001826,
+              true,
+              true
+            ],
+            [
+              5634,
+              5.530491299985442,
+              true,
+              true
+            ],
+            [
+              6133,
+              5.797062400000868,
+              true,
+              true
+            ],
+            [
+              6397,
+              5.927709799987497,
+              true,
+              true
+            ],
+            [
+              6963,
+              6.252522700000554,
+              true,
+              true
+            ],
+            [
+              8055,
+              6.811760699987644,
+              true,
+              true
+            ],
+            [
+              11618,
+              8.456953899993096,
+              true,
+              true
+            ],
+            [
+              12496,
+              8.831523300003028,
+              true,
+              true
+            ],
+            [
+              15091,
+              9.850343099999009,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2452,
+              3.0942895999760367,
+              false,
+              false
+            ],
+            [
+              6782,
+              6.143713700002991,
+              true,
+              true
+            ],
+            [
+              7763,
+              6.664318700000877,
+              true,
+              true
+            ],
+            [
+              7885,
+              6.7251975999970455,
+              true,
+              true
+            ],
+            [
+              8223,
+              6.900722999998834,
+              true,
+              true
+            ],
+            [
+              8830,
+              7.194293099979404,
+              true,
+              true
+            ],
+            [
+              9273,
+              7.4054672999773175,
+              true,
+              true
+            ],
+            [
+              9864,
+              7.671292599989101,
+              true,
+              true
+            ],
+            [
+              10567,
+              7.994952099979855,
+              true,
+              true
+            ],
+            [
+              11642,
+              8.46689619999961,
+              true,
+              true
+            ],
+            [
+              12195,
+              8.692915999999968,
+              true,
+              true
+            ],
+            [
+              12336,
+              8.753889899991918,
+              true,
+              true
+            ],
+            [
+              12930,
+              9.010365800000727,
+              true,
+              true
+            ],
+            [
+              15328,
+              9.934450000000652,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            -1,
+            1,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              7035,
+              6.290406299987808,
+              false,
+              false
+            ],
+            [
+              8097,
+              6.832400599989342,
+              true,
+              true
+            ],
+            [
+              9225,
+              7.387830199993914,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            -1,
+            0,
+            0,
+            0,
+            -1,
+            1,
+            2
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              8944,
+              7.247718200000236,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              14737,
+              9.7144672999857,
+              false,
+              false
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 18,
+      "seed": 11,
+      "source_summary": "s10_degree_validation_d18_A_s11.json",
+      "source_journal": "s10_degree_validation_d18_A_s11.jsonl",
+      "committed_proposals": 15138,
+      "all_target_evaluations": 36,
+      "Lehmer_target_evaluations": 36,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 7,
+      "parents": [
+        {
+          "free_coefficients": [
+            1,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            -2,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              620,
+              0.9969762999971863,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3103,
+              3.7291464000009,
+              false,
+              false
+            ],
+            [
+              3857,
+              4.412503400002606,
+              true,
+              true
+            ],
+            [
+              7949,
+              6.913530699996045,
+              true,
+              true
+            ],
+            [
+              9435,
+              7.637295099993935,
+              true,
+              true
+            ],
+            [
+              11113,
+              8.368123899999773,
+              true,
+              true
+            ],
+            [
+              12760,
+              9.033974699996179,
+              true,
+              true
+            ],
+            [
+              14456,
+              9.711043699993752,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3461,
+              4.0490557999874,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              4108,
+              4.604667200008407,
+              false,
+              false
+            ],
+            [
+              4965,
+              5.220481199998176,
+              true,
+              true
+            ],
+            [
+              5847,
+              5.7551246999937575,
+              true,
+              true
+            ],
+            [
+              5909,
+              5.792908700008411,
+              true,
+              true
+            ],
+            [
+              5988,
+              5.8393835999886505,
+              true,
+              true
+            ],
+            [
+              6898,
+              6.371013399999356,
+              true,
+              true
+            ],
+            [
+              7759,
+              6.821920499991393,
+              true,
+              true
+            ],
+            [
+              8041,
+              6.963442800013581,
+              true,
+              true
+            ],
+            [
+              8349,
+              7.098656399990432,
+              true,
+              true
+            ],
+            [
+              8650,
+              7.26083360001212,
+              true,
+              true
+            ],
+            [
+              8698,
+              7.27905829998781,
+              true,
+              true
+            ],
+            [
+              10401,
+              8.096743400004925,
+              true,
+              true
+            ],
+            [
+              10567,
+              8.158894399995916,
+              true,
+              true
+            ],
+            [
+              10662,
+              8.195169399987208,
+              true,
+              true
+            ],
+            [
+              10942,
+              8.300480600009905,
+              true,
+              true
+            ],
+            [
+              11315,
+              8.448725599999307,
+              true,
+              true
+            ],
+            [
+              11763,
+              8.642673599999398,
+              true,
+              true
+            ],
+            [
+              11934,
+              8.708337799995206,
+              true,
+              true
+            ],
+            [
+              12193,
+              8.805624300002819,
+              true,
+              true
+            ],
+            [
+              12416,
+              8.901029400003608,
+              true,
+              true
+            ],
+            [
+              13372,
+              9.281893200008199,
+              true,
+              true
+            ],
+            [
+              14589,
+              9.764730700000655,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            -1,
+            -1,
+            0,
+            0,
+            1,
+            2
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              5277,
+              5.416909099993063,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              5762,
+              5.701590499986196,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              6493,
+              6.144014299992705,
+              false,
+              false
+            ],
+            [
+              6754,
+              6.302437900012592,
+              true,
+              true
+            ],
+            [
+              8462,
+              7.166610499989474,
+              true,
+              true
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 18,
+      "seed": 12,
+      "source_summary": "s10_degree_validation_d18_A_s12.json",
+      "source_journal": "s10_degree_validation_d18_A_s12.jsonl",
+      "committed_proposals": 15381,
+      "all_target_evaluations": 50,
+      "Lehmer_target_evaluations": 50,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 4,
+      "parents": [
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              778,
+              1.187771100027021,
+              false,
+              false
+            ],
+            [
+              6449,
+              5.985116800002288,
+              false,
+              true
+            ],
+            [
+              8666,
+              7.058409500023117,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3154,
+              3.7418126000266057,
+              false,
+              false
+            ],
+            [
+              3173,
+              3.759871500020381,
+              true,
+              true
+            ],
+            [
+              5079,
+              5.2018108000047505,
+              true,
+              true
+            ],
+            [
+              5574,
+              5.500001300009899,
+              true,
+              true
+            ],
+            [
+              5742,
+              5.5962278000079095,
+              true,
+              true
+            ],
+            [
+              5843,
+              5.65121910002199,
+              true,
+              true
+            ],
+            [
+              5908,
+              5.690663300018059,
+              true,
+              true
+            ],
+            [
+              6351,
+              5.935221300023841,
+              true,
+              true
+            ],
+            [
+              6446,
+              5.984300600015558,
+              true,
+              true
+            ],
+            [
+              6676,
+              6.1022998000262305,
+              true,
+              true
+            ],
+            [
+              7303,
+              6.409247600007802,
+              true,
+              true
+            ],
+            [
+              7593,
+              6.54724840002018,
+              true,
+              true
+            ],
+            [
+              7966,
+              6.731526600022335,
+              true,
+              true
+            ],
+            [
+              8165,
+              6.831231400021352,
+              true,
+              true
+            ],
+            [
+              8408,
+              6.931404400005704,
+              true,
+              true
+            ],
+            [
+              9035,
+              7.207361500011757,
+              true,
+              true
+            ],
+            [
+              9104,
+              7.233502600021893,
+              true,
+              true
+            ],
+            [
+              9106,
+              7.233608400012599,
+              true,
+              true
+            ],
+            [
+              9159,
+              7.252896400023019,
+              true,
+              true
+            ],
+            [
+              9719,
+              7.490575700008776,
+              true,
+              true
+            ],
+            [
+              9762,
+              7.503767300018808,
+              true,
+              true
+            ],
+            [
+              10138,
+              7.699008900002809,
+              true,
+              true
+            ],
+            [
+              10205,
+              7.736815600015689,
+              true,
+              true
+            ],
+            [
+              11508,
+              8.306242900027428,
+              true,
+              true
+            ],
+            [
+              12856,
+              8.908430200011935,
+              true,
+              true
+            ],
+            [
+              13483,
+              9.185933900007512,
+              true,
+              true
+            ],
+            [
+              14395,
+              9.603959800006123,
+              true,
+              true
+            ],
+            [
+              14542,
+              9.652119600010337,
+              true,
+              true
+            ],
+            [
+              14544,
+              9.652638100000331,
+              true,
+              true
+            ],
+            [
+              14648,
+              9.703900300024543,
+              true,
+              true
+            ],
+            [
+              14717,
+              9.73338310001418,
+              true,
+              true
+            ],
+            [
+              14726,
+              9.735960000019986,
+              true,
+              true
+            ],
+            [
+              15016,
+              9.852280900027836,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3726,
+              4.221833900024649,
+              false,
+              false
+            ],
+            [
+              3980,
+              4.418692300008843,
+              true,
+              true
+            ],
+            [
+              5232,
+              5.288839800021378,
+              true,
+              true
+            ],
+            [
+              5309,
+              5.332804000005126,
+              true,
+              true
+            ],
+            [
+              8386,
+              6.924735700013116,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              10490,
+              7.860825600015232,
+              false,
+              false
+            ],
+            [
+              10663,
+              7.943378900003154,
+              true,
+              true
+            ],
+            [
+              10926,
+              8.056357100023888,
+              true,
+              true
+            ],
+            [
+              11073,
+              8.119045900006313,
+              true,
+              true
+            ],
+            [
+              11311,
+              8.219320500007598,
+              true,
+              true
+            ],
+            [
+              11476,
+              8.291083100019023,
+              true,
+              true
+            ],
+            [
+              11829,
+              8.464270299999043,
+              true,
+              true
+            ],
+            [
+              12344,
+              8.709590800019214,
+              true,
+              true
+            ],
+            [
+              14839,
+              9.778792400000384,
+              true,
+              true
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 18,
+      "seed": 13,
+      "source_summary": "s10_degree_validation_d18_A_s13.json",
+      "source_journal": "s10_degree_validation_d18_A_s13.jsonl",
+      "committed_proposals": 15532,
+      "all_target_evaluations": 52,
+      "Lehmer_target_evaluations": 52,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 4,
+      "parents": [
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              1370,
+              1.8636918000120204,
+              false,
+              false
+            ],
+            [
+              4628,
+              5.040128699998604,
+              true,
+              true
+            ],
+            [
+              4658,
+              5.064362800010713,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2307,
+              2.934354600001825,
+              false,
+              false
+            ],
+            [
+              3110,
+              3.7350951000116765,
+              true,
+              true
+            ],
+            [
+              3740,
+              4.331395599991083,
+              true,
+              true
+            ],
+            [
+              4489,
+              4.939230199990561,
+              true,
+              true
+            ],
+            [
+              4829,
+              5.176524500013329,
+              true,
+              true
+            ],
+            [
+              4865,
+              5.204399000009289,
+              true,
+              true
+            ],
+            [
+              5205,
+              5.445943600003375,
+              true,
+              true
+            ],
+            [
+              5411,
+              5.5697642999875825,
+              true,
+              true
+            ],
+            [
+              6642,
+              6.24593430000823,
+              true,
+              true
+            ],
+            [
+              7850,
+              6.854280600004131,
+              true,
+              true
+            ],
+            [
+              8091,
+              6.96275579999201,
+              true,
+              true
+            ],
+            [
+              9629,
+              7.653163500013761,
+              true,
+              true
+            ],
+            [
+              9692,
+              7.674689800012857,
+              true,
+              true
+            ],
+            [
+              10305,
+              7.913918100006413,
+              true,
+              true
+            ],
+            [
+              10678,
+              8.047597600001609,
+              true,
+              true
+            ],
+            [
+              11250,
+              8.299698799994076,
+              true,
+              true
+            ],
+            [
+              11369,
+              8.341345699998783,
+              true,
+              true
+            ],
+            [
+              11387,
+              8.343995100003667,
+              true,
+              true
+            ],
+            [
+              11398,
+              8.346715199993923,
+              true,
+              true
+            ],
+            [
+              11636,
+              8.432834200008074,
+              true,
+              true
+            ],
+            [
+              11860,
+              8.53673299998627,
+              true,
+              true
+            ],
+            [
+              12666,
+              8.849436599994078,
+              true,
+              true
+            ],
+            [
+              13795,
+              9.289125100011006,
+              true,
+              true
+            ],
+            [
+              14913,
+              9.75100739998743,
+              true,
+              true
+            ],
+            [
+              15292,
+              9.911922300001606,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              4652,
+              5.061387099995045,
+              false,
+              false
+            ],
+            [
+              6718,
+              6.277941600012127,
+              true,
+              true
+            ],
+            [
+              7383,
+              6.626613200001884,
+              true,
+              true
+            ],
+            [
+              15144,
+              9.855926799995359,
+              true,
+              true
+            ],
+            [
+              15515,
+              9.993007000011858,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              5974,
+              5.901668800011976,
+              false,
+              false
+            ],
+            [
+              6605,
+              6.223542199993972,
+              true,
+              true
+            ],
+            [
+              6734,
+              6.285690899996553,
+              true,
+              true
+            ],
+            [
+              7172,
+              6.5176885999972,
+              true,
+              true
+            ],
+            [
+              7269,
+              6.568487599986838,
+              true,
+              true
+            ],
+            [
+              7281,
+              6.574100900004851,
+              true,
+              true
+            ],
+            [
+              7473,
+              6.669808200007537,
+              true,
+              true
+            ],
+            [
+              9230,
+              7.483682599995518,
+              true,
+              true
+            ],
+            [
+              9241,
+              7.490839400008554,
+              true,
+              true
+            ],
+            [
+              9315,
+              7.519347499997821,
+              true,
+              true
+            ],
+            [
+              9618,
+              7.652601999987382,
+              true,
+              true
+            ],
+            [
+              9845,
+              7.729170300008263,
+              true,
+              true
+            ],
+            [
+              11030,
+              8.207909399992786,
+              true,
+              true
+            ],
+            [
+              11198,
+              8.278414300002623,
+              true,
+              true
+            ],
+            [
+              11855,
+              8.534897700010333,
+              true,
+              true
+            ],
+            [
+              13681,
+              9.247394200006966,
+              true,
+              true
+            ],
+            [
+              14028,
+              9.380931499996223,
+              true,
+              true
+            ],
+            [
+              14521,
+              9.602532699995209,
+              true,
+              true
+            ],
+            [
+              14920,
+              9.753482500003884,
+              true,
+              true
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 18,
+      "seed": 14,
+      "source_summary": "s10_degree_validation_d18_A_s14.json",
+      "source_journal": "s10_degree_validation_d18_A_s14.jsonl",
+      "committed_proposals": 15653,
+      "all_target_evaluations": 62,
+      "Lehmer_target_evaluations": 62,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 4,
+      "parents": [
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2635,
+              3.2515879000129644,
+              false,
+              false
+            ],
+            [
+              5254,
+              5.2599907999974675,
+              true,
+              true
+            ],
+            [
+              5264,
+              5.262903099996038,
+              true,
+              true
+            ],
+            [
+              5510,
+              5.409150599996792,
+              true,
+              true
+            ],
+            [
+              5533,
+              5.423127400019439,
+              true,
+              true
+            ],
+            [
+              10613,
+              7.914590100001078,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3344,
+              3.8921484000165947,
+              false,
+              false
+            ],
+            [
+              3807,
+              4.261340099998051,
+              true,
+              true
+            ],
+            [
+              3913,
+              4.342451700009406,
+              true,
+              true
+            ],
+            [
+              4149,
+              4.512564900011057,
+              true,
+              true
+            ],
+            [
+              4463,
+              4.753710699995281,
+              true,
+              true
+            ],
+            [
+              4997,
+              5.0998545000038575,
+              true,
+              true
+            ],
+            [
+              5646,
+              5.492584299994633,
+              true,
+              true
+            ],
+            [
+              5722,
+              5.52965330000734,
+              true,
+              true
+            ],
+            [
+              5790,
+              5.56816140000592,
+              true,
+              true
+            ],
+            [
+              5792,
+              5.569236200011801,
+              true,
+              true
+            ],
+            [
+              6276,
+              5.839221400005044,
+              true,
+              true
+            ],
+            [
+              6391,
+              5.894365200016182,
+              true,
+              true
+            ],
+            [
+              6659,
+              6.0434062000131235,
+              true,
+              true
+            ],
+            [
+              7033,
+              6.253031200001715,
+              true,
+              true
+            ],
+            [
+              7328,
+              6.396076000004541,
+              true,
+              true
+            ],
+            [
+              7392,
+              6.4276951999927405,
+              true,
+              true
+            ],
+            [
+              7404,
+              6.432925300003262,
+              true,
+              true
+            ],
+            [
+              7729,
+              6.607294300018111,
+              true,
+              true
+            ],
+            [
+              7890,
+              6.677087400021264,
+              true,
+              true
+            ],
+            [
+              8379,
+              6.890793200000189,
+              true,
+              true
+            ],
+            [
+              8914,
+              7.143735799996648,
+              true,
+              true
+            ],
+            [
+              8916,
+              7.1450381000177,
+              true,
+              true
+            ],
+            [
+              9094,
+              7.222090800001752,
+              true,
+              true
+            ],
+            [
+              9847,
+              7.571156899997732,
+              true,
+              true
+            ],
+            [
+              10226,
+              7.7395277000032365,
+              true,
+              true
+            ],
+            [
+              10419,
+              7.83760379999876,
+              true,
+              true
+            ],
+            [
+              10607,
+              7.911232300015399,
+              true,
+              true
+            ],
+            [
+              10797,
+              8.003545000014128,
+              true,
+              true
+            ],
+            [
+              10900,
+              8.051361599995289,
+              true,
+              true
+            ],
+            [
+              11213,
+              8.195776300010039,
+              true,
+              true
+            ],
+            [
+              11224,
+              8.202074300003005,
+              true,
+              true
+            ],
+            [
+              11678,
+              8.390282800013665,
+              true,
+              true
+            ],
+            [
+              11806,
+              8.43477150000399,
+              true,
+              true
+            ],
+            [
+              11823,
+              8.4434445000079,
+              true,
+              true
+            ],
+            [
+              11861,
+              8.456502200016985,
+              true,
+              true
+            ],
+            [
+              12163,
+              8.56778340000892,
+              true,
+              true
+            ],
+            [
+              12311,
+              8.630049500003224,
+              true,
+              true
+            ],
+            [
+              12438,
+              8.691895600000862,
+              true,
+              true
+            ],
+            [
+              12753,
+              8.815526000020327,
+              true,
+              true
+            ],
+            [
+              12801,
+              8.833643699996173,
+              true,
+              true
+            ],
+            [
+              12812,
+              8.83833319999394,
+              true,
+              true
+            ],
+            [
+              12880,
+              8.866636999999173,
+              true,
+              true
+            ],
+            [
+              13525,
+              9.157071599998744,
+              true,
+              true
+            ],
+            [
+              13612,
+              9.188739800010808,
+              true,
+              true
+            ],
+            [
+              13640,
+              9.197192199993879,
+              true,
+              true
+            ],
+            [
+              14075,
+              9.367069300002186,
+              true,
+              true
+            ],
+            [
+              14098,
+              9.395384800009197,
+              true,
+              true
+            ],
+            [
+              14541,
+              9.573897299997043,
+              true,
+              true
+            ],
+            [
+              14641,
+              9.62300839999807,
+              true,
+              true
+            ],
+            [
+              14737,
+              9.655571800016332,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              4370,
+              4.677744899992831,
+              false,
+              false
+            ],
+            [
+              5718,
+              5.529466300009517,
+              true,
+              true
+            ],
+            [
+              7203,
+              6.330733200011309,
+              true,
+              true
+            ],
+            [
+              10255,
+              7.755597000010312,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 18,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              7769,
+              6.623608099995181,
+              false,
+              false
+            ],
+            [
+              14708,
+              9.643321100011235,
+              true,
+              true
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 20,
+      "seed": 10,
+      "source_summary": "s10_degree_validation_d20_A_s10.json",
+      "source_journal": "s10_degree_validation_d20_A_s10.jsonl",
+      "committed_proposals": 11710,
+      "all_target_evaluations": 42,
+      "Lehmer_target_evaluations": 42,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 6,
+      "parents": [
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              1559,
+              2.495642800000496,
+              false,
+              false
+            ],
+            [
+              3113,
+              4.4499191000068095,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            -1,
+            1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3058,
+              4.393262900004629,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                200133810500591490730683081710281209647,
+                -127
+              ],
+              [
+                200133810500591490730683081710281209741,
+                -127
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 6.50e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3443,
+              4.805836700019427,
+              false,
+              false
+            ],
+            [
+              6550,
+              7.173080200009281,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3476,
+              4.8343290000048,
+              false,
+              false
+            ],
+            [
+              3734,
+              5.088084100018023,
+              true,
+              true
+            ],
+            [
+              4503,
+              5.7429294000030495,
+              true,
+              true
+            ],
+            [
+              5458,
+              6.456363400007831,
+              true,
+              true
+            ],
+            [
+              5520,
+              6.49339030002011,
+              true,
+              true
+            ],
+            [
+              5575,
+              6.533766500011552,
+              true,
+              true
+            ],
+            [
+              6263,
+              6.977195999992546,
+              true,
+              true
+            ],
+            [
+              6596,
+              7.200353199994424,
+              true,
+              true
+            ],
+            [
+              6643,
+              7.222812199994223,
+              true,
+              true
+            ],
+            [
+              6744,
+              7.2772361999959685,
+              true,
+              true
+            ],
+            [
+              6816,
+              7.318838500010315,
+              true,
+              true
+            ],
+            [
+              7615,
+              7.801229700009571,
+              true,
+              true
+            ],
+            [
+              7972,
+              7.995308300014585,
+              true,
+              true
+            ],
+            [
+              8508,
+              8.297643300000345,
+              true,
+              true
+            ],
+            [
+              9143,
+              8.641782499995315,
+              true,
+              true
+            ],
+            [
+              9897,
+              9.046806400001515,
+              true,
+              true
+            ],
+            [
+              10702,
+              9.479894200019771,
+              true,
+              true
+            ],
+            [
+              11271,
+              9.763348900014535,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              4635,
+              5.8659708999912255,
+              false,
+              false
+            ],
+            [
+              5738,
+              6.635083400004078,
+              true,
+              true
+            ],
+            [
+              6438,
+              7.100365399994189,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              9577,
+              8.862078000005567,
+              false,
+              false
+            ],
+            [
+              9855,
+              9.023605499998666,
+              true,
+              true
+            ],
+            [
+              9860,
+              9.026219099992886,
+              true,
+              true
+            ],
+            [
+              10200,
+              9.219994200015208,
+              true,
+              true
+            ],
+            [
+              10265,
+              9.248049599991646,
+              true,
+              true
+            ],
+            [
+              10483,
+              9.381384400010575,
+              true,
+              true
+            ],
+            [
+              10545,
+              9.40194340000744,
+              true,
+              true
+            ],
+            [
+              10814,
+              9.526175000006333,
+              true,
+              true
+            ],
+            [
+              10915,
+              9.577601400000276,
+              true,
+              true
+            ],
+            [
+              10970,
+              9.612021600012667,
+              true,
+              true
+            ],
+            [
+              11044,
+              9.651472300000023,
+              true,
+              true
+            ],
+            [
+              11053,
+              9.651984800002538,
+              true,
+              true
+            ],
+            [
+              11110,
+              9.674218600004679,
+              true,
+              true
+            ],
+            [
+              11168,
+              9.708657300012419,
+              true,
+              true
+            ],
+            [
+              11576,
+              9.93333289999282,
+              true,
+              true
+            ],
+            [
+              11655,
+              9.978063799993834,
+              true,
+              true
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 20,
+      "seed": 11,
+      "source_summary": "s10_degree_validation_d20_A_s11.json",
+      "source_journal": "s10_degree_validation_d20_A_s11.jsonl",
+      "committed_proposals": 11059,
+      "all_target_evaluations": 40,
+      "Lehmer_target_evaluations": 40,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 6,
+      "parents": [
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2492,
+              3.737656599987531,
+              false,
+              false
+            ],
+            [
+              4113,
+              5.4694007000071,
+              true,
+              true
+            ],
+            [
+              5101,
+              6.299922600010177,
+              true,
+              true
+            ],
+            [
+              6745,
+              7.515790700010257,
+              true,
+              true
+            ],
+            [
+              6844,
+              7.571254399983445,
+              true,
+              true
+            ],
+            [
+              6955,
+              7.639376100007212,
+              true,
+              true
+            ],
+            [
+              7405,
+              7.910695900005521,
+              true,
+              true
+            ],
+            [
+              7541,
+              8.004506099998252,
+              true,
+              true
+            ],
+            [
+              7543,
+              8.006968400004553,
+              true,
+              true
+            ],
+            [
+              7568,
+              8.021784399985336,
+              true,
+              true
+            ],
+            [
+              7721,
+              8.122040899994317,
+              true,
+              true
+            ],
+            [
+              7954,
+              8.275108800007729,
+              true,
+              true
+            ],
+            [
+              7973,
+              8.285429299983662,
+              true,
+              true
+            ],
+            [
+              8301,
+              8.489631400007056,
+              true,
+              true
+            ],
+            [
+              8489,
+              8.598462299996754,
+              true,
+              true
+            ],
+            [
+              9183,
+              8.956478500011144,
+              true,
+              true
+            ],
+            [
+              9252,
+              9.005164000001969,
+              true,
+              true
+            ],
+            [
+              9396,
+              9.084562600008212,
+              true,
+              true
+            ],
+            [
+              9485,
+              9.129629500006558,
+              true,
+              true
+            ],
+            [
+              9798,
+              9.323708100011572,
+              true,
+              true
+            ],
+            [
+              9861,
+              9.35438360000262,
+              true,
+              true
+            ],
+            [
+              9909,
+              9.382735099992715,
+              true,
+              true
+            ],
+            [
+              9989,
+              9.422028700006194,
+              true,
+              true
+            ],
+            [
+              10036,
+              9.441836199985119,
+              true,
+              true
+            ],
+            [
+              10508,
+              9.704498300008709,
+              true,
+              true
+            ],
+            [
+              10660,
+              9.7739445999905,
+              true,
+              true
+            ],
+            [
+              10769,
+              9.843855199986137,
+              true,
+              true
+            ],
+            [
+              10806,
+              9.864609899988864,
+              true,
+              true
+            ],
+            [
+              10898,
+              9.913659899990307,
+              true,
+              true
+            ],
+            [
+              10979,
+              9.956365199992433,
+              true,
+              true
+            ],
+            [
+              10999,
+              9.966854400001466,
+              true,
+              true
+            ],
+            [
+              11052,
+              9.993487100000493,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            -1,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            2,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              4092,
+              5.45423549998668,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              4829,
+              6.094107299984898,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              5610,
+              6.703381700004684,
+              false,
+              false
+            ],
+            [
+              7517,
+              7.9906993999902625,
+              true,
+              true
+            ],
+            [
+              7625,
+              8.05964269998367,
+              true,
+              true
+            ],
+            [
+              8492,
+              8.598656199988909,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              6389,
+              7.2645608999882825,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                200133810500591490730683081710281209647,
+                -127
+              ],
+              [
+                200133810500591490730683081710281209741,
+                -127
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 6.50e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              8185,
+              8.41580819999217,
+              false,
+              false
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 20,
+      "seed": 12,
+      "source_summary": "s10_degree_validation_d20_A_s12.json",
+      "source_journal": "s10_degree_validation_d20_A_s12.jsonl",
+      "committed_proposals": 12185,
+      "all_target_evaluations": 111,
+      "Lehmer_target_evaluations": 111,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 5,
+      "parents": [
+        {
+          "free_coefficients": [
+            1,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            -1,
+            -1,
+            -1,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              1377,
+              2.222744099999545,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2391,
+              3.5782748000056017,
+              false,
+              false
+            ],
+            [
+              5448,
+              6.3776024999970105,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2660,
+              3.9031106999900658,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3253,
+              4.560021799989045,
+              false,
+              false
+            ],
+            [
+              8301,
+              8.078786999976728,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              4170,
+              5.4276357000053395,
+              false,
+              false
+            ],
+            [
+              4328,
+              5.5527548999816645,
+              true,
+              true
+            ],
+            [
+              4461,
+              5.65549689999898,
+              true,
+              true
+            ],
+            [
+              4797,
+              5.935690899990732,
+              true,
+              true
+            ],
+            [
+              5181,
+              6.210489999997662,
+              true,
+              true
+            ],
+            [
+              5885,
+              6.668434499995783,
+              true,
+              true
+            ],
+            [
+              5963,
+              6.714584200002719,
+              true,
+              true
+            ],
+            [
+              6024,
+              6.744650799984811,
+              true,
+              true
+            ],
+            [
+              6214,
+              6.863694799976656,
+              true,
+              true
+            ],
+            [
+              6408,
+              6.983765699987998,
+              true,
+              true
+            ],
+            [
+              6500,
+              7.037975199986249,
+              true,
+              true
+            ],
+            [
+              6677,
+              7.138066599989543,
+              true,
+              true
+            ],
+            [
+              6795,
+              7.2147663999930955,
+              true,
+              true
+            ],
+            [
+              6913,
+              7.291074099979596,
+              true,
+              true
+            ],
+            [
+              6972,
+              7.320257099985611,
+              true,
+              true
+            ],
+            [
+              7106,
+              7.4004808999889065,
+              true,
+              true
+            ],
+            [
+              7107,
+              7.400563699979102,
+              true,
+              true
+            ],
+            [
+              7159,
+              7.431857299990952,
+              true,
+              true
+            ],
+            [
+              7177,
+              7.440547099977266,
+              true,
+              true
+            ],
+            [
+              7195,
+              7.4471631000051275,
+              true,
+              true
+            ],
+            [
+              7220,
+              7.463482399994973,
+              true,
+              true
+            ],
+            [
+              7278,
+              7.5015012999938335,
+              true,
+              true
+            ],
+            [
+              7288,
+              7.509570199996233,
+              true,
+              true
+            ],
+            [
+              7336,
+              7.532510799996089,
+              true,
+              true
+            ],
+            [
+              7355,
+              7.546519299998181,
+              true,
+              true
+            ],
+            [
+              7387,
+              7.559764199977508,
+              true,
+              true
+            ],
+            [
+              7454,
+              7.600125500001013,
+              true,
+              true
+            ],
+            [
+              7523,
+              7.644238299981225,
+              true,
+              true
+            ],
+            [
+              7549,
+              7.661944299994502,
+              true,
+              true
+            ],
+            [
+              7586,
+              7.684463399986271,
+              true,
+              true
+            ],
+            [
+              7626,
+              7.702588099986315,
+              true,
+              true
+            ],
+            [
+              7629,
+              7.702740999986418,
+              true,
+              true
+            ],
+            [
+              7703,
+              7.742779899999732,
+              true,
+              true
+            ],
+            [
+              7784,
+              7.782161299983272,
+              true,
+              true
+            ],
+            [
+              7802,
+              7.790506599994842,
+              true,
+              true
+            ],
+            [
+              7827,
+              7.8021846000046935,
+              true,
+              true
+            ],
+            [
+              8018,
+              7.918999499990605,
+              true,
+              true
+            ],
+            [
+              8203,
+              8.0073618000024,
+              true,
+              true
+            ],
+            [
+              8308,
+              8.086616999993566,
+              true,
+              true
+            ],
+            [
+              8317,
+              8.091472100000829,
+              true,
+              true
+            ],
+            [
+              8339,
+              8.105298699985724,
+              true,
+              true
+            ],
+            [
+              8485,
+              8.188537299982272,
+              true,
+              true
+            ],
+            [
+              8619,
+              8.259971399995266,
+              true,
+              true
+            ],
+            [
+              8701,
+              8.299600199999986,
+              true,
+              true
+            ],
+            [
+              8747,
+              8.326443099998869,
+              true,
+              true
+            ],
+            [
+              8816,
+              8.349154499999713,
+              true,
+              true
+            ],
+            [
+              8868,
+              8.379262899979949,
+              true,
+              true
+            ],
+            [
+              8877,
+              8.38446390000172,
+              true,
+              true
+            ],
+            [
+              8948,
+              8.4184535999957,
+              true,
+              true
+            ],
+            [
+              9094,
+              8.488801899977261,
+              true,
+              true
+            ],
+            [
+              9102,
+              8.490642599994317,
+              true,
+              true
+            ],
+            [
+              9133,
+              8.50988519997918,
+              true,
+              true
+            ],
+            [
+              9230,
+              8.556725499976892,
+              true,
+              true
+            ],
+            [
+              9304,
+              8.582090899988543,
+              true,
+              true
+            ],
+            [
+              9434,
+              8.634648999985075,
+              true,
+              true
+            ],
+            [
+              9519,
+              8.67927929997677,
+              true,
+              true
+            ],
+            [
+              9736,
+              8.770825099985814,
+              true,
+              true
+            ],
+            [
+              9798,
+              8.796612499980256,
+              true,
+              true
+            ],
+            [
+              9990,
+              8.888898599980166,
+              true,
+              true
+            ],
+            [
+              9994,
+              8.890434600005392,
+              true,
+              true
+            ],
+            [
+              10008,
+              8.89809360000072,
+              true,
+              true
+            ],
+            [
+              10041,
+              8.913057500001742,
+              true,
+              true
+            ],
+            [
+              10065,
+              8.922352099994896,
+              true,
+              true
+            ],
+            [
+              10150,
+              8.96332069998607,
+              true,
+              true
+            ],
+            [
+              10262,
+              9.028330699977232,
+              true,
+              true
+            ],
+            [
+              10308,
+              9.049069699976826,
+              true,
+              true
+            ],
+            [
+              10344,
+              9.065493599977344,
+              true,
+              true
+            ],
+            [
+              10358,
+              9.06858699998702,
+              true,
+              true
+            ],
+            [
+              10372,
+              9.073595199995907,
+              true,
+              true
+            ],
+            [
+              10430,
+              9.095106799999485,
+              true,
+              true
+            ],
+            [
+              10456,
+              9.105255599977681,
+              true,
+              true
+            ],
+            [
+              10460,
+              9.106490099977236,
+              true,
+              true
+            ],
+            [
+              10567,
+              9.158857599977637,
+              true,
+              true
+            ],
+            [
+              10586,
+              9.168516899982933,
+              true,
+              true
+            ],
+            [
+              10594,
+              9.17113679999602,
+              true,
+              true
+            ],
+            [
+              10727,
+              9.226570800004993,
+              true,
+              true
+            ],
+            [
+              10850,
+              9.28678559997934,
+              true,
+              true
+            ],
+            [
+              10889,
+              9.30259279999882,
+              true,
+              true
+            ],
+            [
+              10905,
+              9.31269930000417,
+              true,
+              true
+            ],
+            [
+              10924,
+              9.319648299977416,
+              true,
+              true
+            ],
+            [
+              11048,
+              9.400691499991808,
+              true,
+              true
+            ],
+            [
+              11091,
+              9.419109299982665,
+              true,
+              true
+            ],
+            [
+              11099,
+              9.420832599978894,
+              true,
+              true
+            ],
+            [
+              11142,
+              9.445601899991743,
+              true,
+              true
+            ],
+            [
+              11177,
+              9.468614199984586,
+              true,
+              true
+            ],
+            [
+              11185,
+              9.473061199998483,
+              true,
+              true
+            ],
+            [
+              11225,
+              9.492629299988039,
+              true,
+              true
+            ],
+            [
+              11231,
+              9.49589669998386,
+              true,
+              true
+            ],
+            [
+              11270,
+              9.51901099999668,
+              true,
+              true
+            ],
+            [
+              11305,
+              9.528057399991667,
+              true,
+              true
+            ],
+            [
+              11392,
+              9.571591799991438,
+              true,
+              true
+            ],
+            [
+              11436,
+              9.599631999997655,
+              true,
+              true
+            ],
+            [
+              11497,
+              9.635374299978139,
+              true,
+              true
+            ],
+            [
+              11535,
+              9.655668099992909,
+              true,
+              true
+            ],
+            [
+              11583,
+              9.67040299999644,
+              true,
+              true
+            ],
+            [
+              11595,
+              9.675090299977455,
+              true,
+              true
+            ],
+            [
+              11652,
+              9.709183400002075,
+              true,
+              true
+            ],
+            [
+              11666,
+              9.718653999996604,
+              true,
+              true
+            ],
+            [
+              11763,
+              9.768314699991606,
+              true,
+              true
+            ],
+            [
+              11867,
+              9.82037499998114,
+              true,
+              true
+            ],
+            [
+              11947,
+              9.868161399994278,
+              true,
+              true
+            ],
+            [
+              12026,
+              9.912568700005068,
+              true,
+              true
+            ],
+            [
+              12050,
+              9.925583000003826,
+              true,
+              true
+            ],
+            [
+              12163,
+              9.992424800002482,
+              true,
+              true
+            ],
+            [
+              12175,
+              9.997341499984032,
+              true,
+              true
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 20,
+      "seed": 13,
+      "source_summary": "s10_degree_validation_d20_A_s13.json",
+      "source_journal": "s10_degree_validation_d20_A_s13.jsonl",
+      "committed_proposals": 11340,
+      "all_target_evaluations": 65,
+      "Lehmer_target_evaluations": 65,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 6,
+      "parents": [
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2386,
+              3.587169400008861,
+              false,
+              false
+            ],
+            [
+              3860,
+              5.291405600000871,
+              true,
+              true
+            ],
+            [
+              5245,
+              6.429355700005544,
+              true,
+              true
+            ],
+            [
+              6198,
+              7.092645700002322,
+              true,
+              true
+            ],
+            [
+              8937,
+              8.74187699999311,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3453,
+              4.882504400011385,
+              false,
+              false
+            ],
+            [
+              4739,
+              6.088444199995138,
+              true,
+              true
+            ],
+            [
+              5147,
+              6.371327100001508,
+              true,
+              true
+            ],
+            [
+              5679,
+              6.7474667000060435,
+              true,
+              true
+            ],
+            [
+              6276,
+              7.143470900016837,
+              true,
+              true
+            ],
+            [
+              6705,
+              7.444584100012435,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            -1,
+            0,
+            -1,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3760,
+              5.196746400004486,
+              false,
+              false
+            ],
+            [
+              4133,
+              5.551938000018708,
+              true,
+              true
+            ],
+            [
+              8176,
+              8.316210699995281,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              6508,
+              7.305805700016208,
+              false,
+              false
+            ],
+            [
+              6690,
+              7.43903959999443,
+              true,
+              true
+            ],
+            [
+              6772,
+              7.4999360000074375,
+              true,
+              true
+            ],
+            [
+              7320,
+              7.826187500002561,
+              true,
+              true
+            ],
+            [
+              7369,
+              7.8575233000156,
+              true,
+              true
+            ],
+            [
+              7410,
+              7.8763218999956734,
+              true,
+              true
+            ],
+            [
+              7808,
+              8.102165399992373,
+              true,
+              true
+            ],
+            [
+              7858,
+              8.125233900005696,
+              true,
+              true
+            ],
+            [
+              7983,
+              8.199700800003484,
+              true,
+              true
+            ],
+            [
+              7988,
+              8.200012999994215,
+              true,
+              true
+            ],
+            [
+              8041,
+              8.233517600019695,
+              true,
+              true
+            ],
+            [
+              8229,
+              8.342609200015431,
+              true,
+              true
+            ],
+            [
+              8458,
+              8.463949900004081,
+              true,
+              true
+            ],
+            [
+              8628,
+              8.555258000007598,
+              true,
+              true
+            ],
+            [
+              8720,
+              8.620267599995714,
+              true,
+              true
+            ],
+            [
+              8885,
+              8.718171400018036,
+              true,
+              true
+            ],
+            [
+              8928,
+              8.7378483999928,
+              true,
+              true
+            ],
+            [
+              9109,
+              8.845261000009486,
+              true,
+              true
+            ],
+            [
+              9144,
+              8.86812650001957,
+              true,
+              true
+            ],
+            [
+              9217,
+              8.913939000020036,
+              true,
+              true
+            ],
+            [
+              9234,
+              8.92172000001301,
+              true,
+              true
+            ],
+            [
+              9246,
+              8.927550699998392,
+              true,
+              true
+            ],
+            [
+              9368,
+              8.994497000006959,
+              true,
+              true
+            ],
+            [
+              9576,
+              9.117328299995279,
+              true,
+              true
+            ],
+            [
+              9722,
+              9.183686600008514,
+              true,
+              true
+            ],
+            [
+              9729,
+              9.185807300003944,
+              true,
+              true
+            ],
+            [
+              9762,
+              9.201940600003581,
+              true,
+              true
+            ],
+            [
+              9769,
+              9.20589410001412,
+              true,
+              true
+            ],
+            [
+              9856,
+              9.24446300001,
+              true,
+              true
+            ],
+            [
+              9900,
+              9.271739299991168,
+              true,
+              true
+            ],
+            [
+              9993,
+              9.322488800011342,
+              true,
+              true
+            ],
+            [
+              9996,
+              9.322772000014083,
+              true,
+              true
+            ],
+            [
+              10045,
+              9.344891100015957,
+              true,
+              true
+            ],
+            [
+              10218,
+              9.42503260000376,
+              true,
+              true
+            ],
+            [
+              10379,
+              9.50688210001681,
+              true,
+              true
+            ],
+            [
+              10393,
+              9.51188160001766,
+              true,
+              true
+            ],
+            [
+              10403,
+              9.514782400015974,
+              true,
+              true
+            ],
+            [
+              10494,
+              9.564290800015442,
+              true,
+              true
+            ],
+            [
+              10556,
+              9.595539600006305,
+              true,
+              true
+            ],
+            [
+              10711,
+              9.663867800001753,
+              true,
+              true
+            ],
+            [
+              10886,
+              9.758823800017126,
+              true,
+              true
+            ],
+            [
+              10977,
+              9.81135699999868,
+              true,
+              true
+            ],
+            [
+              10991,
+              9.819736300007207,
+              true,
+              true
+            ],
+            [
+              11068,
+              9.851969200011808,
+              true,
+              true
+            ],
+            [
+              11234,
+              9.942626000003656,
+              true,
+              true
+            ],
+            [
+              11246,
+              9.949919000006048,
+              true,
+              true
+            ],
+            [
+              11284,
+              9.970383700012462,
+              true,
+              true
+            ],
+            [
+              11290,
+              9.975426100019831,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              9419,
+              9.022614999994403,
+              false,
+              false
+            ],
+            [
+              9880,
+              9.257335200003581,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                200133810500591490730683081710281209647,
+                -127
+              ],
+              [
+                200133810500591490730683081710281209741,
+                -127
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 6.50e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              10122,
+              9.380535900010727,
+              false,
+              false
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    },
+    {
+      "degree": 20,
+      "seed": 14,
+      "source_summary": "s10_degree_validation_d20_A_s14.json",
+      "source_journal": "s10_degree_validation_d20_A_s14.jsonl",
+      "committed_proposals": 11791,
+      "all_target_evaluations": 80,
+      "Lehmer_target_evaluations": 80,
+      "other_core_target_evaluations": 0,
+      "distinct_parent_count": 7,
+      "parents": [
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              900,
+              1.5690180999808945,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              2308,
+              3.457909099990502,
+              false,
+              false
+            ],
+            [
+              3755,
+              5.090371799975401,
+              true,
+              true
+            ],
+            [
+              4364,
+              5.640697499999078,
+              true,
+              true
+            ],
+            [
+              4428,
+              5.692331099999137,
+              true,
+              true
+            ],
+            [
+              5674,
+              6.637660899985349,
+              true,
+              true
+            ],
+            [
+              5964,
+              6.826225099997828,
+              true,
+              true
+            ],
+            [
+              6062,
+              6.889325299998745,
+              true,
+              true
+            ],
+            [
+              6077,
+              6.899177499988582,
+              true,
+              true
+            ],
+            [
+              6232,
+              6.9993034999934025,
+              true,
+              true
+            ],
+            [
+              6346,
+              7.069448700000066,
+              true,
+              true
+            ],
+            [
+              6518,
+              7.1724548999918625,
+              true,
+              true
+            ],
+            [
+              6647,
+              7.246484999981476,
+              true,
+              true
+            ],
+            [
+              6901,
+              7.391015499975765,
+              true,
+              true
+            ],
+            [
+              7092,
+              7.508399399986956,
+              true,
+              true
+            ],
+            [
+              7117,
+              7.5222671999945305,
+              true,
+              true
+            ],
+            [
+              7465,
+              7.7327147999894805,
+              true,
+              true
+            ],
+            [
+              7728,
+              7.8797558999795,
+              true,
+              true
+            ],
+            [
+              7733,
+              7.88113299998804,
+              true,
+              true
+            ],
+            [
+              7823,
+              7.932646899978863,
+              true,
+              true
+            ],
+            [
+              7842,
+              7.943040199985262,
+              true,
+              true
+            ],
+            [
+              7854,
+              7.951594099984504,
+              true,
+              true
+            ],
+            [
+              7956,
+              8.00678169997991,
+              true,
+              true
+            ],
+            [
+              8127,
+              8.088776999997208,
+              true,
+              true
+            ],
+            [
+              8152,
+              8.099433299998054,
+              true,
+              true
+            ],
+            [
+              8156,
+              8.099734199990053,
+              true,
+              true
+            ],
+            [
+              8301,
+              8.183881099976134,
+              true,
+              true
+            ],
+            [
+              8302,
+              8.18443429999752,
+              true,
+              true
+            ],
+            [
+              8514,
+              8.320566799986409,
+              true,
+              true
+            ],
+            [
+              8596,
+              8.36400629999116,
+              true,
+              true
+            ],
+            [
+              8738,
+              8.424958899995545,
+              true,
+              true
+            ],
+            [
+              8762,
+              8.432042399974307,
+              true,
+              true
+            ],
+            [
+              8769,
+              8.436563199997181,
+              true,
+              true
+            ],
+            [
+              8851,
+              8.48325130000012,
+              true,
+              true
+            ],
+            [
+              8910,
+              8.526554599986412,
+              true,
+              true
+            ],
+            [
+              9079,
+              8.610529899975518,
+              true,
+              true
+            ],
+            [
+              9080,
+              8.610643099993467,
+              true,
+              true
+            ],
+            [
+              9104,
+              8.625425099977292,
+              true,
+              true
+            ],
+            [
+              9144,
+              8.638043799990555,
+              true,
+              true
+            ],
+            [
+              9185,
+              8.662982899986673,
+              true,
+              true
+            ],
+            [
+              9243,
+              8.6992960999778,
+              true,
+              true
+            ],
+            [
+              9279,
+              8.717695899977116,
+              true,
+              true
+            ],
+            [
+              9442,
+              8.803090999979759,
+              true,
+              true
+            ],
+            [
+              9454,
+              8.810115499974927,
+              true,
+              true
+            ],
+            [
+              9456,
+              8.81197019998217,
+              true,
+              true
+            ],
+            [
+              9483,
+              8.822672899987083,
+              true,
+              true
+            ],
+            [
+              9556,
+              8.863106099975994,
+              true,
+              true
+            ],
+            [
+              9822,
+              8.974786399980076,
+              true,
+              true
+            ],
+            [
+              9880,
+              9.016306199977407,
+              true,
+              true
+            ],
+            [
+              9923,
+              9.03130359997158,
+              true,
+              true
+            ],
+            [
+              10131,
+              9.124314199987566,
+              true,
+              true
+            ],
+            [
+              10160,
+              9.144737899972824,
+              true,
+              true
+            ],
+            [
+              10173,
+              9.150631199998315,
+              true,
+              true
+            ],
+            [
+              10214,
+              9.169140899990452,
+              true,
+              true
+            ],
+            [
+              10222,
+              9.171016399981454,
+              true,
+              true
+            ],
+            [
+              10224,
+              9.171208499989007,
+              true,
+              true
+            ],
+            [
+              10319,
+              9.22175789999892,
+              true,
+              true
+            ],
+            [
+              10380,
+              9.252510099991923,
+              true,
+              true
+            ],
+            [
+              10520,
+              9.334205699997256,
+              true,
+              true
+            ],
+            [
+              10560,
+              9.353460999991512,
+              true,
+              true
+            ],
+            [
+              10674,
+              9.419750499975635,
+              true,
+              true
+            ],
+            [
+              10698,
+              9.429803499981062,
+              true,
+              true
+            ],
+            [
+              10900,
+              9.537710899981903,
+              true,
+              true
+            ],
+            [
+              11049,
+              9.613296699972125,
+              true,
+              true
+            ],
+            [
+              11065,
+              9.620723499974702,
+              true,
+              true
+            ],
+            [
+              11218,
+              9.697820099972887,
+              true,
+              true
+            ],
+            [
+              11240,
+              9.709420999977738,
+              true,
+              true
+            ],
+            [
+              11431,
+              9.787759499973617,
+              true,
+              true
+            ],
+            [
+              11432,
+              9.787832099973457,
+              true,
+              true
+            ],
+            [
+              11453,
+              9.800631899997825,
+              true,
+              true
+            ],
+            [
+              11478,
+              9.810974999971222,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              3665,
+              4.99555859999964,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            -1,
+            0,
+            -1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                200133810500591490730683081710281209635,
+                -127
+              ],
+              [
+                200133810500591490730683081710281209741,
+                -127
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 7.20e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              7342,
+              7.6626523999730125,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              8663,
+              8.392108999978518,
+              false,
+              false
+            ],
+            [
+              8938,
+              8.540129499975592,
+              true,
+              true
+            ],
+            [
+              9409,
+              8.781156999990344,
+              true,
+              true
+            ],
+            [
+              10098,
+              9.10294429998612,
+              true,
+              true
+            ],
+            [
+              10761,
+              9.460066199972061,
+              true,
+              true
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            1,
+            -1,
+            0,
+            -1,
+            0
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                25016726312573936341335385213785151209,
+                -124
+              ],
+              [
+                50033452625147872682670770427570302431,
+                -125
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 5.05e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              10557,
+              9.35181919997558,
+              false,
+              false
+            ]
+          ]
+        },
+        {
+          "free_coefficients": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "first_certificate": {
+            "core_coefficients_ascending": [
+              1,
+              -1,
+              0,
+              1,
+              -1,
+              1,
+              -1,
+              1,
+              0,
+              -1,
+              1
+            ],
+            "measure_interval": [
+              [
+                200133810500591490730683081710281209647,
+                -127
+              ],
+              [
+                200133810500591490730683081710281209741,
+                -127
+              ]
+            ],
+            "measure_ball": "[1.176280818259917506544070338474035051 +/- 6.50e-37]",
+            "neutral": false,
+            "thresholds": {
+              "6/5": "below",
+              "5/4": "below",
+              "13/10": "below",
+              "7/5": "below"
+            },
+            "precision_bits": 128,
+            "root_count_with_multiplicity": 20,
+            "factorization_product_verified": true
+          },
+          "occurrences": [
+            [
+              11087,
+              9.629166599974269,
+              false,
+              false
+            ]
+          ]
+        }
+      ],
+      "cache_check": "Exact LRU and seen-prefix flags reconstructed across every committed evaluation."
+    }
+  ],
+  "scope": "All distinct Lehmer free prefixes actually observed in committed whole-target evaluations, grouped separately by original run. Occurrence multiplicity does not weight the later uniform-parent kernel. Extraction reads no complete target/parent reference library."
+}

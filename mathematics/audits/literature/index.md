@@ -40,6 +40,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Bel17](Bel17/readme.md) | [Yin_U001](Bel17/Yin_U001.md), [Yin_U002](Bel17/Yin_U002.md) |
 | [Bil97](Bil97/readme.md) | [Yin_U001](Bil97/Yin_U001.md), [Yin_U002](Bil97/Yin_U002.md) |
 | [Bin22](Bin22/readme.md) | [Yin_U001](Bin22/Yin_U001.md) |
+| [Bor96](Bor96/readme.md) | [Yin_U001](Bor96/Yin_U001.md#affine-chamber-quotient): affine Leech chamber quotient and canonical-normalization boundary |
 | [CDPT26](CDPT26/readme.md) | [Yin_U001](CDPT26/Yin_U001.md) |
 | [CDT24](CDT24/readme.md) | [Yin_U001](CDT24/Yin_U001.md) |
 | [CFMZ26](CFMZ26/readme.md) | [Yin_U001](CFMZ26/Yin_U001.md), [Yin_U002](CFMZ26/Yin_U002.md), [Yin_U003](CFMZ26/Yin_U003.md) |
@@ -75,7 +76,9 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Dim16](Dim16/readme.md) | [Yin_U001](Dim16/Yin_U001.md) |
 | [Dub23](Dub23/readme.md) | [Yin_U001](Dub23/Yin_U001.md) |
 | [Dum21](Dum21/readme.md) | Source and edition notes |
+| [EMRS17](EMRS17/readme.md) | [Yin_U001](EMRS17/Yin_U001.md#emrs17-u001): genetic coefficient search, factor output and unresolved proposal settings |
 | [EPF26](EPF26/readme.md) | Source and edition notes |
+| [ERT19](ERT19/readme.md) | [Yin_U001](ERT19/Yin_U001.md#companion-trace-gram): exact companion and Lorentzian trace Gram construction |
 | [ESM25](ESM25/readme.md) | Source and edition notes |
 | [ESS02](ESS02/readme.md) | [Yin_U001](ESS02/Yin_U001.md) |
 | [Elk19](Elk19/readme.md) | [Yin_U001](Elk19/Yin_U001.md) |
@@ -83,6 +86,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [FH09](FH09/readme.md) | [Yin_U001](FH09/Yin_U001.md) |
 | [FK52](FK52/readme.md) | [Yin_U001](FK52/Yin_U001.md) |
 | [FKMR16](FKMR16/readme.md) | Source and edition notes |
+| [FFLP11](FFLP11/readme.md) | [Yin_U001](FFLP11/Yin_U001.md#fflp11-u001): Gaussian Picard generators and the integrality boundary |
 | [FLHC17](FLHC17/readme.md) | [Yin_U001](FLHC17/Yin_U001.md) |
 | [FM13](FM13/readme.md) | [Yin_U001](FM13/Yin_U001.md) |
 | [FM26](FM26/readme.md) | Source and edition notes |
@@ -95,17 +99,20 @@ The source notes and units own their editions, inspected passages and actual ins
 | [GBV15](GBV15/readme.md) | [Yin_U001](GBV15/Yin_U001.md) |
 | [GGOW20](GGOW20/readme.md) | [Yin_U001](GGOW20/Yin_U001.md), [Yin_U002](GGOW20/Yin_U002.md), [Yin_U003](GGOW20/Yin_U003.md), [Yin_U004](GGOW20/Yin_U004.md), [Yin_U005](GGOW20/Yin_U005.md) |
 | [GH01](GH01/readme.md) | [Yin_U001](GH01/Yin_U001.md) |
+| [GHS09](GHS09/readme.md) | [Yin_U001](GHS09/Yin_U001.md#two-plane-generation): integral transvection generation and its two-plane limits |
+| [GHS13](GHS13/readme.md) | Source and edition notes; [L462 v13](../../ledger/Yin_L_G0462_v13.md#integer-generators): Eichler formula attribution and local integral specialization |
 | [GIM+10](GIM+10/readme.md) | [Yin_U001](GIM+10/Yin_U001.md) |
 | [GK24](GK24/readme.md) | [Yin_U001](GK24/Yin_U001.md) |
 | [GK78](GK78/readme.md) | [Yin_U001](GK78/Yin_U001.md) |
 | [GL06](GL06/readme.md) | [Yin_U001](GL06/Yin_U001.md) |
+| [GM02](GM02/readme.md) | [Yin_U001](GM02/Yin_U001.md#unimodular-realization): unramified reciprocal realization and fractional-ideal pairing interface |
 | [GM16](GM16/readme.md) | [Yin_U001](GM16/Yin_U001.md) |
 | [GMR18](GMR18/readme.md) | [Yin_U001](GMR18/Yin_U001.md) |
 | [GO08](GO08/readme.md) | [Yin_U001](GO08/Yin_U001.md) |
 | [GW21](GW21/readme.md) | [Yin_U001](GW21/Yin_U001.md), [Yin_U002](GW21/Yin_U002.md) |
 | [GW96](GW96/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#hadamard-variant): selected Hadamard real-rootedness input and signed adaptation |
 | [Gent21](Gent21/readme.md) | [Yin_U001](Gent21/Yin_U001.md) |
-| [Gro02](Gro02/readme.md) | Source and edition notes |
+| [Gro02](Gro02/readme.md) | [Yin_U001](Gro02/Yin_U001.md#degree18-example): degree-18 example, scaled positive halves and multiplier interface |
 | [Gur04](Gur04/readme.md) | [Yin_U001](Gur04/Yin_U001.md), [Yin_U002](Gur04/Yin_U002.md), [Yin_U003](Gur04/Yin_U003.md), [Yin_U004](Gur04/Yin_U004.md) |
 | [HP03](HP03/readme.md) | [Yin_U001](HP03/Yin_U001.md) |
 | [HPM22](HPM22/readme.md) | Source and edition notes |
@@ -117,10 +124,12 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Hou16](Hou16/readme.md) | [Yin_U001](Hou16/Yin_U001.md) |
 | [Hun74](Hun74/readme.md) | [Yin_U001](Hun74/Yin_U001.md), [Yin_U002](Hun74/Yin_U002.md), [Yin_U003](Hun74/Yin_U003.md), [Yin_U004](Hun74/Yin_U004.md), [Yin_U005](Hun74/Yin_U005.md), [Yin_U006](Hun74/Yin_U006.md), [Yin_U007](Hun74/Yin_U007.md) |
 | [JKS24](JKS24/readme.md) | [Yin_U001](JKS24/Yin_U001.md) |
+| [JKZ08](JKZ08/readme.md) | [Yin_U001](JKZ08/Yin_U001.md#simple-generators-and-gram): finite E8 simple generators and the actual positive Gram convention |
 | [JR17](JR17/readme.md) | [Yin_U001](JR17/Yin_U001.md) |
 | [JT26](JT26/readme.md) | [Yin_U001](JT26/Yin_U001.md), [Yin_U002](JT26/Yin_U002.md) |
 | [Jen25](Jen25/readme.md) | [Yin_U001](Jen25/Yin_U001.md) |
 | [KOR00](KOR00/readme.md) | [Yin_U001](KOR00/Yin_U001.md) |
+| [KP15](KP15/readme.md) | [Yin_U001](KP15/Yin_U001.md#kp15-u001): open continuants, Alexander substitution and the cyclic-boundary applicability limit. |
 | [KPV22](KPV22/readme.md) | [Yin_U001](KPV22/Yin_U001.md) |
 | [KY14](KY14/readme.md) | Source and edition notes |
 | [Kar26](Kar26/readme.md) | Source and edition notes |
@@ -155,7 +164,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Mas05](Mas05/readme.md) | Source and edition notes |
 | [Mas12](Mas12/readme.md) | Source and edition notes |
 | [Mat96](Mat96/readme.md) | [Yin_U001](Mat96/Yin_U001.md) |
-| [McM02](McM02/readme.md) | [Yin_U001](McM02/Yin_U001.md) |
+| [McM02](McM02/readme.md) | [Yin_U001](McM02/Yin_U001.md); [Yin_U002](McM02/Yin_U002.md#mcm02-u002): accepted canonical gap, exact conventions, the six-value small-spectrum classification and the separately inspected degree-18 diagram recipe |
 | [McM11](McM11/readme.md) | [Yin_U001](McM11/Yin_U001.md) |
 | [Mer13](Mer13/readme.md) | [Yin_U001](Mer13/Yin_U001.md) |
 | [Mig78](Mig78/readme.md) | [Yin_U001](Mig78/Yin_U001.md) |
@@ -175,6 +184,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Ope26d](Ope26d/readme.md) | [Yin_U001](Ope26d/Yin_U001.md) |
 | [PP08](PP08/readme.md) | [Yin_U001](PP08/Yin_U001.md) |
 | [PR04](PR04/readme.md) | Source and edition notes |
+| [PRT22](PRT22/readme.md) | [Yin_U001](PRT22/Yin_U001.md#prt22-u001): squarefree Sturm counting, positive normalization and source limits |
 | [PZ22](PZ22/readme.md) | [Yin_U001](PZ22/Yin_U001.md) |
 | [Par88](Par88/readme.md) | [Yin_U001](Par88/Yin_U001.md) |
 | [Paz14](Paz14/readme.md) | [Yin_U001](Paz14/Yin_U001.md) |
@@ -185,12 +195,14 @@ The source notes and units own their editions, inspected passages and actual ins
 | [QY26](QY26/readme.md) | [Yin_U001](QY26/Yin_U001.md), [Yin_U002](QY26/Yin_U002.md) |
 | [QZ19](QZ19/readme.md) | [Yin_U001](QZ19/Yin_U001.md) |
 | [Que08](Que08/readme.md) | Source and edition notes |
+| [RS03](RS03/readme.md) | [Yin_U001](RS03/Yin_U001.md#rs03-u001): correlated proposals, perturbed seeds and reciprocal coordinate descent |
 | [RT87](RT87/readme.md) | Source and edition notes |
 | [RW01](RW01/readme.md) | [Yin_U001](RW01/Yin_U001.md) |
 | [RY26](RY26/readme.md) | [Yin_U001](RY26/Yin_U001.md) |
 | [Reu96](Reu96/readme.md) | [Yin_U001](Reu96/Yin_U001.md), [Yin_U002](Reu96/Yin_U002.md), [Yin_U003](Reu96/Yin_U003.md), [Yin_U004](Reu96/Yin_U004.md), [Yin_U005](Reu96/Yin_U005.md), [Yin_U006](Reu96/Yin_U006.md) |
 | [Rib12](Rib12/readme.md) | [Yin_U001](Rib12/Yin_U001.md) |
 | [Rum13](Rum13/readme.md) | [Yin_U001](Rum13/Yin_U001.md) |
+| [SEMR21](SEMR21/readme.md) | [Yin_U001](SEMR21/Yin_U001.md#semr21-u001): nearest-reference coefficient restoration and its finite experimental scope |
 | [SSS18](SSS18/readme.md) | Source and edition notes |
 | [SW91](SW91/readme.md) | Source and edition notes |
 | [Sam07](Sam07/readme.md) | [Yin_U001](Sam07/Yin_U001.md) |
@@ -204,6 +216,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Sch01](Sch01/readme.md) | [Yin_U001](Sch01/Yin_U001.md) |
 | [Sch09](Sch09/readme.md) | [Yin_U001](Sch09/Yin_U001.md), [Yin_U002](Sch09/Yin_U002.md) |
 | [Sch14](Sch14/readme.md) | [Yin_U001](Sch14/Yin_U001.md) |
+| [Sha23](Sha23/readme.md) | [Yin_U001](Sha23/Yin_U001.md#sha23-u001): disk Rouche theorem with multiplicity |
 | [Sha74](Sha74/readme.md) | [Yin_U001](Sha74/Yin_U001.md) |
 | [Sim08](Sim08/readme.md) | [Yin_U001](Sim08/Yin_U001.md) |
 | [Sin07](Sin07/readme.md) | [Yin_U001](Sin07/Yin_U001.md) |
@@ -232,6 +245,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Voi98](Voi98/readme.md) | [Yin_U001](Voi98/Yin_U001.md) |
 | [Wal18](Wal18/readme.md) | [Yin_U001](Wal18/Yin_U001.md) |
 | [War05](War05/readme.md) | [Yin_U001](War05/Yin_U001.md) |
+| [WvL21](WvL21/readme.md) | [Yin_U001](WvL21/Yin_U001.md#full-isometry-and-transitivity): full positive E8 isometry group and norm-two root transitivity |
 | [Xyl11](Xyl11/readme.md) | [Yin_U001](Xyl11/Yin_U001.md) |
 | [Yin20](Yin20/readme.md) | [Yin_U001](Yin20/Yin_U001.md), [Yin_U002](Yin20/Yin_U002.md), [Yin_U003](Yin20/Yin_U003.md), [Yin_U004](Yin20/Yin_U004.md) |
 | [Yu99](Yu99/readme.md) | [Yin_U001](Yu99/Yin_U001.md) |

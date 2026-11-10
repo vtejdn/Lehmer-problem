@@ -41,3 +41,11 @@ Current consumer: [C_G579](../../../claims/Yin_C_G0579_v1.md#statement) retains 
 The [original whole review](../../reviews/Yin_R_G0784_v1.md#positive-half-lattice-complete-independent-review) retains its actual date, input, unknown relationship and inspection limits.
 Root separately visually inspected complete preprint pages1,12,13,22 and verified the publication identity.
 This adds that selected comparison inspection only; no source-classification theorem or full proof audit is adopted.
+
+<a id="degree18-source-interface"></a>
+## Degree-18 example and multiplier interface
+
+[Yin_U001](Yin_U001.md#gro02-u001) retains the exact degree-18 example on preprint pages 21--22, the full-versus-half pairing convention, and the general ideal and multiplier formulas in Sections 1--2 and 4--5.
+This additional visual source reading includes page 16 and keeps its selected statement/interface scope distinct from the earlier inspection above.
+It does not verify the source's maximal-order or class-number assertions and identifies the absent input-specific multiplier and basis.
+The preprint's supplied contents on page 3 are transcribed in [Gro02 contents](../../../literature/contents/Gro02.md).

@@ -1,5 +1,13 @@
 # Computations Index
 
+- [J160](programs/Yin_J_G0160/readme.md#small-degree-boundary) independently verifies the 22 small-degree Gaussian single-coordinate cyclic inputs used in the adopted all-parameter exclusion; it retains the author-checked initial twelve-input control separately, with complete factors, multiplicities and Mahler intervals.
+
+- [J159](programs/Yin_J_G0159/readme.md#results) retains the independently certified conductor-401 real-cell obstruction and rational feasibility at conductors 2003 and 1009, including the [exact jet branches](programs/Yin_J_G0159/readme.md#jet-lattice-result) and [unique necessary nonneutral branch at 1009](programs/Yin_J_G0159/readme.md#p1009-branch).
+  Three bounded integer searches return no candidate, and all six saved integer repair points fail the original signs; these finite failures do not prove branch infeasibility.
+  The numerical jet extrema are guides for construction, not rigorous feasible-domain bounds or an integer-existence result.
+- [J158](programs/Yin_J_G0158/readme.md#results-and-limits) gives an independently verified integral hyperbolic-plane splitting for the known degree-18 core and an exact discriminant-action obstruction to all permitted word lengths on that same natural trace lattice.
+  Its [different-lattice model](programs/Yin_J_G0158/coxeter_model.md#two-transvection-model) gives the unchanged polynomial on E8 plus E8 plus U as exactly two transvections and a positive isometry, with a separate complete independent review.
+  The author and independent programs retain complete integer matrix certificates without numerical roots or a word search.
 - [J151 integer-pole cover](programs/Yin_J_G0151/readme.md#integer-pole-first-shell) forces the rational-pole value in all five conductor-19683 branches and completes the first triple's strict-positive-shell exclusion through \(101/100\).
   The fixed 4096-cell certificate leaves no unresolved cell, while measure one and the other four triples remain outside that exclusion.
 - [J155](programs/Yin_J_G0155/readme.md#fixed-incumbent) supplies a strict integer input from one full-coefficient proposal at conductor 81 with three negative nodes.
@@ -13,6 +21,8 @@
   The [three complete energy-six traversals](programs/Yin_J_G0154/energy_six.md#complete-result) leave one moment hit, whose endpoint fails and whose [full measure diagnostic](programs/Yin_J_G0154/candidate_diagnostic.md#full-measure) is about 3.722425522937468.
   The [exact mod-eight counts](programs/Yin_J_G0154/dyadic_support.md#joint-counts) complete the fixed pair's local-support comparison, with the global integer exclusion kept separate.
 - [J153](programs/Yin_J_G0153/readme.md#factor-diagnostics) retains the 72 rotating-shear full-measure samples and their exact factor diagnostics, including reciprocal irreducible cores.
+  The [six split reciprocal factor measures](programs/Yin_J_G0153/readme.md#reciprocal-factor-measures) complete the below-6/5 proper-factor check for those fixed labels, at ordinary author-checking scope.
+  The separate [independently verified twenty-four-cluster control](programs/Yin_J_G0153/readme.md#cluster-word-control) has complete measure between 47.97469677926936 and 47.97469677926937 and one degree-132 noncyclotomic irreducible factor.
 - [J151 higher moments](programs/Yin_J_G0151/readme.md#higher-19683) verifies complete-measure certificates at conductor 19683 for both matching-third-moment branches.
   Its [N=7 extension](programs/Yin_J_G0151/negative_one_seven.md#scope) separates thirteen of eighteen triples and gives exact degree-seven interface obstructions for the five remaining triples.
   Its [continuous endpoint duals](programs/Yin_J_G0151/endpoint_dual.md#moving-cover) certify four fixed positions for the first residual triple; two moving-pair covers remain incomplete, with no new complete-measure floor.
@@ -36,7 +46,7 @@
 
 - [Yin_J_G0139](programs/Yin_J_G0139/readme.md): exact binary-product endpoint corrections at six parameters, completed small factorizations and separately uncertified full-measure diagnostics; the all-parameter exclusion is proved in L456 v2 independently of these numerical tests.
 
-- [Yin_J_G0138](programs/Yin_J_G0138/readme.md): exact central-minus-two inputs and small factorizations, plus exhaustive cyclotomic extraction for three central-minus-one inputs; all FFT and numerical-root measure estimates remain uncertified.
+- [Yin_J_G0138](programs/Yin_J_G0138/readme.md): exact central-perturbation inputs and cyclotomic extraction, with later independently checked root shape, irreducibility and complete Mahler enclosure for the degree-446 residual; the earlier FFT estimates retain their uncertified scope.
 
 - [Yin_J_G0137](programs/Yin_J_G0137/readme.md): exact weighted three-rotation invariant-module evaluation; two normalized quartic Taylor maps have certified odd full-column minors, with all dyadic factors explicit and no general stabilization or near-zero coverage claim.
 

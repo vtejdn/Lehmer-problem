@@ -178,7 +178,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-resume-adaptive-sampling-2026-11-09)
+[Selected decision](#decision-pause-after-neutral-reference-round-2026-11-10)
 
 ## Lifecycle and completion
 
@@ -624,6 +624,20 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unchanged unrestricted contract](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total measures, including nonconstructive existence, with unrestricted degree and coefficients. |
+
+
+### Decision pause-after-neutral-reference-round-2026-11-10
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-10T11:44 |
+| status | paused |
+| authority | Yin explicitly instructed in this conversation: finish this exploration round, then pause. |
+| reason | The variable-neutral-reference argument, squarefree-parent construction test, exact whole-measure certificate and their independent reviews are complete and retained at their responsible C/L/J/R homes. Pause G0001 and all ten associated strategies, including subroutes, before any new exploration, computation or mathematical review. The unrestricted objective remains unresolved. Further research requires Yin's explicit resumption; retain the shared ninety-eight-percent weekly stopping threshold and monitoring/account conditions. The saved construction questions are continuation material, not authorization to start another test. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unchanged unrestricted contract](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total Mahler measures, including nonconstructive existence and unrestricted degree and coefficients; unresolved and paused after this exploration round. |
 
 ## Execution boundary
 

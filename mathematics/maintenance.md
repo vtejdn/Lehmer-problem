@@ -19,3 +19,13 @@ These are source-preparation follow-ups for future reading, without a mathematic
 Inspect Boyd and Montgomery's [*Cyclotomic Partitions*](https://doi.org/10.1515/9783110848632-004) in *Number Theory* (Banff, 1988), published 1990.
 The publisher and book preview did not supply the theorem pages in this reading.
 Check the count, constants and relative error directly against the [MPV98 restatement](audits/literature/MPV98/Yin_U002.md#unrestricted-cyclotomic-products) and the [Smy08 counting comparison](audits/literature/Smy08/Yin_U003.md#smy08-bounded-measure-count) when the chapter is available.
+
+<a id="stochastic-search-originals"></a>
+## Selected stochastic-search sources: original and visual preparation
+
+For Yin's method comparison, obtain accessible complete originals of [RS03](audits/literature/RS03/readme.md#author-upload), printed pp. 457--461, and [EMRS17](audits/literature/EMRS17/readme.md#author-upload), printed pp. 2619--2626.
+The linked author-uploaded PDF bodies were readable through online text extraction, but bounded direct acquisition returned HTTP 403/404 or non-PDF responses, and rendered pages were not successfully inspected.
+No local original was retained.
+The inspected mechanisms and limits remain in [RS03-U001](audits/literature/RS03/Yin_U001.md#rs03-u001) and [EMRS17-U001](audits/literature/EMRS17/Yin_U001.md#emrs17-u001).
+Check RS03's displayed reciprocal-move index on printed p. 459 and the [supplied contents transcription](literature/contents/RS03--author-upload.md) against the original visual page.
+For EMRS17, preserve the verified 2017 body identity despite its host's mismatched 2019 title, and visually check the selected algorithm and result passages.
