@@ -2,16 +2,20 @@
 
 ## Task Records
 
-Create a Task with its complete actual contract/decision, using the [Task template](../templates/mathematics/task.md); the optional `material.py create --kind T --file task.md` allocates its numbered T family under `mathematics/tasks/`.
+Create a Task with its complete actual contract and decision, using the [Task template](../templates/mathematics/task.md).
+For ordinary allocation, the optional `material.py create --kind T --file task.md` allocates its numbered T family under `mathematics/tasks/`.
 Use line A for a new Task when the human has not designated a series, without a routine question or topic-based letter inference.
-Continuation keeps the existing series; Task-derived material inherits its letter while retaining the author/kind/line's independent counter.
+Ordinary continuation keeps the existing series, and Task-derived material inherits its letter while retaining the author/kind/line's independent counter.
 An explicit line choice takes precedence, and an independent local material without a Task or line uses the same A fallback.
 Apply the [agent/tool responsibility](workflow.md#agent-and-tool-responsibilities) to question, completion and authorization.
 Source-only audits and setup operations keep their appropriate homes instead of becoming artificial mathematical Tasks.
 Use current canonical identities in historical accounts as well as current instructions; preserve historical meaning through a verified current identity or precise descriptive mathematics, without retired identifiers or aliases.
 
 Distinguish user-assigned tasks from agent proposals.
+Determine the actual research assignment under the [inquiry-to-research rule](workflow.md#from-an-inquiry-to-approved-research), including the meaning of a conversational proposal and any existing explicit approval for the same objective and scope.
+An initial request for an answer or an unsuccessful preliminary lookup alone does not assign sustained research.
 A proposed question is not an active objective until it falls within an existing exploration authorization or the user authorizes it.
+After sufficient approval, read likely matching contracts and reuse an adequate same-human Task, preserving its effective conditions instead of duplicating it to avoid them.
 Ordinary methodological choices within an active task do not require another approval.
 
 The selected Task decision owns lifecycle, authority, reason and exact contract/evidence:
@@ -32,6 +36,7 @@ Claim assessments, individual review findings and proof/refutation acceptance fo
 
 A new Task states proposed or active explicitly in its initial decision.
 Use active only for an actual assignment or existing exploration authorization, recorded in `authority` and `reason`.
+Register a new approved research assignment as active in that initial decision, without a second activation event.
 An inert template and a proposed question do not grant execution permission.
 Task creation starts no run and needs no fictitious setup review.
 
@@ -72,6 +77,61 @@ Claim mathematical assessments stay with their selected C decisions; the [Claim 
 Each S material owns its own route priority/disposition and Task association, with a derived [strategy index](../../mathematics/strategies/index.md).
 Changes to the mathematical target, quantifiers or mathematical completion criteria preserve the earlier contract and remain within actual human authorization.
 A tractable special case must not silently replace the original question.
+
+An authorized writer may associate a manuscript or presentation with any actual repository Task, including another human's ordinary Task or a joint Task, under the [writing rule](writing.md#projects-and-documents).
+This needs neither a personal participation Task, matching serial nor separate permission from the Task creator merely to select the writing subject.
+Writing association changes no Task author, lifecycle, participation, completion or E authority, and an explicit joint-writing container is no joint mathematical-material author.
+
+## Task number reuse
+
+A locally authored Task number may be reused within its original author and research-line sequence after an authorized deletion or an authorized move of the same Task to another line, once the former family is clear from that address in the relevant maintained work.
+A Task that remains at its address with status `retired` still occupies the number.
+
+Read the affected material to determine whether a reference carries a mathematical obligation, dependency, decision or review scope.
+Preserve necessary evidence, exact fixed-source references and acquired correspondences under the [common content decision](records.md#substantive-material-retention).
+Repair actual references to their intended objects and refresh affected derived navigation.
+Keep the number unavailable while any retained substantive mathematical material still needs the former Task's address or identity there.
+A maintained branch that still carries the former Task or needs its address keeps the number unavailable even if the current branch has removed it.
+Use native Git when relevant to check the actual branches and references affected by the release.
+A historical Git view used only for reading neither counts as a maintained branch nor selects E.
+
+For an allowed line move, allocate the destination number in its own sequence under the [allocation rule](identity.md#allocation-and-concurrency).
+Move the retained Task versions and maintain their actual references together, preserving the contract, selected decision, author and review scope.
+Maintain any affected manuscript association and entrances under the [writing-home rule](writing.md#projects-and-documents).
+If the Task has a local E, move it to the destination family's stable E address and update its exact Task decision locator.
+Preserve its state and all effective conditions under the [execution rules](execution.md#current-contents-and-retained-limits).
+
+For deletion, retain necessary mathematics and evidence at their responsible homes and clear any obsolete E file from the old address within existing authority.
+Keep any conditions that still apply at their responsible homes.
+
+Before reuse, confirm from the completed operation or sufficiently clear facts that the release condition is met and that the former Task versions and local E are gone from their old addresses.
+Use ordinary allocation when a vacant number has no established release.
+For explicit reuse, coordinate the write under the [allocation and concurrency rule](identity.md#allocation-and-concurrency), recheck current occupation of the whole family and its E address, and create the new `v1` exclusively at the selected address.
+Give the new Task its own contract and initial decision.
+Preserve the existing `material_next` bound when reusing a released number below it.
+Prepare E only when the new Task is actually selected for execution under its own authority and applicable limits.
+
+Apply the [single working-copy rule](identity.md#collaboration-maintenance-and-conflicts) to Task moves, deletions and reuse.
+
+### Public joint Task addresses
+
+Keep the original family address stable once a joint Task has been published as a source eligible for [external intake](intake.md#scope-and-routing) or has an established external receiving correspondence.
+Keep that address reserved through retirement or authorized deletion and exclude it from reuse or a move that changes the original family address.
+
+Before an authorized public delivery, use the [existing outgoing Git review](identity.md#submission-checks) to inspect the affected joint Task source addresses in the commits that the delivery will make reachable.
+Include ancestors first made reachable by the same push, including paths removed or renamed at the outgoing tip.
+Compare the affected contracts through native Git and distinguish a genuine continuation from a change of source identity.
+Hold the affected delivery if it would expose unrelated contracts at one original address or competing original addresses for the same joint Task after a line move.
+Resolve the affected delivery within existing authority and preserve Git history.
+For genuine later versions, preserve the established receiving family and keep each review tied to its exact inputs.
+If selected fixed sources already conflict at the same locator, leave their correspondence explicitly unresolved and preserve the earlier evidence at its actual scope.
+
+### Prepared Task writes
+
+Task append, revision and decision selection prepared from earlier content follow the [common preparation-input responsibility](workflow.md#prepared-work-and-input-applicability).
+Apply the same rule to an individual Task's joint-parent declaration, judging the actual common contract, participation scope and authority.
+
+For references affected by shared integration, use native Git to read the relevant pre-merge contracts or decisions and maintain references to their intended objects under the [integration rule](identity.md#shared-repository-updates-and-integration).
 
 ## Execution boundary
 
@@ -154,11 +214,8 @@ Neither disposition resets execution conditions, creates an allowance or fabrica
 
 ### Shared Git research
 
-Participants using an agreed shared Git remote obtain current collaborator information through the [common work-start update](workflow.md#shared-repository-work-starts) and share useful progress under the [default joint-research Git permissions and integration rule](identity.md#shared-research-git-authority-and-integration).
-Human authorization to establish, advance or continue joint Task collaboration includes routine retrieval, integration, commits and pushes within that work's scope by default, with explicit human limits taking precedence.
-The same default applies when continuing an authorized individual T/E that participates through its exact adopted joint contract; keep its ordinary Task type and do not require renewed joint-participation or push wording on each continuation.
-Apply these permissions directly without a separate collaboration-mode adoption, delivery grant, permission sentence, new T/E decision or authorization record, while judging the actual progress, batch and sharing time.
-Without Git or a configured project remote, this rule creates no project-network duty; a single-human Git project with a remote still applies the common work-start update without acquiring joint-research publication authority.
+Participants using an agreed shared Git remote obtain current collaborator information through the [common work-start update](workflow.md#shared-repository-work-starts).
+Authorized ordinary and joint Task writing, including continuation through an individual T/E with its adopted exact joint contract, uses the [common Git delivery default](identity.md#submission-checks) within actual human limits.
 Updates by another author in the same shared repository use ordinary Git collaboration and create no intake operation; receipt from a distinct repository still fixes the actual source commit under the [intake rules](intake.md).
 Project collaboration updates are separate from the [daily official framework version check](../versioning.md#official-version-check), which neither refreshes the research branch nor authorizes an upgrade.
 
@@ -172,4 +229,4 @@ First retain the necessary content, truthful mathematical status, hypotheses, ch
 Drafts and unresolved gaps can be shared truthfully; commit or push creates no proof, independent review or adoption and imposes no new independent inspection or complete regression requirement on every batch.
 Keep E, private settings, original literature, temporary files and ignored computation outputs within their existing local boundaries; collaboration supplies no reason to upload them or recover them as missing remote files.
 Incoming commits do not automatically replace an individual's exact adopted joint contract or change its Task/E authority, effective stops or allowance.
-Apply the [Git failure and delivery scope](identity.md#shared-research-git-authority-and-integration) to actual obstacles while preserving those individual conditions.
+Apply the [common Git delivery and failure rules](identity.md#submission-checks) to actual obstacles while preserving those individual conditions.

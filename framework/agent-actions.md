@@ -15,6 +15,8 @@ When actually selected content or input is incompatible with current rules, read
 Use ordinary reading, editing, current receiving preparation, direct-reference repair or another adequate tool path; an optional helper's refusal supplies a concrete limitation rather than a requirement to stop all work or upgrade the source repository.
 Judge the needed scope, responsible home, retention/reuse, actual mathematical changes and checks under the [content and adaptation rule](rules/records.md#receiving-and-adapting-selected-content), preserving authorship, fixed evidence, true provenance and Task/E limits.
 Pure metadata, layout or link maintenance creates no mathematical decision, version, review, acquisition or timestamp; genuine changes retain their applicable obligations.
+Apply the [common literature registration and source-preparation rule](rules/literature.md#source-preparation) to works of confirmed identity and reference value identified during any authorized repository action or related discussion.
+Apply the [common preparation-input responsibility](rules/workflow.md#prepared-work-and-input-applicability) when publishing declarations, associations or decisions that rely on earlier content.
 When a repository question or discussion produces mathematics worth retaining, apply the same pre-delivery preservation rule as for an exploration round within the actual author and write scope.
 See [Closing an Exploration Round](rules/workflow.md#exploration-round-closeout).
 Clarify only remaining decisive intent, authority, identity correspondence or necessary facts while continuing independent authorized work, without a routine adaptation approval, whole-library cleanup or compatibility parser.
@@ -31,10 +33,12 @@ For ordinary first installation, apply the [empty-target conditions](#first-inst
 Known nonempty targets stop that installation under its responsible action instead of entering the general work-start merge below.
 
 For a Git-managed working repository with a configured remote, apply the [common work-start update](rules/workflow.md#shared-repository-work-starts) and its [target, authority and integration rule](rules/identity.md#shared-repository-updates-and-integration) after establishing the assignment, current branch and explicit limits from the necessary local entrances.
-The main agent determines the applicable project target and protected work, obtains fresh branch facts and needed commits, completes necessary authorized local integration, then reads affected current rules and inputs before substantive task work.
+The main agent proactively determines the applicable project target and protected work, obtains fresh branch facts and needed commits, completes necessary authorized local integration, then reads affected current rules and inputs before substantive task work.
 This covers single-human projects, ordinary and joint research, writing, literature work, transfer preparation, review, maintenance, framework development and upgrade preparation; continuous steps and subagents in that working copy reuse the actual result.
 Without Git or a configured remote, perform no project update or automatic setup; explicit offline, read-only or fixed-input limits and actual failures follow the common rule.
+Apply the [common connection-recovery responsibility](rules/workflow.md#connection-recovery) within the authorized update before treating a connection failure as an unresolved obstacle.
 The daily framework query below and an earlier same-day project query do not replace that responsibility.
+Authorized repository writing with an applicable project remote also follows the [common delivery default](rules/identity.md#submission-checks), within its actual scope and explicit human limits.
 
 Apply the [official version-check rule](versioning.md#official-version-check) before the selected work.
 Read repository/config.json and the ignored repository/framework-update-check.json; honor an explicit offline instruction and the repository Boolean setting.
@@ -86,7 +90,8 @@ Create no Git repository, remote or initial commit for this check.
 
 As soon as either side is known to be nonempty, preserve files, index, configuration and both histories, stop this installation and report which side contains what project work to the human author.
 No check of the other side is then required, and do not pull or merge, clear or move contents, or switch to a child or different directory to continue installation.
-If an applicable remote cannot be confirmed because of offline limits, unavailable tools, permissions or query failure, preserve the target and report the unknown fact; resume installation only with sufficient empty-target evidence.
+Handle connection failures under the [common recovery responsibility](rules/workflow.md#connection-recovery) within the empty-target check's authority.
+If an applicable remote remains unconfirmed within the actual offline, tool, permission or query limits, preserve the target and report the unknown fact, resuming installation only with sufficient empty-target evidence.
 Only after all applicable targets are confirmed empty, install the selected official version or fixed-commit files at that project root and complete necessary setup.
 An explicitly selected new root that does not yet exist may be created after confirming any applicable remote condition.
 When Git is wanted, use or establish the human project's own repository within actual setup authority, without adopting official history by default.
@@ -141,6 +146,7 @@ Use ordinary copying and native Git without a permanent shipped-file inventory o
 Apply the [version and upgrade rule](versioning.md#upgrading-an-installed-framework) under an explicit upgrade assignment, separately from the daily metadata read and fresh installation.
 Keep the actual installed project root as the destination; source retrieval prepares the selected files for that root.
 Identify the installed version and selected official target; obtain its fixed source in owned root `.tmp/` and verify agreement among tag, commit, version metadata and target-version note.
+Apply the [common connection-recovery responsibility](rules/workflow.md#connection-recovery) to authorized retrieval and delivery failures.
 Without Git, use available public source evidence with an archive or selected fixed-source files and ordinary recovery copies; Git initialization or a local clone is not required.
 Read applicable intervening notes, inspect their combined local paths and direct consumers, and prepare final target files with only genuinely ordered adaptations.
 Preserve recoverable affected contents, local customizations, unrelated work, the actual named or unnamed configuration, research and effective Task/E conditions without requiring a clean worktree, stash, preliminary commit or empty reinitialization.
@@ -149,7 +155,7 @@ Synchronize already published official human-document bodies under the [common u
 Judge mixed public-file merges and retired files by their actual local role, preserving authorship and the separate responsibility for new human-document authoring.
 Finish required adaptation and checks before marking the target installed version; on failure restore this operation's changes or report actual incomplete restoration while preserving foreign work and necessary recovery content.
 Reread new applicable rules before affected work continues; an upgrade grants no research resumption.
-In an actual shared Git repository, complete the [authorized upgrade's scoped Git delivery](versioning.md#upgrading-an-installed-framework) before reporting its result or continuing the original task, including when upgrading before that task or under a separate upgrade assignment.
+With an applicable project remote, complete the [authorized upgrade's scoped Git delivery](versioning.md#upgrading-an-installed-framework) before reporting its result or continuing the original task, including when upgrading before that task or under a separate upgrade assignment.
 Use the [existing delivery action](#commit-or-push-requested-work), honoring explicit local-only, offline or postponed-push instructions and reporting any unfinished delivery distinctly.
 Report actual from/to versions, target commit, checks, applicable Git delivery result and remaining limits, then perform existing creator cleanup.
 Ordinary authorized retrieval, editing and selected checks need no additional routine approval or mandatory installer.
@@ -185,25 +191,35 @@ Git-dependent helpers remain optional and state their actual prerequisites.
 
 ## Start or continue research
 
-For a new objective, read the [Task setup rules](rules/workflow.md#new-task-setup), likely existing contracts and actual human assignment.
-Reuse an adequate existing Task or establish its precise question, hypotheses, quantifiers, scope, completion criteria and actual proposed/active decision.
-Task setup creates no E; prepare or reuse the ordinary family's local boundary only when execution is actually selected under the [execution rule](rules/execution.md).
-A joint coordination T has no E, and setup creates no execution or fabricated review.
+For an initial question, apply the [inquiry-to-research rule](rules/workflow.md#from-an-inquiry-to-approved-research): use relevant existing evidence and proportionate preliminary lookup, answering directly when sufficient.
+When the question remains unanswered and further work needs formal research, report the findings, unresolved question and concrete proposed scope and wait for applicable human approval before dependent strategy exploration and Task advancement.
+Reuse an existing explicit research instruction or approval for that objective and scope, without recurring approval because a lookup, round or session changes.
+Explanation, bounded source work, maintenance and an explicitly limited plan keep their actual deliverable and scope.
+
+After sufficient approval, read the [Task setup rules](rules/workflow.md#new-task-setup) and likely matching contracts, reuse an adequate same-human Task or establish the precise approved contract with its actual human author and initial active decision.
+An explicitly requested registration awaiting research authorization uses proposed status.
+The responsible responding agent takes main research responsibility by default under the [execution rule](rules/execution.md#main-agent-responsibility-and-exact-maintenance), coordinating with an existing executing main agent rather than starting overlapping writers.
+Task setup alone creates no E; prepare or reuse the ordinary family's stable local boundary only when execution is actually selected under the [execution rule](rules/execution.md#responsibility-and-version-boundary).
+The same approval may cover setup and first execution; a prepared E starts non-running and work starts only when that approval and effective conditions permit it.
+A joint coordination T has no E, and setup alone creates no execution or fabricated review.
 
 For continuation, read the selected T contract/decision, any existing stable E's effective conditions, applicable operator policy, current S and directly needed C/D/J/source evidence.
 Read relevant existing `mathematics/maintenance.md`, `mathematics/erratum.md` and `mathematics/messages.md` for the actual author, Task and material scope under the [coordination rule](rules/records.md#shared-mathematical-coordination), completing applicable erratum lookup before mathematical reliance without a whole-library scan.
 When that selected execution has no local E, follow the [on-demand preparation rule](rules/execution.md#responsibility-and-version-boundary) using adequate real instructions and conditions; absence neither resets limits nor grants resumption.
 For a joint goal, first resolve the actual human's appropriate individual T and its adopted exact common contract under the [joint-Task rule](rules/tasks.md#joint-tasks-and-participation); clarify a real unresolved choice among several individual Tasks instead of starting several.
 Complete or reuse the [common work-start update](rules/workflow.md#shared-repository-work-starts) before substantive research in a Git working repository with a configured remote, using relevant incoming work for mathematical reuse before any necessary external search.
-Human-authorized joint Task participation also uses its [default delivery permissions](rules/identity.md#shared-research-git-authority-and-integration) and [progress-sharing rule](rules/tasks.md#shared-git-research), including continuation through an already participating individual T/E.
-Reuse the known repository, collaboration branch and work scope, honoring explicit human limits without another mode adoption or push grant.
+Authorized research writing follows the [common delivery default](rules/identity.md#submission-checks).
+Apply the [collaborative progress-sharing rule](rules/tasks.md#shared-git-research) to actual joint participation, including continuation through an already participating individual T/E.
+Reuse the known project repository, branch and actual work scope, honoring explicit human limits.
 Follow [execution rules](rules/execution.md#current-contents-and-retained-limits) before autonomous advancement.
 Use one responsible main agent and one stable E for the Task family; a new chat, revision or policy expiry does not reset allowance or resume a stopped run.
 An actually authorized continuation prepares the relevant exact Task reference and current conditions directly; a pointer update preserves stops unless actual resumption is authorized.
-If authorized work may proceed, advance its next useful step and retain actual results, failures, gaps and continuation points.
 If a stop or missing authority prevents advancement, preserve current findings and report that actual boundary.
 Method changes and strategy priorities may adapt within the assignment unless the human explicitly fixed them; they do not change the objective or completion criteria.
-Use the [route-selection rules](rules/strategies.md#choosing-and-revising-a-route) to judge expected gains, decisive gaps and any inexpensive probes before substantial investment.
+Use the [route-selection rules](rules/strategies.md#choosing-and-revising-a-route) for initial comprehensive exploration based on actual retained progress, then judge expected gains, decisive gaps and any inexpensive probes before substantial investment.
+Choose useful breadth, depth and direct work or bounded delegation from the question and evidence, without a fixed route count or compulsory agent-S assignment.
+If authorized work may proceed, carry out or explicitly assign a useful next investigation and use its result, retaining actual findings, failures, gaps and continuation points.
+Task/S/E preparation or a strategy list alone does not fulfill an assignment to explore and advance research.
 Under [research coordination](rules/workflow.md#research-coordination), try the complete argument at consequential points and adjust assignments as evidence changes.
 Use ordinary research or [Preparation](rules/workflow.md#research-preparation) for clear next steps.
 Use the [strategy delegation criteria](rules/strategies.md#choosing-and-revising-a-route) for a consequential choice or sustained lack of progress, and read [agent-S](rules/agent-S.md#when-to-delegate-and-assignment-boundaries) when assigning that role.
@@ -242,7 +258,7 @@ Navigation derives actual declarations and selected evidence metadata without ch
 Retire a redundant D only after checking its actual historical uses and preserving any necessary content under the [draft rule](rules/ledger.md#working-drafts-and-fixed-findings).
 A setup-only residue whose mathematics is already fixed needs no replacement account or move receipt.
 Before handoff, give still-effective literature follow-up its [maintenance entrance](rules/records.md#pending-literature-work) rather than leaving the only remaining action in a Draft or reply.
-For human-authorized joint Task work, judge the retained progress under the [collaboration rule](rules/tasks.md#shared-git-research), completing a useful coherent batch through the [delivery action](#commit-or-push-requested-work) under the default permissions and actual human limits, without a separate first or recurring delivery approval.
+For authorized repository writing with an applicable project remote, assess remaining delivery at closeout and complete a useful coherent batch through the [delivery action](#commit-or-push-requested-work) under the [common default](rules/identity.md#submission-checks) and actual human limits.
 Major progress may be shared during the round; preserve truthful status and local-only contents, and report any concrete unfinished delivery without extending research past an effective stop.
 Return established results, remaining obligations and the next continuation point.
 Round closeout neither resolves the whole Task nor resumes research after an instruction to stop at that boundary.
@@ -300,9 +316,14 @@ Use the optional [fetch or bibliography helper](../scripts/readme.md#local-sourc
 
 ## Write or revise a manuscript
 
-Read the selected document sources, including current TeX when present, the responsible author's applicable choices, writing purpose and direct source/review inputs under the [writing rules](rules/writing.md).
-Use the [writing-home rule](rules/writing.md#projects-and-documents) when no mathematical Task corresponds to the assignment, preserving an author-designated location and its choices.
-Apply the responsible author's [writing layers and choice-update rule](rules/preferences.md#scope-and-adoption), preserving the [current manuscript and actual policy boundary](rules/writing.md#current-manuscript-authority).
+Determine the actual responsible writer(s), writing assignment and purpose, any relevant Task and direct source/review inputs under the [writing rules](rules/writing.md), then read the actual current TeX manuscript and needed supporting records.
+ACME supports TeX manuscripts; human authors use those sources to guide the agent or edit them directly under the [supported writing scope](rules/writing.md#tex-manuscripts-and-supporting-records).
+A manuscript assignment calls for the actual TeX deliverable, while a request limited to agent-facing Markdown records keeps that scope without inventing a manuscript or compilation.
+Any writer may write manuscripts or slides for any actual repository Task without a matching personal or participation Task; writing creates no research execution authority.
+Reuse an adequate project and apply the [writer/full-Task layout](rules/writing.md#projects-and-documents), using a purpose-named project in the writer container when no Task corresponds.
+Use a joined writer container only under an [explicit joint-writing assignment](rules/writing.md#explicit-joint-writing), preserving actual operator identities and the one actual document home.
+Apply the actual single-writer or joint-document [writing layers and choice-update rule](rules/preferences.md#scope-and-adoption), preserving the [current manuscript and actual policy boundary](rules/writing.md#current-manuscript-authority).
+For a gap requiring formal research beyond the writing assignment, apply the [inquiry-to-research boundary](rules/workflow.md#from-an-inquiry-to-approved-research) rather than inherit Task/E authority from the document association.
 Read the evidence for the findings selected for revision under the [writing execution rule](rules/writing.md#writing-rule-execution).
 Use the [manuscript's writing opinions](rules/writing.md#manuscript-revisions) for writing findings and the [manuscript's mathematical-review evidence](rules/writing.md#manuscript-review-and-mathematical-provenance) for proof findings.
 Perform proportionate source preparation and definition registration; source observations remain evidence rather than a fifth writing layer.
@@ -415,6 +436,7 @@ Keep the actual fixed Git names and required entry/blob facts through manifest, 
 Prepare canonical receiving paths through actual correspondence, including an explicit native-child mapping when needed; fixed source names need no local alias resolution or renaming.
 Actual local sources and receiving publication retain their physical protections under the [intake rule](rules/intake.md#scope-and-routing).
 Use actual authorized public source reads and ordinary file operations when Git is unavailable; the optional Git-based source helper retains its own source-access prerequisite.
+Apply the [common connection-recovery responsibility](rules/workflow.md#connection-recovery) within the selected fixed-source operation's authority.
 First reuse adequate material and preserve conforming source prose under the [common preservation rule](rules/records.md#receiving-and-adapting-selected-content), adapting only actual receiving-rule differences in identity, classification, layout, numbering or references.
 Inspect the resulting text, author correspondence, exact references and necessary direct consumers.
 Sender framework versions, current-format support or missing installation metadata do not independently bar adequate receiving preparation or require a sender upgrade.
@@ -495,7 +517,9 @@ Return actual retained content, necessary adaptations, foreign acquisition scope
 
 ## Commit or push requested work
 
-Use this action for a direct delivery instruction, [authorized shared-repository upgrade delivery](versioning.md#upgrading-an-installed-framework) or the [default joint-research permissions](rules/identity.md#shared-research-git-authority-and-integration) within actual human-authorized joint Task work, applying explicit human limits and the actual repository, branch and publishable scope.
+Use this action for ordinary delivery of an authorized repository writing task with an applicable project remote under the [common default](rules/identity.md#submission-checks), or for a direct commit/push instruction.
+Proactively complete necessary scoped commit and push under that default without a separate routine request, choosing actual operations from the work ready for delivery.
+Apply explicit human limits and the actual repository, branch and publishable scope.
 Read [serial delivery](rules/identity.md#submission-checks), the human-registered repository name, selected paths, existing index, actual operator/signature and intended branch/tree.
 Coordinate one stable delivery interval, preserve unrelated staged work and contributor identities, stage the intended deliverable, commit and confirm the actual resulting tree.
 Reinspect the affected delivery scope if relevant bytes or the index change; draft work may be committed with truthful status.
@@ -503,7 +527,8 @@ For an authorized push, establish the actual target and account/channel under th
 Before publishing, inspect the whole outgoing commit chain, including its scope and contributor identities.
 If the operation requires host approval, apply the [permission and refusal rules](rules/workflow.md#workspace-boundaries) using the actual human authority, destination and scope of this delivery.
 Push the authorized tip and verify the remote result.
-Apply the [shared-research integration and failure rule](rules/identity.md#shared-research-git-authority-and-integration) to new remote commits, a rejected push or an unclear publication scope, preserving unrelated work and the existing pending-batch boundary.
+Apply the [common integration rule](rules/identity.md#shared-repository-updates-and-integration) and [delivery scope](rules/identity.md#submission-checks) to new remote commits, a rejected push or an unclear publication scope, preserving unrelated work and the existing pending-batch boundary.
+Handle connection failures under the [common recovery responsibility](rules/workflow.md#connection-recovery) within the actual delivery authority.
 At actual project-remote setup, a relevant target change or a remote operation needing fresh facts, apply the [non-blocking name suggestion](rules/identity.md#repository-names-and-use-environments) for that selected GitHub project.
 Keep a differing local name unless the human chooses to update it; official-source, intake-source and reference-only upstream names do not select the repository name.
 Ordinary delivery grants no force-push or history rewrite.

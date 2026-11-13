@@ -7,7 +7,7 @@ author: Yin
 This record retains the original manuscript-specific strategy-revision review and the subsequent bounded maintenance check.
 The original review covers the unchanged retained passages; the expanded long-window exposition has only the separately recorded current bounded check.
 It is not a fixed R review, a source audit or a Task completion.
-At that report scope, the [Task](../../../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-d221-closeout) was paused and unresolved.
+At that report scope, the [Task](../../../../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-d221-closeout) was paused and unresolved.
 No new mathematical Claim, research resumption or Task completion is adopted.
 
 <a id="manuscript-review"></a>
@@ -65,7 +65,7 @@ Meaning, definitions, citation coverage and accepted mathematical inputs were ch
 ## Independently implemented finite attachment
 
 The current [verifier](supplement/verify.py) uses only the Python standard library and the supplied [exact data](supplement/certificates.json).
-The data are extracted from the frozen `unit-cap-output.json` native output recorded in [J_G79](../../../computations/programs/Yin_J_G0079/readme.md); native records were not edited.
+The data are extracted from the frozen `unit-cap-output.json` native output recorded in [J_G79](../../../../computations/programs/Yin_J_G0079/readme.md); native records were not edited.
 The program reconstructs quotient-ring multiplication and its fraction-free determinant, every original B/F/U residual and projection orthogonality, signed full norms, content, coefficient energy and all lag correlations.
 It checks all 304 source directions and the complete declared finite selector.
 

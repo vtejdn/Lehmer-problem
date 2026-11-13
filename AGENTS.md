@@ -7,7 +7,8 @@ At the start of a work round, apply the [local-rule reading and daily official c
 
 Apply the [core principles and interpretation](framework/readme.md#core-principles-and-interpretation) to all agent actions, including framework conflicts, omissions, ambiguity and matters requiring discretion.
 Apply the current human request, actual operator and activity-specific authority under the [identity rules](framework/rules/identity.md) and applicable [personal or manuscript choices](framework/rules/preferences.md).
-Autonomous research requires the selected Task and its stable E under the [execution rules](framework/rules/execution.md); maintenance or discussion does not select a Task.
+Autonomous research requires the selected Task and its stable E under the [execution rules](framework/rules/execution.md).
+An inquiry or discussion enters formal research through the [preliminary lookup, report and approval boundary](framework/rules/workflow.md#from-an-inquiry-to-approved-research); maintenance and discussion alone select no Task.
 
 Follow the [repository writing language](framework/rules/organization.md#repository-writing-language) and [sentence-oriented source layout](framework/rules/organization.md#sentence-oriented-source-layout) rules for maintained prose.
 Inspect the actual changed sentences and syntax before delivery, within the assigned role.
@@ -20,7 +21,7 @@ Tool results establish neither mathematical equivalence, review sufficiency nor 
 Before creating/registering, retaining or reorganizing substantive mathematics/evidence or retiring drafts, read the [common content decision](framework/rules/records.md#substantive-material-retention), including before direct creation in C/J/R/L/U or another responsible home.
 The [storage rule](framework/rules/organization.md#temporary-storage) reserves `.tmp/` for disposable operational byproducts and creator cleanup.
 
-For Git/GitHub remote operations, determine authority from the current human request and applicable activity rules, including the [default delivery permissions](framework/rules/identity.md#shared-research-git-authority-and-integration) for authorized joint Task work.
+For Git/GitHub remote operations, apply the [common delivery default](framework/rules/identity.md#submission-checks) to authorized repository writing with an applicable project remote, subject to explicit human limits and actual execution permissions.
 Establish the actual target and relevant channel or account under the [connection responsibilities](framework/rules/identity.md#git-and-github-connection-checks).
 Choose relevant checks from current evidence and the actual operation; local skills and authentication probes are optional aids rather than universal prerequisites.
 Individual local operations require no repeated network preflight.

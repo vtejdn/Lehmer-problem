@@ -432,6 +432,8 @@ def manifest(source, selections, *, files=()):
         r.require(not r.paths.in_computation_outputs(path), 'J intake selects fixed programs and inputs, not local outputs.')
         item = names.parse(path)
         r.require(item.kind in SOURCE_KINDS, 'Select a mathematical unit; personal files use personal import.')
+        r.require(item.kind != 'J' or path == 'mathematics/' + HOMES['J'] + '/' + item.name + '/readme.md',
+                  'Select the actual J group README and explicit indispensable files.')
         r.require(path in source.names, 'Selected source file is unavailable: ' + path)
         raw = source.read(path).decode('utf-8-sig')
         original_header = None
@@ -490,7 +492,6 @@ def manifest(source, selections, *, files=()):
         if not raw_source:
             check_selection(doc, anchor, receiving_kind=local_kind, prepared=bool(selection.get('prepared')))
         r.require(selection.get('scope'), 'Describe the actual selected mathematical scope.')
-        r.require(item.kind != 'J' or PurePosixPath(path).name == 'readme.md', 'Select the J group README and explicit indispensable files.')
         owned = [path]
         if item.kind == 'J':
             prefix = posixpath.dirname(path) + '/'
@@ -656,8 +657,11 @@ def acquire(repo, source_root, selections, *, revision, instruction, source_repo
                                               correspondence=source.author_mapping)
             r.require(key not in choices or choices[key] == choice, 'Conflicting bibliography choices for '+key)
             choices[key] = choice
-        bibliography_file = repo.root/bib.BIB
-        bibliography_before = bibliography_file.read_bytes() if choices and bibliography_file.exists() else None
+        bibliography_before = None
+        if choices:
+            bibliography_file = r.safe_path(repo.root, bib.BIB)
+            if bibliography_file.exists():
+                bibliography_before = bibliography_file.read_bytes()
         entries = bib.parse(bibliography_before.decode('utf-8-sig')) if bibliography_before is not None else {}
         for original, choice in choices.items():
             r.require(not set(choice)-{'existing_key','new_work','chosen_key','field_updates'}, 'Invalid explicit bibliography choice.')
@@ -666,8 +670,11 @@ def acquire(repo, source_root, selections, *, revision, instruction, source_repo
                 existing_key=choice.get('existing_key'),new_work=choice.get('new_work',False),chosen_key=choice.get('chosen_key'),
                 field_updates=choice.get('field_updates'),snapshot=(current.kind,current.fields.copy()) if current else None)
         bibliography_pending = {}
-        if choices and (bibliography_before is None or bib.parse(bibliography_before.decode('utf-8-sig')) != entries):
-            bibliography_pending[bib.BIB] = bib.render(entries).encode('utf8')
+        if chosen_works:
+            selected_entries = {key: entries[key] for key in chosen_works.values()}
+            bibliography_after = bib.edit_selected(bibliography_before, selected_entries)
+            if bibliography_after != bibliography_before:
+                bibliography_pending[bib.BIB] = bibliography_after
         # Prepare the explicit selections before taking the shared lock;
         # only rechecking and atomic installation hold it.
         import copy

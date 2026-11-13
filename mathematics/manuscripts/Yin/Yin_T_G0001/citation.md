@@ -18,7 +18,7 @@ The report's recorded Task pause belongs to its historical scope; this map adds 
 
 ## `ABR01`
 
-Source evidence: the [selected Poisson attribution](../../audits/literature/ABR01/readme.md#selected-poisson-attribution) records the inspection of printed pp.12--15 / PDF pp.20--23 of the retained author edition, including formulas 1.15--1.16, Theorem 1.17, Proposition 1.20 and Theorem 1.21.
+Source evidence: the [selected Poisson attribution](../../../audits/literature/ABR01/readme.md#selected-poisson-attribution) records the inspection of printed pp.12--15 / PDF pp.20--23 of the retained author edition, including formulas 1.15--1.16, Theorem 1.17, Proposition 1.20 and Theorem 1.21.
 It records that on the unit disk the Poisson kernel is positive with total mass one and reproduces continuous harmonic functions from boundary data, and that this is a classical-method attribution rather than a whole-book audit.
 The polynomial square majorant, exterior-root reversal, signed autocorrelation and arithmetic bundle application remain proved in the report.
 
@@ -28,9 +28,9 @@ The polynomial square majorant, exterior-root reversal, signed autocorrelation a
 
 ## `BV04`
 
-Source evidence: the [bounded weak-duality attribution](../../audits/literature/BV04/readme.md#selected-weak-duality-attribution) records Section 5.1.3, printed p.216 / PDF p.230, equation (5.2) with its complete displayed proof, together with the Lagrangian definitions from Sections 5.1.1--5.1.2.
+Source evidence: the [bounded weak-duality attribution](../../../audits/literature/BV04/readme.md#selected-weak-duality-attribution) records Section 5.1.3, printed p.216 / PDF p.230, equation (5.2) with its complete displayed proof, together with the Lagrangian definitions from Sections 5.1.1--5.1.2.
 It records that each feasible dual lower bound lies below every feasible primal objective for nonnegative inequality multipliers and unrestricted equality multipliers, that convexity is not required, and that no strong duality, attainment or solver claim is adopted.
-The [BV04 scope note](../../audits/literature/BV04/readme.md#scope-and-actual-inspection) records Appendix A.5.5, printed pp.650--651 / PDF pp.664--665, deriving Schur elimination of a variable from a quadratic form, with the sign fixed by the negative Hessian in that variable, and states that positivity and global conclusions need separate argument.
+The [BV04 scope note](../../../audits/literature/BV04/Yin_U002.md#scope-and-actual-inspection) records Appendix A.5.5, printed pp.650--651 / PDF pp.664--665, deriving Schur elimination of a variable from a quadratic form, with the sign fixed by the negative Hessian in that variable, and states that positivity and global conclusions need separate argument.
 The report proves its block-determinant calculation and finite weak-duality inequality locally.
 
 | TeX use | Citation locator | Application and boundary |
@@ -40,10 +40,10 @@ The report proves its block-determinant calculation and finite weak-duality ineq
 
 ## `BV20`
 
-Source evidence: [BV20-U001](../../audits/literature/BV20/Yin_U001.md#bv20-u001) records the inspected arXiv:1510.04043v4 (23 April 2021) Theorem 5, pp.3--4: there is an absolute \(c_0>0\) with \(c_0\min\{1,\log_2M_\lambda\}\le h_\lambda\le\min\{1,\log_2M_\lambda\}\) for every algebraic \(\lambda\), with the fair-sign entropy rate \(h_\lambda\), and records Remark 6's algebraic-unit hypothesis and digit-law scope.
+Source evidence: [BV20-U001](../../../audits/literature/BV20/Yin_U001.md#bv20-u001) records the inspected arXiv:1510.04043v4 (23 April 2021) Theorem 5, pp.3--4: there is an absolute \(c_0>0\) with \(c_0\min\{1,\log_2M_\lambda\}\le h_\lambda\le\min\{1,\log_2M_\lambda\}\) for every algebraic \(\lambda\), with the fair-sign entropy rate \(h_\lambda\), and records Remark 6's algebraic-unit hypothesis and digit-law scope.
 The published article is *J. Anal. Math.* 140 (2020), 443--481; the unit concerns v4, not automatically the journal bytes.
-[BV20-U003](../../audits/literature/BV20/Yin_U003.md#bv20-u003) records Conjecture 3 and Theorem 4, pp.2--3, and the complete Section 4, pp.23--30, for the qualitative growth-gap/Lehmer reduction, retaining the uniform-Tits and Jordan structural inputs.
-The definition registration for finite-walk entropy and support rates is [BV20-U001 entropy conventions](../../definitions/index.md#group-growth-and-bernoulli-entropy).
+[BV20-U003](../../../audits/literature/BV20/Yin_U003.md#bv20-u003) records Conjecture 3 and Theorem 4, pp.2--3, and the complete Section 4, pp.23--30, for the qualitative growth-gap/Lehmer reduction, retaining the uniform-Tits and Jordan structural inputs.
+The definition registration for finite-walk entropy and support rates is [BV20-U001 entropy conventions](../../../definitions/index.md#group-growth-and-bernoulli-entropy).
 
 | TeX use | Citation locator | Application and boundary |
 | --- | --- | --- |
@@ -52,10 +52,10 @@ The definition registration for finite-walk entropy and support rates is [BV20-U
 
 ## `DGB16`
 
-Source evidence: [DGB16-U001](../../audits/literature/DGB16/Yin_U001.md#dgb16-u001) records the finite-subset entropy conventions and Sections 2--4: nonempty finite subsets, natural logarithms, directed-union Proposition 2.8(c), and the located corrections to literal statements.
-[DGB16-U002](../../audits/literature/DGB16/Yin_U002.md#dgb16-u002) records Theorem 1.1 and Section 5's Addition Theorem, including the directed-continuity and direct-product addition interfaces used here, over the retained external inputs.
-[DGB16-U004](../../audits/literature/DGB16/Yin_U004.md#dgb16-u004) records Theorems 1.5 and 1.7, Definition 1.6 and the Mahler normalization, together with the located source corrections that must accompany reuse.
-The corresponding definitions are registered at [algebraic entropy and flows](../../definitions/index.md#algebraic-entropy-and-flows).
+Source evidence: [DGB16-U001](../../../audits/literature/DGB16/Yin_U001.md#dgb16-u001) records the finite-subset entropy conventions and Sections 2--4: nonempty finite subsets, natural logarithms, directed-union Proposition 2.8(c), and the located corrections to literal statements.
+[DGB16-U002](../../../audits/literature/DGB16/Yin_U002.md#dgb16-u002) records Theorem 1.1 and Section 5's Addition Theorem, including the directed-continuity and direct-product addition interfaces used here, over the retained external inputs.
+[DGB16-U004](../../../audits/literature/DGB16/Yin_U004.md#dgb16-u004) records Theorems 1.5 and 1.7, Definition 1.6 and the Mahler normalization, together with the located source corrections that must accompany reuse.
+The corresponding definitions are registered at [algebraic entropy and flows](../../../definitions/index.md#algebraic-entropy-and-flows).
 
 | TeX use | Citation locator | Application and boundary |
 | --- | --- | --- |
@@ -63,14 +63,14 @@ The corresponding definitions are registered at [algebraic entropy and flows](..
 | `progress/sections/entropy.tex`, Proposition `fo:entropy-bridge` statement | `\cite[Theorem~1.5]{DGB16}` | Supports the equality of the positive entropy infimum over all abelian groups and endomorphisms with the Mahler-gap constant \(\mathfrak L\) (equation `fo:gap`). The source normalization \(m(f)=\log|a_n|+\sum_{|\alpha_i|>1}\log|\alpha_i|\) matches the report's total Mahler measure, and the infimum statement rather than value-set equality is the one used. Limits: the source proof's external spectral input is retained as reported; the theorem is used only with the corrections recorded nearby in DGB16-U004. |
 | `progress/sections/entropy.tex`, Proposition `fo:attainment-implication` statement | `\cite[Theorem~1.7]{DGB16}` | Supports: if \(\mathfrak L>0\), every discrete abelian flow of finite algebraic entropy admits a nonempty finite \(F\subset G\) with \(H(\phi,F)=h_{\rm alg}(\phi)\). The setting matches the same endomorphism and the report's finite subset, not attainment by a different flow with the same value. Limits: the equivalence is not a solution to Lehmer's problem; zero entropy has the trivial \(F=\{0\}\) witness; the local source corrections recorded in DGB16-U004 are retained. |
 | `progress/sections/entropy.tex`, Section 2, paragraph after Proposition `fo:attainment-implication` (direct-sum construction) | `\citet{DGB16}` | Attributes the addition and directed-continuity properties used to sum the entropies of the constructed irreducible companion flows and to see that every finite set lies in finitely many summands with a positive tail left over. The setting matches direct sums of abelian flows with extended nonnegative addition and no subtraction of infinities; the directed-union and direct-product addition interfaces are recorded in DGB16-U001 and DGB16-U002. Limits: the companion-flow construction and the direct-sum conclusion are the report's local deduction. |
-| `progress/sections/entropy.tex`, Section 2.1.3, "A conditional critical regularity theorem", compact-dual setup before Definition of \(T\) | `\citet{DGB16}` | Points to the compact/Pontryagin-dual picture used for the character torus: the report identifies \(\widehat{\mathcal O}=\operatorname{Hom}(\mathcal O,\R/\Z)\) with the \(d\)-torus and uses normalized Haar/Lebesgue measure. The report's own project convention is stated at [L G0084](../../ledger/Yin_L_G0084_v1.md#faithful-high-moment-arithmetic-interface). Limits: convention and notation only; no theorem-level support is drawn from this mention. Unresolved point: the registered DGB16 units record the finite-subset entropy and flow conventions but no specific DGB16 Pontryagin-dual passage, so this remains a convention pointer without an audited source locator. |
+| `progress/sections/entropy.tex`, Section 2.1.3, "A conditional critical regularity theorem", compact-dual setup before Definition of \(T\) | `\citet{DGB16}` | Points to the compact/Pontryagin-dual picture used for the character torus: the report identifies \(\widehat{\mathcal O}=\operatorname{Hom}(\mathcal O,\R/\Z)\) with the \(d\)-torus and uses normalized Haar/Lebesgue measure. The report's own project convention is stated at [L G0084](../../../ledger/Yin_L_G0084_v1.md#faithful-high-moment-arithmetic-interface). Limits: convention and notation only; no theorem-level support is drawn from this mention. Unresolved point: the registered DGB16 units record the finite-subset entropy and flow conventions but no specific DGB16 Pontryagin-dual passage, so this remains a convention pointer without an audited source locator. |
 
 ## `Dim19`
 
 Source evidence: the retained arXiv:1912.12545v1 artifact has 27 PDF pages, with printed and PDF pages coinciding.
 Its rendered identity and Theorem 1 on p.1 were read: \(\operatorname{house}(\alpha)\ge2^{1/(4d)}\) for noncyclotomic monic irreducible polynomials of degree \(d>1\).
 It records that the original proof and the later accepted 2026 text were not audited or compared, and that the key follows the first public-release year.
-[Smy08-U001](../../audits/literature/Smy08/Yin_U001.md#smy08-house) records the house-scale interface and states explicitly that this resolves only the house-scale problem, not Lehmer's gap.
+[Smy08-U001](../../../audits/literature/Smy08/Yin_U001.md#smy08-house) records the house-scale interface and states explicitly that this resolves only the house-scale problem, not Lehmer's gap.
 
 | TeX use | Citation locator | Application and boundary |
 | --- | --- | --- |
@@ -78,9 +78,9 @@ It records that the original proof and the later accepted 2026 text were not aud
 
 ## `GBV15`
 
-Source evidence: [GBV15-U001](../../audits/literature/GBV15/Yin_U001.md#gbv15-u001) records the inspected arXiv:1111.1287v3 (19 February 2013) Theorem 4.17, pp.23--24, and the introductory formula: for the monic rational characteristic polynomial \(\chi_\phi\), with \(s\) the least positive denominator-clearing integer, \(p_\phi=s\chi_\phi\) is primitive integral and \(h(\phi)=m(p_\phi)=\log s+\sum_{|\lambda_i|>1}\log|\lambda_i|\), with no invertibility or nonzero-determinant assumption.
+Source evidence: [GBV15-U001](../../../audits/literature/GBV15/Yin_U001.md#gbv15-u001) records the inspected arXiv:1111.1287v3 (19 February 2013) Theorem 4.17, pp.23--24, and the introductory formula: for the monic rational characteristic polynomial \(\chi_\phi\), with \(s\) the least positive denominator-clearing integer, \(p_\phi=s\chi_\phi\) is primitive integral and \(h(\phi)=m(p_\phi)=\log s+\sum_{|\lambda_i|>1}\log|\lambda_i|\), with no invertibility or nonzero-determinant assumption.
 It also records the finite-set realization interface and that the original p-adic proof was not audited.
-The definition registration for the logarithmic Mahler measure and its normalization is [DGB16-U004](../../audits/literature/DGB16/Yin_U004.md#dgb16-mahler-measure).
+The definition registration for the logarithmic Mahler measure and its normalization is [DGB16-U004](../../../audits/literature/DGB16/Yin_U004.md#dgb16-mahler-measure).
 
 | TeX use | Citation locator | Application and boundary |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ The definition registration for the logarithmic Mahler measure and its normaliza
 
 ## `GK78`
 
-Source evidence: [GK78-U001](../../audits/literature/GK78/Yin_U001.md#gk78-u001) records the selected inspection of Section 9, printed pp.74--76 / PDF pp.27--28: for Hilbert-space vectors of norm at least \(a>0\), a set of diameter strictly less than \(a\) contains at most \(\binom{N}{\lfloor N/2\rfloor}\) indexed subset sums, with no dimension dependence.
+Source evidence: [GK78-U001](../../../audits/literature/GK78/Yin_U001.md#gk78-u001) records the selected inspection of Section 9, printed pp.74--76 / PDF pp.27--28: for Hilbert-space vectors of norm at least \(a>0\), a set of diameter strictly less than \(a\) contains at most \(\binom{N}{\lfloor N/2\rfloor}\) indexed subset sums, with no dimension dependence.
 It records the strict-diameter convention and that the inspected artifact is the published 1978 chapter coauthored by the theorem's author, not the inaccessible 1970 article.
 
 | TeX use | Citation locator | Application and boundary |
@@ -97,8 +97,8 @@ It records the strict-diameter convention and that the inspected artifact is the
 
 ## `Li26`
 
-Source evidence: [Li26-U001](../../audits/literature/Li26/Yin_U001.md#li26-positive-order-comparison) records the inspected arXiv:2609.01529v2 definitions and equation (1.1) on p.1: \(H_q(S)\) for \(q>0\), \(q\ne1\), with natural logarithms, \(H_1\) the Shannon entropy, \(H_\infty\) the min-entropy and \(H_0=\log|\operatorname{supp}S|\); it also records the checked Theorem 1.4 and that the endpoint Conjecture 1.1 is not adopted.
-The definition registration for the Rényi conventions is [Li26-U001](../../definitions/index.md#group-growth-and-bernoulli-entropy).
+Source evidence: [Li26-U001](../../../audits/literature/Li26/Yin_U001.md#li26-positive-order-comparison) records the inspected arXiv:2609.01529v2 definitions and equation (1.1) on p.1: \(H_q(S)\) for \(q>0\), \(q\ne1\), with natural logarithms, \(H_1\) the Shannon entropy, \(H_\infty\) the min-entropy and \(H_0=\log|\operatorname{supp}S|\); it also records the checked Theorem 1.4 and that the endpoint Conjecture 1.1 is not adopted.
+The definition registration for the Rényi conventions is [Li26-U001](../../../definitions/index.md#group-growth-and-bernoulli-entropy).
 
 | TeX use | Citation locator | Application and boundary |
 | --- | --- | --- |
@@ -106,10 +106,10 @@ The definition registration for the Rényi conventions is [Li26-U001](../../defi
 
 ## `Luc22`
 
-Source evidence: [Luc22-U001](../../audits/literature/Luc22/Yin_U001.md#luc22-von-neumann-dimension) records the inspected arXiv:1901.00827v2 (16 September 2020) Sections 0--5 and 9 and Appendix 14: the canonical group trace \(\tau_G(T)=\langle T(e),e\rangle\), the matrix trace \(\operatorname{Tr}_r\otimes\tau_G\) as a sum not divided by \(r\), the weak-isomorphism convention "injective with dense image", and the kernel-removed Fuglede--Kadison determinant Definition 14.14 integrating \(\log\lambda\) over \((0,\infty)\) with the zero atom discarded.
+Source evidence: [Luc22-U001](../../../audits/literature/Luc22/Yin_U001.md#luc22-von-neumann-dimension) records the inspected arXiv:1901.00827v2 (16 September 2020) Sections 0--5 and 9 and Appendix 14: the canonical group trace \(\tau_G(T)=\langle T(e),e\rangle\), the matrix trace \(\operatorname{Tr}_r\otimes\tau_G\) as a sum not divided by \(r\), the weak-isomorphism convention "injective with dense image", and the kernel-removed Fuglede--Kadison determinant Definition 14.14 integrating \(\log\lambda\) over \((0,\infty)\) with the zero atom discarded.
 It records the Fourier identification \(\mathcal N(\Z^d)=L^\infty(\mathbb T^d)\) with Haar probability and that the kernel-removed determinant of a nonzero Laurent polynomial equals its ordinary Mahler measure.
 The inspected object is the v2 preprint, not a presumed identical journal rendering.
-The definitions are registered at [group trace, von Neumann dimension and weak isomorphism](../../definitions/index.md#group-growth-and-bernoulli-entropy).
+The definitions are registered at [group trace, von Neumann dimension and weak isomorphism](../../../definitions/index.md#group-growth-and-bernoulli-entropy).
 
 | TeX use | Citation locator | Application and boundary |
 | --- | --- | --- |
@@ -118,7 +118,7 @@ The definitions are registered at [group trace, von Neumann dimension and weak i
 
 ## `Mer13`
 
-Source evidence: [Mer13-U001](../../audits/literature/Mer13/Yin_U001.md#mer13-u001) records the published Numdam PDF and Proposition 4.23 with proof, printed pp.458--462 / PDF pp.37--41: for the real expanding root \(\beta\) of \(t^4-2t^3+t^2-2t+1\), the monoid generated by \(x\mapsto\beta x\) and \(x\mapsto\beta x+1\) is not strongly automatic.
+Source evidence: [Mer13-U001](../../../audits/literature/Mer13/Yin_U001.md#mer13-u001) records the published Numdam PDF and Proposition 4.23 with proof, printed pp.458--462 / PDF pp.37--41: for the real expanding root \(\beta\) of \(t^4-2t^3+t^2-2t+1\), the monoid generated by \(x\mapsto\beta x\) and \(x\mapsto\beta x+1\) is not strongly automatic.
 The result is accepted for the original alphabet \(\{0,1\}\) at that one beta; the interval table, asserted complete 76-state enumeration and computer verification were not rerun.
 
 | TeX use | Citation locator | Application and boundary |
@@ -127,7 +127,7 @@ The result is accepted for the original alphabet \(\{0,1\}\) at that one beta; t
 
 ## `Pri11`
 
-Source evidence: [Pri11-U001](../../audits/literature/Pri11/Yin_U001.md#pri11-u001) records the accepted Theorem 3.1 on p.7 and equation (3.2) on p.2 of the retained arXiv:1307.5734v1 (22 July 2013): for integer \(Q\) with simple zeros of degree \(N\ge55\) and a real \(A\)-Lipschitz function supported in radius \(R\),
+Source evidence: [Pri11-U001](../../../audits/literature/Pri11/Yin_U001.md#pri11-u001) records the accepted Theorem 3.1 on p.7 and equation (3.2) on p.2 of the retained arXiv:1307.5734v1 (22 July 2013): for integer \(Q\) with simple zeros of degree \(N\ge55\) and a real \(A\)-Lipschitz function supported in radius \(R\),
 \[
 \left|\frac1N\sum_j\varphi(\beta_j)-\int\varphi\,d\mu\right|\le A(2R+1)\sqrt{\frac{\log(\max\{N,M(Q)\})}{N}},
 \]
@@ -140,11 +140,11 @@ The unit records that the acceptance is at statement/applicability scope, that n
 
 ## `Smy08`
 
-Source evidence: [Smy08-U001](../../audits/literature/Smy08/Yin_U001.md#smy08-height-normalization) records the inspected arXiv:math/0701397v2 (28 January 2008) Sections 1--4: the Mahler measure integral and product formula with natural logarithms, the primitive integer minimal polynomial with positive leading coefficient, the absolute logarithmic height \(h_{\rm abs}=m(P_\alpha)/d\), and the corrected Kronecker characterization on p.322.
-[Smy08-U002](../../audits/literature/Smy08/Yin_U002.md#smy08-reciprocal-number) records Section 5.1, equation (15): Smyth's theorem \(M(\alpha)\ge\theta_0\) for nonzero nonreciprocal algebraic integers, with \(\theta_0>1\) and \(\theta_0^3-\theta_0-1=0\), alongside the reciprocity conventions.
-[Smy08-U003](../../audits/literature/Smy08/Yin_U003.md#smy08-salem-number) records the Section 8 Salem-number definition and the finite-search domain.
+Source evidence: [Smy08-U001](../../../audits/literature/Smy08/Yin_U001.md#smy08-height-normalization) records the inspected arXiv:math/0701397v2 (28 January 2008) Sections 1--4: the Mahler measure integral and product formula with natural logarithms, the primitive integer minimal polynomial with positive leading coefficient, the absolute logarithmic height \(h_{\rm abs}=m(P_\alpha)/d\), and the corrected Kronecker characterization on p.322.
+[Smy08-U002](../../../audits/literature/Smy08/Yin_U002.md#smy08-reciprocal-number) records Section 5.1, equation (15): Smyth's theorem \(M(\alpha)\ge\theta_0\) for nonzero nonreciprocal algebraic integers, with \(\theta_0>1\) and \(\theta_0^3-\theta_0-1=0\), alongside the reciprocity conventions.
+[Smy08-U003](../../../audits/literature/Smy08/Yin_U003.md#smy08-salem-number) records the Section 8 Salem-number definition and the finite-search domain.
 The inspected object is the author preprint, not an independently compared copy of the published chapter.
-The definitions are registered at [Mahler measure, arithmetic heights and the house](../../definitions/index.md#mahler-heights-and-house).
+The definitions are registered at [Mahler measure, arithmetic heights and the house](../../../definitions/index.md#mahler-heights-and-house).
 
 | TeX use | Citation locator | Application and boundary |
 | --- | --- | --- |

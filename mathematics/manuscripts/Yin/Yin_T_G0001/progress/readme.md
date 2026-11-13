@@ -2,8 +2,8 @@
 
 Entry: [main.tex](main.tex).
 The generated local output is `main.pdf`, beside the source.
-This report, dated 11 October 2026, replaces the former account through L124 and incorporates completed mathematical work through [L_G355](../../../ledger/Yin_L_G0355_v1.md#unit-cap-fixed-scope).
-The [recorded pause](../../../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-d221-closeout) belongs to that report's historical scope; the unrestricted Mahler-gap question remains unresolved.
+This report, dated 11 October 2026, replaces the former account through L124 and incorporates completed mathematical work through [L_G355](../../../../ledger/Yin_L_G0355_v1.md#unit-cap-fixed-scope).
+The [recorded pause](../../../../tasks/Yin_T_G0001_v1.md#decision-human-pause-after-d221-closeout) belongs to that report's historical scope; the unrestricted Mahler-gap question remains unresolved.
 
 The current account begins with overall progress, then has one main section for each of the four parent strategies: algebraic entropy, linear-group growth, group determinants, and arithmetic.
 Its four subsidiary-strategy subsections follow the actual strategy hierarchy.
@@ -20,7 +20,7 @@ The compiled report is self-contained in notation and explanations, with no inte
 It gives full proofs of the principal elementary arithmetic interfaces and summarizes the longer adopted results at their exact scope; it is not presented as a replacement for every underlying complete proof.
 The prose is newly composed, with no substantial external verbatim reuse.
 
-The primary style model remains [MSY23](../../../audits/literature/MSY23/readme.md#presentation-observations), with the applicable report choices stated in this section.
+The primary style model remains [MSY23](../../../../audits/literature/MSY23/readme.md#presentation-observations), with the applicable report choices stated in this section.
 Yin20 and ACSY24 retain their additional-model scopes, and Hun74 retains its algebra-terminology scope.
 No other manuscript's overrides are transferred.
 All logarithms are natural; Mahler measure is total, and the group determinant uses an unnormalized matrix trace.
@@ -67,6 +67,10 @@ To verify the finite comparison, run `python supplement/verify.py`; it reads the
 Its mathematical and execution scope is recorded in the [attachment README](supplement/readme.md).
 
 ## Local build verification
+
+On 13 November 2026, after relocation to the writer and Task-family layout, the report compiled in this directory with `latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex`, using TeX Live 2026 pdfTeX 1.40.29, BibTeX and latexmk 4.88.
+The result is a 29-page A4 `main.pdf`, and the final TeX log contains no unresolved references or citations, missing characters, warnings or overfull/underfull boxes.
+The command `python -B supplement/verify.py` also passed from the relocated directory, checking 304 source columns, five exact finite-family optima, two strict improvements and the expected rejection of the sixth dual certificate.
 
 On 4 November 2026, the current six TeX inputs and bibliography compiled in this directory with `latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex`, using MiKTeX pdfTeX 1.40.27, BibTeX and latexmk 4.88.
 The result is a 29-page A4 `main.pdf`, including the explicit long-window certificate definition and ceiling argument in the growth section.
