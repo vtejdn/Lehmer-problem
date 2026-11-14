@@ -1,6 +1,6 @@
 # User Manual
 
-[Instruction examples](user-instructions/user-instructions.md) · [Example disclosure of AI assistance](ai-disclosure-example.md) · [Example page of publication](publication-example.md) · [Repository Examples](https://github.com/vtejdn/acme/discussions/1)
+[Instruction examples](user-instructions/user-instructions.md) · [Example disclosure of AI assistance](ai-disclosure-example.md) · [Example page of publication](publication.md) · [Repository Examples](https://github.com/vtejdn/acme/discussions/1)
 
 ## ACME: Autonomous and Collaborative Mathematical Exploration
 

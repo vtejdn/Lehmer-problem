@@ -1,6 +1,6 @@
 # Manuel d’utilisation
 
-[Exemples de consignes](<user-instructions/Exemples de consignes.md>) · [Exemple de déclaration d’utilisation de l’IA](ai-disclosure-example.md) · [Exemple de page de publication](publication-example.md) · [Exemples de dépôts](https://github.com/vtejdn/acme/discussions/1)
+[Exemples de consignes](<user-instructions/Exemples de consignes.md>) · [Exemple de déclaration d’utilisation de l’IA](ai-disclosure-example.md) · [Exemple de page de publication](publication.md) · [Exemples de dépôts](https://github.com/vtejdn/acme/discussions/1)
 
 ## ACME : Autonomous and Collaborative Mathematical Exploration
 

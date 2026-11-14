@@ -1,6 +1,6 @@
 # Manual de usuario
 
-[Ejemplos de instrucciones](<user-instructions/Ejemplos de instrucciones.md>) · [Ejemplo de declaración de asistencia de IA](ai-disclosure-example.md) · [Ejemplo de página de publicación](publication-example.md) · [Ejemplos de repositorios](https://github.com/vtejdn/acme/discussions/1)
+[Ejemplos de instrucciones](<user-instructions/Ejemplos de instrucciones.md>) · [Ejemplo de declaración de asistencia de IA](ai-disclosure-example.md) · [Ejemplo de página de publicación](publication.md) · [Ejemplos de repositorios](https://github.com/vtejdn/acme/discussions/1)
 
 ## ACME: Autonomous and Collaborative Mathematical Exploration
 
