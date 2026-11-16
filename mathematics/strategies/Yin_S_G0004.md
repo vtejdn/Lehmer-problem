@@ -36,7 +36,12 @@ The [finite coefficient test](../ledger/Yin_L_G0457_v7.md#finite-test) also boun
 The [fixed-parent classification](../ledger/Yin_L_G0464_v21.md#sharp-degree) gives the least degree admitting the signs at arbitrarily large \(p\), also attained with rational coefficients and the strict endpoint.
 It is three for \(s=3\) and \(s+1\) otherwise, with an [explicit rational cubic](../ledger/Yin_L_G0464_v20.md#sharp-cubic) already at \(s=2\).
 At \(s=2,\ p=21\), the [integer cubic and its complete measure](../computations/programs/Yin_J_G0138/readme.md#p21-cubic-witness) give an admissible input, and [three-node interpolation](../ledger/Yin_L_G0457_v8.md#three-node-test) proves it has the longest possible integer prefix at that conductor.
-For the integer problem at larger \(p\), compare the minimum feasible perturbation degree against the remaining exact prefix length \(n-\deg H\) and the complete Mahler measure.
+The [resultant and integer moment bound](../claims/Yin_C_G0892_v2.md#decision-general-parent-prefix-reviewed) excludes unbounded matching length for every fixed parent degree under any nonzero integer correction, and gives a bound linear in \(s\) on \(F_s\).
+The [grid moment bounds](../claims/Yin_C_G0891_v2.md#decision-sublinear-prefix-reviewed) further require \(L=O(p^{2/3})\) uniformly on \(F_s\) with the strict endpoint, and \(L=O((sp)^{2/5})\) for even \(s\).
+With only the two prescribed Taylor coefficients \(H(0)=0,\ |H'(0)|=1\), a [rational construction](../ledger/Yin_L_G0464_v22.md#strict-realization) at \(s=2\) attains order \(p^{2/5}\).
+The integral search now requires growing parent degree together with growing feasible matching length.
+The [fixed-profile equivalence](../ledger/Yin_L_G0464_v23.md#moving-parent-equivalence) permits working directly on the integral \(x=0\) coefficient constraints instead of searching for an additional exceptional-parent representation.
+For a sequence in this strict chamber with \(1<M(P)\to1\), the [profile-specific resultant bound](../ledger/Yin_L_G0464_v23.md#norm-ceiling) at \(x=0\) is \(\limsup|\operatorname{Res}(B_n,Q)|^{1/n}\le2e^{-1/704}\).
 
 The [adopted D4-block cover](../claims/Yin_C_G0886_v4.md#decision-d4-block-canonical-cover) covers all positive integral block symmetries and both transvection groups at arbitrary block count and word length.
 It gives the unpowered Lehmer gap when the final ordered block permutation is trivial, and otherwise retains the factor \(1/d\) for its order \(d\).

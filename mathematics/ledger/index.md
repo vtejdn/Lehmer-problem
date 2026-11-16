@@ -5,6 +5,10 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0464_v23](Yin_L_G0464_v23.md) | Five profile-specific resultant ceilings | An integral moment comparison with the endpoint atom and the equivalence of the fixed zero profile with growing exceptional parents. |
+| [Yin_L_G0457_v10](Yin_L_G0457_v10.md) | Explicit exceptional-parent prefix bound | A conductor-independent linear bound without an endpoint hypothesis, from three geometric sums. |
+| [Yin_L_G0457_v9](Yin_L_G0457_v9.md) | Forced cyclotomic factors | Torsion traces above a prefix threshold, including conductors at which a trace is itself a grid node. |
+| [Yin_L_G0464_v22](Yin_L_G0464_v22.md) | A rational prefix with two prescribed integer coefficients | A matching length of order \(p^{2/5}\) at the fixed exceptional parent with \(s=2\). |
 | [Yin_L_G0457_v8](Yin_L_G0457_v8.md) | Longest integral prefix at conductor 21 for the first exceptional parent | The cubic attains index seven, and exact three-node interpolation excludes every smaller perturbation degree. |
 | [Yin_L_G0457_v7](Yin_L_G0457_v7.md) | Integral and rational perturbations of the exceptional parent | Effective conductor and coefficient bounds for a fixed integral degree, and explicit rational witnesses. |
 | [Yin_L_G0464_v20](Yin_L_G0464_v20.md) | Least real degree across the exceptional parents | Multiplicity and moving-parent obstructions, and a rational cubic at arbitrarily large conductors. |

@@ -44,7 +44,11 @@ For nonconstant perturbations of the exceptional parent, the [local phase estima
 The [explicit rational cubic](../ledger/Yin_L_G0464_v20.md#sharp-cubic) passes the signs and endpoint at arbitrarily large conductors, so an integer construction needs additional arithmetic input.
 At \(s=2,\ p=21\), an [integer cubic](../computations/programs/Yin_J_G0138/readme.md#p21-cubic-witness) realizes the signs and endpoint, with complete measure between \(1.60623898\) and \(1.60623902\).
 Its [optimal matching prefix](../ledger/Yin_L_G0457_v8.md#optimal-prefix) ends at coefficient index seven.
-For larger \(p\), investigate whether the best integral prefix \(n-\deg H\) can grow without bound, or change the parent so that its middle-arc phase avoids the local obstruction.
+The [integer prefix theorem](../claims/Yin_C_G0892_v2.md#decision-general-parent-prefix-reviewed) now bounds \(n-\deg H\) solely in terms of the degree of any cyclotomic parent in this central construction, allowing arbitrary nonzero integer corrections and signed neutral residues.
+An unbounded prefix therefore requires a growing parent degree.
+For the exceptional parents \(F_s\) the [explicit bound](../ledger/Yin_L_G0457_v10.md#explicit-bound) is linear in \(s\), so increasing \(p\) alone cannot produce a sequence from the conductor-21 example.
+With growing \(s\), [matching the fixed \(x=0\) profile](../ledger/Yin_L_G0464_v23.md#moving-parent-equivalence) is equivalent to realizing long exceptional-parent prefixes, with the same integer polynomials and all the same signs.
+The outstanding construction question on that route is whether the prescribed initial coefficients of \((1+z^2)^2/((1-z)(1-z^2))\) admit such integral completions at unbounded lengths.
 
 The independent strategic-discovery comparison found no developed replacement mechanism in its inspected scope.
 In particular, the proposed relative-field factor shortcut is already addressed by the [stronger-source boundary](../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary); its missing factor-degree theorem is not a new route simply because the coefficient field is changed.

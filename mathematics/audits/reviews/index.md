@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R1107 v55](Yin_R_G1107_v55.md#profile-ceiling-review) checks the five profile-specific resultant bounds, with a [separate independent finding](Yin_R_G1107_v55.md#profile-equivalence-review) on fixed and moving references.
+- [R1107 v54](Yin_R_G1107_v54.md#general-parent-prefix-review) checks the conductor-independent bound for general cyclotomic parents with signed neutral residues.
+- [R1107 v53](Yin_R_G1107_v53.md#rational-prefix-review) checks the rational construction with two prescribed integer coefficients and the resulting sharp exponent for those values.
+- [R1107 v52](Yin_R_G1107_v52.md#explicit-prefix-review) checks the explicit three-factor linear prefix bound.
+- [R1107 v51](Yin_R_G1107_v51.md#prefix-power-review) checks the conductor power bounds and the [forced torsion factors](Yin_R_G1107_v51.md#torsion-prefix-review).
+- [R1107 v50](Yin_R_G1107_v50.md#uniform-prefix-review) checks the uniform exceptional-family prefix bound.
 - [R1107 v49](Yin_R_G1107_v49.md#p21-optimal-review) checks the conductor-21 minimum integral perturbation degree and maximal matching prefix by exact three-node interpolation.
 - [R1107 v48](Yin_R_G1107_v48.md#p21-integer-review) checks the conductor-21 integer cubic, its signs and prefix, and a tighter full measure enclosure using a rational disk.
 - [R1107 v47](Yin_R_G1107_v47.md#fixed-degree-review) checks the exact least real degree at each fixed exceptional parent and its rational attainment with the endpoint.
