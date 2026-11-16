@@ -129,6 +129,13 @@ The [square trace weights](../ledger/Yin_L_G0462_v130.md#square) permit this tes
 For the [smaller inverse branches](../claims/Yin_C_G0345_v37.md#statement), the upper limit of \(j/d\) is at most one third.
 The exterior residue and its double must eventually both lie outside the ring of integers, and a representative with any fixed integer denominator through five must have degree at least of order \(\sqrt{d/\log(2d)}\) when it exists.
 The [gap from partial torsion interlacing](../claims/Yin_C_G0345_v38.md#statement) now directs the degree-minimum search to the nonmonic factors of candidate interlacers.
+On the construction side, [displaced Chebyshev grids](../claims/Yin_C_G0345_v41.md#statement) leave a positive fraction of intervals empty, even if the reciprocal target has several exterior roots.
+Any proposed sparse full Salem interlacer must instead meet the [two-band condition](../claims/Yin_C_G0345_v43.md#statement).
+For the lower polynomial \(2+z\), the [first varying integer coefficient](../claims/Yin_C_G0345_v45.md#departure) rules out the entire family.
+For \(2-z\) the [limit on two curves](../claims/Yin_C_G0345_v47.md#graphs) would force a strictly positive integer trace to tend to zero.
+The [restrictions on the first coefficient block](../ledger/Yin_L_G0462_v141.md#offset) identified how to test a growing separation at the scale of the first odd numerator coefficient.
+The [uniform gap at all large separations](../claims/Yin_C_G0345_v48.md#statement) permits the construction search in this family to return to fixed separations beginning with two.
+At separation two the [two surviving profiles](../ledger/Yin_L_G0462_v143.md#families) both have the plus sign and prescribe different continuous residue densities for testing actual candidate polynomials.
 For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 

@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v48](Yin_R_G0562_v48.md#moving-separation-gap) checks the uniform Salem gap for both signs at all sufficiently large Chebyshev separations.
+- [R562 v47](Yin_R_G0562_v47.md#opposite-adjacent-gap) checks the uniform Salem gap for the opposite adjacent signs through the two limiting curves and the positive integer trace.
+- [R562 v46](Yin_R_G0562_v46.md#opposite-adjacent) checks the fixed prefix and the first changing coefficient block in the opposite-sign family.
+- [R562 v45](Yin_R_G0562_v45.md#adjacent-chebyshev) checks the uniform Salem gap for the full interlacer with adjacent Chebyshev coefficients two and one.
+- [R562 v44](Yin_R_G0562_v44.md#partial-gap-distribution) checks the deficit of occupied intervals for bounded-term partial interlacers of positive degree proportion.
+- [R562 v43](Yin_R_G0562_v43.md#expanding-lower-polynomial) checks the arithmetic of the lower end band and the norm-two specialization.
+- [R562 v42](Yin_R_G0562_v42.md#sparse-interlacer-frequencies) checks frequency concentration for almost full sparse interlacing and its uniform Salem gap consequence.
+- [R562 v41](Yin_R_G0562_v41.md#displaced-grids) checks the fraction of empty gaps in displaced Chebyshev grids.
+- [R562 v40](Yin_R_G0562_v40.md#quotient-norm) checks the Mahler gap under a circle norm bound on the quotient by a partial torsion interlacer.
 - [R562 v39](Yin_R_G0562_v39.md#multiquadratic-subfield) examines trace-one subfields of multiquadratic fields and their conditional inverse-branch and denominator bounds.
 - [R562 v38](Yin_R_G0562_v38.md#torsion-interlacing) examines the gap from partial interlacing by traces of roots of unity and descent at Salem degree minima.
 - [R562 v37](Yin_R_G0562_v37.md#small-trace-branch) checks the one-third upper bound and the intrinsic integrality and field-degree restrictions.
