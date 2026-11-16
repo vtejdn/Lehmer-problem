@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R1114 v103](Yin_R_G1114_v103.md#sparse-weight) checks the minimal circle mean for sparse nonnegative trace weights, its degree-normalized consequence and the square-residue construction.
+- [R562 v32](Yin_R_G0562_v32.md#semicircle-criterion) checks the exact trace residues and prescribed branch-to-degree and semicircle limits in the degree-preserving inverse.
+- [R562 v31](Yin_R_G0562_v31.md#controlled-inverse) checks the controlled delay-one inverse, its positive integer constant, degree window and uniform error.
+- [R562 v30](Yin_R_G0562_v30.md#all-higher-delays) checks the uniform gap at every Salem construction delay at least two.
+- [R1114 v102](Yin_R_G1114_v102.md#delay-two-return) checks both comparison scales and the reciprocal recurrence ruling out both remaining delay-two laws.
 - [R562 v29](Yin_R_G0562_v29.md#centered-limit) checks the constant second limit for every positive-excess delay-two sequence and the signed seed asymptotic.
 - [R1114 v101](Yin_R_G1114_v101.md#moving-period) checks the exclusion of finite atomic limits at moving frequencies and the two laws at the first discrepancy.
 - [R1114 v100](Yin_R_G1114_v100.md#linear-gap) checks the proportional gap after the first nonzero comparison coefficient.

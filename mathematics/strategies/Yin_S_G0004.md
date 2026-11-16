@@ -121,11 +121,11 @@ This distance tends to zero uniformly through each fixed multiple of its index, 
 The [reduced lower degree theorem](../claims/Yin_C_G0345_v25.md#statement) independently forces the largest lower exponent divided by their gcd to grow on every vanishing-excess sequence.
 Search for growing support on a fixed branch or a varying-branch source realizing both necessary conditions.
 At fixed \(j=2\) these qualitative bounds still leave open the existence of one input with \(q\ge77\).
-In the direct Salem construction the [uniform gap at delays at least three](../claims/Yin_C_G0345_v27.md#statement) and the [nonunit gap at delay two](../claims/Yin_C_G0345_v28.md#statement) leave delay one and delay-two units.
-At delay two a candidate with positive measure approaching one must have seed \(\theta=2+(\delta/2+o(1))2^{-n}\), where \(\delta=\pm1\) is the first coefficient discrepancy at index \(n\) and the [centered quotient](../claims/Yin_C_G0345_v29.md#statement) tends to \(-\delta/2\) on that sign.
-The [integer comparison](../ledger/Yin_L_G0462_v122.md#separated) has a gap of length proportional to \(n\) after that departure.
-The [moving-period bound](../ledger/Yin_L_G0462_v123.md#moving) forces every coefficient at a positive index through any fixed multiple of \(n\) to be zero or a signed unit.
-Search for compatibility with the [nonmonic factor and its parity](../ledger/Yin_L_G0462_v117.md#parity) at the next scale and check positive excess for the actual matched output.
+The [uniform positive gap at every delay at least two](../claims/Yin_C_G0345_v30.md#statement) ends the delay-two construction search.
+At delay one the [controlled inverse](../claims/Yin_C_G0345_v31.md#statement) allows \(q/d\) to grow arbitrarily slowly within constant factors, with the exact original Salem polynomial and degree retained.
+The [weighted trace calculation](../ledger/Yin_L_G0462_v129.md#limit) prescribes the scaled exterior mass and fixes the neutral residue limit at twice the semicircle probability per unit degree.
+At zero scaled exterior mass, test the remaining integrality condition for positive-constant seeds with \(j/d\to2\), taking \(j=[z](f/f^*)-q^2+1\).
+The [square trace weights](../ledger/Yin_L_G0462_v130.md#square) permit this test inside the same totally real trace field while retaining the prescribed semicircle limit.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
