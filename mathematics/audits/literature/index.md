@@ -52,6 +52,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [CPSV18](CPSV18/readme.md) | [Yin_U001](CPSV18/Yin_U001.md) |
 | [CR94](CR94/readme.md) | [Yin_U001](CR94/Yin_U001.md) |
 | [CRW08](CRW08/readme.md) | [Yin_U001](CRW08/Yin_U001.md) |
+| [CZ05](CZ05/readme.md) | [Yin_U001](CZ05/Yin_U001.md#s-unit-gcd) on common divisors of independent unit differences |
 | [Can63](Can63/readme.md) | [Yin_U001](Can63/Yin_U001.md#cantor-rationality) |
 | [Con26](Con26/readme.md) | [Yin_U001](Con26/Yin_U001.md), [Yin_U002](Con26/Yin_U002.md), [Yin_U003](Con26/Yin_U003.md) |
 | [Con26b](Con26b/readme.md) | [Yin_U001](Con26b/Yin_U001.md) |
@@ -242,6 +243,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [The26](The26/readme.md) | [Yin_U001](The26/Yin_U001.md) |
 | [The26b](The26b/readme.md) | [Yin_U001](The26b/Yin_U001.md), [Yin_U002](The26b/Yin_U002.md), [Yin_U003](The26b/Yin_U003.md), [Yin_U004](The26b/Yin_U004.md), [Yin_U005](The26b/Yin_U005.md), [Yin_U006](The26b/Yin_U006.md#the26b-u006) |
 | [Var25](Var25/readme.md) | [Yin_U001](Var25/Yin_U001.md) |
+| [Vau77](Vau77/readme.md) | [Yin_U001](Vau77/Yin_U001.md#prime-exponential-sum) on a prime exponential sum |
 | [Vav18](Vav18/readme.md) | Source and edition notes |
 | [VG19](VG19/readme.md) | [Yin_U001](VG19/Yin_U001.md#vg19-u001): bounded proof-claim inspection and independently checked local gaps |
 | [Voi98](Voi98/readme.md) | [Yin_U001](Voi98/Yin_U001.md) |

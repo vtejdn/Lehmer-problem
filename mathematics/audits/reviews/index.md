@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v21](Yin_R_G0562_v21.md#rational-stable-prefix-review) checks a fixed rational prefix in any branch, including the division argument for noncyclotomic factors with roots on the unit circle.
+- [R562 v20](Yin_R_G0562_v20.md#six-term-branch-two-review) checks the uniform excess and bound on the Pisot constant over the entire six-term class on branch two.
+- [R1114 v84](Yin_R_G1114_v84.md#six-term-global-review) checks the Fourier and coefficient arguments for both coalescing and separated offsets in that class.
+- [R1114 v83](Yin_R_G1114_v83.md#prime-order-inertia-review) checks the inert-prime parity at prime orders for a fixed Salem input, including the density on each fixed progression.
+- [R1114 v82](Yin_R_G1114_v82.md#periodic-smith-review) checks the cyclic invariant factors of all periodic point groups of an irreducible toral automorphism.
+- [R1114 v81](Yin_R_G1114_v81.md#signed-norm-gcd-review) checks the common divisors of the signed norms, and [the separate Salem finding](Yin_R_G1114_v81.md#next-prime-salem-review) checks the trivial return at the first prime after the degree.
+- [R1114 v80](Yin_R_G1114_v80.md#common-root-modulus-review) checks recovery of the fixed-base Mahler rate at all prime orders by one common integer modulus.
+- [R1114 v79](Yin_R_G1114_v79.md#prime-residue-degrees-review) checks the prime-order sieve, residue degrees at most two, full local transport and unrestricted criterion.
+- [R1114 v78](Yin_R_G1114_v78.md#dyadic-precision-review) checks the eventual affine valuation at two for each fixed reciprocal base and the two exact slopes.
 - [R562 v19](Yin_R_G0562_v19.md#cubic-prefix-review) checks the uniform branch-two gap at both primitive cubic offset pairs and its arbitrary-branch integer and perturbed prefix forms.
 - [R1114 v77](Yin_R_G1114_v77.md#inert-salem-review) checks the inert primes of Salem units with prescribed residue order part, exclusions and multiplier density.
 - [R1114 v76](Yin_R_G1114_v76.md#reciprocal-dyadic-review) checks the reciprocal trace square, individual residue classes and the [signed norm and its one-circle-pair consequence](Yin_R_G1114_v76.md#signed-dyadic-review).

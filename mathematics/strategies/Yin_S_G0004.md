@@ -82,6 +82,9 @@ On [irreducible substitutions of every base unit](../claims/Yin_C_G0899_v3.md#cr
 For unrestricted original units the same prescribed order can have [primitive resultant exactly one](../ledger/Yin_L_G0462_v82.md#grid) even when every positive power generates the original field.
 On reciprocal bases the [split and inert prime calculation](../ledger/Yin_L_G0462_v83.md#split) and the [signed odd trace norm](../ledger/Yin_L_G0462_v84.md#sign) identify when a prime in the negative dyadic residue class must appear.
 For Salem units of any degree the [multiplier construction](../ledger/Yin_L_G0462_v85.md#archimedean) forces that class for half the multipliers in a suitable progression, with the size of its modulus depending on the input and excluded primes.
+For a fixed base the [dyadic precision theorem](../ledger/Yin_L_G0462_v86.md#valuation) limits lower bounds drawn solely from divisibility of \(W-1\).
+At prime periods the [single common integer root](../claims/Yin_C_G0899_v5.md#criterion) captures the entire logarithmic rate after folding the inverse pairs; the degree-dependent onset matters even at the [first prime after the degree](../ledger/Yin_L_G0462_v90.md#order).
+The [cyclic factors of the periodic point group](../claims/Yin_C_G0391_v2.md#statement) identify the number of equal exponential rates at each exponent from the actual powered orbit.
 Other equivalent tests use [a prescribed degree sieve](../ledger/Yin_L_G0462_v69.md#single), a [smooth order or two nearby composite orders](../ledger/Yin_L_G0462_v75.md#criteria).
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
@@ -102,7 +105,9 @@ The [first positive denominator coefficient](../claims/Yin_C_G0345_v17.md#statem
 For a coefficient at \(u=o(d)\) the [offset-separation test](../ledger/Yin_L_G0462_v72.md#separation) can impose one of just two exact differences.
 The [eleven profiles for \(2\pm w+w^2\)](../ledger/Yin_L_G0462_v74.md#profiles) and [nine for \(2\pm2w+w^2\)](../ledger/Yin_L_G0462_v76.md#profiles) give a [uniform excess at offsets \(d,2d\)](../claims/Yin_C_G0345_v18.md#quadratic) for every second-branch coefficient pair.
 The [three primitive cubics](../ledger/Yin_L_G0462_v77.md#cubic) all have a [uniform excess on both primitive cubic offset pairs](../claims/Yin_C_G0345_v19.md#statement), covering sign rotation and every common scale.
-The construction inquiry now seeks a mechanism for two varying primitive offsets that survives these prefix constraints.
+The [complete six-term theorem](../claims/Yin_C_G0345_v20.md#statement) bounds \(q\) on branch two at all offset ratios and with all admissible coefficients.
+The construction inquiry now seeks a trace lift with at least eight terms on this branch.
+The [rational prefix theorem](../claims/Yin_C_G0345_v21.md#statement) further excludes a fixed fractional prefix without an interior root under its stated norm and length bounds.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.

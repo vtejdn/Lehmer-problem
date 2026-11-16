@@ -44,3 +44,11 @@ No identity with an uninspected alternate edition is asserted.
 The responsible current consumer is [the fixed-efficiency row inquiry](../../../claims/Yin_C_G0112_v1.md#statement).
 All local arithmetic construction, quantifiers, counting, density estimates and claimed conclusions need their own whole review.
 This unit adopts only the stated classical interface, not the new theorem or the unrestricted G0001 objective.
+
+<a id="fixed-progression-pnt"></a>
+## Ordinary prime counts in a fixed progression
+
+The final paragraph of Section 18.4, printed p. 8 of the [2021 lecture](readme.md), explicitly states the prime number theorem for arithmetic progressions.
+With fixed \(m\ge1\) and \(\gcd(a,m)=1\), it gives \(\pi(x;m,a)\sim\pi(x)/\varphi(m)\), where \(\pi(x;m,a)\) counts primes at most \(x\) in the class of \(a\).
+I checked the statement in the MIT lecture PDF and accept it to normalize ordinary prime counts in the [prime-order Salem argument](../../../ledger/Yin_L_G0462_v89.md#prime-angles).
+The lecture refers to Problem Set 9 for this assertion, whose proof I did not inspect.
