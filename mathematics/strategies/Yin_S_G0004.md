@@ -70,6 +70,8 @@ For the [canonical half-degree representation](../ledger/Yin_L_G0462_v35.md#five
 The [two exact endpoint residues](../ledger/Yin_L_G0462_v35.md#factor-test) instead give an original norm bound for low-degree factors in either quotient ring at full middle span.
 The [power-substitution estimate](../ledger/Yin_L_G0462_v42.md#substitution) also permits a different exponent and kernel for each factor.
 Every reciprocal input with at most five terms has a [uniform exact-degree rate](../ledger/Yin_L_G0462_v42.md#five-term-return), and [seven terms suffice](../ledger/Yin_L_G0462_v42.md#seven-term-unit) for the resultant to equal one there.
+For every fixed number of terms, an [adaptive order between \(d\) and \(2d\)](../ledger/Yin_L_G0462_v54.md#linear-window) yields a uniform exponential rate for nontorsion integer inputs of positive measure.
+At [arbitrary support](../ledger/Yin_L_G0462_v54.md#prime-scale) the available prime order is superlinear and its rate can decrease with the input measure.
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
 The [simplex inequalities](../claims/Yin_C_G0345_v4.md#simplex) locate every Pisot preimage at fixed Salem output and constant.
@@ -80,10 +82,10 @@ The [single-delay construction](../ledger/Yin_L_G0462_v41.md#uniform-delay) real
 At \(j=2\) a primitive irreducible factor of leading coefficient two must have growing degree, and the [finite-prefix exclusion](../ledger/Yin_L_G0462_v40.md#statement) removes further profiles at every fixed \(j\).
 The [inverse simplex](../ledger/Yin_L_G0462_v43.md#return) gives an exact test at a proposed numerator and divisor, including a reconstruction of the original integer polynomial.
 The [negative endpoint estimate](../ledger/Yin_L_G0462_v46.md#negative-endpoint), with the [finite-support argument](../ledger/Yin_L_G0462_v48.md#support), cuts the allowed simplex further at large constants.
-For \(C_h=2U_h-U_{h-1}\) in the half-trace variable, agent-S obtained [nine integral profiles](../ledger/Yin_L_G0462_v44.md#profiles).
-The main researcher's [signed measure comparison](../ledger/Yin_L_G0462_v49.md#exclusions) reduces the list to three.
-The first departure from any surviving series must occur at [sublinear index](../ledger/Yin_L_G0462_v50.md#window), with the allowable finite coefficient patterns determined by the continuous density.
-Agent-S checked the binomial choices for the \(K=2-z\) pattern.
+The [fixed-offset theorem](../claims/Yin_C_G0345_v10.md#statement) excludes both \(2U_h\pm U_{h-d}\) in the half-trace variable for each fixed \(d\), including sparse perturbations beyond a fixed fraction of the trace degree.
+The [moving-offset classification](../ledger/Yin_L_G0462_v55.md#moving) leaves five forms for the limiting series.
+If \(d=o(h)\), the [projection onto every \(d\)-th coefficient](../ledger/Yin_L_G0462_v57.md#progression) forces a single one of nine rational series through a positive fraction of the projected degree.
+Use the other residue classes and the endpoint constraints to test existence, and examine \(d\) proportional to \(h\) separately.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.

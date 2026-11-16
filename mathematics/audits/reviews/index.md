@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v10](Yin_R_G0562_v10.md#both-signs-review) checks both signs of every fixed Chebyshev offset, including the extra phase levels for even primitive offsets.
+- [R562 v9](Yin_R_G0562_v9.md#fixed-offset-review) checks the fixed-minus theorem for sparse perturbations, the finitely many harmonic shapes and specialization at large prime orders.
+- [R562 v8](Yin_R_G0562_v8.md#chebyshev-path-review) checks the uniform bound on the offset-one path and all three final harmonic contradictions.
+- [R1114 v55](Yin_R_G1114_v55.md#progression-review) checks rigidity of integer prefixes for signed circle moments and its application along the progression at a growing offset.
+- [R1114 v53](Yin_R_G1114_v53.md#offset-classification-review) checks the primitive offset table and the five candidate limits at a growing offset.
+- [R1114 v52](Yin_R_G1114_v52.md#primitive-windows-review) checks primitive resultant growth on a linear window for sparse inputs and the superlinear prime window for all nontorsion units.
+- [R1114 v51](Yin_R_G1114_v51.md#finite-prefix-review) checks the exact degree-74 certificate and the unit-divisor exclusions through degree 90.
+- [R1114 v49](Yin_R_G1114_v49.md#sparse-prefix-review) checks the two bounded cutoffs and harmonic transfer for sparse perturbations at offset one.
+
 - [R1114 v48](Yin_R_G1114_v48.md#departure-scale-review) checks the sublinear location of the first discrepancy and its [allowable coefficient patterns](Yin_R_G1114_v48.md#departure-shapes-review).
 - [R1114 v47](Yin_R_G1114_v47.md#departure-density-review) checks the moving coefficient comparison that excludes six of the nine leading-two Chebyshev profiles.
 - [R1114 v45](Yin_R_G1114_v45.md#six-term-relation-review) checks the exact-degree resultant under a short relation and the necessary small value at the remaining conductors.
