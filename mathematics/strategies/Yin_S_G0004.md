@@ -54,6 +54,17 @@ The [cubic certificate](../claims/Yin_C_G0896_v2.md#decision-cubic-prediction-ex
 An integer supply at longer prefixes must also have [frequent excursions beyond four](../claims/Yin_C_G0898_v1.md#threshold) in the normalized residues and resist [approximation by a bounded number of moving frequencies](../ledger/Yin_L_G0464_v32.md#moving-frequencies).
 The [stationary algebraic-unit example](../ledger/Yin_L_G0464_v33.md#stationary-law) passes all independent marginal norm tests and the ordered dyadic inequalities simultaneously, but fails the [difference test](../ledger/Yin_L_G0464_v33.md#difference) on the actual conjugates.
 The construction inquiry now tests these correlations before investing in another conductor expansion.
+In every limiting law for distinct fixed invertible multipliers, [neither coordinate is a rational function of the other](../claims/Yin_C_G0898_v2.md#statement) almost surely.
+Any chamber construction must produce actual integer inputs consistent with these ordered tests.
+
+For the proof inquiry at the original unit, [one Salem family](../ledger/Yin_L_G0462_v21.md#bounded-salem-matching) realizes exactly the matching fraction \(1/(d-2)\) at any prescribed finite set of primes.
+In a [family with three exterior roots](../ledger/Yin_L_G0462_v22.md#cyclic-depth), each of the prescribed primes first occurs at a cyclic index proportional to the degree and contributes only the Frobenius minimum to every consecutive prime-power mixed product.
+The [height-one Salem family](../claims/Yin_C_G0162_v3.md#statement) realizes simultaneous local minima below the plastic number across a growing window and an exponential aggregate norm supported entirely on larger primes.
+The [two signed products](../ledger/Yin_L_G0462_v23.md#two-norms) of another Salem sequence at the degree are exactly \(N-7\) and \(9\).
+The [exponent selection for all plastic-seed delays](../ledger/Yin_L_G0462_v24.md#choice-of-exponent) and the [quarter-turn integer product](../ledger/Yin_L_G0462_v25.md#quarter-turn) show how changing the exponent or combining phases can pay the full arithmetic cost.
+The [uniform test at \(4d\)](../claims/Yin_C_G0336_v2.md#statement) works on both signs, and a single progression defeats all three smaller multiples.
+Applying its transfer formula on a different input requires an integral return with controlled torsion factors and a positive exponential contribution surviving those factors.
+
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.
 The [sharper certificate](../claims/Yin_C_G0893_v2.md#decision-arithmetic-energy-ceiling-reviewed) gives \(\limsup|\operatorname{Res}(B_n,Q)|^{1/n}\le1.413\) in the same shrinking chamber.

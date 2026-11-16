@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R556 v2](Yin_R_G0556_v2.md#fourfold-return) checks the fourth-multiple theorem for both plastic-seed signs and all sufficiently large delays. [R556 v3](Yin_R_G0556_v3.md#four-phase-arithmetic-review) independently reproduces the 31 exact coefficient tests.
+
 - [R1107 v55](Yin_R_G1107_v55.md#profile-ceiling-review) checks the five profile-specific resultant bounds, with a [separate independent finding](Yin_R_G1107_v55.md#profile-equivalence-review) on fixed and moving references.
 - [R1107 v54](Yin_R_G1107_v54.md#general-parent-prefix-review) checks the conductor-independent bound for general cyclotomic parents with signed neutral residues.
 - [R1107 v53](Yin_R_G1107_v53.md#rational-prefix-review) checks the rational construction with two prescribed integer coefficients and the resulting sharp exponent for those values.

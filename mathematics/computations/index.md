@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J161](programs/Yin_J_G0161/readme.md#four-phase-certificate) certifies the strict Mahler measure bound \(41/20\) for all 31 phase polynomials in the fourth-multiple return.
+
 - [J160](programs/Yin_J_G0160/readme.md#small-degree-boundary) independently verifies the 22 small-degree Gaussian single-coordinate cyclic inputs used in the adopted all-parameter exclusion; it retains the author-checked initial twelve-input control separately, with complete factors, multiplicities and Mahler intervals.
 
 - [J159](programs/Yin_J_G0159/readme.md#results) retains the independently certified conductor-401 real-cell obstruction and rational feasibility at conductors 2003 and 1009, including the [exact jet branches](programs/Yin_J_G0159/readme.md#jet-lattice-result) and [unique necessary nonneutral branch at 1009](programs/Yin_J_G0159/readme.md#p1009-branch).
