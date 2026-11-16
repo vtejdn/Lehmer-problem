@@ -134,8 +134,12 @@ Any proposed sparse full Salem interlacer must instead meet the [two-band condit
 For the lower polynomial \(2+z\), the [first varying integer coefficient](../claims/Yin_C_G0345_v45.md#departure) rules out the entire family.
 For \(2-z\) the [limit on two curves](../claims/Yin_C_G0345_v47.md#graphs) would force a strictly positive integer trace to tend to zero.
 The [restrictions on the first coefficient block](../ledger/Yin_L_G0462_v141.md#offset) identified how to test a growing separation at the scale of the first odd numerator coefficient.
-The [uniform gap at all large separations](../claims/Yin_C_G0345_v48.md#statement) permits the construction search in this family to return to fixed separations beginning with two.
-At separation two the [two surviving profiles](../ledger/Yin_L_G0462_v143.md#families) both have the plus sign and prescribe different continuous residue densities for testing actual candidate polynomials.
+The [uniform gap at all large separations](../claims/Yin_C_G0345_v48.md#statement) and the [gap at separation two](../claims/Yin_C_G0345_v50.md#statement) leave fixed separations beginning at three for this construction.
+For a different construction with a growing first nonconstant exponent, the [two required signs](../claims/Yin_C_G0345_v53.md#statement) permit the lower polynomial \(2+z^h(1+z^a)\), while prescribing the first change of the target denominator.
+The [product obstructions](../claims/Yin_C_G0345_v52.md#products) show that increasing the number of factors in a product of powers cannot preserve a bounded circle norm for a partial interlacing quotient at bounded total measure.
+For the three-exterior construction, the [sextic with doubled ratio](../claims/Yin_C_G0345_v57.md#example) is an actual example of an exact reduction to two exterior roots; its Mahler measure supplies no sequence tending to one.
+On balanced triples with two exterior roots the [reverse construction](../ledger/Yin_L_G0462_v145.md#reverse) gives three exterior roots at the same degree above six and squares the input measure.
+An attempted construction by taking cube roots of ordered ratios must therefore test whether the cube root belongs to the same field.
 For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 
