@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R1114 v48](Yin_R_G1114_v48.md#departure-scale-review) checks the sublinear location of the first discrepancy and its [allowable coefficient patterns](Yin_R_G1114_v48.md#departure-shapes-review).
+- [R1114 v47](Yin_R_G1114_v47.md#departure-density-review) checks the moving coefficient comparison that excludes six of the nine leading-two Chebyshev profiles.
+- [R1114 v45](Yin_R_G1114_v45.md#six-term-relation-review) checks the exact-degree resultant under a short relation and the necessary small value at the remaining conductors.
+- [R1114 v46](Yin_R_G1114_v46.md#endpoint-order-recheck) checks the general endpoint ordering with the support argument that completes the [original finite-support finding](Yin_R_G1114_v44.md#trace-endpoint-review).
+- [R1114 v43](Yin_R_G1114_v43.md#interpolation-order-review) checks the integral interpolation obstruction for the leading-two branch and its [localized counterexample](Yin_R_G1114_v43.md#leading-two-family-review).
+- [R1114 v42](Yin_R_G1114_v42.md#chebyshev-profiles-review) checks the initial nine-profile classification on the Chebyshev family.
 - [R562 v7](Yin_R_G0562_v7.md#trace-obstruction-review) checks the uniform first-branch Pisot gap and the normalized multiplier obstruction, including growing branch index.
 - [R562 v6](Yin_R_G0562_v6.md#atom-isolation-review) checks the one-sided isolation of the identity mass for positive torsion measures with integer Fourier coefficients.
 - [R1114 v41](Yin_R_G1114_v41.md#inverse-numerator-review) checks both degree parities of the inverse simplex at a fixed trace numerator, its volume and the return to the Salem question.

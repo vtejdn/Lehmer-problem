@@ -79,6 +79,11 @@ The [strict integer moment bound](../claims/Yin_C_G0345_v5.md#statement) elimina
 The [single-delay construction](../ledger/Yin_L_G0462_v41.md#uniform-delay) realizes the uniform profile at negative constant, whereas the [trace numerator obstruction](../claims/Yin_C_G0345_v7.md#statement) excludes every positive-constant near-integer sequence at \(j=1\).
 At \(j=2\) a primitive irreducible factor of leading coefficient two must have growing degree, and the [finite-prefix exclusion](../ledger/Yin_L_G0462_v40.md#statement) removes further profiles at every fixed \(j\).
 The [inverse simplex](../ledger/Yin_L_G0462_v43.md#return) gives an exact test at a proposed numerator and divisor, including a reconstruction of the original integer polynomial.
+The [negative endpoint estimate](../ledger/Yin_L_G0462_v46.md#negative-endpoint), with the [finite-support argument](../ledger/Yin_L_G0462_v48.md#support), cuts the allowed simplex further at large constants.
+For \(C_h=2U_h-U_{h-1}\) in the half-trace variable, agent-S obtained [nine integral profiles](../ledger/Yin_L_G0462_v44.md#profiles).
+The main researcher's [signed measure comparison](../ledger/Yin_L_G0462_v49.md#exclusions) reduces the list to three.
+The first departure from any surviving series must occur at [sublinear index](../ledger/Yin_L_G0462_v50.md#window), with the allowable finite coefficient patterns determined by the continuous density.
+Agent-S checked the binomial choices for the \(K=2-z\) pattern.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.
