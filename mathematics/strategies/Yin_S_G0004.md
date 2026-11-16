@@ -66,9 +66,14 @@ The [uniform test at \(4d\)](../claims/Yin_C_G0336_v2.md#statement) works on bot
 Applying its transfer formula on a different input requires an integral return with controlled torsion factors and a positive exponential contribution surviving those factors.
 The [uniform error estimate for varying seeds](../claims/Yin_C_G0336_v3.md#statement) now handles repeated torsion factors and jointly growing degrees while retaining the norm on the original unit.
 In the [golden-ratio sequence](../ledger/Yin_L_G0462_v28.md#cyclic), the norms at every divisor of \(d-2\) are known exactly and have subexponential growth together.
-The rational graph of the unrestricted [half-degree encoding](../ledger/Yin_L_G0462_v30.md#arbitrary-input) already has positive-degree nontorsion fibers; controlling its evaluation on the finite root-of-unity grid is now the proof-side priority.
-The [delay-one construction](../ledger/Yin_L_G0462_v32.md#boyd-return) provides a second counterexample inquiry through positive-constant Pisot seeds near an integer.
-Its [sharp dominant-coefficient bound](../ledger/Yin_L_G0462_v32.md#dominant-coefficient) and the [four-term exclusion](../ledger/Yin_L_G0462_v32.md#four-term) favor inputs with several competing coefficients and growing support.
+For the [canonical half-degree representation](../ledger/Yin_L_G0462_v35.md#five-terms) both auxiliary phase measures can overestimate the actual normalized resultant by a positive constant, even at the seventh multiple and with five coefficients.
+The [two exact endpoint residues](../ledger/Yin_L_G0462_v35.md#factor-test) instead give an original norm bound for low-degree factors in either quotient ring at full middle span.
+The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
+For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
+The [simplex inequalities](../claims/Yin_C_G0345_v4.md#simplex) locate every Pisot preimage at fixed Salem output and constant.
+For the degree-ten Lehmer output at constant 1000 the [exhaustive fiber calculation](../ledger/Yin_L_G0462_v37.md#minimum) distinguishes its two smallest exterior roots.
+To vary the output, [weighted conjugate directions](../ledger/Yin_L_G0462_v36.md#weights) and the [totally real gap](../ledger/Yin_L_G0462_v34.md#real-conjugates) constrain candidate Pisot inputs before construction of the reciprocal factor.
+The [strict integer moment bound](../claims/Yin_C_G0345_v5.md#statement) eliminates every purely atomic radial limit at fixed branch index; the first branch leaves a uniform density, a single cosine perturbation of it or a half-uniform mixture.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.

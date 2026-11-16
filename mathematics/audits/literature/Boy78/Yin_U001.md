@@ -29,3 +29,13 @@ The coefficient is at most \(9/2\) for integers \(q\ge2\), since both \((q+1)/q\
 Thus an assumed Salem gap gives a positive lower bound on \(\delta\), uniform in \(q\), for seeds with \(P(0)=q\), whose plus construction gives a Salem number.
 Boyd states this consequence just after (40).
 The statement and reported search ranges were checked on 2026-11-16, without rerunning the historical computation.
+
+<a id="negative-norm-cubic"></a>
+## The cubic at the lower edge of the search near \(q\)
+
+On 2026-11-16 agent-S for Yin inspected Section 6, printed page 1256, equations (39) and (40) and the paragraph after Lemma 5 in the [author-posted journal scan](readme.md#editions).
+The displayed estimates compare the delay-one trace with the first series coefficient \(u_1\), then compare \(u_1\) with the Pisot root.
+In the discussion of the least point of \(S_u\), Boyd gives the cubic \(z^3-(u-1)z^2-uz-u\).
+Its negative constant coefficient matters for the signed delay-one construction.
+The paper also reports a bounded calculation near \(u=9\), including 27 points of \(S_9\) in \([9,9.1]\), none with positive minimal-polynomial constant.
+The [normalized series for the cubic](../../../ledger/Yin_L_G0462_v36.md#sign) is calculated directly from that polynomial.

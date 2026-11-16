@@ -49,3 +49,14 @@ The same statement appears on p. 51 of the [published article](https://doi.org/1
 Both editions print an integer codomain for \(f\) in Theorem 10.1, while Lemma 10.2 explicitly allows the near-integer input needed here.
 The [odd-grid application](../../../ledger/Yin_L_G0464_v7.md#rounding) uses the lemma at statement level and gives its own finite iteration.
 This inspection covers the convention and the stated input and output of the lemma, without an audit of its proof.
+
+<a id="fourier-stieltjes"></a>
+## Integer Fourier–Stieltjes transforms on the infinite cyclic group
+
+On 2026-11-16 agent-S for Yin inspected the definitions in Section 12, equation (12.2), Theorem 12.3 and Corollary 12.4 of the [published edition](https://doi.org/10.1007/s00041-020-09732-y).
+For a locally compact abelian group \(G\), \(B(G)\) uses Fourier–Stieltjes transforms of finite measures on its dual, with the total variation norm of the representing measure.
+Corollary 12.4 provides an \((M,O_M(1))\)-representation for an integer-valued member with norm at most \(M\).
+Equation (12.2) expresses this as a sum over at most \(M\) open subgroups, each contributing an integer combination of their coset indicators with coefficient \(\ell^1\) norm bounded in terms of \(M\).
+For discrete \(G=\mathbb Z\), a representing measure lives on the unit circle and the open subgroups include \(\{0\}\).
+Thus singleton indicators as well as congruence classes can occur.
+This use takes the general locally compact result at statement and application scope.

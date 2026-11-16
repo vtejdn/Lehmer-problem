@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v5](Yin_R_G0562_v5.md#strict-moment-review) checks the exclusion of saturated integer moments on the square-root window and the required continuous component of the radial distribution.
+- [R562 v2](Yin_R_G0562_v2.md#prescribed-constant-inverse-review) checks the prescribed Pisot inverse for every Salem polynomial, and [R562 v4](Yin_R_G0562_v4.md#pisot-simplex-review) checks the two-point excess inequalities, the entire integer simplex and its second-order minimum.
+- [R562 v3](Yin_R_G0562_v3.md#radial-half-degree-review) checks the necessary square-root exterior count for both half-degree seeds of an arbitrary near-one reciprocal input.
+- [R1114 v32](Yin_R_G1114_v32.md#endpoint-transfer-review) checks the endpoint modular divisors and two examples measuring the loss in the half-degree phase estimate.
+- [R1114 v35](Yin_R_G1114_v35.md#lehmer-fiber-minimum-review) independently checks the enumeration at constant 1000 for the Lehmer polynomial.
+
 - [R556 v4](Yin_R_G0556_v4.md#moving-seed-transfer) checks the two-sided error for jointly growing Pisot seeds and original Salem degrees, including repeated common torsion roots.
 
 - [R556 v2](Yin_R_G0556_v2.md#fourfold-return) checks the fourth-multiple theorem for both plastic-seed signs and all sufficiently large delays. [R556 v3](Yin_R_G0556_v3.md#four-phase-arithmetic-review) independently reproduces the 31 exact coefficient tests.
