@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R1114 v88](Yin_R_G1114_v88.md#affine-line-review) checks the sharp circle norm bound, the exclusion of lower exponents on an affine line, the strengthened relation and the remaining trapezoid example.
+- [R1114 v87](Yin_R_G1114_v87.md#reciprocal-gap) checks the remaining reciprocal sum-of-offsets case, the [gap above a vertex coefficient](Yin_R_G1114_v87.md#endpoint-gap) in every finite dimension and its [application to trace products](Yin_R_G1114_v87.md#trace-product).
 - [R1114 v86](Yin_R_G1114_v86.md#coefficient-patterns) checks the coefficient classification when the third offset is the sum of the other two, and [its second finding](Yin_R_G1114_v86.md#stable-gap) checks the positive excess for the strictly stable pattern.
 - [R1114 v85](Yin_R_G1114_v85.md#short-frequency-relation-review) checks the bounded relation for fixed term count and branch, and [the three-offset finding](Yin_R_G1114_v85.md#three-offsets-review) checks the reduction of the eight-term case to finitely many two-variable polynomials.
 - [R562 v22](Yin_R_G0562_v22.md#real-exterior-prefix-review) checks real coefficient neighborhoods of strictly exterior prefixes and the necessary circle roots on actual bounded-offset sequences.
