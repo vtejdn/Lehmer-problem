@@ -77,6 +77,11 @@ For primitive inputs the [large-prime sieve](../claims/Yin_C_G0899_v1.md#stateme
 For small-measure units the [discriminant and local valuation estimate](../claims/Yin_C_G0899_v2.md#statement) allows the contribution of primes dividing the order to be discarded as well.
 The next arithmetic question is what forces total logarithmic valuation \(cd\) from those exact residue orders without the factor \(m(P)\).
 Equivalently the [product of prime ideals at their first return](../ledger/Yin_L_G0462_v78.md#product) needs logarithmic norm at least \(c d^2\); its proved scale is \(d^2m(P)\) within absolute factors.
+The [adaptive deletion bound](../ledger/Yin_L_G0462_v79.md#deletion) gives a positive proportion of such composite return orders even after removal of a prescribed set of rational primes with the stated cardinality and log-size budget.
+On [irreducible substitutions of every base unit](../claims/Yin_C_G0899_v3.md#criterion), the odd part of a single prescribed dyadic norm tests the gap using only good primes in two residue classes.
+For unrestricted original units the same prescribed order can have [primitive resultant exactly one](../ledger/Yin_L_G0462_v82.md#grid) even when every positive power generates the original field.
+On reciprocal bases the [split and inert prime calculation](../ledger/Yin_L_G0462_v83.md#split) and the [signed odd trace norm](../ledger/Yin_L_G0462_v84.md#sign) identify when a prime in the negative dyadic residue class must appear.
+For Salem units of any degree the [multiplier construction](../ledger/Yin_L_G0462_v85.md#archimedean) forces that class for half the multipliers in a suitable progression, with the size of its modulus depending on the input and excluded primes.
 Other equivalent tests use [a prescribed degree sieve](../ledger/Yin_L_G0462_v69.md#single), a [smooth order or two nearby composite orders](../ledger/Yin_L_G0462_v75.md#criteria).
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
@@ -96,7 +101,8 @@ The [simple-root test](../ledger/Yin_L_G0462_v62.md#simple) identifies valid tra
 The [first positive denominator coefficient](../claims/Yin_C_G0345_v17.md#statement) occurs by \(Ce\) for any such six-term input with large \(q\), where \(e\) is the second offset.
 For a coefficient at \(u=o(d)\) the [offset-separation test](../ledger/Yin_L_G0462_v72.md#separation) can impose one of just two exact differences.
 The [eleven profiles for \(2\pm w+w^2\)](../ledger/Yin_L_G0462_v74.md#profiles) and [nine for \(2\pm2w+w^2\)](../ledger/Yin_L_G0462_v76.md#profiles) give a [uniform excess at offsets \(d,2d\)](../claims/Yin_C_G0345_v18.md#quadratic) for every second-branch coefficient pair.
-After removal of integral factors, only [three primitive cubics](../ledger/Yin_L_G0462_v77.md#cubic) remain at reduced upper offset three.
+The [three primitive cubics](../ledger/Yin_L_G0462_v77.md#cubic) all have a [uniform excess on both primitive cubic offset pairs](../claims/Yin_C_G0345_v19.md#statement), covering sign rotation and every common scale.
+The construction inquiry now seeks a mechanism for two varying primitive offsets that survives these prefix constraints.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.

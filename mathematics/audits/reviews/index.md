@@ -1,5 +1,12 @@
 # Reviews Index
 
+- [R562 v19](Yin_R_G0562_v19.md#cubic-prefix-review) checks the uniform branch-two gap at both primitive cubic offset pairs and its arbitrary-branch integer and perturbed prefix forms.
+- [R1114 v77](Yin_R_G1114_v77.md#inert-salem-review) checks the inert primes of Salem units with prescribed residue order part, exclusions and multiplier density.
+- [R1114 v76](Yin_R_G1114_v76.md#reciprocal-dyadic-review) checks the reciprocal trace square, individual residue classes and the [signed norm and its one-circle-pair consequence](Yin_R_G1114_v76.md#signed-dyadic-review).
+- [R1114 v75](Yin_R_G1114_v75.md#structured-dyadic-review) checks the dyadic norm, its two prime classes, the local valuation transport and the gap equivalence on irreducible substitutions.
+- [R1114 v74](Yin_R_G1114_v74.md#dyadic-salem-review) checks the simultaneous unit primitive resultants at dyadic orders through the actual Salem degree ceiling.
+- [R1114 v73](Yin_R_G1114_v73.md#prescribed-primes) checks removal of a prescribed set of rational primes and the lower bound on the product of the distinct primes in the first-return ideal.
+- [R1114 v72](Yin_R_G1114_v72.md#double-coefficient-review) checks the five projected profiles for the cubic with coefficient two and [the two eight-profile classifications](Yin_R_G1114_v72.md#unit-coefficients-review) for the other irreducible cubics.
 - [R562 v18](Yin_R_G0562_v18.md#quadratic-prefix-review) checks the full quadratic-offset gap, its stable prefix form and the reducible-cubic consequence, with a [separate check of all nine coefficient-two profiles](Yin_R_G0562_v18.md#coefficient-two-review).
 - [R1114 v71](Yin_R_G1114_v71.md#first-return-norm) checks the prime-ideal product at first residue orders and its aggregate logarithmic norm.
 - [R1114 v70](Yin_R_G1114_v70.md#cubic-review) checks the three remaining primitive cubic prefixes, their irreducibility and the strict root locations.
