@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R1107 v43](Yin_R_G1107_v43.md#all-length-screen-review) independently reproduces the degree-60 squarefree-parent enumeration and checks the all-length residue exclusion.
+- [R1107 v42](Yin_R_G1107_v42.md#angular-matching-review) independently checks the angular matching conductor bound and its [parent-specific degree bound](Yin_R_G1107_v42.md#degree-obstruction-review).
+- [R1114 v18](Yin_R_G1114_v18.md#d4-frame-and-cusp-review) independently checks the D4 cycle-power and one-cusp divisibility bounds, including positive-measure examples of unbounded permutation order.
 - [R1107 v41](Yin_R_G1107_v41.md#all-cut-positive-sum-review) independently checks the complete all-cut positive-sum theorem, exact nonreal exterior pair, Salem-source exclusions and variable-reference consequence.
   Its [parent-localization finding](Yin_R_G1107_v41.md#parent-localization-review) independently checks the order and parity gates and complete rejection of the endpoint-repaired parent at every permitted length and cut.
 - [R1114 v16](Yin_R_G1114_v16.md#d4-canonical-cover-review) independently checks the complete D4-block canonical cover, exact radical spectrum, arbitrary generators and permutation-order cost, including its small-spectrum corollaries.

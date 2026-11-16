@@ -273,3 +273,48 @@ python -B mathematics/computations/programs/Yin_J_G0138/checks/growing_profile_i
 ~~~
 
 The replaceable [growing_profile_independent.json](../../outputs/Yin_J_G0138/growing_profile_independent.json) contains its exact reconstructed inputs, comparison margins and checking limits.
+
+<a id="all-length-degree-60"></a>
+## All geometric lengths for squarefree parents of degree at most 60
+
+For the [central construction](../../../ledger/Yin_L_G0457_v4.md#integer-family), the exact enumeration excludes every strict terminal cut with the required endpoint when \(2d=\deg A\le60\) and \(r>2d+1\) is odd.
+Here \(A\) is a squarefree product of cyclotomic polynomials of orders at least three with \(A(z)=1+3z^2+O(z^4)\), and the perturbation subtracts \(z^N\) with \(N=(r-1)/2+d\).
+The [native program](central_parent_screen.py) uses integer arithmetic and the Python standard library.
+Run it from the project root without other inputs:
+
+~~~text
+python -B mathematics/computations/programs/Yin_J_G0138/central_parent_screen.py
+~~~
+
+To enumerate the possible orders, the program uses \(\varphi(q)^2\ge q/2\), proved in the [cyclotomic extraction bound](../../../ledger/Yin_L_G0457_v2.md#central-minus-one-exhaustive-cyclotomic-test).
+Consequently \(\varphi(q)\le60\) implies \(q\le7200\).
+An integer totient sieve finds every such order, and successive monic divisions of \(z^q-1\) by the proper divisor polynomials give each \(\Phi_q\).
+The enumeration visits each subset of distinct factors within the degree bound once, multiplying coefficients through degree three and evaluating the full product at \(-1\).
+An extension in the ordered subset traversal can only increase degree.
+
+For a given \(p=r+2d-2\), put \(n=(p-1)/2\).
+The [order and endpoint restrictions](../../../ledger/Yin_L_G0457_v5.md#parity-reduction) require odd \(n\), \(A(-1)>1\), and \(q\le p\) for every parent order.
+At each remaining grid point \(u=j/p\), \(1\le j\le n\), the [residue identity](../../../ledger/Yin_L_G0457_v4.md#residue-formula) gives an immediate obstruction whenever \(W_A(2\pi u)\le0\) at an odd index assigned a positive residue, or \(W_A(2\pi u)\ge0\) at an even index assigned a negative residue.
+The sign of \(W_A\) starts positive, reverses upon crossing each primitive parent angle \(a/q\) and each interior sine zero \(k/(2d-2)\), and is zero at exact coincidences with the grid.
+The program records crossings and zeros separately using integer division and bit masks.
+A cut after \(c\) positive residues must satisfy \(1\le c<n\), with \(c\) at least the last index forced positive and strictly before the first index forced negative.
+
+For each parent, the following finite reduction bounds all lengths that can survive this sign test.
+Use \(L=\operatorname{lcm}(2d-2,\{q:\Phi_q\mid A\})\) and list the sign reversals in \((0,L/2)\) in units of \(1/L\).
+Cancel paired parent and sine events at the same position, retaining the neighboring weak signs through a common zero.
+For each negative interval followed by a positive interval, take the smaller of their two integer lengths, and let \(g\) be the maximum of these values.
+The program verifies \(g>0\) for every endpoint-eligible parent enumerated.
+If \(p>2L/g\), both open intervals have length greater than two after scaling by \(p/L\).
+They therefore contain an odd integer and a later even integer respectively, both in \(1,\ldots,n\).
+At the odd index the residue is strictly negative, and at the later even index it is strictly positive, including when the selected grid point hits a common zero.
+This excludes every cut for those \(p\).
+The program checks the initial range \(2d+1<r\le8d\) in full and extends its loop when the individual ceiling \(\lfloor 2L/g\rfloor\) leaves additional odd lengths.
+
+The author run on Python 3.14.3 found 41,268 parents with the prescribed prefix, all with \(A(-1)>1\).
+The initial range contained 3,363,666 parent and length pairs, of which 1,669,258 passed the endpoint, order and parity restrictions.
+The sign test rejected every remaining pair before an amplitude calculation was needed.
+The largest individual conductor ceiling was 168, and each parent's own ceiling required zero additional odd lengths beyond its initial range.
+The [regenerable output](../../outputs/Yin_J_G0138/central_parent_screen.json) gives the aggregate counts and their degree breakdown.
+The [independent enumeration](../../../audits/reviews/Yin_R_G1107_v43.md#all-length-screen-review) checks these counts, the sign inversions and the argument covering all remaining lengths.
+The exclusion concerns this squarefree central construction and the specified sign and endpoint conditions.
+It supplies no measure lower bound for its outputs and leaves parents of higher degree open.

@@ -26,13 +26,22 @@ For the squarefree central-parent profile, the [new necessary gates](../ledger/Y
 The [endpoint-repaired parent](../ledger/Yin_L_G0457_v5.md#endpoint-repair-test) \(\Phi_4\Phi_{60}\Phi_{84}\) still fails every terminal cut for every permitted odd geometric length, by an earlier negative residue followed by a later positive residue.
 Thus changing only its geometric length or cut does not supply a new test.
 
+The [angular matching theorem](../claims/Yin_C_G0890_v1.md#decision-angular-conductor-bound-reviewed) bounds the grid parameter for all central perturbations of a specified degree \(h\), even before the endpoint test.
+For central subtraction a viable sequence of squarefree parents in this coefficient class must have unbounded parent degree \(2d\) and bounded \(p/d\) if \(p\) tends to infinity.
+The [rational phase intervals](../ledger/Yin_L_G0457_v6.md#two-phase-intervals) also give parent-specific rejection tests in that range.
+The [exact degree-60 computation](../computations/programs/Yin_J_G0138/readme.md#all-length-degree-60) excludes all 41,268 parents in this coefficient class of degree at most 60 for central subtraction, at every admissible odd length.
+For a change of construction, test repeated cyclotomic factors against the polynomial \((1+z^2)^2(z^{2d-2}-1)/(z^2-1)\) singled out by the [integer rigidity argument](../claims/Yin_C_G0890_v1.md#integer-rigidity).
+The pairing step for repeated angles and the signs of that exceptional polynomial both need to be checked before using the squarefree obstruction in this larger family.
+
 The [adopted D4-block cover](../claims/Yin_C_G0886_v4.md#decision-d4-block-canonical-cover) covers all positive integral block symmetries and both transvection groups at arbitrary block count and word length.
 It gives the unpowered Lehmer gap when the final ordered block permutation is trivial, and otherwise retains the factor \(1/d\) for its order \(d\).
 The [independently checked embedding obstructions](../ledger/Yin_L_G0462_v18.md#scope) show why neither arbitrary standard integer embedding nor a signed-permutation extension of D4 triality can be assumed.
 The explicit canonical construction bypasses those hypotheses for D4, but its negative-index-one scope does not represent the nonreal exterior-pair inputs of the construction inquiry.
 Further proof investment should address an actual new representation or a uniformity mechanism, rather than treat another covered block family as unrestricted polynomial coverage.
 The [independently checked full-group obstruction](../ledger/Yin_L_G0462_v19.md#scope) closes one such implementation: for every \(r\ge2\), the natural \(O(D_4)^r\rtimes S_r\) is not contained in any finite reflection group on the same positive \(4r\)-space.
-This does not exclude larger ambient spaces, radical quotients or direct indefinite covers, and it does not prove that every method must retain the current \(d\)-power cost.
+The [three-frame and divisibility bounds](../claims/Yin_C_G0886_v5.md#statement) now distinguish which word presentations can still have measure tending to one.
+Such a sequence needs frame-permuting three-cycles whose block-cycle lengths have unbounded 3-adic valuation, and it must eventually fail the one-cusp divisibility condition at both cusps.
+The unresolved coverage question for arbitrary integer polynomials remains separate.
 
 The [adaptive integer sampling child S10](Yin_S_G0010.md#route) owns distribution updates, search-efficiency metrics and the [first comparison of three sampling laws](Yin_S_G0010.md#first-experiment).
 Its [reduced-prior live control](../computations/programs/Yin_J_G0156/readme.md#prior-live-results) and [completed degree-18/20 comparison](Yin_S_G0010.md#degree-validation) pass their finite recovery screens while finding only the known Lehmer target value.

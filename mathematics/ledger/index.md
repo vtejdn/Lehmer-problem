@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0457_v6](Yin_L_G0457_v6.md) | Perturbation degree and phase intervals | Necessary residue-sign and perturbation-degree bounds for squarefree cyclotomic parents, including varying parents and all terminal cuts. |
 | [Yin_L_G0457_v5](Yin_L_G0457_v5.md) | Parent-order localization and a failed endpoint repair | All-cut order and parity restrictions, and exact rejection of the endpoint-repaired parent at every permitted geometric length and terminal cut. |
 | [Yin_L_G0462_v18](Yin_L_G0462_v18.md) | Integer-embedding obstacles and a D4 canonical bypass | Arbitrary-dimensional unimodular and triality obstructions, full-coordinate mixing failure, and the actual alternative D4 cover. |
 | [Yin_L_G0462_v19](Yin_L_G0462_v19.md) | No finite reflection enlargement of the natural D4 block action | Same-positive-space finite-reflection absorption test for every block count at least two; larger ambient and indefinite covers remain outside its scope. |

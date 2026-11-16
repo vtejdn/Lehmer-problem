@@ -22,7 +22,7 @@ Other routes remain available for autonomous reassessment; their current priorit
 | Role | Initial focus | Useful next distinction |
 | --- | --- | --- |
 | Leading construction and existence inquiry, coordinated with S4 | Actual integer inputs satisfying the variable-neutral-prefix interface, or a discrete positive-count argument for its full admissible event. | Use the [all-cut positive integer interface](../claims/Yin_C_G0881_v10.md#statement), which combines the complete C881v9 bound with strict positivity at every terminal cut; distinguish integer feasibility from a real relaxation or repeated recovery of a supplied value. |
-| Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer-representation cover. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the coverage conditions in [C886v3](../claims/Yin_C_G0886_v3.md#statement), rather than merely enlarging another fixed parameter range. |
+| Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer representation. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the remaining triality and divisibility cases in [C886v5](../claims/Yin_C_G0886_v5.md#statement). |
 | Alternative construction inquiry | Actual factor production or another mechanism changing the noncyclotomic core. | Seek the actual sublinear-degree factors in [L450v5](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion), or another explicit return to the unrestricted contract. |
 | Computational support, S10 | Bounded diagnostics tied to a distinguishable supply or complete-exterior-cost mechanism. | Compare distinct noncyclotomic cores and measure values, retaining all exterior roots and the actual integer support; known-core recovery alone is not the discovery objective. |
 | Other retained routes, S2, S3, S5, S6, S7, S8 and S9 | Available proof or construction alternatives under autonomous reassessment. | Reuse their precise failures and open interfaces when judging a new idea; their present lower priority is not a human prohibition or an evidence precondition for reconsideration. |
@@ -39,7 +39,8 @@ Prior route allocations below retain their mathematical context and evidence but
 The [independently reviewed all-cut theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) removes the single-terminal-node restriction from the positive-residue-sum construction interface.
 Every actual integer chamber input has a nonreal exterior conjugate pair and strict positive complete measure; it still requires a simultaneous integer sign, endpoint and long-prefix construction or positive-count proof.
 The [parent-order and parity gates](../ledger/Yin_L_G0457_v5.md#order-localization) and the [complete failure of the endpoint-repaired parent](../ledger/Yin_L_G0457_v5.md#endpoint-repair-test) make another parameter scan of that exact family uninformative.
-The next construction choice should change the parent or integer supply mechanism and test the full phase system, with all terminal cuts now available.
+The [angular matching theorem](../claims/Yin_C_G0890_v1.md#statement) forces the grid parameter to be at most \(96\pi d\) for central subtraction from a squarefree cyclotomic parent of degree \(2d\) in the prescribed coefficient class.
+Seek growing integer parents at comparable grid and parent degrees, or change the supply mechanism.
 
 The independent strategic-discovery comparison found no developed replacement mechanism in its inspected scope.
 In particular, the proposed relative-field factor shortcut is already addressed by the [stronger-source boundary](../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary); its missing factor-degree theorem is not a new route simply because the coefficient field is changed.
@@ -47,7 +48,8 @@ The [integer-embedding obstructions](../ledger/Yin_L_G0462_v18.md#unimodular-emb
 The [adopted D4-block construction](../claims/Yin_C_G0886_v4.md#decision-d4-block-canonical-cover) supplies such an alternative at arbitrary block count and word length, but retains the ordered block-permutation cost and negative-index-one coverage.
 It does not represent the construction inquiry's nonreal exterior pair, so the two inquiries are complementary restricted mechanisms rather than already assembled parts of an unrestricted proof.
 The follow-up [same-positive-space obstruction](../ledger/Yin_L_G0462_v19.md#scope), with [independent review](../audits/reviews/Yin_R_G1114_v17.md#finite-reflection-enlargement-review), also rules out absorbing the full natural D4 block group into any finite reflection group on that same positive space for every \(r\ge2\).
-The proof inquiry therefore retains larger-ambient or direct indefinite representations and genuinely different uniformity mechanisms as open choices; simply enlarging the finite positive group in the same space is no longer an available implementation of the proposed absorption.
+The [triality and one-cusp theorem](../claims/Yin_C_G0886_v5.md#decision-d4-frames-and-similitude-reviewed) supplies two representations that improve that bound.
+The remaining D4 case allows both a cycle with three-cycle frame return and large 3-adic valuation of its length, and parameters at both cusps outside the sufficient divisibility class.
 These are allocation reasons under current evidence, not restrictions on future methods or a claim that all other strategies have been exhausted.
 
 <a id="whole-goal-allocation-2026-11-05"></a>
