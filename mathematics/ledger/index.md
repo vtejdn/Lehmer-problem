@@ -5,6 +5,10 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0457_v8](Yin_L_G0457_v8.md) | Longest integral prefix at conductor 21 for the first exceptional parent | The cubic attains index seven, and exact three-node interpolation excludes every smaller perturbation degree. |
+| [Yin_L_G0457_v7](Yin_L_G0457_v7.md) | Integral and rational perturbations of the exceptional parent | Effective conductor and coefficient bounds for a fixed integral degree, and explicit rational witnesses. |
+| [Yin_L_G0464_v20](Yin_L_G0464_v20.md) | Least real degree across the exceptional parents | Multiplicity and moving-parent obstructions, and a rational cubic at arbitrarily large conductors. |
+| [Yin_L_G0464_v21](Yin_L_G0464_v21.md) | Least perturbation degree at each fixed exceptional parent | The degree required at unbounded conductors and rational attainability with the strict endpoint. |
 | [Yin_L_G0457_v6](Yin_L_G0457_v6.md) | Perturbation degree and phase intervals | Necessary residue-sign and perturbation-degree bounds for squarefree cyclotomic parents, including varying parents and all terminal cuts. |
 | [Yin_L_G0457_v5](Yin_L_G0457_v5.md) | Parent-order localization and a failed endpoint repair | All-cut order and parity restrictions, and exact rejection of the endpoint-repaired parent at every permitted geometric length and terminal cut. |
 | [Yin_L_G0462_v18](Yin_L_G0462_v18.md) | Integer-embedding obstacles and a D4 canonical bypass | Arbitrary-dimensional unimodular and triality obstructions, full-coordinate mixing failure, and the actual alternative D4 cover. |

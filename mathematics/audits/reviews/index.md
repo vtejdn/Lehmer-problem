@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R1107 v49](Yin_R_G1107_v49.md#p21-optimal-review) checks the conductor-21 minimum integral perturbation degree and maximal matching prefix by exact three-node interpolation.
+- [R1107 v48](Yin_R_G1107_v48.md#p21-integer-review) checks the conductor-21 integer cubic, its signs and prefix, and a tighter full measure enclosure using a rational disk.
+- [R1107 v47](Yin_R_G1107_v47.md#fixed-degree-review) checks the exact least real degree at each fixed exceptional parent and its rational attainment with the endpoint.
+- [R1107 v46](Yin_R_G1107_v46.md#local-phase-review) checks polynomial sampling near a quadratic phase zero and the resulting linear degree requirement for integral perturbations.
+- [R1107 v45](Yin_R_G1107_v45.md#integral-exception-review) checks the fixed-degree integral cutoff, finite coefficient test and rational witness, with a [separate finding on the sharp real cubic](Yin_R_G1107_v45.md#real-degree-review).
+- [R1107 v44](Yin_R_G1107_v44.md#repeated-parent-review) checks repeated-angle matching and the all-length scalar exclusion.
 - [R1107 v43](Yin_R_G1107_v43.md#all-length-screen-review) independently reproduces the degree-60 squarefree-parent enumeration and checks the all-length residue exclusion.
 - [R1107 v42](Yin_R_G1107_v42.md#angular-matching-review) independently checks the angular matching conductor bound and its [parent-specific degree bound](Yin_R_G1107_v42.md#degree-obstruction-review).
 - [R1114 v18](Yin_R_G1114_v18.md#d4-frame-and-cusp-review) independently checks the D4 cycle-power and one-cusp divisibility bounds, including positive-measure examples of unbounded permutation order.

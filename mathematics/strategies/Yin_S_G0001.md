@@ -39,8 +39,12 @@ Prior route allocations below retain their mathematical context and evidence but
 The [independently reviewed all-cut theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) removes the single-terminal-node restriction from the positive-residue-sum construction interface.
 Every actual integer chamber input has a nonreal exterior conjugate pair and strict positive complete measure; it still requires a simultaneous integer sign, endpoint and long-prefix construction or positive-count proof.
 The [parent-order and parity gates](../ledger/Yin_L_G0457_v5.md#order-localization) and the [complete failure of the endpoint-repaired parent](../ledger/Yin_L_G0457_v5.md#endpoint-repair-test) make another parameter scan of that exact family uninformative.
-The [angular matching theorem](../claims/Yin_C_G0890_v1.md#statement) forces the grid parameter to be at most \(96\pi d\) for central subtraction from a squarefree cyclotomic parent of degree \(2d\) in the prescribed coefficient class.
-Seek growing integer parents at comparable grid and parent degrees, or change the supply mechanism.
+The [repeated-parent angular matching theorem](../claims/Yin_C_G0890_v2.md#statement) requires \(p\le96\pi d\) for any real constant perturbation of a cyclotomic parent of degree \(2d\) in the prescribed coefficient class.
+For nonconstant perturbations of the exceptional parent, the [local phase estimate](../claims/Yin_C_G0891_v1.md#arithmetic) excludes integral perturbations of degree at most \(p/100000\) for all \(p\ge2\cdot10^9\).
+The [explicit rational cubic](../ledger/Yin_L_G0464_v20.md#sharp-cubic) passes the signs and endpoint at arbitrarily large conductors, so an integer construction needs additional arithmetic input.
+At \(s=2,\ p=21\), an [integer cubic](../computations/programs/Yin_J_G0138/readme.md#p21-cubic-witness) realizes the signs and endpoint, with complete measure between \(1.60623898\) and \(1.60623902\).
+Its [optimal matching prefix](../ledger/Yin_L_G0457_v8.md#optimal-prefix) ends at coefficient index seven.
+For larger \(p\), investigate whether the best integral prefix \(n-\deg H\) can grow without bound, or change the parent so that its middle-arc phase avoids the local obstruction.
 
 The independent strategic-discovery comparison found no developed replacement mechanism in its inspected scope.
 In particular, the proposed relative-field factor shortcut is already addressed by the [stronger-source boundary](../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary); its missing factor-degree theorem is not a new route simply because the coefficient field is changed.

@@ -318,3 +318,48 @@ The [regenerable output](../../outputs/Yin_J_G0138/central_parent_screen.json) g
 The [independent enumeration](../../../audits/reviews/Yin_R_G1107_v43.md#all-length-screen-review) checks these counts, the sign inversions and the argument covering all remaining lengths.
 The exclusion concerns this squarefree central construction and the specified sign and endpoint conditions.
 It supplies no measure lower bound for its outputs and leaves parents of higher degree open.
+
+<a id="p21-cubic-witness"></a>
+## A conductor-21 cubic correction with matching coefficients through degree seven
+
+Take \(F_2(z)=(1+z^2)^3\), \(r=17\), \(m=8\), \(p=21\), \(n=10\), and use the trace recurrence and poles \(b_j=2\cos(2\pi j/21)\) of [C881 v10](../../../claims/Yin_C_G0881_v10.md#statement).
+For \(Q(t)=t^3B_8(t)+t-t^3\) and \(P(z)=z^{11}Q(z+z^{-1})\), the ten residues \(Q(b_j)/B'_{10}(b_j)\) are positive for \(1\le j\le9\) and negative for \(j=10\).
+The endpoint ratio is \(Q(-2)/B_{10}(-2)=-2\), and \(Q-tB_{10}\) has degree nine and leading coefficient two.
+The reciprocal lift has the exact form
+\[
+P(z)=F_2(z)\sum_{k=0}^{16}z^k-z^8-2z^{10}-2z^{12}-z^{14}.
+\]
+Thus \(P-F_2/(1-z)=-z^8+O(z^9)\).
+
+For a rational certificate of the cut, take the disjoint intervals \(((a_j-1)/1000,(a_j+1)/1000)\) in decreasing order, with
+\[
+(a_1,\dots,a_{10})=(1911,1652,1247,731,149,-445,-1000,-1466,-1802,-1978).
+\]
+The degree-ten \(B_{10}\) changes sign across every interval, so each contains exactly one \(b_j\) and the derivative there has sign \((-1)^{j-1}\).
+Rational root counting finds zero roots of \(Q\) in each interval, and its signs at the left endpoints are \(+,-,+,-,+,-,+,-,+,+\).
+
+The factorization \(P=\Phi_4\Phi_5K\) has
+\[
+K(z)=z^{16}+2z^{14}+z^{12}+z^{11}+2z^9-z^8+2z^7+z^5+z^4+2z^2+1.
+\]
+The [exterior-root count](../../../claims/Yin_C_G0881_v10.md#nonreal-pair) gives precisely one exterior conjugate pair, with multiplicity.
+Exact complex root counting places one root \(\alpha\) of \(K\) in the rectangle
+\[
+[-0.05427783,-0.05427782]+i[1.26621203,1.26621204].
+\]
+Squaring the coordinate bounds gives the whole-polynomial measure \(1.60623898<M(P)=|\alpha|^2<1.60623902\).
+
+The [earlier signed-amplitude family](../../../claims/Yin_C_G0884_v3.md#statement) contains the same neutral lift at its block lengths \((4,17)\).
+Its matching parameter must then be \(L=3\), so its correction is \(-\lambda tB_6\), of degree seven for nonzero \(\lambda\), whereas the present correction is \(t-t^3\).
+The two integer successes in that classification have conductors 9 and 11.
+The computation here certifies the single input above.
+
+From the repository root, run the [native checker](p21_cubic_witness.py) with Python and SymPy (author run with Python 3.14.3 and SymPy 1.14.0).
+
+~~~text
+python -B mathematics/computations/programs/Yin_J_G0138/p21_cubic_witness.py
+~~~
+
+The checker uses rational endpoints for both real and complex root counts and publishes the [exact residue signs, polynomial and measure bounds](../../outputs/Yin_J_G0138/p21_cubic_witness.json) after all assertions pass.
+The [independent certificate](../../../audits/reviews/Yin_R_G1107_v48.md#p21-integer-review) checks the signs by polynomial substitution and locates the exterior root in a rational disk, tightening the full measure enclosure to \(1.6062390014<M(P)<1.6062390015\).
+The [degree obstruction at \(p=21\)](../../../ledger/Yin_L_G0457_v8.md#three-node-test) checks that every integral perturbation with a longer prefix fails some required residue sign.
