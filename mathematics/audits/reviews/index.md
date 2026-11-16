@@ -1,5 +1,12 @@
 # Reviews Index
 
+- [R562 v39](Yin_R_G0562_v39.md#multiquadratic-subfield) examines trace-one subfields of multiquadratic fields and their conditional inverse-branch and denominator bounds.
+- [R562 v38](Yin_R_G0562_v38.md#torsion-interlacing) examines the gap from partial interlacing by traces of roots of unity and descent at Salem degree minima.
+- [R562 v37](Yin_R_G0562_v37.md#small-trace-branch) checks the one-third upper bound and the intrinsic integrality and field-degree restrictions.
+- [R562 v36](Yin_R_G0562_v36.md#sparse-unit-test) checks the universal sparse unit construction and both directions of the unrestricted gap equivalence.
+- [R562 v35](Yin_R_G0562_v35.md#irreducible-reciprocal-inverse) checks the irreducible inverse and recovery of all exterior traces.
+- [R562 v34](Yin_R_G0562_v34.md#codifferent-branch) checks the factor-four branch construction and the prime division criterion.
+- [R562 v33](Yin_R_G0562_v33.md#residue-denominator) checks the sharp lower bound for low-degree residue representatives with integer scaling.
 - [R1114 v103](Yin_R_G1114_v103.md#sparse-weight) checks the minimal circle mean for sparse nonnegative trace weights, its degree-normalized consequence and the square-residue construction.
 - [R562 v32](Yin_R_G0562_v32.md#semicircle-criterion) checks the exact trace residues and prescribed branch-to-degree and semicircle limits in the degree-preserving inverse.
 - [R562 v31](Yin_R_G0562_v31.md#controlled-inverse) checks the controlled delay-one inverse, its positive integer constant, degree window and uniform error.

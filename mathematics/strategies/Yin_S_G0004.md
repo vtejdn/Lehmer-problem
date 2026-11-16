@@ -124,8 +124,12 @@ At fixed \(j=2\) these qualitative bounds still leave open the existence of one 
 The [uniform positive gap at every delay at least two](../claims/Yin_C_G0345_v30.md#statement) ends the delay-two construction search.
 At delay one the [controlled inverse](../claims/Yin_C_G0345_v31.md#statement) allows \(q/d\) to grow arbitrarily slowly within constant factors, with the exact original Salem polynomial and degree retained.
 The [weighted trace calculation](../ledger/Yin_L_G0462_v129.md#limit) prescribes the scaled exterior mass and fixes the neutral residue limit at twice the semicircle probability per unit degree.
-At zero scaled exterior mass, test the remaining integrality condition for positive-constant seeds with \(j/d\to2\), taking \(j=[z](f/f^*)-q^2+1\).
+At zero scaled exterior mass this gives integral comparison seeds with \(j/d\to2\), taking \(j=[z](f/f^*)-q^2+1\).
 The [square trace weights](../ledger/Yin_L_G0462_v130.md#square) permit this test inside the same totally real trace field while retaining the prescribed semicircle limit.
+For the [smaller inverse branches](../claims/Yin_C_G0345_v37.md#statement), the upper limit of \(j/d\) is at most one third.
+The exterior residue and its double must eventually both lie outside the ring of integers, and a representative with any fixed integer denominator through five must have degree at least of order \(\sqrt{d/\log(2d)}\) when it exists.
+The [gap from partial torsion interlacing](../claims/Yin_C_G0345_v38.md#statement) now directs the degree-minimum search to the nonmonic factors of candidate interlacers.
+For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
