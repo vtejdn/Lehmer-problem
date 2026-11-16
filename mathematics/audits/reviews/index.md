@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R1114 v69](Yin_R_G1114_v69.md#exact-orders) checks the local valuation, discriminant cost and exact residue-order criterion for a uniform gap.
+- [R1114 v68](Yin_R_G1114_v68.md#circle-root-review) checks the reduction of the exceptional-order count to the distinct roots exactly on the circle.
+- [R1114 v67](Yin_R_G1114_v67.md#smooth-pair-review) checks the smooth-order and nearby-order criteria, and its [quadratic-prefix finding](Yin_R_G1114_v67.md#quadratic-prefix-review) checks the eleven profiles and uniform Pisot excess.
+- [R1114 v66](Yin_R_G1114_v66.md#large-prime-return-review) checks the large-prime sieve and its single-order equivalences at the primitive and full resultants.
+- [R1114 v65](Yin_R_G1114_v65.md#single-order-review) checks the one-order test with degree-dependent deletions and its sparse-degree variant.
+- [R1114 v64](Yin_R_G1114_v64.md#initial-factor-review) checks the factored quadratic prefix, and its [offset-separation finding](Yin_R_G1114_v64.md#offset-separation-review) checks the restrictions on an early denominator coefficient.
+- [R1114 v63](Yin_R_G1114_v63.md#linear-resultants) checks both Gram estimates and the primitive and full resultant conclusions in linear windows.
+- [R562 v17](Yin_R_G0562_v17.md#uniform-index-review) checks the uniform first-index bound for every branch-two six-term denominator.
+- [R562 v16](Yin_R_G0562_v16.md#first-index-review) checks the two-frequency marginal and the second harmonics in the large reduced-frequency case.
 - [R562 v15](Yin_R_G0562_v15.md#four-term-review) checks the uniform excess for every four-term trace lift across all branches, including the signed-grid folding and short-segment clearing near ratio one.
 - [R562 v14](Yin_R_G0562_v14.md#all-branches-review) checks the two-term family for divisor coefficients across branches and the fixed-ratio perturbation argument.
 - [R562 v13](Yin_R_G0562_v13.md#varying-index-review) checks the sublinear divisibility obstruction under a bounded normalized numerator norm with unbounded branch index.

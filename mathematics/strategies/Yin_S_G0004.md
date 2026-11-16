@@ -72,8 +72,11 @@ The [power-substitution estimate](../ledger/Yin_L_G0462_v42.md#substitution) als
 Every reciprocal input with at most five terms has a [uniform exact-degree rate](../ledger/Yin_L_G0462_v42.md#five-term-return), and [seven terms suffice](../ledger/Yin_L_G0462_v42.md#seven-term-unit) for the resultant to equal one there.
 For every fixed number of terms, an [adaptive order between \(d\) and \(2d\)](../ledger/Yin_L_G0462_v54.md#linear-window) yields a uniform exponential rate for nontorsion integer inputs of positive measure.
 At [arbitrary support](../ledger/Yin_L_G0462_v54.md#prime-scale) the available prime order is superlinear and its rate can decrease with the input measure.
-In the [composite-order window](../ledger/Yin_L_G0462_v60.md#density) starting at \(d\log^2(2d)\), the normalized primitive log resultant recovers the measure with vanishing additive error at density one.
-The [power-substitution formula](../ledger/Yin_L_G0462_v60.md#lifts) tests whether proposed extra integer factors can supply a uniform positive rate there.
+At arbitrary support the [linear-window theorem](../ledger/Yin_L_G0462_v70.md#scale) supplies a primitive resultant of logarithm at least \(c d\,m(P)\) on a positive proportion of composite orders \(d\le j\le2d\).
+For primitive inputs the [large-prime sieve](../claims/Yin_C_G0899_v1.md#statement) preserves such orders while removing every rational prime divisor at most \(d^{1/5}\) from their primitive resultants.
+For small-measure units the [discriminant and local valuation estimate](../claims/Yin_C_G0899_v2.md#statement) allows the contribution of primes dividing the order to be discarded as well.
+The next arithmetic question is what forces total logarithmic valuation \(cd\) from those exact residue orders without the factor \(m(P)\).
+Other equivalent tests use [a prescribed degree sieve](../ledger/Yin_L_G0462_v69.md#single), a [smooth order or two nearby composite orders](../ledger/Yin_L_G0462_v75.md#criteria).
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
 The [simplex inequalities](../claims/Yin_C_G0345_v4.md#simplex) locate every Pisot preimage at fixed Salem output and constant.
@@ -89,7 +92,9 @@ For an arbitrary lift of bounded normalized circle norm, [the first coefficient 
 At \(j=2\) the [two early terms](../ledger/Yin_L_G0462_v61.md#four) first become possible at six terms of the lift.
 When the reduced denominator of the two exponents is unbounded, their coefficients must both have modulus one.
 The [simple-root test](../ledger/Yin_L_G0462_v62.md#simple) identifies valid trace numerators in this class, and the [six-term certificate](../ledger/Yin_L_G0462_v63.md#exclusion) excludes every denominator with \(q\ge77\) through trace degree 26 for these coefficients.
-Determine whether the two separate coefficient changes can satisfy the signed moment constraints at both indices as the degree grows.
+The [first positive denominator coefficient](../claims/Yin_C_G0345_v17.md#statement) occurs by \(Ce\) for any such six-term input with large \(q\), where \(e\) is the second offset.
+For a coefficient at \(u=o(d)\) the [offset-separation test](../ledger/Yin_L_G0462_v72.md#separation) can impose one of just two exact differences.
+The [factored prefix](../ledger/Yin_L_G0462_v71.md#six-term) and [eleven projected profiles for \(2\pm w+w^2\)](../ledger/Yin_L_G0462_v74.md#profiles) exclude shrinking excess in those quadratic families.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.
