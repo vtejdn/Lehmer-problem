@@ -13,6 +13,7 @@ Boyd takes \(\epsilon=\operatorname{sgn}P(0)\) in the reported search.
 Section 5, Lemma 4, pp. 1254–1255, gives finiteness of Boyd's exact coefficient tree on a closed interval disjoint from the Pisot numbers and from \(1\), for fixed \(m\ge2\), and for \(m=1\) with the initial coefficient \(u_0\) fixed.
 For the associated function of equation (28), \(u_0=|P(0)|\).
 On p. 1255, the delay-two search in \([1.125,1.3]\) found 41 distinct Salem numbers from 576 seed polynomials, omitting two of the 43 known Salem numbers in that interval in 1978.
+In the same discussion Boyd attributes the bulk of the calculation to the initial coefficients \(1,2,4,8,16\) and notes that \(1/(1-2z)\) lies in the second derived set of the associated function class and has delay-two value one.
 At delay three Boyd searched \([1.1,1.3]\) and found 22 seed polynomials.
 For delays four through eight he reports respectively 6, 2, 2, 1 and 1 seeds on \((1,1.3]\).
 On p. 1254 he observes that any nondegenerate closed interval above one containing no Salem number would imply a uniform gap above one, by taking positive powers.
@@ -50,3 +51,17 @@ Lemma 1 gives the two reciprocal completions near a fixed derived function of wi
 Its proof uses the integer size of a first discrepancy and contraction of the next coefficient interval.
 Lemma 2 uses an interval of length below \(9/4\) to obtain the two possible departures at each later index.
 These are fixed-function results; the [moving-constant argument](../../../ledger/Yin_L_G0462_v40.md#first-departure) controls an initial interval uniformly as \(q\) varies.
+
+For the [delay-two application](../../../ledger/Yin_L_G0462_v116.md#completions), a research agent for Yin checked Section 2, pp. 1246–1247, and Section 3, pp. 1249–1251, of the [author-posted journal text](readme.md#editions) on 2026-11-16.
+An associated function has integral Taylor coefficients, positive constant, a single simple pole \(1/\theta\) in the open disk and boundary modulus at most one.
+At a limit \(F\) of distinct associated functions the width formula at the end of p. 1249 is
+\[
+        w(F)=\theta^2\exp\!\left(\int_{\mathbb T}\log(1-|F|^2)\,dm\right),
+\]
+where \(m\) is normalized Haar measure.
+The distances from the central coefficient to the upper and lower permitted endpoints both tend to \(w(F)\).
+In Lemma 1 and its proof on p. 1250, if \(w(F)<(1+\sqrt{17})/4\), a sufficiently late first discrepancy is \(+1\) or \(-1\).
+Equation (23) bounds the length of the next interval, with limiting length \(2(w(F)^2-1)/w(F)<1\) after either discrepancy.
+The subsequent interval lengths decrease, so at most one associated function continues each signed departure.
+The project uses this uniqueness and checks the orientation and membership of its two reciprocal completions directly.
+This inspection used Boyd's width formula and the coefficient interval recurrence as established inputs and followed the uniqueness deduction in Lemma 1.

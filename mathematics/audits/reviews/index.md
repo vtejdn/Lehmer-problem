@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v29](Yin_R_G0562_v29.md#centered-limit) checks the constant second limit for every positive-excess delay-two sequence and the signed seed asymptotic.
+- [R1114 v101](Yin_R_G1114_v101.md#moving-period) checks the exclusion of finite atomic limits at moving frequencies and the two laws at the first discrepancy.
+- [R1114 v100](Yin_R_G1114_v100.md#linear-gap) checks the proportional gap after the first nonzero comparison coefficient.
+- [R1114 v99](Yin_R_G1114_v99.md#two-laws) checks integral moment windows and the two conditional laws on the torus.
+- [R1114 v98](Yin_R_G1114_v98.md#first-departure) checks the centered Pisot functions, [the ordering of the two exterior roots](Yin_R_G1114_v98.md#pole-order) and [the explicit neutral seeds](Yin_R_G1114_v98.md#realizations).
+- [R562 v28](Yin_R_G0562_v28.md#dyadic-limit) checks the nonunit gap at every delay of at least two and the unique limiting quotient for units at delay two.
+- [R1114 v97](Yin_R_G1114_v97.md#positive-return) checks the positive-real function and width-one completions in the delay-two reduction.
+- [R1114 v96](Yin_R_G1114_v96.md#dense-clearing) checks the bounded-term cyclotomic multiple criterion for Pisot traces and the branch-two dense family with ten-term multiples.
 - [R562 v27](Yin_R_G0562_v27.md#uniform-delay-gap) checks the uniform gap for Salem construction delays at least three and [the norm-sensitive root comparison](Yin_R_G0562_v27.md#radial-and-trace) with its exact cyclotomic exceptions.
 - [R562 v26](Yin_R_G0562_v26.md#two-scales-review) checks the first fractional scale and [the positive lower-half coefficient mass beyond it](Yin_R_G0562_v26.md#later-mass-review).
 - [R1114 v95](Yin_R_G1114_v95.md#sublinear-prime-order) checks the sublinear common prime order and both growth rates for a fixed finite list or pointwise for every nonreciprocal Pisot seed.
