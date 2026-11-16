@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R556 v4](Yin_R_G0556_v4.md#moving-seed-transfer) checks the two-sided error for jointly growing Pisot seeds and original Salem degrees, including repeated common torsion roots.
+
 - [R556 v2](Yin_R_G0556_v2.md#fourfold-return) checks the fourth-multiple theorem for both plastic-seed signs and all sufficiently large delays. [R556 v3](Yin_R_G0556_v3.md#four-phase-arithmetic-review) independently reproduces the 31 exact coefficient tests.
 
 - [R1107 v55](Yin_R_G1107_v55.md#profile-ceiling-review) checks the five profile-specific resultant bounds, with a [separate independent finding](Yin_R_G1107_v55.md#profile-equivalence-review) on fixed and moving references.

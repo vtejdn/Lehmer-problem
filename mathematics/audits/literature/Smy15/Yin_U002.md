@@ -34,3 +34,16 @@ No whole-paper audit or novelty claim is made.
 
 The later [U001](Yin_U001.md#smy15-u001) fixed-Salem-field proof inspection is a different scope.
 The complete local cubic-seed, degree-escape and finite-time counterexample proof is [C_G222](../../../claims/Yin_C_G0222_v1.md#argument), and is not attributed to the survey.
+
+<a id="closedness-and-delay-one"></a>
+## Closedness of the Pisot set and Boyd's delay-one representation
+
+On 2026-11-16 the coordinating AI for Yin reread Section 3.1 on printed pages 6–7 of the same 25-page author rendering.
+On page 6, Smyth attributes to Boyd [18] the statement that every Salem number occurs in Salem's construction with delay \(n=1\).
+Here the seed \(P\) is the minimal polynomial of a Pisot number, and the output is a root of \(zP(z)\pm z^{\deg P}P(1/z)\).
+The statement places no unit condition on the seed and supplies no upper bound on its size.
+Smyth notes that several seeds can give the same Salem number and that the seed can greatly exceed it.
+On page 7, Smyth attributes to Salem [98] the theorem that the set of Pisot numbers is closed in the real line.
+The same page states that every Pisot number is a limit point of Salem numbers and separately records Boyd's conjecture about the reverse inclusion for limit points.
+This inspection establishes the two survey attributions and their hypotheses for use here.
+The original proofs in [18] and [98] were outside this inspection.
