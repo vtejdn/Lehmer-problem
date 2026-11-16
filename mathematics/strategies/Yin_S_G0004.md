@@ -50,9 +50,13 @@ The [congruence-class test](../ledger/Yin_L_G0464_v27.md#congruence-counts) exte
 The [all-conductor linear-factor exclusion](../ledger/Yin_L_G0464_v28.md#rational-factor) requires an irrational zero in the sign-transition gap even for a fourth-degree prefix.
 The [modular obstruction](../ledger/Yin_L_G0464_v29.md#modular-cut) also excludes a rational linear factor times a positive integral cofactor in the quotient order once \(p\ge10^{14}\).
 For a fourth-degree prefix the [totally real sign factors](../claims/Yin_C_G0896_v1.md#decision-totally-real-cut-degree-reviewed) must have total degree exceeding every fixed multiple of \(\sqrt{p/\log p}\) as the conductor grows.
-For the next constructive test, look for an irrational transition root with nonreal conjugates and mixed coefficient parities at \(p>107\), or realize this degree growth in an explicit totally real family.
+The [cubic certificate](../claims/Yin_C_G0896_v2.md#decision-cubic-prediction-exclusion-reviewed) rules out every cubic sign factor with nonreal conjugates at the fourth coefficient, although [three actual cubic inputs](../ledger/Yin_L_G0464_v31.md#cubic-chamber) achieve the third at every odd conductor from nine onward.
+An integer supply at longer prefixes must also have [frequent excursions beyond four](../claims/Yin_C_G0898_v1.md#threshold) in the normalized residues and resist [approximation by a bounded number of moving frequencies](../ledger/Yin_L_G0464_v32.md#moving-frequencies).
+The [stationary algebraic-unit example](../ledger/Yin_L_G0464_v33.md#stationary-law) passes all independent marginal norm tests and the ordered dyadic inequalities simultaneously, but fails the [difference test](../ledger/Yin_L_G0464_v33.md#difference) on the actual conjugates.
+The construction inquiry now tests these correlations before investing in another conductor expansion.
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
-For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples, first moment at most two and \(\limsup|\operatorname{Res}(B_n,Q)|^{1/n}\le1.49\) on any shrinking sequence in this strict chamber.
+For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.
+The [sharper certificate](../claims/Yin_C_G0893_v2.md#decision-arithmetic-energy-ceiling-reviewed) gives \(\limsup|\operatorname{Res}(B_n,Q)|^{1/n}\le1.413\) in the same shrinking chamber.
 At prime conductor the [strict cut fixes the generated field](../ledger/Yin_L_G0464_v25.md#prime-field), so the conjugate samples can also be tested in their actual Galois order.
 
 The [adopted D4-block cover](../claims/Yin_C_G0886_v4.md#decision-d4-block-canonical-cover) covers all positive integral block symmetries and both transvection groups at arbitrary block count and word length.

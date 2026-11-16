@@ -19,16 +19,25 @@ The main researcher may change this allocation as mathematical evidence, a concr
 The selected Task decision resumes research, with S1 coordinating the initial S4 construction and structural-proof inquiries and independent agent-S discovery.
 Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
-| Role | Initial focus | Useful next distinction |
+| Role | Current focus | Useful next distinction |
 | --- | --- | --- |
-| Leading construction and existence inquiry, coordinated with S4 | Actual integer inputs satisfying the variable-neutral-prefix interface, or a discrete positive-count argument for its full admissible event. | Use the [all-cut positive integer interface](../claims/Yin_C_G0881_v10.md#statement), which combines the complete C881v9 bound with strict positivity at every terminal cut; distinguish integer feasibility from a real relaxation or repeated recovery of a supplied value. |
+| Leading proof inquiry | Test what small total measure forces about the reductions of the conjugates of the original unit. | Use the [ratio-field ramification bound](../claims/Yin_C_G0162_v2.md#statement) to look for sufficient matching or valuation across primes using small measure itself. In the chamber, test conditions on successive conjugates against [one stationary law satisfying both earlier sets of tests](../ledger/Yin_L_G0464_v33.md#stationary-law). |
+| Construction and existence inquiry, coordinated with S4 | Seek integer inputs with a growing prefix and a normalized residue distribution compatible with both the marginal and ordered tests. | A construction has to pass the [positive-measure interface](../claims/Yin_C_G0881_v10.md#statement) and the [positive-density excursions above four](../claims/Yin_C_G0898_v1.md#threshold). |
 | Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer representation. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the remaining triality and divisibility cases in [C886v5](../claims/Yin_C_G0886_v5.md#statement). |
 | Alternative construction inquiry | Actual factor production or another mechanism changing the noncyclotomic core. | Seek the actual sublinear-degree factors in [L450v5](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion), or another explicit return to the unrestricted contract. |
 | Computational support, S10 | Bounded diagnostics tied to a distinguishable supply or complete-exterior-cost mechanism. | Compare distinct noncyclotomic cores and measure values, retaining all exterior roots and the actual integer support; known-core recovery alone is not the discovery objective. |
 | Other retained routes, S2, S3, S5, S6, S7, S8 and S9 | Available proof or construction alternatives under autonomous reassessment. | Reuse their precise failures and open interfaces when judging a new idea; their present lower priority is not a human prohibition or an evidence precondition for reconsideration. |
 
-The current first construction candidate is a changed cyclotomic parent tested through the existing endpoint, phase and amplitude conditions.
-That candidate is not mandatory, and a more informative proof or construction idea may replace it.
+On 2026-11-16 the main researcher shifted the primary allocation from extending the finite integer search to these proof tests after agent-S identified an exponentially divisible norm for ordered pairs.
+The first investigation ruled out [approximations with a bounded number of integer Fourier terms](../ledger/Yin_L_G0464_v32.md#moving-frequencies), including moving frequencies and arbitrarily large coefficients.
+An [explicit stationary process](../ledger/Yin_L_G0464_v32.md#relaxation) passes all the amplified doubling tests but fails the integer test on its mean logarithm.
+An [algebraic-unit model](../ledger/Yin_L_G0464_v33.md#stationary-law) subsequently passed all independent marginal integer tests and every amplified dyadic inequality simultaneously.
+Its diagonal mass violates the [difference norm on actual ordered pairs](../ledger/Yin_L_G0464_v33.md#difference), which supplies an immediate test for further models.
+The unrestricted comparison retains the matching ratio-field primes and their ramification in the [norm at each power](../claims/Yin_C_G0162_v2.md#local-proof).
+The [finite-prime construction](../claims/Yin_C_G0162_v2.md#finite-pool) realizes sparse matching simultaneously at any prescribed finite set of unramified primes, even on a bounded-coefficient family with absolute heights tending to zero and total logarithmic measures above \(\log2\).
+The next proof-side test is whether small total measure forces additional valuation or a larger matching proportion at a suitable prime.
+Any argument using only vanishing absolute height, the degree and the choice of primes would also apply to that family.
+The [degree-eight block example](../ledger/Yin_L_G0462_v20.md#nonreal-block-example) also gives trivial norms to every proper subfield and unchanged degree and measure on its oriented block product, so a degree descent from the reciprocal-pair block partition alone has no further allocation.
 For a probabilistic argument, the intended return is positive probability on actual integer inputs in every prescribed strict small-measure shell; no uniform probability lower bound is required.
 Continuing a proved-excluded family merely by increasing its covered parameters is currently low priority, while a changed mathematical mechanism may justify a new selection.
 Prior route allocations below retain their mathematical context and evidence but do not reinstate the withdrawn human restrictions.
@@ -52,13 +61,17 @@ The [first integral completion through coefficient four](../computations/program
 The [first integral completion through coefficient six](../computations/programs/Yin_J_G0155/versions/v3/readme.md#first-conductor) occurs at \(p=55\) and matches through coefficient seven.
 Its auxiliary polynomial \(h\) is even, while the [two parity variation estimates](../claims/Yin_C_G0894_v1.md#decision-parity-variation-reviewed) require unbounded contributions from both its even and odd parts in any shrinking integral sequence.
 The [sharp rational construction](../ledger/Yin_L_G0464_v24.md#sharp-prefix) realizes limiting prefix ratio \(1/(2\kappa+1)\) at each fixed negative block size \(\kappa\), whereas an integral shrinking sequence requires \(\kappa=p^{1-o(1)}\).
-To obtain unbounded integer matching lengths, one must realize a growing negative block and satisfy the [arithmetic restrictions on its normalized residues](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed), including the upper bound \(1.49\) on the limiting normalized resultant.
+To obtain unbounded integer matching lengths, one must realize a growing negative block and satisfy the [arithmetic restrictions on its normalized residues](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed).
+The [ten-polynomial certificate](../claims/Yin_C_G0893_v2.md#decision-arithmetic-energy-ceiling-reviewed) lowers the normalized resultant ceiling to \(1.413<\sqrt2\) and forces an odd resultant at sufficiently large prime conductors where doubling generates a subgroup of index at most two modulo inversion.
 The [complete finite search](../computations/programs/Yin_J_G0155/versions/v4/readme.md#exclusion) excludes matching the coefficient of \(z^8\) at every odd conductor through 107.
 The [rational-root obstruction](../ledger/Yin_L_G0464_v28.md#rational-factor) excludes rational roots of the canonical polynomial in the transition gap already at the fourth coefficient for every conductor.
 For a hypothetical shrinking sequence the [small-factor estimates](../claims/Yin_C_G0895_v2.md#statement) bound the complete measure of low-degree factors of the representative and of suitable factors in the quotient order.
 If all the irreducible factors responsible for changes of sign have only real roots, their [total degree divided by \(\sqrt{p/\log p}\) must diverge](../claims/Yin_C_G0896_v1.md#decision-totally-real-cut-degree-reviewed) already at the fourth coefficient.
 
-The independent strategic-discovery comparison found no developed replacement mechanism in its inspected scope.
+The [three cubic inputs](../ledger/Yin_L_G0464_v31.md#cubic-chamber) realize the third coefficient at every odd conductor from nine onward, whereas the [fourth-coefficient certificate](../claims/Yin_C_G0896_v2.md#decision-cubic-prediction-exclusion-reviewed) excludes a cubic sign factor with nonreal conjugates at every conductor.
+On unbounded grids the auxiliary polynomial itself eventually has [degree at least six](../ledger/Yin_L_G0464_v31.md#fourth-degree).
+
+An earlier independent strategic-discovery comparison screened the following alternatives.
 In particular, the proposed relative-field factor shortcut is already addressed by the [stronger-source boundary](../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary); its missing factor-degree theorem is not a new route simply because the coefficient field is changed.
 The [integer-embedding obstructions](../ledger/Yin_L_G0462_v18.md#unimodular-embedding-obstruction) rule out a blanket standard-integer embedding claim and motivate checking an actual alternative canonical representation instead.
 The [adopted D4-block construction](../claims/Yin_C_G0886_v4.md#decision-d4-block-canonical-cover) supplies such an alternative at arbitrary block count and word length, but retains the ordered block-permutation cost and negative-index-one coverage.
