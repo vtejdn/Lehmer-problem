@@ -93,7 +93,10 @@ When all exterior logarithms are rational multiples of one another, the [rank-on
 The proof uses the [reflection of the full unit group](../claims/Yin_C_G0345_v63.md#reflection) and Agent-S's [adjacent-root height argument](../claims/Yin_C_G0345_v64.md#gap) to bound the joint degree of two independent units.
 The remaining families in this stratum are Salem numbers and reciprocal units with a single pair of nonreal exterior roots.
 In the latter family the [symmetric permutation blocks](../claims/Yin_C_G0345_v68.md#statement) must grow along any sequence tending to one, even when the number of blocks also grows.
-The next test is the case where one block contains all inverse-pair labels and the symmetric group acts on that block.
+The [same-measure quadratic lift](../claims/Yin_C_G0345_v72.md#lift) includes the real Salem case in the complex Salem gap conjecture, preserving the small irreducible measure spectrum up to twice the original degree.
+For a single permutation block the [imaginary quadratic criterion](../claims/Yin_C_G0345_v69.md#field) and the [two endpoint square tests](../claims/Yin_C_G0345_v70.md#discriminant) separate the possible Galois groups.
+At degree minima, every [sufficiently small element in the original field](../claims/Yin_C_G0345_v78.md#minimum) is a torsion multiple of an integral power of the original root, for arbitrary exterior signature.
+The next proof test concerns the original trace polynomial and its integral interlacers: an auxiliary polynomial in another field can use the [bounded-defect gap](../claims/Yin_C_G0345_v38.md#statement) without having to realize a smaller unit inside the degree-record field.
 For higher rational rank the [field of squared moduli](../claims/Yin_C_G0345_v67.md#statement) gives a separate estimate on the original measure when the conjugacy class of complex conjugation is small.
 For example, it gives a uniform gap for the [three-real-exterior circuit](../claims/Yin_C_G0345_v67.md#real), with two independent exterior logarithms.
 For several exterior roots, the same torsion interlacing test applies whenever all but a bounded number of traces supply the prescribed alternation, including when the unused traces are nonreal.

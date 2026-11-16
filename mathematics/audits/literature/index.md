@@ -179,6 +179,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Mos26](Mos26/readme.md) | [Two exterior-root-count controls](Mos26/readme.md) |
 | [NNS13](NNS13/readme.md) | Selected source scope; [C869](../../claims/Yin_C_G0869_v1.md#source-interface): conditional Rademacher logarithmic moments used in coefficient-box expectations |
 | [NPR13](NPR13/readme.md) | [Yin_U001](NPR13/Yin_U001.md) |
+| [NR92](NR92/readme.md) | [Boyd's degree-eighteen example in §4.5](NR92/Yin_U001.md#nr92-u001) |
 | [NS06](NS06/readme.md) | [Yin_U001](NS06/Yin_U001.md), [Yin_U002](NS06/Yin_U002.md) |
 | [NV11](NV11/readme.md) | [Yin_U001](NV11/Yin_U001.md) |
 | [Nat26](Nat26/readme.md) | [Yin_U001](Nat26/Yin_U001.md), [Yin_U002](Nat26/Yin_U002.md), [Yin_U003](Nat26/Yin_U003.md) |
@@ -190,6 +191,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [PP08](PP08/readme.md) | [Yin_U001](PP08/Yin_U001.md) |
 | [PR04](PR04/readme.md) | Source and edition notes |
 | [PRT22](PRT22/readme.md) | [Yin_U001](PRT22/Yin_U001.md#prt22-u001): squarefree Sturm counting, positive normalization and source limits |
+| [PT21](PT21/readme.md) | [Complex Salem numbers and the Salem lift](PT21/Yin_U001.md#pt21-u001) |
 | [PZ22](PZ22/readme.md) | [Yin_U001](PZ22/Yin_U001.md) |
 | [Par88](Par88/readme.md) | [Yin_U001](Par88/Yin_U001.md) |
 | [Paz14](Paz14/readme.md) | [Yin_U001](Paz14/Yin_U001.md) |

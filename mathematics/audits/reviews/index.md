@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v78](Yin_R_G0562_v78.md#record-field-restrictions) checks the proper subfields, eventual automorphisms and small elements at unrestricted Mahler degree records.
+- [R562 v77](Yin_R_G0562_v77.md#moving-rational-measure) checks the degree obstruction for varying rational functions with arbitrary bounded-measure inputs and outputs.
+- [R562 v76](Yin_R_G0562_v76.md#rational-function-degree-review) checks the moving rational-function degree bounds at complex Salem inputs and the primitive single-block estimate.
+- [R562 v75](Yin_R_G0562_v75.md#small-relative-units-review) checks the explicit small-height norm-one criterion and the number of independent integral units.
+- [R562 v74](Yin_R_G0562_v74.md#sharp-single-block-monomials) checks the exact least logarithmic costs of the nonexceptional two-exterior monomials in each single-block case.
+- [R562 v73](Yin_R_G0562_v73.md#endpoint-height-review) checks the circle supremum, root-discriminant ratio and endpoint restrictions in a single block.
+- [R562 v72](Yin_R_G0562_v72.md#complex-salem-spectrum-review) checks the small irreducible measure spectra, the complex Salem lift and the three-orbifold statement interface.
+- [R562 v71](Yin_R_G0562_v71.md#mixed-exterior-monomials) checks the growing monomial cost under a mixed exterior signature on large permutation blocks.
+- [R562 v70](Yin_R_G0562_v70.md#signed-kernel) checks the signed splitting groups, norm-one generator, squared-radius field and Boyd's degree-eighteen example.
+- [R562 v69](Yin_R_G0562_v69.md#imaginary-quadratic-balance) checks the imaginary quadratic field criterion, the ramified endpoint costs and the examples.
 - [R562 v68](Yin_R_G0562_v68.md#permutation-blocks-review) checks the symmetric groups on the inverse-pair blocks and growth restrictions for two nonreal exterior roots.
 - [R562 v67](Yin_R_G0562_v67.md#field-of-radii) checks the field of squared moduli, the complex-conjugation stabilizer and fixed-rank real exterior blocks.
 - [R562 v66](Yin_R_G0562_v66.md#half-space-products) checks the exact-degree subset-product reduction to two nonreal exterior roots and its sharp example.
