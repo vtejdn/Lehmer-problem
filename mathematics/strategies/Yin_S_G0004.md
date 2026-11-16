@@ -72,6 +72,8 @@ The [power-substitution estimate](../ledger/Yin_L_G0462_v42.md#substitution) als
 Every reciprocal input with at most five terms has a [uniform exact-degree rate](../ledger/Yin_L_G0462_v42.md#five-term-return), and [seven terms suffice](../ledger/Yin_L_G0462_v42.md#seven-term-unit) for the resultant to equal one there.
 For every fixed number of terms, an [adaptive order between \(d\) and \(2d\)](../ledger/Yin_L_G0462_v54.md#linear-window) yields a uniform exponential rate for nontorsion integer inputs of positive measure.
 At [arbitrary support](../ledger/Yin_L_G0462_v54.md#prime-scale) the available prime order is superlinear and its rate can decrease with the input measure.
+In the [composite-order window](../ledger/Yin_L_G0462_v60.md#density) starting at \(d\log^2(2d)\), the normalized primitive log resultant recovers the measure with vanishing additive error at density one.
+The [power-substitution formula](../ledger/Yin_L_G0462_v60.md#lifts) tests whether proposed extra integer factors can supply a uniform positive rate there.
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
 The [simplex inequalities](../claims/Yin_C_G0345_v4.md#simplex) locate every Pisot preimage at fixed Salem output and constant.
@@ -82,10 +84,12 @@ The [single-delay construction](../ledger/Yin_L_G0462_v41.md#uniform-delay) real
 At \(j=2\) a primitive irreducible factor of leading coefficient two must have growing degree, and the [finite-prefix exclusion](../ledger/Yin_L_G0462_v40.md#statement) removes further profiles at every fixed \(j\).
 The [inverse simplex](../ledger/Yin_L_G0462_v43.md#return) gives an exact test at a proposed numerator and divisor, including a reconstruction of the original integer polynomial.
 The [negative endpoint estimate](../ledger/Yin_L_G0462_v46.md#negative-endpoint), with the [finite-support argument](../ledger/Yin_L_G0462_v48.md#support), cuts the allowed simplex further at large constants.
-The [fixed-offset theorem](../claims/Yin_C_G0345_v10.md#statement) excludes both \(2U_h\pm U_{h-d}\) in the half-trace variable for each fixed \(d\), including sparse perturbations beyond a fixed fraction of the trace degree.
-The [moving-offset classification](../ledger/Yin_L_G0462_v55.md#moving) leaves five forms for the limiting series.
-If \(d=o(h)\), the [projection onto every \(d\)-th coefficient](../ledger/Yin_L_G0462_v57.md#progression) forces a single one of nine rational series through a positive fraction of the projected degree.
-Use the other residue classes and the endpoint constraints to test existence, and examine \(d\) proportional to \(h\) separately.
+The [four-term gap](../claims/Yin_C_G0345_v15.md#statement) covers \(jU_h+aU_{h-d}\) in the half-trace variable with any integer \(a\), all branches \(j\ge1\), and every allowed offset.
+For an arbitrary lift of bounded normalized circle norm, [the first coefficient outside \(j\mathbb Z\)](../claims/Yin_C_G0345_v13.md#statement) must occur at sublinear degree on a near-integer sequence.
+At \(j=2\) the [two early terms](../ledger/Yin_L_G0462_v61.md#four) first become possible at six terms of the lift.
+When the reduced denominator of the two exponents is unbounded, their coefficients must both have modulus one.
+The [simple-root test](../ledger/Yin_L_G0462_v62.md#simple) identifies valid trace numerators in this class, and the [six-term certificate](../ledger/Yin_L_G0462_v63.md#exclusion) excludes every denominator with \(q\ge77\) through trace degree 26 for these coefficients.
+Determine whether the two separate coefficient changes can satisfy the signed moment constraints at both indices as the degree grows.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.
