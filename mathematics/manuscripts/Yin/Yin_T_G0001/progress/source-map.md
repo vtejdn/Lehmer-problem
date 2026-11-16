@@ -4,7 +4,6 @@ This record is not compiled.
 It maps the strategy-structured 11 October 2026 English revision to the responsible mathematics, including the completed bounded comparison through L355.
 The compiled report contains no internal material identifiers.
 The [current build record](readme.md#local-build-verification) covers the new presentation.
-The [manuscript review](review.md#strategy-revision-authoring-check) records the review scope and limits for this strategy revision.
 Underlying results retain their own assessments, accepted inputs and reviewer relationships.
 
 ## Report scope
@@ -85,4 +84,3 @@ Reader-facing notes identify consulted editions rather than reproduce registry m
 The original source statements, proof-inspection boundaries and external inputs remain as recorded; the rewrite makes no new exhaustive literature or priority claim.
 
 C1--C4 and C7--C8 retain their selected proved / self-reviewed scopes; C5 and C6 remain proof draft / unreviewed and are not promoted by this report.
-The current revision has the explicitly scoped authoring check and manuscript review linked above.

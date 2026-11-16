@@ -11,7 +11,7 @@ Each row is one source-specific use in the current TeX, not an inventory of cons
 
 The canonical bibliography `mathematics/literature/references.bib` owns bibliographic fields and persisted keys.
 The linked source units own source statements, inspected editions, proof-inspection limits and located corrections; this map does not copy them or substitute for them.
-The [editorial source map](progress/source-map.md) owns the project's strategy and responsible-mathematics correspondence, and the [manuscript review](progress/review.md) owns its recorded review scope.
+The [editorial source map](progress/source-map.md) links the report's results to the corresponding strategies, mathematical arguments and fixed reviews.
 This map keeps only the forward manuscript applications: what each citation supports in this report, why the source setting and normalization match, what it does not support, and any unresolved evidence point.
 
 The report's recorded Task pause belongs to its historical scope; this map adds no mathematical result, source audit, review or Task resumption.

@@ -37,5 +37,5 @@ The [standalone computation attachment](progress/supplement/readme.md) supplies 
 | Complete structural costs | [L_G349](../../../ledger/Yin_L_G0349_v1.md#all-count-cost-fixed-scope), [L_G352](../../../ledger/Yin_L_G0352_v1.md#changed-bulk-fixed-scope), [R_G174](../../../audits/reviews/Yin_R_G0174_v1.md), [R_G177](../../../audits/reviews/Yin_R_G0177_v1.md). |
 
 The [current build record](progress/readme.md#local-build-verification) concerns the strategy-structured revision.
-The [manuscript review](progress/review.md#strategy-revision-authoring-check) records that revision's presentation and consistency check, its attachment verification and its review limits.
+The [manuscript problem list](progress/review.md) tracks unresolved mathematical issues in the report.
 This is a progress document, not a claimed solution or a journal submission.

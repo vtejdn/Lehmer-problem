@@ -9,6 +9,7 @@ The current account begins with overall progress, then has one main section for 
 Its four subsidiary-strategy subsections follow the actual strategy hierarchy.
 Important mathematical results are stated in theorem, proposition, lemma or corollary environments.
 The [source map](source-map.md) records the strategy correspondence and every substantive group of results.
+The [manuscript problem list](review.md) records unresolved mathematical issues in the report.
 The project [citation applications map](../citation.md) records every external citation use in the current TeX with its passage, source evidence and limits.
 The [computation attachment](supplement/readme.md) can be copied out of the repository.
 Its standard-library verifier checks the finite optimization table; a separately implemented [return-core verifier](supplement/return-core.md) with NumPy and python-flint checks the original normalized words, complete 797507-state compact enumeration, original-digit ancestry and exact exclusions.
@@ -76,7 +77,6 @@ On 4 November 2026, the current six TeX inputs and bibliography compiled in this
 The result is a 29-page A4 `main.pdf`, including the explicit long-window certificate definition and ceiling argument in the growth section.
 The final logs contain no unresolved references or citations, missing characters, warnings or overfull/underfull boxes.
 Pages 16--18 were rendered and visually inspected, covering the changed passage and its transitions; the remaining pages were not newly inspected visually.
-The manuscript-specific mathematical checking scope remains in [review.md](review.md).
 
 The command `python -B supplement/verify.py` passed all 304 source columns, five exact finite-family optima and two strict improvements, and correctly rejected the sixth dual certificate.
 That run checked the finite optimization attachment only.
