@@ -108,6 +108,9 @@ The [three primitive cubics](../ledger/Yin_L_G0462_v77.md#cubic) all have a [uni
 The [complete six-term theorem](../claims/Yin_C_G0345_v20.md#statement) bounds \(q\) on branch two at all offset ratios and with all admissible coefficients.
 The construction inquiry now seeks a trace lift with at least eight terms on this branch.
 The [rational prefix theorem](../claims/Yin_C_G0345_v21.md#statement) further excludes a fixed fractional prefix without an interior root under its stated norm and length bounds.
+The [real exterior-prefix theorem](../claims/Yin_C_G0345_v22.md#statement) gives a neighborhood of each nonconstant strictly exterior limiting polynomial with a positive excess bound.
+On a fixed branch this and the rational result force the largest reduced lower exponent of an escaping sequence to tend to infinity.
+For eight terms on branch two the [short relation](../ledger/Yin_L_G0462_v92.md#eight) leaves at most \(O(h^2)\) offset triples at trace degree \(h\), while [the three sublinear offsets](../ledger/Yin_L_G0462_v93.md#eight) give a finite list of possible two-variable Laurent polynomials along an escaping sequence.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.

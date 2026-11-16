@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R1114 v86](Yin_R_G1114_v86.md#coefficient-patterns) checks the coefficient classification when the third offset is the sum of the other two, and [its second finding](Yin_R_G1114_v86.md#stable-gap) checks the positive excess for the strictly stable pattern.
+- [R1114 v85](Yin_R_G1114_v85.md#short-frequency-relation-review) checks the bounded relation for fixed term count and branch, and [the three-offset finding](Yin_R_G1114_v85.md#three-offsets-review) checks the reduction of the eight-term case to finitely many two-variable polynomials.
+- [R562 v22](Yin_R_G0562_v22.md#real-exterior-prefix-review) checks real coefficient neighborhoods of strictly exterior prefixes and the necessary circle roots on actual bounded-offset sequences.
 - [R562 v21](Yin_R_G0562_v21.md#rational-stable-prefix-review) checks a fixed rational prefix in any branch, including the division argument for noncyclotomic factors with roots on the unit circle.
 - [R562 v20](Yin_R_G0562_v20.md#six-term-branch-two-review) checks the uniform excess and bound on the Pisot constant over the entire six-term class on branch two.
 - [R1114 v84](Yin_R_G1114_v84.md#six-term-global-review) checks the Fourier and coefficient arguments for both coalescing and separated offsets in that class.
