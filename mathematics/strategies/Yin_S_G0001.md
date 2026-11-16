@@ -53,6 +53,10 @@ The [first integral completion through coefficient six](../computations/programs
 Its auxiliary polynomial \(h\) is even, while the [two parity variation estimates](../claims/Yin_C_G0894_v1.md#decision-parity-variation-reviewed) require unbounded contributions from both its even and odd parts in any shrinking integral sequence.
 The [sharp rational construction](../ledger/Yin_L_G0464_v24.md#sharp-prefix) realizes limiting prefix ratio \(1/(2\kappa+1)\) at each fixed negative block size \(\kappa\), whereas an integral shrinking sequence requires \(\kappa=p^{1-o(1)}\).
 To obtain unbounded integer matching lengths, one must realize a growing negative block and satisfy the [arithmetic restrictions on its normalized residues](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed), including the upper bound \(1.49\) on the limiting normalized resultant.
+The [complete finite search](../computations/programs/Yin_J_G0155/versions/v4/readme.md#exclusion) excludes matching the coefficient of \(z^8\) at every odd conductor through 107.
+The [rational-root obstruction](../ledger/Yin_L_G0464_v28.md#rational-factor) excludes rational roots of the canonical polynomial in the transition gap already at the fourth coefficient for every conductor.
+For a hypothetical shrinking sequence the [small-factor estimates](../claims/Yin_C_G0895_v2.md#statement) bound the complete measure of low-degree factors of the representative and of suitable factors in the quotient order.
+If all the irreducible factors responsible for changes of sign have only real roots, their [total degree divided by \(\sqrt{p/\log p}\) must diverge](../claims/Yin_C_G0896_v1.md#decision-totally-real-cut-degree-reviewed) already at the fourth coefficient.
 
 The independent strategic-discovery comparison found no developed replacement mechanism in its inspected scope.
 In particular, the proposed relative-field factor shortcut is already addressed by the [stronger-source boundary](../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary); its missing factor-degree theorem is not a new route simply because the coefficient field is changed.

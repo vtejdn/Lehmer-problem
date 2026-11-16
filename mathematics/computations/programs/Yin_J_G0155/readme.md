@@ -201,3 +201,6 @@ Its unique completion at \(p=37\) matches the fixed \(P_{*,0}\) through index fi
 
 The [enumeration for matching through index six](versions/v3/readme.md#first-conductor) proves that \(p=55\) is the first conductor reaching either index six or seven.
 Its unique completion there matches through index seven and has complete measure between \(1.5016010997\) and \(1.5016011001\), with a separate [enumeration and root count](../../../audits/reviews/Yin_R_G1107_v61.md#long-prefix-first-conductor-review).
+
+The [complete search for matching through index eight](versions/v4/readme.md#exclusion) excludes every odd conductor through \(107\).
+An [independent enumeration](../../../audits/reviews/Yin_R_G1107_v63.md#prefix-eight-exclusion-review) reproduces all 152 new conductor and cut cases and the grid zeros at the 52 surviving leaves.

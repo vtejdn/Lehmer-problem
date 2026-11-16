@@ -247,6 +247,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Voi98](Voi98/readme.md) | [Yin_U001](Voi98/Yin_U001.md) |
 | [Wal18](Wal18/readme.md) | [Yin_U001](Wal18/Yin_U001.md) |
 | [War05](War05/readme.md) | [Yin_U001](War05/Yin_U001.md) |
+| [Wus02](Wus02/readme.md) | [Yin_U001](Wus02/Yin_U001.md#logarithmic-form) gives the Baker–Wüstholz lower bound with explicit degree and height dependence. |
 | [WvL21](WvL21/readme.md) | [Yin_U001](WvL21/Yin_U001.md#full-isometry-and-transitivity): full positive E8 isometry group and norm-two root transitivity |
 | [Xyl11](Xyl11/readme.md) | [Yin_U001](Xyl11/Yin_U001.md) |
 | [Yin20](Yin20/readme.md) | [Yin_U001](Yin20/Yin_U001.md), [Yin_U002](Yin20/Yin_U002.md), [Yin_U003](Yin20/Yin_U003.md), [Yin_U004](Yin20/Yin_U004.md) |
