@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v68](Yin_R_G0562_v68.md#permutation-blocks-review) checks the symmetric groups on the inverse-pair blocks and growth restrictions for two nonreal exterior roots.
+- [R562 v67](Yin_R_G0562_v67.md#field-of-radii) checks the field of squared moduli, the complex-conjugation stabilizer and fixed-rank real exterior blocks.
+- [R562 v66](Yin_R_G0562_v66.md#half-space-products) checks the exact-degree subset-product reduction to two nonreal exterior roots and its sharp example.
+- [R562 v65](Yin_R_G0562_v65.md#rank-one-radial-gap) checks the quantitative Mahler gap for at least three compressed exterior roots with commensurable log moduli.
+- [R562 v64](Yin_R_G0562_v64.md#five-modulus-perron-gap) checks the non-Salem gap for reciprocal Perron units with five prescribed conjugate moduli.
+- [R562 v63](Yin_R_G0562_v63.md#radial-reflections) checks the full reflection representation, signed conjugate lifts and the five modulus levels.
+- [R562 v62](Yin_R_G0562_v62.md#flip-monomial-measure) checks the measure of integer monomials under independent flips and the equality classification.
+- [R562 v61](Yin_R_G0562_v61.md#four-exterior-radii) checks torsion-class compression, the two unequal commensurable radii and the four-root equal-radius estimates.
+- [R562 v60](Yin_R_G0562_v60.md#exterior-pair-orbits) checks matching descent with any number of nonreal pairs and the independent-logarithm power alternative.
+- [R562 v59](Yin_R_G0562_v59.md#four-label-dihedral-reduction) checks the half-degree four-label reduction, its sharp example and the four real exterior root cases.
 - [R562 v58](Yin_R_G0562_v58.md#real-exterior-blocks) checks the relation lattice for real exterior conjugates and the power-interlacing alternatives across both three-exterior signatures.
 - [R562 v57](Yin_R_G0562_v57.md#three-exterior-reduction) checks the two rational logarithmic ratios, same-degree reduction to two exterior roots, power densities and the sextic example.
 - [R562 v56](Yin_R_G0562_v56.md#first-power-bound) checks the deterministic first-exponent bound and the fixed-degree examples with a long initial failure of integer torsion interlacing.

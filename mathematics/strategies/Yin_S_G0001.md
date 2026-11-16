@@ -89,7 +89,13 @@ For a real exterior root and a nonreal exterior pair, the [two rational logarith
 For entirely real exterior conjugates, [complex conjugation splits the relation lattice](../claims/Yin_C_G0345_v58.md#projection) into disjoint equal-sized subsets, each of size dividing both the trace degree and the number of exterior roots.
 This completes the [power-interlacing alternatives for three exterior roots](../claims/Yin_C_G0345_v58.md#all-three).
 For triples admitting a measure reduction in both directions, [applying the transformation twice](../ledger/Yin_L_G0462_v145.md#twice) gives cubes up to torsion and rules out a cube root inside the ratio field at a degree minimum.
-The next comparison is whether a similar reduction can avoid large exponents when the exterior moduli have independent logarithms.
+When all exterior logarithms are rational multiples of one another, the [rank-one gap](../claims/Yin_C_G0345_v65.md#statement) excludes every sequence tending to one with at least three exterior roots after equal-measure compression.
+The proof uses the [reflection of the full unit group](../claims/Yin_C_G0345_v63.md#reflection) and Agent-S's [adjacent-root height argument](../claims/Yin_C_G0345_v64.md#gap) to bound the joint degree of two independent units.
+The remaining families in this stratum are Salem numbers and reciprocal units with a single pair of nonreal exterior roots.
+In the latter family the [symmetric permutation blocks](../claims/Yin_C_G0345_v68.md#statement) must grow along any sequence tending to one, even when the number of blocks also grows.
+The next test is the case where one block contains all inverse-pair labels and the symmetric group acts on that block.
+For higher rational rank the [field of squared moduli](../claims/Yin_C_G0345_v67.md#statement) gives a separate estimate on the original measure when the conjugacy class of complex conjugation is small.
+For example, it gives a uniform gap for the [three-real-exterior circuit](../claims/Yin_C_G0345_v67.md#real), with two independent exterior logarithms.
 For several exterior roots, the same torsion interlacing test applies whenever all but a bounded number of traces supply the prescribed alternation, including when the unused traces are nonreal.
 A separate [sparse endpoint theorem](../claims/Yin_C_G0900_v1.md#statement) permits the proof inquiry to keep a factor of fixed measure \(m\) when the integral product still has an endpoint coefficient of modulus \(m\) and bounded support.
 On the arithmetic side the [linear-window approximation](../ledger/Yin_L_G0462_v70.md#linear) now covers arbitrary support and the [exceptional-order refinement](../ledger/Yin_L_G0462_v73.md#circle) charges only roots exactly on the unit circle.

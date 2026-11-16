@@ -140,6 +140,12 @@ The [product obstructions](../claims/Yin_C_G0345_v52.md#products) show that incr
 For the three-exterior construction, the [sextic with doubled ratio](../claims/Yin_C_G0345_v57.md#example) is an actual example of an exact reduction to two exterior roots; its Mahler measure supplies no sequence tending to one.
 On balanced triples with two exterior roots the [reverse construction](../ledger/Yin_L_G0462_v145.md#reverse) gives three exterior roots at the same degree above six and squares the input measure.
 An attempted construction by taking cube roots of ordered ratios must therefore test whether the cube root belongs to the same field.
+In the [rank-one exterior-logarithm family](../claims/Yin_C_G0345_v65.md#reduction), a construction tending to one would already give Salem numbers tending to one or reciprocal units tending to one in measure with just one nonreal exterior pair.
+For the classical components of unbounded rank a [subset product of the original roots](../claims/Yin_C_G0345_v66.md#products) realizes the two-exterior signature at logarithmic measure cost at most two.
+With several nonreal pairs, a [Galois-invariant matching](../claims/Yin_C_G0345_v60.md#matching) instead produces a polynomial at the original measure with half the exterior count and all exterior roots positive real.
+For four nonreal exterior roots the [unequal commensurable radii](../claims/Yin_C_G0345_v61.md#matching) already give an exact power of a Salem or quadratic unit.
+For real exterior roots a [four-label block of multiplicative rank two](../claims/Yin_C_G0345_v59.md#conjugates) can halve the degree, the exterior count and the logarithmic measure.
+Independent inverse-pair flips impose a [lower bound for every integral monomial](../claims/Yin_C_G0345_v62.md#matching), with equality for a two-label product only on a matching of equal moduli.
 For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 
