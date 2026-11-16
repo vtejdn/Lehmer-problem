@@ -39,3 +39,13 @@ In the discussion of the least point of \(S_u\), Boyd gives the cubic \(z^3-(u-1
 Its negative constant coefficient matters for the signed delay-one construction.
 The paper also reports a bounded calculation near \(u=9\), including 27 points of \(S_9\) in \([9,9.1]\), none with positive minimal-polynomial constant.
 The [normalized series for the cubic](../../../ledger/Yin_L_G0462_v36.md#sign) is calculated directly from that polynomial.
+
+<a id="narrow-branches"></a>
+## Narrow coefficient intervals after the first discrepancy
+
+On 2026-11-16 agent-S for Yin read Section 3, printed pages 1249–1251, in the [published scan](readme.md#editions).
+Boyd relates the asymptotic widths of the real intervals for the next series coefficient to the circle mean of \(\log(1-|F|^2)\) and the pole of the associated function.
+Lemma 1 gives the two reciprocal completions near a fixed derived function of width below \((1+\sqrt{17})/4\).
+Its proof uses the integer size of a first discrepancy and contraction of the next coefficient interval.
+Lemma 2 uses an interval of length below \(9/4\) to obtain the two possible departures at each later index.
+These are fixed-function results; the [moving-constant argument](../../../ledger/Yin_L_G0462_v40.md#first-departure) controls an initial interval uniformly as \(q\) varies.

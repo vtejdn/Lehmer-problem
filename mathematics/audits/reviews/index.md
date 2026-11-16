@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v7](Yin_R_G0562_v7.md#trace-obstruction-review) checks the uniform first-branch Pisot gap and the normalized multiplier obstruction, including growing branch index.
+- [R562 v6](Yin_R_G0562_v6.md#atom-isolation-review) checks the one-sided isolation of the identity mass for positive torsion measures with integer Fourier coefficients.
+- [R1114 v41](Yin_R_G1114_v41.md#inverse-numerator-review) checks both degree parities of the inverse simplex at a fixed trace numerator, its volume and the return to the Salem question.
+- [R1114 v40](Yin_R_G1114_v40.md#sparse-degree-review) checks the five-term exponential rate, its sharp unit-coefficient case and the seven-term failure at the original degree.
+- [R1114 v39](Yin_R_G1114_v39.md#single-delay-review) checks the exact degree threshold and sign for delayed uniform profiles, including every exceptional finite-field computation.
+- [R1114 v38](Yin_R_G1114_v38.md#small-density-review) checks the finite-prefix exclusion for small continuous densities at every fixed Pisot branch.
 - [R562 v5](Yin_R_G0562_v5.md#strict-moment-review) checks the exclusion of saturated integer moments on the square-root window and the required continuous component of the radial distribution.
 - [R562 v2](Yin_R_G0562_v2.md#prescribed-constant-inverse-review) checks the prescribed Pisot inverse for every Salem polynomial, and [R562 v4](Yin_R_G0562_v4.md#pisot-simplex-review) checks the two-point excess inequalities, the entire integer simplex and its second-order minimum.
 - [R562 v3](Yin_R_G0562_v3.md#radial-half-degree-review) checks the necessary square-root exterior count for both half-degree seeds of an arbitrary near-one reciprocal input.

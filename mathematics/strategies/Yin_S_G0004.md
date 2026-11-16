@@ -68,12 +68,17 @@ The [uniform error estimate for varying seeds](../claims/Yin_C_G0336_v3.md#state
 In the [golden-ratio sequence](../ledger/Yin_L_G0462_v28.md#cyclic), the norms at every divisor of \(d-2\) are known exactly and have subexponential growth together.
 For the [canonical half-degree representation](../ledger/Yin_L_G0462_v35.md#five-terms) both auxiliary phase measures can overestimate the actual normalized resultant by a positive constant, even at the seventh multiple and with five coefficients.
 The [two exact endpoint residues](../ledger/Yin_L_G0462_v35.md#factor-test) instead give an original norm bound for low-degree factors in either quotient ring at full middle span.
+The [power-substitution estimate](../ledger/Yin_L_G0462_v42.md#substitution) also permits a different exponent and kernel for each factor.
+Every reciprocal input with at most five terms has a [uniform exact-degree rate](../ledger/Yin_L_G0462_v42.md#five-term-return), and [seven terms suffice](../ledger/Yin_L_G0462_v42.md#seven-term-unit) for the resultant to equal one there.
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
 The [simplex inequalities](../claims/Yin_C_G0345_v4.md#simplex) locate every Pisot preimage at fixed Salem output and constant.
 For the degree-ten Lehmer output at constant 1000 the [exhaustive fiber calculation](../ledger/Yin_L_G0462_v37.md#minimum) distinguishes its two smallest exterior roots.
 To vary the output, [weighted conjugate directions](../ledger/Yin_L_G0462_v36.md#weights) and the [totally real gap](../ledger/Yin_L_G0462_v34.md#real-conjugates) constrain candidate Pisot inputs before construction of the reciprocal factor.
-The [strict integer moment bound](../claims/Yin_C_G0345_v5.md#statement) eliminates every purely atomic radial limit at fixed branch index; the first branch leaves a uniform density, a single cosine perturbation of it or a half-uniform mixture.
+The [strict integer moment bound](../claims/Yin_C_G0345_v5.md#statement) eliminates every purely atomic radial limit at fixed branch index.
+The [single-delay construction](../ledger/Yin_L_G0462_v41.md#uniform-delay) realizes the uniform profile at negative constant, whereas the [trace numerator obstruction](../claims/Yin_C_G0345_v7.md#statement) excludes every positive-constant near-integer sequence at \(j=1\).
+At \(j=2\) a primitive irreducible factor of leading coefficient two must have growing degree, and the [finite-prefix exclusion](../ledger/Yin_L_G0462_v40.md#statement) removes further profiles at every fixed \(j\).
+The [inverse simplex](../ledger/Yin_L_G0462_v43.md#return) gives an exact test at a proposed numerator and divisor, including a reconstruction of the original integer polynomial.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.
