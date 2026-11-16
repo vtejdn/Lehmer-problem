@@ -76,6 +76,7 @@ At arbitrary support the [linear-window theorem](../ledger/Yin_L_G0462_v70.md#sc
 For primitive inputs the [large-prime sieve](../claims/Yin_C_G0899_v1.md#statement) preserves such orders while removing every rational prime divisor at most \(d^{1/5}\) from their primitive resultants.
 For small-measure units the [discriminant and local valuation estimate](../claims/Yin_C_G0899_v2.md#statement) allows the contribution of primes dividing the order to be discarded as well.
 The next arithmetic question is what forces total logarithmic valuation \(cd\) from those exact residue orders without the factor \(m(P)\).
+Equivalently the [product of prime ideals at their first return](../ledger/Yin_L_G0462_v78.md#product) needs logarithmic norm at least \(c d^2\); its proved scale is \(d^2m(P)\) within absolute factors.
 Other equivalent tests use [a prescribed degree sieve](../ledger/Yin_L_G0462_v69.md#single), a [smooth order or two nearby composite orders](../ledger/Yin_L_G0462_v75.md#criteria).
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
@@ -94,7 +95,8 @@ When the reduced denominator of the two exponents is unbounded, their coefficien
 The [simple-root test](../ledger/Yin_L_G0462_v62.md#simple) identifies valid trace numerators in this class, and the [six-term certificate](../ledger/Yin_L_G0462_v63.md#exclusion) excludes every denominator with \(q\ge77\) through trace degree 26 for these coefficients.
 The [first positive denominator coefficient](../claims/Yin_C_G0345_v17.md#statement) occurs by \(Ce\) for any such six-term input with large \(q\), where \(e\) is the second offset.
 For a coefficient at \(u=o(d)\) the [offset-separation test](../ledger/Yin_L_G0462_v72.md#separation) can impose one of just two exact differences.
-The [factored prefix](../ledger/Yin_L_G0462_v71.md#six-term) and [eleven projected profiles for \(2\pm w+w^2\)](../ledger/Yin_L_G0462_v74.md#profiles) exclude shrinking excess in those quadratic families.
+The [eleven profiles for \(2\pm w+w^2\)](../ledger/Yin_L_G0462_v74.md#profiles) and [nine for \(2\pm2w+w^2\)](../ledger/Yin_L_G0462_v76.md#profiles) give a [uniform excess at offsets \(d,2d\)](../claims/Yin_C_G0345_v18.md#quadratic) for every second-branch coefficient pair.
+After removal of integral factors, only [three primitive cubics](../ledger/Yin_L_G0462_v77.md#cubic) remain at reduced upper offset three.
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.

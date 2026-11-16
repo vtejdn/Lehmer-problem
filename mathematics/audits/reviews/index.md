@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v18](Yin_R_G0562_v18.md#quadratic-prefix-review) checks the full quadratic-offset gap, its stable prefix form and the reducible-cubic consequence, with a [separate check of all nine coefficient-two profiles](Yin_R_G0562_v18.md#coefficient-two-review).
+- [R1114 v71](Yin_R_G1114_v71.md#first-return-norm) checks the prime-ideal product at first residue orders and its aggregate logarithmic norm.
+- [R1114 v70](Yin_R_G1114_v70.md#cubic-review) checks the three remaining primitive cubic prefixes, their irreducibility and the strict root locations.
 - [R1114 v69](Yin_R_G1114_v69.md#exact-orders) checks the local valuation, discriminant cost and exact residue-order criterion for a uniform gap.
 - [R1114 v68](Yin_R_G1114_v68.md#circle-root-review) checks the reduction of the exceptional-order count to the distinct roots exactly on the circle.
 - [R1114 v67](Yin_R_G1114_v67.md#smooth-pair-review) checks the smooth-order and nearby-order criteria, and its [quadratic-prefix finding](Yin_R_G1114_v67.md#quadratic-prefix-review) checks the eleven profiles and uniform Pisot excess.
