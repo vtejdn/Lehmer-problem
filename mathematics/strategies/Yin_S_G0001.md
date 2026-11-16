@@ -48,7 +48,11 @@ The [integer prefix theorem](../claims/Yin_C_G0892_v2.md#decision-general-parent
 An unbounded prefix therefore requires a growing parent degree.
 For the exceptional parents \(F_s\) the [explicit bound](../ledger/Yin_L_G0457_v10.md#explicit-bound) is linear in \(s\), so increasing \(p\) alone cannot produce a sequence from the conductor-21 example.
 With growing \(s\), [matching the fixed \(x=0\) profile](../ledger/Yin_L_G0464_v23.md#moving-parent-equivalence) is equivalent to realizing long exceptional-parent prefixes, with the same integer polynomials and all the same signs.
-The outstanding construction question on that route is whether the prescribed initial coefficients of \((1+z^2)^2/((1-z)(1-z^2))\) admit such integral completions at unbounded lengths.
+The [first integral completion through coefficient four](../computations/programs/Yin_J_G0155/versions/v2/readme.md#first-conductor) occurs at \(p=37\), is unique there, and matches the fixed reference through coefficient five.
+The [first integral completion through coefficient six](../computations/programs/Yin_J_G0155/versions/v3/readme.md#first-conductor) occurs at \(p=55\) and matches through coefficient seven.
+Its auxiliary polynomial \(h\) is even, while the [two parity variation estimates](../claims/Yin_C_G0894_v1.md#decision-parity-variation-reviewed) require unbounded contributions from both its even and odd parts in any shrinking integral sequence.
+The [sharp rational construction](../ledger/Yin_L_G0464_v24.md#sharp-prefix) realizes limiting prefix ratio \(1/(2\kappa+1)\) at each fixed negative block size \(\kappa\), whereas an integral shrinking sequence requires \(\kappa=p^{1-o(1)}\).
+To obtain unbounded integer matching lengths, one must realize a growing negative block and satisfy the [arithmetic restrictions on its normalized residues](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed), including the upper bound \(1.49\) on the limiting normalized resultant.
 
 The independent strategic-discovery comparison found no developed replacement mechanism in its inspected scope.
 In particular, the proposed relative-field factor shortcut is already addressed by the [stronger-source boundary](../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary); its missing factor-degree theorem is not a new route simply because the coefficient field is changed.

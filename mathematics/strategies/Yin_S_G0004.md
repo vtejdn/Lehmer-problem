@@ -41,7 +41,14 @@ The [grid moment bounds](../claims/Yin_C_G0891_v2.md#decision-sublinear-prefix-r
 With only the two prescribed Taylor coefficients \(H(0)=0,\ |H'(0)|=1\), a [rational construction](../ledger/Yin_L_G0464_v22.md#strict-realization) at \(s=2\) attains order \(p^{2/5}\).
 The integral search now requires growing parent degree together with growing feasible matching length.
 The [fixed-profile equivalence](../ledger/Yin_L_G0464_v23.md#moving-parent-equivalence) permits working directly on the integral \(x=0\) coefficient constraints instead of searching for an additional exceptional-parent representation.
-For a sequence in this strict chamber with \(1<M(P)\to1\), the [profile-specific resultant bound](../ledger/Yin_L_G0464_v23.md#norm-ceiling) at \(x=0\) is \(\limsup|\operatorname{Res}(B_n,Q)|^{1/n}\le2e^{-1/704}\).
+The [conductor-37 completion](../computations/programs/Yin_J_G0155/versions/v2/readme.md#first-conductor) is the first integral one through coefficient four and first differs at coefficient six.
+The [next integer threshold](../computations/programs/Yin_J_G0155/versions/v3/readme.md#first-conductor) is \(p=55\) for both the sixth and seventh coefficients, with complete measure between \(1.5016010997\) and \(1.5016011001\).
+The even auxiliary \(h\) at that conductor belongs to the [uniform parity gap](../claims/Yin_C_G0894_v1.md#decision-parity-variation-reviewed), so any construction approaching measure one must introduce an odd part with unbounded weighted variation.
+In fact [both parities must depart from the prescribed profile](../ledger/Yin_L_G0464_v26.md#parity-count) in at least \(c_\epsilon p/\kappa\) positions below each fixed \(\epsilon p\) along such a sequence, where \(\kappa\) counts the negative residues.
+This directs the next search toward integer completions past index seven with changes in both parities.
+The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
+For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples, first moment at most two and \(\limsup|\operatorname{Res}(B_n,Q)|^{1/n}\le1.49\) on any shrinking sequence in this strict chamber.
+At prime conductor the [strict cut fixes the generated field](../ledger/Yin_L_G0464_v25.md#prime-field), so the conjugate samples can also be tested in their actual Galois order.
 
 The [adopted D4-block cover](../claims/Yin_C_G0886_v4.md#decision-d4-block-canonical-cover) covers all positive integral block symmetries and both transvection groups at arbitrary block count and word length.
 It gives the unpowered Lehmer gap when the final ordered block permutation is trivial, and otherwise retains the factor \(1/d\) for its order \(d\).

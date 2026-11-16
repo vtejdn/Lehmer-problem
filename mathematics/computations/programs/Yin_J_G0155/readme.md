@@ -195,3 +195,9 @@ The [separate N=6 conditional test](third_moment.md#result) fixes \(a_2=4\) in t
 Its one bounded solver call reached 60 seconds without an incumbent, so no N=6 candidate received a complete-Mahler calculation.
 The original N=3 incumbent was used only as a solver-free negative control for the additional moment check.
 This bounded failure supplies no exact chamber exclusion.
+
+The [exact enumeration through conductor 37](versions/v2/readme.md#first-conductor) determines the first conductor admitting \(a_0=2,a_1=0,a_2=4\) with a strict sign cut and endpoint.
+Its unique completion at \(p=37\) matches the fixed \(P_{*,0}\) through index five, with the exclusions and measured lift checked in the [independent review](../../../audits/reviews/Yin_R_G1107_v56.md#fixed-prefix-first-conductor-review).
+
+The [enumeration for matching through index six](versions/v3/readme.md#first-conductor) proves that \(p=55\) is the first conductor reaching either index six or seven.
+Its unique completion there matches through index seven and has complete measure between \(1.5016010997\) and \(1.5016011001\), with a separate [enumeration and root count](../../../audits/reviews/Yin_R_G1107_v61.md#long-prefix-first-conductor-review).
