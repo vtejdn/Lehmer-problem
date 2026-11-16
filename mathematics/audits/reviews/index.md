@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v27](Yin_R_G0562_v27.md#uniform-delay-gap) checks the uniform gap for Salem construction delays at least three and [the norm-sensitive root comparison](Yin_R_G0562_v27.md#radial-and-trace) with its exact cyclotomic exceptions.
+- [R562 v26](Yin_R_G0562_v26.md#two-scales-review) checks the first fractional scale and [the positive lower-half coefficient mass beyond it](Yin_R_G0562_v26.md#later-mass-review).
+- [R1114 v95](Yin_R_G1114_v95.md#sublinear-prime-order) checks the sublinear common prime order and both growth rates for a fixed finite list or pointwise for every nonreciprocal Pisot seed.
 - [R1114 v94](Yin_R_G1114_v94.md#prime-orders) checks the five prime-order reductions for two Salem families and [the first fractional coefficient](Yin_R_G1114_v94.md#fractional-scale) on sparse trace sequences.
 - [R562 v25](Yin_R_G0562_v25.md#reduced-degree-review) checks the uniform excess for bounded reduced lower degree across all branches and [the exclusion of reciprocal and integral limits](Yin_R_G0562_v25.md#reciprocal-limit-review).
 - [R1114 v93](Yin_R_G1114_v93.md#harmonic-review) checks the nonnegative densities at a limiting real prefix and [the sparse-prefix gap](Yin_R_G1114_v93.md#profile-review) with varying coefficient denominators.

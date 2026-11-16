@@ -88,7 +88,8 @@ The [Salem examples](../ledger/Yin_L_G0462_v102.md#periods) give the exact finit
 The [cyclic factors of the periodic point group](../claims/Yin_C_G0391_v2.md#statement) identify the number of equal exponential rates at each exponent from the actual powered orbit.
 For one of these same inputs the [neighboring order calculation](../ledger/Yin_L_G0462_v109.md#order) gives the common modulus \(L_p\) exactly at every prime divisor of \(J-1\) or \(J+2\), where \(L_p\) is the Lucas number.
 Every pair of these inputs admits a shared growing prime order at most \(d-3\) with a positive lower bound for \(\log G_p/p\).
-Seek a comparable choice of order for other reciprocal units, retaining the normalization by \(p\).
+The [sublinear recovery theorem](../claims/Yin_C_G0899_v6.md#statement) gives a single prime sequence \(p_N=o(N)\) recovering the full rate at both signs for every fixed nonreciprocal Pisot seed, via equality of the actual short- and long-delay trace ideals.
+Seek analogous control for varying seeds or other reciprocal units, retaining the normalization by \(p-1\).
 Other equivalent tests use [a prescribed degree sieve](../ledger/Yin_L_G0462_v69.md#single), a [smooth order or two nearby composite orders](../ledger/Yin_L_G0462_v75.md#criteria).
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
@@ -116,10 +117,12 @@ The [real exterior-prefix theorem](../claims/Yin_C_G0345_v22.md#statement) gives
 The [four-term vertex classification](../claims/Yin_C_G0900_v2.md#statement) and the [trapezoid return](../ledger/Yin_L_G0462_v99.md#return) resolve the previously remaining rank-two limits for eight terms on branch two.
 The [sparse prefix theorem](../claims/Yin_C_G0345_v24.md#statement) gives a positive lower bound for the excess whenever term count and branch are bounded.
 With bounded term count and varying branch the [first fractional coefficient](../ledger/Yin_L_G0462_v110.md#first) has denominator tending to infinity and distance to the integers tending to zero.
-This distance tends to zero uniformly through each fixed multiple of its index.
+This distance tends to zero uniformly through each fixed multiple of its index, but the [later-scale result](../claims/Yin_C_G0345_v26.md#statement) forces a lower coefficient of nonvanishing size at a separated index on a further subsequence.
 The [reduced lower degree theorem](../claims/Yin_C_G0345_v25.md#statement) independently forces the largest lower exponent divided by their gcd to grow on every vanishing-excess sequence.
 Search for growing support on a fixed branch or a varying-branch source realizing both necessary conditions.
 At fixed \(j=2\) these qualitative bounds still leave open the existence of one input with \(q\ge77\).
+In the direct Salem construction the [uniform gap at delays at least three](../claims/Yin_C_G0345_v27.md#statement) shifts the construction effort to delay one and to delay two at norms one and two.
+For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.

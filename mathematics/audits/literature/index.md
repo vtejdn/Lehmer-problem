@@ -41,6 +41,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Bil97](Bil97/readme.md) | [Yin_U001](Bil97/Yin_U001.md), [Yin_U002](Bil97/Yin_U002.md) |
 | [Bin22](Bin22/readme.md) | [Yin_U001](Bin22/Yin_U001.md) |
 | [Bor96](Bor96/readme.md) | [Yin_U001](Bor96/Yin_U001.md#affine-chamber-quotient): affine Leech chamber quotient and canonical-normalization boundary |
+| [Boy96](Boy96/readme.md) | [Pisot defining polynomials and their cyclotomic cofactors](Boy96/Yin_U001.md#regular-cofactor) |
 | [CDPT26](CDPT26/readme.md) | [Yin_U001](CDPT26/Yin_U001.md) |
 | [CDT24](CDT24/readme.md) | [Yin_U001](CDT24/Yin_U001.md) |
 | [CFMZ26](CFMZ26/readme.md) | [Yin_U001](CFMZ26/Yin_U001.md), [Yin_U002](CFMZ26/Yin_U002.md), [Yin_U003](CFMZ26/Yin_U003.md) |
@@ -144,6 +145,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [LP17](LP17/readme.md) | Source and edition notes |
 | [LR17](LR17/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#finite-difference-normalization-check): finite-difference mesh input and monic-normalization check |
 | [LS05](LS05/readme.md) | [Yin_U001](LS05/Yin_U001.md) |
+| [Laz78](Laz78/readme.md) | [Fixed Pisot polynomial families on compact intervals below two](Laz78/Yin_U001.md#compact-pisot-families) |
 | [Li26](Li26/readme.md) | [Yin_U001](Li26/Yin_U001.md) |
 | [Lin00](Lin00/readme.md) | Source and edition notes |
 | [Lin95](Lin95/readme.md) | Source and edition notes |

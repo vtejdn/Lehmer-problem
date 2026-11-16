@@ -21,9 +21,9 @@ Other routes remain available for autonomous reassessment; their current priorit
 
 | Role | Current focus | Useful next distinction |
 | --- | --- | --- |
-| Leading proof inquiry | Find an exponentially large modulus admitting a single integer root of the base and prime-period polynomials, using the trace for reciprocal units. | The [common-root theorem](../claims/Yin_C_G0899_v5.md#statement) recovers the full fixed-base Mahler rate at every large prime order. A proof needs a rate uniform over the base, or equivalently a uniform rate for the [largest cyclic factor of periodic points](../claims/Yin_C_G0391_v2.md#statement). |
+| Leading proof inquiry | Find a prime order with an exponentially large common modulus for varying reciprocal units, testing whether reduction to a fixed trace ideal survives a changing Pisot seed. | The [common-root theorem](../claims/Yin_C_G0899_v5.md#statement) recovers the full fixed-base Mahler rate at every large prime order. The [sublinear prime-order theorem](../claims/Yin_C_G0899_v6.md#statement) gives the full rate simultaneously at both signs for every fixed Pisot seed, with seed-dependent onset. |
 | Construction and existence inquiry, coordinated with S4 | Seek integer inputs with a growing prefix and a normalized residue distribution compatible with both the marginal and ordered tests. | A construction has to pass the [positive-measure interface](../claims/Yin_C_G0881_v10.md#statement) and the [positive-density excursions above four](../claims/Yin_C_G0898_v1.md#threshold). |
-| Leading Salem counterexample inquiry | Seek positive-constant Pisot inputs with growing trace support on a fixed branch, or test growing branches with unbounded early coefficient denominators. | The [sparse prefix theorem](../claims/Yin_C_G0345_v24.md#statement) gives a positive excess at every fixed term count and branch. On all branches the [gcd of the lower exponents](../claims/Yin_C_G0345_v25.md#statement) also restricts their positions. |
+| Leading Salem counterexample inquiry | Concentrate on delay one, with growing trace support on a fixed branch or separated lower coefficients on growing branches. Test delay two at seed norms one and two. | The [sparse prefix theorem](../claims/Yin_C_G0345_v24.md#statement) gives a positive excess at every fixed term count and branch. The [delay gap](../claims/Yin_C_G0345_v27.md#statement) leaves only delays one and two for a near-one sequence in Salem's construction. |
 | Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer representation. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the remaining triality and divisibility cases in [C886v5](../claims/Yin_C_G0886_v5.md#statement). |
 | Alternative construction inquiry | Actual factor production or another mechanism changing the noncyclotomic core. | Seek the actual sublinear-degree factors in [L450v5](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion), or another explicit return to the unrestricted contract. |
 | Computational support, S10 | Bounded diagnostics tied to a distinguishable supply or complete-exterior-cost mechanism. | Compare distinct noncyclotomic cores and measure values, retaining all exterior roots and the actual integer support; known-core recovery alone is not the discovery objective. |
@@ -45,8 +45,12 @@ The [four-term vertex classification](../claims/Yin_C_G0900_v2.md#statement) ide
 For near-one construction the [sparse prefix gap](../claims/Yin_C_G0345_v24.md#statement) now excludes every bounded term count on every fixed branch.
 If the term count stays bounded while the branch varies, the [first fractional coefficient](../ledger/Yin_L_G0462_v110.md#first) already has denominator tending to infinity, and it approaches an integer.
 Writing \(d\) for its index, every normalized coefficient through \(A d\) approaches the integer lattice for each fixed \(A\).
+The [two-scale theorem](../claims/Yin_C_G0345_v26.md#statement) also requires a later lower coefficient of nonvanishing size on a further subsequence, with index divided by \(d\) tending to infinity.
 The [bound for reduced lower exponents](../claims/Yin_C_G0345_v25.md#statement) also forces their largest index divided by their common gcd to tend to infinity in either case.
 The construction inquiry turns to growing support on branch two or to a growing branch meeting both restrictions, while a single input at \(j=2,\ q\ge77\) remains a finite numerical target.
+For the direct Salem construction \(z^Nf\pm f^*\), the [gap for every \(N\ge3\)](../claims/Yin_C_G0345_v27.md#statement) puts the remaining near-one inquiry at \(N=1,2\).
+Delay one represents every Salem number.
+At delay two test unit seeds approaching \([2,1+\sqrt2]\) or norm-two seeds with \(20/9<\theta\le1+\sqrt3+o(1)\).
 A separate [sparse endpoint theorem](../claims/Yin_C_G0900_v1.md#statement) permits the proof inquiry to keep a factor of fixed measure \(m\) when the integral product still has an endpoint coefficient of modulus \(m\) and bounded support.
 On the arithmetic side the [linear-window approximation](../ledger/Yin_L_G0462_v70.md#linear) now covers arbitrary support and the [exceptional-order refinement](../ledger/Yin_L_G0462_v73.md#circle) charges only roots exactly on the unit circle.
 Agent-S developed the discriminant and Fourier estimates; the main researcher used them to isolate the contribution at primes of exact residue order.
@@ -63,7 +67,9 @@ For a Salem base, [odd total valuation at primes congruent to minus one](../ledg
 At [degree \(p-1\)](../ledger/Yin_L_G0462_v90.md#degree-plus-one) the common modulus can equal one at the next prime, and [two Salem families](../ledger/Yin_L_G0462_v102.md#log-window) realize modulus one simultaneously at every odd prime through \(c\log d\) for each fixed \(c<1\).
 At [prime divisors of nearby integers](../ledger/Yin_L_G0462_v109.md#neighbors), one of those families has common modulus exactly the Lucas number \(L_p\) whenever \(p\mid J-1\) or \(p\mid J+2\).
 Both families admit a common choice of growing prime \(p\le d-3\) with \(\log G_p\ge c p\).
-The proof inquiry now tests when the reduction of an original trace at a chosen prime order yields a fixed trace or one integer evaluation with a uniform positive rate.
+The [fixed-seed transfer](../claims/Yin_C_G0899_v6.md#transfer) preserves the actual trace ideal at a prime dividing the difference of two delays.
+One sequence of primes \(p_N=o(N)\) recovers the half-logarithmic seed measure at both signs for every fixed nonreciprocal Pisot seed.
+The next arithmetic question is what uniform control of those trace ideals or their prime-order onset can survive a varying seed.
 A finite search at larger \(h\) on the fixed path could still test for a single smaller Salem number.
 
 On 2026-11-16 the main researcher shifted the primary allocation from extending the finite integer search to these proof tests after agent-S identified an exponentially divisible norm for ordered pairs.

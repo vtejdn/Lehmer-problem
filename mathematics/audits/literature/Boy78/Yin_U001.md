@@ -8,7 +8,8 @@ author: Yin
 <a id="fixed-delay-enumeration"></a>
 ## Fixed delays
 
-In the [published edition](readme.md#editions), Section 4, equation (26), uses \(z^mP(z)+\epsilon P^*(z)\) for a Pisot minimal polynomial \(P\) and its reciprocal \(P^*(z)=z^{\deg P}P(1/z)\).
+In the [published edition](readme.md#editions), Section 4, equation (26), uses \(z^mP(z)+\epsilon P^*(z)\) for a Pisot minimal polynomial \(P\) with reciprocal \(P^*(z)=z^{\deg P}P(1/z)\).
+Boyd takes \(\epsilon=\operatorname{sgn}P(0)\) in the reported search.
 Section 5, Lemma 4, pp. 1254–1255, gives finiteness of Boyd's exact coefficient tree on a closed interval disjoint from the Pisot numbers and from \(1\), for fixed \(m\ge2\), and for \(m=1\) with the initial coefficient \(u_0\) fixed.
 For the associated function of equation (28), \(u_0=|P(0)|\).
 On p. 1255, the delay-two search in \([1.125,1.3]\) found 41 distinct Salem numbers from 576 seed polynomials, omitting two of the 43 known Salem numbers in that interval in 1978.
