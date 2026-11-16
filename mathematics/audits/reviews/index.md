@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R1114 v94](Yin_R_G1114_v94.md#prime-orders) checks the five prime-order reductions for two Salem families and [the first fractional coefficient](Yin_R_G1114_v94.md#fractional-scale) on sparse trace sequences.
+- [R562 v25](Yin_R_G0562_v25.md#reduced-degree-review) checks the uniform excess for bounded reduced lower degree across all branches and [the exclusion of reciprocal and integral limits](Yin_R_G0562_v25.md#reciprocal-limit-review).
+- [R1114 v93](Yin_R_G1114_v93.md#harmonic-review) checks the nonnegative densities at a limiting real prefix and [the sparse-prefix gap](Yin_R_G1114_v93.md#profile-review) with varying coefficient denominators.
+- [R562 v24](Yin_R_G0562_v24.md#denominator-review) checks the positive excess for sparse lifts with bounded denominators in an initial interval and the consequences for every fixed or varying branch.
+- [R562 v23](Yin_R_G0562_v23.md#eight-term-review) checks the full eight-term branch-two gap, including the [parallel-sided limit](Yin_R_G0562_v23.md#trapezoid-return).
+- [R1114 v92](Yin_R_G1114_v92.md#four-offset-review) checks that a hypothetical sparse branch-two sequence with vanishing excess needs a fourth sublinear lower offset.
+- [R1114 v91](Yin_R_G1114_v91.md#intermediate-window-review) checks the intermediate coefficient interval and [the propagation to the full denominator](Yin_R_G1114_v91.md#bounded-denominator-review).
+- [R1114 v90](Yin_R_G1114_v90.md#divisor-plateau-review) checks the periodic subgroups of two Salem families and the [classification at a four-term vertex](Yin_R_G1114_v90.md#four-term-vertex-review).
+- [R1114 v89](Yin_R_G1114_v89.md#parallel-sides) checks the parallel-sided four-term polynomials and [the extremal torus minimum](Yin_R_G1114_v89.md#extremal-minimum).
 - [R1114 v88](Yin_R_G1114_v88.md#affine-line-review) checks the sharp circle norm bound, the exclusion of lower exponents on an affine line, the strengthened relation and the remaining trapezoid example.
 - [R1114 v87](Yin_R_G1114_v87.md#reciprocal-gap) checks the remaining reciprocal sum-of-offsets case, the [gap above a vertex coefficient](Yin_R_G1114_v87.md#endpoint-gap) in every finite dimension and its [application to trace products](Yin_R_G1114_v87.md#trace-product).
 - [R1114 v86](Yin_R_G1114_v86.md#coefficient-patterns) checks the coefficient classification when the third offset is the sum of the other two, and [its second finding](Yin_R_G1114_v86.md#stable-gap) checks the positive excess for the strictly stable pattern.

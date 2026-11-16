@@ -83,8 +83,12 @@ For unrestricted original units the same prescribed order can have [primitive re
 On reciprocal bases the [split and inert prime calculation](../ledger/Yin_L_G0462_v83.md#split) and the [signed odd trace norm](../ledger/Yin_L_G0462_v84.md#sign) identify when a prime in the negative dyadic residue class must appear.
 For Salem units of any degree the [multiplier construction](../ledger/Yin_L_G0462_v85.md#archimedean) forces that class for half the multipliers in a suitable progression, with the size of its modulus depending on the input and excluded primes.
 For a fixed base the [dyadic precision theorem](../ledger/Yin_L_G0462_v86.md#valuation) limits lower bounds drawn solely from divisibility of \(W-1\).
-At prime periods the [single common integer root](../claims/Yin_C_G0899_v5.md#criterion) captures the entire logarithmic rate after folding the inverse pairs; the degree-dependent onset matters even at the [first prime after the degree](../ledger/Yin_L_G0462_v90.md#order).
+At prime periods the [single common integer root](../claims/Yin_C_G0899_v5.md#criterion) captures the entire logarithmic rate after folding the inverse pairs.
+The [Salem examples](../ledger/Yin_L_G0462_v102.md#periods) give the exact finite groups at every divisor of \(d-2\) and can have trivial common modulus at every odd prime up to \(c\log d\) for \(c<1\).
 The [cyclic factors of the periodic point group](../claims/Yin_C_G0391_v2.md#statement) identify the number of equal exponential rates at each exponent from the actual powered orbit.
+For one of these same inputs the [neighboring order calculation](../ledger/Yin_L_G0462_v109.md#order) gives the common modulus \(L_p\) exactly at every prime divisor of \(J-1\) or \(J+2\), where \(L_p\) is the Lucas number.
+Every pair of these inputs admits a shared growing prime order at most \(d-3\) with a positive lower bound for \(\log G_p/p\).
+Seek a comparable choice of order for other reciprocal units, retaining the normalization by \(p\).
 Other equivalent tests use [a prescribed degree sieve](../ledger/Yin_L_G0462_v69.md#single), a [smooth order or two nearby composite orders](../ledger/Yin_L_G0462_v75.md#criteria).
 The [interior-circle estimate](../claims/Yin_C_G0345_v3.md#half-degree) also tests the two half-degree seeds directly by their truncated exterior root mass.
 For the counterexample inquiry, [prescribed Pisot constants](../claims/Yin_C_G0345_v2.md#statement) make near-integer excess equivalent to a near-one Salem sequence; the [degree-only choice](../ledger/Yin_L_G0462_v33.md#degree-uniform) suffices for this equivalence.
@@ -106,13 +110,16 @@ For a coefficient at \(u=o(d)\) the [offset-separation test](../ledger/Yin_L_G04
 The [eleven profiles for \(2\pm w+w^2\)](../ledger/Yin_L_G0462_v74.md#profiles) and [nine for \(2\pm2w+w^2\)](../ledger/Yin_L_G0462_v76.md#profiles) give a [uniform excess at offsets \(d,2d\)](../claims/Yin_C_G0345_v18.md#quadratic) for every second-branch coefficient pair.
 The [three primitive cubics](../ledger/Yin_L_G0462_v77.md#cubic) all have a [uniform excess on both primitive cubic offset pairs](../claims/Yin_C_G0345_v19.md#statement), covering sign rotation and every common scale.
 The [complete six-term theorem](../claims/Yin_C_G0345_v20.md#statement) bounds \(q\) on branch two at all offset ratios and with all admissible coefficients.
-The construction inquiry now seeks a trace lift with at least eight terms on this branch.
+The [eight-term branch-two theorem](../claims/Yin_C_G0345_v23.md#statement) extends this qualitative bound on \(q\) to every lift with up to eight terms.
 The [rational prefix theorem](../claims/Yin_C_G0345_v21.md#statement) further excludes a fixed fractional prefix without an interior root under its stated norm and length bounds.
 The [real exterior-prefix theorem](../claims/Yin_C_G0345_v22.md#statement) gives a neighborhood of each nonconstant strictly exterior limiting polynomial with a positive excess bound.
-On a fixed branch this and the rational result force the largest reduced lower exponent of an escaping sequence to tend to infinity.
-For eight terms on branch two the [short relation](../ledger/Yin_L_G0462_v92.md#eight) leaves at most \(O(h^2)\) offset triples at trace degree \(h\), while [the three sublinear offsets](../ledger/Yin_L_G0462_v93.md#eight) give a finite list of possible two-variable Laurent polynomials along an escaping sequence.
-The [sum-of-offsets gap](../ledger/Yin_L_G0462_v96.md#reciprocal) covers every coefficient and sign when \(d_3=d_1+d_2\).
-The [coefficient norm test](../ledger/Yin_L_G0462_v98.md#relation) further forces a relation with nonzero coefficient sum in the remaining eight-term search.
+The [four-term vertex classification](../claims/Yin_C_G0900_v2.md#statement) and the [trapezoid return](../ledger/Yin_L_G0462_v99.md#return) resolve the previously remaining rank-two limits for eight terms on branch two.
+The [sparse prefix theorem](../claims/Yin_C_G0345_v24.md#statement) gives a positive lower bound for the excess whenever term count and branch are bounded.
+With bounded term count and varying branch the [first fractional coefficient](../ledger/Yin_L_G0462_v110.md#first) has denominator tending to infinity and distance to the integers tending to zero.
+This distance tends to zero uniformly through each fixed multiple of its index.
+The [reduced lower degree theorem](../claims/Yin_C_G0345_v25.md#statement) independently forces the largest lower exponent divided by their gcd to grow on every vanishing-excess sequence.
+Search for growing support on a fixed branch or a varying-branch source realizing both necessary conditions.
+At fixed \(j=2\) these qualitative bounds still leave open the existence of one input with \(q\ge77\).
 
 The [sharp rational examples](../ledger/Yin_L_G0464_v24.md#periodic-weights) identify the first nonintegral coordinate when the length is asymptotic to \(p/(2\kappa+1)\) at fixed \(\kappa\).
 For the integral search, the [normalized residue law](../claims/Yin_C_G0893_v1.md#decision-normalized-residue-tests-reviewed) gives all polynomial norm tests on independent samples and a first moment at most two.
