@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v245](Yin_R_G0562_v245.md#finding) checks the prime-power parity obstruction, the explicit congruence classes of offsets and the prime-square irreducibility criterion.
+- [R562 v244](Yin_R_G0562_v244.md#trace-congruence) checks the four integral trace values and the first binary digit for rational lifts at square-root offsets.
+- [R562 v243](Yin_R_G0562_v243.md#two-prime-obstruction) checks the two-prime obstruction to the binary period test and its different lifting conclusions over the rationals and the dyadic integers.
+- [R562 v242](Yin_R_G0562_v242.md#residual-periods) checks squarefree degrees and partial period bounds on the orders represented by a four-term factor.
+- [R562 v241](Yin_R_G0562_v241.md#finding) checks the angular conditions giving a unique positive-measure factor for moving seeds with one exterior conjugate pair.
+- [R562 v240](Yin_R_G0562_v240.md#moving-power) checks the quantitative height and individual edge contributions for moving powers and nonmonic blocks.
+- [R562 v239](Yin_R_G0562_v239.md#binary-periods) checks the uniform five-term factor gap with one further prime of unbounded exponent.
+- [R562 v238](Yin_R_G0562_v238.md#both-coefficients) checks the coefficient-prime degree estimates at both ends of reciprocal and antireciprocal tetranomials.
 - [R562 v237](Yin_R_G0562_v237.md#odd-prime-degrees) checks the odd-prime degree divisibility for reciprocal four- and five-term inputs.
 - [R562 v236](Yin_R_G0562_v236.md#finding) checks the finite reciprocal Laurent families and their dimension bound for every fixed term count and coefficient bound.
 - [R562 v235](Yin_R_G0562_v235.md#dyadic-degrees) checks the dyadic degrees and the uniform gap when the part of the reduced middle exponent prime to six is bounded.
