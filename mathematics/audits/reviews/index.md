@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v276](Yin_R_G0562_v276.md#finding) Bounded-measure radical products of conjugates and the cost of mixed monomials.
+- [R562 v275](Yin_R_G0562_v275.md#finding) Quadratic orientation fields, trace discriminants and the limit of the parity constraint.
+- [R562 v274](Yin_R_G0562_v274.md#finding) Canonical orientations and relative Mahler gaps for large reciprocal units.
 - [R562 v273](Yin_R_G0562_v273.md#finding) Full inversion kernels for every prime in the five-term Salem family.
 - [R562 v272](Yin_R_G0562_v272.md#finding) Full signed permutation groups in an explicit infinite prime-index Salem family.
 - [R562 v271](Yin_R_G0562_v271.md#finding) Independence of exterior radii, sign changes and descent to lower degree.

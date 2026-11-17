@@ -18,3 +18,4 @@ The relevant theorem and corollary are both on printed p.329.
 The Addendum contains brief proof explanations and a list of corrections to the 1973 paper on p.331.
 Those passages were read, but the earlier proof steps on which they depend were not audited; the retained input is an accepted established external statement rather than an independent proof verification.
 The original 1973 article's publisher requests did not return a usable original during this bounded inspection, and Sch00 Theorem 72 was not used as an inspected replacement.
+The later [Sch73 reading of Theorem 2](../Sch73/Yin_U001.md#theorem-2) checks the original statement against the corrigenda on printed p.331 of this Addendum.

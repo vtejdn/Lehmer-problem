@@ -239,6 +239,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [San20](San20/readme.md) | [Yin_U001](San20/Yin_U001.md#san20-u001) |
 | [Sar15](Sar15/readme.md) | [Yin_U001](Sar15/Yin_U001.md) |
 | [Sch00](Sch00/readme.md) | Source and edition notes; introduction-only applicability scope |
+| [Sch73](Sch73/readme.md) | [Theorem 2 with its corrected exponents](Sch73/Yin_U001.md#theorem-2) and [absolute height of a field element](Sch73/Yin_U001.md#linear-height) |
 | [Sch75](Sch75/readme.md) | [Yin_U001](Sch75/Yin_U001.md#sch75-u001): monic integral non-self-inversive relative measure gap |
 | [Sch99](Sch99/readme.md) | 1999 printed-statement applicability; [L450 v6](../../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary) |
 | [Sch19](Sch19/readme.md) | Published correction identified; correction text and scope not inspected |
