@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v289](Yin_R_G0562_v289.md#pisot-cyclotomic-perturbation-height) Height cost for positive-constant Pisot perturbations.
 - [R562 v288](Yin_R_G0562_v288.md#salem-logarithmic-discriminant-deficit) Exact logarithmic discriminant deficit in a Salem family.
 - [R562 v287](Yin_R_G0562_v287.md#salem-unramified-prime-windows) Salem splitting fields unramified at prescribed finite primes.
 - [R562 v286](Yin_R_G0562_v286.md#salem-prescribed-finite-tests) Salem units below the plastic number with zero prescribed local valuations.
@@ -256,6 +257,7 @@
 - [R562 v35](Yin_R_G0562_v35.md#irreducible-reciprocal-inverse) checks the irreducible inverse and recovery of all exterior traces.
 - [R562 v34](Yin_R_G0562_v34.md#codifferent-branch) checks the factor-four branch construction and the prime division criterion.
 - [R562 v33](Yin_R_G0562_v33.md#residue-denominator) checks the sharp lower bound for low-degree residue representatives with integer scaling.
+- [R1114 v104](Yin_R_G1114_v104.md#varying-seed-prime-obstruction-whole) checks C899v7's height-one varying-seed obstruction, all-delay Salem factor, full cyclotomic multiplicity bound and eventual zero rate at a prescribed sublinear prime.
 - [R1114 v103](Yin_R_G1114_v103.md#sparse-weight) checks the minimal circle mean for sparse nonnegative trace weights, its degree-normalized consequence and the square-residue construction.
 - [R562 v32](Yin_R_G0562_v32.md#semicircle-criterion) checks the exact trace residues and prescribed branch-to-degree and semicircle limits in the degree-preserving inverse.
 - [R562 v31](Yin_R_G0562_v31.md#controlled-inverse) checks the controlled delay-one inverse, its positive integer constant, degree window and uniform error.
