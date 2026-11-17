@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v267](Yin_R_G0562_v267.md#finding) Radical-free block actions and the solvable kernel before and after compression.
+- [R562 v266](Yin_R_G0562_v266.md#finding) Ordinary lines among multiplicative labels and large two-point-stabilizer orbits.
+- [R562 v265](Yin_R_G0562_v265.md#finding) A cubic dyadic ideal class of order seven and all offsets at conductor 1831.
+- [R562 v264](Yin_R_G0562_v264.md#finding) Locally finite Mahler spectra for numbers solvable by radicals and quantitative alternating sections.
 - [R562 v263](Yin_R_G0562_v263.md#finding) Cyclic class counts and irreducibility at every offset for four explicit prime conductors.
 - [R562 v262](Yin_R_G0562_v262.md#finding) Sublinear dyadic divisors at prime periods and simultaneous trace tests.
 - [R562 v261](Yin_R_G0562_v261.md#finding) Exterior-root allocation and the irreducible offset-one prime-period family.

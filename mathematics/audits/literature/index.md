@@ -22,6 +22,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [AZ10](AZ10/readme.md) | [Yin_U001](AZ10/Yin_U001.md) |
 | [AZ90](AZ90/readme.md) | [Yin_U001](AZ90/Yin_U001.md) |
 | [BBL09](BBL09/readme.md) | [Yin_U001](BBL09/Yin_U001.md) |
+| [BCP82](BCP82/readme.md) | [Order bound with restricted composition factors](BCP82/Yin_U001.md#composition-factors) |
 | [BDM07](BDM07/readme.md) | [Yin_U001](BDM07/Yin_U001.md) |
 | [BGH21](BGH21/readme.md) | Source and edition notes |
 | [BGMP24](BGMP24/readme.md) | [Yin_U001](BGMP24/Yin_U001.md) |
@@ -34,6 +35,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BS09](BS09/readme.md) | [Yin_U001](BS09/Yin_U001.md) |
 | [BS13](BS13/readme.md) | [Yin_U001](BS13/Yin_U001.md) |
 | [BS20](BS20/readme.md) | [Yin_U001](BS20/Yin_U001.md) |
+| [BS22](BS22/readme.md) | [Alternating sections in point stabilizers](BS22/Yin_U001.md#stabilizers) |
 | [BS96](BS96/readme.md) | [Yin_U001](BS96/Yin_U001.md) |
 | [BSS17](BSS17/readme.md) | [Yin_U001](BSS17/Yin_U001.md) |
 | [BV04](BV04/readme.md) | [Yin_U001](BV04/Yin_U001.md), [Yin_U002](BV04/Yin_U002.md), [Yin_U003](BV04/Yin_U003.md) |
@@ -42,6 +44,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BV20](BV20/readme.md) | [Yin_U001](BV20/Yin_U001.md), [Yin_U002](BV20/Yin_U002.md), [Yin_U003](BV20/Yin_U003.md) |
 | [BZ01](BZ01/readme.md) | [Canonical Newton polygon](BZ01/Yin_U001.md#bz01-u001) |
 | [BZ22](BZ22/readme.md) | [Yin_U001](BZ22/Yin_U001.md) |
+| [Bab18](Bab18/readme.md) | [Alternating sections and thickness of primitive groups](Bab18/Yin_U001.md#thickness) |
 | [Bel17](Bel17/readme.md) | [Yin_U001](Bel17/Yin_U001.md), [Yin_U002](Bel17/Yin_U002.md) |
 | [Bil97](Bil97/readme.md) | [Yin_U001](Bil97/Yin_U001.md), [Yin_U002](Bil97/Yin_U002.md) |
 | [Bin22](Bin22/readme.md) | [Yin_U001](Bin22/Yin_U001.md) |
@@ -155,7 +158,9 @@ The source notes and units own their editions, inspected passages and actual ins
 | [LN23](LN23/readme.md) | Source and edition notes |
 | [LP17](LP17/readme.md) | Source and edition notes |
 | [LR17](LR17/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#finite-difference-normalization-check): finite-difference mesh input and monic-normalization check |
+| [LS03](LS03/readme.md) | [Orders, bases and the attribution of the linear exponent](LS03/readme.md#exponents) |
 | [LS05](LS05/readme.md) | [Yin_U001](LS05/Yin_U001.md) |
+| [LS99](LS99/readme.md) | [Linear base bound with an excluded alternating section](LS99/Yin_U001.md#base) and [almost simple actions with large bases](LS99/Yin_U001.md#almost-simple) |
 | [Laz78](Laz78/readme.md) | [Fixed Pisot polynomial families on compact intervals below two](Laz78/Yin_U001.md#compact-pisot-families) |
 | [Li26](Li26/readme.md) | [Yin_U001](Li26/Yin_U001.md) |
 | [Lin00](Lin00/readme.md) | Source and edition notes |

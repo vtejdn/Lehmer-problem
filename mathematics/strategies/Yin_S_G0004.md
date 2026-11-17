@@ -251,6 +251,7 @@ For the five-term coefficients \(1,-2,1\), [the number of top binary Frobenius o
 With a moving prime \(n=q>3\), the binary orders are just \(3\) and \(3q\).
 [Local divisors of sublinear degree](../claims/Yin_C_G0345_v262.md#statement) can pass simultaneous dyadic trace tests at a growing set of offsets.
 A [global ideal-class constraint](../claims/Yin_C_G0345_v259.md#statement) distinguishes choices with the same degree at every offset, and [cyclic class counts](../claims/Yin_C_G0345_v263.md#statement) give the complete rational factorization for four prime conductors.
+At \(q=1831\) the [three primes over two in the cyclic cubic field](../claims/Yin_C_G0345_v265.md#statement) likewise force all primitive labels into one rational factor at every offset.
 At an odd outer gap \(k=q-l\) with \(q/k\ge5\), the [exterior-root count and locations](../claims/Yin_C_G0345_v261.md#statement) give a second way to test how much of the measure one factor can carry.
 The open construction needs a rational factor carrying a vanishing fraction of the primitive labels while satisfying these global restrictions.
 For every fixed term count \(s\) and coefficient bound, [descent to finitely many reciprocal Laurent polynomials](../claims/Yin_C_G0345_v236.md#statement) gives at most \(\lfloor s/2\rfloor\) variables.

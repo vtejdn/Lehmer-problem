@@ -1,3 +1,9 @@
+## Original 1982 proof for restricted composition factors
+
+For the historical attribution of the primitive order bound, acquire the body of Babai, Cameron and Pálfy's 1982 article and check the original theorem and its dependence on the excluded alternating degree.
+The publisher's open-archive record supplied the abstract, and its article API supplied bibliographic metadata.
+The current inspection separates that evidence from the later authors' account of the exponent and the published linear base theorem. [Inspected scope](audits/literature/BCP82/Yin_U001.md#composition-factors) · [Publisher](https://doi.org/10.1016/0021-8693(82)90323-4)
+
 ## Selected HandWiki literature: missing complete originals
 
 Yin's requested acquisition of the previously unregistered works in the [HandWiki reference list](https://handwiki.org/wiki/Lehmer%27s_conjecture#References) still needs complete originals for the following five works.
