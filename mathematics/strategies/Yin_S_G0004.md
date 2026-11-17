@@ -238,13 +238,29 @@ The [conductor parity and short-offset formulas](../claims/Yin_C_G0345_v245.md#s
 The [trace modulo eight](../claims/Yin_C_G0345_v246.md#statement) rules out the remaining small offsets for that selection.
 Every nonconstant rational factor in this family has [degree at least a constant times \(\sqrt{nk}\)](../claims/Yin_C_G0345_v247.md#statement), with \(k=n-l\).
 The prescribed binary degree would force \(k=O(A^2)\), so this divisor has no rational lift at any admissible offset for large \(A\).
-Other local selections remain possible, including ones with only mixed orders, whose squarefree parts contribute one to the stated trace product modulo eight.
+At higher precision the [mixed complete conductor](../claims/Yin_C_G0345_v248.md#statement) contributes \(17\bmod32\); for \(n=5^a7^b\) the top complete level of degree \(48n/35\) cannot lift over the rationals at \(k<n/140\).
+At an incomplete mixed level [quadratic periods](../claims/Yin_C_G0345_v249.md#statement) distinguish the two reciprocal halves and give an all-offset parity condition.
+[Comparing pairs of trace values](../claims/Yin_C_G0345_v252.md#statement) excludes both choices at \(k=n/35+2\) in the two prescribed families, even when all four residues modulo four agree.
+At \(n=1225,\ k=37\), the [full degree-2450 parent](../claims/Yin_C_G0345_v255.md#statement) is irreducible and its Galois group acts by all signed permutations of the inverse pairs.
+The [general degree bound](../claims/Yin_C_G0345_v250.md#orders) forces every actual noncyclotomic factor, including one containing partial levels, to reach an order \(3t\) with \(t=n^{1-o(1)}\).
+For \(n=5^a7^b\), one such \(t\) has \(n/t\ll(\log n)^3/(\log\log n)^2\).
+The upper height bound and the full binary period give \(m\asymp d/n\) throughout the family.
+Together with a [common period capturing enough roots](../claims/Yin_C_G0345_v256.md#period), this proves a positive factor gap and a linear degree lower bound for every fixed finite set of middle-index primes, including arbitrarily large powers of five and seven.
+[Effective periods that count multiplicities](../claims/Yin_C_G0345_v257.md#families) extend the gap to arbitrary powers of two and three and to both coefficient-prime orientations for reciprocal tetranomials at bounded coefficient length.
+For the five-term coefficients \(1,-2,1\), [the number of top binary Frobenius orbits](../claims/Yin_C_G0345_v258.md#five) must grow in a shrinking sequence, allowing the middle-index primes themselves to vary.
+With a moving prime \(n=q>3\), the binary orders are just \(3\) and \(3q\).
+The remaining question is how many distinct orbits of order \(3q\) belong to one rational factor.
 For every fixed term count \(s\) and coefficient bound, [descent to finitely many reciprocal Laurent polynomials](../claims/Yin_C_G0345_v236.md#statement) gives at most \(\lfloor s/2\rfloor\) variables.
 At four or five terms a shrinking sequence therefore needs a fixed two-variable polynomial.
+For every fixed rationally irreducible plane curve of support rank two, the [factor-height comparison](../claims/Yin_C_G0345_v253.md#statement) makes the measure of an actual factor comparable to its degree divided by the specialization width at large primitive directions.
+A shrinking sequence is equivalent to actual sublinear-degree factors on one such component; their degrees must exceed a constant times \(N(\log\log N/\log N)^3\) at primitive scale \(N\).
+Their [normal closures over the maximal abelian field](../claims/Yin_C_G0345_v253.md#galois) grow faster than every fixed power of \(N\).
+On the five-term curve [three specified powers preserve every root field](../claims/Yin_C_G0345_v251.md#five) at all admissible offsets, and all powers preserve it at sufficiently large middle index.
 Its [exponent directions](../claims/Yin_C_G0345_v171.md#statement) must approach an edge normal whose oriented edge polynomial has a root outside the unit disk, with the exponent along that edge tending to infinity.
 With more than five terms, a [resultant over the separated binomial end](../claims/Yin_C_G0345_v233.md#statement) gives a factor gap when that end is coprime to the opposite block, the product deficit per end degree stays bounded, and the middle terms stay a fixed proportion of the width from both ends.
 For the unrestricted question, a putative sequence of units of vanishing positive measure can be replaced by one whose [minimum coefficient length exceeds any prescribed function of the reciprocal measure](../claims/Yin_C_G0345_v185.md#prescribed).
 The [quadratic sparse-divisor estimate](../claims/Yin_C_G0345_v186.md#statement) controls the number of terms needed when the multiple has width comparable to the factor degree.
+For an arbitrary bounded-length relation, [compression at a minimal vanishing subset](../claims/Yin_C_G0345_v254.md#statement) gives a normalized root whose degree-to-width ratio is comparable to the original measure and whose powers generate the same field after adjoining the corresponding roots of unity.
 For a fixed algebraic input, the [eventual minimum support on its powers](../claims/Yin_C_G0345_v187.md#statement) counts conjugate classes modulo roots of unity.
 Across varying inputs, the [sharp count at each minimum coefficient length](../claims/Yin_C_G0345_v189.md#statement) gives an upper bound against which to test a bounded-measure construction.
 A [fixed list of cyclotomic values at a trinomial root](../claims/Yin_C_G0345_v192.md#statement) gives bounded minimum length throughout each bounded-measure interval.

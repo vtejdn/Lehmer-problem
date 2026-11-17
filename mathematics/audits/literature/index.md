@@ -8,6 +8,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [ABR01](ABR01/readme.md) | Source and edition notes |
 | [AD00](AD00/readme.md) | [Yin_U001](AD00/Yin_U001.md) |
 | [AD07](AD07/readme.md) | [Unconditional relative height and the rational-base constant](AD07/Yin_U001.md#rational-base) |
+| [AD22](AD22/readme.md) | [Power fields](AD22/Yin_U001.md#power-field) and [Galois closures of lacunary roots](AD22/Yin_U001.md#lacunary) |
 | [AD99](AD99/readme.md) | [Yin_U001](AD99/Yin_U001.md) |
 | [ADZ14](ADZ14/readme.md) | [Yin_U001](ADZ14/Yin_U001.md) |
 | [AJL16](AJL16/readme.md) | [Yin_U001](AJL16/Yin_U001.md) |
@@ -268,6 +269,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Vav18](Vav18/readme.md) | Source and edition notes |
 | [VG19](VG19/readme.md) | [Yin_U001](VG19/Yin_U001.md#vg19-u001): bounded proof-claim inspection and independently checked local gaps |
 | [Voi98](Voi98/readme.md) | [Yin_U001](Voi98/Yin_U001.md) |
+| [Vou96](Vou96/readme.md) | [Explicit lower bounds for logarithmic Mahler measure](Vou96/Yin_U001.md#height) |
 | [Wal18](Wal18/readme.md) | [Yin_U001](Wal18/Yin_U001.md) |
 | [War05](War05/readme.md) | [Yin_U001](War05/Yin_U001.md) |
 | [Wus02](Wus02/readme.md) | [Yin_U001](Wus02/Yin_U001.md#logarithmic-form) gives the Baker–Wüstholz lower bound with explicit degree and height dependence. |
