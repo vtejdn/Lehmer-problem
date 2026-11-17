@@ -175,6 +175,12 @@ At the center every [noncyclotomic factor occurs once](../claims/Yin_C_G0345_v10
 Writing \(d\) for the parent degree, [estimates on arcs in successive radial ranges](../claims/Yin_C_G0345_v103.md#transfer) transfer an established whole-polynomial gap when the complementary noncyclotomic degree is \(o(d/\log^2 d)\).
 If the retained measure is bounded and the complementary noncyclotomic degree is \(O(d/\log^8 d)\), that [complement is eventually cyclotomic](../claims/Yin_C_G0345_v103.md#exact).
 The two remaining questions for this route are a whole-polynomial gap when the number of conductors and the number of required multiplicative intervals both grow, and an estimate for an individual reciprocal factor with a larger complement.
+For the first question the [coefficientwise limit theorem](../claims/Yin_C_G0345_v104.md#classification) gives a finite signed binomial product along any bounded-measure convergent subsequence.
+For nonnegative binomial exponents, the presence of [every multiple of a step through length \(N\)](../claims/Yin_C_G0345_v104.md#progression) forces the shifted measure to grow at least as \(c\log\log N-C\).
+On a [divisibility chain](../claims/Yin_C_G0345_v105.md#measure), the normalized signed product is a polynomial exactly when each suffix sum of its exponents is nonnegative.
+With unrestricted divisibility, let \(S=\sum_j |b_j|\) for the signed binomial exponents \(b_j\).
+At bounded shifted measure, some interval \([2^h,2^{h+1})\) must contain at least [a constant times \(S^{1/5}\) occupied indices](../claims/Yin_C_G0345_v106.md#statement), with the constant depending only on the measure bound.
+Together with the interval-count gap, this forces both the number of occupied intervals and the maximum count in a single interval to grow along any sequence of positive measures tending to zero.
 For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 

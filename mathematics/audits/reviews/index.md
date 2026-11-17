@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v106](Yin_R_G0562_v106.md#dyadic-occupancy) checks the norm bounds by dyadic occupancy and the simultaneous necessary conditions for shrinking shifted measures.
+- [R562 v105](Yin_R_G0562_v105.md#divisibility-chain) checks the two-sided integral bound and signed polynomiality criterion on a divisibility chain.
+- [R562 v104](Yin_R_G0562_v104.md#cyclotomic-parent-limits) checks the classification and realization of normalized limits, nested binomial supports and the positive progression bound.
 - [R562 v103](Yin_R_G0562_v103.md#dyadic-poisson-cofactor) checks the near-full-degree transfer and the exact cyclotomic-cofactor threshold from sums over radial scales.
 - [R562 v102](Yin_R_G0562_v102.md#central-discriminant-cofactor) checks squarefreeness of the noncyclotomic factors and the cofactor bound from the reflected discriminant.
 - [R562 v101](Yin_R_G0562_v101.md#cyclotomic-product-cofactor) checks the Poisson estimate and exact cofactor removal for central shifts of arbitrary cyclotomic products.

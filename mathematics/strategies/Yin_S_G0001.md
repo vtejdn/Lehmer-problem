@@ -107,6 +107,11 @@ For constructions at the larger mean \(4/\pi\), the [endpoint classification](..
 The remaining three-prime test concerns a reciprocal completion of an [inverse cyclotomic prefix](../claims/Yin_C_G0345_v96.md#wrapping).
 At three growing primes its [two-step Euclidean reduction](../claims/Yin_C_G0345_v100.md#euclidean) excludes all cutoffs when the largest prime exceeds the totient of the product of the other two and their Euclidean algorithm has bounded length.
 For monomial perturbations of a general cyclotomic product, test parents with unboundedly many [distinct cyclotomic factors](../claims/Yin_C_G0345_v94.md#statement) and binomial exponents outside every [bounded family of multiplicative intervals](../claims/Yin_C_G0345_v98.md#statement).
+Under bounded shifted measure every [limit of the normalized parent coefficients](../claims/Yin_C_G0345_v104.md#statement) is a finite quotient of products of binomials.
+This rules out a construction in which the supports of the binomial exponents are nested and their total absolute multiplicity tends to infinity, even after a varying common dilation.
+On a [divisibility chain](../claims/Yin_C_G0345_v105.md#statement), the boundary integral norm is comparable to the Euclidean norm of the signed exponents, independently of the length of the chain.
+The [bound on the number of exponents in each dyadic interval](../claims/Yin_C_G0345_v106.md#statement) also excludes arbitrary supports with a bounded number in each such interval.
+The construction inquiry now asks whether exponents concentrated in one interval can cancel contributions from the other occupied intervals while the shifted measure tends to zero.
 A proof from primitive sampling for an arbitrary reciprocal input still needs to produce an order meeting the mean and degree conditions.
 For higher rational rank the [field of squared moduli](../claims/Yin_C_G0345_v67.md#statement) gives a separate estimate on the original measure when the conjugacy class of complex conjugation is small.
 For example, it gives a uniform gap for the [three-real-exterior circuit](../claims/Yin_C_G0345_v67.md#real), with two independent exterior logarithms.
