@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v302](Yin_R_G0562_v302.md#circuit-cut-minimum-review) Optimal exterior count in a real circuit with a neutral parent, its attaining product and the primitive lower bound.
+- [R562 v301](Yin_R_G0562_v301.md#imprimitive-circuit-descent-review) Non-increasing descent in imprimitive real circuits and the four-exterior-root alternative.
+- [R562 v300](Yin_R_G0562_v300.md#sparse-small-height-relations-review) Bounded rational relations at small relative height and their consequences for sparse circuit outputs.
+- [R562 v299](Yin_R_G0562_v299.md#real-circuit-ratios-review) Real-circuit ratio costs, an irreducible example and the optimal exterior count for full signed permutations.
+- [R562 v298](Yin_R_G0562_v298.md#unit-shape-spectrum-review) Projected unit lattices determine the joint finite limits for the resultant and scaled excess.
+- [R562 v297](Yin_R_G0562_v297.md#chamber-unit-inverses-review) Exact normalized resultant minima and balanced Pisot inverses for each supplied Salem output.
 - [R562 v296](Yin_R_G0562_v296.md#reciprocal-resultant-fibers-review) Reciprocal resultants vary among same-output Pisot inverses at prescribed constants.
 - [R562 v295](Yin_R_G0562_v295.md#unit-defect-gap-review) Unit monomial defects have a positive Pisot excess gap at q=d².
 - [R562 v294](Yin_R_G0562_v294.md#quadratic-schur-gap-review) A uniform excess gap at q=d² excludes power-substitution Schur descendants.
