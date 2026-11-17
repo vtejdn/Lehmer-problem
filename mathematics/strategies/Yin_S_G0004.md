@@ -219,7 +219,13 @@ The [bound for coefficient length at most five](../claims/Yin_C_G0345_v169.md#st
 For length six, a hypothetical Salem sequence near one must have [two reciprocal blocks](../claims/Yin_C_G0345_v174.md#statement) with the same trinomial \(Q=X^a-X^b-1\), including \(X^a-2\) at \(b=0\).
 In an [explicit example with Lehmer's Salem factor](../claims/Yin_C_G0345_v175.md#statement), another exterior zero near a smaller conjugate of the trinomial belongs to the cofactor.
 If the positive root is \(e^t\) and its Salem factor has degree \(d\), then [the resultant forces \((N-a)t/d=m(Q)+O(d^{-1/16})\)](../claims/Yin_C_G0345_v176.md#statement).
-Test whether taking divisors of the fixed value \(q^*(\beta)\) in the field of a root \(\beta\) of \(q=Q/\gcd(Q,Q^*)\) further constrains that factor as \(Q,N\) vary.
+The [exact ideal of the reduced trinomial and its reciprocal](../claims/Yin_C_G0345_v177.md#statement) limits the factor resultant to the contributions at two or three specified by the exponent congruences.
+The [classification of normalized length-six multiples](../claims/Yin_C_G0345_v178.md#statement) determines which powers still have such a multiple, and [local degree bounds](../claims/Yin_C_G0345_v180.md#statement) restrict the binomial and equally spaced cases further.
+For every fixed coefficient length bound, [simultaneous comparison at both ends](../claims/Yin_C_G0345_v179.md#statement) locates exterior roots of reciprocal factors near common roots of the end blocks at the specified scales.
+With unrestricted integer coefficients the [sharp three-term factor bound](../claims/Yin_C_G0345_v181.md#statement) is the real root of \(X^3-X-1\) for multiplicative measure.
+With four terms a small factor forces either [two reciprocal binomial blocks or a shorter trace relation](../claims/Yin_C_G0345_v182.md#statement).
+For the unrestricted question, a putative sequence of units of vanishing positive measure can be replaced by one whose [minimum coefficient length exceeds any prescribed function of the reciprocal measure](../claims/Yin_C_G0345_v185.md#prescribed).
+Determine what can force a short relation on many powers in a single fixed interval of measures, or constrain constructions in that interval even when every short relation is absent.
 For inputs of arbitrary signature, [matching exterior roots](../claims/Yin_C_G0345_v137.md#statement) constrains their positions and multiplicities, while [the family with linearly many exterior roots](../claims/Yin_C_G0345_v142.md#statement) shows why the total contribution of those roots matters.
 The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
 The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.

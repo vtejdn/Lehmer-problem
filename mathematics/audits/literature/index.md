@@ -156,6 +156,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Lin00](Lin00/readme.md) | Source and edition notes |
 | [Lin95](Lin95/readme.md) | Source and edition notes |
 | [Lin99](Lin99/readme.md) | [Yin_U001](Lin99/Yin_U001.md) |
+| [Lju60](Lju60/readme.md) | [Factor reversal and the signed trinomial corollary](Lju60/Yin_U001.md#lju60-u001) |
 | [Lox72](Lox72/readme.md) | [Conjugate mean square and the least number of roots of unity in a sum](Lox72/Yin_U001.md#mean-square) |
 | [Luc22](Luc22/readme.md) | [Yin_U001](Luc22/Yin_U001.md), [Yin_U002](Luc22/Yin_U002.md), [Yin_U003](Luc22/Yin_U003.md) |
 | [MCQ08](MCQ08/readme.md) | [Yin_U001](MCQ08/Yin_U001.md) |

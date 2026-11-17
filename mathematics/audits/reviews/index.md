@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v185](Yin_R_G0562_v185.md#interval-escape) checks the exceptional count above a fixed measure threshold and the interval and prescribed-length criteria for the full and Salem gap questions.
+- [R562 v184](Yin_R_G0562_v184.md#rational-sparse-powers) checks the finiteness of powers satisfying rational relations with few terms when enough conjugates are multiplicatively independent.
+- [R562 v183](Yin_R_G0562_v183.md#short-relation-escape) checks the unrestricted and Salem equivalences obtained by selecting powers that avoid all polynomial relations of bounded coefficient length.
+- [R562 v182](Yin_R_G0562_v182.md#four-term-alternative) checks the coefficient-height and degree bounds and the two alternatives for four unrestricted coefficients.
+- [R562 v181](Yin_R_G0562_v181.md#trinomial-factor-gap) checks the sharp individual-factor bound at unrestricted trinomial coefficients and the stronger quadratic-unit value in the reciprocal case.
+- [R562 v180](Yin_R_G0562_v180.md#local-degree-bounds) checks the local degree bounds and the required prime-to-two and prime-to-three parts of the delays in the specified Salem families.
+- [R562 v179](Yin_R_G0562_v179.md#common-end-blocks) checks the common exterior roots forced in the end blocks of any bounded-length multiple and the localization of reciprocal factors.
+- [R562 v178](Yin_R_G0562_v178.md#parent-uniqueness) checks the unique normalized length-six multiple up to one exceptional pair and the criterion for every power of a small Salem number.
+- [R562 v177](Yin_R_G0562_v177.md#trinomial-ideal) checks the exact integral ideal and each factor resultant for the reduced trinomial.
 - [R562 v176](Yin_R_G0562_v176.md#degree-balance) checks the necessary degree asymptotic for the Salem factors of the remaining reciprocal trinomial family.
 - [R562 v175](Yin_R_G0562_v175.md#exterior-cofactor-example) checks the primitive length-six example in which two exterior roots near different conjugates of the seed lie in different irreducible factors.
 - [R562 v174](Yin_R_G0562_v174.md#length-six-salem) checks the reduction of all near-one Salem candidates with coefficient-length-six multiples to two explicit reciprocal trinomial blocks.
