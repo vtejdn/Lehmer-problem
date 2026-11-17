@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v285](Yin_R_G0562_v285.md#integral-torsion-values-whole-proof) Exact torsion-value window for integral reciprocal coefficients.
+- [R562 v284](Yin_R_G0562_v284.md#finding) Sharp prime cyclotomic norm tests for coefficient integrality.
+- [R562 v283](Yin_R_G0562_v283.md#finding) Common radical bases and sharp costs for omitted label fields.
+- [R562 v282](Yin_R_G0562_v282.md#finding) Rational one-exterior-root models passing finite torsion tests.
 - [R562 v281](Yin_R_G0562_v281.md#finding) Minimum base degree and maximum necessary adjunction degree.
 - [R562 v280](Yin_R_G0562_v280.md#finding) Discriminants of radial pairs and reflected resultants.
 - [R562 v279](Yin_R_G0562_v279.md#finding) Bounded spectrum over composita of splitting fields.
