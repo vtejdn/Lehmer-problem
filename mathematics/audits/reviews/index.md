@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v237](Yin_R_G0562_v237.md#odd-prime-degrees) checks the odd-prime degree divisibility for reciprocal four- and five-term inputs.
+- [R562 v236](Yin_R_G0562_v236.md#finding) checks the finite reciprocal Laurent families and their dimension bound for every fixed term count and coefficient bound.
+- [R562 v235](Yin_R_G0562_v235.md#dyadic-degrees) checks the dyadic degrees and the uniform gap when the part of the reduced middle exponent prime to six is bounded.
 - [R562 v234](Yin_R_G0562_v234.md#reciprocal-five-distribution) checks the radial distribution and the exact limiting exterior proportion in reciprocal five-term multiples.
 - [R562 v233](Yin_R_G0562_v233.md#binomial-end-resultant) checks the separated binomial end, the resultant over noncommon roots and the seven-term family.
 - [R562 v232](Yin_R_G0562_v232.md#five-term-gap) checks the fixed-height individual-factor gap and the reduction to reciprocal four- and five-term multiples.

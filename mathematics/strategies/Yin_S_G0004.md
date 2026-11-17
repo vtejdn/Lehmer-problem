@@ -228,6 +228,11 @@ With at most five terms of bounded coefficient height, each positive-measure fac
 In either product a small factor still divides a tetranomial reciprocal up to sign.
 For reciprocal five-term inputs, the [angular distribution of the conjugates](../claims/Yin_C_G0345_v234.md#statement) now determines the limiting proportion off the circle in any hypothetical shrinking sequence.
 When the outer coefficient is \(a\), the inner pair has coefficient \(b\), and the middle coefficient is \(c\), the remaining Salem regime requires \(ab<0,\ |b|>|a|,\ |c|\le 2(|b|-|a|)\).
+For odd \(a,c\) and even \(b\), the [dyadic degree estimate](../claims/Yin_C_G0345_v235.md#statement) forces the part of \(n/\gcd(n,l)\) prime to six to grow if individual factor measures tend to zero, for exponents \(n,l\) in the two reciprocal pairs.
+At three and at other odd primes the [orbit degree estimate](../claims/Yin_C_G0345_v237.md#statement) gives comparable restrictions under its coefficient and exponent congruences.
+For every fixed term count \(s\) and coefficient bound, [descent to finitely many reciprocal Laurent polynomials](../claims/Yin_C_G0345_v236.md#statement) gives at most \(\lfloor s/2\rfloor\) variables.
+At four or five terms a shrinking sequence therefore needs a fixed two-variable polynomial.
+Its [exponent directions](../claims/Yin_C_G0345_v171.md#statement) must approach an edge normal whose oriented edge polynomial has a root outside the unit disk, with the exponent along that edge tending to infinity.
 With more than five terms, a [resultant over the separated binomial end](../claims/Yin_C_G0345_v233.md#statement) gives a factor gap when that end is coprime to the opposite block, the product deficit per end degree stays bounded, and the middle terms stay a fixed proportion of the width from both ends.
 For the unrestricted question, a putative sequence of units of vanishing positive measure can be replaced by one whose [minimum coefficient length exceeds any prescribed function of the reciprocal measure](../claims/Yin_C_G0345_v185.md#prescribed).
 The [quadratic sparse-divisor estimate](../claims/Yin_C_G0345_v186.md#statement) controls the number of terms needed when the multiple has width comparable to the factor degree.

@@ -12,6 +12,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [ADZ14](ADZ14/readme.md) | [Yin_U001](ADZ14/Yin_U001.md) |
 | [AJL16](AJL16/readme.md) | [Yin_U001](AJL16/Yin_U001.md) |
 | [AJL17](AJL17/readme.md) | [Yin_U001](AJL17/Yin_U001.md) |
+| [ALS15](ALS15/readme.md) | Author edition of the sparse gcd construction |
 | [AM01](AM01/readme.md) | Source and edition notes |
 | [AM16](AM16/readme.md) | [Yin_U001](AM16/Yin_U001.md), [Yin_U002](AM16/Yin_U002.md), [Yin_U003](AM16/Yin_U003.md), [Yin_U004](AM16/Yin_U004.md), [Yin_U005](AM16/Yin_U005.md) |
 | [AP18](AP18/readme.md) | [Yin_U001](AP18/Yin_U001.md) |
@@ -26,6 +27,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BK21](BK21/readme.md) | [Yin_U001](BK21/Yin_U001.md) |
 | [BKT04](BKT04/readme.md) | [Yin_U001](BKT04/Yin_U001.md) |
 | [BL02](BL02/readme.md) | [Yin_U001](BL02/Yin_U001.md) |
+| [BMZ07](BMZ07/readme.md) | [Bounded character relation](../../claims/Yin_C_G0345_v236.md#source) |
 | [BR06](BR06/readme.md) | [Yin_U001](BR06/Yin_U001.md) |
 | [BR10](BR10/readme.md) | [Yin_U001](BR10/Yin_U001.md), [Yin_U002](BR10/Yin_U002.md) |
 | [BS09](BS09/readme.md) | [Yin_U001](BS09/Yin_U001.md) |
