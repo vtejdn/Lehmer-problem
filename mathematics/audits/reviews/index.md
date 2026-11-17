@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v272](Yin_R_G0562_v272.md#finding) Full signed permutation groups in an explicit infinite prime-index Salem family.
+- [R562 v271](Yin_R_G0562_v271.md#finding) Independence of exterior radii, sign changes and descent to lower degree.
 - [R562 v270](Yin_R_G0562_v270.md#finding) Independent alternating blocks, relative splitting degree and multiplicative rank for bounded measure.
 - [R562 v269](Yin_R_G0562_v269.md#finding) Exclusion of all classical subspace stabilizers, including graph pairs and both even symplectic types.
 - [R562 v268](Yin_R_G0562_v268.md#finding) Reduction of minimal blocks to natural alternating and classical subspace actions.

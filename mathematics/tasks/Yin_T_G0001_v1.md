@@ -189,7 +189,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-resume-adaptive-research-2026-11-10)
+[Selected decision](#decision-shared-weekly-stop-2026-11-17)
 
 ## Lifecycle and completion
 
@@ -662,6 +662,19 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unchanged unrestricted contract](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total Mahler measures, including nonconstructive existence and unrestricted degree and coefficients. |
+
+### Decision shared-weekly-stop-2026-11-17
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-17T16:17 |
+| status | paused |
+| authority | Yin instructed that the standing G0001 research effort pause when shared weekly usage reaches ninety-eight percent. |
+| reason | The shared weekly stop was reached. Research and delegated reviews have stopped. The unrestricted Lehmer problem remains open. Explicit resumption and the effective execution conditions govern further work. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unrestricted Lehmer problem](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total Mahler measures, with unrestricted degree and coefficients. |
 
 ## Execution boundary
 
