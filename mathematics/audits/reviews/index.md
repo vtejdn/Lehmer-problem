@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v304](Yin_R_G0562_v304.md#reciprocal-saturation-minimum-review) Exact reciprocal exterior minimum for arbitrary signatures, its signed-product realization and the cost-one Salem criterion.
+- [R562 v303](Yin_R_G0562_v303.md#real-atom-exterior-minimum-review) The optimal reciprocal exterior count for all real exterior signatures with a neutral pair and its signed monomial construction.
 - [R562 v302](Yin_R_G0562_v302.md#circuit-cut-minimum-review) Optimal exterior count in a real circuit with a neutral parent, its attaining product and the primitive lower bound.
 - [R562 v301](Yin_R_G0562_v301.md#imprimitive-circuit-descent-review) Non-increasing descent in imprimitive real circuits and the four-exterior-root alternative.
 - [R562 v300](Yin_R_G0562_v300.md#sparse-small-height-relations-review) Bounded rational relations at small relative height and their consequences for sparse circuit outputs.
