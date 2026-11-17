@@ -200,15 +200,19 @@ The [sharp minimum cyclotomic degree](../claims/Yin_C_G0345_v140.md#statement) d
 [Near-minimum completions](../claims/Yin_C_G0345_v144.md#statement) share almost all their roots with an explicit cyclotomic product, and [limiting factor multiplicities](../claims/Yin_C_G0345_v148.md#statement) changes the attainable prefix length.
 An [actual Salem family](../claims/Yin_C_G0345_v145.md#statement) has unit resultant even with an exactly longest completion.
 If the original Salem polynomial takes the same monomial value to second order on an entire torsion grid, the [residual trace degree](../claims/Yin_C_G0345_v150.md#statement) must grow at least as a cube root up to a logarithmic factor along a shrinking sequence.
-Return to the original power sums and test for a large moment preceded by small total squared moments.
-A [finite Blaschke product over the exterior conjugates](../claims/Yin_C_G0345_v151.md#energy) gives a quantitative measure bound in that case.
-For a long initial zero coefficient block, determine whether the actual polynomial discriminant forces a degree-independent bound.
-At a long initial zero coefficient block, [at least \(\lfloor\sqrt d\rfloor\) conjugates](../claims/Yin_C_G0345_v152.md#statement) have logarithmic modulus at least \(c/(dL)\) as \(L=\log M(P)\to0\) and the degree \(d\) grows.
-When the earlier power sums have bounded total squared magnitude after normalization by the degree, the [common-radius estimate](../claims/Yin_C_G0345_v153.md#statement) still forces a growing number of such conjugates.
-At a shorter power, test the moment matrix at the length of the available prefix and measure the exterior contribution against the original degree.
-For a reciprocal polynomial \(z^{2n}+1+z^nJ(z)\) with symmetric integral Laurent polynomial \(J\) of degree \(s<n/3\), small positive \(L\) in the irreducible case forces [\(s\gg L^{-3}\)](../claims/Yin_C_G0345_v154.md#peak).
-If \(s\le d^{1/3-\epsilon}\), test whether the [positive two-variable measures of \(Y+Y^{-1}+J(X)\)](../claims/Yin_C_G0345_v154.md#quadratic) can tend to zero as \(J\) varies.
-In that range their ratio to \(L\) tends to one along any shrinking irreducible sequence.
+Any [large power sum after a short prefix](../claims/Yin_C_G0345_v155.md#statement) has an explicit minimum cost in the sum of squares of the preceding power sums.
+On a hypothetical Salem sequence with measure tending to one, that cost also applies to every index of every power or radical, and [adding roots of unity](../claims/Yin_C_G0345_v157.md#statement) bounds the exterior contribution left after approximate cancellation.
+For a reciprocal polynomial \(z^{2n}+1+z^nJ(z)\), every positive [two-variable measure of \(Y+Y^{-1}+J(X)\)](../claims/Yin_C_G0345_v156.md#statement) has an absolute lower bound.
+[Uniform specialization](../claims/Yin_C_G0345_v158.md#statement) transfers it to one variable for a sufficiently narrow central block, and [several separated blocks](../claims/Yin_C_G0345_v159.md#statement) may each contain consecutive nonzero coefficients.
+When a multiple has these blocks, its [common coefficient divisor](../claims/Yin_C_G0345_v160.md#statement) accounts for every multiplicity in the small-measure range.
+For prescribed widths smaller than the degree of the algebraic unit, the [cyclotomic cofactor and spacing bounds](../claims/Yin_C_G0345_v162.md#statement) give a finite search.
+The [cyclic comparison](../claims/Yin_C_G0345_v161.md#statement) permits arbitrary gaps between exponents in the same residue class.
+Combined with [compression modulo a prime](../claims/Yin_C_G0345_v163.md#compression) and [heights over prime-conductor fields](../claims/Yin_C_G0345_v164.md#statement), it bounds the positive logarithmic measure from below by \(c/k^3\) for every integral \(k\)-term input.
+For a normalized support \(S\) with \(|S+S|<3|S|-3\), every sufficiently short [modular lift stays on one line](../claims/Yin_C_G0345_v165.md#statement), and its complete torsion fiber has exactly the original measure.
+The [binary reciprocal family](../claims/Yin_C_G0345_v166.md#irreducible) has irreducible factors of unbounded degree and meets few roots of unity modulo two at every order proportional to the degree.
+Yet [each of its positive-measure factors has a uniform gap](../claims/Yin_C_G0345_v167.md#binary), because its leading coefficient in the lifted variable has no circle zero.
+For the next fixed-polynomial construction, allow a circle zero of that coefficient and test whether the specialization can have an irreducible factor of sublinear degree with the [required concentration near the zero and the required number of exterior roots](../claims/Yin_C_G0345_v167.md#house).
+For a Salem construction, vary the two-variable input since bounded exterior count already excludes every fixed one.
 For inputs of arbitrary signature, [matching exterior roots](../claims/Yin_C_G0345_v137.md#statement) constrains their positions and multiplicities, while [the family with linearly many exterior roots](../claims/Yin_C_G0345_v142.md#statement) shows why the total contribution of those roots matters.
 The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
 The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.

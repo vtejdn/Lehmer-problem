@@ -7,6 +7,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | --- | --- |
 | [ABR01](ABR01/readme.md) | Source and edition notes |
 | [AD00](AD00/readme.md) | [Yin_U001](AD00/Yin_U001.md) |
+| [AD07](AD07/readme.md) | [Unconditional relative height and the rational-base constant](AD07/Yin_U001.md#rational-base) |
 | [AD99](AD99/readme.md) | [Yin_U001](AD99/Yin_U001.md) |
 | [ADZ14](ADZ14/readme.md) | [Yin_U001](ADZ14/Yin_U001.md) |
 | [AJL16](AJL16/readme.md) | [Yin_U001](AJL16/Yin_U001.md) |
@@ -77,6 +78,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Del09](Del09/readme.md) | [Yin_U001](Del09/Yin_U001.md) |
 | [Den09](Den09/readme.md) | [Yin_U001](Den09/Yin_U001.md), [Yin_U002](Den09/Yin_U002.md) |
 | [Dim16](Dim16/readme.md) | [Yin_U001](Dim16/Yin_U001.md) |
+| [Dob06](Dob06/readme.md) | [Support of a polynomial, a divisor and the irreducible case](Dob06/Yin_U001.md#sparse-measure) |
 | [Dub23](Dub23/readme.md) | [Yin_U001](Dub23/Yin_U001.md) |
 | [Dum21](Dum21/readme.md) | Source and edition notes |
 | [EMRS17](EMRS17/readme.md) | [Yin_U001](EMRS17/Yin_U001.md#emrs17-u001): genetic coefficient search, factor output and unresolved proposal settings |

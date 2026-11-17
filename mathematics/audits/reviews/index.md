@@ -1,5 +1,18 @@
 # Reviews Index
 
+- [R562 v167](Yin_R_G0562_v167.md#whole-proof) checks the bounds for individual factors, the exterior count near a leading-coefficient zero and the uniform gap for both binary lifts.
+- [R562 v166](Yin_R_G0562_v166.md#whole-proof) checks the short-period criterion modulo two and the reciprocal families that avoid every period proportional to degree.
+- [R562 v165](Yin_R_G0562_v165.md#modular-lift-doubling) checks the sharp doubling and density thresholds for collinear modular lifts and their exact torsion-fiber heights.
+- [R562 v164](Yin_R_G0562_v164.md#whole-proof) and its [second independent finding](Yin_R_G0562_v164.md#second-whole-proof) check the prime-conductor height estimate and the cubic inverse-support bound for positive Mahler measure.
+- [R562 v163](Yin_R_G0562_v163.md#whole-proof) and its [second independent finding](Yin_R_G0562_v163.md#second-whole-proof) check the inverse polynomial bound for positive logarithmic Mahler measure in terms of the number of monomials.
+- [R562 v162](Yin_R_G0562_v162.md#separated-multiples) checks the finite search for cyclotomic cofactors and the spacing restrictions for general cofactors.
+- [R562 v161](Yin_R_G0562_v161.md#residue-progression-measure) checks the cyclic specialization error and the gap for exponents in a short progression modulo a large integer.
+- [R562 v160](Yin_R_G0562_v160.md#block-gcd-localization) checks the full multiplicities in the common block divisor and the limiting measure of a dense family.
+- [R562 v159](Yin_R_G0562_v159.md#separated-block-transfer) checks the variation of the fiber roots and the lower bound for separated coefficient blocks.
+- [R562 v158](Yin_R_G0562_v158.md#uniform-phase-quadratic-transfer) checks both errors in the phase-uniform trace-quadratic specialization and its integral gap.
+- [R562 v157](Yin_R_G0562_v157.md#salem-cancelling-prefix) checks the cost and limits of cancelling the initial power sums of a Salem polynomial with roots of unity.
+- [R562 v156](Yin_R_G0562_v156.md#monic-fiber-mahler-gap) checks the trace-quadratic gap, the partial-degree alternative and its application to central polynomials.
+- [R562 v155](Yin_R_G0562_v155.md#energy-before-a-large-trace) checks the energy preceding a large power sum on integral units and on powers or radicals of Salem numbers.
 - [R562 v154](Yin_R_G0562_v154.md#central-quadratic-measure) checks the uniform two-variable approximation, the central coefficient width and the reciprocal-of-support bound.
 - [R562 v153](Yin_R_G0562_v153.md#exterior-radii-at-large-power) checks the common exterior radius forced by a large power sum after bounded squared moments.
 - [R562 v152](Yin_R_G0562_v152.md#exterior-count-from-prefix) checks the number of exterior conjugates beyond each radial threshold after a large power sum.
