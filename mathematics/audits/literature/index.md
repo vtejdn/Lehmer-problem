@@ -214,6 +214,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [SEMR21](SEMR21/readme.md) | [Yin_U001](SEMR21/Yin_U001.md#semr21-u001): nearest-reference coefficient restoration and its finite experimental scope |
 | [SSS18](SSS18/readme.md) | Source and edition notes |
 | [SW91](SW91/readme.md) | Source and edition notes |
+| [Sal15](Sal15/readme.md) | [Tree realization of totally real algebraic integers](Sal15/Yin_U001.md#sal15-u001) |
 | [Sam07](Sam07/readme.md) | [Yin_U001](Sam07/Yin_U001.md) |
 | [San20](San20/readme.md) | [Yin_U001](San20/Yin_U001.md#san20-u001) |
 | [Sar15](Sar15/readme.md) | [Yin_U001](Sar15/Yin_U001.md) |

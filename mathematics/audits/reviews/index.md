@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v132](Yin_R_G0562_v132.md#no-fixed-trace-perturbations) checks the golden-ratio limit excluding every fixed nonzero trace perturbation, and the exact degree and coefficient cost for a prescribed Salem target.
+- [R562 v131](Yin_R_G0562_v131.md#quadratic-chains-to-lehmer) checks the arbitrarily long strict descents from explicitly irreducible Salem inputs to Lehmer's number.
+- [R562 v130](Yin_R_G0562_v130.md#quadratic-plastic-descents) checks the exact classification of quadratic Salem descents on the positive plastic completions.
+- [R562 v129](Yin_R_G0562_v129.md#plastic-family-shift-obstruction) checks the exclusion of all integer-level Salem factors and the larger measure of every distinguished factor in the plastic family.
+- [R562 v128](Yin_R_G0562_v128.md#tree-branch-eigenvalue-gap) checks the individual eigenvalue gap for bounded branch count and the application to every tree realizing a Salem trace.
+- [R562 v127](Yin_R_G0562_v127.md#golden-ratio-level-descents) checks the exact cofactors and two consecutive descents in a family tending to the golden ratio.
+- [R562 v126](Yin_R_G0562_v126.md#integer-level-families) checks same-degree descents for powers and the Chebyshev family on which all rational neutral nodes can fail.
+- [R562 v125](Yin_R_G0562_v125.md#subcritical-salem-trace-levels) checks the annulus for all conjugates except the dominant pair and the role of shallow minima in a Salem descent.
 - [R562 v124](Yin_R_G0562_v124.md#full-inverse-linear-growth) checks the linear lower bound for full logarithmic measure in the source degree and its cofactor consequence.
 - [R562 v123](Yin_R_G0562_v123.md#three-neutral-interlacing-outputs) checks the three cyclotomic polynomials and all their normalized inverse presentations.
 - [R562 v122](Yin_R_G0562_v122.md#arbitrary-source-interlacing) checks the degree bound for full interlacing inverse images of arbitrary irrational integral traces near measure one.

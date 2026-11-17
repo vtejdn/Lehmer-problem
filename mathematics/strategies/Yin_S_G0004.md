@@ -188,7 +188,13 @@ Changing the monomial to a translated polynomial of arbitrary height still requi
 At the original Salem trace, [monic endpoint Taylor quotients](../claims/Yin_C_G0345_v115.md#roots) produce smaller exterior trace roots, while a [bound for every irreducible factor](../claims/Yin_C_G0345_v118.md#orders) confines possible measure descents to the earliest orders along a shrinking sequence.
 The [integer-level count](../claims/Yin_C_G0345_v119.md#statement) leaves open which small negative levels yield a smaller Salem factor.
 The [complete search on Boyd's inputs](../computations/programs/Yin_J_G0164/readme.md#boyd-descent-search) gives such factors at minus one and minus two.
-Test levels forced by an integer trace in the neutral interval, including cases where a complementary factor has nonreal roots.
+The [plastic-limit inputs](../claims/Yin_C_G0345_v129.md#statement) exclude every nonzero integer level, while [two quadratic perturbations](../claims/Yin_C_G0345_v130.md#statement) give full Salem descents.
+Their [iterated factorizations](../claims/Yin_C_G0345_v131.md#transfer) supply explicit reductions to Lehmer's number from unbounded degrees.
+On a [sequence tending to the golden ratio](../claims/Yin_C_G0345_v132.md#coefficient-cost), every nonzero perturbation of bounded degree with subexponential coefficient growth eventually misses all Salem factors under any fixed measure bound.
+For inputs tending to one, look for a perturbing polynomial whose magnitude on the neutral conjugates is controlled by the actual trace polynomial, and account for every exterior conjugate of the selected factor.
+At level minus one, let \(F\) be the minimal polynomial of the [smaller positive root](../claims/Yin_C_G0345_v125.md#location) \(\tau\).
+Test whether an additional exterior conjugate forces \(\log M(F)-\log\tau\ge\log(\sigma/\tau)\) as the original Salem number \(\sigma\) tends to one.
+Such a bound would show that a strict measure descent at this level must give a Salem factor.
 The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
 The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.
 If the original source degree tends to infinity, a factor with bounded measure leaves [at least linear logarithmic measure in the complement](../claims/Yin_C_G0345_v124.md#statement).

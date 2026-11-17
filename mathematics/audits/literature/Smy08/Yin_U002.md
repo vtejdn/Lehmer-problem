@@ -73,6 +73,14 @@ This unit does not upgrade the 1971 proof to a complete independent proof audit.
 The later [Smy71 primary-source inspection](../Smy71/Yin_U001.md#smy71-u001) checks the complete original proof and corollaries; this survey unit retains its original edition and inspection scope.
 The equality classification by conjugates of \((\pm\theta_0)^{\pm1/k}\), the isolated gap, and the listed subsequent small values remain reported results with the source's stated references and scope.
 
+<a id="smy08-nonreciprocal-isolation"></a>
+
+On 2026-11-17 the main researcher checked the statement immediately following (15) and its footnote on printed p.328 in the [author's survey](https://www.maths.ed.ac.uk/~chris/papers/Smyth240707.pdf).
+For a nonreciprocal algebraic integer, the survey gives either \(M(\alpha)=\theta_0\) with \(\alpha\) conjugate to a \(k\)-th root of \(\pm\theta_0^{\pm1}\), or \(M(\alpha)>\theta_0+10^{-4}\).
+Here \(k\) is a positive integer and the constant is for multiplicative Mahler measure.
+The isolation and the necessary equality condition are used as reported theorems in this scope.
+The survey attributes the isolation proof to Smyth's 1972 thesis and cites a later improvement by Dixon and Dubickas.
+
 Two elementary proof interfaces were checked:
 
 1. If irreducible monic \(P\) is nonreciprocal and \(P(0)\ne0\), then \(P\) and \(P^*\) are relatively prime.
