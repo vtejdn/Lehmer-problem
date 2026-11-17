@@ -130,6 +130,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [GO08](GO08/readme.md) | [Yin_U001](GO08/Yin_U001.md) |
 | [GW21](GW21/readme.md) | [Yin_U001](GW21/Yin_U001.md), [Yin_U002](GW21/Yin_U002.md) |
 | [GW96](GW96/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#hadamard-variant): selected Hadamard real-rootedness input and signed adaptation |
+| [Gar07](Gar07/readme.md) | [Height as a function of the proportion of real conjugates](Gar07/Yin_U001.md#real-conjugates) |
 | [Gent21](Gent21/readme.md) | [Yin_U001](Gent21/Yin_U001.md) |
 | [Gro02](Gro02/readme.md) | [Yin_U001](Gro02/Yin_U001.md#degree18-example): degree-18 example, scaled positive halves and multiplier interface |
 | [Gur04](Gur04/readme.md) | [Yin_U001](Gur04/Yin_U001.md), [Yin_U002](Gur04/Yin_U002.md), [Yin_U003](Gur04/Yin_U003.md), [Yin_U004](Gur04/Yin_U004.md) |
@@ -201,6 +202,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Miy26](Miy26/readme.md) | [Yin_U001](Miy26/Yin_U001.md), [Yin_U002](Miy26/Yin_U002.md), [Yin_U003](Miy26/Yin_U003.md), [Yin_U004](Miy26/Yin_U004.md), [Yin_U005](Miy26/Yin_U005.md), [Yin_U006](Miy26/Yin_U006.md), [Yin_U007](Miy26/Yin_U007.md), [Yin_U008](Miy26/Yin_U008.md) |
 | [Mor14](Mor14/readme.md) | [Yin_U001](Mor14/Yin_U001.md) |
 | [Mos26](Mos26/readme.md) | [Two exterior-root-count controls](Mos26/readme.md) |
+| [Mu03](Mu03/readme.md) | [Burnside's affine alternative in prime degree](Mu03/Yin_U001.md#burnside-affine) |
 | [NNS13](NNS13/readme.md) | Selected source scope; [C869](../../claims/Yin_C_G0869_v1.md#source-interface): conditional Rademacher logarithmic moments used in coefficient-box expectations |
 | [NPR13](NPR13/readme.md) | [Yin_U001](NPR13/Yin_U001.md) |
 | [NR92](NR92/readme.md) | [Boyd's degree-eighteen example in §4.5](NR92/Yin_U001.md#nr92-u001) |

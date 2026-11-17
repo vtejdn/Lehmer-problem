@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v310](Yin_R_G0562_v310.md#ambient-exterior-growth-review) Exterior counts grow for all sufficiently small-measure radicals of units of explicit splitting fields.
+- [R562 v309](Yin_R_G0562_v309.md#prime-conjugation-quotient-review) Prime-degree splitting fields with no ambient Salem output and their precise two-exterior obstruction.
+- [R562 v308](Yin_R_G0562_v308.md#prime-field-unit-transfer-review) Exact transfer and rank obstructions for units of conjugate root fields in prime half-degree.
+- [R562 v307](Yin_R_G0562_v307.md#ambient-unit-supply-review) The minimum for the entire splitting field, a transfer test, and an explicit separation from the roots.
+- [R562 v306](Yin_R_G0562_v306.md#prime-signature-obstruction-review) Prime-degree radical exterior obstruction realized by an explicit subplastic sequence.
+- [R562 v305](Yin_R_G0562_v305.md#flip-matching-minimum-review) The exact matching formula for minimum exterior count under full or even inverse-pair flips.
 - [R562 v304](Yin_R_G0562_v304.md#reciprocal-saturation-minimum-review) Exact reciprocal exterior minimum for arbitrary signatures, its signed-product realization and the cost-one Salem criterion.
 - [R562 v303](Yin_R_G0562_v303.md#real-atom-exterior-minimum-review) The optimal reciprocal exterior count for all real exterior signatures with a neutral pair and its signed monomial construction.
 - [R562 v302](Yin_R_G0562_v302.md#circuit-cut-minimum-review) Optimal exterior count in a real circuit with a neutral parent, its attaining product and the primitive lower bound.
