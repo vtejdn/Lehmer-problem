@@ -51,6 +51,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Bor96](Bor96/readme.md) | [Yin_U001](Bor96/Yin_U001.md#affine-chamber-quotient): affine Leech chamber quotient and canonical-normalization boundary |
 | [Boy81](Boy81/readme.md) | Source and edition notes |
 | [Boy96](Boy96/readme.md) | [Pisot defining polynomials and their cyclotomic cofactors](Boy96/Yin_U001.md#regular-cofactor) |
+| [Byo15](Byo15/readme.md) | [Outer automorphisms and projective isometry indices of classical groups](Byo15/Yin_U001.md#classical-outer) |
 | [CDPT26](CDPT26/readme.md) | [Yin_U001](CDPT26/Yin_U001.md) |
 | [CDT24](CDT24/readme.md) | [Yin_U001](CDT24/Yin_U001.md) |
 | [CFMZ26](CFMZ26/readme.md) | [Yin_U001](CFMZ26/Yin_U001.md), [Yin_U002](CFMZ26/Yin_U002.md), [Yin_U003](CFMZ26/Yin_U003.md) |
@@ -118,6 +119,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [GHS13](GHS13/readme.md) | Source and edition notes; [L462 v13](../../ledger/Yin_L_G0462_v13.md#integer-generators): Eichler formula attribution and local integral specialization |
 | [GIM+10](GIM+10/readme.md) | [Yin_U001](GIM+10/Yin_U001.md) |
 | [GJ24](GJ24/readme.md) | [Geometric filling roots and trace fields](GJ24/Yin_U001.md#gj24-u001) |
+| [GK00](GK00/readme.md) | [Two generators and the automorphism bound](GK00/Yin_U001.md#gk00-u001) |
 | [GK24](GK24/readme.md) | [Yin_U001](GK24/Yin_U001.md) |
 | [GK78](GK78/readme.md) | [Yin_U001](GK78/Yin_U001.md) |
 | [GL06](GL06/readme.md) | [Yin_U001](GL06/Yin_U001.md) |
@@ -160,7 +162,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [LR17](LR17/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#finite-difference-normalization-check): finite-difference mesh input and monic-normalization check |
 | [LS03](LS03/readme.md) | [Orders, bases and the attribution of the linear exponent](LS03/readme.md#exponents) |
 | [LS05](LS05/readme.md) | [Yin_U001](LS05/Yin_U001.md) |
-| [LS99](LS99/readme.md) | [Linear base bound with an excluded alternating section](LS99/Yin_U001.md#base) and [almost simple actions with large bases](LS99/Yin_U001.md#almost-simple) |
+| [LS99](LS99/readme.md) | [Linear base bound with an excluded alternating section](LS99/Yin_U001.md#base), [almost simple actions with large bases](LS99/Yin_U001.md#almost-simple) and [least degree of a faithful classical action](LS99/Yin_U001.md#least-degree) |
 | [Laz78](Laz78/readme.md) | [Fixed Pisot polynomial families on compact intervals below two](Laz78/Yin_U001.md#compact-pisot-families) |
 | [Li26](Li26/readme.md) | [Yin_U001](Li26/Yin_U001.md) |
 | [Lin00](Lin00/readme.md) | Source and edition notes |
@@ -267,6 +269,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [TV07](TV07/readme.md) | [Yin_U001](TV07/Yin_U001.md) |
 | [Tao09](Tao09/readme.md) | Source and edition notes |
 | [Tao26](Tao26/readme.md) | [Yin_U001](Tao26/Yin_U001.md), [Yin_U002](Tao26/Yin_U002.md), [Yin_U003](Tao26/Yin_U003.md) |
+| [Tay92](Tay92/readme.md) | [Witt's extension theorem](Tay92/Yin_U001.md#witt-extension) and [finite-field Witt indices](Tay92/Yin_U001.md#finite-indices) |
 | [The26](The26/readme.md) | [Yin_U001](The26/Yin_U001.md) |
 | [The26b](The26b/readme.md) | [Yin_U001](The26b/Yin_U001.md), [Yin_U002](The26b/Yin_U002.md), [Yin_U003](The26b/Yin_U003.md), [Yin_U004](The26b/Yin_U004.md), [Yin_U005](The26b/Yin_U005.md), [Yin_U006](The26b/Yin_U006.md#the26b-u006) |
 | [Var25](Var25/readme.md) | [Yin_U001](Var25/Yin_U001.md) |

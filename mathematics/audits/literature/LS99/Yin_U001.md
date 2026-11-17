@@ -56,3 +56,16 @@ In the terminology of §1.1 a **subspace action** is the action of \(G\) on the 
 3. \(T=\operatorname{Sp}_{2m}(q)\) in characteristic two, and \(M\cap T=\operatorname{O}^{+}_{2m}(q)\) or \(\operatorname{O}^{-}_{2m}(q)\).
 
 Thus a criterion that excludes only actions on individual subspaces of \(V\) still has to account for the graph-automorphism pairs and the even-characteristic symplectic coset actions. [Definition of subspace subgroup and action, pp. 497–498](../../../literature/pdf/LS99--journal.pdf#page=1)
+
+<a id="least-degree"></a>
+## Least degree of a faithful classical action
+
+At the start of §2 the authors write \(\mathrm{Cl}(n,q)\) for the almost simple groups with classical socle over \(\mathbb F_q\) and natural dimension \(n\).
+In the proof of Theorem 1.1 they define \(P(G)\) as the smallest degree of a faithful permutation representation of \(G\).
+They infer from the bounds in Kleidman and Liebeck, §5.2.2, that \(P(G)>q^{n/2}\) outside finitely many possibilities for \(G\).
+The argument there estimates fixed points in a non-subspace action, but this particular bound concerns the group invariant \(P(G)\).
+Every faithful permutation action of the same \(G\), including a subspace action, therefore has degree at least \(P(G)\).
+The finite exceptions are not enumerated in this passage. [Journal facsimile, p. 501, proof of Theorem 1.1](../../../literature/pdf/LS99--journal.pdf#page=5)
+
+Section 3 specifies that the field of the natural module has order \(Q=q^u\), where \(u=2\) for unitary groups and \(u=1\) otherwise.
+In terms of \(Q\), the lower bound is \(Q^{n/4}\) in the unitary case and \(Q^{n/2}\) in the other cases. [Field convention, printed p. 508](../../../literature/pdf/LS99--journal.pdf#page=12)

@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v270](Yin_R_G0562_v270.md#finding) Independent alternating blocks, relative splitting degree and multiplicative rank for bounded measure.
+- [R562 v269](Yin_R_G0562_v269.md#finding) Exclusion of all classical subspace stabilizers, including graph pairs and both even symplectic types.
+- [R562 v268](Yin_R_G0562_v268.md#finding) Reduction of minimal blocks to natural alternating and classical subspace actions.
 - [R562 v267](Yin_R_G0562_v267.md#finding) Radical-free block actions and the solvable kernel before and after compression.
 - [R562 v266](Yin_R_G0562_v266.md#finding) Ordinary lines among multiplicative labels and large two-point-stabilizer orbits.
 - [R562 v265](Yin_R_G0562_v265.md#finding) A cubic dyadic ideal class of order seven and all offsets at conductor 1831.
