@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v291](Yin_R_G0562_v291.md#cyclotomic-comparison-encoding-review) Cyclotomic comparison seeds attaining the Lehmer return.
+- [R562 v290](Yin_R_G0562_v290.md#pisot-parameter-intervals-and-integral-slopes) Exact Pisot intervals and the gap for bounded integral slopes.
 - [R562 v289](Yin_R_G0562_v289.md#pisot-cyclotomic-perturbation-height) Height cost for positive-constant Pisot perturbations.
 - [R562 v288](Yin_R_G0562_v288.md#salem-logarithmic-discriminant-deficit) Exact logarithmic discriminant deficit in a Salem family.
 - [R562 v287](Yin_R_G0562_v287.md#salem-unramified-prime-windows) Salem splitting fields unramified at prescribed finite primes.
