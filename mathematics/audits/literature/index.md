@@ -37,6 +37,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BV19b](BV19b/readme.md) | [Yin_U001](BV19b/Yin_U001.md), [Yin_U002](BV19b/Yin_U002.md), [Yin_U003](BV19b/Yin_U003.md) |
 | [BV19c](BV19c/readme.md) | Selected published-source scope; [C870](../../claims/Yin_C_G0870_v1.md#source-interfaces): Proposition 38's positive-divisor estimate and distinction from whole-polynomial measure |
 | [BV20](BV20/readme.md) | [Yin_U001](BV20/Yin_U001.md), [Yin_U002](BV20/Yin_U002.md), [Yin_U003](BV20/Yin_U003.md) |
+| [BZ01](BZ01/readme.md) | [Canonical Newton polygon](BZ01/Yin_U001.md#bz01-u001) |
 | [BZ22](BZ22/readme.md) | [Yin_U001](BZ22/Yin_U001.md) |
 | [Bel17](Bel17/readme.md) | [Yin_U001](Bel17/Yin_U001.md), [Yin_U002](Bel17/Yin_U002.md) |
 | [Bil97](Bil97/readme.md) | [Yin_U001](Bil97/Yin_U001.md), [Yin_U002](Bil97/Yin_U002.md) |
@@ -49,6 +50,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [CFMZ26b](CFMZ26b/readme.md) | [Yin_U001](CFMZ26b/Yin_U001.md) |
 | [CGL26](CGL26/readme.md) | [Yin_U001](CGL26/Yin_U001.md#cgl26-u001): construction and existing fixed-support coverage |
 | [CK14](CK14/readme.md) | [Yin_U001](CK14/Yin_U001.md) |
+| [CL97](CL97/readme.md) | [Corner coefficients and edge roots](CL97/Yin_U001.md#cl97-u001) |
 | [CLOZ25](CLOZ25/readme.md) | Source and edition notes |
 | [CM10](CM10/readme.md) | Source and edition notes |
 | [CPSV18](CPSV18/readme.md) | [Yin_U001](CPSV18/Yin_U001.md) |
@@ -107,6 +109,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [GHS09](GHS09/readme.md) | [Yin_U001](GHS09/Yin_U001.md#two-plane-generation): integral transvection generation and its two-plane limits |
 | [GHS13](GHS13/readme.md) | Source and edition notes; [L462 v13](../../ledger/Yin_L_G0462_v13.md#integer-generators): Eichler formula attribution and local integral specialization |
 | [GIM+10](GIM+10/readme.md) | [Yin_U001](GIM+10/Yin_U001.md) |
+| [GJ24](GJ24/readme.md) | [Geometric filling roots and trace fields](GJ24/Yin_U001.md#gj24-u001) |
 | [GK24](GK24/readme.md) | [Yin_U001](GK24/Yin_U001.md) |
 | [GK78](GK78/readme.md) | [Yin_U001](GK78/Yin_U001.md) |
 | [GL06](GL06/readme.md) | [Yin_U001](GL06/Yin_U001.md) |

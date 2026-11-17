@@ -211,8 +211,15 @@ Combined with [compression modulo a prime](../claims/Yin_C_G0345_v163.md#compres
 For a normalized support \(S\) with \(|S+S|<3|S|-3\), every sufficiently short [modular lift stays on one line](../claims/Yin_C_G0345_v165.md#statement), and its complete torsion fiber has exactly the original measure.
 The [binary reciprocal family](../claims/Yin_C_G0345_v166.md#irreducible) has irreducible factors of unbounded degree and meets few roots of unity modulo two at every order proportional to the degree.
 Yet [each of its positive-measure factors has a uniform gap](../claims/Yin_C_G0345_v167.md#binary), because its leading coefficient in the lifted variable has no circle zero.
-For the next fixed-polynomial construction, allow a circle zero of that coefficient and test whether the specialization can have an irreducible factor of sublinear degree with the [required concentration near the zero and the required number of exterior roots](../claims/Yin_C_G0345_v167.md#house).
-For a Salem construction, vary the two-variable input since bounded exterior count already excludes every fixed one.
+For every fixed \(F\), the [squared radial displacements of all the conjugates](../claims/Yin_C_G0345_v168.md#statement) give an individual-factor gap on every nonzero \(F(X,X^n)\), including when the leading and constant coefficients have circle zeros.
+When both powers can vary, [unit-circle edge roots give a uniform factor gap](../claims/Yin_C_G0345_v171.md#statement).
+For a two-dimensional Newton polygon whose edge roots are roots of unity, the degree of each nontorsion factor is comparable to the size of the exponent vector.
+For more general endpoint blocks, the [radial capacity estimate](../claims/Yin_C_G0345_v170.md#geometry) and the [disk and endpoint theorem](../claims/Yin_C_G0345_v172.md#statement) permit moving zeros, overlapping blocks and a quantitative allowance for exterior roots.
+The [bound for coefficient length at most five](../claims/Yin_C_G0345_v169.md#statement) applies to each positive-measure factor even when the cofactor also has positive measure.
+For length six, a hypothetical Salem sequence near one must have [two reciprocal blocks](../claims/Yin_C_G0345_v174.md#statement) with the same trinomial \(Q=X^a-X^b-1\), including \(X^a-2\) at \(b=0\).
+In an [explicit example with Lehmer's Salem factor](../claims/Yin_C_G0345_v175.md#statement), another exterior zero near a smaller conjugate of the trinomial belongs to the cofactor.
+If the positive root is \(e^t\) and its Salem factor has degree \(d\), then [the resultant forces \((N-a)t/d=m(Q)+O(d^{-1/16})\)](../claims/Yin_C_G0345_v176.md#statement).
+Test whether taking divisors of the fixed value \(q^*(\beta)\) in the field of a root \(\beta\) of \(q=Q/\gcd(Q,Q^*)\) further constrains that factor as \(Q,N\) vary.
 For inputs of arbitrary signature, [matching exterior roots](../claims/Yin_C_G0345_v137.md#statement) constrains their positions and multiplicities, while [the family with linearly many exterior roots](../claims/Yin_C_G0345_v142.md#statement) shows why the total contribution of those roots matters.
 The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
 The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.

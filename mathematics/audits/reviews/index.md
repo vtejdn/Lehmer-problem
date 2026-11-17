@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v176](Yin_R_G0562_v176.md#degree-balance) checks the necessary degree asymptotic for the Salem factors of the remaining reciprocal trinomial family.
+- [R562 v175](Yin_R_G0562_v175.md#exterior-cofactor-example) checks the primitive length-six example in which two exterior roots near different conjugates of the seed lie in different irreducible factors.
+- [R562 v174](Yin_R_G0562_v174.md#length-six-salem) checks the reduction of all near-one Salem candidates with coefficient-length-six multiples to two explicit reciprocal trinomial blocks.
+- [R562 v173](Yin_R_G0562_v173.md#finding) checks the all-slope degree of a hyperbolic filling trace field from the peripheral polynomial and its geometric root.
+- [R562 v172](Yin_R_G0562_v172.md#finding) checks the universal capacity deficit after adjoining the unit disk and the degree bound including overlapping blocks.
+- [R562 v171](Yin_R_G0562_v171.md#finding) checks the all-slope degree and measure bounds from the edge polynomials and the necessary real edge limit for Salem factors.
+- [R562 v170](Yin_R_G0562_v170.md#finding) checks the capacity deficit for radial segments and the degree and measure estimates with a moving unit-disk endpoint.
+- [R562 v169](Yin_R_G0562_v169.md#whole-proof) checks the moving-binomial argument and the gap for each positive-measure factor when the coefficient length is at most five.
+- [R562 v168](Yin_R_G0562_v168.md#all-fixed-specialization-factors) checks the uniform gap for every positive-measure factor of a fixed two-variable polynomial specialized at the powers one and n.
 - [R562 v167](Yin_R_G0562_v167.md#whole-proof) checks the bounds for individual factors, the exterior count near a leading-coefficient zero and the uniform gap for both binary lifts.
 - [R562 v166](Yin_R_G0562_v166.md#whole-proof) checks the short-period criterion modulo two and the reciprocal families that avoid every period proportional to degree.
 - [R562 v165](Yin_R_G0562_v165.md#modular-lift-doubling) checks the sharp doubling and density thresholds for collinear modular lifts and their exact torsion-fiber heights.
