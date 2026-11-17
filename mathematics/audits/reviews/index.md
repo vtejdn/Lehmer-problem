@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v154](Yin_R_G0562_v154.md#central-quadratic-measure) checks the uniform two-variable approximation, the central coefficient width and the reciprocal-of-support bound.
+- [R562 v153](Yin_R_G0562_v153.md#exterior-radii-at-large-power) checks the common exterior radius forced by a large power sum after bounded squared moments.
+- [R562 v152](Yin_R_G0562_v152.md#exterior-count-from-prefix) checks the number of exterior conjugates beyond each radial threshold after a large power sum.
 - [R562 v151](Yin_R_G0562_v151.md#blaschke-prefix-gap) checks the measure and discriminant inequalities at a long initial coefficient gap.
 - [R562 v150](Yin_R_G0562_v150.md#double-grid-residual-classification) checks the residual degree and the quadratic exception under a double torsion congruence.
 - [R562 v149](Yin_R_G0562_v149.md#moving-powers-central-width) checks the reflected moment estimates and the width required of a central coefficient block.
