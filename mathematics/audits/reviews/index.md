@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v124](Yin_R_G0562_v124.md#full-inverse-linear-growth) checks the linear lower bound for full logarithmic measure in the source degree and its cofactor consequence.
+- [R562 v123](Yin_R_G0562_v123.md#three-neutral-interlacing-outputs) checks the three cyclotomic polynomials and all their normalized inverse presentations.
+- [R562 v122](Yin_R_G0562_v122.md#arbitrary-source-interlacing) checks the degree bound for full interlacing inverse images of arbitrary irrational integral traces near measure one.
+- [R562 v121](Yin_R_G0562_v121.md#full-interlacing-gap) checks the absolute full-measure gap over all interlacing maps other than the identity at Salem inputs.
+- [R562 v120](Yin_R_G0562_v120.md#interlacing-denominator-descent) checks the gap at neutral poles and the denominator descent at an exterior pole.
+- [R562 v119](Yin_R_G0562_v119.md#integer-trace-levels) checks the number of integer levels with a smaller exterior trace and the conditions for such a level to lower positive measure.
+- [R562 v118](Yin_R_G0562_v118.md#endpoint-quotient-factors) checks the factorwise Mahler lower bound through the final admissible Taylor order.
+- [R562 v117](Yin_R_G0562_v117.md#interlacing-inverse-traces) checks the trace-field criterion for an individual Salem factor and the cost of the full inverse.
+- [R562 v116](Yin_R_G0562_v116.md#bounded-rank-descent) checks the multiplicative relations and relative field degrees required for a strict descent at degree minima.
+- [R562 v115](Yin_R_G0562_v115.md#monic-endpoint-quotients) checks the exterior roots of the monic Taylor quotients, their nonreal conjugates and the first-order descent.
 - [R562 v114](Yin_R_G0562_v114.md#sparse-rational-descent) checks the degree and coefficient costs of a strict Mahler measure descent by a rational function.
 - [R562 v113](Yin_R_G0562_v113.md#rational-trace-height) checks the height bound for rational functions of a trace and its sharp example in a field without real embeddings.
 - [R562 v112](Yin_R_G0562_v112.md#successive-trace-derivatives) checks the number and locations of the derivative roots above two for the original Salem trace polynomial.

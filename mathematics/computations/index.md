@@ -1,5 +1,9 @@
 # Computations Index
 
+- [J165](programs/Yin_J_G0165/readme.md#zero-measure-presentations) exhausts the pole and remainder spectra of full interlacing inverse images of Mahler measure one for irrational integral sources outside integer translations, obtaining exactly three degree-eight cyclotomics.
+
+- [J164](programs/Yin_J_G0164/readme.md#boyd-descent-search) checks all integer levels and all nonconstant endpoint Taylor quotients of Boyd's 45 Salem traces below 1.3, finding seven strict descents including one to Lehmer's number.
+
 - [J161](programs/Yin_J_G0161/readme.md#four-phase-certificate) certifies the strict Mahler measure bound \(41/20\) for all 31 phase polynomials in the fourth-multiple return.
 
 - [J160](programs/Yin_J_G0160/readme.md#small-degree-boundary) independently verifies the 22 small-degree Gaussian single-coordinate cyclic inputs used in the adopted all-parameter exclusion; it retains the author-checked initial twelve-input control separately, with complete factors, multiplicities and Mahler intervals.

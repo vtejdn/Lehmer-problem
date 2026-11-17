@@ -185,7 +185,13 @@ In fact for each fixed occupancy bound the [number of intervals exceeding it](..
 At any moving step of bounded [arithmetic extraction cost](../claims/Yin_C_G0345_v109.md#statement), a full progression of growing length in those signed exponents forces the shifted measure to diverge.
 For the Salem construction branch, a shifted cyclotomic product can supply [only finitely many Salem inputs](../claims/Yin_C_G0345_v108.md#salem), even with arbitrary cofactors.
 Changing the monomial to a translated polynomial of arbitrary height still requires [a growing exponent span](../claims/Yin_C_G0345_v111.md#statement) for any sequence of distinct bounded-measure Salem inputs.
-The Salem inquiry therefore returns to the original trace polynomial, where the [derivatives with exterior trace roots](../claims/Yin_C_G0345_v112.md#statement) give a range of candidate locations and an explicit integrality obstruction at degree minima.
+At the original Salem trace, [monic endpoint Taylor quotients](../claims/Yin_C_G0345_v115.md#roots) produce smaller exterior trace roots, while a [bound for every irreducible factor](../claims/Yin_C_G0345_v118.md#orders) confines possible measure descents to the earliest orders along a shrinking sequence.
+The [integer-level count](../claims/Yin_C_G0345_v119.md#statement) leaves open which small negative levels yield a smaller Salem factor.
+The [complete search on Boyd's inputs](../computations/programs/Yin_J_G0164/readme.md#boyd-descent-search) gives such factors at minus one and minus two.
+Test levels forced by an integer trace in the neutral interval, including cases where a complementary factor has nonreal roots.
+The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
+The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.
+If the original source degree tends to infinity, a factor with bounded measure leaves [at least linear logarithmic measure in the complement](../claims/Yin_C_G0345_v124.md#statement).
 A construction using a rational map on the original algebraic input must also meet the [degree and coefficient-count requirements for strict positive descent](../claims/Yin_C_G0345_v114.md#statement).
 For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
