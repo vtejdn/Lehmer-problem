@@ -158,8 +158,23 @@ At their squarefree product \(q=uvw\), the remaining interval for a bounded-aver
 In that interval the [first absolute mean](../claims/Yin_C_G0345_v87.md#statement) already bounds the length of the original primitive value as a signed sum of roots of unity.
 Loxton's [mean-square estimate](../audits/literature/Lox72/Yin_U001.md#mean-square) uses a different moment and permits summands of arbitrary orders.
 For an even-degree reciprocal input, a [fixed bound below \(4/\pi\)](../claims/Yin_C_G0345_v88.md#statement) precludes a small positive measure at the full cyclotomic degree when the number of prime divisors stays bounded.
-The two-term centered values in the [endpoint examples](../claims/Yin_C_G0345_v88.md#sharp) motivate testing an actual polynomial congruent to a reciprocal pair of monomials at a squarefree conductor with three growing primes.
-At smaller mean and unrestricted conductor, the [exact critical-degree reduction](../claims/Yin_C_G0345_v89.md#conductors) instead gives the two central perturbations of odd squarefree cyclotomic polynomials, with unbounded prime count required for a shrinking sequence.
+At the endpoint \(4/\pi\), the [two-term theorem](../claims/Yin_C_G0345_v96.md#orders) proves that an escaping centered value of bounded signed length equals a root of unity plus its inverse.
+The [ratio order](../claims/Yin_C_G0345_v96.md#parity) determines which such means lie below the endpoint.
+For three odd primes, [truncation and Euclidean division](../claims/Yin_C_G0345_v100.md#statement) exclude a bounded wrap relative to the middle prime, and give further exclusions for separated blocks or bounded Euclidean length.
+At the full degree [monic interpolation](../claims/Yin_C_G0345_v100.md#monicity) works for every admissible cutoff, so testing the remaining cutoffs requires a measure estimate.
+At primitive mean below \(\sqrt{2+\sqrt5}-1\), the [bounded-excess gap](../claims/Yin_C_G0345_v92.md#gap) applies with unrestricted conductor.
+In particular both central perturbations of \(\Phi_n\) have full logarithmic measures tending to infinity with the number of prime divisors of \(n\), by the [circle integral and Fourier lower bound](../claims/Yin_C_G0345_v91.md#measure).
+For odd squarefree conductors the [integral trace fibers](../claims/Yin_C_G0345_v93.md#statement) also determine the possible repeated roots of the two signs.
+The [moving-root estimate](../claims/Yin_C_G0345_v97.md#statement) permits an arbitrary translated bounded-degree polynomial and a bounded-degree cyclotomic multiplier, independently of both coefficient vectors.
+For a general cyclotomic product plus a monomial, the [weighted Fourier estimate](../claims/Yin_C_G0345_v94.md#statement) treats boundedly many distinct conductors with arbitrary multiplicities.
+The [binomial exponent criterion](../claims/Yin_C_G0345_v98.md#statement) treats a bounded number of multiplicative intervals even when the number of distinct conductors grows.
+For \(\Phi_n+aX^k\), every off-center positive-measure divisor has [Smyth's lower bound](../claims/Yin_C_G0345_v99.md#reciprocity).
+At the center the [cofactor estimate](../claims/Yin_C_G0345_v99.md#transfer) and [individual degree bound](../claims/Yin_C_G0345_v99.md#bounded-primes) distinguish full measure from the measure of a proposed reciprocal factor.
+For an arbitrary product of cyclotomic polynomials, a [positive-measure divisor away from the center](../claims/Yin_C_G0345_v101.md#inverse) satisfies the same nonreciprocal lower bound.
+At the center every [noncyclotomic factor occurs once](../claims/Yin_C_G0345_v102.md#simple).
+Writing \(d\) for the parent degree, [estimates on arcs in successive radial ranges](../claims/Yin_C_G0345_v103.md#transfer) transfer an established whole-polynomial gap when the complementary noncyclotomic degree is \(o(d/\log^2 d)\).
+If the retained measure is bounded and the complementary noncyclotomic degree is \(O(d/\log^8 d)\), that [complement is eventually cyclotomic](../claims/Yin_C_G0345_v103.md#exact).
+The two remaining questions for this route are a whole-polynomial gap when the number of conductors and the number of required multiplicative intervals both grow, and an estimate for an individual reciprocal factor with a larger complement.
 For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 

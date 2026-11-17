@@ -1,5 +1,19 @@
 # Reviews Index
 
+- [R562 v103](Yin_R_G0562_v103.md#dyadic-poisson-cofactor) checks the near-full-degree transfer and the exact cyclotomic-cofactor threshold from sums over radial scales.
+- [R562 v102](Yin_R_G0562_v102.md#central-discriminant-cofactor) checks squarefreeness of the noncyclotomic factors and the cofactor bound from the reflected discriminant.
+- [R562 v101](Yin_R_G0562_v101.md#cyclotomic-product-cofactor) checks the Poisson estimate and exact cofactor removal for central shifts of arbitrary cyclotomic products.
+- [R562 v100](Yin_R_G0562_v100.md#truncated-inverse) checks sparse clearing of truncated inverse cyclotomic series and the Euclidean algorithm for two denominator steps.
+- [R562 v99](Yin_R_G0562_v99.md#cyclotomic-shift-divisors) checks the off-center factor classification, the central root bound and the gap after removing a cofactor.
+- [R562 v98](Yin_R_G0562_v98.md#binomial-exponent-scales) checks the finite Fourier inversion and the gap from boundedly many intervals of binomial exponents.
+- [R562 v97](Yin_R_G0562_v97.md#two-bounded-degrees) checks the gap with two bounded-degree factors of arbitrary height and moving roots.
+- [R562 v96](Yin_R_G0562_v96.md#endpoint-binomial) checks the two-term endpoint classification, conductor parity and reciprocal interpolation.
+- [R562 v95](Yin_R_G0562_v95.md#fixed-polynomial-shift) checks localized Fourier growth and shifts by a fixed polynomial at every offset.
+- [R562 v94](Yin_R_G0562_v94.md#weighted-cyclotomic-products) checks cyclotomic products with boundedly many distinct conductors and unrestricted multiplicities.
+- [R562 v93](Yin_R_G0562_v93.md#simple-fibers) checks the regularity of integral trace fibers and the endpoint multiplicities for odd squarefree conductors.
+- [R562 v92](Yin_R_G0562_v92.md#bounded-degree-factor) checks arbitrary bounded-degree multipliers and the all-conductor consequence at small primitive mean.
+- [R562 v91](Yin_R_G0562_v91.md#cyclotomic-monomial-growth) checks the Fourier lower bound at many prime divisors and the full Mahler gap for monomial perturbations of a cyclotomic polynomial.
+- [R562 v90](Yin_R_G0562_v90.md#circle-shift-loss) checks the angular curvature bound and the integrated loss from a constant-modulus perturbation.
 - [R562 v89](Yin_R_G0562_v89.md#small-mean-center) checks the totally real first-moment bound and the two central cyclotomic families at the critical degree.
 - [R562 v88](Yin_R_G0562_v88.md#primitive-mean-four-over-pi) checks the cutoff at four over pi, exact real descent and the reciprocal Mahler gap below the cutoff.
 - [R562 v87](Yin_R_G0562_v87.md#primitive-mean-length) checks signed lengths at the original conductor from first absolute means on primitive roots.
