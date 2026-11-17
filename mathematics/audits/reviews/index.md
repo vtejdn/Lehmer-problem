@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v281](Yin_R_G0562_v281.md#finding) Minimum base degree and maximum necessary adjunction degree.
+- [R562 v280](Yin_R_G0562_v280.md#finding) Discriminants of radial pairs and reflected resultants.
 - [R562 v279](Yin_R_G0562_v279.md#finding) Bounded spectrum over composita of splitting fields.
 - [R562 v278](Yin_R_G0562_v278.md#finding) Equality of label fields or descent to the block field.
 - [R562 v277](Yin_R_G0562_v277.md#finding) Intermediate fields and bounded Mahler spectrum in a reciprocal root field.
