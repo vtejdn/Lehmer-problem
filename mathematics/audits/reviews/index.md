@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v279](Yin_R_G0562_v279.md#finding) Bounded spectrum over composita of splitting fields.
 - [R562 v278](Yin_R_G0562_v278.md#finding) Equality of label fields or descent to the block field.
 - [R562 v277](Yin_R_G0562_v277.md#finding) Intermediate fields and bounded Mahler spectrum in a reciprocal root field.
 - [R562 v276](Yin_R_G0562_v276.md#finding) Bounded-measure radical products of conjugates and the cost of mixed monomials.
