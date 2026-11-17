@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v205](Yin_R_G0562_v205.md#real-radical-minimum) checks the exact minimum factor measure under common dilation of a positive real unit and the orbit classification.
+- [R562 v204](Yin_R_G0562_v204.md#cyclotomic-resultants) checks the simultaneous cyclotomic resultant restrictions and the sharp examples at minimum length four.
+- [R562 v203](Yin_R_G0562_v203.md#primitive-delay-power-fields) checks which root quotients can be torsion and which fields all positive powers generate in the prime-binomial family.
+- [R562 v202](Yin_R_G0562_v202.md#common-power-certificates) checks the simultaneous irreducibility certificates, density and degree bounds for common dilations.
+- [R562 v201](Yin_R_G0562_v201.md#local-effective-delay) checks the local degree estimate and positive measure gap for effective delays with bounded part coprime to the chosen prime.
 - [R562 v200](Yin_R_G0562_v200.md#common-rational-generator) checks the common rational generator for every bounded-width representation by powers and the sharp count of possible delays.
 - [R562 v199](Yin_R_G0562_v199.md#two-delays-compression) checks the degree and delay bounds forced by simultaneous power relations and the exact rational-function identity exception.
 - [R562 v198](Yin_R_G0562_v198.md#prime-block-factorization) checks irreducible factorization, exterior multiplicities and cyclotomic degree for widely separated products of prime binomials.

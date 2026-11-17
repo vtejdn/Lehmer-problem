@@ -232,7 +232,11 @@ A [fixed list of cyclotomic values at a trinomial root](../claims/Yin_C_G0345_v1
 For two fixed blocks, [the per-factor resultant identities](../claims/Yin_C_G0345_v193.md#resultants) determine the contribution of each leading-block divisor to the limiting degree.
 For [moving blocks of bounded coefficient length](../claims/Yin_C_G0345_v194.md#statement) the scaled factor height still converges to the corresponding circle integral whenever the block width is little-oh of the cube root of the factor degree.
 For [products of prime binomials](../claims/Yin_C_G0345_v198.md#statement) the exterior allocations are integer multiples of the reciprocal gcd of the block exponents once the delay exceeds the ninth-power threshold.
-The next question is whether a factor with an arbitrarily small positive share actually occurs when this gcd grows.
+[Prime-power valuation estimates](../claims/Yin_C_G0345_v201.md#statement) exclude shares tending to zero when the part of an eligible effective delay coprime to the chosen prime is bounded.
+When the delay is coprime to the block gcd, [every power preserves the full field of a nontorsion root](../claims/Yin_C_G0345_v203.md#statement), and its possible share bounds the degree of the abelian subfield.
+When a common dilation is applied to a normalized parent, the [minimum measure](../claims/Yin_C_G0345_v205.md#prime-blocks) is determined by the largest positive radical already in the real seed field.
+[Real and residue-field tests](../claims/Yin_C_G0345_v202.md#statement) exclude many primes from that exponent, including prescribed finite sets on positive-density delay classes.
+Determine whether the radical exponents of normalized parents are uniformly bounded or whether they can grow without bound.
 When a unit satisfies two delayed equations, [integer compression](../claims/Yin_C_G0345_v199.md#statement) either gives an exact identity between the two rational functions or bounds its degree in terms of their widths and coefficient lengths.
 For degree above the measure-dependent threshold, [one rational function generates every representation after monomial removal](../claims/Yin_C_G0345_v200.md#statement), and the sharp delay count is independent of the degree.
 For a whole polynomial with [few distinct sums of support exponents](../claims/Yin_C_G0345_v196.md#statement), the support structure improves the lower bound even with arbitrary cyclotomic factors.
