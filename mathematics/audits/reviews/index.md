@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v247](Yin_R_G0562_v247.md#finding) checks the degree bound for all nonconstant divisors and the all-offset exclusion of the specified dyadic factor over the rationals.
+- [R562 v246](Yin_R_G0562_v246.md#second-trace-digit) checks the trace modulo eight for each radical and the exclusion at all small admissible offsets.
 - [R562 v245](Yin_R_G0562_v245.md#finding) checks the prime-power parity obstruction, the explicit congruence classes of offsets and the prime-square irreducibility criterion.
 - [R562 v244](Yin_R_G0562_v244.md#trace-congruence) checks the four integral trace values and the first binary digit for rational lifts at square-root offsets.
 - [R562 v243](Yin_R_G0562_v243.md#two-prime-obstruction) checks the two-prime obstruction to the binary period test and its different lifting conclusions over the rationals and the dyadic integers.

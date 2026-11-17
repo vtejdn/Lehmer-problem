@@ -235,6 +235,10 @@ For four terms, [either coefficient prime](../claims/Yin_C_G0345_v238.md#stateme
 For the coefficients \(1,-2,1\), two extra primes allow a [specified binary divisor](../claims/Yin_C_G0345_v243.md#statement) for which the best lower bound from all single periods decays as \(\exp(-\Theta(\sqrt A))\), where \(A\) is the five-exponent of the middle index.
 Although this divisor lifts uniquely over \(\mathbb Z_2\), a rational lift must have [four exact trace values](../claims/Yin_C_G0345_v244.md#traces).
 The [conductor parity and short-offset formulas](../claims/Yin_C_G0345_v245.md#statement) exclude two of the three residue classes modulo three for the chosen two-prime divisor throughout the indicated range, and give whole-polynomial irreducibility at middle exponents \(25,49\).
+The [trace modulo eight](../claims/Yin_C_G0345_v246.md#statement) rules out the remaining small offsets for that selection.
+Every nonconstant rational factor in this family has [degree at least a constant times \(\sqrt{nk}\)](../claims/Yin_C_G0345_v247.md#statement), with \(k=n-l\).
+The prescribed binary degree would force \(k=O(A^2)\), so this divisor has no rational lift at any admissible offset for large \(A\).
+Other local selections remain possible, including ones with only mixed orders, whose squarefree parts contribute one to the stated trace product modulo eight.
 For every fixed term count \(s\) and coefficient bound, [descent to finitely many reciprocal Laurent polynomials](../claims/Yin_C_G0345_v236.md#statement) gives at most \(\lfloor s/2\rfloor\) variables.
 At four or five terms a shrinking sequence therefore needs a fixed two-variable polynomial.
 Its [exponent directions](../claims/Yin_C_G0345_v171.md#statement) must approach an edge normal whose oriented edge polynomial has a root outside the unit disk, with the exponent along that edge tending to infinity.
