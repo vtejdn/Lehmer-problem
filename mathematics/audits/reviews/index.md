@@ -1,5 +1,16 @@
 # Reviews Index
 
+- [R562 v89](Yin_R_G0562_v89.md#small-mean-center) checks the totally real first-moment bound and the two central cyclotomic families at the critical degree.
+- [R562 v88](Yin_R_G0562_v88.md#primitive-mean-four-over-pi) checks the cutoff at four over pi, exact real descent and the reciprocal Mahler gap below the cutoff.
+- [R562 v87](Yin_R_G0562_v87.md#primitive-mean-length) checks signed lengths at the original conductor from first absolute means on primitive roots.
+- [R562 v86](Yin_R_G0562_v86.md#primitive-grid-margin) checks the conductor-specific degree loss and the primitive sampling gaps with two varying primes or a fixed fractional margin.
+- [R562 v85](Yin_R_G0562_v85.md#unique-orbit-interlacer) checks the unique interlacer over a prescribed field and the loss of half the gaps on descent.
+- [R562 v84](Yin_R_G0562_v84.md#bounded-field-power-density) checks the optimal torsion grid and the density of all bounded-field interlacers at every defect.
+- [R562 v83](Yin_R_G0562_v83.md#primitive-grid-gap) checks primitive cyclotomic averages, the radical power basis and sparse clearing at one or two primes.
+- [R562 v82](Yin_R_G0562_v82.md#separation-three) checks both signs of the separation-three Chebyshev interlacing gap.
+- [R562 v81](Yin_R_G0562_v81.md#union-grid-gap) checks sparse clearing on a union of affine grids and the exact degree threshold.
+- [R562 v80](Yin_R_G0562_v80.md#torsion-angle-lifts) checks the trace-field square test for a torsion angle, minimal degrees and both first-power bounds.
+- [R562 v79](Yin_R_G0562_v79.md#bounded-field-torsion-interlacing) checks the field-valued residue bounds, the finite set of scaled moments and their sparse norm polynomial.
 - [R562 v78](Yin_R_G0562_v78.md#record-field-restrictions) checks the proper subfields, eventual automorphisms and small elements at unrestricted Mahler degree records.
 - [R562 v77](Yin_R_G0562_v77.md#moving-rational-measure) checks the degree obstruction for varying rational functions with arbitrary bounded-measure inputs and outputs.
 - [R562 v76](Yin_R_G0562_v76.md#rational-function-degree-review) checks the moving rational-function degree bounds at complex Salem inputs and the primitive single-block estimate.

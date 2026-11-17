@@ -152,6 +152,14 @@ Even a rational function with coefficients chosen for each input encounters a [d
 For primitive complex Salem inputs with one unbalanced block the [required degree](../claims/Yin_C_G0345_v76.md#primitive) differs from the input degree by at most a logarithmic error on the lower side.
 The [relative norm criterion](../claims/Yin_C_G0345_v75.md#norm) explains why small integral outputs in these fields belong to one cyclic group modulo torsion.
 For candidate constructions directly from a trace polynomial, the [discriminant test](../claims/Yin_C_G0345_v73.md#signed) excludes balanced and proper unbalanced groups in growing odd trace degree at small height when the field discriminant is squarefree.
+For a prescribed torsion quotient of the exterior pair, the [square-class criterion](../claims/Yin_C_G0345_v80.md#criterion) tests an exact lift at the original Salem measure.
+For integer candidates tested at a primitive root, the [conductor mask](../claims/Yin_C_G0345_v86.md#mask) gives a quantitative degree test even at three growing primes.
+At their squarefree product \(q=uvw\), the remaining interval for a bounded-average construction begins within \(u+v+w-1\) degrees below \(\varphi(q)\).
+In that interval the [first absolute mean](../claims/Yin_C_G0345_v87.md#statement) already bounds the length of the original primitive value as a signed sum of roots of unity.
+Loxton's [mean-square estimate](../audits/literature/Lox72/Yin_U001.md#mean-square) uses a different moment and permits summands of arbitrary orders.
+For an even-degree reciprocal input, a [fixed bound below \(4/\pi\)](../claims/Yin_C_G0345_v88.md#statement) precludes a small positive measure at the full cyclotomic degree when the number of prime divisors stays bounded.
+The two-term centered values in the [endpoint examples](../claims/Yin_C_G0345_v88.md#sharp) motivate testing an actual polynomial congruent to a reciprocal pair of monomials at a squarefree conductor with three growing primes.
+At smaller mean and unrestricted conductor, the [exact critical-degree reduction](../claims/Yin_C_G0345_v89.md#conductors) instead gives the two central perturbations of odd squarefree cyclotomic polynomials, with unbounded prime count required for a shrinking sequence.
 For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 
