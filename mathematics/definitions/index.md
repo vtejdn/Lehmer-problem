@@ -7,6 +7,7 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 
 | Concept group | Contents |
 | --- | --- |
+| [Dual lattices, covering radius and first minimum](../audits/literature/Ban95/Yin_U001.md#lattice-conventions) | Full-rank Euclidean lattices and gauges of origin-symmetric convex bodies; Ban95's normalization. |
 | [Alternating sections and group thickness](../audits/literature/Bab18/Yin_U001.md#thickness) | Babai's finite-group convention and the degree of a primitive action. |
 | [Base and base size of a permutation group](../audits/literature/LS99/Yin_U001.md#base) | Pointwise stabilizers and the order bound obtained from the images of a base. |
 | [Subspace action of an almost simple classical group](../audits/literature/LS99/Yin_U001.md#subspace-action) | Liebeck and Shalev's three types of maximal subgroup, including graph-automorphism pairs and orthogonal groups in characteristic-two symplectic groups. |

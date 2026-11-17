@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v292](Yin_R_G0562_v292.md#uniform-prescribed-constant-review) Every prescribed positive constant above a nearly linear threshold has a uniform Pisot inverse.
 - [R562 v291](Yin_R_G0562_v291.md#cyclotomic-comparison-encoding-review) Cyclotomic comparison seeds attaining the Lehmer return.
 - [R562 v290](Yin_R_G0562_v290.md#pisot-parameter-intervals-and-integral-slopes) Exact Pisot intervals and the gap for bounded integral slopes.
 - [R562 v289](Yin_R_G0562_v289.md#pisot-cyclotomic-perturbation-height) Height cost for positive-constant Pisot perturbations.
