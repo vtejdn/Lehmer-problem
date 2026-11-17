@@ -43,6 +43,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Bil97](Bil97/readme.md) | [Yin_U001](Bil97/Yin_U001.md), [Yin_U002](Bil97/Yin_U002.md) |
 | [Bin22](Bin22/readme.md) | [Yin_U001](Bin22/Yin_U001.md) |
 | [Bor96](Bor96/readme.md) | [Yin_U001](Bor96/Yin_U001.md#affine-chamber-quotient): affine Leech chamber quotient and canonical-normalization boundary |
+| [Boy81](Boy81/readme.md) | Source and edition notes |
 | [Boy96](Boy96/readme.md) | [Pisot defining polynomials and their cyclotomic cofactors](Boy96/Yin_U001.md#regular-cofactor) |
 | [CDPT26](CDPT26/readme.md) | [Yin_U001](CDPT26/Yin_U001.md) |
 | [CDT24](CDT24/readme.md) | [Yin_U001](CDT24/Yin_U001.md) |
@@ -90,6 +91,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [ESS02](ESS02/readme.md) | [Yin_U001](ESS02/Yin_U001.md) |
 | [Elk19](Elk19/readme.md) | [Yin_U001](Elk19/Yin_U001.md) |
 | [Erd14](Erd14/readme.md) | [Yin_U001](Erd14/Yin_U001.md) |
+| [Erd32](Erd32/readme.md) | [A prime between an integer and its double](Erd32/Yin_U001.md#erd32-u001) |
 | [FH09](FH09/readme.md) | [Yin_U001](FH09/Yin_U001.md) |
 | [FK52](FK52/readme.md) | [Yin_U001](FK52/Yin_U001.md) |
 | [FKMR16](FKMR16/readme.md) | Source and edition notes |
@@ -164,6 +166,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [MMS26](MMS26/readme.md) | [Yin_U001](MMS26/Yin_U001.md) |
 | [MPV98](MPV98/readme.md) | [Yin_U001](MPV98/Yin_U001.md), [Yin_U002](MPV98/Yin_U002.md) |
 | [MS05](MS05/readme.md) | [Yin_U001](MS05/Yin_U001.md) |
+| [MS05b](MS05b/readme.md) | [Small induced subgraphs of index greater than two](MS05b/Yin_U001.md#ms05b-u001) |
 | [MS12](MS12/readme.md) | [Yin_U001](MS12/Yin_U001.md) |
 | [MS12b](MS12b/readme.md) | [Yin_U001](MS12b/Yin_U001.md) |
 | [MS17](MS17/readme.md) | [Yin_U001](MS17/Yin_U001.md) |
@@ -239,6 +242,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Smi11](Smi11/readme.md) | [Yin_U001](Smi11/Yin_U001.md) |
 | [Smy08](Smy08/readme.md) | [Yin_U001](Smy08/Yin_U001.md), [Yin_U002](Smy08/Yin_U002.md), [Yin_U003](Smy08/Yin_U003.md), [Yin_U004](Smy08/Yin_U004.md) |
 | [Smy15](Smy15/readme.md) | [Yin_U001](Smy15/Yin_U001.md), [Yin_U002](Smy15/Yin_U002.md) |
+| [Smy18](Smy18/readme.md) | Source and edition notes |
 | [Smy71](Smy71/readme.md) | [Yin_U001](Smy71/Yin_U001.md): full original proof, corollaries and lemma endpoint |
 | [Sou07](Sou07/readme.md) | [Yin_U001](Sou07/Yin_U001.md) |
 | [Sta14](Sta14/readme.md) | [Exterior root density and Mahler measure of trinomials](Sta14/Yin_U001.md#sta14-u001) |

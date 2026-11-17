@@ -230,7 +230,12 @@ For a fixed algebraic input, the [eventual minimum support on its powers](../cla
 Across varying inputs, the [sharp count at each minimum coefficient length](../claims/Yin_C_G0345_v189.md#statement) gives an upper bound against which to test a bounded-measure construction.
 A [fixed list of cyclotomic values at a trinomial root](../claims/Yin_C_G0345_v192.md#statement) gives bounded minimum length throughout each bounded-measure interval.
 For two fixed blocks, [the per-factor resultant identities](../claims/Yin_C_G0345_v193.md#resultants) determine the contribution of each leading-block divisor to the limiting degree.
-Test which of these estimates remain uniform when the blocks vary, particularly when an increasing number of conjugates [carry exterior mass near the unit circle](../claims/Yin_C_G0345_v190.md#mass).
+For [moving blocks of bounded coefficient length](../claims/Yin_C_G0345_v194.md#statement) the scaled factor height still converges to the corresponding circle integral whenever the block width is little-oh of the cube root of the factor degree.
+For [products of prime binomials](../claims/Yin_C_G0345_v198.md#statement) the exterior allocations are integer multiples of the reciprocal gcd of the block exponents once the delay exceeds the ninth-power threshold.
+The next question is whether a factor with an arbitrarily small positive share actually occurs when this gcd grows.
+When a unit satisfies two delayed equations, [integer compression](../claims/Yin_C_G0345_v199.md#statement) either gives an exact identity between the two rational functions or bounds its degree in terms of their widths and coefficient lengths.
+For degree above the measure-dependent threshold, [one rational function generates every representation after monomial removal](../claims/Yin_C_G0345_v200.md#statement), and the sharp delay count is independent of the degree.
+For a whole polynomial with [few distinct sums of support exponents](../claims/Yin_C_G0345_v196.md#statement), the support structure improves the lower bound even with arbitrary cyclotomic factors.
 For inputs of arbitrary signature, [matching exterior roots](../claims/Yin_C_G0345_v137.md#statement) constrains their positions and multiplicities, while [the family with linearly many exterior roots](../claims/Yin_C_G0345_v142.md#statement) shows why the total contribution of those roots matters.
 The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
 The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.
