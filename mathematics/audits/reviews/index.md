@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v114](Yin_R_G0562_v114.md#sparse-rational-descent) checks the degree and coefficient costs of a strict Mahler measure descent by a rational function.
+- [R562 v113](Yin_R_G0562_v113.md#rational-trace-height) checks the height bound for rational functions of a trace and its sharp example in a field without real embeddings.
+- [R562 v112](Yin_R_G0562_v112.md#successive-trace-derivatives) checks the number and locations of the derivative roots above two for the original Salem trace polynomial.
+- [R562 v111](Yin_R_G0562_v111.md#salem-perturbation-span) checks the span required for a shifted polynomial to carry a bounded-measure Salem factor.
+- [R562 v110](Yin_R_G0562_v110.md#valuation-occupancy) checks the norm estimate on prime valuation fibers and its consequence for products of the occupied exponents.
+- [R562 v109](Yin_R_G0562_v109.md#moving-conductor-extraction) checks extraction at multiples of a moving integer, signed progressions and the selected conductors.
+- [R562 v108](Yin_R_G0562_v108.md#cyclotomic-parent-exclusion) checks the trace obstruction and the finiteness of Salem factors of cyclotomic products shifted by a monomial.
+- [R562 v107](Yin_R_G0562_v107.md#exceptional-dyadic-intervals) checks the whole-polynomial gap when only boundedly many dyadic intervals have unrestricted occupancy.
 - [R562 v106](Yin_R_G0562_v106.md#dyadic-occupancy) checks the norm bounds by dyadic occupancy and the simultaneous necessary conditions for shrinking shifted measures.
 - [R562 v105](Yin_R_G0562_v105.md#divisibility-chain) checks the two-sided integral bound and signed polynomiality criterion on a divisibility chain.
 - [R562 v104](Yin_R_G0562_v104.md#cyclotomic-parent-limits) checks the classification and realization of normalized limits, nested binomial supports and the positive progression bound.

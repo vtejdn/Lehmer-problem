@@ -181,6 +181,12 @@ On a [divisibility chain](../claims/Yin_C_G0345_v105.md#measure), the normalized
 With unrestricted divisibility, let \(S=\sum_j |b_j|\) for the signed binomial exponents \(b_j\).
 At bounded shifted measure, some interval \([2^h,2^{h+1})\) must contain at least [a constant times \(S^{1/5}\) occupied indices](../claims/Yin_C_G0345_v106.md#statement), with the constant depending only on the measure bound.
 Together with the interval-count gap, this forces both the number of occupied intervals and the maximum count in a single interval to grow along any sequence of positive measures tending to zero.
+In fact for each fixed occupancy bound the [number of intervals exceeding it](../claims/Yin_C_G0345_v107.md#statement) must grow, as must the [product doubling of the occupied exponents](../claims/Yin_C_G0345_v110.md#rank).
+At any moving step of bounded [arithmetic extraction cost](../claims/Yin_C_G0345_v109.md#statement), a full progression of growing length in those signed exponents forces the shifted measure to diverge.
+For the Salem construction branch, a shifted cyclotomic product can supply [only finitely many Salem inputs](../claims/Yin_C_G0345_v108.md#salem), even with arbitrary cofactors.
+Changing the monomial to a translated polynomial of arbitrary height still requires [a growing exponent span](../claims/Yin_C_G0345_v111.md#statement) for any sequence of distinct bounded-measure Salem inputs.
+The Salem inquiry therefore returns to the original trace polynomial, where the [derivatives with exterior trace roots](../claims/Yin_C_G0345_v112.md#statement) give a range of candidate locations and an explicit integrality obstruction at degree minima.
+A construction using a rational map on the original algebraic input must also meet the [degree and coefficient-count requirements for strict positive descent](../claims/Yin_C_G0345_v114.md#statement).
 For reciprocal outputs with more than one exterior root, the [irreducible inverse](../claims/Yin_C_G0345_v35.md#statement) preserves their number and recovers the polynomial of their traces from the exterior factor.
 For every fixed \(b<2\) there is also a uniform gap over every delay for all Pisot seeds at most \(b\), using their [bounded-term cyclotomic multiples](../claims/Yin_C_G0345_v27.md#compact).
 

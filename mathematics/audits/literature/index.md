@@ -55,6 +55,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [CRW08](CRW08/readme.md) | [Yin_U001](CRW08/Yin_U001.md) |
 | [CZ05](CZ05/readme.md) | [Yin_U001](CZ05/Yin_U001.md#s-unit-gcd) on common divisors of independent unit differences |
 | [Can63](Can63/readme.md) | [Yin_U001](Can63/Yin_U001.md#cantor-rationality) |
+| [Cha03](Cha03/readme.md) | [Prime valuations, multiplicative dimension and even moments](Cha03/Yin_U001.md#valuation-estimate) |
 | [Con26](Con26/readme.md) | [Yin_U001](Con26/Yin_U001.md), [Yin_U002](Con26/Yin_U002.md), [Yin_U003](Con26/Yin_U003.md) |
 | [Con26b](Con26b/readme.md) | [Yin_U001](Con26b/Yin_U001.md) |
 | [Con26c](Con26c/readme.md) | [Yin_U001](Con26c/Yin_U001.md) |
