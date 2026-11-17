@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v263](Yin_R_G0562_v263.md#finding) Cyclic class counts and irreducibility at every offset for four explicit prime conductors.
+- [R562 v262](Yin_R_G0562_v262.md#finding) Sublinear dyadic divisors at prime periods and simultaneous trace tests.
+- [R562 v261](Yin_R_G0562_v261.md#finding) Exterior-root allocation and the irreducible offset-one prime-period family.
+- [R562 v260](Yin_R_G0562_v260.md#finding) Intermediate normal closures, bounded exponent substitutions and solvable prime-degree traces.
+- [R562 v259](Yin_R_G0562_v259.md#finding) Primitive orbit selection in split subfields and two quadratic class tests.
 - [R562 v258](Yin_R_G0562_v258.md#finding) checks the order deficits at moving primes and the five-term gap in terms of the number of top Frobenius orbits.
 - [R562 v257](Yin_R_G0562_v257.md#finding) checks effective periods with multiplicities and the gap for both tetranomial orientations and reciprocal five-term polynomials.
 - [R562 v256](Yin_R_G0562_v256.md#finding) checks the weighted divisor estimate and the uniform gap and linear degrees for all five-term factors at fixed period primes.

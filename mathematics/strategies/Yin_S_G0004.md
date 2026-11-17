@@ -249,7 +249,10 @@ Together with a [common period capturing enough roots](../claims/Yin_C_G0345_v25
 [Effective periods that count multiplicities](../claims/Yin_C_G0345_v257.md#families) extend the gap to arbitrary powers of two and three and to both coefficient-prime orientations for reciprocal tetranomials at bounded coefficient length.
 For the five-term coefficients \(1,-2,1\), [the number of top binary Frobenius orbits](../claims/Yin_C_G0345_v258.md#five) must grow in a shrinking sequence, allowing the middle-index primes themselves to vary.
 With a moving prime \(n=q>3\), the binary orders are just \(3\) and \(3q\).
-The remaining question is how many distinct orbits of order \(3q\) belong to one rational factor.
+[Local divisors of sublinear degree](../claims/Yin_C_G0345_v262.md#statement) can pass simultaneous dyadic trace tests at a growing set of offsets.
+A [global ideal-class constraint](../claims/Yin_C_G0345_v259.md#statement) distinguishes choices with the same degree at every offset, and [cyclic class counts](../claims/Yin_C_G0345_v263.md#statement) give the complete rational factorization for four prime conductors.
+At an odd outer gap \(k=q-l\) with \(q/k\ge5\), the [exterior-root count and locations](../claims/Yin_C_G0345_v261.md#statement) give a second way to test how much of the measure one factor can carry.
+The open construction needs a rational factor carrying a vanishing fraction of the primitive labels while satisfying these global restrictions.
 For every fixed term count \(s\) and coefficient bound, [descent to finitely many reciprocal Laurent polynomials](../claims/Yin_C_G0345_v236.md#statement) gives at most \(\lfloor s/2\rfloor\) variables.
 At four or five terms a shrinking sequence therefore needs a fixed two-variable polynomial.
 For every fixed rationally irreducible plane curve of support rank two, the [factor-height comparison](../claims/Yin_C_G0345_v253.md#statement) makes the measure of an actual factor comparable to its degree divided by the specialization width at large primitive directions.
