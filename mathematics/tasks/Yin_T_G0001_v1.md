@@ -189,7 +189,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-shared-weekly-stop-2026-11-17)
+[Selected decision](#decision-resume-alternating-blocks-2026-11-17)
 
 ## Lifecycle and completion
 
@@ -675,6 +675,19 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unrestricted Lehmer problem](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total Mahler measures, with unrestricted degree and coefficients. |
+
+### Decision resume-alternating-blocks-2026-11-17
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-17T16:57 |
+| status | active |
+| authority | Yin resumed the continuous G0001 goal under its standing weekly limit and account conditions. |
+| reason | The current weekly reading permits research on the unrestricted problem, starting with the exterior radii and the rational factors compatible with the alternating block action. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unrestricted Lehmer problem](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total Mahler measures. |
 
 ## Execution boundary
 

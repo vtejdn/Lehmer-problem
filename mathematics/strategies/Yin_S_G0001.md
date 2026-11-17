@@ -16,8 +16,7 @@ author: Yin
 The [current Task instruction](../tasks/Yin_T_G0001_v1.md#strategy-discretion) releases every earlier human-imposed strategy restriction for G0001.
 The following allocation adopts the latest comparison as an initial research judgment, with no fixed effort shares, mandatory proof/counterexample ordering or permanent exclusion of another method.
 The main researcher may change this allocation as mathematical evidence, a concrete new idea or expected information gain warrants, without another strategy-specific approval.
-The [shared weekly stop](../tasks/Yin_T_G0001_v1.md#decision-shared-weekly-stop-2026-11-17) pauses G0001 and all associated research.
-The allocation below records the mathematical questions available on resumption.
+The [resumed Task](../tasks/Yin_T_G0001_v1.md#decision-resume-alternating-blocks-2026-11-17) selects the inquiries below under its standing execution conditions.
 Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
 | Role | Current focus | Useful next distinction |
