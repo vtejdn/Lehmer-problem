@@ -1,5 +1,16 @@
 # Reviews Index
 
+- [R562 v143](Yin_R_G0562_v143.md#exterior-power-prefix) checks the completion degree from all exterior power sums, including phase cancellation, a growing exterior count and the exact-degree cutoff.
+- [R562 v142](Yin_R_G0562_v142.md#prefix-house-perron-family) checks the prefix asymptotic at sublogarithmic total-to-largest logarithmic ratio and its exact failure as a measure criterion in a Perron family.
+- [R562 v141](Yin_R_G0562_v141.md#positive-leakage-descent) checks the exact degree-sixteen Salem descent to a smaller full measure with three exterior roots.
+- [R562 v140](Yin_R_G0562_v140.md#sharp-cyclotomic-prefix-cost) checks the sharp minimum cyclotomic degree for matching a Salem prefix and the resulting longest prefix at the original degree.
+- [R562 v139](Yin_R_G0562_v139.md#separated-target-full-cost) checks the full cost of prescribing a separated Salem target and the limiting distribution of the complementary roots.
+- [R562 v138](Yin_R_G0562_v138.md#cyclotomic-prefix-length) checks original-degree cyclotomic completions at arbitrary exterior signature and the bounds from neutral moment positivity for Salem inputs.
+- [R562 v137](Yin_R_G0562_v137.md#exterior-prefix-matching) checks the cost of removing an exterior root and multiplicity-preserving matching from a common coefficient prefix.
+- [R562 v136](Yin_R_G0562_v136.md#prefix-salem-measure) checks the bound on full measure decrease when leading coefficients are preserved and its sharp logarithmic scale on actual Salem inputs.
+- [R562 v135](Yin_R_G0562_v135.md#fixed-specialization-radial-separation) checks the subexponential radial separation on a fixed bivariate specialization and its consequences for both signs of a fixed Pisot seed.
+- [R562 v134](Yin_R_G0562_v134.md#trace-commutator-orbits) checks the lower bounds on individual commutator orbits in trace splitting groups for reciprocal inputs of every exterior signature.
+- [R562 v133](Yin_R_G0562_v133.md#strict-descent-galois-obstruction) checks the alternating composition factor required for a non-Salem strict descent at the first level and the standalone solvable-group estimate.
 - [R562 v132](Yin_R_G0562_v132.md#no-fixed-trace-perturbations) checks the golden-ratio limit excluding every fixed nonzero trace perturbation, and the exact degree and coefficient cost for a prescribed Salem target.
 - [R562 v131](Yin_R_G0562_v131.md#quadratic-chains-to-lehmer) checks the arbitrarily long strict descents from explicitly irreducible Salem inputs to Lehmer's number.
 - [R562 v130](Yin_R_G0562_v130.md#quadratic-plastic-descents) checks the exact classification of quadratic Salem descents on the positive plastic completions.

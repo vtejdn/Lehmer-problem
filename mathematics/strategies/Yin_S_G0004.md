@@ -193,8 +193,12 @@ Their [iterated factorizations](../claims/Yin_C_G0345_v131.md#transfer) supply e
 On a [sequence tending to the golden ratio](../claims/Yin_C_G0345_v132.md#coefficient-cost), every nonzero perturbation of bounded degree with subexponential coefficient growth eventually misses all Salem factors under any fixed measure bound.
 For inputs tending to one, look for a perturbing polynomial whose magnitude on the neutral conjugates is controlled by the actual trace polynomial, and account for every exterior conjugate of the selected factor.
 At level minus one, let \(F\) be the minimal polynomial of the [smaller positive root](../claims/Yin_C_G0345_v125.md#location) \(\tau\).
-Test whether an additional exterior conjugate forces \(\log M(F)-\log\tau\ge\log(\sigma/\tau)\) as the original Salem number \(\sigma\) tends to one.
-Such a bound would show that a strict measure descent at this level must give a Salem factor.
+A [degree-sixteen example](../claims/Yin_C_G0345_v141.md#statement) strictly lowers the full measure even with a second exterior pair, while [solvable trace groups](../claims/Yin_C_G0345_v133.md#statement) exclude this behavior on shrinking inputs.
+Test the outstanding case in which an alternating group of growing degree occurs in the trace group of \(F\).
+For the reverse construction, [every bounded-measure input](../claims/Yin_C_G0345_v138.md#statement) has a cyclotomic product at the original degree that shares a long initial coefficient segment.
+The [sharp minimum cyclotomic degree](../claims/Yin_C_G0345_v140.md#statement) determines its attainable length for a Salem input from the sum of its largest real conjugate's powers.
+Use the conductors in the [explicit completion](../claims/Yin_C_G0345_v138.md#packets) to test whether the corresponding integer resultants constrain the middle coefficients of an irreducible Salem input at a degree minimum.
+For inputs of arbitrary signature, [matching exterior roots](../claims/Yin_C_G0345_v137.md#statement) constrains their positions and multiplicities, while [the family with linearly many exterior roots](../claims/Yin_C_G0345_v142.md#statement) shows why the total contribution of those roots matters.
 The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
 The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.
 If the original source degree tends to infinity, a factor with bounded measure leaves [at least linear logarithmic measure in the complement](../claims/Yin_C_G0345_v124.md#statement).
