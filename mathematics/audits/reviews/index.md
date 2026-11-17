@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v278](Yin_R_G0562_v278.md#finding) Equality of label fields or descent to the block field.
 - [R562 v276](Yin_R_G0562_v276.md#finding) Bounded-measure radical products of conjugates and the cost of mixed monomials.
 - [R562 v275](Yin_R_G0562_v275.md#finding) Quadratic orientation fields, trace discriminants and the limit of the parity constraint.
 - [R562 v274](Yin_R_G0562_v274.md#finding) Canonical orientations and relative Mahler gaps for large reciprocal units.
