@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v151](Yin_R_G0562_v151.md#blaschke-prefix-gap) checks the measure and discriminant inequalities at a long initial coefficient gap.
+- [R562 v150](Yin_R_G0562_v150.md#double-grid-residual-classification) checks the residual degree and the quadratic exception under a double torsion congruence.
+- [R562 v149](Yin_R_G0562_v149.md#moving-powers-central-width) checks the reflected moment estimates and the width required of a central coefficient block.
+- [R562 v148](Yin_R_G0562_v148.md#capped-prefix-degree) checks the minimum degree under a bound on each cyclotomic multiplicity.
+- [R562 v147](Yin_R_G0562_v147.md#house-precision-distinct-cost) checks distinct limiting measures with identical optimal prefix completions and arbitrarily close house asymptotics.
+- [R562 v146](Yin_R_G0562_v146.md#cyclotomic-zero-block) checks the classification of cyclotomic products with an initial zero coefficient block.
+- [R562 v145](Yin_R_G0562_v145.md#maximal-unit-resultant) checks unit resultants for exactly longest cyclotomic completions of actual Salem inputs.
+- [R562 v144](Yin_R_G0562_v144.md#primitive-prefix-stability) checks the distribution of primitive orders in every near-minimum cyclotomic completion.
 - [R562 v143](Yin_R_G0562_v143.md#exterior-power-prefix) checks the completion degree from all exterior power sums, including phase cancellation, a growing exterior count and the exact-degree cutoff.
 - [R562 v142](Yin_R_G0562_v142.md#prefix-house-perron-family) checks the prefix asymptotic at sublogarithmic total-to-largest logarithmic ratio and its exact failure as a measure criterion in a Perron family.
 - [R562 v141](Yin_R_G0562_v141.md#positive-leakage-descent) checks the exact degree-sixteen Salem descent to a smaller full measure with three exterior roots.

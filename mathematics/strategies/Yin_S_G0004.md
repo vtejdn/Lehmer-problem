@@ -197,7 +197,12 @@ A [degree-sixteen example](../claims/Yin_C_G0345_v141.md#statement) strictly low
 Test the outstanding case in which an alternating group of growing degree occurs in the trace group of \(F\).
 For the reverse construction, [every bounded-measure input](../claims/Yin_C_G0345_v138.md#statement) has a cyclotomic product at the original degree that shares a long initial coefficient segment.
 The [sharp minimum cyclotomic degree](../claims/Yin_C_G0345_v140.md#statement) determines its attainable length for a Salem input from the sum of its largest real conjugate's powers.
-Use the conductors in the [explicit completion](../claims/Yin_C_G0345_v138.md#packets) to test whether the corresponding integer resultants constrain the middle coefficients of an irreducible Salem input at a degree minimum.
+[Near-minimum completions](../claims/Yin_C_G0345_v144.md#statement) share almost all their roots with an explicit cyclotomic product, and [limiting factor multiplicities](../claims/Yin_C_G0345_v148.md#statement) changes the attainable prefix length.
+An [actual Salem family](../claims/Yin_C_G0345_v145.md#statement) has unit resultant even with an exactly longest completion.
+If the original Salem polynomial takes the same monomial value to second order on an entire torsion grid, the [residual trace degree](../claims/Yin_C_G0345_v150.md#statement) must grow at least as a cube root up to a logarithmic factor along a shrinking sequence.
+Return to the original power sums and test for a large moment preceded by small total squared moments.
+A [finite Blaschke product over the exterior conjugates](../claims/Yin_C_G0345_v151.md#energy) gives a quantitative measure bound in that case.
+For a long initial zero coefficient block, determine whether the actual polynomial discriminant forces a degree-independent bound.
 For inputs of arbitrary signature, [matching exterior roots](../claims/Yin_C_G0345_v137.md#statement) constrains their positions and multiplicities, while [the family with linearly many exterior roots](../claims/Yin_C_G0345_v142.md#statement) shows why the total contribution of those roots matters.
 The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
 The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.
