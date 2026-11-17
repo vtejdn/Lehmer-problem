@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v288](Yin_R_G0562_v288.md#salem-logarithmic-discriminant-deficit) Exact logarithmic discriminant deficit in a Salem family.
+- [R562 v287](Yin_R_G0562_v287.md#salem-unramified-prime-windows) Salem splitting fields unramified at prescribed finite primes.
+- [R562 v286](Yin_R_G0562_v286.md#salem-prescribed-finite-tests) Salem units below the plastic number with zero prescribed local valuations.
 - [R562 v285](Yin_R_G0562_v285.md#integral-torsion-values-whole-proof) Exact torsion-value window for integral reciprocal coefficients.
 - [R562 v284](Yin_R_G0562_v284.md#finding) Sharp prime cyclotomic norm tests for coefficient integrality.
 - [R562 v283](Yin_R_G0562_v283.md#finding) Common radical bases and sharp costs for omitted label fields.

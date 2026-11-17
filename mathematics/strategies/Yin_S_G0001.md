@@ -37,6 +37,14 @@ Its primitive noncyclotomic factor pays the logarithm of its denominator in the 
 For a rational candidate of degree \(2n\) with \(j\) known integral leading coefficients below the leading one, [the sharp window](../claims/Yin_C_G0345_v285.md#statement) locates the point at which these value tests would force all coefficients integral.
 The next construction question is whether the small exterior logarithm can persist up to this window while the full polynomial remains irreducible.
 If only rational norms of the values are available, use the [prime norm thresholds](../claims/Yin_C_G0345_v284.md#statement).
+For actual integral Salem inputs, the [sub-plastic family](../claims/Yin_C_G0345_v286.md#statement) has zero finite valuations throughout simultaneous order and prime windows of logarithmic degree size.
+It also satisfies any prescribed finite list of [local polynomial congruences](../claims/Yin_C_G0345_v286.md#finite-data), including repeated testing factors.
+Its measures tend to the plastic number from below.
+The prime-order inquiry must therefore address input-dependent growing places or additional restrictions confined to smaller measures when seeking positive local contributions.
+The same family has [full splitting fields unramified at the selected primes](../claims/Yin_C_G0345_v287.md#statement), with an explicit logarithmic degree window.
+Its [polynomial discriminant](../claims/Yin_C_G0345_v288.md#statement) satisfies \(\log|\operatorname{disc}P_h|=(d-7)\log d+2d\log\theta+O(1)\).
+These two properties coexist along the admissible subsequences.
+For the current construction comparison, a stronger invariant must control the measure below this family's fixed plastic limit, or link the tested places and angular data to the input degree with an additional quantitative estimate.
 
 A concrete construction target is a single positive-constant input with \(j=2\) and \(q\ge77\).
 In the [inverse formula](../ledger/Yin_L_G0462_v43.md#endpoints), \(F'(x)\ge1\) for \(x\ge2\), \(F(2)=-2/(q-1)\), and \(F(T)=0\) at the exterior trace.
