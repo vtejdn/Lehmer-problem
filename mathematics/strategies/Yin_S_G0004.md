@@ -225,7 +225,12 @@ For every fixed coefficient length bound, [simultaneous comparison at both ends]
 With unrestricted integer coefficients the [sharp three-term factor bound](../claims/Yin_C_G0345_v181.md#statement) is the real root of \(X^3-X-1\) for multiplicative measure.
 With four terms a small factor forces either [two reciprocal binomial blocks or a shorter trace relation](../claims/Yin_C_G0345_v182.md#statement).
 For the unrestricted question, a putative sequence of units of vanishing positive measure can be replaced by one whose [minimum coefficient length exceeds any prescribed function of the reciprocal measure](../claims/Yin_C_G0345_v185.md#prescribed).
-Determine what can force a short relation on many powers in a single fixed interval of measures, or constrain constructions in that interval even when every short relation is absent.
+The [quadratic sparse-divisor estimate](../claims/Yin_C_G0345_v186.md#statement) controls the number of terms needed when the multiple has width comparable to the factor degree.
+For a fixed algebraic input, the [eventual minimum support on its powers](../claims/Yin_C_G0345_v187.md#statement) counts conjugate classes modulo roots of unity.
+Across varying inputs, the [sharp count at each minimum coefficient length](../claims/Yin_C_G0345_v189.md#statement) gives an upper bound against which to test a bounded-measure construction.
+A [fixed list of cyclotomic values at a trinomial root](../claims/Yin_C_G0345_v192.md#statement) gives bounded minimum length throughout each bounded-measure interval.
+For two fixed blocks, [the per-factor resultant identities](../claims/Yin_C_G0345_v193.md#resultants) determine the contribution of each leading-block divisor to the limiting degree.
+Test which of these estimates remain uniform when the blocks vary, particularly when an increasing number of conjugates [carry exterior mass near the unit circle](../claims/Yin_C_G0345_v190.md#mass).
 For inputs of arbitrary signature, [matching exterior roots](../claims/Yin_C_G0345_v137.md#statement) constrains their positions and multiplicities, while [the family with linearly many exterior roots](../claims/Yin_C_G0345_v142.md#statement) shows why the total contribution of those roots matters.
 The [full inverse gap](../claims/Yin_C_G0345_v121.md#statement) for Salem inputs extends to [arbitrary irrational integral source traces](../claims/Yin_C_G0345_v122.md#statement), including nonreal conjugates, for all interlacing maps except integer translations.
 The [three neutral full outputs](../claims/Yin_C_G0345_v123.md#statement) all have degree eight.

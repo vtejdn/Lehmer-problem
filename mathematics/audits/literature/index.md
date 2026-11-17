@@ -241,6 +241,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Smy15](Smy15/readme.md) | [Yin_U001](Smy15/Yin_U001.md), [Yin_U002](Smy15/Yin_U002.md) |
 | [Smy71](Smy71/readme.md) | [Yin_U001](Smy71/Yin_U001.md): full original proof, corollaries and lemma endpoint |
 | [Sou07](Sou07/readme.md) | [Yin_U001](Sou07/Yin_U001.md) |
+| [Sta14](Sta14/readme.md) | [Exterior root density and Mahler measure of trinomials](Sta14/Yin_U001.md#sta14-u001) |
 | [Ste12](Ste12/readme.md) | [Yin_U001](Ste12/Yin_U001.md) |
 | [Ste13](Ste13/readme.md) | Source and edition notes |
 | [Ste77](Ste77/readme.md) | [Yin_U001](Ste77/Yin_U001.md) |
