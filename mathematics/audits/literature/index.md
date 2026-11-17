@@ -151,6 +151,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [JR17](JR17/readme.md) | [Yin_U001](JR17/Yin_U001.md) |
 | [JT26](JT26/readme.md) | [Yin_U001](JT26/Yin_U001.md), [Yin_U002](JT26/Yin_U002.md) |
 | [Jen25](Jen25/readme.md) | [Yin_U001](Jen25/Yin_U001.md) |
+| [Jo13](Jo13/readme.md) | [Yin_U001](Jo13/Yin_U001.md#jo13-u001): primitive full-cycle classification and the actual permutation-action boundaries |
 | [KOR00](KOR00/readme.md) | [Yin_U001](KOR00/Yin_U001.md) |
 | [KP15](KP15/readme.md) | [Yin_U001](KP15/Yin_U001.md#kp15-u001): open continuants, Alexander substitution and the cyclic-boundary applicability limit. |
 | [KPV22](KPV22/readme.md) | [Yin_U001](KPV22/Yin_U001.md) |
@@ -286,6 +287,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Vou96](Vou96/readme.md) | [Explicit lower bounds for logarithmic Mahler measure](Vou96/Yin_U001.md#height) |
 | [Wal18](Wal18/readme.md) | [Yin_U001](Wal18/Yin_U001.md) |
 | [War05](War05/readme.md) | [Yin_U001](War05/Yin_U001.md) |
+| [WWT+99](WWT+99/readme.md) | Online ATLAS source notes; [exceptional-generator parity in Jo13 U001](Jo13/Yin_U001.md#small-degree-even) |
 | [Wus02](Wus02/readme.md) | [Yin_U001](Wus02/Yin_U001.md#logarithmic-form) gives the Baker–Wüstholz lower bound with explicit degree and height dependence. |
 | [WvL21](WvL21/readme.md) | [Yin_U001](WvL21/Yin_U001.md#full-isometry-and-transitivity): full positive E8 isometry group and norm-two root transitivity |
 | [Xyl11](Xyl11/readme.md) | [Yin_U001](Xyl11/Yin_U001.md) |

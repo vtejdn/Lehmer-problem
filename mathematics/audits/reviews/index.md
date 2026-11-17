@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v319](Yin_R_G0562_v319.md#bm23-twist-ramification-review) The two seven-term families exclude bounded-measure quadratic twists and have exact ambient rigidity at irreducible prime indices.
+- [R562 v318](Yin_R_G0562_v318.md#prime-trace-ramification-review) For every prime from five onwards, the full splitting-field radical has exactly the input's minimum exterior count under its measure budget.
+- [R562 v317](Yin_R_G0562_v317.md#prime-field-discriminant-budget-review) Integer certificates establish the five-term exterior minima through prime 251 and bound all input measures.
+- [R562 v316](Yin_R_G0562_v316.md#prime-sign-character-review) The sign of complex conjugation determines which quadratic twists could save one exterior root.
+- [R562 v315](Yin_R_G0562_v315.md#prime-support-rigidity-review) Small conjugation support forces an ambient output to retain the input nonreal exterior count.
+- [R562 v314](Yin_R_G0562_v314.md#trace-window-resonance-review) Truncated Chebyshev polynomials obstruct a uniform comparison at square-root width while their own measures grow.
+- [R562 v313](Yin_R_G0562_v313.md#bm23-balanced-review) The balanced cyclotomic-free family has both exterior and neutral conjugates in every factor.
+- [R562 v312](Yin_R_G0562_v312.md#bm23-prime-distribution-review) The prime cyclotomic factors, exterior proportions and Mahler-measure shares are determined in the adjacent family.
+- [R562 v311](Yin_R_G0562_v311.md#bm23-adjacent-review) Every noncyclotomic factor of the adjacent seven-term family has linearly many nonreal exterior conjugates.
 - [R562 v310](Yin_R_G0562_v310.md#ambient-exterior-growth-review) Exterior counts grow for all sufficiently small-measure radicals of units of explicit splitting fields.
 - [R562 v309](Yin_R_G0562_v309.md#prime-conjugation-quotient-review) Prime-degree splitting fields with no ambient Salem output and their precise two-exterior obstruction.
 - [R562 v308](Yin_R_G0562_v308.md#prime-field-unit-transfer-review) Exact transfer and rank obstructions for units of conjugate root fields in prime half-degree.
