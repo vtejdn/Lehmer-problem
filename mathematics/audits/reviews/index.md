@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v296](Yin_R_G0562_v296.md#reciprocal-resultant-fibers-review) Reciprocal resultants vary among same-output Pisot inverses at prescribed constants.
+- [R562 v295](Yin_R_G0562_v295.md#unit-defect-gap-review) Unit monomial defects have a positive Pisot excess gap at q=d².
 - [R562 v294](Yin_R_G0562_v294.md#quadratic-schur-gap-review) A uniform excess gap at q=d² excludes power-substitution Schur descendants.
 - [R562 v293](Yin_R_G0562_v293.md#schur-integrality-obstructions-review) Integral Schur models require irreducibility and a high-degree descendant factor.
 - [R562 v292](Yin_R_G0562_v292.md#uniform-prescribed-constant-review) Every prescribed positive constant above a nearly linear threshold has a uniform Pisot inverse.
