@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v293](Yin_R_G0562_v293.md#schur-integrality-obstructions-review) Integral Schur models require irreducibility and a high-degree descendant factor.
 - [R562 v292](Yin_R_G0562_v292.md#uniform-prescribed-constant-review) Every prescribed positive constant above a nearly linear threshold has a uniform Pisot inverse.
 - [R562 v291](Yin_R_G0562_v291.md#cyclotomic-comparison-encoding-review) Cyclotomic comparison seeds attaining the Lehmer return.
 - [R562 v290](Yin_R_G0562_v290.md#pisot-parameter-intervals-and-integral-slopes) Exact Pisot intervals and the gap for bounded integral slopes.

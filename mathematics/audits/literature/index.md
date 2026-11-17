@@ -140,6 +140,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [HS16](HS16/readme.md) | [Yin_U001](HS16/Yin_U001.md) |
 | [HS16b](HS16b/readme.md) | [Yin_U001](HS16b/Yin_U001.md) |
 | [Han16](Han16/readme.md) | [Yin_U001](Han16/Yin_U001.md#han16-u001): quadratic finite-field Hankel periodicity and the synchronization boundary |
+| [Har55b](Har55b/readme.md) | Undated Harvard Math 55b course notes; source and contents navigation |
 | [Hec18](Hec18/readme.md) | [Yin_U001](Hec18/Yin_U001.md#hec18-u001): finite reflection classification and normalized A/B/D/F4 models |
 | [Hir06](Hir06/readme.md) | [Yin_U001](Hir06/Yin_U001.md) |
 | [Hou16](Hou16/readme.md) | [Yin_U001](Hou16/Yin_U001.md) |
