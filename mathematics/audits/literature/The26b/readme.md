@@ -31,3 +31,8 @@ The official HTML [Tag 0BXX](https://stacks.math.columbia.edu/tag/0BXX) and [Tag
 Their native theorem labels and embedded mathematical text are preserved; they are not assigned the revision of an older chapter PDF.
 The finite-integral-closure input instead uses the already retained [Commutative Algebra chapter](../../../literature/pdf/The26b--algebra-20261002.pdf#page=442), revision ed88ff78 compiled 2026-07-14, printed/PDF p.442, Lemma 161.8/Tag 032L.
 [Yin_U006](Yin_U006.md#the26b-u006) owns the exact statements, application hypotheses and source-proof inspection limits.
+
+## Lifting a coprime factorization
+
+The [retained original HTML](../../../literature/pdf/The26b/03QD--20261117.html) of [Section 59.32, Henselian rings, Tag 03QD](https://stacks.math.columbia.edu/tag/03QD) preserves the factorization statement in item (f) immediately before Definition 59.32.2.
+The [prime-block application](../../../claims/Yin_C_G0345_v216.md#lifts) cites that item for existence and gives the coefficient corrections, uniqueness and reciprocity directly.

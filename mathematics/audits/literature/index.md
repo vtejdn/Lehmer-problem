@@ -204,6 +204,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [PRT22](PRT22/readme.md) | [Yin_U001](PRT22/Yin_U001.md#prt22-u001): squarefree Sturm counting, positive normalization and source limits |
 | [PT21](PT21/readme.md) | [Complex Salem numbers and the Salem lift](PT21/Yin_U001.md#pt21-u001) |
 | [PZ22](PZ22/readme.md) | [Yin_U001](PZ22/Yin_U001.md) |
+| [Pap96](Pap96/readme.md) | [Multiplicative orders above the square-root scale](Pap96/Yin_U001.md#rank-one-orders) |
 | [Par88](Par88/readme.md) | [Yin_U001](Par88/Yin_U001.md) |
 | [Paz14](Paz14/readme.md) | [Yin_U001](Paz14/Yin_U001.md) |
 | [Pet20](Pet20/readme.md) | [Yin_U001](Pet20/Yin_U001.md) |

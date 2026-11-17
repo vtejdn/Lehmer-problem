@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J166](programs/Yin_J_G0166/readme.md#finite-results) certifies irreducibility of the noncyclotomic factors for both signs at five simultaneous splitting delays for the equal prime blocks 2 and 3, by intersecting modular degree sets of their traces.
+
 - [J165](programs/Yin_J_G0165/readme.md#zero-measure-presentations) exhausts the pole and remainder spectra of full interlacing inverse images of Mahler measure one for irrational integral sources outside integer translations, obtaining exactly three degree-eight cyclotomics.
 
 - [J164](programs/Yin_J_G0164/readme.md#boyd-descent-search) checks all integer levels and all nonconstant endpoint Taylor quotients of Boyd's 45 Salem traces below 1.3, finding seven strict descents including one to Lehmer's number.

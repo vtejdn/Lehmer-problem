@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v218](Yin_R_G0562_v218.md#three-local-factors) checks simultaneous factors at two, three and five and the conditional measure and norm consequences for a rational divisor.
+- [R562 v217](Yin_R_G0562_v217.md#block-power-index) checks the integral order quotient under the block power, including the explicit cyclic summands for blocks two and three.
+- [R562 v216](Yin_R_G0562_v216.md#simultaneous-lifts) checks one-share factor degrees at every precision at two and three, including the scope of the ideal and shifted-order conclusions.
+- [R562 v215](Yin_R_G0562_v215.md#two-grid-quotients) checks both integral grid quotients and the exact ranks and resultants for individual factors.
+- [R562 v214](Yin_R_G0562_v214.md#two-cyclotomic-blocks) checks the phase bounds, factor gap and short multiples for two varying cyclotomic blocks.
+- [R562 v213](Yin_R_G0562_v213.md#whole-block-order) checks the whole-block reduction, its shorter delay ranges and the unique noncyclotomic factor at powers of five.
 - [R562 v212](Yin_R_G0562_v212.md#simultaneous-prime-grid) checks the full torsion part, simultaneous degree tests and squarefree evaluation ideals for the two blocks at prime effective delays.
 - [R562 v211](Yin_R_G0562_v211.md#order-ratio-gap) checks the individual factor bounds from multiplicative orders, the fixed-prime-set gap and primitive delays outside the bounded-ratio case.
 - [R562 v210](Yin_R_G0562_v210.md#complex-radical-denominators) checks the bounded denominator for radical measure ratios of all signatures and the reduction to primitive supports.
