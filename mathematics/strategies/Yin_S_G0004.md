@@ -224,6 +224,11 @@ The [classification of normalized length-six multiples](../claims/Yin_C_G0345_v1
 For every fixed coefficient length bound, [simultaneous comparison at both ends](../claims/Yin_C_G0345_v179.md#statement) locates exterior roots of reciprocal factors near common roots of the end blocks at the specified scales.
 With unrestricted integer coefficients the [sharp three-term factor bound](../claims/Yin_C_G0345_v181.md#statement) is the real root of \(X^3-X-1\) for multiplicative measure.
 With four terms a small factor forces either [two reciprocal binomial blocks or a shorter trace relation](../claims/Yin_C_G0345_v182.md#statement).
+With at most five terms of bounded coefficient height, each positive-measure factor has a [uniform gap outside the reciprocal inputs and the two displayed products](../claims/Yin_C_G0345_v232.md#statement).
+In either product a small factor still divides a tetranomial reciprocal up to sign.
+For reciprocal five-term inputs, the [angular distribution of the conjugates](../claims/Yin_C_G0345_v234.md#statement) now determines the limiting proportion off the circle in any hypothetical shrinking sequence.
+When the outer coefficient is \(a\), the inner pair has coefficient \(b\), and the middle coefficient is \(c\), the remaining Salem regime requires \(ab<0,\ |b|>|a|,\ |c|\le 2(|b|-|a|)\).
+With more than five terms, a [resultant over the separated binomial end](../claims/Yin_C_G0345_v233.md#statement) gives a factor gap when that end is coprime to the opposite block, the product deficit per end degree stays bounded, and the middle terms stay a fixed proportion of the width from both ends.
 For the unrestricted question, a putative sequence of units of vanishing positive measure can be replaced by one whose [minimum coefficient length exceeds any prescribed function of the reciprocal measure](../claims/Yin_C_G0345_v185.md#prescribed).
 The [quadratic sparse-divisor estimate](../claims/Yin_C_G0345_v186.md#statement) controls the number of terms needed when the multiple has width comparable to the factor degree.
 For a fixed algebraic input, the [eventual minimum support on its powers](../claims/Yin_C_G0345_v187.md#statement) counts conjugate classes modulo roots of unity.
@@ -246,7 +251,8 @@ The [corresponding formula with exceptional roots](../claims/Yin_C_G0345_v220.md
 The [prime-pair sieve](../claims/Yin_C_G0345_v223.md#statement) supplies many irreducible quotients across a growing range of gaps and bounds the fraction of pairs admitting an individual factor of small logarithmic measure.
 To look for such factors, concentrate on sparse pairs with a large common odd divisor of \(r-1,q-1\), or with orders below the rounding threshold.
 [Local factors with prescribed normalized norms](../claims/Yin_C_G0345_v224.md#statement) on the split pairs show that any fixed precision at these three primes still allows shares tending to zero.
-For the first surviving numerator eight, test whether the [totally positive norm-one unit in \(\mathbb Q(\sqrt 3)\)](../claims/Yin_C_G0345_v225.md#units) can have the value forced by the selected roots.
+For numerator eight, [matching one Pell exponent across the three primes](../claims/Yin_C_G0345_v228.md#statement) excludes two explicit local selections and leaves a third compatible with exponent zero at the tested precisions.
+For this remaining selection the [estimates at the radical embeddings](../claims/Yin_C_G0345_v227.md#statement) constrain which exterior roots a rational factor could contain.
 For varying cyclotomic blocks, the [phase comparison](../claims/Yin_C_G0345_v214.md#statement) gives a separate route through the aligned exponents where reciprocal factors can occur.
 For the unrestricted problem the [degree-preserving power estimate](../claims/Yin_C_G0345_v208.md#statement) forces the minimum coefficient length to grow on every sufficiently high power of a power-stable unit, uniformly in its measure and degree.
 The [length-six examples](../claims/Yin_C_G0345_v209.md#statement) show that a cubic least common multiple of exceptional cyclotomic orders can already occur with bounded minimum length and measure in a fixed positive interval.
