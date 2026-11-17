@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v212](Yin_R_G0562_v212.md#simultaneous-prime-grid) checks the full torsion part, simultaneous degree tests and squarefree evaluation ideals for the two blocks at prime effective delays.
 - [R562 v211](Yin_R_G0562_v211.md#order-ratio-gap) checks the individual factor bounds from multiplicative orders, the fixed-prime-set gap and primitive delays outside the bounded-ratio case.
 - [R562 v210](Yin_R_G0562_v210.md#complex-radical-denominators) checks the bounded denominator for radical measure ratios of all signatures and the reduction to primitive supports.
 - [R562 v209](Yin_R_G0562_v209.md#cubic-exceptional-orders) checks the exponent bound for exceptional orders coprime to the small primes and sharp cubic growth at minimum length six.
