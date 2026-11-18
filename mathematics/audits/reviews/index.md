@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v512](Yin_R_G0562_v512.md#finding) checks the quartic row module, the leading lattice indices and all 24 sample values by independent determinantal-divisor computations.
+- [R562 v511](Yin_R_G0562_v511.md#finding) checks the eventual width-four cutoff, both improved coefficient rates, the sign change and the size of the remaining quadratic at width five.
+- [R562 v510](Yin_R_G0562_v510.md#finding) checks the width-three two-point obstruction, uniformity near the unit-circle endpoints, and the reduction of the width-five graph.
+- [R562 v509](Yin_R_G0562_v509.md#finding) checks the finite-place losses, the fixed-field gcd bound, the two signs and the doubled coefficient rate for all sufficiently large integer powers at quartic width.
 - [R562 v508](Yin_R_G0562_v508.md#finding) checks seed enumeration, the exact weighted sum, witness recovery, and the polynomial-time schedule with increasing row degree.
 - [R562 v507](Yin_R_G0562_v507.md#finding) checks the integral hyperplane recursion, the reduced-basis bounds in the original source and the fourth-power bit bound for computing the minimum.
 - [R562 v506](Yin_R_G0562_v506.md#finding) checks the prime-power resultant divisor, the simultaneous discriminant bound, and the sharp valuation within the original coefficient cutoff.

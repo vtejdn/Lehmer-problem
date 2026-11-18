@@ -87,7 +87,11 @@ For the proof focus on the [unrestricted integer minimum](../claims/Yin_C_G0345_
 A single constant \(k\) and infinitely many prime exclusions suffice.
 At each prime, use the [two polynomial equations](../claims/Yin_C_G0345_v408.md#factor) to study when the quotient of the rows can recover a unit from its \(p\)-th power with the prescribed derivative.
 The [exact census through degree five](../computations/programs/Yin_J_G0177/readme.md#census) excludes every qualifying pair at the full cutoff through \(p=1009\).
-For the first unbounded test, use the [width-four formula](../ledger/Yin_L_G0462_v242.md#lines) to bound the primitive integer generators on its two rational lines as \(p\) varies.
+At width four the [quartic Salem rate](../claims/Yin_C_G0345_v410.md#quartic) now excludes the full box at every sufficiently large odd prime.
+At width five examine the [remaining reciprocal quadratics](../claims/Yin_C_G0345_v410.md#quadratic) with nonzero outer coefficient, where the two leading row vectors are independent.
+The two seed polynomials are known, so both the circle constraints and the collisions of their powered conjugates can be imposed on the same quadratic.
+The [leading coefficient lattice](../ledger/Yin_L_G0462_v248.md#index) restricts its outer coefficient, but in 22 of the first 24 seed and prime cases this divisibility allows a nonzero value below the ceiling.
+Test the full integral combinations of the two degree-four generators and their first shifts, using the inner coefficient of the quadratic as well.
 Any gain from reduction at \(p\) needs information beyond [divisibility of the resultant by \(p^{\deg P}\)](../ledger/Yin_L_G0462_v244.md#sharp), since this valuation is attained inside the search box.
 For several primes, [a common pair of rows](../ledger/Yin_L_G0462_v243.md#common) also characterizes a zero gap if its log cost is small relative to the sum of the primes.
 The [exact fixed-degree algorithm](../claims/Yin_C_G0345_v409.md#statement) permits comparison of actual least costs and attaining rows as the prime or the width varies.

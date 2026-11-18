@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v248](Yin_L_G0462_v248.md#basis) | Leading coefficients of the two quartic rows | Two width-four pairs generate every larger rational kernel. The integral leading indices can be computed from eight-dimensional column lattices and restrict the width-five outer coefficient. |
+| [Yin_L_G0462_v247](Yin_L_G0462_v247.md#five) | The outer coefficient at width five | A two-point derivative identity excludes every width-three double-root graph at a fixed quartic Salem seed and gives an improved rate at width five when the outer determinant coefficient vanishes. |
+| [Yin_L_G0462_v246](Yin_L_G0462_v246.md#width) | A squared Salem rate at width four | Collisions between the two powered inverse pairs and the real exterior root force a coefficient rate at least twice the log measure at a fixed quartic Salem seed. |
 | [Yin_L_G0462_v245](Yin_L_G0462_v245.md#minimum) | Exact computation by reduced lattice bases | An absolute fourth-power bound in the numerical prime computes the minimum and an attaining pair, with a computable factor depending on row degree. |
 | [Yin_L_G0462_v244](Yin_L_G0462_v244.md#uniform) | The resultant at the test prime | At sufficiently slow degree growth the seed degree gives a uniform lower bound on the valuation. The degree-ten seed attains equality inside the coefficient box. |
 | [Yin_L_G0462_v243](Yin_L_G0462_v243.md#common) | One pair of rows at several primes | All qualifying measures add in the lower bound. Explicit interpolation gives a common pair within a factor two in the upper logarithmic rate. |
