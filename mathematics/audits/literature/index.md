@@ -20,6 +20,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [AP18](AP18/readme.md) | [Yin_U001](AP18/Yin_U001.md) |
 | [AS18](AS18/readme.md) | [Schinzel's rational specialization conjecture and the function-field theorem](AS18/Yin_U001.md#as18-u001) |
 | [AV09](AV09/readme.md) | [Yin_U001](AV09/Yin_U001.md) |
+| [AV12](AV12/readme.md) | [Height outside torsion cosets and a rational hyperplane example](AV12/Yin_U001.md#av12-u001) |
 | [AZ10](AZ10/readme.md) | [Yin_U001](AZ10/Yin_U001.md) |
 | [AZ90](AZ90/readme.md) | [Yin_U001](AZ90/Yin_U001.md) |
 | [Ban95](Ban95/readme.md) | [Cube covering and the dual first minimum](Ban95/Yin_U001.md#cube-covering) |
@@ -215,6 +216,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Miy26](Miy26/readme.md) | [Yin_U001](Miy26/Yin_U001.md), [Yin_U002](Miy26/Yin_U002.md), [Yin_U003](Miy26/Yin_U003.md), [Yin_U004](Miy26/Yin_U004.md), [Yin_U005](Miy26/Yin_U005.md), [Yin_U006](Miy26/Yin_U006.md), [Yin_U007](Miy26/Yin_U007.md), [Yin_U008](Miy26/Yin_U008.md) |
 | [Mor14](Mor14/readme.md) | [Yin_U001](Mor14/Yin_U001.md) |
 | [Mos26](Mos26/readme.md) | [Two exterior-root-count controls](Mos26/readme.md) |
+| [Mos26b](Mos26b/readme.md) | [Positive Salem inputs and the stated degree-44 completeness range](Mos26b/readme.md) |
 | [Mu03](Mu03/readme.md) | [Burnside's affine alternative in prime degree](Mu03/Yin_U001.md#burnside-affine) |
 | [NNS13](NNS13/readme.md) | Selected source scope; [C869](../../claims/Yin_C_G0869_v1.md#source-interface): conditional Rademacher logarithmic moments used in coefficient-box expectations |
 | [NPR13](NPR13/readme.md) | [Yin_U001](NPR13/Yin_U001.md) |

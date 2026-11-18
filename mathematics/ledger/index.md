@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v203](Yin_L_G0462_v203.md#powers) | Integral transformations between Salem traces | A sufficiently low-degree transformation must give the corresponding power of the input. The actual neutral angles give a finite test, and bounded interval norm raises the necessary degree for any other transformation. |
+| [Yin_L_G0462_v202](Yin_L_G0462_v202.md#clustering) | Maximal rank and the six-term case | At maximal rank the entire restricted parent is a signed sum of opposite pairs and remains absolutely irreducible under all isogenies. A shrinking factor in any flat six-term parent forces two clusters of three exponents. |
 | [Yin_L_G0462_v201](Yin_L_G0462_v201.md#atoms) | The location of correcting mass at a fixed Salem input | Integral Laurent tests on torsion atoms give a circle-norm lower bound and a sharper explicit quartic example. |
 | [Yin_L_G0462_v200](Yin_L_G0462_v200.md#gap) | The fixed-input classification of half branch mass | Integer moments at moving frequencies force an exact midpoint grid below a quantitative threshold and settle the remaining parity for every positive grid. |
 | [Yin_L_G0462_v199](Yin_L_G0462_v199.md#obstruction) | Small nonzero trace remainders in the double-root problem | Every admissible input permits primitive rows with nonproportional traces and small normalized norm. At powered-order index one the least absolute norm is explicit. |

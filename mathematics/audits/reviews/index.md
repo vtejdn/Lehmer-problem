@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v446](Yin_R_G0562_v446.md#finding) checks the sharp norm threshold for integral trace polynomials, both bounds on gaps between retained Salem angles and the resulting degree bounds for admissible transformations.
+- [R562 v445](Yin_R_G0562_v445.md#finding) verifies all 72 least exponents and 105 residue-order weights independently, including the minimum admissible value in degrees through 44.
+- [R562 v444](Yin_R_G0562_v444.md#finding) checks the classification of all powers of a Salem input admitting half mass, both sharp least-exponent bounds and the entropy cost for varying inputs.
+- [R562 v443](Yin_R_G0562_v443.md#finding) checks the equality case of the rank bound, the flat six-term endpoint estimates and the two distinct irreducible factors in the primitive example.
 - [R562 v442](Yin_R_G0562_v442.md#finding) checks the weighted torsion-atom tests, simultaneous frequency rounding and the circle-norm gap in the quartic example.
 - [R562 v441](Yin_R_G0562_v441.md#finding) checks the fixed Salem half-mass classification, both constructions and the obstruction for all positive nonuniform grids.
 - [R562 v440](Yin_R_G0562_v440.md#finding) checks the small simultaneous trace and remainder bounds, the original primitive witnesses and the exact minimum at powered-order index one.

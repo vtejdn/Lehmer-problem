@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J173](programs/Yin_J_G0173/readme.md#exponents) computes the first admissible power of each of Mossinghoff's 72 small Salem numbers. The [degree-44 minimum](programs/Yin_J_G0173/readme.md#window) is the rank-14 Salem number, approximately 1.253330650201.
+
 - [J172](programs/Yin_J_G0172/readme.md#orbits) checks all 28 remaining finite characteristics through 131 for odd powers in the cubic family. The maximum sum of eligible residual orbit degrees is four.
 
 - [J171](programs/Yin_J_G0171/readme.md#classification) excludes third, fifth and seventh powers throughout the cubic family by a ramification test and exact enumeration of reciprocal polynomials through degree six.

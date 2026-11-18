@@ -39,6 +39,12 @@ For any fixed Salem trace polynomial \(Q_0\) with odd constant, [integer moments
 For all grids and positive weights, the [fixed-input classification](../ledger/Yin_L_G0462_v200.md#gap) permits the half-mass limit exactly when four divides \(Q_0(0)\) or both \(Q_0(0)\) and \(Q'_0(0)\) are even.
 In the remaining even case the [circle-norm bound](../ledger/Yin_L_G0462_v201.md#gap) gives an explicit excess, and the [weighted tests](../ledger/Yin_L_G0462_v201.md#atoms) constrain where a correcting atom can occur.
 In a construction with changing Salem inputs, control both the norms and the degree at which the fixed-input conclusions take effect.
+Alternatively take the [least admissible power](../claims/Yin_C_G0345_v392.md#statement) before constructing the inverse.
+The precise condition for these powered inputs to continue tending to one is \(e(\sigma)\log\sigma\to0\), with \(e(\sigma)\) read from the binary roots of the input polynomial.
+The [sharp examples](../claims/Yin_C_G0345_v392.md#sharp) can require exponential exponents at large exterior traces, leaving their size near one as the relevant question.
+In Mossinghoff's [complete range below 1.3 through degree 44](../computations/programs/Yin_J_G0173/readme.md#window), the smallest admissible powered value is the rank-14 number, approximately 1.253330650201.
+For larger degrees, an [integral change of trace](../ledger/Yin_L_G0462_v203.md#powers) of degree smaller than a fixed constant times \(\sqrt{d/\log d}\) only gives the corresponding power when the Salem input is at most two.
+Use the [test on the actual conjugate angles](../ledger/Yin_L_G0462_v203.md#mesh) to discard further degrees for a specified input before searching for a different Salem factor.
 For independent supply, the [exterior-pair partition](../ledger/Yin_L_G0462_v169.md#partition) identifies the factorization problem on the two-exponent cubic family.
 The [individual measure degree](../ledger/Yin_L_G0462_v183.md#criterion) recovers the allocation exactly when the exponent ratio grows.
 The [sextic specialization](../ledger/Yin_L_G0462_v183.md#sextic) exhibits the relevant exterior product and verifies its degree by reduction at two primes.
