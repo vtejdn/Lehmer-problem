@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J176](programs/Yin_J_G0176/readme.md#sample) proves irreducibility of 16 quartic square-offset cores of degrees 218 through 1958. Their reductions modulo three leave 122 false odd-degree divisor candidates, all excluded using primes at most 11.
+
 - [J175](programs/Yin_J_G0175/readme.md#census) factors all 480 quartic sections with first exponent three and coprime second exponent through 720. Every section has one nontorsion rational factor, with [signed Salem factors](programs/Yin_J_G0175/readme.md#exterior) at second exponents two and four.
 
 - [J174](programs/Yin_J_G0174/readme.md#powers) certifies that all 72 Salem inputs are primitive and that their [trace fields](programs/Yin_J_G0174/readme.md#subfields) have no proper intermediate fields. Distinct listed trace fields intersect in the rationals, ruling out every [change to a different Salem output below 1.3](programs/Yin_J_G0174/readme.md#transforms) for listed inputs of degree at most 44.
