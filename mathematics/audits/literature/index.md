@@ -283,6 +283,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [TK06](TK06/readme.md) | Source and edition notes |
 | [TV07](TV07/readme.md) | [Yin_U001](TV07/Yin_U001.md) |
 | [Tao09](Tao09/readme.md) | Source and edition notes |
+| [Tao10](Tao10/readme.md) | [Quadratic progressions and the character criterion](Tao10/Yin_U001.md#tao10-u001) |
 | [Tao26](Tao26/readme.md) | [Yin_U001](Tao26/Yin_U001.md), [Yin_U002](Tao26/Yin_U002.md), [Yin_U003](Tao26/Yin_U003.md) |
 | [Tay92](Tay92/readme.md) | [Witt's extension theorem](Tay92/Yin_U001.md#witt-extension) and [finite-field Witt indices](Tay92/Yin_U001.md#finite-indices) |
 | [The26](The26/readme.md) | [Yin_U001](The26/Yin_U001.md) |

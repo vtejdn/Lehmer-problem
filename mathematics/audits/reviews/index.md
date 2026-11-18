@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v402](Yin_R_G0562_v402.md#finding) checks the unit-resultant example with uniformly small radial mean energy, its exact exterior Fourier series and the double-root scope.
+- [R562 v401](Yin_R_G0562_v401.md#finding) checks the universal dyadic tower theorem and independently enumerates the 3,468 pairs, including a modular exclusion for all 15 final candidates.
+- [R562 v400](Yin_R_G0562_v400.md#energy-review) checks the exact Dirichlet identity, annular cofactor test and positive energy on reciprocal inputs with small homogeneous resultant.
+- [R562 v399](Yin_R_G0562_v399.md#nonreciprocal-review) checks the full powered-order quotient and the primitive witnesses for every pair of classes in the nonreciprocal family.
+- [R562 v398](Yin_R_G0562_v398.md#finding) checks the seven possible cyclotomic orders, their multiplicities and the finite exceptional range for dyadic degree loss in the primitive cubic family.
+- [R562 v397](Yin_R_G0562_v397.md#reciprocal-review) checks the reciprocal factor selection, the constant-row obstruction at three and the upper bound for the total index.
+- [R562 v396](Yin_R_G0562_v396.md#square-residue-profiles) checks the square-constant Pisot inverses, the two limiting neutral distributions and the conditional sharpness of the weighted test.
+- [R562 v395](Yin_R_G0562_v395.md#finding) checks the power projection, exterior root allocation and uniform factor-degree estimate in the escaping cubic family.
+- [R562 v394](Yin_R_G0562_v394.md#short-denominator-review) checks the short denominator and the resulting necessary index growth for a positive normalized resultant on all witnesses.
 - [R562 v393](Yin_R_G0562_v393.md#finding) checks the explicit degree and measure floors for all power substitutions of the cubic seed and the degree floor for the moving Lehmer family.
 - [R562 v392](Yin_R_G0562_v392.md#finding) checks the good-prime index bound at every root multiplicity, including inseparable reductions and fractional disk depths.
 - [R562 v391](Yin_R_G0562_v391.md#finding) checks the original-discriminant loss at large auxiliary primes and its contribution in the finite window.

@@ -29,6 +29,10 @@ The [limit at every even degree](../claims/Yin_C_G0345_v370.md#statement) identi
 The [explicit grid residues](../claims/Yin_C_G0345_v374.md#grid) now preserve both the chosen Salem factor and its endpoint ratio at every sufficiently large even degree.
 For this full return the least error above the seed's trace excess has [order \(d^{-2}\)](../claims/Yin_C_G0345_v374.md#lower).
 Concentrate the construction effort on changing the noncyclotomic factor, tracking the degree and derivative cost when its exterior root decreases.
+Conditional on any shrinking sequence of Salem inputs, [integer Pisot inverses at the square constant](../ledger/Yin_L_G0462_v170.md#profiles) already realize matching semicircle residue measures.
+They also realize [any finite extra endpoint mass](../ledger/Yin_L_G0462_v170.md#endpoint-atoms) in the inverse measure with the same limiting arcsine branch measure.
+Use these actual conditional distributions when testing proposed exclusions based on neutral residues.
+For independent supply, the [exterior-pair partition](../ledger/Yin_L_G0462_v169.md#partition) identifies the factorization problem on the two-exponent cubic family.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
 The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
@@ -50,7 +54,9 @@ For general units, seek rational expressions with enough simultaneous disk valua
 The [constant-row witness](../claims/Yin_C_G0345_v376.md#witness) has row constant dividing \(p s_p^3\), where \(s_p\) is the exponent of the quotient of the two orders.
 Thus an auxiliary prime outside \(s_p\) gives zero in every lower sum valid for all witnesses, even at multiplicity two within the finite degree cap.
 The [conductor calculation](../ledger/Yin_L_G0462_v162.md#conductor) computes \(s_p\) directly as the denominator of \(P'(\alpha)/Q'(\alpha^p)\) in the integral power basis, where \(Q\) is the minimal polynomial after powering.
-Use this computation to select a prime before estimating its local weights.
+For a proof of cofactor growth from resultants on all witnesses, [short polynomial denominators](../claims/Yin_C_G0345_v378.md#window) require \(\log I_p\) of order \(pd\) even when the exponent grows exponentially in \(p\).
+At several prescribed primes the [reciprocal calculation](../ledger/Yin_L_G0462_v171.md#disks) exhibits this exponent growth with small total index on the \(pd\) scale.
+For inputs of small index, prioritize a lower bound on the [mean number of roots of a pencil outside an annulus](../claims/Yin_C_G0345_v379.md#radial) on double-root witnesses, using the normalized [cofactor test](../claims/Yin_C_G0345_v379.md#cofactor).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.
 For varying inputs, compare the primes surviving this test against the [largest collision sum incident to one conjugate](../ledger/Yin_L_G0462_v163.md#comparison), keeping the correction at nonmaximal local orders.

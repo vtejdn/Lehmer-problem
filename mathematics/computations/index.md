@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J169](programs/Yin_J_G0169/readme.md#enumeration) checks all 3,468 remaining primitive exponent pairs for the dyadic square-class test and excludes each of the 15 final integral divisor candidates.
+
 - [J168](programs/Yin_J_G0168/readme.md#exact) computes the powered-order index and exponent at all 24 primes of the degree-ten Lehmer window and [recovers the entire index from isolated pairs](programs/Yin_J_G0168/readme.md#isolated).
 
 - [J167 at 29](programs/Yin_J_G0167/readme.md#p29) and [at 53](programs/Yin_J_G0167/readme.md#p53) exclude three occupied residues for bounded-degree multiples of the Lehmer polynomial by checking respectively 378 and 1,326 sets of powers.

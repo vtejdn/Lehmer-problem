@@ -5,6 +5,13 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v175](Yin_L_G0462_v175.md#rows) | Angular energy in unit-resultant rows | A two-term integral pair has negligible radial contribution at every annular width, and its exterior energy is distributed over increasing numbers of angular frequencies. |
+| [Yin_L_G0462_v174](Yin_L_G0462_v174.md#separation) | Archimedean energy on reciprocal inputs with small resultant | Actual double-root witnesses have Dirichlet energy of order at least the row degree times the prime while their homogeneous resultant has negligible normalized logarithm. |
+| [Yin_L_G0462_v173](Yin_L_G0462_v173.md#smith) | Simultaneous concentration in a nonreciprocal family | The full powered-order quotient and explicit double-root witnesses for every prescribed pair of classes. |
+| [Yin_L_G0462_v172](Yin_L_G0462_v172.md#cyclotomic) | Cyclotomic factors and square-root towers in primitive cubic directions | Seven possible cyclotomic orders and a finite range for any loss of degree in a dyadic tower. |
+| [Yin_L_G0462_v171](Yin_L_G0462_v171.md#family) | Constant and nonconstant denominators on a reciprocal family | A single reciprocal factor has exponential constant denominators and small normalized total index at all prescribed window primes. |
+| [Yin_L_G0462_v170](Yin_L_G0462_v170.md#calibration) | Realizable neutral residues at the square constant | Conditional constructions at varying Salem inputs attaining the weighted constant and arbitrary finite endpoint mass. |
+| [Yin_L_G0462_v169](Yin_L_G0462_v169.md#partition) | Exterior pairs in the escaping cubic family | The allocation of the smaller exponent among rational factors determines each factor's measure and asymptotic degree. |
 | [Yin_L_G0462_v168](Yin_L_G0462_v168.md#degree) | Degree floors for the cubic seed and the moving map | Every nontorsion factor of every positive power substitution occupies at least 1/34000 of its degree, and the fixed Lehmer target also forces proportional degrees. |
 | [Yin_L_G0462_v167](Yin_L_G0462_v167.md#bound) | Higher multiplicities at good primes | A local index coefficient quadratic in the multiplicity up to a logarithmic loss, uniformly in degree and collision depth. |
 | [Yin_L_G0462_v166](Yin_L_G0462_v166.md#large) | Collisions at primes of the original discriminant | A comparison with the full index at large auxiliary primes, with an explicit loss charged to the original discriminant. |
