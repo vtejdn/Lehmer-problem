@@ -168,7 +168,11 @@ For Salem double factors the rate is \((4e-2-b)\log\rho/e\) at row degree \(b\).
 Together with the [exact sextic measure bounds](../computations/programs/Yin_J_G0178/readme.md#census), it excludes every qualifying pair through width seven for all sufficiently large odd primes.
 At width eight the [octic census](../computations/programs/Yin_J_G0178/versions/v2/readme.md#census) leaves a single sign class after this test.
 The [exact least cost rate](../claims/Yin_C_G0345_v413.md#octic) for that octic is \(8\log\rho>\log2\), giving the full exclusion through eight.
-Compare the height of the [two signed directions](../claims/Yin_C_G0345_v413.md#height) at the seed degree with that of a short vector when the signed solution space has dimension at least two.
+For independent inverse pairs the [exact equal-width rate](../claims/Yin_C_G0345_v414.md#statement) is at least \((e/2+1)m(P)\), and is \(e\log\rho\) for a Salem seed.
+With dependent inverse pairs, the [calculation on their actual torus](../ledger/Yin_L_G0462_v257.md#height) gives a rate for each noncolliding exponent class.
+Seek growing-degree control of the common factors in that calculation.
+At width \(e+1\) the [plane construction](../ledger/Yin_L_G0462_v256.md#next) already reduces the genuine upper rate to \((F(P)+m(P))/2\).
+Seek a matching lower constraint on two compatible short signed vectors, starting from the [octic plane](../ledger/Yin_L_G0462_v255.md#bounds) whose cutoff candidate at each sign lies on a single rational line.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

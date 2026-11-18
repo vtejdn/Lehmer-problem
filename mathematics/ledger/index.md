@@ -5,6 +5,11 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v257](Yin_L_G0462_v257.md#progressions) | Equal-width cutoff for dependent inverse pairs | Root relations determine exponent classes. The two reduced signed vectors decide eventual qualification on each class. |
+| [Yin_L_G0462_v256](Yin_L_G0462_v256.md#volume) | Signed lattice volumes at every fixed width | An exact product of successive minima for independent inverse pairs, a smaller genuine upper cost at the next width and the exact quadratic-seed width-three rate. |
+| [Yin_L_G0462_v255](Yin_L_G0462_v255.md#plane) | The octic at width nine | Both lattice areas have rate nine times the seed measure. A genuine pair below the cutoff is confined to one rational direction at each sign. |
+| [Yin_L_G0462_v254](Yin_L_G0462_v254.md#rate) | Independent inverse pairs at minimum width | A weighted sum of the absolute log moduli gives the exact least cost rate, which grows without bound with seed degree. |
+| [Yin_L_G0462_v253](Yin_L_G0462_v253.md#width) | Every Salem seed at its own degree | Local rank at moving and fixed nodes gives full coordinate width of the minors and the exact rate \(e\log\rho\). |
 | [Yin_L_G0462_v252](Yin_L_G0462_v252.md#ratio) | Signed row values for the surviving octic | A ratio independent of the two generator scalings has positive limiting height per exponent, enough to exclude the full cutoff for this seed. |
 | [Yin_L_G0462_v251](Yin_L_G0462_v251.md#common) | A common seed at several nearby powers | For a fixed number of powers the collision contributions add, and the complex disk estimate saves one layer per exponent at each end. |
 | [Yin_L_G0462_v250](Yin_L_G0462_v250.md#count) | Exterior counts for six-term sections | Uniform bounds as the seed degree and both exponents vary. Bounded relative occupancy at the poles excludes a vanishing exterior allocation up to cubic slope in the growing seed degree. |

@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v529](Yin_R_G0562_v529.md#finding) independently recomputes all 53 uncapped octic minima at width nine, including the sole cutoff hit at 17.
+
+- [R562 v528](Yin_R_G0562_v528.md#finding) checks the eventual prime congruence test, the finite-cover dichotomy and the exclusion subsequence for a growing degree budget.
+
+- [R562 v527](Yin_R_G0562_v527.md#finding) verifies the exponent progressions, torus specialization and algebraic cutoff for an arbitrary fixed reciprocal unit.
+- [R562 v526](Yin_R_G0562_v526.md#finding) checks the signed lattice volume at every fixed wider width, and the genuine upper bound when one degree is added.
+
+- [R562 v525](Yin_R_G0562_v525.md#finding) verifies the exact growth for independent inverse pairs, its uniform restricted exclusion and the full-cutoff finite degree bound.
+- [R562 v524](Yin_R_G0562_v524.md#finding) verifies both octic lattice areas, the shortest-vector construction, cleaning of shared factors and the width-nine bounds.
+- [R562 v523](Yin_R_G0562_v523.md#finding) verifies the extremal minor, its weighted support, and the height and degree estimates for general independent inverse pairs.
+- [R562 v522](Yin_R_G0562_v522.md#finding) verifies the analytic deformation at inverted nodes, compactness and the exact equal-width rate for every Salem seed.
+
 - [R562 v521](Yin_R_G0562_v521.md#finding) checks the exact coefficient growth at the degree of each fixed Salem seed, both octic resultants and the full width-eight exclusion.
 
 - [R562 v520](Yin_R_G0562_v520.md#finding) independently reconstructs the 54 octic sign classes and checks both strict measure comparisons at the exceptional seed.

@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J177, octic at width nine](programs/Yin_J_G0177/versions/v2/readme.md#census) gives exact least costs for one seed at all 53 odd primes through 251. The sole prime within the cutoff is 17, with least cost 91,698.
+
 - [J178, octics](programs/Yin_J_G0178/versions/v2/readme.md#census) gives the 54 octic sign classes at measure at most two. It identifies the unique seed for which the row-value norm falls below the width-eight cutoff.
 
 - [J178](programs/Yin_J_G0178/readme.md#census) classifies all 17 sign classes of reciprocal noncyclotomic irreducible sextics of measure at most two. Exact exterior counts and measure bounds exclude every sextic through row degree nine for sufficiently large primes.

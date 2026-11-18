@@ -91,3 +91,5 @@ The [program](minimum.py) generates the [per-seed and per-prime output](../../ou
 It records the two shortest squared lengths for each of the 336 cases, the vector counts when enumeration was needed, the finite-height result and the six uncapped controls.
 The exact seed reduction, width-four formula, and a factored positive witness are retained in [L242](../../../ledger/Yin_L_G0462_v242.md#examples).
 No floating-point approximation to a root, lattice length or coefficient cutoff enters the calculation.
+
+The [width-nine calculation](versions/v2/readme.md#census) uses the same lattice methods to obtain the uncapped minima for one octic at all odd primes through 251.
