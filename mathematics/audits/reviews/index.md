@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v341](Yin_R_G0562_v341.md#cyclic-two-row-exterior-budget-review) Uniform Mahler comparison for two residue classes with bounded seed measure, exterior count and effective offset.
+- [R562 v340](Yin_R_G0562_v340.md#evaluated-two-band-width-review) An explicit relative width of 2 to the power minus 226 gives a multiplicative Mahler threshold of thirteen tenths.
+- [R562 v339](Yin_R_G0562_v339.md#oscillating-plastic-bands-review) Irreducible width-three examples approach the plastic threshold from both sides, with exact sign certificates and an arcsine distribution.
+- [R562 v338](Yin_R_G0562_v338.md#projected-support-mahler-gap-review) A computable Mahler gap above the common factor depending only on the number of occupied projected exponents.
+- [R562 v337](Yin_R_G0562_v337.md#sharp-two-band-threshold-review) The plastic threshold for two narrow end blocks and the distinction between full support and the Salem factor.
+- [R562 v336](Yin_R_G0562_v336.md#cyclotomic-radical-compression-review) Exact compression of root-of-unity twists of rational powers and the two quadratic exceptions at equal measure.
+- [R562 v335](Yin_R_G0562_v335.md#short-interval-factorization-review) Every low-measure polynomial in finitely many short intervals retains all its noncyclotomic factors in an actual end block.
+- [R562 v334](Yin_R_G0562_v334.md#effective-interval-mahler-gap-review) Computable constants for arbitrary short intervals through a terminating rational cover.
 - [R562 v333](Yin_R_G0562_v333.md#arbitrary-interval-mahler-gap-review) A uniform positive Mahler gap for irreducible polynomials whose exponents lie in a fixed number of short intervals at arbitrary positions.
 - [R562 v332](Yin_R_G0562_v332.md#primitive-relative-band-gap-review) Relative comparison and an integral Mahler gap above the common factor for arbitrary moving rows in separated bands.
 - [R562 v331](Yin_R_G0562_v331.md#averaged-band-resultant-review) An averaged integral resultant bounds the variance of the fiber Mahler measure and the simultaneous negative logarithm.
