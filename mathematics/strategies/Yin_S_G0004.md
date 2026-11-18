@@ -19,6 +19,8 @@ For a first pair of sublinear height in \(q\), the [next pair must be occupied a
 Test that congruence together with the integral inverse and full Schur stability.
 On a consecutive run flanked by zeros, the [two local coefficient polynomials](../drafts/Yin_D_G0027.md#run-resultant) must share a factor if their heights fall below the resultant bound.
 A [degree-ten Pisot input](../drafts/Yin_D_G0027.md#torsion-factor-returns) realizes the factor \(w+1\) and strict stability with large excess.
+A [second input with the same factor](../drafts/Yin_D_G0027.md#lehmer-torsion-inverse) realizes the full Lehmer return at excess between \(0.448\) and \(0.449\).
+On the \(w-1\) branch, test whether the [required growth of the endpoint ratio](../drafts/Yin_D_G0027.md#endpoint-ratio) is compatible with the actual return.
 On a shrinking-excess branch, test whether a common reciprocal factor extends to the entire defect and whether the [nonzero remainder required by the full inverse](../drafts/Yin_D_G0027.md#global-reciprocal-factor) fits the coefficient bounds.
 For exactly symmetric or antisymmetric defects, use the lower bound on their content and the [half-degree stability condition](../drafts/Yin_D_G0027.md#reversal-stability).
 The [paired coefficient identities](../drafts/Yin_D_G0027.md#paired-coefficients) give a separate test when both outer coefficients are nonzero.
@@ -28,6 +30,8 @@ For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_
 The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
 For reciprocal inputs, [one inverse polynomial modulo \(\Phi_p\)](../ledger/Yin_L_G0462_v150.md#contraction) gives the prime-to-\(p\) integer divisor without factoring the cyclotomic multiplier.
 Use the [exact fixed-input rate](../claims/Yin_C_G0345_v358.md#statement) as the comparison when testing whether an arithmetic argument gives a positive rate uniform in the input.
+The [double-root criterion](../claims/Yin_C_G0345_v363.md#statement) now tests this question at one prime and degree \(O(d(\log(3d))^4)\) for each varying input.
+Use the [row ideal and resultant](../ledger/Yin_L_G0462_v152.md#rows) to distinguish the contribution paid by the selected prime from any additional contribution supplied by the input.
 
 <a id="all-cut-and-d4-feasibility"></a>
 The [adopted all-cut positivity theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) now covers every strict terminal cut for integer \(Q=tB_n+C\) with leading remainder coefficient two.
@@ -807,7 +811,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test the nonzero inverse remainder on a small-excess candidate with a reciprocal defect factor, or work with two nonzero outer coefficients under full stability. |
+| priority | Test varying small-excess returns against the endpoint ratio and full inverse, and seek an additional arithmetic contribution to the finite double-root cofactor criterion. |
 
 The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

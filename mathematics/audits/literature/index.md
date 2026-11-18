@@ -13,6 +13,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [ADZ14](ADZ14/readme.md) | [Yin_U001](ADZ14/Yin_U001.md) |
 | [AJL16](AJL16/readme.md) | [Yin_U001](AJL16/Yin_U001.md) |
 | [AJL17](AJL17/readme.md) | [Yin_U001](AJL17/Yin_U001.md) |
+| [AKNR18](AKNR18/readme.md) | [Univariate root localization and geometric tail bounds](AKNR18/Yin_U001.md#tail) |
 | [ALS15](ALS15/readme.md) | Author edition of the sparse gcd construction |
 | [AM01](AM01/readme.md) | Source and edition notes |
 | [AM16](AM16/readme.md) | [Yin_U001](AM16/Yin_U001.md), [Yin_U002](AM16/Yin_U002.md), [Yin_U003](AM16/Yin_U003.md), [Yin_U004](AM16/Yin_U004.md), [Yin_U005](AM16/Yin_U005.md) |
@@ -163,6 +164,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Kou11](Kou11/readme.md) | Square-root Cayley attribution and exact v2 recurrence limitations |
 | [LL10](LL10/readme.md) | Source and edition notes |
 | [LL25](LL25/readme.md) | Source and edition notes |
+| [LLL82](LLL82/readme.md) | [Reduced-basis inequalities](LLL82/Yin_U001.md#reduction) and [bit complexity for an explicit integer basis](LLL82/Yin_U001.md#complexity) |
 | [LN23](LN23/readme.md) | Source and edition notes |
 | [LP17](LP17/readme.md) | Source and edition notes |
 | [LR17](LR17/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#finite-difference-normalization-check): finite-difference mesh input and monic-normalization check |

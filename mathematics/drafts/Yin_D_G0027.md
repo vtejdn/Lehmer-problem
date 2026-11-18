@@ -6,7 +6,8 @@ author: Yin
 
 This is continuing author-side work for [G0001](../tasks/Yin_T_G0001_v1.md#contract).
 It extends the coefficient tests in the [general parity formulation](../claims/Yin_C_G0345_v295.md#parity), rather than imposing a bound on the whole defect or constructing another sparse polynomial family.
-The calculations below have been checked during development, without an independent review or a fixed mathematical assessment.
+The [independent review of the endpoint ratio and the degree-ten inverse](../audits/reviews/Yin_R_G0562_v363.md#torsion-endpoints-review) covers those two sections.
+The other calculations retain the status indicated in their respective arguments and cited results.
 
 <a id="question"></a>
 ## Two exclusions with unrestricted interior coefficients
@@ -535,6 +536,83 @@ The central two-pair run therefore has \(w+1\) as a common factor of its two loc
 Here \(c=\gcd(19998,99^2)=99\) and \(V(-1)=202=L/c\), attaining the nonzero divisibility bound.
 This actual input has \(\delta>N/(q+2+q^{-1})>98\) by the [branch inequality](../claims/Yin_C_G0345_v293.md#branch).
 It demonstrates compatibility with full stability on a large branch and leaves the shrinking-excess class unresolved.
+
+<a id="endpoint-ratio"></a>
+## A vanishing excess forces a growing endpoint ratio at \(w=1\)
+
+Let \(P=(zf+f^*)/(z+1)\) be the entire positive delay-one return.
+Suppose \(w-1\mid\Delta\) for a positive-constant Pisot input of even degree.
+Differentiating the numerator at \(-1\) gives \(P(-1)=(1-d)f(-1)-2f'(-1)\).
+If \(\theta\) is the exterior root and the other roots are counted with multiplicity, logarithmic differentiation and taking real parts give
+\[
+ \frac{P(-1)}{f(-1)}
+    =\frac{2}{1+\theta}
+      +\sum_{|\alpha|<1}\frac{1-|\alpha|^2}{|1+\alpha|^2}
+    >\frac{2}{1+\theta}.
+\]
+Indeed \(2/(1+\alpha)-1=(1-\alpha)/(1+\alpha)\), whose real part gives the summand, and the exterior term combined with the constant one gives \(2/(1+\theta)\).
+The [exact evaluation at \(w=1\)](#torsion-factor-returns) gives \(f(-1)/|P(1)|=(2N+j)/j\).
+Together with the [branch lower bound](../claims/Yin_C_G0345_v293.md#branch) this implies
+\[
+    \delta\,\frac{P(-1)}{|P(1)|}>
+        \frac{2(2N+j)}{(q+2+q^{-1})(1+\theta)} .
+\]
+For \(q=d^2\ge16\) and \(\delta\le1\), the right side exceeds three, since \(4(q^2-1)>3(q+2+q^{-1})(q+2)\).
+Along any sequence with \(\delta\to0\), the branch lower bound forces \(q\to\infty\), and consequently
+\[
+                 \liminf \delta\,P(-1)/|P(1)|\ge4 .
+\]
+In particular a bounded endpoint ratio excludes a shrinking sequence in this torsion class.
+Cyclotomic factors in the return must be included when computing the ratio.
+
+<a id="lehmer-torsion-inverse"></a>
+## A small-excess input with the full Lehmer return at \(w=-1\)
+
+For the [degree-ten Lehmer polynomial](../claims/Yin_C_G0345_v291.md#benchmark) we have \(P(1)=-1,\ P(-1)=1,\ P(i)=3i\).
+The preceding ratio bound excludes \(w-1\mid\Delta\) in this entire return fiber when \(q=100\) and \(\delta\le1\).
+For \(w+1\mid\Delta\), the [evaluation at \(i\)](#torsion-factor-returns) instead requires \(198+j\mid 3\cdot99^2=3^5 11^2\), because \(b=99^2,\ L=9999+j\) and \(c=\gcd(L,b)\) divides \(b\).
+In \(0<j<99\) the only eligible value is \(j=45\).
+Indeed the only divisor of \(3^5 11^2\) between 199 and 296 is 243.
+
+There is an actual input on that branch.
+In the [exact integral inverse parametrization](../claims/Yin_C_G0345_v4.md#simplex), take
+\[
+ R(x)=-99x^4-342x^3-242x^2+155x+121,\qquad
+ f(z)=P(z)+(z-1)z^4R(z+z^{-1}).
+\]
+This gives
+\[
+ f(z)=z^{10}-98z^9-243z^8-297z^7-234z^6-87z^5
+            +85z^4+232z^3+296z^2+244z+100 ,
+\]
+and the reversal of the added term gives \(zf+f^*=(z+1)P\) identically.
+To verify the strict inverse conditions, use the neutral roots of the [Lehmer trace polynomial](../claims/Yin_C_G0345_v291.md#benchmark-proof) \(Q=x^5+x^4-5x^3-5x^2+4x+3\).
+The table gives the two signs of \(Q\) on \([n,n+1]/10000\) and an integer interval for \(R(n/10000)\), all by rational substitution.
+
+| \(n\) | \(Q(n/10000)\) | \(Q((n+1)/10000)\) | interval for \(R(n/10000)\) |
+| --- | --- | --- | --- |
+| \(-18867\) | \(-\) | \(+\) | \((9,10)\) |
+| \(-14689\) | \(+\) | \(-\) | \((-6,-5)\) |
+| \(-5847\) | \(-\) | \(+\) | \((4,5)\) |
+| \(9137\) | \(+\) | \(-\) | \((-270,-269)\) |
+
+Since \(|R'|<8400\) on \([-2,2]\), the four ordered neutral roots have \(R\)-signs \(+,-,+,-\).
+Thus all four residues in the inverse parametrization are strictly positive, and \(f(-1)=11>0\) supplies its remaining strict endpoint condition.
+The inverse criterion proves that \(f\) is Pisot and irreducible.
+Exact Horner evaluation gives \(-9<10^{-14}f(100448/1000)<-8\) and \(2<10^{-14}f(100449/1000)<3\), whence
+\[
+                            0.448<\theta-100<0.449 .
+\]
+Here \(S=98,\ L=100S+244=10044\), so \(j=45\) as required.
+From \(f(i)=-121+124i\) we have \(U(-1)=-121,\ V(-1)=-124\).
+The [full inverse identity](../claims/Yin_C_G0345_v295.md#parity) at \(-1\) gives \(-\Delta(-1)=99^2 V(-1)-LU(-1)=0\).
+
+This fixed return also explains why the example cannot supply vanishing outer defect coefficients.
+Comparing the coefficients of \(z^d\) in \(zf+f^*=(z+1)P\) gives \(S=q-1-[z^{d-1}]P\) for every exact degree-\(d\) return.
+In the zero-outer class with \(0<j<q-1\), the [two trace choices](../claims/Yin_C_G0345_v346.md#pair) therefore require \([z^{d-1}]P=-1\) or \(-2\).
+The Lehmer polynomial has \([z^9]P=1\), so the present defect is nonzero, with at least one nonzero outer coefficient.
+The [two-point bound](../claims/Yin_C_G0345_v4.md#statement) also bounds the excess below by the fixed positive exterior trace excess of this return.
+The example realizes the \(w+1\) factor with excess below one at the prescribed constant, while a sequence tending to zero must have varying exterior returns.
 
 <a id="remaining"></a>
 ## Remaining escape patterns

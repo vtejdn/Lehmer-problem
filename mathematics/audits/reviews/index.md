@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v368](Yin_R_G0562_v368.md#finite-two-class-test-review) checks the explicit prime threshold, the two-class degree interval and the degree-ten example against Voutier's normalization.
+- [R562 v367](Yin_R_G0562_v367.md#distinct-two-row-cost-review) checks the cost of two distinct row ratios, exact doubling of multiplicities and the limiting optimal rate for the moving Salem family.
+- [R562 v366](Yin_R_G0562_v366.md#local-row-resultant-review) checks the local row derivatives, the ideal-power and resultant bounds, and the limitation at multiplicity one.
+- [R562 v365](Yin_R_G0562_v365.md#finding) checks the near-linear degree window, the good-prime count and the normalized finite minimum equivalent to a Lehmer gap.
+- [R562 v364](Yin_R_G0562_v364.md#repeated-class-cost-review) checks the uniform cost of high multiplicity for any prescribed number of residue classes.
+- [R562 v363](Yin_R_G0562_v363.md#torsion-endpoints-review) checks the endpoint ratio and the exact small-excess degree-ten inverse with Lehmer return.
+- [R562 v362](Yin_R_G0562_v362.md#exterior-breakpoints-review) checks the finite separated-radius estimate and its degree-uniform consequence for nonreal exterior pairs.
+- [R562 v361](Yin_R_G0562_v361.md#monic-two-class-cost-review) checks the cost of a monic two-class witness, the explicit integral construction and the Salem limits.
+- [R562 v360](Yin_R_G0562_v360.md#reciprocal-part-review) checks how much reciprocal measure a nonreciprocal two-class polynomial can contain.
 - [R562 v359](Yin_R_G0562_v359.md#exact-fixed-cost-review) checks the exact optimal cofactor rate for a fixed reciprocal unit, including the integer construction, both signs in the lower bound, and the order of the limits.
 - [R562 v358](Yin_R_G0562_v358.md#two-class-degree-review) checks the unconditional noncyclotomic degree cost, the matching leading term at small residue distance, and the exact one-class minimum.
 - [R562 v357](Yin_R_G0562_v357.md#lucas-cofactor-review) checks the valuation estimate and the Lucas resultant forcing quadratic noncyclotomic degree when the cofactor has sublinear log measure.

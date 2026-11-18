@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v153](Yin_L_G0462_v153.md#test) | A finite test for the two-class cofactor bound | An explicit sufficient threshold in every degree, a degree-ten prime interval, and matching-order degree bounds for two rows with a double zero. |
+| [Yin_L_G0462_v152](Yin_L_G0462_v152.md#separation) | Local row divisibility at a multiple zero | Congruences for all divided derivatives, a square exponent in the two-row resultant, and the obstruction at a simple zero. |
+| [Yin_L_G0462_v151](Yin_L_G0462_v151.md#lattice) | The two-class cost for a varying reciprocal input | A reduced lattice basis estimates the minimum uniformly, exterior-root tests give direct lower bounds, and prime substitution separates the two row conditions. |
 | [Yin_L_G0462_v150](Yin_L_G0462_v150.md#contraction) | The cost of two residue classes for a fixed reciprocal unit | An integer divisor from an inverse modulo a cyclotomic polynomial, a quadratic degree or linear measure cost, and two exact tests on Lehmer's polynomial. |
 | [Yin_L_G0462_v149](Yin_L_G0462_v149.md#turns) | Angular speed and turning points of two-row phases | A bound from angular variation, an exponential estimate on a pole-free annulus, and an example with winding minus one and unbounded valence. |
 | [Yin_L_G0462_v148](Yin_L_G0462_v148.md#finite) | Cyclotomic padding for two residue classes | Bounds for the seed degree and offset, including the exclusion of every prime at least 17 for the degree-ten Lehmer input. |

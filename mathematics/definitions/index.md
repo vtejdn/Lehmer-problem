@@ -8,6 +8,7 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 | Concept group | Contents |
 | --- | --- |
 | [Dual lattices, covering radius and first minimum](../audits/literature/Ban95/Yin_U001.md#lattice-conventions) | Full-rank Euclidean lattices and gauges of origin-symmetric convex bodies; Ban95's normalization. |
+| [LLL-reduced Euclidean lattice basis](../audits/literature/LLL82/Yin_U001.md#reduction) | Gram–Schmidt coefficients, size reduction and the Lovász condition with parameter \(3/4\). |
 | [Alternating sections and group thickness](../audits/literature/Bab18/Yin_U001.md#thickness) | Babai's finite-group convention and the degree of a primitive action. |
 | [Base and base size of a permutation group](../audits/literature/LS99/Yin_U001.md#base) | Pointwise stabilizers and the order bound obtained from the images of a base. |
 | [Subspace action of an almost simple classical group](../audits/literature/LS99/Yin_U001.md#subspace-action) | Liebeck and Shalev's three types of maximal subgroup, including graph-automorphism pairs and orthogonal groups in characteristic-two symplectic groups. |
@@ -30,6 +31,7 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 | [Finite-field divisors and Hankel indices](#finite-field-divisors-and-hankel-indices) | Rational divisor conventions, the original shifted determinant and its polynomial lattice. |
 | [Sturm sequences and sign variations](../audits/literature/PRT22/Yin_U001.md#sturm-sequence-and-variation) | Negative Euclidean remainders, deletion of zero entries and positive normalization; squarefree source convention. |
 | [Holomorphic zero counts in disks](../audits/literature/Sha23/Yin_U001.md#rouche-disk) | Sum of local zero orders in the open disk; the strict circle comparison excludes boundary zeros. |
+| [Archimedean tropical variety and amoeba of a Laurent polynomial](../audits/literature/AKNR18/Yin_U001.md#tropical) | Maximum of the logarithmic term magnitudes, the lower hull convention and the natural logarithm of root modulus. |
 | [Gaussian Picard group and Heisenberg translations](../audits/literature/FFLP11/Yin_U001.md#matrix-conventions) | The exact Hermitian form, determinant-one Gaussian group and source translation, dilation and rotation matrices. |
 
 ### Free Fields and Representations
