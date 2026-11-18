@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v228](Yin_L_G0462_v228.md#resultant) | Resultant bounds for integral multiples and the exact cyclotomic minimum | The largest prime divisor gives the optimal coefficient norm at every conductor, with an exact degree threshold. The resultant lower bound also applies to nontorsion inputs. |
+| [Yin_L_G0462_v227](Yin_L_G0462_v227.md#rows) | Short integer multiples preserve both coprime rows | A family with the exact common divisor gives simultaneous cofactor bounds at fixed span even when the powered polynomial has large angular fluctuations. |
 | [Yin_L_G0462_v226](Yin_L_G0462_v226.md#minimum) | Two primes determine the least rational factor degree independently of the number of factors | With independent alternating actions the absolute degree threshold 81 suffices, even with repeated factor degrees and separate prescribed residue classes. |
 | [Yin_L_G0462_v225](Yin_L_G0462_v225.md#window) | Large mean angular fluctuations on a single cyclotomic orbit | Every prime throughout the fourth-logarithmic window preserves a superlogarithmic first absolute moment on the constructed orbits. |
 | [Yin_L_G0462_v224](Yin_L_G0462_v224.md#progression) | Irreducible quartic sections with no small Salem exclusion prime | Every small modulus can preserve a false cubic even inside the logarithmic first-exponent range. Another construction allows arbitrarily slow growth of the first exponent. |

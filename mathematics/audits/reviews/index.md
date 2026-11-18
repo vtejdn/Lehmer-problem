@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v485](Yin_R_G0562_v485.md#finding) checks the resultant obstruction, the optimal coefficient norm and the exact ordinary degree needed at each cyclotomic conductor.
+- [R562 v484](Yin_R_G0562_v484.md#finding) checks simultaneous elimination of every common root, preservation of both jets and the coefficient bounds for the cyclotomic controls.
 - [R562 v483](Yin_R_G0562_v483.md#finding) checks the two cycle constructions for every minimum degree at least 81 with arbitrarily many rational factors.
 - [R562 v482](Yin_R_G0562_v482.md#finding) checks the choice of conductors, the first absolute moment, and the limits of the positive-measure examples that include a cyclotomic factor.
 - [R562 v481](Yin_R_G0562_v481.md#finding) checks the least rational trace degree at two primes, the exact one-prime optimum in a prescribed class and the measure criterion on each stated family.

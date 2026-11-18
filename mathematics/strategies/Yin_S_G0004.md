@@ -137,6 +137,11 @@ The [average over primes](../ledger/Yin_L_G0462_v222.md#primes) gives this estim
 Determine what controls this deviation for primes in the smaller fourth-logarithmic window.
 There are [single cyclotomic orbits](../ledger/Yin_L_G0462_v225.md#window) on which the mean deviation exceeds every fixed power of \(\log d\) at every prime in this window.
 An angular upper bound for shrinking irreducible inputs must use their nontorsion arithmetic.
+For a different test on the same rows, take [integral multiples of the powered minimal polynomial](../ledger/Yin_L_G0462_v227.md#perturbation) with no further common factor.
+If their degrees are at most \(2d\) and their coefficient one-norms have logarithms \(o(p)\), both cofactor measures are \(o(p)\) on a shrinking sequence.
+The [explicit multiples for the cyclotomic controls](../ledger/Yin_L_G0462_v227.md#controls) meet these bounds even on the orbits with large angular fluctuation.
+The [resultant lower bounds and exact cyclotomic minimum](../ledger/Yin_L_G0462_v228.md#resultant) distinguish the cost forced by the input from the cost of a chosen family of multiples.
+For a proof by contradiction, a lower bound on a quantity retained after both perturbations must still force cofactor measure of order \(p\) for a genuine irreducible input.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.
