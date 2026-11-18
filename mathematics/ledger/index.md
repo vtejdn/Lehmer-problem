@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v234](Yin_L_G0462_v234.md#height) | Measuring each four-class cofactor from its coefficients | The logarithm of the largest seed coefficient gives each actual cofactor measure up to \(o(ph)\). Both pairs of prescribed jets survive an integer perturbation making the angular term exponentially small. |
 | [Yin_L_G0462_v233](Yin_L_G0462_v233.md#different) | A powered trace discriminant divides the sum of the two compressed jets | The divisor gives an exact integral norm quotient and a fixed-seed growth rate determined by the ordered conjugate moduli. |
 | [Yin_L_G0462_v232](Yin_L_G0462_v232.md#gcd) | Coprimality and measure over the original seed | A seed polynomial detects all common roots before perturbation. The lifted and seed cofactor measures differ by \(O(ph/n)\) on the two short witnesses. |
 | [Yin_L_G0462_v231](Yin_L_G0462_v231.md#width) | Leading measure at fixed and growing width | For each fixed seed the leading constant is at most \(8e/(6e+1)\) at degree \(4pd\). Growing width attains one with primitive coprime rows. |

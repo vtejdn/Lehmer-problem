@@ -149,7 +149,10 @@ At each such prime the [four-class construction](../ledger/Yin_L_G0462_v229.md#r
 Their common factors before the coprimality adjustment can already be [located using seed polynomials of degree at most \(8e\)](../ledger/Yin_L_G0462_v232.md#gcd), where \(e=\deg P_0\).
 For each adjusted witness let \(h=m(P_0)\), let \(K\) be the reciprocal degree-\(6e\) quotient after reflected elimination and let \(L\) be the positive integral measuring overlap between its two seed rows.
 The [exact excess estimate](../claims/Yin_C_G0345_v405.md#four) gives seed cofactor measure \((p-2)h+(m(K)+L)/2\) with error at most \(L/p\), and lifting changes this by \(O(ph/n)\).
-Test whether the integral derivative conditions force \(m(K)+L\) to grow at least as fast as a positive constant times \(p\) on one of these short witnesses, uniformly in the seed.
+An [integral modification of the two actual witnesses](../ledger/Yin_L_G0462_v234.md#perturbation) preserves their endpoints and derivatives and makes \(L\) exponentially small in \(ph/e\), up to a factor \(O(e^2)\).
+Before any modification, the [largest coefficient of each witness](../ledger/Yin_L_G0462_v234.md#height) measures its cofactor up to \(o(ph)\) after taking its logarithm.
+The [powered discriminant divisor of the trace sum](../ledger/Yin_L_G0462_v233.md#different) already forces coefficient growth in the reduced traces, with fixed-seed normalized slope between \((1+2/e)h\) and \(2h\).
+Seek a lower bound for the least height of two admissible, independent solutions of the seed equations that remains positive on the scale \(p\) when the seed varies.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).

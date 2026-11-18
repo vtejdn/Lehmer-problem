@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v494](Yin_R_G0562_v494.md#finding) checks the coefficient estimate, continuity on the circle and simultaneous preservation of both short witnesses under the perturbation.
 - [R562 v493](Yin_R_G0562_v493.md#finding) checks the powered trace divisor, its logarithmic growth at all degree-preserving powers and the resulting bounds for both compressed trace rows.
 - [R562 v492](Yin_R_G0562_v492.md#finding) checks the reflected multiplicity, both bounds for the positive integral, the degree-six-times-the-seed quotient and the actual cofactor errors.
 - [R562 v491](Yin_R_G0562_v491.md#finding) checks the seed test for common factors, their multiplicities and the two-sided comparison of seed and lifted cofactor measures.
