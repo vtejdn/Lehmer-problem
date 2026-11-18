@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v252](Yin_L_G0462_v252.md#ratio) | Signed row values for the surviving octic | A ratio independent of the two generator scalings has positive limiting height per exponent, enough to exclude the full cutoff for this seed. |
+| [Yin_L_G0462_v251](Yin_L_G0462_v251.md#common) | A common seed at several nearby powers | For a fixed number of powers the collision contributions add, and the complex disk estimate saves one layer per exponent at each end. |
 | [Yin_L_G0462_v250](Yin_L_G0462_v250.md#count) | Exterior counts for six-term sections | Uniform bounds as the seed degree and both exponents vary. Bounded relative occupancy at the poles excludes a vanishing exterior allocation up to cubic slope in the growing seed degree. |
 | [Yin_L_G0462_v249](Yin_L_G0462_v249.md#signs) | Equal edges at a fixed quartic Salem seed | At either sign, equal edges occur at finitely many exponents, with exactly two odd-prime exceptions across the two seed polynomials. The residual quadratic at width five has distinct roots. |
 | [Yin_L_G0462_v248](Yin_L_G0462_v248.md#basis) | Leading coefficients of the two quartic rows | Two width-four pairs generate every larger rational kernel. The integral leading indices can be computed from eight-dimensional column lattices and restrict the width-five outer coefficient. |

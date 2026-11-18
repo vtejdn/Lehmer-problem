@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J178, octics](programs/Yin_J_G0178/versions/v2/readme.md#census) gives the 54 octic sign classes at measure at most two. It identifies the unique seed for which the row-value norm falls below the width-eight cutoff.
+
 - [J178](programs/Yin_J_G0178/readme.md#census) classifies all 17 sign classes of reciprocal noncyclotomic irreducible sextics of measure at most two. Exact exterior counts and measure bounds exclude every sextic through row degree nine for sufficiently large primes.
 
 - [J177](programs/Yin_J_G0177/readme.md#census) rules out every qualifying pair at the full coefficient cutoff for all 168 odd primes through 1009 and all row degrees through five. [Uncapped controls](programs/Yin_J_G0177/readme.md#controls) give the exact first costs for both quartic seeds at \(p=3,5,7\).

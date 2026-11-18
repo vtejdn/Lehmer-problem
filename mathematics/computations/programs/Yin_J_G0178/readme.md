@@ -74,3 +74,5 @@ python mathematics/computations/programs/Yin_J_G0178/census.py
 ```
 
 The run on Python 3.14.3 produced the [per-seed results](../../outputs/Yin_J_G0178/results.json), including the exterior count, the rational measure bound and the list of torsion-ratio orders for each triple.
+
+The [octic census](versions/v2/readme.md#census) treats the next possible seed degree and gives the separate measure comparisons needed at width eight.

@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v521](Yin_R_G0562_v521.md#finding) checks the exact coefficient growth at the degree of each fixed Salem seed, both octic resultants and the full width-eight exclusion.
+
+- [R562 v520](Yin_R_G0562_v520.md#finding) independently reconstructs the 54 octic sign classes and checks both strict measure comparisons at the exceptional seed.
+- [R562 v519](Yin_R_G0562_v519.md#finding) verifies the octic signed value ratio, both finite-field specializations and the lower and upper heights.
+- [R562 v518](Yin_R_G0562_v518.md#finding) checks the common-seed norm at nearby exponents, torsion classes and the saving from all disk zeros.
+
 - [R562 v517](Yin_R_G0562_v517.md#finding) checks the full exclusion through row degree seven, independently enumerates the sextics, and verifies the octic comparison at width eight.
 - [R562 v516](Yin_R_G0562_v516.md#finding) checks the exterior-root count for six-term sections, uniform localization as the seed varies, and the role of the occupancy hypothesis.
 - [R562 v515](Yin_R_G0562_v515.md#finding) independently enumerates all 17 sextic sign classes and verifies their exterior counts, measure thresholds and absence of torsion ratios.
