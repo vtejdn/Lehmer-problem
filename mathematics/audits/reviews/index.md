@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v393](Yin_R_G0562_v393.md#finding) checks the explicit degree and measure floors for all power substitutions of the cubic seed and the degree floor for the moving Lehmer family.
+- [R562 v392](Yin_R_G0562_v392.md#finding) checks the good-prime index bound at every root multiplicity, including inseparable reductions and fractional disk depths.
+- [R562 v391](Yin_R_G0562_v391.md#finding) checks the original-discriminant loss at large auxiliary primes and its contribution in the finite window.
+- [R562 v390](Yin_R_G0562_v390.md#neutral-residues) checks the integer-branch exclusions, determinant bounds and limiting neutral residue distributions of a varying Pisot return.
+- [R562 v389](Yin_R_G0562_v389.md#all-towers-review) checks every square-root tower over the reciprocal cubic seed at odd exponents and reproduces the finite-field exclusions.
+- [R562 v388](Yin_R_G0562_v388.md#finding) checks the uniform good-prime comparison for double roots at constant, separable and inseparable reductions.
 - [R562 v387](Yin_R_G0562_v387.md#lehmer-window-review) independently reproduces the 24 powered-order calculations, isolated-pair identities and finite cofactor bounds for the degree-ten Lehmer polynomial.
 - [R562 v386](Yin_R_G0562_v386.md#local-exponent-review) checks the exact maximum of the local conjugate sums and the error at primes where the original order is nonmaximal.
 - [R562 v385](Yin_R_G0562_v385.md#power-conductor-review) checks the principal conductor at every multiplicity, the collision bound for the exponent and the exact denominator at good reduction.

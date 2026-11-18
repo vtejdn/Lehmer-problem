@@ -28,7 +28,7 @@ Other routes remain available for autonomous reassessment; their current priorit
 | Alternate Salem inquiry | Test whether the large alternating group required at level minus one rules out a strict descent with a second exterior pair as the input tends to one. | Such a descent [occurs in degree sixteen](../claims/Yin_C_G0345_v141.md#statement). Along any shrinking sequence its trace group must have an [alternating composition factor of growing degree](../claims/Yin_C_G0345_v133.md#statement), and [fixed nonreciprocal Pisot seeds](../claims/Yin_C_G0345_v135.md#fixed-seed) exclude it at large delays. |
 | Primary proof inquiry | Prove an absolute lower bound for the extra log measure divided by \(p\) in the [two-class double-root problem](../claims/Yin_C_G0345_v363.md#statement). | One degree-preserving prime of order \((\log(3d))^4\) and row degree at most \(16d+1\) suffice for each input of degree \(d\). Test whether arithmetic at several primes forces the required growth of the cofactor. |
 | Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer representation. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the remaining triality and divisibility cases in [C886v5](../claims/Yin_C_G0886_v5.md#statement). |
-| Alternative construction inquiry | Actual factor production or another mechanism changing the noncyclotomic core. | Seek the actual sublinear-degree factors in [L450v5](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion), or another explicit return to the unrestricted contract. |
+| Alternative construction inquiry | Test changing exponent directions on a reciprocal curve with an exterior edge root. | Along any shrinking sequence on a fixed curve, the exponent along that edge must grow while staying smaller in order than the transverse exponent. [Necessary edge conditions](../claims/Yin_C_G0345_v171.md#escape) |
 | Computational support, S10 | Bounded diagnostics tied to a distinguishable supply or complete-exterior-cost mechanism. | Compare distinct noncyclotomic cores and measure values, retaining all exterior roots and the actual integer support; known-core recovery alone is not the discovery objective. |
 | Other retained routes, S2, S3, S5, S6, S7, S8 and S9 | Available proof or construction alternatives under autonomous reassessment. | Reuse their precise failures and open interfaces when judging a new idea; their present lower priority is not a human prohibition or an evidence precondition for reconsideration. |
 
@@ -64,7 +64,11 @@ The [integral bound for the Sylvester determinant](../claims/Yin_C_G0345_v366.md
 On a disk where the powered roots separate after one rescaling, [several distinct branches](../ledger/Yin_L_G0462_v154.md#disk) force a contribution quadratic in the number of branches at sufficiently large residue characteristic.
 The [increments of a nested disk tree](../claims/Yin_C_G0345_v367.md#statement) count repeated collisions at successive depths.
 For any fixed input the [isolated-pair rate](../claims/Yin_C_G0345_v368.md#statement) lies between \(m(P)/2\) and \((1-1/d)m(P)\) after division by \(pd\), with the prime tending to infinity first.
-At the finite degree-dependent window, determine whether selecting a prime from the input can force logarithmic weight of order \(pd\), or whether other factors of the row resultant supply it.
+At every good auxiliary prime the [complete collision-tree bound](../claims/Yin_C_G0345_v377.md#statement) transfers at least \(2/9\) of the full index valuation to the double-root resultant.
+The [discriminant estimate](../ledger/Yin_L_G0462_v166.md#window) also counts auxiliary primes with \(2\ell\ge d+1\), at a total error negligible on the \(pd\) scale for bounded-measure inputs.
+If an input supplies index weight of order \(pd\), the [powered Vandermonde estimate](../claims/Yin_C_G0345_v368.md#statement) already bounds its measure from below.
+The new local bounds identify how much of that weight every double-root witness must carry.
+For a possible shrinking input, all admissible primes have \(\log I_p=o(pd)\), so test whether individual conjugates concentrate this smaller index enough to force an order-\(p\) cost, or whether the cofactor has an independent archimedean contribution.
 The [prescribed-prime examples](../claims/Yin_C_G0345_v371.md#statement) rule out an automatic positive isolated-pair rate on a list of order \(\log d/\log\log d\) chosen before the input.
 This can happen at the [first admissible primes of the actual window](../ledger/Yin_L_G0462_v156.md#first-primes).
 In the Salem example all index growth occurs at three, and every double-root witness has [resultant valuation at least of order \(dp\) at this prime](../claims/Yin_C_G0345_v375.md#statement).
@@ -76,7 +80,8 @@ For the reverse test let \(s_p\) be the additive exponent of \(\mathbb Z[\alpha]
 The [constant-row witness](../claims/Yin_C_G0345_v376.md#statement) gives a full normalized log resultant at most \(\log p+3\log s_p\) within the same degree cap.
 When \(s_p=1\) its value is exactly \(\log p\) and all auxiliary-prime valuations vanish simultaneously.
 Thus a proof based on an order-\(p\) lower bound for every witness must select a prime with \(\log s_p\) at least of order \(p\), or use a bound for the measure beyond the row resultant.
-On the index-one reciprocal seeds, the [individual degree comparison](../ledger/Yin_L_G0462_v158.md#degree-proportion) identifies sublinear-degree factors and losses of degree in the square-root tower as the two ways their measures can shrink.
+For the reciprocal cubic seeds at odd exponents, [every square-root step doubles the degree](../ledger/Yin_L_G0462_v164.md#all-towers).
+For all positive exponents and all power substitutions, [each nontorsion factor occupies at least \(1/34000\) of the degree](../ledger/Yin_L_G0462_v168.md#degree) and has a uniform positive measure floor.
 For multiplicity one, the [reciprocal-part inequality](../claims/Yin_C_G0345_v359.md#statement) is finite and controls all nonreciprocal coprime two-row witnesses.
 At adjacent residues the [common coefficient envelope](../claims/Yin_C_G0345_v361.md#sum) gives an effective bound in the reciprocal case when distinct nonreal exterior pairs have separated moduli.
 For fixed Salem inputs the [monic rate](../claims/Yin_C_G0345_v360.md#limits) is \(m(P)\), while the unrestricted fixed-input rate is \(m(P)/2\).
@@ -93,7 +98,8 @@ When sparse common multiples exist, the earlier [term-count comparison](../claim
 
 The direct construction must vary the return polynomial itself.
 The [fixed-output fibers](../claims/Yin_C_G0345_v4.md#simplex) already grow with the constant term for a single supplied Salem polynomial, so counting that growth does not establish a new Salem value.
-Before selecting a low-branch search at the prescribed constant, apply the existing [degree requirement](../ledger/Yin_L_G0462_v36.md#degree).
+At the square constant every surviving integer branch exceeds \(4(d^2-1)/\log^6(3d)\).
+Test varying returns in that range against the [neutral residue bounds](../ledger/Yin_L_G0462_v165.md#angular), including the required mass on every set of positive arcsine measure whenever total mass stays bounded.
 For an actual candidate coefficient family, use the [complete integral Schur correspondence](../claims/Yin_C_G0345_v293.md#correspondence) to test the root condition together with every coefficient congruence.
 
 At the prescribed scale, the [power-substitution gap](../claims/Yin_C_G0345_v294.md#statement) and the unit-defect gap leave general stable descendants to test.
@@ -543,13 +549,14 @@ The rotated whole family still has a six-term completion gap; coprime rotations 
 The [completed iteration check](../ledger/Yin_L_G0458_v6.md#cyclotomic-repair-parity-obstruction) excludes restoring the paired rotation product on any positive integer divisor of Q_n even after cyclotomic multiplication or extraction; other norm constructions remain unresolved.
 The [fixed-template factor theorem](../claims/Yin_C_G0879_v2.md#dyadic-application) now gives a positive lower bound for every positive divisor of these \(Q_n\), regardless of any further arithmetic factorization.
 The [changing sparse map](../ledger/Yin_L_G0450_v5.md#moving-map-uniform-asymptotic) g_n=z^n-z-1 now gives the uniform factor formula m(f)=deg(f)(E+o(1))/(n-2), with E>0, while its whole measure tends to 10E.
-Its [remaining counterexample criterion](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion) is an actual factor of degree o(n); unbounded within-input factor count is sufficient but no longer the only target.
-The [factorwise structure](../ledger/Yin_L_G0450_v6.md#moving-map-factorwise-involution) now makes every rational factor reciprocal and the whole output squarefree, while sublinear factors must eventually have relative norm one and omit the uniformly separated off-circle pairs.
+The numerator and denominator are specializations of \(1-Y/X-Y\) and \(Y-X-1\) at \(Y=X^n\).
+Homogeneous evaluation of the fixed Lehmer polynomial gives a [uniform positive factor gap and degree proportional to \(n\)](../ledger/Yin_L_G0462_v168.md#moving-map) for every irreducible rational factor.
+The [factorwise structure](../ledger/Yin_L_G0450_v6.md#moving-map-factorwise-involution) gives reciprocity and squarefreeness throughout this family.
 The [four exact J142 inputs](../computations/programs/Yin_J_G0142/readme.md) are irreducible; genuine [local factor proliferation](../ledger/Yin_L_G0450_v6.md#moving-map-local-factor-proliferation) lacks global coefficient descent, and the stronger printed number-field theorem fails its actual coefficient-involution hypothesis.
 The [inverse-factor construction interface](../ledger/Yin_L_G0450_v7.md#inverse-factor-quartic-unit) uses the full reversal resultant and the trace-field residue ring to force the norm-one quartic's skew coefficient to be a unit; this gives a three-unit parameterization, not a supplied global factor.
 Its [first explicit unit-compatible pair](../ledger/Yin_L_G0450_v7.md#inverse-factor-explicit-quartic-control) passes integrality and the real-root conditions but fails a required circle embedding for every index, so those candidates need no further divisibility scan.
 The [exact quartic root tests](../ledger/Yin_L_G0450_v8.md#quartic-critical-value-criterion) now give necessary and sufficient circle conditions at each specified embedding and a separate real-root test; the entire inverse-power endpoint family is excluded, with no new surviving factor.
-Next test concrete factor constructions against the exact divisibility and root conditions, keeping the changing exceptional layers available when they offer a mechanism for actual sublinear factors.
+Test changing exceptional layers on inputs with exponent directions or coefficients outside these fixed specializations.
 Use the new residue-order filter before investing in square-layer candidates; growing the allowed orders is only a necessary escape, not evidence of decreasing measure.
 Neither additional outer cyclotomic layers nor the count of local factors supplies that missing construction.
 These complete-cost diagnostics guide further construction without claiming a counterexample, a general exclusion of all such blocks or a return to the broad proof campaign.

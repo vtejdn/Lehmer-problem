@@ -521,8 +521,8 @@ Its [independently checked phase criteria](../audits/reviews/Yin_R_G1107_v40.md#
 The fixed parent \(\Phi_{60}\Phi_{84}\Phi_{140}\) fails those sign-and-endpoint requirements at every permitted odd length; its degree-1010 instance separately has [complete measure greater than \(11/4\)](../computations/programs/Yin_J_G0138/readme.md#growing-profile-resultant).
 That exact computation retains a shared trusted FLINT resultant backend and does not determine proper-factor measures.
 After explicit human resumption, a specified new parent should first face the [endpoint and phase tests](../ledger/Yin_L_G0457_v4.md#terminal-phase-gate), then certified amplitude and whole-measure checks if it passes.
-The separate [sublinear-degree factor question](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion) remains another sufficient construction interface, without an actual new divisor.
-Neither sufficient interface restricts the original unrestricted Task.
+For the separate changing sparse map, the [fixed-specialization gap](../claims/Yin_C_G0345_v168.md#statement) and its [factor-height formula](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion) exclude sublinear degrees.
+The growing-profile construction remains open at its endpoint and interior inequalities.
 No new parent campaign, coefficient box or word scan is selected by this closeout; S4, its S10 child and G0001 are paused until explicit human resumption.
 S4 retains integer constructions, structural exclusions and the separate obligation to obtain positive mass in arbitrarily small strict shells.
 S10 returns certified candidates and observed features to that work; its finite performance comparison supplies no arbitrary-radius existence conclusion.
@@ -890,8 +890,9 @@ The odd-prime template's [genus-two Gaussian component](../ledger/Yin_L_G0458_v5
 The mandatory cyclotomic specialization multiplier prevents treating fixed-curve irreducibility as irreducibility of the actual outputs.
 The [changing family](../ledger/Yin_L_G0450_v5.md#moving-map-actual-inputs) g_n=z^n-z-1 instead has uniformly bounded complete measure and a fixed integral Mobius equation over the Lehmer field.
 Its [relative-orbit argument](../ledger/Yin_L_G0450_v5.md#moving-map-uniform-asymptotic) proves (n-2)h(beta)->E>0 uniformly for roots of every actual factor, and hence m(F_n)->10E.
-The precise [small-factor condition](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion) remains deg(f)=o(n), with no established existence or proportional lower degree bound.
-The [factorwise involution](../ledger/Yin_L_G0450_v6.md#moving-map-factorwise-involution) makes every rational factor reciprocal and the entire output squarefree; its [positive norm budget](../ledger/Yin_L_G0450_v6.md#moving-map-relative-unit-balance) eventually restricts sublinear factors to relative norm one, and they must omit the uniformly separated off-circle pairs.
+Homogenizing the fixed Lehmer polynomial at \(1-Y/X-Y\) and \(Y-X-1\) represents the whole output as \(F(X,X^n)\) for a single integral Laurent polynomial.
+The [specialization and height bounds](../ledger/Yin_L_G0462_v168.md#moving-map) give degree at least \(c_{\mathcal F}(n-2)/C\) for every irreducible rational factor.
+The [factorwise involution](../ledger/Yin_L_G0450_v6.md#moving-map-factorwise-involution) gives reciprocity of every rational factor and squarefreeness of the output.
 The [four J142 inputs](../computations/programs/Yin_J_G0142/readme.md) each have one positive irreducible factor.
 Finite-order and complete-rotation constructions fail at their [exact algebraic conditions](../ledger/Yin_L_G0450_v6.md#moving-map-forced-symmetry-obstructions), while [many two-adic factors](../ledger/Yin_L_G0450_v6.md#moving-map-local-factor-proliferation) do not provide global factors.
 The [stronger source comparison](../ledger/Yin_L_G0450_v6.md#moving-map-stronger-source-boundary) finds an arbitrary-number-field statement whose printed hypothesis is violated by q*= -tau(q); its monomial normalization is essential, and the uninspected corrigendum remains an explicit source limit.
@@ -899,7 +900,7 @@ The [mixed-map inverse-factor calculation](../ledger/Yin_L_G0450_v7.md#inverse-f
 The [two explicit candidates](../ledger/Yin_L_G0450_v7.md#inverse-factor-explicit-quartic-control) with endpoint units theta+1 and theta-1 satisfy those arithmetic conditions and have no real roots, but a supplied circle embedding excludes them for all odd n; these parameters are not selected for a divisibility scan.
 The [Cayley and critical-value criteria](../ledger/Yin_L_G0450_v8.md#quartic-cayley-polynomial) decide the full quartic circle-root condition at a given compact embedding, while the separate real critical-value test decides absence of real roots.
 The [inverse-power endpoints](../ledger/Yin_L_G0450_v8.md#quartic-inverse-power-endpoints) eta_+=(theta+1)^(-j), eta_-=(theta-1)^(-j) are excluded for every j>=1 and every remaining parameter; no new actual quartic factor is supplied.
-Use that [factor construction interface](../ledger/Yin_L_G0450_v7.md#inverse-factor-next-question) for a small exact diagnostic before increasing whole-output factorizations; endpoint units, local splitting and the involution are necessary filters, and actual divisibility remains unproved for a new candidate.
+The proportional degree bound confines any fixed-degree rational factor to finitely many indices of this family.
 Continue changing exceptional low-order layers only with a concrete small-global-factor mechanism; neither new fixed templates nor escaping a previous hypothesis establishes such a mechanism.
 For the equal-degree content-two square class, require unbounded actual odd binary root orders and a separate complete-cost mechanism before extending a search; input-conductor growth alone supplies neither.
 Do not increase outer layer exponents, local factor counts or fixed-map depths as a substitute for that global construction.

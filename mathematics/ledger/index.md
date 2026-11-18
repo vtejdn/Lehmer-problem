@@ -5,6 +5,11 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v168](Yin_L_G0462_v168.md#degree) | Degree floors for the cubic seed and the moving map | Every nontorsion factor of every positive power substitution occupies at least 1/34000 of its degree, and the fixed Lehmer target also forces proportional degrees. |
+| [Yin_L_G0462_v167](Yin_L_G0462_v167.md#bound) | Higher multiplicities at good primes | A local index coefficient quadratic in the multiplicity up to a logarithmic loss, uniformly in degree and collision depth. |
+| [Yin_L_G0462_v166](Yin_L_G0462_v166.md#large) | Collisions at primes of the original discriminant | A comparison with the full index at large auxiliary primes, with an explicit loss charged to the original discriminant. |
+| [Yin_L_G0462_v165](Yin_L_G0462_v165.md#angular) | Neutral residues of a varying Pisot return | Exclusion of small integer branches and weighted lower bounds for the neutral roots of a varying return. |
+| [Yin_L_G0462_v164](Yin_L_G0462_v164.md#all-towers) | Square-root towers over reciprocal cubic seeds | Every step doubles the degree and preserves total measure for every nontorsion root at an odd exponent. |
 | [Yin_L_G0462_v163](Yin_L_G0462_v163.md#comparison) | Local exponent from the most heavily colliding conjugate | Exact at maximal local orders with a uniform-in-prime error controlled by the original order elsewhere. |
 | [Yin_L_G0462_v162](Yin_L_G0462_v162.md#conductor) | Recovering the order exponent from one inverse polynomial | A conductor formula for repeated roots, a nodewise lower bound and the exact denominator at a good powering prime. |
 | [Yin_L_G0462_v161](Yin_L_G0462_v161.md#group) | Invariant factors of the Salem power order | The full additive group and the exact denominator of the original root at three for every eligible degree. |
