@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v236](Yin_L_G0462_v236.md#boxes) | Existing coefficient exclusions and the degree-ten prime | Voutier gives an explicit degree-dependent box exclusion. At the classical Lehmer input each eligible row needs a coefficient larger than \(10^{10900}\). |
+| [Yin_L_G0462_v235](Yin_L_G0462_v235.md#window) | Prescribing the seed offset and both unit endpoints | Every sufficiently large prescribed prime at a fixed seed realizes any nonzero offset. Integral value and derivative conditions over the seed persist with both endpoint coefficients one. |
 | [Yin_L_G0462_v234](Yin_L_G0462_v234.md#height) | Measuring each four-class cofactor from its coefficients | The logarithm of the largest seed coefficient gives each actual cofactor measure up to \(o(ph)\). Both pairs of prescribed jets survive an integer perturbation making the angular term exponentially small. |
 | [Yin_L_G0462_v233](Yin_L_G0462_v233.md#different) | A powered trace discriminant divides the sum of the two compressed jets | The divisor gives an exact integral norm quotient and a fixed-seed growth rate determined by the ordered conjugate moduli. |
 | [Yin_L_G0462_v232](Yin_L_G0462_v232.md#gcd) | Coprimality and measure over the original seed | A seed polynomial detects all common roots before perturbation. The lifted and seed cofactor measures differ by \(O(ph/n)\) on the two short witnesses. |

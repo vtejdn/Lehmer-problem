@@ -173,6 +173,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [KW22](KW22/readme.md) | [Natural densities of Frobenius classes](KW22/Yin_U001.md#kw22-u001) |
 | [KY14](KY14/readme.md) | Source and edition notes |
 | [Kar26](Kar26/readme.md) | Source and edition notes |
+| [Ked07](Ked07/readme.md) | [Uniform absolute error for prime counts in a reduced residue class](Ked07/Yin_U001.md#siegel-walfisz) |
 | [Keh25](Keh25/readme.md) | [Yin_U001](Keh25/Yin_U001.md) |
 | [Kou11](Kou11/readme.md) | Square-root Cayley attribution and exact v2 recurrence limitations |
 | [LL10](LL10/readme.md) | Source and edition notes |

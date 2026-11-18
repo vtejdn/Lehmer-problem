@@ -153,6 +153,9 @@ An [integral modification of the two actual witnesses](../ledger/Yin_L_G0462_v23
 Before any modification, the [largest coefficient of each witness](../ledger/Yin_L_G0462_v234.md#height) measures its cofactor up to \(o(ph)\) after taking its logarithm.
 The [powered discriminant divisor of the trace sum](../ledger/Yin_L_G0462_v233.md#different) already forces coefficient growth in the reduced traces, with fixed-seed normalized slope between \((1+2/e)h\) and \(2h\).
 Seek a lower bound for the least height of two admissible, independent solutions of the seed equations that remains positive on the scale \(p\) when the seed varies.
+The [degree-only prime test](../claims/Yin_C_G0345_v406.md#statement) fixes \(p_e\) as the least prime above \(16e^4\), the seed offset as one and the two endpoint coefficients as one.
+The box of coefficients of absolute value at most \(2^{\lfloor p_e/k\rfloor}\) gives a finite exact decision at each degree, by recovering possible seeds from the [common factors of a section and its derivative](../claims/Yin_C_G0345_v406.md#integer).
+Study the independence of the two value and derivative columns in this box using the [powered-order conditions](../ledger/Yin_L_G0462_v235.md#jets); the [explicit value divisor](../ledger/Yin_L_G0462_v235.md#value) gives a separate constraint on each column.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
