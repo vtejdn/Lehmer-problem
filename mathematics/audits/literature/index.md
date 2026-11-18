@@ -83,6 +83,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [DL24](DL24/readme.md) | [BCH bound for consecutive zeros](DL24/Yin_U001.md#dl24-u001) |
 | [DM05](DM05/readme.md) | [Yin_U001](DM05/Yin_U001.md) |
 | [DMS84](DMS84/readme.md) | [Yin_U001](DMS84/Yin_U001.md) |
+| [DP55](DP55/readme.md) | [Coefficient intervals for Pisot quotients](DP55/Yin_U001.md#coefficient-intervals) |
 | [DR10](DR10/readme.md) | [Yin_U001](DR10/Yin_U001.md), [Yin_U002](DR10/Yin_U002.md) |
 | [DR97](DR97/readme.md) | [Yin_U001](DR97/Yin_U001.md), [Yin_U002](DR97/Yin_U002.md), [Yin_U003](DR97/Yin_U003.md), [Yin_U004](DR97/Yin_U004.md), [Yin_U005](DR97/Yin_U005.md) |
 | [DS17](DS17/readme.md) | [Yin_U001](DS17/Yin_U001.md), [Yin_U002](DS17/Yin_U002.md) |
@@ -112,6 +113,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [FP16](FP16/readme.md) | [Yin_U001](FP16/Yin_U001.md) |
 | [FP18](FP18/readme.md) | [Yin_U001](FP18/Yin_U001.md) |
 | [FPZ20](FPZ20/readme.md) | [Yin_U001](FPZ20/Yin_U001.md) |
+| [Fab13](Fab13/readme.md) | [Radius bound for a critical point near two distinct zeros](Fab13/Yin_U001.md#rolle) |
 | [Fen16](Fen16/readme.md) | [Yin_U001](Fen16/Yin_U001.md) |
 | [Fil22](Fil22/readme.md) | Source and edition notes |
 | [Fio19](Fio19/readme.md) | [Yin_U001](Fio19/Yin_U001.md) |

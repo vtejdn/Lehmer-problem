@@ -628,9 +628,9 @@ The [neutral-node interpolation test](../claims/Yin_C_G0345_v369.md#square-inter
 Without padding, the [family tending to the plastic number](../claims/Yin_C_G0345_v369.md#square-return) already gives changing minimal Salem outputs at \(q=d^2\), with Pisot excess tending to approximately \(0.079596\).
 
 <a id="square-padding"></a>
-With padding, the [single-grid construction](../claims/Yin_C_G0345_v369.md#square-padding) keeps the ratio \(P(-1)/|P(1)|\) of the selected Salem factor on an unbounded subsequence.
-For all even degrees, the [odd-order degree correction](../claims/Yin_C_G0345_v370.md#degree-filler) divides that ratio by the bounded factor \(L+1\).
-Thus an endpoint test in a prescribed defect class uses the full return, including this factor.
+At every sufficiently large even degree the [explicit single-grid inverse](../claims/Yin_C_G0345_v374.md#grid) preserves the endpoint ratio \(P(-1)/|P(1)|\) of the chosen Salem factor.
+At positive padding degree both endpoint values double, and the weighted cost of all added traces is exactly \(T/2\), where \(T=\sigma+\sigma^{-1}\).
+Thus a test in a prescribed defect class can keep the endpoint ratio fixed while the new neutral traces and their defect coefficients vary.
 
 <a id="remaining"></a>
 ## Remaining escape patterns

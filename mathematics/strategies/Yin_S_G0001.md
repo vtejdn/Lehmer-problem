@@ -21,7 +21,7 @@ Other routes remain available for autonomous reassessment; their current priorit
 
 | Role | Current focus | Useful next distinction |
 | --- | --- | --- |
-| Salem construction with S4 | Study the [minimum Pisot excess at constant \(+d^2\)](../claims/Yin_C_G0345_v370.md#statement) through the deeper inverse congruences or two nonzero outer coefficients. | Its limit over all even degrees equals the infimum of \(\sigma+\sigma^{-1}-2\) over Salem numbers. A construction tending to zero must produce changing Salem factors. |
+| Salem construction with S4 | Seek changing Salem factors through the inverse congruences or two nonzero outer coefficients. | For each fixed Salem factor the [explicit grid inverse](../claims/Yin_C_G0345_v374.md#statement) achieves trace excess plus \(O(d^{-2})\) at the square constant. The [limit over all even degrees](../claims/Yin_C_G0345_v370.md#statement) is the Salem trace infimum. |
 | Construction by combining known inputs | Seek new integer polynomials beyond the radical constructions already classified. In testing a candidate family, track whether its block sizes grow and which bounded measures already occur among the inputs. | The [compositum theorem](../claims/Yin_C_G0345_v279.md#statement) gives the exact spectrum for the specified independent inputs over their block fields. For each sufficiently large bounded-measure input, the [tower theorem](../claims/Yin_C_G0345_v281.md#towers) determines the least degree required in arbitrary algebraic steps even when radical adjunctions are unrestricted. |
 | Arithmetic alternative | Select a prime using the input and bound the part of the trace resultant realized by one integer root at each rational prime. | In the [dyadic example](../claims/Yin_C_G0899_v8.md#statement) the entire resultant grows at the correct exponential rate while the largest common integer modulus is one. Test a degree-one contribution in a strict small-measure shell before expanding this route. |
 | Construction and existence inquiry, coordinated with S4 | Seek integer inputs with a growing prefix and a normalized residue distribution compatible with both the marginal and ordered tests. | A construction has to pass the [positive-measure interface](../claims/Yin_C_G0881_v10.md#statement) and the [positive-density excursions above four](../claims/Yin_C_G0898_v1.md#threshold). |
@@ -67,8 +67,16 @@ For any fixed input the [isolated-pair rate](../claims/Yin_C_G0345_v368.md#state
 At the finite degree-dependent window, determine whether selecting a prime from the input can force logarithmic weight of order \(pd\), or whether other factors of the row resultant supply it.
 The [prescribed-prime examples](../claims/Yin_C_G0345_v371.md#statement) rule out an automatic positive isolated-pair rate on a list of order \(\log d/\log\log d\) chosen before the input.
 This can happen at the [first admissible primes of the actual window](../ledger/Yin_L_G0462_v156.md#first-primes).
-In the Salem example the index is large but supported entirely at three, a prime of bad reduction.
-Test more primes in the available interval or use the full intersection multiplicity at bad reduction.
+In the Salem example all index growth occurs at three, and every double-root witness has [resultant valuation at least of order \(dp\) at this prime](../claims/Yin_C_G0345_v375.md#statement).
+For each difference of the two classes the [explicit witness](../claims/Yin_C_G0345_v373.md#witness) attains this order.
+The minimum for adjacent classes is asymptotic to \(dp\), uniformly in \(d\) as \(p\) grows through divisors of \(d\).
+For a general varying input, test the [integral expression for the original root in its powered field](../ledger/Yin_L_G0462_v157.md#transfer) at several admissible primes, accounting for the other factors of its eliminant.
+For adjacent rows a lower limit \(\kappa>0\) for the normalized [disk sum \(pW(P,p)/d\)](../ledger/Yin_L_G0462_v160.md#small-cofactor) forces log measure at least \(\kappa/64\) in the limit.
+For the reverse test let \(s_p\) be the additive exponent of \(\mathbb Z[\alpha]/\mathbb Z[\alpha^p]\).
+The [constant-row witness](../claims/Yin_C_G0345_v376.md#statement) gives a full normalized log resultant at most \(\log p+3\log s_p\) within the same degree cap.
+When \(s_p=1\) its value is exactly \(\log p\) and all auxiliary-prime valuations vanish simultaneously.
+Thus a proof based on an order-\(p\) lower bound for every witness must select a prime with \(\log s_p\) at least of order \(p\), or use a bound for the measure beyond the row resultant.
+On the index-one reciprocal seeds, the [individual degree comparison](../ledger/Yin_L_G0462_v158.md#degree-proportion) identifies sublinear-degree factors and losses of degree in the square-root tower as the two ways their measures can shrink.
 For multiplicity one, the [reciprocal-part inequality](../claims/Yin_C_G0345_v359.md#statement) is finite and controls all nonreciprocal coprime two-row witnesses.
 At adjacent residues the [common coefficient envelope](../claims/Yin_C_G0345_v361.md#sum) gives an effective bound in the reciprocal case when distinct nonreal exterior pairs have separated moduli.
 For fixed Salem inputs the [monic rate](../claims/Yin_C_G0345_v360.md#limits) is \(m(P)\), while the unrestricted fixed-input rate is \(m(P)/2\).
@@ -1929,7 +1937,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Select primes from the input to test for enough collision weight, and seek a vanishing minimum Pisot excess at the prescribed square constant. |
+| priority | Test whether a prime in the degree window has a large powered-order exponent and enough disk weight, or find changing factors of vanishing positive measure. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

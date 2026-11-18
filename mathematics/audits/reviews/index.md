@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v385](Yin_R_G0562_v385.md#power-conductor-review) checks the principal conductor at every multiplicity, the collision bound for the exponent and the exact denominator at good reduction.
+- [R562 v384](Yin_R_G0562_v384.md#salem-order-group-review) checks all cyclic summands of the Salem power-order quotient and the additive order of the original root.
+- [R562 v383](Yin_R_G0562_v383.md#fixed-norm-review) checks the fixed-norm cubic minimum, the positive-constant square bound and two descending sequences of Pisot numbers.
+- [R562 v382](Yin_R_G0562_v382.md#reciprocal-seed-review) checks the cyclotomic part, individual factor measures and the degree comparison for the reciprocal seed and its lifts.
+- [R562 v381](Yin_R_G0562_v381.md#repeated-order-review) checks the index at arbitrary multiplicity and the primitive constant-row witness within the finite degree cap.
+- [R562 v380](Yin_R_G0562_v380.md#input-bound-review) checks the disk-sum lower bound for the input Mahler measure, its normalized threshold and the Salem example at three.
+- [R562 v379](Yin_R_G0562_v379.md#row-ideal-review) checks the dependence of the minimum row resultant on the row difference and the two congruences for general units.
+- [R562 v378](Yin_R_G0562_v378.md#grid-inverse-review) checks explicit grid residues at every even degree, a moving-input threshold and the matching order for the least excess with a fixed grid return.
+- [R562 v377](Yin_R_G0562_v377.md#power-disk-review) checks the mixed-characteristic disk estimate and the three-adic resultant and measure bounds for the Salem family.
 - [R562 v376](Yin_R_G0562_v376.md#prescribed-primes-review) checks three simultaneous prime exceptions, the exact Salem power index and the first admissible primes of the actual degree window.
 - [R562 v375](Yin_R_G0562_v375.md#quadratic-collision-equality-review) checks simultaneous local equality for quadratic units and the full resultant at support prime two.
 - [R562 v374](Yin_R_G0562_v374.md#square-inverse-review) checks the square-constant Pisot construction, both padding arguments and the exact minimum-excess limit over even degrees.

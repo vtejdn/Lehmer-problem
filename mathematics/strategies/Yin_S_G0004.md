@@ -26,7 +26,9 @@ For exactly symmetric or antisymmetric defects, use the lower bound on their con
 The [paired coefficient identities](../drafts/Yin_D_G0027.md#paired-coefficients) give a separate test when both outer coefficients are nonzero.
 An admissible integer family must still yield positive return measures tending to one.
 The [limit at every even degree](../claims/Yin_C_G0345_v370.md#statement) identifies the minimum Pisot excess at constant \(+d^2\) with the Salem trace infimum in the limit.
-Use a fixed Salem output to calibrate the rounding error, then test constructions that can change the noncyclotomic factor as their excess decreases.
+The [explicit grid residues](../claims/Yin_C_G0345_v374.md#grid) now preserve both the chosen Salem factor and its endpoint ratio at every sufficiently large even degree.
+For this full return the least error above the seed's trace excess has [order \(d^{-2}\)](../claims/Yin_C_G0345_v374.md#lower).
+Concentrate the construction effort on changing the noncyclotomic factor, tracking the degree and derivative cost when its exterior root decreases.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
 The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
@@ -41,8 +43,18 @@ The [tree estimate](../claims/Yin_C_G0345_v367.md#length) now adds depth increme
 The [isolated-pair calculation](../claims/Yin_C_G0345_v368.md#overlap) exhausts the first-order logarithmic index for each fixed input.
 For varying inputs, investigate which primes carry this index and how much of it survives in the row resultant when a whole residue class collides.
 The [exact index supported at three](../claims/Yin_C_G0345_v371.md#salem) gives a Salem test case in which omitting discriminant primes discards the entire index at several prescribed exponents.
-On its disks at three, examine the first nonzero reduction of the [scaled derivative polynomial](../claims/Yin_C_G0345_v367.md#jets) after dividing out its common valuation.
-For nonconstant inseparable reduction, test whether the first nonconstant unit coefficient of the local row ratio bounds this valuation in terms of the inseparability degree.
+The [derivative valuation](../claims/Yin_C_G0345_v372.md#derivative) loses at most the logarithm to base \(\ell\) of the inseparable degree of the reduced ratio.
+On the [Salem disks at three](../claims/Yin_C_G0345_v373.md#measure) this recovers a positive cofactor rate under the finite degree cap.
+The [row congruences](../claims/Yin_C_G0345_v375.md#congruences) give the sharper dependence on the difference of the two residue classes.
+For general units, seek rational expressions with enough simultaneous disk valuation in their numerator and denominator relative to the [cofactor cost](../ledger/Yin_L_G0462_v157.md#cost).
+The [constant-row witness](../claims/Yin_C_G0345_v376.md#witness) has row constant dividing \(p s_p^3\), where \(s_p\) is the exponent of the quotient of the two orders.
+Thus an auxiliary prime outside \(s_p\) gives zero in every lower sum valid for all witnesses, even at multiplicity two within the finite degree cap.
+The [conductor calculation](../ledger/Yin_L_G0462_v162.md#conductor) computes \(s_p\) directly as the denominator of \(P'(\alpha)/Q'(\alpha^p)\) in the integral power basis, where \(Q\) is the minimal polynomial after powering.
+Use this computation to select a prime before estimating its local weights.
+For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
+On nested disks with constant reduced row ratio, compare how often several original residues can stay in the same direction after rescaling.
+For one-copy tests involving nearby zeros, [Faber's radius bound](../audits/literature/Fab13/Yin_U001.md#rolle) places a critical point in an explicitly enlarged disk.
+Turning such locations into multiplicities that add over the tree remains a separate step.
 
 <a id="all-cut-and-d4-feasibility"></a>
 The [adopted all-cut positivity theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) now covers every strict terminal cut for integer \(Q=tB_n+C\) with leading remainder coefficient two.
@@ -822,7 +834,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Seek changing Salem factors through the minima at positive square constant and test local resultant contributions at primes chosen for the input. |
+| priority | Seek varying Salem factors at the square constant and enough double-root resultant valuation after subtracting the cost of the other powered factors. |
 
 The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

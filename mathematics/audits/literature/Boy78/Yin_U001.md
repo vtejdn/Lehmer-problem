@@ -42,6 +42,21 @@ Its negative constant coefficient matters for the signed delay-one construction.
 The paper also reports a bounded calculation near \(u=9\), including 27 points of \(S_9\) in \([9,9.1]\), none with positive minimal-polynomial constant.
 The [normalized series for the cubic](../../../ledger/Yin_L_G0462_v36.md#sign) is calculated directly from that polynomial.
 
+<a id="least-fixed-norm"></a>
+## The fixed initial coefficient and the cubic minimum
+
+In the paragraph following (40) on printed p. 1256, Boyd defines \(S_u\) through a meromorphic function associated to a Pisot number \(\theta\), with pole at \(1/\theta\) and constant Taylor coefficient \(u\).
+Section 2 on p. 1246 permits the signed minimal polynomial divided by its reversal for the nonunits here, giving \(u=|P(0)|\).
+For \(u\ge2\) Boyd gives the cubic \(X^3-(u-1)X^2-uX-u\) for the least nontrivial value and refers to the methods of [Dufresnoy and Pisot](../DP55/Yin_U001.md#coefficient-intervals).
+The displayed cubic has constant coefficient \(-u\) and degree three, hence field norm \(+u\).
+The integer seed \(\theta=u\) is treated separately when considering nonlinear minimal polynomials.
+In the next sentence Boyd proposes \((u+\sqrt{u^2+4})/2\) as a candidate for the least accumulation point.
+The article presents the cubic as the minimum and the accumulation-point formula as a conjectural observation. [Associated functions, p. 1246](../../../literature/pdf/Boy78.pdf#page=3) · [Minimum and proposed limit point, p. 1256](../../../literature/pdf/Boy78.pdf#page=13)
+
+Direct inspection of the journal scan checked these two passages, the coefficients, the sign and the distinction between minimum and accumulation point.
+Boyd gives a reference to a method rather than a calculation of the cubic bound at this location.
+The [finite Schur proof](../../../ledger/Yin_L_G0462_v159.md#cubic) separately gives the sharp bound and equality case for nonlinear minimal polynomials of absolute constant \(u\).
+
 <a id="narrow-branches"></a>
 ## Narrow coefficient intervals after the first discrepancy
 

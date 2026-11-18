@@ -5,6 +5,12 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v162](Yin_L_G0462_v162.md#conductor) | Recovering the order exponent from one inverse polynomial | A conductor formula for repeated roots, a nodewise lower bound and the exact denominator at a good powering prime. |
+| [Yin_L_G0462_v161](Yin_L_G0462_v161.md#group) | Invariant factors of the Salem power order | The full additive group and the exact denominator of the original root at three for every eligible degree. |
+| [Yin_L_G0462_v160](Yin_L_G0462_v160.md#input-bound) | Finite-place disks and the measure of the original unit | A lower bound with explicit constants for one selected powering prime and different rational expressions on individual disks. |
+| [Yin_L_G0462_v159](Yin_L_G0462_v159.md#minimum) | The least noninteger Pisot number of fixed absolute norm | A proof of Boyd's cubic value, a stronger lower bound at positive square constant and explicit decreasing sequences with a unit limit. |
+| [Yin_L_G0462_v158](Yin_L_G0462_v158.md#factor-height) | Individual factor measures of a reciprocal seed | Exact cyclotomic part, degree-to-measure comparison, eventual squarefreeness and losses in a square-root lift. |
+| [Yin_L_G0462_v157](Yin_L_G0462_v157.md#transfer) | Two integer congruences at a double root | Disk estimates from a rational expression for the unit and the other factors of the eliminant. |
 | [Yin_L_G0462_v156](Yin_L_G0462_v156.md#first-primes) | First admissible primes with zero isolated-pair weight | Rounding a Salem degree fixes the exact integer window and makes its first prescribed primes miss the arithmetic contribution. |
 | [Yin_L_G0462_v155](Yin_L_G0462_v155.md#simultaneous) | Sharp collision valuations for repeated quadratic factors | One integral multiple attains the square multiplicity exponent at every prime divisor of the power index away from the support prime. |
 | [Yin_L_G0462_v154](Yin_L_G0462_v154.md#disk) | A row resultant at several colliding power branches | Ramification on a scaled disk, contributions from distinct residue classes, and an exact minimum at a double root of an irreducible trinomial. |
