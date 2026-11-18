@@ -32,6 +32,10 @@ For reciprocal inputs, [one inverse polynomial modulo \(\Phi_p\)](../ledger/Yin_
 Use the [exact fixed-input rate](../claims/Yin_C_G0345_v358.md#statement) as the comparison when testing whether an arithmetic argument gives a positive rate uniform in the input.
 The [double-root criterion](../claims/Yin_C_G0345_v363.md#statement) now tests this question at one prime and degree \(O(d(\log(3d))^4)\) for each varying input.
 Use the [row ideal and resultant](../ledger/Yin_L_G0462_v152.md#rows) to distinguish the contribution paid by the selected prime from any additional contribution supplied by the input.
+At auxiliary primes the [two-branch lengths](../claims/Yin_C_G0345_v365.md#length) add over distinct residue classes.
+The [resultant-to-measure inequality](../claims/Yin_C_G0345_v366.md#arithmetic) charges these lengths directly to the measure of the two-class multiple.
+The [trinomial control](../ledger/Yin_L_G0462_v154.md#example) gives exact local resultant valuations \(s\) and \(p^2s\) for the minimum with one copy and two copies respectively, at the same prime and input.
+For a prospective small-measure input, test whether summing over different branching depths can improve the estimate while counting each pair of roots only once.
 
 <a id="all-cut-and-d4-feasibility"></a>
 The [adopted all-cut positivity theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) now covers every strict terminal cut for integer \(Q=tB_n+C\) with leading remainder coefficient two.
@@ -811,7 +815,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test varying small-excess returns against the endpoint ratio and full inverse, and seek an additional arithmetic contribution to the finite double-root cofactor criterion. |
+| priority | Test varying small-excess returns against the endpoint ratio and full inverse, and quantify the contribution of auxiliary-prime collisions to the two-row resultant. |
 
 The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

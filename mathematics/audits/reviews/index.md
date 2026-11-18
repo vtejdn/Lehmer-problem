@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v371](Yin_R_G0562_v371.md#sylvester-row-integral-review) checks the Sylvester determinant inequality, the transfer from local resultants and the uniform arithmetic hypothesis that would imply a gap.
+- [R562 v370](Yin_R_G0562_v370.md#scaled-disk-row-resultant-review) checks the higher-order conditions on a scaled disk, the contribution of distinct residue classes and the sharp double-root trinomial.
+- [R562 v369](Yin_R_G0562_v369.md#powered-collision-resultant-review) checks the prime-to-\(p\) power-index divisor, the local lengths at bad reduction and the example attaining the exponent.
 - [R562 v368](Yin_R_G0562_v368.md#finite-two-class-test-review) checks the explicit prime threshold, the two-class degree interval and the degree-ten example against Voutier's normalization.
 - [R562 v367](Yin_R_G0562_v367.md#distinct-two-row-cost-review) checks the cost of two distinct row ratios, exact doubling of multiplicities and the limiting optimal rate for the moving Salem family.
 - [R562 v366](Yin_R_G0562_v366.md#local-row-resultant-review) checks the local row derivatives, the ideal-power and resultant bounds, and the limitation at multiplicity one.

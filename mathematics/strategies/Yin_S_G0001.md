@@ -59,7 +59,10 @@ The [rotated derivative determinant](../claims/Yin_C_G0345_v363.md#rotation) inc
 For an individual test, the [explicit threshold](../ledger/Yin_L_G0462_v153.md#test) gives sufficient primes in terms of the degree alone, including a worked range for degree ten.
 Even with unrestricted coefficient height, the [degree lower bound](../ledger/Yin_L_G0462_v153.md#degree) requires at least \(pd/2\) for the double root.
 At good reduction the [row resultant divisibility](../ledger/Yin_L_G0462_v152.md#resultant) is sharp for the local ideal condition, but at multiplicity two its positive contribution in the [coefficient estimate](../ledger/Yin_L_G0462_v152.md#cost) is at most \(\log p\).
-Seek an additional contribution of order \(p\) independent of the input, for example from auxiliary primes of the original polynomial or from the factors of the derivative determinant.
+At other primes the [collision bound](../claims/Yin_C_G0345_v365.md#branches) gives a lower bound for the row resultant from the conjugates of the original input, including at primes of bad reduction.
+The [integral bound for the Sylvester determinant](../claims/Yin_C_G0345_v366.md#sylvester) transfers this lower bound to the cofactor without a loss proportional to the number of coefficients.
+On a disk where the powered roots separate after one rescaling, [several distinct branches](../ledger/Yin_L_G0462_v154.md#disk) force a contribution quadratic in the number of branches at sufficiently large residue characteristic.
+Determine whether these contributions have total logarithmic weight of order \(pd\) on every hypothetical sequence of units with measure tending to one, or whether another factor of the row resultant supplies the missing weight.
 For multiplicity one, the [reciprocal-part inequality](../claims/Yin_C_G0345_v359.md#statement) is finite and controls all nonreciprocal coprime two-row witnesses.
 At adjacent residues the [common coefficient envelope](../claims/Yin_C_G0345_v361.md#sum) gives an effective bound in the reciprocal case when distinct nonreal exterior pairs have separated moduli.
 For fixed Salem inputs the [monic rate](../claims/Yin_C_G0345_v360.md#limits) is \(m(P)\), while the unrestricted fixed-input rate is \(m(P)/2\).
@@ -1920,7 +1923,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test input-independent cofactor growth at one admissible fourth-logarithmic prime in the double-root problem, and test the endpoint ratio or the exact inverse on changing small-excess returns. |
+| priority | Seek collision weight of order \(pd\) at one admissible prime in the double-root problem and test the endpoint ratio on varying small-excess returns. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation
