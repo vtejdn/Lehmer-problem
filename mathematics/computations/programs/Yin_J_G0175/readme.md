@@ -24,6 +24,7 @@ In this range \(\Phi_2\) occurs exactly for odd \(b\), \(\Phi_4\) exactly for \(
 Their respective occurrence counts are \(240,120,48\), and each has multiplicity one.
 There are no other cyclotomic factors in the census.
 Thus the parent and the three congruences also specify the actual \(P_b\) throughout the stated finite range.
+The [classification of all quartic torsion points](../../../ledger/Yin_L_G0462_v212.md#simple) proves these same cyclotomic congruences for every positive \(b\) coprime to three.
 
 <a id="exterior"></a>
 ## The eight exceptions to the three-exterior-root signature

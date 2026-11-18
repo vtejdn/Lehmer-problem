@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v465](Yin_R_G0562_v465.md#finding) independently reconstructs the two Hensel lifts at exponent 893 and their signed residues 7 and 4 modulo nine, certifying the full degree-900 core.
+- [R562 v464](Yin_R_G0562_v464.md#finding) verifies recovery of every rational trace divisor from its signed pole resultant at three, the finite precision bound and the sign change in the Salem criterion.
+- [R562 v463](Yin_R_G0562_v463.md#finding) verifies the dyadic common-factor multiplicities, inertia support and the exponent 424 in the necessary slope bound for an imprimitive trace action.
+- [R562 v462](Yin_R_G0562_v462.md#finding) checks the intermediate-field bounds and alternating trace actions for reciprocal seeds, and the quartic equivalence and certificate densities in both parities of the trace degree.
+- [R562 v461](Yin_R_G0562_v461.md#finding) checks all 30 torsion points, the seven possible cyclotomic orders in primitive quartic sections, their simplicity and the degree formula at first exponent three.
+- [R562 v460](Yin_R_G0562_v460.md#finding) recomputes the signed pole resultants, irreducibility of the degree-780 core and the order-365 condition for the forced modular companion.
 - [R562 v459](Yin_R_G0562_v459.md#finding) verifies the real exterior count at every positive slope, the quartic winding threshold \(b=6a\), and the Salem splitting criterion for every primitive \(a=3,\ b>18\).
 - [R562 v458](Yin_R_G0562_v458.md#finding) checks the alternating-block fixed-count moments, their prime densities in reduced congruence classes and the threshold for a fixed positive measure bound.
 - [R562 v457](Yin_R_G0562_v457.md#finding) verifies all 480 quartic trace irreducibilities by modular degree certificates and independently recomputes every Sturm signature, including both degree-14 Salem cases.

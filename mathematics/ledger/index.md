@@ -5,6 +5,10 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v214](Yin_L_G0462_v214.md#example) | Modulo nine certifies the quartic core at exponent 893 | Both candidates pass the signed pole test modulo three. Their lifted residues \(7,4\bmod9\) exclude both and prove irreducibility of the degree-900 core. |
+| [Yin_L_G0462_v213](Yin_L_G0462_v213.md#blocks) | Dyadic inertia in the exceptional reciprocal sections | Any nontrivial action on the large trace blocks is unramified outside two. Odd first exponent or sufficiently large slope forces the full alternating or symmetric trace group. |
+| [Yin_L_G0462_v212](Yin_L_G0462_v212.md#orders) | All torsion points of the quartic graph | Thirty torsion points give the complete simple cyclotomic factorization for every positive direction and an exact formula for the remaining degree at first exponent three. |
+| [Yin_L_G0462_v211](Yin_L_G0462_v211.md#certificate) | Signed pole resultants of quartic sections | A single prime and the rational sign certify the degree-780 core at second exponent 769. A residue class modulo 365 forces a second modular factor into the same rational trace factor. |
 | [Yin_L_G0462_v210](Yin_L_G0462_v210.md#real) | Real exterior roots at every slope | An exponent and parity test counts the negative exterior roots. The quartic has exactly \(a\) exterior roots for \(b\ge6a\), giving an explicit threshold for its Salem test. |
 | [Yin_L_G0462_v209](Yin_L_G0462_v209.md#gain) | Density of primes with many locally rational traces | A fixed positive gain in the trace estimate needs about \(d\log 2/\log d\) locally rational traces. Their limiting prime density has a sharp exponential rate in the identity progression. |
 | [Yin_L_G0462_v208](Yin_L_G0462_v208.md#spectrum) | Measures in extensions of a cubic root field | Below the relative-degree cap, every bounded positive value is an integer multiple of the input measure or already occurs in the same absolute degree range. |
