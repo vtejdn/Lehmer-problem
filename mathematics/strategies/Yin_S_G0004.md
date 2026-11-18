@@ -92,6 +92,8 @@ At the cubic logarithmic first-exponent scale [all small moduli admit a false de
 The [count of reducible cores](../claims/Yin_C_G0345_v401.md#statement) also controls factors with several exterior roots and sections without a real exterior root.
 Use the exceptional counts to test constructions that specify a rational factor across a sequence of exponents.
 The [two-prime test](../claims/Yin_C_G0345_v402.md#pair) detects the least rational degree among all trace factors at every sufficiently large quartic slope.
+The [five fully classified rows](../ledger/Yin_L_G0462_v230.md#rows) have a single simple noncyclotomic factor whenever their core is nonempty, including the quartic rows with first exponent one or two.
+In the [modified six-term family](../ledger/Yin_L_G0462_v230.md#smooth) both primitive exponents can grow through prescribed prime factors, but the whole log measure stays bounded away from zero at large slopes.
 Testing a candidate lower bound by several prescribed small primes can still leave a [false cubic on an irreducible section](../ledger/Yin_L_G0462_v224.md#progression).
 For small allocations without a singleton, the [variance bound among pole lifts](../ledger/Yin_L_G0462_v216.md#sparse) restricts omitted residue classes for every divisor of \(a\).
 For other fixed seed degrees, a remaining imprimitive trace action requires \(s\equiv2\bmod3\), even \(a\) and \(b/a\ll_s(\log(3(a+b)))^{424}\).
@@ -143,8 +145,12 @@ The [explicit multiples for the cyclotomic controls](../ledger/Yin_L_G0462_v227.
 The [resultant lower bounds and exact cyclotomic minimum](../ledger/Yin_L_G0462_v228.md#resultant) distinguish the cost forced by the input from the cost of a chosen family of multiples.
 For a proof by contradiction, a lower bound on a quantity retained after both perturbations must still force cofactor measure of order \(p\) for a genuine irreducible input.
 Every reciprocal seed has [irreducible representatives of the same measure](../claims/Yin_C_G0345_v403.md#equivalence) on which the angular, coefficient and cofactor estimates hold at every prime of the fourth-logarithmic window of the new degree.
-For a representative \(P_0(X^n)\), examine the polynomials obtained by grouping each of the two rows according to its exponents modulo \(n\).
-To give an absolute gap, an estimate using those polynomials must exceed the existing bound proportional to the measure of \(P_0\) uniformly over the seeds.
+At each such prime the [four-class construction](../ledger/Yin_L_G0462_v229.md#rows) gives two short witnesses with coprime rows, the prescribed endpoints and independent value and derivative vectors over the seed.
+Their common factors before the coprimality adjustment can already be [located using seed polynomials of degree at most \(8e\)](../ledger/Yin_L_G0462_v232.md#gcd), where \(e=\deg P_0\).
+For each adjusted witness let \(h=m(P_0)\), let \(K\) be the reciprocal degree-\(6e\) quotient after reflected elimination and let \(L\) be the positive integral measuring overlap between its two seed rows.
+The [exact excess estimate](../claims/Yin_C_G0345_v405.md#four) gives seed cofactor measure \((p-2)h+(m(K)+L)/2\) with error at most \(L/p\), and lifting changes this by \(O(ph/n)\).
+Test whether the integral derivative conditions force \(m(K)+L\) to grow at least as fast as a positive constant times \(p\) on one of these short witnesses, uniformly in the seed.
+For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.

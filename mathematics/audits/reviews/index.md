@@ -1,5 +1,12 @@
 # Reviews Index
 
+- [R562 v493](Yin_R_G0562_v493.md#finding) checks the powered trace divisor, its logarithmic growth at all degree-preserving powers and the resulting bounds for both compressed trace rows.
+- [R562 v492](Yin_R_G0562_v492.md#finding) checks the reflected multiplicity, both bounds for the positive integral, the degree-six-times-the-seed quotient and the actual cofactor errors.
+- [R562 v491](Yin_R_G0562_v491.md#finding) checks the seed test for common factors, their multiplicities and the two-sided comparison of seed and lifted cofactor measures.
+- [R562 v490](Yin_R_G0562_v490.md#finding) checks the leading constants at fixed and growing width and the conditions retained after reflection and division.
+- [R562 v489](Yin_R_G0562_v489.md#finding) checks the five all-exponent factor classifications, the finite certificates and the separate construction with prescribed prime factors.
+- [R562 v488](Yin_R_G0562_v488.md#finding) checks the four-class construction, its two independent jets, coprimality and the seed-field norm formula.
+- [R562 v487](Yin_R_G0562_v487.md#finding) checks the integral rotation determinant and the lower bound on the measure of each individual two-class witness.
 - [R562 v486](Yin_R_G0562_v486.md#finding) checks the irreducible representatives, every prime of their fourth-logarithmic window, the exact dilation of coefficient costs and the equivalence to the unrestricted gap.
 - [R562 v485](Yin_R_G0562_v485.md#finding) checks the resultant obstruction, the optimal coefficient norm and the exact ordinary degree needed at each cyclotomic conductor.
 - [R562 v484](Yin_R_G0562_v484.md#finding) checks simultaneous elimination of every common root, preservation of both jets and the coefficient bounds for the cyclotomic controls.

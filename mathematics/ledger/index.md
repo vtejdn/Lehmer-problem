@@ -5,6 +5,11 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v233](Yin_L_G0462_v233.md#different) | A powered trace discriminant divides the sum of the two compressed jets | The divisor gives an exact integral norm quotient and a fixed-seed growth rate determined by the ordered conjugate moduli. |
+| [Yin_L_G0462_v232](Yin_L_G0462_v232.md#gcd) | Coprimality and measure over the original seed | A seed polynomial detects all common roots before perturbation. The lifted and seed cofactor measures differ by \(O(ph/n)\) on the two short witnesses. |
+| [Yin_L_G0462_v231](Yin_L_G0462_v231.md#width) | Leading measure at fixed and growing width | For each fixed seed the leading constant is at most \(8e/(6e+1)\) at degree \(4pd\). Growing width attains one with primitive coprime rows. |
+| [Yin_L_G0462_v230](Yin_L_G0462_v230.md#rows) | Five irreducible rows of the six-term family | Every primitive second exponent on five rows gives a single simple noncyclotomic factor or an empty core. The list identifies every empty case. |
+| [Yin_L_G0462_v229](Yin_L_G0462_v229.md#rows) | Four residue classes suffice on irreducible power substitutions | Two short signed diagonals retain the prescribed endpoints, coprimality and independent derivatives, with both reduced traces in the original seed field. |
 | [Yin_L_G0462_v228](Yin_L_G0462_v228.md#resultant) | Resultant bounds for integral multiples and the exact cyclotomic minimum | The largest prime divisor gives the optimal coefficient norm at every conductor, with an exact degree threshold. The resultant lower bound also applies to nontorsion inputs. |
 | [Yin_L_G0462_v227](Yin_L_G0462_v227.md#rows) | Short integer multiples preserve both coprime rows | A family with the exact common divisor gives simultaneous cofactor bounds at fixed span even when the powered polynomial has large angular fluctuations. |
 | [Yin_L_G0462_v226](Yin_L_G0462_v226.md#minimum) | Two primes determine the least rational factor degree independently of the number of factors | With independent alternating actions the absolute degree threshold 81 suffices, even with repeated factor degrees and separate prescribed residue classes. |
