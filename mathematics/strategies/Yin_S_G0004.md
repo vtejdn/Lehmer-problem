@@ -14,9 +14,11 @@ author: Yin
 The S10 child remains paused; its completed comparisons and exact local exclusion are retained at their responsible homes.
 The [current Task discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) replaces former human-imposed strategy priorities and method restrictions.
 Under the [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), S4 initially leads actual integer existence and also develops the structural proof interfaces relating complete measure to intrinsic complexity or integer representation.
-The initial construction focus is a new parent satisfying the full prefix, sign and endpoint conditions, with actual factor production retained as an alternative.
-The proof focus is uniformity beyond fixed transvection count or a genuine extension of the integer-embedding cover.
-These are revisable priorities rather than fixed effort shares or required test sequences; the main researcher may select a better justified method as evidence changes.
+The next construction test uses [Schur defects with zero outer coefficients](../drafts/Yin_D_G0027.md#zero-outer-reversal) at \(q=d^2\).
+For bounded height and trace coefficient \(S=q+1\), first impose exact antisymmetry, test the resulting inhomogeneous coefficient congruences, and apply the [half-degree stability condition](../drafts/Yin_D_G0027.md#reversal-stability) before checking the full polynomial.
+An admissible integer family must still yield positive return measures tending to one.
+The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
+For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
 
 <a id="all-cut-and-d4-feasibility"></a>
 The [adopted all-cut positivity theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) now covers every strict terminal cut for integer \(Q=tB_n+C\) with leading remainder coefficient two.
@@ -793,7 +795,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Initially prioritize actual integer existence alongside structural complexity and integer-embedding proofs; retain factor production and allow autonomous rebalancing within the unrestricted goal. |
+| priority | Test integral Schur defects in the surviving reversal classes, with growing-parent constructions and input-dependent prime selection as alternatives. |
 
 The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

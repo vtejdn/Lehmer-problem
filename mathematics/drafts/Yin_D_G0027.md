@@ -283,12 +283,70 @@ The proof was written with the weaker \(h\le b^2\) bound to keep the cancellatio
 For general bounded \(\chi\), the error \(j\chi/K\) in (17) is \(O(q^{-2})\).
 This is a short arithmetic constraint, but it alone neither bounds \(Z\) nor forces \(\chi=0\).
 
+<a id="zero-outer-reversal"></a>
+## Reversal constraints when both outer coefficients vanish
+
+Let \(H=\max_i|\Delta_i|\), with reversal in the same formal degree \(\ell-1\) even when an outer coefficient vanishes.
+For every integral inverse, reduction of the [elimination congruence](../claims/Yin_C_G0345_v295.md#endpoints) modulo \(g=\gcd(L,N)\) gives
+\[
+                 (1-w)(\Delta^*-q\Delta)\equiv0\pmod g .
+\]
+Here \(q^2\equiv1\pmod g\), and the leading coefficient of \(1-w\) is a unit, so cancellation gives \(\Delta^*\equiv q\Delta\pmod g\).
+Thus \(g\) divides every two-column minor of the matrix whose rows are the coefficient vectors of \(\Delta\) and \(\Delta^*\).
+If \(\Delta\ne0\) and all these minors vanish, then \(\Delta^*=\varepsilon\Delta\) over \(\mathbb Q\), where applying reversal twice gives \(\varepsilon\in\{-1,1\}\).
+A nonzero minor has absolute value at most \(2H^2\).
+
+Now assume \(a=b=0\), \(q=d^2\), and \(\delta\to0\) along actual Pisot inputs.
+The [branch inequalities](../claims/Yin_C_G0345_v293.md#branch) give \(j=o(q)\), so eventually \(0<j<q-1\).
+Here \(v=0\), and \(S=(L/N)(q+t)\) with \(|t|<1\) places the integer \(S\) strictly between \(q-1\) and \(q+2\).
+The first congruence in (2) gives \(L\mid j^2S\), so \(L/h\mid S\), where \(h=\gcd(L,j^2)=\gcd(L,N^2)\).
+Since \(h\le g^2\) by (3) and its proof, we have
+\[
+                    g^2\ge L/S\ge L/(q+1)>q-1 .
+\]
+Thus \(g\ge d\), and any defect outside the two reversal symmetries must have \(H\ge\sqrt{d/2}\).
+This estimate uses no bound on \(c,e\) or on the other interior coefficients.
+
+When \(S=q+1\), put \(k=\gcd(L,q+1)=\gcd(j,q+1)\).
+Then \(L/k\mid j^2\), so \(k\ge L/j^2\to\infty\).
+Since \(k\mid g\) and \(q\equiv-1\pmod k\), the congruence above gives \(\Delta^*\equiv-\Delta\pmod k\).
+As soon as \(2H<k\), this is the exact equality \(\Delta^*=-\Delta\).
+Consequently bounded height on the \(S=q+1\) branch forces this sign for every sufficiently large input.
+
+<a id="reversal-stability"></a>
+## Stability of the even part under exact reversal
+
+Suppose \(B(z)=D(z^2)+zE(z^2)\) is real, monic of degree \(2\ell\) and strictly stable, and \(E^*=\varepsilon E\) in formal degree \(\ell-1\), with \(\varepsilon\in\{-1,1\}\).
+Then \(D\) is strictly stable.
+The preceding reversal constraint on \(\Delta\) supplies the same symmetry of \(E=(q\Delta-\Delta^*)/K\).
+
+To see the role of the symmetry, write \(G(z)=|B(z)|^2-|B^*(z)|^2\).
+For each root \(\alpha\) of \(B\),
+\[
+       |z-\alpha|^2-|1-\overline\alpha z|^2
+                         =(|z|^2-1)(1-|\alpha|^2).
+\]
+Multiplying the factor inequalities gives \(G(z)>0\) for \(|z|>1\).
+In each unit direction \(\zeta\), the derivative of \(G(r\zeta)\) at \(r=1\) is strictly positive by the product rule, since the factors there have equal positive squared moduli and each difference has positive derivative.
+The parity decomposition of \(B^*\) is \(D^*(z^2)+zE^*(z^2)\).
+Averaging at \(z\) and \(-z\) cancels the mixed terms, and \(|E^*|=|E|\) gives
+\[
+            \frac{G(z)+G(-z)}2=|D(z^2)|^2-|D^*(z^2)|^2 .
+\]
+Positivity outside the disk excludes every exterior zero of \(D\).
+If \(D(\zeta^2)=0\) for \(|\zeta|=1\), then also \(D^*(\zeta^2)=0\), and both squared moduli on the right vanish to at least second order along \(z=r\zeta\).
+This contradicts the positive radial derivative on the left, proving strict stability.
+
+For a nonzero symmetric or antisymmetric defect, this gives a necessary stability test at half the degree.
+The [full inverse congruence](../claims/Yin_C_G0345_v295.md#parity) still has the term \(w\Delta\), which is absent from the [even-descendant gap](../claims/Yin_C_G0345_v294.md#coefficient-model).
+It remains to decide whether a nonzero defect of either surviving sign can satisfy that congruence and the strict stability of the whole \(B\) along a shrinking sequence.
+
 <a id="remaining"></a>
 ## Remaining escape patterns
 
-The exclusions concern actual inputs with uniformly bounded fringe coefficients at the prescribed scale \(q=d^2\).
-They show that arbitrarily large interior coefficients cannot rescue either of the two stated fringe patterns.
-They leave, among other possibilities, both outer fringe coefficients zero, both nonzero, or \(a=0\), \(b\ne0\), \(c\ne0\).
-Unbounded fringe coefficients are also outside the hypotheses.
+At the prescribed scale \(q=d^2\), the first two exclusions allow arbitrary interior coefficients while requiring bounded \(a,b,c,e\).
+With both outer coefficients zero, the [height and reversal constraints](#zero-outer-reversal) restrict the surviving inputs and give the [half-degree stability test](#reversal-stability) in the two exact symmetry classes.
+Other open patterns include both outer coefficients nonzero and \(a=0\), \(b\ne0\), \(c\ne0\).
+In the zero-outer case, it is the height of the full defect that determines when the reversal congruence forces exact symmetry.
 The relations \(b=\pm a\) and \(ae=bc\) identify specific arithmetic degeneracies worth testing; their occurrence is not asserted to produce a stable input.
 No quantitative positive gap for the full unrestricted model, stable construction, or new Salem output is established here.
