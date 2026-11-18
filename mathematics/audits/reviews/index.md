@@ -1,5 +1,8 @@
 # Reviews Index
 
+- [R562 v449](Yin_R_G0562_v449.md#finding) independently verifies all 432 power witnesses, all 485 degree-compatible exclusions, and the 39 certificates for composite trace degrees. It checks the rational-transform conclusion against the complete output range.
+- [R562 v448](Yin_R_G0562_v448.md#finding) checks the quantitative height and width bounds for sparse relations, the allowable torsion order and sharpness of the relative-height bound when the effective support stays bounded.
+- [R562 v447](Yin_R_G0562_v447.md#finding) checks the quadratic extensions of a Salem trace field, the degree bound for independent bounded outputs, and the distinct minima for rational and integral changes of trace.
 - [R562 v446](Yin_R_G0562_v446.md#finding) checks the sharp norm threshold for integral trace polynomials, both bounds on gaps between retained Salem angles and the resulting degree bounds for admissible transformations.
 - [R562 v445](Yin_R_G0562_v445.md#finding) verifies all 72 least exponents and 105 residue-order weights independently, including the minimum admissible value in degrees through 44.
 - [R562 v444](Yin_R_G0562_v444.md#finding) checks the classification of all powers of a Salem input admitting half mass, both sharp least-exponent bounds and the entropy cost for varying inputs.

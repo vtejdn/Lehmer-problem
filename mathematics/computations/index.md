@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J174](programs/Yin_J_G0174/readme.md#powers) certifies that all 72 Salem inputs are primitive and that their [trace fields](programs/Yin_J_G0174/readme.md#subfields) have no proper intermediate fields. Distinct listed trace fields intersect in the rationals, ruling out every [change to a different Salem output below 1.3](programs/Yin_J_G0174/readme.md#transforms) for listed inputs of degree at most 44.
+
 - [J173](programs/Yin_J_G0173/readme.md#exponents) computes the first admissible power of each of Mossinghoff's 72 small Salem numbers. The [degree-44 minimum](programs/Yin_J_G0173/readme.md#window) is the rank-14 Salem number, approximately 1.253330650201.
 
 - [J172](programs/Yin_J_G0172/readme.md#orbits) checks all 28 remaining finite characteristics through 131 for odd powers in the cubic family. The maximum sum of eligible residual orbit degrees is four.

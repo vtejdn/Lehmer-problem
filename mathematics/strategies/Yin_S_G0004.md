@@ -45,6 +45,10 @@ The [sharp examples](../claims/Yin_C_G0345_v392.md#sharp) can require exponentia
 In Mossinghoff's [complete range below 1.3 through degree 44](../computations/programs/Yin_J_G0173/readme.md#window), the smallest admissible powered value is the rank-14 number, approximately 1.253330650201.
 For larger degrees, an [integral change of trace](../ledger/Yin_L_G0462_v203.md#powers) of degree smaller than a fixed constant times \(\sqrt{d/\log d}\) only gives the corresponding power when the Salem input is at most two.
 Use the [test on the actual conjugate angles](../ledger/Yin_L_G0462_v203.md#mesh) to discard further degrees for a specified input before searching for a different Salem factor.
+For bounded Salem inputs and outputs, even a rational function of unrestricted degree can only give a power of the field's least Salem generator when the input degree is sufficiently large and its trace field has no proper intermediate field.
+To obtain a multiplicatively independent bounded output from a trace in the same field, look for an [intermediate field of sufficiently large index](../ledger/Yin_L_G0462_v204.md#fields).
+For commensurable outputs, the [trace order calculation](../ledger/Yin_L_G0462_v204.md#integral) distinguishes exactly which admissible powers an integral polynomial can reach.
+For every listed input of degree at most 44, the [field certificates and the catalogue's complete output range](../computations/programs/Yin_J_G0174/readme.md#transforms) exclude every different Salem output below 1.3, even for rational trace functions.
 For independent supply, the [exterior-pair partition](../ledger/Yin_L_G0462_v169.md#partition) identifies the factorization problem on the two-exponent cubic family.
 The [individual measure degree](../ledger/Yin_L_G0462_v183.md#criterion) recovers the allocation exactly when the exponent ratio grows.
 The [sextic specialization](../ledger/Yin_L_G0462_v183.md#sextic) exhibits the relevant exterior product and verifies its degree by reduction at two primes.

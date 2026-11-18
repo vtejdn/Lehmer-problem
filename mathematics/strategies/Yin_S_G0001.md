@@ -34,6 +34,9 @@ Other routes remain available for autonomous reassessment; their current priorit
 
 In the Salem construction, the [degree bound for integral changes of trace](../ledger/Yin_L_G0462_v203.md#returns) identifies when every least-degree admissible change is already the least admissible power.
 The [72 exact examples](../computations/programs/Yin_J_G0173/readme.md#exponents) supply finite comparisons when investigating how the least exponent behaves near one in higher degrees.
+All 72 inputs are [primitive in their Salem fields](../computations/programs/Yin_J_G0174/readme.md#powers), and a rational change of trace cannot carry one listed input to a different one.
+For a new bounded Salem output from a high-degree trace field, the [index bound](../ledger/Yin_L_G0462_v204.md#fields) directs the search for independent outputs to trace fields with large proper intermediate-field index.
+For relations among inputs from different fields, compare their actual exponent widths and the proportion of off-circle embeddings using the [quantitative relation bound](../claims/Yin_C_G0345_v393.md#salem).
 
 For the proof direction, two separate questions remain even when the cyclotomic multiplier may have arbitrary degree.
 First, determine which growing primes permit a fixed number of residue classes on varying inputs of small positive measure.

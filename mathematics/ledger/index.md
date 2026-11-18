@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v204](Yin_L_G0462_v204.md#fields) | Salem outputs in a fixed trace field | Independent bounded outputs require a large index for the output trace field. For commensurable outputs, a finite congruence computes the least admissible power represented by an integral polynomial. |
 | [Yin_L_G0462_v203](Yin_L_G0462_v203.md#powers) | Integral transformations between Salem traces | A sufficiently low-degree transformation must give the corresponding power of the input. The actual neutral angles give a finite test, and bounded interval norm raises the necessary degree for any other transformation. |
 | [Yin_L_G0462_v202](Yin_L_G0462_v202.md#clustering) | Maximal rank and the six-term case | At maximal rank the entire restricted parent is a signed sum of opposite pairs and remains absolutely irreducible under all isogenies. A shrinking factor in any flat six-term parent forces two clusters of three exponents. |
 | [Yin_L_G0462_v201](Yin_L_G0462_v201.md#atoms) | The location of correcting mass at a fixed Salem input | Integral Laurent tests on torsion atoms give a circle-norm lower bound and a sharper explicit quartic example. |
