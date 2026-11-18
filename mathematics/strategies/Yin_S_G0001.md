@@ -104,7 +104,7 @@ For a rational candidate of degree \(2n\) with \(j\) known integral leading coef
 The next construction question is whether the small exterior logarithm can persist up to this window while the full polynomial remains irreducible.
 If only rational norms of the values are available, use the [prime norm thresholds](../claims/Yin_C_G0345_v284.md#statement).
 For actual integral Salem inputs, the [sub-plastic family](../claims/Yin_C_G0345_v286.md#statement) has zero finite valuations throughout simultaneous order and prime windows of logarithmic degree size.
-It also satisfies any prescribed finite list of [local polynomial congruences](../claims/Yin_C_G0345_v286.md#finite-data), including repeated testing factors.
+For any finite list of integers \(A_i\ge2\) and monic polynomials \(G_i\in\mathbb Z[z]\) of positive degree with \(\gcd(A_i,G_i(0))=1\), arbitrarily large \(h\) satisfy [\(P_h\equiv1\bmod (A_i,G_i)\) for every \(i\)](../claims/Yin_C_G0345_v286.md#finite-data), including when the testing polynomials have repeated factors.
 Its measures tend to the plastic number from below.
 The prime-order inquiry must therefore address input-dependent growing places or additional restrictions confined to smaller measures when seeking positive local contributions.
 The same family has [full splitting fields unramified at the selected primes](../claims/Yin_C_G0345_v287.md#statement), with an explicit logarithmic degree window.
@@ -297,9 +297,11 @@ The [ten-polynomial certificate](../claims/Yin_C_G0893_v2.md#decision-arithmetic
 The [complete finite search](../computations/programs/Yin_J_G0155/versions/v4/readme.md#exclusion) excludes matching the coefficient of \(z^8\) at every odd conductor through 107.
 The [rational-root obstruction](../ledger/Yin_L_G0464_v28.md#rational-factor) excludes rational roots of the canonical polynomial in the transition gap already at the fourth coefficient for every conductor.
 For a hypothetical shrinking sequence the [small-factor estimates](../claims/Yin_C_G0895_v2.md#statement) bound the complete measure of low-degree factors of the representative and of suitable factors in the quotient order.
-If all the irreducible factors responsible for changes of sign have only real roots, their [total degree divided by \(\sqrt{p/\log p}\) must diverge](../claims/Yin_C_G0896_v1.md#decision-totally-real-cut-degree-reviewed) already at the fourth coefficient.
+For the strict cut matching the fourth coefficient, let \(G\) be the product of all distinct irreducible factors of \(h\) that occur with odd multiplicity and have a root in \((-2,2)\).
+If every root of \(G\) is real, then [\(\deg G/\sqrt{p/\log p}\) tends to infinity](../claims/Yin_C_G0896_v1.md#decision-totally-real-cut-degree-reviewed) as the conductor \(p\) grows.
 
-The [three cubic inputs](../ledger/Yin_L_G0464_v31.md#cubic-chamber) realize the third coefficient at every odd conductor from nine onward, whereas the [fourth-coefficient certificate](../claims/Yin_C_G0896_v2.md#decision-cubic-prediction-exclusion-reviewed) excludes a cubic sign factor with nonreal conjugates at every conductor.
+At every conductor, the [fourth-coefficient certificate](../claims/Yin_C_G0896_v2.md#decision-cubic-prediction-exclusion-reviewed) excludes the case in which \(G\) itself is cubic and has a nonreal root.
+The [three cubic inputs](../ledger/Yin_L_G0464_v31.md#cubic-chamber) realize the third coefficient at every odd conductor from nine onward.
 On unbounded grids the auxiliary polynomial itself eventually has [degree at least six](../ledger/Yin_L_G0464_v31.md#fourth-degree).
 
 An earlier independent strategic-discovery comparison screened the following alternatives.
