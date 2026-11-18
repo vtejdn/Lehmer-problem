@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v354](Yin_R_G0562_v354.md#bounded-witness-review) checks polynomial-degree cyclotomic witnesses with unchanged occupied rows, and the prime bound in terms of the original degree.
+- [R562 v353](Yin_R_G0562_v353.md#cyclic-angular-derivative-review) checks angular speed, phase multiplicities, the derivative resultant on mixed fibers and the effective offset of a two-row graph.
+- [R562 v352](Yin_R_G0562_v352.md#carrier-density-review) checks the density of terms in the carrier's support lattice and the finite degree and measure bounds on admissible primes.
+- [R562 v351](Yin_R_G0562_v351.md#support-lattice-torsion-review) checks the cyclotomic multiplicity bound after support-lattice normalization for unrestricted rank-two rational irreducibles.
 - [R562 v350](Yin_R_G0562_v350.md#diagonal-torsion-area-review) checks the multiplicity bound from three conjugates, the two-row benchmark at primes at least 17, and the independent rank calculation completing the four-class bound at 29.
 - [R562 v349](Yin_R_G0562_v349.md#p53-review) reproduces the ranks at 53 by exact maximal minors and verifies the exclusion of fewer than four residue classes for every prime at least 53.
 - [R562 v348](Yin_R_G0562_v348.md#finite-padding-review) checks the finite search for unrestricted cyclotomic multipliers, integral collisions, and the prime bound for two or three classes.

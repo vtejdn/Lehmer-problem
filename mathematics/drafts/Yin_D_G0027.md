@@ -379,6 +379,98 @@ On its prescribed line \((x_i,y_i)=t(W/k,S/k)\), \(k=\gcd(L,S)\), the next pair 
 This supplies an inhomogeneous restriction on the second pair with no size assumption on deeper coefficients.
 The existence of a full integral, strictly stable descendant satisfying the two consecutive conditions remains open.
 
+<a id="occupied-runs"></a>
+## Arithmetic restrictions on a run of occupied pairs
+
+Under the hypotheses of the [isolated-pair calculation](#isolated-pair), let \(a,\ldots,b\) be a maximal run of nonzero pairs, with zero pairs at \(a-1,b+1\).
+Put \(n=b-a\), \(g=\gcd(L,N)\), \(h=\gcd(L,N^2)\), \(m=h/g\), and
+\[
+ X(w)=\sum_{t=0}^n x_{a+t}w^t,\qquad Y(w)=\sum_{t=0}^n y_{a+t}w^t,\qquad
+ H=\max_{0\le t\le n} \max(|x_{a+t}|,|y_{a+t}|).
+\]
+The expressions below apply to a run in the full index list \(0,\ldots,\ell-1\).
+If a run crosses the center, the two rows satisfy \(Y=w^nX(1/w)\), so each repeated coefficient retains this constraint.
+The following arguments require no independence of the rows.
+The congruences at \(a,\ldots,b+1\) from the isolated-pair calculation depend only on two neighboring pairs at a time.
+The two flanking zeros therefore give the polynomial congruences
+\[
+ \begin{aligned}
+  (q^2-w)Y-q(1-w)X&\equiv0\pmod h,\\
+  (q^2w-1)X+q(1-w)Y&\equiv0\pmod h .
+ \end{aligned}                                                     \tag{19}
+\]
+Here the coefficients at the two ends of (19) include both interfaces with the neighboring zeros.
+
+If each end pair has height below \(L/(S+|W|)\), those end pairs are nonzero integer multiples of \((W/k,S/k)\) and \((S/k,W/k)\), respectively, where \(k=\gcd(L,S)\).
+Indeed \(L\mid U_a\) and \(L\mid V_b\) from the two flanking zeros, and the height bound makes each divisible quantity zero.
+The two directions are linearly independent since \(|W|<S\).
+Every adjacent determinant \(x_t y_{t+1}-y_t x_{t+1}\) is divisible by \(g\), since \(y_t\equiv qx_t\pmod g\).
+At least one such determinant must be nonzero, since otherwise all nonzero vectors in the consecutive run would be collinear.
+Thus a run with two small end pairs has an adjacent determinant of absolute value at least \(g\ge d\), independently of the heights in its interior.
+
+At \(w=-1\) the two relations (19), using the negative of the second, become \((q^2+1)Y-2qX\equiv(q^2+1)X-2qY\equiv0\pmod h\), with \(X,Y\) evaluated at \(-1\).
+Define \(h_+=\gcd(h,(q-1)^2)\) and \(h_-=\gcd(h,(q+1)^2)\).
+Since \(q=d^2\) is even and \(h\mid (q^2-1)^2\), these two numbers are coprime and have product \(h\).
+Addition and subtraction give
+\[
+       h_-\mid X(-1)+Y(-1),\qquad h_+\mid Y(-1)-X(-1).
+\]
+If the two alternating sums have unequal absolute values, their squared difference has absolute value at least \(h\), and therefore \((n+1)H\ge\sqrt h\).
+On a central run the formal reversal already gives equality of those absolute values, so this last height test supplies information only on other runs.
+
+<a id="run-resultant"></a>
+## A common factor or a lower bound on run height
+
+For \(n\ge1\), the formal-degree resultant of the two integer rows in (19) satisfies
+\[
+                     g h^{n-1}\mid \operatorname{Res}_{n,n}(X,Y).   \tag{20}
+\]
+Consequently, if the rows are coprime in \(\mathbb Q[w]\), then
+\[
+               H\ge\frac{(g h^{n-1})^{1/(2n)}}{\sqrt{n+1}}.         \tag{21}
+\]
+At least one row has degree exactly \(n\) because the last pair is occupied, so a zero formal resultant here means a common polynomial factor of positive degree when both rows are nonzero.
+If one row vanishes identically, the other has degree \(n\) and itself supplies that common factor.
+On a central run this possibility is the presence of a common factor of \(X\) and its reversal.
+
+To see (20), use the integral coefficients of \(R=(Y-qX)/g\) and write \(u=N/g\).
+Dividing the first congruence in (19) by \(g\) gives
+\[
+                        (q^2-w)R+quX\equiv0\pmod m .
+\]
+Here \(\gcd(qu,m)=1\), since every prime dividing \(m\) occurs in \(L\) to higher order than in \(N\), and consequently has its full \(N\)-power in \(g\).
+Evaluation at \(q^2\) gives \(m\mid X(q^2)\).
+Set \(Q=(X(w)-X(q^2))/(w-q^2)\in\mathbb Z[w]\), of degree at most \(n-1\) if nonzero.
+Then \(X\equiv(w-q^2)Q\) and \(R\equiv quQ\pmod m\), by cancellation of the monic factor \(w-q^2\).
+
+Apply the [Sylvester matrix divisibility argument](../claims/Yin_C_G0345_v294.md#divisibility) to \(X,R\), using formal degree \(n\) for each.
+Their Sylvester matrix is congruent modulo \(m\) to that of \((w-q^2)Q,quQ\).
+The latter matrix has rank at most \(n+1\) over \(\mathbb Q\), since its image in the coefficient representation consists of multiples of \(Q\) by polynomials of degree at most \(n\).
+Multilinearity of the determinant then gives \(m^{n-1}\mid\operatorname{Res}_{n,n}(X,R)\).
+Replacing \(Y\) by \(Y-qX=gR\) in the Sylvester matrix gives the additional factor \(g^n\) in (20).
+Each row norm is at most \(\sqrt{n+1}H\) in the matrix for \(X,Y\), so Hadamard's inequality gives (21).
+For example, when \(S=q\) and the first pair of the run lies on the line in the [two-trace calculation](../claims/Yin_C_G0345_v346.md#traces), we have \(h\ge L/k>q^{4/3}\) from \(\lambda=L/k=q\beta+\nu\), \(\lambda\mid j^2\), and \(\beta>q^{1/3}\).
+Since \(g^2\ge h\), every such coprime block has \(H>q^{2/3-1/(3n)}/\sqrt{n+1}\).
+
+<a id="two-pair-modulus"></a>
+## Exact modulus for a run of two small pairs
+
+Consider \(b=a+1\) with both pairs of height below \(L/(S+|W|)\).
+Set \(\lambda=L/k\), \(e=h/\lambda\), \(s=S/k\) and \(\mu=\lambda/\gcd(\lambda,N)\).
+Here \(\lambda\mid j^2\) follows from \(L\mid S j^2\) and \(\gcd(\lambda,s)=1\), so \(\lambda\mid h\).
+The two pairs have the form \(A(W/k,s)\) and \(B(s,W/k)\) for nonzero integers \(A,B\).
+In this representation the local elimination conditions (19) are equivalent to
+\[
+             A=eA',\qquad B=eB',\qquad B'\equiv-qA'\pmod{\mu}.
+\]
+Indeed, at the ends (19) requires \(h\mid A\lambda,B\lambda\).
+In the middle its two conditions are \(h\mid(qB+A)F,(B+qA)F\), where \(F=(qW-S)/k=Ns-q\lambda\).
+After canceling \(e\), the remaining modulus is \(\lambda/\gcd(\lambda,F)=\mu\).
+Since \(\lambda\mid N^2\), one has \(\mu\mid N\), so the two middle conditions are equivalent.
+If the two-pair run crosses the center, reversal also forces \(A=B\).
+These tests concern necessary consequences of the integral inverse.
+Whether a run with these coefficients extends to the full inverse congruence modulo \(L\) and a strictly stable \(B(z)\) remains open.
+
 <a id="remaining"></a>
 ## Remaining escape patterns
 

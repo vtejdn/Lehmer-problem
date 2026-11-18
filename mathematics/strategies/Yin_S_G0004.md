@@ -17,6 +17,8 @@ Under the [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), S4 initiall
 At \(q=d^2\) the [first-pair bound](../claims/Yin_C_G0345_v346.md#statement) excludes a shrinking Pisot excess when both outer defect coefficients vanish and the first occupied pair has bounded height.
 For a first pair of sublinear height in \(q\), the [next pair must be occupied and satisfy an explicit congruence](../drafts/Yin_D_G0027.md#isolated-pair).
 Test that congruence together with the integral inverse and full Schur stability.
+On a consecutive run flanked by zeros, the [two local coefficient polynomials](../drafts/Yin_D_G0027.md#run-resultant) must share a factor if their heights fall below the resultant bound.
+Test whether such a common factor is compatible with the remaining inverse congruences and strict stability.
 For exactly symmetric or antisymmetric defects, use the lower bound on their content and the [half-degree stability condition](../drafts/Yin_D_G0027.md#reversal-stability).
 The [paired coefficient identities](../drafts/Yin_D_G0027.md#paired-coefficients) give a separate test when both outer coefficients are nonzero.
 An admissible integer family must still yield positive return measures tending to one.

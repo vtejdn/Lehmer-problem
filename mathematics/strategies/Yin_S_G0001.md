@@ -26,7 +26,7 @@ Other routes remain available for autonomous reassessment; their current priorit
 | Arithmetic alternative | Select a prime using the input and bound the part of the trace resultant realized by one integer root at each rational prime. | In the [dyadic example](../claims/Yin_C_G0899_v8.md#statement) the entire resultant grows at the correct exponential rate while the largest common integer modulus is one. Test a degree-one contribution in a strict small-measure shell before expanding this route. |
 | Construction and existence inquiry, coordinated with S4 | Seek integer inputs with a growing prefix and a normalized residue distribution compatible with both the marginal and ordered tests. | A construction has to pass the [positive-measure interface](../claims/Yin_C_G0881_v10.md#statement) and the [positive-density excursions above four](../claims/Yin_C_G0898_v1.md#threshold). |
 | Alternate Salem inquiry | Test whether the large alternating group required at level minus one rules out a strict descent with a second exterior pair as the input tends to one. | Such a descent [occurs in degree sixteen](../claims/Yin_C_G0345_v141.md#statement). Along any shrinking sequence its trace group must have an [alternating composition factor of growing degree](../claims/Yin_C_G0345_v133.md#statement), and [fixed nonreciprocal Pisot seeds](../claims/Yin_C_G0345_v135.md#fixed-seed) exclude it at large delays. |
-| Primary proof inquiry | For a shrinking sequence, seek a growing prime and a cyclotomic multiple with few occupied classes, then bound the contribution from unit-circle roots of the factor carrying the original polynomial. | The [factor theorem](../claims/Yin_C_G0345_v347.md#statement) isolates that contribution. The [finite test](../claims/Yin_C_G0345_v348.md#statement) checks the existence of a representation for each specified input and sufficiently large prime. |
+| Primary proof inquiry | For a shrinking sequence of original degree \(D\), seek a fixed-count representation at primes exceeding the [polylogarithmic range](../claims/Yin_C_G0345_v353.md#prime), or control neutral phases more tightly inside that range. | The [angular derivative bound](../claims/Yin_C_G0345_v352.md#statement) works on mixed fibers. The [bounded multiplier](../claims/Yin_C_G0345_v353.md#compression) returns its degree cost to the original input. |
 | Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer representation. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the remaining triality and divisibility cases in [C886v5](../claims/Yin_C_G0886_v5.md#statement). |
 | Alternative construction inquiry | Actual factor production or another mechanism changing the noncyclotomic core. | Seek the actual sublinear-degree factors in [L450v5](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion), or another explicit return to the unrestricted contract. |
 | Computational support, S10 | Bounded diagnostics tied to a distinguishable supply or complete-exterior-cost mechanism. | Compare distinct noncyclotomic cores and measure values, retaining all exterior roots and the actual integer support; known-core recovery alone is not the discovery objective. |
@@ -39,8 +39,11 @@ Where a representation remains possible, the [degree and coefficient tests](../c
 The [intersection bound on the original diagonal](../claims/Yin_C_G0345_v349.md#statement) gives \(p\le\deg P+20\) for two or three classes and \(p\le\deg P+9\) for two classes.
 For the degree-ten Lehmer polynomial, the [exact ranks at 29](../computations/programs/Yin_J_G0167/readme.md#p29) rule out three classes there, so any cyclotomic multiple occupies at least four classes at every prime \(p\ge29\).
 At two classes, the [integer seed test](../ledger/Yin_L_G0462_v148.md#lehmer) excludes every prime \(p\ge17\).
-Use varying families to identify a property that follows from small measure and forces a representation at some admissible prime.
-Second, on such a representation, bound the [integrated loss near phase coincidences](../claims/Yin_C_G0345_v345.md#consequence) on the actual factor carrying the input.
+For a fixed number \(k\) of classes, the [bounded-witness theorem](../claims/Yin_C_G0345_v353.md#statement) now forces \(p\ll_k(\log(2D))^{\lfloor k/2\rfloor}\) along a shrinking sequence, even when the initial multiplier has arbitrary degree.
+A proof that every such sequence supplies a representation above this scale on a subsequence would give a contradiction.
+Within the remaining range, determine when the [angular derivative resultant](../claims/Yin_C_G0345_v352.md#resultant) compensates for the degree of the diagonal.
+For two classes the [explicit seed formula](../claims/Yin_C_G0345_v352.md#two) identifies both the derivative polynomial and the actual offset at which to test this possibility.
+The [carrier lattice and degree estimates](../claims/Yin_C_G0345_v351.md#statement) separately restrict the primes when the support differences of the factor generate a sublattice of large index.
 For three rows the [middle coefficient test](../claims/Yin_C_G0345_v344.md#lift) locates the arcs with two unit roots.
 The cost of the discarded cyclotomic factors is [exact](../claims/Yin_C_G0345_v347.md#loss), so they can be removed before estimating these phases.
 When sparse common multiples exist, the earlier [term-count comparison](../claims/Yin_C_G0345_v343.md#statement) still transfers the gap directly, as in the [dense Salem family](../ledger/Yin_L_G0462_v146.md#four-rows).
@@ -1888,7 +1891,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test prime-residue coverage and the unit-root phase loss on the factor carrying the original polynomial, and test growing Schur defect coefficients against the integral inverse. |
+| priority | Test fixed-count coverage above the original-degree prime bound and angular derivative resultants inside it, alongside full integral Schur constructions. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

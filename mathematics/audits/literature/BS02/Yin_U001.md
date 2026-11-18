@@ -33,3 +33,14 @@ Beukers and Smyth identify the right side with twice the mixed volume in their c
 Their special case assumes that \(g\) has the same support as \(f(x^k,y^k)\) for a positive integer \(k\).
 Then \(Q=kP\), so the mixed area is \(((1+k)^2-1-k^2)V(P)=2kV(P)\).
 The 2026-11-18 inspection covered the lemma and both paragraphs of its proof in the author edition.
+
+<a id="support-lattice"></a>
+## Exponent lattices and sign changes
+
+In the [author edition](readme.md#editions), Section 3.4, pp. 4–5, treats an irreducible rational Laurent polynomial whose support differences generate \(\mathbb Z^2\).
+The four separate sign changes in its two coordinates are pairwise nonassociate, since invariance up to a scalar would place all support differences in a proper parity sublattice.
+If the original polynomial divided one of its signed coordinate-square transforms, all four sign changes would divide that transform, contrary to its degree.
+Section 3.7, p. 6, uses monomials attached to a basis of the exponent lattice to reduce a rank-two polynomial to full lattice.
+For the count of all torsion points the covering degree is the index of that lattice.
+These passages were checked against the retained edition on 2026-11-18.
+Restricting to a single parametrized subtorus requires a separate count of the power substitution on its parameter.
