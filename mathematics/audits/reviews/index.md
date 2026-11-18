@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v533](Yin_R_G0562_v533.md#finding) checks the fixed-sign one-polynomial criterion and the computable width attaining the Lehmer infimum.
+
+- [R562 v532](Yin_R_G0562_v532.md#finding) checks the residual descent, its exceptional cases and the height constraint on both octic congruences.
+
+- [R562 v531](Yin_R_G0562_v531.md#finding) checks the residue blocks, bounds and explicit dyadic quartic family.
+
+- [R562 v530](Yin_R_G0562_v530.md#finding) checks the signed endpoint indices, the two congruence minima and the octic calculation at seventeen.
+
 - [R562 v529](Yin_R_G0562_v529.md#finding) independently recomputes all 53 uncapped octic minima at width nine, including the sole cutoff hit at 17.
 
 - [R562 v528](Yin_R_G0562_v528.md#finding) checks the eventual prime congruence test, the finite-cover dichotomy and the exclusion subsequence for a growing degree budget.

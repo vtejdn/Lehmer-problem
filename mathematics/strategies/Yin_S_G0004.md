@@ -170,9 +170,13 @@ At width eight the [octic census](../computations/programs/Yin_J_G0178/versions/
 The [exact least cost rate](../claims/Yin_C_G0345_v413.md#octic) for that octic is \(8\log\rho>\log2\), giving the full exclusion through eight.
 For independent inverse pairs the [exact equal-width rate](../claims/Yin_C_G0345_v414.md#statement) is at least \((e/2+1)m(P)\), and is \(e\log\rho\) for a Salem seed.
 With dependent inverse pairs, the [calculation on their actual torus](../ledger/Yin_L_G0462_v257.md#height) gives a rate for each noncolliding exponent class.
-Seek growing-degree control of the common factors in that calculation.
+For a [power substitution](../ledger/Yin_L_G0462_v259.md#blocks), one primitive residue block determines the exact equal-width cost.
+Look for comparable decompositions when conjugate relations do not come from a power substitution.
 At width \(e+1\) the [plane construction](../ledger/Yin_L_G0462_v256.md#next) already reduces the genuine upper rate to \((F(P)+m(P))/2\).
-Seek a matching lower constraint on two compatible short signed vectors, starting from the [octic plane](../ledger/Yin_L_G0462_v255.md#bounds) whose cutoff candidate at each sign lies on a single rational line.
+The [endpoint congruences](../ledger/Yin_L_G0462_v258.md#indices) have indices with greatest common divisor dividing four and give the two shortest-vector costs.
+For the octic, a [quadratic residual with large primitive measure](../ledger/Yin_L_G0462_v260.md#octic) links the two solutions through their product ratio.
+The available upper bound on this height still exceeds its forced lower bound.
+Compare prime divisors of the two products to determine whether cancellation in that ratio rules out the simultaneous continued-fraction jumps.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

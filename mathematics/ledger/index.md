@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v260](Yin_L_G0462_v260.md#descent) | Descent through a residual quadratic | The primitive residual of a passing width-nine octic has measure growing linearly in the exponent. |
+| [Yin_L_G0462_v259](Yin_L_G0462_v259.md#blocks) | Irreducible power substitutions | An exact residue-block minimum and uniform quartic estimates apply even as the dilation grows. |
+| [Yin_L_G0462_v258](Yin_L_G0462_v258.md#congruences) | Two short vectors at the next width | Endpoint congruences determine the cost up to subexponential factors and force two continued-fraction jumps in the octic. |
 | [Yin_L_G0462_v257](Yin_L_G0462_v257.md#progressions) | Equal-width cutoff for dependent inverse pairs | Root relations determine exponent classes. The two reduced signed vectors decide eventual qualification on each class. |
 | [Yin_L_G0462_v256](Yin_L_G0462_v256.md#volume) | Signed lattice volumes at every fixed width | An exact product of successive minima for independent inverse pairs, a smaller genuine upper cost at the next width and the exact quadratic-seed width-three rate. |
 | [Yin_L_G0462_v255](Yin_L_G0462_v255.md#plane) | The octic at width nine | Both lattice areas have rate nine times the seed measure. A genuine pair below the cutoff is confined to one rational direction at each sign. |
