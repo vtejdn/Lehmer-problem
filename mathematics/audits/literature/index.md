@@ -78,6 +78,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Con26g](Con26g/readme.md) | [Yin_U001](Con26g/Yin_U001.md#con26g-u001) |
 | [DC23](DC23/readme.md) | [Yin_U001](DC23/Yin_U001.md) |
 | [DDK19](DDK19/readme.md) | [Yin_U001](DDK19/Yin_U001.md#sine-signatures) |
+| [DFV13](DFV13/readme.md) | [The reciprocal-block hypothesis in the gap theorem](DFV13/Yin_U001.md#dfv13-u001) |
 | [DGB16](DGB16/readme.md) | [Yin_U001](DGB16/Yin_U001.md), [Yin_U002](DGB16/Yin_U002.md), [Yin_U003](DGB16/Yin_U003.md), [Yin_U004](DGB16/Yin_U004.md) |
 | [DGT20](DGT20/readme.md) | Source and edition notes |
 | [DJ20](DJ20/readme.md) | [Yin_U001](DJ20/Yin_U001.md) |
@@ -248,6 +249,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Reu96](Reu96/readme.md) | [Yin_U001](Reu96/Yin_U001.md), [Yin_U002](Reu96/Yin_U002.md), [Yin_U003](Reu96/Yin_U003.md), [Yin_U004](Reu96/Yin_U004.md), [Yin_U005](Reu96/Yin_U005.md), [Yin_U006](Reu96/Yin_U006.md) |
 | [Rib12](Rib12/readme.md) | [Yin_U001](Rib12/Yin_U001.md) |
 | [Rum13](Rum13/readme.md) | [Yin_U001](Rum13/Yin_U001.md) |
+| [Rup99](Rup99/readme.md) | [Absolute irreducibility at sufficiently large primes](Rup99/Yin_U001.md#rup99-u001) |
 | [SEMR21](SEMR21/readme.md) | [Yin_U001](SEMR21/Yin_U001.md#semr21-u001): nearest-reference coefficient restoration and its finite experimental scope |
 | [SSS18](SSS18/readme.md) | Source and edition notes |
 | [SW91](SW91/readme.md) | Source and edition notes |
@@ -297,6 +299,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Vav18](Vav18/readme.md) | Source and edition notes |
 | [VG19](VG19/readme.md) | [Yin_U001](VG19/Yin_U001.md#vg19-u001): bounded proof-claim inspection and independently checked local gaps |
 | [Voi98](Voi98/readme.md) | [Yin_U001](Voi98/Yin_U001.md) |
+| [Vol99](Vol99/readme.md) | [Frobenius correction for a plane curve](Vol99/Yin_U001.md#vol99-u001) |
 | [Vou96](Vou96/readme.md) | [Explicit lower bounds for logarithmic Mahler measure](Vou96/Yin_U001.md#height) |
 | [Wal18](Wal18/readme.md) | [Yin_U001](Wal18/Yin_U001.md) |
 | [War05](War05/readme.md) | [Yin_U001](War05/Yin_U001.md) |

@@ -36,7 +36,9 @@ With unrestricted padding, the [even grid](../ledger/Yin_L_G0462_v179.md#half) a
 The [odd grid](../ledger/Yin_L_G0462_v181.md#central) prescribes equal residues at the nonzero grid points and computes the least attainable central correction for every fixed Salem input.
 The correction vanishes if four divides the constant and tends to zero if its absolute value grows.
 For any fixed Salem trace polynomial \(Q_0\) with odd constant, [integer moments](../ledger/Yin_L_G0462_v184.md#fixed) force excess branch mass at least \(1/(2\max_{[-2,2]}|Q_0|)\) on every grid.
-Test the remaining fixed case \(Q_0(0)\equiv2\bmod4\), \(Q'_0(0)\) odd, and track the norms of the [moment tests](../ledger/Yin_L_G0462_v184.md#varying) when seeking a sequence of different Salem inputs.
+For all grids and positive weights, the [fixed-input classification](../ledger/Yin_L_G0462_v200.md#gap) permits the half-mass limit exactly when four divides \(Q_0(0)\) or both \(Q_0(0)\) and \(Q'_0(0)\) are even.
+In the remaining even case the [circle-norm bound](../ledger/Yin_L_G0462_v201.md#gap) gives an explicit excess, and the [weighted tests](../ledger/Yin_L_G0462_v201.md#atoms) constrain where a correcting atom can occur.
+In a construction with changing Salem inputs, control both the norms and the degree at which the fixed-input conclusions take effect.
 For independent supply, the [exterior-pair partition](../ledger/Yin_L_G0462_v169.md#partition) identifies the factorization problem on the two-exponent cubic family.
 The [individual measure degree](../ledger/Yin_L_G0462_v183.md#criterion) recovers the allocation exactly when the exponent ratio grows.
 The [sextic specialization](../ledger/Yin_L_G0462_v183.md#sextic) exhibits the relevant exterior product and verifies its degree by reduction at two primes.
@@ -44,6 +46,11 @@ In every primitive direction [arbitrary common dilations](../claims/Yin_C_G0345_
 The [torsion-translate theorem](../ledger/Yin_L_G0462_v185.md#torsion-twists) permits the original untwisted specialization to be exceptional in each direction.
 Test that specialization itself for a rational split using the [prime restrictions on the trace fields](../claims/Yin_C_G0345_v385.md#statement) and the [rational parity characters](../ledger/Yin_L_G0462_v187.md#endpoints).
 The [trace factor criterion](../ledger/Yin_L_G0462_v190.md#density) gives the density of primes in each reduced residue class that certify a single core if that core is irreducible.
+On the odd primitive cubic directions with \(3\nmid a,\ b\equiv4a\bmod9\), the [simple trace orbit at two](../ledger/Yin_L_G0462_v196.md#ninth) singles out a reciprocal nontorsion factor.
+Determine whether this factor receives a positive proportion of the exterior roots and whether another nontorsion factor occurs.
+The [same high-slope existence question](../claims/Yin_C_G0345_v391.md#criterion) now applies to every fixed reciprocal seed degree, with all common substitutions accounted for.
+The [two-block factorization theorem](../audits/literature/DFV13/Yin_U001.md#dfv13-u001) requires the two blocks to differ from reversals up to sign.
+On rational graphs with several denominator factors, the [individual pole counts](../ledger/Yin_L_G0462_v198.md#poles) give restrictions on how a rational factor can receive exterior roots.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
 The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
@@ -70,7 +77,10 @@ At several prescribed primes the [reciprocal calculation](../ledger/Yin_L_G0462_
 For inputs of small index, test the angular distribution forced by [hyperbolic disk localization](../claims/Yin_C_G0345_v381.md#several) together with integrality of the rows.
 For reciprocal witnesses, compare the [freedom in the centered derivative](../ledger/Yin_L_G0462_v186.md#freedom) with the denominators that clearing the two row jets actually costs.
 The [integral trace congruences](../ledger/Yin_L_G0462_v189.md#even) hold even at ramified primes.
-The primitive zero-remainder examples leave their cofactor measure as the next quantity to determine.
+The [constant-trace cost](../ledger/Yin_L_G0462_v192.md#cost) now gives a lower bound proportional to \(p\,m(P)\) under its reflection condition.
+For the least-denominator pencil the [three-layer test](../ledger/Yin_L_G0462_v195.md#test) identifies any surviving symmetric row exactly, and primes above the stated multiplicity threshold exclude it.
+On the nonconstant branch, even [nonzero remainders with nonproportional traces](../ledger/Yin_L_G0462_v199.md#obstruction) can have small normalized norms on admissible rows.
+Investigate whether the least-cofactor condition forces larger norms on those particular rows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.
