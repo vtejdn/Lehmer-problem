@@ -5,6 +5,14 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v183](Yin_L_G0462_v183.md#degrees) | Degrees of the Mahler measures of cubic factors | Signed-subset orbits recover the exterior allocation from the degree of each measure, with a finite sextic example and a degree criterion for shrinking factors. |
+| [Yin_L_G0462_v182](Yin_L_G0462_v182.md#localization) | Interior row roots near unit-circle double roots | A separation bound at limited degree and rational reciprocal witnesses with both diagonal endpoints equal to one on the full conjugate set. |
+| [Yin_L_G0462_v181](Yin_L_G0462_v181.md#statement) | The central correction on an odd Chebyshev grid | The exact least atom at trace zero under equal noncentral residues and actual Pisot inverses for every fixed Salem input. |
+| [Yin_L_G0462_v180](Yin_L_G0462_v180.md#bound) | Radial energy under arbitrary prime selection | Primitive double-root pencils realize the bound from the powered root distribution at every degree-preserving prime and every residue pair. |
+| [Yin_L_G0462_v179](Yin_L_G0462_v179.md#genuine) | Neutral mass on genuine Salem conjugates | A lower bound with restricted cyclotomic padding and an even-grid construction attaining branch mass one half for specified fixed inputs. |
+| [Yin_L_G0462_v178](Yin_L_G0462_v178.md#gram) | Simultaneous disk interpolation | A Hardy-space inequality for all interior jets, reciprocity of the disk data and sharpness in the one-point problem. |
+| [Yin_L_G0462_v177](Yin_L_G0462_v177.md#product) | Integral coordinates and joint trace actions for cubic factors | Equality of the coordinate orders and independence of the alternating actions of all distinct nontorsion factors over the maximal abelian extension of the rationals. |
+| [Yin_L_G0462_v176](Yin_L_G0462_v176.md#cost) | Angular energy on genuine Salem double-root pencils | For every residue difference at prescribed primes, asymptotically optimal witnesses have vanishing normalized radial energy and positive normalized total energy. |
 | [Yin_L_G0462_v175](Yin_L_G0462_v175.md#rows) | Angular energy in unit-resultant rows | A two-term integral pair has negligible radial contribution at every annular width, and its exterior energy is distributed over increasing numbers of angular frequencies. |
 | [Yin_L_G0462_v174](Yin_L_G0462_v174.md#separation) | Archimedean energy on reciprocal inputs with small resultant | Actual double-root witnesses have Dirichlet energy of order at least the row degree times the prime while their homogeneous resultant has negligible normalized logarithm. |
 | [Yin_L_G0462_v173](Yin_L_G0462_v173.md#smith) | Simultaneous concentration in a nonreciprocal family | The full powered-order quotient and explicit double-root witnesses for every prescribed pair of classes. |

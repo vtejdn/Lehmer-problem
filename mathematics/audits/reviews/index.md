@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v414](Yin_R_G0562_v414.md#finding) checks the algebraic degrees of individual and joint Mahler measures, the uniform factor criterion and the independent modular certificate for the sextic example.
+- [R562 v413](Yin_R_G0562_v413.md#finding) checks independent even exchanges on all inverse pairs, the four-letter lifting argument and the full splitting group over the maximal abelian field.
+- [R562 v412](Yin_R_G0562_v412.md#finding) checks the angular derivative at unit-circle double roots, finite-degree interpolation, coprimality and the rational endpoint normalization.
+- [R562 v411](Yin_R_G0562_v411.md#finding) checks integer interpolation on the odd grid, the minimum central correction, the three costs and the scope for fixed and varying Salem inputs.
+- [R562 v410](Yin_R_G0562_v410.md#finding) checks the radial-energy upper bound at every degree-preserving prime, admissibility of the double-root pencils and the Salem specialization.
+- [R562 v409](Yin_R_G0562_v409.md#cubic-product-review) checks the integral order isomorphism, multiplicative dependence estimates and independence across cubic trace factors of equal or different degree.
+- [R562 v408](Yin_R_G0562_v408.md#cubic-inertia-review) checks the finite inertia support, intermediate-field bound and eventual natural alternating trace action for the cubic family.
+- [R562 v407](Yin_R_G0562_v407.md#finding) checks genuine neutral mass, its limiting uniformity and the even-grid Pisot construction with branch mass tending to one half.
+- [R562 v406](Yin_R_G0562_v406.md#finding) checks reflection, the Gram matrix for simultaneous interior jets and the integral example attaining the one-point rate.
+- [R562 v405](Yin_R_G0562_v405.md#finding) checks the finite bound from a single conjugate and its cofactor consequence uniformly in the residue pair and window prime.
+- [R562 v404](Yin_R_G0562_v404.md#finding) checks the near-minimal Salem witnesses, the uniform annular root count, angular energy and the innermost root.
+- [R562 v403](Yin_R_G0562_v403.md#finding) checks weighted pencil counts, the forced derivative and disk radius, and the bounds involving several nodes.
 - [R562 v402](Yin_R_G0562_v402.md#finding) checks the unit-resultant example with uniformly small radial mean energy, its exact exterior Fourier series and the double-root scope.
 - [R562 v401](Yin_R_G0562_v401.md#finding) checks the universal dyadic tower theorem and independently enumerates the 3,468 pairs, including a modular exclusion for all 15 final candidates.
 - [R562 v400](Yin_R_G0562_v400.md#energy-review) checks the exact Dirichlet identity, annular cofactor test and positive energy on reciprocal inputs with small homogeneous resultant.

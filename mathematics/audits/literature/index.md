@@ -52,6 +52,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Bin22](Bin22/readme.md) | [Yin_U001](Bin22/Yin_U001.md) |
 | [Bor96](Bor96/readme.md) | [Yin_U001](Bor96/Yin_U001.md#affine-chamber-quotient): affine Leech chamber quotient and canonical-normalization boundary |
 | [Boy81](Boy81/readme.md) | Source and edition notes |
+| [Boy87](Boy87/readme.md) | [Degree of the Mahler measure from the exterior subset orbit](Boy87/Yin_U001.md#boy87-u001) |
 | [Boy96](Boy96/readme.md) | [Pisot defining polynomials and their cyclotomic cofactors](Boy96/Yin_U001.md#regular-cofactor) |
 | [Byo15](Byo15/readme.md) | [Outer automorphisms and projective isometry indices of classical groups](Byo15/Yin_U001.md#classical-outer) |
 | [CDPT26](CDPT26/readme.md) | [Yin_U001](CDPT26/Yin_U001.md) |
@@ -147,6 +148,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [HS16b](HS16b/readme.md) | [Yin_U001](HS16b/Yin_U001.md) |
 | [Han16](Han16/readme.md) | [Yin_U001](Han16/Yin_U001.md#han16-u001): quadratic finite-field Hankel periodicity and the synchronization boundary |
 | [Har55b](Har55b/readme.md) | Undated Harvard Math 55b course notes; source and contents navigation |
+| [Hay59](Hay59/readme.md) | [Jensen's formula, its centered corollary and boundary zeros](Hay59/Yin_U001.md#hay59-u001) |
 | [Hec18](Hec18/readme.md) | [Yin_U001](Hec18/Yin_U001.md#hec18-u001): finite reflection classification and normalized A/B/D/F4 models |
 | [Hir06](Hir06/readme.md) | [Yin_U001](Hir06/Yin_U001.md) |
 | [Hoe63](Hoe63/readme.md) | [Yin_U001](Hoe63/Yin_U001.md#independent-sum) |

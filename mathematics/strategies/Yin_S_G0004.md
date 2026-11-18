@@ -31,8 +31,14 @@ For this full return the least error above the seed's trace excess has [order \(
 Concentrate the construction effort on changing the noncyclotomic factor, tracking the degree and derivative cost when its exterior root decreases.
 Conditional on any shrinking sequence of Salem inputs, [integer Pisot inverses at the square constant](../ledger/Yin_L_G0462_v170.md#profiles) already realize matching semicircle residue measures.
 They also realize [any finite extra endpoint mass](../ledger/Yin_L_G0462_v170.md#endpoint-atoms) in the inverse measure with the same limiting arcsine branch measure.
-Use these actual conditional distributions when testing proposed exclusions based on neutral residues.
+The [genuine branch residues](../ledger/Yin_L_G0462_v179.md#genuine) have limiting lower mass \(1/2\) along a shrinking-excess sequence whose cyclotomic padding is \(o(d/\log d)\).
+With unrestricted padding, the [even grid](../ledger/Yin_L_G0462_v179.md#half) attains total branch mass \(1/2\) in the limit for each fixed Salem trace polynomial divisible by \(x^2\) modulo two.
+The [odd grid](../ledger/Yin_L_G0462_v181.md#central) prescribes equal residues at the nonzero grid points and computes the least attainable central correction for every fixed Salem input.
+The correction vanishes if four divides the constant and tends to zero if its absolute value grows.
+Test a change of noncentral residues for the remaining bounded constants, and keep the supply of Salem inputs with measure tending to one as a separate existence question.
 For independent supply, the [exterior-pair partition](../ledger/Yin_L_G0462_v169.md#partition) identifies the factorization problem on the two-exponent cubic family.
+The [individual measure degree](../ledger/Yin_L_G0462_v183.md#criterion) recovers the allocation exactly when the exponent ratio grows.
+The [sextic specialization](../ledger/Yin_L_G0462_v183.md#sextic) exhibits the relevant exterior product and verifies its degree by reduction at two primes.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
 The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
@@ -56,7 +62,8 @@ Thus an auxiliary prime outside \(s_p\) gives zero in every lower sum valid for 
 The [conductor calculation](../ledger/Yin_L_G0462_v162.md#conductor) computes \(s_p\) directly as the denominator of \(P'(\alpha)/Q'(\alpha^p)\) in the integral power basis, where \(Q\) is the minimal polynomial after powering.
 For a proof of cofactor growth from resultants on all witnesses, [short polynomial denominators](../claims/Yin_C_G0345_v378.md#window) require \(\log I_p\) of order \(pd\) even when the exponent grows exponentially in \(p\).
 At several prescribed primes the [reciprocal calculation](../ledger/Yin_L_G0462_v171.md#disks) exhibits this exponent growth with small total index on the \(pd\) scale.
-For inputs of small index, prioritize a lower bound on the [mean number of roots of a pencil outside an annulus](../claims/Yin_C_G0345_v379.md#radial) on double-root witnesses, using the normalized [cofactor test](../claims/Yin_C_G0345_v379.md#cofactor).
+For inputs of small index, test the angular distribution forced by [hyperbolic disk localization](../claims/Yin_C_G0345_v381.md#several) together with integrality of the rows.
+For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.
 For varying inputs, compare the primes surviving this test against the [largest collision sum incident to one conjugate](../ledger/Yin_L_G0462_v163.md#comparison), keeping the correction at nonmaximal local orders.
