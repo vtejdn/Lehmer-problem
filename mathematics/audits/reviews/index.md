@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v349](Yin_R_G0562_v349.md#p53-review) reproduces the ranks at 53 by exact maximal minors and verifies the exclusion of fewer than four residue classes for every prime at least 53.
+- [R562 v348](Yin_R_G0562_v348.md#finite-padding-review) checks the finite search for unrestricted cyclotomic multipliers, integral collisions, and the prime bound for two or three classes.
+- [R562 v347](Yin_R_G0562_v347.md#padded-neutral-factor-review) checks the multiplicity bound for cyclotomic roots, isolates the factor carrying the original input, and verifies its degree and neutral-root loss.
+- [R562 v346](Yin_R_G0562_v346.md#first-schur-pair-review) checks the height and content of the first occupied Schur defect pair and the explicit lower bound for Pisot excess.
+- [R562 v345](Yin_R_G0562_v345.md#neutral-fiber-loss-review) checks the discriminant estimate for paired roots off the unit circle and the necessary phase concentration for a fixed number of classes.
+- [R562 v344](Yin_R_G0562_v344.md#three-row-discriminant-review) checks the two-root grid comparison and the description of the arcs with unit roots.
+- [R562 v343](Yin_R_G0562_v343.md#prime-cyclic-row-gap-review) checks the lower bound on the number of terms in a prime-residue representation and every common multiple of its rows.
+- [R562 v342](Yin_R_G0562_v342.md#sparse-cyclic-comparison-review) checks the cyclic comparison for two rows using the term count of a common multiple.
 - [R562 v341](Yin_R_G0562_v341.md#cyclic-two-row-exterior-budget-review) Uniform Mahler comparison for two residue classes with bounded seed measure, exterior count and effective offset.
 - [R562 v340](Yin_R_G0562_v340.md#evaluated-two-band-width-review) An explicit relative width of 2 to the power minus 226 gives a multiplicative Mahler threshold of thirteen tenths.
 - [R562 v339](Yin_R_G0562_v339.md#oscillating-plastic-bands-review) Irreducible width-three examples approach the plastic threshold from both sides, with exact sign certificates and an arcsine distribution.

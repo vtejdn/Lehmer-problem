@@ -339,14 +339,53 @@ This contradicts the positive radial derivative on the left, proving strict stab
 
 For a nonzero symmetric or antisymmetric defect, this gives a necessary stability test at half the degree.
 The [full inverse congruence](../claims/Yin_C_G0345_v295.md#parity) still has the term \(w\Delta\), which is absent from the [even-descendant gap](../claims/Yin_C_G0345_v294.md#coefficient-model).
-It remains to decide whether a nonzero defect of either surviving sign can satisfy that congruence and the strict stability of the whole \(B\) along a shrinking sequence.
+
+<a id="first-occupied-pair"></a>
+## The first occupied coefficient pair
+
+For inputs with both outer coefficients zero, the [fixed first-pair argument](../claims/Yin_C_G0345_v346.md#statement) gives the two trace bounds and an explicit lower bound for the Pisot excess at bounded pair height.
+For growing height below \(L/(|qS-L|+S)\), the [integer pair](../claims/Yin_C_G0345_v346.md#pair) must lie on the line spanned by \((qS-L,S)\).
+The next coefficient imposes a further restriction even before testing stability.
+
+<a id="isolated-pair"></a>
+## An isolated occupied pair has height of order at least the constant term
+
+Keep both outer coefficients zero and \(0<j<q-1\), and put \(W=qS-L\), \(h=\gcd(L,N^2)\).
+For all integer indices \(i\) write \(x_i=[w^i]\Delta,\ y_i=[w^i]\Delta^*\), extending each list by zero outside its formal degree.
+The [elimination identity](../claims/Yin_C_G0345_v346.md#pair) and its reversal in formal degree \(\ell\) give
+\[
+ \begin{aligned}
+ q(qy_i-x_i)+(qx_{i-1}-y_{i-1})&\equiv0\pmod h,\\
+ (qy_i-x_i)+q(qx_{i-1}-y_{i-1})&\equiv0\pmod h.
+ \end{aligned}
+\]
+Indeed the reversed right side is \((q^2w-1)\Delta+q(1-w)\Delta^*\), and the coefficients of both left sides of the polynomial identity are divisible by \(h\).
+Since \(L/h\mid S\), define \(U_i=Wy_i-Sx_i\) and \(V_i=Wx_i-Sy_i\) to obtain
+\[
+                     qU_i+V_{i-1}\equiv U_i+qV_{i-1}\equiv0\pmod L.
+\]
+In particular, if \((x_{i-1},y_{i-1})=(x_{i+1},y_{i+1})=(0,0)\), the second congruence at \(i\) and the first at \(i+1\) give \(L\mid U_i,V_i\).
+For a nonzero pair the two integers \(U_i,V_i\) cannot both be zero, since \(|W|<S\).
+Thus every such isolated occupied pair has
+\[
+            \max(|x_i|,|y_i|)\ge\frac{L}{S+|W|}>\frac{q-1}{2}.
+\]
+In particular, for a first occupied pair of sublinear height, \((x_{i+1},y_{i+1})\) must be nonzero.
+If \(i,i+1\) are the two central indices, the latter pair reads the same two coefficients in reverse order.
+On its prescribed line \((x_i,y_i)=t(W/k,S/k)\), \(k=\gcd(L,S)\), the next pair must satisfy
+\[
+                     U_{i+1}\equiv-q\,t(W^2-S^2)/k\pmod L .
+\]
+This supplies an inhomogeneous restriction on the second pair with no size assumption on deeper coefficients.
+The existence of a full integral, strictly stable descendant satisfying the two consecutive conditions remains open.
 
 <a id="remaining"></a>
 ## Remaining escape patterns
 
 At the prescribed scale \(q=d^2\), the first two exclusions allow arbitrary interior coefficients while requiring bounded \(a,b,c,e\).
-With both outer coefficients zero, the [height and reversal constraints](#zero-outer-reversal) restrict the surviving inputs and give the [half-degree stability test](#reversal-stability) in the two exact symmetry classes.
+With both outer coefficients zero, the [first occupied pair](#first-occupied-pair) must escape every fixed height bound along a shrinking sequence.
+At sublinear pair height its ratio is fixed by \(q,j,S\), and the [next pair](#isolated-pair) is nonzero with a prescribed congruence.
+In the two exact symmetry classes the [half-degree stability test](#reversal-stability) and the content bound both apply.
 Other open patterns include both outer coefficients nonzero and \(a=0\), \(b\ne0\), \(c\ne0\).
-In the zero-outer case, it is the height of the full defect that determines when the reversal congruence forces exact symmetry.
 The relations \(b=\pm a\) and \(ae=bc\) identify specific arithmetic degeneracies worth testing; their occurrence is not asserted to produce a stable input.
 No quantitative positive gap for the full unrestricted model, stable construction, or new Salem output is established here.

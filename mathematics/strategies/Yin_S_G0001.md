@@ -21,22 +21,27 @@ Other routes remain available for autonomous reassessment; their current priorit
 
 | Role | Current focus | Useful next distinction |
 | --- | --- | --- |
-| Salem construction with S4 | At \(q=d^2\), test a nonzero defect with vanishing outer coefficients and bounded height against the integer inverse and full Schur stability. | The [reversal and half-degree tests](../drafts/Yin_D_G0027.md#zero-outer-reversal) give a smaller search space. An actual construction must yield a varying output with controlled complete measure. |
+| Salem construction with S4 | At \(q=d^2\), test the deeper inverse congruences on the [forced line for the first occupied coefficient pair](../claims/Yin_C_G0345_v346.md#pair), or use two nonzero outer coefficients. | The first pair must grow at the trace-dependent rate even if all deeper coefficients are free. A construction must satisfy full Schur stability and yield varying Salem outputs. |
 | Construction by combining known inputs | Seek new integer polynomials beyond the radical constructions already classified. In testing a candidate family, track whether its block sizes grow and which bounded measures already occur among the inputs. | The [compositum theorem](../claims/Yin_C_G0345_v279.md#statement) gives the exact spectrum for the specified independent inputs over their block fields. For each sufficiently large bounded-measure input, the [tower theorem](../claims/Yin_C_G0345_v281.md#towers) determines the least degree required in arbitrary algebraic steps even when radical adjunctions are unrestricted. |
 | Arithmetic alternative | Select a prime using the input and bound the part of the trace resultant realized by one integer root at each rational prime. | In the [dyadic example](../claims/Yin_C_G0899_v8.md#statement) the entire resultant grows at the correct exponential rate while the largest common integer modulus is one. Test a degree-one contribution in a strict small-measure shell before expanding this route. |
 | Construction and existence inquiry, coordinated with S4 | Seek integer inputs with a growing prefix and a normalized residue distribution compatible with both the marginal and ordered tests. | A construction has to pass the [positive-measure interface](../claims/Yin_C_G0881_v10.md#statement) and the [positive-density excursions above four](../claims/Yin_C_G0898_v1.md#threshold). |
 | Alternate Salem inquiry | Test whether the large alternating group required at level minus one rules out a strict descent with a second exterior pair as the input tends to one. | Such a descent [occurs in degree sixteen](../claims/Yin_C_G0345_v141.md#statement). Along any shrinking sequence its trace group must have an [alternating composition factor of growing degree](../claims/Yin_C_G0345_v133.md#statement), and [fixed nonreciprocal Pisot seeds](../claims/Yin_C_G0345_v135.md#fixed-seed) exclude it at large delays. |
-| Primary proof inquiry | Starting with a hypothetical shrinking irreducible sequence, seek a growing prime modulus and a cyclotomic multiple with few occupied classes and sufficiently few terms, or identify a structural obstruction on the original inputs. | The [prime-modulus bound](../claims/Yin_C_G0345_v343.md#statement) sets the exact scale to beat. The [dense Salem family](../ledger/Yin_L_G0462_v146.md#four-rows) tests whether a proposed method can recover four classes and six terms after multiplication by \(x+1\). |
+| Primary proof inquiry | For a shrinking sequence, seek a growing prime and a cyclotomic multiple with few occupied classes, then bound the contribution from unit-circle roots of the factor carrying the original polynomial. | The [factor theorem](../claims/Yin_C_G0345_v347.md#statement) isolates that contribution. The [finite test](../claims/Yin_C_G0345_v348.md#statement) checks the existence of a representation for each specified input and sufficiently large prime. |
 | Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer representation. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the remaining triality and divisibility cases in [C886v5](../claims/Yin_C_G0886_v5.md#statement). |
 | Alternative construction inquiry | Actual factor production or another mechanism changing the noncyclotomic core. | Seek the actual sublinear-degree factors in [L450v5](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion), or another explicit return to the unrestricted contract. |
 | Computational support, S10 | Bounded diagnostics tied to a distinguishable supply or complete-exterior-cost mechanism. | Compare distinct noncyclotomic cores and measure values, retaining all exterior roots and the actual integer support; known-core recovery alone is not the discovery objective. |
 | Other retained routes, S2, S3, S5, S6, S7, S8 and S9 | Available proof or construction alternatives under autonomous reassessment. | Reuse their precise failures and open interfaces when judging a new idea; their present lower priority is not a human prohibition or an evidence precondition for reconsideration. |
 
-The first proof target is coverage of arbitrary small-measure inputs by [cyclotomic multiples](../ledger/Yin_L_G0462_v146.md#coverage).
-For a varying reciprocal family, multiply by a binomial with roots of unity and count the surviving classes and terms in the sum or difference of the two shifted coefficient lists.
-Trace any saving to a property implied by small measure before using it beyond that family.
-When a sparse parent has a second noncyclotomic factor, its support gives no such certificate for an individual factor.
-For dense three-class inputs beyond the term-count bound, the [diagonal clipping step](../claims/Yin_C_G0345_v343.md#comparison) isolates a second target, an upper bound on the integral over small diagonal values using the actual coefficient relations.
+For the proof direction, two separate questions remain even when the cyclotomic multiplier may have arbitrary degree.
+First, determine which growing primes permit a fixed number of residue classes on varying inputs of small positive measure.
+At a ramified prime the [multiplicities of primitive roots of the same order](../ledger/Yin_L_G0462_v147.md#multiplicities) can already exclude all multipliers.
+Where a representation remains possible, the [degree and coefficient tests](../claims/Yin_C_G0345_v348.md#carrier) bound the search using the original irreducible polynomial.
+For the degree-ten Lehmer polynomial, the general two- and three-class prime bound leaves only \(53\) above \(47\), and the [exact rank calculation](../computations/programs/Yin_J_G0167/readme.md#p53) excludes that prime as well.
+Use varying families to identify a property that follows from small measure and forces a representation at some admissible prime.
+Second, on such a representation, bound the [integrated loss near phase coincidences](../claims/Yin_C_G0345_v345.md#consequence) on the actual factor carrying the input.
+For three rows the [middle coefficient test](../claims/Yin_C_G0345_v344.md#lift) locates the arcs with two unit roots.
+The cost of the discarded cyclotomic factors is [exact](../claims/Yin_C_G0345_v347.md#loss), so they can be removed before estimating these phases.
+When sparse common multiples exist, the earlier [term-count comparison](../claims/Yin_C_G0345_v343.md#statement) still transfers the gap directly, as in the [dense Salem family](../ledger/Yin_L_G0462_v146.md#four-rows).
 
 The direct construction must vary the return polynomial itself.
 The [fixed-output fibers](../claims/Yin_C_G0345_v4.md#simplex) already grow with the constant term for a single supplied Salem polynomial, so counting that growth does not establish a new Salem value.
@@ -1881,7 +1886,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Seek cyclotomic multiples sparse enough to exclude a shrinking sequence by the prime-modulus term bound, and test integral Schur defects as the parallel construction. |
+| priority | Test prime-residue coverage and the unit-root phase loss on the factor carrying the original polynomial, and test growing Schur defect coefficients against the integral inverse. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

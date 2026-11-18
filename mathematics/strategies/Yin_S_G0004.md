@@ -14,8 +14,11 @@ author: Yin
 The S10 child remains paused; its completed comparisons and exact local exclusion are retained at their responsible homes.
 The [current Task discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) replaces former human-imposed strategy priorities and method restrictions.
 Under the [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), S4 initially leads actual integer existence and also develops the structural proof interfaces relating complete measure to intrinsic complexity or integer representation.
-The next construction test uses [Schur defects with zero outer coefficients](../drafts/Yin_D_G0027.md#zero-outer-reversal) at \(q=d^2\).
-For bounded height and trace coefficient \(S=q+1\), first impose exact antisymmetry, test the resulting inhomogeneous coefficient congruences, and apply the [half-degree stability condition](../drafts/Yin_D_G0027.md#reversal-stability) before checking the full polynomial.
+At \(q=d^2\) the [first-pair bound](../claims/Yin_C_G0345_v346.md#statement) excludes a shrinking Pisot excess when both outer defect coefficients vanish and the first occupied pair has bounded height.
+For a first pair of sublinear height in \(q\), the [next pair must be occupied and satisfy an explicit congruence](../drafts/Yin_D_G0027.md#isolated-pair).
+Test that congruence together with the integral inverse and full Schur stability.
+For exactly symmetric or antisymmetric defects, use the lower bound on their content and the [half-degree stability condition](../drafts/Yin_D_G0027.md#reversal-stability).
+The [paired coefficient identities](../drafts/Yin_D_G0027.md#paired-coefficients) give a separate test when both outer coefficients are nonzero.
 An admissible integer family must still yield positive return measures tending to one.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
@@ -798,7 +801,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test integral Schur defects in the surviving reversal classes, with growing-parent constructions and input-dependent prime selection as alternatives. |
+| priority | Test the integral inverse past the first growing Schur defect pair, or with two nonzero outer coefficients, retaining the full stability condition. |
 
 The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

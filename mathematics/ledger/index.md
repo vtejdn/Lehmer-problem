@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v147](Yin_L_G0462_v147.md#multiplicities) | Root multiplicities at the support prime | A prime-specific lower bound for the number of occupied classes under every cyclotomic multiplier, and a reciprocal family requiring at least half the classes. |
+| [Yin_L_G0462_v146](Yin_L_G0462_v146.md#coverage) | Prime residue coverage after cyclotomic multiplication | Removing the common row factor and obtaining a six-term multiple of a dense Salem family. |
 | [Yin_L_G0464_v23](Yin_L_G0464_v23.md) | Five profile-specific resultant ceilings | An integral moment comparison with the endpoint atom and the equivalence of the fixed zero profile with growing exceptional parents. |
 | [Yin_L_G0457_v10](Yin_L_G0457_v10.md) | Explicit exceptional-parent prefix bound | A conductor-independent linear bound without an endpoint hypothesis, from three geometric sums. |
 | [Yin_L_G0457_v9](Yin_L_G0457_v9.md) | Forced cyclotomic factors | Torsion traces above a prefix threshold, including conductors at which a trace is itself a grid node. |
