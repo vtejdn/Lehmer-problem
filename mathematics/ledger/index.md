@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v261](Yin_L_G0462_v261.md#ray) | Zeros and poles forced by repeated contact | The disk kernel has exact inertia for points on a common ray, and a fixed interior root gives a coefficient bound uniform in the row width. |
 | [Yin_L_G0462_v260](Yin_L_G0462_v260.md#descent) | Descent through a residual quadratic | The primitive residual of a passing width-nine octic has measure growing linearly in the exponent. |
 | [Yin_L_G0462_v259](Yin_L_G0462_v259.md#blocks) | Irreducible power substitutions | An exact residue-block minimum and uniform quartic estimates apply even as the dilation grows. |
 | [Yin_L_G0462_v258](Yin_L_G0462_v258.md#congruences) | Two short vectors at the next width | Endpoint congruences determine the cost up to subexponential factors and force two continued-fraction jumps in the octic. |

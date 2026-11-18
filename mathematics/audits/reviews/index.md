@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v538](Yin_R_G0562_v538.md#finding) checks the fixed-budget count of different measure values and its explicit two-value consequences.
+
+- [R562 v537](Yin_R_G0562_v537.md#finding) checks simultaneous high multiplicities, the supply of distinct degrees and the limiting mean cost.
+
+- [R562 v536](Yin_R_G0562_v536.md#finding) checks the aggregate Mahler measure bound and the matched logarithmic radii of all powered repeated factors.
+
+- [R562 v535](Yin_R_G0562_v535.md#finding) checks the common-ray contact signature, its mixed-angle boundary and the coefficient estimate uniform in width.
+
+- [R562 v534](Yin_R_G0562_v534.md#finding) checks the explicit high-multiplicity construction and the uniform approximation of the bounded-degree minima.
+
 - [R562 v533](Yin_R_G0562_v533.md#finding) checks the fixed-sign one-polynomial criterion and the computable width attaining the Lehmer infimum.
 
 - [R562 v532](Yin_R_G0562_v532.md#finding) checks the residual descent, its exceptional cases and the height constraint on both octic congruences.
