@@ -5,6 +5,15 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v245](Yin_L_G0462_v245.md#minimum) | Exact computation by reduced lattice bases | An absolute fourth-power bound in the numerical prime computes the minimum and an attaining pair, with a computable factor depending on row degree. |
+| [Yin_L_G0462_v244](Yin_L_G0462_v244.md#uniform) | The resultant at the test prime | At sufficiently slow degree growth the seed degree gives a uniform lower bound on the valuation. The degree-ten seed attains equality inside the coefficient box. |
+| [Yin_L_G0462_v243](Yin_L_G0462_v243.md#common) | One pair of rows at several primes | All qualifying measures add in the lower bound. Explicit interpolation gives a common pair within a factor two in the upper logarithmic rate. |
+| [Yin_L_G0462_v242](Yin_L_G0462_v242.md#short) | Exact minima at the first possible row degrees | Two quartics up to sign exhaust degrees through five. Two rational lines give the exact degree-four minimum at any odd prime. |
+| [Yin_L_G0462_v241](Yin_L_G0462_v241.md#candidates) | Recovering seeds from a first polynomial | At most three seeds occur for the fixed first polynomial in the endpoint-constrained test, even when the second polynomial varies. |
+| [Yin_L_G0462_v240](Yin_L_G0462_v240.md#criterion) | Slow prime and support growth | Two independently prescribed, arbitrarily slowly growing budgets suffice for the degree-by-degree gap criterion. |
+| [Yin_L_G0462_v239](Yin_L_G0462_v239.md#extension) | Extending one row to two independent columns | The integral extension preserves a nonzero first value, both endpoints and the small logarithmic rate along a shrinking sequence. |
+| [Yin_L_G0462_v238](Yin_L_G0462_v238.md#global) | Factors missing an exterior pole | Across all primitive directions in a dyadic slope interval, factors missing a pole account for only logarithmically many exterior roots. |
+| [Yin_L_G0462_v237](Yin_L_G0462_v237.md#endpoints) | Cubic divisibility at the endpoints | The cubic value divisor yields a coefficient rate at least three halves of the log measure at fixed seed. |
 | [Yin_L_G0462_v236](Yin_L_G0462_v236.md#boxes) | Existing coefficient exclusions and the degree-ten prime | Voutier gives an explicit degree-dependent box exclusion. At the classical Lehmer input each eligible row needs a coefficient larger than \(10^{10900}\). |
 | [Yin_L_G0462_v235](Yin_L_G0462_v235.md#window) | Prescribing the seed offset and both unit endpoints | Every sufficiently large prescribed prime at a fixed seed realizes any nonzero offset. Integral value and derivative conditions over the seed persist with both endpoint coefficients one. |
 | [Yin_L_G0462_v234](Yin_L_G0462_v234.md#height) | Measuring each four-class cofactor from its coefficients | The logarithm of the largest seed coefficient gives each actual cofactor measure up to \(o(ph)\). Both pairs of prescribed jets survive an integer perturbation making the angular term exponentially small. |

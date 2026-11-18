@@ -84,6 +84,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [DFV13](DFV13/readme.md) | [The reciprocal-block hypothesis in the gap theorem](DFV13/Yin_U001.md#dfv13-u001) |
 | [DGB16](DGB16/readme.md) | [Yin_U001](DGB16/Yin_U001.md), [Yin_U002](DGB16/Yin_U002.md), [Yin_U003](DGB16/Yin_U003.md), [Yin_U004](DGB16/Yin_U004.md) |
 | [DGT20](DGT20/readme.md) | Source and edition notes |
+| [DHKW06](DHKW06/readme.md#edition) | [Exact polynomially weighted lattice-point sums in fixed dimension](DHKW06/Yin_U001.md#sum) |
 | [DJ20](DJ20/readme.md) | [Yin_U001](DJ20/Yin_U001.md) |
 | [DK25](DK25/readme.md) | [Yin_U001](DK25/Yin_U001.md) |
 | [DL24](DL24/readme.md) | [BCH bound for consecutive zeros](DL24/Yin_U001.md#dl24-u001) |
@@ -179,6 +180,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [LL10](LL10/readme.md) | Source and edition notes |
 | [LL25](LL25/readme.md) | Source and edition notes |
 | [LLL82](LLL82/readme.md) | [Reduced-basis inequalities](LLL82/Yin_U001.md#reduction) and [bit complexity for an explicit integer basis](LLL82/Yin_U001.md#complexity) |
+| [Len83](Len83/readme.md#geometry) | Maximum-volume vertex simplices and recursion on parallel lattice hyperplanes in fixed dimension. |
 | [LN23](LN23/readme.md) | Source and edition notes |
 | [LP17](LP17/readme.md) | Source and edition notes |
 | [LR17](LR17/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#finite-difference-normalization-check): finite-difference mesh input and monic-normalization check |

@@ -86,6 +86,11 @@ The [positive-gap criterion with sparse rows](../ledger/Yin_L_G0462_v240.md#crit
 For the proof focus on the [unrestricted integer minimum](../claims/Yin_C_G0345_v408.md#statement), whose normalized logarithm converges to the Lehmer infimum for every diverging row-degree bound.
 A single constant \(k\) and infinitely many prime exclusions suffice.
 At each prime, use the [two polynomial equations](../claims/Yin_C_G0345_v408.md#factor) to study when the quotient of the rows can recover a unit from its \(p\)-th power with the prescribed derivative.
+The [exact census through degree five](../computations/programs/Yin_J_G0177/readme.md#census) excludes every qualifying pair at the full cutoff through \(p=1009\).
+For the first unbounded test, use the [width-four formula](../ledger/Yin_L_G0462_v242.md#lines) to bound the primitive integer generators on its two rational lines as \(p\) varies.
+Any gain from reduction at \(p\) needs information beyond [divisibility of the resultant by \(p^{\deg P}\)](../ledger/Yin_L_G0462_v244.md#sharp), since this valuation is attained inside the search box.
+For several primes, [a common pair of rows](../ledger/Yin_L_G0462_v243.md#common) also characterizes a zero gap if its log cost is small relative to the sum of the primes.
+The [exact fixed-degree algorithm](../claims/Yin_C_G0345_v409.md#statement) permits comparison of actual least costs and attaining rows as the prime or the width varies.
 For the endpoint-constrained variant the [trace recovery bound](../ledger/Yin_L_G0462_v241.md#candidates) leaves at most three original seeds for each fixed first polynomial even when the second polynomial varies.
 The [angular and resultant bounds](../claims/Yin_C_G0345_v403.md#angular) show why a lower bound using only the angular fluctuation or the largest normalized cyclotomic resultant would still need arithmetic information on the seed to imply an absolute gap.
 First, determine which growing primes permit a fixed number of residue classes on varying inputs of small positive measure.

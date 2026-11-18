@@ -161,6 +161,8 @@ The [extension of a single nonzero value](../ledger/Yin_L_G0462_v239.md#extensio
 For a fixed seed the [cubic endpoint divisor](../ledger/Yin_L_G0462_v237.md#endpoints) raises the lower coefficient rate to at least \(3h/2\), while the [explicit rows](../claims/Yin_C_G0345_v407.md#bounds) give rate at most \(3h\).
 Study the coprime row pair \(U,V\) in the [prime-indexed minimum](../claims/Yin_C_G0345_v408.md#statement), where an absolute lower rate on any unbounded subsequence of primes suffices.
 An arithmetic exclusion must hold for every surviving reciprocal factor in the [finite factor test](../claims/Yin_C_G0345_v408.md#factor) at the chosen primes and row degrees.
+The [resultant at the test prime](../ledger/Yin_L_G0462_v244.md#uniform) is divisible by \(p^{\deg P}\) uniformly at sufficiently slow degree growth, with equality in valuation at a fixed small seed for every large prime.
+Investigate the joint contribution of other prime divisors and the archimedean sizes of the [primitive width-four rows](../ledger/Yin_L_G0462_v242.md#lines).
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).

@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v508](Yin_R_G0562_v508.md#finding) checks seed enumeration, the exact weighted sum, witness recovery, and the polynomial-time schedule with increasing row degree.
+- [R562 v507](Yin_R_G0562_v507.md#finding) checks the integral hyperplane recursion, the reduced-basis bounds in the original source and the fourth-power bit bound for computing the minimum.
+- [R562 v506](Yin_R_G0562_v506.md#finding) checks the prime-power resultant divisor, the simultaneous discriminant bound, and the sharp valuation within the original coefficient cutoff.
+- [R562 v505](Yin_R_G0562_v505.md#finding) checks the additive lower bound for all tangencies of a common pair, simultaneous interpolation, and the gap criterion for growing sets of primes.
+- [R562 v504](Yin_R_G0562_v504.md#finding) independently verifies the quartic seed list, the least-width formula, all 336 capped cases and the uncapped positive controls.
+- [R562 v503](Yin_R_G0562_v503.md#finding) checks the three-seed bound for a fixed first polynomial and the reconstruction and height tests in the trace field.
+- [R562 v502](Yin_R_G0562_v502.md#finding) checks the gap criterion with arbitrarily slowly growing prime and support bounds.
+- [R562 v501](Yin_R_G0562_v501.md#finding) checks the exact limit of the integer minima, exclusion on a prime subsequence, and both directions of the low-degree factor test.
+- [R562 v500](Yin_R_G0562_v500.md#finding) checks the cubic endpoint divisor, the exact localized determinant ideal and the fixed-seed lower rate.
+- [R562 v499](Yin_R_G0562_v499.md#finding) checks the explicit construction with independent first derivatives, its coefficient cost and its applicability to smaller degree-dependent primes.
+- [R562 v498](Yin_R_G0562_v498.md#finding) checks how one nonzero value extends to two independent columns with the prescribed endpoints and a controlled coefficient cost.
+- [R562 v497](Yin_R_G0562_v497.md#finding) checks the global exterior count across varying first exponents and the refinements for projected pole lifts.
 - [R562 v496](Yin_R_G0562_v496.md#finding) checks the one-prime-per-degree criterion, the uniform choice of representative, both coefficient bounds and the unrestricted equivalence of the finite exclusions.
 - [R562 v495](Yin_R_G0562_v495.md#finding) checks the prescribed residue class, the exact image of the seed jets, both unit endpoints and shortness with their full coprimality requirements.
 - [R562 v494](Yin_R_G0562_v494.md#finding) checks the coefficient estimate, continuity on the circle and simultaneous preservation of both short witnesses under the perturbation.
