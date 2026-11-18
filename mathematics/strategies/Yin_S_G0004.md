@@ -134,7 +134,7 @@ The [jet-preserving perturbation](../ledger/Yin_L_G0462_v222.md#perturbation) su
 For these same rows let \(Q_p\) be the minimal polynomial of \(\alpha^p\).
 A sufficient condition for small cofactors is that the mean positive deviation of \(\log|Q_p(e^{it})|\) from \(p\,m(P)\) be \(o(p)\).
 The [average over primes](../ledger/Yin_L_G0462_v222.md#primes) gives this estimate for almost all primes of size \(\sqrt d(\log(2d))^{1+\eta}\) on a shrinking sequence for every fixed \(\eta>0\).
-Determine what controls this deviation for primes in the smaller fourth-logarithmic window.
+At the original degree, the behavior of this deviation in the smaller fourth-logarithmic window remains open.
 There are [single cyclotomic orbits](../ledger/Yin_L_G0462_v225.md#window) on which the mean deviation exceeds every fixed power of \(\log d\) at every prime in this window.
 An angular upper bound for shrinking irreducible inputs must use their nontorsion arithmetic.
 For a different test on the same rows, take [integral multiples of the powered minimal polynomial](../ledger/Yin_L_G0462_v227.md#perturbation) with no further common factor.
@@ -142,6 +142,9 @@ If their degrees are at most \(2d\) and their coefficient one-norms have logarit
 The [explicit multiples for the cyclotomic controls](../ledger/Yin_L_G0462_v227.md#controls) meet these bounds even on the orbits with large angular fluctuation.
 The [resultant lower bounds and exact cyclotomic minimum](../ledger/Yin_L_G0462_v228.md#resultant) distinguish the cost forced by the input from the cost of a chosen family of multiples.
 For a proof by contradiction, a lower bound on a quantity retained after both perturbations must still force cofactor measure of order \(p\) for a genuine irreducible input.
+Every reciprocal seed has [irreducible representatives of the same measure](../claims/Yin_C_G0345_v403.md#equivalence) on which the angular, coefficient and cofactor estimates hold at every prime of the fourth-logarithmic window of the new degree.
+For a representative \(P_0(X^n)\), examine the polynomials obtained by grouping each of the two rows according to its exponents modulo \(n\).
+To give an absolute gap, an estimate using those polynomials must exceed the existing bound proportional to the measure of \(P_0\) uniformly over the seeds.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.
