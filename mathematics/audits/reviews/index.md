@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v333](Yin_R_G0562_v333.md#arbitrary-interval-mahler-gap-review) A uniform positive Mahler gap for irreducible polynomials whose exponents lie in a fixed number of short intervals at arbitrary positions.
 - [R562 v332](Yin_R_G0562_v332.md#primitive-relative-band-gap-review) Relative comparison and an integral Mahler gap above the common factor for arbitrary moving rows in separated bands.
 - [R562 v331](Yin_R_G0562_v331.md#averaged-band-resultant-review) An averaged integral resultant bounds the variance of the fiber Mahler measure and the simultaneous negative logarithm.
 - [R562 v330](Yin_R_G0562_v330.md#bounded-energy-band-dips-review) Two obstructions to constructing coefficients of bounded measure with divergent simultaneous dips.
