@@ -1,5 +1,16 @@
 # Reviews Index
 
+- [R562 v475](Yin_R_G0562_v475.md#finding) checks the least single good prime excluding every short odd modular degree in each of the sixteen square-offset samples.
+- [R562 v474](Yin_R_G0562_v474.md#finding) checks the extremal odd modular degree, the loss of two on specified residue classes, the density bounds and the exterior count modulo four.
+- [R562 v473](Yin_R_G0562_v473.md#finding) checks the three-real-label sign kernel, its independence from adjoining \(i\), the ordinary class group quotients and their scope on quartic sections.
+- [R562 v472](Yin_R_G0562_v472.md#finding) checks independent signs of quadratic discriminants, unramified extensions after imaginary base change and the resulting ordinary class group and degree bounds.
+- [R562 v471](Yin_R_G0562_v471.md#finding) checks the sixteen square-offset irreducibility certificates, the counts of modular candidates and the exact finite root signatures.
+- [R562 v470](Yin_R_G0562_v470.md#finding) checks the quartic endpoint factorization at every prime and the parity criteria for the rational factor carrying the negative exterior root.
+- [R562 v469](Yin_R_G0562_v469.md#finding) verifies false signed divisors through logarithmic precision on every admissible odd progression, the overlap bound and the extra hypothesis for degrees near one third.
+- [R562 v468](Yin_R_G0562_v468.md#finding) checks the quartic pole lifts, equality of the integral orders and the projected discriminant estimate for every divisor of the first exponent.
+- [R562 v467](Yin_R_G0562_v467.md#finding) verifies the squarefree trace bound for each of the two final coprime rows, including nonmonic roots and the fixed-input example.
+- [R562 v466](Yin_R_G0562_v466.md#finding) checks the independent alternating actions, signed determinant, exterior-count rounding and degree threshold with a varying first exponent.
+
 - [R562 v465](Yin_R_G0562_v465.md#finding) independently reconstructs the two Hensel lifts at exponent 893 and their signed residues 7 and 4 modulo nine, certifying the full degree-900 core.
 - [R562 v464](Yin_R_G0562_v464.md#finding) verifies recovery of every rational trace divisor from its signed pole resultant at three, the finite precision bound and the sign change in the Salem criterion.
 - [R562 v463](Yin_R_G0562_v463.md#finding) verifies the dyadic common-factor multiplicities, inertia support and the exponent 424 in the necessary slope bound for an imprimitive trace action.

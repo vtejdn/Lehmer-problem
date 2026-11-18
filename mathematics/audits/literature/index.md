@@ -215,6 +215,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [McM11](McM11/readme.md) | [Yin_U001](McM11/Yin_U001.md) |
 | [Mer13](Mer13/readme.md) | [Yin_U001](Mer13/Yin_U001.md) |
 | [Mig78](Mig78/readme.md) | [Yin_U001](Mig78/Yin_U001.md) |
+| [Mil96](Mil96/readme.md#quadratic-conductor) | The finite cyclotomic conductor of a quadratic field in Example 3.11. |
 | [Miy22](Miy22/readme.md) | [Yin_U001](Miy22/Yin_U001.md), [Yin_U002](Miy22/Yin_U002.md), [Yin_U003](Miy22/Yin_U003.md), [Yin_U004](Miy22/Yin_U004.md), [Yin_U005](Miy22/Yin_U005.md), [Yin_U006](Miy22/Yin_U006.md), [Yin_U007](Miy22/Yin_U007.md), [Yin_U008](Miy22/Yin_U008.md), [Yin_U009](Miy22/Yin_U009.md) |
 | [Miy26](Miy26/readme.md) | [Yin_U001](Miy26/Yin_U001.md), [Yin_U002](Miy26/Yin_U002.md), [Yin_U003](Miy26/Yin_U003.md), [Yin_U004](Miy26/Yin_U004.md), [Yin_U005](Miy26/Yin_U005.md), [Yin_U006](Miy26/Yin_U006.md), [Yin_U007](Miy26/Yin_U007.md), [Yin_U008](Miy26/Yin_U008.md) |
 | [Mor14](Mor14/readme.md) | [Yin_U001](Mor14/Yin_U001.md) |

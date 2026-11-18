@@ -79,3 +79,48 @@ The program enumerates the fixed sample, divides out the cyclotomic polynomials,
 It checks \(H(2)=1\), \(H(-2)=c^2/5^{\mathbf1_{\Phi_{10}\mid C}}\), and reconstructs each modular trace from its irreducible factors before intersecting degrees.
 It prints all 16 rows with the removed cyclotomic orders and full core degrees.
 An [independent reconstruction](../../../audits/reviews/Yin_R_G0562_v471.md#finding) verified every row and the finite root exclusions.
+
+<a id="single-prime"></a>
+## One good prime excludes all short odd degrees in each direction
+
+For each of the same 16 traces, test primes \(2\le p\le199\) in increasing order and skip \(p\) when \(\gcd(\bar H,\bar H')\ne1\), equivalently \(p\mid\operatorname{disc}H\).
+At a good prime let \(v_p\) be the smallest odd degree of a monic irreducible factor of \(\bar H\).
+Such a factor exists since \(n\) is odd in every row.
+Every odd-degree divisor contains an odd-degree irreducible factor, and that factor is itself a divisor.
+Thus \(av_p\ge b\) excludes every odd rational trace-divisor degree \(j<b/a\) using \(p\) alone.
+
+| \(a\) | \(c\) | \(b\) | Least good \(p\) with \(av_p\ge b\) | \(v_p\) |
+| ---: | ---: | ---: | ---: | ---: |
+| 5 | 13 | 199 | 7 | 93 |
+| 5 | 17 | 319 | 7 | 89 |
+| 5 | 19 | 391 | 29 | 119 |
+| 5 | 21 | 471 | 2 | 197 |
+| 7 | 19 | 403 | 2 | 171 |
+| 7 | 23 | 571 | 157 | 249 |
+| 7 | 25 | 667 | 11 | 279 |
+| 7 | 27 | 771 | 2 | 237 |
+| 9 | 29 | 895 | 3 | 161 |
+| 9 | 31 | 1015 | 2 | 273 |
+| 9 | 35 | 1279 | 2 | 185 |
+| 9 | 37 | 1423 | 53 | 729 |
+| 11 | 37 | 1435 | 5 | 451 |
+| 11 | 39 | 1587 | 2 | 781 |
+| 11 | 41 | 1747 | 3 | 463 |
+| 11 | 43 | 1915 | 5 | 195 |
+
+One good prime suffices in all 16 directions, including all 13 in which the original reduction modulo three permitted a short odd degree.
+Overall, six directions already work at two.
+At \((a,c)=(7,23)\), all 36 primes below 157 are good and all permit a short odd degree.
+The conclusion about the negative root in each individual sample still follows from the [full rational irreducibility certificates and exact root counts](#certificate).
+
+Run the [single-prime diagnostic](single_prime.py) from the repository root with the same Python and python-flint versions as above.
+
+~~~~powershell
+python mathematics/computations/programs/Yin_J_G0176/single_prime.py
+~~~~
+
+For each direction the program prints all skipped primes, every smaller good prime with its minimum odd degree, and the first witness with its minimum.
+It reconstructs each factored good reduction and checks the minimum against all attainable odd subset degrees.
+A separate Frobenius calculation verified all 92 pairs of a direction and a prime up to its first witness, including seven bad reductions.
+For this check one successively removes the degree-\(j\) block \(\gcd(\bar H_{\rm rem},Y^{p^j}-Y)\) from the squarefree remainder in increasing \(j\), stopping at the first odd \(j\) with a nonconstant block or when the remaining polynomial has degree less than \(2j\) and is therefore irreducible.
+An [independent resultant and Frobenius check](../../../audits/reviews/Yin_R_G0562_v475.md#finding) reproduced the 16 minima and every smaller good-prime failure.

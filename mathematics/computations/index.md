@@ -1,6 +1,7 @@
 # Computations Index
 
 - [J176](programs/Yin_J_G0176/readme.md#sample) proves irreducibility of 16 quartic square-offset cores of degrees 218 through 1958. Their reductions modulo three leave 122 false odd-degree divisor candidates, all excluded using primes at most 11.
+  Each sample also has a [single good prime excluding all short odd degrees](programs/Yin_J_G0176/readme.md#single-prime), with least witnesses between 2 and 157.
 
 - [J175](programs/Yin_J_G0175/readme.md#census) factors all 480 quartic sections with first exponent three and coprime second exponent through 720. Every section has one nontorsion rational factor, with [signed Salem factors](programs/Yin_J_G0175/readme.md#exterior) at second exponents two and four.
 

@@ -13,6 +13,28 @@ Sections 7--8 on pages 18--23 were additionally read for the bounded explicit-ex
 The title/contents page and printed pages 1, 10--11, 15 and 21 were also checked visually against the retained PDF, including the conjugation bars, ideal equation and numbered examples.
 This is direct statement and construction-interface reading, not an independent proof audit of the paper or of its class-field-theoretic inputs.
 
+<a id="artin-sign"></a>
+## Principal ideal signs and the ordinary class group
+
+Section 5 sets up the reciprocal quadratic extension \(K/k\) on printed page 12 and identifies \(T\) on printed page 13 with the real places of \(k\) that become complex in \(K\).
+The extension is unramified at every finite prime.
+The restricted ideal class group \(C_k^+(T)\) is the group of fractional ideals modulo principal ideals with a generator positive at every place in \(T\).
+Identifying the quadratic Galois group with \(\{+1,-1\}\), the Artin map sends split primes to \(+1\) and inert primes to \(-1\).
+For \(\alpha\in k^\times\), equation (5.1) gives
+\[
+       A\bigl((\alpha)\bigr)=\prod_{\tau\in T}\operatorname{sgn}(\tau(\alpha)).
+\]
+In particular the product is \(+1\) for any unit of \(k\), since its principal ideal is the identity. [Author edition, printed page 13, PDF page 14](https://people.math.harvard.edu/~ctm/papers/home/text/papers/unim/unim.pdf#page=14)
+
+Proposition 5.1 on the same page states the exact sequence \(C_K\xrightarrow{N}C_k^+(T)\xrightarrow{A}\operatorname{Gal}(K/k)\to 0\) for a finite abelian extension unramified outside the specified real places.
+Its proof passes from idèles to ideal classes on printed pages 13–14 (PDF pages 14–15).
+For a totally imaginary base \(k\) and a finite abelian extension \(K/k\) unramified at all finite places, \(T=\varnothing\) and \(C_k^+(\varnothing)=\operatorname{Cl}(k)\).
+The ordinary ideal class group thus surjects onto \(\operatorname{Gal}(K/k)\) with kernel \(N_{K/k}\operatorname{Cl}(K)\), so \([K:k]\) divides the ordinary class number. [Author edition, proof continuing on printed page 14](https://people.math.harvard.edu/~ctm/papers/home/text/papers/unim/unim.pdf#page=15)
+
+For an application after finite base change, persistence of finite-place unramifiedness is a separate local input.
+For example, the integer ring of an unramified local extension is finite étale over the base valuation ring, and tensoring with the new complete valuation ring preserves finite étaleness in each local factor.
+The source verification here covers the definitions, equation (5.1), and the statement and idèlic reduction of Proposition 5.1.
+
 <a id="unramified-reciprocal"></a>
 ## Unramified polynomial and realization theorem
 
