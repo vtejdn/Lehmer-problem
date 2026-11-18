@@ -36,7 +36,9 @@ For the proof direction, two separate questions remain even when the cyclotomic 
 First, determine which growing primes permit a fixed number of residue classes on varying inputs of small positive measure.
 At a ramified prime the [multiplicities of primitive roots of the same order](../ledger/Yin_L_G0462_v147.md#multiplicities) can already exclude all multipliers.
 Where a representation remains possible, the [degree and coefficient tests](../claims/Yin_C_G0345_v348.md#carrier) bound the search using the original irreducible polynomial.
-For the degree-ten Lehmer polynomial, the general two- and three-class prime bound leaves only \(53\) above \(47\), and the [exact rank calculation](../computations/programs/Yin_J_G0167/readme.md#p53) excludes that prime as well.
+The [intersection bound on the original diagonal](../claims/Yin_C_G0345_v349.md#statement) gives \(p\le\deg P+20\) for two or three classes and \(p\le\deg P+9\) for two classes.
+For the degree-ten Lehmer polynomial, the [exact ranks at 29](../computations/programs/Yin_J_G0167/readme.md#p29) rule out three classes there, so any cyclotomic multiple occupies at least four classes at every prime \(p\ge29\).
+At two classes, the [integer seed test](../ledger/Yin_L_G0462_v148.md#lehmer) excludes every prime \(p\ge17\).
 Use varying families to identify a property that follows from small measure and forces a representation at some admissible prime.
 Second, on such a representation, bound the [integrated loss near phase coincidences](../claims/Yin_C_G0345_v345.md#consequence) on the actual factor carrying the input.
 For three rows the [middle coefficient test](../claims/Yin_C_G0345_v344.md#lift) locates the arcs with two unit roots.

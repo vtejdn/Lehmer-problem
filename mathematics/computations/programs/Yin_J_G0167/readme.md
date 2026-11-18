@@ -2,7 +2,7 @@
 author: Yin
 ---
 
-# The three-class multiple test for the Lehmer polynomial at modulus 53
+# Three-class multiple tests for the Lehmer polynomial modulo 53 and 29
 
 <a id="p53"></a>
 ## Finite exclusion
@@ -39,3 +39,25 @@ All determinants were positive, and the least was \(27\,346\,309\,442\), attaine
 Both rank checks use the same exact power vectors.
 This finite result applies at the stated modulus and degree cap.
 The [independent reproduction](../../../audits/reviews/Yin_R_G0562_v349.md#p53-review) uses separate polynomial divisions and exact maximal minors and verifies how this computation completes the prime bound for the degree-ten input.
+
+<a id="p29"></a>
+## Exclusion at modulus 29 through degree 32
+
+No nonzero multiple of \(L\) in \(\mathbb Q[x]\) of degree at most 32 has support contained modulo 29 in \(\{0,a,b\}\) for \(1\le a<b\le28\).
+For any such pair, the allowed exponents are \(0,a,b,29\), together with \(29+a\) if \(a\le3\) and \(29+b\) if \(b\le3\).
+Of the \(\binom{28}{2}=378\) supports, 300 have four exponents, 75 have five and three have six.
+
+The [modulus-29 verifier](verify_p29.py) constructs each support by scanning all exponents from zero through 32.
+It uses the [integer remainder and maximal-minor routines](checks/maximal_minors.py) to divide the permitted monomials by \(L\) and expand all maximal minors of the resulting coefficient matrix along successive columns.
+At least one maximal minor was nonzero for every pair.
+Thus each matrix has independent columns over \(\mathbb Q\), proving the exclusion for arbitrary coefficients.
+Run the following command from the repository root with Python 3.8 or later and its standard library.
+
+~~~~powershell
+python -B mathematics/computations/programs/Yin_J_G0167/verify_p29.py
+~~~~
+
+If a cyclotomic multiple of \(L\) occupied two or three residues at 29, the [degree estimate for the surviving factor](../../../claims/Yin_C_G0345_v349.md#degree) would give a diagonal multiple of \(L\) of degree at most \(\lfloor 10\cdot29/(29-20)\rfloor=32\).
+The fast width is at most two, so this diagonal occupies at most three residues, including zero after its least exponent is shifted to zero.
+The calculation excludes every such multiple, regardless of the degree of the initial cyclotomic multiplier.
+The [independent verification](../../../audits/reviews/Yin_R_G0562_v350.md#lehmer-p29-review) also checks the application to every prime at least 29.

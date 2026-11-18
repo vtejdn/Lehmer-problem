@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v148](Yin_L_G0462_v148.md#finite) | Cyclotomic padding for two residue classes | Bounds for the seed degree and offset, including the exclusion of every prime at least 17 for the degree-ten Lehmer input. |
 | [Yin_L_G0462_v147](Yin_L_G0462_v147.md#multiplicities) | Root multiplicities at the support prime | A prime-specific lower bound for the number of occupied classes under every cyclotomic multiplier, and a reciprocal family requiring at least half the classes. |
 | [Yin_L_G0462_v146](Yin_L_G0462_v146.md#coverage) | Prime residue coverage after cyclotomic multiplication | Removing the common row factor and obtaining a six-term multiple of a dense Salem family. |
 | [Yin_L_G0464_v23](Yin_L_G0464_v23.md) | Five profile-specific resultant ceilings | An integral moment comparison with the endpoint atom and the equivalence of the fixed zero profile with growing exceptional parents. |

@@ -18,3 +18,18 @@ It counts points of all orders and imposes no parity restriction on either coord
 Lemma 2 on the same page bounds the number of intersections in the two-dimensional torus for two curves with no common component by the area of the Minkowski sum of their Newton polygons minus the two individual areas.
 The proof of the main theorem in Section 4.4 uses sign changes and coordinate squaring to produce intersections counted by that lemma.
 The theorem statement, area convention and this proof step were checked on 2026-11-16.
+
+<a id="intersection-multiplicities"></a>
+## Torus intersections counted with multiplicity
+
+Lemma 2 in Section 4.2, p. 7 of the [author edition](readme.md#editions), counts the distinct common zeros of two complex Laurent polynomials \(f,g\) whose curves have no common component.
+The proof on p. 8 gives a bound on the sum of their local intersection multiplicities \(i_z(f,g)\) over all common zeros in \(T=(\mathbb C^\times)^2\).
+Writing \(P,Q\) for the respective Newton polygons and \(V\) for ordinary Euclidean area, the bound is
+\[
+\sum_{\substack{z\in T\\ f(z)=g(z)=0}} i_z(f,g)
+\le V(P+Q)-V(P)-V(Q).
+\]
+Beukers and Smyth identify the right side with twice the mixed volume in their convention and invoke Fulton's strengthening of the Bernstein–Kouchnirenko–Khovanskii bound, citing [F], p. 122.
+Their special case assumes that \(g\) has the same support as \(f(x^k,y^k)\) for a positive integer \(k\).
+Then \(Q=kP\), so the mixed area is \(((1+k)^2-1-k^2)V(P)=2kV(P)\).
+The 2026-11-18 inspection covered the lemma and both paragraphs of its proof in the author edition.

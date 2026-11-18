@@ -1,6 +1,6 @@
 # Computations Index
 
-- [J167](programs/Yin_J_G0167/readme.md#p53) excludes every degree-at-most-106 multiple of Lehmer's polynomial supported on three residues including zero modulo 53 by checking all 1,326 sets of powers.
+- [J167 at 29](programs/Yin_J_G0167/readme.md#p29) and [at 53](programs/Yin_J_G0167/readme.md#p53) exclude three occupied residues for bounded-degree multiples of the Lehmer polynomial by checking respectively 378 and 1,326 sets of powers.
 
 - [J166](programs/Yin_J_G0166/readme.md#finite-results) certifies irreducibility of the noncyclotomic factors for both signs at five simultaneous splitting delays for the equal prime blocks 2 and 3, by intersecting modular degree sets of their traces.
 

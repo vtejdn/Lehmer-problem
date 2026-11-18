@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v350](Yin_R_G0562_v350.md#diagonal-torsion-area-review) checks the multiplicity bound from three conjugates, the two-row benchmark at primes at least 17, and the independent rank calculation completing the four-class bound at 29.
 - [R562 v349](Yin_R_G0562_v349.md#p53-review) reproduces the ranks at 53 by exact maximal minors and verifies the exclusion of fewer than four residue classes for every prime at least 53.
 - [R562 v348](Yin_R_G0562_v348.md#finite-padding-review) checks the finite search for unrestricted cyclotomic multipliers, integral collisions, and the prime bound for two or three classes.
 - [R562 v347](Yin_R_G0562_v347.md#padded-neutral-factor-review) checks the multiplicity bound for cyclotomic roots, isolates the factor carrying the original input, and verifies its degree and neutral-root loss.
