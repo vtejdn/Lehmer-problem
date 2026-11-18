@@ -91,7 +91,9 @@ At width four the [quartic Salem rate](../claims/Yin_C_G0345_v410.md#quartic) no
 At width five examine the [remaining reciprocal quadratics](../claims/Yin_C_G0345_v410.md#quadratic) with nonzero outer coefficient, where the two leading row vectors are independent.
 The two seed polynomials are known, so both the circle constraints and the collisions of their powered conjugates can be imposed on the same quadratic.
 The [leading coefficient lattice](../ledger/Yin_L_G0462_v248.md#index) restricts its outer coefficient, but in 22 of the first 24 seed and prime cases this divisibility allows a nonzero value below the ceiling.
-Test the full integral combinations of the two degree-four generators and their first shifts, using the inner coefficient of the quadratic as well.
+The [endpoint exclusion](../ledger/Yin_L_G0462_v249.md#endpoints) further requires \(d^2\ne4c^2\) for a quotient \(cY^2+dY+c\), since dividing at \(Y=1\) or \(-1\) would give a small degree-four graph.
+Test the full integral combinations of the two degree-four generators and their first shifts for these quadratics with distinct roots.
+To use such exclusions in the unrestricted gap criterion, the lower rate eventually has to hold for row degrees tending to infinity.
 Any gain from reduction at \(p\) needs information beyond [divisibility of the resultant by \(p^{\deg P}\)](../ledger/Yin_L_G0462_v244.md#sharp), since this valuation is attained inside the search box.
 For several primes, [a common pair of rows](../ledger/Yin_L_G0462_v243.md#common) also characterizes a zero gap if its log cost is small relative to the sum of the primes.
 The [exact fixed-degree algorithm](../claims/Yin_C_G0345_v409.md#statement) permits comparison of actual least costs and attaining rows as the prime or the width varies.

@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v249](Yin_L_G0462_v249.md#signs) | Equal edges at a fixed quartic Salem seed | At either sign, equal edges occur at finitely many exponents, with exactly two odd-prime exceptions across the two seed polynomials. The residual quadratic at width five has distinct roots. |
 | [Yin_L_G0462_v248](Yin_L_G0462_v248.md#basis) | Leading coefficients of the two quartic rows | Two width-four pairs generate every larger rational kernel. The integral leading indices can be computed from eight-dimensional column lattices and restrict the width-five outer coefficient. |
 | [Yin_L_G0462_v247](Yin_L_G0462_v247.md#five) | The outer coefficient at width five | A two-point derivative identity excludes every width-three double-root graph at a fixed quartic Salem seed and gives an improved rate at width five when the outer determinant coefficient vanishes. |
 | [Yin_L_G0462_v246](Yin_L_G0462_v246.md#width) | A squared Salem rate at width four | Collisions between the two powered inverse pairs and the real exterior root force a coefficient rate at least twice the log measure at a fixed quartic Salem seed. |

@@ -181,6 +181,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [LL25](LL25/readme.md) | Source and edition notes |
 | [LLL82](LLL82/readme.md) | [Reduced-basis inequalities](LLL82/Yin_U001.md#reduction) and [bit complexity for an explicit integer basis](LLL82/Yin_U001.md#complexity) |
 | [Len83](Len83/readme.md#geometry) | Maximum-volume vertex simplices and recursion on parallel lattice hyperplanes in fixed dimension. |
+| [Lec53](Lec53/readme.md#edition) | [Zero indices of exponential polynomials](Lec53/Yin_U001.md#zero-set) and [residue classes of the power exponents](Lec53/Yin_U001.md#torsion-classes). |
 | [LN23](LN23/readme.md) | Source and edition notes |
 | [LP17](LP17/readme.md) | Source and edition notes |
 | [LR17](LR17/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#finite-difference-normalization-check): finite-difference mesh input and monic-normalization check |

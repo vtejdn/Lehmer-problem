@@ -1,5 +1,6 @@
 # Reviews Index
 
+- [R562 v513](Yin_R_G0562_v513.md#finding) checks each reversal sign, the exact odd-prime exceptions for the two positive quartic seeds, and the exclusion of both endpoint factors at width five.
 - [R562 v512](Yin_R_G0562_v512.md#finding) checks the quartic row module, the leading lattice indices and all 24 sample values by independent determinantal-divisor computations.
 - [R562 v511](Yin_R_G0562_v511.md#finding) checks the eventual width-four cutoff, both improved coefficient rates, the sign change and the size of the remaining quadratic at width five.
 - [R562 v510](Yin_R_G0562_v510.md#finding) checks the width-three two-point obstruction, uniformity near the unit-circle endpoints, and the reduction of the width-five graph.
