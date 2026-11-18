@@ -40,9 +40,10 @@ Test the remaining fixed case \(Q_0(0)\equiv2\bmod4\), \(Q'_0(0)\) odd, and trac
 For independent supply, the [exterior-pair partition](../ledger/Yin_L_G0462_v169.md#partition) identifies the factorization problem on the two-exponent cubic family.
 The [individual measure degree](../ledger/Yin_L_G0462_v183.md#criterion) recovers the allocation exactly when the exponent ratio grows.
 The [sextic specialization](../ledger/Yin_L_G0462_v183.md#sextic) exhibits the relevant exterior product and verifies its degree by reduction at two primes.
-For sufficiently large primitive directions [arbitrary common dilations](../claims/Yin_C_G0345_v387.md#statement) preserve all individual factors and their measures.
+In every primitive direction [arbitrary common dilations](../claims/Yin_C_G0345_v388.md#statement) preserve all individual nontorsion factors and their measures.
 The [torsion-translate theorem](../ledger/Yin_L_G0462_v185.md#torsion-twists) permits the original untwisted specialization to be exceptional in each direction.
 Test that specialization itself for a rational split using the [prime restrictions on the trace fields](../claims/Yin_C_G0345_v385.md#statement) and the [rational parity characters](../ledger/Yin_L_G0462_v187.md#endpoints).
+The [trace factor criterion](../ledger/Yin_L_G0462_v190.md#density) gives the density of primes in each reduced residue class that certify a single core if that core is irreducible.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
 The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
@@ -68,6 +69,8 @@ For a proof of cofactor growth from resultants on all witnesses, [short polynomi
 At several prescribed primes the [reciprocal calculation](../ledger/Yin_L_G0462_v171.md#disks) exhibits this exponent growth with small total index on the \(pd\) scale.
 For inputs of small index, test the angular distribution forced by [hyperbolic disk localization](../claims/Yin_C_G0345_v381.md#several) together with integrality of the rows.
 For reciprocal witnesses, compare the [freedom in the centered derivative](../ledger/Yin_L_G0462_v186.md#freedom) with the denominators that clearing the two row jets actually costs.
+The [integral trace congruences](../ledger/Yin_L_G0462_v189.md#even) hold even at ramified primes.
+The primitive zero-remainder examples leave their cofactor measure as the next quantity to determine.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.

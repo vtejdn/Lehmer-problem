@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v429](Yin_R_G0562_v429.md#finding) checks the bounded-slope factor gap, the global equivalence with a vanishing exterior share and its consequence conditional on Schinzel's conjecture.
+- [R562 v428](Yin_R_G0562_v428.md#finding) checks the complete power classification in all primitive directions, the archimedean and residue bounds and the passage from primes to every positive exponent.
+- [R562 v427](Yin_R_G0562_v427.md#finding) checks the finite-field orbit computation for all remaining primes and its coverage of every coprime exponent pair in the required range.
+- [R562 v426](Yin_R_G0562_v426.md#finding) checks the modular trace criterion, its exact densities in residue classes and three rational irreducibility certificates.
+- [R562 v425](Yin_R_G0562_v425.md#finding) checks the local ramification bounds at three, five and seven and independently verifies the entire low-degree reciprocal enumeration.
+- [R562 v424](Yin_R_G0562_v424.md#finding) checks the centered derivative congruences in the integral trace order and the primitive coprime witnesses with zero remainder.
 - [R562 v423](Yin_R_G0562_v423.md#finding) checks the first Frobenius correction, the finite box for odd powers and irreducibility under every common dilation outside that box.
 - [R562 v422](Yin_R_G0562_v422.md#finding) checks the sparse divisor bound, the square-root measure and degree estimates and their uniformity under power lifts.
 - [R562 v421](Yin_R_G0562_v421.md#finding) checks the sharp exterior-pair threshold and the integer crossing count, including tangencies and the near-critical asymptotics.

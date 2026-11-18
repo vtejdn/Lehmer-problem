@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v191](Yin_L_G0462_v191.md#criterion) | Where a shrinking cubic factor would have to occur | All bounded slopes have a uniform factor gap. Over the full family the existence question is equivalent to a vanishing exterior share along primitive directions of growing slope. |
+| [Yin_L_G0462_v190](Yin_L_G0462_v190.md#criterion) | A modular criterion for a single cubic factor | A long cycle on the roots of the trace polynomial certifies irreducibility, with exact densities in reduced residue classes and three verified examples. |
+| [Yin_L_G0462_v189](Yin_L_G0462_v189.md#odd) | Integral residues of a centered derivative | Odd and even spans give trace-order congruences. Primitive witnesses can have nonzero derivative and zero remainder for every admissible input. |
 | [Yin_L_G0462_v188](Yin_L_G0462_v188.md#limit) | Square-root lower bound for cubic factors | Each nontorsion factor and each power lift has an explicit lower bound for its measure and degree as the exponent ratio grows. |
 | [Yin_L_G0462_v187](Yin_L_G0462_v187.md#quotient) | Rational splitting groups of the cubic factors | Trace discriminants and endpoint square classes determine the signs in the rational action on all roots. |
 | [Yin_L_G0462_v186](Yin_L_G0462_v186.md#cofactor) | Denominators and centered derivatives of double-root witnesses | Local denominators can have primes outside the power index. A vanishing centered derivative costs at least the input measure times the prime asymptotically. |

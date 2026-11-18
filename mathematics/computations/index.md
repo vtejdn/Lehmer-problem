@@ -1,5 +1,9 @@
 # Computations Index
 
+- [J172](programs/Yin_J_G0172/readme.md#orbits) checks all 28 remaining finite characteristics through 131 for odd powers in the cubic family. The maximum sum of eligible residual orbit degrees is four.
+
+- [J171](programs/Yin_J_G0171/readme.md#classification) excludes third, fifth and seventh powers throughout the cubic family by a ramification test and exact enumeration of reciprocal polynomials through degree six.
+
 - [J170](programs/Yin_J_G0170/readme.md#census) factors all 1,108 primitive cubic specializations through degree 104 and counts their exterior roots. Five are purely cyclotomic and the other 1,103 each have a single nontorsion irreducible factor.
 
 - [J169](programs/Yin_J_G0169/readme.md#enumeration) checks all 3,468 remaining primitive exponent pairs for the dyadic square-class test and excludes each of the 15 final integral divisor candidates.

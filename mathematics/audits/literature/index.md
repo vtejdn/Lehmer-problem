@@ -165,6 +165,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [KP15](KP15/readme.md) | [Yin_U001](KP15/Yin_U001.md#kp15-u001): open continuants, Alexander substitution and the cyclic-boundary applicability limit. |
 | [KPV22](KPV22/readme.md) | [Yin_U001](KPV22/Yin_U001.md) |
 | [KS24](KS24/readme.md) | [Logarithmic vectors from three quadratic subfields](KS24/Yin_U001.md#biquadratic-units) |
+| [KW22](KW22/readme.md) | [Natural densities of Frobenius classes](KW22/Yin_U001.md#kw22-u001) |
 | [KY14](KY14/readme.md) | Source and edition notes |
 | [Kar26](Kar26/readme.md) | Source and edition notes |
 | [Keh25](Keh25/readme.md) | [Yin_U001](Keh25/Yin_U001.md) |
