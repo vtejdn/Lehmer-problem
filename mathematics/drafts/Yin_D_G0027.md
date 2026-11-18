@@ -614,6 +614,24 @@ The Lehmer polynomial has \([z^9]P=1\), so the present defect is nonzero, with a
 The [two-point bound](../claims/Yin_C_G0345_v4.md#statement) also bounds the excess below by the fixed positive exterior trace excess of this return.
 The example realizes the \(w+1\) factor with excess below one at the prescribed constant, while a sequence tending to zero must have varying exterior returns.
 
+<a id="square-return"></a>
+## What can be prescribed at the square constant
+
+For each fixed Salem minimal polynomial \(P_0\), every sufficiently large even \(d\) admits a degree-\(d\) Pisot inverse with positive constant \(d^2\) whose sole noncyclotomic return factor is \(P_0\).
+The [degree-by-degree minimum excess](../claims/Yin_C_G0345_v370.md#statement) therefore tends to the infimum of \(\sigma+\sigma^{-1}-2\) over Salem numbers.
+An additional requirement on the defect still has to be checked on the particular inverse.
+
+<a id="square-interpolation"></a>
+The [neutral-node interpolation test](../claims/Yin_C_G0345_v369.md#square-interpolation) bounds the necessary correction in terms of the derivatives at all neutral trace roots and checks the strict endpoint inequality at the prescribed \(q\).
+
+<a id="square-salem-family"></a>
+Without padding, the [family tending to the plastic number](../claims/Yin_C_G0345_v369.md#square-return) already gives changing minimal Salem outputs at \(q=d^2\), with Pisot excess tending to approximately \(0.079596\).
+
+<a id="square-padding"></a>
+With padding, the [single-grid construction](../claims/Yin_C_G0345_v369.md#square-padding) keeps the ratio \(P(-1)/|P(1)|\) of the selected Salem factor on an unbounded subsequence.
+For all even degrees, the [odd-order degree correction](../claims/Yin_C_G0345_v370.md#degree-filler) divides that ratio by the bounded factor \(L+1\).
+Thus an endpoint test in a prescribed defect class uses the full return, including this factor.
+
 <a id="remaining"></a>
 ## Remaining escape patterns
 
@@ -623,4 +641,5 @@ At sublinear pair height its ratio is fixed by \(q,j,S\), and the [next pair](#i
 In the two exact symmetry classes the [half-degree stability test](#reversal-stability) and the content bound both apply.
 Other open patterns include both outer coefficients nonzero and \(a=0\), \(b\ne0\), \(c\ne0\).
 The relations \(b=\pm a\) and \(ae=bc\) identify specific arithmetic degeneracies worth testing; their occurrence is not asserted to produce a stable input.
-No quantitative positive gap for the full unrestricted model, stable construction, or new Salem output is established here.
+For unrestricted defects the [square-constant limit](#square-return) is now determined by the Salem trace infimum.
+Whether this infimum vanishes, and whether specific defect patterns realize shrinking excess, remain open.

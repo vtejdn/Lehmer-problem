@@ -146,6 +146,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Har55b](Har55b/readme.md) | Undated Harvard Math 55b course notes; source and contents navigation |
 | [Hec18](Hec18/readme.md) | [Yin_U001](Hec18/Yin_U001.md#hec18-u001): finite reflection classification and normalized A/B/D/F4 models |
 | [Hir06](Hir06/readme.md) | [Yin_U001](Hir06/Yin_U001.md) |
+| [Hoe63](Hoe63/readme.md) | [Yin_U001](Hoe63/Yin_U001.md#independent-sum) |
 | [Hou16](Hou16/readme.md) | [Yin_U001](Hou16/Yin_U001.md) |
 | [Hun74](Hun74/readme.md) | [Yin_U001](Hun74/Yin_U001.md), [Yin_U002](Hun74/Yin_U002.md), [Yin_U003](Hun74/Yin_U003.md), [Yin_U004](Hun74/Yin_U004.md), [Yin_U005](Hun74/Yin_U005.md), [Yin_U006](Hun74/Yin_U006.md), [Yin_U007](Hun74/Yin_U007.md) |
 | [JKS24](JKS24/readme.md) | [Yin_U001](JKS24/Yin_U001.md) |
@@ -256,6 +257,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Sch01](Sch01/readme.md) | [Yin_U001](Sch01/Yin_U001.md) |
 | [Sch09](Sch09/readme.md) | [Yin_U001](Sch09/Yin_U001.md), [Yin_U002](Sch09/Yin_U002.md) |
 | [Sch14](Sch14/readme.md) | [Yin_U001](Sch14/Yin_U001.md) |
+| [Sel56](Sel56/readme.md) | [Irreducibility of \(x^n-x-1\) in every degree \(n\ge2\)](Sel56/Yin_U001.md#sel56-u001) |
 | [Sha23](Sha23/readme.md) | [Yin_U001](Sha23/Yin_U001.md#sha23-u001): disk Rouche theorem with multiplicity |
 | [Sha74](Sha74/readme.md) | [Yin_U001](Sha74/Yin_U001.md) |
 | [Sim08](Sim08/readme.md) | [Yin_U001](Sim08/Yin_U001.md) |

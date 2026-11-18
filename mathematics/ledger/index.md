@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v156](Yin_L_G0462_v156.md#first-primes) | First admissible primes with zero isolated-pair weight | Rounding a Salem degree fixes the exact integer window and makes its first prescribed primes miss the arithmetic contribution. |
+| [Yin_L_G0462_v155](Yin_L_G0462_v155.md#simultaneous) | Sharp collision valuations for repeated quadratic factors | One integral multiple attains the square multiplicity exponent at every prime divisor of the power index away from the support prime. |
 | [Yin_L_G0462_v154](Yin_L_G0462_v154.md#disk) | A row resultant at several colliding power branches | Ramification on a scaled disk, contributions from distinct residue classes, and an exact minimum at a double root of an irreducible trinomial. |
 | [Yin_L_G0462_v153](Yin_L_G0462_v153.md#test) | A finite test for the two-class cofactor bound | An explicit sufficient threshold in every degree, a degree-ten prime interval, and matching-order degree bounds for two rows with a double zero. |
 | [Yin_L_G0462_v152](Yin_L_G0462_v152.md#separation) | Local row divisibility at a multiple zero | Congruences for all divided derivatives, a square exponent in the two-row resultant, and the obstruction at a simple zero. |

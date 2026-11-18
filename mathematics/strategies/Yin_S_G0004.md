@@ -25,6 +25,8 @@ On a shrinking-excess branch, test whether a common reciprocal factor extends to
 For exactly symmetric or antisymmetric defects, use the lower bound on their content and the [half-degree stability condition](../drafts/Yin_D_G0027.md#reversal-stability).
 The [paired coefficient identities](../drafts/Yin_D_G0027.md#paired-coefficients) give a separate test when both outer coefficients are nonzero.
 An admissible integer family must still yield positive return measures tending to one.
+The [limit at every even degree](../claims/Yin_C_G0345_v370.md#statement) identifies the minimum Pisot excess at constant \(+d^2\) with the Salem trace infimum in the limit.
+Use a fixed Salem output to calibrate the rounding error, then test constructions that can change the noncyclotomic factor as their excess decreases.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
 The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
@@ -35,7 +37,12 @@ Use the [row ideal and resultant](../ledger/Yin_L_G0462_v152.md#rows) to disting
 At auxiliary primes the [two-branch lengths](../claims/Yin_C_G0345_v365.md#length) add over distinct residue classes.
 The [resultant-to-measure inequality](../claims/Yin_C_G0345_v366.md#arithmetic) charges these lengths directly to the measure of the two-class multiple.
 The [trinomial control](../ledger/Yin_L_G0462_v154.md#example) gives exact local resultant valuations \(s\) and \(p^2s\) for the minimum with one copy and two copies respectively, at the same prime and input.
-For a prospective small-measure input, test whether summing over different branching depths can improve the estimate while counting each pair of roots only once.
+The [tree estimate](../claims/Yin_C_G0345_v367.md#length) now adds depth increments within a single residue class.
+The [isolated-pair calculation](../claims/Yin_C_G0345_v368.md#overlap) exhausts the first-order logarithmic index for each fixed input.
+For varying inputs, investigate which primes carry this index and how much of it survives in the row resultant when a whole residue class collides.
+The [exact index supported at three](../claims/Yin_C_G0345_v371.md#salem) gives a Salem test case in which omitting discriminant primes discards the entire index at several prescribed exponents.
+On its disks at three, examine the first nonzero reduction of the [scaled derivative polynomial](../claims/Yin_C_G0345_v367.md#jets) after dividing out its common valuation.
+For nonconstant inseparable reduction, test whether the first nonconstant unit coefficient of the local row ratio bounds this valuation in terms of the inseparability degree.
 
 <a id="all-cut-and-d4-feasibility"></a>
 The [adopted all-cut positivity theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) now covers every strict terminal cut for integer \(Q=tB_n+C\) with leading remainder coefficient two.
@@ -815,7 +822,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test varying small-excess returns against the endpoint ratio and full inverse, and quantify the contribution of auxiliary-prime collisions to the two-row resultant. |
+| priority | Seek changing Salem factors through the minima at positive square constant and test local resultant contributions at primes chosen for the input. |
 
 The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

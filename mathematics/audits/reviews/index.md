@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v376](Yin_R_G0562_v376.md#prescribed-primes-review) checks three simultaneous prime exceptions, the exact Salem power index and the first admissible primes of the actual degree window.
+- [R562 v375](Yin_R_G0562_v375.md#quadratic-collision-equality-review) checks simultaneous local equality for quadratic units and the full resultant at support prime two.
+- [R562 v374](Yin_R_G0562_v374.md#square-inverse-review) checks the square-constant Pisot construction, both padding arguments and the exact minimum-excess limit over even degrees.
+- [R562 v373](Yin_R_G0562_v373.md#isolated-pair-rate-review) checks the contribution of isolated pairs to the power index, the triple-overlap estimate and the fixed-input rate.
+- [R562 v372](Yin_R_G0562_v372.md#nested-disk-review) checks the nested-disk resultant bound, the separable critical-point count and the conditional comparison with the full local index.
 - [R562 v371](Yin_R_G0562_v371.md#sylvester-row-integral-review) checks the Sylvester determinant inequality, the transfer from local resultants and the uniform arithmetic hypothesis that would imply a gap.
 - [R562 v370](Yin_R_G0562_v370.md#scaled-disk-row-resultant-review) checks the higher-order conditions on a scaled disk, the contribution of distinct residue classes and the sharp double-root trinomial.
 - [R562 v369](Yin_R_G0562_v369.md#powered-collision-resultant-review) checks the prime-to-\(p\) power-index divisor, the local lengths at bad reduction and the example attaining the exponent.
