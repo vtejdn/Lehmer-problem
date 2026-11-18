@@ -59,6 +59,16 @@ The [trace factor criterion](../ledger/Yin_L_G0462_v190.md#density) gives the de
 On the odd primitive cubic directions with \(3\nmid a,\ b\equiv4a\bmod9\), the [simple trace orbit at two](../ledger/Yin_L_G0462_v196.md#ninth) singles out a reciprocal nontorsion factor.
 Determine whether this factor receives a positive proportion of the exterior roots and whether another nontorsion factor occurs.
 The [same high-slope existence question](../claims/Yin_C_G0345_v391.md#criterion) now applies to every fixed reciprocal seed degree, with all common substitutions accounted for.
+For the cubic, [adjoining every Salem splitting field and arbitrary solvable extensions of the totally real numbers](../claims/Yin_C_G0345_v394.md#statement) preserves every high-slope nontorsion rational factor.
+The [spectrum in extensions of one factor's root field](../ledger/Yin_L_G0462_v208.md#spectrum) also rules out a smaller measure from bounded relative degree unless that measure already occurs in the same absolute degree range.
+The [cubic modular examples](../ledger/Yin_L_G0462_v207.md#moduli) produce the same low-degree trace divisor simultaneously modulo many small integers despite its absence over the rationals.
+For a modular search, use an actual irreducibility certificate or rational factorization for the chosen input.
+For the quartic seed the [exact phase bound](../ledger/Yin_L_G0462_v210.md#phase) gives exactly three exterior roots at \(a=3,\ b>18\).
+Their assignment to one or two rational factors decides whether the negative root yields a Salem number.
+The [exact census through \(b=720\)](../computations/programs/Yin_J_G0175/readme.md#exterior) puts all three roots in one factor whenever \(18<b\le720\) and \(3\nmid b\).
+For a proposed split, compare the values of the Salem factor at the three exterior zeros of \(B(X^3)\), one negative and two nonreal.
+The [factor resultant identity](../ledger/Yin_L_G0462_v198.md#poles) makes each value an algebraic unit because \(B(T)+g(T)=-T(T^2+1)\), \(|g(0)|=1\), and \(g(i)g(-i)=1\).
+For the entire totally real construction route, count every conjugate outside \([-2,2]\) in the [exact trace sum](../claims/Yin_C_G0345_v395.md#spectrum).
 The [two-block factorization theorem](../audits/literature/DFV13/Yin_U001.md#dfv13-u001) requires the two blocks to differ from reversals up to sign.
 On rational graphs with several denominator factors, the [individual pole counts](../ledger/Yin_L_G0462_v198.md#poles) give restrictions on how a rational factor can receive exterior roots.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
@@ -90,7 +100,8 @@ The [integral trace congruences](../ledger/Yin_L_G0462_v189.md#even) hold even a
 The [constant-trace cost](../ledger/Yin_L_G0462_v192.md#cost) now gives a lower bound proportional to \(p\,m(P)\) under its reflection condition.
 For the least-denominator pencil the [three-layer test](../ledger/Yin_L_G0462_v195.md#test) identifies any surviving symmetric row exactly, and primes above the stated multiplicity threshold exclude it.
 On the nonconstant branch, even [nonzero remainders with nonproportional traces](../ledger/Yin_L_G0462_v199.md#obstruction) can have small normalized norms on admissible rows.
-Investigate whether the least-cofactor condition forces larger norms on those particular rows.
+Two [distinct coprime witnesses](../ledger/Yin_L_G0462_v206.md#division) simultaneously have small cofactors and small nonzero determinant norm in the shrinking regime.
+Examine the effect of the removed common reciprocal factor on the individual [reduced derivative remainders](../ledger/Yin_L_G0462_v206.md#remainders), including a possible change of parity.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.

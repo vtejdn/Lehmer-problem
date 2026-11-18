@@ -5,6 +5,7 @@ The source notes and units own their editions, inspected passages and actual ins
 
 | Work | Source notes and selected units |
 | --- | --- |
+| [FHV93](FHV93/readme.md) | Author edition and the field of totally real algebraic numbers. |
 | [ABR01](ABR01/readme.md) | Source and edition notes |
 | [AD00](AD00/readme.md) | [Yin_U001](AD00/Yin_U001.md) |
 | [AD07](AD07/readme.md) | [Unconditional relative height and the rational-base constant](AD07/Yin_U001.md#rational-base) |
@@ -46,6 +47,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BV19c](BV19c/readme.md) | Selected published-source scope; [C870](../../claims/Yin_C_G0870_v1.md#source-interfaces): Proposition 38's positive-divisor estimate and distinction from whole-polynomial measure |
 | [BV20](BV20/readme.md) | [Yin_U001](BV20/Yin_U001.md), [Yin_U002](BV20/Yin_U002.md), [Yin_U003](BV20/Yin_U003.md) |
 | [BZ01](BZ01/readme.md) | [Canonical Newton polygon](BZ01/Yin_U001.md#bz01-u001) |
+| [BZ01b](BZ01b/readme.md) | The height lower bound for normal fields of finite local degree. |
 | [BZ22](BZ22/readme.md) | [Yin_U001](BZ22/Yin_U001.md) |
 | [Bab18](Bab18/readme.md) | [Alternating sections and thickness of primitive groups](Bab18/Yin_U001.md#thickness) |
 | [Bel17](Bel17/readme.md) | [Yin_U001](Bel17/Yin_U001.md), [Yin_U002](Bel17/Yin_U002.md) |
@@ -112,6 +114,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [FKMR16](FKMR16/readme.md) | Source and edition notes |
 | [FFLP11](FFLP11/readme.md) | [Yin_U001](FFLP11/Yin_U001.md#fflp11-u001): Gaussian Picard generators and the integrality boundary |
 | [FLHC17](FLHC17/readme.md) | [Yin_U001](FLHC17/Yin_U001.md) |
+| [Fil14](Fil14/readme.md) | Totally local algebraic numbers and the integral height lower bound. |
 | [FM13](FM13/readme.md) | [Yin_U001](FM13/Yin_U001.md) |
 | [FM26](FM26/readme.md) | Source and edition notes |
 | [FP16](FP16/readme.md) | [Yin_U001](FP16/Yin_U001.md) |

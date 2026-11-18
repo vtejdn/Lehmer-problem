@@ -7,6 +7,9 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 
 | Concept group | Contents |
 | --- | --- |
+| [Totally local algebraic numbers](../audits/literature/Fil14/readme.md) | All conjugates over the base lie in a prescribed local field. [Fili's Definitions 1 and 2](../literature/pdf/Fil14--published.pdf#page=2) give the equivalent minimal-polynomial splitting condition. |
+| [Quadratic composita and towers of bounded adjunction degree](../claims/Yin_C_G0345_v396.md#statement) | Over a normal algebraic base, one construction adjoins all its quadratic extensions and the other allows repeated bounded-degree adjunctions with arbitrary solvable steps. |
+| [Totally real numbers and their solvable closure](../claims/Yin_C_G0345_v394.md#statement) | The field of algebraic numbers all of whose rational conjugates are real, and the union of its finite solvable Galois extensions in a fixed algebraic closure. |
 | [Dual lattices, covering radius and first minimum](../audits/literature/Ban95/Yin_U001.md#lattice-conventions) | Full-rank Euclidean lattices and gauges of origin-symmetric convex bodies; Ban95's normalization. |
 | [LLL-reduced Euclidean lattice basis](../audits/literature/LLL82/Yin_U001.md#reduction) | Gram–Schmidt coefficients, size reduction and the Lovász condition with parameter \(3/4\). |
 | [Alternating sections and group thickness](../audits/literature/Bab18/Yin_U001.md#thickness) | Babai's finite-group convention and the degree of a primitive action. |

@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v459](Yin_R_G0562_v459.md#finding) verifies the real exterior count at every positive slope, the quartic winding threshold \(b=6a\), and the Salem splitting criterion for every primitive \(a=3,\ b>18\).
+- [R562 v458](Yin_R_G0562_v458.md#finding) checks the alternating-block fixed-count moments, their prime densities in reduced congruence classes and the threshold for a fixed positive measure bound.
+- [R562 v457](Yin_R_G0562_v457.md#finding) verifies all 480 quartic trace irreducibilities by modular degree certificates and independently recomputes every Sturm signature, including both degree-14 Salem cases.
+- [R562 v456](Yin_R_G0562_v456.md#finding) checks spectral transfer over arbitrary normal fields, finiteness after unrestricted solvable steps at a fixed finite place, and the bound on partial trace splitting at prime powers.
+- [R562 v455](Yin_R_G0562_v455.md#finding) checks the exact tower degree after adjoining the solvable closure of the totally real field, the near-zero membership criterion and the sum over all exterior traces.
+- [R562 v454](Yin_R_G0562_v454.md#finding) verifies the relative-degree cap over a primitive cubic root field, the exact bounded spectrum and its minimum, including all torsion twists.
+- [R562 v453](Yin_R_G0562_v453.md#finding) checks the binary trace orbits, the common trace divisor at simultaneous moduli and the Eisenstein comparison.
+- [R562 v452](Yin_R_G0562_v452.md#finding) verifies all three simultaneous costs on the two final coprime rows and establishes the scope of the individual remainder estimate.
+- [R562 v451](Yin_R_G0562_v451.md#finding) checks the uniform radial Jensen bound, the unique real exterior branch, the quartic splitting test and the conditional use of Boyd's conjecture.
+- [R562 v450](Yin_R_G0562_v450.md#finding) verifies the cubic splitting group and its intersection over the enlarged totally real base, together with the exact tower degree for each moving element.
 - [R562 v449](Yin_R_G0562_v449.md#finding) independently verifies all 432 power witnesses, all 485 degree-compatible exclusions, and the 39 certificates for composite trace degrees. It checks the rational-transform conclusion against the complete output range.
 - [R562 v448](Yin_R_G0562_v448.md#finding) checks the quantitative height and width bounds for sparse relations, the allowable torsion order and sharpness of the relative-height bound when the effective support stays bounded.
 - [R562 v447](Yin_R_G0562_v447.md#finding) checks the quadratic extensions of a Salem trace field, the degree bound for independent bounded outputs, and the distinct minima for rational and integral changes of trace.
