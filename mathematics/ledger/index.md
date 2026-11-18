@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v263](Yin_L_G0462_v263.md#orders) | Residue orders at 101 | Resultants with cyclotomic polynomials exclude 47 orders and constrain the two endpoint cases. |
+| [Yin_L_G0462_v262](Yin_L_G0462_v262.md#exclusion) | The two-value test through prime 101 | Two different measures are excluded through 97. At 101 only two degree pairs remain and both discriminants must have prescribed divisibility. |
 | [Yin_L_G0462_v261](Yin_L_G0462_v261.md#ray) | Zeros and poles forced by repeated contact | The disk kernel has exact inertia for points on a common ray, and a fixed interior root gives a coefficient bound uniform in the row width. |
 | [Yin_L_G0462_v260](Yin_L_G0462_v260.md#descent) | Descent through a residual quadratic | The primitive residual of a passing width-nine octic has measure growing linearly in the exponent. |
 | [Yin_L_G0462_v259](Yin_L_G0462_v259.md#blocks) | Irreducible power substitutions | An exact residue-block minimum and uniform quartic estimates apply even as the dilation grows. |

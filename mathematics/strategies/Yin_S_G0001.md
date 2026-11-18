@@ -107,6 +107,8 @@ The [reduced rational function](../claims/Yin_C_G0345_v418.md#circle) gives an a
 One can require [a growing number of different factor degrees](../claims/Yin_C_G0345_v419.md#statement) with the same limiting mean cost, since lowering the measure is compatible with producing many irreducible dilations of a single seed.
 The [fixed total budget](../claims/Yin_C_G0345_v420.md#consequence) counts genuinely different measure values.
 At that budget, excluding a second value on an infinite prime subsequence would give the explicit lower bound \((\log2)/4-\log\rho\), where \(\rho\) is the degree-ten Lehmer number.
+The [finite exclusion](../ledger/Yin_L_G0462_v262.md#exclusion) now covers all primes through 97.
+At 101 any two-value example would already require two factors below the degree-ten benchmark, of degrees \((56,56)\) or \((56,58)\).
 For the octic at width nine that rate is bounded [below by \(21\log\rho/8\) and above by \(9\log\rho/2\)](../ledger/Yin_L_G0462_v255.md#bounds).
 The cutoff lies strictly between these bounds, and at each sign at most one rational line can qualify for sufficiently large exponents.
 The [finite width-nine minima](../computations/programs/Yin_J_G0177/versions/v2/readme.md#census) give a genuine hit for this octic at \(p=17\) and none at the other odd primes through 251.

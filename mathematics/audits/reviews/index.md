@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v540](Yin_R_G0562_v540.md#finding) checks the resultant bound and independently recovers all 47 excluded residue orders at 101.
+
+- [R562 v539](Yin_R_G0562_v539.md#finding) checks the exclusion through 97, the possible factor degrees and discriminants at 101, and the scope of the external degree theorem.
+
 - [R562 v538](Yin_R_G0562_v538.md#finding) checks the fixed-budget count of different measure values and its explicit two-value consequences.
 
 - [R562 v537](Yin_R_G0562_v537.md#finding) checks simultaneous high multiplicities, the supply of distinct degrees and the limiting mean cost.

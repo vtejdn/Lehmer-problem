@@ -203,6 +203,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [MPV98](MPV98/readme.md) | [Yin_U001](MPV98/Yin_U001.md), [Yin_U002](MPV98/Yin_U002.md) |
 | [MS05](MS05/readme.md) | [Yin_U001](MS05/Yin_U001.md) |
 | [MS05b](MS05b/readme.md) | [Small induced subgraphs of index greater than two](MS05b/Yin_U001.md#ms05b-u001) |
+| [MRW08](MRW08/readme.md) | [Degree threshold below Lehmer's measure](MRW08/Yin_U001.md#degree) and the two completeness ranges of the original searches. |
 | [MS12](MS12/readme.md) | [Yin_U001](MS12/Yin_U001.md) |
 | [MS12b](MS12b/readme.md) | [Yin_U001](MS12b/Yin_U001.md) |
 | [MS17](MS17/readme.md) | [Yin_U001](MS17/Yin_U001.md) |
