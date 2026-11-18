@@ -52,6 +52,8 @@ Thus an auxiliary prime outside \(s_p\) gives zero in every lower sum valid for 
 The [conductor calculation](../ledger/Yin_L_G0462_v162.md#conductor) computes \(s_p\) directly as the denominator of \(P'(\alpha)/Q'(\alpha^p)\) in the integral power basis, where \(Q\) is the minimal polynomial after powering.
 Use this computation to select a prime before estimating its local weights.
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
+For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.
+For varying inputs, compare the primes surviving this test against the [largest collision sum incident to one conjugate](../ledger/Yin_L_G0462_v163.md#comparison), keeping the correction at nonmaximal local orders.
 On nested disks with constant reduced row ratio, compare how often several original residues can stay in the same direction after rescaling.
 For one-copy tests involving nearby zeros, [Faber's radius bound](../audits/literature/Fab13/Yin_U001.md#rolle) places a critical point in an explicitly enlarged disk.
 Turning such locations into multiplicities that add over the tree remains a separate step.

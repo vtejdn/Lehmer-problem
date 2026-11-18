@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v387](Yin_R_G0562_v387.md#lehmer-window-review) independently reproduces the 24 powered-order calculations, isolated-pair identities and finite cofactor bounds for the degree-ten Lehmer polynomial.
+- [R562 v386](Yin_R_G0562_v386.md#local-exponent-review) checks the exact maximum of the local conjugate sums and the error at primes where the original order is nonmaximal.
 - [R562 v385](Yin_R_G0562_v385.md#power-conductor-review) checks the principal conductor at every multiplicity, the collision bound for the exponent and the exact denominator at good reduction.
 - [R562 v384](Yin_R_G0562_v384.md#salem-order-group-review) checks all cyclic summands of the Salem power-order quotient and the additive order of the original root.
 - [R562 v383](Yin_R_G0562_v383.md#fixed-norm-review) checks the fixed-norm cubic minimum, the positive-constant square bound and two descending sequences of Pisot numbers.

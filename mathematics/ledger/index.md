@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v163](Yin_L_G0462_v163.md#comparison) | Local exponent from the most heavily colliding conjugate | Exact at maximal local orders with a uniform-in-prime error controlled by the original order elsewhere. |
 | [Yin_L_G0462_v162](Yin_L_G0462_v162.md#conductor) | Recovering the order exponent from one inverse polynomial | A conductor formula for repeated roots, a nodewise lower bound and the exact denominator at a good powering prime. |
 | [Yin_L_G0462_v161](Yin_L_G0462_v161.md#group) | Invariant factors of the Salem power order | The full additive group and the exact denominator of the original root at three for every eligible degree. |
 | [Yin_L_G0462_v160](Yin_L_G0462_v160.md#input-bound) | Finite-place disks and the measure of the original unit | A lower bound with explicit constants for one selected powering prime and different rational expressions on individual disks. |

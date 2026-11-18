@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J168](programs/Yin_J_G0168/readme.md#exact) computes the powered-order index and exponent at all 24 primes of the degree-ten Lehmer window and [recovers the entire index from isolated pairs](programs/Yin_J_G0168/readme.md#isolated).
+
 - [J167 at 29](programs/Yin_J_G0167/readme.md#p29) and [at 53](programs/Yin_J_G0167/readme.md#p53) exclude three occupied residues for bounded-degree multiples of the Lehmer polynomial by checking respectively 378 and 1,326 sets of powers.
 
 - [J166](programs/Yin_J_G0166/readme.md#finite-results) certifies irreducibility of the noncyclotomic factors for both signs at five simultaneous splitting delays for the equal prime blocks 2 and 3, by intersecting modular degree sets of their traces.
