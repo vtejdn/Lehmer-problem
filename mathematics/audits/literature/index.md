@@ -183,6 +183,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [LR17](LR17/readme.md) | Source and edition notes; [L460](../../ledger/Yin_L_G0460_v1.md#finite-difference-normalization-check): finite-difference mesh input and monic-normalization check |
 | [LS03](LS03/readme.md) | [Orders, bases and the attribution of the linear exponent](LS03/readme.md#exponents) |
 | [LS05](LS05/readme.md) | [Yin_U001](LS05/Yin_U001.md) |
+| [LS11](LS11/readme.md) | [Cyclotomic second moments](LS11/Yin_U001.md#ls11-u001) and the [off-diagonal counterexample](LS11/Yin_U001.md#mixed). |
 | [LS99](LS99/readme.md) | [Linear base bound with an excluded alternating section](LS99/Yin_U001.md#base), [almost simple actions with large bases](LS99/Yin_U001.md#almost-simple) and [least degree of a faithful classical action](LS99/Yin_U001.md#least-degree) |
 | [Laz78](Laz78/readme.md) | [Fixed Pisot polynomial families on compact intervals below two](Laz78/Yin_U001.md#compact-pisot-families) |
 | [Li26](Li26/readme.md) | [Yin_U001](Li26/Yin_U001.md) |

@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v483](Yin_R_G0562_v483.md#finding) checks the two cycle constructions for every minimum degree at least 81 with arbitrarily many rational factors.
+- [R562 v482](Yin_R_G0562_v482.md#finding) checks the choice of conductors, the first absolute moment, and the limits of the positive-measure examples that include a cyclotomic factor.
+- [R562 v481](Yin_R_G0562_v481.md#finding) checks the least rational trace degree at two primes, the exact one-prime optimum in a prescribed class and the measure criterion on each stated family.
+- [R562 v480](Yin_R_G0562_v480.md#finding) checks irreducibility in the two quartic progressions and the obstructions at small witness primes.
+- [R562 v479](Yin_R_G0562_v479.md#finding) checks the count across odd first exponents and the logarithmic lower bound on the least witness prime for infinitely many actual exclusions.
+- [R562 v478](Yin_R_G0562_v478.md#finding) checks the transfer of a false integral divisor across small moduli and the distance to the predicted Salem degree.
+- [R562 v477](Yin_R_G0562_v477.md#finding) checks preservation of both jets on coprime rows, the angular cofactor cost and the average over primes.
+- [R562 v476](Yin_R_G0562_v476.md#finding) checks the discriminant on products from distinct directions and the uniform count of reducible noncyclotomic cores.
 - [R562 v475](Yin_R_G0562_v475.md#finding) checks the least single good prime excluding every short odd modular degree in each of the sixteen square-offset samples.
 - [R562 v474](Yin_R_G0562_v474.md#finding) checks the extremal odd modular degree, the loss of two on specified residue classes, the density bounds and the exterior count modulo four.
 - [R562 v473](Yin_R_G0562_v473.md#finding) checks the three-real-label sign kernel, its independence from adjoining \(i\), the ordinary class group quotients and their scope on quartic sections.
