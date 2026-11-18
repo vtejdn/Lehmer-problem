@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J178](programs/Yin_J_G0178/readme.md#census) classifies all 17 sign classes of reciprocal noncyclotomic irreducible sextics of measure at most two. Exact exterior counts and measure bounds exclude every sextic through row degree nine for sufficiently large primes.
+
 - [J177](programs/Yin_J_G0177/readme.md#census) rules out every qualifying pair at the full coefficient cutoff for all 168 odd primes through 1009 and all row degrees through five. [Uncapped controls](programs/Yin_J_G0177/readme.md#controls) give the exact first costs for both quartic seeds at \(p=3,5,7\).
 
 - [J176](programs/Yin_J_G0176/readme.md#sample) proves irreducibility of 16 quartic square-offset cores of degrees 218 through 1958. Their reductions modulo three leave 122 false odd-degree divisor candidates, all excluded using primes at most 11.

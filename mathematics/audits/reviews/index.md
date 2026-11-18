@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v517](Yin_R_G0562_v517.md#finding) checks the full exclusion through row degree seven, independently enumerates the sextics, and verifies the octic comparison at width eight.
+- [R562 v516](Yin_R_G0562_v516.md#finding) checks the exterior-root count for six-term sections, uniform localization as the seed varies, and the role of the occupancy hypothesis.
+- [R562 v515](Yin_R_G0562_v515.md#finding) independently enumerates all 17 sextic sign classes and verifies their exterior counts, measure thresholds and absence of torsion ratios.
+- [R562 v514](Yin_R_G0562_v514.md#finding) checks the norm of a row value at arbitrary fixed multiplicity, uniformity in the row width, and the eventual width-five exclusion.
+
 - [R562 v513](Yin_R_G0562_v513.md#finding) checks each reversal sign, the exact odd-prime exceptions for the two positive quartic seeds, and the exclusion of both endpoint factors at width five.
 - [R562 v512](Yin_R_G0562_v512.md#finding) checks the quartic row module, the leading lattice indices and all 24 sample values by independent determinantal-divisor computations.
 - [R562 v511](Yin_R_G0562_v511.md#finding) checks the eventual width-four cutoff, both improved coefficient rates, the sign change and the size of the remaining quadratic at width five.
