@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v359](Yin_R_G0562_v359.md#exact-fixed-cost-review) checks the exact optimal cofactor rate for a fixed reciprocal unit, including the integer construction, both signs in the lower bound, and the order of the limits.
+- [R562 v358](Yin_R_G0562_v358.md#two-class-degree-review) checks the unconditional noncyclotomic degree cost, the matching leading term at small residue distance, and the exact one-class minimum.
+- [R562 v357](Yin_R_G0562_v357.md#lucas-cofactor-review) checks the valuation estimate and the Lucas resultant forcing quadratic noncyclotomic degree when the cofactor has sublinear log measure.
+- [R562 v356](Yin_R_G0562_v356.md#finding) checks the same-order multiplicity test and the exact three-class minimum for every prime in the five-term family.
+- [R562 v355](Yin_R_G0562_v355.md#reciprocal-interpolation-review) checks the field criterion for primitive two-class multiples, the interpolation degree and the measure paid by the cofactor.
 - [R562 v354](Yin_R_G0562_v354.md#bounded-witness-review) checks polynomial-degree cyclotomic witnesses with unchanged occupied rows, and the prime bound in terms of the original degree.
 - [R562 v353](Yin_R_G0562_v353.md#cyclic-angular-derivative-review) checks angular speed, phase multiplicities, the derivative resultant on mixed fibers and the effective offset of a two-row graph.
 - [R562 v352](Yin_R_G0562_v352.md#carrier-density-review) checks the density of terms in the carrier's support lattice and the finite degree and measure bounds on admissible primes.

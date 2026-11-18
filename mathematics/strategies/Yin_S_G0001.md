@@ -26,7 +26,7 @@ Other routes remain available for autonomous reassessment; their current priorit
 | Arithmetic alternative | Select a prime using the input and bound the part of the trace resultant realized by one integer root at each rational prime. | In the [dyadic example](../claims/Yin_C_G0899_v8.md#statement) the entire resultant grows at the correct exponential rate while the largest common integer modulus is one. Test a degree-one contribution in a strict small-measure shell before expanding this route. |
 | Construction and existence inquiry, coordinated with S4 | Seek integer inputs with a growing prefix and a normalized residue distribution compatible with both the marginal and ordered tests. | A construction has to pass the [positive-measure interface](../claims/Yin_C_G0881_v10.md#statement) and the [positive-density excursions above four](../claims/Yin_C_G0898_v1.md#threshold). |
 | Alternate Salem inquiry | Test whether the large alternating group required at level minus one rules out a strict descent with a second exterior pair as the input tends to one. | Such a descent [occurs in degree sixteen](../claims/Yin_C_G0345_v141.md#statement). Along any shrinking sequence its trace group must have an [alternating composition factor of growing degree](../claims/Yin_C_G0345_v133.md#statement), and [fixed nonreciprocal Pisot seeds](../claims/Yin_C_G0345_v135.md#fixed-seed) exclude it at large delays. |
-| Primary proof inquiry | For a shrinking sequence of original degree \(D\), seek a fixed-count representation at primes exceeding the [polylogarithmic range](../claims/Yin_C_G0345_v353.md#prime), or control neutral phases more tightly inside that range. | The [angular derivative bound](../claims/Yin_C_G0345_v352.md#statement) works on mixed fibers. The [bounded multiplier](../claims/Yin_C_G0345_v353.md#compression) returns its degree cost to the original input. |
+| Primary proof inquiry | Seek a positive lower bound independent of the input for the [optimal cofactor measure per prime](../claims/Yin_C_G0345_v358.md#statement), or an original-input criterion ensuring cheap cyclotomic padding at a growing prime. | Test whether integrality gives a uniform lower estimate before the [fixed-input resultant asymptotic](../ledger/Yin_L_G0462_v150.md#fixed-input) takes effect, and control [neutral angular speeds](../ledger/Yin_L_G0462_v149.md#turns) in the remaining prime range. |
 | Structural proof inquiry, coordinated with S4 and the relevant proof routes | Relate small complete measure to intrinsic complexity, or enlarge an actual integer representation. | Address the count dependence in [C885v8](../claims/Yin_C_G0885_v8.md#statement) or the remaining triality and divisibility cases in [C886v5](../claims/Yin_C_G0886_v5.md#statement). |
 | Alternative construction inquiry | Actual factor production or another mechanism changing the noncyclotomic core. | Seek the actual sublinear-degree factors in [L450v5](../ledger/Yin_L_G0450_v5.md#moving-map-sublinear-factor-criterion), or another explicit return to the unrestricted contract. |
 | Computational support, S10 | Bounded diagnostics tied to a distinguishable supply or complete-exterior-cost mechanism. | Compare distinct noncyclotomic cores and measure values, retaining all exterior roots and the actual integer support; known-core recovery alone is not the discovery objective. |
@@ -41,8 +41,22 @@ For the degree-ten Lehmer polynomial, the [exact ranks at 29](../computations/pr
 At two classes, the [integer seed test](../ledger/Yin_L_G0462_v148.md#lehmer) excludes every prime \(p\ge17\).
 For a fixed number \(k\) of classes, the [bounded-witness theorem](../claims/Yin_C_G0345_v353.md#statement) now forces \(p\ll_k(\log(2D))^{\lfloor k/2\rfloor}\) along a shrinking sequence, even when the initial multiplier has arbitrary degree.
 A proof that every such sequence supplies a representation above this scale on a subsequence would give a contradiction.
+For a least-degree input with distinct conjugate powers, [integral interpolation](../claims/Yin_C_G0345_v354.md#construction) always gives a monic reciprocal two-class multiple of degree at most \(p(D+2)+1\).
+If \(\log(2D)=o(p)\) and \(m(P)\to0\), the [cofactor estimate](../claims/Yin_C_G0345_v354.md#cost) charges at least \(\log\theta\) in the limit to the other factors of that construction.
+For the five-term prime family, [the minimum with cyclotomic padding is three](../claims/Yin_C_G0345_v355.md#family) at every \(p\ge5\).
+Even allowing arbitrary extra factors, a two-class multiple for that family needs [quadratic additional noncyclotomic degree](../claims/Yin_C_G0345_v356.md#statement) if the extra log measure is \(o(p)\).
+The [trace norm on its defining curve](../claims/Yin_C_G0345_v357.md#norm) gives a quadratic lower bound at all coefficient heights and measures.
+For adjacent classes the [minimum additional degree](../claims/Yin_C_G0345_v357.md#statement) is \((1+o(1))p^2\).
+The measures of the five-term inputs have a fixed limit above one.
+For inputs whose measure could tend to one, test whether the valuation differences at \(\pm\zeta_p\) give a comparable lower bound on the cofactor at the same primes where one can construct a low-cost multiple.
+For a fixed reciprocal input the [optimal extra log measure per prime](../claims/Yin_C_G0345_v358.md#statement) is exactly \(m(P)/2\) in the limit, even for prescribed adjacent classes and coprime rows.
+Both [the integer coefficient count](../claims/Yin_C_G0345_v358.md#upper) and the [two-sign resultant lower bound](../claims/Yin_C_G0345_v358.md#lower) reach this rate with degrees \(o(p^2)\).
+This removes the existence question for unrestricted integral rows at that cost.
+To prove a gap through this route, bound their optimal rate from below independently of \(P\), or obtain a size estimate for the [integer ideal contraction](../ledger/Yin_L_G0462_v150.md#contraction) that forces such a bound for each input along infinitely many primes.
+Requiring the two-class witness to be monic introduces an additional constraint into the coefficient count.
 Within the remaining range, determine when the [angular derivative resultant](../claims/Yin_C_G0345_v352.md#resultant) compensates for the degree of the diagonal.
 For two classes the [explicit seed formula](../claims/Yin_C_G0345_v352.md#two) identifies both the derivative polynomial and the actual offset at which to test this possibility.
+The [contour estimate](../ledger/Yin_L_G0462_v149.md#radial) supplies a degree-independent comparison when a radial contraction can be verified, while the [oscillating example](../ledger/Yin_L_G0462_v149.md#winding) shows why the signed winding alone cannot bound the phase multiplicity.
 The [carrier lattice and degree estimates](../claims/Yin_C_G0345_v351.md#statement) separately restrict the primes when the support differences of the factor generate a sublattice of large index.
 For three rows the [middle coefficient test](../claims/Yin_C_G0345_v344.md#lift) locates the arcs with two unit roots.
 The cost of the discarded cyclotomic factors is [exact](../claims/Yin_C_G0345_v347.md#loss), so they can be removed before estimating these phases.
@@ -56,6 +70,8 @@ For an actual candidate coefficient family, use the [complete integral Schur cor
 At the prescribed scale, the [power-substitution gap](../claims/Yin_C_G0345_v294.md#statement) and the unit-defect gap leave general stable descendants to test.
 The [bounded edge calculations](../drafts/Yin_D_G0027.md#remaining) allow arbitrary interior coefficients in their two excluded patterns.
 For construction, test the simultaneous nonzero endpoint coefficients in the [paired coefficient identities](../drafts/Yin_D_G0027.md#paired-coefficients), retaining the full stability condition.
+The [stable degree-ten example](../drafts/Yin_D_G0027.md#torsion-factor-returns) realizes a common reciprocal defect factor with excess greater than 98.
+For a small-excess candidate, use the [nonzero divisible remainder](../drafts/Yin_D_G0027.md#global-reciprocal-factor) when the factor divides the entire defect.
 At other constant scales the [degree inequality](../claims/Yin_C_G0345_v294.md#statement) continues to govern the quadratic descendant.
 
 For a complementary proof inquiry, the [exact reciprocal resultant](../claims/Yin_C_G0345_v296.md#schur-resultant) identifies what remains after the general Sylvester divisibility.
@@ -1891,7 +1907,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test fixed-count coverage above the original-degree prime bound and angular derivative resultants inside it, alongside full integral Schur constructions. |
+| priority | Seek input-independent growth of the two-sign integer divisors or a direct lower bound on the optimal two-class cofactor rate, while testing neutral angular speeds and the full Schur inverse on small-excess constructions. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

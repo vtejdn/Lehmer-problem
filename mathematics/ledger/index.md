@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v150](Yin_L_G0462_v150.md#contraction) | The cost of two residue classes for a fixed reciprocal unit | An integer divisor from an inverse modulo a cyclotomic polynomial, a quadratic degree or linear measure cost, and two exact tests on Lehmer's polynomial. |
+| [Yin_L_G0462_v149](Yin_L_G0462_v149.md#turns) | Angular speed and turning points of two-row phases | A bound from angular variation, an exponential estimate on a pole-free annulus, and an example with winding minus one and unbounded valence. |
 | [Yin_L_G0462_v148](Yin_L_G0462_v148.md#finite) | Cyclotomic padding for two residue classes | Bounds for the seed degree and offset, including the exclusion of every prime at least 17 for the degree-ten Lehmer input. |
 | [Yin_L_G0462_v147](Yin_L_G0462_v147.md#multiplicities) | Root multiplicities at the support prime | A prime-specific lower bound for the number of occupied classes under every cyclotomic multiplier, and a reciprocal family requiring at least half the classes. |
 | [Yin_L_G0462_v146](Yin_L_G0462_v146.md#coverage) | Prime residue coverage after cyclotomic multiplication | Removing the common row factor and obtaining a six-term multiple of a dense Salem family. |

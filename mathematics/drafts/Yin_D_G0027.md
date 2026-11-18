@@ -471,6 +471,71 @@ If the two-pair run crosses the center, reversal also forces \(A=B\).
 These tests concern necessary consequences of the integral inverse.
 Whether a run with these coefficients extends to the full inverse congruence modulo \(L\) and a strictly stable \(B(z)\) remains open.
 
+<a id="global-reciprocal-factor"></a>
+## A reciprocal factor in the full integral inverse
+
+Let \(G\in\mathbb Z[w]\) be monic, irreducible and reciprocal up to sign, with \(G(0)=\pm1\) and degree \(r\ge1\).
+Suppose \(G\mid\Delta\) for the full defect of an actual positive-constant Pisot input.
+Then \(G\) also divides its formal reversal \(\Delta^*\).
+A common factor of one [run](#run-resultant) gives this hypothesis when every run in the decomposition of \(\Delta\) has that factor.
+In particular, for a single reflected pair of runs it suffices that \(G\) divide the two local rows \(X,Y\), since reflecting the second row preserves the reciprocal factor.
+Other runs can contribute a nonzero remainder modulo \(G\).
+
+Let \(\lambda=L/\gcd(L,N^2)\).
+The remainder of \(V\) on monic division by \(G\) is a nonzero polynomial in \(\lambda\mathbb Z[w]\), and
+\[
+                 0\ne\operatorname{Res}(G,V)\in\lambda^r\mathbb Z .
+\]
+Indeed, reduce the [elimination congruence](../claims/Yin_C_G0345_v346.md#pair) in the free \(\mathbb Z\)-module \(\mathbb Z[w]/(G)\).
+Its right side vanishes there, so every coefficient of the reduced \(N^2 V\) is divisible by \(L\).
+The polynomial \(V\) is nonzero, since an even \(f\) with exterior root \(\theta\) would have the exterior root \(-\theta\) as well.
+If \(G\mid V\), reciprocity gives \(G\mid V^*\) as well, and the [exact inverse identity](../claims/Yin_C_G0345_v295.md#parity) gives \(G\mid U\) over \(\mathbb Q\).
+Then \(G(z^2)\) would be a proper factor of the irreducible \(f=U(z^2)-zV(z^2)\), since \(0<r\le\deg V\le\ell<d/2\) in this case.
+Thus \(G\nmid V\), and irreducibility of \(G\) now gives \(\gcd(G,V)=1\).
+Taking the norm of the remainder at a root of \(G\) proves the resultant divisibility.
+In particular a proposed inverse with every coefficient of this remainder strictly smaller than \(\lambda\) in absolute value is impossible.
+
+<a id="torsion-factor-returns"></a>
+## Factors at \(1,-1\) and the returned polynomial
+
+Write \(P=(zf+f^*)/(z+1)\), keeping the entire integral polynomial of degree \(d\).
+The numerator vanishes at \(-1\) because \(d\) is even.
+At a root of \(G\), the parity inverse gives \(E=E^*=0\).
+If \(w-1\mid\Delta\), its equations at one give \(LU(1)=NV(1)\).
+Since \(f(1)<0\), there is a positive integer \(t\) such that
+\[
+          -P(1)=-f(1)=\frac jg t,\qquad
+          f(-1)=\frac{L+N}{g}t,\qquad g=\gcd(L,N).
+\]
+Indeed \(U(1)=(N/g)t,\ V(1)=(L/g)t\) and \(f(\pm1)=U(1)\mp V(1)\).
+
+If \(w+1\mid\Delta\), put \(\varepsilon=(-1)^\ell\), \(b=(q-\varepsilon)^2\) and \(c=\gcd(L,b)\).
+The full descendant has \(B(\pm i)=D(-1)\ne0\) by strict stability.
+Since \(D^*(-1)=\varepsilon D(-1)\), the inverse gives \(U(-1)=(q\varepsilon-1)D(-1)\) and \(V(-1)=(L/N)(q+\varepsilon)D(-1)\).
+Thus \(b V(-1)=\varepsilon L U(-1)\), and for a nonzero integer \(s\) we obtain
+\[
+            V(-1)=\frac Lc s,\qquad U(-1)=\frac{\varepsilon b}{c}s,
+            \qquad |P(i)|=\frac{|b-L|}{c}|s|.
+\]
+For the last identity, \(f(i)=U(-1)-iV(-1)\) and \(f^*(i)=-\varepsilon\overline{f(i)}\).
+Substitution in \(P(i)\) gives \(|P(i)|=|U(-1)-\varepsilon V(-1)|\).
+These tests apply to a Salem minimal polynomial itself when it is the entire return \(P\).
+
+For a concrete stable control take \(d=10,\ q=100\) and
+\[
+               f(z)=z^{10}-200z^9+z^6+z^4-2z+100 .
+\]
+On the unit circle the term of magnitude \(200\) dominates the others, whose magnitudes sum to \(105\).
+Rouché gives nine roots strictly inside, and \(f(1)<0\) gives a real exterior root greater than one.
+Any proper monic factor containing only inside roots would have nonzero integral constant term of absolute value less than one, proving irreducibility.
+Here \(N=9999,\ L=19998,\ j=N,\ V=200w^4+2\).
+Deleting the two added even terms \(z^6+z^4\) would give \(A=N(2z^9-1)\) and descendant \(z^8\), of zero defect.
+Restoring them leaves \(L,V\) fixed and increases \(U\) by \(w^3+w^2\), so the exact inverse identity gives \(\Delta=-Lw(w+1)\).
+The central two-pair run therefore has \(w+1\) as a common factor of its two local rows.
+Here \(c=\gcd(19998,99^2)=99\) and \(V(-1)=202=L/c\), attaining the nonzero divisibility bound.
+This actual input has \(\delta>N/(q+2+q^{-1})>98\) by the [branch inequality](../claims/Yin_C_G0345_v293.md#branch).
+It demonstrates compatibility with full stability on a large branch and leaves the shrinking-excess class unresolved.
+
 <a id="remaining"></a>
 ## Remaining escape patterns
 

@@ -18,12 +18,16 @@ At \(q=d^2\) the [first-pair bound](../claims/Yin_C_G0345_v346.md#statement) exc
 For a first pair of sublinear height in \(q\), the [next pair must be occupied and satisfy an explicit congruence](../drafts/Yin_D_G0027.md#isolated-pair).
 Test that congruence together with the integral inverse and full Schur stability.
 On a consecutive run flanked by zeros, the [two local coefficient polynomials](../drafts/Yin_D_G0027.md#run-resultant) must share a factor if their heights fall below the resultant bound.
-Test whether such a common factor is compatible with the remaining inverse congruences and strict stability.
+A [degree-ten Pisot input](../drafts/Yin_D_G0027.md#torsion-factor-returns) realizes the factor \(w+1\) and strict stability with large excess.
+On a shrinking-excess branch, test whether a common reciprocal factor extends to the entire defect and whether the [nonzero remainder required by the full inverse](../drafts/Yin_D_G0027.md#global-reciprocal-factor) fits the coefficient bounds.
 For exactly symmetric or antisymmetric defects, use the lower bound on their content and the [half-degree stability condition](../drafts/Yin_D_G0027.md#reversal-stability).
 The [paired coefficient identities](../drafts/Yin_D_G0027.md#paired-coefficients) give a separate test when both outer coefficients are nonzero.
 An admissible integer family must still yield positive return measures tending to one.
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
+The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
+For reciprocal inputs, [one inverse polynomial modulo \(\Phi_p\)](../ledger/Yin_L_G0462_v150.md#contraction) gives the prime-to-\(p\) integer divisor without factoring the cyclotomic multiplier.
+Use the [exact fixed-input rate](../claims/Yin_C_G0345_v358.md#statement) as the comparison when testing whether an arithmetic argument gives a positive rate uniform in the input.
 
 <a id="all-cut-and-d4-feasibility"></a>
 The [adopted all-cut positivity theorem](../claims/Yin_C_G0881_v10.md#decision-all-terminal-cuts-reviewed) now covers every strict terminal cut for integer \(Q=tB_n+C\) with leading remainder coefficient two.
@@ -803,7 +807,7 @@ This is preparation for a future explicitly authorized resumption.
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test the integral inverse past the first growing Schur defect pair, or with two nonzero outer coefficients, retaining the full stability condition. |
+| priority | Test the nonzero inverse remainder on a small-excess candidate with a reciprocal defect factor, or work with two nonzero outer coefficients under full stability. |
 
 The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.
 The [prescribed-residue construction](../ledger/Yin_L_G0454_v1.md#prescribed-residue-adaptation) is an uncompleted construction interface, not evidence of a vanishing-measure family.

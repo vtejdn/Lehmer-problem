@@ -79,6 +79,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [DGT20](DGT20/readme.md) | Source and edition notes |
 | [DJ20](DJ20/readme.md) | [Yin_U001](DJ20/Yin_U001.md) |
 | [DK25](DK25/readme.md) | [Yin_U001](DK25/Yin_U001.md) |
+| [DL24](DL24/readme.md) | [BCH bound for consecutive zeros](DL24/Yin_U001.md#dl24-u001) |
 | [DM05](DM05/readme.md) | [Yin_U001](DM05/Yin_U001.md) |
 | [DMS84](DMS84/readme.md) | [Yin_U001](DMS84/Yin_U001.md) |
 | [DR10](DR10/readme.md) | [Yin_U001](DR10/Yin_U001.md), [Yin_U002](DR10/Yin_U002.md) |
