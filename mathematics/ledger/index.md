@@ -5,6 +5,11 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v188](Yin_L_G0462_v188.md#limit) | Square-root lower bound for cubic factors | Each nontorsion factor and each power lift has an explicit lower bound for its measure and degree as the exponent ratio grows. |
+| [Yin_L_G0462_v187](Yin_L_G0462_v187.md#quotient) | Rational splitting groups of the cubic factors | Trace discriminants and endpoint square classes determine the signs in the rational action on all roots. |
+| [Yin_L_G0462_v186](Yin_L_G0462_v186.md#cofactor) | Denominators and centered derivatives of double-root witnesses | Local denominators can have primes outside the power index. A vanishing centered derivative costs at least the input measure times the prime asymptotically. |
+| [Yin_L_G0462_v185](Yin_L_G0462_v185.md#schinzel) | Primitive specializations and torsion translates of the cubic graph | Schinzel's conjecture predicts eventual irreducibility of the primitive core. A proven theorem controls all but finitely many torsion translates at each fixed direction. |
+| [Yin_L_G0462_v184](Yin_L_G0462_v184.md#fixed) | Integer moments at a fixed Salem input | Odd constant terms give an explicit excess above half the arcsine mass for every grid, and integer Fourier coefficients constrain all weak limits. |
 | [Yin_L_G0462_v183](Yin_L_G0462_v183.md#degrees) | Degrees of the Mahler measures of cubic factors | Signed-subset orbits recover the exterior allocation from the degree of each measure, with a finite sextic example and a degree criterion for shrinking factors. |
 | [Yin_L_G0462_v182](Yin_L_G0462_v182.md#localization) | Interior row roots near unit-circle double roots | A separation bound at limited degree and rational reciprocal witnesses with both diagonal endpoints equal to one on the full conjugate set. |
 | [Yin_L_G0462_v181](Yin_L_G0462_v181.md#statement) | The central correction on an odd Chebyshev grid | The exact least atom at trace zero under equal noncentral residues and actual Pisot inverses for every fixed Salem input. |

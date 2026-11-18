@@ -35,10 +35,14 @@ The [genuine branch residues](../ledger/Yin_L_G0462_v179.md#genuine) have limiti
 With unrestricted padding, the [even grid](../ledger/Yin_L_G0462_v179.md#half) attains total branch mass \(1/2\) in the limit for each fixed Salem trace polynomial divisible by \(x^2\) modulo two.
 The [odd grid](../ledger/Yin_L_G0462_v181.md#central) prescribes equal residues at the nonzero grid points and computes the least attainable central correction for every fixed Salem input.
 The correction vanishes if four divides the constant and tends to zero if its absolute value grows.
-Test a change of noncentral residues for the remaining bounded constants, and keep the supply of Salem inputs with measure tending to one as a separate existence question.
+For any fixed Salem trace polynomial \(Q_0\) with odd constant, [integer moments](../ledger/Yin_L_G0462_v184.md#fixed) force excess branch mass at least \(1/(2\max_{[-2,2]}|Q_0|)\) on every grid.
+Test the remaining fixed case \(Q_0(0)\equiv2\bmod4\), \(Q'_0(0)\) odd, and track the norms of the [moment tests](../ledger/Yin_L_G0462_v184.md#varying) when seeking a sequence of different Salem inputs.
 For independent supply, the [exterior-pair partition](../ledger/Yin_L_G0462_v169.md#partition) identifies the factorization problem on the two-exponent cubic family.
 The [individual measure degree](../ledger/Yin_L_G0462_v183.md#criterion) recovers the allocation exactly when the exponent ratio grows.
 The [sextic specialization](../ledger/Yin_L_G0462_v183.md#sextic) exhibits the relevant exterior product and verifies its degree by reduction at two primes.
+For sufficiently large primitive directions [arbitrary common dilations](../claims/Yin_C_G0345_v387.md#statement) preserve all individual factors and their measures.
+The [torsion-translate theorem](../ledger/Yin_L_G0462_v185.md#torsion-twists) permits the original untwisted specialization to be exceptional in each direction.
+Test that specialization itself for a rational split using the [prime restrictions on the trace fields](../claims/Yin_C_G0345_v385.md#statement) and the [rational parity characters](../ledger/Yin_L_G0462_v187.md#endpoints).
 The growing-parent prefix construction, factor production, transvection counts and the integer-embedding cover remain alternatives.
 For the arithmetic proof inquiry, the [prime-order trace ideal](../claims/Yin_C_G0899_v8.md#ideal) puts the emphasis on the residue degrees actually contributing to a common integer modulus.
 The [valuation deficit](../claims/Yin_C_G0345_v356.md#local) now gives a complementary lower bound on the noncyclotomic cofactor from unequal valuations of the original input at roots of unity.
@@ -63,6 +67,7 @@ The [conductor calculation](../ledger/Yin_L_G0462_v162.md#conductor) computes \(
 For a proof of cofactor growth from resultants on all witnesses, [short polynomial denominators](../claims/Yin_C_G0345_v378.md#window) require \(\log I_p\) of order \(pd\) even when the exponent grows exponentially in \(p\).
 At several prescribed primes the [reciprocal calculation](../ledger/Yin_L_G0462_v171.md#disks) exhibits this exponent growth with small total index on the \(pd\) scale.
 For inputs of small index, test the angular distribution forced by [hyperbolic disk localization](../claims/Yin_C_G0345_v381.md#several) together with integrality of the rows.
+For reciprocal witnesses, compare the [freedom in the centered derivative](../ledger/Yin_L_G0462_v186.md#freedom) with the denominators that clearing the two row jets actually costs.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
 For the Salem test family the [full additive group](../ledger/Yin_L_G0462_v161.md#group) gives \(s_p=3^{p-1}\).
 For the degree-ten Lehmer polynomial, the [exact window computation](../computations/programs/Yin_J_G0168/readme.md#isolated) recovers the entire power index from isolated pairs at all 24 primes.

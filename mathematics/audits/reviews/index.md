@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v423](Yin_R_G0562_v423.md#finding) checks the first Frobenius correction, the finite box for odd powers and irreducibility under every common dilation outside that box.
+- [R562 v422](Yin_R_G0562_v422.md#finding) checks the sparse divisor bound, the square-root measure and degree estimates and their uniformity under power lifts.
+- [R562 v421](Yin_R_G0562_v421.md#finding) checks the sharp exterior-pair threshold and the integer crossing count, including tangencies and the near-critical asymptotics.
+- [R562 v420](Yin_R_G0562_v420.md#finding) checks the rational splitting group and the endpoint square classes governing the signs of the inverse-pair exchanges.
+- [R562 v419](Yin_R_G0562_v419.md#finding) independently verifies all 1,108 factorizations and root signatures in the degree-104 cubic census.
+- [R562 v418](Yin_R_G0562_v418.md#finding) checks the critical resultant, local discriminant bounds, sizes of ramified primes and dependence on individual factors.
+- [R562 v417](Yin_R_G0562_v417.md#finding) checks the local denominators, the quartic example and the cost of a vanishing centered derivative for reciprocal double-root witnesses.
+- [R562 v416](Yin_R_G0562_v416.md#finding) checks the application of Schinzel's conjecture and the unconditional torsion-translate theorem, including their different quantifiers.
+- [R562 v415](Yin_R_G0562_v415.md#finding) checks the integer moment tests, the structure of limiting branch measures and the obstruction to half mass for odd fixed trace constants.
 - [R562 v414](Yin_R_G0562_v414.md#finding) checks the algebraic degrees of individual and joint Mahler measures, the uniform factor criterion and the independent modular certificate for the sextic example.
 - [R562 v413](Yin_R_G0562_v413.md#finding) checks independent even exchanges on all inverse pairs, the four-letter lifting argument and the full splitting group over the maximal abelian field.
 - [R562 v412](Yin_R_G0562_v412.md#finding) checks the angular derivative at unit-circle double roots, finite-degree interpolation, coprimality and the rational endpoint normalization.

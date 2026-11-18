@@ -18,7 +18,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [AM01](AM01/readme.md) | Source and edition notes |
 | [AM16](AM16/readme.md) | [Yin_U001](AM16/Yin_U001.md), [Yin_U002](AM16/Yin_U002.md), [Yin_U003](AM16/Yin_U003.md), [Yin_U004](AM16/Yin_U004.md), [Yin_U005](AM16/Yin_U005.md) |
 | [AP18](AP18/readme.md) | [Yin_U001](AP18/Yin_U001.md) |
-| [AS18](AS18/readme.md) | Source and edition notes |
+| [AS18](AS18/readme.md) | [Schinzel's rational specialization conjecture and the function-field theorem](AS18/Yin_U001.md#as18-u001) |
 | [AV09](AV09/readme.md) | [Yin_U001](AV09/Yin_U001.md) |
 | [AZ10](AZ10/readme.md) | [Yin_U001](AZ10/Yin_U001.md) |
 | [AZ90](AZ90/readme.md) | [Yin_U001](AZ90/Yin_U001.md) |
@@ -75,6 +75,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Con26c](Con26c/readme.md) | [Yin_U001](Con26c/Yin_U001.md) |
 | [Con26d](Con26d/readme.md) | [Yin_U001](Con26d/Yin_U001.md) |
 | [Con26e](Con26e/readme.md) | [Yin_U001](Con26e/Yin_U001.md) |
+| [Con26g](Con26g/readme.md) | [Yin_U001](Con26g/Yin_U001.md#con26g-u001) |
 | [DC23](DC23/readme.md) | [Yin_U001](DC23/Yin_U001.md) |
 | [DDK19](DDK19/readme.md) | [Yin_U001](DDK19/Yin_U001.md#sine-signatures) |
 | [DGB16](DGB16/readme.md) | [Yin_U001](DGB16/Yin_U001.md), [Yin_U002](DGB16/Yin_U002.md), [Yin_U003](DGB16/Yin_U003.md), [Yin_U004](DGB16/Yin_U004.md) |
@@ -305,6 +306,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Yin20](Yin20/readme.md) | [Yin_U001](Yin20/Yin_U001.md), [Yin_U002](Yin20/Yin_U002.md), [Yin_U003](Yin20/Yin_U003.md), [Yin_U004](Yin20/Yin_U004.md) |
 | [Yu99](Yu99/readme.md) | [Yin_U001](Yu99/Yin_U001.md) |
 | [Zam19](Zam19/readme.md) | [Yin_U001](Zam19/Yin_U001.md) |
+| [Zan10](Zan10/readme.md) | [Full-degree torsion fibers under irreducible power pullbacks](Zan10/Yin_U001.md#zan10-u001) |
 | [dlH13](dlH13/readme.md) | [Yin_U001](dlH13/Yin_U001.md) |
 | [dlP19](dlP19/readme.md) | [Yin_U001](dlP19/Yin_U001.md) |
 | [vdB59](vdB59/readme.md) | [Yin_U001](vdB59/Yin_U001.md) |
