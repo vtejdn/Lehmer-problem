@@ -240,7 +240,10 @@ For a Salem seed the simultaneous collisions strengthen the lower rate at minimu
 For other independent seeds the [exact minimum-width formula](../claims/Yin_C_G0345_v460.md#exact) uses all conjugate moduli and applies throughout the small-measure range \(M(P)\le2\).
 With \(K\) coefficients and a fixed exponential norm budget, [compression to width at most \((2K-1)D\)](../claims/Yin_C_G0345_v459.md#statement) preserves both signs and all specified numerator and factor orders for fixed targets.
 The [width-one Salem examples](../ledger/Yin_L_G0462_v278.md#sharpness) show why the value estimate used in compression must retain the degree when the target changes, while the [repeated-factor estimate](../ledger/Yin_L_G0462_v278.md#degree) can use the widths of the two blocks instead.
-At one further nonzero position the rational kernel can already be two-dimensional, so the least norm then requires joint estimates on its integral generators.
+At one additional position the signed kernel is a plane, and its [volume at fixed width](../claims/Yin_C_G0345_v461.md#volume) permits at most one primitive passing direction at each sign for the independent seeds under consideration.
+For the [quartic width-nine lattice](../computations/programs/Yin_J_G0177/versions/v6/readme.md#minima), exact enumeration at five exponents gives shortest and second independent vectors using all ten positions.
+At exponent 256, forcing any one coefficient to vanish multiplies the one-norm by at least \(2^{1634}\) at either sign.
+Determine how small the first minimum can be given the known asymptotic product of successive minima at each fixed width.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.

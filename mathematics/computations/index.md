@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J177, exact minima of the full quartic width-nine lattice](programs/Yin_J_G0177/versions/v6/readme.md#minima) computes the two shortest independent directions at both signs for five exponents, including their cost compared with every nine-position support.
+
 - [J177, nine coefficients at a quartic Salem seed and its square](programs/Yin_J_G0177/versions/v5/readme.md#sample) compares all minimum-cardinality supports at widths eight and nine for four exponents and both signs.
 
 - [J179, three cutoffs for prime 503](programs/Yin_J_G0179/versions/v15/readme.md#census) checks all 70,296,444 representatives in the three degree boxes and verifies a cyclotomic divisor for every final polynomial.
