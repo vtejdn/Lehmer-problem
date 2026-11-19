@@ -1,12 +1,16 @@
 # Reviews Index
 
+- [R562 v564](Yin_R_G0562_v564.md#finding) verifies the sharp fixed-list cost on exponents with bounded gaps in the specified progression, allowing arbitrary coincidences of exterior radii.
+
 - [R562 v563](Yin_R_G0562_v563.md#finding) verifies every lower-degree trace bound, all 138 slices and all final cyclotomic exclusions at 1.091 in degrees 56 through 62.
+
+- [R562 v562](Yin_R_G0562_v562.md#finding) verifies the all-integer least norm for powers of Salem numbers, with a [separate finding](Yin_R_G0562_v562.md#conjugates) covering separated exterior moduli and conjugate pairs.
 
 - [R562 v561](Yin_R_G0562_v561.md#claim) verifies the common degree-68 threshold, the ordinary test through 241 and the prescribed square pair through 271, with the separate [degree-66 review](Yin_R_G0562_v561.md#census).
 
 - [R562 v560](Yin_R_G0562_v560.md#finding) verifies the aggregate bounds over all exponents of a fixed row, the finite house estimate and the exact double-pair recovery program.
 
-- [R562 v559](Yin_R_G0562_v559.md#local) verifies the dyadic kernel congruences and explicit rows with cyclotomic graphs. Its [second finding](Yin_R_G0562_v559.md#rates) checks the cost of shared cyclotomic factors for consecutive powers.
+- [R562 v559](Yin_R_G0562_v559.md#local) verifies the dyadic kernel congruences and explicit rows with cyclotomic graphs. Its [contraction finding](Yin_R_G0562_v559.md#rates) and [formal proof review](Yin_R_G0562_v559.md#claim-interface) check the cost of shared cyclotomic factors for consecutive powers.
 
 - [R562 v558](Yin_R_G0562_v558.md#finding) checks the complete degree-64 enumeration, independently counts every initial slice and verifies the cyclotomic divisor of each final candidate.
 

@@ -116,6 +116,9 @@ The [sharp fixed-list rate](../claims/Yin_C_G0345_v425.md#statement) realizes an
 The [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#statement) would give \(\lambda\ge(\log2)/24\) by excluding, for every all-power reciprocal unit \(\delta\), the particular pair of minima of \(\delta,\delta^2\) on an infinite subsequence.
 The subsequence may depend on \(\delta\), and may be chosen among powers of two.
 Prioritize that pair because its second polynomial is the Graeffe transform of the first and both have the same reduction modulo two.
+For the first \(r\) powers of any fixed all-power reciprocal unit of log measure \(h\), the [sharp slope on exponents with bounded gaps](../claims/Yin_C_G0345_v432.md#statement) is \(r(r+1)h/2\), even when several exterior roots have the same modulus.
+Arbitrarily long consecutive blocks with fewer than three qualifying values at the prescribed widths would give \(\lambda\ge(\log 2)/48\).
+For the square pair, use the fact that a sufficiently small input must occur also at two consecutive exponents, where the rational rows can differ.
 Along factorial exponents, the [simultaneous divisibility conditions](../claims/Yin_C_G0345_v421.md#factorial) constrain the Taylor coefficients at one across several primes.
 As a second test, the exponent may be [fixed at two](../claims/Yin_C_G0345_v424.md#statement) while the required multiplicity grows.
 At fixed total degree its counting limit has a computable onset, so deviations from a proposed uniform bound can be tested at specified degrees.
