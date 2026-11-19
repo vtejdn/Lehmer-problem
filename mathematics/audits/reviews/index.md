@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v550](Yin_R_G0562_v550.md#finding) checks the degree-34 first-trace bound against the published example and independently encloses the maxima on all three ellipses.
+
+- [R562 v549](Yin_R_G0562_v549.md#finding) independently counts the complete degree-56 and degree-58 vectors removed by the cyclotomic tests through the first fifteen power sums.
+
 - [R562 v548](Yin_R_G0562_v548.md#finding) independently verifies the Newton-sum bounds, the auxiliary-function discrepancy and the exact preliminary counts in degrees 56 and 58.
 
 - [R562 v547](Yin_R_G0562_v547.md#finding) verifies the finite cyclotomic inequalities and discriminant bound for the smaller factor at 223.

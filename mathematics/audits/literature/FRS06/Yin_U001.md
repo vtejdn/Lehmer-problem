@@ -43,6 +43,7 @@ Yet at \(x=-30253/20000\in[-2,2]\) the tabulated terms give
  -0.2700<f(x)<-0.2699.
 \]
 Thus the actual minimum for these printed data is at most \(f(x)\), strictly below the quoted \(g(0)\). [The example in §5a](../../../literature/pdf/FRS06.pdf#page=8)
+For degree 34, [a separate rational certificate](../../../ledger/Yin_L_G0462_v267.md#repair) gives \(|s_1|\le4\) throughout the modulus range of this example and for \(M(P)\le1.177\), under the signed coprimality condition above.
 
 I checked this enclosure by Horner evaluation over the rationals and interval addition.
 For each nonzero \(y=|Q_j(x)|\), write \(y=2^k u\) with \(1\le u<2\).
@@ -64,4 +65,4 @@ For degree 56 or 58 the affine-minorant argument above applies with \(d=28\) or 
 A bound for a new search requires certified lower bounds throughout the relevant ellipses and real intervals, including the distinct large-real-root case when present.
 The published degree-34 example supplies neither its quoted real minimum for the displayed weights nor bounds for all those new cases.
 The reported exhaustive degree range ends at 40.
-[The later MRW08 theorem](../MRW08/Yin_U001.md#degree) independently gives a lower degree bound of 56 for a polynomial whose measure is strictly between one and Lehmer's.
+[The later MRW08 theorem](../MRW08/Yin_U001.md#degree) combines the earlier computations through 40 with searches in degrees 42 through 54 to give a lower degree bound of 56 for a polynomial whose measure is strictly between one and Lehmer's.

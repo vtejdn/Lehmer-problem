@@ -26,5 +26,8 @@ The general first assertion of Theorem 1 already includes all such substitutions
 Section 3 distinguishes verification of the per-degree minima from enumeration of all such polynomials below \(1.3\).
 The latter list is exhaustive through degree 44, using earlier results and the searches at degrees 42 and 44.
 The authors also report additional examples beyond degree 44.
+The introduction credits FRS06 with the earlier computations through 40, while Table 2 gives the new per-degree searches from 42 through 54.
+The [degree-34 numerical discrepancy](../FRS06/Yin_U001.md#printed-example) affects a displayed auxiliary function in that earlier source.
+The [replacement first-trace bound](../../../ledger/Yin_L_G0462_v267.md#repair) recovers the integer conclusion over the relevant range.
 I checked both assertions of Theorem 1, the coefficient and measure columns in Table 1, and the scope of the two searches against §3 and its Tables 2–3.
 I use the published computational theorem at statement scope and did not rerun its coefficient enumeration or verify its long numerical search independently. [Computations and scope](../../../literature/pdf/MRW08--author.pdf#page=9)

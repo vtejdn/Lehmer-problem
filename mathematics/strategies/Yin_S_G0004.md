@@ -188,7 +188,8 @@ For a fixed squarefree product at its own degree, [genuine double contacts exist
 To close 223 one must control the least one-norm as the pair varies, or exhibit an actual pair and a row under the cutoff \(1091659\).
 The smaller factor must have multiplicative measure below \(1.089\), so it suffices for an exclusion to test this lower cutoff in degrees 56 and 58.
 The [certified Newton-sum bounds and exact count](../computations/programs/Yin_J_G0179/readme.md#counts) leave 4,848,935,345 coefficient vectors up to sign substitution after removing power substitutions.
-Apply the [cyclotomic resultant and discriminant inequalities](../ledger/Yin_L_G0462_v266.md#linear) to prefixes before reconstructing the full polynomials and comparing their measures.
+The [first fifteen Newton sums](../computations/programs/Yin_J_G0179/versions/v2/readme.md#counts) exclude 1,457,530,662 of these representatives by cyclotomic resultants, leaving 914,510,217 in degree 56 and 2,476,894,466 in degree 58.
+For these remaining vectors, use the reciprocal coefficients to recover higher Newton sums and test the [discriminant inequality](../ledger/Yin_L_G0462_v266.md#energy) before expensive exact measure comparisons.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

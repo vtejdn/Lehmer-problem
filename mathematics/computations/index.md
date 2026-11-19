@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J179, fifteen Newton sums](programs/Yin_J_G0179/versions/v2/readme.md#counts) counts complete coefficient vectors excluded by cyclotomic resultants in each of the two remaining degrees at 223.
+
 - [J179, degrees 56 and 58 at measure 1.089](programs/Yin_J_G0179/readme.md#bounds) certifies the necessary Newton sums through the central coefficient and counts the surviving integer vectors.
 
 - [J177, octic at width nine](programs/Yin_J_G0177/versions/v2/readme.md#census) gives exact least costs for one seed at all 53 odd primes through 251. The sole prime within the cutoff is 17, with least cost 91,698.
