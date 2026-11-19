@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v609](Yin_R_G0562_v609.md#finding) checks every represented degree, both budgets, the Kummer field alternative and the first-degree and progression bounds.
+
+- [R562 v608](Yin_R_G0562_v608.md#finding) checks all radical orders above the gcd with the uniform modulus, with the height bound and the prime and quartic binomial cases.
+
 - [R562 v607](Yin_R_G0562_v607.md#finding) checks the finite search recovering every bounded joint support, its rational degree ratios and the remaining radical test.
 
 - [R562 v606](Yin_R_G0562_v606.md#finding) checks preservation of both supports, the fixed-prime progressions and the conditional gap with arbitrarily slowly increasing base bounds.

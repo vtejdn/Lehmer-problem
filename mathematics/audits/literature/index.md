@@ -166,6 +166,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Hun74](Hun74/readme.md) | [Yin_U001](Hun74/Yin_U001.md), [Yin_U002](Hun74/Yin_U002.md), [Yin_U003](Hun74/Yin_U003.md), [Yin_U004](Hun74/Yin_U004.md), [Yin_U005](Hun74/Yin_U005.md), [Yin_U006](Hun74/Yin_U006.md), [Yin_U007](Hun74/Yin_U007.md) |
 | [JKS24](JKS24/readme.md) | [Yin_U001](JKS24/Yin_U001.md) |
 | [JKZ08](JKZ08/readme.md) | [Yin_U001](JKZ08/Yin_U001.md#simple-generators-and-gram): finite E8 simple generators and the actual positive Gram convention |
+| [JP18](JP18/readme.md) | [Capelli's binomial and composition criteria](JP18/Yin_U001.md#jp18-u001) |
 | [JR17](JR17/readme.md) | [Yin_U001](JR17/Yin_U001.md) |
 | [JT26](JT26/readme.md) | [Yin_U001](JT26/Yin_U001.md), [Yin_U002](JT26/Yin_U002.md) |
 | [Jen25](Jen25/readme.md) | [Yin_U001](Jen25/Yin_U001.md) |
@@ -245,6 +246,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [PP08](PP08/readme.md) | [Yin_U001](PP08/Yin_U001.md) |
 | [PR04](PR04/readme.md) | Source and edition notes |
 | [PRT22](PRT22/readme.md) | [Yin_U001](PRT22/Yin_U001.md#prt22-u001): squarefree Sturm counting, positive normalization and source limits |
+| [PST21](PST21/readme.md) | [A computable level for maximal growth of cyclotomic Kummer fields](PST21/Yin_U001.md#pst21-u001) |
 | [PT21](PT21/readme.md) | [Complex Salem numbers and the Salem lift](PT21/Yin_U001.md#pt21-u001) |
 | [PZ22](PZ22/readme.md) | [Yin_U001](PZ22/Yin_U001.md) |
 | [Pap96](Pap96/readme.md) | [Multiplicative orders above the square-root scale](Pap96/Yin_U001.md#rank-one-orders) |
