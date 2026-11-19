@@ -40,3 +40,18 @@ This statement is accepted at its exact hypothesis scope, without a new full-pro
 In particular it applies to irreducible noncyclotomic Littlewood polynomials, whose coefficients are all -1 or 1.
 It is not asserted for the ternary coefficient box {-1,0,1}, or for an arbitrary factor after removing cyclotomic factors from a Littlewood polynomial, since the factor need not keep odd coefficients.
 [C870](../../../claims/Yin_C_G0870_v1.md#model-selection-and-remaining-target) uses this interface to distinguish sampling models in the counterexample search.
+
+<a id="lower-littlewood-sections"></a>
+## The lower sequence of Littlewood Salem polynomials
+
+The published article, Theorem 6.2 and its proof on printed pp. 363–364, gives irreducible reciprocal Littlewood polynomials whose Salem numbers increase to the golden ratio from below.
+Its formula (6.1) is the \(m=3\) case of the following family, displayed on printed p. 365 for every \(m\ge3,\ n\ge1\).
+Write \(f_m=X^{m-1}-\sum_{j=0}^{m-2}X^j\), \(f_m^*=X^{m-1}f_m(1/X)\), and
+\[
+ A_{m,n}=X^{2mn}+f_m^*\sum_{j=0}^{2n-1}X^{mj}.
+\]
+For general \(m\) the authors propose that its Salem roots approach the multinacci root of \(f_m\) from below.
+Their added-in-proof note points to Mukunda's *Littlewood Pisot numbers*, whose published abstract also states a one-sided approximation result within the Littlewood class.
+The [journal article by Mukunda](https://doi.org/10.1016/j.jnt.2005.05.009) supplies historical context here at the scope of its abstract.
+On 2026-11-19 Yin's research agent checked (6.1), the irreducibility and limit assertions in the proof, and the parameter range, both displayed families and the added-in-proof citation on p. 365 against the [published BDM07 original](../../../literature/pdf/BDM07.pdf#page=19).
+The [project calculation](../../../claims/Yin_C_G0345_v478.md#factors) determines the cofactor and residue orders directly for the lower family and applies the project's criterion for half branch mass.

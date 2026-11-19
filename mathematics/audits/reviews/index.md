@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v613](Yin_R_G0562_v613.md#finding) checks exact threshold tests, full degree enumeration at varying width slopes and compatible runs in a positive interval.
+
+- [R562 v612](Yin_R_G0562_v612.md#finding) checks the uniform five-term real-root exclusion and the two translated residue lists at good odd primes.
+
+- [R562 v611](Yin_R_G0562_v611.md#finding) checks the actual Salem factor, cyclotomic divisors and all admissible power exponents for the lower Littlewood family.
+
+- [R562 v610](Yin_R_G0562_v610.md#finding) checks full rank outside boundedly many shifts, the centered determinant estimate and bounded gaps at every late prime.
+
 - [R562 v609](Yin_R_G0562_v609.md#finding) checks every represented degree, both budgets, the Kummer field alternative and the first-degree and progression bounds.
 
 - [R562 v608](Yin_R_G0562_v608.md#finding) checks all radical orders above the gcd with the uniform modulus, with the height bound and the prime and quartic binomial cases.

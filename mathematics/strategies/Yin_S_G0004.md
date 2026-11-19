@@ -275,7 +275,12 @@ The [uniform radical modulus](../claims/Yin_C_G0345_v475.md#statement) reduces d
 For the quadratic example [modulus two already suffices](../ledger/Yin_L_G0462_v281.md#orders), and the odd and even radical orders carry different measures.
 At fixed \(p,C\), the [exact progression test](../claims/Yin_C_G0345_v476.md#degrees) now counts all degrees, keeps the measure on each progression and detects emptiness even when the width cost is included.
 The unresolved exclusion concerns infinitely many primes with increasing span caps.
-Determine whether the resultant and successive-minimum bounds force the finite compressed list to have no admissible residue class along such a sequence.
+The [uniform displacement estimate](../claims/Yin_C_G0345_v477.md#intervals) makes it sufficient to find long intervals where the fraction of passing degrees tends to zero.
+When the target is Salem and \(p\) grows like the square of the logarithm of the block degree, [no five-term row survives](../claims/Yin_C_G0345_v479.md#elimination) in sufficiently large degrees, even when its positions are arbitrary.
+The [strict spectral test](../claims/Yin_C_G0345_v480.md#spectrum) at increasing width slopes also permits testing the degree-ten measure itself.
+For the construction through half branch mass, the [lower Littlewood sequence](../claims/Yin_C_G0345_v478.md#primes) below the golden ratio has prime sections where every admissible exponent is a multiple of the degree plus one.
+For any fixed nonempty finite set of primes \(S\) all at least five, take \(m=3\) and \(N=(\prod_{q\in S}q)^{2j}\) with \(j\ge1\), so \(N=6n+1\).
+The [residue orders of the Salem factor](../claims/Yin_C_G0345_v478.md#factors) then give exactly the exponents divisible by a member of \(S\), even as the Salem inputs approach the same limit.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
