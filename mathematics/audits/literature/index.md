@@ -108,6 +108,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [ESM25](ESM25/readme.md) | Source and edition notes |
 | [ESS02](ESS02/readme.md) | [Yin_U001](ESS02/Yin_U001.md) |
 | [Elk19](Elk19/readme.md) | [Yin_U001](Elk19/Yin_U001.md) |
+| [Eps99](Eps99/readme.md) | [Parabolic fixed points and infinite critical orbits](Eps99/Yin_U001.md#fixed-points) |
 | [Erd14](Erd14/readme.md) | [Yin_U001](Erd14/Yin_U001.md) |
 | [Erd32](Erd32/readme.md) | [A prime between an integer and its double](Erd32/Yin_U001.md#erd32-u001) |
 | [FH09](FH09/readme.md) | [Yin_U001](FH09/Yin_U001.md) |
