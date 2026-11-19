@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v627](Yin_R_G0562_v627.md#finding) checks the full dyadic prime-sum estimate and the quadratic lower bound for the logarithmic row resultant.
+
+- [R562 v626](Yin_R_G0562_v626.md#finding) checks the fourth-power divisor at all reciprocal contacts, the cyclotomic product and the large resultants at sharp coefficient cost.
+
+- [R562 v625](Yin_R_G0562_v625.md#finding) checks the common factor at opposite prime residues and the uniform count of prime partners at near-minimal cost.
+
 - [R562 v624](Yin_R_G0562_v624.md#finding) checks the common-prime cost on arbitrary products of prime sets and the bounded number of rejected partners for each large first prime.
 
 - [R562 v623](Yin_R_G0562_v623.md#finding) checks the bounded gaps for each strictly subcritical measure and the uniform displacement estimates.

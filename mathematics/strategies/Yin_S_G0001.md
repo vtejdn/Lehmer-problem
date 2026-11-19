@@ -136,6 +136,9 @@ For several primes the [shared row pair](../ledger/Yin_L_G0462_v243.md#common) m
 Its [sharp cost on separated scales](../claims/Yin_C_G0345_v487.md#statement) extends to [almost every tuple from arbitrary large sets of comparable primes](../claims/Yin_C_G0345_v491.md#statement), including sets confined to a common short interval.
 For two primes, seek arbitrarily large \(p\) with an unbounded number of rejected partners \(q\in[p,2p]\) at a fixed threshold \(Q>1\) through \(6/5\) and a width tending to infinity.
 A single measure below the threshold would work simultaneously at each such pair outside a bounded number of partners per \(p\).
+The [common factor in opposite residue classes](../claims/Yin_C_G0345_v492.md#partners) occurs even in rows of near-minimal cost for the degree-ten seed at moduli up to any fixed power of \(\log p\).
+For a fixed reciprocal seed the [ordinary resultant of the two rows](../claims/Yin_C_G0345_v493.md#statement) already grows exponentially at one exponent, and on some sets of primes it exceeds every fixed power of the row norm even at asymptotically minimal cost.
+To obtain rejected partners from this divisor, seek a bound relating it to the available degrees and coefficients that is uniform as the seed degree grows and its measure decreases.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.
 The [exact fixed-degree algorithm](../claims/Yin_C_G0345_v409.md#statement) permits comparison of actual least costs and attaining rows as the prime or the width varies.

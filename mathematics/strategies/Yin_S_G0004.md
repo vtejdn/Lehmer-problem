@@ -286,6 +286,8 @@ Look for a prime restriction on the coefficients of the bounded mixed blocks or 
 For bounded seed degree, [the two opposite prime progressions](../claims/Yin_C_G0345_v488.md#progressions) force opposite reflection centers on the signed rows and an extra factor in the transverse determinant content.
 At \(b<4d\) every occupied class of a radical support must [have its reflected partner](../claims/Yin_C_G0345_v488.md#radicals), even when the original degree is unbounded.
 The [sharp interval estimate](../claims/Yin_C_G0345_v490.md#statement) now supplies the bounded-gap conclusion for every measure strictly below the chosen threshold at increasing width slopes.
+Across all primes \(p\in[L,2L]\), the [cyclotomic factors indexed by sums of distinct primes](../claims/Yin_C_G0345_v494.md#resultant) force \(\log|\operatorname{Res}(U,V)|\gg_P L^2\) for every common pair attached to a fixed reciprocal seed \(P\).
+Common pairs still exist with \(\log H\le(2\log M(P)+o(1))\sum p\), so an exclusion through this divisor must also control the coefficients or degrees of the rows.
 In using [Dobrowolski's support estimate for a divisor](../audits/literature/Dob06/Yin_U001.md#irreducible), retain the ratio of the divisor's degree to that of its multiple.
 For the construction through half branch mass, the [lower Littlewood sequence](../claims/Yin_C_G0345_v478.md#primes) below the golden ratio has prime sections where every admissible exponent is a multiple of the degree plus one.
 For any fixed nonempty finite set of primes \(S\) all at least five, take \(m=3\) and \(N=(\prod_{q\in S}q)^{2j}\) with \(j\ge1\), so \(N=6n+1\).
