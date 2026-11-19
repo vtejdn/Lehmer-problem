@@ -181,9 +181,9 @@ For the general signed-row test, the [disk interpolation matrix](../ledger/Yin_L
 The [logarithmic radii of the numerator and denominator roots](../claims/Yin_C_G0345_v418.md#radii) must also follow the powered roots with their prescribed multiplicities.
 Compare the degree sum and the intrinsic measure budget for two factors with unequal Mahler measures.
 The [two-value test](../claims/Yin_C_G0345_v420.md#consequence) makes a finite example at any one prime sufficient for a strict improvement on the degree-ten example.
-At the [first remaining prime, 101](../ledger/Yin_L_G0462_v262.md#frontier), using the numerator at the original roots forces both polynomial discriminants to be divisible by \(101^5\) and their product by \(101^{12}\).
-The [cyclotomic resultants](../ledger/Yin_L_G0462_v263.md#orders) exclude 47 multiplicative orders from the roots of either reduction.
-Test the remaining residue factors against both discriminants, their common factors modulo 101 and the coefficient bound 58.
+The [local analytic bound](../claims/Yin_C_G0345_v422.md#conclusion) excludes both degree pairs left by the discriminant and residue-order screens at 101, and excludes every two-value row through prime 211.
+At 223 the formal width reaches 114, enough to hold the reduced product of two degree-56 minima.
+Use the valuations of the two row values at the powered roots and the Taylor coefficients on each residue disk to constrain the row beyond this degree comparison.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v543](Yin_R_G0562_v543.md#finding) verifies the double-factor construction at fixed width and the quantitative gap from an infinite two-value exclusion.
+
+- [R562 v542](Yin_R_G0562_v542.md#finding) verifies the local zero count and the exclusion of two distinct measures at every prime through 211.
+
+- [R562 v541](Yin_R_G0562_v541.md#finding) checks the all-integer limit, degree-preserving powers and simultaneous congruences at factorial exponents.
+
 - [R562 v540](Yin_R_G0562_v540.md#finding) checks the resultant bound and independently recovers all 47 excluded residue orders at 101.
 
 - [R562 v539](Yin_R_G0562_v539.md#finding) checks the exclusion through 97, the possible factor degrees and discriminants at 101, and the scope of the external degree theorem.
