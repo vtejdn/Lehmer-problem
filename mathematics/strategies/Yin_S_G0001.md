@@ -139,6 +139,10 @@ A single measure below the threshold would work simultaneously at each such pair
 The [common factor in opposite residue classes](../claims/Yin_C_G0345_v492.md#partners) occurs even in rows of near-minimal cost for the degree-ten seed at moduli up to any fixed power of \(\log p\).
 For a fixed reciprocal seed the [ordinary resultant of the two rows](../claims/Yin_C_G0345_v493.md#statement) already grows exponentially at one exponent, and on some sets of primes it exceeds every fixed power of the row norm even at asymptotically minimal cost.
 To obtain rejected partners from this divisor, seek a bound relating it to the available degrees and coefficients that is uniform as the seed degree grows and its measure decreases.
+When the two contacts have different minimal polynomials, the [fourth power of the resultant of their powered minima](../claims/Yin_C_G0345_v496.md#statement) divides the ordinary row resultant after an explicit correction for the two power-order indices, the exponents and the original seed resultant.
+Determine how much of the powered resultant lies at primes outside these correction factors as \(p,q\) vary, and compare that part with the available coefficient budget for all admissible seeds.
+Use \(Q=(1091/1000)^{1/3}\) for this comparison on \(p\le q\le2p\).
+The [weighted cost bound](../ledger/Yin_L_G0462_v243.md#tangencies) puts each seed's multiplicative measure strictly below \(Q^3=1.091\), so [every power of either seed has degree at least 68](../claims/Yin_C_G0345_v429.md#statement).
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.
 The [exact fixed-degree algorithm](../claims/Yin_C_G0345_v409.md#statement) permits comparison of actual least costs and attaining rows as the prime or the width varies.

@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v629](Yin_R_G0562_v629.md#finding) checks the two power-order indices and the integral divisibility with one factor of the ordinary row resultant.
+
+- [R562 v628](Yin_R_G0562_v628.md#finding) checks the resultant for different seeds and its full local multiplicity away from the stated exceptional primes.
+
 - [R562 v627](Yin_R_G0562_v627.md#finding) checks the full dyadic prime-sum estimate and the quadratic lower bound for the logarithmic row resultant.
 
 - [R562 v626](Yin_R_G0562_v626.md#finding) checks the fourth-power divisor at all reciprocal contacts, the cyclotomic product and the large resultants at sharp coefficient cost.
