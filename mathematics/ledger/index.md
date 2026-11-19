@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v276](Yin_L_G0462_v276.md#center) | A cofactor divisor for a Salem unit and its square | The collision at one has order four at either sign. Its contribution gives the upper bound \((6d-4)\log\delta\) for the primitive height rate at minimum width. |
 | [Yin_L_G0462_v275](Yin_L_G0462_v275.md#rate) | Shared cyclotomic factors for consecutive powers | The maximum multiplicity on each order gives the contraction cost and separate nonvanishing witnesses improve the many-value test. |
 | [Yin_L_G0462_v274](Yin_L_G0462_v274.md#precision) | Limits of dyadic congruences | Explicit coprime rows pass the modular tests without the prescribed factors, even in images of the exact integral kernel at squarefree reduction. |
 | [Yin_L_G0462_v272](Yin_L_G0462_v272.md#rate) | Signed boundary nodes at arbitrary exponents | Discarding primes dividing the exponent and separating torsion phases gives the least norm for fixed lists and realizes dyadic levels at every large exponent. |

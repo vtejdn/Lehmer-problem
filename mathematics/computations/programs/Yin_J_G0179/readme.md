@@ -7,6 +7,7 @@ author: Yin
 The [nine-degree census at 1.06](versions/v11/readme.md#census) uses the [larger ellipse certificates](versions/v7/readme.md#weights) to cover even degrees 68 through 84.
 The [four degree-specific censuses](versions/v12/readme.md#census) use separate measure cutoffs to test the remaining degree pairs at prime 251, with the certificates and reproduction commands at those versions.
 The [thirteen higher-degree censuses](versions/v13/readme.md#census) bound measures in degrees 86 through 110 and restrict the first possible triple of qualifying degrees to prime 499.
+The [degree-72 census](versions/v14/readme.md#census) raises its cutoff to 1.068 and excludes that triple.
 
 <a id="bounds"></a>
 ## Question and scope

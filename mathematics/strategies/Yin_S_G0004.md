@@ -193,9 +193,9 @@ The [completed degree-60 and degree-62 census](../computations/programs/Yin_J_G0
 The [six-degree enumeration at 1.091](../claims/Yin_C_G0345_v429.md#degree) covers the smaller measure of any qualifying pair at every prime.
 The [four degree-specific cutoffs](../claims/Yin_C_G0345_v440.md#pairs) exclude the three pairs at 251; at 257 the remaining ordered degrees are \((68,60),(70,58),(72,56)\).
 The [thirteen-degree census](../claims/Yin_C_G0345_v449.md#degree) requires degree at least 112 whenever \(1<M\le1.02\).
-For three distinct values the [strict degree and measure budgets](../claims/Yin_C_G0345_v449.md#primes) exclude every prime through 491.
-At 499 only the ordered degrees \(86,72,72\) survive, with the degree-86 measure strictly between \(1.042\) and \(1.057\).
-The remaining two factors must have different measures and both must satisfy the degree-72 cutoff in the same product budget.
+For three distinct values the [degree-72 exclusion and the strict measure budget](../claims/Yin_C_G0345_v454.md#primes) rule out every prime through 499.
+At 503 the four remaining degree triples each use all 232 degrees, forcing the primitive row to reduce to a scalar multiple of the product of the three minima.
+Test degrees 86, 88 and 92 at respective cutoffs \(1.04902,1.04116,1.02769\), since the first cutoff would exclude both triples containing degree 86 and the other two would exclude one each.
 For degree-independent tests, the [angular moment inequality](../ledger/Yin_L_G0462_v268.md#matrix) bounds the sum of all negative eigenvalue magnitudes by an explicit function of the measure.
 For fixed inputs and growing primes the [contraction and interpolation rate](../claims/Yin_C_G0345_v425.md#statement) gives the exact cost under the stated multiplicative-relation condition, including a choice of representatives for every pair of sufficiently small unequal measures.
 For the [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#tests), fix an all-power unit \(\delta\) and seek an infinite subsequence excluding its pair \(\delta,\delta^2\), allowing the subsequence to depend on the input.
@@ -230,9 +230,9 @@ For [every such support at sublinear width](../claims/Yin_C_G0345_v451.md#statem
 For each fixed support the [projective height formula](../claims/Yin_C_G0345_v451.md#height) decides the strict norm budget on each exponent progression.
 At the minimum width for a [quadratic unit and its square](../computations/programs/Yin_J_G0177/versions/v4/readme.md#costs) the five required coefficients cost \(8\log c\), while unlimited support at growing width costs \(3\log c\).
 Determine whether a lower bound on the finite polynomial supports in that height formula survives changes of degree and support for inputs with small Mahler measure.
-For a Salem seed and its square, use one variable per inverse pair of seed conjugates and evaluate the second orbit at their squares.
-The [quadratic computation](../computations/programs/Yin_J_G0177/versions/v4/readme.md#certificate) removes four copies of \(z-1\) from the minors at minimum width.
-Determine which common polynomial divisors survive in higher degree before using the [independent-variable formula](../ledger/Yin_L_G0462_v254.md#support) to bound the cost.
+For a Salem seed \(\delta\) of degree \(d\) and its square at minimum width \(2d\), the [fourth-order divisor at each inversion fixed point](../ledger/Yin_L_G0462_v276.md#order) removes exactly four copies of \(z_i-1\) from the minors.
+The [primitive height formula](../ledger/Yin_L_G0462_v276.md#upper) gives the rate \((6d-4-\sum_i w_i/d)\log\delta\), where \(w_i\) is the exponent width of the remaining common divisor in the variable of the \(i\)-th inverse pair.
+Estimate the remaining widths by following isolated and simultaneous collisions of the nodes and their squares.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
