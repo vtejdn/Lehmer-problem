@@ -111,6 +111,8 @@ Excluding a second value on infinitely many indices of the original count would 
 The [local multiplicity bound](../claims/Yin_C_G0345_v422.md#statement) excludes two values for both signs at every prime through 211.
 For the infinite-subsequence question, use the [fixed-multiplicity test](../claims/Yin_C_G0345_v423.md#cost) with double factors and arbitrarily slowly growing width, where the full reduced product must divide the row at large primes.
 Along factorial exponents, the [simultaneous divisibility conditions](../claims/Yin_C_G0345_v421.md#factorial) constrain the Taylor coefficients at one across several primes.
+As a second test, the exponent may be [fixed at two](../claims/Yin_C_G0345_v424.md#statement) while the required multiplicity grows.
+At fixed total degree its counting limit has a computable onset, so deviations from a proposed uniform bound can be tested at specified degrees.
 For the octic at width nine that rate is bounded [below by \(21\log\rho/8\) and above by \(9\log\rho/2\)](../ledger/Yin_L_G0462_v255.md#bounds).
 The cutoff lies strictly between these bounds, and at each sign at most one rational line can qualify for sufficiently large exponents.
 The [finite width-nine minima](../computations/programs/Yin_J_G0177/versions/v2/readme.md#census) give a genuine hit for this octic at \(p=17\) and none at the other odd primes through 251.

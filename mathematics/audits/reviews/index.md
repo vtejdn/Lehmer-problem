@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v546](Yin_R_G0562_v546.md#finding) verifies the exact rank, the parameters at every prime-power precision and the specified-pair decision at 223.
+
+- [R562 v545](Yin_R_G0562_v545.md#stronger) verifies the extra congruence on each lower derivative and bounds residue multiplicities at 223 by 30 at endpoints and 22 elsewhere.
+
+- [R562 v544](Yin_R_G0562_v544.md#finding) verifies the uniform limit at fixed or varying exponent and the computable threshold at fixed total degree.
+
 - [R562 v543](Yin_R_G0562_v543.md#finding) verifies the double-factor construction at fixed width and the quantitative gap from an infinite two-value exclusion.
 
 - [R562 v542](Yin_R_G0562_v542.md#finding) verifies the local zero count and the exclusion of two distinct measures at every prime through 211.

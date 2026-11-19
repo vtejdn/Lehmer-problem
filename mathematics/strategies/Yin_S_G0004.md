@@ -182,8 +182,10 @@ The [logarithmic radii of the numerator and denominator roots](../claims/Yin_C_G
 Compare the degree sum and the intrinsic measure budget for two factors with unequal Mahler measures.
 The [two-value test](../claims/Yin_C_G0345_v420.md#consequence) makes a finite example at any one prime sufficient for a strict improvement on the degree-ten example.
 The [local analytic bound](../claims/Yin_C_G0345_v422.md#conclusion) excludes both degree pairs left by the discriminant and residue-order screens at 101, and excludes every two-value row through prime 211.
-At 223 the formal width reaches 114, enough to hold the reduced product of two degree-56 minima.
-Use the valuations of the two row values at the powered roots and the Taylor coefficients on each residue disk to constrain the row beyond this degree comparison.
+At 223 the [resultant and derivative congruences](../ledger/Yin_L_G0462_v264.md#frontier) leave only the degree pairs \((56,56)\) and \((56,58)\), with [residue multiplicities](../audits/reviews/Yin_R_G0562_v545.md#stronger) at most 30 at the two endpoints and 22 elsewhere.
+For each specified pair, the [exact integral kernel](../ledger/Yin_L_G0462_v265.md#frontier) reduces the search to three parameters or one primitive generator, respectively, for each sign.
+For a fixed squarefree product at its own degree, [genuine double contacts exist](../ledger/Yin_L_G0462_v265.md#units) at every sufficiently large prime before imposing the size cutoff.
+To close 223 one must control the least one-norm as the pair varies, or exhibit an actual pair and a row under the cutoff \(1091659\).
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

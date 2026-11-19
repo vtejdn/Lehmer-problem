@@ -12,6 +12,10 @@ The first assertion of Theorem 1 on p. 3 states that every \(P\in\mathbb Z[X]\) 
 The inequalities are strict and \(M\) is the multiplicative Mahler measure.
 The degree-ten polynomial attains the endpoint \(\rho\). [Theorem 1](../../../literature/pdf/MRW08--author.pdf#page=3)
 
+Coyston's thesis cites this paper as reference 27 on p. 254 and describes the verification as extending through degree 56 on p. 24.
+The primary theorem's lower bound \(\deg P\ge56\) leaves degree 56 open, and Table 1 ends at degree 54.
+At the [prime-223 frontier](../../../ledger/Yin_L_G0462_v264.md#frontier), both remaining degree pairs contain 56, so treating the secondary wording as an inclusive degree bound would discard both cases. [Coyston, p. 24](../../../literature/pdf/Coy22--thesis.pdf#page=24) · [Mossinghoff, Rhin and Wu, Theorem 1](../../../literature/pdf/MRW08--author.pdf#page=3)
+
 The theorem's second assertion identifies per-degree lower bounds for irreducible noncyclotomic polynomials at each even degree from 8 through 54, under the authors' additional primitivity condition.
 Their definition on pp. 2–3 requires that the polynomial cannot be written as \(S(X^k)\) for any \(k\ge2\).
 Table 1 specifies the minimizers by coefficients up to the reciprocal symmetry and gives their multiplicative measures numerically.
