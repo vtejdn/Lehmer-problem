@@ -7,4 +7,4 @@ Zheng Xiao's paper appeared in *Mathematische Zeitschrift* 306, article 61 (2024
 The [retained author preprint](../../../literature/pdf/Xia24--arxiv-v3.pdf) is [arXiv v3, 22 September 2023](https://arxiv.org/abs/2110.01751v3).
 It has 43 pages, and the printed page numbers agree with the PDF pages for the passages used.
 It supplies no table of contents.
-The local [almost-unit estimate](Yin_U001.md#almost), [placewise growth estimate](Yin_U001.md#arch), and [same-index recurrence theorem](Yin_U001.md#gcd) use this preprint's numbering.
+The local [almost-unit estimate](Yin_U001.md#almost), [placewise growth estimate](Yin_U001.md#arch), [same-index recurrence theorem](Yin_U001.md#gcd) and [Subspace Theorem and almost-unit equations](Yin_U001.md#subspace-and-unit-equations) use this preprint's numbering.

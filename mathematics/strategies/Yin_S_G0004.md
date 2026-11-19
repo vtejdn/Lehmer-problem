@@ -204,7 +204,9 @@ At the dyadic width \(\lceil n/\sqrt{\log n}\rceil\), [coprime rows with only un
 Use the archimedean sizes of integral representatives, or a slower growing width, in testing an exclusion by this method.
 For any fixed all-power reciprocal unit and any finite list of its powers, the [exact determinant at each exterior radius](../claims/Yin_C_G0345_v434.md#recurrences) gives the sharp cost at every sufficiently large integer, including powers of two and factorials.
 An infinite subsequence excluding three distinct values would therefore give the [unrestricted bound \((\log 2)/48\)](../claims/Yin_C_G0345_v434.md#statement).
-For lists from different fields, test whether an additional simple real zero still incurs a strict cost when other double nodes share its radius.
+For any fixed list of reciprocal unit minima, [one additional simple node incurs a strict cost](../claims/Yin_C_G0345_v436.md#descent) even at a radius shared with double nodes.
+The [sharp cost on every exponent separating the roots](../claims/Yin_C_G0345_v436.md#statement) realizes any fixed list of distinct positive irreducible measures with sum below \((\log2)/8\) at every sufficiently large integer after choosing representatives.
+The remaining exclusion must therefore control factors or rows whose arithmetic complexity can grow with the exponent.
 At exponents \(n,n+k\), the [two integral eliminations](../claims/Yin_C_G0345_v433.md#elimination) bound the degrees and measures of all common genuine double units for two fixed rows.
 The [critical orbit bound](../claims/Yin_C_G0345_v435.md#statement) charges each original conjugate to the distinct nonzero zeros and poles of the two reduced row ratios, with a bound independent of \(k\).
 In seeking a uniform exclusion for varying rows, test whether these zeros and poles can be bounded using the arithmetic of the seed or the coefficient budget.

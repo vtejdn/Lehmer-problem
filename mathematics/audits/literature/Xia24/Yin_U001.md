@@ -73,3 +73,24 @@ Shared Laurent factors in the exponential variables require separate analysis, a
 The inspection on 2026-11-18 checked the conventions, the three displayed source results, and the exceptional-set and local-growth steps used for these applications.
 The coefficient normalization, finite-place interpretation and Laurent-ring application above were checked from those statements.
 The paper's proof of Theorem 3.3 and its underlying Subspace Theorem were accepted as external inputs at statement scope.
+
+<a id="subspace-and-unit-equations"></a>
+## Fixed hyperplanes and almost-unit equations
+
+On 2026-11-19 I checked Theorem 2.1 on p. 8 and Lemma 2.11 on p. 11 in the same author preprint, together with the height and almost-unit conventions above.
+Both results are used at statement scope.
+
+For a number field \(k\), a finite set \(S\) of places and \(s\ge2\), fix at each \(v\in S\) a basis \(L_{1,v},\ldots,L_{s,v}\) of linear forms over \(k\) in \(s\) variables.
+Write \(\|x\|_v=\max_i|x_i|_v\) for the place-normalized projective coordinates and \(h([x])=\sum_v\log\|x\|_v\).
+At any fixed positive excess over \(s\,h([x])\) proportional to \(h([x])\), the points with
+\[
+  \sum_{v\in S}\sum_{i=1}^s\log\!\left(\frac{\|x\|_v}{|L_{i,v}(x)|_v}\right)
+       \ge (s+\epsilon)h([x])+O(1)
+\]
+lie in a finite union of proper projective hyperplanes.
+This is the number-field version of Schmidt's Subspace Theorem stated by Xiao. [Theorem 2.1](../../../literature/pdf/Xia24--arxiv-v3.pdf#page=8)
+
+For \(p\) nonzero coordinates, fix \(0<\delta<1/(p(p+1))\).
+Among almost \((S,\delta)\)-units, in the sense of Definition 1.2 with \(S\) containing all archimedean places, there are only finitely many solutions of \(y_1+\cdots+y_p=1\) for which no nonempty proper subsum of the left side vanishes.
+Here almost-unit height is measured on the affine tuple, including the coordinate \(1\) in the local maxima.
+Xiao gives this result as a special case of Evertse's theorem and refers to that work for the proof. [Lemma 2.11](../../../literature/pdf/Xia24--arxiv-v3.pdf#page=11)
