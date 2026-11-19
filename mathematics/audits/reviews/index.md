@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v553](Yin_R_G0562_v553.md#finding) checks the angular and Toeplitz inequalities, reproduces the prefix counts, and verifies reciprocal pencil counts by an independent root test.
+
+- [R562 v552](Yin_R_G0562_v552.md#claim-interface) verifies the sharp coefficient growth for fixed lists and the two-value consequence with its precise width and sign hypotheses.
+
 - [R562 v551](Yin_R_G0562_v551.md#finding) independently enumerates every remaining degree-56 and degree-58 representative and verifies the degree threshold at measure 1.089 and the prime-223 exclusion.
 
 - [R562 v550](Yin_R_G0562_v550.md#finding) checks the degree-34 first-trace bound against the published example and independently encloses the maxima on all three ellipses.

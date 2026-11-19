@@ -1,5 +1,13 @@
 # Computations Index
 
+- [J179, degrees 60 and 62](programs/Yin_J_G0179/versions/v6/readme.md#boxes) certifies the central Newton sums for the searches beyond prime 223.
+
+- [J179, middle coefficient and exterior roots](programs/Yin_J_G0179/versions/v5/readme.md#pencil) counts all roots outside a rational circle by comparing each middle coefficient with the same algebraic thresholds.
+
+- [J179, angular moments](programs/Yin_J_G0179/versions/v4/readme.md#counts) tests the first fifteen Newton sums by Fejér and positive-definiteness inequalities.
+
+- [J179, complete degree-56 and degree-58 screen](programs/Yin_J_G0179/versions/v3/readme.md#counts) exhausts the reciprocal candidates of measure at most 1.089 by reflection, cyclotomic division and Graeffe coefficients.
+
 - [J179, fifteen Newton sums](programs/Yin_J_G0179/versions/v2/readme.md#counts) counts complete coefficient vectors excluded by cyclotomic resultants in each of the two remaining degrees at 223.
 
 - [J179, degrees 56 and 58 at measure 1.089](programs/Yin_J_G0179/readme.md#bounds) certifies the necessary Newton sums through the central coefficient and counts the surviving integer vectors.

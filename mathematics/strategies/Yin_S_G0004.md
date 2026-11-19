@@ -182,14 +182,17 @@ The [logarithmic radii of the numerator and denominator roots](../claims/Yin_C_G
 Compare the degree sum and the intrinsic measure budget for two factors with unequal Mahler measures.
 The [two-value test](../claims/Yin_C_G0345_v420.md#consequence) makes a finite example at any one prime sufficient for a strict improvement on the degree-ten example.
 The [local analytic bound](../claims/Yin_C_G0345_v422.md#conclusion) excludes both degree pairs left by the discriminant and residue-order screens at 101, and excludes every two-value row through prime 211.
-At 223 the [resultant and derivative congruences](../ledger/Yin_L_G0462_v264.md#frontier) leave only the degree pairs \((56,56)\) and \((56,58)\), with [residue multiplicities](../audits/reviews/Yin_R_G0562_v545.md#stronger) at most 30 at the two endpoints and 22 elsewhere.
+At 223 the [resultant and derivative congruences](../ledger/Yin_L_G0462_v264.md#frontier) reduce the problem to the degree pairs \((56,56)\) and \((56,58)\), with [residue multiplicities](../audits/reviews/Yin_R_G0562_v545.md#stronger) at most 30 at the two endpoints and 22 elsewhere.
 For each specified pair, the [exact integral kernel](../ledger/Yin_L_G0462_v265.md#frontier) reduces the search to three parameters or one primitive generator, respectively, for each sign.
 For a fixed squarefree product at its own degree, [genuine double contacts exist](../ledger/Yin_L_G0462_v265.md#units) at every sufficiently large prime before imposing the size cutoff.
-To close 223 one must control the least one-norm as the pair varies, or exhibit an actual pair and a row under the cutoff \(1091659\).
-The smaller factor must have multiplicative measure below \(1.089\), so it suffices for an exclusion to test this lower cutoff in degrees 56 and 58.
-The [certified Newton-sum bounds and exact count](../computations/programs/Yin_J_G0179/readme.md#counts) leave 4,848,935,345 coefficient vectors up to sign substitution after removing power substitutions.
-The [first fifteen Newton sums](../computations/programs/Yin_J_G0179/versions/v2/readme.md#counts) exclude 1,457,530,662 of these representatives by cyclotomic resultants, leaving 914,510,217 in degree 56 and 2,476,894,466 in degree 58.
-For these remaining vectors, use the reciprocal coefficients to recover higher Newton sums and test the [discriminant inequality](../ledger/Yin_L_G0462_v266.md#energy) before expensive exact measure comparisons.
+The smaller factor would have multiplicative measure below \(1.089\).
+The [complete reciprocal enumeration](../computations/programs/Yin_J_G0179/versions/v3/readme.md#counts) excludes both degrees at this threshold.
+Of the 3,391,404,683 representatives from the [cyclotomic prefix tests](../computations/programs/Yin_J_G0179/versions/v2/readme.md#counts), exactly 1,667,277 pass through the 120th Newton sum and both endpoint tests, and every one of these has a cyclotomic divisor or exceeds a Graeffe coefficient bound.
+At 227 and 229 the [degree and local bounds](../ledger/Yin_L_G0462_v270.md#primes) force the smaller factor to have degree 60, while 233 also permits 62.
+Use the [next two trace boxes](../computations/programs/Yin_J_G0179/versions/v6/readme.md#boxes) and reflected sums in these degrees.
+For degree-independent tests, the [angular moment inequality](../ledger/Yin_L_G0462_v268.md#matrix) bounds the sum of all negative eigenvalue magnitudes by an explicit function of the measure.
+For fixed inputs and growing primes the [contraction and interpolation rate](../claims/Yin_C_G0345_v425.md#statement) gives the exact cost under the stated multiplicative-relation condition, including a choice of representatives for every pair of sufficiently small unequal measures.
+The remaining infinite-subsequence question requires estimates that continue to hold when the input degrees and splitting fields vary with the prime.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

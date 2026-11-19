@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v270](Yin_L_G0462_v270.md#descent) | Small measure in every power field | A relative norm transfers finite degree exclusions to every positive power and gives the degree restrictions beyond 223. |
+| [Yin_L_G0462_v269](Yin_L_G0462_v269.md#rate) | Least cost of simultaneous signed contacts | Cyclotomic contraction and interpolation give the sharp exponential rate for fixed lists satisfying the specified relation condition. |
+| [Yin_L_G0462_v268](Yin_L_G0462_v268.md#matrix) | Angular Newton sums | Projection to the unit circle bounds the total negative spectrum of each truncated moment matrix. |
 | [Yin_L_G0462_v267](Yin_L_G0462_v267.md#repair) | Degree-34 first-trace certificate | Three ellipse bounds recover the published integer trace bound and extend it to reciprocal irreducible noncyclotomic inputs of measure at most 1.177. |
 | [Yin_L_G0462_v266](Yin_L_G0462_v266.md#linear) | Short Newton prefixes at measure 1.089 | Cyclotomic resultants test finite signed sums, and a separate quadratic inequality uses the integer discriminant. |
 | [Yin_L_G0462_v265](Yin_L_G0462_v265.md#rank) | The exact integer kernel at prescribed factors | The two possible degree pairs at 223 give a line or a rank-three lattice for each fixed pair and sign. |
