@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v592](Yin_R_G0562_v592.md#finding) checks the six collision divisors, their contribution to the sparse height at arbitrary widths, and the exact minimum-width formula under the three trace exceptions.
+
 - [R562 v591](Yin_R_G0562_v591.md#finding) checks the effective width reduction, the preservation of both signed graphs and both numerator multiplicities, and the optional parity condition.
 
 - [R562 v590](Yin_R_G0562_v590.md#finding) checks why every exponentially bounded Salem row of minimum cardinality at unrestricted width must be a central shift of a bounded-width row.
