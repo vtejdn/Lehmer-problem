@@ -278,6 +278,12 @@ The unresolved exclusion concerns infinitely many primes with increasing span ca
 The [uniform displacement estimate](../claims/Yin_C_G0345_v477.md#intervals) makes it sufficient to find long intervals where the fraction of passing degrees tends to zero.
 When the target is Salem and \(p\) grows like the square of the logarithm of the block degree, [no five-term row survives](../claims/Yin_C_G0345_v479.md#elimination) in sufficiently large degrees, even when its positions are arbitrary.
 The [strict spectral test](../claims/Yin_C_G0345_v480.md#spectrum) at increasing width slopes also permits testing the degree-ten measure itself.
+For a bounded number of terms and sufficiently large exponent, [two simple contacts with a nonzero numerator](../claims/Yin_C_G0345_v482.md#statement) bound the smallest degree of any power in terms of the coefficient norm and the number of positions, at every integer width.
+At \(p\asymp(\log d)^2\) and coefficient norm at most \(\exp(Kp)\) for fixed \(K\), the [two-residue argument applied to the derivative](../claims/Yin_C_G0345_v483.md#width) also excludes separately vanishing parts at \(b<4d\) for large degrees preserved under all powers.
+Once higher powers are allowed to lose degree, [finite radical data and exponent differences](../claims/Yin_C_G0345_v486.md#patterns) recover the full set of degree and width pairs for each passing measure at a sufficiently large fixed prime and bounded term count.
+The [strict budget](../claims/Yin_C_G0345_v486.md#threshold) reduces the gap at a given threshold to excluding every such value at infinitely many primes while the term cap tends to infinity.
+Look for a prime restriction on the coefficients of the bounded mixed blocks or their logarithmic derivatives that excludes a subcritical base across all its allowed radicals.
+In using [Dobrowolski's support estimate for a divisor](../audits/literature/Dob06/Yin_U001.md#irreducible), retain the ratio of the divisor's degree to that of its multiple.
 For the construction through half branch mass, the [lower Littlewood sequence](../claims/Yin_C_G0345_v478.md#primes) below the golden ratio has prime sections where every admissible exponent is a multiple of the degree plus one.
 For any fixed nonempty finite set of primes \(S\) all at least five, take \(m=3\) and \(N=(\prod_{q\in S}q)^{2j}\) with \(j\ge1\), so \(N=6n+1\).
 The [residue orders of the Salem factor](../claims/Yin_C_G0345_v478.md#factors) then give exactly the exponents divisible by a member of \(S\), even as the Salem inputs approach the same limit.

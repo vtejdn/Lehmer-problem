@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v619](Yin_R_G0562_v619.md#finding) checks the full degree and width relation after radical lifting, including the strict threshold criterion.
+
+- [R562 v618](Yin_R_G0562_v618.md#finding) checks the enumeration of fixed-base vanishing patterns and all feasible widths for a power-stable unit.
+
+- [R562 v617](Yin_R_G0562_v617.md#finding) checks exact sparse degree progressions and their measures at bounded width-to-degree ratio.
+
+- [R562 v616](Yin_R_G0562_v616.md#finding) checks separate vanishing in two residue classes and the double-root width obstruction.
+
+- [R562 v615](Yin_R_G0562_v615.md#finding) checks the effective bound on the exponent and smallest power degree for a genuine sparse row.
+
+- [R562 v614](Yin_R_G0562_v614.md#finding) checks bounded affine relations on supports from two simultaneous contacts.
+
 - [R562 v613](Yin_R_G0562_v613.md#finding) checks exact threshold tests, full degree enumeration at varying width slopes and compatible runs in a positive interval.
 
 - [R562 v612](Yin_R_G0562_v612.md#finding) checks the uniform five-term real-root exclusion and the two translated residue lists at good odd primes.

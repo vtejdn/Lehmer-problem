@@ -20,6 +20,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [AM16](AM16/readme.md) | [Yin_U001](AM16/Yin_U001.md), [Yin_U002](AM16/Yin_U002.md), [Yin_U003](AM16/Yin_U003.md), [Yin_U004](AM16/Yin_U004.md), [Yin_U005](AM16/Yin_U005.md) |
 | [AP18](AP18/readme.md) | [Yin_U001](AP18/Yin_U001.md) |
 | [AS18](AS18/readme.md) | [Schinzel's rational specialization conjecture and the function-field theorem](AS18/Yin_U001.md#as18-u001) |
+| [ASZ17](ASZ17/readme.md) | [Effective intersections with torsion curves and simultaneous proper subsums](ASZ17/Yin_U001.md#asz17-u001) |
 | [AV09](AV09/readme.md) | [Yin_U001](AV09/Yin_U001.md) |
 | [AV12](AV12/readme.md) | [Height outside torsion cosets and a rational hyperplane example](AV12/Yin_U001.md#av12-u001) |
 | [AZ10](AZ10/readme.md) | [Yin_U001](AZ10/Yin_U001.md) |
