@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v579](Yin_R_G0562_v579.md#finding) checks the sharp cost for one or two odd orders at positive real nodes and the passage from the lower bound to genuine signed rows.
+
+- [R562 v578](Yin_R_G0562_v578.md#finding) checks the minimum support for double factors at growing widths, the individual almost-unit inequalities and an effective dyadic progression.
+  Its [dyadic completion finding](Yin_R_G0562_v578.md#dyadic-completion) checks the integral projection and coprimality argument independently.
+
+- [R562 v577](Yin_R_G0562_v577.md#finding) checks the order of dyadic precision needed to distinguish rows sharing both endpoint blocks with a genuine optimal row.
+
+- [R562 v576](Yin_R_G0562_v576.md#archimedean) independently checks both coordinate sizes and the exterior residual estimates in the fixed-width construction.
+  Its [whole-proof finding](Yin_R_G0562_v576.md#finding) records the shared context for the integral completion.
+
 - [R562 v575](Yin_R_G0562_v575.md#finding) checks the sharp cost of gaps between consecutive coefficients and the power-field and measure bounds for a dilated reduced ratio.
 
 - [R562 v574](Yin_R_G0562_v574.md#finding) checks the exact disk inertia for arbitrary fixed algebraic nodes at sufficiently large separating exponents, including the infinite kernel tail.

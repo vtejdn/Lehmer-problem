@@ -202,7 +202,8 @@ On a genuine row, \(f=-\varepsilon A/A_b^*\) satisfies \(f(\delta^n)=\delta\) an
 The [square identity](../claims/Yin_C_G0345_v428.md#square) bounds the total measure of all powered pairs on a single row across every exponent, and the [inverse test](../claims/Yin_C_G0345_v428.md#inverse) recovers each genuine double pair.
 The [two-radius bound](../claims/Yin_C_G0345_v428.md#house) gives an explicit polynomial loss against the sharp slope for a Salem seed.
 At the dyadic width \(\lceil n/\sqrt{\log n}\rceil\), [coprime rows with only unit-circle graph zeros](../ledger/Yin_L_G0462_v274.md#lifting) pass the remainder test up to every fixed slope below \(n/8\) in binary precision, including exact kernel classes when the reduction is squarefree.
-Use the archimedean sizes of integral representatives, or a slower growing width, in testing an exclusion by this method.
+Even at [constant width](../claims/Yin_C_G0345_v444.md#statement), both ends can attain their sharp coefficient sizes and give exponentially small normalized value and derivative errors at every exterior conjugate while the graph misses both targets.
+At growing sublinear width, [matching both endpoint blocks of a genuine row](../claims/Yin_C_G0345_v445.md#statement) allows false positives up to binary precision proportional to exponent times width.
 For any fixed all-power reciprocal unit and any finite list of its powers, the [exact determinant at each exterior radius](../claims/Yin_C_G0345_v434.md#recurrences) gives the sharp cost at every sufficiently large integer, including powers of two and factorials.
 An infinite subsequence excluding three distinct values would therefore give the [unrestricted bound \((\log 2)/48\)](../claims/Yin_C_G0345_v434.md#statement).
 For any fixed list of reciprocal unit minima, [one additional simple node incurs a strict cost](../claims/Yin_C_G0345_v436.md#descent) even at a radius shared with double nodes.
@@ -213,12 +214,16 @@ The [critical orbit bound](../claims/Yin_C_G0345_v435.md#statement) charges each
 For a single row, the [squarefree logarithmic derivative](../claims/Yin_C_G0345_v441.md#radical) charges the measures of all repeated factors to one copy of each uncanceled numerator factor.
 At sublinear widths, the [separated coefficient estimate](../claims/Yin_C_G0345_v443.md#cost) rules out every reduced support dilation of order at least two at the optimal slope when distinct root quotients are nontorsion.
 At each exterior radius, one of the two rows must attain the limiting coefficient bound on a complete consecutive interval.
-For dyadic exponents, compare these specific coefficient positions against the [binary lifting conditions](../ledger/Yin_L_G0462_v274.md#lifting), allowing both row choices at each radius.
+For the unit and its square, [independence of all small column sets](../claims/Yin_C_G0345_v446.md#statement) forces at least \(2d+1\) nonzero coefficients, with \(d\) the original degree.
+Every support of that size carries a unique rational line of exact solutions throughout the stated width range.
+Test the height of its primitive generator and its powered values, which the support count leaves free.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
 For higher fixed even orders the [two-center derivative calculation](../claims/Yin_C_G0345_v439.md#jets) gives the exact weighted cost for every fixed list on all separating exponents.
 The remaining odd equation forces a [strict increase in cost](../claims/Yin_C_G0345_v439.md#odd) after a common powered minimum is removed.
+For [one or two positive real exterior nodes of odd orders](../claims/Yin_C_G0345_v447.md#statement), rational approximation at the first coefficient pair gives the full half-weighted lower cost.
+The [jet-fiber argument](../claims/Yin_C_G0345_v447.md#attainment) converts a full-list lower bound into simultaneous genuine signed contacts, including dependent powers of the same Salem unit.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

@@ -91,6 +91,10 @@ lie in a finite union of proper projective hyperplanes.
 This is the number-field version of Schmidt's Subspace Theorem stated by Xiao. [Theorem 2.1](../../../literature/pdf/Xia24--arxiv-v3.pdf#page=8)
 
 For \(p\) nonzero coordinates, fix \(0<\delta<1/(p(p+1))\).
-Among almost \((S,\delta)\)-units, in the sense of Definition 1.2 with \(S\) containing all archimedean places, there are only finitely many solutions of \(y_1+\cdots+y_p=1\) for which no nonempty proper subsum of the left side vanishes.
-Here almost-unit height is measured on the affine tuple, including the coordinate \(1\) in the local maxima.
+With \(S\) containing the archimedean places, the lemma assumes \(y_i\in k_{S,\delta}\) for every \(i\).
+Equivalently, each coordinate satisfies \(\sum_{v\notin S}|\log|y_i|_v|\le\delta h(y_i)\).
+There are only finitely many solutions under these conditions of \(y_1+\cdots+y_p=1\) for which no nonempty proper subsum of the left side vanishes.
+Definition 1.2 and Remark 2.9 distinguish this Cartesian product from the single almost-unit inequality using the height of a point of the whole torus.
+In the [fixed-base application](../../../claims/Yin_C_G0345_v436.md#small-coefficients) each retained coordinate has height at least \(t h(\theta_i/\theta_j)-o(t)\), while the entire outside-\(S\) sum is \(o(t)\).
+Thus every coordinate satisfies the lemma separately for each fixed admissible \(\delta\) eventually.
 Xiao gives this result as a special case of Evertse's theorem and refers to that work for the proof. [Lemma 2.11](../../../literature/pdf/Xia24--arxiv-v3.pdf#page=11)
