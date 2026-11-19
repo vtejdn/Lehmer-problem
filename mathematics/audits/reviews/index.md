@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v551](Yin_R_G0562_v551.md#finding) independently enumerates every remaining degree-56 and degree-58 representative and verifies the degree threshold at measure 1.089 and the prime-223 exclusion.
+
 - [R562 v550](Yin_R_G0562_v550.md#finding) checks the degree-34 first-trace bound against the published example and independently encloses the maxima on all three ellipses.
 
 - [R562 v549](Yin_R_G0562_v549.md#finding) independently counts the complete degree-56 and degree-58 vectors removed by the cyclotomic tests through the first fifteen power sums.
