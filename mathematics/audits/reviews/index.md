@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v604](Yin_R_G0562_v604.md#finding) checks the degree and measure sums over every exponent on one row, the binomial obstruction and the coefficient-only counting tests.
+
+- [R562 v603](Yin_R_G0562_v603.md#finding) checks the fixed rational function's radical families, resultant divisibility, finite positive spectrum and uniqueness for two transverse rows.
+
+- [R562 v602](Yin_R_G0562_v602.md#finding) checks the field, residue and local multiplicity arguments that restrict the common stride and the normalized spans.
+
+- [R562 v601](Yin_R_G0562_v601.md#finding) checks transversality at the two signs, both fixed-width counts and the limiting formula for the unrestricted infimum.
+
 - [R562 v600](Yin_R_G0562_v600.md#composite-moduli) checks the simultaneous auxiliary prime powers, global primitivity and exact contents of the two example remainders.
 
 - [R562 v599](Yin_R_G0562_v599.md#finding) checks the five-term prime-power construction on a quarter of the degrees, its first nonzero digits and the two signed numerical witnesses.

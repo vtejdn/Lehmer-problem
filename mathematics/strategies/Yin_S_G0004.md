@@ -261,7 +261,12 @@ At width \(5d/2-1\), count degrees with the same two powered factors on the posi
 The primitive derivative polynomials must share the monic product of the two powered minima even after reduction modulo an auxiliary prime.
 For the two explicit degree-131262 representatives, a [degree-eight gcd modulo five](../ledger/Yin_L_G0462_v280.md#example) rejects the pair without supplying the original target.
 The [elimination determinant](../claims/Yin_C_G0345_v464.md#integral) for such a pair is divisible by the square of the product of the two powered minima.
-Seek a bound on the degrees supporting that integral divisibility while treating separately the pairs whose determinant vanishes identically.
+The [pairing of the two signed lattices](../claims/Yin_C_G0345_v468.md#pairing) supplies rows with nonzero determinant for the product-budget degree test.
+At width \(b<3d\) each fixed pair of such rows supports [at most one seed orbit and exponent](../claims/Yin_C_G0345_v470.md#pair) at that degree.
+For counting across different pairs, write a row as \(Y^wB(Y^k)\) after taking the largest common spacing \(k\) of its occupied positions.
+Under the original strict budget [the degree of \(B\)](../claims/Yin_C_G0345_v469.md#counts) must be at least \(86\), and at least \(172\) for every prime \(p>571\).
+This rules out the entire five-term arithmetic-progression family above for every target.
+At an arbitrary prime schedule the [single-row power equation](../claims/Yin_C_G0345_v471.md#counts) also allows a width-independent coefficient cutoff, at the cost of having to count all rows below that cutoff.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
