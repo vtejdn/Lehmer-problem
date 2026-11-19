@@ -247,7 +247,13 @@ Determine how small the first minimum can be given the known asymptotic product 
 For an arbitrary reciprocal seed whose powers preserve its degree \(d\), [every nonzero row is genuine](../claims/Yin_C_G0345_v462.md#rank) at widths from \(2d\) to \(5d/2-1\) for all sufficiently large exponents.
 The [unrestricted gap criterion](../claims/Yin_C_G0345_v462.md#gap) reduces the proof target to ruling out a passing row at the single width \(5d/2-1\) on arbitrarily large exponents for each seed.
 At sufficiently large prime exponents the [exact modular parametrization](../ledger/Yin_L_G0462_v265.md#rank) describes that lattice by a quotient of degree at most \(d/2-1\).
-Seek a lower bound for the shortest integral lift of those quotient coordinates, or a sequence of seeds with shortest-row growth tending to zero at widths \(2d+o(d)\).
+The [volume obstruction for a congruence sieve](../ledger/Yin_L_G0462_v279.md#volume) requires at least \(5\kappa n/4-O_d(\log n)\) logarithmic precision to exclude every nonzero coefficient representative at this width, where \(\kappa=(\log 2)/8\).
+For a primitive-row exclusion, constrain the primitive residue classes or use the [exact multiplier congruence](../claims/Yin_C_G0345_v464.md#integral), whose modulus is coprime to the sufficiently large exponent prime.
+At the first extra width the two finite quotient orders have common divisor at most four and the [two-integer approximation](../claims/Yin_C_G0345_v464.md#plane) gives the first minimum up to subexponential factors.
+In the [quartic computation at 55 exponents](../computations/programs/Yin_J_G0177/versions/v7/readme.md#approximation), at each exponent one of the two signs has \(\mu^2>J/26\).
+Determine whether some sign must have \(\log\mu\) growing linearly in the exponent on an infinite subsequence, and how such a bound would extend to the wider quotient.
+In the construction direction the [one-prime criterion](../claims/Yin_C_G0345_v465.md#statement) uses a primitive derivative score and permits arbitrarily slow increases in both the exponent prime and the support cap.
+Substitution preserves measure, so to construct a zero gap one must obtain original factors with decreasing positive measure.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.

@@ -6,6 +6,7 @@ author: Yin
 
 The [quartic minimum-support computation](versions/v5/readme.md#sample) gives the exact coefficient norms at widths eight and nine for four exponents, including the costs of omitting each position at width nine.
 The [complete width-nine calculation](versions/v6/readme.md#minima) also allows all ten coefficients and finds the first two independent minima at five exponents.
+The [cyclic quotient calculation](versions/v7/readme.md#approximation) determines the two modular approximation minima and the orders of both quotients at 55 exponents.
 
 <a id="census"></a>
 ## The fallback is the minimum at every odd prime through 1009

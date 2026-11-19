@@ -159,6 +159,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Har55b](Har55b/readme.md) | Undated Harvard Math 55b course notes; source and contents navigation |
 | [Hay59](Hay59/readme.md) | [Jensen's formula, its centered corollary and boundary zeros](Hay59/Yin_U001.md#hay59-u001) |
 | [Hec18](Hec18/readme.md) | [Yin_U001](Hec18/Yin_U001.md#hec18-u001): finite reflection classification and normalized A/B/D/F4 models |
+| [Hen02](Hen02/readme.md) | [Minkowski's product bound for successive minima](Hen02/Yin_U001.md#hen02-u001) |
 | [Hir06](Hir06/readme.md) | [Yin_U001](Hir06/Yin_U001.md) |
 | [Hoe63](Hoe63/readme.md) | [Yin_U001](Hoe63/Yin_U001.md#independent-sum) |
 | [Hou16](Hou16/readme.md) | [Yin_U001](Hou16/Yin_U001.md) |

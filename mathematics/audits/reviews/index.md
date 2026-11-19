@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v597](Yin_R_G0562_v597.md#finding) checks both one-prime degree tests, including arbitrarily slow support caps, the substitution of the graph, and the fixed-width budget.
+
+- [R562 v596](Yin_R_G0562_v596.md#finding) checks the denominator congruence, the size of the multiplication map, all Smith factor slopes, and the two cyclic quotient orders.
+
+- [R562 v595](Yin_R_G0562_v595.md#finding) checks the finite window of good primes, the rank at each target, the height constants, and the criterion recovering factors with measure tending to zero.
+
 - [R562 v594](Yin_R_G0562_v594.md#finding) checks the rank of each numerator evaluation, the height bound at width \(5d/2-1\), and the equivalence for vanishing slopes at widths \(2d+o(d)\).
 
 - [R562 v593](Yin_R_G0562_v593.md#finding) checks the fixed-width lattice volume and the lower bound on the combined support of up to eight independent passing rows.
