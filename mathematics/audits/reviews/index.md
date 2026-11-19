@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v560](Yin_R_G0562_v560.md#finding) verifies the aggregate bounds over all exponents of a fixed row, the finite house estimate and the exact double-pair recovery program.
+
+- [R562 v559](Yin_R_G0562_v559.md#local) verifies the dyadic kernel congruences and explicit rows with cyclotomic graphs. Its [second finding](Yin_R_G0562_v559.md#rates) checks the cost of shared cyclotomic factors for consecutive powers.
+
 - [R562 v557](Yin_R_G0562_v557.md#claim-interface) checks the least-cost law at arbitrary integer exponents and the conditional gap obtained from fixed double factors.
 
 - [R562 v556](Yin_R_G0562_v556.md#finding) verifies the complete degree-64 threshold at measure 1.089, the bound on every power field and the two-value exclusions through prime 233.

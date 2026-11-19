@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v275](Yin_L_G0462_v275.md#rate) | Shared cyclotomic factors for consecutive powers | The maximum multiplicity on each order gives the contraction cost and separate nonvanishing witnesses improve the many-value test. |
+| [Yin_L_G0462_v274](Yin_L_G0462_v274.md#precision) | Limits of dyadic congruences | Explicit coprime rows pass the modular tests without the prescribed factors, even in images of the exact integral kernel at squarefree reduction. |
 | [Yin_L_G0462_v272](Yin_L_G0462_v272.md#rate) | Signed boundary nodes at arbitrary exponents | Discarding primes dividing the exponent and separating torsion phases gives the least norm for fixed lists and realizes dyadic levels at every large exponent. |
 | [Yin_L_G0462_v271](Yin_L_G0462_v271.md#affine) | Reflected sums on a fixed prefix | Higher Newton sums through index \(2m+1\) are affine in the independent suffix coordinates after \(m\) sums are fixed. |
 | [Yin_L_G0462_v270](Yin_L_G0462_v270.md#descent) | Small measure in every power field | A relative norm transfers finite degree exclusions to every positive power and gives the degree restrictions beyond 223. |

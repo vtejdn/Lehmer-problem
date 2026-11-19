@@ -197,7 +197,10 @@ For the [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#tests), fix a
 For \(n=2^j\), the two minima have identical reductions modulo two.
 Use the [binary multiplicity formula](../claims/Yin_C_G0345_v421.md#frobenius) to measure what their common residue forces, then examine the two rational-function equations before reduction.
 On a genuine row, \(f=-\varepsilon A/A_b^*\) satisfies \(f(\delta^n)=\delta\) and \(f((\delta^n)^2)=\delta^2\).
-Test whether double contact at both points forces enough divisibility of the numerator of \(f(Y^2)-f(Y)^2\) to exclude a passing row.
+The [square identity](../claims/Yin_C_G0345_v428.md#square) bounds the total measure of all powered pairs on a single row across every exponent, and the [inverse test](../claims/Yin_C_G0345_v428.md#inverse) recovers each genuine double pair.
+The [two-radius bound](../claims/Yin_C_G0345_v428.md#house) gives an explicit polynomial loss against the sharp slope for a Salem seed.
+At the dyadic width \(\lceil n/\sqrt{\log n}\rceil\), [coprime rows with only unit-circle graph zeros](../ledger/Yin_L_G0462_v274.md#lifting) pass the remainder test up to every fixed slope below \(n/8\) in binary precision, including exact kernel classes when the reduction is squarefree.
+Use the archimedean sizes of integral representatives, or a slower growing width, in testing an exclusion by this method.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

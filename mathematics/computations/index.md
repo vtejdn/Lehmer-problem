@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J177, fixed rows over all exponents](programs/Yin_J_G0177/versions/v3/readme.md#test) recovers every unit with genuine double contacts at itself and its square from one polynomial factorization.
+
 - [J179, degrees 64 and 66](programs/Yin_J_G0179/versions/v7/readme.md#bounds) certifies first-half Newton boxes at measure 1.091 with 34 auxiliary polynomials and tests several reflected sums simultaneously.
 
 - [J179, degrees 60 and 62](programs/Yin_J_G0179/versions/v6/readme.md#census) excludes every irreducible noncyclotomic reciprocal polynomial of measure at most 1.089 in both degrees.
