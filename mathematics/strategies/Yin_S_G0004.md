@@ -204,6 +204,9 @@ The [two-radius bound](../claims/Yin_C_G0345_v428.md#house) gives an explicit po
 At the dyadic width \(\lceil n/\sqrt{\log n}\rceil\), [coprime rows with only unit-circle graph zeros](../ledger/Yin_L_G0462_v274.md#lifting) pass the remainder test up to every fixed slope below \(n/8\) in binary precision, including exact kernel classes when the reduction is squarefree.
 Even at [constant width](../claims/Yin_C_G0345_v444.md#statement), both ends can attain their sharp coefficient sizes and give exponentially small normalized value and derivative errors at every exterior conjugate while the graph misses both targets.
 At growing sublinear width, [matching both endpoint blocks of a genuine row](../claims/Yin_C_G0345_v445.md#statement) allows false positives up to binary precision proportional to exponent times width.
+For the fixed unit and square, put \(h=\log M(P)\) and \(d=\deg P\).
+The [sharp precision theorem](../claims/Yin_C_G0345_v450.md#statement) gives such examples of optimal norm even when \(q\log2/(nb)\) approaches \(h/d\) from any fixed margin below, at every sufficiently large integer exponent.
+Above that constant the field norm excludes a missing factor.
 For any fixed all-power reciprocal unit and any finite list of its powers, the [exact determinant at each exterior radius](../claims/Yin_C_G0345_v434.md#recurrences) gives the sharp cost at every sufficiently large integer, including powers of two and factorials.
 An infinite subsequence excluding three distinct values would therefore give the [unrestricted bound \((\log 2)/48\)](../claims/Yin_C_G0345_v434.md#statement).
 For any fixed list of reciprocal unit minima, [one additional simple node incurs a strict cost](../claims/Yin_C_G0345_v436.md#descent) even at a radius shared with double nodes.
@@ -224,6 +227,8 @@ For higher fixed even orders the [two-center derivative calculation](../claims/Y
 The remaining odd equation forces a [strict increase in cost](../claims/Yin_C_G0345_v439.md#odd) after a common powered minimum is removed.
 For [one or two positive real exterior nodes of odd orders](../claims/Yin_C_G0345_v447.md#statement), rational approximation at the first coefficient pair gives the full half-weighted lower cost.
 The [jet-fiber argument](../claims/Yin_C_G0345_v447.md#attainment) converts a full-list lower bound into simultaneous genuine signed contacts, including dependent powers of the same Salem unit.
+The [mixed-order determinant](../claims/Yin_C_G0345_v448.md#statement) retains the full cost when all smaller positive radii carry even orders after the two leading odd orders.
+When other radii intervene, the remaining deficit depends on their distances from the two odd radii.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

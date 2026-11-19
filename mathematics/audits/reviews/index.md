@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v582](Yin_R_G0562_v582.md#finding) checks the sharp precision threshold for rows with optimal norm and exact endpoint matching, including the treatment of poles on the unit circle.
+
+- [R562 v580](Yin_R_G0562_v580.md#finding) checks two odd contact orders among arbitrary even orders and the sharp result when the two largest positive radii carry the odd orders.
+
 - [R562 v579](Yin_R_G0562_v579.md#finding) checks the sharp cost for one or two odd orders at positive real nodes and the passage from the lower bound to genuine signed rows.
 
 - [R562 v578](Yin_R_G0562_v578.md#finding) checks the minimum support for double factors at growing widths, the individual almost-unit inequalities and an effective dyadic progression.
