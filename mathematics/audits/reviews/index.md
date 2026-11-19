@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v598](Yin_R_G0562_v598.md#finding) checks the lower density of joint witnesses in each dyadic interval and the conditional bounds at the two exact widths.
+
 - [R562 v597](Yin_R_G0562_v597.md#finding) checks both one-prime degree tests, including arbitrarily slow support caps, the substitution of the graph, and the fixed-width budget.
 
 - [R562 v596](Yin_R_G0562_v596.md#finding) checks the denominator congruence, the size of the multiplication map, all Smith factor slopes, and the two cyclic quotient orders.

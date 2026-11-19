@@ -254,6 +254,10 @@ In the [quartic computation at 55 exponents](../computations/programs/Yin_J_G017
 Determine whether some sign must have \(\log\mu\) growing linearly in the exponent on an infinite subsequence, and how such a bound would extend to the wider quotient.
 In the construction direction the [one-prime criterion](../claims/Yin_C_G0345_v465.md#statement) uses a primitive derivative score and permits arbitrarily slow increases in both the exponent prime and the support cap.
 Substitution preserves measure, so to construct a zero gap one must obtain original factors with decreasing positive measure.
+The [block count](../claims/Yin_C_G0345_v466.md#narrow) permits occasional passing degrees in a proof of the gap.
+At width \(5d/2-1\), count degrees with the same two powered factors on the positive and negative rows.
+The [elimination determinant](../claims/Yin_C_G0345_v464.md#integral) for such a pair is divisible by the square of the product of the two powered minima.
+Seek a bound on the degrees supporting that integral divisibility while treating separately the pairs whose determinant vanishes identically.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
