@@ -1,5 +1,27 @@
 # Reviews Index
 
+- [R562 v575](Yin_R_G0562_v575.md#finding) checks the sharp cost of gaps between consecutive coefficients and the power-field and measure bounds for a dilated reduced ratio.
+
+- [R562 v574](Yin_R_G0562_v574.md#finding) checks the exact disk inertia for arbitrary fixed algebraic nodes at sufficiently large separating exponents, including the infinite kernel tail.
+
+- [R562 v573](Yin_R_G0562_v573.md#finding) checks the squarefree numerator bounds, the finite approximation to the Lehmer infimum and the uniform cost remaining after one copy of each numerator factor is counted.
+
+- [R562 v572](Yin_R_G0562_v572.md#finding) checks the four degree-specific censuses, every final certificate, and the exclusions through 251 for two values and 457 for three.
+
+- [R562 v571](Yin_R_G0562_v571.md#finding) checks the sharp cost at arbitrary fixed even multiplicities and the remaining odd derivative after division by a powered minimum.
+
+- [R562 v570](Yin_R_G0562_v570.md#finding) checks the degree-86 threshold at 1.06, including the counts in all 454 slices, targeted native reruns, degree sums and finite prime consequences.
+
+- [R562 v569](Yin_R_G0562_v569.md#finding) checks simultaneous residue multiplicities for a passing prime row and the half-prime and natural width conditions.
+
+- [R562 v568](Yin_R_G0562_v568.md#finding) checks the sharp cost for arbitrary fixed reciprocal lists at separating exponents, including the power sum with moving small coefficients.
+
+- [R562 v567](Yin_R_G0562_v567.md#finding) checks the degree bound independent of exponent distance by counting parabolic fixed points and the infinite tails of critical orbits.
+
+- [R562 v566](Yin_R_G0562_v566.md#finding) checks the sharp cost for powers of one reciprocal unit through all large integers and Xiao's local estimate for the exact determinants.
+
+- [R562 v565](Yin_R_G0562_v565.md#finding) checks the eliminations for two fixed rows, the exceptional Möbius case and exact recovery of the common double units.
+
 - [R562 v564](Yin_R_G0562_v564.md#finding) verifies the sharp fixed-list cost on exponents with bounded gaps in the specified progression, allowing arbitrary coincidences of exterior radii.
 
 - [R562 v563](Yin_R_G0562_v563.md#finding) verifies every lower-degree trace bound, all 138 slices and all final cyclotomic exclusions at 1.091 in degrees 56 through 62.

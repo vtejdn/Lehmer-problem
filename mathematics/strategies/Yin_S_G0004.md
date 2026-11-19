@@ -178,6 +178,7 @@ For the octic, a [quadratic residual with large primitive measure](../ledger/Yin
 The available upper bound on this height still exceeds its forced lower bound.
 Compare prime divisors of the two products to determine whether cancellation in that ratio rules out the simultaneous continued-fraction jumps.
 For the general signed-row test, the [disk interpolation matrix](../ledger/Yin_L_G0462_v261.md#ray) counts zeros and poles forced by contacts on the same ray.
+For fixed algebraic nodes on arbitrary rays the [eventual disk inertia](../claims/Yin_C_G0345_v442.md#statement) requires half the total even contact order in disk zeros and the same number in disk poles.
 The [logarithmic radii of the numerator and denominator roots](../claims/Yin_C_G0345_v418.md#radii) must also follow the powered roots with their prescribed multiplicities.
 Compare the degree sum and the intrinsic measure budget for two factors with unequal Mahler measures.
 The [two-value test](../claims/Yin_C_G0345_v420.md#consequence) makes a finite example at any one prime sufficient for a strict improvement on the degree-ten example.
@@ -189,9 +190,9 @@ The smaller factor would have multiplicative measure below \(1.089\).
 The [complete reciprocal enumeration](../computations/programs/Yin_J_G0179/versions/v3/readme.md#counts) excludes both degrees at this threshold.
 Of the 3,391,404,683 representatives from the [cyclotomic prefix tests](../computations/programs/Yin_J_G0179/versions/v2/readme.md#counts), exactly 1,667,277 pass through the 120th Newton sum and both endpoint tests, and every one of these has a cyclotomic divisor or exceeds a Graeffe coefficient bound.
 The [completed degree-60 and degree-62 census](../computations/programs/Yin_J_G0179/versions/v6/readme.md#census) excludes all remaining ordered degrees at 227, 229 and 233.
-The [six-degree enumeration at 1.091](../claims/Yin_C_G0345_v429.md#degree) covers the smaller measure of any pair at every prime and closes the general count through 241.
-At 251 the [degree-sum bound](../claims/Yin_C_G0345_v429.md#primes) leaves \((68,56),(68,58),(70,56)\), with smaller measure first.
-For the prescribed pair of a unit and its square the equal degrees exclude every prime through 271, and at 277 only the pair of degree 68 remains.
+The [six-degree enumeration at 1.091](../claims/Yin_C_G0345_v429.md#degree) covers the smaller measure of any qualifying pair at every prime.
+The [four degree-specific cutoffs](../claims/Yin_C_G0345_v440.md#pairs) exclude the three pairs at 251; at 257 the remaining ordered degrees are \((68,60),(70,58),(72,56)\).
+For three values the [sum of the degree budgets](../claims/Yin_C_G0345_v440.md#triple) excludes every prime through 457 and forces degrees \(86,72,56\) at 461, with the first measure below \(1.02\).
 For degree-independent tests, the [angular moment inequality](../ledger/Yin_L_G0462_v268.md#matrix) bounds the sum of all negative eigenvalue magnitudes by an explicit function of the measure.
 For fixed inputs and growing primes the [contraction and interpolation rate](../claims/Yin_C_G0345_v425.md#statement) gives the exact cost under the stated multiplicative-relation condition, including a choice of representatives for every pair of sufficiently small unequal measures.
 For the [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#tests), fix an all-power unit \(\delta\) and seek an infinite subsequence excluding its pair \(\delta,\delta^2\), allowing the subsequence to depend on the input.
@@ -209,7 +210,11 @@ The [sharp cost on every exponent separating the roots](../claims/Yin_C_G0345_v4
 The remaining exclusion must therefore control factors or rows whose arithmetic complexity can grow with the exponent.
 At exponents \(n,n+k\), the [two integral eliminations](../claims/Yin_C_G0345_v433.md#elimination) bound the degrees and measures of all common genuine double units for two fixed rows.
 The [critical orbit bound](../claims/Yin_C_G0345_v435.md#statement) charges each original conjugate to the distinct nonzero zeros and poles of the two reduced row ratios, with a bound independent of \(k\).
-In seeking a uniform exclusion for varying rows, test whether these zeros and poles can be bounded using the arithmetic of the seed or the coefficient budget.
+For a single row, the [squarefree logarithmic derivative](../claims/Yin_C_G0345_v441.md#radical) charges the measures of all repeated factors to one copy of each uncanceled numerator factor.
+At sublinear widths, the [separated coefficient estimate](../claims/Yin_C_G0345_v443.md#cost) rules out every reduced support dilation of order at least two at the optimal slope when distinct root quotients are nontorsion.
+At each exterior radius, one of the two rows must attain the limiting coefficient bound on a complete consecutive interval.
+For dyadic exponents, compare these specific coefficient positions against the [binary lifting conditions](../ledger/Yin_L_G0462_v274.md#lifting), allowing both row choices at each radius.
+The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
 For higher fixed even orders the [two-center derivative calculation](../claims/Yin_C_G0345_v439.md#jets) gives the exact weighted cost for every fixed list on all separating exponents.

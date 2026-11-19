@@ -4,6 +4,9 @@ author: Yin
 
 # Certified Newton sum bounds in degrees 56 and 58 at measure 1.089
 
+The [nine-degree census at 1.06](versions/v11/readme.md#census) uses the [larger ellipse certificates](versions/v7/readme.md#weights) to cover even degrees 68 through 84.
+The [four degree-specific censuses](versions/v12/readme.md#census) use separate measure cutoffs to test the remaining degree pairs at prime 251, with the certificates and reproduction commands at those versions.
+
 <a id="bounds"></a>
 ## Question and scope
 
