@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v591](Yin_R_G0562_v591.md#finding) checks the effective width reduction, the preservation of both signed graphs and both numerator multiplicities, and the optional parity condition.
+
+- [R562 v590](Yin_R_G0562_v590.md#finding) checks why every exponentially bounded Salem row of minimum cardinality at unrestricted width must be a central shift of a bounded-width row.
+
 - [R562 v589](Yin_R_G0562_v589.md#finding) checks the height obstruction on every fixed minimum-cardinality support at a Salem number and its square, including the scope of the strict-budget exclusion.
 
 - [R562 v588](Yin_R_G0562_v588.md#finding) verifies the complete polynomial common divisor and the exact minimum-width height for double contact at every Salem seed and its square.

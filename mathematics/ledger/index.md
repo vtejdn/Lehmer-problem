@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v278](Yin_L_G0462_v278.md#sharpness) | The degree cost of splitting a signed graph | Width-one Salem examples attain the linear degree dependence at either sign. A simultaneous cut test for repeated factors uses the sum of the two block widths. |
 | [Yin_L_G0462_v277](Yin_L_G0462_v277.md#rate) | Primitive height at a Salem unit and its square | Eight isolated collisions per other inverse pair give a lower rate of \((4d-5)\log\delta\) at minimum width and a degree bound tending to infinity. |
 | [Yin_L_G0462_v276](Yin_L_G0462_v276.md#center) | A cofactor divisor for a Salem unit and its square | The collision at one has order four at either sign. Its contribution gives the upper bound \((6d-4)\log\delta\) for the primitive height rate at minimum width. |
 | [Yin_L_G0462_v275](Yin_L_G0462_v275.md#rate) | Shared cyclotomic factors for consecutive powers | The maximum multiplicity on each order gives the contraction cost and separate nonvanishing witnesses improve the many-value test. |

@@ -233,8 +233,10 @@ At the minimum width for a [quadratic unit and its square](../computations/progr
 For a Salem seed \(\delta\) of degree \(d\) and its square, the [exact minimum-width calculation](../claims/Yin_C_G0345_v456.md#height) gives primitive coefficient growth \((6d-4)\log\delta\) at width \(2d\) for either sign.
 The [simultaneous collision proof](../claims/Yin_C_G0345_v456.md#simultaneous) accounts for the common polynomial factors after replacing the nodes of the second orbit by squares.
 On [every fixed set of the minimum \(2d+1\) positions](../claims/Yin_C_G0345_v457.md#statement), the limiting rate is at least \((3d-6)\log\delta\), uniformly above the strict coefficient budget.
-For a fixed Salem seed this excludes all such supports of bounded width and every simultaneous central shift of them at sufficiently large exponents.
-Determine whether the convergence estimate can be made uniform when the positions change with the exponent, starting with supports that have one widening gap after central shifts are removed.
+For a fixed Salem seed, [every row of minimum cardinality at exponentially bounded norm](../claims/Yin_C_G0345_v458.md#statement) is eventually a central shift of one of finitely many supports, even at unrestricted width.
+Thus every passing row at the seed and its square eventually needs at least \(2d+2\) nonzero coefficients.
+With \(K\) coefficients and a fixed exponential norm budget, [compression to width at most \((2K-1)D\)](../claims/Yin_C_G0345_v459.md#statement) preserves both signs and all specified numerator and factor orders for fixed targets.
+The [width-one Salem examples](../ledger/Yin_L_G0462_v278.md#sharpness) show why the value estimate used in compression must retain the degree when the target changes, while the [repeated-factor estimate](../ledger/Yin_L_G0462_v278.md#degree) can use the widths of the two blocks instead.
 At one further nonzero position the rational kernel can already be two-dimensional, so the least norm then requires joint estimates on its integral generators.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
