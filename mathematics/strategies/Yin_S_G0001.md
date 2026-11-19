@@ -108,8 +108,9 @@ One can require [a growing number of different factor degrees](../claims/Yin_C_G
 The [fixed total budget](../claims/Yin_C_G0345_v420.md#consequence) counts genuinely different measure values.
 Every positive measure has a [representative whose powers preserve degree](../claims/Yin_C_G0345_v421.md#norm), so one measure \(h\) supplies the distinct values \(h\) and \(2h\).
 Excluding a second value on infinitely many indices of the original count would therefore give the [unrestricted bound \(\lambda\ge(\log2)/12\)](../claims/Yin_C_G0345_v423.md#multiples).
-The [degree bound at measure 1.089](../claims/Yin_C_G0345_v426.md#degree) gives a minimum degree of 64 for every power field and excludes two values at either sign for every prime through 233.
-At 239 only the ordered degree pair \((64,56)\) remains, with the smaller measure first.
+The [degree bound at measure 1.091](../claims/Yin_C_G0345_v429.md#degree) gives a minimum degree of 68 for every power field of a unit in the interval and excludes two qualifying values at either sign for every prime through 241.
+At 251 the ordered pairs \((68,56),(68,58),(70,56)\) remain, with the smaller measure first.
+The [prescribed pair of a unit and its square](../claims/Yin_C_G0345_v429.md#primes) is excluded through 271, and at 277 requires degree 68.
 For the infinite-subsequence question, use the [fixed-multiplicity test](../claims/Yin_C_G0345_v423.md#cost) with double factors and arbitrarily slowly growing width, where the full reduced product must divide the row at large primes.
 The [sharp fixed-list rate](../claims/Yin_C_G0345_v425.md#statement) realizes any two different values of sum below \((\log2)/8\) at all large primes.
 The [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#statement) would give \(\lambda\ge(\log2)/24\) by excluding, for every all-power reciprocal unit \(\delta\), the particular pair of minima of \(\delta,\delta^2\) on an infinite subsequence.

@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J179, six degrees at the common cutoff 1.091](programs/Yin_J_G0179/versions/v10/readme.md#census) gives the four complete enumerations in degrees 56 through 62, alongside the [degree-64 classification](programs/Yin_J_G0179/versions/v8/readme.md#census) and [degree-66 classification](programs/Yin_J_G0179/versions/v9/readme.md#census).
+
 - [J177, fixed rows over all exponents](programs/Yin_J_G0177/versions/v3/readme.md#test) recovers every unit with genuine double contacts at itself and its square from one polynomial factorization.
 
 - [J179, degrees 64 and 66](programs/Yin_J_G0179/versions/v7/readme.md#bounds) certifies first-half Newton boxes at measure 1.091 with 34 auxiliary polynomials and tests several reflected sums simultaneously.

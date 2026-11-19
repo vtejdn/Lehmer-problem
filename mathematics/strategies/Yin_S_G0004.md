@@ -189,8 +189,9 @@ The smaller factor would have multiplicative measure below \(1.089\).
 The [complete reciprocal enumeration](../computations/programs/Yin_J_G0179/versions/v3/readme.md#counts) excludes both degrees at this threshold.
 Of the 3,391,404,683 representatives from the [cyclotomic prefix tests](../computations/programs/Yin_J_G0179/versions/v2/readme.md#counts), exactly 1,667,277 pass through the 120th Newton sum and both endpoint tests, and every one of these has a cyclotomic divisor or exceeds a Graeffe coefficient bound.
 The [completed degree-60 and degree-62 census](../computations/programs/Yin_J_G0179/versions/v6/readme.md#census) excludes all remaining ordered degrees at 227, 229 and 233.
-At 239 only \((64,56)\) remains, and at 241 the [degree sum](../claims/Yin_C_G0345_v426.md#primes) also permits \((64,58)\) and \((66,56)\), with the smaller measure first.
-For the degree-64 branch use the [certified box at 1.091](../computations/programs/Yin_J_G0179/versions/v7/readme.md#bounds) and apply the [affine reflected-sum constraints](../ledger/Yin_L_G0462_v271.md#affine) to whole groups of completions before testing individual polynomials.
+The [six-degree enumeration at 1.091](../claims/Yin_C_G0345_v429.md#degree) covers the smaller measure of any pair at every prime and closes the general count through 241.
+At 251 the [degree-sum bound](../claims/Yin_C_G0345_v429.md#primes) leaves \((68,56),(68,58),(70,56)\), with smaller measure first.
+For the prescribed pair of a unit and its square the equal degrees exclude every prime through 271, and at 277 only the pair of degree 68 remains.
 For degree-independent tests, the [angular moment inequality](../ledger/Yin_L_G0462_v268.md#matrix) bounds the sum of all negative eigenvalue magnitudes by an explicit function of the measure.
 For fixed inputs and growing primes the [contraction and interpolation rate](../claims/Yin_C_G0345_v425.md#statement) gives the exact cost under the stated multiplicative-relation condition, including a choice of representatives for every pair of sufficiently small unequal measures.
 For the [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#tests), fix an all-power unit \(\delta\) and seek an infinite subsequence excluding its pair \(\delta,\delta^2\), allowing the subsequence to depend on the input.
