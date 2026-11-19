@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v594](Yin_R_G0562_v594.md#finding) checks the rank of each numerator evaluation, the height bound at width \(5d/2-1\), and the equivalence for vanishing slopes at widths \(2d+o(d)\).
+
 - [R562 v593](Yin_R_G0562_v593.md#finding) checks the fixed-width lattice volume and the lower bound on the combined support of up to eight independent passing rows.
 
 - [R562 v592](Yin_R_G0562_v592.md#finding) checks the six collision divisors, their contribution to the sparse height at arbitrary widths, and the exact minimum-width formula under the three trace exceptions.

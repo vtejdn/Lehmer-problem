@@ -244,6 +244,10 @@ At one additional position the signed kernel is a plane, and its [volume at fixe
 For the [quartic width-nine lattice](../computations/programs/Yin_J_G0177/versions/v6/readme.md#minima), exact enumeration at five exponents gives shortest and second independent vectors using all ten positions.
 At exponent 256, forcing any one coefficient to vanish multiplies the one-norm by at least \(2^{1634}\) at either sign.
 Determine how small the first minimum can be given the known asymptotic product of successive minima at each fixed width.
+For an arbitrary reciprocal seed whose powers preserve its degree \(d\), [every nonzero row is genuine](../claims/Yin_C_G0345_v462.md#rank) at widths from \(2d\) to \(5d/2-1\) for all sufficiently large exponents.
+The [unrestricted gap criterion](../claims/Yin_C_G0345_v462.md#gap) reduces the proof target to ruling out a passing row at the single width \(5d/2-1\) on arbitrarily large exponents for each seed.
+At sufficiently large prime exponents the [exact modular parametrization](../ledger/Yin_L_G0462_v265.md#rank) describes that lattice by a quotient of degree at most \(d/2-1\).
+Seek a lower bound for the shortest integral lift of those quotient coordinates, or a sequence of seeds with shortest-row growth tending to zero at widths \(2d+o(d)\).
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
