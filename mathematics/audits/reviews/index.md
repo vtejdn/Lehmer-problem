@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v585](Yin_R_G0562_v585.md#finding) checks the individual precision thresholds, the first deficient derivative and simultaneous realization of lower orders under arbitrary integer congruences.
+
+- [R562 v584](Yin_R_G0562_v584.md#finding) checks the coprime construction with prescribed endpoint blocks, the modular losses at \(1,-1\) and the sharp precision constant under the stated budgets.
+
 - [R562 v583](Yin_R_G0562_v583.md#finding) checks genuine contacts on prescribed minimum supports, their progression-specific costs and all 28 signed quadratic calculations.
 
 - [R562 v582](Yin_R_G0562_v582.md#finding) checks the sharp precision threshold for rows with optimal norm and exact endpoint matching, including the treatment of poles on the unit circle.

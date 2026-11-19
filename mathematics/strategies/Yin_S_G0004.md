@@ -210,6 +210,10 @@ At growing sublinear width, [matching both endpoint blocks of a genuine row](../
 For the fixed unit and square, put \(h=\log M(P)\) and \(d=\deg P\).
 The [sharp precision theorem](../claims/Yin_C_G0345_v450.md#statement) gives such examples of optimal norm even when \(q\log2/(nb)\) approaches \(h/d\) from any fixed margin below, at every sufficiently large integer exponent.
 Above that constant the field norm excludes a missing factor.
+More generally, if a genuine comparison row fixes \(k\) coefficients at each end, the effective width is \(w=b-2k\).
+At a limiting precision \(\log L/(nw)\) distinct from the thresholds, the [individual contact theorem](../claims/Yin_C_G0345_v453.md#statement) determines which required orders are forced by reduction modulo an arbitrary integer \(L\).
+For every other factor, even its first missing derivative order can be prescribed while keeping the optimal coefficient slope.
+For the unit and its square, [coprime rows also meet the strict test budget](../claims/Yin_C_G0345_v452.md#statement) at every strictly subcritical precision for moduli supported on fixed primes when \(h\le(\log2)/32\), and for arbitrary moduli when \(h<(\log2)/48\).
 For any fixed all-power reciprocal unit and any finite list of its powers, the [exact determinant at each exterior radius](../claims/Yin_C_G0345_v434.md#recurrences) gives the sharp cost at every sufficiently large integer, including powers of two and factorials.
 An infinite subsequence excluding three distinct values would therefore give the [unrestricted bound \((\log 2)/48\)](../claims/Yin_C_G0345_v434.md#statement).
 For any fixed list of reciprocal unit minima, [one additional simple node incurs a strict cost](../claims/Yin_C_G0345_v436.md#descent) even at a radius shared with double nodes.
@@ -226,6 +230,9 @@ For [every such support at sublinear width](../claims/Yin_C_G0345_v451.md#statem
 For each fixed support the [projective height formula](../claims/Yin_C_G0345_v451.md#height) decides the strict norm budget on each exponent progression.
 At the minimum width for a [quadratic unit and its square](../computations/programs/Yin_J_G0177/versions/v4/readme.md#costs) the five required coefficients cost \(8\log c\), while unlimited support at growing width costs \(3\log c\).
 Determine whether a lower bound on the finite polynomial supports in that height formula survives changes of degree and support for inputs with small Mahler measure.
+For a Salem seed and its square, use one variable per inverse pair of seed conjugates and evaluate the second orbit at their squares.
+The [quadratic computation](../computations/programs/Yin_J_G0177/versions/v4/readme.md#certificate) removes four copies of \(z-1\) from the minors at minimum width.
+Determine which common polynomial divisors survive in higher degree before using the [independent-variable formula](../ledger/Yin_L_G0462_v254.md#support) to bound the cost.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
