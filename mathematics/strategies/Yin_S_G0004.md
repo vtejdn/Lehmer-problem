@@ -193,9 +193,10 @@ The [completed degree-60 and degree-62 census](../computations/programs/Yin_J_G0
 The [six-degree enumeration at 1.091](../claims/Yin_C_G0345_v429.md#degree) covers the smaller measure of any qualifying pair at every prime.
 The [four degree-specific cutoffs](../claims/Yin_C_G0345_v440.md#pairs) exclude the three pairs at 251; at 257 the remaining ordered degrees are \((68,60),(70,58),(72,56)\).
 The [thirteen-degree census](../claims/Yin_C_G0345_v449.md#degree) requires degree at least 112 whenever \(1<M\le1.02\).
-For three distinct values the [degree-72 exclusion and the strict measure budget](../claims/Yin_C_G0345_v454.md#primes) rule out every prime through 499.
-At 503 the four remaining degree triples each use all 232 degrees, forcing the primitive row to reduce to a scalar multiple of the product of the three minima.
-Test degrees 86, 88 and 92 at respective cutoffs \(1.04902,1.04116,1.02769\), since the first cutoff would exclude both triples containing degree 86 and the other two would exclude one each.
+For three distinct values the [degree-72 exclusion](../claims/Yin_C_G0345_v454.md#primes) rules out prime 499 and [three refined cutoffs](../claims/Yin_C_G0345_v455.md#primes) rule out 503, covering every prime through 503.
+At 509 sixteen ordered degree triples satisfy the known budgets.
+In thirteen cases the primitive row modulo 509 is a scalar multiple of the product of the reduced minima, and in the other three the quotient has degree at most two.
+Use this restriction to test families of rows before increasing the cutoff in further degree boxes.
 For degree-independent tests, the [angular moment inequality](../ledger/Yin_L_G0462_v268.md#matrix) bounds the sum of all negative eigenvalue magnitudes by an explicit function of the measure.
 For fixed inputs and growing primes the [contraction and interpolation rate](../claims/Yin_C_G0345_v425.md#statement) gives the exact cost under the stated multiplicative-relation condition, including a choice of representatives for every pair of sufficiently small unequal measures.
 For the [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#tests), fix an all-power unit \(\delta\) and seek an infinite subsequence excluding its pair \(\delta,\delta^2\), allowing the subsequence to depend on the input.

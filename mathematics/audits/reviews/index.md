@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v587](Yin_R_G0562_v587.md#finding) independently enumerates all 180 slices in degrees 86, 88 and 92 and checks the sixteen remaining degree triples at prime 509.
+
 - [R562 v586](Yin_R_G0562_v586.md#finding) independently enumerates all 243,366,685 representatives at degree 72 and checks the resulting total-degree and prime bounds.
 
 - [R562 v585](Yin_R_G0562_v585.md#finding) checks the individual precision thresholds, the first deficient derivative and simultaneous realization of lower orders under arbitrary integer congruences.

@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J179, three cutoffs for prime 503](programs/Yin_J_G0179/versions/v15/readme.md#census) checks all 70,296,444 representatives in the three degree boxes and verifies a cyclotomic divisor for every final polynomial.
+
 - [J179, degree 72 at measure 1.068](programs/Yin_J_G0179/versions/v14/readme.md#census) tests 243,366,685 representatives and gives exact cyclotomic or Graeffe certificates for the 3,521 final polynomials.
 
 - [J179, thirteen degrees through 110](programs/Yin_J_G0179/versions/v13/readme.md#census) gives six degree thresholds down to measure 1.02 from 37,450,064 candidates, with exact checks for the 818 final cyclotomic divisors.
