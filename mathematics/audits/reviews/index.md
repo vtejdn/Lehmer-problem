@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v607](Yin_R_G0562_v607.md#finding) checks the finite search recovering every bounded joint support, its rational degree ratios and the remaining radical test.
+
+- [R562 v606](Yin_R_G0562_v606.md#finding) checks preservation of both supports, the fixed-prime progressions and the conditional gap with arbitrarily slowly increasing base bounds.
+
 - [R562 v605](Yin_R_G0562_v605.md#finding) checks the coefficient count by interpolation and the four gcd certificates excluding every placement of the two quartic lists.
 
 - [R562 v604](Yin_R_G0562_v604.md#finding) checks the degree and measure sums over every exponent on one row, the binomial obstruction and the coefficient-only counting tests.

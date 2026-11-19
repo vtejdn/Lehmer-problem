@@ -269,7 +269,9 @@ This rules out the entire five-term arithmetic-progression family above for ever
 At an arbitrary prime schedule the [single-row power equation](../claims/Yin_C_G0345_v471.md#counts) also allows a width-independent coefficient cutoff, at the cost of having to count all rows below that cutoff.
 For coefficient bounds \(L\) at fixed normalized span \(c\), [interpolation at conjugates](../claims/Yin_C_G0345_v472.md#grid) removes a factor of order \(L^j\) from the number of potentially genuine lists whenever \(8j\le c+1\) and the compressed square has degree at least \(2j\).
 For the two displayed quartic lists, a [gcd calculation modulo 17](../claims/Yin_C_G0345_v472.md#example) excludes every placement separately at each sign, regardless of the budget.
-To pass from a count of lists to a count of degrees, determine which common radical extensions of the two signed rational functions retain the exact prescribed width.
+Exact lifts from each bounded base give a [finite union of progressions](../claims/Yin_C_G0345_v473.md#statement) contributing to the degree count.
+Conversely [every pair with bounded joint normalized span](../claims/Yin_C_G0345_v474.md#compression) gives two compressed graphs of degree at most \(5pC\), where \(C\) is that span.
+The resulting [upper progressions](../claims/Yin_C_G0345_v474.md#progressions) require a degree and reciprocity check on roots of \(T^g-x\) at each retained radical order \(g\).
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
