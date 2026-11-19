@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v600](Yin_R_G0562_v600.md#composite-moduli) checks the simultaneous auxiliary prime powers, global primitivity and exact contents of the two example remainders.
+
+- [R562 v599](Yin_R_G0562_v599.md#finding) checks the five-term prime-power construction on a quarter of the degrees, its first nonzero digits and the two signed numerical witnesses.
+
 - [R562 v598](Yin_R_G0562_v598.md#finding) checks the lower density of joint witnesses in each dyadic interval and the conditional bounds at the two exact widths.
 
 - [R562 v597](Yin_R_G0562_v597.md#finding) checks both one-prime degree tests, including arbitrarily slow support caps, the substitution of the graph, and the fixed-width budget.

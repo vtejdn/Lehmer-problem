@@ -248,7 +248,9 @@ For an arbitrary reciprocal seed whose powers preserve its degree \(d\), [every 
 The [unrestricted gap criterion](../claims/Yin_C_G0345_v462.md#gap) reduces the proof target to ruling out a passing row at the single width \(5d/2-1\) on arbitrarily large exponents for each seed.
 At sufficiently large prime exponents the [exact modular parametrization](../ledger/Yin_L_G0462_v265.md#rank) describes that lattice by a quotient of degree at most \(d/2-1\).
 The [volume obstruction for a congruence sieve](../ledger/Yin_L_G0462_v279.md#volume) requires at least \(5\kappa n/4-O_d(\log n)\) logarithmic precision to exclude every nonzero coefficient representative at this width, where \(\kappa=(\log 2)/8\).
-For a primitive-row exclusion, constrain the primitive residue classes or use the [exact multiplier congruence](../claims/Yin_C_G0345_v464.md#integral), whose modulus is coprime to the sufficiently large exponent prime.
+The [five-term quadratic construction](../claims/Yin_C_G0345_v467.md#statement) gives false positives on a quarter of each large dyadic block for the same two target polynomials at both signs.
+This persists for primitive rows, nonzero first numerator digits, and joint moduli divisible by \(p^2\) of logarithmic size at most \((\kappa-\eta)p\), for each fixed \(\eta>0\).
+An additional estimate must use more information, such as the small Mahler measure of the original unit, the exact integer determinant of the two rows, or the [exact multiplier congruence](../claims/Yin_C_G0345_v464.md#integral) whose modulus is coprime to the sufficiently large exponent prime.
 At the first extra width the two finite quotient orders have common divisor at most four and the [two-integer approximation](../claims/Yin_C_G0345_v464.md#plane) gives the first minimum up to subexponential factors.
 In the [quartic computation at 55 exponents](../computations/programs/Yin_J_G0177/versions/v7/readme.md#approximation), at each exponent one of the two signs has \(\mu^2>J/26\).
 Determine whether some sign must have \(\log\mu\) growing linearly in the exponent on an infinite subsequence, and how such a bound would extend to the wider quotient.
@@ -256,6 +258,8 @@ In the construction direction the [one-prime criterion](../claims/Yin_C_G0345_v4
 Substitution preserves measure, so to construct a zero gap one must obtain original factors with decreasing positive measure.
 The [block count](../claims/Yin_C_G0345_v466.md#narrow) permits occasional passing degrees in a proof of the gap.
 At width \(5d/2-1\), count degrees with the same two powered factors on the positive and negative rows.
+The primitive derivative polynomials must share the monic product of the two powered minima even after reduction modulo an auxiliary prime.
+For the two explicit degree-131262 representatives, a [degree-eight gcd modulo five](../ledger/Yin_L_G0462_v280.md#example) rejects the pair without supplying the original target.
 The [elimination determinant](../claims/Yin_C_G0345_v464.md#integral) for such a pair is divisible by the square of the product of the two powered minima.
 Seek a bound on the degrees supporting that integral divisibility while treating separately the pairs whose determinant vanishes identically.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
