@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J179, degrees 64 and 66](programs/Yin_J_G0179/versions/v7/readme.md#bounds) certifies first-half Newton boxes at measure 1.091 with 34 auxiliary polynomials and tests several reflected sums simultaneously.
+
 - [J179, degrees 60 and 62](programs/Yin_J_G0179/versions/v6/readme.md#boxes) certifies the central Newton sums for the searches beyond prime 223.
 
 - [J179, middle coefficient and exterior roots](programs/Yin_J_G0179/versions/v5/readme.md#pencil) counts all roots outside a rational circle by comparing each middle coefficient with the same algebraic thresholds.

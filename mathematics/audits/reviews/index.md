@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v555](Yin_R_G0562_v555.md#finding) independently certifies the 65 higher-degree trace bounds, both complete box counts and the simultaneous affine test on a fixed prefix.
+
 - [R562 v553](Yin_R_G0562_v553.md#finding) checks the angular and Toeplitz inequalities, reproduces the prefix counts, and verifies reciprocal pencil counts by an independent root test.
 
 - [R562 v552](Yin_R_G0562_v552.md#claim-interface) verifies the sharp coefficient growth for fixed lists and the two-value consequence with its precise width and sign hypotheses.
