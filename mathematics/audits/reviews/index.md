@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v588](Yin_R_G0562_v588.md#finding) verifies the complete polynomial common divisor and the exact minimum-width height for double contact at every Salem seed and its square.
+
 - [R562 v587](Yin_R_G0562_v587.md#finding) independently enumerates all 180 slices in degrees 86, 88 and 92 and checks the sixteen remaining degree triples at prime 509.
 
 - [R562 v586](Yin_R_G0562_v586.md#finding) independently enumerates all 243,366,685 representatives at degree 72 and checks the resulting total-degree and prime bounds.

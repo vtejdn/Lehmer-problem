@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J177, nine coefficients at a quartic Salem seed and its square](programs/Yin_J_G0177/versions/v5/readme.md#sample) compares all minimum-cardinality supports at widths eight and nine for four exponents and both signs.
+
 - [J179, three cutoffs for prime 503](programs/Yin_J_G0179/versions/v15/readme.md#census) checks all 70,296,444 representatives in the three degree boxes and verifies a cyclotomic divisor for every final polynomial.
 
 - [J179, degree 72 at measure 1.068](programs/Yin_J_G0179/versions/v14/readme.md#census) tests 243,366,685 representatives and gives exact cyclotomic or Graeffe certificates for the 3,521 final polynomials.

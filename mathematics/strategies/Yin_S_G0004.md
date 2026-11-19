@@ -231,9 +231,9 @@ For [every such support at sublinear width](../claims/Yin_C_G0345_v451.md#statem
 For each fixed support the [projective height formula](../claims/Yin_C_G0345_v451.md#height) decides the strict norm budget on each exponent progression.
 At the minimum width for a [quadratic unit and its square](../computations/programs/Yin_J_G0177/versions/v4/readme.md#costs) the five required coefficients cost \(8\log c\), while unlimited support at growing width costs \(3\log c\).
 Determine whether a lower bound on the finite polynomial supports in that height formula survives changes of degree and support for inputs with small Mahler measure.
-For a Salem seed \(\delta\) of degree \(d\) and its square at minimum width \(2d\), the [fourth-order divisor at each inversion fixed point](../ledger/Yin_L_G0462_v276.md#order) removes exactly four copies of \(z_i-1\) from the minors.
-The [primitive height formula](../ledger/Yin_L_G0462_v276.md#upper) gives the rate \((6d-4-\sum_i w_i/d)\log\delta\), where \(w_i\) is the exponent width of the remaining common divisor in the variable of the \(i\)-th inverse pair.
-Estimate the remaining widths by following isolated and simultaneous collisions of the nodes and their squares.
+For a Salem seed \(\delta\) of degree \(d\) and its square, the [exact minimum-width calculation](../claims/Yin_C_G0345_v456.md#height) gives primitive coefficient growth \((6d-4)\log\delta\) at width \(2d\) for either sign.
+The [simultaneous collision proof](../claims/Yin_C_G0345_v456.md#simultaneous) accounts for the common polynomial factors after replacing the nodes of the second orbit by squares.
+Determine which of the [isolated collision estimates](../ledger/Yin_L_G0462_v277.md#isolated) continue to force large coefficients when the same number of nonzero positions is spread over a larger width.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.

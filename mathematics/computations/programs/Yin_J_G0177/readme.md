@@ -4,6 +4,8 @@ author: Yin
 
 # Exact coefficient minima through row width five
 
+The [quartic minimum-support computation](versions/v5/readme.md#sample) gives the exact coefficient norms at widths eight and nine for four exponents, including the costs of omitting each position at width nine.
+
 <a id="census"></a>
 ## The fallback is the minimum at every odd prime through 1009
 
