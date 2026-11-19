@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v272](Yin_L_G0462_v272.md#rate) | Signed boundary nodes at arbitrary exponents | Discarding primes dividing the exponent and separating torsion phases gives the least norm for fixed lists and realizes dyadic levels at every large exponent. |
 | [Yin_L_G0462_v271](Yin_L_G0462_v271.md#affine) | Reflected sums on a fixed prefix | Higher Newton sums through index \(2m+1\) are affine in the independent suffix coordinates after \(m\) sums are fixed. |
 | [Yin_L_G0462_v270](Yin_L_G0462_v270.md#descent) | Small measure in every power field | A relative norm transfers finite degree exclusions to every positive power and gives the degree restrictions beyond 223. |
 | [Yin_L_G0462_v269](Yin_L_G0462_v269.md#rate) | Least cost of simultaneous signed contacts | Cyclotomic contraction and interpolation give the sharp exponential rate for fixed lists satisfying the specified relation condition. |

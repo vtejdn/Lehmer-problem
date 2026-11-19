@@ -112,7 +112,9 @@ The [degree bound at measure 1.089](../claims/Yin_C_G0345_v426.md#degree) gives 
 At 239 only the ordered degree pair \((64,56)\) remains, with the smaller measure first.
 For the infinite-subsequence question, use the [fixed-multiplicity test](../claims/Yin_C_G0345_v423.md#cost) with double factors and arbitrarily slowly growing width, where the full reduced product must divide the row at large primes.
 The [sharp fixed-list rate](../claims/Yin_C_G0345_v425.md#statement) realizes any two different values of sum below \((\log2)/8\) at all large primes.
-Excluding two values on infinitely many primes in the fixed-double-factor test would give \(\lambda\ge(\log2)/24\).
+The [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#statement) would give \(\lambda\ge(\log2)/24\) by excluding, for every all-power reciprocal unit \(\delta\), the particular pair of minima of \(\delta,\delta^2\) on an infinite subsequence.
+The subsequence may depend on \(\delta\), and may be chosen among powers of two.
+Prioritize that pair because its second polynomial is the Graeffe transform of the first and both have the same reduction modulo two.
 Along factorial exponents, the [simultaneous divisibility conditions](../claims/Yin_C_G0345_v421.md#factorial) constrain the Taylor coefficients at one across several primes.
 As a second test, the exponent may be [fixed at two](../claims/Yin_C_G0345_v424.md#statement) while the required multiplicity grows.
 At fixed total degree its counting limit has a computable onset, so deviations from a proposed uniform bound can be tested at specified degrees.

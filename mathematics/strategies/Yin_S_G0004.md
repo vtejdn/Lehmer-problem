@@ -193,7 +193,11 @@ At 239 only \((64,56)\) remains, and at 241 the [degree sum](../claims/Yin_C_G03
 For the degree-64 branch use the [certified box at 1.091](../computations/programs/Yin_J_G0179/versions/v7/readme.md#bounds) and apply the [affine reflected-sum constraints](../ledger/Yin_L_G0462_v271.md#affine) to whole groups of completions before testing individual polynomials.
 For degree-independent tests, the [angular moment inequality](../ledger/Yin_L_G0462_v268.md#matrix) bounds the sum of all negative eigenvalue magnitudes by an explicit function of the measure.
 For fixed inputs and growing primes the [contraction and interpolation rate](../claims/Yin_C_G0345_v425.md#statement) gives the exact cost under the stated multiplicative-relation condition, including a choice of representatives for every pair of sufficiently small unequal measures.
-The remaining infinite-subsequence question requires estimates that continue to hold when the input degrees and splitting fields vary with the prime.
+For the [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#tests), fix an all-power unit \(\delta\) and seek an infinite subsequence excluding its pair \(\delta,\delta^2\), allowing the subsequence to depend on the input.
+For \(n=2^j\), the two minima have identical reductions modulo two.
+Use the [binary multiplicity formula](../claims/Yin_C_G0345_v421.md#frobenius) to measure what their common residue forces, then examine the two rational-function equations before reduction.
+On a genuine row, \(f=-\varepsilon A/A_b^*\) satisfies \(f(\delta^n)=\delta\) and \(f((\delta^n)^2)=\delta^2\).
+Test whether double contact at both points forces enough divisibility of the numerator of \(f(Y^2)-f(Y)^2\) to exclude a passing row.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

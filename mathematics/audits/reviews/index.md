@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v557](Yin_R_G0562_v557.md#claim-interface) checks the least-cost law at arbitrary integer exponents and the conditional gap obtained from fixed double factors.
+
 - [R562 v556](Yin_R_G0562_v556.md#finding) verifies the complete degree-64 threshold at measure 1.089, the bound on every power field and the two-value exclusions through prime 233.
 
 - [R562 v555](Yin_R_G0562_v555.md#finding) independently certifies the 65 higher-degree trace bounds, both complete box counts and the simultaneous affine test on a fixed prefix.
