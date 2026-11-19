@@ -283,10 +283,14 @@ At \(p\asymp(\log d)^2\) and coefficient norm at most \(\exp(Kp)\) for fixed \(K
 Once higher powers are allowed to lose degree, [finite radical data and exponent differences](../claims/Yin_C_G0345_v486.md#patterns) recover the full set of degree and width pairs for each passing measure at a sufficiently large fixed prime and bounded term count.
 The [strict budget](../claims/Yin_C_G0345_v486.md#threshold) reduces the gap at a given threshold to excluding every such value at infinitely many primes while the term cap tends to infinity.
 Look for a prime restriction on the coefficients of the bounded mixed blocks or their logarithmic derivatives that excludes a subcritical base across all its allowed radicals.
+For bounded seed degree, [the two opposite prime progressions](../claims/Yin_C_G0345_v488.md#progressions) force opposite reflection centers on the signed rows and an extra factor in the transverse determinant content.
+At \(b<4d\) every occupied class of a radical support must [have its reflected partner](../claims/Yin_C_G0345_v488.md#radicals), even when the original degree is unbounded.
+The [sharp interval estimate](../claims/Yin_C_G0345_v490.md#statement) now supplies the bounded-gap conclusion for every measure strictly below the chosen threshold at increasing width slopes.
 In using [Dobrowolski's support estimate for a divisor](../audits/literature/Dob06/Yin_U001.md#irreducible), retain the ratio of the divisor's degree to that of its multiple.
 For the construction through half branch mass, the [lower Littlewood sequence](../claims/Yin_C_G0345_v478.md#primes) below the golden ratio has prime sections where every admissible exponent is a multiple of the degree plus one.
 For any fixed nonempty finite set of primes \(S\) all at least five, take \(m=3\) and \(N=(\prod_{q\in S}q)^{2j}\) with \(j\ge1\), so \(N=6n+1\).
 The [residue orders of the Salem factor](../claims/Yin_C_G0345_v478.md#factors) then give exactly the exponents divisible by a member of \(S\), even as the Salem inputs approach the same limit.
+Across both varying parameters, the [sharp minima and full limit sets](../claims/Yin_C_G0345_v489.md#statement) exclude convergence to one for the lower Littlewood inputs and for their admissible powers.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.

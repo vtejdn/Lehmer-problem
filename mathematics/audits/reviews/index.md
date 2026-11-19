@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v624](Yin_R_G0562_v624.md#finding) checks the common-prime cost on arbitrary products of prime sets and the bounded number of rejected partners for each large first prime.
+
+- [R562 v623](Yin_R_G0562_v623.md#finding) checks the bounded gaps for each strictly subcritical measure and the uniform displacement estimates.
+
+- [R562 v622](Yin_R_G0562_v622.md#finding) checks all least admissible exponents and sharp measure limits for the lower Littlewood family.
+
+- [R562 v621](Yin_R_G0562_v621.md#finding) checks the coefficient reflections, additional determinant content and radical support restrictions.
+
+- [R562 v620](Yin_R_G0562_v620.md#finding) checks the sharp cost of a common pair of rows at several separated prime scales and the construction of shrinking relative intervals.
+
 - [R562 v619](Yin_R_G0562_v619.md#finding) checks the full degree and width relation after radical lifting, including the strict threshold criterion.
 
 - [R562 v618](Yin_R_G0562_v618.md#finding) checks the enumeration of fixed-base vanishing patterns and all feasible widths for a power-stable unit.
