@@ -192,7 +192,10 @@ Of the 3,391,404,683 representatives from the [cyclotomic prefix tests](../compu
 The [completed degree-60 and degree-62 census](../computations/programs/Yin_J_G0179/versions/v6/readme.md#census) excludes all remaining ordered degrees at 227, 229 and 233.
 The [six-degree enumeration at 1.091](../claims/Yin_C_G0345_v429.md#degree) covers the smaller measure of any qualifying pair at every prime.
 The [four degree-specific cutoffs](../claims/Yin_C_G0345_v440.md#pairs) exclude the three pairs at 251; at 257 the remaining ordered degrees are \((68,60),(70,58),(72,56)\).
-For three values the [sum of the degree budgets](../claims/Yin_C_G0345_v440.md#triple) excludes every prime through 457 and forces degrees \(86,72,56\) at 461, with the first measure below \(1.02\).
+The [thirteen-degree census](../claims/Yin_C_G0345_v449.md#degree) requires degree at least 112 whenever \(1<M\le1.02\).
+For three distinct values the [strict degree and measure budgets](../claims/Yin_C_G0345_v449.md#primes) exclude every prime through 491.
+At 499 only the ordered degrees \(86,72,72\) survive, with the degree-86 measure strictly between \(1.042\) and \(1.057\).
+The remaining two factors must have different measures and both must satisfy the degree-72 cutoff in the same product budget.
 For degree-independent tests, the [angular moment inequality](../ledger/Yin_L_G0462_v268.md#matrix) bounds the sum of all negative eigenvalue magnitudes by an explicit function of the measure.
 For fixed inputs and growing primes the [contraction and interpolation rate](../claims/Yin_C_G0345_v425.md#statement) gives the exact cost under the stated multiplicative-relation condition, including a choice of representatives for every pair of sufficiently small unequal measures.
 For the [integer-exponent criterion](../claims/Yin_C_G0345_v427.md#tests), fix an all-power unit \(\delta\) and seek an infinite subsequence excluding its pair \(\delta,\delta^2\), allowing the subsequence to depend on the input.
