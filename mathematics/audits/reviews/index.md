@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v605](Yin_R_G0562_v605.md#finding) checks the coefficient count by interpolation and the four gcd certificates excluding every placement of the two quartic lists.
+
 - [R562 v604](Yin_R_G0562_v604.md#finding) checks the degree and measure sums over every exponent on one row, the binomial obstruction and the coefficient-only counting tests.
 
 - [R562 v603](Yin_R_G0562_v603.md#finding) checks the fixed rational function's radical families, resultant divisibility, finite positive spectrum and uniqueness for two transverse rows.

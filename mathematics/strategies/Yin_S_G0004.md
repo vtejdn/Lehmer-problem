@@ -267,6 +267,9 @@ For counting across different pairs, write a row as \(Y^wB(Y^k)\) after taking t
 Under the original strict budget [the degree of \(B\)](../claims/Yin_C_G0345_v469.md#counts) must be at least \(86\), and at least \(172\) for every prime \(p>571\).
 This rules out the entire five-term arithmetic-progression family above for every target.
 At an arbitrary prime schedule the [single-row power equation](../claims/Yin_C_G0345_v471.md#counts) also allows a width-independent coefficient cutoff, at the cost of having to count all rows below that cutoff.
+For coefficient bounds \(L\) at fixed normalized span \(c\), [interpolation at conjugates](../claims/Yin_C_G0345_v472.md#grid) removes a factor of order \(L^j\) from the number of potentially genuine lists whenever \(8j\le c+1\) and the compressed square has degree at least \(2j\).
+For the two displayed quartic lists, a [gcd calculation modulo 17](../claims/Yin_C_G0345_v472.md#example) excludes every placement separately at each sign, regardless of the budget.
+To pass from a count of lists to a count of degrees, determine which common radical extensions of the two signed rational functions retain the exact prescribed width.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
