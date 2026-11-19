@@ -188,8 +188,9 @@ For a fixed squarefree product at its own degree, [genuine double contacts exist
 The smaller factor would have multiplicative measure below \(1.089\).
 The [complete reciprocal enumeration](../computations/programs/Yin_J_G0179/versions/v3/readme.md#counts) excludes both degrees at this threshold.
 Of the 3,391,404,683 representatives from the [cyclotomic prefix tests](../computations/programs/Yin_J_G0179/versions/v2/readme.md#counts), exactly 1,667,277 pass through the 120th Newton sum and both endpoint tests, and every one of these has a cyclotomic divisor or exceeds a Graeffe coefficient bound.
-At 227 and 229 the [degree and local bounds](../ledger/Yin_L_G0462_v270.md#primes) force the smaller factor to have degree 60, while 233 also permits 62.
-Use the [next two trace boxes](../computations/programs/Yin_J_G0179/versions/v6/readme.md#boxes) and reflected sums in these degrees.
+The [completed degree-60 and degree-62 census](../computations/programs/Yin_J_G0179/versions/v6/readme.md#census) excludes all remaining ordered degrees at 227, 229 and 233.
+At 239 only \((64,56)\) remains, and at 241 the [degree sum](../claims/Yin_C_G0345_v426.md#primes) also permits \((64,58)\) and \((66,56)\), with the smaller measure first.
+For the degree-64 branch use the [certified box at 1.091](../computations/programs/Yin_J_G0179/versions/v7/readme.md#bounds) and apply the [affine reflected-sum constraints](../ledger/Yin_L_G0462_v271.md#affine) to whole groups of completions before testing individual polynomials.
 For degree-independent tests, the [angular moment inequality](../ledger/Yin_L_G0462_v268.md#matrix) bounds the sum of all negative eigenvalue magnitudes by an explicit function of the measure.
 For fixed inputs and growing primes the [contraction and interpolation rate](../claims/Yin_C_G0345_v425.md#statement) gives the exact cost under the stated multiplicative-relation condition, including a choice of representatives for every pair of sufficiently small unequal measures.
 The remaining infinite-subsequence question requires estimates that continue to hold when the input degrees and splitting fields vary with the prime.

@@ -108,10 +108,11 @@ One can require [a growing number of different factor degrees](../claims/Yin_C_G
 The [fixed total budget](../claims/Yin_C_G0345_v420.md#consequence) counts genuinely different measure values.
 Every positive measure has a [representative whose powers preserve degree](../claims/Yin_C_G0345_v421.md#norm), so one measure \(h\) supplies the distinct values \(h\) and \(2h\).
 Excluding a second value on infinitely many indices of the original count would therefore give the [unrestricted bound \(\lambda\ge(\log2)/12\)](../claims/Yin_C_G0345_v423.md#multiples).
-The [degree-56 and degree-58 census](../computations/programs/Yin_J_G0179/versions/v3/readme.md#counts) extends the [local multiplicity exclusion](../ledger/Yin_L_G0462_v270.md#primes) to both signs at every prime through 223.
+The [degree bound at measure 1.089](../claims/Yin_C_G0345_v426.md#degree) gives a minimum degree of 64 for every power field and excludes two values at either sign for every prime through 233.
+At 239 only the ordered degree pair \((64,56)\) remains, with the smaller measure first.
 For the infinite-subsequence question, use the [fixed-multiplicity test](../claims/Yin_C_G0345_v423.md#cost) with double factors and arbitrarily slowly growing width, where the full reduced product must divide the row at large primes.
 The [sharp fixed-list rate](../claims/Yin_C_G0345_v425.md#statement) realizes any two different values of sum below \((\log2)/8\) at all large primes.
-Excluding two values along an infinite subsequence of this fixed-double-factor test would give \(\lambda\ge(\log2)/24\).
+Excluding two values on infinitely many primes in the fixed-double-factor test would give \(\lambda\ge(\log2)/24\).
 Along factorial exponents, the [simultaneous divisibility conditions](../claims/Yin_C_G0345_v421.md#factorial) constrain the Taylor coefficients at one across several primes.
 As a second test, the exponent may be [fixed at two](../claims/Yin_C_G0345_v424.md#statement) while the required multiplicity grows.
 At fixed total degree its counting limit has a computable onset, so deviations from a proposed uniform bound can be tested at specified degrees.

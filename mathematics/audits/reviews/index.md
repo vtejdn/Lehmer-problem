@@ -1,6 +1,10 @@
 # Reviews Index
 
+- [R562 v556](Yin_R_G0562_v556.md#finding) verifies the complete degree-64 threshold at measure 1.089, the bound on every power field and the two-value exclusions through prime 233.
+
 - [R562 v555](Yin_R_G0562_v555.md#finding) independently certifies the 65 higher-degree trace bounds, both complete box counts and the simultaneous affine test on a fixed prefix.
+
+- [R562 v554](Yin_R_G0562_v554.md#finding) independently reproduces the degree-60 and degree-62 ellipse bounds and prefix counts, checks full reflected-sum slices and verifies the finite prime reductions.
 
 - [R562 v553](Yin_R_G0562_v553.md#finding) checks the angular and Toeplitz inequalities, reproduces the prefix counts, and verifies reciprocal pencil counts by an independent root test.
 
