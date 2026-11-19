@@ -210,7 +210,10 @@ The remaining exclusion must therefore control factors or rows whose arithmetic 
 At exponents \(n,n+k\), the [two integral eliminations](../claims/Yin_C_G0345_v433.md#elimination) bound the degrees and measures of all common genuine double units for two fixed rows.
 The [critical orbit bound](../claims/Yin_C_G0345_v435.md#statement) charges each original conjugate to the distinct nonzero zeros and poles of the two reduced row ratios, with a bound independent of \(k\).
 In seeking a uniform exclusion for varying rows, test whether these zeros and poles can be bounded using the arithmetic of the seed or the coefficient budget.
-For the finite unit-square test at 277, the smaller measure is below \(2^{1/12}\); use that threshold when testing the remaining degree 68.
+The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
+The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.
+For higher fixed even orders the [two-center derivative calculation](../claims/Yin_C_G0345_v439.md#jets) gives the exact weighted cost for every fixed list on all separating exponents.
+The remaining odd equation forces a [strict increase in cost](../claims/Yin_C_G0345_v439.md#odd) after a common powered minimum is removed.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).
