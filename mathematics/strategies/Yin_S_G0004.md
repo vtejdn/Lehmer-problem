@@ -219,7 +219,10 @@ At sublinear widths, the [separated coefficient estimate](../claims/Yin_C_G0345_
 At each exterior radius, one of the two rows must attain the limiting coefficient bound on a complete consecutive interval.
 For the unit and its square, [independence of all small column sets](../claims/Yin_C_G0345_v446.md#statement) forces at least \(2d+1\) nonzero coefficients, with \(d\) the original degree.
 Every support of that size carries a unique rational line of exact solutions throughout the stated width range.
-Test the height of its primitive generator and its powered values, which the support count leaves free.
+For [every such support at sublinear width](../claims/Yin_C_G0345_v451.md#statement), the primitive solution is eventually nonzero at all prescribed powered nodes.
+For each fixed support the [projective height formula](../claims/Yin_C_G0345_v451.md#height) decides the strict norm budget on each exponent progression.
+At the minimum width for a [quadratic unit and its square](../computations/programs/Yin_J_G0177/versions/v4/readme.md#costs) the five required coefficients cost \(8\log c\), while unlimited support at growing width costs \(3\log c\).
+Determine whether a lower bound on the finite polynomial supports in that height formula survives changes of degree and support for inputs with small Mahler measure.
 The [uniform loss estimate](../claims/Yin_C_G0345_v441.md#loss) gives a second test: determine whether the surviving squarefree numerator can meet the value and logarithmic derivative equations at the required cost when its prime factors are evaluated in the seed field.
 The [prime-width criterion](../claims/Yin_C_G0345_v437.md#statement) bounds the total degree on a passing double row by its width at every prime from 257 and every width at most \((p+1)/2\).
 The [nine-degree census at 1.06](../claims/Yin_C_G0345_v438.md#degree) excludes the unit and its square through prime 353; at 359 the only possible seed degree is 86.

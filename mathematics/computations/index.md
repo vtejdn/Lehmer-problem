@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J177, five signed coefficients at a unit and its square](programs/Yin_J_G0177/versions/v4/readme.md#costs) computes the exact primitive coefficient rates for every five-position support at widths four and five, and for a specified support through width twelve.
+
 - [J179, four degree-specific cutoffs](programs/Yin_J_G0179/versions/v12/readme.md#census) excludes the three remaining pairs at prime 251 and records a separate exact check for every final candidate.
 
 - [J179, nine degrees at 1.06](programs/Yin_J_G0179/versions/v11/readme.md#census) classifies all remaining candidates in even degrees 68 through 84 by exact cyclotomic division.

@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v583](Yin_R_G0562_v583.md#finding) checks genuine contacts on prescribed minimum supports, their progression-specific costs and all 28 signed quadratic calculations.
+
 - [R562 v582](Yin_R_G0562_v582.md#finding) checks the sharp precision threshold for rows with optimal norm and exact endpoint matching, including the treatment of poles on the unit circle.
 
 - [R562 v580](Yin_R_G0562_v580.md#finding) checks two odd contact orders among arbitrary even orders and the sharp result when the two largest positive radii carry the odd orders.
