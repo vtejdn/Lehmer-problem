@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v589](Yin_R_G0562_v589.md#finding) checks the height obstruction on every fixed minimum-cardinality support at a Salem number and its square, including the scope of the strict-budget exclusion.
+
 - [R562 v588](Yin_R_G0562_v588.md#finding) verifies the complete polynomial common divisor and the exact minimum-width height for double contact at every Salem seed and its square.
 
 - [R562 v587](Yin_R_G0562_v587.md#finding) independently enumerates all 180 slices in degrees 86, 88 and 92 and checks the sixteen remaining degree triples at prime 509.
