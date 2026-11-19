@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v548](Yin_R_G0562_v548.md#finding) independently verifies the Newton-sum bounds, the auxiliary-function discrepancy and the exact preliminary counts in degrees 56 and 58.
+
+- [R562 v547](Yin_R_G0562_v547.md#finding) verifies the finite cyclotomic inequalities and discriminant bound for the smaller factor at 223.
+
 - [R562 v546](Yin_R_G0562_v546.md#finding) verifies the exact rank, the parameters at every prime-power precision and the specified-pair decision at 223.
 
 - [R562 v545](Yin_R_G0562_v545.md#stronger) verifies the extra congruence on each lower derivative and bounds residue multiplicities at 223 by 30 at endpoints and 22 elsewhere.

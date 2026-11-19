@@ -186,6 +186,9 @@ At 223 the [resultant and derivative congruences](../ledger/Yin_L_G0462_v264.md#
 For each specified pair, the [exact integral kernel](../ledger/Yin_L_G0462_v265.md#frontier) reduces the search to three parameters or one primitive generator, respectively, for each sign.
 For a fixed squarefree product at its own degree, [genuine double contacts exist](../ledger/Yin_L_G0462_v265.md#units) at every sufficiently large prime before imposing the size cutoff.
 To close 223 one must control the least one-norm as the pair varies, or exhibit an actual pair and a row under the cutoff \(1091659\).
+The smaller factor must have multiplicative measure below \(1.089\), so it suffices for an exclusion to test this lower cutoff in degrees 56 and 58.
+The [certified Newton-sum bounds and exact count](../computations/programs/Yin_J_G0179/readme.md#counts) leave 4,848,935,345 coefficient vectors up to sign substitution after removing power substitutions.
+Apply the [cyclotomic resultant and discriminant inequalities](../ledger/Yin_L_G0462_v266.md#linear) to prefixes before reconstructing the full polynomials and comparing their measures.
 For double divisibility at several nearby powers, [factoring the disk zeros](../ledger/Yin_L_G0462_v251.md#derivative) saves one layer per exponent when all use the same seed.
 For comparison the [fixed-seed width calculation](../ledger/Yin_L_G0462_v231.md#width) gives leading constant at most \(8e/(6e+1)\) for ordinary coprime two-class multiples at degree \(4pd\) and attains one when the allowed width grows.
 For every Salem input, [radial energy can be small at every degree-preserving prime](../ledger/Yin_L_G0462_v180.md#bound), and at prescribed primes this occurs even for [witnesses of asymptotically least cost](../ledger/Yin_L_G0462_v176.md#radial).

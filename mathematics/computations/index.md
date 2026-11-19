@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J179, degrees 56 and 58 at measure 1.089](programs/Yin_J_G0179/readme.md#bounds) certifies the necessary Newton sums through the central coefficient and counts the surviving integer vectors.
+
 - [J177, octic at width nine](programs/Yin_J_G0177/versions/v2/readme.md#census) gives exact least costs for one seed at all 53 odd primes through 251. The sole prime within the cutoff is 17, with least cost 91,698.
 
 - [J178, octics](programs/Yin_J_G0178/versions/v2/readme.md#census) gives the 54 octic sign classes at measure at most two. It identifies the unique seed for which the row-value norm falls below the width-eight cutoff.

@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v266](Yin_L_G0462_v266.md#linear) | Short Newton prefixes at measure 1.089 | Cyclotomic resultants test finite signed sums, and a separate quadratic inequality uses the integer discriminant. |
 | [Yin_L_G0462_v265](Yin_L_G0462_v265.md#rank) | The exact integer kernel at prescribed factors | The two possible degree pairs at 223 give a line or a rank-three lattice for each fixed pair and sign. |
 | [Yin_L_G0462_v264](Yin_L_G0462_v264.md#frontier) | Higher congruences at prime 223 | A resultant bounds residue multiplicities, and local Taylor conditions prescribe the next digit of each lower derivative. |
 | [Yin_L_G0462_v263](Yin_L_G0462_v263.md#orders) | Residue orders at 101 | Resultants with cyclotomic polynomials exclude 47 orders and constrain the two endpoint cases. |
