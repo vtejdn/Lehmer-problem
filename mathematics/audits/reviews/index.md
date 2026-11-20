@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v634](Yin_R_G0562_v634.md#finding) checks the explicit resultant lower bound for every row of small normalized cost and the connection with a vanishing Lehmer infimum.
+
+- [R562 v633](Yin_R_G0562_v633.md#finding) checks the computable width covering all admissible seeds and the comparison with the full Hadamard budget.
+
+- [R562 v632](Yin_R_G0562_v632.md#finding) checks the separate contributions of equal and unequal conjugate labels to the same-seed resultant.
+
+- [R562 v631](Yin_R_G0562_v631.md#finding) checks sharp coefficient cost for two prescribed seeds at all pairs of comparable distinct primes under the exterior-circle hypothesis.
+
+- [R562 v630](Yin_R_G0562_v630.md#finding) checks the common divisor with the power-order indices, its archimedean comparison and eventual coprimality in rank one.
+
 - [R562 v629](Yin_R_G0562_v629.md#finding) checks the two power-order indices and the integral divisibility with one factor of the ordinary row resultant.
 
 - [R562 v628](Yin_R_G0562_v628.md#finding) checks the resultant for different seeds and its full local multiplicity away from the stated exceptional primes.
