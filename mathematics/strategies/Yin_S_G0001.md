@@ -24,10 +24,13 @@ The [finite common-factor test](../claims/Yin_C_G0345_v572.md#polynomial) determ
 At interval length \(Ct\), first reduce each candidate \(Q(X^q)\) to a polynomial \(Q\) whose exponents have gcd one.
 The [finite reduction](../claims/Yin_C_G0345_v574.md#reduction) preserves every possible witness length, while [any fixed number of dense tests](../claims/Yin_C_G0345_v574.md#statement) on the full lists leaves linearly many irreducible substitutions of Lehmer's polynomial.
 Even on the reduced inputs, [single arithmetic progressions](../ledger/Yin_L_G0462_v288.md#single) of all bounded steps can carry relations when the measure is sufficiently small.
-For an alternative proof, seek a uniform exponential bound in the weight \(j\) on the number of inclusion-minimal relation supports after translation and division by the common exponent gcd.
-A [shrinking sequence of record measures](../claims/Yin_C_G0345_v575.md#statement) would force growth faster than any such bound already within intervals of length \(O(d\log(2d)/m)\), where \(d\) is degree and \(m\) is log measure.
+For a proof, seek a uniform exponential bound in the weight on normalized minimal relation supports that cannot split into two smaller ones by cancelling a single intermediate exponent.
+The [tree count](../ledger/Yin_L_G0462_v295.md#trees) reduces the count of all patterns to these supports, and a [shrinking sequence of record measures](../claims/Yin_C_G0345_v575.md#statement) forces superexponential growth already on intervals of length \(O(d\log(2d)/m)\), where \(d\) is degree and \(m\) is log measure.
+On reciprocal strict degree records, an exterior nonreal conjugate must generate a field that complex conjugation does not preserve.
+Otherwise conjugation and inversion give two distinct involutions of that field, excluded by the [relative-norm descent](../ledger/Yin_L_G0462_v297.md#automorphisms).
 The [separated representatives](../ledger/Yin_L_G0462_v292.md#critical) must also exist with every gap at least \((1-o(1))\log(2)/m\) before removing dilations.
-For Salem inputs test the resulting two long end segments, whose gaps and relative coefficient signs are both constrained.
+For Salem inputs every ternary relation on the progression with step \(\lfloor\log(2)/m\rfloor-1\) contains [two disjoint end segments](../ledger/Yin_L_G0462_v296.md#runs), each with \(\log_2(1/m)+O(1)\) prescribed coefficients up to endpoint sign.
+Test whether the middle of a minimal support must then admit a cancellation at one intermediate exponent, allowing also for minimal supports away from this progression.
 In the construction direction, any surviving minimum at length \(N>128t\) already has positive log measure at most \(128t/N\).
 The [density of exponents with distinct binary subset sums](../claims/Yin_C_G0345_v570.md#statement) is comparable to the original log measure for every nontorsion unit of small measure, with absolute constants and arbitrary exterior count.
 The [separated-block injection](../claims/Yin_C_G0345_v571.md#separation) extends each finite admissible set to a periodic one and quantifies the loss in density for its particular minimum.
@@ -41,6 +44,14 @@ This periodic density of \(2/9\) is [optimal through period 25](../ledger/Yin_L_
 For further upper bounds enumerate [minimal relations through a chosen weight](../claims/Yin_C_G0345_v576.md#densities), which give convergent finite graph bounds even for Salem units.
 The [plastic](../ledger/Yin_L_G0462_v293.md#results) and [golden-ratio](../ledger/Yin_L_G0462_v294.md#supports) examples give exact pattern counts at every weight for comparison.
 For multiple roots the same comparison uses the multiplicity times the log measure, while [balanced relations on prescribed exponents](../claims/Yin_C_G0345_v560.md#span) also control the number of coefficients relative to their actual span.
+
+The [exterior argument test](../claims/Yin_C_G0345_v577.md#statement) identifies when periodic exponent sets already attain the sharp first-order density and min-entropy for a fixed number of equally expanding conjugates.
+For fixed hyperbolic inputs the [largest periodic Fourier amplitude](../claims/Yin_C_G0345_v579.md#hyperbolic) tends to a positive maximum, but the [conductor inequality](../claims/Yin_C_G0345_v578.md#statement) bounds this limit by \(O(m)\) if measures shrink, uniformly in degree.
+For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
+At an individual period the [quartic Salem example](../ledger/Yin_L_G0462_v299.md#comparison) also separates the unrestricted maximum from the one at full conductor.
+For these inputs test the [sum of all squared amplitudes](../ledger/Yin_L_G0462_v300.md#moments) against its exact collision-entropy rate.
+A finite block with collision probability greater than \(e^{-nm}\) would prove a positive collision deficit at that input by concatenation.
+The [one-exterior estimates](../ledger/Yin_L_G0462_v300.md#exterior) already bound that deficit by \(m^2/(2\log 2)\) for every Salem number below two.
 
 | Role | Current focus | Useful next distinction |
 | --- | --- | --- |

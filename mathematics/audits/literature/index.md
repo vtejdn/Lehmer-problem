@@ -342,3 +342,5 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Dub02](Dub02/readme.md) | [Yin_U001](Dub02/Yin_U001.md#dub02-u001): selected degree-sixteen two-circle example |
 | [EP88](EP88/readme.md) | [Least faithful permutation degree of a direct product of simple groups](EP88/Yin_U001.md#products) |
 | [KP00](KP00/readme.md) | [Least faithful permutation degree of a quotient without abelian normal subgroups](KP00/Yin_U001.md#quotient) |
+| [Str26](Str26/readme.md) | [Strict Garsia entropy on hyperbolic algebraic units](Str26/Yin_U001.md#str26-u001) |
+| [LS99b](LS99b/readme.md) | [Trivial homoclinic group for irreducible toral automorphisms with mixed spectrum](LS99b/Yin_U001.md#ls99b-u001) |

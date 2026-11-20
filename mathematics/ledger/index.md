@@ -5,6 +5,12 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v300](Yin_L_G0462_v300.md#moments) | Collision entropy above a conductor cutoff | The sum of the Fourier moments has an exact exponential rate even after removing small conductors below the deficit threshold. |
+| [Yin_L_G0462_v299](Yin_L_G0462_v299.md#comparison) | Fourier maxima at period fourteen | Every maximizer for a quartic Salem input comes from period seven, while every maximizer for the golden ratio has full conductor. |
+| [Yin_L_G0462_v298](Yin_L_G0462_v298.md#orbit) | Binary Fourier amplitudes over residue fields | Doubling identities and subgroup-size bounds constrain amplitudes, and a residue-field example distinguishes the two orders. |
+| [Yin_L_G0462_v297](Yin_L_G0462_v297.md#automorphisms) | Automorphisms at a strict degree record | Torsion norms to proper subfields force a faithful representation on which every nonidentity element acts without fixed vectors. |
+| [Yin_L_G0462_v296](Yin_L_G0462_v296.md#runs) | Two prescribed ends of a Salem relation | At a step just below the separation threshold, both ends contain disjoint runs with fixed relative signs. |
+| [Yin_L_G0462_v295](Yin_L_G0462_v295.md#trees) | Minimal supports that resist splitting | A tree count reduces the uniform measure gap to an exponential bound on the number of nonsplitting normalized supports at strict records. |
 | [Yin_L_G0462_v294](Yin_L_G0462_v294.md#supports) | Minimal supports for the golden ratio | Exactly one pattern occurs per weight, and an explicit formula gives every interval maximum for every root substitution. |
 | [Yin_L_G0462_v293](Yin_L_G0462_v293.md#results) | The plastic number at every interval length and support weight | A finite graph gives the exact interval maxima and the rational generating function of minimal supports. |
 | [Yin_L_G0462_v292](Yin_L_G0462_v292.md#critical) | Gaps at the two ends of small-measure Salem relations | Random choices in separated blocks force many patterns, with near-critical gaps and prescribed end signs at Salem inputs. |
