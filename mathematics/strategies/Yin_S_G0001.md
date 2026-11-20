@@ -19,9 +19,19 @@ The main researcher may change this allocation as mathematical evidence, a concr
 The [resumed Task](../tasks/Yin_T_G0001_v1.md#decision-resume-alternating-blocks-2026-11-17) selects the inquiries below under its standing execution conditions.
 Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
-For the unrestricted problem, every hypothetical shrinking sequence supplies [balanced ternary multiples of growing multiplicity](../claims/Yin_C_G0345_v560.md#span) on any prescribed set of exponents of fixed positive density.
-Their number of nonzero coefficients divided by their actual exponent span tends to zero when the multiplicity times the log measure tends to zero.
-Test whether a factor bound can use this relative sparsity together with the imposed multiplicity, since the length-six classification requires a bound on the absolute number of coefficients.
+For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
+The [finite common-factor test](../claims/Yin_C_G0345_v572.md#polynomial) determines \(R_1(t)\) by integer arithmetic, and a uniform bound on \(R_1(t)/t\) is equivalent to the Lehmer gap.
+Seek a collection of exponent sets that rules out every common noncyclotomic factor at interval length \(Ct\) with \(C\) independent of \(t\).
+In the construction direction, any surviving minimum at length \(N>128t\) already has positive log measure at most \(128t/N\).
+The [density of exponents with distinct binary subset sums](../claims/Yin_C_G0345_v570.md#statement) is comparable to the original log measure for every nontorsion unit of small measure, with absolute constants and arbitrary exterior count.
+The [separated-block injection](../claims/Yin_C_G0345_v571.md#separation) extends each finite admissible set to a periodic one and quantifies the loss in density for its particular minimum.
+The [first eleven thresholds](../ledger/Yin_L_G0462_v285.md#thresholds) give \(R_1(t)=3t-3\) for \(2\le t\le11\).
+The [plastic-number certificate](../ledger/Yin_L_G0462_v286.md#certificate) gives limiting density exactly \(1/3\).
+For the degree-ten Lehmer input, [separation at the real root](../ledger/Yin_L_G0462_v287.md#separation) proves \(R_1(119)\ge355\) and \(R_1(t)\ge4t\) for all \(t\ge732\), locating the first departure from the initial formula between 12 and 119.
+For inputs without unit-circle conjugates the [finite mask graph](../claims/Yin_C_G0345_v573.md#period) computes a maximizing period and the exact eventual recurrence for interval maxima.
+The [full set of returning carries for the Lehmer number](../ledger/Yin_L_G0170_v1.md#lehmer-infinite-core-theorem) is infinite.
+Test whether a finite subset of those carries certifies upper bounds at the same scale as a family of periodic lower bounds.
+For multiple roots the same comparison uses the multiplicity times the log measure, while [balanced relations on prescribed exponents](../claims/Yin_C_G0345_v560.md#span) also control the number of coefficients relative to their actual span.
 
 | Role | Current focus | Useful next distinction |
 | --- | --- | --- |
@@ -78,8 +88,12 @@ The [long-exponent bound at three](../claims/Yin_C_G0345_v561.md#statement) and 
 More generally, a shrinking sequence requires the [multiplicative orders of two and three divided by their respective prime-to-characteristic moduli to tend to zero](../claims/Yin_C_G0345_v563.md#statement).
 Even with arbitrarily many prime divisors of \(n\), [one place above three realizes its prime-to-three part up to a subpower loss](../claims/Yin_C_G0345_v565.md#statement).
 Use the [primitive examples with both normalized orders small](../ledger/Yin_L_G0462_v284.md#exponents) to test whether the rational factor containing a real exterior root must also contain a positive proportion of its neighboring exterior roots.
+On the power-of-two short exponents, the [dyadic norm congruence](../claims/Yin_C_G0345_v566.md#statement) identifies the factor containing the positive exterior root from its reduction modulo two and tests its allocation of the short residue roots at three.
+Apply it to subsets that pass the degree tests at the two primes separately.
 For reciprocal parents with six distinct terms of coefficient modulus one, search for an irreducible noncyclotomic factor with degree \(d=o(N)\), where \(N\) is the parent degree.
 For [equally spaced trinomial blocks](../claims/Yin_C_G0345_v564.md#statement), a fixed set of primes supporting the long exponent already gives a uniform factor gap at both signs.
+For unequal spacings the [single branch over the dyadic Gauss point](../claims/Yin_C_G0345_v568.md#statement) instead forces the long power to have unbounded residue order in probability when the odd part of its exponent stays bounded on a shrinking sequence.
+For four-term blocks supported on \(0,u,v,u+v\), the [surface and fixed-slope arguments](../claims/Yin_C_G0345_v569.md#statement) give a factor gap whenever the normalized dyadic Frobenius order stays bounded below, uniformly in the two short exponents.
 The [degree criterion at all exponents](../claims/Yin_C_G0345_v554.md#statement) excludes this whenever the third exponent is a positive fraction of \(N\); on separated blocks it identifies the limiting measure per degree share with the measure of the low trinomial.
 When the short exponents have growing reduced denominator, [a multiplicative relation between roots determines the two parents up to the stated power and torsion substitutions](../claims/Yin_C_G0345_v557.md#statement).
 For the original six-term sections this gives \(bm(P)/d\to\mu\) when \(s\to\infty,\ r/s\to\infty\); the [quantitative estimate](../claims/Yin_C_G0345_v548.md#statement) gives a rate farther into this range.

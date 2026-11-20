@@ -87,6 +87,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [DGT20](DGT20/readme.md) | Source and edition notes |
 | [DHKW06](DHKW06/readme.md#edition) | [Exact polynomially weighted lattice-point sums in fixed dimension](DHKW06/Yin_U001.md#sum) |
 | [DJ20](DJ20/readme.md) | [Yin_U001](DJ20/Yin_U001.md) |
+| [DJS18](DJS18/readme.md) | [Finite remainder graph for bounded-digit multiples](DJS18/Yin_U001.md#djs18-u001) |
 | [DK25](DK25/readme.md) | [Yin_U001](DK25/Yin_U001.md) |
 | [DL24](DL24/readme.md) | [BCH bound for consecutive zeros](DL24/Yin_U001.md#dl24-u001) |
 | [DM05](DM05/readme.md) | [Yin_U001](DM05/Yin_U001.md) |

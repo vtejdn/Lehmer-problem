@@ -5,6 +5,9 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v287](Yin_L_G0462_v287.md#thresholds) | Departure from the first ternary thresholds | Norm separation at the Lehmer number gives \(R_1(119)\ge355\) and \(R_1(t)\ge4t\) for \(t\ge732\). |
+| [Yin_L_G0462_v286](Yin_L_G0462_v286.md#density) | Exact ternary density for the plastic number | Seven signed carries and an integer potential prove that the maximum density of exponents with distinct binary subset sums is one third. |
+| [Yin_L_G0462_v285](Yin_L_G0462_v285.md#thresholds) | Exact universal ternary thresholds through cardinality eleven | Integer factorization and subset sums determine the unrestricted minima on every interval of up to 31 exponents. |
 | [Yin_L_G0462_v284](Yin_L_G0462_v284.md#exponents) | Two small orders at primitive exponents | A Chinese remainder construction makes both normalized Frobenius orders tend to zero while the smallest prime factors of both tested exponents tend to infinity. |
 | [Yin_L_G0462_v283](Yin_L_G0462_v283.md#degrees) | Rational degrees at the marked offsets | Integer factorization and reduction modulo two identify the marked factors at ten cubic sections and two shorter offsets. |
 | [Yin_L_G0462_v282](Yin_L_G0462_v282.md#sections) | Exact factorizations at two cubic offsets | Twelve complete integer factorizations identify the cyclotomic indices and degrees of the sole noncyclotomic factors. |
