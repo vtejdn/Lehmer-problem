@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v787](Yin_R_G0562_v787.md#finding) checks the squared analytic test, cancellation for arbitrary widths and rounding in a fixed Laurent class.
+
+- [R562 v786](Yin_R_G0562_v786.md#finding) checks higher moment bounds for short remainders and concentration on sets prescribed by their occupied Taylor exponents.
+
+- [R562 v785](Yin_R_G0562_v785.md#finding) checks the prime-power gains, the optimal finite binary estimate and the asymptotic cost of several periods.
+
 - [R562 v784](Yin_R_G0562_v784.md#finding) checks uniqueness from the joint residue order and the two candidate orientations on the quartic Salem example.
 
 - [R562 v783](Yin_R_G0562_v783.md#finding) checks the inequality for ranks on sample differences, period covers and the comparison with the binary two-binomial bound.

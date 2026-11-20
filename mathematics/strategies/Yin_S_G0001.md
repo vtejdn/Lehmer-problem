@@ -57,8 +57,15 @@ For a common divisor of the erased coefficients, compare its size with the [Vand
 Alternatively combine the orders of several residue roots, including roots at different eligible primes.
 A [joint order greater than twice the squared witness span](../claims/Yin_C_G0345_v647.md#statement) determines the remaining two exponents uniquely once the fixed surviving positions are given.
 Just exceeding the span can leave two possible orientations even when the two coefficients have distinct squares modulo the prime.
-To decide whether actual witnesses supply these tests, [sum the degrees of the modular gcds](../claims/Yin_C_G0345_v646.md#orders) and compare the resulting joint order with the actual span.
+The [rank bound for the joint order](../claims/Yin_C_G0345_v646.md#orders) can test the smaller threshold for ordinary residue roots.
+It cannot by itself certify the quadratic threshold in the growing-degree Salem witness window.
+Indeed \(B(x)\le x\), and the normalized rank weight over primes dividing a common erased coefficient divisor \(Q\) is at most \(\sum_{p\mid Q}\log p\le\log Q\).
+The numerical lower bound on the order is therefore at most \(d\log Q/m=o(d^2)\) there, by [the coefficient window and the degree-dependent Mahler estimate](../claims/Yin_C_G0345_v642.md#ratios).
+Every nonzero relation vanishing at the input has span at least \(d\), by divisibility by the minimal polynomial.
+Use actual orders or additional arithmetic information when testing uniqueness at the quadratic threshold.
 For the unrestricted input a bounded number of periods of total length \(O(d)\) covering a fixed positive normalized rank weight would itself give a positive Mahler gap.
+When the number \(k\) of binary periods grows, [counting the prime-power divisors of each resultant](../claims/Yin_C_G0345_v648.md#statement) gives a coefficient asymptotic to \(3(\log 2)^2/(k\log k)\) in the lower bound for \(m\sum q_j/d\).
+For two binary periods the [available specialized estimate](../audits/literature/HB26/Yin_U001.md#hb26-u001) remains stronger.
 Seek such coverage on the same polynomial as the witness, or identify reductions for which every short list misses most of the degree.
 When the largest coefficient nearly equals the sum of the others, use [separation across the neutral embeddings](../claims/Yin_C_G0345_v604.md#separation) to restrict their relative exponents.
 Away from that case, the [stronger weighted lower bound](../claims/Yin_C_G0345_v604.md#statement) allows an upper estimate to spend a factor exponential in the polygon deficit.
@@ -162,6 +169,11 @@ The [packing estimate for successive integral remainders](../claims/Yin_C_G0345_
 It rules out the earlier [conditional scenario at \(1/4\)](../claims/Yin_C_G0345_v639.md#statement) even for unrestricted widths.
 At the new unrestricted threshold \(K\), [both quotient support counts](../claims/Yin_C_G0345_v643.md#statement) must be asymptotic to \(\log(2)/(2m)\), their squared coefficient excess must be \(o(1/m)\), and the short remainder must approach its lower limit.
 Test whether the same integer remainder can approach the packing limit while producing both of these quotient expansions.
+For a short remainder approaching its limiting energy, [the signs and positions in its Taylor expansion](../claims/Yin_C_G0345_v649.md#concentration) specify sets of vanishing Haar measure carrying at least half its energy.
+Compare the balanced quotient and the remainder on those same sets to test the cancellation required at \(K\).
+A second [test depending only on the denominator](../claims/Yin_C_G0345_v650.md#angular) identifies angular sets of Haar measure \(O(m)\) where a quotient with bounded \(m\|Q\|_\infty\) must cancel a short remainder if the full supremum norm is \(o(1/m)\).
+For an upper bound, use the [rounding variance of the same residue class](../claims/Yin_C_G0345_v650.md#rounding) or bound the centered tails on a finite frequency interval.
+Small variance would give representatives of smaller higher moments, while the unrestricted quadratic energy target remains \(K/m\).
 Independently, [exact saturation of a reflected-denominator coefficient](../claims/Yin_C_G0345_v641.md#statement) requires \(M(P)\ge(1+\sqrt5)/2\), and near saturation at moving indices restricts the radial-weighted angular moments.
 An independent lower bound for \(F(P)\) on strict degree records would also test the exponential upper bound.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
