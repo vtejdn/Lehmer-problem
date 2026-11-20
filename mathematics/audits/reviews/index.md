@@ -1,5 +1,25 @@
 # Reviews Index
 
+- [R562 v797](Yin_R_G0562_v797.md#finding) checks the explicit increment in the unrestricted energy bound, including the numerical slack at the balanced cut and the final binomial comparison.
+
+- [R562 v796](Yin_R_G0562_v796.md#finding) checks uniform strict improvement of the two-ended energy constant by measuring the actual future outputs at each cutoff.
+
+- [R562 v795](Yin_R_G0562_v795.md#finding) checks the single-end saturation estimates for signed differences, dispersed supports and the exact analytic model.
+
+- [R562 v794](Yin_R_G0562_v794.md#finding) checks independent signed periods, the radial equidistribution condition at the former unrestricted threshold and the heavy-root conclusion.
+
+- [R562 v793](Yin_R_G0562_v793.md#finding) checks the exact half atom, its remaining continuous density, the integer tests and the balanced quotient mass.
+
+- [R562 v792](Yin_R_G0562_v792.md#finding) checks the tree count for translated blocks and the proportions of exceptional adjacent gaps in terminal witnesses.
+
+- [R562 v791](Yin_R_G0562_v791.md#finding) checks the moving Taylor word at the short energy bound, the energy distribution on growing subsets and the angular consequence for powered roots.
+
+- [R562 v790](Yin_R_G0562_v790.md#finding) checks the density limit for scalar multiples of a Laurent class, the torsion-quotient classes and the degree bound.
+
+- [R562 v789](Yin_R_G0562_v789.md#finding) checks the three-position residue count, including the exceptional roots and its consequence in the terminal window.
+
+- [R562 v788](Yin_R_G0562_v788.md#finding) checks reconstruction of the quotient and the restrictions on simultaneous signed translations at the two-ended energy constant.
+
 - [R562 v787](Yin_R_G0562_v787.md#finding) checks the squared analytic test, cancellation for arbitrary widths and rounding in a fixed Laurent class.
 
 - [R562 v786](Yin_R_G0562_v786.md#finding) checks higher moment bounds for short remainders and concentration on sets prescribed by their occupied Taylor exponents.

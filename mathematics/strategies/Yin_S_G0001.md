@@ -63,6 +63,12 @@ Indeed \(B(x)\le x\), and the normalized rank weight over primes dividing a comm
 The numerical lower bound on the order is therefore at most \(d\log Q/m=o(d^2)\) there, by [the coefficient window and the degree-dependent Mahler estimate](../claims/Yin_C_G0345_v642.md#ratios).
 Every nonzero relation vanishing at the input has span at least \(d\), by divisibility by the minimal polynomial.
 Use actual orders or additional arithmetic information when testing uniqueness at the quadratic threshold.
+For counting, a [third free surviving position](../claims/Yin_C_G0345_v652.md#statement) handles the exceptional residue roots already at orders near the linear span scale.
+In the terminal window, two erased coefficients with a common divisor and three surviving coefficients invertible at the eligible primes suffice for this count if the selected roots have total rank weight at least a fixed proportion of the degree.
+Look first for this weaker arithmetic input in the actual coefficient tuples.
+Independently, [the count from consecutive groups of terms](../claims/Yin_C_G0345_v655.md#statement) forces many adjacent gaps outside any prescribed sets of at most \(m^{-\theta}\) spacings, for fixed \(0\le\theta<1\).
+If \(\log r=o(\log(1/m))\), almost every gap of almost every witness exceeds \(m^{-\theta}\).
+Use the full tail of the spacings when testing whether the required number of ordered relations fits the span.
 For the unrestricted input a bounded number of periods of total length \(O(d)\) covering a fixed positive normalized rank weight would itself give a positive Mahler gap.
 When the number \(k\) of binary periods grows, [counting the prime-power divisors of each resultant](../claims/Yin_C_G0345_v648.md#statement) gives a coefficient asymptotic to \(3(\log 2)^2/(k\log k)\) in the lower bound for \(m\sum q_j/d\).
 For two binary periods the [available specialized estimate](../audits/literature/HB26/Yin_U001.md#hb26-u001) remains stronger.
@@ -138,13 +144,13 @@ For multiple roots the same comparison uses the multiplicity times the log measu
 
 The [exterior argument test](../claims/Yin_C_G0345_v577.md#statement) identifies when periodic exponent sets already attain the sharp first-order density and min-entropy for a fixed number of equally expanding conjugates.
 For fixed hyperbolic inputs the [largest periodic Fourier amplitude](../claims/Yin_C_G0345_v579.md#hyperbolic) tends to a positive maximum \(F(P)\).
-For \(K=5/2+\log 2-2\sqrt2\), the [uniform bound on integral numerator energy](../claims/Yin_C_G0345_v643.md#statement) and the [homoclinic estimate for the Fourier amplitude](../claims/Yin_C_G0345_v620.md#recurrence) give \(\limsup_{m\to0}m\log F(P)\le-\pi^2K/2\).
+For \(K=5/2+\log 2-2\sqrt2\), the [explicit integral energy bound](../claims/Yin_C_G0345_v660.md#statement) and the [homoclinic Fourier estimate](../claims/Yin_C_G0345_v620.md#recurrence) give \(\limsup_{m\to0}m\log F(P)\le-\pi^2(K+10^{-8})/2\).
 For numerators of width less than \(\deg P\), the [sharp bound for a prescribed lowest coefficient](../claims/Yin_C_G0345_v621.md#evaluation) makes even the normalized Gram determinant diverge as \(m\to0\).
 Write \(\mathcal E(P)=\inf_{P\nmid A}\|A/P\|_2^2\) for the infimum over integral Laurent numerators.
 The [finite search over integral numerators](../claims/Yin_C_G0345_v622.md#finite-search) determines this minimum exactly for each fixed \(P\), after large gaps between occupied exponents are removed.
 For \(P=X^2-aX+1\), [the exact minimizers](../claims/Yin_C_G0345_v622.md#quadratic) change from the difference \(1-X\) at \(a=3\) to monomials at \(a\ge5\), with both types at \(a=4\).
 Power substitution preserves \(\mathcal E(P)\), so first remove the common substitution.
-A construction forcing \(\limsup m\mathcal E(P)<K\) on hypothetical shrinking hyperbolic degree records would contradict the uniform bound for all widths.
+A construction forcing \(\limsup m\mathcal E(P)<K+10^{-8}\) on hypothetical shrinking hyperbolic degree records would contradict the uniform bound for all widths.
 For \(1<p<2\) the [successive occupied coefficients](../claims/Yin_C_G0345_v637.md#statement) also give stronger moment constants.
 A [single-pole rational example](../ledger/Yin_L_G0462_v321.md#example) attains the one-ended squared-energy estimate at every \(m\) and fails tail integrality, explaining the gain from using the two integer expansions.
 For an auxiliary integer polynomial \(Q\), [subtracting \(P\) times a rounded polynomial](../claims/Yin_C_G0345_v623.md#tails) costs at most \(\deg(Q)/4\) in the middle of the coefficient sequence and preserves exact geometric sums over the poles on both tails.
@@ -159,7 +165,9 @@ Both determinant upper estimates thus exceed the desired scale even when the int
 For the central monomial or a matched square, [round every Laurent coefficient](../ledger/Yin_L_G0462_v320.md#rounding) and compare the sum of squared distances to integers with \(K/m\).
 At each fixed input, classes escaping all finite lists up to translation have a [sharp threshold of twice the least energy](../claims/Yin_C_G0345_v633.md#statement).
 Moreover scalar multiples of any one nonzero class have [energy growing at least as \(\log\log |k|\)](../claims/Yin_C_G0345_v636.md#statement) at every hyperbolic reciprocal strict degree record above degree four.
-The multiplier and the input have separate limits, so compare different residue classes or establish an input-dependent multiplier range before using scalar multiples across records.
+For any fixed hyperbolic minimal polynomial and nonzero residue class, the [typical scalar multiples](../claims/Yin_C_G0345_v653.md#statement) have least squared energy asymptotic in natural density to \((\Gamma_x/12)\log k\).
+At a strict degree record the coefficient is at least \(d/(12m)\).
+A scalar construction across records needs control of the exceptional multipliers or of the onset of this fixed-input limit.
 For any integral \(A\) indivisible by \(P\), [restoring the initial coefficients and applying Littlewood's inequality](../claims/Yin_C_G0345_v632.md#statement) gives \(\liminf\|A/P\|_1/\log(1/m)\ge1/26\).
 It suffices on a proposed shrinking family to construct numerators with a strictly smaller limiting coefficient, including square numerators of any width.
 For the stronger pointwise certificate \(|B|^2\le|P|\), [two nonnegative integral summands](../claims/Yin_C_G0345_v635.md#statement) force \(M(P)\ge(3+\sqrt5)/2\), sharply, and \(M(P)\ge4\) if the base width exceeds half the degree.
@@ -167,13 +175,18 @@ There is a [real monic half-degree numerator](../ledger/Yin_L_G0462_v322.md#squa
 Its exact excess formula measures the error of approximating its coefficients by integers.
 The [packing estimate for successive integral remainders](../claims/Yin_C_G0345_v644.md#packing) gives a short-numerator lower limit of \(1/2\) after scaling the energy by \(m\).
 It rules out the earlier [conditional scenario at \(1/4\)](../claims/Yin_C_G0345_v639.md#statement) even for unrestricted widths.
-At the new unrestricted threshold \(K\), [both quotient support counts](../claims/Yin_C_G0345_v643.md#statement) must be asymptotic to \(\log(2)/(2m)\), their squared coefficient excess must be \(o(1/m)\), and the short remainder must approach its lower limit.
-Test whether the same integer remainder can approach the packing limit while producing both of these quotient expansions.
-For a short remainder approaching its limiting energy, [the signs and positions in its Taylor expansion](../claims/Yin_C_G0345_v649.md#concentration) specify sets of vanishing Haar measure carrying at least half its energy.
-Compare the balanced quotient and the remainder on those same sets to test the cancellation required at \(K\).
+For a short numerator approaching \(1/2\), [the radial-weighted angular moments and the Taylor coefficients](../claims/Yin_C_G0345_v654.md#statement) obey the same signed periodic or zero pattern through moving orders.
+A nonzero short period sends [exactly half of the limiting energy](../claims/Yin_C_G0345_v656.md#statement) to a single point after raising the angles to that period.
+For unrestricted width the [strict improvement](../claims/Yin_C_G0345_v659.md#statement) excludes the candidate \(K\) for all signatures.
+At that value, [reconstruction from the projected quotient](../claims/Yin_C_G0345_v651.md#reconstruction) and [two independently chosen signed binomials](../claims/Yin_C_G0345_v657.md#orders) would rule out simultaneous angular concentration at the two ends.
+But the [actual output following every initial fraction of the integer coefficients](../claims/Yin_C_G0345_v659.md#saturation) would force precisely that concentration.
+A [single inner multiplier](../claims/Yin_C_G0345_v658.md#statement) can attain its separate projection bound using large exponent spacings.
+Use both ends and the nonzero integral remainder together when seeking a further improvement.
+On the construction side, it now suffices to reach \(K/m+o(1/m)\) by rounding in the same residue class.
+Test the centered Fourier tails on degree records against this target.
 A second [test depending only on the denominator](../claims/Yin_C_G0345_v650.md#angular) identifies angular sets of Haar measure \(O(m)\) where a quotient with bounded \(m\|Q\|_\infty\) must cancel a short remainder if the full supremum norm is \(o(1/m)\).
 For an upper bound, use the [rounding variance of the same residue class](../claims/Yin_C_G0345_v650.md#rounding) or bound the centered tails on a finite frequency interval.
-Small variance would give representatives of smaller higher moments, while the unrestricted quadratic energy target remains \(K/m\).
+Small variance would give representatives of smaller higher moments. On the quadratic problem the needed upper coefficient must be strictly below \(K+10^{-8}\).
 Independently, [exact saturation of a reflected-denominator coefficient](../claims/Yin_C_G0345_v641.md#statement) requires \(M(P)\ge(1+\sqrt5)/2\), and near saturation at moving indices restricts the radial-weighted angular moments.
 An independent lower bound for \(F(P)\) on strict degree records would also test the exponential upper bound.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
