@@ -61,6 +61,7 @@ For the six-term family with growing seed degree \(s\), the [exterior root bound
 A factor with \(O(a)\) exterior conjugates in this range would have [slope of order \(s^3\), degree of order \(as^2\) and log measure of order \(1/s\)](../claims/Yin_C_G0345_v507.md#statement).
 At the critical slope the [measure of an individual factor divided by its degree share](../claims/Yin_C_G0345_v510.md#statement) tends to the circle mean of \(\log^+|1+e^{it}|\).
 The [torsion separation in this regime](../claims/Yin_C_G0345_v517.md#statement) preserves the field of a candidate root under every nonzero power and excludes repeats in nearby sections with the same residue of \(b\) modulo \(a\).
+The [rational-power separation](../claims/Yin_C_G0345_v527.md#statement) excludes multiplicative dependence modulo torsion between roots belonging to two distinct critical sections, with no bound on the two power exponents.
 Search for a rational factor of degree \(\asymp as^2\) with \(O(a)\) exterior roots, testing the required occupancy at the seed zeros and \(\log a\gg s^{1/3}\log s\).
 For a construction with \(o(a)\) exterior conjugates, investigate fixed \(s\) at growing slope or growing \(s\) beyond the cubic range.
 For the entire quartic family a positive lower bound on factor measures is equivalent to the existence on each sufficiently large primitive slope of a good prime at which all trace factors have degree at least \(cb\), for the same \(c>0\).
@@ -168,11 +169,15 @@ At the calibrated widths the [dyadic zero bound](../claims/Yin_C_G0345_v516.md#s
 On the same prime interval [each row individually](../claims/Yin_C_G0345_v522.md#statement) has at least \((1/2-o(1))\log L/\log\log L\) nonzero terms, even if the other row is dense.
 Using the [prescribed short blocks of odd exponents](../claims/Yin_C_G0345_v523.md#statement) forces each row to occupy \(\gg L/(\log L)^3\) positions, and the normalized coefficient minimum tends to zero precisely when the unrestricted infimum vanishes.
 Counting nonzero coefficients alone gives a lower bound of order \(\log L\) on \(\log H\), while the [tangency estimate](../ledger/Yin_L_G0462_v243.md#tangencies) gives the stronger seed-dependent bound \(\log H\ge\Sigma\log M(P)\).
-Determine whether the simultaneous divisibilities on these odd blocks force a positive lower bound on the logarithmic coefficient norm divided by the exponent sum as the seed degree grows.
+On the [dilated blocks](../claims/Yin_C_G0345_v524.md#statement), every primitive rational combination has logarithmic Mahler measure at least \(\Sigma/f(\Sigma)\) for any prescribed computable nondecreasing unbounded loss \(f\), on a schedule chosen for that loss.
+A [rational Laurent certificate for one](../claims/Yin_C_G0345_v528.md#statement) requires \(\gg kj\Sigma/\log H\) nonzero multiplier coefficients, irrespective of their degrees.
+Removing the rate loss requires an estimate uniform in the seed and schedule, or a construction realizing vanishing cost.
 The [explicit interpolation](../claims/Yin_C_G0345_v518.md#statement) bounds the row integer above by \(JE^8\), with \(J\) the exponent product and \(E\) the least positive integer in \((Q,Q')\) for the product \(Q\) of the powered minima.
 For every fixed seed with \(4\log M(P)<\log2\), the logarithm of the surviving part of its Bézout integer, divided by the exponent sum, tends to infinity.
 For these rows the [derivative denominator](../claims/Yin_C_G0345_v521.md#statement) of the powered-node polynomial determines the retained logarithmic size to within a factor of sixteen after the primes dividing the exponent product are removed.
-Compare the contributions of pairs of powered conjugates in that denominator with the known contributions from reciprocal pairs at their exponent sums.
+At each fixed seed, [direct and reciprocal powers alone](../claims/Yin_C_G0345_v526.md#statement) already contribute logarithmic size of order \(L^2\) on the full interval before deletions.
+The remaining comparison concerns the other conjugates and uniformity as the seed degree grows.
+For a fixed seed with only one exterior conjugate, [bounds on the endpoint coefficients](../claims/Yin_C_G0345_v525.md#statement) give sharp normalized coefficient cost at degree \(O_P(r^2)\) for arbitrary prescribed comparable powers with \(r\to\infty\) and \(r=o(L)\).
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.

@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v662](Yin_R_G0562_v662.md#finding) checks primitive measures of outputs with sparse rational multipliers and the necessary term count of Laurent Bézout certificates.
+
+- [R562 v661](Yin_R_G0562_v661.md#finding) checks the separation of critical roots across independent sections under arbitrary rational powers.
+
+- [R562 v660](Yin_R_G0562_v660.md#finding) checks the ideal norm and rational contraction contributed by direct and reciprocal powers of a fixed seed.
+
+- [R562 v659](Yin_R_G0562_v659.md#finding) checks both coefficient endpoints and the sharp cost at quadratic width for growing prescribed sets of powers of a single-exterior seed.
+
+- [R562 v658](Yin_R_G0562_v658.md#finding) checks the primitive measure of every rational row combination on dilated odd blocks, the rate quantifiers and the zero-infimum equivalence.
+
 - [R562 v657](Yin_R_G0562_v657.md#finding) checks the odd exponent blocks, the support bound for each row and the equivalence with vanishing unrestricted infimum.
 
 - [R562 v656](Yin_R_G0562_v656.md#finding) checks the separate support bounds on the prime interval and the valuation cost of a sparse primitive part for either row.
