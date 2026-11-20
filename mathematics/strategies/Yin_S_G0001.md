@@ -50,6 +50,8 @@ Each such shape lies under a full family of dimension at most three, so the [aff
 For the ordered eight-term tuple in the [exact Lehmer calculation](../computations/programs/Yin_J_G0180/readme.md), 140 of 201,376 surviving lists in the window of span 32 pass the trace test.
 Only 36 of those have their residual sum divisible by two in \(\mathbb Z[\alpha]\), and exactly two meet the prescribed order and pass the ordinary terminality test.
 Seek a bound on the number of surviving shapes for which some dilation admits both the required residual divisibility and the exact trace in the witness window.
+At a common prime divisor of the erased coefficients, [two reciprocal evaluations](../ledger/Yin_L_G0462_v318.md#residues) determine two more surviving exponent residues up to two choices outside one explicit exception.
+Test for such primes with root order exceeding twice the witness span, where distinct exponents exclude the exception.
 When the largest coefficient nearly equals the sum of the others, use [separation across the neutral embeddings](../claims/Yin_C_G0345_v604.md#separation) to restrict their relative exponents.
 Away from that case, the [stronger weighted lower bound](../claims/Yin_C_G0345_v604.md#statement) allows an upper estimate to spend a factor exponential in the polygon deficit.
 
@@ -60,8 +62,20 @@ The constant \(A=1\) tests only [values below one quarter](../claims/Yin_C_G0345
 For each fixed input, [finite tests on integer coefficients](../claims/Yin_C_G0345_v607.md#termination) decide exactly whether some nonzero \(A\) satisfies \(|A|^2\le4u\) on the entire circle.
 Every such \(A\) is automatically coprime to \(P\).
 Remove common power substitutions first, since [averaging over their fibers](../ledger/Yin_L_G0462_v317.md#descent) divides the shortest certificate degree by the substitution exponent while preserving existence.
-Use the first excluded coefficient prefixes to look for a lower bound on \(m(P)\) when no certificate exists, and test whether the integrated loss can still approach zero in that case.
+At a fixed input, [failure at a finite depth](../claims/Yin_C_G0345_v608.md#statement) already bounds the integrated loss away from zero uniformly over integer numerators of all degrees.
 The [degree-twelve certificate](../claims/Yin_C_G0345_v605.md#example) illustrates how a nonconstant \(A\) removes the entire loss.
+
+For a shrinking sequence the lower bound at one input need not persist at the next.
+If the total cost \(T=m(P)+2m(B)+\int D(|A/B|^2/u)\) is small for a rational numerator with integral denominator \(B(0)=\pm1\), the Taylor coefficients of \(A^2/(P B^2)\) at the origin have squared sum at most sixteen up to lengths \(n<\log(17/16)/(2T)\).
+The [binary square test](../claims/Yin_C_G0345_v609.md#parity) excludes most long binary prefixes under uniform counting, and an explicit [length-504 prefix](../claims/Yin_C_G0345_v613.md#example) forces positive total cost even with variable denominators.
+Try to bound the measure of inputs with an excluded prefix independently of the transfer, or to transfer them using a different polynomial of comparably small measure.
+In the complementary direction, [signed cyclotomic root counts](../claims/Yin_C_G0345_v611.md#statement) transfer the sequence if they approximate the cumulative exterior phase counts with vanishing unnormalized mean-square error.
+The [logarithmic moment test](../claims/Yin_C_G0345_v614.md#statement) has at most three feasible extensions per frequency for sufficiently small \(m(P)\).
+Use it to distinguish failure of the actual loss criterion from failure of the angular upper bound, particularly at odd Newton sums.
+
+The [quadratic subfield bounds](../claims/Yin_C_G0345_v610.md#statement) give \(M(P)\ge9/4\) if inversion acts nontrivially on a real quadratic subfield and \(M(P)\ge7/4\) if the trace field contains an imaginary quadratic field.
+More generally, below \(M(P)=(1+\sqrt5)/2\), [inversion acts as canonical conjugation](../claims/Yin_C_G0345_v612.md#compatibility) on every totally real or CM subfield of the root field.
+For further descent, focus on subfields satisfying this compatibility and on the embeddings where coefficient conjugation fails to reflect roots across the circle.
 
 For a direct count on these hyperbolic inputs, the [discriminant and reciprocal-radius estimates](../claims/Yin_C_G0345_v601.md#statement) retain the full fixed tuple whenever \(\min_\beta|\log|\beta||=O(m/(d\log(2d)))\), with an additional discriminant-dependent test.
 Outside those criteria one can [bound the sum of the coefficient excesses](../claims/Yin_C_G0345_v606.md#statement) along ordinary rational splitting trees on a sufficiently large fraction of the initial supports.
