@@ -66,3 +66,20 @@ The bound is (8n)^[4n^4(n+r+1)], with tuple-group rank rather than scalar-group 
 This establishes an actual primary-statement reading beyond the original search extraction.
 The surrounding proof has unresolved references in this manuscript and has not been audited.
 The maintenance neither establishes edition equivalence nor adopts this theorem for C_G276; its stronger window remains an implication from the displayed sharper-shape hypothesis, and the earlier reviews retain their original inputs and limits.
+
+<a id="torino-recurrence"></a>
+## The equation count and the simple recurrence bound
+
+For the mixed-block count in C589 we accept Theorem 6.2 at the level of its statement and also checked the simple recurrence consequence in Corollary 6.3 from [the Torino author-final edition](readme.md#torino), internal pp. 26–27 (PDF pp. 27–28).
+Theorem 6.2 gives (1) above with the rank of the subgroup of tuples and fixed nonzero coefficients over an algebraically closed field of characteristic zero.
+Corollary 6.3 treats a bilateral simple recurrence of minimal order \(n\ge1\) over the same field and covers its full integer zero set by at most \((8n)^{4n^5}\) arithmetic progressions, counting singletons as progressions.
+The order is the number of distinct surviving nonzero bases in an exponential sum with constant nonzero coefficients: combining equal bases and deleting zero coefficients yields that order by Vandermonde independence.
+In the proof on p. 27 the normalized tuple from one integer dilation varies in a cyclic group, giving the estimate \(A(n-1,1)\); the authors separately bound zeros with vanishing subsums by induction.
+A bound on the number of zero indices follows from the progression bound once infinite progressions have been excluded for the actual sequence.
+In particular, if the ratios of distinct bases are nontorsion, restriction to any progression of positive step keeps the bases distinct and Vandermonde independence excludes identically vanishing restriction.
+A torsion-ratio collision requires a separate argument in the project application.
+This statement-level acceptance is specific to the new use; the historical C276 assessment above retains its original hypothesis and review scope.
+The underlying subspace and height theorems have not received a proof audit here.
+
+The authors' subsequent article AV11 (Theorem 1.1, printed p. 388) also covers recurrences with repeated characteristic roots, with a different bound \(\exp(\exp(70n))\) on the number of progressions.
+Its introduction distinguishes that result from the sharper simple-root estimate above.

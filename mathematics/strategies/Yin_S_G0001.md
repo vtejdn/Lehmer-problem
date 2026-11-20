@@ -29,17 +29,25 @@ The parameter \(B\) can grow with the input, subject to the power-field degree c
 For some growing weight \(r\), at least \((c_0/m)^{r-2}\) different integer exponent lists remain after fixing those coefficients and placing the distinguished term at zero.
 Seek an upper bound exponential in \(r\) with an absolute base at strict record minima, where every positive power preserves the input degree.
 A proof may first divide out the common exponent gcd if it can also bound how many integer dilations have been identified.
-At those records, [the relative norm of an actual partial sum](../claims/Yin_C_G0345_v588.md#edges) bounds every intermediate coefficient's logarithmic height by \(O(\log(2d))\) throughout a tree built from the finite witness, even when the allowed splitting rule has no height cutoff.
-The [resulting polynomial norm bound](../claims/Yin_C_G0345_v588.md#polynomial) limits every dilation to \(O(\log(2d)/m)\) for rational coefficients.
-If the number of primitive shapes for each fixed rational tuple is exponentially bounded in \(r\), the remaining witness weights must tend to infinity within \(r=O(1+\log\log(3d)/\log(1/m))\) for every conjugate distribution.
-For larger witness weights, seek the exponential upper bound on distinct primitive lists.
-Within this range also test how often a single list with those integer coefficients can recur under dilation.
-For rational coefficients on Salem inputs, [comparison across complex embeddings](../claims/Yin_C_G0345_v585.md#rays) preserves the leading logarithmic size of the count even after removing dilations and the distinguished mark.
-For coefficients of bounded algebraic degree, [real embeddings](../ledger/Yin_L_G0462_v306.md#records) or [simple modular roots with a common period](../claims/Yin_C_G0345_v586.md#shapes) give precise conditions under which the same growth survives for marked lists.
-The [least exponents in the three-simple-root test](../ledger/Yin_L_G0462_v307.md#benchmark) range from 5 to 97 across 72 registered Salem inputs and equal 25 for Lehmer's polynomial.
-For reciprocal record minima of degree greater than four, [descent at two reciprocal circles](../claims/Yin_C_G0345_v587.md#statement) forces a positive spread \(\delta\) of absolute logarithmic radii.
-Test whether an exceptionally small positive spread forces a sufficiently short local period.
-An exponential bound on primitive shapes would force both [a very small spread at \(B=1\)](../ledger/Yin_L_G0462_v308.md#patterns) and [large qualifying periods](../claims/Yin_C_G0345_v586.md#shapes).
+Write \(L=\log(1/m)\).
+The [mixed unit-equation estimate](../claims/Yin_C_G0345_v589.md#arity) forces the number \(r\) of terms in the witness to be at least a constant times \((L/\log(2+L))^{1/4}\).
+At strict degree records, [relative norms of partial sums](../claims/Yin_C_G0345_v588.md#edges) put the actual intermediate coefficients in logarithmic height \(O(\log(2d))\).
+For general units, [comparison of two conjugates fixing a coefficient](../claims/Yin_C_G0345_v594.md#window) puts all marked exponents of a witness in an interval of length \(O(d^4\log(2d))\).
+Dividing exponents by their gcd still leaves at least \(\exp((1-o(1))(r-2)L)\) different marked lists for one fixed coefficient tuple if \(\log(2k)=o(rL)\), where \(k\) is the larger count of expanding or contracting embeddings. [General units](../claims/Yin_C_G0345_v594.md#signature) · [Strict record minima](../claims/Yin_C_G0345_v593.md#statement)
+In particular all hypothetical Salem sequences obey this primitive count, even when the permitted coefficient degree grows. [Salem fields and the count](../claims/Yin_C_G0345_v591.md#statement)
+For a strict record and fixed rational outgoing coefficients, an exponential upper bound on the primitive count could coexist with a shrinking sequence only if \(\log(2k)\gg rL\) and \(L=O(D^{4/5}(\log(2+D))^{1/5})\), with \(D=\log\log(3d)\).
+
+Concentrate the upper-bound question on a single prescribed tuple of rational coefficients and the full test for a partial sum equal to a rational multiple of a power.
+If the coefficients can be chosen separately for each support, [every primitive shape of at least \(d+2\) terms can occur](../ledger/Yin_L_G0462_v309.md#statement) at a unit whose powers preserve degree.
+At Lehmer's unit, the [exact window of length 22](../ledger/Yin_L_G0462_v312.md#counts) contains 55 primitive marked ternary supports surviving the full rational test, including twelve seven-term supports with the same six outgoing signs.
+Six further supports split only through exponents outside their own span, including the defining polynomial itself.
+For a fixed tuple, [lifting simultaneous exponent lists to a rational function field](../claims/Yin_C_G0345_v592.md#lifting) bounds the count within each coordinatewise residue class by successive comparisons of degrees at infinity.
+Determine how terminality constrains the number of occupied residue classes and the possible pairs at each comparison, since the current bounds still include a power of the modulus and factorial factors.
+For the multiplication of all exponents by the same integer, [an integral determinant](../claims/Yin_C_G0345_v590.md#affine) already removes the height cost at every asymmetric rational pattern on a reciprocal strict record.
+In the symmetric case, test [congruences on the common integer output](../ledger/Yin_L_G0462_v310.md#test) and [short periods at a finite place](../claims/Yin_C_G0345_v586.md#shapes).
+The [three-simple-root benchmark](../ledger/Yin_L_G0462_v307.md#benchmark) gives least periods from 5 to 97 on 72 Salem inputs, including 25 for Lehmer's polynomial.
+The [Schinzel–Zassenhaus house bound](../ledger/Yin_L_G0462_v311.md#spread) shows that the spread of absolute logarithmic radii is asymptotic to the largest radius on the logarithmic scale whenever the reciprocal inputs have \(m\to0\).
+For reciprocal records genuinely supported on two circles, [the squared outer radius](../claims/Yin_C_G0345_v587.md#statement) gives explicit descent once \(d>4\).
 The [finite witness interval](../claims/Yin_C_G0345_v575.md#scale) bounds the initial ternary supports by span \(O(d\log(2d)/m)\).
 On reciprocal strict degree records, an exterior nonreal conjugate must generate a field that complex conjugation does not preserve.
 Otherwise conjugation and inversion give two distinct involutions of that field, excluded by the [relative-norm descent](../ledger/Yin_L_G0462_v297.md#automorphisms).

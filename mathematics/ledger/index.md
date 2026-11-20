@@ -5,6 +5,10 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v312](Yin_L_G0462_v312.md#counts) | Rational terminal supports at Lehmer's unit | Among 557 minimal supports in a window of length 22, six split only through an exponent outside their span and 55 survive the full rational test. |
+| [Yin_L_G0462_v311](Yin_L_G0462_v311.md#spread) | Radial spread and the house | For a reciprocal unit of shrinking measure the spread of absolute logarithmic radii is asymptotic to the largest absolute logarithmic radius. |
+| [Yin_L_G0462_v310](Yin_L_G0462_v310.md#test) | Congruences for a common rational output | Cyclotomic remainders restrict the dilation and the output simultaneously. |
+| [Yin_L_G0462_v309](Yin_L_G0462_v309.md#statement) | Varying rational coefficients | Every sufficiently large support admits rational terminal coefficients after dilation when all powers preserve degree. |
 | [Yin_L_G0462_v308](Yin_L_G0462_v308.md#spread) | Rational-output dilations at reciprocal units | Inversion controls asymmetric coefficients, and the spread between absolute logarithmic radii controls symmetric ones. |
 | [Yin_L_G0462_v307](Yin_L_G0462_v307.md#benchmark) | Least local periods for 72 Salem numbers | Exact cyclotomic resultants certify every minimum over all odd primes for the three-simple-root test. |
 | [Yin_L_G0462_v306](Yin_L_G0462_v306.md#records) | Real embeddings and primitive exponent lists | Independent real conjugates bound dilations with a free coefficient of bounded algebraic degree. |
