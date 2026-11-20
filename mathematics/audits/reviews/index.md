@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v657](Yin_R_G0562_v657.md#finding) checks the odd exponent blocks, the support bound for each row and the equivalence with vanishing unrestricted infimum.
+
+- [R562 v656](Yin_R_G0562_v656.md#finding) checks the separate support bounds on the prime interval and the valuation cost of a sparse primitive part for either row.
+
+- [R562 v655](Yin_R_G0562_v655.md#finding) checks the derivative denominator, its comparison with the Bézout integer and its retained valuations on the exact prime interval.
+
 - [R562 v654](Yin_R_G0562_v654.md#finding) checks the fixed-seed dyadic obstruction for the reduced resultant of the constructed rows.
 
 - [R562 v653](Yin_R_G0562_v653.md#finding) checks the multiplicity supplied by every representation of one sum and the resulting congruences and global additive quotient.

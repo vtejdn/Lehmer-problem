@@ -165,9 +165,14 @@ A [prime-field calculation on the same full-interval test](../claims/Yin_C_G0345
 Combining all the representations of each sum at one residue [multiplies the local contact order](../claims/Yin_C_G0345_v520.md#statement).
 At a single pair of opposite labels the [full local quotient](../claims/Yin_C_G0345_v519.md#statement) has explicitly determined Smith exponents.
 At the calibrated widths the [dyadic zero bound](../claims/Yin_C_G0345_v516.md#statement) already forces \(L^{1-o(1)}\) occupied exponents in the union of the two row supports.
-Test the gcd of the two row reductions with \(Y^t-1\) at these primes, retaining their actual exponent supports when bounding the number of roots of order \(t\).
+On the same prime interval [each row individually](../claims/Yin_C_G0345_v522.md#statement) has at least \((1/2-o(1))\log L/\log\log L\) nonzero terms, even if the other row is dense.
+Using the [prescribed short blocks of odd exponents](../claims/Yin_C_G0345_v523.md#statement) forces each row to occupy \(\gg L/(\log L)^3\) positions, and the normalized coefficient minimum tends to zero precisely when the unrestricted infimum vanishes.
+Counting nonzero coefficients alone gives a lower bound of order \(\log L\) on \(\log H\), while the [tangency estimate](../ledger/Yin_L_G0462_v243.md#tangencies) gives the stronger seed-dependent bound \(\log H\ge\Sigma\log M(P)\).
+Determine whether the simultaneous divisibilities on these odd blocks force a positive lower bound on the logarithmic coefficient norm divided by the exponent sum as the seed degree grows.
 The [explicit interpolation](../claims/Yin_C_G0345_v518.md#statement) bounds the row integer above by \(JE^8\), with \(J\) the exponent product and \(E\) the least positive integer in \((Q,Q')\) for the product \(Q\) of the powered minima.
 For every fixed seed with \(4\log M(P)<\log2\), the logarithm of the surviving part of its Bézout integer, divided by the exponent sum, tends to infinity.
+For these rows the [derivative denominator](../claims/Yin_C_G0345_v521.md#statement) of the powered-node polynomial determines the retained logarithmic size to within a factor of sixteen after the primes dividing the exponent product are removed.
+Compare the contributions of pairs of powered conjugates in that denominator with the known contributions from reciprocal pairs at their exponent sums.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.
