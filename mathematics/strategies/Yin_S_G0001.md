@@ -152,6 +152,9 @@ On a hypothetical shrinking sequence the [density of periodic sets avoiding shor
 Even when all relations through weight \(a_\theta(L/\log(2+L))^{1/4}\) are excluded, a periodic set can retain density \(m^\theta\) for any fixed \(0<\theta<1\), compared with the fully dissociated upper bound \(m/\log2\).
 With a conjugate whose absolute radial logarithm is at least \(\eta m\), the periodic density still exceeds every fixed multiple of \(m\) at cutoffs \(o(L/m)\).
 For a uniform bound, the graph must detect longer relations or use information beyond these forbidden supports.
+Testing signed supports in a finite quotient also needs control of the multiplicative order relative to the span.
+At the [quadratic unit \(4+\sqrt{15}\)](../claims/Yin_C_G0345_v690.md#statement), every exact signed sum on distinct exponents is nonzero, yet a scalar modulus of exponential size admits at least \(K^{(r-3)/2}\) primitive minimal supports of odd weight \(r\) and span below \((2K+3)r\), all with the same alternating signs.
+Their construction uses multiplicative order \(2r\), so test the order and span together before using modular counts to estimate actual relations.
 The [plastic](../ledger/Yin_L_G0462_v293.md#results) and [golden-ratio](../ledger/Yin_L_G0462_v294.md#supports) examples give exact pattern counts at every weight for comparison.
 For multiple roots the same comparison uses the multiplicity times the log measure, while [balanced relations on prescribed exponents](../claims/Yin_C_G0345_v560.md#span) also control the number of coefficients relative to their actual span.
 
@@ -227,7 +230,9 @@ For a hyperbolic unit their finite set \(S\) must satisfy \(\liminf\sqrt m\,|S|^
 An upper bound with a smaller constant on that same return set would rule out the sequence.
 Across all signatures the [conditional entropy at cuts of finite zero returns](../claims/Yin_C_G0345_v683.md#statement) measures the spread for actual collision paths, including at Salem inputs.
 At moduli with \(mq^2\to0\), lists occupying an exponentially small fraction of the residues and chosen from the preceding digits capture a fixed positive fraction of these cuts only with exponentially small conditioned probability.
-Seek a restriction on the possible next carries that holds along positive conditional mass, using both ends of the algebraic return.
+For shrinking Salem inputs the [geometric mean of the optimal squared prediction errors](../claims/Yin_C_G0345_v688.md#statement) in the neutral embeddings is at least \((\pi/(8\mathrm e)-o(1))/m\) at the indicated finite bridge scales.
+The deterministic orbit Gram matrix already exceeds that threshold by its [Vandermonde lower bound](../claims/Yin_C_G0345_v688.md#gram).
+Seek an upper bound on the covariance under the return condition itself, using both ends of the path.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
@@ -262,10 +267,15 @@ Beyond an exceptional set of at most [\(X^{1/2+o(1)}\) seeds through \(X\)](../c
 The squarefree triples outside this exception set have density \(\prod_p(1-3/p^2)>0\) and retain the full measure at every substitution.
 The bound at the remaining delays uses [a count of Salem numbers uniform in degree and exterior size](../claims/Yin_C_G0345_v685.md#statement).
 The [fixed-degree asymptotic of Götze and Gusakova](../audits/literature/GG20/Yin_U001.md#gg20-u001) gives the leading constant as the exterior bound grows, with a degree-dependent error.
-A shrinking sequence from this construction must therefore use varying seeds.
-Along any such subsequence outside the exceptional set, \(H(a)/\log a\to\infty\).
-Each exceptional seed admits a field radical at some prime \(p>n\).
-Test these large-prime radicals and the square factors of three consecutive integers before expanding the search over delays.
+For each [fixed delay and either sign](../claims/Yin_C_G0345_v692.md#statement), all sufficiently large integer seeds retain the full measure under every substitution.
+The coefficient argument handles square radicals by forcing a common rational factor and gives no numerical cutoff.
+Uniformly in all seeds, the [greatest field radical index](../claims/Yin_C_G0345_v689.md#statement) is at most \(C n^2\log^5(3n)\).
+If even one substituted factor has logarithmic measure at most one, then \(\log a\le C' n^2\log^2(3n)\).
+A failure of the bound \(R\mid H(a)\) requires a [prime radical above the delay with exterior value below \(5p\)](../claims/Yin_C_G0345_v687.md#statement), and forces \(\log a\ll n^2\log^3(3n)\).
+At fixed delay, above an effective seed cutoff every field radical of index \(q\) also satisfies [\(2q\mid\varphi(j)\) at every torsion order in \(A(X^q)\)](../claims/Yin_C_G0345_v691.md#statement), where \(A\) is the neutral root-of-unity grid polynomial.
+For the positive sign and \(12\mid n-1\), the two orders 3 and 4 already guarantee full irreducibility once \(\log a>C n^3\log^6(3n)\).
+A shrinking sequence in this family must send both the delay and the seed to infinity, stay below the small-factor seed threshold and, outside the divisibility exception, satisfy \(H(a)/\log a\to\infty\).
+Test neutral root allocation and near-integral coefficients with both parameters growing, where the fixed-delay argument does not provide the needed uniform estimate.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 

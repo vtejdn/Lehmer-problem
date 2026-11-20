@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v829](Yin_R_G0562_v829.md#finding) checks eventual irreducibility at every fixed delay by coefficient approximation, including the square case.
+
+- [R562 v828](Yin_R_G0562_v828.md#finding) checks the effective torsion degree test and the explicit irreducibility range on a progression of delays.
+
+- [R562 v827](Yin_R_G0562_v827.md#finding) checks minimal signed supports of fixed sign order in finite quotients of a quadratic order.
+
+- [R562 v826](Yin_R_G0562_v826.md#finding) checks the seed-uniform radical bound from two logarithms and the effective exceptional-seed cutoff.
+
+- [R562 v825](Yin_R_G0562_v825.md#finding) checks neutral conditional covariances and the Vandermonde comparison on Salem collision bridges.
+
+- [R562 v824](Yin_R_G0562_v824.md#finding) checks the localization and counts of prime radicals above the delay.
+
 - [R562 v823](Yin_R_G0562_v823.md#finding) checks the diagonal prime obstruction, the square-root bound for exceptional seeds and its consequences at every delay.
 
 - [R562 v822](Yin_R_G0562_v822.md#finding) checks the count of Salem numbers uniform in degree, including the integer encoding and the bound in short intervals of half-degree powers.
