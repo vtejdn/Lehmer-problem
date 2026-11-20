@@ -344,3 +344,6 @@ The source notes and units own their editions, inspected passages and actual ins
 | [KP00](KP00/readme.md) | [Least faithful permutation degree of a quotient without abelian normal subgroups](KP00/Yin_U001.md#quotient) |
 | [Str26](Str26/readme.md) | [Strict Garsia entropy on hyperbolic algebraic units](Str26/Yin_U001.md#str26-u001) |
 | [LS99b](LS99b/readme.md) | [Trivial homoclinic group for irreducible toral automorphisms with mixed spectrum](LS99b/Yin_U001.md#ls99b-u001) |
+| [FS08](FS08/readme.md) | [Minimal digit weight and the zero-expansion automaton at Pisot bases](FS08/Yin_U001.md#fs08-u001) |
+| [PS91](PS91/readme.md) | [Local exponential polynomial zero count and residue-class partition](PS91/Yin_U001.md#ps91-u001) |
+| [DS01](DS01/readme.md) | [Powers in the classification of algebraic units on two circles](DS01/Yin_U001.md#ds01-u001) |

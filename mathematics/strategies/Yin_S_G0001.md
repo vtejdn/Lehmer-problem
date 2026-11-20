@@ -24,13 +24,29 @@ The [finite common-factor test](../claims/Yin_C_G0345_v572.md#polynomial) determ
 At interval length \(Ct\), first reduce each candidate \(Q(X^q)\) to a polynomial \(Q\) whose exponents have gcd one.
 The [finite reduction](../claims/Yin_C_G0345_v574.md#reduction) preserves every possible witness length, while [any fixed number of dense tests](../claims/Yin_C_G0345_v574.md#statement) on the full lists leaves linearly many irreducible substitutions of Lehmer's polynomial.
 Even on the reduced inputs, [single arithmetic progressions](../ledger/Yin_L_G0462_v288.md#single) of all bounded steps can carry relations when the measure is sufficiently small.
-For a proof, seek a uniform exponential bound in the weight on normalized minimal relation supports that cannot split into two smaller ones by cancelling a single intermediate exponent.
-The [tree count](../ledger/Yin_L_G0462_v295.md#trees) reduces the count of all patterns to these supports, and a [shrinking sequence of record measures](../claims/Yin_C_G0345_v575.md#statement) forces superexponential growth already on intervals of length \(O(d\log(2d)/m)\), where \(d\) is degree and \(m\) is log measure.
+A shrinking sequence with \(m=\log M(\alpha)\to0\) forces many [terminal relations with the same ordered outgoing coefficients](../claims/Yin_C_G0345_v584.md#statement), even when a split through \(c\alpha^h\) allows any integer \(h\) and any field element \(c\) of degree at most \(B\) with unrestricted height.
+The parameter \(B\) can grow with the input, subject to the power-field degree condition and \(Bm\to0\).
+For some growing weight \(r\), at least \((c_0/m)^{r-2}\) different integer exponent lists remain after fixing those coefficients and placing the distinguished term at zero.
+Seek an upper bound exponential in \(r\) with an absolute base at strict record minima, where every positive power preserves the input degree.
+A proof may first divide out the common exponent gcd if it can also bound how many integer dilations have been identified.
+At those records, [the relative norm of an actual partial sum](../claims/Yin_C_G0345_v588.md#edges) bounds every intermediate coefficient's logarithmic height by \(O(\log(2d))\) throughout a tree built from the finite witness, even when the allowed splitting rule has no height cutoff.
+The [resulting polynomial norm bound](../claims/Yin_C_G0345_v588.md#polynomial) limits every dilation to \(O(\log(2d)/m)\) for rational coefficients.
+If the number of primitive shapes for each fixed rational tuple is exponentially bounded in \(r\), the remaining witness weights must tend to infinity within \(r=O(1+\log\log(3d)/\log(1/m))\) for every conjugate distribution.
+For larger witness weights, seek the exponential upper bound on distinct primitive lists.
+Within this range also test how often a single list with those integer coefficients can recur under dilation.
+For rational coefficients on Salem inputs, [comparison across complex embeddings](../claims/Yin_C_G0345_v585.md#rays) preserves the leading logarithmic size of the count even after removing dilations and the distinguished mark.
+For coefficients of bounded algebraic degree, [real embeddings](../ledger/Yin_L_G0462_v306.md#records) or [simple modular roots with a common period](../claims/Yin_C_G0345_v586.md#shapes) give precise conditions under which the same growth survives for marked lists.
+The [least exponents in the three-simple-root test](../ledger/Yin_L_G0462_v307.md#benchmark) range from 5 to 97 across 72 registered Salem inputs and equal 25 for Lehmer's polynomial.
+For reciprocal record minima of degree greater than four, [descent at two reciprocal circles](../claims/Yin_C_G0345_v587.md#statement) forces a positive spread \(\delta\) of absolute logarithmic radii.
+Test whether an exceptionally small positive spread forces a sufficiently short local period.
+An exponential bound on primitive shapes would force both [a very small spread at \(B=1\)](../ledger/Yin_L_G0462_v308.md#patterns) and [large qualifying periods](../claims/Yin_C_G0345_v586.md#shapes).
+The [finite witness interval](../claims/Yin_C_G0345_v575.md#scale) bounds the initial ternary supports by span \(O(d\log(2d)/m)\).
 On reciprocal strict degree records, an exterior nonreal conjugate must generate a field that complex conjugation does not preserve.
 Otherwise conjugation and inversion give two distinct involutions of that field, excluded by the [relative-norm descent](../ledger/Yin_L_G0462_v297.md#automorphisms).
 The [separated representatives](../ledger/Yin_L_G0462_v292.md#critical) must also exist with every gap at least \((1-o(1))\log(2)/m\) before removing dilations.
 For Salem inputs every ternary relation on the progression with step \(\lfloor\log(2)/m\rfloor-1\) contains [two disjoint end segments](../ledger/Yin_L_G0462_v296.md#runs), each with \(\log_2(1/m)+O(1)\) prescribed coefficients up to endpoint sign.
-Test whether the middle of a minimal support must then admit a cancellation at one intermediate exponent, allowing also for minimal supports away from this progression.
+The [Salem family tending to two](../ledger/Yin_L_G0462_v305.md#digits) has the same prescribed signs across an arbitrarily long terminal interval, so endpoint runs alone do not force an interior split.
+At the [multinacci bases](../claims/Yin_C_G0345_v583.md#statement) only the defining interval survives splitting, and at the [plastic number](../ledger/Yin_L_G0462_v303.md#plastic) the only surviving patterns up to translation are two triples.
 In the construction direction, any surviving minimum at length \(N>128t\) already has positive log measure at most \(128t/N\).
 The [density of exponents with distinct binary subset sums](../claims/Yin_C_G0345_v570.md#statement) is comparable to the original log measure for every nontorsion unit of small measure, with absolute constants and arbitrary exterior count.
 The [separated-block injection](../claims/Yin_C_G0345_v571.md#separation) extends each finite admissible set to a periodic one and quantifies the loss in density for its particular minimum.

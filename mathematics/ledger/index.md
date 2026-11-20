@@ -5,6 +5,12 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v308](Yin_L_G0462_v308.md#spread) | Rational-output dilations at reciprocal units | Inversion controls asymmetric coefficients, and the spread between absolute logarithmic radii controls symmetric ones. |
+| [Yin_L_G0462_v307](Yin_L_G0462_v307.md#benchmark) | Least local periods for 72 Salem numbers | Exact cyclotomic resultants certify every minimum over all odd primes for the three-simple-root test. |
+| [Yin_L_G0462_v306](Yin_L_G0462_v306.md#records) | Real embeddings and primitive exponent lists | Independent real conjugates bound dilations with a free coefficient of bounded algebraic degree. |
+| [Yin_L_G0462_v305](Yin_L_G0462_v305.md#period) | Intermediate exponents outside a progression | Modular coincidences restrict the permitted residues, and a Salem family approaching two has terminal intervals of growing length. |
+| [Yin_L_G0462_v304](Yin_L_G0462_v304.md#carriers) | Splitting through rational multiples of powers | Fixed rational height bounds and slowly growing bounds quantify the cost of forgetting coefficients and dilations. |
+| [Yin_L_G0462_v303](Yin_L_G0462_v303.md#plastic) | Single-exponent splits at hyperbolic units | A finite automaton recognizes terminal supports, and only two triples survive at the plastic number. |
 | [Yin_L_G0462_v302](Yin_L_G0462_v302.md#dimensions) | Collision dimensions of quartic Salem convolutions | The dimensions increase strictly to one, and every finite convolution has no density in any \(L^p\) with \(p>1\). |
 | [Yin_L_G0462_v301](Yin_L_G0462_v301.md#deficit) | Two first returns at Salem numbers approaching two | The defining polynomial and its negative cover two thirds of the missing critical weight asymptotically. |
 | [Yin_L_G0462_v300](Yin_L_G0462_v300.md#moments) | Collision entropy above a conductor cutoff | The sum of the Fourier moments has an exact exponential rate even after removing small conductors below the deficit threshold. |
