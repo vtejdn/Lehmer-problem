@@ -71,8 +71,12 @@ If \(\log r=o(\log(1/m))\), almost every gap of almost every witness exceeds \(m
 The [count in prescribed intervals](../claims/Yin_C_G0345_v662.md#statement) applies even when the intervals are far apart, provided their total width is below the degree.
 It also bounds the witnesses occupying a few bins chosen after seeing the list, with an explicit cost for choosing them.
 For a conjugate with \(|\log|\gamma||\ge\eta m\), the [archimedean count on the whole exponent range](../claims/Yin_C_G0345_v668.md#statement) also controls lists spread over arbitrarily many distant bins.
-On a shrinking Salem sequence it forces \(r\gg L^{5/4}/(\log(2+L))^{1/4}\), and almost all the witnesses occupy a positive fraction of \(\min(r,\lceil2\log(2)/m\rceil)\) residue classes.
-Seek an upper bound for this weight on the same witnesses, or use their many occupied residues to restrict the remaining mergers.
+Almost all the witnesses then occupy a positive fraction of \(\min(r,\lceil2\log(2)/m\rceil)\) residue classes.
+At the required multiplicity for a fixed full tuple, [comparison with two reference rows](../claims/Yin_C_G0345_v672.md#statement) now forces \(r\gg_{c,\eta} L/m\), including on every shrinking Salem sequence.
+An upper bound \(r=o(L/m)\) for a tuple retaining this multiplicity would exclude a shrinking sequence with such a conjugate.
+The [original construction](../claims/Yin_C_G0345_v584.md#statement) gives only \(r\le\lceil64d\log(2d)\rceil+1\).
+Combined with the new lower bound this yields \(d\gg_{c,\eta}1/m\), weaker than the [degree bound already available](../audits/literature/Vou96/Yin_U001.md#height).
+Seek an upper bound for the terminal tuple selected by the weighted count, since all subsets of the first \(d\) powers are linearly independent and the original argument must allow larger initial sets.
 When every radial logarithm is \(o(m)\), the count by intervals still applies.
 For the unrestricted input a bounded number of periods of total length \(O(d)\) covering a fixed positive normalized rank weight would itself give a positive Mahler gap.
 When the number \(k\) of binary periods grows, [counting the prime-power divisors of each resultant](../claims/Yin_C_G0345_v648.md#statement) gives a coefficient asymptotic to \(3(\log 2)^2/(k\log k)\) in the lower bound for \(m\sum q_j/d\).
@@ -204,8 +208,11 @@ Even at length \(O(d/m)\) a positive lower limit persists when the total scaled 
 On a fixed polynomial the [weighted lattice of conjugates](../claims/Yin_C_G0345_v670.md#statement) constructs a numerator whose two tails outside \(W\) sites have total energy \(O_P(e^{-2mW/d})\).
 Under a fixed cap on total energy the exact decay exponent is instead \(2/(1/\delta_-+1/\delta_+)\), where \(\delta_\pm\) are the least absolute radial logarithms on the two sides.
 A faster exponent costs at least order \(\log W\) in total energy on that input.
-Focus the construction on simultaneous estimates along the shrinking records for the lattice constant, the two slowest poles and the energy of the rounded coefficients inside the interval.
-The fixed-input upper estimate currently allows \(W/4\) there.
+On [two nested intervals](../claims/Yin_C_G0345_v671.md#statement), a single bounded integer multiplier reduces the middle cost to \((1/12+\epsilon)|I|\), with explicit costs for both tails in terms of the conjugate radii and the discriminant.
+For reciprocal inputs the [optimized construction](../claims/Yin_C_G0345_v673.md#statement) gives \(E(A)\le(1+o(1))d\log(m\Delta)/(24m)\), where \(\Delta\) is computed from the interior roots.
+Optimizing the full-dimensional ball test over all windows still requires a squared radius of that order.
+Conversely, on degree-preserving records with \(W=O(d/m)\), making \(U=mT_W\) tend to zero forces the scaled middle energy to outgrow every fixed power of \(1/U\).
+Concentrate the next search on individual nonzero classes and measure both their positive scaled tail and their rounded middle against the same total budget.
 A second [test depending only on the denominator](../claims/Yin_C_G0345_v650.md#angular) identifies angular sets of Haar measure \(O(m)\) where a quotient with bounded \(m\|Q\|_\infty\) must cancel a short remainder if the full supremum norm is \(o(1/m)\).
 For higher moments use the [rounding variance of the same residue class](../claims/Yin_C_G0345_v650.md#rounding).
 Small variance would give representatives of smaller higher moments.
@@ -215,7 +222,15 @@ For a fixed input with a unit-circle conjugate, even the largest nontrivial coef
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
 For \(m\le1\) a larger polynomial window preserves the full saving with an uncalibrated absolute constant in its exponent.
-To compare Salem numbers of increasing degree, seek a usable growth rate in degree for the period threshold and the amplitude constant.
+Without a prescribed congruence, [a full-conductor character of energy \(O_P(\log n)\)](../claims/Yin_C_G0345_v674.md#statement) exists at every sufficiently large period.
+Outside \(O_P(N^{1-\sigma_P})\) periods in \([N,2N)\), one can also secure amplitude at least \(\exp(-C_P(\log n)^2)\) at full conductor.
+A [common dyadic multiplier](../claims/Yin_C_G0345_v675.md#statement) raises the lower bound to \(n^{-C_P}\) while preserving the entire odd part of the conductor.
+Both amplitude bounds hold somewhere in every interval of length \(\lceil(\log N)^{B_P}\rceil\) inside the dyadic range, for a suitable \(B_P\).
+When \(P(1)\) is odd the polynomial bound holds at full conductor on a set of positive density and somewhere in every such interval after increasing \(B_P\).
+For the infinite fair Bernoulli convolution on the real line, [a unit and a common dyadic multiplier](../claims/Yin_C_G0345_v676.md#statement) give a frequency in every sufficiently large \([T,\alpha T]\) with amplitude at least \(c_\alpha(\log T)^{-\Lambda}\), where \(\Lambda=2d\log(2)(1+(2d-1)(d-1))/m\).
+This excludes every eventual upper bound with a logarithmic exponent tending to infinity in the [fair Salem setting](../audits/literature/MMS26/Yin_U001.md#mms26-u001).
+For quartic Salem inputs below two the [localized progressions](../audits/literature/Ope26c/Yin_U002.md#ope26c-u002) give a stronger subsequence estimate.
+For varying Salem inputs, seek bounds on the starting scales and constants and test whether the cost on the transition interval can be made sublogarithmic along a suitable sequence.
 At an individual period the [quartic Salem example](../ledger/Yin_L_G0462_v299.md#comparison) also separates the unrestricted maximum from the one at full conductor.
 For these inputs test the [sum of all squared amplitudes](../ledger/Yin_L_G0462_v300.md#moments) against its exact collision-entropy rate.
 A finite block with collision probability greater than \(e^{-nm}\) would prove a positive collision deficit at that input by concatenation.

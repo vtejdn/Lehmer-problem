@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v813](Yin_R_G0562_v813.md#finding) checks the real-frequency interval, the infinite fair product, the explicit logarithmic exponent and the comparison with MMS26.
+
+- [R562 v812](Yin_R_G0562_v812.md#finding) checks the polynomial amplitude bound, the complete odd conductor and the full-conductor specialization for Salem periods.
+
+- [R562 v811](Yin_R_G0562_v811.md#finding) checks the energy of full-conductor Salem characters at every large period, the exceptional-period bound and the polylogarithmic intervals.
+
+- [R562 v810](Yin_R_G0562_v810.md#finding) checks the optimized window estimates and the growth of central energy when the scaled tail tends to zero.
+
+- [R562 v809](Yin_R_G0562_v809.md#finding) checks the lower bound for terminal witness arity from the two reference rows and the degree constraint.
+
+- [R562 v808](Yin_R_G0562_v808.md#finding) checks the nested-window tail bounds, the support condition and the cost of the rounded middle.
+
 - [R562 v807](Yin_R_G0562_v807.md#finding) checks the two optimal exponents for the tails at fixed input, the lattice upper construction and the logarithmic energy cost.
 
 - [R562 v806](Yin_R_G0562_v806.md#finding) checks the bounds outside intervals on the degree divided by measure scale, including translated sections, short pivots and rounded coefficients.
