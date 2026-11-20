@@ -145,7 +145,10 @@ Use the [computable growing width](../claims/Yin_C_G0345_v500.md#width) to contr
 The [weighted cost bound](../ledger/Yin_L_G0462_v243.md#tangencies) puts each seed's multiplicative measure strictly below \(Q^3=1.091\), so [every power of either seed has degree at least 68](../claims/Yin_C_G0345_v429.md#statement).
 At this width every [row of vanishing normalized coefficient cost](../claims/Yin_C_G0345_v501.md#statement) would have both \(\log|\operatorname{Res}(U,V)|/\log H\) and \(\log|\operatorname{Res}(U,V)|/(p+q)\) tending to infinity.
 The [full-width Hadamard bound](../claims/Yin_C_G0345_v500.md#limitation) still accommodates the guaranteed divisor of every fixed subcritical seed.
-Test whether a common row can be chosen to have a smaller resultant at vanishing cost, by following the degrees and determinant of the actual coefficient pair through polynomial cancellation.
+For each common row set \(\eta=\log H/(p+q)\) and \(K=\log|\operatorname{Res}(U,V)|/\log H\).
+The [bound in terms of \(K\)](../claims/Yin_C_G0345_v502.md#statement) forces \(K>64{,}000{,}000\) once \(\eta\le10^{-3}\) and the first prime is sufficiently large.
+For a proof by contradiction, test whether cancellation in a construction from hypothetical small-measure seeds can give \(\eta\to0\) with \(\limsup\log K/(\eta^{-1/3}\log(1/\eta))<4^{-1/3}/3\) at the selected width.
+First determine how much of the lower bound is already forced in the additive quotient \(\mathbb Z[Y]/(U,V)\) after removing common integer content, since an integral change of the two generators preserves this quotient.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.

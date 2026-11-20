@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v635](Yin_R_G0562_v635.md#finding) checks the lower bound in terms of the actual resultant and coefficient norm, its inverse, and the explicit bound at normalized cost one thousandth.
+
 - [R562 v634](Yin_R_G0562_v634.md#finding) checks the explicit resultant lower bound for every row of small normalized cost and the connection with a vanishing Lehmer infimum.
 
 - [R562 v633](Yin_R_G0562_v633.md#finding) checks the computable width covering all admissible seeds and the comparison with the full Hadamard budget.
