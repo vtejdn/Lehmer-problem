@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v322](Yin_L_G0462_v322.md#square) | A real extremizer for half-degree squares | The exact excess of an integral approximation identifies where the pointwise construction incurs its cost. |
+| [Yin_L_G0462_v321](Yin_L_G0462_v321.md#example) | A single pole at the relaxed energy floor | The real Taylor tail attains the one-ended bound at every measure and fails integrality. |
 | [Yin_L_G0462_v320](Yin_L_G0462_v320.md#matching) | Moving radial pairs to cyclotomic roots | A sharp one-pair ratio and a bound retaining angular overlap constrain all matchings on shrinking hyperbolic inputs. |
 | [Yin_L_G0462_v319](Yin_L_G0462_v319.md#tails) | Prime tails and joint logarithmic tests | Large-prime excess grows linearly, while a single cyclotomic power meets all the prime and antipodal lower bounds. |
 | [Yin_L_G0462_v318](Yin_L_G0462_v318.md#residues) | Two surviving residues at a common coefficient prime | Reciprocal evaluations recover at most two pairs outside an explicit exception and force six distinct residues in the Lehmer parity example. |

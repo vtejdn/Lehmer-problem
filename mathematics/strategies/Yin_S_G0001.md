@@ -123,13 +123,15 @@ For multiple roots the same comparison uses the multiplicity times the log measu
 
 The [exterior argument test](../claims/Yin_C_G0345_v577.md#statement) identifies when periodic exponent sets already attain the sharp first-order density and min-entropy for a fixed number of equally expanding conjugates.
 For fixed hyperbolic inputs the [largest periodic Fourier amplitude](../claims/Yin_C_G0345_v579.md#hyperbolic) tends to a positive maximum \(F(P)\).
-The [energy bound for integral quotients](../claims/Yin_C_G0345_v620.md#statement) improves the previous \(O(m)\) upper bound to \(\limsup_{m\to0}m\log F(P)\le-\pi^2/(4\mathrm e)\), with an explicit finite-period bound.
+Combining the [homoclinic energy estimate for the Fourier amplitude](../claims/Yin_C_G0345_v620.md#recurrence) with [division at both ends of an integral numerator](../claims/Yin_C_G0345_v638.md#statement) gives \(\limsup_{m\to0}m\log F(P)\le-\pi^2/8\).
 For numerators of width less than \(\deg P\), the [sharp bound for a prescribed lowest coefficient](../claims/Yin_C_G0345_v621.md#evaluation) makes even the normalized Gram determinant diverge as \(m\to0\).
 Write \(\mathcal E(P)=\inf_{P\nmid A}\|A/P\|_2^2\) for the infimum over integral Laurent numerators.
 The [finite search over integral numerators](../claims/Yin_C_G0345_v622.md#finite-search) determines this minimum exactly for each fixed \(P\), after large gaps between occupied exponents are removed.
 For \(P=X^2-aX+1\), [the exact minimizers](../claims/Yin_C_G0345_v622.md#quadratic) change from the difference \(1-X\) at \(a=3\) to monomials at \(a\ge5\), with both types at \(a=4\).
 Power substitution preserves \(\mathcal E(P)\), so first remove the common substitution.
-A construction forcing \(\limsup m\mathcal E(P)<1/(2\mathrm e)\) on hypothetical shrinking hyperbolic degree records would contradict the energy bound.
+A construction forcing \(\limsup m\mathcal E(P)<1/4\) on hypothetical shrinking hyperbolic degree records would now contradict the uniform bound for all widths.
+For \(1<p<2\) the [successive occupied coefficients](../claims/Yin_C_G0345_v637.md#statement) also give stronger moment constants.
+A [single-pole rational example](../ledger/Yin_L_G0462_v321.md#example) attains the one-ended squared-energy estimate at every \(m\) and fails tail integrality, explaining the gain from using the two integer expansions.
 For an auxiliary integer polynomial \(Q\), [subtracting \(P\) times a rounded polynomial](../claims/Yin_C_G0345_v623.md#tails) costs at most \(\deg(Q)/4\) in the middle of the coefficient sequence and preserves exact geometric sums over the poles on both tails.
 If \(T=\sqrt m\sum_{P(\rho)=0}(|P'(\rho)|\sqrt{|1-|\rho|^2|})^{-1}\), interpolation already forces [\(T\gg d^{1/4}\)](../claims/Yin_C_G0345_v627.md#statement), and [several interpolation radii](../claims/Yin_C_G0345_v625.md#statement) improve the exponent to \(1/2-o(1)\) for \(m\le1\).
 Even irreducible reciprocal power substitutions attain the exponent at fixed positive measure.
@@ -139,16 +141,26 @@ For a cyclotomic product matching the radial pairs, the [one-pair formula and lo
 Reducing the middle coefficients modulo integers gives a [determinant test](../claims/Yin_C_G0345_v629.md#statement) on the two remaining tails, in every dimension up to the degree.
 For reciprocal inputs the [full-degree formula and monotonicity](../claims/Yin_C_G0345_v630.md#statement) put every normalized tail determinant at least at scale \(1/(4m^2)\) as \(m\to0\).
 Both determinant upper estimates thus exceed the desired scale even when the integer lattice could have a much shorter individual vector.
-For the classes of the central monomial or of a matched square, [round every Laurent coefficient](../ledger/Yin_L_G0462_v320.md#rounding) of the quotient and bound the sum of its squared distances to integers.
-In particular a square whose base polynomial has width less than half the input degree also costs at least \(1/(4\sinh^2m)\).
-A full matching uses a base of exactly half the degree, the first width outside this obstruction.
-For a square of arbitrary width, the [moment and coefficient tests](../claims/Yin_C_G0345_v631.md#squares) give a different restriction.
-If the mean of \(|B|^2/|P|\) stays bounded as \(m\to0\), the first order \(1/m\) nonzero Taylor coefficients of the monomial normalization of \(B(X)B(X^{-1})/P(X)\), with a constant depending on the mean bound, occupy only boundedly many dyadic intervals of positive exponents.
-Test whether the arithmetic of a proposed wide numerator forces more occupied scales or admits the concentration required at this endpoint.
+For the central monomial or a matched square, [round every Laurent coefficient](../ledger/Yin_L_G0462_v320.md#rounding) and test the squared distances to integers against the \(1/(4m)\) scale.
+At each fixed input, classes escaping all finite lists up to translation have a [sharp threshold of twice the least energy](../claims/Yin_C_G0345_v633.md#statement).
+Moreover scalar multiples of any one nonzero class have [energy growing at least as \(\log\log |k|\)](../claims/Yin_C_G0345_v636.md#statement) at every hyperbolic reciprocal strict degree record above degree four.
+The multiplier and the input have separate limits, so compare different residue classes or establish an input-dependent multiplier range before using scalar multiples across records.
+For any integral \(A\) indivisible by \(P\), [restoring the initial coefficients and applying Littlewood's inequality](../claims/Yin_C_G0345_v632.md#statement) gives \(\liminf\|A/P\|_1/\log(1/m)\ge1/26\).
+It suffices on a proposed shrinking family to construct numerators with a strictly smaller limiting coefficient, including square numerators of any width.
+For the stronger pointwise certificate \(|B|^2\le|P|\), [two nonnegative integral summands](../claims/Yin_C_G0345_v635.md#statement) force \(M(P)\ge(3+\sqrt5)/2\), sharply, and \(M(P)\ge4\) if the base width exceeds half the degree.
+There is a [real monic half-degree numerator](../ledger/Yin_L_G0462_v322.md#square) satisfying the pointwise inequality at every input.
+Its exact excess formula measures the error of approximating its coefficients by integers.
+For a sequence approaching \(1/4\), the [balanced short remainder and all fixed angular moments](../claims/Yin_C_G0345_v639.md#statement) force the probability that weights roots by \(|\log|\rho||\) to approach, along each convergent subsequence, Haar measure on the circle or the uniform measure on the solutions of \(z^N=\pm1\) for fixed \(N\) and a fixed sign.
+In both cases the normalized integral Taylor coefficients eventually agree to every fixed order with an explicit rational function.
+At each such input the [normalized short remainder is unique](../claims/Yin_C_G0345_v640.md#statement) below the stated energy threshold and every irreducible factor of it is reciprocal up to sign.
+Test the two Taylor prefixes together with the difference \(g\) between the denominator and remainder degrees.
+A Haar limit forces \(g\to\infty\), while a limit supported on a coset of size \(N\) requires \(N\) to divide each persistently occurring fixed \(g\).
 An independent lower bound for \(F(P)\) on strict degree records would also test the exponential upper bound.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
-Determine how soon such a period occurs and how the endpoint estimates depend on the input before using this bound across Salem numbers of increasing degree.
+The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
+For \(m\le1\) a larger polynomial window preserves the full saving with an uncalibrated absolute constant in its exponent.
+To compare Salem numbers of increasing degree, seek a usable growth rate in degree for the period threshold and the amplitude constant.
 At an individual period the [quartic Salem example](../ledger/Yin_L_G0462_v299.md#comparison) also separates the unrestricted maximum from the one at full conductor.
 For these inputs test the [sum of all squared amplitudes](../ledger/Yin_L_G0462_v300.md#moments) against its exact collision-entropy rate.
 A finite block with collision probability greater than \(e^{-nm}\) would prove a positive collision deficit at that input by concatenation.
