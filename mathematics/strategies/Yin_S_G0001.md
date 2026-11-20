@@ -62,6 +62,10 @@ A factor with \(O(a)\) exterior conjugates in this range would have [slope of or
 At the critical slope the [measure of an individual factor divided by its degree share](../claims/Yin_C_G0345_v510.md#statement) tends to the circle mean of \(\log^+|1+e^{it}|\).
 The [torsion separation in this regime](../claims/Yin_C_G0345_v517.md#statement) preserves the field of a candidate root under every nonzero power and excludes repeats in nearby sections with the same residue of \(b\) modulo \(a\).
 The [rational-power separation](../claims/Yin_C_G0345_v527.md#statement) excludes multiplicative dependence modulo torsion between roots belonging to two distinct critical sections, with no bound on the two power exponents.
+Across [arbitrary critical sections](../claims/Yin_C_G0345_v538.md#statement), a product relation with unbounded exponents must use a whole Galois block in a participating factor of largest block size.
+A [bounded-term multiple with exponents near fixed rational multiples of \(b\)](../claims/Yin_C_G0345_v536.md#statement) that vanishes on a critical factor is divisible by the entire parent.
+To distinguish an individual factor, test multiples whose support grows or whose exponents escape these bands.
+The [first long-power phase mean](../claims/Yin_C_G0345_v540.md#statement) tends to \(2/3-\sqrt3/(2\pi)\) on every candidate, providing a separate necessary test for a proposed factor sequence.
 Search for a rational factor of degree \(\asymp as^2\) with \(O(a)\) exterior roots, testing the required occupancy at the seed zeros and \(\log a\gg s^{1/3}\log s\).
 For a construction with \(o(a)\) exterior conjugates, investigate fixed \(s\) at growing slope or growing \(s\) beyond the cubic range.
 For the entire quartic family a positive lower bound on factor measures is equivalent to the existence on each sufficiently large primitive slope of a good prime at which all trace factors have degree at least \(cb\), for the same \(c>0\).
@@ -186,7 +190,10 @@ After a [computably chosen common dilation](../claims/Yin_C_G0345_v530.md#statem
 The [weighted residue bound](../claims/Yin_C_G0345_v531.md#statement) gives sharp undilated cost when different exterior conjugation orbits are radially separated across the chosen exponents, including a full schedule for a single nonreal exterior pair.
 On [ordinary short intervals](../claims/Yin_C_G0345_v535.md#statement), only finitely many compressed seeds with \(M(P)\le2\) have a modulus shared by different exterior conjugation orbits.
 Failure of the raw cost to converge to the unrestricted infimum would require a positive isolated minimum attained exclusively by exceptional compressed reciprocal seeds.
-For broad undilated intervals, determine whether several exterior orbits whose powered moduli interleave still force their full combined contribution.
+On [prescribed square and higher-power exponents](../claims/Yin_C_G0345_v537.md#statement), the ordinary minimum tends to the unrestricted infimum even with interleaved exterior moduli, for every positive-density choice of bases in a fixed relative interval.
+The proof uses the growing spacing of successive powers to discard a vanishing proportion of slots in the lower estimate and restores every slot for the final construction.
+For consecutive exponents in a broad interval, determine whether interleaved exterior orbits still force their full combined contribution.
+The [shrinking-disk bound for each Galois block](../claims/Yin_C_G0345_v539.md#statement) gives an independent exclusion test on the seed if an arithmetic restriction forces a disk to be empty in one block.
 For a lower bound on the unrestricted infimum, test arithmetic restrictions on these seeds themselves alongside the coefficient estimates.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
