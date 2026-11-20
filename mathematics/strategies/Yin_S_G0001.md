@@ -67,7 +67,15 @@ A [bounded-term multiple with exponents near fixed rational multiples of \(b\)](
 To distinguish an individual factor, test multiples whose support grows or whose exponents escape these bands.
 A [short interval containing \(p\) unit-modulus coefficients](../claims/Yin_C_G0345_v541.md#statement) in a bounded-term multiple must leave at least \(\lceil\sqrt p\rceil\) terms outside it, even at arbitrarily distant exponents, provided the interval length is \(o(b)\).
 The [first long-power phase mean](../claims/Yin_C_G0345_v540.md#statement) tends to \(2/3-\sqrt3/(2\pi)\) on every candidate, providing a separate necessary test for a proposed factor sequence.
-Search for a rational factor of degree \(\asymp as^2\) with \(O(a)\) exterior roots, testing the required occupancy at the seed zeros and \(\log a\gg s^{1/3}\log s\).
+For \(s\to\infty\) and \(r/(s^2\log(2s))\to\infty\), search for a nontorsion irreducible rational factor of degree \(d=o(b)\).
+The [uniform measure formula for every factor](../claims/Yin_C_G0345_v548.md#statement) makes this degree condition equivalent to vanishing logarithmic measure throughout that range.
+All [twelve sections factored over the integers](../ledger/Yin_L_G0462_v282.md#sections) on the two offsets \(b=as^3\pm1\) have a single noncyclotomic factor.
+Seek a proof of a uniform lower bound on \(d/b\) or a sequence on which the ratio tends to zero.
+On the positive offset, [simultaneous exclusions at every chosen small prime](../claims/Yin_C_G0345_v545.md#statement) can still leave factors of growing degree undecided.
+If a proposed factor also has \(k\le Ka\) exterior roots at \(s\le r\le Cs^3\), check its [distribution across the poles](../claims/Yin_C_G0345_v543.md#statement) and the [explicit lower bound on \(k/a\)](../claims/Yin_C_G0345_v547.md#statement).
+For an irreducibility proof, the [fixed three-variable polynomial](../claims/Yin_C_G0345_v544.md#statement) has irreducible pullbacks under every torus isogeny.
+Schinzel's rational specialization conjecture for that polynomial would give a [uniform factor gap at all primitive exponents](../claims/Yin_C_G0345_v550.md#statement) for sufficiently large \(s\); bounded-length relations among \(a,as,b\) already give an unconditional gap.
+For integral constraints on a proposed factor, the [quotient by the power suborder](../claims/Yin_C_G0345_v549.md#statement) specifies exactly which elementary divisors can survive in its order.
 For a construction with \(o(a)\) exterior conjugates, investigate fixed \(s\) at growing slope or growing \(s\) beyond the cubic range.
 For the entire quartic family a positive lower bound on factor measures is equivalent to the existence on each sufficiently large primitive slope of a good prime at which all trace factors have degree at least \(cb\), for the same \(c>0\).
 When \(4\mid b\), a Salem factor of trace degree \(n\) also forces [ordinary class group 2-rank at least \(n-1\)](../ledger/Yin_L_G0462_v218.md#applications) in every totally imaginary quadratic extension of its normal trace field.
@@ -195,6 +203,7 @@ On [prescribed square and higher-power exponents](../claims/Yin_C_G0345_v537.md#
 The proof uses the growing spacing of successive powers to discard a vanishing proportion of slots in the lower estimate and restores every slot for the final construction.
 For consecutive exponents in a broad interval, determine whether interleaved exterior orbits still force their full combined contribution.
 The [shrinking-disk bound for each Galois block](../claims/Yin_C_G0345_v539.md#statement) gives an independent exclusion test on the seed if an arithmetic restriction forces a disk to be empty in one block.
+For constructions using several distinct conjugate traces, the [lower bound for integral polynomial images](../claims/Yin_C_G0345_v546.md#statement) rules out bounded measure in the stated growing-degree range, even with varying coefficients.
 For a lower bound on the unrestricted infimum, test arithmetic restrictions on these seeds themselves alongside the coefficient estimates.
 The [directional width bound](../claims/Yin_C_G0345_v542.md#statement) extends the quadratic coefficient estimate to multivariate polynomials after measuring the width contributed by nontorsion factors.
 It rules out small measure at bounded coefficient norm ratio whenever some direction gives those factors a positive fixed share of the width.

@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v282](Yin_L_G0462_v282.md#sections) | Exact factorizations at two cubic offsets | Twelve complete integer factorizations identify the cyclotomic indices and degrees of the sole noncyclotomic factors. |
 | [Yin_L_G0462_v281](Yin_L_G0462_v281.md#orders) | Radical orders on the quadratic example | The least sufficient modulus is two, and the odd and even orders give different factor degrees, reciprocity and measures. |
 | [Yin_L_G0462_v280](Yin_L_G0462_v280.md#example) | Testing the two signs together | A gcd calculation modulo five rules out every possible common genuine target for the two specified degree-131262 representatives. |
 | [Yin_L_G0462_v279](Yin_L_G0462_v279.md#volume) | Precision for detecting short rows by congruences | The minimum precision needed to rule out all small representatives, a norm certificate for exactness, the distinction for primitive representatives, and two explicit levels at prime-power exponents. |
