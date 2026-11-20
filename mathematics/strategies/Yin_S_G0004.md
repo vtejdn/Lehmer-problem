@@ -100,6 +100,7 @@ Across varying first exponents the [joint count for all primitive directions](..
 For growing seed degree \(s\) and \(s\le b/a=O(s^3)\), the [uniform count without an occupancy assumption](../claims/Yin_C_G0345_v506.md#statement) excludes every factor with \(o(a)\) exterior roots.
 If a factor has \(O(a)\) exterior roots in this range, its [degree and distribution across the seed zeros](../claims/Yin_C_G0345_v507.md#statement) force \(b/a\asymp s^3\), degree \(\asymp as^2\), and a positive proportion of the seed zeros each receiving \(\asymp a/s\) of these roots.
 The [circle distribution and integer norm](../claims/Yin_C_G0345_v510.md#statement) give the limiting value of \(b\log M(P)/\deg P\) for each such factor.
+All nonzero powers of a [critical root](../claims/Yin_C_G0345_v517.md#statement) generate its full field, and no distinct torsion translate occurs in the stated nearby sections.
 Use degree patterns of the section modulo primes to test whether one rational factor can have degree \(\asymp as^2\) and the specified allocations across the \(a\)-th-root branches.
 For a construction with \(o(a)\) exterior roots, investigate fixed seeds or slopes growing faster than \(s^3\).
 For other fixed seed degrees, a remaining imprimitive trace action requires \(s\equiv2\bmod3\), even \(a\) and \(b/a\ll_s(\log(3(a+b)))^{424}\).

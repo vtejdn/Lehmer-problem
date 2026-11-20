@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v654](Yin_R_G0562_v654.md#finding) checks the fixed-seed dyadic obstruction for the reduced resultant of the constructed rows.
+
+- [R562 v653](Yin_R_G0562_v653.md#finding) checks the multiplicity supplied by every representation of one sum and the resulting congruences and global additive quotient.
+
+- [R562 v652](Yin_R_G0562_v652.md#finding) checks the integral jets at reciprocal labels, the exact binomial Smith exponents and their simultaneous contribution to the normalized Laurent quotient.
+
+- [R562 v651](Yin_R_G0562_v651.md#finding) checks the explicit interpolated rows, their coefficient cost and the prime support of their least Bézout integer, and records the fixed-seed correction.
+
+- [R562 v650](Yin_R_G0562_v650.md#finding) checks torsion translates in critical sections, the uniform relative degree and separation in nearby sections.
+
+- [R562 v649](Yin_R_G0562_v649.md#finding) checks the dyadic zero count for sparse rows and its application to the full prime interval.
+
 - [R562 v648](Yin_R_G0562_v648.md#finding) checks the localized two-prime representations, split characteristics with large orders and the many distinct common roots in each prime field.
 
 - [R562 v647](Yin_R_G0562_v647.md#finding) checks the two incidence bounds for finite-field roots of bounded order at comparable exponent primes.
