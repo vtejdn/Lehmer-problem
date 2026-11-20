@@ -52,6 +52,10 @@ At an individual period the [quartic Salem example](../ledger/Yin_L_G0462_v299.m
 For these inputs test the [sum of all squared amplitudes](../ledger/Yin_L_G0462_v300.md#moments) against its exact collision-entropy rate.
 A finite block with collision probability greater than \(e^{-nm}\) would prove a positive collision deficit at that input by concatenation.
 The [one-exterior estimates](../ledger/Yin_L_G0462_v300.md#exterior) already bound that deficit by \(m^2/(2\log 2)\) for every Salem number below two.
+For both quartic Salem inputs below two, the [localized packet argument](../claims/Yin_C_G0345_v581.md#packets) gives a strict collision deficit for every finite convolution, and the [resulting correlation dimensions](../ledger/Yin_L_G0462_v302.md#dimensions) increase strictly to one.
+In higher degree the same argument requires a packet sequence whose action grows more slowly than the logarithm of the reciprocal neutral amplitude.
+The [repeated-walk min-entropy bound](../claims/Yin_C_G0345_v582.md#scalar) forces the relative collision deficit below \(O(k^{-1/4}/\log k)\) uniformly over all Salem inputs below two as the number \(k\) of walks increases.
+In the [Salem family approaching two](../ledger/Yin_L_G0462_v301.md#deficit), the two defining excursions supply only two thirds of the weight needed asymptotically to certify a strict deficit by first returns.
 
 | Role | Current focus | Useful next distinction |
 | --- | --- | --- |

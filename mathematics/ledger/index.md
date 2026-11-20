@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v302](Yin_L_G0462_v302.md#dimensions) | Collision dimensions of quartic Salem convolutions | The dimensions increase strictly to one, and every finite convolution has no density in any \(L^p\) with \(p>1\). |
+| [Yin_L_G0462_v301](Yin_L_G0462_v301.md#deficit) | Two first returns at Salem numbers approaching two | The defining polynomial and its negative cover two thirds of the missing critical weight asymptotically. |
 | [Yin_L_G0462_v300](Yin_L_G0462_v300.md#moments) | Collision entropy above a conductor cutoff | The sum of the Fourier moments has an exact exponential rate even after removing small conductors below the deficit threshold. |
 | [Yin_L_G0462_v299](Yin_L_G0462_v299.md#comparison) | Fourier maxima at period fourteen | Every maximizer for a quartic Salem input comes from period seven, while every maximizer for the golden ratio has full conductor. |
 | [Yin_L_G0462_v298](Yin_L_G0462_v298.md#orbit) | Binary Fourier amplitudes over residue fields | Doubling identities and subgroup-size bounds constrain amplitudes, and a residue-field example distinguishes the two orders. |
