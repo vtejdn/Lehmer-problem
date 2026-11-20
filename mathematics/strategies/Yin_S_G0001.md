@@ -57,9 +57,10 @@ Two [independently chosen primes](../claims/Yin_C_G0345_v402.md#pair) can certif
 For the unit-coefficient sections with \((s,a)=(3,1),(4,1),(4,2),(5,1),(7,1)\), the [complete factor classification](../ledger/Yin_L_G0462_v230.md#rows) rules out splitting the noncyclotomic part at every primitive second exponent.
 Focus the search for a factor carrying a vanishing share of the exterior roots on growing first exponents, where this classification leaves the allocation open.
 Across all primitive directions in a dyadic slope interval, factors [missing any exterior pole](../ledger/Yin_L_G0462_v238.md#global) account for only logarithmically many exterior roots.
-For growing seed degree \(s\) and slope \(r=b/a\), the [uniform exterior count](../ledger/Yin_L_G0462_v250.md#count) restricts a factor receiving \(o(a)\) exterior roots.
-When \(s\le r=O(s^3)\), this allocation requires [unbounded relative concentration](../ledger/Yin_L_G0462_v250.md#balanced) at some pole in the localization range.
-For a balanced construction, investigate fixed \(s\) at growing slope or test the supercubic range with growing \(s\).
+For the six-term family with growing seed degree \(s\), the [exterior root bound](../claims/Yin_C_G0345_v506.md#statement) rules out \(o(a)\) exterior conjugates for every irreducible nontorsion factor when \(s\le r=b/a=O(s^3)\).
+A factor with \(O(a)\) exterior conjugates in this range would have [slope of order \(s^3\), degree of order \(as^2\) and log measure of order \(1/s\)](../claims/Yin_C_G0345_v507.md#statement).
+Test whether rational factorization can realize the required allocation of order \(a/s\) exterior conjugates to each of order \(s\) seed zeros, with \(\log a\gg s^{1/3}\log s\).
+For a construction with \(o(a)\) exterior conjugates, investigate fixed \(s\) at growing slope or growing \(s\) beyond the cubic range.
 For the entire quartic family a positive lower bound on factor measures is equivalent to the existence on each sufficiently large primitive slope of a good prime at which all trace factors have degree at least \(cb\), for the same \(c>0\).
 When \(4\mid b\), a Salem factor of trace degree \(n\) also forces [ordinary class group 2-rank at least \(n-1\)](../ledger/Yin_L_G0462_v218.md#applications) in every totally imaginary quadratic extension of its normal trace field.
 The [marked factor with mixed traces](../ledger/Yin_L_G0462_v219.md#quartic) already produces the same class group lower bound on these sections.
@@ -147,8 +148,13 @@ At this width every [row of vanishing normalized coefficient cost](../claims/Yin
 The [full-width Hadamard bound](../claims/Yin_C_G0345_v500.md#limitation) still accommodates the guaranteed divisor of every fixed subcritical seed.
 For each common row set \(\eta=\log H/(p+q)\) and \(K=\log|\operatorname{Res}(U,V)|/\log H\).
 The [bound in terms of \(K\)](../claims/Yin_C_G0345_v502.md#statement) forces \(K>64{,}000{,}000\) once \(\eta\le10^{-3}\) and the first prime is sufficiently large.
-For a proof by contradiction, test whether cancellation in a construction from hypothetical small-measure seeds can give \(\eta\to0\) with \(\limsup\log K/(\eta^{-1/3}\log(1/\eta))<4^{-1/3}/3\) at the selected width.
-First determine how much of the lower bound is already forced in the additive quotient \(\mathbb Z[Y]/(U,V)\) after removing common integer content, since an integral change of the two generators preserves this quotient.
+The [normalized Laurent quotient](../claims/Yin_C_G0345_v503.md#statement) retains the contact divisor under integral changes of its generators and under monomial shifts.
+At a recalibrated width, a [bound on the least positive integer \(B\) in the row ideal](../claims/Yin_C_G0345_v505.md#statement) forces both \(\log B/\log H\) and \(\log B/(p+q)\) to diverge along a vanishing-cost sequence.
+For a [computable set of prime pairs of relative density tending to one](../claims/Yin_C_G0345_v508.md#statement) in the separated prime intervals, the same divergence survives removal of both exponent primes and all primes up to any prescribed computable cutoff \(X(L)\to\infty\) with \(X(L)=L^{o(1)}\).
+Every pair of qualifying seeds then has a surviving characteristic at which their powered minima and both rows share a nonzero root.
+For the same seed at both primes, the [sum-period quotient](../claims/Yin_C_G0345_v504.md#statement) retains the full resultant against \(X^{p+q}-1\), with the multiplicity of the contact and at every rational prime.
+Test whether the common residue roots forced for short rows can be confined to bounded multiplicative orders, comparing the same-seed sum-period calculation with the case of different seeds.
+In seeking an upper bound on an integer Bézout identity, use the original coefficient cost and the actual exponents in the rows.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.

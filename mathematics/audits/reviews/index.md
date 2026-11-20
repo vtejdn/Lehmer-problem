@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v641](Yin_R_G0562_v641.md#finding) checks the density-one estimate after removal of all small primes and both exponent primes, and the common nonzero residue for each choice of seeds.
+
+- [R562 v640](Yin_R_G0562_v640.md#finding) checks the critical cubic slope, factor degree, growth of the first exponent and joint distribution of exterior roots across seed zeros.
+
+- [R562 v639](Yin_R_G0562_v639.md#finding) checks the uniform lower bounds on measure and exterior root count for factors of six-term sections with growing seed degree.
+
+- [R562 v638](Yin_R_G0562_v638.md#finding) checks the local divisor of the least integer in the row ideal and its growth at a computable width.
+
+- [R562 v637](Yin_R_G0562_v637.md#finding) checks the full integral inclusions at the sum and difference periods, including their finite quotient orders.
+
+- [R562 v636](Yin_R_G0562_v636.md#finding) checks the local losses in passing from the ordinary resultant to the normalized Laurent quotient and the divisors surviving there.
+
 - [R562 v635](Yin_R_G0562_v635.md#finding) checks the lower bound in terms of the actual resultant and coefficient norm, its inverse, and the explicit bound at normalized cost one thousandth.
 
 - [R562 v634](Yin_R_G0562_v634.md#finding) checks the explicit resultant lower bound for every row of small normalized cost and the connection with a vanishing Lehmer infimum.
