@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v814](Yin_R_G0562_v814.md#finding) checks the collision-entropy criterion for logarithmic packet action and the packets produced by the real trace frequencies.
+
 - [R562 v813](Yin_R_G0562_v813.md#finding) checks the real-frequency interval, the infinite fair product, the explicit logarithmic exponent and the comparison with MMS26.
 
 - [R562 v812](Yin_R_G0562_v812.md#finding) checks the polynomial amplitude bound, the complete odd conductor and the full-conductor specialization for Salem periods.
