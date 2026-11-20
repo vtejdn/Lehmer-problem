@@ -289,6 +289,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Sel56](Sel56/readme.md) | [Irreducibility of \(x^n-x-1\) in every degree \(n\ge2\)](Sel56/Yin_U001.md#sel56-u001) |
 | [Sha23](Sha23/readme.md) | [Yin_U001](Sha23/Yin_U001.md#sha23-u001): disk Rouche theorem with multiplicity |
 | [Sha74](Sha74/readme.md) | [Yin_U001](Sha74/Yin_U001.md) |
+| [Sil12](Sil12/readme.md) | [Fejér weights and a height bound from a congruence at one period](Sil12/Yin_U001.md#sil12-u001) |
 | [Sim08](Sim08/readme.md) | [Yin_U001](Sim08/Yin_U001.md) |
 | [Sin07](Sin07/readme.md) | [Yin_U001](Sin07/Yin_U001.md) |
 | [Smi11](Smi11/readme.md) | [Yin_U001](Smi11/Yin_U001.md) |
@@ -348,3 +349,4 @@ The source notes and units own their editions, inspected passages and actual ins
 | [FS08](FS08/readme.md) | [Minimal digit weight and the zero-expansion automaton at Pisot bases](FS08/Yin_U001.md#fs08-u001) |
 | [PS91](PS91/readme.md) | [Local exponential polynomial zero count and residue-class partition](PS91/Yin_U001.md#ps91-u001) |
 | [DS01](DS01/readme.md) | [Powers in the classification of algebraic units on two circles](DS01/Yin_U001.md#ds01-u001) |
+| [HB26](HB26/readme.md) | [Mahler measure bounds from one or two binomials modulo two](HB26/Yin_U001.md#hb26-u001) |

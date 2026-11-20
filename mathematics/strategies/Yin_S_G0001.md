@@ -51,7 +51,15 @@ For the ordered eight-term tuple in the [exact Lehmer calculation](../computatio
 Only 36 of those have their residual sum divisible by two in \(\mathbb Z[\alpha]\), and exactly two meet the prescribed order and pass the ordinary terminality test.
 Seek a bound on the number of surviving shapes for which some dilation admits both the required residual divisibility and the exact trace in the witness window.
 At a common prime divisor of the erased coefficients, [two reciprocal evaluations](../ledger/Yin_L_G0462_v318.md#residues) determine two more surviving exponent residues up to two choices outside one explicit exception.
-Test for such primes with root order exceeding twice the witness span, where distinct exponents exclude the exception.
+After [deleting the largest two coefficients of a Salem relation](../claims/Yin_C_G0345_v642.md#statement), the surviving span is eventually at least half the degree.
+When it lies well below the degree, all possible deleted gaps and coefficient ratios are powers of a single pair, leaving at most one gap for a fixed tuple.
+For a common divisor of the erased coefficients, compare its size with the [Vandermonde bounds for completions and for gaps](../claims/Yin_C_G0345_v645.md#statement).
+Alternatively combine the orders of several residue roots, including roots at different eligible primes.
+A [joint order greater than twice the squared witness span](../claims/Yin_C_G0345_v647.md#statement) determines the remaining two exponents uniquely once the fixed surviving positions are given.
+Just exceeding the span can leave two possible orientations even when the two coefficients have distinct squares modulo the prime.
+To decide whether actual witnesses supply these tests, [sum the degrees of the modular gcds](../claims/Yin_C_G0345_v646.md#orders) and compare the resulting joint order with the actual span.
+For the unrestricted input a bounded number of periods of total length \(O(d)\) covering a fixed positive normalized rank weight would itself give a positive Mahler gap.
+Seek such coverage on the same polynomial as the witness, or identify reductions for which every short list misses most of the degree.
 When the largest coefficient nearly equals the sum of the others, use [separation across the neutral embeddings](../claims/Yin_C_G0345_v604.md#separation) to restrict their relative exponents.
 Away from that case, the [stronger weighted lower bound](../claims/Yin_C_G0345_v604.md#statement) allows an upper estimate to spend a factor exponential in the polygon deficit.
 
@@ -123,13 +131,13 @@ For multiple roots the same comparison uses the multiplicity times the log measu
 
 The [exterior argument test](../claims/Yin_C_G0345_v577.md#statement) identifies when periodic exponent sets already attain the sharp first-order density and min-entropy for a fixed number of equally expanding conjugates.
 For fixed hyperbolic inputs the [largest periodic Fourier amplitude](../claims/Yin_C_G0345_v579.md#hyperbolic) tends to a positive maximum \(F(P)\).
-Combining the [homoclinic energy estimate for the Fourier amplitude](../claims/Yin_C_G0345_v620.md#recurrence) with [division at both ends of an integral numerator](../claims/Yin_C_G0345_v638.md#statement) gives \(\limsup_{m\to0}m\log F(P)\le-\pi^2/8\).
+For \(K=5/2+\log 2-2\sqrt2\), the [uniform bound on integral numerator energy](../claims/Yin_C_G0345_v643.md#statement) and the [homoclinic estimate for the Fourier amplitude](../claims/Yin_C_G0345_v620.md#recurrence) give \(\limsup_{m\to0}m\log F(P)\le-\pi^2K/2\).
 For numerators of width less than \(\deg P\), the [sharp bound for a prescribed lowest coefficient](../claims/Yin_C_G0345_v621.md#evaluation) makes even the normalized Gram determinant diverge as \(m\to0\).
 Write \(\mathcal E(P)=\inf_{P\nmid A}\|A/P\|_2^2\) for the infimum over integral Laurent numerators.
 The [finite search over integral numerators](../claims/Yin_C_G0345_v622.md#finite-search) determines this minimum exactly for each fixed \(P\), after large gaps between occupied exponents are removed.
 For \(P=X^2-aX+1\), [the exact minimizers](../claims/Yin_C_G0345_v622.md#quadratic) change from the difference \(1-X\) at \(a=3\) to monomials at \(a\ge5\), with both types at \(a=4\).
 Power substitution preserves \(\mathcal E(P)\), so first remove the common substitution.
-A construction forcing \(\limsup m\mathcal E(P)<1/4\) on hypothetical shrinking hyperbolic degree records would now contradict the uniform bound for all widths.
+A construction forcing \(\limsup m\mathcal E(P)<K\) on hypothetical shrinking hyperbolic degree records would contradict the uniform bound for all widths.
 For \(1<p<2\) the [successive occupied coefficients](../claims/Yin_C_G0345_v637.md#statement) also give stronger moment constants.
 A [single-pole rational example](../ledger/Yin_L_G0462_v321.md#example) attains the one-ended squared-energy estimate at every \(m\) and fails tail integrality, explaining the gain from using the two integer expansions.
 For an auxiliary integer polynomial \(Q\), [subtracting \(P\) times a rounded polynomial](../claims/Yin_C_G0345_v623.md#tails) costs at most \(\deg(Q)/4\) in the middle of the coefficient sequence and preserves exact geometric sums over the poles on both tails.
@@ -141,7 +149,7 @@ For a cyclotomic product matching the radial pairs, the [one-pair formula and lo
 Reducing the middle coefficients modulo integers gives a [determinant test](../claims/Yin_C_G0345_v629.md#statement) on the two remaining tails, in every dimension up to the degree.
 For reciprocal inputs the [full-degree formula and monotonicity](../claims/Yin_C_G0345_v630.md#statement) put every normalized tail determinant at least at scale \(1/(4m^2)\) as \(m\to0\).
 Both determinant upper estimates thus exceed the desired scale even when the integer lattice could have a much shorter individual vector.
-For the central monomial or a matched square, [round every Laurent coefficient](../ledger/Yin_L_G0462_v320.md#rounding) and test the squared distances to integers against the \(1/(4m)\) scale.
+For the central monomial or a matched square, [round every Laurent coefficient](../ledger/Yin_L_G0462_v320.md#rounding) and compare the sum of squared distances to integers with \(K/m\).
 At each fixed input, classes escaping all finite lists up to translation have a [sharp threshold of twice the least energy](../claims/Yin_C_G0345_v633.md#statement).
 Moreover scalar multiples of any one nonzero class have [energy growing at least as \(\log\log |k|\)](../claims/Yin_C_G0345_v636.md#statement) at every hyperbolic reciprocal strict degree record above degree four.
 The multiplier and the input have separate limits, so compare different residue classes or establish an input-dependent multiplier range before using scalar multiples across records.
@@ -150,11 +158,11 @@ It suffices on a proposed shrinking family to construct numerators with a strict
 For the stronger pointwise certificate \(|B|^2\le|P|\), [two nonnegative integral summands](../claims/Yin_C_G0345_v635.md#statement) force \(M(P)\ge(3+\sqrt5)/2\), sharply, and \(M(P)\ge4\) if the base width exceeds half the degree.
 There is a [real monic half-degree numerator](../ledger/Yin_L_G0462_v322.md#square) satisfying the pointwise inequality at every input.
 Its exact excess formula measures the error of approximating its coefficients by integers.
-For a sequence approaching \(1/4\), the [balanced short remainder and all fixed angular moments](../claims/Yin_C_G0345_v639.md#statement) force the probability that weights roots by \(|\log|\rho||\) to approach, along each convergent subsequence, Haar measure on the circle or the uniform measure on the solutions of \(z^N=\pm1\) for fixed \(N\) and a fixed sign.
-In both cases the normalized integral Taylor coefficients eventually agree to every fixed order with an explicit rational function.
-At each such input the [normalized short remainder is unique](../claims/Yin_C_G0345_v640.md#statement) below the stated energy threshold and every irreducible factor of it is reciprocal up to sign.
-Test the two Taylor prefixes together with the difference \(g\) between the denominator and remainder degrees.
-A Haar limit forces \(g\to\infty\), while a limit supported on a coset of size \(N\) requires \(N\) to divide each persistently occurring fixed \(g\).
+The [packing estimate for successive integral remainders](../claims/Yin_C_G0345_v644.md#packing) gives a short-numerator lower limit of \(1/2\) after scaling the energy by \(m\).
+It rules out the earlier [conditional scenario at \(1/4\)](../claims/Yin_C_G0345_v639.md#statement) even for unrestricted widths.
+At the new unrestricted threshold \(K\), [both quotient support counts](../claims/Yin_C_G0345_v643.md#statement) must be asymptotic to \(\log(2)/(2m)\), their squared coefficient excess must be \(o(1/m)\), and the short remainder must approach its lower limit.
+Test whether the same integer remainder can approach the packing limit while producing both of these quotient expansions.
+Independently, [exact saturation of a reflected-denominator coefficient](../claims/Yin_C_G0345_v641.md#statement) requires \(M(P)\ge(1+\sqrt5)/2\), and near saturation at moving indices restricts the radial-weighted angular moments.
 An independent lower bound for \(F(P)\) on strict degree records would also test the exponential upper bound.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).

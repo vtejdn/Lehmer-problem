@@ -1,5 +1,19 @@
 # Reviews Index
 
+- [R562 v784](Yin_R_G0562_v784.md#finding) checks uniqueness from the joint residue order and the two candidate orientations on the quartic Salem example.
+
+- [R562 v783](Yin_R_G0562_v783.md#finding) checks the inequality for ranks on sample differences, period covers and the comparison with the binary two-binomial bound.
+
+- [R562 v782](Yin_R_G0562_v782.md#finding) checks the composite-divisor energy bounds and the count of possible surviving exponents from several residue roots.
+
+- [R562 v781](Yin_R_G0562_v781.md#finding) checks the packing of successive short integral remainders and the exclusion of the one-quarter energy limit.
+
+- [R562 v780](Yin_R_G0562_v780.md#finding) checks the unrestricted integral energy constant and the necessary conditions on both quotient ends and the remainder at equality.
+
+- [R562 v779](Yin_R_G0562_v779.md#finding) checks surviving exponent spans at Salem inputs and the simultaneous powers of a single gap and coefficient ratio.
+
+- [R562 v778](Yin_R_G0562_v778.md#finding) checks exact and asymptotic saturation of reflected-denominator coefficients and the limits on individual radial weights.
+
 - [R562 v777](Yin_R_G0562_v777.md#finding) checks uniqueness of a short integral numerator below the energy cutoff, the two endpoint evaluations and the limiting degree deficits.
 
 - [R562 v776](Yin_R_G0562_v776.md#finding) checks the characterization of near equality for integral numerator energy, including the balanced remainders, angular limits and Taylor coefficients.
