@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v663](Yin_R_G0562_v663.md#finding) checks the higher-order contact at each designated slot, simultaneous nonvanishing and the sharp cost at the calibrated widths for the one-exterior class.
+
 - [R562 v662](Yin_R_G0562_v662.md#finding) checks primitive measures of outputs with sparse rational multipliers and the necessary term count of Laurent Bézout certificates.
 
 - [R562 v661](Yin_R_G0562_v661.md#finding) checks the separation of critical roots across independent sections under arbitrary rational powers.

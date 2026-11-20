@@ -177,7 +177,9 @@ For every fixed seed with \(4\log M(P)<\log2\), the logarithm of the surviving p
 For these rows the [derivative denominator](../claims/Yin_C_G0345_v521.md#statement) of the powered-node polynomial determines the retained logarithmic size to within a factor of sixteen after the primes dividing the exponent product are removed.
 At each fixed seed, [direct and reciprocal powers alone](../claims/Yin_C_G0345_v526.md#statement) already contribute logarithmic size of order \(L^2\) on the full interval before deletions.
 The remaining comparison concerns the other conjugates and uniformity as the seed degree grows.
-For a fixed seed with only one exterior conjugate, [bounds on the endpoint coefficients](../claims/Yin_C_G0345_v525.md#statement) give sharp normalized coefficient cost at degree \(O_P(r^2)\) for arbitrary prescribed comparable powers with \(r\to\infty\) and \(r=o(L)\).
+For a fixed seed with one exterior conjugate, the [endpoint bounds](../claims/Yin_C_G0345_v525.md#statement) control both ends of every homogeneous solution, even when the reflected difference vanishes.
+The [higher contact at one designated exponent](../claims/Yin_C_G0345_v529.md#protect) attains the seed's logarithmic measure as the sharp normalized cost on all prescribed comparable powers already at every width with \(b/r\to\infty\), preserving every slot.
+For multiple exterior conjugates, determine whether homogeneous solutions with vanishing reflected difference can have normalized cost below the sum of their positive logarithmic radii on these same schedules.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.
