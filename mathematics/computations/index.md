@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J181, Newton traces for inverse Salem powers](programs/Yin_J_G0181/readme.md#traces) gives the first failing trace for each of the 162 remaining prime-index pairs in the family approaching two.
+
 - [J180, exact two-term projection at Lehmer's unit](programs/Yin_J_G0180/readme.md#projection) compares ring divisibility, the reciprocal trace, exact completion and terminality across 201,376 supports in a fixed signed weight-eight window.
 
 - [J177, exact minima of the full quartic width-nine lattice](programs/Yin_J_G0177/versions/v6/readme.md#minima) computes the two shortest independent directions at both signs for five exponents, including their cost compared with every nine-position support.

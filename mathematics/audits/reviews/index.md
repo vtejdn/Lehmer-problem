@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v820](Yin_R_G0562_v820.md#finding) checks conditional entropy at cuts of exact binary returns, the common finite horizon and the estimate for adaptive residue lists.
+
+- [R562 v819](Yin_R_G0562_v819.md#finding) checks the torsion factors, sparse norm bound and irreducibility under substitution for both Salem families at the integer two.
+
+- [R562 v818](Yin_R_G0562_v818.md#finding) checks the prime-power obstructions, positive density of seeds and substituted factor measures in the two signed integer-seed families.
+
+- [R562 v817](Yin_R_G0562_v817.md#finding) checks every inverse prime exponent and substitution for the Salem family below two, including an independent calculation of the finite trace cases.
+
+- [R562 v816](Yin_R_G0562_v816.md#finding) checks the count and modular images of actual returning carries and the ternary projections from a common state.
+
+- [R562 v815](Yin_R_G0562_v815.md#finding) checks the density of periodic exponent sets avoiding short signed relations and the size and Hamming distance of binary fibers.
+
 - [R562 v814](Yin_R_G0562_v814.md#finding) checks the collision-entropy criterion for logarithmic packet action and the packets produced by the real trace frequencies.
 
 - [R562 v813](Yin_R_G0562_v813.md#finding) checks the real-frequency interval, the infinite fair product, the explicit logarithmic exponent and the comparison with MMS26.

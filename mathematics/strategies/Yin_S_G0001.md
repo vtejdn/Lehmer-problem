@@ -148,6 +148,10 @@ The [full set of returning carries for the Lehmer number](../ledger/Yin_L_G0170_
 At this input the [two residue classes modulo nine](../ledger/Yin_L_G0462_v289.md#density) already exclude every witness length \(N>9t/2\) for the Lehmer polynomial itself.
 This periodic density of \(2/9\) is [optimal through period 25](../ledger/Yin_L_G0462_v291.md#period).
 For further upper bounds enumerate [minimal relations through a chosen weight](../claims/Yin_C_G0345_v576.md#densities), which give convergent finite graph bounds even for Salem units.
+On a hypothetical shrinking sequence the [density of periodic sets avoiding short relations](../claims/Yin_C_G0345_v678.md#statement) can exceed the fully dissociated density by an unbounded factor even as the cutoff grows.
+Even when all relations through weight \(a_\theta(L/\log(2+L))^{1/4}\) are excluded, a periodic set can retain density \(m^\theta\) for any fixed \(0<\theta<1\), compared with the fully dissociated upper bound \(m/\log2\).
+With a conjugate whose absolute radial logarithm is at least \(\eta m\), the periodic density still exceeds every fixed multiple of \(m\) at cutoffs \(o(L/m)\).
+For a uniform bound, the graph must detect longer relations or use information beyond these forbidden supports.
 The [plastic](../ledger/Yin_L_G0462_v293.md#results) and [golden-ratio](../ledger/Yin_L_G0462_v294.md#supports) examples give exact pattern counts at every weight for comparison.
 For multiple roots the same comparison uses the multiplicity times the log measure, while [balanced relations on prescribed exponents](../claims/Yin_C_G0345_v560.md#span) also control the number of coefficients relative to their actual span.
 
@@ -218,6 +222,12 @@ For higher moments use the [rounding variance of the same residue class](../clai
 Small variance would give representatives of smaller higher moments.
 Independently, [exact saturation of a reflected-denominator coefficient](../claims/Yin_C_G0345_v641.md#statement) requires \(M(P)\ge(1+\sqrt5)/2\), and near saturation at moving indices restricts the radial-weighted angular moments.
 An independent lower bound for \(F(P)\) on strict degree records would also test the exponential upper bound.
+A different test counts the [states actually visited on binary collision paths](../claims/Yin_C_G0345_v679.md#statement).
+For a hyperbolic unit their finite set \(S\) must satisfy \(\liminf\sqrt m\,|S|^{1/d}\ge\sqrt{\pi/(2\mathrm e)}\) on a shrinking sequence.
+An upper bound with a smaller constant on that same return set would rule out the sequence.
+Across all signatures the [conditional entropy at cuts of finite zero returns](../claims/Yin_C_G0345_v683.md#statement) measures the spread for actual collision paths, including at Salem inputs.
+At moduli with \(mq^2\to0\), lists occupying an exponentially small fraction of the residues and chosen from the preceding digits capture a fixed positive fraction of these cuts only with exponentially small conditioned probability.
+Seek a restriction on the possible next carries that holds along positive conditional mass, using both ends of the algebraic return.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
@@ -243,6 +253,11 @@ Test whether the same candidates can achieve \(|\widehat\nu(\xi)|\ge\Delta^{(1-\
 The exponent in the current every-scale bound exceeds this sufficient range even for \(k=1\).
 The [repeated-walk min-entropy bound](../claims/Yin_C_G0345_v582.md#scalar) forces the relative collision deficit below \(O(k^{-1/4}/\log k)\) uniformly over all Salem inputs below two as the number \(k\) of walks increases.
 In the [Salem family approaching two](../ledger/Yin_L_G0462_v301.md#deficit), the two defining excursions supply only two thirds of the weight needed asymptotically to certify a strict deficit by first returns.
+The [minimal polynomial in that family](../claims/Yin_C_G0345_v680.md#statement) remains irreducible under every positive power substitution.
+This also holds for [the family approaching two from above](../claims/Yin_C_G0345_v682.md#statement), so in either family taking a real \(h\)-th root creates \(h\) exterior conjugates and preserves the full Mahler measure.
+For the corresponding [constructions at integer seeds \(a\ge3\)](../claims/Yin_C_G0345_v681.md#statement), an odd prime power \(p^e\) with \(p<n\) can divide a radical index only if \(p^{e+1}\mid a(a-1)(a+1)\).
+Under the stated delay bound, both signs retain their full measure at every substitution for a set of seeds of lower density at least \(1/24\).
+For an inverse-power search at long delays with \(a\equiv2\bmod4\), require square factors at the eligible primes and compare their possible radical exponents with \(\log a\).
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 
