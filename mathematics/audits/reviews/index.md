@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v647](Yin_R_G0562_v647.md#finding) checks the two incidence bounds for finite-field roots of bounded order at comparable exponent primes.
+
+- [R562 v646](Yin_R_G0562_v646.md#finding) checks the number of distinct large characteristic witnesses in one row ideal and the surviving mass after arbitrary deletions.
+
+- [R562 v645](Yin_R_G0562_v645.md#finding) checks the uniform valuation sum over partners, removal of prescribed prime sets and bounded reuse of witnesses.
+
+- [R562 v644](Yin_R_G0562_v644.md#finding) checks the retained integer divisor and residue order at widely separated exponent primes.
+
+- [R562 v643](Yin_R_G0562_v643.md#finding) checks the factorwise measure per degree, joint Haar limit and logarithmic circle mean at the critical slope.
+
+- [R562 v642](Yin_R_G0562_v642.md#finding) checks the primitive norm, exact residue orders and characteristic restrictions for almost all partners of each first prime.
+
 - [R562 v641](Yin_R_G0562_v641.md#finding) checks the density-one estimate after removal of all small primes and both exponent primes, and the common nonzero residue for each choice of seeds.
 
 - [R562 v640](Yin_R_G0562_v640.md#finding) checks the critical cubic slope, factor degree, growth of the first exponent and joint distribution of exterior roots across seed zeros.

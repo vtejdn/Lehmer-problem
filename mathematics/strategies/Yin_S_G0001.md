@@ -59,7 +59,8 @@ Focus the search for a factor carrying a vanishing share of the exterior roots o
 Across all primitive directions in a dyadic slope interval, factors [missing any exterior pole](../ledger/Yin_L_G0462_v238.md#global) account for only logarithmically many exterior roots.
 For the six-term family with growing seed degree \(s\), the [exterior root bound](../claims/Yin_C_G0345_v506.md#statement) rules out \(o(a)\) exterior conjugates for every irreducible nontorsion factor when \(s\le r=b/a=O(s^3)\).
 A factor with \(O(a)\) exterior conjugates in this range would have [slope of order \(s^3\), degree of order \(as^2\) and log measure of order \(1/s\)](../claims/Yin_C_G0345_v507.md#statement).
-Test whether rational factorization can realize the required allocation of order \(a/s\) exterior conjugates to each of order \(s\) seed zeros, with \(\log a\gg s^{1/3}\log s\).
+At the critical slope the [measure of an individual factor divided by its degree share](../claims/Yin_C_G0345_v510.md#statement) tends to the circle mean of \(\log^+|1+e^{it}|\).
+Search for a rational factor of degree \(\asymp as^2\) with \(O(a)\) exterior roots, testing the required occupancy at the seed zeros and \(\log a\gg s^{1/3}\log s\).
 For a construction with \(o(a)\) exterior conjugates, investigate fixed \(s\) at growing slope or growing \(s\) beyond the cubic range.
 For the entire quartic family a positive lower bound on factor measures is equivalent to the existence on each sufficiently large primitive slope of a good prime at which all trace factors have degree at least \(cb\), for the same \(c>0\).
 When \(4\mid b\), a Salem factor of trace degree \(n\) also forces [ordinary class group 2-rank at least \(n-1\)](../ledger/Yin_L_G0462_v218.md#applications) in every totally imaginary quadratic extension of its normal trace field.
@@ -153,8 +154,13 @@ At a recalibrated width, a [bound on the least positive integer \(B\) in the row
 For a [computable set of prime pairs of relative density tending to one](../claims/Yin_C_G0345_v508.md#statement) in the separated prime intervals, the same divergence survives removal of both exponent primes and all primes up to any prescribed computable cutoff \(X(L)\to\infty\) with \(X(L)=L^{o(1)}\).
 Every pair of qualifying seeds then has a surviving characteristic at which their powered minima and both rows share a nonzero root.
 For the same seed at both primes, the [sum-period quotient](../claims/Yin_C_G0345_v504.md#statement) retains the full resultant against \(X^{p+q}-1\), with the multiplicity of the contact and at every rational prime.
-Test whether the common residue roots forced for short rows can be confined to bounded multiplicative orders, comparing the same-seed sum-period calculation with the case of different seeds.
-In seeking an upper bound on an integer Bézout identity, use the original coefficient cost and the actual exponents in the rows.
+For the same seed, [exact order \(p+q\)](../claims/Yin_C_G0345_v509.md#statement) occurs in characteristic at least \(L^{1-o(1)}\) for almost every second prime at each first prime.
+For two possibly different seeds, [choosing the second exponent sufficiently large after the first](../claims/Yin_C_G0345_v511.md#statement) forces arbitrarily large multiplicative order at a common residue root.
+At comparable exponents, [summing valuations over partners](../claims/Yin_C_G0345_v512.md#one) permits removal of all primes up to any sublinear cutoff and of sparse prescribed sets that depend on either exponent.
+At these comparable primes, a [common powered root of bounded order](../claims/Yin_C_G0345_v514.md#statement) can account for the surviving divisor only within a restricted characteristic range.
+Its entire mass could still lie there.
+For rows with the same seed throughout a full dyadic interval, [many distinct large characteristics remain on a single row ideal](../claims/Yin_C_G0345_v513.md#statement) even after deleting prime powers chosen from the actual Bézout integer.
+Test whether one can construct common rows from a hypothetical small seed for which the part of that integer surviving these deletions has logarithm bounded by a constant times the total exponent sum, at the calibrated width and original coefficient cost.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.
