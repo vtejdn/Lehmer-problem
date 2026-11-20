@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v802](Yin_R_G0562_v802.md#finding) checks the positive tail cost outside unions of long intervals, including the separation of progression pairs and the covering scale.
+
+- [R562 v801](Yin_R_G0562_v801.md#finding) checks the energy decomposition at powers of a unit, the count of surviving sections and the width consequence.
+
+- [R562 v800](Yin_R_G0562_v800.md#finding) checks the angular spacing of short remainder differences and the improved short and unrestricted energy bounds.
+
+- [R562 v799](Yin_R_G0562_v799.md#finding) checks the count of terminal lists in separated intervals of small total width and the estimates for moving bins.
+
+- [R562 v798](Yin_R_G0562_v798.md#finding) checks the Galois rank of a Laurent coefficient block, its exact approximation exponent and the resulting degree compression.
+
 - [R562 v797](Yin_R_G0562_v797.md#finding) checks the explicit increment in the unrestricted energy bound, including the numerical slack at the balanced cut and the final binomial comparison.
 
 - [R562 v796](Yin_R_G0562_v796.md#finding) checks uniform strict improvement of the two-ended energy constant by measuring the actual future outputs at each cutoff.
