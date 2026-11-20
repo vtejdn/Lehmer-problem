@@ -256,8 +256,16 @@ In the [Salem family approaching two](../ledger/Yin_L_G0462_v301.md#deficit), th
 The [minimal polynomial in that family](../claims/Yin_C_G0345_v680.md#statement) remains irreducible under every positive power substitution.
 This also holds for [the family approaching two from above](../claims/Yin_C_G0345_v682.md#statement), so in either family taking a real \(h\)-th root creates \(h\) exterior conjugates and preserves the full Mahler measure.
 For the corresponding [constructions at integer seeds \(a\ge3\)](../claims/Yin_C_G0345_v681.md#statement), an odd prime power \(p^e\) with \(p<n\) can divide a radical index only if \(p^{e+1}\mid a(a-1)(a+1)\).
-Under the stated delay bound, both signs retain their full measure at every substitution for a set of seeds of lower density at least \(1/24\).
-For an inverse-power search at long delays with \(a\equiv2\bmod4\), require square factors at the eligible primes and compare their possible radical exponents with \(\log a\).
+For every fixed seed the [sparse norm bound](../claims/Yin_C_G0345_v684.md#statement) gives a positive lower bound for all noncyclotomic factor measures simultaneously in the sign, the delay \(n\ge7\) and the substitution exponent.
+Write \(H(a)=\operatorname{lcm}_{j=-1,0,1}((a+j)/\operatorname{rad}(a+j))\).
+Beyond an exceptional set of at most [\(X^{1/2+o(1)}\) seeds through \(X\)](../claims/Yin_C_G0345_v686.md#statement), every such factor has logarithmic measure at least \(\log(a-1)/H(a)\), across all delays.
+The squarefree triples outside this exception set have density \(\prod_p(1-3/p^2)>0\) and retain the full measure at every substitution.
+The bound at the remaining delays uses [a count of Salem numbers uniform in degree and exterior size](../claims/Yin_C_G0345_v685.md#statement).
+The [fixed-degree asymptotic of Götze and Gusakova](../audits/literature/GG20/Yin_U001.md#gg20-u001) gives the leading constant as the exterior bound grows, with a degree-dependent error.
+A shrinking sequence from this construction must therefore use varying seeds.
+Along any such subsequence outside the exceptional set, \(H(a)/\log a\to\infty\).
+Each exceptional seed admits a field radical at some prime \(p>n\).
+Test these large-prime radicals and the square factors of three consecutive integers before expanding the search over delays.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 

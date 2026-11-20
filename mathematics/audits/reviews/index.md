@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v823](Yin_R_G0562_v823.md#finding) checks the diagonal prime obstruction, the square-root bound for exceptional seeds and its consequences at every delay.
+
+- [R562 v822](Yin_R_G0562_v822.md#finding) checks the count of Salem numbers uniform in degree, including the integer encoding and the bound in short intervals of half-degree powers.
+
+- [R562 v821](Yin_R_G0562_v821.md#finding) checks the all-delay fixed-seed gap, the stronger bound at long delays, and the limiting distribution over integer seeds.
+
 - [R562 v820](Yin_R_G0562_v820.md#finding) checks conditional entropy at cuts of exact binary returns, the common finite horizon and the estimate for adaptive residue lists.
 
 - [R562 v819](Yin_R_G0562_v819.md#finding) checks the torsion factors, sparse norm bound and irreducibility under substitution for both Salem families at the integer two.

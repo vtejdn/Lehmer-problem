@@ -132,6 +132,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Fil22](Fil22/readme.md) | Source and edition notes |
 | [Fio19](Fio19/readme.md) | [Yin_U001](Fio19/Yin_U001.md) |
 | [GBV15](GBV15/readme.md) | [Yin_U001](GBV15/Yin_U001.md) |
+| [GG20](GG20/readme.md) | [Yin_U001](GG20/Yin_U001.md#gg20-u001) — Counting Salem numbers of fixed degree as the size bound grows. |
 | [GGOW20](GGOW20/readme.md) | [Yin_U001](GGOW20/Yin_U001.md), [Yin_U002](GGOW20/Yin_U002.md), [Yin_U003](GGOW20/Yin_U003.md), [Yin_U004](GGOW20/Yin_U004.md), [Yin_U005](GGOW20/Yin_U005.md) |
 | [GH01](GH01/readme.md) | [Yin_U001](GH01/Yin_U001.md) |
 | [GHS09](GHS09/readme.md) | [Yin_U001](GHS09/Yin_U001.md#two-plane-generation): integral transvection generation and its two-plane limits |
