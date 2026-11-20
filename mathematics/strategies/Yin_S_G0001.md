@@ -160,6 +160,8 @@ At comparable exponents, [summing valuations over partners](../claims/Yin_C_G034
 At these comparable primes, a [common powered root of bounded order](../claims/Yin_C_G0345_v514.md#statement) can account for the surviving divisor only within a restricted characteristic range.
 Its entire mass could still lie there.
 For rows with the same seed throughout a full dyadic interval, [many distinct large characteristics remain on a single row ideal](../claims/Yin_C_G0345_v513.md#statement) even after deleting prime powers chosen from the actual Bézout integer.
+A [prime-field calculation on the same full-interval test](../claims/Yin_C_G0345_v515.md#statement) gives many distinct common linear roots of one large multiplicative order at each of at least \(L/\lceil\log_2(2L)\rceil^2\) characteristics.
+Test the gcd of the two row reductions with \(Y^t-1\) at these primes, retaining their actual exponent supports when bounding the number of roots of order \(t\).
 Test whether one can construct common rows from a hypothetical small seed for which the part of that integer surviving these deletions has logarithm bounded by a constant times the total exponent sum, at the calibrated width and original coefficient cost.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).

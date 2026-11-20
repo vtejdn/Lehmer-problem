@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v648](Yin_R_G0562_v648.md#finding) checks the localized two-prime representations, split characteristics with large orders and the many distinct common roots in each prime field.
+
 - [R562 v647](Yin_R_G0562_v647.md#finding) checks the two incidence bounds for finite-field roots of bounded order at comparable exponent primes.
 
 - [R562 v646](Yin_R_G0562_v646.md#finding) checks the number of distinct large characteristic witnesses in one row ideal and the surviving mass after arbitrary deletions.
