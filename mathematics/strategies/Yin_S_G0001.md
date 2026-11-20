@@ -171,7 +171,10 @@ Using the [prescribed short blocks of odd exponents](../claims/Yin_C_G0345_v523.
 Counting nonzero coefficients alone gives a lower bound of order \(\log L\) on \(\log H\), while the [tangency estimate](../ledger/Yin_L_G0462_v243.md#tangencies) gives the stronger seed-dependent bound \(\log H\ge\Sigma\log M(P)\).
 On the [dilated blocks](../claims/Yin_C_G0345_v524.md#statement), every primitive rational combination has logarithmic Mahler measure at least \(\Sigma/f(\Sigma)\) for any prescribed computable nondecreasing unbounded loss \(f\), on a schedule chosen for that loss.
 A [rational Laurent certificate for one](../claims/Yin_C_G0345_v528.md#statement) requires \(\gg kj\Sigma/\log H\) nonzero multiplier coefficients, irrespective of their degrees.
-Removing the rate loss requires an estimate uniform in the seed and schedule, or a construction realizing vanishing cost.
+The [pullback to each powered cyclotomic polynomial](../claims/Yin_C_G0345_v533.md#pullback) bounds the available primitive input mass for arbitrary weights on output orders.
+On recalibrated blocks, a [lattice count separates the images of individual conjugates](../claims/Yin_C_G0345_v534.md#separation) and removes the factor of the seed degree lost to overlap.
+Even with all images disjoint, the normalized credit at fixed multiplicity is at most \(kh+ker\log2/\Sigma\), which tends to zero when the seed measure \(h\) tends to zero at these widths.
+A proof of a positive gap along this route needs an additional source of coefficient growth beyond the powered cyclotomic input norms.
 The [explicit interpolation](../claims/Yin_C_G0345_v518.md#statement) bounds the row integer above by \(JE^8\), with \(J\) the exponent product and \(E\) the least positive integer in \((Q,Q')\) for the product \(Q\) of the powered minima.
 For every fixed seed with \(4\log M(P)<\log2\), the logarithm of the surviving part of its Bézout integer, divided by the exponent sum, tends to infinity.
 For these rows the [derivative denominator](../claims/Yin_C_G0345_v521.md#statement) of the powered-node polynomial determines the retained logarithmic size to within a factor of sixteen after the primes dividing the exponent product are removed.
@@ -179,7 +182,12 @@ At each fixed seed, [direct and reciprocal powers alone](../claims/Yin_C_G0345_v
 The remaining comparison concerns the other conjugates and uniformity as the seed degree grows.
 For a fixed seed with one exterior conjugate, the [endpoint bounds](../claims/Yin_C_G0345_v525.md#statement) control both ends of every homogeneous solution, even when the reflected difference vanishes.
 The [higher contact at one designated exponent](../claims/Yin_C_G0345_v529.md#protect) attains the seed's logarithmic measure as the sharp normalized cost on all prescribed comparable powers already at every width with \(b/r\to\infty\), preserving every slot.
-For multiple exterior conjugates, determine whether homogeneous solutions with vanishing reflected difference can have normalized cost below the sum of their positive logarithmic radii on these same schedules.
+After a [computably chosen common dilation](../claims/Yin_C_G0345_v530.md#statement) the minimum converges to the exact unrestricted infimum for any supplied comparable exponent profile, at every width with \(b/r\to\infty\).
+The [weighted residue bound](../claims/Yin_C_G0345_v531.md#statement) gives sharp undilated cost when different exterior conjugation orbits are radially separated across the chosen exponents, including a full schedule for a single nonreal exterior pair.
+On [ordinary short intervals](../claims/Yin_C_G0345_v535.md#statement), only finitely many compressed seeds with \(M(P)\le2\) have a modulus shared by different exterior conjugation orbits.
+Failure of the raw cost to converge to the unrestricted infimum would require a positive isolated minimum attained exclusively by exceptional compressed reciprocal seeds.
+For broad undilated intervals, determine whether several exterior orbits whose powered moduli interleave still force their full combined contribution.
+For a lower bound on the unrestricted infimum, test arithmetic restrictions on these seeds themselves alongside the coefficient estimates.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.

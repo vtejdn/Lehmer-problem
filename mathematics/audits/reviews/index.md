@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v669](Yin_R_G0562_v669.md#finding) checks the raw short-interval limit outside the isolated exceptional-minimum case and the exact limit after the finite correction.
+
+- [R562 v668](Yin_R_G0562_v668.md#finding) checks the exclusion of small residue relations, the lattice count, the removal of the global degree loss and the remaining ceiling on primitive input norms.
+
+- [R562 v667](Yin_R_G0562_v667.md#finding) checks the weighted cyclotomic pullback budget and its sharpness for fixed seeds.
+
+- [R562 v666](Yin_R_G0562_v666.md#finding) checks short multiplicative relations across candidate factors of one critical section, relative norms and joint phase limits.
+
+- [R562 v665](Yin_R_G0562_v665.md#finding) checks the weighted Cauchy inverse for a full conjugate pair, opposite-sign real blocks and sharp growing-width costs.
+
+- [R562 v664](Yin_R_G0562_v664.md#finding) checks coincident radial scales across exponent slots and the common dilation giving exact recovery of the unrestricted infimum.
+
 - [R562 v663](Yin_R_G0562_v663.md#finding) checks the higher-order contact at each designated slot, simultaneous nonvanishing and the sharp cost at the calibrated widths for the one-exterior class.
 
 - [R562 v662](Yin_R_G0562_v662.md#finding) checks primitive measures of outputs with sparse rational multipliers and the necessary term count of Laurent Bézout certificates.

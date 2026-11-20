@@ -102,6 +102,8 @@ If a factor has \(O(a)\) exterior roots in this range, its [degree and distribut
 The [circle distribution and integer norm](../claims/Yin_C_G0345_v510.md#statement) give the limiting value of \(b\log M(P)/\deg P\) for each such factor.
 All nonzero powers of a [critical root](../claims/Yin_C_G0345_v517.md#statement) generate its full field, and no distinct torsion translate occurs in the stated nearby sections.
 Roots from two different critical sections are [multiplicatively independent modulo torsion](../claims/Yin_C_G0345_v527.md#statement), even when their two exponent pairs are unrelated.
+Within one section, [bounded products of roots across its candidate factors](../claims/Yin_C_G0345_v532.md#statement) determine their multisets modulo torsion after inverse cancellations.
+A candidate root can have torsion norm over a subfield of bounded relative degree only when its relative conjugates come in inverse pairs.
 Use degree patterns of the section modulo primes to test whether one rational factor can have degree \(\asymp as^2\) and the specified allocations across the \(a\)-th-root branches.
 For a construction with \(o(a)\) exterior roots, investigate fixed seeds or slopes growing faster than \(s^3\).
 For other fixed seed degrees, a remaining imprimitive trace action requires \(s\equiv2\bmod3\), even \(a\) and \(b/a\ll_s(\log(3(a+b)))^{424}\).
