@@ -45,12 +45,30 @@ The [weighted lower bound](../claims/Yin_C_G0345_v600.md#statement) would contra
 The certified factorial multiplicity fits this allowance for every \(\lambda>0\).
 The [height and spacing restrictions](../ledger/Yin_L_G0462_v316.md#salem) allow at most three disjoint permutable blocks in the signed witness range at Salem inputs of large degree.
 After [deleting the two exceptional terms](../ledger/Yin_L_G0462_v313.md#recovery), their exponents are uniquely recoverable in fixed order from the remaining positions, and their coefficients impose a norm divisibility on the remaining sum.
-Test this divisibility across the possible normalized positions of the smaller terms.
+Even after translating the surviving exponents and dividing by their own gcd, a shrinking sequence on the degree-preserving neutral representatives forces at least \(\exp((1-o(1))(r-2)L)H_2^\lambda\) different surviving shapes.
+Each such shape lies under a full family of dimension at most three, so the [affine count](../claims/Yin_C_G0345_v603.md#deleted) bounds the multiplicity lost in this projection.
+For the ordered eight-term tuple in the [exact Lehmer calculation](../computations/programs/Yin_J_G0180/readme.md), 140 of 201,376 surviving lists in the window of span 32 pass the trace test.
+Only 36 of those have their residual sum divisible by two in \(\mathbb Z[\alpha]\), and exactly two meet the prescribed order and pass the ordinary terminality test.
+Seek a bound on the number of surviving shapes for which some dilation admits both the required residual divisibility and the exact trace in the witness window.
+When the largest coefficient nearly equals the sum of the others, use [separation across the neutral embeddings](../claims/Yin_C_G0345_v604.md#separation) to restrict their relative exponents.
+Away from that case, the [stronger weighted lower bound](../claims/Yin_C_G0345_v604.md#statement) allows an upper estimate to spend a factor exponential in the polygon deficit.
 
-For units without a unit-circle conjugate, [the characteristic of a short cyclic quotient](../claims/Yin_C_G0345_v599.md#statement) can prescribe the output within the height window and preserve the logarithmic count.
+For reciprocal inputs without a unit-circle conjugate, first test whether small measure forces either of two explicit circle integrals to tend to zero along a subsequence.
+For a monic irreducible input \(P\), write \(u(e^{it})=|P(e^{it})|\), and put \(D(s)=0\) on \([0,4]\) and \(D(s)=\operatorname{arcosh}(s/2-1)\) above 4.
+The [numerator and upper-tail transfers](../claims/Yin_C_G0345_v605.md#bound) construct nontorsion units with a unit-circle conjugate and measures tending to zero if either \(\int D(u)\) vanishes asymptotically or \(\int D(|A|^2/u)\) does so for admissible integer polynomials \(A\) chosen separately at each input.
+The constant \(A=1\) tests only [values below one quarter](../claims/Yin_C_G0345_v602.md#statement).
+For each fixed input, [finite tests on integer coefficients](../claims/Yin_C_G0345_v607.md#termination) decide exactly whether some nonzero \(A\) satisfies \(|A|^2\le4u\) on the entire circle.
+Every such \(A\) is automatically coprime to \(P\).
+Remove common power substitutions first, since [averaging over their fibers](../ledger/Yin_L_G0462_v317.md#descent) divides the shortest certificate degree by the substitution exponent while preserving existence.
+Use the first excluded coefficient prefixes to look for a lower bound on \(m(P)\) when no certificate exists, and test whether the integrated loss can still approach zero in that case.
+The [degree-twelve certificate](../claims/Yin_C_G0345_v605.md#example) illustrates how a nonconstant \(A\) removes the entire loss.
+
+For a direct count on these hyperbolic inputs, the [discriminant and reciprocal-radius estimates](../claims/Yin_C_G0345_v601.md#statement) retain the full fixed tuple whenever \(\min_\beta|\log|\beta||=O(m/(d\log(2d)))\), with an additional discriminant-dependent test.
+Outside those criteria one can [bound the sum of the coefficient excesses](../claims/Yin_C_G0345_v606.md#statement) along ordinary rational splitting trees on a sufficiently large fraction of the initial supports.
+The unconditional bound for polygon-preserving splits uses a weaker terminality test, as witnessed by the [four-term example](../claims/Yin_C_G0345_v606.md#example).
+Independently, [the characteristic of a short cyclic quotient](../claims/Yin_C_G0345_v599.md#statement) can prescribe the output within the height window and preserve the logarithmic count.
 Determine whether the small-measure condition supplies suitable periods on the high-signature strict records.
 There are [power-stable hyperbolic reciprocal units](../claims/Yin_C_G0345_v598.md#statement) of unbounded degree with all those quotients trivial through \(c\log d\), whose measures stay between 8 and 57.
-The near-unit-circle criterion in the [full coefficient count](../claims/Yin_C_G0345_v595.md#near) gives a second test at hyperbolic inputs.
 If the coefficients can be chosen separately for each support, [every primitive shape of at least \(d+2\) terms can occur](../ledger/Yin_L_G0462_v309.md#statement) at a unit whose powers preserve degree.
 At Lehmer's unit, the [exact window of length 22](../ledger/Yin_L_G0462_v312.md#counts) contains 55 primitive marked ternary supports surviving the full rational test, including twelve seven-term supports with the same six outgoing signs.
 Six further supports split only through exponents outside their own span, including the defining polynomial itself.

@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v317](Yin_L_G0462_v317.md#descent) | Minimum numerator degree under substitution | Splitting coefficient residues recovers the exact degree scaling, including irreducible inputs with the same measure and arbitrarily large shortest degree. |
 | [Yin_L_G0462_v316](Yin_L_G0462_v316.md#bounds) | Permuted representations in the witness window | Degree and height restrict how many disjoint groups can represent a common element at Salem inputs. |
 | [Yin_L_G0462_v313](Yin_L_G0462_v313.md#recovery) | Recovering a pair of weighted powers | Inversion determines the ordered pair from the remaining terms and gives a divisibility and a lower bound on their span. |
 | [Yin_L_G0462_v312](Yin_L_G0462_v312.md#counts) | Rational terminal supports at Lehmer's unit | Among 557 minimal supports in a window of length 22, six split only through an exponent outside their span and 55 survive the full rational test. |
