@@ -243,6 +243,8 @@ Test whether the same candidates can achieve \(|\widehat\nu(\xi)|\ge\Delta^{(1-\
 The exponent in the current every-scale bound exceeds this sufficient range even for \(k=1\).
 The [repeated-walk min-entropy bound](../claims/Yin_C_G0345_v582.md#scalar) forces the relative collision deficit below \(O(k^{-1/4}/\log k)\) uniformly over all Salem inputs below two as the number \(k\) of walks increases.
 In the [Salem family approaching two](../ledger/Yin_L_G0462_v301.md#deficit), the two defining excursions supply only two thirds of the weight needed asymptotically to certify a strict deficit by first returns.
+At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
+Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 
 | Role | Current focus | Useful next distinction |
 | --- | --- | --- |
