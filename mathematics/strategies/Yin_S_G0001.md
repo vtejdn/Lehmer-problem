@@ -21,7 +21,13 @@ Other routes remain available for autonomous reassessment; their current priorit
 
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
 The [finite common-factor test](../claims/Yin_C_G0345_v572.md#polynomial) determines \(R_1(t)\) by integer arithmetic, and a uniform bound on \(R_1(t)/t\) is equivalent to the Lehmer gap.
-Seek a collection of exponent sets that rules out every common noncyclotomic factor at interval length \(Ct\) with \(C\) independent of \(t\).
+At interval length \(Ct\), first reduce each candidate \(Q(X^q)\) to a polynomial \(Q\) whose exponents have gcd one.
+The [finite reduction](../claims/Yin_C_G0345_v574.md#reduction) preserves every possible witness length, while [any fixed number of dense tests](../claims/Yin_C_G0345_v574.md#statement) on the full lists leaves linearly many irreducible substitutions of Lehmer's polynomial.
+Even on the reduced inputs, [single arithmetic progressions](../ledger/Yin_L_G0462_v288.md#single) of all bounded steps can carry relations when the measure is sufficiently small.
+For an alternative proof, seek a uniform exponential bound in the weight \(j\) on the number of inclusion-minimal relation supports after translation and division by the common exponent gcd.
+A [shrinking sequence of record measures](../claims/Yin_C_G0345_v575.md#statement) would force growth faster than any such bound already within intervals of length \(O(d\log(2d)/m)\), where \(d\) is degree and \(m\) is log measure.
+The [separated representatives](../ledger/Yin_L_G0462_v292.md#critical) must also exist with every gap at least \((1-o(1))\log(2)/m\) before removing dilations.
+For Salem inputs test the resulting two long end segments, whose gaps and relative coefficient signs are both constrained.
 In the construction direction, any surviving minimum at length \(N>128t\) already has positive log measure at most \(128t/N\).
 The [density of exponents with distinct binary subset sums](../claims/Yin_C_G0345_v570.md#statement) is comparable to the original log measure for every nontorsion unit of small measure, with absolute constants and arbitrary exterior count.
 The [separated-block injection](../claims/Yin_C_G0345_v571.md#separation) extends each finite admissible set to a periodic one and quantifies the loss in density for its particular minimum.
@@ -30,7 +36,10 @@ The [plastic-number certificate](../ledger/Yin_L_G0462_v286.md#certificate) give
 For the degree-ten Lehmer input, [separation at the real root](../ledger/Yin_L_G0462_v287.md#separation) proves \(R_1(119)\ge355\) and \(R_1(t)\ge4t\) for all \(t\ge732\), locating the first departure from the initial formula between 12 and 119.
 For inputs without unit-circle conjugates the [finite mask graph](../claims/Yin_C_G0345_v573.md#period) computes a maximizing period and the exact eventual recurrence for interval maxima.
 The [full set of returning carries for the Lehmer number](../ledger/Yin_L_G0170_v1.md#lehmer-infinite-core-theorem) is infinite.
-Test whether a finite subset of those carries certifies upper bounds at the same scale as a family of periodic lower bounds.
+At this input the [two residue classes modulo nine](../ledger/Yin_L_G0462_v289.md#density) already exclude every witness length \(N>9t/2\) for the Lehmer polynomial itself.
+This periodic density of \(2/9\) is [optimal through period 25](../ledger/Yin_L_G0462_v291.md#period).
+For further upper bounds enumerate [minimal relations through a chosen weight](../claims/Yin_C_G0345_v576.md#densities), which give convergent finite graph bounds even for Salem units.
+The [plastic](../ledger/Yin_L_G0462_v293.md#results) and [golden-ratio](../ledger/Yin_L_G0462_v294.md#supports) examples give exact pattern counts at every weight for comparison.
 For multiple roots the same comparison uses the multiplicity times the log measure, while [balanced relations on prescribed exponents](../claims/Yin_C_G0345_v560.md#span) also control the number of coefficients relative to their actual span.
 
 | Role | Current focus | Useful next distinction |

@@ -41,6 +41,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BS13](BS13/readme.md) | [Yin_U001](BS13/Yin_U001.md) |
 | [BS20](BS20/readme.md) | [Yin_U001](BS20/Yin_U001.md) |
 | [BS22](BS22/readme.md) | [Alternating sections in point stabilizers](BS22/Yin_U001.md#stabilizers) |
+| [BS23](BS23/readme.md) | [Quantitative density bound for three-term progressions](BS23/Yin_U001.md#bs23-u001) |
 | [BS96](BS96/readme.md) | [Yin_U001](BS96/Yin_U001.md) |
 | [BSS17](BSS17/readme.md) | [Yin_U001](BSS17/Yin_U001.md) |
 | [BV04](BV04/readme.md) | [Yin_U001](BV04/Yin_U001.md), [Yin_U002](BV04/Yin_U002.md), [Yin_U003](BV04/Yin_U003.md) |
@@ -305,6 +306,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Sut21b](Sut21b/readme.md) | [Yin_U001](Sut21b/Yin_U001.md) |
 | [Sut21c](Sut21c/readme.md) | [Yin_U001](Sut21c/Yin_U001.md) |
 | [Syn26](Syn26/readme.md) | Source and edition notes |
+| [Sze75](Sze75/readme.md) | [Finite density theorem for each fixed progression length](Sze75/Yin_U001.md#sze75-u001) |
 | [TK06](TK06/readme.md) | Source and edition notes |
 | [TV07](TV07/readme.md) | [Yin_U001](TV07/Yin_U001.md) |
 | [Tao09](Tao09/readme.md) | Source and edition notes |

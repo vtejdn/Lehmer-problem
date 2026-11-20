@@ -5,6 +5,13 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v294](Yin_L_G0462_v294.md#supports) | Minimal supports for the golden ratio | Exactly one pattern occurs per weight, and an explicit formula gives every interval maximum for every root substitution. |
+| [Yin_L_G0462_v293](Yin_L_G0462_v293.md#results) | The plastic number at every interval length and support weight | A finite graph gives the exact interval maxima and the rational generating function of minimal supports. |
+| [Yin_L_G0462_v292](Yin_L_G0462_v292.md#critical) | Gaps at the two ends of small-measure Salem relations | Random choices in separated blocks force many patterns, with near-critical gaps and prescribed end signs at Salem inputs. |
+| [Yin_L_G0462_v291](Yin_L_G0462_v291.md#verification) | Period 22 at the Lehmer number | Exact signed collisions exclude all 621 candidate orbits, extending optimality of the density \(2/9\) through period 25. |
+| [Yin_L_G0462_v290](Yin_L_G0462_v290.md#shapes) | Counting minimal supports at long thresholds | Random deletion and the unit-equation bound force many translation classes at growing weights. |
+| [Yin_L_G0462_v289](Yin_L_G0462_v289.md#density) | A period of nine at the Lehmer number | Two residue classes attain density \(2/9\), optimal for real domination, and every three-class competitor at period 13 has a certified relation. |
+| [Yin_L_G0462_v288](Yin_L_G0462_v288.md#single) | Arithmetic progression tests | Bounded-step and short-list tests admit common witnesses, while two tuned progressions have distinct subset sums for a primitive trinomial family. |
 | [Yin_L_G0462_v287](Yin_L_G0462_v287.md#thresholds) | Departure from the first ternary thresholds | Norm separation at the Lehmer number gives \(R_1(119)\ge355\) and \(R_1(t)\ge4t\) for \(t\ge732\). |
 | [Yin_L_G0462_v286](Yin_L_G0462_v286.md#density) | Exact ternary density for the plastic number | Seven signed carries and an integer potential prove that the maximum density of exponents with distinct binary subset sums is one third. |
 | [Yin_L_G0462_v285](Yin_L_G0462_v285.md#thresholds) | Exact universal ternary thresholds through cardinality eleven | Integer factorization and subset sums determine the unrestricted minima on every interval of up to 31 exponents. |
