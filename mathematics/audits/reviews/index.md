@@ -1,5 +1,222 @@
 # Reviews Index
 
+- [R562 v777](Yin_R_G0562_v777.md#finding) checks uniqueness of a short integral numerator below the energy cutoff, the two endpoint evaluations and the limiting degree deficits.
+
+- [R562 v776](Yin_R_G0562_v776.md#finding) checks the characterization of near equality for integral numerator energy, including the balanced remainders, angular limits and Taylor coefficients.
+
+- [R562 v775](Yin_R_G0562_v775.md#finding) checks the uniform lower bound for squared energy from two-ended division and its constant at small Mahler measure.
+
+- [R562 v774](Yin_R_G0562_v774.md#finding) checks the finite bound on successive occupied Taylor coefficients and its leading constant for each fixed \(1<p\le 2\).
+
+- [R562 v773](Yin_R_G0562_v773.md#finding) checks the sparsity estimate and the growth of scalar numerator energy at two expanding radii.
+
+- [R562 v772](Yin_R_G0562_v772.md#finding) checks the Mahler measure bound for nonnegative summands via spectral factors, including coefficient cancellation and the reciprocal case.
+
+- [R562 v771](Yin_R_G0562_v771.md#finding) checks effective Salem period windows and bounds on full-conductor Fourier coefficients.
+
+- [R562 v770](Yin_R_G0562_v770.md#finding) checks the first escape threshold for rounded energy, the decomposition of escaping minimizers and the classification for quadratic multipliers.
+
+- [R562 v769](Yin_R_G0562_v769.md#finding) checks the logarithmic lower bound for the circle mean obtained by restoring a Taylor prefix and ordering its Fourier coefficients.
+
+- [R562 v768](Yin_R_G0562_v768.md#finding) checks circle moment bounds for occupied Taylor exponents, including endpoint constants and tails.
+
+- [R562 v767](Yin_R_G0562_v767.md#finding) checks reciprocal two-tail determinant bounds, the equality case for short squares and the resulting energy estimates.
+
+- [R562 v766](Yin_R_G0562_v766.md#finding) checks the packing and energy bounds for Laurent tails and the full-dimensional determinant identity.
+
+- [R562 v765](Yin_R_G0562_v765.md#finding) checks the mixed-signature Mahler gap at the first unequal coefficient, allowing the discrepancy at an arbitrary index.
+
+- [R562 v764](Yin_R_G0562_v764.md#finding) checks the fourth-root degree bound for the normalized sum of pole residues and its divergence for hyperbolic unit minimal polynomials.
+
+- [R562 v763](Yin_R_G0562_v763.md#finding) checks the power saving for a full-conductor Fourier coefficient at Salem periods.
+
+- [R562 v762](Yin_R_G0562_v762.md#finding) checks both degree estimates for normalized residues and a reciprocal integer family attaining the square-root exponent.
+
+- [R562 v761](Yin_R_G0562_v761.md#finding) checks how the first unequal coefficient bounds moments, relative discriminants and orbit sizes.
+
+- [R562 v760](Yin_R_G0562_v760.md#finding) checks the integral numerator bound and the necessary divergence of the normalized residue sum at small measure.
+
+- [R562 v759](Yin_R_G0562_v759.md#finding) checks finite search and isolation for the least Laurent quotient energy, including the quadratic equality cases.
+
+- [R562 v758](Yin_R_G0562_v758.md#finding) checks sharp evaluation and the Gram determinant for short numerators, including power substitution and the quadratic example.
+
+- [R562 v757](Yin_R_G0562_v757.md#finding) checks the bounds on quotient energy and their consequences for Fourier decay at finite periods.
+
+- [R562 v756](Yin_R_G0562_v756.md#finding) checks trace interpolation for prescribed coefficient prefixes in one field, with irreducibility and equality of conjugate moduli.
+
+- [R562 v755](Yin_R_G0562_v755.md#finding) checks the integrated prime and antipodal modulus bounds and their consequences for neutral specialization.
+
+- [R562 v754](Yin_R_G0562_v754.md#finding) checks compression on the nonzero Taylor coefficients and the resulting integral coefficient and quadratic estimates.
+
+- [R562 v753](Yin_R_G0562_v753.md#finding) checks relative discriminant bounds for mixed signatures from real embeddings and reflected pairs.
+
+- [R562 v752](Yin_R_G0562_v752.md#finding) checks the uniform discrepancy obstruction for signed cyclotomic approximations and the mean and tail bounds for clipped ratios.
+
+- [R562 v751](Yin_R_G0562_v751.md#finding) checks the moment test for signed cyclotomic approximation, finite exclusion for a fixed input and angular separation.
+
+- [R562 v750](Yin_R_G0562_v750.md#finding) checks denominator costs for integral approximations, including square prefixes and reciprocal representatives.
+
+- [R562 v749](Yin_R_G0562_v749.md#finding) checks the relative discriminant inequalities for reciprocal units and their restrictions on totally real and CM subfields.
+
+- [R562 v748](Yin_R_G0562_v748.md#finding) checks the angular discrepancy bound for signed cyclotomic approximation, its conditional neutral-transfer consequence and the odd Newton sum obstruction.
+
+- [R562 v747](Yin_R_G0562_v747.md#finding) checks discriminant bounds and neutral transfer in both quadratic subfield configurations.
+
+- [R562 v746](Yin_R_G0562_v746.md#finding) checks the initial coefficient and parity obstructions to small transfer loss for reciprocal integer polynomials.
+
+- [R562 v745](Yin_R_G0562_v745.md#finding) checks a quantitative lower bound for numerator loss, effective finite exclusion and the fixed-input attainment criterion.
+
+- [R562 v744](Yin_R_G0562_v744.md#finding) checks the finite decision procedure for integral numerators and the degree bound for minimal certificates.
+
+- [R562 v743](Yin_R_G0562_v743.md#finding) checks coefficient counts under a total excess bound, including ordinary and polygon-preserving rational splits.
+
+- [R562 v742](Yin_R_G0562_v742.md#finding) checks the numerator and upper-tail bounds for neutral transfer and the strict improvement in the degree-twelve example.
+
+- [R562 v741](Yin_R_G0562_v741.md#finding) checks the weighted count from polygon deficits and the coefficient separation inequality at neutral conjugates.
+
+- [R562 v740](Yin_R_G0562_v740.md#finding) checks the affine bound for terminal exponent arrays and the count of primitive shapes after deleting two coefficients.
+
+- [R562 v739](Yin_R_G0562_v739.md#finding) checks transfer from hyperbolic inputs to neutral factors, including the small-value loss and the nontorsion factor.
+
+- [R562 v738](Yin_R_G0562_v738.md#finding) checks discriminant and reciprocal rounding tests for the weighted count with fixed output.
+
+- [R562 v737](Yin_R_G0562_v737.md#finding) checks the reciprocal family with trivial cyclic quotients over a common range of periods for its distinguished factor.
+
+- [R562 v736](Yin_R_G0562_v736.md#finding) checks the cyclic quotient criterion for prescribed outputs and its conditional bounds on primitive counts.
+
+- [R562 v735](Yin_R_G0562_v735.md#finding) checks the coefficient-weighted lower bound for terminal counts and the coefficient sizes in the factorial permutation family.
+
+- [R562 v734](Yin_R_G0562_v734.md#finding) checks the simultaneous permutation construction of a factorial family with rational terminal coefficients.
+
+- [R562 v733](Yin_R_G0562_v733.md#finding) checks the second-largest child bound at neutral embeddings and the error from tree multiplicities.
+
+- [R562 v732](Yin_R_G0562_v732.md#finding) checks terminal relations with fixed coefficients and one prescribed integer output, including reconstruction and the removal of dilations.
+
+- [R562 v731](Yin_R_G0562_v731.md#finding) checks polynomial height windows for general units and the effect of signature and neutral extensions on the primitive count.
+
+- [R562 v730](Yin_R_G0562_v730.md#finding) checks the conditional primitive count for units with few off-circle conjugates, including the effect of a dilation.
+
+- [R562 v729](Yin_R_G0562_v729.md#finding) checks lifting and counting labeled exponent arrays with fixed coefficients, bounded integer outputs and a factorial example.
+
+- [R562 v728](Yin_R_G0562_v728.md#finding) checks the lower bound for primitive marked lists with a fixed outgoing tuple along a sequence of Salem numbers tending to one.
+
+- [R562 v727](Yin_R_G0562_v727.md#finding) checks dilation counts from evaluation determinants, including the individual height comparison for bounded varying integer outputs.
+
+- [R562 v726](Yin_R_G0562_v726.md#finding) checks arity and tuple bounds for terminal witnesses and the large mixed-block consequence under the primitive-count hypothesis.
+
+- [R562 v725](Yin_R_G0562_v725.md#finding) checks finite terminal witnesses at strict degree records, including the height windows, reconstruction and positive dilations.
+
+- [R562 v724](Yin_R_G0562_v724.md#finding) checks descent of the squared outer radius at the first power and its degree and measure consequences for reciprocal records.
+
+- [R562 v723](Yin_R_G0562_v723.md#finding) checks the local period estimates for terminal dilations and the resulting count of primitive lists.
+
+- [R562 v722](Yin_R_G0562_v722.md#finding) checks the dilation bound for terminal rational relations and its effect on the number of primitive exponent patterns.
+
+- [R562 v721](Yin_R_G0562_v721.md#finding) checks terminal relations with bounded-degree coefficients, including unrestricted coefficient heights and marked exponent lists.
+
+- [R562 v720](Yin_R_G0562_v720.md#finding) checks exact finite counts of dissociated powers at multinacci bases, their minimal supports and the sharp limit superior as the real base approaches two from below.
+
+- [R562 v719](Yin_R_G0562_v719.md#finding) checks min-entropy saturation for repeated binary walks through bounds for their largest atom and Rényi entropy rates.
+
+- [R562 v718](Yin_R_G0562_v718.md#finding) checks collision entropy and high-conductor Fourier moments for each fixed convolution power at a quartic Salem parameter.
+
+- [R562 v717](Yin_R_G0562_v717.md#finding) checks the bounded conductor index and Fourier lower bound along the same subsequence for units with neutral conjugates.
+
+- [R562 v716](Yin_R_G0562_v716.md#finding) checks the limiting maximum Fourier amplitude, including the hyperbolic maximum and the full-conductor subsequence for neutral inputs.
+
+- [R562 v715](Yin_R_G0562_v715.md#finding) checks high-conductor Fourier estimates on periodic quotients and the hyperbolic trace products.
+
+- [R562 v714](Yin_R_G0562_v714.md#finding) checks how persistent density loss restricts exterior arguments under the fixed exterior count and radial balance hypotheses.
+
+- [R562 v713](Yin_R_G0562_v713.md#finding) checks effective gaps, finite density certificates and the enumeration of primitive minimal supports.
+
+- [R562 v712](Yin_R_G0562_v712.md#finding) checks lower bounds for primitive exponent patterns at small measure from powered factors and a finite witness.
+
+- [R562 v711](Yin_R_G0562_v711.md#finding) checks how shared progression steps force common factors for prescribed exponent sets and reduce the finite threshold test.
+
+- [R562 v710](Yin_R_G0562_v710.md#finding) checks periodic attainment of the optimal density for hyperbolic polynomial powers and computation of the finite-interval optimum.
+
+- [R562 v709](Yin_R_G0562_v709.md#finding) checks finite witnesses and the limiting universal density threshold for ternary masks.
+
+- [R562 v708](Yin_R_G0562_v708.md#finding) checks finite concatenation modulo polynomial powers and the resulting bounds on periodic densities and entropy rates.
+
+- [R562 v707](Yin_R_G0562_v707.md#finding) checks uniform density bounds for dissociated powers modulo polynomial powers at every multiplicity.
+
+- [R562 v706](Yin_R_G0562_v706.md#finding) checks the factor degree bound and its uniform gap consequences for two four-term blocks.
+
+- [R562 v705](Yin_R_G0562_v705.md#finding) checks the dyadic Gauss fiber at unequal spacings and the joint restriction on residue orders and ramification.
+
+- [R562 v704](Yin_R_G0562_v704.md#finding) checks the density of masks avoiding ternary multiples, including bounds from exterior zeros and periodic constructions.
+
+- [R562 v703](Yin_R_G0562_v703.md#finding) checks the signed norm and its two dyadic residues, including the degree-six exclusion test.
+
+- [R562 v702](Yin_R_G0562_v702.md#finding) checks the exceptional mass and recovery bounds for simultaneous residue orders with unrestricted prime support.
+
+- [R562 v701](Yin_R_G0562_v701.md#finding) checks the degree estimate and uniform factor gap for equally spaced trinomial blocks.
+
+- [R562 v700](Yin_R_G0562_v700.md#finding) checks the Frobenius-order criterion for degree and measure gaps in reciprocal tetranomials, including common exponent divisors.
+
+- [R562 v699](Yin_R_G0562_v699.md#finding) checks how one residue order bounds the factor degree and yields a gap for reciprocal tetranomials with finite prime support.
+
+- [R562 v698](Yin_R_G0562_v698.md#finding) checks the local factor degree bound and uniform gap when the long exponent has fixed prime support.
+
+- [R562 v697](Yin_R_G0562_v697.md#finding) checks the finite jet count, density threshold and exponent span for balanced ternary multiples on prescribed exponents.
+
+- [R562 v696](Yin_R_G0562_v696.md#finding) checks the degree and multiplicity of the large factor for a long power of three and the criterion for full rational factorization.
+
+- [R562 v695](Yin_R_G0562_v695.md#finding) checks the simultaneous realization of conductors and power-order indices at one completion of the marked factor.
+
+- [R562 v694](Yin_R_G0562_v694.md#finding) checks when multiplicatively related roots of flat six-term sections have the same normalized parent and primitive power fields.
+
+- [R562 v693](Yin_R_G0562_v693.md#finding) checks the index on the marked factor and its relation to the complementary order.
+
+- [R562 v692](Yin_R_G0562_v692.md#finding) independently checks the degree and measure bounds for reciprocal six-term parents and the moving trinomial limit.
+
+- [R562 v691](Yin_R_G0562_v691.md#finding) independently checks the integral quotient and the pair of noncyclotomic factors selected by the common dyadic factor at offsets two apart.
+
+- [R562 v690](Yin_R_G0562_v690.md#finding) independently checks the degree and height estimates for rational expressions in distinct conjugate traces.
+
+- [R562 v689](Yin_R_G0562_v689.md#finding) checks the uniform factor gap for nonreciprocal parents of coefficient length at most six and the necessary block shapes in the remaining reciprocal cases.
+
+- [R562 v688](Yin_R_G0562_v688.md#finding) gives the development-context check of degree shares in reciprocal six-term polynomials and the separated-block limit.
+
+- [R562 v687](Yin_R_G0562_v687.md#finding) gives the development-context check of the integral intersection that selects one rational factor on each side at cubic offsets.
+
+- [R562 v686](Yin_R_G0562_v686.md#finding) gives the development-context check of degree and height for rational functions of distinct conjugate traces.
+
+- [R562 v685](Yin_R_G0562_v685.md#finding) independently checks complete primitive root sets for the six-term section, the order alternatives and the uniform count of distinct roots.
+  The [earlier development-context check](Yin_R_G0562_v685.md#working-check) covers the prime-power fibers, the dyadic converse and the distinct-root count.
+
+- [R562 v684](Yin_R_G0562_v684.md#finding) checks the bounded-relation factor gap and limiting measures for growing six-term sections, including the consequences conditional on Schinzel’s conjecture.
+
+- [R562 v683](Yin_R_G0562_v683.md#finding) checks the additive invariant factors of the trinomial power-suborder quotient and their passage to monic divisors.
+
+- [R562 v682](Yin_R_G0562_v682.md#finding) checks the individual-factor asymptotic at long slopes and both directions of the degree-share criterion.
+
+- [R562 v681](Yin_R_G0562_v681.md#finding) checks the distribution of exterior radii, the all-root second moment and the cubic exclusion without a cap on the exterior count.
+
+- [R562 v680](Yin_R_G0562_v680.md#finding) checks degree and height estimates for polynomial expressions in distinct conjugate traces as the polynomial degree grows.
+
+- [R562 v679](Yin_R_G0562_v679.md#finding) checks the simultaneous Frobenius cycle construction, good reduction and the nontorsion quotient.
+
+- [R562 v678](Yin_R_G0562_v678.md#finding) checks uniform irreducibility conditional on Schinzel’s rational specialization conjecture for one fixed polynomial.
+
+- [R562 v677](Yin_R_G0562_v677.md#finding) checks the two logarithmic means and exterior fraction for occupation of seed poles by a critical factor.
+
+- [R562 v676](Yin_R_G0562_v676.md#finding) checks the directional width bound for sparse Laurent polynomials, including torsion roots and the scope of the coefficient bound.
+
+- [R562 v675](Yin_R_G0562_v675.md#finding) checks the interior and endpoint estimates for coefficient mass omitted by a short interval.
+
+- [R562 v674](Yin_R_G0562_v674.md#finding) checks uniform suppression in the phase spectrum near the long powers and the explicit first long-power moment.
+
+- [R562 v673](Yin_R_G0562_v673.md#finding) checks uniform occupancy of shrinking disks in every inverse-pair block and simultaneous prescriptions across blocks.
+
+- [R562 v672](Yin_R_G0562_v672.md#finding) checks multiplicative independence across critical sections via the alternating actions on their largest blocks and the support of a relation.
+
+- [R562 v671](Yin_R_G0562_v671.md#finding) checks sharp costs for undilated powers with overlapping exterior radii, including all prescribed contacts on the interval of squares.
+
+- [R562 v670](Yin_R_G0562_v670.md#finding) checks the support bound for sparse multiples in rational exponent bands and the criterion for divisibility by the parent.
+
 - [R562 v669](Yin_R_G0562_v669.md#finding) checks the raw short-interval limit outside the isolated exceptional-minimum case and the exact limit after the finite correction.
 
 - [R562 v668](Yin_R_G0562_v668.md#finding) checks the exclusion of small residue relations, the lattice count, the removal of the global degree loss and the remaining ceiling on primitive input norms.
