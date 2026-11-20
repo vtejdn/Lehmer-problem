@@ -308,6 +308,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Syn26](Syn26/readme.md) | Source and edition notes |
 | [Sze75](Sze75/readme.md) | [Finite density theorem for each fixed progression length](Sze75/Yin_U001.md#sze75-u001) |
 | [TK06](TK06/readme.md) | Source and edition notes |
+| [Tot12](Tot12/readme.md) | [Prescribed boundary zeros and the supremum norm](Tot12/Yin_U001.md#tot12-u001) |
 | [TV07](TV07/readme.md) | [Yin_U001](TV07/Yin_U001.md) |
 | [Tao09](Tao09/readme.md) | Source and edition notes |
 | [Tao10](Tao10/readme.md) | [Quadratic progressions and the character criterion](Tao10/Yin_U001.md#tao10-u001) |

@@ -78,7 +78,11 @@ The [quadratic subfield bounds](../claims/Yin_C_G0345_v610.md#statement) give \(
 Below \(M(P)=(1+\sqrt5)/2\), [inversion acts as canonical conjugation](../claims/Yin_C_G0345_v612.md#compatibility) on every totally real or CM subfield of the root field.
 For an inversion-stable subfield on which inversion acts nontrivially, let \(r>0\) and \(s\) count its real and nonreal embeddings, and let \(b\) be the degree of the root field over it.
 The [relative discriminant bound](../claims/Yin_C_G0345_v616.md#statement) forces \(r(2b)^{-s/r}\to0\) if \(m\to0\), and forces \(r2^{-s/r}\to0\) when the constant coefficient of the relative minimum is nontorsion.
-Further descent must account for the nonreal embeddings outside these ranges.
+If \(j\) is the first differing coefficient of the two relative minima counted from the top, the [sharp coefficient estimate](../claims/Yin_C_G0345_v624.md#statement) replaces \(2b/\sqrt j\) at each nonreal embedding by \(2b/j\).
+For a fixed positive lower bound on \(j/b\) and an upper bound on \(s/r\), it gives a uniform measure gap even for unbounded \(b\).
+The [discriminant estimate using all reflected power sums](../claims/Yin_C_G0345_v628.md#statement) also handles small \(j\).
+In particular when \(s=r\), a shrinking sequence with such subfields must have \(b\log(2b)/r^2\to\infty\).
+For further descent seek another stable subfield improving this ratio, or tighter arithmetic information on the local discriminants in the complementary range.
 
 For a direct count on these hyperbolic inputs, the [discriminant and reciprocal-radius estimates](../claims/Yin_C_G0345_v601.md#statement) retain the full fixed tuple whenever \(\min_\beta|\log|\beta||=O(m/(d\log(2d)))\), with an additional discriminant-dependent test.
 Outside those criteria one can [bound the sum of the coefficient excesses](../claims/Yin_C_G0345_v606.md#statement) along ordinary rational splitting trees on a sufficiently large fraction of the initial supports.
@@ -126,8 +130,25 @@ The [finite search over integral numerators](../claims/Yin_C_G0345_v622.md#finit
 For \(P=X^2-aX+1\), [the exact minimizers](../claims/Yin_C_G0345_v622.md#quadratic) change from the difference \(1-X\) at \(a=3\) to monomials at \(a\ge5\), with both types at \(a=4\).
 Power substitution preserves \(\mathcal E(P)\), so first remove the common substitution.
 A construction forcing \(\limsup m\mathcal E(P)<1/(2\mathrm e)\) on hypothetical shrinking hyperbolic degree records would contradict the energy bound.
-Seek wider integral numerators meeting that target, or an independent lower bound for \(F(P)\) on those records.
+For an auxiliary integer polynomial \(Q\), [subtracting \(P\) times a rounded polynomial](../claims/Yin_C_G0345_v623.md#tails) costs at most \(\deg(Q)/4\) in the middle of the coefficient sequence and preserves exact geometric sums over the poles on both tails.
+If \(T=\sqrt m\sum_{P(\rho)=0}(|P'(\rho)|\sqrt{|1-|\rho|^2|})^{-1}\), interpolation already forces [\(T\gg d^{1/4}\)](../claims/Yin_C_G0345_v627.md#statement), and [several interpolation radii](../claims/Yin_C_G0345_v625.md#statement) improve the exponent to \(1/2-o(1)\) for \(m\le1\).
+Even irreducible reciprocal power substitutions attain the exponent at fixed positive measure.
+Thus bounding the sum of absolute residues in the \(Q=1\) estimate cannot supply the target on shrinking records.
+Seek cancellation in the two geometric sums, or an auxiliary \(Q\) small at the roots contributing most to them.
+For a cyclotomic product matching the radial pairs, the [one-pair formula and local overlap estimate](../ledger/Yin_L_G0462_v320.md#matching) quantify the angular accuracy this would require.
+Reducing the middle coefficients modulo integers gives a [determinant test](../claims/Yin_C_G0345_v629.md#statement) on the two remaining tails, in every dimension up to the degree.
+For reciprocal inputs the [full-degree formula and monotonicity](../claims/Yin_C_G0345_v630.md#statement) put every normalized tail determinant at least at scale \(1/(4m^2)\) as \(m\to0\).
+Both determinant upper estimates thus exceed the desired scale even when the integer lattice could have a much shorter individual vector.
+For the classes of the central monomial or of a matched square, [round every Laurent coefficient](../ledger/Yin_L_G0462_v320.md#rounding) of the quotient and bound the sum of its squared distances to integers.
+In particular a square whose base polynomial has width less than half the input degree also costs at least \(1/(4\sinh^2m)\).
+A full matching uses a base of exactly half the degree, the first width outside this obstruction.
+For a square of arbitrary width, the [moment and coefficient tests](../claims/Yin_C_G0345_v631.md#squares) give a different restriction.
+If the mean of \(|B|^2/|P|\) stays bounded as \(m\to0\), the first order \(1/m\) nonzero Taylor coefficients of the monomial normalization of \(B(X)B(X^{-1})/P(X)\), with a constant depending on the mean bound, occupy only boundedly many dyadic intervals of positive exponents.
+Test whether the arithmetic of a proposed wide numerator forces more occupied scales or admits the concentration required at this endpoint.
+An independent lower bound for \(F(P)\) on strict degree records would also test the exponential upper bound.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
+For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
+Determine how soon such a period occurs and how the endpoint estimates depend on the input before using this bound across Salem numbers of increasing degree.
 At an individual period the [quartic Salem example](../ledger/Yin_L_G0462_v299.md#comparison) also separates the unrestricted maximum from the one at full conductor.
 For these inputs test the [sum of all squared amplitudes](../ledger/Yin_L_G0462_v300.md#moments) against its exact collision-entropy rate.
 A finite block with collision probability greater than \(e^{-nm}\) would prove a positive collision deficit at that input by concatenation.
