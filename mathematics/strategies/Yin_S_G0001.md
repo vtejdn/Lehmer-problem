@@ -19,6 +19,10 @@ The main researcher may change this allocation as mathematical evidence, a concr
 The [resumed Task](../tasks/Yin_T_G0001_v1.md#decision-resume-alternating-blocks-2026-11-17) selects the inquiries below under its standing execution conditions.
 Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
+For the unrestricted problem, every hypothetical shrinking sequence supplies [balanced ternary multiples of growing multiplicity](../claims/Yin_C_G0345_v560.md#span) on any prescribed set of exponents of fixed positive density.
+Their number of nonzero coefficients divided by their actual exponent span tends to zero when the multiplicity times the log measure tends to zero.
+Test whether a factor bound can use this relative sparsity together with the imposed multiplicity, since the length-six classification requires a bound on the absolute number of coefficients.
+
 | Role | Current focus | Useful next distinction |
 | --- | --- | --- |
 | Salem construction with S4 | Seek changing Salem factors through the inverse congruences or two nonzero outer coefficients. | The [least admissible power](../claims/Yin_C_G0345_v392.md#least) is determined by the orders of the roots modulo two whenever the original input is excluded. Test whether its [entropy cost](../claims/Yin_C_G0345_v392.md#changing) can tend to zero as the Salem input tends to one. |
@@ -69,14 +73,21 @@ A [short interval containing \(p\) unit-modulus coefficients](../claims/Yin_C_G0
 The [first long-power phase mean](../claims/Yin_C_G0345_v540.md#statement) tends to \(2/3-\sqrt3/(2\pi)\) on every candidate, providing a separate necessary test for a proposed factor sequence.
 The [factor gap for nonreciprocal parents of coefficient length at most six](../claims/Yin_C_G0345_v555.md#statement) restricts the search at that length to two signed reciprocal families, one with a binomial and one with a trinomial at each end.
 In the binomial case a low constant of absolute value two puts all zeros of the upper block inside the disk, so the [separated-block gap](../claims/Yin_C_G0345_v170.md#statement) excludes that orientation when the block width is negligible.
+For the monic binomial family with total degree \(D=n+k\), the [exact decomposition at \(n=3^a\)](../claims/Yin_C_G0345_v559.md#statement) isolates the unique noncyclotomic factor throughout its separation range.
+The [long-exponent bound at three](../claims/Yin_C_G0345_v561.md#statement) and the [coefficient-prime bound at two](../claims/Yin_C_G0345_v562.md#statement) exclude fixed prime support at either relevant exponent.
+More generally, a shrinking sequence requires the [multiplicative orders of two and three divided by their respective prime-to-characteristic moduli to tend to zero](../claims/Yin_C_G0345_v563.md#statement).
+Even with arbitrarily many prime divisors of \(n\), [one place above three realizes its prime-to-three part up to a subpower loss](../claims/Yin_C_G0345_v565.md#statement).
+Use the [primitive examples with both normalized orders small](../ledger/Yin_L_G0462_v284.md#exponents) to test whether the rational factor containing a real exterior root must also contain a positive proportion of its neighboring exterior roots.
 For reciprocal parents with six distinct terms of coefficient modulus one, search for an irreducible noncyclotomic factor with degree \(d=o(N)\), where \(N\) is the parent degree.
+For [equally spaced trinomial blocks](../claims/Yin_C_G0345_v564.md#statement), a fixed set of primes supporting the long exponent already gives a uniform factor gap at both signs.
 The [degree criterion at all exponents](../claims/Yin_C_G0345_v554.md#statement) excludes this whenever the third exponent is a positive fraction of \(N\); on separated blocks it identifies the limiting measure per degree share with the measure of the low trinomial.
 When the short exponents have growing reduced denominator, [a multiplicative relation between roots determines the two parents up to the stated power and torsion substitutions](../claims/Yin_C_G0345_v557.md#statement).
 For the original six-term sections this gives \(bm(P)/d\to\mu\) when \(s\to\infty,\ r/s\to\infty\); the [quantitative estimate](../claims/Yin_C_G0345_v548.md#statement) gives a rate farther into this range.
 All [twelve sections factored over the integers](../ledger/Yin_L_G0462_v282.md#sections) on the two offsets \(b=as^3\pm1\) have a single noncyclotomic factor.
 On \(s\equiv2\bmod3,\ a=3^k,\ k\ge1\), the [common dyadic residue](../claims/Yin_C_G0345_v553.md#statement) singles out one rational factor at each of the two cubic offsets.
 Each [marked factor is noncyclotomic and carries the full power-suborder index](../claims/Yin_C_G0345_v556.md#statement).
-The [exact factorizations at the marked offsets](../ledger/Yin_L_G0462_v283.md#degrees) give concrete cases for testing whether that index forces a lower bound on \(d/b\) uniform in \(s\).
+The [intermediate power indices and local conductors](../claims/Yin_C_G0345_v558.md#statement) are all realized in one unramified completion of degree \(2a\).
+To explain the larger rational degrees in the [exact factorizations at the marked offsets](../ledger/Yin_L_G0462_v283.md#degrees), seek a second place or a constraint on which exterior conjugates occur in the same rational factor.
 On the positive offset, [simultaneous exclusions at every chosen small prime](../claims/Yin_C_G0345_v545.md#statement) can still leave factors of growing degree undecided.
 At cubic slopes a prime giving a single residue factor of degree comparable to \(b\) must detect [a proper subset of the primitive roots of its order](../claims/Yin_C_G0345_v551.md#statement).
 If a proposed factor also has \(k\le Ka\) exterior roots at \(s\le r\le Cs^3\), check its [distribution across the poles](../claims/Yin_C_G0345_v543.md#statement) and the [explicit lower bound on \(k/a\)](../claims/Yin_C_G0345_v547.md#statement).

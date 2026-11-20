@@ -327,6 +327,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Xyl11](Xyl11/readme.md) | [Yin_U001](Xyl11/Yin_U001.md) |
 | [Yin20](Yin20/readme.md) | [Yin_U001](Yin20/Yin_U001.md), [Yin_U002](Yin20/Yin_U002.md), [Yin_U003](Yin20/Yin_U003.md), [Yin_U004](Yin20/Yin_U004.md) |
 | [Yu99](Yu99/readme.md) | [Yin_U001](Yu99/Yin_U001.md) |
+| [Yua08](Yua08/readme.md) | [Geometric equidistribution of small points on a projective curve](Yua08/Yin_U001.md#yuan-equidistribution) |
 | [Zam19](Zam19/readme.md) | [Yin_U001](Zam19/Yin_U001.md) |
 | [Zan10](Zan10/readme.md) | [Full-degree torsion fibers under irreducible power pullbacks](Zan10/Yin_U001.md#zan10-u001) |
 | [dlH13](dlH13/readme.md) | [Yin_U001](dlH13/Yin_U001.md) |

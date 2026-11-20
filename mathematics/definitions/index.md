@@ -63,6 +63,7 @@ See the [owning rule](../../framework/rules/definitions.md) for content, authori
 
 | Concept and entry | Exact home | Convention and boundary |
 | --- | --- | --- |
+| Generic small sequences and geometric Galois-orbit measures | [Yuan, Section 3.1](../audits/literature/Yua08/Yin_U001.md#small-generic-orbits) | Curve height and counting measure in the completed algebraic closure at a place. |
 | Higher and multiple Mahler measures | [LS11 Definitions 1 and 2](../audits/literature/LS11/Yin_U001.md#definitions) | Moments and mixed moments of the boundary logarithms in normalized circle measure. |
 | Uniform monic integer coefficient-box law | [C869 sampling convention](../claims/Yin_C_G0869_v1.md#statement); [C870 small-shell and reciprocal unit laws](../claims/Yin_C_G0870_v1.md#statement) | Independent uniform non-leading coefficients in [-N,N], fixed-N expectation and concentration; reciprocal conditioning, discrete atom size and positive-shell existence criteria retain their distinct domains. |
 | Nearest-reference coefficient restoration | [SEMR21 restoration map](../audits/literature/SEMR21/Yin_U001.md#restoration-map) | The inspected 2021 paper's arXiv deposit, Sections 2.1--2.2; preserve assigned ternary coordinates and copy the remainder from a nearest reference on those coordinates. The source leaves sampling probabilities and tie handling unspecified; no current proof dependency. |

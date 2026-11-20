@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v284](Yin_L_G0462_v284.md#exponents) | Two small orders at primitive exponents | A Chinese remainder construction makes both normalized Frobenius orders tend to zero while the smallest prime factors of both tested exponents tend to infinity. |
 | [Yin_L_G0462_v283](Yin_L_G0462_v283.md#degrees) | Rational degrees at the marked offsets | Integer factorization and reduction modulo two identify the marked factors at ten cubic sections and two shorter offsets. |
 | [Yin_L_G0462_v282](Yin_L_G0462_v282.md#sections) | Exact factorizations at two cubic offsets | Twelve complete integer factorizations identify the cyclotomic indices and degrees of the sole noncyclotomic factors. |
 | [Yin_L_G0462_v281](Yin_L_G0462_v281.md#orders) | Radical orders on the quadratic example | The least sufficient modulus is two, and the odd and even orders give different factor degrees, reciprocity and measures. |
