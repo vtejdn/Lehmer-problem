@@ -27,22 +27,35 @@ Even on the reduced inputs, [single arithmetic progressions](../ledger/Yin_L_G04
 A shrinking sequence with \(m=\log M(\alpha)\to0\) forces many [terminal relations with the same ordered outgoing coefficients](../claims/Yin_C_G0345_v584.md#statement), even when a split through \(c\alpha^h\) allows any integer \(h\) and any field element \(c\) of degree at most \(B\) with unrestricted height.
 The parameter \(B\) can grow with the input, subject to the power-field degree condition and \(Bm\to0\).
 For some growing weight \(r\), at least \((c_0/m)^{r-2}\) different integer exponent lists remain after fixing those coefficients and placing the distinguished term at zero.
-Seek an upper bound exponential in \(r\) with an absolute base at strict record minima, where every positive power preserves the input degree.
-A proof may first divide out the common exponent gcd if it can also bound how many integer dilations have been identified.
+Restrict upper-bound tests to the actual witness ranges for the weight, coefficient heights and exponent span.
+Even at one fixed Salem number, [permuting rational representations](../claims/Yin_C_G0345_v597.md#statement) gives \(n!\) distinct primitive terminal shapes with the entire integer tuple and output fixed at weight \((d+2)n+1\).
 Write \(L=\log(1/m)\).
 The [mixed unit-equation estimate](../claims/Yin_C_G0345_v589.md#arity) forces the number \(r\) of terms in the witness to be at least a constant times \((L/\log(2+L))^{1/4}\).
 At strict degree records, [relative norms of partial sums](../claims/Yin_C_G0345_v588.md#edges) put the actual intermediate coefficients in logarithmic height \(O(\log(2d))\).
 For general units, [comparison of two conjugates fixing a coefficient](../claims/Yin_C_G0345_v594.md#window) puts all marked exponents of a witness in an interval of length \(O(d^4\log(2d))\).
 Dividing exponents by their gcd still leaves at least \(\exp((1-o(1))(r-2)L)\) different marked lists for one fixed coefficient tuple if \(\log(2k)=o(rL)\), where \(k\) is the larger count of expanding or contracting embeddings. [General units](../claims/Yin_C_G0345_v594.md#signature) · [Strict record minima](../claims/Yin_C_G0345_v593.md#statement)
 In particular all hypothetical Salem sequences obey this primitive count, even when the permitted coefficient degree grows. [Salem fields and the count](../claims/Yin_C_G0345_v591.md#statement)
-For a strict record and fixed rational outgoing coefficients, an exponential upper bound on the primitive count could coexist with a shrinking sequence only if \(\log(2k)\gg rL\) and \(L=O(D^{4/5}(\log(2+D))^{1/5})\), with \(D=\log\log(3d)\).
+For a strict record and fixed rational outgoing coefficients, an exponential upper bound on the primitive count in the witness window could coexist with a shrinking sequence only if \(\log(2k)\gg rL\) and \(L=O(D^{4/5}(\log(2+D))^{1/5})\), with \(D=\log\log(3d)\).
 
-Concentrate the upper-bound question on a single prescribed tuple of rational coefficients and the full test for a partial sum equal to a rational multiple of a power.
+For inputs with a unit-circle conjugate one can [fix the output as well](../claims/Yin_C_G0345_v595.md#statement) and choose a representative of exactly the same measure whose powers preserve degree.
+An independent [count by sizes of pairs of subtrees](../claims/Yin_C_G0345_v596.md#tree) bounds the loss per term explicitly for strict records.
+For one full coefficient tuple let \(H_2\) be the product of \(1+|b_i|\) after omitting the two largest magnitudes.
+Test whether \(A^r H_2^\lambda\) bounds the number of primitive shapes in the finite witness windows for fixed absolute \(A,\lambda\).
+The [weighted lower bound](../claims/Yin_C_G0345_v600.md#statement) would contradict that estimate for any shrinking sequence with a unit-circle conjugate, regardless of its other conjugates.
+The certified factorial multiplicity fits this allowance for every \(\lambda>0\).
+The [height and spacing restrictions](../ledger/Yin_L_G0462_v316.md#salem) allow at most three disjoint permutable blocks in the signed witness range at Salem inputs of large degree.
+After [deleting the two exceptional terms](../ledger/Yin_L_G0462_v313.md#recovery), their exponents are uniquely recoverable in fixed order from the remaining positions, and their coefficients impose a norm divisibility on the remaining sum.
+Test this divisibility across the possible normalized positions of the smaller terms.
+
+For units without a unit-circle conjugate, [the characteristic of a short cyclic quotient](../claims/Yin_C_G0345_v599.md#statement) can prescribe the output within the height window and preserve the logarithmic count.
+Determine whether the small-measure condition supplies suitable periods on the high-signature strict records.
+There are [power-stable hyperbolic reciprocal units](../claims/Yin_C_G0345_v598.md#statement) of unbounded degree with all those quotients trivial through \(c\log d\), whose measures stay between 8 and 57.
+The near-unit-circle criterion in the [full coefficient count](../claims/Yin_C_G0345_v595.md#near) gives a second test at hyperbolic inputs.
 If the coefficients can be chosen separately for each support, [every primitive shape of at least \(d+2\) terms can occur](../ledger/Yin_L_G0462_v309.md#statement) at a unit whose powers preserve degree.
 At Lehmer's unit, the [exact window of length 22](../ledger/Yin_L_G0462_v312.md#counts) contains 55 primitive marked ternary supports surviving the full rational test, including twelve seven-term supports with the same six outgoing signs.
 Six further supports split only through exponents outside their own span, including the defining polynomial itself.
 For a fixed tuple, [lifting simultaneous exponent lists to a rational function field](../claims/Yin_C_G0345_v592.md#lifting) bounds the count within each coordinatewise residue class by successive comparisons of degrees at infinity.
-Determine how terminality constrains the number of occupied residue classes and the possible pairs at each comparison, since the current bounds still include a power of the modulus and factorial factors.
+Within the witness windows the number of occupied residue classes and the number of choices at each comparison remain uncontrolled.
 For the multiplication of all exponents by the same integer, [an integral determinant](../claims/Yin_C_G0345_v590.md#affine) already removes the height cost at every asymmetric rational pattern on a reciprocal strict record.
 In the symmetric case, test [congruences on the common integer output](../ledger/Yin_L_G0462_v310.md#test) and [short periods at a finite place](../claims/Yin_C_G0345_v586.md#shapes).
 The [three-simple-root benchmark](../ledger/Yin_L_G0462_v307.md#benchmark) gives least periods from 5 to 97 on 72 Salem inputs, including 25 for Lehmer's polynomial.

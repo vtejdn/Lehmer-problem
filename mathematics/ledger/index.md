@@ -5,6 +5,8 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v316](Yin_L_G0462_v316.md#bounds) | Permuted representations in the witness window | Degree and height restrict how many disjoint groups can represent a common element at Salem inputs. |
+| [Yin_L_G0462_v313](Yin_L_G0462_v313.md#recovery) | Recovering a pair of weighted powers | Inversion determines the ordered pair from the remaining terms and gives a divisibility and a lower bound on their span. |
 | [Yin_L_G0462_v312](Yin_L_G0462_v312.md#counts) | Rational terminal supports at Lehmer's unit | Among 557 minimal supports in a window of length 22, six split only through an exponent outside their span and 55 survive the full rational test. |
 | [Yin_L_G0462_v311](Yin_L_G0462_v311.md#spread) | Radial spread and the house | For a reciprocal unit of shrinking measure the spread of absolute logarithmic radii is asymptotic to the largest absolute logarithmic radius. |
 | [Yin_L_G0462_v310](Yin_L_G0462_v310.md#test) | Congruences for a common rational output | Cyclotomic remainders restrict the dilation and the output simultaneously. |
