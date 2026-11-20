@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v807](Yin_R_G0562_v807.md#finding) checks the two optimal exponents for the tails at fixed input, the lattice upper construction and the logarithmic energy cost.
+
+- [R562 v806](Yin_R_G0562_v806.md#finding) checks the bounds outside intervals on the degree divided by measure scale, including translated sections, short pivots and rounded coefficients.
+
+- [R562 v805](Yin_R_G0562_v805.md#finding) checks the Archimedean count over arbitrary exponent spans and its consequences for witness weight and occupied residues.
+
+- [R562 v804](Yin_R_G0562_v804.md#finding) checks the integral determinant and its projection, inverse-square and supercritical interval estimates.
+
+- [R562 v803](Yin_R_G0562_v803.md#finding) checks lifting through the power-order conductor, the sharp one-progression estimate and the reciprocal quadratic comparisons.
+
 - [R562 v802](Yin_R_G0562_v802.md#finding) checks the positive tail cost outside unions of long intervals, including the separation of progression pairs and the covering scale.
 
 - [R562 v801](Yin_R_G0562_v801.md#finding) checks the energy decomposition at powers of a unit, the count of surviving sections and the width consequence.

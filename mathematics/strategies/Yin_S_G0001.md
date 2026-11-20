@@ -70,8 +70,10 @@ Independently, [the count from consecutive groups of terms](../claims/Yin_C_G034
 If \(\log r=o(\log(1/m))\), almost every gap of almost every witness exceeds \(m^{-\theta}\).
 The [count in prescribed intervals](../claims/Yin_C_G0345_v662.md#statement) applies even when the intervals are far apart, provided their total width is below the degree.
 It also bounds the witnesses occupying a few bins chosen after seeing the list, with an explicit cost for choosing them.
-Concentrate the remaining upper-count test on witnesses spread over more bins than this estimate controls.
-An argument forcing those witnesses into a few bins would already contradict the required multiplicity.
+For a conjugate with \(|\log|\gamma||\ge\eta m\), the [archimedean count on the whole exponent range](../claims/Yin_C_G0345_v668.md#statement) also controls lists spread over arbitrarily many distant bins.
+On a shrinking Salem sequence it forces \(r\gg L^{5/4}/(\log(2+L))^{1/4}\), and almost all the witnesses occupy a positive fraction of \(\min(r,\lceil2\log(2)/m\rceil)\) residue classes.
+Seek an upper bound for this weight on the same witnesses, or use their many occupied residues to restrict the remaining mergers.
+When every radial logarithm is \(o(m)\), the count by intervals still applies.
 For the unrestricted input a bounded number of periods of total length \(O(d)\) covering a fixed positive normalized rank weight would itself give a positive Mahler gap.
 When the number \(k\) of binary periods grows, [counting the prime-power divisors of each resultant](../claims/Yin_C_G0345_v648.md#statement) gives a coefficient asymptotic to \(3(\log 2)^2/(k\log k)\) in the lower bound for \(m\sum q_j/d\).
 For two binary periods the [available specialized estimate](../audits/literature/HB26/Yin_U001.md#hb26-u001) remains stronger.
@@ -157,7 +159,10 @@ Power substitution preserves \(\mathcal E(P)\), so first remove the common subst
 A construction forcing \(\limsup m\mathcal E(P)<b\) on hypothetical shrinking hyperbolic degree records would contradict the uniform bound for all widths.
 The [decomposition into progressions](../claims/Yin_C_G0345_v664.md#statement) permits a different test on these records.
 For \(k m\to0\), finding one residue modulo \(k\) whose energy times \(km\) stays strictly below \(b\) suffices, regardless of the energy on the other residues.
-Test the contracting and expanding pole sums on the same residue, with the integer representative chosen for that progression.
+The [inverse lift through the conductor](../claims/Yin_C_G0345_v666.md#statement) gives a constructive upper bound of twice \(\mathcal E(P_k)\) for any one prescribed progression.
+For all progressions use its exact compatibility condition, under which their values at \(\alpha^k\) must be \(\alpha^{-r}y\) for one common conductor element \(y\).
+Reciprocal quadratics at increasing measure have an unbounded ratio of the original to the powered minimum.
+For shrinking records test the average cost of these compatible classes, or compare the two pole sums on one residue directly.
 For \(1<p<2\) the [successive occupied coefficients](../claims/Yin_C_G0345_v637.md#statement) also give stronger moment constants.
 A [single-pole rational example](../ledger/Yin_L_G0462_v321.md#example) attains the one-ended squared-energy estimate at every \(m\) and fails tail integrality, explaining the gain from using the two integer expansions.
 For an auxiliary integer polynomial \(Q\), [subtracting \(P\) times a rounded polynomial](../claims/Yin_C_G0345_v623.md#tails) costs at most \(\deg(Q)/4\) in the middle of the coefficient sequence and preserves exact geometric sums over the poles on both tails.
@@ -192,9 +197,15 @@ But the [actual output following every initial fraction of the integer coefficie
 A [single inner multiplier](../claims/Yin_C_G0345_v658.md#statement) can attain its separate projection bound using large exponent spacings.
 Use both ends and the nonzero integral remainder together when seeking a further improvement.
 On degree records with bounded scaled energy, [at least \(b/2\) of scaled energy remains outside](../claims/Yin_C_G0345_v665.md#statement) any moving interval of length \(o(\log(1/m)/m)\), including after nearest-integer rounding.
-A construction can therefore aim for bounded total scaled energy and a tail strictly below \(b/2\) on this scale.
-For a short numerator use the higher tail threshold \(0.5123527342\ldots/2\).
-Estimate both pole tails beyond the chosen interval together with its contribution to the total.
+For a short numerator this logarithmic-scale tail threshold is \(0.5123527342\ldots/2\).
+The [Gram determinant of independent sections](../claims/Yin_C_G0345_v667.md#determinant) gives a test at the inverse-square scale, also for projections to arbitrary common subspaces.
+Using [translated sections](../claims/Yin_C_G0345_v669.md#statement), at least \(1/(2\mathrm e)\) of scaled energy remains outside any interval of length \(o(d/m)\), or \(1/4\) for a short numerator.
+Even at length \(O(d/m)\) a positive lower limit persists when the total scaled energy stays bounded.
+On a fixed polynomial the [weighted lattice of conjugates](../claims/Yin_C_G0345_v670.md#statement) constructs a numerator whose two tails outside \(W\) sites have total energy \(O_P(e^{-2mW/d})\).
+Under a fixed cap on total energy the exact decay exponent is instead \(2/(1/\delta_-+1/\delta_+)\), where \(\delta_\pm\) are the least absolute radial logarithms on the two sides.
+A faster exponent costs at least order \(\log W\) in total energy on that input.
+Focus the construction on simultaneous estimates along the shrinking records for the lattice constant, the two slowest poles and the energy of the rounded coefficients inside the interval.
+The fixed-input upper estimate currently allows \(W/4\) there.
 A second [test depending only on the denominator](../claims/Yin_C_G0345_v650.md#angular) identifies angular sets of Haar measure \(O(m)\) where a quotient with bounded \(m\|Q\|_\infty\) must cancel a short remainder if the full supremum norm is \(o(1/m)\).
 For higher moments use the [rounding variance of the same residue class](../claims/Yin_C_G0345_v650.md#rounding).
 Small variance would give representatives of smaller higher moments.
