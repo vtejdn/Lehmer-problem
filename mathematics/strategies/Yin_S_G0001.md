@@ -65,6 +65,7 @@ The [rational-power separation](../claims/Yin_C_G0345_v527.md#statement) exclude
 Across [arbitrary critical sections](../claims/Yin_C_G0345_v538.md#statement), a product relation with unbounded exponents must use a whole Galois block in a participating factor of largest block size.
 A [bounded-term multiple with exponents near fixed rational multiples of \(b\)](../claims/Yin_C_G0345_v536.md#statement) that vanishes on a critical factor is divisible by the entire parent.
 To distinguish an individual factor, test multiples whose support grows or whose exponents escape these bands.
+A [short interval containing \(p\) unit-modulus coefficients](../claims/Yin_C_G0345_v541.md#statement) in a bounded-term multiple must leave at least \(\lceil\sqrt p\rceil\) terms outside it, even at arbitrarily distant exponents, provided the interval length is \(o(b)\).
 The [first long-power phase mean](../claims/Yin_C_G0345_v540.md#statement) tends to \(2/3-\sqrt3/(2\pi)\) on every candidate, providing a separate necessary test for a proposed factor sequence.
 Search for a rational factor of degree \(\asymp as^2\) with \(O(a)\) exterior roots, testing the required occupancy at the seed zeros and \(\log a\gg s^{1/3}\log s\).
 For a construction with \(o(a)\) exterior conjugates, investigate fixed \(s\) at growing slope or growing \(s\) beyond the cubic range.
@@ -195,6 +196,9 @@ The proof uses the growing spacing of successive powers to discard a vanishing p
 For consecutive exponents in a broad interval, determine whether interleaved exterior orbits still force their full combined contribution.
 The [shrinking-disk bound for each Galois block](../claims/Yin_C_G0345_v539.md#statement) gives an independent exclusion test on the seed if an arithmetic restriction forces a disk to be empty in one block.
 For a lower bound on the unrestricted infimum, test arithmetic restrictions on these seeds themselves alongside the coefficient estimates.
+The [directional width bound](../claims/Yin_C_G0345_v542.md#statement) extends the quadratic coefficient estimate to multivariate polynomials after measuring the width contributed by nontorsion factors.
+It rules out small measure at bounded coefficient norm ratio whenever some direction gives those factors a positive fixed share of the width.
+For the six-term family in that proof, both the width-share bound and the coefficient bound on the remaining factor tend to zero.
 For two prescribed Salem seeds [the optimal coefficient cost alone](../claims/Yin_C_G0345_v498.md#statement) is attained asymptotically at every pair of comparable distinct primes.
 For \(r\) nearby powers the [common-seed norm bound](../ledger/Yin_L_G0462_v251.md#seven) excludes width \(7r\) at fixed \(r\).
 To treat the unrestricted common-prime minimum, account for distinct seeds among the primes and unbounded width per prime.
