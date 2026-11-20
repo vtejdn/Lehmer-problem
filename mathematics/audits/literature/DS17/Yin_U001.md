@@ -70,3 +70,12 @@ No unresolved applicability objection remains for the bounded univariate externa
 
 Current exact consumer: [C_G27 fixed-denominator and hypothetical-sequence coupling](../../../claims/Yin_C_G0027_v1.md#statement), with its complete retained local proof.
 This adds consumer navigation only and does not expand the inspected source theorem, foundational proof coverage or numerical gap information.
+
+<a id="bivariate-factor"></a>
+## Application to a two-variable factor
+
+On 2026-11-20 the main researcher and the independent reviewer of the [fixed-width coefficient argument](../../../claims/Yin_C_G0345_v617.md#layers) checked the definition of \(\mathcal H_k\) and Theorem 2 on page 2 of the [authors' revision](https://webhomes.maths.ed.ac.uk/~chris/papers/Dobrowolski_Smyth_revision_submit0816.pdf).
+At that step the quotient \(F/U_d\) is a nonzero integer Laurent polynomial in two variables with at most \(k=\binom{2d}{d}\) terms.
+The theorem applies directly to its two-variable torus measure for each fixed \(d\).
+The earlier denominator application used only the one-variable case.
+The [project review](../../reviews/Yin_R_G0562_v754.md#finding) checked the hypotheses and use of the theorem at this point.

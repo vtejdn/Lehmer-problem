@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v319](Yin_L_G0462_v319.md#tails) | Prime tails and joint logarithmic tests | Large-prime excess grows linearly, while a single cyclotomic power meets all the prime and antipodal lower bounds. |
 | [Yin_L_G0462_v318](Yin_L_G0462_v318.md#residues) | Two surviving residues at a common coefficient prime | Reciprocal evaluations recover at most two pairs outside an explicit exception and force six distinct residues in the Lehmer parity example. |
 | [Yin_L_G0462_v317](Yin_L_G0462_v317.md#descent) | Minimum numerator degree under substitution | Splitting coefficient residues recovers the exact degree scaling, including irreducible inputs with the same measure and arbitrarily large shortest degree. |
 | [Yin_L_G0462_v316](Yin_L_G0462_v316.md#bounds) | Permuted representations in the witness window | Degree and height restrict how many disjoint groups can represent a common element at Salem inputs. |

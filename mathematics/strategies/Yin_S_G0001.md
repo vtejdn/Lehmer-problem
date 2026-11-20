@@ -55,27 +55,30 @@ Test for such primes with root order exceeding twice the witness span, where dis
 When the largest coefficient nearly equals the sum of the others, use [separation across the neutral embeddings](../claims/Yin_C_G0345_v604.md#separation) to restrict their relative exponents.
 Away from that case, the [stronger weighted lower bound](../claims/Yin_C_G0345_v604.md#statement) allows an upper estimate to spend a factor exponential in the polygon deficit.
 
-For reciprocal inputs without a unit-circle conjugate, first test whether small measure forces either of two explicit circle integrals to tend to zero along a subsequence.
-For a monic irreducible input \(P\), write \(u(e^{it})=|P(e^{it})|\), and put \(D(s)=0\) on \([0,4]\) and \(D(s)=\operatorname{arcosh}(s/2-1)\) above 4.
-The [numerator and upper-tail transfers](../claims/Yin_C_G0345_v605.md#bound) construct nontorsion units with a unit-circle conjugate and measures tending to zero if either \(\int D(u)\) vanishes asymptotically or \(\int D(|A|^2/u)\) does so for admissible integer polynomials \(A\) chosen separately at each input.
-The constant \(A=1\) tests only [values below one quarter](../claims/Yin_C_G0345_v602.md#statement).
-For each fixed input, [finite tests on integer coefficients](../claims/Yin_C_G0345_v607.md#termination) decide exactly whether some nonzero \(A\) satisfies \(|A|^2\le4u\) on the entire circle.
-Every such \(A\) is automatically coprime to \(P\).
-Remove common power substitutions first, since [averaging over their fibers](../ledger/Yin_L_G0462_v317.md#descent) divides the shortest certificate degree by the substitution exponent while preserving existence.
-At a fixed input, [failure at a finite depth](../claims/Yin_C_G0345_v608.md#statement) already bounds the integrated loss away from zero uniformly over integer numerators of all degrees.
-The [degree-twelve certificate](../claims/Yin_C_G0345_v605.md#example) illustrates how a nonconstant \(A\) removes the entire loss.
+For a monic irreducible reciprocal input \(P\) without a unit-circle conjugate, put \(m=m(P)\), \(u=|P|\) on the unit circle and \(c=\log(11/4)/22\).
+The [earlier bounded-width theorem](../claims/Yin_C_G0345_v156.md#statement) already excludes vanishing total measure for a width-two pencil with a nontorsion component depending on the second variable.
+The preceding strategy overlooked this obstruction when proposing to transfer a shrinking sequence by making the whole pencil small.
+The [bound on the first nonzero Taylor coefficients](../claims/Yin_C_G0345_v617.md#compression) now gives explicit constants for both proposed transfers.
+For the [rational numerator transfer](../claims/Yin_C_G0345_v617.md#quadratic), the sum of \(m\), twice the denominator measure and the integrated loss is at least \(c\), uniformly in the input and numerator degrees.
+Thus an integral numerator coprime to \(P\) satisfying \(|A|^2\le4u\) everywhere gives \(m\ge c\) for the original input.
+In the [complementary transfer](../claims/Yin_C_G0345_v617.md#upper), the loss alone is at least \(\log(5/4)/20\).
+A construction using a fixed-width pencil would have to control the exterior roots belonging to an individual factor of a specialization.
+The [signed cyclotomic discrepancy](../claims/Yin_C_G0345_v615.md#statement) also has a positive lower limit as \(m\to0\), for any bounded positive multiplicity.
 
-For a shrinking sequence the lower bound at one input need not persist at the next.
-If the total cost \(T=m(P)+2m(B)+\int D(|A/B|^2/u)\) is small for a rational numerator with integral denominator \(B(0)=\pm1\), the Taylor coefficients of \(A^2/(P B^2)\) at the origin have squared sum at most sixteen up to lengths \(n<\log(17/16)/(2T)\).
-The [binary square test](../claims/Yin_C_G0345_v609.md#parity) excludes most long binary prefixes under uniform counting, and an explicit [length-504 prefix](../claims/Yin_C_G0345_v613.md#example) forces positive total cost even with variable denominators.
-Try to bound the measure of inputs with an excluded prefix independently of the transfer, or to transfer them using a different polynomial of comparably small measure.
-In the complementary direction, [signed cyclotomic root counts](../claims/Yin_C_G0345_v611.md#statement) transfer the sequence if they approximate the cumulative exterior phase counts with vanishing unnormalized mean-square error.
-The [logarithmic moment test](../claims/Yin_C_G0345_v614.md#statement) has at most three feasible extensions per frequency for sufficiently small \(m(P)\).
-Use it to distinguish failure of the actual loss criterion from failure of the angular upper bound, particularly at odd Newton sums.
+Use the [prime substitution estimates](../claims/Yin_C_G0345_v618.md#statement) directly on \(L(t)=\log |P(e^{it})|\).
+For each prime \(p\), a hypothetical shrinking sequence must have positive integrated excess of \(|L(pt)-pL(t)|\) above \(2\operatorname{arsinh}p\), with a uniform positive lower limit even for \(p\to\infty\) and \(pm\to0\).
+A [single cyclotomic power](../ledger/Yin_L_G0462_v319.md#cyclotomic) already satisfies the numerical tails for all primes and the antipodal shift, and the raw large-prime tail grows linearly whenever the circle logarithm has substantial norm.
+Test joint cancellations between dilations against the [energy bound for integral quotients](../claims/Yin_C_G0345_v620.md#statement), where absence of circle roots supplies additional information.
+After removing even substitutions the antipodal comparison gives \(m\ge c\) whenever \(|P(-z)/P(z)|\le7\) on the circle.
+The [length-504 residue](../claims/Yin_C_G0345_v613.md#example) still excludes a binary certificate.
+However, [units with prescribed prefixes](../claims/Yin_C_G0345_v619.md#statement) can realize that residue and a passing residue with identical conjugate moduli and equal powers at unbounded common degrees.
+Their measures stay away from zero, so a direct lower bound from the excluded prefix would still need information specific to small measure.
 
 The [quadratic subfield bounds](../claims/Yin_C_G0345_v610.md#statement) give \(M(P)\ge9/4\) if inversion acts nontrivially on a real quadratic subfield and \(M(P)\ge7/4\) if the trace field contains an imaginary quadratic field.
-More generally, below \(M(P)=(1+\sqrt5)/2\), [inversion acts as canonical conjugation](../claims/Yin_C_G0345_v612.md#compatibility) on every totally real or CM subfield of the root field.
-For further descent, focus on subfields satisfying this compatibility and on the embeddings where coefficient conjugation fails to reflect roots across the circle.
+Below \(M(P)=(1+\sqrt5)/2\), [inversion acts as canonical conjugation](../claims/Yin_C_G0345_v612.md#compatibility) on every totally real or CM subfield of the root field.
+For an inversion-stable subfield on which inversion acts nontrivially, let \(r>0\) and \(s\) count its real and nonreal embeddings, and let \(b\) be the degree of the root field over it.
+The [relative discriminant bound](../claims/Yin_C_G0345_v616.md#statement) forces \(r(2b)^{-s/r}\to0\) if \(m\to0\), and forces \(r2^{-s/r}\to0\) when the constant coefficient of the relative minimum is nontorsion.
+Further descent must account for the nonreal embeddings outside these ranges.
 
 For a direct count on these hyperbolic inputs, the [discriminant and reciprocal-radius estimates](../claims/Yin_C_G0345_v601.md#statement) retain the full fixed tuple whenever \(\min_\beta|\log|\beta||=O(m/(d\log(2d)))\), with an additional discriminant-dependent test.
 Outside those criteria one can [bound the sum of the coefficient excesses](../claims/Yin_C_G0345_v606.md#statement) along ordinary rational splitting trees on a sufficiently large fraction of the initial supports.
@@ -115,7 +118,15 @@ The [plastic](../ledger/Yin_L_G0462_v293.md#results) and [golden-ratio](../ledge
 For multiple roots the same comparison uses the multiplicity times the log measure, while [balanced relations on prescribed exponents](../claims/Yin_C_G0345_v560.md#span) also control the number of coefficients relative to their actual span.
 
 The [exterior argument test](../claims/Yin_C_G0345_v577.md#statement) identifies when periodic exponent sets already attain the sharp first-order density and min-entropy for a fixed number of equally expanding conjugates.
-For fixed hyperbolic inputs the [largest periodic Fourier amplitude](../claims/Yin_C_G0345_v579.md#hyperbolic) tends to a positive maximum, but the [conductor inequality](../claims/Yin_C_G0345_v578.md#statement) bounds this limit by \(O(m)\) if measures shrink, uniformly in degree.
+For fixed hyperbolic inputs the [largest periodic Fourier amplitude](../claims/Yin_C_G0345_v579.md#hyperbolic) tends to a positive maximum \(F(P)\).
+The [energy bound for integral quotients](../claims/Yin_C_G0345_v620.md#statement) improves the previous \(O(m)\) upper bound to \(\limsup_{m\to0}m\log F(P)\le-\pi^2/(4\mathrm e)\), with an explicit finite-period bound.
+For numerators of width less than \(\deg P\), the [sharp bound for a prescribed lowest coefficient](../claims/Yin_C_G0345_v621.md#evaluation) makes even the normalized Gram determinant diverge as \(m\to0\).
+Write \(\mathcal E(P)=\inf_{P\nmid A}\|A/P\|_2^2\) for the infimum over integral Laurent numerators.
+The [finite search over integral numerators](../claims/Yin_C_G0345_v622.md#finite-search) determines this minimum exactly for each fixed \(P\), after large gaps between occupied exponents are removed.
+For \(P=X^2-aX+1\), [the exact minimizers](../claims/Yin_C_G0345_v622.md#quadratic) change from the difference \(1-X\) at \(a=3\) to monomials at \(a\ge5\), with both types at \(a=4\).
+Power substitution preserves \(\mathcal E(P)\), so first remove the common substitution.
+A construction forcing \(\limsup m\mathcal E(P)<1/(2\mathrm e)\) on hypothetical shrinking hyperbolic degree records would contradict the energy bound.
+Seek wider integral numerators meeting that target, or an independent lower bound for \(F(P)\) on those records.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 At an individual period the [quartic Salem example](../ledger/Yin_L_G0462_v299.md#comparison) also separates the unrestricted maximum from the one at full conductor.
 For these inputs test the [sum of all squared amplitudes](../ledger/Yin_L_G0462_v300.md#moments) against its exact collision-entropy rate.
