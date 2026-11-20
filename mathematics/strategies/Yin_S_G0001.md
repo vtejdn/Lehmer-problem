@@ -67,11 +67,18 @@ A [bounded-term multiple with exponents near fixed rational multiples of \(b\)](
 To distinguish an individual factor, test multiples whose support grows or whose exponents escape these bands.
 A [short interval containing \(p\) unit-modulus coefficients](../claims/Yin_C_G0345_v541.md#statement) in a bounded-term multiple must leave at least \(\lceil\sqrt p\rceil\) terms outside it, even at arbitrarily distant exponents, provided the interval length is \(o(b)\).
 The [first long-power phase mean](../claims/Yin_C_G0345_v540.md#statement) tends to \(2/3-\sqrt3/(2\pi)\) on every candidate, providing a separate necessary test for a proposed factor sequence.
-For \(s\to\infty\) and \(r/(s^2\log(2s))\to\infty\), search for a nontorsion irreducible rational factor of degree \(d=o(b)\).
-The [uniform measure formula for every factor](../claims/Yin_C_G0345_v548.md#statement) makes this degree condition equivalent to vanishing logarithmic measure throughout that range.
+The [factor gap for nonreciprocal parents of coefficient length at most six](../claims/Yin_C_G0345_v555.md#statement) restricts the search at that length to two signed reciprocal families, one with a binomial and one with a trinomial at each end.
+In the binomial case a low constant of absolute value two puts all zeros of the upper block inside the disk, so the [separated-block gap](../claims/Yin_C_G0345_v170.md#statement) excludes that orientation when the block width is negligible.
+For reciprocal parents with six distinct terms of coefficient modulus one, search for an irreducible noncyclotomic factor with degree \(d=o(N)\), where \(N\) is the parent degree.
+The [degree criterion at all exponents](../claims/Yin_C_G0345_v554.md#statement) excludes this whenever the third exponent is a positive fraction of \(N\); on separated blocks it identifies the limiting measure per degree share with the measure of the low trinomial.
+When the short exponents have growing reduced denominator, [a multiplicative relation between roots determines the two parents up to the stated power and torsion substitutions](../claims/Yin_C_G0345_v557.md#statement).
+For the original six-term sections this gives \(bm(P)/d\to\mu\) when \(s\to\infty,\ r/s\to\infty\); the [quantitative estimate](../claims/Yin_C_G0345_v548.md#statement) gives a rate farther into this range.
 All [twelve sections factored over the integers](../ledger/Yin_L_G0462_v282.md#sections) on the two offsets \(b=as^3\pm1\) have a single noncyclotomic factor.
-Seek a proof of a uniform lower bound on \(d/b\) or a sequence on which the ratio tends to zero.
+On \(s\equiv2\bmod3,\ a=3^k,\ k\ge1\), the [common dyadic residue](../claims/Yin_C_G0345_v553.md#statement) singles out one rational factor at each of the two cubic offsets.
+Each [marked factor is noncyclotomic and carries the full power-suborder index](../claims/Yin_C_G0345_v556.md#statement).
+The [exact factorizations at the marked offsets](../ledger/Yin_L_G0462_v283.md#degrees) give concrete cases for testing whether that index forces a lower bound on \(d/b\) uniform in \(s\).
 On the positive offset, [simultaneous exclusions at every chosen small prime](../claims/Yin_C_G0345_v545.md#statement) can still leave factors of growing degree undecided.
+At cubic slopes a prime giving a single residue factor of degree comparable to \(b\) must detect [a proper subset of the primitive roots of its order](../claims/Yin_C_G0345_v551.md#statement).
 If a proposed factor also has \(k\le Ka\) exterior roots at \(s\le r\le Cs^3\), check its [distribution across the poles](../claims/Yin_C_G0345_v543.md#statement) and the [explicit lower bound on \(k/a\)](../claims/Yin_C_G0345_v547.md#statement).
 For an irreducibility proof, the [fixed three-variable polynomial](../claims/Yin_C_G0345_v544.md#statement) has irreducible pullbacks under every torus isogeny.
 Schinzel's rational specialization conjecture for that polynomial would give a [uniform factor gap at all primitive exponents](../claims/Yin_C_G0345_v550.md#statement) for sufficiently large \(s\); bounded-length relations among \(a,as,b\) already give an unconditional gap.
@@ -204,6 +211,7 @@ The proof uses the growing spacing of successive powers to discard a vanishing p
 For consecutive exponents in a broad interval, determine whether interleaved exterior orbits still force their full combined contribution.
 The [shrinking-disk bound for each Galois block](../claims/Yin_C_G0345_v539.md#statement) gives an independent exclusion test on the seed if an arithmetic restriction forces a disk to be empty in one block.
 For constructions using several distinct conjugate traces, the [lower bound for integral polynomial images](../claims/Yin_C_G0345_v546.md#statement) rules out bounded measure in the stated growing-degree range, even with varying coefficients.
+The [height bound for rational functions on distinct traces](../claims/Yin_C_G0345_v552.md#statement) also excludes rational expressions in that range, including the cross-ratio of four labels.
 For a lower bound on the unrestricted infimum, test arithmetic restrictions on these seeds themselves alongside the coefficient estimates.
 The [directional width bound](../claims/Yin_C_G0345_v542.md#statement) extends the quadratic coefficient estimate to multivariate polynomials after measuring the width contributed by nontorsion factors.
 It rules out small measure at bounded coefficient norm ratio whenever some direction gives those factors a positive fixed share of the width.
