@@ -302,6 +302,7 @@ At any signature the exponent ratio satisfies \(b/a\gg m^{-2}\), and [large-slop
 For the fixed Möbius graph, [every nontorsion factor receives asymptotically its degree share](../claims/Yin_C_G0345_v764.md#statement) of the total measure, so a shrinking witness requires a second distinct nontorsion factor and would contradict Schinzel's rational specialization conjecture for this graph.
 The [bounded denominator at fixed coefficient length](../claims/Yin_C_G0345_v210.md#statement) transfers shrinking to a primitive direction even when the root field contains many roots of unity.
 The [negative-unit example](../claims/Yin_C_G0345_v761.md#counterexample) explains why the absence of roots in the original field by itself cannot justify this step.
+If the seed is multiplied by an arbitrary root of unity, a [ramified congruence](../claims/Yin_C_G0345_v766.md#congruence) also bounds [divisibility modulo torsion in its unit group](../claims/Yin_C_G0345_v767.md#statement).
 For Salem conjugates a [four-term witness](../claims/Yin_C_G0345_v743.md#statement) must eventually have support \(0,a,b,a+b\) and satisfy an exact reciprocal equation with a seed \(B>1\) in a fixed set in the trace fields.
 Its short and long exponents satisfy \(am-\log B\to0\) and \(bm/d-h(B)\to0\).
 Moreover [every radical polynomial](../claims/Yin_C_G0345_v746.md#statement) \(X^k-B\) with \(k\mid a\) must remain irreducible over the Salem root field, even at \(k=a\).
@@ -316,7 +317,10 @@ At a rational pole, writing \((u,v)=(a,b)/\gcd(a,b)\), [both \(v\) and \(v+u\)](
 At pole two there are primitive directions with increasingly many primes in both long indices where every noncyclotomic factor has increasingly many exterior roots.
 At integer poles divisible by three distinct primes, [an unconditional set of prime total degrees](../claims/Yin_C_G0345_v760.md#statement) gives one irreducible nontorsion core for every split and both signs.
 For primitive directions, [the signed algebraic-pole criterion](../claims/Yin_C_G0345_v763.md#statement) restricts the conjugates which can differ by a root of unity.
-Test the remaining directions for a nontorsion factor of vanishing degree share and check the independent question of what forces a positive-density critical test.
+For a fixed integer pole, at [almost every prime exponent sum](../claims/Yin_C_G0345_v765.md#statement) in the short-exponent range, each factor's degree and exterior-root count are exact multiples set by the residue subgroup index.
+Among all integer short exponents in the prescribed boxes, [the distribution of this index constraint](../claims/Yin_C_G0345_v768.md#statement) gives a positive lower density of irreducible cores and zero limiting density for any shrinking positive factor threshold, allowing all dilations.
+At pole two the sufficient condition for irreducibility in both signs has density \(\prod_p(1-1/(p^2(p-1)))\).
+Search the exceptional directions for an actual small-degree factor, and determine independently what forces a positive-density critical test.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.

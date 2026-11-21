@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v908](Yin_R_G0562_v908.md#finding) checks the limiting index distribution and the positive-density irreducibility criterion over all short integer directions.
+
+- [R562 v907](Yin_R_G0562_v907.md#finding) checks saturation modulo roots of unity and the externally twisted radical estimates at fixed coefficient length.
+
+- [R562 v906](Yin_R_G0562_v906.md#finding) checks the ramified congruence and compares the ordinary radical bounds with the existing bounded-length theorem.
+
+- [R562 v905](Yin_R_G0562_v905.md#finding) checks the exact exterior-root and degree allocation at almost every prime sum in the stated short range.
+
 - [R562 v904](Yin_R_G0562_v904.md#finding) checks each factor's limiting height and degree share and the conditional implication for critical four-term tests.
 
 - [R562 v903](Yin_R_G0562_v903.md#finding) checks signed pole symmetries, field stabilization and the bound for external torsion twists.
