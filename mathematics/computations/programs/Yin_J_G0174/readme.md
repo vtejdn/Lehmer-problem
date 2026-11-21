@@ -9,7 +9,7 @@ author: Yin
 
 For each of the 72 Salem numbers \(\sigma\) in [Mossinghoff's fixed June 2026 table](../../../audits/literature/Mos26b/readme.md), the element \(\sigma\) is not a \(p\)-th power in \(\mathbb Q(\sigma)\) for any prime \(p\).
 In particular none of them is a proper positive power of a Salem number.
-The [432 certificates](../../outputs/Yin_J_G0174/powers.tsv) give six simple modular roots per input, one for each possible prime exponent.
+The [432 certificates](inputs/powers.tsv) give six simple modular roots per input, one for each possible prime exponent.
 
 Write \(P\) for the monic minimal polynomial and \(d=\deg P\le46\).
 If \(\beta^p=\sigma\) in \(\mathbb Q(\sigma)\), then \(\mathbb Q(\beta)=\mathbb Q(\sigma)\).
@@ -45,7 +45,7 @@ The commensurable Salem outputs are therefore exactly \(\sigma^u\), \(u\ge1\), a
 For rank \(i\) put \(t_i=\sigma_i+\sigma_i^{-1}\), \(K_i=\mathbb Q(t_i)\), and let \(Q_i\) be its monic minimal polynomial of degree \(s_i=d_i/2\).
 For every two distinct ranks \(i,j\) there is no \(\mathbb Q\)-embedding of \(K_j\) into \(K_i\).
 Among all \(72\cdot71=5112\) ordered pairs, 4627 are excluded by \(s_j\nmid s_i\).
-The [field certificates](../../outputs/Yin_J_G0174/inclusions.tsv) give a prime and both factor-degree lists for each of the other 485 pairs, with source \(i\) and proposed subfield \(j\).
+The [field certificates](inputs/inclusions.tsv) give a prime and both factor-degree lists for each of the other 485 pairs, with source \(i\) and proposed subfield \(j\).
 The numbers first excluded at \(\ell=2,3,5,7,11\) are respectively \(298,142,28,16,1\).
 
 Here is the exclusion test when \(s_i=h s_j\).
@@ -63,7 +63,7 @@ When \(h=1\) it compares the two sorted degree lists directly.
 
 All 72 trace fields \(K_i/\mathbb Q\) are primitive, in the sense of having no \(F\) with \(\mathbb Q\subsetneq F\subsetneq K_i\).
 The 33 prime trace degrees imply this immediately.
-For each of the other 39 ranks the [subfield certificates](../../outputs/Yin_J_G0174/subfields.tsv) give a squarefree reduction at \(\ell\le31\) whose factorization has a prime degree \(r>s_i/2\).
+For each of the other 39 ranks the [subfield certificates](inputs/subfields.tsv) give a squarefree reduction at \(\ell\le31\) whose factorization has a prime degree \(r>s_i/2\).
 The rational Galois group acting on the \(s_i\) embeddings consequently contains a permutation of order divisible by \(r\).
 A proper intermediate field would partition these embeddings into \(b\) blocks of equal size \(c\), with \(bc=s_i\) and \(b,c\ge2\).
 All permutations preserving this partition form a group of order \((c!)^b b!\), prime to \(r\) because \(b,c\le s_i/2\).
@@ -98,6 +98,6 @@ python mathematics/computations/programs/Yin_J_G0174/certificates.py
 The program reconstructs each \(Q_i\) by subtracting integral multiples of \(X^{s_i-j}(1+X^2)^j\) from the reciprocal polynomial in descending \(j\).
 All full remainders are checked for zero.
 It evaluates \(P_i\) and its derivative by modular Horner evaluation, and factors the trace polynomials over each indicated prime field after testing squarefreeness.
-The three output tables retain every required witness for the fixed input set.
+Compare the three generated TSV files under `mathematics/computations/outputs/Yin_J_G0174/` with the power, inclusion and subfield certificates linked above.
 An author check also recovered the factor degrees from successive gcds with \(X^{\ell^k}-X\) and obtained the same exclusion totals and coverage.
 The field results concern these specified inputs, and the half-mass minima additionally use the [proved exponent criterion](../../../claims/Yin_C_G0345_v392.md#statement).

@@ -22,7 +22,7 @@ Write \(h=D/2\).
 | Also pass modular Graeffe comparisons | 2,869 | 3,895 | 5,343 | 10,761 |
 | Also pass exact cyclotomic division | 0 | 0 | 0 | 0 |
 
-The generated summaries give every final cyclotomic classification and the direct prefix checks in [degree 56](../../../../outputs/Yin_J_G0179/versions/v10/d56/summary.json), [degree 58](../../../../outputs/Yin_J_G0179/versions/v10/d58/summary.json), [degree 60](../../../../outputs/Yin_J_G0179/versions/v10/d60/summary.json) and [degree 62](../../../../outputs/Yin_J_G0179/versions/v10/d62/summary.json).
+The generated summaries give every final cyclotomic classification and the direct prefix checks in [degree 56](../../inputs/versions/v10/d56/summary.json), [degree 58](../../inputs/versions/v10/d58/summary.json), [degree 60](../../inputs/versions/v10/d60/summary.json) and [degree 62](../../inputs/versions/v10/d62/summary.json).
 
 <a id="boxes"></a>
 ## Certified Newton boxes at the common cutoff
@@ -34,7 +34,7 @@ The two maxima depend on the radii and the chosen row, so the degree-64 certific
 The program takes the floor after multiplying the unit-radius bound by the actual \(h-1\).
 The nonvanishing hypothesis holds in every case.
 Indeed, a vanishing auxiliary on either signed power trace would force the power field to have degree at most sixteen, whereas [power-field descent](../../../../../ledger/Yin_L_G0462_v270.md#descent) and the [published degree theorem](../../../../../audits/literature/MRW08/Yin_U001.md#degree) give degree at least 56 for the stated small positive measure.
-The [computed boxes](../../../../outputs/Yin_J_G0179/versions/v10/boxes.json) give every resulting integer bound and the initial tensor counts.
+The [computed boxes](../../inputs/versions/v10/boxes.json) give every resulting integer bound and the initial tensor counts.
 
 <a id="enumeration"></a>
 ## Suffixes, symmetries and arithmetic

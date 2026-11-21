@@ -26,7 +26,7 @@ Den09's canonical unit, scalar subsection and edition note were read at their re
 No original PDF or foundational Jensen/integrability proof was newly audited.
 
 The theorem was checked by hand.
-The separate finite finding uses the reviewer's [native checker](../../computations/programs/Yin_J_G0153/checks/cluster_word_independent.py) and its completed [output](../../computations/outputs/Yin_J_G0153/cluster_word_independent.json).
+The separate finite finding uses the reviewer's [native checker](../../computations/programs/Yin_J_G0153/checks/cluster_word_independent.py) and the data in its [reproducible report](../../computations/programs/Yin_J_G0153/readme.md#rebuild-cluster-word-independent).
 It imports or executes neither the author program nor the J156 evaluator.
 The completed run used Python 3.14.7, python-flint 0.9.0 and fresh 256-bit root enclosures.
 Its normalized reproduction command is:
@@ -68,12 +68,12 @@ No other word, genus or sampled input was evaluated.
 | [Complete adjacent-cluster finding](#adjacent-cluster-transfer-review) | [Original matrix orientation](../../computations/programs/Yin_J_G0153/rotating_shears.py) | shear_matrix only: rank-one edge contributions, retained DE and forward rotation; no execution or review of the old sampled outputs. |
 | [Single finite-control finding](#cluster-word-control-review) | [J153 fixed control account](../../computations/programs/Yin_J_G0153/readme.md#cluster-word-control) | Entire one-input specification, both exact constructions, complete factorization and measure, scalar normalization, reproduction and finite limits. |
 | [Single finite-control finding](#cluster-word-control-review) | [Native control program](../../computations/programs/Yin_J_G0153/cluster_word_control.py) | Whole fixed program, word reversal, all original signs, polynomial and original matrix construction, evaluator call and completed atomic output. |
-| [Single finite-control finding](#cluster-word-control-review) | [Actual control certificate](../../computations/outputs/Yin_J_G0153/cluster_word_control.json) | Every input/trace/characteristic coefficient, exact factor and multiplicity, all 132 noncyclotomic root records, complete dyadic measure and threshold/core fields. |
+| [Single finite-control finding](#cluster-word-control-review) | [Reconstruction of cluster_word_control.json](../../computations/programs/Yin_J_G0153/readme.md#rebuild-cluster-word-control) | Every input/trace/characteristic coefficient, exact factor and multiplicity, all 132 noncyclotomic root records, complete dyadic measure and threshold/core fields. |
 | [Single finite-control finding](#cluster-word-control-review) | [Exact C889 word input](../../claims/Yin_C_G0889_v2.md#remaining-type-control) | The displayed word and original signs, reverse physical order and complete polynomial at g equal to 72; no use of the internally balanced measure bound. |
 | [Single finite-control finding](#cluster-word-control-review) | [J156 evaluator](../../computations/programs/Yin_J_G0156/sampler.py) | certify_polynomial and its actually used interval, threshold and normalized_core helpers, with every factor and root multiplicity; no adaptive or performance claim. |
 | [Single finite-control finding](#cluster-word-control-review) | [Existing evaluator review](Yin_R_G1111_v1.md#sampler-implementation-review) | Reused full-product mechanism and trusted arithmetic/root-isolation boundary only; no inherited coverage of this new input or value. |
 | [Single finite-control finding](#cluster-word-control-review) | [Independent checker](../../computations/programs/Yin_J_G0153/checks/cluster_word_independent.py) | Independent formal-variable trace and Laurent lift, original action on basis vectors, exact divisions, fresh factorization and roots, rational complete product and all comparisons. |
-| [Single finite-control finding](#cluster-word-control-review) | [Independent output](../../computations/outputs/Yin_J_G0153/cluster_word_independent.json) | Completed one-input evidence, regenerated exact coefficients, full root/multiplicity accounting and outward-rounded independent complete enclosure. |
+| [Single finite-control finding](#cluster-word-control-review) | [Reconstruction of cluster_word_independent.json](../../computations/programs/Yin_J_G0153/readme.md#rebuild-cluster-word-independent) | Completed one-input evidence, regenerated exact coefficients, full root/multiplicity accounting and outward-rounded independent complete enclosure. |
 
 <a id="adjacent-cluster-transfer-review"></a>
 ## Finding: the complete adjacent-cluster proof is sufficient
@@ -269,3 +269,6 @@ No independent verification of those implementations is claimed.
 The sole noncyclotomic irreducible factor has the entire positive measure, so this fixed input has no proper monic rational noncyclotomic factor furnishing a smaller positive value.
 This excludes neither another word nor another genus or mixture.
 The finite result supplies no family-wide exclusion or near-one construction.
+
+The linked reconstruction instructions reproduce the data within the stated mathematical scope from fixed inputs.
+The original review and its execution-specific observations retain their recorded scope.

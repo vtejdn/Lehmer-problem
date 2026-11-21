@@ -8,7 +8,7 @@ author: Yin
 ## A complete degree-72 census
 
 There is no monic reciprocal irreducible noncyclotomic integer polynomial of degree 72 with multiplicative Mahler measure at most \(T=267/250\).
-The [enumeration](census.py) and [verified summary](../../../../outputs/Yin_J_G0179/versions/v14/d72/summary.json) give the following counts.
+The [enumeration](census.py) and [verified summary](../../inputs/versions/v14/d72/summary.json) give the following counts.
 
 | Stage | Count |
 | --- | ---: |
@@ -37,7 +37,7 @@ For each row in the [v7 certificates](../v7/readme.md#weights) with radii \(1,R^
  |s_k|\le 36u+\min(1,7554k/(10000j))\max(0,v-u).
 \]
 The unweighted bound is \(70+T^k+T^{-k}\).
-Taking the floor of the least applicable bound for each \(1\le k\le120\) gives the [census bounds and selected rows](../../../../outputs/Yin_J_G0179/versions/v14/d72/census.json).
+Taking the floor of the least applicable bound for each \(1\le k\le120\) gives the [census bounds and selected rows](../../inputs/versions/v14/d72/census.json).
 The selected bounds for \(k\le43\) come from ellipse rows and all later ones from the unweighted formula.
 
 The [v13 recursion](../v13/readme.md#enumeration) constructs integral first-half coefficients by the prime-power Newton congruences, reflects them, and tests the necessary trace conditions and the linear and quadratic cyclotomic factors.

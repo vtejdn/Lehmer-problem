@@ -1,0 +1,606 @@
+{
+  "counts": {
+    "first_four_power_sums": 9878,
+    "first_sixteen_power_sums": 1504,
+    "under_measure_cap": 276,
+    "irreducible": 58,
+    "nontorsion": 54
+  },
+  "seeds": [
+    {
+      "coefficients": [
+        0,
+        -2,
+        0,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        -2,
+        1,
+        1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        -2,
+        2,
+        -1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        -1,
+        0,
+        -1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        -1,
+        1,
+        0
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        -1,
+        2,
+        -3
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        0,
+        1,
+        -1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": true,
+      "measure_to_45_above_65536": true
+    },
+    {
+      "coefficients": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        1,
+        0,
+        -1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        1,
+        1,
+        -1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        1,
+        1,
+        2
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        2,
+        0,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        2,
+        1,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        0,
+        2,
+        1,
+        3
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -2,
+        0,
+        2
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -1,
+        -4,
+        -5
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -1,
+        -1,
+        -1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -1,
+        -1,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -1,
+        0,
+        -1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -1,
+        0,
+        0
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -1,
+        0,
+        1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -1,
+        0,
+        3
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        -1,
+        1,
+        0
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        0,
+        -1,
+        0
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        0,
+        0,
+        2
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        0,
+        1,
+        -1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        0,
+        2,
+        0
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        -1,
+        -2
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        0,
+        -1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        0,
+        2
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        1,
+        2,
+        3
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        2,
+        0,
+        0
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        2,
+        1,
+        3
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        2,
+        2,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        2,
+        3,
+        3
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        1,
+        3,
+        2,
+        3
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        0,
+        -1,
+        -1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        1,
+        -2,
+        -3
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        1,
+        -1,
+        -1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        1,
+        0,
+        -1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        2,
+        3,
+        3
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        2,
+        4,
+        5,
+        5
+      ],
+      "outside": 2,
+      "measure_exponent": 18,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        3,
+        3,
+        2,
+        1
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    },
+    {
+      "coefficients": [
+        3,
+        4,
+        5,
+        5
+      ],
+      "outside": 1,
+      "measure_exponent": 22,
+      "passes_count_bound": false
+    }
+  ]
+}

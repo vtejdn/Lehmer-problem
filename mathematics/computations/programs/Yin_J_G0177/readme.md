@@ -91,7 +91,8 @@ The program uses the standard library and contains the two seed coefficient list
 python mathematics/computations/programs/Yin_J_G0177/minimum.py
 ```
 
-The [program](minimum.py) generates the [per-seed and per-prime output](../../outputs/Yin_J_G0177/results.json) in the local generated-data directory.
+The [program](minimum.py) writes `mathematics/computations/outputs/Yin_J_G0177/results.json`.
+Compare all 336 records with the [fixed prime census](inputs/results.json).
 It records the two shortest squared lengths for each of the 336 cases, the vector counts when enumeration was needed, the finite-height result and the six uncapped controls.
 The exact seed reduction, width-four formula, and a factored positive witness are retained in [L242](../../../ledger/Yin_L_G0462_v242.md#examples).
 No floating-point approximation to a root, lattice length or coefficient cutoff enters the calculation.

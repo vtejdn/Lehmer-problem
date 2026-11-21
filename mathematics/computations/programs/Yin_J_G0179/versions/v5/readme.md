@@ -77,4 +77,4 @@ Run the following from the repository root with Python and SymPy.
 python -B mathematics/computations/programs/Yin_J_G0179/versions/v5/radial_counts.py
 ~~~
 
-The [output](../../../../outputs/Yin_J_G0179/versions/v5/counts.json) gives all six counts.
+The program writes all six counts to \(\texttt{counts.json}\) in the v5 output directory.

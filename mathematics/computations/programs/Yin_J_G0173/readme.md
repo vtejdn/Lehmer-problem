@@ -76,4 +76,5 @@ curl --fail --location --create-dirs --output mathematics/literature/pdf/Mos26b/
 python mathematics/computations/programs/Yin_J_G0173/least_exponents.py
 ~~~
 
-The [generated table](../../outputs/Yin_J_G0173/least_exponents.tsv) gives the integral trace data, every positive exact-order weight and the least exponent for each source rank.
+Compare the 72 rows of `mathematics/computations/outputs/Yin_J_G0173/least_exponents.tsv` with the fixed table.
+The [fixed table](inputs/least_exponents.tsv) gives the integral trace data, every positive exact-order weight and the least exponent for each source rank.

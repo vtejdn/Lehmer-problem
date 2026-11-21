@@ -14,9 +14,9 @@ The first two filters retain the polynomials passing one and nine reflected trac
 
 | Degree and summary | \(T\) | Initial count | One reflection | Nine reflections | Final division |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| [86](../../../../outputs/Yin_J_G0179/versions/v15/d86/summary.json) | 1.04902 | 60,816,713 | 1,199,108 | 299,217 | 1,752 |
-| [88](../../../../outputs/Yin_J_G0179/versions/v15/d88/summary.json) | 1.04116 | 8,711,399 | 428,305 | 159,988 | 446 |
-| [92](../../../../outputs/Yin_J_G0179/versions/v15/d92/summary.json) | 1.02769 | 768,332 | 92,527 | 44,759 | 0 |
+| [86](../../inputs/versions/v15/d86/summary.json) | 1.04902 | 60,816,713 | 1,199,108 | 299,217 | 1,752 |
+| [88](../../inputs/versions/v15/d88/summary.json) | 1.04116 | 8,711,399 | 428,305 | 159,988 | 446 |
+| [92](../../inputs/versions/v15/d92/summary.json) | 1.02769 | 768,332 | 92,527 | 44,759 | 0 |
 
 <a id="scope"></a>
 ## Necessary conditions and exact verification

@@ -14,15 +14,15 @@ The degree-68 case applies to the [remaining square pair at 277](../../../../../
 
 | Degree and full summary | Initial representatives | First reflected trace | First nine reflected traces | Reach modular Graeffe | Reach exact cyclotomic division |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| [68](../../../../outputs/Yin_J_G0179/versions/v11/d68/summary.json) | 19,318,022 | 1,596,030 | 374,045 | 2,970 | 2,479 |
-| [70](../../../../outputs/Yin_J_G0179/versions/v11/d70/summary.json) | 25,449,483 | 2,015,752 | 457,297 | 3,242 | 2,557 |
-| [72](../../../../outputs/Yin_J_G0179/versions/v11/d72/summary.json) | 38,241,010 | 2,919,101 | 557,054 | 3,804 | 2,768 |
-| [74](../../../../outputs/Yin_J_G0179/versions/v11/d74/summary.json) | 31,098,523 | 2,508,848 | 506,923 | 3,848 | 2,698 |
-| [76](../../../../outputs/Yin_J_G0179/versions/v11/d76/summary.json) | 44,937,813 | 3,320,272 | 675,589 | 5,152 | 3,325 |
-| [78](../../../../outputs/Yin_J_G0179/versions/v11/d78/summary.json) | 148,088,202 | 8,393,381 | 1,310,253 | 9,787 | 5,516 |
-| [80](../../../../outputs/Yin_J_G0179/versions/v11/d80/summary.json) | 192,066,671 | 12,888,956 | 1,709,707 | 13,497 | 6,544 |
-| [82](../../../../outputs/Yin_J_G0179/versions/v11/d82/summary.json) | 628,575,637 | 21,137,921 | 2,780,864 | 18,820 | 8,459 |
-| [84](../../../../outputs/Yin_J_G0179/versions/v11/d84/summary.json) | 1,174,962,762 | 40,981,529 | 4,224,413 | 30,897 | 12,500 |
+| [68](../../inputs/versions/v11/d68/summary.json) | 19,318,022 | 1,596,030 | 374,045 | 2,970 | 2,479 |
+| [70](../../inputs/versions/v11/d70/summary.json) | 25,449,483 | 2,015,752 | 457,297 | 3,242 | 2,557 |
+| [72](../../inputs/versions/v11/d72/summary.json) | 38,241,010 | 2,919,101 | 557,054 | 3,804 | 2,768 |
+| [74](../../inputs/versions/v11/d74/summary.json) | 31,098,523 | 2,508,848 | 506,923 | 3,848 | 2,698 |
+| [76](../../inputs/versions/v11/d76/summary.json) | 44,937,813 | 3,320,272 | 675,589 | 5,152 | 3,325 |
+| [78](../../inputs/versions/v11/d78/summary.json) | 148,088,202 | 8,393,381 | 1,310,253 | 9,787 | 5,516 |
+| [80](../../inputs/versions/v11/d80/summary.json) | 192,066,671 | 12,888,956 | 1,709,707 | 13,497 | 6,544 |
+| [82](../../inputs/versions/v11/d82/summary.json) | 628,575,637 | 21,137,921 | 2,780,864 | 18,820 | 8,459 |
+| [84](../../inputs/versions/v11/d84/summary.json) | 1,174,962,762 | 40,981,529 | 4,224,413 | 30,897 | 12,500 |
 
 <a id="boxes"></a>
 ## Bounds from larger ellipses

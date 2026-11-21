@@ -62,7 +62,7 @@ python mathematics/computations/programs/Yin_J_G0170/census.py --workers 4
 
 Omit the worker option for serial execution of the same cases.
 The program requires no earlier output.
-Its replaceable [census.json](../../outputs/Yin_J_G0170/census.json) contains every direction, the cyclotomic orders and multiplicities, and the full descending coefficient list, multiplicity and root signature of each nontorsion factor.
+The [fixed census inspected in the review](inputs/census.json) contains every direction, the cyclotomic orders and multiplicities, and the full descending coefficient list, multiplicity and root signature of each nontorsion factor.
 It records four additional Sturm variation counts for each of the four displayed controls.
 
 For each \(1\le a\le34\) the program enumerates \(1\le b\le104-3a\) and tests \(\gcd(a,b)=1\) directly.

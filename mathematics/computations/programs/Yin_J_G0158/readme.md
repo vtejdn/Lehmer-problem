@@ -28,14 +28,14 @@ An actual witness permits exact Bezout construction of \(f\), an integral basis 
 | --- | --- |
 | [trace_lattice.py](trace_lattice.py) | Exact trace Gram, bounded isotropic search and unimodular splitting certificate. |
 | [Original degree-18 input](../Yin_J_G0144/trace56_cell.json) | The fixed polynomial and previously checked source core. |
-| [Result](../../outputs/Yin_J_G0158/trace_lattice.json) | Generated complete matrices and exact checks, when available. |
+| Result (`trace_lattice.json`) | Generated complete matrices and exact checks, when available. |
 | [Discriminant argument](discriminant_action.md#necessary-condition) and [program](discriminant_action.py) | Necessary discriminant-action condition for all permitted words and the exact test on this fixed lattice. |
-| [Discriminant result](../../outputs/Yin_J_G0158/discriminant_action.json) | Complete adjugate, modular matrix power, defect matrix and nonzero witness. |
-| [Independent trace checker](checks/independent_trace_lattice_review.py) and [result](../../outputs/Yin_J_G0158/independent_trace_lattice_review.json) | Separate quotient-algebra reconstruction, all matrices, determinants and positive principal minors. |
-| [Independent discriminant checker](checks/independent_discriminant_review.py) and [result](../../outputs/Yin_J_G0158/independent_discriminant_review.json) | Separate polynomial-quotient powering, full modular certificate and integral change of basis. |
+| Discriminant result (`discriminant_action.json`) | Complete adjugate, modular matrix power, defect matrix and nonzero witness. |
+| [Independent trace checker](checks/independent_trace_lattice_review.py) and result (`independent_trace_lattice_review.json`) | Separate quotient-algebra reconstruction, all matrices, determinants and positive principal minors. |
+| [Independent discriminant checker](checks/independent_discriminant_review.py) and result (`independent_discriminant_review.json`) | Separate polynomial-quotient powering, full modular certificate and integral change of basis. |
 | [Unimodular model](coxeter_model.md) and [program](coxeter_model.py) | Exact source-diagram quotient, E8 plus E8 plus U splitting and complete two-transvection identity on a different integral lattice. |
-| [Model certificate](../../outputs/Yin_J_G0158/coxeter_model.json) | Complete matrices, primitive radical, quotient maps, integral bases, order and all characteristic coefficients. |
-| [Independent model checker](checks/independent_coxeter_model_review.py) and [result](../../outputs/Yin_J_G0158/independent_coxeter_model_review.json) | Independent reconstruction of every certificate field and full characteristic polynomials by exact determinant evaluations. |
+| Model certificate (`coxeter_model.json`) | Complete matrices, primitive radical, quotient maps, integral bases, order and all characteristic coefficients. |
+| [Independent model checker](checks/independent_coxeter_model_review.py) and result (`independent_coxeter_model_review.json`) | Independent reconstruction of every certificate field and full characteristic polynomials by exact determinant evaluations. |
 
 ## Reproduction
 
@@ -110,3 +110,34 @@ It gives \(A=RT_{e,\theta}T_{f,\theta}\), with positive-isometry order sixty and
 The original nineteen-dimensional graph has a primitive one-dimensional radical with eigenvalue minus one; its exact integral quotient preserves the original eighteen-dimensional polynomial and complete measure.
 The quotient Gram has determinant minus one, so it is distinct from the fixed natural trace lattice excluded above.
 This supplies an explicit representation of the known second small value inside the already controlled C885 v2 family, without a new value, a longer-word escape or an effective exclusion below \(6/5\).
+
+## Reconstructing the reviewed data
+
+Starting with the fixed trace polynomial and an empty output tree, the three author programs and their three independent checkers verified the recorded 51-vector prefix, Gram determinant, discriminant action and all 42 Coxeter model fields.
+These programs use Python's standard library.
+The following programs reconstruct the mathematical payloads checked in the original review.
+The recorded operating times describe the original runs.
+
+<a id="rebuild-trace-lattice"></a>
+
+Run with the fixed inputs described above to produce [`trace_lattice.json`](trace_lattice.py).
+
+<a id="rebuild-independent-trace-lattice-review"></a>
+
+After generating the comparison input, run the checker to produce [`independent_trace_lattice_review.json`](checks/independent_trace_lattice_review.py).
+
+<a id="rebuild-discriminant-action"></a>
+
+After generating the trace lattice, run the discriminant calculation to produce [`discriminant_action.json`](discriminant_action.py).
+
+<a id="rebuild-independent-discriminant-review"></a>
+
+After generating the comparison input, run the checker to produce [`independent_discriminant_review.json`](checks/independent_discriminant_review.py).
+
+<a id="rebuild-coxeter-model"></a>
+
+Run with the fixed inputs described above to produce [`coxeter_model.json`](coxeter_model.py).
+
+<a id="rebuild-independent-coxeter-model-review"></a>
+
+After generating the comparison input, run the checker to produce [`independent_coxeter_model_review.json`](checks/independent_coxeter_model_review.py).

@@ -130,5 +130,6 @@ python mathematics/computations/programs/Yin_J_G0171/small_odd_powers.py
 The completed calculation used Python 3.14.3 and SymPy 1.14.0 with integer and finite-field polynomial arithmetic.
 It uses the fixed cubic pair, eight torsion values, three primes and coefficient bounds above, and requires no earlier output.
 It checks the torsion identities over the integers, reconstructs each modular factorization and divides every surviving small-degree polynomial by its cyclotomic factors.
-The generated [certificate](../../outputs/Yin_J_G0171/certificate.json) records the modular factors and their classifications, the counts after each squaring stage, and the coefficients and complete cyclotomic factorizations of the survivors.
+Compare the generated `outputs/Yin_J_G0171/certificate.json` in the computations directory with the fixed certificate.
+The fixed [certificate](inputs/certificate.json) records the modular factors and their classifications, the counts after each squaring stage, and the coefficients and complete cyclotomic factorizations of the survivors.
 This computation excludes powers in the root field for the three specified primes at every degree and direction.

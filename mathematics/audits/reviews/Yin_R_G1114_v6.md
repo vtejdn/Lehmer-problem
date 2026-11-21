@@ -33,7 +33,7 @@ No source classification theorem, matrix search or numerical root computation is
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Interpretation and limits](../../computations/programs/Yin_J_G0158/coxeter_model.md#results-and-limits) | Full application to C885 v2, unchanged-polynomial control, compatibility with the different-lattice obstruction and stated nonconclusions. |
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Whole author program](../../computations/programs/Yin_J_G0158/coxeter_model.py) | Complete fixed integer/rational algorithm, newly defined operators, checks, output construction and actual helper interfaces. |
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Original input](../../computations/programs/Yin_J_G0144/trace56_cell.json) | Exactly the nineteen ascending H_ascending coefficients; other J144 fields are not review targets. |
-| [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Actual diagram certificate](../../computations/outputs/Yin_J_G0158/coxeter_model.json) | All forty-two fields, every matrix and vector entry, complete polynomials, determinant, inertias, order and Boolean conclusions. |
+| [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Reconstruction of coxeter_model.json](../../computations/programs/Yin_J_G0158/readme.md#rebuild-coxeter-model) | All forty-two fields, every matrix and vector entry, complete polynomials, determinant, inertias, order and Boolean conclusions. |
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Shared matrix helpers](../../computations/programs/Yin_J_G0158/trace_lattice.py) | Imported determinant, identity, inertia, integral inverse, matrix/vector product, pairing and transpose at their actual diagram-model uses. |
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Earlier arithmetic review](Yin_R_G1114_v5.md#trace-lattice-splitting-review) | Reuse of the unchanged exact helper inspection; it supplies no prior review of the new diagram or quotient. |
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Source polynomial](../literature/McM02/Yin_U002.md#degree18-polynomial) | Coefficient agreement with the source's existing example and its symmetry-times-bicolored recipe, without a new classification-proof audit. |
@@ -43,7 +43,7 @@ No source classification theorem, matrix search or numerical root computation is
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Existing C885 v2 review](Yin_R_G1114_v3.md#positive-lattice-two-transvection-gap-review) | Reuse of the unchanged independently reviewed family theorem, without a new audit of its external foundational inputs. |
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Earlier discriminant obstruction](Yin_R_G1114_v5.md#discriminant-action-review) | Its restriction to the natural trace lattice and compatibility with this different integral form. |
 | [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Independent diagram checker](../../computations/programs/Yin_J_G0158/checks/independent_coxeter_model_review.py) | Separate vector-action reconstruction, rational determinants, full quotient/basis identities and complete-polynomial verification, without author-code imports or execution. |
-| [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Independent verification result](../../computations/outputs/Yin_J_G0158/independent_coxeter_model_review.json) | Actual successful all-field verification, positive minors, determinant values at every prescribed integer, exact order and full matrix identities. |
+| [Complete diagram-model finding](#coxeter-two-transvection-model-review) | [Reconstruction of independent_coxeter_model_review.json](../../computations/programs/Yin_J_G0158/readme.md#rebuild-independent-coxeter-model-review) | Actual successful all-field verification, positive minors, determinant values at every prescribed integer, exact order and full matrix identities. |
 
 <a id="coxeter-two-transvection-model-review"></a>
 ## Finding: complete finite model and family application
@@ -153,3 +153,6 @@ The original source's reflection-group classification, index-two theorem and non
 The source reading supplies attribution and the precise diagram/action interface, not a general generation theorem.
 This certificate supplies one existing polynomial realization, no new Salem value, no unrestricted representation theorem and no unrestricted Mahler gap.
 The [original G0001 contract](../../tasks/Yin_T_G0001_v1.md#contract) remains unresolved.
+
+The linked reconstruction instructions reproduce the data within the stated mathematical scope from fixed inputs.
+The original review and its execution-specific observations retain their recorded scope.

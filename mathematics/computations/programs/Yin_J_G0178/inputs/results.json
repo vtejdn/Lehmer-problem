@@ -1,0 +1,144 @@
+{
+  "coefficient_box": 61793,
+  "measure_at_most_two": 60,
+  "irreducible": 19,
+  "nontorsion": 17,
+  "seeds": [
+    {
+      "a": 0,
+      "b": -2,
+      "c": 3,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 0,
+      "b": -1,
+      "c": 1,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 0,
+      "b": -1,
+      "c": 2,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 0,
+      "b": 1,
+      "c": 2,
+      "outside": 2,
+      "strict_measure_lower": "17/10",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 0,
+      "b": 2,
+      "c": 1,
+      "outside": 2,
+      "strict_measure_lower": "17/10",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 1,
+      "b": -1,
+      "c": -1,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 1,
+      "b": -1,
+      "c": 0,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 1,
+      "b": -1,
+      "c": 1,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 1,
+      "b": 0,
+      "c": -2,
+      "outside": 2,
+      "strict_measure_lower": "17/10",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 1,
+      "b": 0,
+      "c": 1,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 1,
+      "b": 1,
+      "c": -1,
+      "outside": 2,
+      "strict_measure_lower": "17/10",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 1,
+      "b": 2,
+      "c": 3,
+      "outside": 2,
+      "strict_measure_lower": "17/10",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 2,
+      "b": -1,
+      "c": -3,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 2,
+      "b": 0,
+      "c": -1,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 2,
+      "b": 1,
+      "c": 2,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 2,
+      "b": 2,
+      "c": 1,
+      "outside": 2,
+      "strict_measure_lower": "17/10",
+      "torsion_ratio_orders": []
+    },
+    {
+      "a": 2,
+      "b": 2,
+      "c": 3,
+      "outside": 1,
+      "strict_measure_lower": "7/5",
+      "torsion_ratio_orders": []
+    }
+  ]
+}

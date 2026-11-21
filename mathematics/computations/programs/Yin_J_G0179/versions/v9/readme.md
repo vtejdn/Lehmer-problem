@@ -25,7 +25,7 @@ A substitution \(P(X)=S(X^q)\), \(q>1\), would give \(1<M(S)=M(P)\le T\) in degr
 | Also pass exact Graeffe comparisons | 0 |
 
 The five polynomials in the last comparison violate the coefficient bound at the eighth Graeffe iteration.
-The [summary](../../../../outputs/Yin_J_G0179/versions/v9/summary.json) gives each of their 34 first-half coefficients, the index and value of a violating coefficient after squaring, and its exact integer upper bound.
+The [summary](../../inputs/versions/v9/summary.json) gives each of their 34 first-half coefficients, the index and value of a violating coefficient after squaring, and its exact integer upper bound.
 
 <a id="suffix"></a>
 ## Power substitutions and reflected tests

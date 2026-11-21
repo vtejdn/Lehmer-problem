@@ -80,4 +80,5 @@ It reuses monic division and the Newton power sums from the [sextic program](../
 python mathematics/computations/programs/Yin_J_G0178/versions/v2/octic.py
 ~~~
 
-Python 3.14.3 produced the [stage counts and all 54 nontorsion seeds](../../../../outputs/Yin_J_G0178/versions/v2/results.json), with the exterior count, tested exponent and cutoff comparison for each.
+Compare the generated `outputs/Yin_J_G0178/versions/v2/results.json` in the computations directory with the fixed census.
+Python 3.14.3 produced the [stage counts and all 54 nontorsion seeds](../../inputs/versions/v2/results.json), with the exterior count, tested exponent and cutoff comparison for each.

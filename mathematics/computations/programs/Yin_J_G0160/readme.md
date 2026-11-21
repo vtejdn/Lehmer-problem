@@ -153,9 +153,25 @@ Run the boundary calculation with the same dependencies and working directory.
 python -B mathematics/computations/programs/Yin_J_G0160/one_kick.py --boundary
 ~~~
 
-Its separate replaceable [boundary.json](../../outputs/Yin_J_G0160/boundary.json) contains all 22 parameter pairs, exact Gaussian parts and integer polynomials, all factor coefficients, complete root balls and dyadic measure intervals.
+Its separate replaceable `boundary.json` contains all 22 parameter pairs, exact Gaussian parts and integer polynomials, all factor coefficients, complete root balls and dyadic measure intervals.
 The actual boundary run used Python 3.14.7 and python-flint 0.9.0 and completed all 22 inputs.
 It has no prior-output dependency and publishes its complete output atomically.
 The independent [checker](checks/boundary_independent.py) generates the Gaussian coefficient pairs separately, convolves them with their conjugates, verifies all factors and multiplicities, and obtains fresh 256-bit root enclosures without importing the author evaluator.
-Its [completed output](../../outputs/Yin_J_G0160/boundary_independent.json) verifies all 22 complete polynomials and their threshold and minimum comparisons.
+Its completed output (`boundary_independent.json`) verifies all 22 complete polynomials and their threshold and minimum comparisons.
 The root isolation and factorization implementations remain explicitly trusted FLINT/Arb inputs.
+
+## Reconstructing the reviewed data
+
+Using python-flint 0.9.0 in the interpreter environment, the boundary calculation and its independent checker reproduced all 22 inputs from an empty output tree.
+The checker verified three neutral inputs, 19 positive measures strictly above 6/5, and the least positive case at (4,1).
+The following programs reconstruct the mathematical payloads checked in the original review.
+Installing python-flint in the interpreter environment suffices when the optional J156 package directory is absent.
+The recorded operating times describe the original runs.
+
+<a id="rebuild-boundary"></a>
+
+Run the generator with the `--boundary` option to produce [`boundary.json`](one_kick.py).
+
+<a id="rebuild-boundary-independent"></a>
+
+After generating the comparison input, run the checker to produce [`boundary_independent.json`](checks/boundary_independent.py).

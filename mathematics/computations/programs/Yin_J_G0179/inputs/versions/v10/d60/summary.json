@@ -1,0 +1,240 @@
+{
+  "degree": 60,
+  "cutoff": [
+    1091,
+    1000
+  ],
+  "tensor_verified_pairs": 33,
+  "counts": {
+    "representatives": 1619542805,
+    "first_reflected": 109211379,
+    "nine_reflected": 11163362,
+    "endpoint_zero": 6833124,
+    "later_trace_exclusion": 3035326,
+    "quadratic_cyclotomic": 950572,
+    "modular_graeffe": 338997,
+    "fallback": 5343
+  },
+  "fallback_classifications": {
+    "phi_5": 954,
+    "phi_7": 515,
+    "phi_10": 1137,
+    "phi_8": 1144,
+    "phi_9": 485,
+    "phi_11": 34,
+    "phi_17": 6,
+    "phi_16": 52,
+    "phi_50": 4,
+    "phi_14": 290,
+    "phi_19": 3,
+    "phi_26": 10,
+    "phi_30": 3,
+    "phi_18": 62,
+    "phi_12": 325,
+    "phi_27": 3,
+    "phi_54": 1,
+    "phi_70": 1,
+    "phi_21": 46,
+    "phi_24": 18,
+    "phi_45": 3,
+    "phi_15": 138,
+    "phi_22": 26,
+    "phi_28": 5,
+    "phi_20": 44,
+    "phi_33": 11,
+    "phi_74": 1,
+    "phi_13": 10,
+    "phi_122": 1,
+    "phi_72": 1,
+    "phi_35": 5,
+    "phi_25": 1,
+    "phi_93": 1,
+    "phi_77": 1,
+    "phi_62": 1,
+    "phi_39": 1
+  },
+  "direct_prefix_checks": [
+    {
+      "prefix": [
+        5,
+        -5,
+        5,
+        -5,
+        0,
+        -5,
+        -2,
+        -5,
+        5,
+        0,
+        -6,
+        -5,
+        5,
+        2,
+        0,
+        -5
+      ],
+      "counts": {
+        "representatives": 512,
+        "first_reflected": 3,
+        "nine_reflected": 2,
+        "endpoint_zero": 1,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 1
+      }
+    },
+    {
+      "prefix": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "counts": {
+        "representatives": 16384,
+        "first_reflected": 3584,
+        "nine_reflected": 2440,
+        "endpoint_zero": 2440,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    },
+    {
+      "prefix": [
+        0,
+        0,
+        3,
+        0,
+        5,
+        3,
+        0,
+        0,
+        3,
+        5,
+        0,
+        3,
+        0,
+        0,
+        8,
+        0
+      ],
+      "counts": {
+        "representatives": 8,
+        "first_reflected": 8,
+        "nine_reflected": 8,
+        "endpoint_zero": 4,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 4,
+        "fallback": 0
+      }
+    },
+    {
+      "prefix": [
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2
+      ],
+      "counts": {
+        "representatives": 0,
+        "first_reflected": 0,
+        "nine_reflected": 0,
+        "endpoint_zero": 0,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    },
+    {
+      "prefix": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0
+      ],
+      "counts": {
+        "representatives": 0,
+        "first_reflected": 0,
+        "nine_reflected": 0,
+        "endpoint_zero": 0,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    },
+    {
+      "prefix": [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      "counts": {
+        "representatives": 0,
+        "first_reflected": 0,
+        "nine_reflected": 0,
+        "endpoint_zero": 0,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    }
+  ],
+  "exact_graeffe_witnesses": [],
+  "unresolved": []
+}

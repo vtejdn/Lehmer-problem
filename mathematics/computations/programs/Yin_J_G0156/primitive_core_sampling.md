@@ -309,13 +309,13 @@ These are finite observed minima above the near-miss threshold, not new global m
 The [gzip native comparison](inputs/primitive_comparison.json.gz) preserves all ten summaries, generation traces, original costs, evaluation observations and incomplete states.
 Its decompressed bytes agree exactly with the original 245930042-byte plain export; the gzip file occupies 36848465 bytes, and the redundant plain input was removed after that comparison.
 The [native witness document](inputs/primitive_witnesses.json) retains 24425 distinct exact seed, whole and factor inputs with their roles and run associations.
-The separate `primitive_witness_verification.json` under the J156 output home freshly certifies every one of those inputs with the unchanged full evaluator.
-Their exact coefficient arrays agree one-to-one with the witness document.
+The separate verification used the unchanged full evaluator on all 24425 inputs.
+Its exact coefficient arrays agreed one-to-one with the witness document.
 
 Portable replay completed for all 20388 generation requests, all 383953 raw attempt inputs and all 20385 journalled whole proposals.
 There are 20378 committed evaluations, seven incomplete whole proposals and three final DP generation requests with no whole proposal.
 No completed raw attempt is represented as an interrupted raw construction.
-The actual replay output is `primitive_retained_replay.json` under the J156 output home.
+The retained-generation replay command above recomputes these counts from the native comparison.
 Neither replay, new root certification nor storage compression adds a historical completion or discovery.
 
 The additional reproduction command for the witness check is
@@ -324,7 +324,7 @@ The additional reproduction command for the witness check is
 python -B mathematics/computations/programs/Yin_J_G0156/sampler.py verify-witnesses mathematics/computations/programs/Yin_J_G0156/inputs/primitive_witnesses.json --output mathematics/computations/outputs/Yin_J_G0156/primitive_witness_verification_recheck.json
 ~~~
 
-Use a fresh verification output path and preserve the existing actual result.
+Use a fresh output path to record the newly computed certificates.
 The [independent formal-result review](../../../audits/reviews/Yin_R_G1111_v12.md#primitive-results-review) checks all ten original histories, exact structural classifications, complete certificate interfaces and finite outcomes.
 Its [retention finding](../../../audits/reviews/Yin_R_G1111_v12.md#primitive-results-retention-review) checks every retained mathematical field against the original histories and the gzip interface; the comparison with the removed plain export remains the main agent's actual byte check.
 Its [interpretation finding](../../../audits/reviews/Yin_R_G1111_v12.md#primitive-results-interpretation-review) checks the result tables, exact minimum formulas and fixed-support deduction, without reviewing the separate later root-cost diagnostic or a future search law.

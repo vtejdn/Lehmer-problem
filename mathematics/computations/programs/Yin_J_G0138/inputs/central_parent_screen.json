@@ -1,0 +1,109 @@
+{
+  "maximum_parent_ceiling": 168,
+  "counts": {
+    "prefix_parents": 41268,
+    "endpoint_parents": 41268,
+    "initial_pairs": 3363666,
+    "initial_phase_tests": 1669258,
+    "phase_survivors": 0
+  },
+  "by_degree": {
+    "14": {
+      "prefix_parents": 1,
+      "initial_phase_tests": 10
+    },
+    "16": {
+      "prefix_parents": 2,
+      "initial_phase_tests": 22
+    },
+    "18": {
+      "prefix_parents": 2,
+      "initial_phase_tests": 26
+    },
+    "20": {
+      "prefix_parents": 4,
+      "initial_phase_tests": 56
+    },
+    "22": {
+      "prefix_parents": 9,
+      "initial_phase_tests": 140
+    },
+    "24": {
+      "prefix_parents": 11,
+      "initial_phase_tests": 187
+    },
+    "26": {
+      "prefix_parents": 20,
+      "initial_phase_tests": 376
+    },
+    "28": {
+      "prefix_parents": 34,
+      "initial_phase_tests": 677
+    },
+    "30": {
+      "prefix_parents": 55,
+      "initial_phase_tests": 1204
+    },
+    "32": {
+      "prefix_parents": 77,
+      "initial_phase_tests": 1771
+    },
+    "34": {
+      "prefix_parents": 128,
+      "initial_phase_tests": 3192
+    },
+    "36": {
+      "prefix_parents": 182,
+      "initial_phase_tests": 4723
+    },
+    "38": {
+      "prefix_parents": 276,
+      "initial_phase_tests": 7712
+    },
+    "40": {
+      "prefix_parents": 402,
+      "initial_phase_tests": 11650
+    },
+    "42": {
+      "prefix_parents": 588,
+      "initial_phase_tests": 18227
+    },
+    "44": {
+      "prefix_parents": 817,
+      "initial_phase_tests": 26144
+    },
+    "46": {
+      "prefix_parents": 1198,
+      "initial_phase_tests": 40714
+    },
+    "48": {
+      "prefix_parents": 1663,
+      "initial_phase_tests": 58193
+    },
+    "50": {
+      "prefix_parents": 2335,
+      "initial_phase_tests": 86367
+    },
+    "52": {
+      "prefix_parents": 3235,
+      "initial_phase_tests": 122891
+    },
+    "54": {
+      "prefix_parents": 4492,
+      "initial_phase_tests": 179571
+    },
+    "56": {
+      "prefix_parents": 6080,
+      "initial_phase_tests": 249194
+    },
+    "58": {
+      "prefix_parents": 8370,
+      "initial_phase_tests": 359758
+    },
+    "60": {
+      "prefix_parents": 11287,
+      "initial_phase_tests": 496453
+    }
+  },
+  "phase_survivors": []
+}

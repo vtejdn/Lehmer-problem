@@ -111,5 +111,7 @@ python mathematics/computations/programs/Yin_J_G0179/versions/v3/finish.py
 The driver compiles [the native recurrence](Reciprocal.cs) with the .NET Framework C# compiler on Windows.
 On a system with Mono it selects the corresponding compiler and runtime.
 One degree and one first sum can be supplied to run a single slice.
-The generated [summary](../../../../outputs/Yin_J_G0179/versions/v3/summary.json) records counts for each slice, the first successful cyclotomic order or Graeffe index, and any unresolved coefficient vectors.
-The adjacent per-slice files store counts through every higher index and the half coefficients of every endpoint survivor.
+The generated [summary](../../inputs/versions/v3/summary.json) records counts for each slice, the first successful cyclotomic order or Graeffe index, and any unresolved coefficient vectors.
+The [fourteen retained slice files](../../inputs/degree-56-58-survivors.tar.xz) store counts through every higher index and the half coefficients of every endpoint survivor.
+The [restoration instructions](../../readme.md#retained-censuses) make those files and the earlier totals available to the finishing tests.
+The narrower \(s_1=6,\ s_2=0\) probe can be regenerated with the arguments \(\texttt{56 6 0}\) or \(\texttt{58 6 0}\) to the same enumeration driver.

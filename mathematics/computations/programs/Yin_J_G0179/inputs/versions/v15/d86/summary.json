@@ -1,0 +1,57 @@
+{
+  "degree": 86,
+  "cutoff": [
+    52451,
+    50000
+  ],
+  "verified_pairs": 60,
+  "counts": {
+    "representatives": 60816713,
+    "first_reflected": 1199108,
+    "nine_reflected": 299217,
+    "endpoint_zero": 251097,
+    "later_trace_exclusion": 22779,
+    "quadratic_cyclotomic": 23589,
+    "exact_division": 1752
+  },
+  "classes": {
+    "phi_5": 414,
+    "phi_7": 205,
+    "phi_22": 4,
+    "phi_8": 392,
+    "phi_18": 21,
+    "phi_14": 75,
+    "phi_9": 174,
+    "phi_17": 2,
+    "phi_11": 5,
+    "phi_16": 13,
+    "phi_30": 1,
+    "phi_10": 316,
+    "phi_15": 41,
+    "phi_20": 8,
+    "phi_12": 75,
+    "phi_24": 1,
+    "phi_23": 1,
+    "phi_13": 1,
+    "phi_21": 3
+  },
+  "direct_prefix": [
+    0,
+    -6,
+    0,
+    -6,
+    5,
+    -6,
+    -7,
+    -6
+  ],
+  "direct_counts": {
+    "representatives": 112,
+    "first_reflected": 26,
+    "nine_reflected": 15,
+    "endpoint_zero": 1,
+    "later_trace_exclusion": 8,
+    "quadratic_cyclotomic": 5,
+    "exact_division": 1
+  }
+}

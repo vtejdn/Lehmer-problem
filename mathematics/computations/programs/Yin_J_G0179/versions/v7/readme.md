@@ -39,10 +39,10 @@ The linear program minimizes \((D/2-1)u_0+u_k\) over bounds on the sampled maxim
 The [verification program](larger_boxes.py) uses the rounded weights as rational inputs and certifies the full maxima with the [rational Bernstein and logarithm bounds](../../readme.md#certificate).
 The squared moduli now have degree at most sixteen, so the Bernstein polynomials use degree sixteen and its exact binomial coefficients throughout.
 At each of the 65 layers the program separately certifies the full interval at the two radii before taking the integer part.
-The [output](../../../../outputs/Yin_J_G0179/versions/v7/boxes.json) gives all 130 certificates and the two congruence counts.
+The [output](../../inputs/versions/v7/boxes.json) gives all 130 certificates and the two congruence counts.
 
 On a fixed twenty-sum prefix the [affine suffix formula](../../../../../ledger/Yin_L_G0462_v271.md#affine) supplies the first reflected tests simultaneously.
-The [comparison program](affine_tail.py) checks its exact results against direct Newton recursions for all 256 and 512 completions in that example. [Comparison output](../../../../outputs/Yin_J_G0179/versions/v7/affine.json)
+The [comparison program](affine_tail.py) checks its exact results against direct Newton recursions for all 256 and 512 completions in that example and writes the counts to \(\texttt{affine.json}\) in the v7 output directory.
 
 From the repository root, the following command uses the stored weights and requires Python and NumPy.
 The optional flag \(\texttt{--choose-weights}\) on the first command regenerates the weights using SymPy and SciPy before certifying them.

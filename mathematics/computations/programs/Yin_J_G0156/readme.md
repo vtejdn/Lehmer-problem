@@ -999,8 +999,9 @@ The exact coefficients, seed, proposal and archive replay preserve the observed 
 ### Retained replay and verification
 
 Portable replay reconstructed all 352743 proposal vectors, all 2656 state changes and all thirty retry inputs from the native comparison, without the original journals or new root calculations.
-The corresponding output is `mathematics/computations/outputs/Yin_J_G0156/archive_retained_replay.json`.
-Separate recomputation of all 3386 witness measures completed and is retained in `mathematics/computations/outputs/Yin_J_G0156/archive_witness_verification.json`.
+The replay command above computes these counts from the [fixed comparison](inputs/archive_comparison.json).
+The separate verification of all 3386 witness measures completed.
+The witness command above regenerates the verification report from the [fixed coefficient vectors](inputs/archive_witnesses.json).
 Those deterministic checks do not reproduce historical timing or constitute another stochastic experiment.
 The actual-result finding also checks the certificates and every retained role, run and parent association against the original committed observations, within the previously reviewed complete-measure method's scope.
 

@@ -1,0 +1,80 @@
+{
+  "56": {
+    "all_vectors": {
+      "geometric_through_10_endpoints": 4306944,
+      "geometric_through_10_all_orders": 4306944,
+      "geometric_through_12_endpoints": 101356416,
+      "geometric_through_12_all_orders": 101356416,
+      "geometric_through_15_endpoints": 437403488,
+      "geometric_through_15_all_orders": 437403488,
+      "trace_box_through_10_endpoints": 683713696,
+      "trace_box_through_10_all_orders": 692062880,
+      "trace_box_through_12_endpoints": 776897356,
+      "trace_box_through_12_all_orders": 791626060,
+      "trace_box_through_15_endpoints": 862973756,
+      "trace_box_through_15_all_orders": 883098876,
+      "total": 2712147567,
+      "named_pair": 524288
+    },
+    "no_power_substitution_up_to_sign": {
+      "geometric_through_10_endpoints": 2153472,
+      "geometric_through_10_all_orders": 2153472,
+      "geometric_through_12_endpoints": 50678208,
+      "geometric_through_12_all_orders": 50678208,
+      "geometric_through_15_endpoints": 218701744,
+      "geometric_through_15_all_orders": 218701744,
+      "trace_box_through_10_endpoints": 341856848,
+      "trace_box_through_10_all_orders": 346031440,
+      "trace_box_through_12_endpoints": 388448678,
+      "trace_box_through_12_all_orders": 395813030,
+      "trace_box_through_15_endpoints": 431486878,
+      "trace_box_through_15_all_orders": 441549438,
+      "total": 1356059655,
+      "named_pair": 262144
+    },
+    "diagnostics_all_vectors": {
+      "prefix_count": 5468051,
+      "largest_high_table_entries": 17625,
+      "exact_margin_comparisons": 0
+    }
+  },
+  "58": {
+    "all_vectors": {
+      "geometric_through_10_endpoints": 4194304,
+      "geometric_through_10_all_orders": 4194304,
+      "geometric_through_12_endpoints": 171562560,
+      "geometric_through_12_all_orders": 171562560,
+      "geometric_through_15_endpoints": 914071840,
+      "geometric_through_15_all_orders": 914071840,
+      "trace_box_through_10_endpoints": 1535057312,
+      "trace_box_through_10_all_orders": 1545858464,
+      "trace_box_through_12_endpoints": 1765736576,
+      "trace_box_through_12_all_orders": 1791083648,
+      "trace_box_through_15_endpoints": 1991699920,
+      "trace_box_through_15_all_orders": 2031962448,
+      "total": 6985779621,
+      "named_pair": 1048576
+    },
+    "no_power_substitution_up_to_sign": {
+      "geometric_through_10_endpoints": 2097152,
+      "geometric_through_10_all_orders": 2097152,
+      "geometric_through_12_endpoints": 85781280,
+      "geometric_through_12_all_orders": 85781280,
+      "geometric_through_15_endpoints": 457035920,
+      "geometric_through_15_all_orders": 457035920,
+      "trace_box_through_10_endpoints": 767528656,
+      "trace_box_through_10_all_orders": 772929232,
+      "trace_box_through_12_endpoints": 882868288,
+      "trace_box_through_12_all_orders": 895541824,
+      "trace_box_through_15_endpoints": 995849960,
+      "trace_box_through_15_all_orders": 1015981224,
+      "total": 3492875690,
+      "named_pair": 524288
+    },
+    "diagnostics_all_vectors": {
+      "prefix_count": 7523731,
+      "largest_high_table_entries": 17625,
+      "exact_margin_comparisons": 0
+    }
+  }
+}

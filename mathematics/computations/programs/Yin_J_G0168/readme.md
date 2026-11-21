@@ -116,5 +116,6 @@ From the repository root run
 python -B mathematics/computations/programs/Yin_J_G0168/window.py
 ~~~~
 
-The program enumerates primes by trial division, computes both lattice invariants by both methods, checks the collision and measure bounds, and regenerates the [24-row CSV](../../outputs/Yin_J_G0168/window.csv) from these inputs.
+The program enumerates primes by trial division, computes both lattice invariants by both methods, checks the collision and measure bounds, and regenerates the [24-row CSV](inputs/window.csv) from these inputs.
+Compare a new run's 24 rows in `mathematics/computations/outputs/Yin_J_G0168/window.csv` with this fixed table.
 The CSV contains the full integers, the normalized logarithms, their ratio, the portion of the index left after removing exceptional primes, and the common divisor detecting possible triple roots.

@@ -64,7 +64,8 @@ python mathematics/computations/programs/Yin_J_G0175/census.py --bound 720 --wor
 ~~~~
 
 One worker gives the same enumeration and result.
-The [replaceable output](../../outputs/Yin_J_G0175/census_b720.json) records each admissible \(b\), cyclotomic orders with multiplicities, nontorsion polynomials with descending integer coefficients and multiplicities, exact Sturm variations and root counts.
+Compare the 480 direction records in `mathematics/computations/outputs/Yin_J_G0175/census_b720.json` with the fixed census.
+The [fixed census](inputs/census_b720.json) records each admissible \(b\), cyclotomic orders with multiplicities, nontorsion polynomials with descending integer coefficients and multiplicities, exact Sturm variations and root counts.
 No input files are needed.
 
 The program factors \(H_b\) over the integers by FLINT, reconstructs each parent with multiplicities, and independently constructs \(\Phi_j\) for each positive order returned by FLINT's cyclotomic test.

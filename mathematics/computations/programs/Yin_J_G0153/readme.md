@@ -210,7 +210,7 @@ Run from the repository root with python-flint available:
 python -B mathematics/computations/programs/Yin_J_G0153/cluster_word_control.py
 ~~~
 
-The replaceable [cluster_word_control.json](../../outputs/Yin_J_G0153/cluster_word_control.json) retains the actual sign lists, full trace and characteristic coefficients, exact factor coefficients, all noncyclotomic root balls, multiplicities, dyadic measure intervals and threshold decisions.
+The replaceable `cluster_word_control.json` retains the actual sign lists, full trace and characteristic coefficients, exact factor coefficients, all noncyclotomic root balls, multiplicities, dyadic measure intervals and threshold decisions.
 It is regenerated from the fixed program inputs and published atomically only after the complete calculation succeeds.
 After generating that comparison input, run the separate verification command:
 
@@ -218,5 +218,21 @@ After generating that comparison input, run the separate verification command:
 python -B mathematics/computations/programs/Yin_J_G0153/checks/cluster_word_independent.py
 ~~~
 
-The checker uses the existing python-flint installation at J156 outputs/packages and writes [cluster_word_independent.json](../../outputs/Yin_J_G0153/cluster_word_independent.json).
+The original checker run used python-flint from the J156 package directory and writes `cluster_word_independent.json`.
 Its exact scope, independent arrangement and limitations belong to the linked finding.
+
+## Reconstructing the reviewed data
+
+The degree-144 polynomial, its exact factors, all root boxes and the complete measure were reconstructed and checked in a fresh output tree using python-flint 0.9.0.
+The independent count for the degree-132 factor was 42 inside, 42 outside and 48 meeting the unit circle.
+The following programs reconstruct the mathematical payloads checked in the original review.
+Installing python-flint in the interpreter environment suffices when the optional J156 package directory is absent.
+The recorded operating times describe the original runs.
+
+<a id="rebuild-cluster-word-control"></a>
+
+Run with the fixed inputs described above to produce [`cluster_word_control.json`](cluster_word_control.py).
+
+<a id="rebuild-cluster-word-independent"></a>
+
+After generating the comparison input, run the checker to produce [`cluster_word_independent.json`](checks/cluster_word_independent.py).

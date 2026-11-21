@@ -89,5 +89,6 @@ It reuses the [original kernel and search routines](../../minimum.py) and requir
 python mathematics/computations/programs/Yin_J_G0177/versions/v2/octic_nine.py
 ~~~
 
-Python 3.14.3 produced the [53 per-prime records and single width-eight control](../../../../outputs/Yin_J_G0177/versions/v2/results.json).
+Compare the generated `outputs/Yin_J_G0177/versions/v2/results.json` in the computations directory with the fixed result.
+Python 3.14.3 produced the [53 per-prime records and single width-eight control](../../inputs/versions/v2/results.json).
 Each record includes the two signed reduced bases, a cutoff decision with candidate counts, the uncapped enumeration ceiling and counts, and the least cost with its genuine rows.

@@ -1,0 +1,273 @@
+{
+  "degree": 78,
+  "cutoff": [
+    53,
+    50
+  ],
+  "tensor_verified_pairs": 52,
+  "counts": {
+    "representatives": 148088202,
+    "first_reflected": 8393381,
+    "nine_reflected": 1310253,
+    "endpoint_zero": 896441,
+    "later_trace_exclusion": 292327,
+    "quadratic_cyclotomic": 111698,
+    "modular_graeffe": 4271,
+    "fallback": 5516
+  },
+  "fallback_classifications": {
+    "phi_5": 1292,
+    "phi_7": 520,
+    "phi_14": 245,
+    "phi_9": 603,
+    "phi_8": 1121,
+    "phi_18": 35,
+    "phi_10": 1083,
+    "phi_16": 38,
+    "phi_11": 29,
+    "phi_28": 2,
+    "phi_30": 2,
+    "phi_22": 24,
+    "phi_12": 314,
+    "phi_13": 13,
+    "phi_42": 2,
+    "phi_63": 1,
+    "phi_20": 38,
+    "phi_17": 4,
+    "phi_15": 122,
+    "phi_33": 2,
+    "phi_158": 1,
+    "phi_80": 1,
+    "phi_24": 2,
+    "phi_21": 22
+  },
+  "direct_prefix_checks": [
+    {
+      "case": "cyclotomic",
+      "prefix": [
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1,
+        1
+      ],
+      "counts": {
+        "representatives": 1,
+        "first_reflected": 1,
+        "nine_reflected": 1,
+        "endpoint_zero": 0,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 1
+      }
+    },
+    {
+      "case": "first_6_sums",
+      "prefix": [
+        1,
+        -1,
+        1,
+        -1,
+        1,
+        -1
+      ],
+      "counts": {
+        "representatives": 1323,
+        "first_reflected": 1027,
+        "nine_reflected": 651,
+        "endpoint_zero": 169,
+        "later_trace_exclusion": 389,
+        "quadratic_cyclotomic": 46,
+        "modular_graeffe": 28,
+        "fallback": 19
+      }
+    },
+    {
+      "case": "delayed_odd_sum",
+      "prefix": [
+        0,
+        0,
+        3,
+        0,
+        5,
+        3,
+        0,
+        0,
+        3,
+        5,
+        0,
+        3,
+        0,
+        0,
+        8,
+        0,
+        0,
+        3,
+        0
+      ],
+      "counts": {
+        "representatives": 1,
+        "first_reflected": 1,
+        "nine_reflected": 1,
+        "endpoint_zero": 1,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    },
+    {
+      "case": "constant_sums",
+      "prefix": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "counts": {
+        "representatives": 1,
+        "first_reflected": 1,
+        "nine_reflected": 1,
+        "endpoint_zero": 1,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    },
+    {
+      "case": "substitution_2",
+      "prefix": [
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0
+      ],
+      "counts": {
+        "representatives": 0,
+        "first_reflected": 0,
+        "nine_reflected": 0,
+        "endpoint_zero": 0,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    },
+    {
+      "case": "substitution_3",
+      "prefix": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0
+      ],
+      "counts": {
+        "representatives": 0,
+        "first_reflected": 0,
+        "nine_reflected": 0,
+        "endpoint_zero": 0,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    },
+    {
+      "case": "substitution_13",
+      "prefix": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "counts": {
+        "representatives": 0,
+        "first_reflected": 0,
+        "nine_reflected": 0,
+        "endpoint_zero": 0,
+        "later_trace_exclusion": 0,
+        "quadratic_cyclotomic": 0,
+        "modular_graeffe": 0,
+        "fallback": 0
+      }
+    }
+  ],
+  "exact_graeffe_witnesses": [],
+  "unresolved": []
+}

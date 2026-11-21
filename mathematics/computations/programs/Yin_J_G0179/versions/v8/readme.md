@@ -25,7 +25,7 @@ Beyond the center we use the necessary bound \(\lvert s_k\rvert\le\lfloor62+T^k+
 | Also pass exact cyclotomic division | 0 |
 
 Every one of the 12,184 polynomials in the last division step has a cyclotomic divisor.
-The [summary](../../../../outputs/Yin_J_G0179/versions/v8/summary.json) gives the counts by order and the direct checks on three fixed prefixes.
+The [summary](../../inputs/versions/v8/summary.json) gives the counts by order and the direct checks on three fixed prefixes.
 This census covers only degree 64 at the stated cutoff.
 
 <a id="suffix"></a>
@@ -104,5 +104,7 @@ In all 39 cases the count agrees with the enumeration, and the aggregate agrees 
 The program also enumerates three sixteen-sum prefixes directly with arbitrary-precision Newton arithmetic for every completion, ordinary cyclotomic division, and exact Graeffe polynomials before taking residues.
 It compares the complete vector of counts with the native routine at each prefix.
 The sign transform of the [five-prime example](../v7/readme.md#weights) has 2,048 completions and two survive through index 41.
+To regenerate its separate native report, run the driver with `--audit --prefix 5 -5 5 -5 0 -5 -2 -5 5 0 -6 -5 5 2 0 -5`.
+The [retained census data](../../readme.md#retained-censuses) include the distinct eight-sum control on the same first eight entries that was checked in the [degree-64 review](../../../../../audits/reviews/Yin_R_G0562_v558.md#finding).
 The constant prefix \(s_j=5\) has 65,536 completions, of which 9,120 survive through index 41 and all vanish at an endpoint.
 The prefix \(s_j=3\mathbf1_{3\mid j}\) has four completions, all surviving through index 41, with two endpoint exclusions, one quadratic cyclotomic divisor and one Graeffe exclusion.

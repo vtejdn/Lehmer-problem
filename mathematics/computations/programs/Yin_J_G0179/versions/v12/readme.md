@@ -13,10 +13,10 @@ The table counts the sign-normalized polynomials after excluding power substitut
 
 | Degree and full summary | \(T_D\) | First-half representatives | Through \(s_{h+1}\) | Through \(s_{h+9}\) | Reach exact classification |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| [56](../../../../outputs/Yin_J_G0179/versions/v12/d56/summary.json) | \(1101/1000\) | 3,627,987,860 | 456,165,873 | 52,685,101 | 7,181 |
-| [58](../../../../outputs/Yin_J_G0179/versions/v12/d58/summary.json) | \(2193/2000\) | 4,524,093,746 | 407,549,351 | 37,847,314 | 6,930 |
-| [68](../../../../outputs/Yin_J_G0179/versions/v12/d68/summary.json) | \(541/500\) | 1,918,206,514 | 155,887,643 | 15,530,267 | 11,587 |
-| [70](../../../../outputs/Yin_J_G0179/versions/v12/d70/summary.json) | \(431/400\) | 2,004,938,344 | 86,545,439 | 8,896,192 | 9,553 |
+| [56](../../inputs/versions/v12/d56/summary.json) | \(1101/1000\) | 3,627,987,860 | 456,165,873 | 52,685,101 | 7,181 |
+| [58](../../inputs/versions/v12/d58/summary.json) | \(2193/2000\) | 4,524,093,746 | 407,549,351 | 37,847,314 | 6,930 |
+| [68](../../inputs/versions/v12/d68/summary.json) | \(541/500\) | 1,918,206,514 | 155,887,643 | 15,530,267 | 11,587 |
+| [70](../../inputs/versions/v12/d70/summary.json) | \(431/400\) | 2,004,938,344 | 86,545,439 | 8,896,192 | 9,553 |
 
 Of the 12,075,226,464 representatives, 35,251 reached exact classification.
 Exact divisibility by a cyclotomic polynomial excluded 35,250 of them.

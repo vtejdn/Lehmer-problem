@@ -1,0 +1,202 @@
+{
+  "56": {
+    "certified_first_three": {
+      "bounds": [
+        6,
+        6,
+        6
+      ],
+      "count": 373,
+      "branch_bound": 455,
+      "largest_table_entries": 169
+    },
+    "certified_all_available": {
+      "bounds": [
+        6,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        11,
+        11,
+        12,
+        12,
+        13,
+        14,
+        14,
+        15,
+        16,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "count": 2712147567,
+      "branch_bound": 347807416320,
+      "largest_table_entries": 823875,
+      "no_power_substitution_up_to_sign": 1356059655
+    },
+    "fixed_weight_box": {
+      "bounds": [
+        7,
+        8,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        11,
+        11,
+        12,
+        12,
+        13,
+        13,
+        14,
+        15,
+        15,
+        16,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        21,
+        23,
+        24,
+        25
+      ],
+      "count": 104510305385,
+      "branch_bound": 4643802316800,
+      "largest_table_entries": 1989765,
+      "no_power_substitution_up_to_sign": 52255067228
+    },
+    "elementary_first_eight": {
+      "bounds": [
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        29
+      ],
+      "count": 2881303075,
+      "branch_bound": 4070347200,
+      "largest_table_entries": 185193
+    }
+  },
+  "58": {
+    "certified_first_three": {
+      "bounds": [
+        6,
+        6,
+        7
+      ],
+      "count": 425,
+      "branch_bound": 455,
+      "largest_table_entries": 195
+    },
+    "certified_all_available": {
+      "bounds": [
+        6,
+        6,
+        7,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        11,
+        12,
+        12,
+        13,
+        13,
+        14,
+        15,
+        15,
+        16,
+        17,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "count": 6985779621,
+      "branch_bound": 695614832640,
+      "largest_table_entries": 950625,
+      "no_power_substitution_up_to_sign": 3492875690
+    },
+    "fixed_weight_box": {
+      "bounds": [
+        8,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        10,
+        11,
+        11,
+        12,
+        12,
+        13,
+        14,
+        14,
+        15,
+        15,
+        16,
+        17,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "count": 355249214949,
+      "branch_bound": 15788927877120,
+      "largest_table_entries": 2707063,
+      "no_power_substitution_up_to_sign": 177624501632
+    },
+    "elementary_first_eight": {
+      "bounds": [
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        30
+      ],
+      "count": 3798602663,
+      "branch_bound": 4587840000,
+      "largest_table_entries": 205379
+    }
+  }
+}

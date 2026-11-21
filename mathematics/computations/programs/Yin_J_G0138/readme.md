@@ -26,7 +26,7 @@ It evaluates shifted boundary grids with 2^17, 2^19 and 2^21 points using comple
 For degrees at most 48 it also computes floating-point roots, treating modulus greater than 1+1e-7 as exterior and imaginary part less than 1e-7 in magnitude as numerically real.
 These thresholds are numerical screens, not certified root counts.
 There is no randomness or required prior output.
-The replaceable generated result is [results.json](../../outputs/Yin_J_G0138/results.json).
+The replaceable generated result is `mathematics/computations/outputs/Yin_J_G0138/results.json`.
 
 ## Minus-two results and limits
 
@@ -41,7 +41,7 @@ The rigorous no-cyclotomic-factor and total-measure lower bounds belong to [L457
 ## Minus-one files and reproduction
 
 Run `python mathematics/computations/programs/Yin_J_G0138/center_one.py` from the repository root.
-The retained native program is [center_one.py](center_one.py), with its own replaceable output [center_one_results.json](../../outputs/Yin_J_G0138/center_one_results.json).
+The retained native program is [center_one.py](center_one.py), with its own replaceable output `mathematics/computations/outputs/Yin_J_G0138/center_one_results.json`.
 This program was run successfully with Python 3.14.3, NumPy 2.4.4 and SymPy 1.14.0; it records actual dependency versions in each generated output.
 Its only inputs are n=35,105,1155, with c=1 and the exact exponent phi(n)/2.
 It records full integer coefficients of the original polynomial and the residual after removing all cyclotomic factors, as well as the complete cyclotomic orders and multiplicities.
@@ -156,13 +156,18 @@ With python-flint available, run the following from the repository root.
 python -B mathematics/computations/programs/Yin_J_G0138/core_shape.py
 ~~~
 
+<a id="root-shape-output"></a>
+
 It uses no randomness, NumPy, SymPy or prior generated output.
-The replaceable [core_shape.json](../../outputs/Yin_J_G0138/core_shape.json) retains all original, block, quotient and trace coefficient vectors, squarefree factors with multiplicities, exact chain degree and sign lists, controls and dependency versions.
+The replaceable `mathematics/computations/outputs/Yin_J_G0138/core_shape.json` retains all original, block, quotient and trace coefficient vectors, squarefree factors with multiplicities, exact chain degree and sign lists, controls and dependency versions.
 The rational remainder chains are regenerated from those exact inputs rather than retained as large coefficient arrays.
 The output is published atomically only after the assertions succeed.
 The [independent root-shape finding](../../../audits/reviews/Yin_R_G1107_v36.md#degree446-root-shape-review) checks the complete calculation, both controls and the stated product exclusions.
 Its [separate checker](checks/core_shape_independent.py) regenerates the integer input by Möbius products, extracts the trace by triangular subtraction, and uses positive-pivot integer pseudo-remainders without importing the author program.
-The actual [independent output](../../outputs/Yin_J_G0138/core_shape_independent.json) retains the regenerated coefficients and exact chain data.
+
+<a id="independent-shape-output"></a>
+
+The checker writes the regenerated coefficients and exact chain data to `mathematics/computations/outputs/Yin_J_G0138/core_shape_independent.json`.
 
 <a id="degree446-factor-and-measure"></a>
 ## Complete factorization and Mahler enclosure of the same quotient
@@ -204,10 +209,16 @@ python -B mathematics/computations/programs/Yin_J_G0138/core_factors.py --measur
 
 The completed runs used Python 3.14.7 and python-flint 0.9.0.
 The child computation has a 60-second cap; a timeout yields no completed factorization or measure conclusion.
-The factor-only and complete-measure outputs are respectively [core_factors.json](../../outputs/Yin_J_G0138/core_factors.json) and [core_measure.json](../../outputs/Yin_J_G0138/core_measure.json), published atomically.
+
+<a id="factor-output"></a>
+
+The factor-only and complete-measure outputs are respectively `mathematics/computations/outputs/Yin_J_G0138/core_factors.json` and `mathematics/computations/outputs/Yin_J_G0138/core_measure.json`, published atomically.
 Both are generated from the program's fixed exact input, with no prior output required.
 The complete-measure mode additionally requires the retained cross-J evaluator named above.
-It records all exact factor coefficients, root balls, complete dyadic measure intervals, multiplicities and dependency versions.
+
+<a id="complete-measure-output"></a>
+
+The complete-measure file `mathematics/computations/outputs/Yin_J_G0138/core_measure.json` records all exact factor coefficients, root balls, complete dyadic measure intervals, multiplicities and dependency versions.
 
 <a id="growing-profile-resultant"></a>
 ## Exact whole-measure rejection of a changed neutral profile
@@ -260,7 +271,10 @@ python -B mathematics/computations/programs/Yin_J_G0138/growing_profile_resultan
 ~~~
 
 The completed run used Python 3.14.7 and python-flint 0.9.0.
-The replaceable [growing_profile_resultant.json](../../outputs/Yin_J_G0138/growing_profile_resultant.json) contains every input and trace coefficient, both exact resultant integers, the comparison parameters, scope and dependency versions.
+
+<a id="profile-resultant-output"></a>
+
+The replaceable `mathematics/computations/outputs/Yin_J_G0138/growing_profile_resultant.json` contains every input and trace coefficient, both exact resultant integers, the comparison parameters, scope and dependency versions.
 It requires no prior generated output or randomness and is published atomically after all assertions pass.
 The [independent finding](../../../audits/reviews/Yin_R_G1107_v40.md#growing-profile-resultant-review) verifies this fixed input and its complete lower bound.
 Its [separate checker](checks/growing_profile_independent.py) constructs the cyclotomic factors by integer binomial quotients, builds \(Q=C_AB_{461}-1\), reconstructs every original coefficient and compares the full exact resultant and both integer inequalities.
@@ -272,7 +286,27 @@ After generating the author output, run the following to reproduce the independe
 python -B mathematics/computations/programs/Yin_J_G0138/checks/growing_profile_independent.py
 ~~~
 
-The replaceable [growing_profile_independent.json](../../outputs/Yin_J_G0138/growing_profile_independent.json) contains its exact reconstructed inputs, comparison margins and checking limits.
+<a id="independent-resultant-output"></a>
+
+The replaceable `mathematics/computations/outputs/Yin_J_G0138/growing_profile_independent.json` contains its exact reconstructed inputs, comparison margins and checking limits.
+
+## Reproducing the reviewed certificates
+
+The four files identified in the degree-446 review and the two identified in the degree-1010 review can be regenerated with Python and python-flint 0.9.0.
+The particular November 10 execution files are unavailable here.
+For degree 446, start with the [root-count command](#core-shape-controls), then run the [factor-only and complete-measure commands](#degree446-factor-and-measure).
+The complete-measure command uses the [all-root evaluator](../Yin_J_G0156/sampler.py).
+Once the three files exist, run the following checker from the repository root with the [degree-eighteen control coefficients](../Yin_J_G0144/trace_control.py) available.
+
+~~~text
+python -B mathematics/computations/programs/Yin_J_G0138/checks/core_shape_independent.py
+~~~
+
+For degree 1010, run the [resultant generator followed by its checker](#growing-profile-resultant).
+An empty-output reproduction using Python 3.14.3 and python-flint 0.9.0 completed both independent checks.
+The degree-446 check compared every regenerated chain and endpoint sign, reconstructed the single irreducible factor, matched all 446 root enclosures and recovered the displayed dyadic measure endpoints with 104 exterior, 104 interior and 238 unit-circle roots.
+The degree-1010 check reconstructed the polynomial and trace, the complete 4030-bit resultant, both strict integer inequalities and the residues 634858 modulo 1000003 and 207643 modulo 1000033.
+The November 10 findings describe their original Python 3.14.7 calculations and retain their own execution details and inspection limits.
 
 <a id="all-length-degree-60"></a>
 ## All geometric lengths for squarefree parents of degree at most 60
@@ -314,7 +348,8 @@ The author run on Python 3.14.3 found 41,268 parents with the prescribed prefix,
 The initial range contained 3,363,666 parent and length pairs, of which 1,669,258 passed the endpoint, order and parity restrictions.
 The sign test rejected every remaining pair before an amplitude calculation was needed.
 The largest individual conductor ceiling was 168, and each parent's own ceiling required zero additional odd lengths beyond its initial range.
-The [regenerable output](../../outputs/Yin_J_G0138/central_parent_screen.json) gives the aggregate counts and their degree breakdown.
+The [fixed result](inputs/central_parent_screen.json) gives the aggregate counts and their degree breakdown.
+The enumeration writes its comparison copy to `mathematics/computations/outputs/Yin_J_G0138/central_parent_screen.json`.
 The [independent enumeration](../../../audits/reviews/Yin_R_G1107_v43.md#all-length-screen-review) checks these counts, the sign inversions and the argument covering all remaining lengths.
 The exclusion concerns this squarefree central construction and the specified sign and endpoint conditions.
 It supplies no measure lower bound for its outputs and leaves parents of higher degree open.
@@ -360,6 +395,7 @@ From the repository root, run the [native checker](p21_cubic_witness.py) with Py
 python -B mathematics/computations/programs/Yin_J_G0138/p21_cubic_witness.py
 ~~~
 
-The checker uses rational endpoints for both real and complex root counts and publishes the [exact residue signs, polynomial and measure bounds](../../outputs/Yin_J_G0138/p21_cubic_witness.json) after all assertions pass.
+The checker uses rational endpoints for both real and complex root counts and writes `mathematics/computations/outputs/Yin_J_G0138/p21_cubic_witness.json` after all assertions pass.
+The [fixed witness](inputs/p21_cubic_witness.json) contains the ten signs, polynomial and measure bounds.
 The [independent certificate](../../../audits/reviews/Yin_R_G1107_v48.md#p21-integer-review) checks the signs by polynomial substitution and locates the exterior root in a rational disk, tightening the full measure enclosure to \(1.6062390014<M(P)<1.6062390015\).
 The [degree obstruction at \(p=21\)](../../../ledger/Yin_L_G0457_v8.md#three-node-test) checks that every integral perturbation with a longer prefix fails some required residue sign.

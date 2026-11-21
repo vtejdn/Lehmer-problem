@@ -72,4 +72,4 @@ Generate the [version-two inputs and output](../v2/readme.md#reproduction), then
 python mathematics/computations/programs/Yin_J_G0179/versions/v4/angular_prefixes.py
 ~~~
 
-The [generated counts](../../../../outputs/Yin_J_G0179/versions/v4/results.json) distinguish the two earlier tests, their overlap, the successive additional matrix rejections and the surviving representatives.
+The [retained counts](../../inputs/versions/v4/results.json) distinguish the two earlier tests, their overlap, the successive additional matrix rejections and the surviving representatives.

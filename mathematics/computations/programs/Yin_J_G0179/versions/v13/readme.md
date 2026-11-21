@@ -14,19 +14,19 @@ All 818 final polynomials have a cyclotomic divisor.
 
 | Degree and summary | \(T\) | First-half tuples | One reflection | Nine reflections | Exact division |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| [86](../../../../outputs/Yin_J_G0179/versions/v13/d86/summary.json) | 1.042 | 5,282,539 | 286,483 | 109,803 | 422 |
-| [88](../../../../outputs/Yin_J_G0179/versions/v13/d88/summary.json) | 1.04 | 5,512,495 | 309,183 | 125,860 | 297 |
-| [90](../../../../outputs/Yin_J_G0179/versions/v13/d90/summary.json) | 1.036 | 3,935,653 | 273,261 | 114,991 | 93 |
-| [92](../../../../outputs/Yin_J_G0179/versions/v13/d92/summary.json) | 1.027 | 717,446 | 88,397 | 42,829 | 0 |
-| [94](../../../../outputs/Yin_J_G0179/versions/v13/d94/summary.json) | 1.027 | 1,206,016 | 109,337 | 63,158 | 1 |
-| [96](../../../../outputs/Yin_J_G0179/versions/v13/d96/summary.json) | 1.027 | 2,004,645 | 152,542 | 84,310 | 0 |
-| [98](../../../../outputs/Yin_J_G0179/versions/v13/d98/summary.json) | 1.027 | 2,440,226 | 173,176 | 94,633 | 3 |
-| [100](../../../../outputs/Yin_J_G0179/versions/v13/d100/summary.json) | 1.022 | 1,281,522 | 117,454 | 66,642 | 0 |
-| [102](../../../../outputs/Yin_J_G0179/versions/v13/d102/summary.json) | 1.02 | 1,185,995 | 114,112 | 51,711 | 0 |
-| [104](../../../../outputs/Yin_J_G0179/versions/v13/d104/summary.json) | 1.02 | 1,420,032 | 150,788 | 64,838 | 0 |
-| [106](../../../../outputs/Yin_J_G0179/versions/v13/d106/summary.json) | 1.02 | 2,247,980 | 219,301 | 92,093 | 0 |
-| [108](../../../../outputs/Yin_J_G0179/versions/v13/d108/summary.json) | 1.02 | 4,812,815 | 296,140 | 118,514 | 2 |
-| [110](../../../../outputs/Yin_J_G0179/versions/v13/d110/summary.json) | 1.02 | 5,402,700 | 332,350 | 141,725 | 0 |
+| [86](../../inputs/versions/v13/d86/summary.json) | 1.042 | 5,282,539 | 286,483 | 109,803 | 422 |
+| [88](../../inputs/versions/v13/d88/summary.json) | 1.04 | 5,512,495 | 309,183 | 125,860 | 297 |
+| [90](../../inputs/versions/v13/d90/summary.json) | 1.036 | 3,935,653 | 273,261 | 114,991 | 93 |
+| [92](../../inputs/versions/v13/d92/summary.json) | 1.027 | 717,446 | 88,397 | 42,829 | 0 |
+| [94](../../inputs/versions/v13/d94/summary.json) | 1.027 | 1,206,016 | 109,337 | 63,158 | 1 |
+| [96](../../inputs/versions/v13/d96/summary.json) | 1.027 | 2,004,645 | 152,542 | 84,310 | 0 |
+| [98](../../inputs/versions/v13/d98/summary.json) | 1.027 | 2,440,226 | 173,176 | 94,633 | 3 |
+| [100](../../inputs/versions/v13/d100/summary.json) | 1.022 | 1,281,522 | 117,454 | 66,642 | 0 |
+| [102](../../inputs/versions/v13/d102/summary.json) | 1.02 | 1,185,995 | 114,112 | 51,711 | 0 |
+| [104](../../inputs/versions/v13/d104/summary.json) | 1.02 | 1,420,032 | 150,788 | 64,838 | 0 |
+| [106](../../inputs/versions/v13/d106/summary.json) | 1.02 | 2,247,980 | 219,301 | 92,093 | 0 |
+| [108](../../inputs/versions/v13/d108/summary.json) | 1.02 | 4,812,815 | 296,140 | 118,514 | 2 |
+| [110](../../inputs/versions/v13/d110/summary.json) | 1.02 | 5,402,700 | 332,350 | 141,725 | 0 |
 | Total | | 37,450,064 | 2,622,524 | 1,171,107 | 818 |
 
 <a id="bounds"></a>

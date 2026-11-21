@@ -1,0 +1,37 @@
+{
+  "degree": 96,
+  "cutoff": [
+    1027,
+    1000
+  ],
+  "verified_pairs": 77,
+  "counts": {
+    "representatives": 2004645,
+    "first_reflected": 152542,
+    "nine_reflected": 84310,
+    "endpoint_zero": 66308,
+    "later_trace_exclusion": 17959,
+    "quadratic_cyclotomic": 43,
+    "exact_division": 0
+  },
+  "verified_divisors": {},
+  "direct_prefix": [
+    1,
+    -1,
+    1,
+    -1,
+    1,
+    -1,
+    1,
+    -1
+  ],
+  "direct_counts": {
+    "representatives": 9,
+    "first_reflected": 7,
+    "nine_reflected": 4,
+    "endpoint_zero": 2,
+    "later_trace_exclusion": 2,
+    "quadratic_cyclotomic": 0,
+    "exact_division": 0
+  }
+}

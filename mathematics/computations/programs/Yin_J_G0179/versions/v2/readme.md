@@ -81,5 +81,5 @@ Generate the [version-one inputs](../../readme.md#reproduction), then run the [p
 python mathematics/computations/programs/Yin_J_G0179/versions/v2/cyclotomic_prefixes.py
 ~~~
 
-The program uses Python and NumPy and reads the [certified full-box bounds and counts](../../../../outputs/Yin_J_G0179/prefixes.json).
-The [version-two results](../../../../outputs/Yin_J_G0179/versions/v2/results.json) give the two order sets at each horizon, the counts before and after removal of power substitutions and sign duplicates, and the direct prefix controls.
+The program uses Python and NumPy and reads the [certified full-box bounds and counts](../../inputs/prefixes.json).
+The [version-two results](../../inputs/versions/v2/results.json) give the two order sets at each horizon, the counts before and after removal of power substitutions and sign duplicates, and the direct prefix controls.
