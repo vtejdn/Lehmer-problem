@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v1021](Yin_R_G0562_v1021.md#finding) checks the distinguished irreducible factor at spans \(101^j\), its degree and the three limiting conjugate proportions.
+
+- [R562 v1020](Yin_R_G0562_v1020.md#finding) checks the long-exponent exclusion at powers of two or three, varying residue primes, multiplicities and the threshold for adjacent coefficients.
+
 - [R562 v1019](Yin_R_G0562_v1019.md#finding) checks the conjugate fraction on the circle and the mean logarithmic radius in the short-middle-gap regime, including unbounded coefficient ratios.
 
 - [R562 v1018](Yin_R_G0562_v1018.md#finding) checks four-term identities on the two curves and their power pullbacks, simultaneous zeros, and the reciprocal quartic obstruction.

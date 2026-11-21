@@ -40,8 +40,12 @@ A possible shrinking sequence at the remaining coefficient heights would have \(
 In the four-term search at bounded coefficient height this leaves the reciprocal and antireciprocal parents with parallelogram support.
 For the primitive section \(a(1+\epsilon X^{u+v})+b(X^u+\epsilon X^v)\) with consecutive magnitudes \(|a|=q\), \(|b|=q+1\), [the exterior sum](../claims/Yin_C_G0345_v869.md#statement) bounds the combined positive measure of all unit factors by \(3/q\) as soon as any one occurs, at every common dilation.
 Thus a nontorsion unit at infinitely many \(q\) would disprove the gap, and each such occurrence requires \(v/u\gg q^2\log q\) and \(u+v\ge\exp(cq^{1/3}\log q)\).
+The [long-exponent exclusion](../claims/Yin_C_G0345_v872.md#statement) eliminates \(v=2^j\) and \(v=3^j\) for \(q\ge1024\), and their multiples by any fixed integer for all sufficiently large \(q\).
+Two further arguments await review, one for [periods at the sum or difference of the exponents](../claims/Yin_C_G0345_v874.md#statement) and one for [the number of exterior conjugates of each candidate unit](../claims/Yin_C_G0345_v875.md#statement).
 For a root \(z\) at dilation \(g\) in the regime \((v-u)h(z^g)\to0\), the [conjugate distribution](../claims/Yin_C_G0345_v871.md#statement) forces \(|a|=1\) eventually, determines the fraction on the unit circle and bounds its limit superior by \(1/3\).
 Seek factors with a large fraction on the circle only outside this short-middle-gap regime.
+At each span \(W=101^j\), [a distinguished reciprocal factor](../claims/Yin_C_G0345_v873.md#statement) has degree at least \(100W/101\).
+Its circle proportion tends to \(1/3\) as \(j\to\infty\), while its logarithmic Mahler measure stays bounded away from zero.
 A [classification on both curves](../claims/Yin_C_G0345_v870.md#statement) shows that an independent four-term equation would impose an additional condition on the section point and gives a degree bound from the support of that equation.
 Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
 For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_G0345_v789.md#example), the ordinary sections \(F(X,X^n)\) have one noncyclotomic factor for all sufficiently large \(n\).
