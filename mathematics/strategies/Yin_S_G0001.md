@@ -20,6 +20,9 @@ The [resumed Task](../tasks/Yin_T_G0001_v1.md#decision-resume-alternating-blocks
 Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
 The [individual height formula](../claims/Yin_C_G0345_v769.md#statement) reduces the construction on a fixed plane curve to finding a nontorsion irreducible factor of degree \(o(W)\), where \(W\) is the exponent span of the section.
+For each fixed rank-two template, [specialization of its isogeny components](../claims/Yin_C_G0345_v859.md#covers) and [compression of radicals](../claims/Yin_C_G0345_v861.md#statement) give \(m(z)\ge b_F\varphi(w)\) for nontorsion roots off one finite set of torsion invariants for each primitive direction, simultaneously at every common dilation.
+Even on an exceptional fiber, every positive root measure is already attained with a common dilation of order at most \(1+(\log(2n))^4/(\log\log(5n))^3\) up to a template-dependent factor, where \(n\) is the primitive norm.
+Determine whether the exceptional invariants can support factors of sublinear degree as the primitive directions vary, starting at the untwisted invariant on the two-pole curve.
 Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
 For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_G0345_v789.md#example), the ordinary sections \(F(X,X^n)\) have one noncyclotomic factor for all sufficiently large \(n\).
 The [fixed-cover degree calculation](../claims/Yin_C_G0345_v828.md#statement) proves eventual irreducibility also for \(k=3\), with six exterior conjugates.
@@ -105,7 +108,13 @@ The [congruences](../claims/Yin_C_G0345_v794.md#congruences) certify finite lowe
 For steep positive directions, the [six cycles over the unit circle](../claims/Yin_C_G0345_v854.md#statement) give the boundary permutation of the degree-\(n\) cover \(T=V^k/U^l\).
 Outside finitely many signed primitive directions, [separation of its finite branch values modulo roots of unity](../claims/Yin_C_G0345_v855.md#statement) gives independent symmetric groups for distinct torsion translates after every power substitution.
 For each fixed primitive nonaxis direction, [torsion specialization and the twist-field bound](../claims/Yin_C_G0345_v856.md#measure) give \(m(\alpha)\ge c_F\varphi(w)\) for every root outside finitely many torsion invariants, where \(w\) is the joint order of the twists.
+For the two-pole curve the [same finite exceptional set for all common dilations](../claims/Yin_C_G0345_v861.md#transfer) gives full cyclotomic irreducibility at every remaining invariant of each primitive nonaxis direction.
 The full symmetric group drops at both \(T=1\) and \(T=-1\), so the original rational factors still require a degree estimate on these fibers.
+The [genus-two quotient](../claims/Yin_C_G0345_v857.md#statement) represents the rational trace factors at \(T=\pm1\) as closed points on two divisors whose difference is the unique nonzero rational two-torsion class.
+Its [elliptic quotients](../claims/Yin_C_G0345_v858.md#statement) have rational ranks two and one, and every rational trace factor \(q\) has \(q(2)q(-2)\) either a square or \(-23\) times a square.
+For odd \(l\), exactly one irreducible trace factor has negative endpoint product and its reciprocal lift is irreducible.
+The [elliptic reduction at seven](../claims/Yin_C_G0345_v860.md#statement) forces the degree-eleven and degree-thirteen modular factors into the same rational factor at \((6,37)\), and excludes four degrees on an infinite progression along \(l=k^2+1\).
+Use primes with larger reduction quotients to test whether the forced groups of conjugates grow proportionally to the width.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
 For Salem candidates first apply the [powered edge-root and branch-orbit test](../claims/Yin_C_G0345_v785.md#statement), then investigate degrees of the actual irreducible factors on any surviving ray.

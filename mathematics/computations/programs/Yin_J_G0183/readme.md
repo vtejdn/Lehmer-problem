@@ -177,6 +177,7 @@ Only degrees \(8302\) and \(12202\) pass, with respective residues 5 and 18.
 At \(-1\) their residues 2 and 7 both fail to represent a signed divisor of \(Q(-1)=-29\).
 Thus \(Q\) is irreducible over the rationals.
 The [circle-root argument](#modular-degrees) proves that the whole section of degree \(262088\) is irreducible and has exactly \(722\) exterior roots.
+An [independent review](../../../audits/reviews/Yin_R_G0562_v1007.md#finding) verifies the subset and integer-value exclusions, the reciprocal lift and the exterior-root count from the recorded modular data.
 This adds one tested index beyond the consecutive range through \(128\).
 
 Run the first command to check all subset sums and evaluations from the recorded factor data.

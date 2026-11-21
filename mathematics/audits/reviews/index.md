@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v1009](Yin_R_G0562_v1009.md#finding) One exceptional set per primitive direction, exact compression at every torsion invariant and irreducibility under all common dilations on the two-pole curve.
+
+- [R562 v1008](Yin_R_G0562_v1008.md#finding) checks the reduction subgroup at seven, both modular factorizations and the persistence of their short Frobenius orbits.
+
+- [R562 v1007](Yin_R_G0562_v1007.md#finding) The two-prime irreducibility certificate, its program and the 722 exterior roots at diagonal index 361.
+
+- [R562 v1006](Yin_R_G0562_v1006.md#finding) A uniform fraction of projected width and a Mahler measure bound for generic torsion sections of fixed rank-two plane curves.
+
+- [R562 v1005](Yin_R_G0562_v1005.md#finding) The two elliptic quotient ranks and the endpoint squareclass of every signed trace factor.
+
+- [R562 v1004](Yin_R_G0562_v1004.md#finding) The genus-two inversion quotient, exceptional divisors, individual resultant valuations and comparison of squareclasses.
+
 - [R562 v1003](Yin_R_G0562_v1003.md#finding) Torsion specialization, degree over the cyclotomic closure and absolute Mahler bounds for the two-pole curve.
 
 - [R562 v1002](Yin_R_G0562_v1002.md#finding) Separation of branch values modulo torsion and independent symmetric groups under power substitution.
