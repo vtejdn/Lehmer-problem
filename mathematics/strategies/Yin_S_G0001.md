@@ -80,6 +80,8 @@ At good primes the [simultaneous slope estimate](../claims/Yin_C_G0345_v847.md#s
 Estimate those prime powers that pass the [quadratic character tests on both coordinates](../claims/Yin_C_G0345_v836.md#statement).
 At [exceptional primes](../claims/Yin_C_G0345_v834.md#statement), the remaining terms have \(p>M\) and residue order \(>C_F M\), and the prime divides a nonlinear factor of the exceptional form without dividing a rational linear factor.
 On the larger box \(M\le k<2M,\ Mh\le l<2Mh\), the [full discriminant estimates](../claims/Yin_C_G0345_v849.md#box) put all but \(o(d)\) of the weight above \(M\sqrt h\) at good primes or \(M^2h\) at exceptional primes, outside \(O(M^2h/\log M)\) primitive directions, for every irreducible factor degree \(d\).
+In that box a remaining prime power also requires a [residue coordinate of order above \(\lfloor(M^2h/\log M)^{1/3}\rfloor\)](../claims/Yin_C_G0345_v850.md#statement).
+Determine whether these large-order contacts give a complementary resultant of the required size at any reducible section.
 The [three-center formula](../claims/Yin_C_G0345_v848.md#centers) includes cubic contacts even when two local roots approach more closely than the valuation of the branch form alone predicts.
 For a short exponent \(k=p^a\), the [horizontal critical units](../claims/Yin_C_G0345_v844.md#statement) exclude every contact at \(p\) for all \(l\) prime to \(p\) throughout a Frobenius set of density \(5/32\), up to finitely many primes.
 When \(l=p^b\pm1\), the [complete base-prime calculation](../computations/programs/Yin_J_G0184/readme.md#frobenius-primes) rules out a shared trace residue between complementary rational factors at every \(p\).

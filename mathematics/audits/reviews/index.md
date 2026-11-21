@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v997](Yin_R_G0562_v997.md#finding) Cyclotomic norms, compound projective congruences and low residue orders throughout the steep box.
+
 - [R562 v996](Yin_R_G0562_v996.md#finding) Full exceptional-prime discriminant weights and the two cutoffs on steep boxes.
 
 - [R562 v995](Yin_R_G0562_v995.md#finding) Three fixed slope centers for cubic contacts, including resonant disks.
