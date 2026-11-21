@@ -154,7 +154,11 @@ With a conjugate whose absolute radial logarithm is at least \(\eta m\), the per
 For a uniform bound, the graph must detect longer relations or use information beyond these forbidden supports.
 Testing signed supports in a finite quotient also needs control of the multiplicative order relative to the span.
 At the [quadratic unit \(4+\sqrt{15}\)](../claims/Yin_C_G0345_v690.md#statement), every exact signed sum on distinct exponents is nonzero, yet a scalar modulus of exponential size admits at least \(K^{(r-3)/2}\) primitive minimal supports of odd weight \(r\) and span below \((2K+3)r\), all with the same alternating signs.
-Their construction uses multiplicative order \(2r\), so test the order and span together before using modular counts to estimate actual relations.
+Their construction uses multiplicative order \(2r\).
+For Salem inputs the [trace discriminant](../claims/Yin_C_G0345_v693.md#general) instead gives a test for exact vanishing in the full scalar quotient using the span and circle maximum, valid at arbitrary multiplicative orders.
+For every reciprocal input with a unit-circle conjugate, [the height transfer](../claims/Yin_C_G0345_v697.md#statement) makes the congruence \(G(\alpha)=0\bmod q\mathbb Z[\alpha]\) exact whenever \(q>\max_{|z|=1}|G(z)|\) and \(Wm/d<0.427800\), where \(W\) is the exponent span.
+For hyperbolic reciprocal inputs an extra possibility is \(G(\alpha)G(\alpha^{-1})=q^2\), which requires \(Wm/d\ge\operatorname{arcosh}(q/H)\) at circle maximum \(H<q\).
+Test whether the words in a witness construction have small circle maximum at a useful modulus, or whether their relative norm can be ruled out directly.
 The [plastic](../ledger/Yin_L_G0462_v293.md#results) and [golden-ratio](../ledger/Yin_L_G0462_v294.md#supports) examples give exact pattern counts at every weight for comparison.
 For multiple roots the same comparison uses the multiplicity times the log measure, while [balanced relations on prescribed exponents](../claims/Yin_C_G0345_v560.md#span) also control the number of coefficients relative to their actual span.
 
@@ -232,7 +236,9 @@ Across all signatures the [conditional entropy at cuts of finite zero returns](.
 At moduli with \(mq^2\to0\), lists occupying an exponentially small fraction of the residues and chosen from the preceding digits capture a fixed positive fraction of these cuts only with exponentially small conditioned probability.
 For shrinking Salem inputs the [geometric mean of the optimal squared prediction errors](../claims/Yin_C_G0345_v688.md#statement) in the neutral embeddings is at least \((\pi/(8\mathrm e)-o(1))/m\) at the indicated finite bridge scales.
 The deterministic orbit Gram matrix already exceeds that threshold by its [Vandermonde lower bound](../claims/Yin_C_G0345_v688.md#gram).
-Seek an upper bound on the covariance under the return condition itself, using both ends of the path.
+Even [optimal linear regression on the past digits and all endpoint equations](../claims/Yin_C_G0345_v696.md#statement) leaves the scaled determinant of the quadratic upper bound at least \(1/2-o(1)\).
+A projected Gaussian attains that bound at every cut under the same linear constraints and second-moment domination.
+Use the discrete digit law or a stronger moment bound for the true binary bridge to seek an upper bound below the entropy threshold.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
@@ -268,7 +274,9 @@ The squarefree triples outside this exception set have density \(\prod_p(1-3/p^2
 The bound at the remaining delays uses [a count of Salem numbers uniform in degree and exterior size](../claims/Yin_C_G0345_v685.md#statement).
 The [fixed-degree asymptotic of Götze and Gusakova](../audits/literature/GG20/Yin_U001.md#gg20-u001) gives the leading constant as the exterior bound grows, with a degree-dependent error.
 For each [fixed delay and either sign](../claims/Yin_C_G0345_v692.md#statement), all sufficiently large integer seeds retain the full measure under every substitution.
-The coefficient argument handles square radicals by forcing a common rational factor and gives no numerical cutoff.
+The coefficient argument handles square radicals by forcing a common rational factor.
+A separate [terminating algorithm](../claims/Yin_C_G0345_v694.md#statement) computes a cutoff and decides every exception at a given delay by isolating the reciprocal factors over the generic seed.
+At positive delay seven the [explicit trace cubic](../claims/Yin_C_G0345_v695.md#statement) already excludes prime indices \(2,5,7,11,13\) for every integer seed and supplies four univariate gcd tests for each fixed exponent coprime to six.
 Uniformly in all seeds, the [greatest field radical index](../claims/Yin_C_G0345_v689.md#statement) is at most \(C n^2\log^5(3n)\).
 If even one substituted factor has logarithmic measure at most one, then \(\log a\le C' n^2\log^2(3n)\).
 A failure of the bound \(R\mid H(a)\) requires a [prime radical above the delay with exterior value below \(5p\)](../claims/Yin_C_G0345_v687.md#statement), and forces \(\log a\ll n^2\log^3(3n)\).

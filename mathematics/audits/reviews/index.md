@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v834](Yin_R_G0562_v834.md#finding) checks the scalar quotient height bounds at reciprocal units, the relative norm exception and the comparison using only the degree.
+
+- [R562 v833](Yin_R_G0562_v833.md#finding) checks the best linear prediction bound at exact Salem collision endpoints and its Gaussian attainment.
+
+- [R562 v832](Yin_R_G0562_v832.md#finding) checks the positive delay-seven trace classification and the sixteen exact polynomial gcd computations.
+
+- [R562 v831](Yin_R_G0562_v831.md#finding) checks the finite algorithm for every fixed delay, including generic factor degrees, branch fields, elimination and termination.
+
+- [R562 v830](Yin_R_G0562_v830.md#finding) checks the Salem trace discriminant, the bounded torsion orders and the exact scalar quotient tests.
+
 - [R562 v829](Yin_R_G0562_v829.md#finding) checks eventual irreducibility at every fixed delay by coefficient approximation, including the square case.
 
 - [R562 v828](Yin_R_G0562_v828.md#finding) checks the effective torsion degree test and the explicit irreducibility range on a progression of delays.
