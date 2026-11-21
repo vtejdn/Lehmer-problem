@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v942](Yin_R_G0562_v942.md#finding) Exterior multiplicative rank, abelian degree and the log measure of the first iterate.
+
 - [R562 v941](Yin_R_G0562_v941.md#finding) Effective polynomial slopes for independence of all exterior roots.
 
 - [R562 v940](Yin_R_G0562_v940.md#finding) Monomial heights, signed exponents and their stabilizers and degrees.

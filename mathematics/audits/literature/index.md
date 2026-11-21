@@ -364,3 +364,4 @@ The source notes and units own their editions, inspected passages and actual ins
 | [PS91](PS91/readme.md) | [Local exponential polynomial zero count and residue-class partition](PS91/Yin_U001.md#ps91-u001) |
 | [DS01](DS01/readme.md) | [Powers in the classification of algebraic units on two circles](DS01/Yin_U001.md#ds01-u001) |
 | [HB26](HB26/readme.md) | [Mahler measure bounds from one or two binomials modulo two](HB26/Yin_U001.md#hb26-u001) |
+| [EFK16](EFK16/readme.md) | [Liebeck and Saxl on primitive groups of small minimal degree](EFK16/Yin_U001.md#efk16-u001) |
