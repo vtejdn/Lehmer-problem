@@ -150,6 +150,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [GL06](GL06/readme.md) | [Yin_U001](GL06/Yin_U001.md) |
 | [GM02](GM02/readme.md) | [Yin_U001](GM02/Yin_U001.md#unimodular-realization): unramified reciprocal realization and fractional-ideal pairing interface |
 | [GM16](GM16/readme.md) | [Yin_U001](GM16/Yin_U001.md) |
+| [GM84](GM84/readme.md) | [Three fixed primes generating the multiplicative group modulo a prime](GM84/Yin_U001.md#gm84-u001) |
 | [GMR18](GMR18/readme.md) | [Yin_U001](GMR18/Yin_U001.md) |
 | [GO08](GO08/readme.md) | [Yin_U001](GO08/Yin_U001.md) |
 | [GW21](GW21/readme.md) | [Yin_U001](GW21/Yin_U001.md), [Yin_U002](GW21/Yin_U002.md) |

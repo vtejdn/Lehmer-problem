@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v904](Yin_R_G0562_v904.md#finding) checks each factor's limiting height and degree share and the conditional implication for critical four-term tests.
+
+- [R562 v903](Yin_R_G0562_v903.md#finding) checks signed pole symmetries, field stabilization and the bound for external torsion twists.
+
+- [R562 v902](Yin_R_G0562_v902.md#finding) checks the width requirement for unrestricted coefficients on powers of a bounded progression.
+
+- [R562 v901](Yin_R_G0562_v901.md#finding) checks the relative norm and negative-unit example and compares the section denominator with the stronger bounded-length theorem.
+
+- [R562 v900](Yin_R_G0562_v900.md#finding) checks irreducibility at prime total degrees for three fixed generators and both signs.
+
 - [R562 v899](Yin_R_G0562_v899.md#finding) checks the neutral proportion, its coefficient embeddings, the limiting height and the escaping first moment in the general four-term equation.
 
 - [R562 v898](Yin_R_G0562_v898.md#finding) checks root separation on complex rational graphs and the radical bound for units of every signature.
