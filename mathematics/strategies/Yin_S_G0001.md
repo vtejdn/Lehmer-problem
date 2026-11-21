@@ -19,6 +19,13 @@ The main researcher may change this allocation as mathematical evidence, a concr
 The [resumed Task](../tasks/Yin_T_G0001_v1.md#decision-resume-alternating-blocks-2026-11-17) selects the inquiries below under its standing execution conditions.
 Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
+For irreducible polynomials of degree \(d\) and measure tending to one, each coefficient class modulo two contains at most [\((1+o(1))\log_2 d\) candidates](../claims/Yin_C_G0345_v707.md#statement), irrespective of the root signature.
+A contradiction from this count would require enough distinct small-measure polynomials in one class.
+The degree-preserving powers of order \(2^j\) preserve the class but multiply the log measure by \(2^j\).
+At bounded measure they give only \(O(\log\log d)\) powers by [Voutier's degree bound](../audits/literature/Vou96/Yin_U001.md#height).
+Seek other transformations preserving both the class and small total measure.
+For fixed measure bound \(B\) the [consecutive-trace count](../claims/Yin_C_G0345_v704.md#statement) permits any fixed number of exterior roots, and a [quadratic-length recurrence](../claims/Yin_C_G0345_v706.md#statement) gives \(\exp(o(d))\) polynomials at degree \(d\) even when their number is \(o(\sqrt{d/\log d})\).
+
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
 The [finite common-factor test](../claims/Yin_C_G0345_v572.md#polynomial) determines \(R_1(t)\) by integer arithmetic, and a uniform bound on \(R_1(t)/t\) is equivalent to the Lehmer gap.
 At interval length \(Ct\), first reduce each candidate \(Q(X^q)\) to a polynomial \(Q\) whose exponents have gcd one.
@@ -292,7 +299,11 @@ This yields \(p^e\log(2p)\ll\log r\) uniformly and gives \(R\mid H(a)\) for \(n\
 At fixed delay, above an effective seed cutoff every field radical of index \(q\) also satisfies [\(2q\mid\varphi(j)\) at every torsion order in \(A(X^q)\)](../claims/Yin_C_G0345_v691.md#statement), where \(A\) is the neutral root-of-unity grid polynomial.
 For the positive sign and \(12\mid n-1\), the two orders 3 and 4 already guarantee full irreducibility once \(\log a>C n^3\log^6(3n)\).
 A shrinking sequence in this family must send both the delay and the seed to infinity, stay below the small-factor seed threshold and, outside the divisibility exception, satisfy \(H(a)/\log a\to\infty\).
-To obtain a gap uniform in the seed, bound the contribution of distinct primes to the same radical index.
+At most [two primes above the delay](../claims/Yin_C_G0345_v705.md#statement) can divide one index, and if two occur then both are below 1500.
+For each such pair the [finite-field inverse-power test](../claims/Yin_C_G0345_v708.md#statement) is independent of the size of the seed interval and has at most six integral candidates per reduced polynomial.
+For every \(p\ge1500\) above the delay and dividing \(R\), the complementary factor \(R/p\) divides \(H(a)\).
+If the full log measure tends to zero on this range, \(R/p\) must grow faster than \(\log p\) and is \(O((\log p)^4/(\log\log p)^3)\).
+Bound this complementary factor using the restrictions from the smaller primes at the same seed.
 An index \(q\) with \(\log(r^{1/q})\to0\) must have \(q/p^{v_p(q)}\to\infty\) uniformly in \(p\mid q\), even though each single prime power satisfies the gap.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).

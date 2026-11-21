@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v845](Yin_R_G0562_v845.md#finding) checks the minimum degree and the finite-field recovery of simultaneous radicals from the two primes.
+
+- [R562 v844](Yin_R_G0562_v844.md#finding) checks the resultant bounds for polynomials in one coefficient class and the square-root range for prime radicals.
+
+- [R562 v843](Yin_R_G0562_v843.md#finding) checks the quadratic prediction window and the count with a growing number of exterior roots.
+
+- [R562 v842](Yin_R_G0562_v842.md#finding) checks the effective restriction on two primes above the delay and the remaining part of the radical index.
+
+- [R562 v841](Yin_R_G0562_v841.md#finding) checks the prediction and coefficient-class count for squarefree polynomials with bounded exterior count.
+
 - [R562 v840](Yin_R_G0562_v840.md#finding) checks the coefficient-class count and the bound on large-prime radical tuples at all delays.
 
 - [R562 v839](Yin_R_G0562_v839.md#finding) checks the strict localization and squarefreeness at every prime greater than the delay.
