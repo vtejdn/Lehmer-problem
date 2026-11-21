@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J183, rational factors of quadratic sections](programs/Yin_J_G0183/readme.md#census) gives exact exterior-root counts for 2,292 irreducible coprime sections and excludes [all torsion points on the curve](programs/Yin_J_G0183/readme.md#torsion).
+
 - [J182, simultaneous Salem radicals above the delay](programs/Yin_J_G0182/readme.md#through410) covers the 47 large multiplicative orders for first prime 59 and the [16 complementary small orders](programs/Yin_J_G0182/exceptional-orders.md#result) using exact finite-field and integer tests.
 
 - [J181, Newton traces for inverse Salem powers](programs/Yin_J_G0181/readme.md#traces) gives the first failing trace for each of the 162 remaining prime-index pairs in the family approaching two.

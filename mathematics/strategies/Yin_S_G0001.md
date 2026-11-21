@@ -24,7 +24,10 @@ Concentrate the search on curves surviving [torsion-translated inversion](../cla
 For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_G0345_v789.md#example), the ordinary sections \(F(X,X^n)\) have one noncyclotomic factor for all sufficiently large \(n\).
 Test whether a factor with two exterior conjugates can persist on \(F(X^k,X^l)\) for coprime \(k,l\) with \(k\to\infty\) and \(l/k\to\infty\).
 The [two pole counts](../claims/Yin_C_G0345_v790.md#statement) force any bounded exterior signature to be divisible by six along the subsequence with \(3\mid k\).
-For a factor with exactly two exterior roots, restrict to \(3\nmid k\) and test whether its two real roots can satisfy the required radical degrees over their root fields.
+For a factor with exactly two exterior roots, restrict to \(3\nmid k\).
+The [simultaneous approximation bound](../claims/Yin_C_G0345_v792.md#statement) requires the degree of its Mahler measure divided by its factor degree to tend to infinity.
+The [whole-section count](../claims/Yin_C_G0345_v793.md#statement) gives exactly \(2k\) exterior roots for \(l\ge2k\), and every one of the [2,292 computed sections](../computations/programs/Yin_J_G0183/readme.md#census) is irreducible over the rationals.
+Test whether rational factor degrees can be bounded below on escaping primitive directions, using congruences of the exponents and the two real pole visits.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
 For Salem candidates first apply the [powered edge-root and branch-orbit test](../claims/Yin_C_G0345_v785.md#statement), then investigate degrees of the actual irreducible factors on any surviving ray.

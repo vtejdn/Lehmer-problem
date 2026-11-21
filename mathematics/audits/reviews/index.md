@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v934](Yin_R_G0562_v934.md#finding) The torsion certificate, exact circle counts and the exponential measure estimates.
+
+- [R562 v933](Yin_R_G0562_v933.md#finding) Joint approximation at the two exterior poles and the degree of the measure.
+
 - [R562 v932](Yin_R_G0562_v932.md#finding) The entropy of joint line-sum fibers and the scarcity of signed lifts.
 
 - [R562 v931](Yin_R_G0562_v931.md#finding) Exterior counts, the cubic obstruction and pole radical degrees.
