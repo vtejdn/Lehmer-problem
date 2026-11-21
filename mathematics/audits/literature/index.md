@@ -8,6 +8,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Wil74](Wil74/readme.md) | [Prime product at a fixed modulus](Wil74/Yin_U001.md#prime-product) |
 | [FHV93](FHV93/readme.md) | Author edition and the field of totally real algebraic numbers. |
 | [ABR01](ABR01/readme.md) | Source and edition notes |
+| [ABT99](ABT99/readme.md) | [The sum of the points of a scale-invariant Poisson process](ABT99/Yin_U001.md#abt99-u001) |
 | [AD00](AD00/readme.md) | [Yin_U001](AD00/Yin_U001.md) |
 | [AD07](AD07/readme.md) | [Unconditional relative height and the rational-base constant](AD07/Yin_U001.md#rational-base) |
 | [AD22](AD22/readme.md) | [Power fields](AD22/Yin_U001.md#power-field) and [Galois closures of lacunary roots](AD22/Yin_U001.md#lacunary) |

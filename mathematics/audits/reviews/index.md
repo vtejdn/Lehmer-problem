@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v886](Yin_R_G0562_v886.md#finding) checks radical degrees at every divisor of the short Salem exponent and the trace-field classification.
+
+- [R562 v885](Yin_R_G0562_v885.md#finding) checks the graph intersection and small-value bounds for an exponent progression with one outlier.
+
+- [R562 v884](Yin_R_G0562_v884.md#finding) checks the height gain from repeated Frobenius powers at one prime and the primitive trace-field application.
+
+- [R562 v883](Yin_R_G0562_v883.md#finding) checks the symmetric four-term Salem equation and the limiting height with its finite-place contribution.
+
+- [R562 v882](Yin_R_G0562_v882.md#finding) checks the distribution for the divisor at polynomial Salem seeds and its all-delay factor consequences.
+
 - [R562 v881](Yin_R_G0562_v881.md#finding) checks the subset determinant, the primitive Salem trace fields and their explicit triangular overlaps.
 
 - [R562 v880](Yin_R_G0562_v880.md#finding) checks finite-list descent and the converse for critical sparse tests on algebraic conjugates.
