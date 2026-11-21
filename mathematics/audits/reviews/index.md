@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v1003](Yin_R_G0562_v1003.md#finding) Torsion specialization, degree over the cyclotomic closure and absolute Mahler bounds for the two-pole curve.
+
+- [R562 v1002](Yin_R_G0562_v1002.md#finding) Separation of branch values modulo torsion and independent symmetric groups under power substitution.
+
+- [R562 v1001](Yin_R_G0562_v1001.md#finding) Critical fibers, symmetric monodromy and the six boundary cycles of a steep section.
+
+- [R562 v1000](Yin_R_G0562_v1000.md#finding) Uniform rational approximation to each local logarithmic slope, including incompatible residues.
+
 - [R562 v999](Yin_R_G0562_v999.md#finding) All torsion translates, signed exponents and transcendence at every genuine critical slope.
 
 - [R562 v998](Yin_R_G0562_v998.md#finding) Effective height bound for translated tangencies and the transcendental horizontal slope at 8447.
@@ -11,6 +19,8 @@
 - [R562 v995](Yin_R_G0562_v995.md#finding) Three fixed slope centers for cubic contacts, including resonant disks.
 
 - [R562 v994](Yin_R_G0562_v994.md#finding) Ordinary discriminant weights over projective residue slopes and the square-root prime cutoff.
+
+- [R562 v993](Yin_R_G0562_v993.md#reductions) checks the finite-field factorizations at index 361 and records the [joint integer-value test](Yin_R_G0562_v993.md#certificate).
 
 - [R562 v992](Yin_R_G0562_v992.md#finding) Horizontal discriminant weights, two slope centers per deep disk and the rectangle exceptional count.
 

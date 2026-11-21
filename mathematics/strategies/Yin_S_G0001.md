@@ -37,6 +37,7 @@ Test whether every rational factor carries a positive fraction of the \(2k\) ext
 The [minimum trace degree](../claims/Yin_C_G0345_v837.md#statement) is exactly the best lower bound attainable from two modular factor-degree lists at sufficiently steep primitive directions.
 Seek explicit directions on which modular degrees exclude every trace factor of size \(o(l)\), and compare the resulting lower bounds with the exterior counts.
 On \(l=k^2+1\) the [degree and integer-value tests](../computations/programs/Yin_J_G0183/readme.md#modular-degrees) certify irreducibility for every \(1\le k\le128\), and the prime 19 suffices in 94 cases.
+At \(k=361\) the [two-prime certificate](../computations/programs/Yin_J_G0183/readme.md#modular-361) proves that all 722 exterior roots belong to a single rational factor of degree 262,088.
 Determine whether these local constraints exclude sublinear factor degrees for infinitely many \(k\) on this diagonal.
 At \(k=2^a\), the [binary pencil](../claims/Yin_C_G0345_v842.md#statement) forces the prime two to give only \((1+o(1))B\), where \(B\) is the height cutoff in the two-prime test.
 On each [smooth fiber](../claims/Yin_C_G0345_v843.md#statement) the modular degrees come from the order of one rational point on an elliptic curve.
@@ -93,13 +94,18 @@ The [survey through one million](../computations/programs/Yin_J_G0184/readme.md#
 At 8447 primitive steep directions realize arbitrarily large root-distance valuations, including locally split pairs.
 The [dyadic parity argument and the two axis tests](../claims/Yin_C_G0345_v852.md#statement) prove that every torsion-translated primitive section of this curve has only simple zeros.
 Together with the [logarithm-line argument](../claims/Yin_C_G0345_v851.md#logarithms), this makes every slope at a genuine zero of a prepared critical value transcendental over \(\mathbb Q\), including a slope in \(\mathbb Q_{8447}\).
-Estimate how closely primitive rational directions can approach these slopes and determine whether a locally split pair can lie in distinct rational factors.
+The [rational approximation bound](../claims/Yin_C_G0345_v853.md#statement) gives \(v_p(r-\lambda)\ll_{F,p}\log^3(3+N)\) for every primitive direction of norm \(N\) and each of these centers.
+Determine whether the two roots of a locally split pair can lie in different rational factors.
 The [complete trace discriminant factorizations](../computations/programs/Yin_J_G0184/readme.md#full-squares) give squarefree discriminants in ten of seventeen small directions and remove the entire square divisor \(19^2 47^2\) in direction \((2,21)\) after distinguishing the trace orbits and their squareclasses.
 At good primes, [odd critical valuations](../claims/Yin_C_G0345_v821.md#allocation) put both branches in one factor and account for its good-prime field discriminant, forcing a good ramified prime of size \(\gg d\) for every factor.
 For even \(k\), [squaring the section roots](../claims/Yin_C_G0345_v817.md#statement) preserves the absolute complementary resultant and each individual power-basis order.
 The [signed orbit](../claims/Yin_C_G0345_v806.md#products) determines the exact degree of \(M(S)\), and the [signed sampling law](../claims/Yin_C_G0345_v807.md#statement) determines its height asymptotics and circle count for every candidate signature.
 The existence of the original factor of degree \(o(l)\) remains open.
 The [congruences](../claims/Yin_C_G0345_v794.md#congruences) certify finite lower bounds for the factor degrees, while [irreducibility on every torus isogeny](../claims/Yin_C_G0345_v794.md#isogenies) reduces eventual irreducibility to the rational specialization conjecture for this particular curve.
+For steep positive directions, the [six cycles over the unit circle](../claims/Yin_C_G0345_v854.md#statement) give the boundary permutation of the degree-\(n\) cover \(T=V^k/U^l\).
+Outside finitely many signed primitive directions, [separation of its finite branch values modulo roots of unity](../claims/Yin_C_G0345_v855.md#statement) gives independent symmetric groups for distinct torsion translates after every power substitution.
+For each fixed primitive nonaxis direction, [torsion specialization and the twist-field bound](../claims/Yin_C_G0345_v856.md#measure) give \(m(\alpha)\ge c_F\varphi(w)\) for every root outside finitely many torsion invariants, where \(w\) is the joint order of the twists.
+The full symmetric group drops at both \(T=1\) and \(T=-1\), so the original rational factors still require a degree estimate on these fibers.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
 For Salem candidates first apply the [powered edge-root and branch-orbit test](../claims/Yin_C_G0345_v785.md#statement), then investigate degrees of the actual irreducible factors on any surviving ray.

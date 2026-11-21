@@ -146,3 +146,43 @@ The following commands reproduce the example and the complete diagonal using pyt
 python -B mathematics/computations/programs/Yin_J_G0183/modular_degrees.py --example
 python -B mathematics/computations/programs/Yin_J_G0183/modular_degrees.py --first 1 --last 128 --workers 4
 ~~~~
+
+<a id="modular-361"></a>
+## A degree-262088 section on the quadratic diagonal
+
+For \(k=19^2=361\) and \(\ell=k^2+1=130322\), the trace \(Q\) has degree \(131044\).
+The irreducible factor degrees modulo 19, all with multiplicity one, are
+\[
+ 1,3,5,8,89,625,869,1285,1604,4696,10128,10292,13217,25203,27274,35745.
+\]
+Modulo three the distinct factor degrees are \(1,24,298,2975,5327,6874,115545\), again with multiplicity one.
+The six smaller factors at three give 63 nonempty subset sums in the range \(1\) through \(65522\).
+Exactly nine monic divisors modulo 19 have degrees in that set.
+The [certificate program](diagonal_361.py) stores the two evaluations of each individual monic factor modulo 19 and gives the following products.
+
+| Degree | Value at \(-2\) modulo 19 | Value at \(-1\) modulo 19 |
+| ---: | ---: | ---: |
+| 1 | 10 | 11 |
+| 5327 | 15 | 9 |
+| 7172 | 4 | 10 |
+| 7173 | 2 | 15 |
+| 8302 | 5 | 2 |
+| 8303 | 12 | 3 |
+| 12202 | 18 | 7 |
+| 12524 | 4 | 5 |
+| 15474 | 16 | 2 |
+
+A monic integer factor evaluated at \(-2\) must divide \(Q(-2)=25\).
+Only degrees \(8302\) and \(12202\) pass, with respective residues 5 and 18.
+At \(-1\) their residues 2 and 7 both fail to represent a signed divisor of \(Q(-1)=-29\).
+Thus \(Q\) is irreducible over the rationals.
+The [circle-root argument](#modular-degrees) proves that the whole section of degree \(262088\) is irreducible and has exactly \(722\) exterior roots.
+This adds one tested index beyond the consecutive range through \(128\).
+
+Run the first command to check all subset sums and evaluations from the recorded factor data.
+The second recomputes the two finite-field factorizations and checks their products and recorded rows using python-flint 0.9.0.
+
+~~~~powershell
+python -B mathematics/computations/programs/Yin_J_G0183/diagonal_361.py
+python -B mathematics/computations/programs/Yin_J_G0183/diagonal_361.py --refactor --threads 4
+~~~~
