@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v840](Yin_R_G0562_v840.md#finding) checks the coefficient-class count and the bound on large-prime radical tuples at all delays.
+
+- [R562 v839](Yin_R_G0562_v839.md#finding) checks the strict localization and squarefreeness at every prime greater than the delay.
+
+- [R562 v838](Yin_R_G0562_v838.md#finding) checks effective finiteness of power coincidences and identifies the diagonal valuation needed for the delay threshold.
+
+- [R562 v837](Yin_R_G0562_v837.md#finding) checks optimal nonlinear predictions on exact binary returns, including the source normalization and the critical spectral bounds.
+
+- [R562 v836](Yin_R_G0562_v836.md#finding) checks the minimum span of a relative norm-one exception and the family of signed examples.
+
+- [R562 v835](Yin_R_G0562_v835.md#finding) checks the uniform gap for prime-power field radicals and the bound on the full index.
+
 - [R562 v834](Yin_R_G0562_v834.md#finding) checks the scalar quotient height bounds at reciprocal units, the relative norm exception and the comparison using only the degree.
 
 - [R562 v833](Yin_R_G0562_v833.md#finding) checks the best linear prediction bound at exact Salem collision endpoints and its Gaussian attainment.

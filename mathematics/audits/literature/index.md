@@ -27,6 +27,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [AZ90](AZ90/readme.md) | [Yin_U001](AZ90/Yin_U001.md) |
 | [Ban95](Ban95/readme.md) | [Cube covering and the dual first minimum](Ban95/Yin_U001.md#cube-covering) |
 | [BBL09](BBL09/readme.md) | [Yin_U001](BBL09/Yin_U001.md) |
+| [BCCT08](BCCT08/readme.md) | [Geometric Brascamp–Lieb data and the Gaussian projection inequality](BCCT08/Yin_U001.md#geometric-data) |
 | [BCP82](BCP82/readme.md) | [Order bound with restricted composition factors](BCP82/Yin_U001.md#composition-factors) |
 | [BDM07](BDM07/readme.md) | [Yin_U001](BDM07/Yin_U001.md) |
 | [BGH21](BGH21/readme.md) | Source and edition notes |

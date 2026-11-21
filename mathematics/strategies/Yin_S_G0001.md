@@ -158,7 +158,10 @@ Their construction uses multiplicative order \(2r\).
 For Salem inputs the [trace discriminant](../claims/Yin_C_G0345_v693.md#general) instead gives a test for exact vanishing in the full scalar quotient using the span and circle maximum, valid at arbitrary multiplicative orders.
 For every reciprocal input with a unit-circle conjugate, [the height transfer](../claims/Yin_C_G0345_v697.md#statement) makes the congruence \(G(\alpha)=0\bmod q\mathbb Z[\alpha]\) exact whenever \(q>\max_{|z|=1}|G(z)|\) and \(Wm/d<0.427800\), where \(W\) is the exponent span.
 For hyperbolic reciprocal inputs an extra possibility is \(G(\alpha)G(\alpha^{-1})=q^2\), which requires \(Wm/d\ge\operatorname{arcosh}(q/H)\) at circle maximum \(H<q\).
-Test whether the words in a witness construction have small circle maximum at a useful modulus, or whether their relative norm can be ruled out directly.
+For each hyperbolic reciprocal unit the [shortest norm-one exception](../claims/Yin_C_G0345_v699.md#statement) has span exactly its degree.
+Eliminating this exception for all integral words at threshold \(Wm<cd\) is equivalent to proving a gap \(m\ge c\) for all such units, for \(0<c\le0.427800\).
+Alternating primitive words can give [exponentially many false positives](../claims/Yin_C_G0345_v699.md#supports) even below the multiplicative order.
+For a particular witness use its coefficient restrictions or a property of its relative norm beyond the order and sign pattern.
 The [plastic](../ledger/Yin_L_G0462_v293.md#results) and [golden-ratio](../ledger/Yin_L_G0462_v294.md#supports) examples give exact pattern counts at every weight for comparison.
 For multiple roots the same comparison uses the multiplicity times the log measure, while [balanced relations on prescribed exponents](../claims/Yin_C_G0345_v560.md#span) also control the number of coefficients relative to their actual span.
 
@@ -238,7 +241,9 @@ For shrinking Salem inputs the [geometric mean of the optimal squared prediction
 The deterministic orbit Gram matrix already exceeds that threshold by its [Vandermonde lower bound](../claims/Yin_C_G0345_v688.md#gram).
 Even [optimal linear regression on the past digits and all endpoint equations](../claims/Yin_C_G0345_v696.md#statement) leaves the scaled determinant of the quadratic upper bound at least \(1/2-o(1)\).
 A projected Gaussian attains that bound at every cut under the same linear constraints and second-moment domination.
-Use the discrete digit law or a stronger moment bound for the true binary bridge to seek an upper bound below the entropy threshold.
+For [optimal prediction from all past digits](../claims/Yin_C_G0345_v700.md#salem), the whitened conditional covariance approaches \(I/2\) in normalized mean trace norm below the critical scale.
+At the critical scale the fraction of eigenvalues tending to zero is at most \(1/(2\log2)\) in upper mean, and the [fraction exactly zero](../claims/Yin_C_G0345_v700.md#affine) is \(O(1/\log k)\).
+A determinant upper bound below the entropy threshold would still need to quantify the size and frequency of the small positive eigenvalues.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
@@ -269,7 +274,8 @@ This also holds for [the family approaching two from above](../claims/Yin_C_G034
 For the corresponding [constructions at integer seeds \(a\ge3\)](../claims/Yin_C_G0345_v681.md#statement), an odd prime power \(p^e\) with \(p<n\) can divide a radical index only if \(p^{e+1}\mid a(a-1)(a+1)\).
 For every fixed seed the [sparse norm bound](../claims/Yin_C_G0345_v684.md#statement) gives a positive lower bound for all noncyclotomic factor measures simultaneously in the sign, the delay \(n\ge7\) and the substitution exponent.
 Write \(H(a)=\operatorname{lcm}_{j=-1,0,1}((a+j)/\operatorname{rad}(a+j))\).
-Beyond an exceptional set of at most [\(X^{1/2+o(1)}\) seeds through \(X\)](../claims/Yin_C_G0345_v686.md#statement), every such factor has logarithmic measure at least \(\log(a-1)/H(a)\), across all delays.
+Across all delays, at most [\(\exp(O(\sqrt{\log X}))\) seeds through \(X\)](../claims/Yin_C_G0345_v703.md#seeds) can admit any prime radical above the delay, improving the [previous square-root count](../claims/Yin_C_G0345_v686.md#statement).
+Outside those seeds every factor has logarithmic measure at least \(\log(a-1)/H(a)\).
 The squarefree triples outside this exception set have density \(\prod_p(1-3/p^2)>0\) and retain the full measure at every substitution.
 The bound at the remaining delays uses [a count of Salem numbers uniform in degree and exterior size](../claims/Yin_C_G0345_v685.md#statement).
 The [fixed-degree asymptotic of Götze and Gusakova](../audits/literature/GG20/Yin_U001.md#gg20-u001) gives the leading constant as the exterior bound grows, with a degree-dependent error.
@@ -279,11 +285,15 @@ A separate [terminating algorithm](../claims/Yin_C_G0345_v694.md#statement) comp
 At positive delay seven the [explicit trace cubic](../claims/Yin_C_G0345_v695.md#statement) already excludes prime indices \(2,5,7,11,13\) for every integer seed and supplies four univariate gcd tests for each fixed exponent coprime to six.
 Uniformly in all seeds, the [greatest field radical index](../claims/Yin_C_G0345_v689.md#statement) is at most \(C n^2\log^5(3n)\).
 If even one substituted factor has logarithmic measure at most one, then \(\log a\le C' n^2\log^2(3n)\).
-A failure of the bound \(R\mid H(a)\) requires a [prime radical above the delay with exterior value below \(5p\)](../claims/Yin_C_G0345_v687.md#statement), and forces \(\log a\ll n^2\log^3(3n)\).
+A failure of \(R\mid H(a)\) requires a prime \(p>n\) dividing \(R\), with [\(r^{1/p}<p\) and \(p^2\nmid R\)](../claims/Yin_C_G0345_v702.md#statement).
+The [uniform prime-power gap](../claims/Yin_C_G0345_v698.md#statement) gives \(\log(r^{1/p^e})\ge\log(5/2)/6\) for every \(p^e\mid R\).
+There are only [effectively finitely many equal-delay power relations](../claims/Yin_C_G0345_v701.md#statement) between integer seeds, even allowing the two signs to differ.
+This yields \(p^e\log(2p)\ll\log r\) uniformly and gives \(R\mid H(a)\) for \(n\ge C\log(a+1)/\log\log(a+3)\) with an effective absolute constant.
 At fixed delay, above an effective seed cutoff every field radical of index \(q\) also satisfies [\(2q\mid\varphi(j)\) at every torsion order in \(A(X^q)\)](../claims/Yin_C_G0345_v691.md#statement), where \(A\) is the neutral root-of-unity grid polynomial.
 For the positive sign and \(12\mid n-1\), the two orders 3 and 4 already guarantee full irreducibility once \(\log a>C n^3\log^6(3n)\).
 A shrinking sequence in this family must send both the delay and the seed to infinity, stay below the small-factor seed threshold and, outside the divisibility exception, satisfy \(H(a)/\log a\to\infty\).
-Test neutral root allocation and near-integral coefficients with both parameters growing, where the fixed-delay argument does not provide the needed uniform estimate.
+To obtain a gap uniform in the seed, bound the contribution of distinct primes to the same radical index.
+An index \(q\) with \(\log(r^{1/q})\to0\) must have \(q/p^{v_p(q)}\to\infty\) uniformly in \(p\mid q\), even though each single prime power satisfies the gap.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 
