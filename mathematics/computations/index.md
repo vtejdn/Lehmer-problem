@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J183, modular irreducibility on the quadratic diagonal](programs/Yin_J_G0183/readme.md#modular-degrees) certifies all 128 sections \(P_{k,k^2+1}\) through \(k=128\) by modular degrees and integral values, with [independent reproduction](../audits/reviews/Yin_R_G0562_v982.md#finding).
+
 - [J184, complete trace discriminant factorizations](programs/Yin_J_G0184/readme.md#full-squares) computes the irreducibility bounds at every prime in seventeen primitive directions, with [independent reproduction](../audits/reviews/Yin_R_G0562_v976.md#finding).
 
 - [J184, good-prime trace contacts](programs/Yin_J_G0184/readme.md#trace-survey) checks the octic square bound and the trace-field splitting criterion in 905 primitive directions through the prime cutoff 50,000, with [independent reproduction](../audits/reviews/Yin_R_G0562_v969.md#finding).

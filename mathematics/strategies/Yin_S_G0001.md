@@ -35,6 +35,8 @@ The [two normalized pole counts](../claims/Yin_C_G0345_v794.md#growth) and [pola
 Test whether every rational factor carries a positive fraction of the \(2k\) exterior roots, including factors with \(H\to\infty\) and \(H/k\to0\) as possible counterexamples.
 The [minimum trace degree](../claims/Yin_C_G0345_v837.md#statement) is exactly the best lower bound attainable from two modular factor-degree lists at sufficiently steep primitive directions.
 Seek explicit directions on which modular degrees exclude every trace factor of size \(o(l)\), and compare the resulting lower bounds with the exterior counts.
+On \(l=k^2+1\) the [degree and integer-value tests](../computations/programs/Yin_J_G0183/readme.md#modular-degrees) certify irreducibility for every \(1\le k\le128\), and the prime 19 suffices in 94 cases.
+Determine whether these local constraints exclude sublinear factor degrees for infinitely many \(k\) on this diagonal.
 If the smallest degree is at least a fixed positive fraction of \(l\), a proportion at least \((\log l)^{-H}\) of the primes in every invertible residue class [certify a linear lower bound individually](../claims/Yin_C_G0345_v838.md#measure), for some fixed \(H>0\).
 If the section is irreducible, [four auxiliary primes](../claims/Yin_C_G0345_v837.md#four-primes) certify it with density tending to one as the degree grows, taking prime densities separately at each fixed direction.
 For every sufficiently steep section in this regime the [trace field of each factor](../claims/Yin_C_G0345_v805.md#factors) has no proper intermediate field over the rationals.

@@ -89,3 +89,60 @@ python mathematics/computations/programs/Yin_J_G0183/check.py --torsion
 
 The first command regenerates every pair, factor coefficient list in ascending degree, multiplicity and signature in the local output `mathematics/computations/outputs/Yin_J_G0183/census.json`.
 The second command checks that output, and the third independently reproduces the torsion certificate from the displayed parent and parameters.
+
+<a id="modular-degrees"></a>
+## Modular factor degrees and integer values on the quadratic diagonal
+
+Put \(C_j(X+X^{-1})=X^j+X^{-j}\) and \(n=\ell+2k\).
+The identity \(P_{k,\ell}(X)=X^nQ_{k,\ell}(X+X^{-1})\) gives the monic trace polynomial
+\[
+ Q_{k,\ell}=1+C_{\ell+2k}+C_{|\ell-2k|}+10C_\ell-7C_{\ell+k}+7C_{|\ell-k|}.
+\]
+If this polynomial is reducible over \(\mathbb Q\), Gauss's lemma gives a monic integer factor \(H\) of degree \(1\le d\le\lfloor n/2\rfloor\).
+At every prime \(p\), the reduction of \(H\) retains degree \(d\) and is a product of monic irreducible factors of \(Q_{k,\ell}\bmod p\), with each multiplicity bounded by the one in the reduction.
+For each integer \(a\) with \(Q_{k,\ell}(a)\ne0\), the value \(H(a)\) is also a signed divisor of \(Q_{k,\ell}(a)\).
+We intersect the allowed degrees across primes, first using subset sums with multiplicities, then retaining only degrees of products whose evaluations pass the signed-divisor tests simultaneously at \(-2,-1,0,1,2\).
+The [program](modular_degrees.py) skips the evaluation refinement at a prime when the reduction has more than 16,384 monic divisors, including the two improper divisors.
+It builds the traces by \(C_{2j}=C_j^2-2\) and \(C_{2j+1}=C_j C_{j+1}-C_1\), starting from \(C_0=2\) and \(C_1=t\).
+
+For example, at \((k,\ell)=(4,53)\), the six distinct factors modulo 19 have the following values in \(\mathbb F_{19}\).
+
+| Degree | Multiplicity | Value at \(-2\) | Value at \(-1\) | Value at \(0\) |
+| ---: | ---: | ---: | ---: | ---: |
+| 1 | 1 | 8 | 9 | 10 |
+| 1 | 2 | 11 | 12 | 13 |
+| 2 | 1 | 7 | 2 | 18 |
+| 8 | 1 | 11 | 2 | 17 |
+| 13 | 1 | 6 | 3 | 4 |
+| 35 | 1 | 7 | 18 | 7 |
+
+The integer trace values at these three points are \(-23,-29,1\), respectively.
+Of the 47 monic modular divisors of degrees 1 through 30, exactly 15 meet the first value restriction, three meet the first two, and none meet all three.
+Thus this single reduction proves trace irreducibility even though it has six distinct factors.
+
+For \(\ell\ge2k\), the [circle-root theorem](../../../claims/Yin_C_G0345_v793.md#statement) supplies \(2\ell\) simple circle roots of \(P_{k,\ell}\), all nontorsion.
+Choose one, \(z\), and put \(t=z+z^{-1}\).
+Since \(z\ne\pm1\), the trace \(t\) belongs to \((-2,2)\) and \(t^2-4<0\) in the real field \(\mathbb Q(t)\).
+Consequently \(X^2-tX+1\) is irreducible over this field.
+When \(Q_{k,\ell}\) is irreducible, \([\mathbb Q(z):\mathbb Q]=2n=\deg P_{k,\ell}\), proving irreducibility of the whole section.
+
+For every \(1\le k\le128\) with \(\ell=k^2+1\), the modular tests exclude all proper factor degrees up to \(\lfloor (k+1)^2/2\rfloor\).
+All 128 whole sections are therefore irreducible over \(\mathbb Q\), and each has exactly \(2k\) exterior roots.
+The last section, \(P_{128,16385}\), has degree 33,282 and 256 exterior roots.
+No assertion beyond these 128 indices follows from the census.
+
+| Primes used, in the order \(19,3,5,7,11\) | Sections first certified |
+| ---: | ---: |
+| 1 | 94 |
+| 2 | 25 |
+| 3 | 7 |
+| 4 | 1 |
+| 5 | 1 |
+
+Only \(k=57\) first terminates at 7, and only \(k=91\) first terminates at 11.
+The following commands reproduce the example and the complete diagonal using python-flint 0.9.0.
+
+~~~~powershell
+python -B mathematics/computations/programs/Yin_J_G0183/modular_degrees.py --example
+python -B mathematics/computations/programs/Yin_J_G0183/modular_degrees.py --first 1 --last 128 --workers 4
+~~~~

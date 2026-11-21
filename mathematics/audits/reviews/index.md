@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v982](Yin_R_G0562_v982.md#finding) Modular factor degrees and integer evaluation constraints on all 128 diagonal sections.
+
 - [R562 v981](Yin_R_G0562_v981.md#finding) One-prime approximation to the smallest trace factor degree and its relative density in each residue class.
 
 - [R562 v980](Yin_R_G0562_v980.md#finding) Two-prime recovery of the smallest trace factor degree and the four-prime success density.
