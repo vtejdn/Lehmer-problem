@@ -34,6 +34,9 @@ The [mixed-area bound on inverse intersections](../claims/Yin_C_G0345_v865.md#st
 For four actual terms, [each short affine relation other than a parallelogram identity](../claims/Yin_C_G0345_v866.md#statement) gives an individual factor gap uniform over coefficients in the cyclotomic closure.
 For an untwisted nonreciprocal four-term integer parent with primitive exponent span \(W\) and primitive coefficient height \(\mathcal H\), the [quantitative factor bound](../claims/Yin_C_G0345_v867.md#statement) gives a positive gap whenever \(\log\mathcal H\le C W^\tau\) for fixed \(C\) and \(\tau<1/2\).
 Along any shrinking sequence of roots of such parents, \(\mathcal H\) must grow at least doubly exponentially in \(m^{-1/3}\log(1/m)\), and a primitive exponent span must grow at least as a power arbitrarily close to two of \(d/m\), where \(d\) is the root degree.
+More precisely the [ordinary degree and height estimates](../claims/Yin_C_G0345_v868.md#statement) put all sufficiently small positive factors of a single such parent into total degree \(O(g\sqrt W)\) with multiplicity, where \(g\) is the common exponent divisor.
+They give a uniform gap even at \(\log\mathcal H\le c\sqrt W(\log\log(5W)/\log(2W))^3\) for a sufficiently small absolute \(c>0\).
+A possible shrinking sequence at the remaining coefficient heights would have \(1+\log\mathcal H\asymp 1+Wh(z^g)\).
 In the four-term search at bounded coefficient height this leaves the reciprocal and antireciprocal parents with parallelogram support.
 Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
 For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_G0345_v789.md#example), the ordinary sections \(F(X,X^n)\) have one noncyclotomic factor for all sufficiently large \(n\).

@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v1016](Yin_R_G0562_v1016.md#finding) verifies the simultaneous square-root degree bound with multiplicities, both point height comparisons and the coefficient threshold.
+
 - [R562 v1015](Yin_R_G0562_v1015.md#finding) checks the height and primitive-span barriers for nonreciprocal integer polynomials with four terms and the uniform gap at sub-square-root logarithmic coefficient height.
 
 - [R562 v1014](Yin_R_G0562_v1014.md#finding) checks the projected area of four support points, binomial components and the bounded-height gap for untwisted nonreciprocal four-term parents.

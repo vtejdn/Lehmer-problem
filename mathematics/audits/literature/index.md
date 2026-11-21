@@ -22,7 +22,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [AM16](AM16/readme.md) | [Yin_U001](AM16/Yin_U001.md), [Yin_U002](AM16/Yin_U002.md), [Yin_U003](AM16/Yin_U003.md), [Yin_U004](AM16/Yin_U004.md), [Yin_U005](AM16/Yin_U005.md) |
 | [AP18](AP18/readme.md) | [Yin_U001](AP18/Yin_U001.md) |
 | [AS18](AS18/readme.md) | [Schinzel's rational specialization conjecture and the function-field theorem](AS18/Yin_U001.md#as18-u001) |
-| [ASZ17](ASZ17/readme.md) | [Effective intersections with torsion curves and simultaneous proper subsums](ASZ17/Yin_U001.md#asz17-u001) |
+| [ASZ17](ASZ17/readme.md) | [Effective intersections with torsion curves and simultaneous proper subsums](ASZ17/Yin_U001.md#asz17-u001) and [the auxiliary two-torus, degree and height bounds](ASZ17/Yin_U002.md#asz17-u002) |
 | [AV09](AV09/readme.md) | [Yin_U001](AV09/Yin_U001.md) |
 | [AV12](AV12/readme.md) | [Height outside torsion cosets and a rational hyperplane example](AV12/Yin_U001.md#av12-u001) |
 | [AZ10](AZ10/readme.md) | [Yin_U001](AZ10/Yin_U001.md) |
@@ -173,6 +173,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [HS16](HS16/readme.md) | [Yin_U001](HS16/Yin_U001.md) |
 | [HS16b](HS16b/readme.md) | [Yin_U001](HS16b/Yin_U001.md) |
 | [Hab09](Hab09/readme.md) | [Quantitative height limit for multiplicatively dependent points on \(X+Y=1\)](Hab09/Yin_U001.md#hab09-u001) |
+| [Hab17](Hab17/readme.md) | [Effective height bound on the nonanomalous locus and its three-torus curve specialization](Hab17/Yin_U001.md#hab17-u001) |
 | [Han16](Han16/readme.md) | [Yin_U001](Han16/Yin_U001.md#han16-u001): quadratic finite-field Hankel periodicity and the synchronization boundary |
 | [Har55b](Har55b/readme.md) | Undated Harvard Math 55b course notes; source and contents navigation |
 | [Hay59](Hay59/readme.md) | [Jensen's formula, its centered corollary and boundary zeros](Hay59/Yin_U001.md#hay59-u001) |
