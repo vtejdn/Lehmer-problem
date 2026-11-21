@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v1019](Yin_R_G0562_v1019.md#finding) checks the conjugate fraction on the circle and the mean logarithmic radius in the short-middle-gap regime, including unbounded coefficient ratios.
+
+- [R562 v1018](Yin_R_G0562_v1018.md#finding) checks four-term identities on the two curves and their power pullbacks, simultaneous zeros, and the reciprocal quartic obstruction.
+
+- [R562 v1017](Yin_R_G0562_v1017.md#finding) checks the exterior sum over reciprocal four-term sections and the degree and slope restrictions for nearly equal coefficients.
+
 - [R562 v1016](Yin_R_G0562_v1016.md#finding) verifies the simultaneous square-root degree bound with multiplicities, both point height comparisons and the coefficient threshold.
 
 - [R562 v1015](Yin_R_G0562_v1015.md#finding) checks the height and primitive-span barriers for nonreciprocal integer polynomials with four terms and the uniform gap at sub-square-root logarithmic coefficient height.

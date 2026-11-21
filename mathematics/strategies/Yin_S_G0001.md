@@ -38,6 +38,11 @@ More precisely the [ordinary degree and height estimates](../claims/Yin_C_G0345_
 They give a uniform gap even at \(\log\mathcal H\le c\sqrt W(\log\log(5W)/\log(2W))^3\) for a sufficiently small absolute \(c>0\).
 A possible shrinking sequence at the remaining coefficient heights would have \(1+\log\mathcal H\asymp 1+Wh(z^g)\).
 In the four-term search at bounded coefficient height this leaves the reciprocal and antireciprocal parents with parallelogram support.
+For the primitive section \(a(1+\epsilon X^{u+v})+b(X^u+\epsilon X^v)\) with consecutive magnitudes \(|a|=q\), \(|b|=q+1\), [the exterior sum](../claims/Yin_C_G0345_v869.md#statement) bounds the combined positive measure of all unit factors by \(3/q\) as soon as any one occurs, at every common dilation.
+Thus a nontorsion unit at infinitely many \(q\) would disprove the gap, and each such occurrence requires \(v/u\gg q^2\log q\) and \(u+v\ge\exp(cq^{1/3}\log q)\).
+For a root \(z\) at dilation \(g\) in the regime \((v-u)h(z^g)\to0\), the [conjugate distribution](../claims/Yin_C_G0345_v871.md#statement) forces \(|a|=1\) eventually, determines the fraction on the unit circle and bounds its limit superior by \(1/3\).
+Seek factors with a large fraction on the circle only outside this short-middle-gap regime.
+A [classification on both curves](../claims/Yin_C_G0345_v870.md#statement) shows that an independent four-term equation would impose an additional condition on the section point and gives a degree bound from the support of that equation.
 Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
 For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_G0345_v789.md#example), the ordinary sections \(F(X,X^n)\) have one noncyclotomic factor for all sufficiently large \(n\).
 The [fixed-cover degree calculation](../claims/Yin_C_G0345_v828.md#statement) proves eventual irreducibility also for \(k=3\), with six exterior conjugates.
