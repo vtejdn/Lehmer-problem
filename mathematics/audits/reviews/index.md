@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v948](Yin_R_G0562_v948.md#finding) reviews the three height laws and the exact and asymptotic counts of circle conjugates.
+
+- [R562 v947](Yin_R_G0562_v947.md#finding) reviews independent signed alternating actions on all factors and the exact degrees of their exterior products.
+
+- [R562 v946](Yin_R_G0562_v946.md#finding) reviews the uniform multiplicity and inertia bounds, the trace fields and the derivative and resultant estimates.
+
 - [R562 v945](Yin_R_G0562_v945.md#finding) reviews the exterior signatures of least-degree witnesses with small relative measure degree.
 
 - [R562 v944](Yin_R_G0562_v944.md#finding) reviews simultaneous cyclotomic zeros in all progression subwords.

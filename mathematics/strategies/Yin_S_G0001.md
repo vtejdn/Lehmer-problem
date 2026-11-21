@@ -30,13 +30,18 @@ The [simultaneous approximation bound](../claims/Yin_C_G0345_v792.md#statement) 
 The [whole-section count](../claims/Yin_C_G0345_v793.md#statement) gives exactly \(2k\) exterior roots for \(l\ge2k\), and every one of the [2,292 computed sections](../computations/programs/Yin_J_G0183/readme.md#census) is irreducible over the rationals.
 The [two normalized pole counts](../claims/Yin_C_G0345_v794.md#growth) and [polar expansions](../claims/Yin_C_G0345_v793.md#statement) give \(k\,m(S)/H\to\tfrac12\log(\beta_3\beta_4)\), where \(H\) counts the exterior roots of an irreducible factor \(S\) and \(\beta_j=(j+\sqrt{j^2+4})/2\).
 Test whether every rational factor carries a positive fraction of the \(2k\) exterior roots, including factors with \(H\to\infty\) and \(H/k\to0\) as possible counterexamples.
-For these candidates every [terminal extension of their reciprocal trace field](../claims/Yin_C_G0345_v796.md#statement) has growing degree.
+For every sufficiently steep section in this regime the [trace field of each factor](../claims/Yin_C_G0345_v805.md#factors) has no proper intermediate field over the rationals.
+At every prime the degree of the [common divisor with the derivative](../claims/Yin_C_G0345_v805.md#reduction) is at most 16.
 [Products involving a fixed number of distinct inverse pairs](../claims/Yin_C_G0345_v799.md#statement) have diverging log measure as soon as two pairs occur, even when their exponents vary.
-A [Fourier calculation on the polar branches](../claims/Yin_C_G0345_v798.md#statement) also gives an [effective polynomial slope threshold](../claims/Yin_C_G0345_v800.md#statement) above which all \(2k\) exterior roots of the entire section are multiplicatively independent.
+The [joint signed action](../claims/Yin_C_G0345_v806.md#statement) gives multiplicative independence modulo torsion for one root from every inverse pair across all factors throughout the steep regime.
+For the exterior roots alone the [Fourier bound](../claims/Yin_C_G0345_v800.md#statement) also supplies an effective polynomial slope threshold.
 For a factor of degree \(d\) with \(H\to\infty\), its [first Mahler iterate](../claims/Yin_C_G0345_v801.md#statement) has log measure larger than every fixed power of \(d\), even when the factor itself has vanishing log measure.
 At each of the [two poles](../claims/Yin_C_G0345_v802.md#statement), an irreducible factor of degree \(d\) selects prime-ideal powers whose combined log norm is asymptotic to \((d/2)\log\beta_j\).
 A single prime-power ideal at either pole forces eventual irreducibility along the corresponding steep sequence.
-For general ideals, test whether a proper factor can select allocations of the same intermediate degree at both poles.
+For a putative factor of degree \(d=o(l)\), the [complementary resultant](../claims/Yin_C_G0345_v805.md#resultant) forces a common quotient of \(\mathbb Z[X]\) with at most 16 additive generators and exponent at least \(((e^L-o(1))l/d)^{d/16}\), with the explicit constant \(L\) in the derivative formula.
+Test whether such a quotient can coexist with the prime-ideal allocations required at both poles at the same degree.
+The [signed orbit](../claims/Yin_C_G0345_v806.md#products) determines the exact degree of \(M(S)\), and the [signed sampling law](../claims/Yin_C_G0345_v807.md#statement) determines its height asymptotics and circle count for every candidate signature.
+The existence of the original factor of degree \(o(l)\) remains open.
 The [congruences](../claims/Yin_C_G0345_v794.md#congruences) certify finite lower bounds for the factor degrees, while [irreducibility on every torus isogeny](../claims/Yin_C_G0345_v794.md#isogenies) reduces eventual irreducibility to the rational specialization conjecture for this particular curve.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
