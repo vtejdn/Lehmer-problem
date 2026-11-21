@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v925](Yin_R_G0562_v925.md#finding) Circle tails, the sign at each extreme factor and algebraic-unit fibers over torsion.
+
+- [R562 v924](Yin_R_G0562_v924.md#finding) The shortest relation length and the density of a sparse test.
+
+- [R562 v923](Yin_R_G0562_v923.md#finding) Size, signed distance and simultaneous rank in a common fiber of line sums.
+
 - [R562 v922](Yin_R_G0562_v922.md#finding) An irrational ratio of conjugate counts at rational poles.
 
 - [R562 v921](Yin_R_G0562_v921.md#finding) Finiteness for a reciprocal curve with four primitive faces.

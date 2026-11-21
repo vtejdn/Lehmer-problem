@@ -35,6 +35,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BDM07](BDM07/readme.md) | [Yin_U001](BDM07/Yin_U001.md) |
 | [BGH21](BGH21/readme.md) | Source and edition notes |
 | [BGMP24](BGMP24/readme.md) | [Yin_U001](BGMP24/Yin_U001.md) |
+| [BIR08](BIR08/readme.md) | [Logarithmic averages over roots of unity at a complex embedding](BIR08/Yin_U001.md#torsion-logarithm) |
 | [BK21](BK21/readme.md) | [Yin_U001](BK21/Yin_U001.md) |
 | [BKT04](BKT04/readme.md) | [Yin_U001](BKT04/Yin_U001.md) |
 | [BL02](BL02/readme.md) | [Yin_U001](BL02/Yin_U001.md) |
@@ -50,6 +51,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BS96](BS96/readme.md) | [Yin_U001](BS96/Yin_U001.md) |
 | [BSS17](BSS17/readme.md) | [Yin_U001](BSS17/Yin_U001.md) |
 | [BV04](BV04/readme.md) | [Yin_U001](BV04/Yin_U001.md), [Yin_U002](BV04/Yin_U002.md), [Yin_U003](BV04/Yin_U003.md) |
+| [BV09](BV09/readme.md) | [Dimension and minimum distance of a tensor product code](BV09/Yin_U001.md#bv09-u001) |
 | [BV19b](BV19b/readme.md) | [Yin_U001](BV19b/Yin_U001.md), [Yin_U002](BV19b/Yin_U002.md), [Yin_U003](BV19b/Yin_U003.md) |
 | [BV19c](BV19c/readme.md) | Selected published-source scope; [C870](../../claims/Yin_C_G0870_v1.md#source-interfaces): Proposition 38's positive-divisor estimate and distinction from whole-polynomial measure |
 | [BV20](BV20/readme.md) | [Yin_U001](BV20/Yin_U001.md), [Yin_U002](BV20/Yin_U002.md), [Yin_U003](BV20/Yin_U003.md) |

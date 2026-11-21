@@ -24,8 +24,11 @@ Concentrate the search on curves surviving [torsion-translated inversion](../cla
 At the surviving real poles compare actual factors across unbounded primitive directions, including directions outside the prime-index families already excluded.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
-On the general lower-bound route, look for a deduction from total measure tending to zero that forces a critical sparse test or supplies a direct contradiction without one.
-The [binary-collision construction](../claims/Yin_C_G0345_v773.md#statement) shows why a fixed entropy deficit, a small house and an almost neutral orbit alone do not give that deduction.
+For each surviving direction, factor both extreme edge polynomials and test the sign at every noncyclotomic factor using the [circle-tail and torsion-fiber criterion](../claims/Yin_C_G0345_v784.md#statement).
+On the unrestricted lower-bound route, a [shrinking representative and all its powers](../claims/Yin_C_G0345_v783.md#statement) can evade positive-density sparse tests of fixed arity even at spans growing more slowly than the logarithm of the shortest relation length, measured in height units.
+Pursue constraints with growing term count or a direct degree bound on an actual factor.
+The [simultaneous digit relations](../claims/Yin_C_G0345_v782.md#statement) supply high-rank differences on dense masks, but positive rate at dimension proportional to the inverse measure already requires each coordinate length to be at least of order degree divided by measure.
+An argument using them must control the actual one-variable width.
 
 For irreducible polynomials of degree \(d\) and measure tending to one, each coefficient class modulo two contains at most [\((1+o(1))\log_2 d\) candidates](../claims/Yin_C_G0345_v707.md#statement), irrespective of the root signature.
 A contradiction from this count would require enough distinct small-measure polynomials in one class.
