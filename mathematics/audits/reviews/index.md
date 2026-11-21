@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v962](Yin_R_G0562_v962.md#finding) Uniform field discriminant exponents and the allocation of odd critical contacts to individual factors.
+
+- [R562 v961](Yin_R_G0562_v961.md#finding) A large prime at each pole for each factor and distinct split primes when the degree dominates the pole exponent.
+
+- [R562 v960](Yin_R_G0562_v960.md#finding) Uniform bounds at every prime and the contribution of small primes to a complementary resultant.
+
+- [R562 v959](Yin_R_G0562_v959.md#finding) Lower bounds for denominators and independence of consecutive dyadic fractional ideals.
+
+- [R562 v958](Yin_R_G0562_v958.md#finding) Integral indices under power projection and exact preservation under squaring.
+
+- [R562 v957](Yin_R_G0562_v957.md#finding) Exact valuations at the six exceptional slopes and spacing of primitive directions.
+
 - [R562 v956](Yin_R_G0562_v956.md#finding) reviews the second-digit obstructions at thirteen and nineteen and their exceptional local roots.
 
 - [R562 v955](Yin_R_G0562_v955.md#finding) reviews the exact bound at three and the exclusion of five from reciprocal complementary resultants.
