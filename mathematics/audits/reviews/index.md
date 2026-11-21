@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v862](Yin_R_G0562_v862.md#finding) checks the odd-prime cyclotomic intersection bound and the normalization needed when the prime varies.
+
+- [R562 v861](Yin_R_G0562_v861.md#finding) checks all-delay irreducibility and factor bounds on the thin seed sets, including the denominators in the conditional density limits.
+
 - [R562 v860](Yin_R_G0562_v860.md#finding) checks density one for simultaneous irreducibility in translated delay intervals and all initial intervals.
 
 - [R562 v859](Yin_R_G0562_v859.md#finding) checks additional exclusions at eight and nine and the limits of finite residue tests at those seeds.

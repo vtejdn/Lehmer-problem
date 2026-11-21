@@ -5,6 +5,7 @@ The source notes and units own their editions, inspected passages and actual ins
 
 | Work | Source notes and selected units |
 | --- | --- |
+| [Wil74](Wil74/readme.md) | [Prime product at a fixed modulus](Wil74/Yin_U001.md#prime-product) |
 | [FHV93](FHV93/readme.md) | Author edition and the field of totally real algebraic numbers. |
 | [ABR01](ABR01/readme.md) | Source and edition notes |
 | [AD00](AD00/readme.md) | [Yin_U001](AD00/Yin_U001.md) |

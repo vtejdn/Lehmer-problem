@@ -25,8 +25,11 @@ The degree-preserving powers of order \(2^j\) preserve the class but multiply th
 At bounded measure they give only \(O(\log\log d)\) powers by [Voutier's degree bound](../audits/literature/Vou96/Yin_U001.md#height).
 [Twisting these powers by dyadic roots of unity](../claims/Yin_C_G0345_v714.md#statement) gives an effective positive gap whenever the degree of the dyadic cyclotomic intersection is at least a fixed positive multiple of \(\log(2d)\).
 For inputs where powers drop degree, the field and degree in this criterion belong to the product of conjugates with torsion quotients, which has the same total measure.
-The next packing test concerns bounded intersections, including Salem fields with no growing dyadic intersection.
-There the number of distinct twists must be weighed against their extension degrees and root discriminants.
+For an [odd prime power tower](../claims/Yin_C_G0345_v722.md#statement), let \(s\) be its intersection degree and \(h\) the index of that intersection in its first containing layer.
+The bound \(s\ge\eta\log d\) gives \(h\log M(\alpha)\ge c(\eta)>0\), uniformly over odd primes.
+In particular a bounded \(h\) gives a positive gap for the original measure under this intersection hypothesis, even when the prime varies.
+The next test concerns fields for which every individual prime tower has small intersection, but whose intersection with a compositum of several towers is large.
+A proposed extension must account for the degrees of twists that do not lie in the original field and for which pairs of twists become equal at each prime.
 For fixed measure bound \(B\) the [consecutive-trace count](../claims/Yin_C_G0345_v704.md#statement) permits any fixed number of exterior roots, and a [quadratic-length recurrence](../claims/Yin_C_G0345_v706.md#statement) gives \(\exp(o(d))\) polynomials at degree \(d\) even when their number is \(o(\sqrt{d/\log d})\).
 
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
@@ -328,10 +331,17 @@ At linearly growing delays one can [sieve growing seeds](../claims/Yin_C_G0345_v
 For each fixed seed, [an explicit progression](../claims/Yin_C_G0345_v718.md#statement) also preserves irreducibility at both signs and every substitution, once the delay is large enough.
 In moving two-parameter rectangles the [proportion of pairs with even one reducible substitution tends to zero](../claims/Yin_C_G0345_v720.md#statement), uniformly in the starting delay when the interval grows, with no relative growth restriction on the sides.
 This sieve obtains its simple roots outside the selected radical characteristic and uses the prime reciprocal sum at one fixed modulus at a time.
+The [finite prime product at fixed modulus](../audits/literature/Wil74/Yin_U001.md#prime-product) supplies the decay of the local surviving fraction as the auxiliary-prime cutoff grows.
+An estimate for the number of exceptional pairs in a finite rectangle must also control its discrepancy from the uniform residue count.
 For the surviving delays at seeds eight and nine, [finite residue tests](../claims/Yin_C_G0345_v719.md#obstruction) give additional exclusions.
 However [same-degree irreducible Salem comparisons](../claims/Yin_C_G0345_v719.md#congruence) pass any prescribed finite list of unit-root tests on an arithmetic progression, and [a growing window](../claims/Yin_C_G0345_v719.md#window) reaches a constant multiple of the logarithm of the delay.
 Further exclusion at these seeds requires information beyond that window, such as roots of increasing order in the full reduction or a constraint on the real exterior conjugate.
 For a pointwise gap in this family, isolate the exceptional seeds where \(R\nmid H(a)\) and the large divisors \(H(a)/\log a\to\infty\) outside that exception, then track the radical primes surviving the auxiliary tests.
+For \(Q=2^j3^{6j}\), [a positive limiting fraction of the multiples \(a=Qb,\ 1\le b\le256Q\)](../claims/Yin_C_G0345_v721.md#statement) preserve full irreducibility at every delay, both signs and every substitution, although \(\log r/H(a)\to0\) uniformly there.
+For the balanced choice \(Q=6^j\), the corresponding selected seeds have \(R\mid3\) at every delay.
+The proof excludes higher radicals by comparing the full power of a prime dividing \(a\) with the norm of the corresponding power of the candidate radical.
+The remaining thin seeds may distribute the repeated prime factors among \(a-1,a,a+1\) with no single one contributing enough for that comparison.
+Test whether several of these prime powers together force a uniform bound on \(R/\log a\).
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 
