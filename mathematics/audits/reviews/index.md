@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v945](Yin_R_G0562_v945.md#finding) reviews the exterior signatures of least-degree witnesses with small relative measure degree.
+
+- [R562 v944](Yin_R_G0562_v944.md#finding) reviews simultaneous cyclotomic zeros in all progression subwords.
+
+- [R562 v943](Yin_R_G0562_v943.md#finding) reviews prime-ideal allocation at the two exterior poles and its conditional irreducibility test.
+
 - [R562 v942](Yin_R_G0562_v942.md#finding) Exterior multiplicative rank, abelian degree and the log measure of the first iterate.
 
 - [R562 v941](Yin_R_G0562_v941.md#finding) Effective polynomial slopes for independence of all exterior roots.

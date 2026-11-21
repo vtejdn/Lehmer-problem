@@ -34,7 +34,9 @@ For these candidates every [terminal extension of their reciprocal trace field](
 [Products involving a fixed number of distinct inverse pairs](../claims/Yin_C_G0345_v799.md#statement) have diverging log measure as soon as two pairs occur, even when their exponents vary.
 A [Fourier calculation on the polar branches](../claims/Yin_C_G0345_v798.md#statement) also gives an [effective polynomial slope threshold](../claims/Yin_C_G0345_v800.md#statement) above which all \(2k\) exterior roots of the entire section are multiplicatively independent.
 For a factor of degree \(d\) with \(H\to\infty\), its [first Mahler iterate](../claims/Yin_C_G0345_v801.md#statement) has log measure larger than every fixed power of \(d\), even when the factor itself has vanishing log measure.
-To bound the degree of the original factor, study the rational factors of \(\operatorname{Res}_V(F(U,V),V^k-U^l)\) near the two positive poles, since the [power-field identity](../claims/Yin_C_G0345_v251.md#statement) preserves the individual degree under \(z\mapsto z^k\).
+At each of the [two poles](../claims/Yin_C_G0345_v802.md#statement), an irreducible factor of degree \(d\) selects prime-ideal powers whose combined log norm is asymptotic to \((d/2)\log\beta_j\).
+A single prime-power ideal at either pole forces eventual irreducibility along the corresponding steep sequence.
+For general ideals, test whether a proper factor can select allocations of the same intermediate degree at both poles.
 The [congruences](../claims/Yin_C_G0345_v794.md#congruences) certify finite lower bounds for the factor degrees, while [irreducibility on every torus isogeny](../claims/Yin_C_G0345_v794.md#isogenies) reduces eventual irreducibility to the rational specialization conjecture for this particular curve.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
@@ -42,13 +44,16 @@ For Salem candidates first apply the [powered edge-root and branch-orbit test](.
 For each surviving direction, factor both extreme edge polynomials and test the sign at every noncyclotomic factor using the [circle-tail and torsion-fiber criterion](../claims/Yin_C_G0345_v784.md#statement).
 On the unrestricted lower-bound route, a [shrinking representative and all its powers](../claims/Yin_C_G0345_v783.md#statement) can evade positive-density sparse tests of fixed arity even at spans growing more slowly than the logarithm of the shortest relation length, measured in height units.
 Pursue constraints with growing term count or a direct degree bound on an actual factor.
+If the Mahler measure of an unrestricted reciprocal least-degree witness has [relative degree at most \(d^{2-\epsilon}\)](../claims/Yin_C_G0345_v804.md#statement) over the maximal abelian extension, its exterior signature is Salem or has a single reversed real root in a full block.
+In the latter case test whether the quadratic extension of a totally real field with just two real embeddings can support that reversed root at arbitrarily small positive measure.
 The [simultaneous digit relations](../claims/Yin_C_G0345_v782.md#statement) supply high-rank differences on dense masks, but positive rate at dimension proportional to the inverse measure already requires each coordinate length to be at least of order degree divided by measure.
 At this side length [separate line entropies](../claims/Yin_C_G0345_v786.md#statement) overcount by a factor growing at least logarithmically in the dimension, and a [Gaussian estimate with the full covariance](../claims/Yin_C_G0345_v787.md#statement) also loses that scale.
 The [size of the largest joint fiber](../claims/Yin_C_G0345_v791.md#statement) now rules out positive entropy per site on any fixed-density mask when the side length is a fixed multiple of dimension times degree.
 Positive rate requires side length at least of order \(Jd\log(2J)\) in dimension \(J\) and degree \(d\).
 At log measure \(m\to0\) and side length of order \(d/m\), test what follows from relations in only order \(1/(m\log(1/m))\) directions, starting with the [lower bound under a root discriminant hypothesis](../claims/Yin_C_G0345_v786.md#discriminant).
 The [progression and multiplicity estimate](../claims/Yin_C_G0345_v797.md#statement) produces one ternary polynomial of span at most \(d/m\) up to rounding, with every residue class vanishing at the unit for all prime steps through \(c/\sqrt m\) and all dyadic steps through \(c/m\), under the polynomial root discriminant condition above.
-Test how these simultaneous divisibilities constrain the minimal polynomial at roots of unity, including the short residue classes at the largest dyadic step.
+[Simultaneous cyclotomic zeros](../claims/Yin_C_G0345_v803.md#statement) persist in an exponentially large family at these progression lengths.
+A derivative argument needs a collision with a certified nonzero derivative at the chosen root of unity.
 
 For irreducible polynomials of degree \(d\) and measure tending to one, each coefficient class modulo two contains at most [\((1+o(1))\log_2 d\) candidates](../claims/Yin_C_G0345_v707.md#statement), irrespective of the root signature.
 A contradiction from this count would require enough distinct small-measure polynomials in one class.
