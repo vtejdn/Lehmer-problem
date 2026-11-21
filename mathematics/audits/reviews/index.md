@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v941](Yin_R_G0562_v941.md#finding) Effective polynomial slopes for independence of all exterior roots.
+
+- [R562 v940](Yin_R_G0562_v940.md#finding) Monomial heights, signed exponents and their stabilizers and degrees.
+
+- [R562 v939](Yin_R_G0562_v939.md#finding) Polar Fourier separation for exterior roots across rational factors.
+
+- [R562 v938](Yin_R_G0562_v938.md#finding) Ternary arithmetic-progression sections and multiplicities in a single interval.
+
+- [R562 v937](Yin_R_G0562_v937.md#finding) Exterior-pair incidence and subfield restrictions for the reciprocal trace.
+
 - [R562 v936](Yin_R_G0562_v936.md#finding) The uniform exterior count and the slope required for bounded signature.
 
 - [R562 v935](Yin_R_G0562_v935.md#finding) Factor degrees from reductions at two and three, with the isogeny and conditional specialization arguments.
