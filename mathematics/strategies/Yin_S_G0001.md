@@ -303,9 +303,14 @@ For the fixed Möbius graph, [every nontorsion factor receives asymptotically it
 The [bounded denominator at fixed coefficient length](../claims/Yin_C_G0345_v210.md#statement) transfers shrinking to a primitive direction even when the root field contains many roots of unity.
 More generally, for every fixed plane curve irreducible over the rationals with rank-two support, [the projected width times the height of every nontorsion root](../claims/Yin_C_G0345_v769.md#statement) tends to the curve's Mahler measure at all growing primitive directions, even with arbitrary torsion translations.
 [The projective height of the monomials in its Newton support](../claims/Yin_C_G0345_v770.md#statement) has that same limit along every sequence of distinct dependent points, including a fixed direction with varying phases.
-Use the relative place distributions on the normalized curve to test whether an individual factor can consist of units at every finite place.
+The [valuation distribution at each prime](../claims/Yin_C_G0345_v772.md#statement) forces each exposed face to have coefficient gcd one on any limiting direction of dependent unit points.
+If no direction passes at every prime there are only finitely many dependent unit points, giving a uniform gap for all torsion-translated sections of that parent.
+For a near-neutral unit sequence the [archimedean radial distribution](../claims/Yin_C_G0345_v774.md#statement) further requires two opposite parallel edges, both primitive and both having the full parent measure.
+Failure of this test leaves only finitely many Salem numbers across all directions and translations.
+For an arbitrary shrinking sequence, the [least power degree over the abelian closure](../claims/Yin_C_G0345_v775.md#compression) tends to infinity, while the two [torsion orders](../claims/Yin_C_G0345_v775.md#statement) share one conductor bounded in terms of the primitive direction and the root measure.
 The [negative-unit example](../claims/Yin_C_G0345_v761.md#counterexample) explains why the absence of roots in the original field by itself cannot justify this step.
 If the seed is multiplied by an arbitrary root of unity, a [ramified congruence](../claims/Yin_C_G0345_v766.md#congruence) also bounds [divisibility modulo torsion in its unit group](../claims/Yin_C_G0345_v767.md#statement).
+When the original field has only the two rational roots of unity, [the ordinary bounded-length denominator also works for every external phase](../claims/Yin_C_G0345_v771.md#statement).
 For Salem conjugates a [four-term witness](../claims/Yin_C_G0345_v743.md#statement) must eventually have support \(0,a,b,a+b\) and satisfy an exact reciprocal equation with a seed \(B>1\) in a fixed set in the trace fields.
 Its short and long exponents satisfy \(am-\log B\to0\) and \(bm/d-h(B)\to0\).
 Moreover [every radical polynomial](../claims/Yin_C_G0345_v746.md#statement) \(X^k-B\) with \(k\mid a\) must remain irreducible over the Salem root field, even at \(k=a\).
@@ -323,7 +328,9 @@ For primitive directions, [the signed algebraic-pole criterion](../claims/Yin_C_
 For a fixed integer pole, at [almost every prime exponent sum](../claims/Yin_C_G0345_v765.md#statement) in the short-exponent range, each factor's degree and exterior-root count are exact multiples set by the residue subgroup index.
 Among all integer short exponents in the prescribed boxes, [the distribution of this index constraint](../claims/Yin_C_G0345_v768.md#statement) gives a positive lower density of irreducible cores and zero limiting density for any shrinking positive factor threshold, allowing all dilations.
 At pole two the sufficient condition for irreducibility in both signs has density \(\prod_p(1-1/(p^2(p-1)))\).
-Search the exceptional directions for an actual small-degree factor, and determine independently what forces a positive-density critical test.
+Search the exceptional directions for an actual small-degree factor.
+To force a positive-density test from total measure tending to zero, a proof must go beyond the house, neutral fraction, a signed binary collision and a fixed entropy deficit: [actual reciprocal units satisfy all four while excluding critical tests of any prescribed sparsity](../claims/Yin_C_G0345_v773.md#statement).
+The construction keeps its total measure bounded below.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.

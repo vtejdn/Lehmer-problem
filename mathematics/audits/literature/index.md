@@ -258,6 +258,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Ope26d](Ope26d/readme.md) | [Yin_U001](Ope26d/Yin_U001.md) |
 | [PP08](PP08/readme.md) | [Yin_U001](PP08/Yin_U001.md) |
 | [PR04](PR04/readme.md) | Source and edition notes |
+| [PR04b](PR04b/readme.md) | [The Ronkin function and its torus normalization](PR04b/readme.md#ronkin) |
 | [PRT22](PRT22/readme.md) | [Yin_U001](PRT22/Yin_U001.md#prt22-u001): squarefree Sturm counting, positive normalization and source limits |
 | [PST21](PST21/readme.md) | [A computable level for maximal growth of cyclotomic Kummer fields](PST21/Yin_U001.md#pst21-u001) |
 | [PT21](PT21/readme.md) | [Complex Salem numbers and the Salem lift](PT21/Yin_U001.md#pt21-u001) |

@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v916](Yin_R_G0562_v916.md#finding) checks measure-preserving power descent over the abelian closure and the bounds for torsion orders and factor counts.
+
+- [R562 v915](Yin_R_G0562_v915.md#finding) checks the limiting archimedean radial law and the face criterion for finiteness of bounded-exterior units.
+
+- [R562 v914](Yin_R_G0562_v914.md#finding) checks actual binary collisions and the failure of critical tests of prescribed sparsity at bounded positive measure.
+
+- [R562 v913](Yin_R_G0562_v913.md#finding) checks the valuation law at each prime, the unit-pair finiteness test and an explicit all-section gap.
+
+- [R562 v912](Yin_R_G0562_v912.md#finding) checks the exact all-phase comparison for original fields with few roots of unity.
+
 - [R562 v911](Yin_R_G0562_v911.md#finding) independently checks the final proof of every factor's height on arbitrary plane curves and torsion-translated sections.
 
 - [R562 v910](Yin_R_G0562_v910.md#finding) checks the full joint height locus for dependent points, including one fixed direction with varying phases.
