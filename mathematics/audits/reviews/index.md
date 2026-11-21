@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v874](Yin_R_G0562_v874.md#finding) checks the loss from inertia in nonnormal subfields and the lower bound at bounded relative degree over the full height range.
+
+- [R562 v873](Yin_R_G0562_v873.md#finding) checks the local Jensen estimate and the integer polynomial test for critical Salem phase crowding.
+
+- [R562 v872](Yin_R_G0562_v872.md#finding) checks the all-delay radical-index tail and the density-one factor measure bound for polynomial seeds.
+
+- [R562 v871](Yin_R_G0562_v871.md#finding) checks the determinant for variable residue powers and the relative height estimates under exponent restrictions.
+
+- [R562 v870](Yin_R_G0562_v870.md#finding) checks the simultaneous finite-place cyclotomic norm inequality and its Frobenius probabilities.
+
 - [R562 v869](Yin_R_G0562_v869.md#finding) checks the perfect-power norm obstruction and the relative prime density of prime-square seeds preserving irreducibility at every delay.
 
 - [R562 v868](Yin_R_G0562_v868.md#finding) checks the coset distribution for Frobenius lifts, the ramified local calculation and the symmetric-group construction over the prescribed finite range.
