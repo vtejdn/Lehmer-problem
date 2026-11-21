@@ -369,3 +369,4 @@ The source notes and units own their editions, inspected passages and actual ins
 | [EFK16](EFK16/readme.md) | [Liebeck and Saxl on primitive groups of small minimal degree](EFK16/Yin_U001.md#efk16-u001) |
 | [EFG17](EFG17/readme.md) | [Common invariant sizes of four independent permutations](EFG17/Yin_U001.md#efg17-u001) |
 | [Sut23](Sut23/readme.md) | [The elliptic group law and the degree of Frobenius minus identity](Sut23/Yin_U001.md#sut23-u001) |
+| [CD26](CD26/readme.md) | [Freeness and bounded division over a saturation field](CD26/Yin_U001.md#cd26-u001) |

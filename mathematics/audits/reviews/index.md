@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v1011](Yin_R_G0562_v1011.md#finding) checks arbitrary-dimensional torsion specialization, the root measure bounds and the exact rational degree of sparse sections.
+
+- [R562 v1010](Yin_R_G0562_v1010.md#finding) checks the ternary character at 919, signed Frobenius sums and the two untwisted trace irreducibility certificates.
+
 - [R562 v1009](Yin_R_G0562_v1009.md#finding) One exceptional set per primitive direction, exact compression at every torsion invariant and irreducibility under all common dilations on the two-pole curve.
 
 - [R562 v1008](Yin_R_G0562_v1008.md#finding) checks the reduction subgroup at seven, both modular factorizations and the persistence of their short Frobenius orbits.
