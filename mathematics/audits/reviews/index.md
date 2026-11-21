@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v867](Yin_R_G0562_v867.md#finding) checks the relative height bound across ramified places, nonintegral inputs and abelian extensions of bounded exponent.
+
+- [R562 v866](Yin_R_G0562_v866.md#finding) checks the cubic estimate on abelian subfield degree at small total measure and the Frobenius weights for nonabelian normal subfields.
+
+- [R562 v865](Yin_R_G0562_v865.md#finding) checks clustering of the actual neutral Salem phases, the power-sum test and the conditional covariance bound.
+
+- [R562 v864](Yin_R_G0562_v864.md#finding) checks the joint prime-power norm, its reduced degree and the lower bound for full powers whose primes are absent from the index.
+
+- [R562 v863](Yin_R_G0562_v863.md#finding) checks simultaneous twist congruences at all conductor primes and the example of a diagonal subfield.
+
 - [R562 v862](Yin_R_G0562_v862.md#finding) checks the odd-prime cyclotomic intersection bound and the normalization needed when the prime varies.
 
 - [R562 v861](Yin_R_G0562_v861.md#finding) checks all-delay irreducibility and factor bounds on the thin seed sets, including the denominators in the conditional density limits.

@@ -28,8 +28,14 @@ For inputs where powers drop degree, the field and degree in this criterion belo
 For an [odd prime power tower](../claims/Yin_C_G0345_v722.md#statement), let \(s\) be its intersection degree and \(h\) the index of that intersection in its first containing layer.
 The bound \(s\ge\eta\log d\) gives \(h\log M(\alpha)\ge c(\eta)>0\), uniformly over odd primes.
 In particular a bounded \(h\) gives a positive gap for the original measure under this intersection hypothesis, even when the prime varies.
-The next test concerns fields for which every individual prime tower has small intersection, but whose intersection with a compositum of several towers is large.
-A proposed extension must account for the degrees of twists that do not lie in the original field and for which pairs of twists become equal at each prime.
+A [mixed-conductor twist bound](../claims/Yin_C_G0345_v723.md#statement) counts resultant divisibility at multiple primes of one cyclotomic field.
+It detects diagonal subfields which are disjoint from each individual prime-power tower, with the index of the intersection still present in the height term.
+Independently the [relative cubic estimate](../claims/Yin_C_G0345_v726.md#statement) applies to the maximal abelian subfield of the original root field at small total measure, with no conductor restriction and no change of generator.
+For \(d=[\mathbb Q(\alpha):\mathbb Q]\), \(s=[\mathbb Q(\alpha)\cap\mathbb Q^{\rm ab}:\mathbb Q]\), and \(m=\log M(\alpha)\to0\), it requires \(s\ll m(\log d/\log\log d)^3\).
+For a nonabelian normal subfield the [finite inequality](../claims/Yin_C_G0345_v726.md#weighted) weights each prime by the reciprocal size of its actual Frobenius class.
+The [ramified version](../claims/Yin_C_G0345_v727.md#statement) gives a cubic relative height bound at arbitrary heights over the compositum of all quadratic fields and over bounded-exponent abelian bases, including nonintegral inputs.
+In fields with a small maximal abelian subfield, seek many relative conjugates on which a Frobenius action can be modeled simultaneously, even when the associated subfield is nonnormal.
+Quantify the actual fraction of embeddings represented and the cost of their auxiliary polynomials before extending the normal-subfield inequality.
 For fixed measure bound \(B\) the [consecutive-trace count](../claims/Yin_C_G0345_v704.md#statement) permits any fixed number of exterior roots, and a [quadratic-length recurrence](../claims/Yin_C_G0345_v706.md#statement) gives \(\exp(o(d))\) polynomials at degree \(d\) even when their number is \(o(\sqrt{d/\log d})\).
 
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
@@ -259,7 +265,9 @@ At the critical scale the fraction of eigenvalues tending to zero is at most \(1
 At the critical scale, if \(m\log d\to0\) or a length-\(b\) phase Gram matrix has determinant defect \(o(k)\) in the [specified window](../claims/Yin_C_G0345_v713.md#statement), the mean fraction of conditional eigenvalues tending to zero vanishes.
 In this range the geometric mean of the regularized conditional determinant per neutral direction has lower limit at least \(0.07929\).
 Without that defect hypothesis the [spectrum of the neutral conjugates](../claims/Yin_C_G0345_v713.md#phase) still bounds how many such small eigenvalues can occur.
-Test the remaining case against the size and frequency of genuinely small positive eigenvalues of that deterministic matrix.
+A [local crowding test](../claims/Yin_C_G0345_v725.md#statement) now shows that a positive fraction of near-zero conditional eigenvalues requires a positive fraction of neutral roots in clusters of unbounded size, even inside arcs much shorter than \(1/d\).
+In particular the mean square of the actual neutral power sums, normalized by \(d-2\), must diverge at every window \(H\gtrsim d,\ H=o(kd)\).
+Test whether the integer traces and their Frobenius congruences can force one bounded window, beginning with \(H=d\).
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
@@ -341,7 +349,9 @@ For \(Q=2^j3^{6j}\), [a positive limiting fraction of the multiples \(a=Qb,\ 1\l
 For the balanced choice \(Q=6^j\), the corresponding selected seeds have \(R\mid3\) at every delay.
 The proof excludes higher radicals by comparing the full power of a prime dividing \(a\) with the norm of the corresponding power of the candidate radical.
 The remaining thin seeds may distribute the repeated prime factors among \(a-1,a,a+1\) with no single one contributing enough for that comparison.
-Test whether several of these prime powers together force a uniform bound on \(R/\log a\).
+For an odd adjacent integer \(x\) with at most \(T\) distinct primes, [a common norm for several radical primes](../claims/Yin_C_G0345_v724.md#statement) forces the product of full prime powers in \(x\) with base prime absent from \(R\) to be at least \(x^{1/(T+2)}\), at every delay once the seed is sufficiently large for fixed \(T\).
+The same calculation covers a growing range of \(T\) with an explicit delay condition.
+The remaining issue is whether the prime powers still eligible in the three adjacent integers together allow \(R/\log a\to\infty\), including the separate primes exceeding the delay.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 
