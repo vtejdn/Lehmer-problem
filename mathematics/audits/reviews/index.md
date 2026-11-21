@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v899](Yin_R_G0562_v899.md#finding) checks the neutral proportion, its coefficient embeddings, the limiting height and the escaping first moment in the general four-term equation.
+
+- [R562 v898](Yin_R_G0562_v898.md#finding) checks root separation on complex rational graphs and the radical bound for units of every signature.
+
+- [R562 v897](Yin_R_G0562_v897.md#finding) checks the exceptional exponent slopes, multiple projections, nontorsion inverse pairs and the factor gap after all dilations.
+
+- [R562 v896](Yin_R_G0562_v896.md#finding) checks the conditional probabilities for products of Frobenius lifts, their consequences for all subfields, and the primitive trace-field examples.
+
+- [R562 v895](Yin_R_G0562_v895.md#finding) checks the individual prime-power and signed periods, and the growing-support family with many exterior roots in every factor.
+
 - [R562 v894](Yin_R_G0562_v894.md#finding) checks the finite support patterns of minimal subsums and the four-term fractional linear equation across all root signatures.
 
 - [R562 v893](Yin_R_G0562_v893.md#finding) checks the order and largest-prime restrictions on exponent indices after reduction, including residual multiplicities.

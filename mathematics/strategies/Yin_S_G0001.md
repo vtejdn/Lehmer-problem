@@ -47,7 +47,8 @@ A maximal trace order forces each residue bin to contain at most one component i
 When single-coset probabilities are small, [overlap of subsets of conjugates](../claims/Yin_C_G0345_v741.md#statement) can still force a height gain.
 In explicit primitive trace fields of degree \(n^3\), a triangular subset gives \(m\gg n(\log\log n/\log n)^3\) even though the largest tested single-coset probability is only \(1/(3(n-1)^2)\).
 [Repeated powers at one prime](../claims/Yin_C_G0345_v744.md#salem) already give \(m\ge n\exp(-O(\sqrt{\log n}))\) on the constructed primitive family using only the condition at 29.
-For other trace groups look for a subset of affordable size whose overlap persists for several powers of a single Frobenius lift.
+On every subfield, [products of independent Frobenius lifts](../claims/Yin_C_G0345_v756.md#statement) must spread across many embeddings even after the sampled primes are revealed whenever the subfield degree exceeds the stated height scale by an unbounded factor.
+Test the actual local transitions on low-expansion sets, or for components that persist under those primes, before using the abstract Galois group to predict a gain.
 For fixed measure bound \(B\) the [consecutive-trace count](../claims/Yin_C_G0345_v704.md#statement) permits any fixed number of exterior roots, and a [quadratic-length recurrence](../claims/Yin_C_G0345_v706.md#statement) gives \(\exp(o(d))\) polynomials at degree \(d\) even when their number is \(o(\sqrt{d/\log d})\).
 
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
@@ -60,6 +61,7 @@ The parameter \(B\) can grow with the input, subject to the power-field degree c
 For some growing weight \(r\), at least \((c_0/m)^{r-2}\) different integer exponent lists remain after fixing those coefficients and placing the distinguished term at zero.
 [Quadratic progressions of exponents](../claims/Yin_C_G0345_v752.md#factor) give an individual factor gap at every span and coefficient height.
 For exponents \(s+aj+bj^2\), \(0\le j\le T\), [Voutier's degree bound](../audits/literature/Vou96/Yin_U001.md#height) gives the explicit lower bound \(\min\{\log\theta,2/\log^3(3(T+T^2)^2)\}\), where \(\theta>1\) satisfies \(\theta^3-\theta-1=0\).
+For bounded coefficients and exponents \((n+bj)^D\), [only finitely many slopes](../claims/Yin_C_G0345_v757.md#statement) can support a nontorsion inverse pair, and every positive-measure factor has a uniform gap even at those slopes and after any dilation.
 For a candidate sparse witness, test whether its projected plane support has at least two distinct pairs of parallel edge directions, or whether the width of every projection avoiding such pairs must grow.
 Restrict upper-bound tests to the actual witness ranges for the weight, coefficient heights and exponent span.
 Even at one fixed Salem number, [permuting rational representations](../claims/Yin_C_G0345_v597.md#statement) gives \(n!\) distinct primitive terminal shapes with the entire integer tuple and output fixed at weight \((d+2)n+1\).
@@ -293,6 +295,9 @@ For any fixed number of terms, [a positive density of sufficiently small relativ
 [A bounded arithmetic progression and one arbitrary exponent](../claims/Yin_C_G0345_v745.md#statement) also give vanishing small-value density on every shrinking sequence.
 Across all signatures, [the actual exponents of a minimal exact subsum](../claims/Yin_C_G0345_v754.md#statement) must come from a bounded list of linear patterns in dimension at most half its term count.
 Four terms force the parallelogram support and a fractional linear equation with a root-field involution.
+The [proportion of neutral conjugates](../claims/Yin_C_G0345_v759.md#statement) differs by at most \(O(m^2)\) from the proportion of coefficient embeddings on which that involution agrees with complex conjugation.
+Thus a shrinking sequence with some neutral roots but only \(o(d)\) of them cannot sustain a critical four-term test.
+At any signature the exponent ratio satisfies \(b/a\gg m^{-2}\), and the [large-slope separation](../claims/Yin_C_G0345_v758.md#statement) bounds the radical orders in the undilated root field.
 For Salem conjugates a [four-term witness](../claims/Yin_C_G0345_v743.md#statement) must eventually have support \(0,a,b,a+b\) and satisfy an exact reciprocal equation with a seed \(B>1\) in a fixed set in the trace fields.
 Its short and long exponents satisfy \(am-\log B\to0\) and \(bm/d-h(B)\to0\).
 Moreover [every radical polynomial](../claims/Yin_C_G0345_v746.md#statement) \(X^k-B\) with \(k\mid a\) must remain irreducible over the Salem root field, even at \(k=a\).
@@ -303,7 +308,9 @@ For the pole polynomial \(J\) at two separated progressions, [every substitution
 In four terms, an enduring positive-density test would [contradict the rational specialization conjecture](../claims/Yin_C_G0345_v750.md#statement) for one explicit norm polynomial at a fixed pole and sign.
 The primitive direction \((2,13)\) at pole two already admits two noncyclotomic factors, so the outstanding question concerns unbounded directions.
 At a rational pole, writing \((u,v)=(a,b)/\gcd(a,b)\), [both \(v\) and \(v+u\)](../claims/Yin_C_G0345_v753.md#statement) must acquire unbounded prime divisors, as must \(v-u\) for a noninteger rational pole.
-Test the remaining directions using their actual residue orders and the splitting of the norm polynomial.
+[The order at each sufficiently large prime-power divisor](../claims/Yin_C_G0345_v755.md#statement) must fit the relative degree of the individual factor, even if the index has unboundedly many prime divisors.
+At pole two there are primitive directions with increasingly many primes in both long indices where every noncyclotomic factor has increasingly many exterior roots.
+Test the remaining directions for simultaneous order restrictions across different residue characteristics and for the actual splitting of the norm polynomial.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
