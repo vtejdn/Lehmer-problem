@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v929](Yin_R_G0562_v929.md#finding) Signed lifts of binary relations and the joint collision probability.
+
+- [R562 v928](Yin_R_G0562_v928.md#finding) Integral kernel covolume and the full-covariance Gaussian bound.
+
+- [R562 v927](Yin_R_G0562_v927.md#finding) Separate and joint entropies on masked coordinate lines.
+
+- [R562 v926](Yin_R_G0562_v926.md#finding) Galois and translation orbits of boundary branches for Salem sections.
+
 - [R562 v925](Yin_R_G0562_v925.md#finding) Circle tails, the sign at each extreme factor and algebraic-unit fibers over torsion.
 
 - [R562 v924](Yin_R_G0562_v924.md#finding) The shortest relation length and the density of a sparse test.

@@ -24,11 +24,14 @@ Concentrate the search on curves surviving [torsion-translated inversion](../cla
 At the surviving real poles compare actual factors across unbounded primitive directions, including directions outside the prime-index families already excluded.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
+For Salem candidates first apply the [powered edge-root and branch-orbit test](../claims/Yin_C_G0345_v785.md#statement), then investigate degrees of the actual irreducible factors on any surviving ray.
 For each surviving direction, factor both extreme edge polynomials and test the sign at every noncyclotomic factor using the [circle-tail and torsion-fiber criterion](../claims/Yin_C_G0345_v784.md#statement).
 On the unrestricted lower-bound route, a [shrinking representative and all its powers](../claims/Yin_C_G0345_v783.md#statement) can evade positive-density sparse tests of fixed arity even at spans growing more slowly than the logarithm of the shortest relation length, measured in height units.
 Pursue constraints with growing term count or a direct degree bound on an actual factor.
 The [simultaneous digit relations](../claims/Yin_C_G0345_v782.md#statement) supply high-rank differences on dense masks, but positive rate at dimension proportional to the inverse measure already requires each coordinate length to be at least of order degree divided by measure.
-An argument using them must control the actual one-variable width.
+At this side length [separate line entropies](../claims/Yin_C_G0345_v786.md#statement) overcount by a factor growing at least logarithmically in the dimension, and a [Gaussian estimate with the full covariance](../claims/Yin_C_G0345_v787.md#statement) also loses that scale.
+Use the [exact parity and sign count](../claims/Yin_C_G0345_v788.md#statement) to test how many moderate-weight binary relations can be signed to vanish over the integers.
+To contribute to a general gap, these joint relations still need to force a contradiction or a restriction on a factor at a controlled one-variable span.
 
 For irreducible polynomials of degree \(d\) and measure tending to one, each coefficient class modulo two contains at most [\((1+o(1))\log_2 d\) candidates](../claims/Yin_C_G0345_v707.md#statement), irrespective of the root signature.
 A contradiction from this count would require enough distinct small-measure polynomials in one class.
