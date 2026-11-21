@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v919](Yin_R_G0562_v919.md#finding) checks the concentration of squared logarithmic radii and the resulting positive gap at arbitrary signatures and torsion orders.
+
+- [R562 v918](Yin_R_G0562_v918.md#finding) checks stable power fields and the obstruction from inversion for translated sections.
+
+- [R562 v917](Yin_R_G0562_v917.md#finding) checks full unit-circle fibers and actual counts of conjugates off the circle, including at singular plane images.
+
 - [R562 v916](Yin_R_G0562_v916.md#finding) checks measure-preserving power descent over the abelian closure and the bounds for torsion orders and factor counts.
 
 - [R562 v915](Yin_R_G0562_v915.md#finding) checks the limiting archimedean radial law and the face criterion for finiteness of bounded-exterior units.

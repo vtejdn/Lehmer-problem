@@ -19,6 +19,13 @@ The main researcher may change this allocation as mathematical evidence, a concr
 The [resumed Task](../tasks/Yin_T_G0001_v1.md#decision-resume-alternating-blocks-2026-11-17) selects the inquiries below under its standing execution conditions.
 Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
+The [individual height formula](../claims/Yin_C_G0345_v769.md#statement) reduces the construction on a fixed plane curve to finding a nontorsion irreducible factor of degree \(o(W)\), where \(W\) is the exponent span of the section.
+Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
+At the surviving real poles compare actual factors across unbounded primitive directions, including directions outside the prime-index families already excluded.
+For curves with several sheets over the short coordinate, test whether the height escaping at each pole of the long coordinate can be allocated to one orbit of boundary points, retaining ramification and embedding multiplicities as in the [two-block allocation](../claims/Yin_C_G0345_v240.md#allocation).
+On the general lower-bound route, look for a deduction from total measure tending to zero that forces a critical sparse test or supplies a direct contradiction without one.
+The [binary-collision construction](../claims/Yin_C_G0345_v773.md#statement) shows why a fixed entropy deficit, a small house and an almost neutral orbit alone do not give that deduction.
+
 For irreducible polynomials of degree \(d\) and measure tending to one, each coefficient class modulo two contains at most [\((1+o(1))\log_2 d\) candidates](../claims/Yin_C_G0345_v707.md#statement), irrespective of the root signature.
 A contradiction from this count would require enough distinct small-measure polynomials in one class.
 The degree-preserving powers of order \(2^j\) preserve the class but multiply the log measure by \(2^j\).
@@ -307,7 +314,12 @@ The [valuation distribution at each prime](../claims/Yin_C_G0345_v772.md#stateme
 If no direction passes at every prime there are only finitely many dependent unit points, giving a uniform gap for all torsion-translated sections of that parent.
 For a near-neutral unit sequence the [archimedean radial distribution](../claims/Yin_C_G0345_v774.md#statement) further requires two opposite parallel edges, both primitive and both having the full parent measure.
 Failure of this test leaves only finitely many Salem numbers across all directions and translations.
+In a surviving rational direction, [equality on both faces](../claims/Yin_C_G0345_v776.md#statement) is equivalent to every fiber above the unit circle having all roots there.
+Near that direction the actual off-circle count is comparable to the transverse exponent times the total logarithmic measure, and every off-circle conjugate lies exponentially close in the short coordinate to an edge root.
 For an arbitrary shrinking sequence, the [least power degree over the abelian closure](../claims/Yin_C_G0345_v775.md#compression) tends to infinity, while the two [torsion orders](../claims/Yin_C_G0345_v775.md#statement) share one conductor bounded in terms of the primitive direction and the root measure.
+At long primitive directions, [fixed powers of the assigned phases](../claims/Yin_C_G0345_v777.md#statement) lie in the undilated root field, giving bounded phase orders whenever that field has a real embedding.
+Across all signatures, the [exterior and interior edge disks](../claims/Yin_C_G0345_v778.md#statement) must carry asymptotically all of the corresponding squared radial moments on a shrinking sequence.
+For instance \(X+X^{-1}+Y+Y^{-1}-1\) has only equal-modulus binomials on its edges, giving a positive factor gap in every translated section.
 The [negative-unit example](../claims/Yin_C_G0345_v761.md#counterexample) explains why the absence of roots in the original field by itself cannot justify this step.
 If the seed is multiplied by an arbitrary root of unity, a [ramified congruence](../claims/Yin_C_G0345_v766.md#congruence) also bounds [divisibility modulo torsion in its unit group](../claims/Yin_C_G0345_v767.md#statement).
 When the original field has only the two rational roots of unity, [the ordinary bounded-length denominator also works for every external phase](../claims/Yin_C_G0345_v771.md#statement).
