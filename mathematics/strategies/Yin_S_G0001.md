@@ -43,6 +43,9 @@ Thus a nontorsion unit at infinitely many \(q\) would disprove the gap, and each
 The [long-exponent exclusion](../claims/Yin_C_G0345_v872.md#statement) eliminates \(v=2^j\) and \(v=3^j\) for \(q\ge1024\), and their multiples by any fixed integer for all sufficiently large \(q\).
 At even \(q\) use \(N=v-u\), and at odd \(q\) use \(N=v+u\).
 The [endpoint period test](../claims/Yin_C_G0345_v874.md#statement) excludes \(N=2^j\) at \(q\ge18\) and \(N=3^j\) at \(q\ge13\).
+For any fixed set of \(r\ge1\) primes, the [cofactor bound](../claims/Yin_C_G0345_v876.md#statement) requires the part of \(N\) outside that set to be at least a constant times \(q/(\log q)^{r-1}\).
+The same bound applies to \(v\) when a fixed odd prime divides \(2q+1\).
+Focus the existence test on directions with the required growing cofactors, using the exact signed periods modulo both \(q\) and \(q+1\) as simultaneous necessary conditions.
 Along any surviving sequence with \(q\to\infty\), the [individual factor height and exterior count](../claims/Yin_C_G0345_v875.md#statement) give \(vh(\beta)=\log(q+1)+o(1)\) for the primitive root \(\beta=z^g\).
 Its fraction of conjugates off the unit circle is asymptotic to \(2u\log(q+1)/(v\log(1+1/q))\) and tends to zero.
 For a root \(z\) at dilation \(g\) in the regime \((v-u)h(z^g)\to0\), the [conjugate distribution](../claims/Yin_C_G0345_v871.md#statement) forces \(|a|=1\) eventually, determines the fraction on the unit circle and bounds its limit superior by \(1/3\).

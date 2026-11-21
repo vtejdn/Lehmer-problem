@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v1024](Yin_R_G0562_v1024.md#finding) checks the cofactor bounds at all three indices, the norm comparison with repeated factors and the exact orders modulo both coefficients.
+
 - [R562 v1023](Yin_R_G0562_v1023.md#finding) checks exterior-root localization and counting, the absolute error in the individual height formula, and the conjugate proportions at every dilation.
 
 - [R562 v1022](Yin_R_G0562_v1022.md#finding) checks both signed endpoint reductions, multiplicities and the explicit binary and ternary prime-power exclusions.
