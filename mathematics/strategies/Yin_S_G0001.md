@@ -44,7 +44,9 @@ If the exponent of the trace closure group modulo its center divides a fixed \(b
 For the remaining trace actions test the aggregate coset probabilities of short powers on one prime interval or the [joint residue-order sum](../claims/Yin_C_G0345_v730.md#statement), which charges all eligible primes against one height bound.
 The [index of the trace order](../claims/Yin_C_G0345_v735.md#statement) bounds the total cost of residue collisions across those primes, including collisions among distinct residue embeddings at every ramification depth.
 A maximal trace order forces each residue bin to contain at most one component in the chosen grouping.
-When the trace index is small, compare the remaining nonidentity cosets or the full multiplicative orders with the height bound.
+When single-coset probabilities are small, [overlap of subsets of conjugates](../claims/Yin_C_G0345_v741.md#statement) can still force a height gain.
+In explicit primitive trace fields of degree \(n^3\), a triangular subset gives \(m\gg n(\log\log n/\log n)^3\) even though the largest tested single-coset probability is only \(1/(3(n-1)^2)\).
+For other trace groups look for a subset of affordable size whose overlap survives Frobenius averaging.
 For fixed measure bound \(B\) the [consecutive-trace count](../claims/Yin_C_G0345_v704.md#statement) permits any fixed number of exterior roots, and a [quadratic-length recurrence](../claims/Yin_C_G0345_v706.md#statement) gives \(\exp(o(d))\) polynomials at degree \(d\) even when their number is \(o(\sqrt{d/\log d})\).
 
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
@@ -282,7 +284,9 @@ Seek one bounded power-sum window, beginning with \(H=d\), or an upper bound on 
 A [bounded number of short sparse polynomials](../claims/Yin_C_G0345_v737.md#statement) can be small on only a vanishing fraction of conjugates, even if their complex coefficients and tested subsets vary with the input.
 Here the coefficients have unit Euclidean norm, the lowest exponent is shifted to zero, and each span \(W\) satisfies \(Wm/d\to0\).
 The [finite sublevel bound](../claims/Yin_C_G0345_v738.md#statement) also tests growing collections by summing their individual error terms.
-For a positive fraction of neutral directions, seek relations at span comparable to \(d/m\) or control the number of terms and witnesses as they grow.
+At span \(W=O(d/m)\), [three-term tests](../claims/Yin_C_G0345_v739.md#statement) still have vanishing small-value density for arbitrary complex coefficients on a shrinking sequence.
+For any fixed number of terms, [a positive density of sufficiently small relative values](../claims/Yin_C_G0345_v740.md#statement) forces an exact equation on these exponents with coefficients from a finite list in bounded-degree subfields of the root field.
+Use the possible exponent patterns of the exact equations to test the remaining critical witnesses.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.

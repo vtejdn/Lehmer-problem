@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v881](Yin_R_G0562_v881.md#finding) checks the subset determinant, the primitive Salem trace fields and their explicit triangular overlaps.
+
+- [R562 v880](Yin_R_G0562_v880.md#finding) checks finite-list descent and the converse for critical sparse tests on algebraic conjugates.
+
+- [R562 v879](Yin_R_G0562_v879.md#finding) checks the inverse-conic incidence bound for trinomials and the neutral equal-modulus pair test.
+
 - [R562 v878](Yin_R_G0562_v878.md#finding) checks the finite arbitrary-orbit sparse sublevel bound, its two torus measures and the limiting sharpness example.
 
 - [R562 v877](Yin_R_G0562_v877.md#finding) checks small values at moving algebraic conjugates and the finite Salem estimate, including the corrected zero-frequency implication.
