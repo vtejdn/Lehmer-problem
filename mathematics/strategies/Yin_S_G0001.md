@@ -34,8 +34,10 @@ Independently the [relative cubic estimate](../claims/Yin_C_G0345_v726.md#statem
 For \(d=[\mathbb Q(\alpha):\mathbb Q]\), \(s=[\mathbb Q(\alpha)\cap\mathbb Q^{\rm ab}:\mathbb Q]\), and \(m=\log M(\alpha)\to0\), it requires \(s\ll m(\log d/\log\log d)^3\).
 For a nonabelian normal subfield the [finite inequality](../claims/Yin_C_G0345_v726.md#weighted) weights each prime by the reciprocal size of its actual Frobenius class.
 The [ramified version](../claims/Yin_C_G0345_v727.md#statement) gives a cubic relative height bound at arbitrary heights over the compositum of all quadratic fields and over bounded-exponent abelian bases, including nonintegral inputs.
-In fields with a small maximal abelian subfield, seek many relative conjugates on which a Frobenius action can be modeled simultaneously, even when the associated subfield is nonnormal.
-Quantify the actual fraction of embeddings represented and the cost of their auxiliary polynomials before extending the normal-subfield inequality.
+For a [nonnormal base](../claims/Yin_C_G0345_v728.md#statement), the gain at each prime is the largest probability that a conjugate Frobenius lift lies in a single coset of its point stabilizer.
+The identity coset counts residue-degree-one places, including ramified places, divided by the degree of the base.
+For the trace field of a Salem number the relative degree is two, so its actual coset probabilities can be tested directly in the finite determinant.
+The construction in that result supplies fields with large probabilities at prescribed test primes; a pointwise bound for every small-measure input would need to control those probabilities in its own field, or obtain a different obstruction when all are small.
 For fixed measure bound \(B\) the [consecutive-trace count](../claims/Yin_C_G0345_v704.md#statement) permits any fixed number of exterior roots, and a [quadratic-length recurrence](../claims/Yin_C_G0345_v706.md#statement) gives \(\exp(o(d))\) polynomials at degree \(d\) even when their number is \(o(\sqrt{d/\log d})\).
 
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
@@ -351,7 +353,11 @@ The proof excludes higher radicals by comparing the full power of a prime dividi
 The remaining thin seeds may distribute the repeated prime factors among \(a-1,a,a+1\) with no single one contributing enough for that comparison.
 For an odd adjacent integer \(x\) with at most \(T\) distinct primes, [a common norm for several radical primes](../claims/Yin_C_G0345_v724.md#statement) forces the product of full prime powers in \(x\) with base prime absent from \(R\) to be at least \(x^{1/(T+2)}\), at every delay once the seed is sufficiently large for fixed \(T\).
 The same calculation covers a growing range of \(T\) with an explicit delay condition.
-The remaining issue is whether the prime powers still eligible in the three adjacent integers together allow \(R/\log a\to\infty\), including the separate primes exceeding the delay.
+At [every perfect-power seed](../claims/Yin_C_G0345_v729.md#statement) \(a=b^k\), the radical index \(R\) is coprime to \(k\) for every delay and both signs.
+There is a positive relative density among primes \(p\) such that at \(a=p^2\) this excludes the dyadic part of the index, and the other seed and delay restrictions exclude every remaining prime at every delay.
+The explicit prime subset has density between \(0.46176\) and \(0.46179\) by truncating its Euler product at \(10^5\) and bounding the omitted sum of local exclusions by \(4\sum_{j>10^5}1/(j(j-1))=4/10^5\).
+The unknown pointwise case requires both the surviving primes in \(a-1,a,a+1\) and the possible primes exceeding the delay.
+Test how a candidate with \(R/\log a\to\infty\) can satisfy the norm inequalities when its prime support is distributed among different adjacent integers.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 

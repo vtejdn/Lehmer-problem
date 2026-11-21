@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v869](Yin_R_G0562_v869.md#finding) checks the perfect-power norm obstruction and the relative prime density of prime-square seeds preserving irreducibility at every delay.
+
+- [R562 v868](Yin_R_G0562_v868.md#finding) checks the coset distribution for Frobenius lifts, the ramified local calculation and the symmetric-group construction over the prescribed finite range.
+
 - [R562 v867](Yin_R_G0562_v867.md#finding) checks the relative height bound across ramified places, nonintegral inputs and abelian extensions of bounded exponent.
 
 - [R562 v866](Yin_R_G0562_v866.md#finding) checks the cubic estimate on abelian subfield degree at small total measure and the Frobenius weights for nonabelian normal subfields.

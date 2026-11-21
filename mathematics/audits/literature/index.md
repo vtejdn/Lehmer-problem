@@ -30,6 +30,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BBL09](BBL09/readme.md) | [Yin_U001](BBL09/Yin_U001.md) |
 | [BCCT08](BCCT08/readme.md) | [Geometric Brascamp–Lieb data and the Gaussian projection inequality](BCCT08/Yin_U001.md#geometric-data) |
 | [BCP82](BCP82/readme.md) | [Order bound with restricted composition factors](BCP82/Yin_U001.md#composition-factors) |
+| [BDGY21](BDGY21/readme.md) | [Principal angles between cluster subspaces and comparison with time-coordinate leverage](BDGY21/Yin_U001.md#cluster-angles) |
 | [BDM07](BDM07/readme.md) | [Yin_U001](BDM07/Yin_U001.md) |
 | [BGH21](BGH21/readme.md) | Source and edition notes |
 | [BGMP24](BGMP24/readme.md) | [Yin_U001](BGMP24/Yin_U001.md) |
