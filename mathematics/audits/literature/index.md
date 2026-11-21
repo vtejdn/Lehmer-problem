@@ -39,6 +39,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BK21](BK21/readme.md) | [Yin_U001](BK21/Yin_U001.md) |
 | [BKT04](BKT04/readme.md) | [Yin_U001](BKT04/Yin_U001.md) |
 | [BL02](BL02/readme.md) | [Yin_U001](BL02/Yin_U001.md) |
+| [BL96](BL96/readme.md) | [Two powers of independent local units](BL96/Yin_U001.md#bl96-u001) |
 | [BMZ07](BMZ07/readme.md) | [Bounded character relation](../../claims/Yin_C_G0345_v236.md#source) |
 | [BR06](BR06/readme.md) | [Yin_U001](BR06/Yin_U001.md) |
 | [BR10](BR10/readme.md) | [Yin_U001](BR10/Yin_U001.md), [Yin_U002](BR10/Yin_U002.md) |

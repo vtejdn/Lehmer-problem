@@ -1,5 +1,19 @@
 # Reviews Index
 
+- [R562 v969](Yin_R_G0562_v969.md#finding) Independent reproduction of the finite trace-contact survey through 50,000.
+
+- [R562 v968](Yin_R_G0562_v968.md#finding) A section-only irreducibility certificate, its uniform growth threshold and an exact test on a degree-fourteen section.
+
+- [R562 v967](Yin_R_G0562_v967.md#finding) The unique close pair at a resonant triple root and the bound of nine contributing primes.
+
+- [R562 v966](Yin_R_G0562_v966.md#finding) Simultaneous prime-size and residue-order cutoffs at all primes.
+
+- [R562 v965](Yin_R_G0562_v965.md#finding) Large rational primes in dyadic denominators on a fixed ray.
+
+- [R562 v964](Yin_R_G0562_v964.md#finding) Eight integer invariant factors and descent of the square test to each trace residue field.
+
+- [R562 v963](Yin_R_G0562_v963.md#finding) Degree-eighteen branch values and resonant cubic disks.
+
 - [R562 v962](Yin_R_G0562_v962.md#finding) Uniform field discriminant exponents and the allocation of odd critical contacts to individual factors.
 
 - [R562 v961](Yin_R_G0562_v961.md#finding) A large prime at each pole for each factor and distinct split primes when the degree dominates the pole exponent.

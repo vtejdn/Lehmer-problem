@@ -50,10 +50,16 @@ A complementary resultant on this sequence is [prime to \(2,5,7,11,17\) and has 
 At 13 and 19 the [second slope digit](../claims/Yin_C_G0345_v815.md#statement) bounds the valuation except in specified residue classes.
 At these two primes, [six fixed \(p\)-adic slopes](../claims/Yin_C_G0345_v816.md#statement) determine the valuation whenever it exceeds two.
 For larger primes the [fixed-prime density bound](../claims/Yin_C_G0345_v813.md#statement) controls how often a common residue is possible.
-For every fixed \(0<\epsilon<1/17\), [all primes up to \(l^{1/17-\epsilon}\)](../claims/Yin_C_G0345_v819.md#factor) together contribute \(o(d)\) to the logarithm of the complementary resultant, including the exceptional directions at 13 and 19.
-For a factor of degree \(d=o(l)\), primes above this cutoff must therefore supply at least \((1-o(1))d\log(l/d)\).
-At good primes, bound the total contribution of even critical valuations with square unit residue where the two branches can belong to different rational factors.
-Above the same cutoff, control separately the contribution of primes dividing the degree-56 exceptional form.
+For a factor of degree \(d=o(l)\), [contacts with both \(p>l^{1/9-\epsilon}\) and residue order \(>l^{1/3-\epsilon}\)](../claims/Yin_C_G0345_v825.md#statement) must supply at least \((1-o(1))d\log(l/d)\) for each fixed \(0<\epsilon<1/9\).
+The estimate uses the actual residue order and holds even in the exceptional congruence classes at 13 and 19.
+The [eight invariant factors of the critical octic](../claims/Yin_C_G0345_v823.md#statement) bound the ordinary contributions away from the degree-56 form before the section is factored.
+Estimate the product of their even-exponent parts and test splitting over the trace residue field.
+The [survey of 905 directions](../computations/programs/Yin_J_G0184/readme.md#trace-survey) finds one locally split trace contact at good primes through 50,000, on a section already known to be rationally irreducible.
+Outside a fixed finite set of primes, all ordinary double disks obey the quadratic test, including at divisors of the original exceptional form where the [logarithmic slope is unramified](../claims/Yin_C_G0345_v822.md#statement).
+Outside [at most nine primes whose squares divide the degree-18 branch form](../claims/Yin_C_G0345_v826.md#statement), triple disks contribute only \(o(d\log(l/d))\).
+For those primes, test the discriminant of the close pair in the scaled cubic and bound the contribution if its two roots belong to different factors.
+Use the [trace discriminant and eight critical integers](../claims/Yin_C_G0345_v827.md#statement) to test irreducibility of the whole section.
+Seek an infinite sequence on which their upper bound has logarithm \(o(l(\log\log l)^4/(\log l)^3)\), or identify the prime powers that preclude this estimate.
 At good primes, [odd critical valuations](../claims/Yin_C_G0345_v821.md#allocation) put both branches in one factor and account for its good-prime field discriminant, forcing a good ramified prime of size \(\gg d\) for every factor.
 For even \(k\), [squaring the section roots](../claims/Yin_C_G0345_v817.md#statement) preserves the absolute complementary resultant and each individual power-basis order.
 The [signed orbit](../claims/Yin_C_G0345_v806.md#products) determines the exact degree of \(M(S)\), and the [signed sampling law](../claims/Yin_C_G0345_v807.md#statement) determines its height asymptotics and circle count for every candidate signature.
@@ -68,7 +74,8 @@ Pursue constraints with growing term count or a direct degree bound on an actual
 If the Mahler measure of an unrestricted reciprocal least-degree witness has [relative degree at most \(d^{2-\epsilon}\)](../claims/Yin_C_G0345_v804.md#statement) over the maximal abelian extension, its exterior signature is Salem or has a single reversed real root in a full block.
 In the reversed case, [dyadic evaluations of the oriented polynomial](../claims/Yin_C_G0345_v809.md#statement) force \(2^s\) distinct fractional ideals supported only above split primes of the totally real block field, for each \(s\).
 For every fixed \(s\), [the fractional ideals of \(s\) consecutive dyadic ratios](../claims/Yin_C_G0345_v818.md#rank) are multiplicatively independent once the first argument is sufficiently large and the log measure is below \(\log 2\).
-Test the smaller arguments, where this independence bound still permits a collision that would produce a smaller-degree relative unit of strictly smaller positive measure.
+For each fixed witness, [large rational primes supply almost all denominator mass](../claims/Yin_C_G0345_v824.md#statement) at almost every index of a long dyadic interval, with the prime cutoff any fixed multiple of the interval length.
+Test the smaller arguments, where the independence bound still permits a collision that would produce a smaller-degree relative unit of strictly smaller positive measure.
 The [simultaneous digit relations](../claims/Yin_C_G0345_v782.md#statement) supply high-rank differences on dense masks, but positive rate at dimension proportional to the inverse measure already requires each coordinate length to be at least of order degree divided by measure.
 At this side length [separate line entropies](../claims/Yin_C_G0345_v786.md#statement) overcount by a factor growing at least logarithmically in the dimension, and a [Gaussian estimate with the full covariance](../claims/Yin_C_G0345_v787.md#statement) also loses that scale.
 The [size of the largest joint fiber](../claims/Yin_C_G0345_v791.md#statement) now rules out positive entropy per site on any fixed-density mask when the side length is a fixed multiple of dimension times degree.

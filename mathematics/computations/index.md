@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J184, good-prime trace contacts](programs/Yin_J_G0184/readme.md#trace-survey) checks the octic square bound and the trace-field splitting criterion in 905 primitive directions through the prime cutoff 50,000, with [independent reproduction](../audits/reviews/Yin_R_G0562_v969.md#finding).
+
 - [J184, common factor residues](programs/Yin_J_G0184/readme.md#sieve) gives the exact common zero sets for 85 projective slopes at the first eight primes, with the [independent computation review](../audits/reviews/Yin_R_G0562_v954.md#digits).
 
 - [J183, rational factors of quadratic sections](programs/Yin_J_G0183/readme.md#census) gives exact exterior-root counts for 2,292 irreducible coprime sections and excludes [all torsion points on the curve](programs/Yin_J_G0183/readme.md#torsion).

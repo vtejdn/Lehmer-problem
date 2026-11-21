@@ -45,3 +45,36 @@ The auxiliary equation \(WUV=1\) restricts the calculation to the torus.
 For empty cases the program checks that the basis is \(\{1\}\).
 For each surviving case it checks that powers of the two displayed point equations belong to the computed ideal and that each original equation vanishes after substitution into the squarefree univariate quotient defining the listed points.
 These checks verify both inclusions of geometric supports, including the nonreduced ideals at 5.
+
+<a id="trace-survey"></a>
+## Good-prime trace contacts through 50,000
+
+For \(1\le k\le16\) and \(k<\ell\le100\) with \(\gcd(k,\ell)=1\), the [octic square bound](../../../claims/Yin_C_G0345_v823.md#statement) restricted to the good primes \(p\le50{,}000\) equals one in 902 of the 905 directions with nonzero exceptional form.
+In the other three directions it equals \(19^2\), and the [trace-field square test](../../../claims/Yin_C_G0345_v823.md#descent) leaves only \((4,53)\).
+There are 906 primitive directions before the exclusion of \((6,7)\), where the exceptional form vanishes.
+The following table lists every positive even contact in the range, with its section trace residue \(q=x+x^{-1}\), its valuation \(b\), and a representative of the radicand's unit squareclass in the residue field.
+
+| \((k,\ell)\) | \(p\) | \(q\bmod p\) | \(b\) | Unit in \(\mathbb F_p\) | Two trace branches over \(\mathbb Q_p\) |
+| --- | --- | --- | --- | --- | --- |
+| \((2,21)\) | 19 | 11 | 2 | 2 | No |
+| \((4,53)\) | 19 | 6 | 2 | 9 | Yes |
+| \((8,11)\) | 19 | 8 | 2 | 12 | No |
+
+In the first and last rows, the quadratic equation for an orientation has discriminant \(q^2-4\) congruent to 3, a nonsquare modulo 19.
+The two trace nonsquares become squares in that quadratic residue extension.
+The [rational factor census](../Yin_J_G0183/readme.md#census) proves irreducibility in all three cases, including the one whose trace branches split locally.
+The finite survey leaves contributions above 50,000 and at primes of bad reduction undetermined.
+
+Run `python mathematics/computations/programs/Yin_J_G0184/trace_survey.py` with SymPy 1.14.0 from the repository root.
+The [survey program](trace_survey.py) tests all 5,133 primes through 50,000 using the exact integer discriminant of the monic trace polynomial \(Q\), where \(P(X)=X^{2k+\ell}Q(X+X^{-1})\).
+It constructs \(Q=10C_\ell+C_{2k+\ell}+C_{|2k-\ell|}-7C_{k+\ell}+7C_{|k-\ell|}+1\), using \(C_n(X+X^{-1})=X^n+X^{-n}\).
+This follows by expanding \(X^{-2k-\ell}P(X)\) in inverse pairs.
+At each good prime a repeated trace residue is a double root: a section endpoint cannot be multiple there since that would give a critical point with \(U=\pm1\), excluded by the [good octic reconstruction](../../../claims/Yin_C_G0345_v812.md#elimination).
+Indeed a simple or repeated trace root at an endpoint would make that endpoint multiple in the section.
+Away from endpoints the trace parameter has unit derivative in the section coordinate, so each repeated trace orbit of degree \(f\) contributes exactly \(fb\) to \(v_p(\operatorname{disc}Q)\) by the local quadratic equation, and distinct residue disks give unit cross differences.
+Thus every positive even contact requires \(p^2\mid\operatorname{disc}Q\).
+The program removes primes dividing the exact exceptional form and factors \(\gcd(Q,Q')\bmod p\) at the remaining candidate primes.
+For each linear repeated residue it lifts the unique zero \(z\) of \(Q'\) in its disk using the unit \(Q''(z)\), computes \(b=v_p(Q(z))\), and tests the squareclass of \(-2p^{-b}Q(z)/Q''(z)\) when \(b\) is even.
+Taylor expansion at \(z\) and a unit square-root change of parameter give this radicand, and twice the valuation of the difference between the two roots recovers the contact \(b\).
+A higher-degree repeated factor contributes at least its degree to the discriminant valuation.
+In every candidate case the known linear contributions plus these degree lower bounds sum to the exact discriminant valuation, certifying \(b=1\) for every higher-degree repeated factor encountered.
