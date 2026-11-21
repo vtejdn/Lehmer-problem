@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v981](Yin_R_G0562_v981.md#finding) One-prime approximation to the smallest trace factor degree and its relative density in each residue class.
+
+- [R562 v980](Yin_R_G0562_v980.md#finding) Two-prime recovery of the smallest trace factor degree and the four-prime success density.
+
+- [R562 v979](Yin_R_G0562_v979.md#finding) Quadratic characters of the critical coordinates and Frobenius exclusions at good primes.
+
+- [R562 v978](Yin_R_G0562_v978.md#finding) Large exceptional primes away from rational slopes on almost every direction in the steep interval.
+
+- [R562 v977](Yin_R_G0562_v977.md#finding) Reduced denominator norms after cancellation among the first dyadic evaluations.
+
 - [R562 v976](Yin_R_G0562_v976.md#finding) Complete trace discriminant factorizations and local splitting tests in seventeen primitive directions.
 
 - [R562 v975](Yin_R_G0562_v975.md#finding) Averaged cutoff estimates for the trace discriminant certificate and actual complementary contacts.

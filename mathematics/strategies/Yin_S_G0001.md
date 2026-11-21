@@ -33,6 +33,10 @@ The [simultaneous approximation bound](../claims/Yin_C_G0345_v792.md#statement) 
 The [whole-section count](../claims/Yin_C_G0345_v793.md#statement) gives exactly \(2k\) exterior roots for \(l\ge2k\), and every one of the [2,292 computed sections](../computations/programs/Yin_J_G0183/readme.md#census) is irreducible over the rationals.
 The [two normalized pole counts](../claims/Yin_C_G0345_v794.md#growth) and [polar expansions](../claims/Yin_C_G0345_v793.md#statement) give \(k\,m(S)/H\to\tfrac12\log(\beta_3\beta_4)\), where \(H\) counts the exterior roots of an irreducible factor \(S\) and \(\beta_j=(j+\sqrt{j^2+4})/2\).
 Test whether every rational factor carries a positive fraction of the \(2k\) exterior roots, including factors with \(H\to\infty\) and \(H/k\to0\) as possible counterexamples.
+The [minimum trace degree](../claims/Yin_C_G0345_v837.md#statement) is exactly the best lower bound attainable from two modular factor-degree lists at sufficiently steep primitive directions.
+Seek explicit directions on which modular degrees exclude every trace factor of size \(o(l)\), and compare the resulting lower bounds with the exterior counts.
+If the smallest degree is at least a fixed positive fraction of \(l\), a proportion at least \((\log l)^{-H}\) of the primes in every invertible residue class [certify a linear lower bound individually](../claims/Yin_C_G0345_v838.md#measure), for some fixed \(H>0\).
+If the section is irreducible, [four auxiliary primes](../claims/Yin_C_G0345_v837.md#four-primes) certify it with density tending to one as the degree grows, taking prime densities separately at each fixed direction.
 For every sufficiently steep section in this regime the [trace field of each factor](../claims/Yin_C_G0345_v805.md#factors) has no proper intermediate field over the rationals.
 At every prime the degree of the [common divisor with the derivative](../claims/Yin_C_G0345_v805.md#reduction) is at most 16.
 [Products involving a fixed number of distinct inverse pairs](../claims/Yin_C_G0345_v799.md#statement) have diverging log measure as soon as two pairs occur, even when their exponents vary.
@@ -66,7 +70,9 @@ Use the [trace discriminant and eight critical integers](../claims/Yin_C_G0345_v
 Seek an infinite sequence on which their upper bound has logarithm \(o(l(\log\log l)^4/(\log l)^3)\), or identify the prime powers that preclude this estimate.
 On a [separate sequence of primitive directions](../claims/Yin_C_G0345_v829.md#statement), a squarefree template excludes all primes up to \(c\log l\) exactly from the certificate.
 On the explicit family \(l=hk+1\) above, the [averaged estimate](../claims/Yin_C_G0345_v833.md#statement) discards only \(O(M\log M)\) of the certificate's logarithm outside \(O(M/\log M)\) directions.
-For these directions, bound the remaining terms at good primes \(p>M^{1/5}\) and exceptional primes \(p>M^{2/9}\) whose selected disks include a residue of order greater than \(M^{1/2}\).
+At good primes \(p>M^{1/5}\), bound the remaining disks of order greater than \(M^{1/2}\), starting with those that pass the [quadratic character tests on both coordinates](../claims/Yin_C_G0345_v836.md#statement).
+When Frobenius exchanges the two orientations, the prime cutoff for those contacts rises to \(M^{2/9}\).
+At [exceptional primes](../claims/Yin_C_G0345_v834.md#statement), the remaining terms have \(p>M\) and residue order \(>C_F M\), and the prime must divide a nonlinear factor of the exceptional form without dividing any rational linear factor.
 The [complete trace discriminant factorizations](../computations/programs/Yin_J_G0184/readme.md#full-squares) give squarefree discriminants in ten of seventeen small directions and remove the entire square divisor \(19^2 47^2\) in direction \((2,21)\) after distinguishing the trace orbits and their squareclasses.
 At good primes, [odd critical valuations](../claims/Yin_C_G0345_v821.md#allocation) put both branches in one factor and account for its good-prime field discriminant, forcing a good ramified prime of size \(\gg d\) for every factor.
 For even \(k\), [squaring the section roots](../claims/Yin_C_G0345_v817.md#statement) preserves the absolute complementary resultant and each individual power-basis order.
@@ -84,7 +90,8 @@ In the reversed case, [dyadic evaluations of the oriented polynomial](../claims/
 For every fixed \(s\), [the fractional ideals of \(s\) consecutive dyadic ratios](../claims/Yin_C_G0345_v818.md#rank) are multiplicatively independent once the first argument is sufficiently large and the log measure is below \(\log 2\).
 For each fixed witness, [large rational primes supply almost all denominator mass](../claims/Yin_C_G0345_v824.md#statement) at almost every index of a long dyadic interval, with the prime cutoff any fixed multiple of the interval length.
 At the fixed argument two the [reduced denominator norm](../claims/Yin_C_G0345_v830.md#statement) grows at least as \(\max\{m^{-2},2^u/m\}\) up to an absolute constant, where \(m\) is the log measure and \(u\) the number of blocks.
-Test whether the split prime powers providing this mass at two can also satisfy the constraints at the next few arguments.
+The [mixed dyadic bound](../claims/Yin_C_G0345_v835.md#statement) forces the reduced denominator norm of \(w(2)^2/w(4)\) to be \(\gg 2^{2u}m^{-2}\) even after cancellation.
+Test whether multiplicities at the same split primes can supply these norms for products involving progressively more arguments.
 The [simultaneous digit relations](../claims/Yin_C_G0345_v782.md#statement) supply high-rank differences on dense masks, but positive rate at dimension proportional to the inverse measure already requires each coordinate length to be at least of order degree divided by measure.
 At this side length [separate line entropies](../claims/Yin_C_G0345_v786.md#statement) overcount by a factor growing at least logarithmically in the dimension, and a [Gaussian estimate with the full covariance](../claims/Yin_C_G0345_v787.md#statement) also loses that scale.
 The [size of the largest joint fiber](../claims/Yin_C_G0345_v791.md#statement) now rules out positive entropy per site on any fixed-density mask when the side length is a fixed multiple of dimension times degree.
