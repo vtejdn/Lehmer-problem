@@ -53,6 +53,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BV20](BV20/readme.md) | [Yin_U001](BV20/Yin_U001.md), [Yin_U002](BV20/Yin_U002.md), [Yin_U003](BV20/Yin_U003.md) |
 | [BZ01](BZ01/readme.md) | [Canonical Newton polygon](BZ01/Yin_U001.md#bz01-u001) |
 | [BZ01b](BZ01b/readme.md) | The height lower bound for normal fields of finite local degree. |
+| [BZ02](BZ02/readme.md) | [Uniform count of square values in a translated arithmetic progression](BZ02/Yin_U001.md#bz02-u001) |
 | [BZ22](BZ22/readme.md) | [Yin_U001](BZ22/Yin_U001.md) |
 | [Bab18](Bab18/readme.md) | [Alternating sections and thickness of primitive groups](Bab18/Yin_U001.md#thickness) |
 | [Bel17](Bel17/readme.md) | [Yin_U001](Bel17/Yin_U001.md), [Yin_U002](Bel17/Yin_U002.md) |

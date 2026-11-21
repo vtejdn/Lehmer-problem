@@ -42,6 +42,9 @@ A probability of order \(\sqrt{\log d/d}\) at a fixed prime and residue power al
 For varying primes use the [powered Frobenius determinant](../claims/Yin_C_G0345_v731.md#powers) with the actual exponent cost \(p^k\).
 If the exponent of the trace closure group modulo its center divides a fixed \(b\), the [ramification average in the trace field](../claims/Yin_C_G0345_v734.md#growth) forces \(m\gg_b(d\log(2d))^{1/(b+1)}\) at every height.
 For the remaining trace actions test the aggregate coset probabilities of short powers on one prime interval or the [joint residue-order sum](../claims/Yin_C_G0345_v730.md#statement), which charges all eligible primes against one height bound.
+The [index of the trace order](../claims/Yin_C_G0345_v735.md#statement) bounds the total cost of residue collisions across those primes, including collisions among distinct residue embeddings at every ramification depth.
+A maximal trace order forces each residue bin to contain at most one component in the chosen grouping.
+When the trace index is small, compare the remaining nonidentity cosets or the full multiplicative orders with the height bound.
 For fixed measure bound \(B\) the [consecutive-trace count](../claims/Yin_C_G0345_v704.md#statement) permits any fixed number of exterior roots, and a [quadratic-length recurrence](../claims/Yin_C_G0345_v706.md#statement) gives \(\exp(o(d))\) polynomials at degree \(d\) even when their number is \(o(\sqrt{d/\log d})\).
 
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
@@ -276,6 +279,10 @@ In particular the mean square of the actual neutral power sums, normalized by \(
 A second sufficient test uses the [boundary logarithm](../claims/Yin_C_G0345_v733.md#bridge) of the Salem minimal polynomial \(P\).
 Positive limiting frequency of near-zero eigenvalues forces \(\log M(P^2+X^d)\to\infty\).
 Seek one bounded power-sum window, beginning with \(H=d\), or an upper bound on this integer polynomial's measure for the candidates with small Frobenius probabilities.
+A [bounded number of short sparse polynomials](../claims/Yin_C_G0345_v737.md#statement) can be small on only a vanishing fraction of conjugates, even if their complex coefficients and tested subsets vary with the input.
+Here the coefficients have unit Euclidean norm, the lowest exponent is shifted to zero, and each span \(W\) satisfies \(Wm/d\to0\).
+The [finite sublevel bound](../claims/Yin_C_G0345_v738.md#statement) also tests growing collections by summing their individual error terms.
+For a positive fraction of neutral directions, seek relations at span comparable to \(d/m\) or control the number of terms and witnesses as they grow.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
@@ -363,8 +370,10 @@ At [every perfect-power seed](../claims/Yin_C_G0345_v729.md#statement) \(a=b^k\)
 There is a positive relative density among primes \(p\) such that at \(a=p^2\) this excludes the dyadic part of the index, and the other seed and delay restrictions exclude every remaining prime at every delay.
 The explicit prime subset has density between \(0.46176\) and \(0.46179\) by truncating its Euler product at \(10^5\) and bounding the omitted sum of local exclusions by \(4\sum_{j>10^5}1/(j(j-1))=4/10^5\).
 For every fixed \(b,k\ge1\) and integer \(c\), the [polynomial parameter estimate](../claims/Yin_C_G0345_v732.md#statement) excludes almost all prime seeds \(a=bp^k+c\) from an all-delay shrinking construction.
-For every positive \(f(p)=o(\log p)\), all their noncyclotomic factor measures after every dilation exceed \(f(p)\) on a set of relative prime density one.
+For every positive \(f(p)=o(\log p)\), the logarithmic Mahler measures of all their noncyclotomic factors after every dilation exceed \(f(p)\) on a set of relative prime density one.
 This uses the logarithmic cutoff on index primes together with the square factors in the three adjacent seed values.
+At any single delay, among \(H\) consecutive seeds at most \(O(H^{3/5}(\log(2H))^C)\) admit a square field radical for either sign, uniformly in the start of the interval.
+The [two-parameter estimate](../claims/Yin_C_G0345_v736.md#rectangles) also controls windows with varying delay.
 The pointwise case still requires the surviving primes in \(a-1,a,a+1\) and the possible primes exceeding the delay.
 Test how a candidate with \(R/\log a\to\infty\) can satisfy the norm inequalities when its prime support is distributed among different adjacent integers.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).

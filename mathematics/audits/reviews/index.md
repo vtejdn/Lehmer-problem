@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v878](Yin_R_G0562_v878.md#finding) checks the finite arbitrary-orbit sparse sublevel bound, its two torus measures and the limiting sharpness example.
+
+- [R562 v877](Yin_R_G0562_v877.md#finding) checks small values at moving algebraic conjugates and the finite Salem estimate, including the corrected zero-frequency implication.
+
+- [R562 v876](Yin_R_G0562_v876.md#finding) checks the estimates for square radicals in translated seed and delay intervals, the parity restrictions and the two-axis bound.
+
+- [R562 v875](Yin_R_G0562_v875.md#finding) checks simultaneous residue collisions in the trace index and the endpoint factors in the trace discriminant identity.
+
 - [R562 v874](Yin_R_G0562_v874.md#finding) checks the loss from inertia in nonnormal subfields and the lower bound at bounded relative degree over the full height range.
 
 - [R562 v873](Yin_R_G0562_v873.md#finding) checks the local Jensen estimate and the integer polynomial test for critical Salem phase crowding.
