@@ -21,7 +21,9 @@ Other routes remain available for autonomous reassessment; their current priorit
 
 The [individual height formula](../claims/Yin_C_G0345_v769.md#statement) reduces the construction on a fixed plane curve to finding a nontorsion irreducible factor of degree \(o(W)\), where \(W\) is the exponent span of the section.
 Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
-At the surviving real poles compare actual factors across unbounded primitive directions, including directions outside the prime-index families already excluded.
+For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_G0345_v789.md#example), the ordinary sections \(F(X,X^n)\) have one noncyclotomic factor for all sufficiently large \(n\).
+Test whether a factor with two exterior conjugates can persist on \(F(X^k,X^l)\) for coprime \(k,l\) with \(k\to\infty\) and \(l/k\to\infty\).
+The [radial bound](../claims/Yin_C_G0345_v776.md#statement) would give such unit factors positive log measure \(O(1/k)\); in the opposite direction, prove a lower bound on the number of exterior conjugates of every factor as \(k\) grows.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
 For Salem candidates first apply the [powered edge-root and branch-orbit test](../claims/Yin_C_G0345_v785.md#statement), then investigate degrees of the actual irreducible factors on any surviving ray.

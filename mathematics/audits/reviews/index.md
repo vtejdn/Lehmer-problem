@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v930](Yin_R_G0562_v930.md#finding) Factor degrees and eventual uniqueness on ordinary sections of a plane curve.
+
 - [R562 v929](Yin_R_G0562_v929.md#finding) Signed lifts of binary relations and the joint collision probability.
 
 - [R562 v928](Yin_R_G0562_v928.md#finding) Integral kernel covolume and the full-covariance Gaussian bound.
