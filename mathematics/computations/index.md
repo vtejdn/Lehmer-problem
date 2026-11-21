@@ -1,5 +1,9 @@
 # Computations Index
 
+- [J185, classification through primitive degree 44](programs/Yin_J_G0185/short_one.md#classification) finds exactly one sextic up to sign when \(u=1\) and \(q\ge2\), over every long exponent and common dilation, with a [review of the finite reduction and factor search](../audits/reviews/Yin_R_G0562_v1030.md#finding).
+
+- [J185, units in four-term sections with consecutive coefficients](programs/Yin_J_G0185/readme.md) exhibits a sextic Salem factor at \(q=2\), excludes the classical Lehmer unit for all heights and exponents, and finds the sole occurrence among 72 small Salem inputs, with [independent reproduction](../audits/reviews/Yin_R_G0562_v1029.md#finding).
+
 - [J184, deep horizontal critical coordinates](programs/Yin_J_G0184/readme.md#horizontal-depth) finds two primes through one million and realizes unbounded root-distance valuations on steep sections at 8447, with [independent reproduction](../audits/reviews/Yin_R_G0562_v991.md#finding).
 
 - [J184, base primes of signed Frobenius powers](programs/Yin_J_G0184/readme.md#frobenius-primes) determines every repeated trace residue and its discriminant contribution for \(k=p^a,\ l=p^b\pm1\), with [independent reproduction](../audits/reviews/Yin_R_G0562_v989.md#finding).

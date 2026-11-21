@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v1030](Yin_R_G0562_v1030.md#finding) checks the short-exponent-one classification through primitive degree 44 and independently reproduces the finite search at \(q=2,3\) in the trace variable.
+
+- [R562 v1029](Yin_R_G0562_v1029.md#finding) independently checks the Lehmer exclusion, the 72 Salem inputs and the [degree-six factor at coefficient height two](Yin_R_G0562_v1029.md#witness).
+
 - [R562 v1028](Yin_R_G0562_v1028.md#finding) checks the odd cofactor, binary multiplicities, the Frobenius and inversion orbits, and the exclusion for almost all prime cofactors at the stated coefficient heights.
 
 - [R562 v1027](Yin_R_G0562_v1027.md#finding) checks the discriminant bound for clustered exterior roots and the count of possible primitive directions for consecutive integer coefficients.
