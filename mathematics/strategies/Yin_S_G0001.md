@@ -291,7 +291,10 @@ For any fixed number of terms, [a positive density of sufficiently small relativ
 For Salem conjugates a [four-term witness](../claims/Yin_C_G0345_v743.md#statement) must eventually have support \(0,a,b,a+b\) and satisfy an exact reciprocal equation with a seed \(B>1\) in a fixed set in the trace fields.
 Its short and long exponents satisfy \(am-\log B\to0\) and \(bm/d-h(B)\to0\).
 Moreover [every radical polynomial](../claims/Yin_C_G0345_v746.md#statement) \(X^k-B\) with \(k\mid a\) must remain irreducible over the Salem root field, even at \(k=a\).
-Test the arithmetic of the remaining two exponents and the exact equation at each seed.
+The [common exponent bound](../claims/Yin_C_G0345_v747.md#statement) gives a fixed integer divisible by \(\gcd(a,b)\) times the root-field radical index, so the reduced denominator of \(b/a\) must tend to infinity.
+For [two separated progressions of bounded length](../claims/Yin_C_G0345_v748.md#statement), the exact relation has the form \(\alpha^b=R(\alpha^a)\) for a reciprocal rational function over the trace field.
+One irreducible pole polynomial accounts for its entire limiting height, and [the field radical bound](../claims/Yin_C_G0345_v749.md#statement) applies to this fixed graph without any additional height assumption.
+Investigate the primitive specializations of these graphs at increasing reduced denominators.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.

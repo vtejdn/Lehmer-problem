@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v889](Yin_R_G0562_v889.md#finding) checks the fixed rational graph bound on field radicals as the exponent slope increases, including power-related poles.
+
+- [R562 v888](Yin_R_G0562_v888.md#finding) checks reflection on two exponent progressions, the full height limit, and irreducibility at each fixed substitution.
+
+- [R562 v887](Yin_R_G0562_v887.md#finding) checks the uniform bound on the common dilation and on the radical index in the four-term Salem equation.
+
 - [R562 v886](Yin_R_G0562_v886.md#finding) checks radical degrees at every divisor of the short Salem exponent and the trace-field classification.
 
 - [R562 v885](Yin_R_G0562_v885.md#finding) checks the graph intersection and small-value bounds for an exponent progression with one outlier.
