@@ -76,9 +76,11 @@ Use the [trace discriminant and eight critical integers](../claims/Yin_C_G0345_v
 Seek an infinite sequence on which their upper bound has logarithm \(o(l(\log\log l)^4/(\log l)^3)\), or identify the prime powers that preclude this estimate.
 On a [separate sequence of primitive directions](../claims/Yin_C_G0345_v829.md#statement), a squarefree template excludes all primes up to \(c\log l\) exactly from the certificate.
 On the explicit family \(l=hk+1\) above, the [averaged estimate](../claims/Yin_C_G0345_v833.md#statement) discards only \(O(M\log M)\) of the certificate's logarithm outside \(O(M/\log M)\) directions.
-At good primes \(p>M^{1/5}\), bound the remaining disks of order greater than \(M^{1/2}\), starting with those that pass the [quadratic character tests on both coordinates](../claims/Yin_C_G0345_v836.md#statement).
-When Frobenius exchanges the two orientations, the prime cutoff for those contacts rises to \(M^{2/9}\).
-At [exceptional primes](../claims/Yin_C_G0345_v834.md#statement), the remaining terms have \(p>M\) and residue order \(>C_F M\), and the prime must divide a nonlinear factor of the exceptional form without dividing any rational linear factor.
+At good primes the [simultaneous slope estimate](../claims/Yin_C_G0345_v847.md#statement) leaves only \(p>\sqrt M\) with a critical residue of order \(>\sqrt M\) on the same family.
+Estimate those prime powers that pass the [quadratic character tests on both coordinates](../claims/Yin_C_G0345_v836.md#statement).
+At [exceptional primes](../claims/Yin_C_G0345_v834.md#statement), the remaining terms have \(p>M\) and residue order \(>C_F M\), and the prime divides a nonlinear factor of the exceptional form without dividing a rational linear factor.
+On the larger box \(M\le k<2M,\ Mh\le l<2Mh\), the [full discriminant estimates](../claims/Yin_C_G0345_v849.md#box) put all but \(o(d)\) of the weight above \(M\sqrt h\) at good primes or \(M^2h\) at exceptional primes, outside \(O(M^2h/\log M)\) primitive directions, for every irreducible factor degree \(d\).
+The [three-center formula](../claims/Yin_C_G0345_v848.md#centers) includes cubic contacts even when two local roots approach more closely than the valuation of the branch form alone predicts.
 For a short exponent \(k=p^a\), the [horizontal critical units](../claims/Yin_C_G0345_v844.md#statement) exclude every contact at \(p\) for all \(l\) prime to \(p\) throughout a Frobenius set of density \(5/32\), up to finitely many primes.
 When \(l=p^b\pm1\), the [complete base-prime calculation](../computations/programs/Yin_J_G0184/readme.md#frobenius-primes) rules out a shared trace residue between complementary rational factors at every \(p\).
 For \(k=p^a,\ l=k^2+1\) the trace has a repeated root at the base prime precisely when \(p=79\), and then the trace discriminant has valuation one there.

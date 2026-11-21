@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v996](Yin_R_G0562_v996.md#finding) Full exceptional-prime discriminant weights and the two cutoffs on steep boxes.
+
+- [R562 v995](Yin_R_G0562_v995.md#finding) Three fixed slope centers for cubic contacts, including resonant disks.
+
+- [R562 v994](Yin_R_G0562_v994.md#finding) Ordinary discriminant weights over projective residue slopes and the square-root prime cutoff.
+
 - [R562 v992](Yin_R_G0562_v992.md#finding) Horizontal discriminant weights, two slope centers per deep disk and the rectangle exceptional count.
 
 - [R562 v991](Yin_R_G0562_v991.md#finding) Horizontal depths through one million and arbitrarily close local pairs at 8447 on steep primitive directions.
