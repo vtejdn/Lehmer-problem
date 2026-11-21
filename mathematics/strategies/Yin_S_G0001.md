@@ -301,10 +301,16 @@ For the positive sign and \(12\mid n-1\), the two orders 3 and 4 already guarant
 A shrinking sequence in this family must send both the delay and the seed to infinity, stay below the small-factor seed threshold and, outside the divisibility exception, satisfy \(H(a)/\log a\to\infty\).
 At most [two primes above the delay](../claims/Yin_C_G0345_v705.md#statement) can divide one index, and if two occur then both are below 1500.
 For each such pair the [finite-field inverse-power test](../claims/Yin_C_G0345_v708.md#statement) is independent of the size of the seed interval and has at most six integral candidates per reduced polynomial.
+The [factorwise Frobenius orbit counts](../claims/Yin_C_G0345_v709.md#statement) handle exceptional multiplicative orders and repeated roots in the reduction.
+The [complete exclusion at 59](../claims/Yin_C_G0345_v710.md#statement) shows that the smaller prime in any such pair must be at least 61.
+It uses 47 larger-order and 16 smaller-order tests, covering every integer seed.
 For every \(p\ge1500\) above the delay and dividing \(R\), the complementary factor \(R/p\) divides \(H(a)\).
 If the full log measure tends to zero on this range, \(R/p\) must grow faster than \(\log p\) and is \(O((\log p)^4/(\log\log p)^3)\).
-Bound this complementary factor using the restrictions from the smaller primes at the same seed.
-An index \(q\) with \(\log(r^{1/q})\to0\) must have \(q/p^{v_p(q)}\to\infty\) uniformly in \(p\mid q\), even though each single prime power satisfies the gap.
+For a divisor \(\ell^e\parallel q\) with \(\ell\le n\), write \(D_\ell=\operatorname{lcm}_{1\le j\le d/2}(\ell^j-1,\ell^j+1)\) and \(t=q/\ell^e\).
+On every shrinking sequence the [mixed-index bound](../claims/Yin_C_G0345_v711.md#statement) requires \(\gcd(t,D_\ell)\to\infty\) for every such prime, uniformly over the choices at each term.
+For a complementary prime power \(p^f\) this restores the full gap whenever the order of \(\ell\bmod p\) is even and exceeds \(d\), or is odd and exceeds \(d/2\).
+Prioritize the remaining mixed indices where this gcd grows at every small prime.
+Use the [actual orders and multiplicities](../claims/Yin_C_G0345_v711.md#local) to test whether they can do so simultaneously at the same seed and delay.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 

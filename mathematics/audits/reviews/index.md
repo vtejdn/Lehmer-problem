@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v851](Yin_R_G0562_v851.md#finding) checks the mixed-index height bound, cancellation of the invertible part and the refinement by cyclotomic multiplicities.
+
+- [R562 v850](Yin_R_G0562_v850.md#finding) checks the complete exclusion of every pair of radical primes above the delay containing 59.
+
+- [R562 v849](Yin_R_G0562_v849.md#finding) checks the 16 complementary prime orders in J182 by square-modulus traces and Frobenius and inversion orbits.
+
+- [R562 v848](Yin_R_G0562_v848.md#finding) checks all 47 prime orders in the first J182 sweep, including all 1,081 sign-compatible candidates.
+
+- [R562 v847](Yin_R_G0562_v847.md#finding) checks the exact finite-field lift counts with multiplicities and the reciprocal refinement.
+
+- [R562 v846](Yin_R_G0562_v846.md#finding) checks J182 at primes 59 and 61 for all seed residues and four delays.
+
 - [R562 v845](Yin_R_G0562_v845.md#finding) checks the minimum degree and the finite-field recovery of simultaneous radicals from the two primes.
 
 - [R562 v844](Yin_R_G0562_v844.md#finding) checks the resultant bounds for polynomials in one coefficient class and the square-root range for prime radicals.
