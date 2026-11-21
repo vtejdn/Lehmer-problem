@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v988](Yin_R_G0562_v988.md#finding) Horizontal directions at primes in a specified Frobenius set, sparse exponents and orders at nineteen.
+
+- [R562 v987](Yin_R_G0562_v987.md#finding) Elliptic point orders, factor multiplicities and trace degrees on the smooth binary fibers.
+
+- [R562 v986](Yin_R_G0562_v986.md#finding) Short factors in characteristic two, two exact fibers and the obstruction to fixed rational labels at odd primes.
+
+- [R562 v985](Yin_R_G0562_v985.md#finding) Joint independence of the trace splitting fields of distinct primitive sections in the specified slope range.
+
+- [R562 v984](Yin_R_G0562_v984.md#finding) Double trace roots at nineteen and simultaneous exclusion of other short residue factors.
+
+- [R562 v983](Yin_R_G0562_v983.md#finding) Lower bounds for the rank and the support of the first dyadic evaluation ideals of a reversed witness.
+
 - [R562 v982](Yin_R_G0562_v982.md#finding) Modular factor degrees and integer evaluation constraints on all 128 diagonal sections.
 
 - [R562 v981](Yin_R_G0562_v981.md#finding) One-prime approximation to the smallest trace factor degree and its relative density in each residue class.

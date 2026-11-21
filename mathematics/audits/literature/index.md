@@ -367,3 +367,4 @@ The source notes and units own their editions, inspected passages and actual ins
 | [HB26](HB26/readme.md) | [Mahler measure bounds from one or two binomials modulo two](HB26/Yin_U001.md#hb26-u001) |
 | [EFK16](EFK16/readme.md) | [Liebeck and Saxl on primitive groups of small minimal degree](EFK16/Yin_U001.md#efk16-u001) |
 | [EFG17](EFG17/readme.md) | [Common invariant sizes of four independent permutations](EFG17/Yin_U001.md#efg17-u001) |
+| [Sut23](Sut23/readme.md) | [The elliptic group law and the degree of Frobenius minus identity](Sut23/Yin_U001.md#sut23-u001) |
