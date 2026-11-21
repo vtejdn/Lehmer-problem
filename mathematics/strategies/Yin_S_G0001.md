@@ -80,6 +80,8 @@ At good primes \(p>M^{1/5}\), bound the remaining disks of order greater than \(
 When Frobenius exchanges the two orientations, the prime cutoff for those contacts rises to \(M^{2/9}\).
 At [exceptional primes](../claims/Yin_C_G0345_v834.md#statement), the remaining terms have \(p>M\) and residue order \(>C_F M\), and the prime must divide a nonlinear factor of the exceptional form without dividing any rational linear factor.
 For a short exponent \(k=p^a\), the [horizontal critical units](../claims/Yin_C_G0345_v844.md#statement) exclude every contact at \(p\) for all \(l\) prime to \(p\) throughout a Frobenius set of density \(5/32\), up to finitely many primes.
+When \(l=p^b\pm1\), the [complete base-prime calculation](../computations/programs/Yin_J_G0184/readme.md#frobenius-primes) rules out a shared trace residue between complementary rational factors at every \(p\).
+For \(k=p^a,\ l=k^2+1\) the trace has a repeated root at the base prime precisely when \(p=79\), and then the trace discriminant has valuation one there.
 The [complete trace discriminant factorizations](../computations/programs/Yin_J_G0184/readme.md#full-squares) give squarefree discriminants in ten of seventeen small directions and remove the entire square divisor \(19^2 47^2\) in direction \((2,21)\) after distinguishing the trace orbits and their squareclasses.
 At good primes, [odd critical valuations](../claims/Yin_C_G0345_v821.md#allocation) put both branches in one factor and account for its good-prime field discriminant, forcing a good ramified prime of size \(\gg d\) for every factor.
 For even \(k\), [squaring the section roots](../claims/Yin_C_G0345_v817.md#statement) preserves the absolute complementary resultant and each individual power-basis order.

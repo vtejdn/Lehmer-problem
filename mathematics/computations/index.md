@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J184, base primes of signed Frobenius powers](programs/Yin_J_G0184/readme.md#frobenius-primes) determines every repeated trace residue and its discriminant contribution for \(k=p^a,\ l=p^b\pm1\), with [independent reproduction](../audits/reviews/Yin_R_G0562_v989.md#finding).
+
 - [J183, modular irreducibility on the quadratic diagonal](programs/Yin_J_G0183/readme.md#modular-degrees) certifies all 128 sections \(P_{k,k^2+1}\) through \(k=128\) by modular degrees and integral values, with [independent reproduction](../audits/reviews/Yin_R_G0562_v982.md#finding).
 
 - [J184, complete trace discriminant factorizations](programs/Yin_J_G0184/readme.md#full-squares) computes the irreducibility bounds at every prime in seventeen primitive directions, with [independent reproduction](../audits/reviews/Yin_R_G0562_v976.md#finding).

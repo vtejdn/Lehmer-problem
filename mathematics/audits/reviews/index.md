@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v989](Yin_R_G0562_v989.md#finding) Complete base-prime classification and all 28 nonendpoint lifts for two signed Frobenius powers.
+
 - [R562 v988](Yin_R_G0562_v988.md#finding) Horizontal directions at primes in a specified Frobenius set, sparse exponents and orders at nineteen.
 
 - [R562 v987](Yin_R_G0562_v987.md#finding) Elliptic point orders, factor multiplicities and trace degrees on the smooth binary fibers.

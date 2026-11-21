@@ -113,3 +113,66 @@ For any prime \(r\mid n\) these conditions force the multiplicative order of the
 Thus the product of the certified powers divides \(r-1\), and as soon as that product exceeds \(\sqrt n\) the integer \(n\) must be prime.
 The program uses SymPy factorization of \(n-1\) to obtain candidates for the recursive certificates.
 For prime divisors of \(b(\Delta)\) it checks divisibility of the exact exceptional form, and at the remaining primes it verifies every repeated trace orbit and valuation by the same discriminant accounting and lifting as the preceding survey.
+
+<a id="frobenius-primes"></a>
+## Exact repeated trace factors for two signed powers
+
+Let \(k=p^a\), \(\ell=p^b+\epsilon\), with \(a,b\ge1\) and \(\epsilon=\pm1\).
+Write \(Q(T)\) for the trace polynomial defined by \(P(X)=X^{2k+\ell}Q(X+X^{-1})\).
+The following rows give every nonconstant \(\gcd(Q,Q')\) in \(\mathbb F_p[T]\), normalized to be monic.
+For the rows at 3 the ordered pairs give \((a,b)\bmod4\).
+
+| \(p\) | \(\epsilon\) | Condition | \(\gcd(Q,Q')\) |
+| --- | --- | --- | --- |
+| 3 | \(+1\) | \((0,1),(1,0),(3,3)\) | \(T^2+T-1\) |
+| 3 | \(+1\) | \((1,3),(2,1),(3,0)\) | \(T^2-T-1\) |
+| 3 | \(-1\) | \((1,1),(2,3),(3,2)\) | \(T^2+T-1\) |
+| 3 | \(-1\) | \((0,3),(1,2),(3,1)\) | \(T^2-T-1\) |
+| 7 | \(+1\) | \(b\) odd | \((T+3)(T-3)\) |
+| 7 | \(-1\) | \(b\) odd | \(T^2-3\) |
+| 7 | \(-1\) | \(b\) even | \((T+3)(T-3)\) |
+| 79 | \(+1\) | \(b\) even | \(T+28\) for even \(a\), \(T-28\) for odd \(a\) |
+| 79 | \(-1\) | \(b\) odd | \(T-28\) for even \(a\), \(T+28\) for odd \(a\) |
+
+Each listed trace root has multiplicity two in \(Q\).
+In particular, on the positive diagonal \(\ell=p^{2a}+1\), precisely the prime 79 gives a repeated trace root, and it gives exactly one.
+This calculation determines the reductions in the table and leaves rational irreducibility for growing exponents open.
+
+Run `python mathematics/computations/programs/Yin_J_G0184/frobenius_primes.py` from the repository root with SymPy 1.14.0.
+The [program](frobenius_primes.py) uses integer resultants and arithmetic in the residue fields of the distinct irreducible factors of \(D\).
+Here \(A(Y)=(Y^2-3Y-1)(Y^2-4Y-1)\) and \(D(Y)=Y^4-4A(Y)Y^4A(1/Y)=-4Y^8+116Y^6-799Y^4+116Y^2-4\).
+The integral squarefree decomposition of \(\operatorname{Res}_X(D(X),X^8D(Z/X))\) is \(2^{16}h_1^2h_2^4h_3^8\), with primitive factors of respective degrees \(8,8,2\) and leading coefficients \(16,4,1\).
+Consequently \(H=h_1h_2h_3\) has degree 18, leading coefficient 64, and retains every root of the first resultant in odd characteristic.
+If \(D(y)=0\) there, both \(y\) and \(A(y)\) are units, by the constant term and defining equation of \(D\).
+A collision requires \(-y^2/(2A(y))\) to be the product of two roots of \(D\), since inverse roots and Frobenius conjugates are again roots of \(D\).
+Thus \(H(-y^2/(2A(y)))=0\).
+The program evaluates \(B(Y)=(2A(Y))^{18}H(-Y^2/(2A(Y)))\) by homogeneous Horner evaluation and checks the exact positive resultant
+\[
+\operatorname{Res}_Y(D,B)=2^{184}3^{16}5^{52}7^8 17^4 23^6 79^4 223^4 1193^4 1567^4 6644192153^4.
+\]
+Trial division through each integer square root certifies every prime in this factorization.
+
+At each odd prime in the product let \(y\) be the residue of \(Y\) modulo a distinct irreducible factor of \(D\) of degree \(d\), and let \(\phi\) denote Frobenius on this field.
+The unique section coordinate above \(y\) is \(u=\phi^{-a}(y)\), and \(w=\phi^{b-a}(y)=u^{p^b}\).
+The program tests \(2A(y)wu+y^2=0\) for \(\epsilon=1\) and \(2A(y)w+y^2u=0\) for \(\epsilon=-1\) at all pairs of residues \(a,b\bmod d\).
+By the [section and derivative equations](../../../claims/Yin_C_G0345_v844.md#collision), these conditions are necessary and sufficient for a multiple section root.
+At such a root the quadratic in the vertical coordinate has unit leading coefficient, that coordinate has nonzero derivative, and \(X^{p^a}-y\) vanishes to order at least three, so the multiplicity is exactly two.
+The trace polynomial of the orbit is the monic squarefree part in \(T\) of \(\operatorname{Res}_Y(f(Y),YT-Y^2-1)\), since \(u\) is a conjugate of \(y\).
+The program combines distinct trace factors, counting two inverse orientations only once.
+At 5 the two endpoints \(u=\pm1\) are the only collisions and yield simple trace roots because \(X+X^{-1}\) has local degree two there.
+At 2 the vertical derivative of the section equation is \(y^2\), and the section derivative is nonzero at every root since \(\ell\) is odd and \(y\ne0\).
+
+For each nonendpoint collision the program also evaluates \(F\) on the Teichmüller lifts modulo \(p^2\).
+Lift the monic residue factor \(f\) coefficientwise to a monic integral polynomial \(\widetilde f\) and compute in \((\mathbb Z/p^2)[Y]/(\widetilde f)\) by monic division followed by coefficient reduction.
+With \(d=\deg f\), the element \(\eta=Y^{p^d}\) reduces to \(y\) and satisfies \(\eta^{p^d-1}=1\), which the program checks directly.
+For a collision indexed by \((a,b,\epsilon)\) put \(e=p^{(b-a)\bmod d}+\epsilon p^{(-a)\bmod d}\).
+The section coordinate lifts to \(\xi=\eta^{p^{(-a)\bmod d}}\), so \(\xi^{p^a}=\eta\) and \(\xi^{p^b+\epsilon}=\eta^e\).
+In every case \(F(\eta,\eta^e)\) vanishes modulo \(p\) and remains nonzero modulo \(p^2\).
+Counting each distinct tuple \((f,a\bmod d,b\bmod d,\epsilon)\) once gives 12 checks at 3, 12 at 7 and 4 at 79.
+
+At \(T=\xi+\xi^{-1}\), the identity relating the section and trace gives \(v_p(Q(T))=1\).
+Over the unramified extension with this residue field, the monic quadratic factor lifting the double trace root has both its linear and constant coefficients divisible by \(p\) after translation by \(T\).
+Its constant coefficient has valuation one, since all other lifted factors evaluate to units there.
+As \(p\) is odd, the quadratic discriminant has valuation one, and distinct residue disks have unit cross differences.
+Thus \(v_p(\operatorname{disc}Q)=2\) in the listed rows at 3 and 7, equals one in the listed rows at 79, and vanishes in every other case.
+In every monic integral factorization \(Q=GH\), the reductions of \(G\) and \(H\) are coprime at the base prime, since a shared residue root would force both evaluations at \(T\) to be divisible by \(p\).
