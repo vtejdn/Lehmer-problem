@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v992](Yin_R_G0562_v992.md#finding) Horizontal discriminant weights, two slope centers per deep disk and the rectangle exceptional count.
+
+- [R562 v991](Yin_R_G0562_v991.md#finding) Horizontal depths through one million and arbitrarily close local pairs at 8447 on steep primitive directions.
+
+- [R562 v990](Yin_R_G0562_v990.md#finding) Depth at horizontal critical coordinates, the total shallow contribution and three exact prime-square tests.
+
 - [R562 v989](Yin_R_G0562_v989.md#finding) Complete base-prime classification and all 28 nonendpoint lifts for two signed Frobenius powers.
 
 - [R562 v988](Yin_R_G0562_v988.md#finding) Horizontal directions at primes in a specified Frobenius set, sparse exponents and orders at nineteen.

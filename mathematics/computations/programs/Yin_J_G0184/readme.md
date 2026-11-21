@@ -176,3 +176,69 @@ Its constant coefficient has valuation one, since all other lifted factors evalu
 As \(p\) is odd, the quadratic discriminant has valuation one, and distinct residue disks have unit cross differences.
 Thus \(v_p(\operatorname{disc}Q)=2\) in the listed rows at 3 and 7, equals one in the listed rows at 79, and vanishes in every other case.
 In every monic integral factorization \(Q=GH\), the reductions of \(G\) and \(H\) are coprime at the base prime, since a shared residue root would force both evaluations at \(T\) to be divisible by \(p\).
+
+<a id="horizontal-depth"></a>
+## Horizontal disks with deep critical values
+
+Among the 78,494 primes through one million outside \(\{2,5,23,1039\}\), exactly 8447 and 17167 have a root of \(D\) with [horizontal depth](../../../claims/Yin_C_G0345_v845.md#coordinate) \(c>1\).
+Both give four geometric roots of depth exactly two.
+Run `python mathematics/computations/programs/Yin_J_G0184/horizontal_depth.py` from the repository root with python-flint 0.9.0 and SymPy 1.14.0.
+The [program](horizontal_depth.py) puts \(z=U^2\) and works modulo \(h(z)=z^4-29z^3+(799/4)z^2-29z+1\).
+The [splitting group](../../../claims/Yin_C_G0345_v844.md#density) has exponent four, so \(N=p^4-1\) is a multiple of every residue order.
+The remainder of \(z^{N/2}-1\) modulo \(h\) has all coefficients divisible by \(p\), since \(h\) is squarefree and every square root of each of its roots satisfies \(u^N=1\).
+Dividing this remainder modulo \(p^2\) by \(p\) and taking its gcd with \(h\) modulo \(p\) selects exactly the reductions with \(c>1\), by evaluating at the square of the simple lift of each root of \(D\) and using \(p\nmid N\).
+The two nonconstant gcds are \(z^2+1987z+1\) at 8447 and \(z^2+14928z+1\) at 17167.
+The following residue orbits give the first nonzero digit of \(D([u])\), where brackets denote Teichmüller lifting and \(v=-u^2/(2A(u))\).
+
+| \(p\) | Residue coordinate \(u\) | \(\operatorname{ord}(u),\operatorname{ord}(v)\) | \(D([u])/p^2\bmod p\) |
+| --- | --- | --- | --- |
+| 8447 | \(u^2+3850u+1=0\) | \(8448,2816\) | \(4841+7802u\) |
+| 8447 | \(u^2+4597u+1=0\) | \(8448,2816\) | \(4841+645u\) |
+| 17167 | \(1237,2956\), respectively | \(2861,8583\) | \(2846,1627\) |
+| 17167 | \(14211,15930\), respectively | \(5722,8583\) | \(1627,2846\) |
+
+Take a primitive direction \((k,\ell)\) with \(k=pt\), \(p\nmid t\), and \(u^\ell=v^k\), and write \(x_0\) for the Teichmüller lift of its residue coordinate.
+Put \(U_0=[u]\), \(V_0=[v]\), \(C=F(U_0,V_0)/p^2\), \(B=V_0 F_V(U_0,V_0)/p\), \(K=u F_U(u,v)\), and \(J=A(u)v^2\), taking the reductions of \(B,C\) in the following formulas.
+The divisibility defining \(C\) follows by completing the square in \(V\), since \(D(U_0)\) is divisible by \(p^2\) and \(F_V(U_0,V_0)\) by \(p\).
+In the coordinate \(X=x_0(1+py)\), binomial expansion gives the reduction
+\[
+  P(X)/p^2\equiv J\ell^2 y^2+(B\ell+Kt)y+C\pmod p.
+\]
+At 17167 the values of \(4JC\) at \(u=1237,2956,14211,15930\) are respectively \(4152,9974,11313,9565\), all nonsquares.
+Thus every compatible direction of this type has distinct roots of the residual quadratic and the original two roots have distance of valuation one.
+At \(u=1237\), the primitive directions \((51501,1541)\) and \((154503,1762)\) both satisfy the compatibility equation.
+Their residual quadratics are \(912y^2+8886y+3590\) and \(16621y^2+421y+3590\), with discriminants \(12064\) (nonsquare) and \(812=1545^2\bmod p\) (square), respectively.
+Hensel lifting gives an unramified quadratic conjugate pair in the first case and two distinct \(\mathbb Q_p\)-roots in the second.
+
+At 8447 the two rows respectively satisfy \(v=u^{8421}\) and \(v=u^{4251}\).
+The residual quadratic has a double root exactly at \(t/\ell\equiv3713,6242\) in the first orbit and \(2205,4734\) in the second.
+In the first orbit \((k,\ell)=(523284765695,27)\) is primitive and compatible, with \(t/\ell\equiv3713\).
+Its double root is \(y=7813+7885u\), and evaluating the section at any integral lift of this \(y\) gives \(P(x_0(1+py))/p^3\equiv2299+8013u\pmod p\).
+Moving from this lift to the critical point of the scaled section changes \(P/p^2\) only by a multiple of \(p^2\), since the derivative vanishes modulo \(p\) and the second derivative is a unit.
+The two section roots have distance of valuation \(3/2\) by the [quadratic coordinate change](../../../claims/Yin_C_G0345_v845.md#distances).
+
+In fact the first orbit at 8447 realizes every distance valuation \((a+2)/2\) for integers \(a\ge1\), with \(\ell=27\) and \(v_p(k)=1\).
+In the unramified quadratic extension let \(\delta=U_0-U_0^{-1}\), a unit sent to its negative by Frobenius, which also sends \(U_0,V_0\) to their inverses.
+For \(t,y\in\mathbb Z_p\) put \(U=U_0\exp(p^2t\delta y)\), \(V=V_0\exp(p\ell\delta y)\), and define \(G(t,y)=F(U,V)/(p^2U^2V)\).
+Reciprocity makes \(F(U,V)/(U^2V)\) invariant under simultaneous inversion, so the coefficients of \(G\) are rational over \(\mathbb Q_p\).
+These are restricted power series with integral coefficients after the displayed division, by the divisibilities of the constant and linear terms and the exponential series at this odd prime.
+Modulo \(p\), \(G\) is the preceding quadratic with \(y\) replaced by \(\delta y\) and with the constant unit multiplier \(1/(u^2v)\).
+At \(t/\ell=3713\) the unique double root is in \(\mathbb F_p\), since the scaled quadratic has coefficients there.
+At that root \(G_{yy}\ne0\) and \(G_t\ne0\) modulo \(p\), the latter because the program verifies \(K(B+3713K)\ne0\).
+Thus the Jacobian of \((G,G_y)\) with respect to \((t,y)\) is invertible modulo \(p\).
+For each \(a\ge1\), multivariate Hensel lifting with target \((p^a,0)\) gives \((t_a,y_a)\in\mathbb Z_p^2\) in these residue classes.
+Choose a positive integer \(t\equiv t_a\pmod{p^{a+1}}\) with \(t\equiv1\pmod{8448}\) by the Chinese remainder theorem.
+Then \(k=pt\) is coprime to 27 and \(8421k\equiv27\pmod{8448}\), giving residue compatibility.
+The critical point for this integer \(t\) is congruent to \(y_a\) modulo \(p^{a+1}\) by simple-root lifting for \(G_y\); its critical value has valuation \(a\).
+The unit quadratic coefficient gives root distance of valuation \(a/2\) in \(y\), and the exponential section coordinate \(X=x_0\exp(p\delta y)\) increases it by one.
+For even \(a\) both roots lie in the unramified quadratic field, since every nonzero element of \(\mathbb F_p\) is a square in \(\mathbb F_{p^2}\); for odd \(a\) their distance has half-integral valuation.
+The local splitting and distances leave open whether different rational factors can separate any locally split pair.
+
+These examples also occur along primitive sequences with \(k\to\infty\) and \(\ell/k\to\infty\), for any prescribed sequence of integers \(a\ge1\).
+At each step the two congruences on \(t\) admit arbitrarily large positive representatives, so choose \(k=pt\) larger than its predecessor and replace 27 by \(\ell'=27+8448kp^{a+2}m\) for any positive integer \(m\).
+Then \(\gcd(k,\ell')=\gcd(k,27)=1\), and the same residue coordinate works because its order divides 8448 by the Bézout expression in \(u,v\).
+In the scaled series the replacement multiplies \(V\) by \(\exp(p(\ell'-27)\delta y)\), which is coefficientwise one modulo \(p^{a+3}\) by the exponential series.
+As \(U,V\) are units, the normalized expression \(F/(U^2V)\) is a Laurent polynomial in them, so the scaled series \(G\) and its first two derivatives remain congruent modulo \(p^{a+1}\) after division by \(p^2\).
+Simple-root lifting for the first derivative preserves the critical point and critical value modulo \(p^{a+1}\), and the unit quadratic coefficient retains its residue.
+Hence the distance valuation and the squareclass of the local quadratic are preserved, including splitting over the unramified quadratic field for even \(a\).
+Taking \(m\) at least the sequence index forces \(\ell'/k\to\infty\), with the same unresolved question about separation by rational factors.
