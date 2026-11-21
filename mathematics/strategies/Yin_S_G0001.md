@@ -24,10 +24,13 @@ Concentrate the search on curves surviving [torsion-translated inversion](../cla
 For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_G0345_v789.md#example), the ordinary sections \(F(X,X^n)\) have one noncyclotomic factor for all sufficiently large \(n\).
 Test whether a factor with two exterior conjugates can persist on \(F(X^k,X^l)\) for coprime \(k,l\) with \(k\to\infty\) and \(l/k\to\infty\).
 The [two pole counts](../claims/Yin_C_G0345_v790.md#statement) force any bounded exterior signature to be divisible by six along the subsequence with \(3\mid k\).
-For a factor with exactly two exterior roots, restrict to \(3\nmid k\).
+For a factor with exactly two exterior roots, restrict to \(3\nmid k\) and slopes \(s=l/k\) satisfying the [necessary lower bound on \(\log s\)](../claims/Yin_C_G0345_v795.md#statement) of order \(k^{1/3}\log k\).
+[Bertin's bound for two real exterior conjugates](../audits/literature/Ber99/Yin_U001.md#ber99-u001) decreases exponentially with the factor degree and gives a weaker restriction in this range.
 The [simultaneous approximation bound](../claims/Yin_C_G0345_v792.md#statement) requires the degree of its Mahler measure divided by its factor degree to tend to infinity.
 The [whole-section count](../claims/Yin_C_G0345_v793.md#statement) gives exactly \(2k\) exterior roots for \(l\ge2k\), and every one of the [2,292 computed sections](../computations/programs/Yin_J_G0183/readme.md#census) is irreducible over the rationals.
-Test whether rational factor degrees can be bounded below on escaping primitive directions, using congruences of the exponents and the two real pole visits.
+The [two normalized pole counts](../claims/Yin_C_G0345_v794.md#growth) and [polar expansions](../claims/Yin_C_G0345_v793.md#statement) give \(k\,m(S)/H\to\tfrac12\log(\beta_3\beta_4)\), where \(H\) counts the exterior roots of an irreducible factor \(S\) and \(\beta_j=(j+\sqrt{j^2+4})/2\).
+Test whether every rational factor carries a positive fraction of the \(2k\) exterior roots, including factors with \(H\to\infty\) and \(H/k\to0\) as possible counterexamples.
+The [congruences](../claims/Yin_C_G0345_v794.md#congruences) certify finite lower bounds for the factor degrees, while [irreducibility on every torus isogeny](../claims/Yin_C_G0345_v794.md#isogenies) reduces eventual irreducibility to the rational specialization conjecture for this particular curve.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
 For Salem candidates first apply the [powered edge-root and branch-orbit test](../claims/Yin_C_G0345_v785.md#statement), then investigate degrees of the actual irreducible factors on any surviving ray.

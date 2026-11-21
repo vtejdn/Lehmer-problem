@@ -61,6 +61,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BZ22](BZ22/readme.md) | [Yin_U001](BZ22/Yin_U001.md) |
 | [Bab18](Bab18/readme.md) | [Alternating sections and thickness of primitive groups](Bab18/Yin_U001.md#thickness) |
 | [Bel17](Bel17/readme.md) | [Yin_U001](Bel17/Yin_U001.md), [Yin_U002](Bel17/Yin_U002.md) |
+| [Ber99](Ber99/readme.md) | [Mahler measure of a \(\nu\)-Salem number with real exterior conjugates](Ber99/Yin_U001.md#ber99-u001) |
 | [Bil97](Bil97/readme.md) | [Yin_U001](Bil97/Yin_U001.md), [Yin_U002](Bil97/Yin_U002.md) |
 | [Bin22](Bin22/readme.md) | [Yin_U001](Bin22/Yin_U001.md) |
 | [Bor96](Bor96/readme.md) | [Yin_U001](Bor96/Yin_U001.md#affine-chamber-quotient): affine Leech chamber quotient and canonical-normalization boundary |

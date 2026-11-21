@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v936](Yin_R_G0562_v936.md#finding) The uniform exterior count and the slope required for bounded signature.
+
+- [R562 v935](Yin_R_G0562_v935.md#finding) Factor degrees from reductions at two and three, with the isogeny and conditional specialization arguments.
+
 - [R562 v934](Yin_R_G0562_v934.md#finding) The torsion certificate, exact circle counts and the exponential measure estimates.
 
 - [R562 v933](Yin_R_G0562_v933.md#finding) Joint approximation at the two exterior poles and the degree of the measure.
