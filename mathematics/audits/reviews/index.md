@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v857](Yin_R_G0562_v857.md#finding) checks the degree criterion for all factors and the construction preserving irreducibility at every dilation.
+
+- [R562 v856](Yin_R_G0562_v856.md#finding) checks the square restriction at even seeds and the residual delays and prime valuations at seeds eight and nine.
+
+- [R562 v855](Yin_R_G0562_v855.md#finding) checks simultaneous prime-power divisibility and the radical index bound at a dominant prime power.
+
+- [R562 v854](Yin_R_G0562_v854.md#finding) checks the dyadic cyclotomic twist count, discriminant estimate and effective gap at growing intersection degree.
+
+- [R562 v853](Yin_R_G0562_v853.md#finding) checks the regularized conditional determinant and phase spectrum bounds on exact Salem return paths.
+
+- [R562 v852](Yin_R_G0562_v852.md#finding) checks the mixed-prime multiplicity restrictions, the fixed-support gap and the explicit seed construction.
+
 - [R562 v851](Yin_R_G0562_v851.md#finding) checks the mixed-index height bound, cancellation of the invertible part and the refinement by cyclotomic multiplicities.
 
 - [R562 v850](Yin_R_G0562_v850.md#finding) checks the complete exclusion of every pair of radical primes above the delay containing 59.

@@ -23,7 +23,10 @@ For irreducible polynomials of degree \(d\) and measure tending to one, each coe
 A contradiction from this count would require enough distinct small-measure polynomials in one class.
 The degree-preserving powers of order \(2^j\) preserve the class but multiply the log measure by \(2^j\).
 At bounded measure they give only \(O(\log\log d)\) powers by [Voutier's degree bound](../audits/literature/Vou96/Yin_U001.md#height).
-Seek other transformations preserving both the class and small total measure.
+[Twisting these powers by dyadic roots of unity](../claims/Yin_C_G0345_v714.md#statement) gives an effective positive gap whenever the degree of the dyadic cyclotomic intersection is at least a fixed positive multiple of \(\log(2d)\).
+For inputs where powers drop degree, the field and degree in this criterion belong to the product of conjugates with torsion quotients, which has the same total measure.
+The next packing test concerns bounded intersections, including Salem fields with no growing dyadic intersection.
+There the number of distinct twists must be weighed against their extension degrees and root discriminants.
 For fixed measure bound \(B\) the [consecutive-trace count](../claims/Yin_C_G0345_v704.md#statement) permits any fixed number of exterior roots, and a [quadratic-length recurrence](../claims/Yin_C_G0345_v706.md#statement) gives \(\exp(o(d))\) polynomials at degree \(d\) even when their number is \(o(\sqrt{d/\log d})\).
 
 For the unrestricted problem, let \(R_1(t)\) be the largest interval length for which some nontorsion unit has a signed relation on every set of \(t+1\) exponents.
@@ -250,7 +253,10 @@ Even [optimal linear regression on the past digits and all endpoint equations](.
 A projected Gaussian attains that bound at every cut under the same linear constraints and second-moment domination.
 For [optimal prediction from all past digits](../claims/Yin_C_G0345_v700.md#salem), the whitened conditional covariance approaches \(I/2\) in normalized mean trace norm below the critical scale.
 At the critical scale the fraction of eigenvalues tending to zero is at most \(1/(2\log2)\) in upper mean, and the [fraction exactly zero](../claims/Yin_C_G0345_v700.md#affine) is \(O(1/\log k)\).
-A determinant upper bound below the entropy threshold would still need to quantify the size and frequency of the small positive eigenvalues.
+At the critical scale, if \(m\log d\to0\) or a length-\(b\) phase Gram matrix has determinant defect \(o(k)\) in the [specified window](../claims/Yin_C_G0345_v713.md#statement), the mean fraction of conditional eigenvalues tending to zero vanishes.
+In this range the geometric mean of the regularized conditional determinant per neutral direction has lower limit at least \(0.07929\).
+Without that defect hypothesis the [spectrum of the neutral conjugates](../claims/Yin_C_G0345_v713.md#phase) still bounds how many such small eigenvalues can occur.
+Test the remaining case against the size and frequency of genuinely small positive eigenvalues of that deterministic matrix.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
@@ -309,8 +315,16 @@ If the full log measure tends to zero on this range, \(R/p\) must grow faster th
 For a divisor \(\ell^e\parallel q\) with \(\ell\le n\), write \(D_\ell=\operatorname{lcm}_{1\le j\le d/2}(\ell^j-1,\ell^j+1)\) and \(t=q/\ell^e\).
 On every shrinking sequence the [mixed-index bound](../claims/Yin_C_G0345_v711.md#statement) requires \(\gcd(t,D_\ell)\to\infty\) for every such prime, uniformly over the choices at each term.
 For a complementary prime power \(p^f\) this restores the full gap whenever the order of \(\ell\bmod p\) is even and exceeds \(d\), or is odd and exceeds \(d/2\).
-Prioritize the remaining mixed indices where this gcd grows at every small prime.
-Use the [actual orders and multiplicities](../claims/Yin_C_G0345_v711.md#local) to test whether they can do so simultaneously at the same seed and delay.
+[Divisibility of whole orbit multiplicities](../claims/Yin_C_G0345_v712.md#statement) now excludes simultaneous factors two and three of the index if \(3\mid n+1\) at an even seed or \(3\mid n\) at an odd seed.
+When the prime supports of the index and \(n+1\) are fixed and every index prime divides the seed, it gives a [uniform positive factor bound](../claims/Yin_C_G0345_v712.md#smooth) throughout the stated seed-divisor range.
+[Auxiliary characteristics at \(a-1,a,a+1\)](../claims/Yin_C_G0345_v715.md#statement) retain the full powers of all selected primes, including those outside the index.
+A shrinking sequence with \(q/b\to\infty\) must leave almost all of each adjacent integer's logarithm at primes failing the corresponding order test.
+Test whether the same index can account for these three simultaneous failures as the prime supports grow.
+A [square radical at an even seed](../claims/Yin_C_G0345_v716.md#statement) requires \(a+1\) to be an odd square, the plus sign and even delay.
+For a prime-power seed the same prime can occur in the index only at 8 or 9, with exponent one and the stated delay restrictions.
+An [order test for every individual factor](../claims/Yin_C_G0345_v717.md#statement) also applies to any monic irreducible integral polynomial with nonzero constant term.
+In the integer Salem family, \(a\equiv59\bmod145\) and \(24\mid n\) give irreducibility at every \(2^i3^j\) substitution, for both signs.
+At linearly growing delays one can [sieve growing seeds](../claims/Yin_C_G0345_v717.md#sieve) where all substitutions retain the full measure even though the old divisor bound tends to zero.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 
