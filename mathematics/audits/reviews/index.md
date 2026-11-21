@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v911](Yin_R_G0562_v911.md#finding) independently checks the final proof of every factor's height on arbitrary plane curves and torsion-translated sections.
+
+- [R562 v910](Yin_R_G0562_v910.md#finding) checks the full joint height locus for dependent points, including one fixed direction with varying phases.
+
+- [R562 v909](Yin_R_G0562_v909.md#finding) checks the curve-height argument and its clarification of the metric approximation on a fixed real divisor.
+
 - [R562 v908](Yin_R_G0562_v908.md#finding) checks the limiting index distribution and the positive-density irreducibility criterion over all short integer directions.
 
 - [R562 v907](Yin_R_G0562_v907.md#finding) checks saturation modulo roots of unity and the externally twisted radical estimates at fixed coefficient length.

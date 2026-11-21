@@ -46,6 +46,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [BS20](BS20/readme.md) | [Yin_U001](BS20/Yin_U001.md) |
 | [BS22](BS22/readme.md) | [Alternating sections in point stabilizers](BS22/Yin_U001.md#stabilizers) |
 | [BS23](BS23/readme.md) | [Quantitative density bound for three-term progressions](BS23/Yin_U001.md#bs23-u001) |
+| [BS26](BS26/readme.md) | [Global heights of generic small points for adelic real divisors](BS26/Yin_U001.md#bs26-u001) |
 | [BS96](BS96/readme.md) | [Yin_U001](BS96/Yin_U001.md) |
 | [BSS17](BSS17/readme.md) | [Yin_U001](BSS17/Yin_U001.md) |
 | [BV04](BV04/readme.md) | [Yin_U001](BV04/Yin_U001.md), [Yin_U002](BV04/Yin_U002.md), [Yin_U003](BV04/Yin_U003.md) |
@@ -73,6 +74,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [CK14](CK14/readme.md) | [Yin_U001](CK14/Yin_U001.md) |
 | [CL97](CL97/readme.md) | [Corner coefficients and edge roots](CL97/Yin_U001.md#cl97-u001) |
 | [CLOZ25](CLOZ25/readme.md) | Source and edition notes |
+| [CLT09](CLT09/readme.md) | [Global heights for admissibly metrized line bundles](CLT09/Yin_U001.md#clt09-u001) |
 | [CM10](CM10/readme.md) | Source and edition notes |
 | [CPSV18](CPSV18/readme.md) | [Yin_U001](CPSV18/Yin_U001.md) |
 | [CR94](CR94/readme.md) | [Yin_U001](CR94/Yin_U001.md) |
@@ -125,7 +127,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [FFLP11](FFLP11/readme.md) | [Yin_U001](FFLP11/Yin_U001.md#fflp11-u001): Gaussian Picard generators and the integrality boundary |
 | [FLHC17](FLHC17/readme.md) | [Yin_U001](FLHC17/Yin_U001.md) |
 | [Fil14](Fil14/readme.md) | Totally local algebraic numbers and the integral height lower bound. |
-| [FM13](FM13/readme.md) | [Yin_U001](FM13/Yin_U001.md) |
+| [FM13](FM13/readme.md) | [Mahler norms and arithmetic projections](FM13/Yin_U001.md) · [Minimum degree under rational powers and torsion translations](FM13/Yin_U002.md#fm13-u002) |
 | [FM26](FM26/readme.md) | Source and edition notes |
 | [FP16](FP16/readme.md) | [Yin_U001](FP16/Yin_U001.md) |
 | [FP18](FP18/readme.md) | [Yin_U001](FP18/Yin_U001.md) |
@@ -165,6 +167,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [HR08](HR08/readme.md) | Source and edition notes |
 | [HS16](HS16/readme.md) | [Yin_U001](HS16/Yin_U001.md) |
 | [HS16b](HS16b/readme.md) | [Yin_U001](HS16b/Yin_U001.md) |
+| [Hab09](Hab09/readme.md) | [Quantitative height limit for multiplicatively dependent points on \(X+Y=1\)](Hab09/Yin_U001.md#hab09-u001) |
 | [Han16](Han16/readme.md) | [Yin_U001](Han16/Yin_U001.md#han16-u001): quadratic finite-field Hankel periodicity and the synchronization boundary |
 | [Har55b](Har55b/readme.md) | Undated Harvard Math 55b course notes; source and contents navigation |
 | [Hay59](Hay59/readme.md) | [Jensen's formula, its centered corollary and boundary zeros](Hay59/Yin_U001.md#hay59-u001) |
