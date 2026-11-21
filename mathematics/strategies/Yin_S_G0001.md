@@ -25,6 +25,7 @@ For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_
 Test whether a factor with two exterior conjugates can persist on \(F(X^k,X^l)\) for coprime \(k,l\) with \(k\to\infty\) and \(l/k\to\infty\).
 The [two pole counts](../claims/Yin_C_G0345_v790.md#statement) force any bounded exterior signature to be divisible by six along the subsequence with \(3\mid k\).
 For a factor with exactly two exterior roots, restrict to \(3\nmid k\) and slopes \(s=l/k\) satisfying the [necessary lower bound on \(\log s\)](../claims/Yin_C_G0345_v795.md#statement) of order \(k^{1/3}\log k\).
+The [endpoint parity test](../claims/Yin_C_G0345_v810.md#statement) also forces its degree to be divisible by four unless \(l\) is odd and that factor carries the unique factor of 23 at \(-1\).
 [Bertin's bound for two real exterior conjugates](../audits/literature/Ber99/Yin_U001.md#ber99-u001) decreases exponentially with the factor degree and gives a weaker restriction in this range.
 The [simultaneous approximation bound](../claims/Yin_C_G0345_v792.md#statement) requires the degree of its Mahler measure divided by its factor degree to tend to infinity.
 The [whole-section count](../claims/Yin_C_G0345_v793.md#statement) gives exactly \(2k\) exterior roots for \(l\ge2k\), and every one of the [2,292 computed sections](../computations/programs/Yin_J_G0183/readme.md#census) is irreducible over the rationals.
@@ -38,10 +39,16 @@ For the exterior roots alone the [Fourier bound](../claims/Yin_C_G0345_v800.md#s
 For a factor of degree \(d\) with \(H\to\infty\), its [first Mahler iterate](../claims/Yin_C_G0345_v801.md#statement) has log measure larger than every fixed power of \(d\), even when the factor itself has vanishing log measure.
 At each of the [two poles](../claims/Yin_C_G0345_v802.md#statement), an irreducible factor of degree \(d\) selects prime-ideal powers whose combined log norm is asymptotic to \((d/2)\log\beta_j\).
 A single prime-power ideal at either pole forces eventual irreducibility along the corresponding steep sequence.
+The [integer cofactor test](../claims/Yin_C_G0345_v811.md#statement) also suffices when a rational prime power accounts for a pole norm \(N\) up to a cofactor with \(k+\log(N/p^a)=o(l(\log\log l/\log l)^3)\).
 For a putative factor of degree \(d=o(l)\), the [complementary resultant](../claims/Yin_C_G0345_v805.md#resultant) forces a common quotient of \(\mathbb Z[X]\) with at most 16 additive generators and exponent at least \(((e^L-o(1))l/d)^{d/16}\), with the explicit constant \(L\) in the derivative formula.
 For all but a finite set of primes depending on the direction, [sixteen critical points](../claims/Yin_C_G0345_v808.md#local) account for every common residue of a factor and its complement.
 Each such shared point requires a positive even valuation of its critical value minus one and a square residue after removing this valuation.
-Bound the total contribution of those points and of the exceptional primes, and compare it with the amount required at the proposed factor degree.
+The [critical octic](../claims/Yin_C_G0345_v812.md#statement) gives a degree-56 polynomial identifying the exceptional primes and computes the good-prime test on eight inverse pairs.
+A complementary resultant on this sequence is [prime to \(2,5,7,11,17\) and has valuation at most two at 3](../claims/Yin_C_G0345_v814.md#statement).
+At 13 and 19 the [second slope digit](../claims/Yin_C_G0345_v815.md#statement) bounds the valuation except in specified residue classes.
+In those classes local trace roots can be arbitrarily close, so determine whether the two roots lie in the same rational factor before using their distance in the complementary resultant.
+For larger primes the [fixed-prime density bound](../claims/Yin_C_G0345_v813.md#statement) controls how often a common residue is possible.
+The sum of contributions over a varying set of primes remains open.
 The [signed orbit](../claims/Yin_C_G0345_v806.md#products) determines the exact degree of \(M(S)\), and the [signed sampling law](../claims/Yin_C_G0345_v807.md#statement) determines its height asymptotics and circle count for every candidate signature.
 The existence of the original factor of degree \(o(l)\) remains open.
 The [congruences](../claims/Yin_C_G0345_v794.md#congruences) certify finite lower bounds for the factor degrees, while [irreducibility on every torus isogeny](../claims/Yin_C_G0345_v794.md#isogenies) reduces eventual irreducibility to the rational specialization conjecture for this particular curve.
@@ -52,7 +59,8 @@ For each surviving direction, factor both extreme edge polynomials and test the 
 On the unrestricted lower-bound route, a [shrinking representative and all its powers](../claims/Yin_C_G0345_v783.md#statement) can evade positive-density sparse tests of fixed arity even at spans growing more slowly than the logarithm of the shortest relation length, measured in height units.
 Pursue constraints with growing term count or a direct degree bound on an actual factor.
 If the Mahler measure of an unrestricted reciprocal least-degree witness has [relative degree at most \(d^{2-\epsilon}\)](../claims/Yin_C_G0345_v804.md#statement) over the maximal abelian extension, its exterior signature is Salem or has a single reversed real root in a full block.
-In the latter case test whether the quadratic extension of a totally real field with just two real embeddings can support that reversed root at arbitrarily small positive measure.
+In the reversed case, [dyadic evaluations of the oriented polynomial](../claims/Yin_C_G0345_v809.md#statement) force \(2^s\) distinct fractional ideals supported only above split primes of the totally real block field, for each \(s\).
+A collision would give a smaller-degree relative unit of strictly smaller positive measure, so investigate the split-prime contributions to those evaluations.
 The [simultaneous digit relations](../claims/Yin_C_G0345_v782.md#statement) supply high-rank differences on dense masks, but positive rate at dimension proportional to the inverse measure already requires each coordinate length to be at least of order degree divided by measure.
 At this side length [separate line entropies](../claims/Yin_C_G0345_v786.md#statement) overcount by a factor growing at least logarithmically in the dimension, and a [Gaussian estimate with the full covariance](../claims/Yin_C_G0345_v787.md#statement) also loses that scale.
 The [size of the largest joint fiber](../claims/Yin_C_G0345_v791.md#statement) now rules out positive entropy per site on any fixed-density mask when the side length is a fixed multiple of dimension times degree.

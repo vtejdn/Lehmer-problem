@@ -1,5 +1,19 @@
 # Reviews Index
 
+- [R562 v956](Yin_R_G0562_v956.md#finding) reviews the second-digit obstructions at thirteen and nineteen and their exceptional local roots.
+
+- [R562 v955](Yin_R_G0562_v955.md#finding) reviews the exact bound at three and the exclusion of five from reciprocal complementary resultants.
+
+- [R562 v954](Yin_R_G0562_v954.md#proof) reviews the slope-independent residue bound, the per-prime density, and the [eight-prime computation](Yin_R_G0562_v954.md#digits).
+
+- [R562 v953](Yin_R_G0562_v953.md#finding) reviews the explicit critical octic and the exceptional binary form.
+
+- [R562 v952](Yin_R_G0562_v952.md#finding) reviews the simultaneous integer moduli at both poles and the prime-power cofactor test.
+
+- [R562 v951](Yin_R_G0562_v951.md#finding) reviews the parity of factor degrees, dyadic splitting and endpoint ramification.
+
+- [R562 v950](Yin_R_G0562_v950.md#finding) reviews the distinct evaluation ideals in the reversed exterior-block case.
+
 - [R562 v949](Yin_R_G0562_v949.md#finding) reviews the critical-point scheme and the square and residue conditions on each common factor of a section.
 
 - [R562 v948](Yin_R_G0562_v948.md#finding) reviews the three height laws and the exact and asymptotic counts of circle conjugates.
