@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v949](Yin_R_G0562_v949.md#finding) reviews the critical-point scheme and the square and residue conditions on each common factor of a section.
+
 - [R562 v948](Yin_R_G0562_v948.md#finding) reviews the three height laws and the exact and asymptotic counts of circle conjugates.
 
 - [R562 v947](Yin_R_G0562_v947.md#finding) reviews independent signed alternating actions on all factors and the exact degrees of their exterior products.

@@ -39,7 +39,9 @@ For a factor of degree \(d\) with \(H\to\infty\), its [first Mahler iterate](../
 At each of the [two poles](../claims/Yin_C_G0345_v802.md#statement), an irreducible factor of degree \(d\) selects prime-ideal powers whose combined log norm is asymptotic to \((d/2)\log\beta_j\).
 A single prime-power ideal at either pole forces eventual irreducibility along the corresponding steep sequence.
 For a putative factor of degree \(d=o(l)\), the [complementary resultant](../claims/Yin_C_G0345_v805.md#resultant) forces a common quotient of \(\mathbb Z[X]\) with at most 16 additive generators and exponent at least \(((e^L-o(1))l/d)^{d/16}\), with the explicit constant \(L\) in the derivative formula.
-Test whether such a quotient can coexist with the prime-ideal allocations required at both poles at the same degree.
+For all but a finite set of primes depending on the direction, [sixteen critical points](../claims/Yin_C_G0345_v808.md#local) account for every common residue of a factor and its complement.
+Each such shared point requires a positive even valuation of its critical value minus one and a square residue after removing this valuation.
+Bound the total contribution of those points and of the exceptional primes, and compare it with the amount required at the proposed factor degree.
 The [signed orbit](../claims/Yin_C_G0345_v806.md#products) determines the exact degree of \(M(S)\), and the [signed sampling law](../claims/Yin_C_G0345_v807.md#statement) determines its height asymptotics and circle count for every candidate signature.
 The existence of the original factor of degree \(o(l)\) remains open.
 The [congruences](../claims/Yin_C_G0345_v794.md#congruences) certify finite lower bounds for the factor degrees, while [irreducibility on every torus isogeny](../claims/Yin_C_G0345_v794.md#isogenies) reduces eventual irreducibility to the rational specialization conjecture for this particular curve.
