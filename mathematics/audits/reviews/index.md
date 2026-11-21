@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v999](Yin_R_G0562_v999.md#finding) All torsion translates, signed exponents and transcendence at every genuine critical slope.
+
+- [R562 v998](Yin_R_G0562_v998.md#finding) Effective height bound for translated tangencies and the transcendental horizontal slope at 8447.
+
 - [R562 v997](Yin_R_G0562_v997.md#finding) Cyclotomic norms, compound projective congruences and low residue orders throughout the steep box.
 
 - [R562 v996](Yin_R_G0562_v996.md#finding) Full exceptional-prime discriminant weights and the two cutoffs on steep boxes.

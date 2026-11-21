@@ -25,6 +25,7 @@ For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_
 The [fixed-cover degree calculation](../claims/Yin_C_G0345_v828.md#statement) proves eventual irreducibility also for \(k=3\), with six exterior conjugates.
 For fixed \(k\) it leaves up to \(k/\gcd(k,3)\) factors, and the top-face allocations permit a proper split whenever this integer exceeds one.
 Test whether a factor with two exterior conjugates can persist on \(F(X^k,X^l)\) for coprime \(k,l\) with \(k\to\infty\) and \(l/k\to\infty\).
+[Filaseta's fixed-coefficient theorem](../audits/literature/Fil22/Yin_U001.md#fil22-u001) removes reciprocal factors before testing irreducibility, so it supplies no degree bound for the factors sought here.
 The [two pole counts](../claims/Yin_C_G0345_v790.md#statement) force any bounded exterior signature to be divisible by six along the subsequence with \(3\mid k\).
 For a factor with exactly two exterior roots, restrict to \(3\nmid k\) and slopes \(s=l/k\) satisfying the [necessary lower bound on \(\log s\)](../claims/Yin_C_G0345_v795.md#statement) of order \(k^{1/3}\log k\).
 The [endpoint parity test](../claims/Yin_C_G0345_v810.md#statement) also forces its degree to be divisible by four unless \(l\) is odd and that factor carries the unique factor of 23 at \(-1\).
@@ -90,7 +91,9 @@ For every primitive direction, [horizontal disks of depth at most \(v_p(k)\)](..
 Across all horizontal disks, [two fixed slope centers per deep disk](../claims/Yin_C_G0345_v846.md#centers) bound their combined discriminant weight by \(O((\log M)^3)\) outside \(O(M/\log M)\) indices on every polynomial-range primitive graph with \(M\le k<2M\).
 The [survey through one million](../computations/programs/Yin_J_G0184/readme.md#horizontal-depth) finds deep critical coordinates only at 8447 and 17167.
 At 8447 primitive steep directions realize arbitrarily large root-distance valuations, including locally split pairs.
-Determine whether such a pair can lie in distinct rational factors.
+The [dyadic parity argument and the two axis tests](../claims/Yin_C_G0345_v852.md#statement) prove that every torsion-translated primitive section of this curve has only simple zeros.
+Together with the [logarithm-line argument](../claims/Yin_C_G0345_v851.md#logarithms), this makes every slope at a genuine zero of a prepared critical value transcendental over \(\mathbb Q\), including a slope in \(\mathbb Q_{8447}\).
+Estimate how closely primitive rational directions can approach these slopes and determine whether a locally split pair can lie in distinct rational factors.
 The [complete trace discriminant factorizations](../computations/programs/Yin_J_G0184/readme.md#full-squares) give squarefree discriminants in ten of seventeen small directions and remove the entire square divisor \(19^2 47^2\) in direction \((2,21)\) after distinguishing the trace orbits and their squareclasses.
 At good primes, [odd critical valuations](../claims/Yin_C_G0345_v821.md#allocation) put both branches in one factor and account for its good-prime field discriminant, forcing a good ramified prime of size \(\gg d\) for every factor.
 For even \(k\), [squaring the section roots](../claims/Yin_C_G0345_v817.md#statement) preserves the absolute complementary resultant and each individual power-basis order.

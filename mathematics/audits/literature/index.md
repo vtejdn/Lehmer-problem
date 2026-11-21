@@ -133,6 +133,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Fil14](Fil14/readme.md) | Totally local algebraic numbers and the integral height lower bound. |
 | [FM13](FM13/readme.md) | [Mahler norms and arithmetic projections](FM13/Yin_U001.md) · [Minimum degree under rational powers and torsion translations](FM13/Yin_U002.md#fm13-u002) |
 | [FM26](FM26/readme.md) | Source and edition notes |
+| [FP15](FP15/readme.md) | [Algebraic relations between two p-adic logarithms](FP15/Yin_U001.md#fp15-u001) |
 | [FP16](FP16/readme.md) | [Yin_U001](FP16/Yin_U001.md) |
 | [FP18](FP18/readme.md) | [Yin_U001](FP18/Yin_U001.md) |
 | [FPZ20](FPZ20/readme.md) | [Yin_U001](FPZ20/Yin_U001.md) |
@@ -140,7 +141,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [Fab13](Fab13/readme.md) | [Radius bound for a critical point near two distinct zeros](Fab13/Yin_U001.md#rolle) |
 | [Fab13b](Fab13b/readme.md) | [Local and directional multiplicities from algebraic reduction](Fab13b/Yin_U001.md#reduction) |
 | [Fen16](Fen16/readme.md) | [Yin_U001](Fen16/Yin_U001.md) |
-| [Fil22](Fil22/readme.md) | Source and edition notes |
+| [Fil22](Fil22/readme.md) | [Reciprocal factors and varying coefficient degrees](Fil22/Yin_U001.md#fil22-u001) |
 | [Fio19](Fio19/readme.md) | [Yin_U001](Fio19/Yin_U001.md) |
 | [GBV15](GBV15/readme.md) | [Yin_U001](GBV15/Yin_U001.md) |
 | [GG20](GG20/readme.md) | [Yin_U001](GG20/Yin_U001.md#gg20-u001) — Counting Salem numbers of fixed degree as the size bound grows. |
