@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v922](Yin_R_G0562_v922.md#finding) An irrational ratio of conjugate counts at rational poles.
+
+- [R562 v921](Yin_R_G0562_v921.md#finding) Finiteness for a reciprocal curve with four primitive faces.
+
+- [R562 v920](Yin_R_G0562_v920.md#finding) Individual boundary heights on a normalized curve.
+
 - [R562 v919](Yin_R_G0562_v919.md#finding) checks the concentration of squared logarithmic radii and the resulting positive gap at arbitrary signatures and torsion orders.
 
 - [R562 v918](Yin_R_G0562_v918.md#finding) checks stable power fields and the obstruction from inversion for translated sections.

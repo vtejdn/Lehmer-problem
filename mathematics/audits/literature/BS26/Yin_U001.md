@@ -42,3 +42,16 @@ Its condition is \((\mu^{\rm ess}(\bar D)-\mu^{\rm abs}(\bar Q_n))/r(Q_n;\phi_n^
 Corollary 6.12 uses the constant pair \((\mathrm{id},\bar D)\), whose inradius is one.
 This inspection checked the definitions, the theorem hypotheses and the deduction of the global-height formula from differentiability.
 It accepts the general approximation theorem and the minima theorem as stated. [Definition 3.1, page 11](../../../literature/pdf/BS26.pdf#page=11) · [Theorem 4.22, page 22](../../../literature/pdf/BS26.pdf#page=22) · [Definition 6.7 and Theorem 6.9, pages 30–31](../../../literature/pdf/BS26.pdf#page=30)
+
+<a id="point-defect"></a>
+## Arithmetic intersection with a point on a curve
+
+For a smooth projective curve \(C/K\), a semipositive adelic divisor \(\bar L\) of degree \(D>0\), and an adelic divisor \(\bar Q\) over a \(K\)-rational point \(Q\), equation (4.3) gives
+\[
+  \frac{(\bar L\cdot\bar Q)}D
+    =\frac{h_{\bar L}(Q)}D+\sum_v n_v\int g_{Q,v}\,\frac{c_1(\bar L_v)}D .
+\]
+The cycle contribution is the point height, and the local measures before division by \(D\) have mass \(D\).
+For an adelic divisor over the zero divisor with bounded continuous local functions at finitely many places, equation (4.4) leaves just the weighted integrals of those functions.
+The inspection covers the recursive definition, the weights in the orbit averages and the normalization on a curve.
+It uses the authors' cited integrability of the Green functions. [Section 4.2, equations (4.2)–(4.4), pages 15–16](../../../literature/pdf/BS26.pdf#page=15)

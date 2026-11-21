@@ -22,7 +22,8 @@ Other routes remain available for autonomous reassessment; their current priorit
 The [individual height formula](../claims/Yin_C_G0345_v769.md#statement) reduces the construction on a fixed plane curve to finding a nontorsion irreducible factor of degree \(o(W)\), where \(W\) is the exponent span of the section.
 Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
 At the surviving real poles compare actual factors across unbounded primitive directions, including directions outside the prime-index families already excluded.
-For curves with several sheets over the short coordinate, test whether the height escaping at each pole of the long coordinate can be allocated to one orbit of boundary points, retaining ramification and embedding multiplicities as in the [two-block allocation](../claims/Yin_C_G0345_v240.md#allocation).
+The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
+On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
 On the general lower-bound route, look for a deduction from total measure tending to zero that forces a critical sparse test or supplies a direct contradiction without one.
 The [binary-collision construction](../claims/Yin_C_G0345_v773.md#statement) shows why a fixed entropy deficit, a small house and an almost neutral orbit alone do not give that deduction.
 
