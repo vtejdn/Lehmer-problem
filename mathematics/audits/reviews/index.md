@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v860](Yin_R_G0562_v860.md#finding) checks density one for simultaneous irreducibility in translated delay intervals and all initial intervals.
+
+- [R562 v859](Yin_R_G0562_v859.md#finding) checks additional exclusions at eight and nine and the limits of finite residue tests at those seeds.
+
+- [R562 v858](Yin_R_G0562_v858.md#finding) checks the positive-density delay progressions and square-root exclusions at every prescribed seed.
+
 - [R562 v857](Yin_R_G0562_v857.md#finding) checks the degree criterion for all factors and the construction preserving irreducibility at every dilation.
 
 - [R562 v856](Yin_R_G0562_v856.md#finding) checks the square restriction at even seeds and the residual delays and prime valuations at seeds eight and nine.

@@ -325,6 +325,13 @@ For a prime-power seed the same prime can occur in the index only at 8 or 9, wit
 An [order test for every individual factor](../claims/Yin_C_G0345_v717.md#statement) also applies to any monic irreducible integral polynomial with nonzero constant term.
 In the integer Salem family, \(a\equiv59\bmod145\) and \(24\mid n\) give irreducibility at every \(2^i3^j\) substitution, for both signs.
 At linearly growing delays one can [sieve growing seeds](../claims/Yin_C_G0345_v717.md#sieve) where all substitutions retain the full measure even though the old divisor bound tends to zero.
+For each fixed seed, [an explicit progression](../claims/Yin_C_G0345_v718.md#statement) also preserves irreducibility at both signs and every substitution, once the delay is large enough.
+In moving two-parameter rectangles the [proportion of pairs with even one reducible substitution tends to zero](../claims/Yin_C_G0345_v720.md#statement), uniformly in the starting delay when the interval grows, with no relative growth restriction on the sides.
+This sieve obtains its simple roots outside the selected radical characteristic and uses the prime reciprocal sum at one fixed modulus at a time.
+For the surviving delays at seeds eight and nine, [finite residue tests](../claims/Yin_C_G0345_v719.md#obstruction) give additional exclusions.
+However [same-degree irreducible Salem comparisons](../claims/Yin_C_G0345_v719.md#congruence) pass any prescribed finite list of unit-root tests on an arithmetic progression, and [a growing window](../claims/Yin_C_G0345_v719.md#window) reaches a constant multiple of the logarithm of the delay.
+Further exclusion at these seeds requires information beyond that window, such as roots of increasing order in the full reduction or a constraint on the real exterior conjugate.
+For a pointwise gap in this family, isolate the exceptional seeds where \(R\nmid H(a)\) and the large divisors \(H(a)/\log a\to\infty\) outside that exception, then track the radical primes surviving the auxiliary tests.
 At the input indexed by \(n\), [conditioning on an actual return](../ledger/Yin_L_G0462_v323.md#failures) makes paths exponentially rare if they miss a past-dependent target for the next binary block difference on fewer than a fraction \(p<p_n^*\) of blocks, where \(p_n^*\sim3\cdot2^{-n}/(4\log2)\).
 Count the weight of the other reachable transitions and their exits to zero before assigning an entropy gain to the [extra loop between two nonzero states](../ledger/Yin_L_G0462_v323.md#crossing).
 
