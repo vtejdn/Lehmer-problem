@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v894](Yin_R_G0562_v894.md#finding) checks the finite support patterns of minimal subsums and the four-term fractional linear equation across all root signatures.
+
+- [R562 v893](Yin_R_G0562_v893.md#finding) checks the order and largest-prime restrictions on exponent indices after reduction, including residual multiplicities.
+
+- [R562 v892](Yin_R_G0562_v892.md#finding) checks the individual factor gap on quadratic progressions, the exact incidence argument and its explicit bound from Voutier.
+
+- [R562 v891](Yin_R_G0562_v891.md#finding) checks all radical substitutions of the pole polynomial and the local prime test in its compositum with the Salem field.
+
+- [R562 v890](Yin_R_G0562_v890.md#finding) checks the geometric pullbacks, exterior-root count, conditional specialization conclusion and the primitive split example at pole two.
+
 - [R562 v889](Yin_R_G0562_v889.md#finding) checks the fixed rational graph bound on field radicals as the exponent slope increases, including power-related poles.
 
 - [R562 v888](Yin_R_G0562_v888.md#finding) checks reflection on two exponent progressions, the full height limit, and irreducibility at each fixed substitution.

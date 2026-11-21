@@ -58,6 +58,9 @@ Even on the reduced inputs, [single arithmetic progressions](../ledger/Yin_L_G04
 A shrinking sequence with \(m=\log M(\alpha)\to0\) forces many [terminal relations with the same ordered outgoing coefficients](../claims/Yin_C_G0345_v584.md#statement), even when a split through \(c\alpha^h\) allows any integer \(h\) and any field element \(c\) of degree at most \(B\) with unrestricted height.
 The parameter \(B\) can grow with the input, subject to the power-field degree condition and \(Bm\to0\).
 For some growing weight \(r\), at least \((c_0/m)^{r-2}\) different integer exponent lists remain after fixing those coefficients and placing the distinguished term at zero.
+[Quadratic progressions of exponents](../claims/Yin_C_G0345_v752.md#factor) give an individual factor gap at every span and coefficient height.
+For exponents \(s+aj+bj^2\), \(0\le j\le T\), [Voutier's degree bound](../audits/literature/Vou96/Yin_U001.md#height) gives the explicit lower bound \(\min\{\log\theta,2/\log^3(3(T+T^2)^2)\}\), where \(\theta>1\) satisfies \(\theta^3-\theta-1=0\).
+For a candidate sparse witness, test whether its projected plane support has at least two distinct pairs of parallel edge directions, or whether the width of every projection avoiding such pairs must grow.
 Restrict upper-bound tests to the actual witness ranges for the weight, coefficient heights and exponent span.
 Even at one fixed Salem number, [permuting rational representations](../claims/Yin_C_G0345_v597.md#statement) gives \(n!\) distinct primitive terminal shapes with the entire integer tuple and output fixed at weight \((d+2)n+1\).
 Write \(L=\log(1/m)\).
@@ -288,13 +291,19 @@ The [finite sublevel bound](../claims/Yin_C_G0345_v738.md#statement) also tests 
 At span \(W=O(d/m)\), [three-term tests](../claims/Yin_C_G0345_v739.md#statement) still have vanishing small-value density for arbitrary complex coefficients on a shrinking sequence.
 For any fixed number of terms, [a positive density of sufficiently small relative values](../claims/Yin_C_G0345_v740.md#statement) forces an exact equation on these exponents with coefficients from a finite list in bounded-degree subfields of the root field.
 [A bounded arithmetic progression and one arbitrary exponent](../claims/Yin_C_G0345_v745.md#statement) also give vanishing small-value density on every shrinking sequence.
+Across all signatures, [the actual exponents of a minimal exact subsum](../claims/Yin_C_G0345_v754.md#statement) must come from a bounded list of linear patterns in dimension at most half its term count.
+Four terms force the parallelogram support and a fractional linear equation with a root-field involution.
 For Salem conjugates a [four-term witness](../claims/Yin_C_G0345_v743.md#statement) must eventually have support \(0,a,b,a+b\) and satisfy an exact reciprocal equation with a seed \(B>1\) in a fixed set in the trace fields.
 Its short and long exponents satisfy \(am-\log B\to0\) and \(bm/d-h(B)\to0\).
 Moreover [every radical polynomial](../claims/Yin_C_G0345_v746.md#statement) \(X^k-B\) with \(k\mid a\) must remain irreducible over the Salem root field, even at \(k=a\).
 The [common exponent bound](../claims/Yin_C_G0345_v747.md#statement) gives a fixed integer divisible by \(\gcd(a,b)\) times the root-field radical index, so the reduced denominator of \(b/a\) must tend to infinity.
 For [two separated progressions of bounded length](../claims/Yin_C_G0345_v748.md#statement), the exact relation has the form \(\alpha^b=R(\alpha^a)\) for a reciprocal rational function over the trace field.
 One irreducible pole polynomial accounts for its entire limiting height, and [the field radical bound](../claims/Yin_C_G0345_v749.md#statement) applies to this fixed graph without any additional height assumption.
-Investigate the primitive specializations of these graphs at increasing reduced denominators.
+For the pole polynomial \(J\) at two separated progressions, [every substitution](../claims/Yin_C_G0345_v751.md#statement) \(J(Z^k)\), \(k\mid a\), eventually remains irreducible over the Salem field, also for growing \(k\).
+In four terms, an enduring positive-density test would [contradict the rational specialization conjecture](../claims/Yin_C_G0345_v750.md#statement) for one explicit norm polynomial at a fixed pole and sign.
+The primitive direction \((2,13)\) at pole two already admits two noncyclotomic factors, so the outstanding question concerns unbounded directions.
+At a rational pole, writing \((u,v)=(a,b)/\gcd(a,b)\), [both \(v\) and \(v+u\)](../claims/Yin_C_G0345_v753.md#statement) must acquire unbounded prime divisors, as must \(v-u\) for a noninteger rational pole.
+Test the remaining directions using their actual residue orders and the splitting of the norm polynomial.
 For a fixed input with a unit-circle conjugate, even the largest nontrivial coefficient tends to zero, with [slow decay along some periods](../claims/Yin_C_G0345_v580.md#statement).
 For each Salem input there are [characters of exact full conductor](../claims/Yin_C_G0345_v626.md#statement) with amplitude at least \(\exp(-C_P n^{1-2\delta_d})\) at infinitely many periods, where the positive saving depends only on degree \(d\).
 The [prescribed-scale period bounds](../claims/Yin_C_G0345_v634.md#statement) give half the saving with \(n\equiv1\bmod N\) in every sufficiently large quadratic window, with effective input-dependent constants.
