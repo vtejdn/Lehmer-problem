@@ -23,7 +23,8 @@ The [individual height formula](../claims/Yin_C_G0345_v769.md#statement) reduces
 Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
 For the [quadratic curve with two positive exterior conjugates](../claims/Yin_C_G0345_v789.md#example), the ordinary sections \(F(X,X^n)\) have one noncyclotomic factor for all sufficiently large \(n\).
 Test whether a factor with two exterior conjugates can persist on \(F(X^k,X^l)\) for coprime \(k,l\) with \(k\to\infty\) and \(l/k\to\infty\).
-The [radial bound](../claims/Yin_C_G0345_v776.md#statement) would give such unit factors positive log measure \(O(1/k)\); in the opposite direction, prove a lower bound on the number of exterior conjugates of every factor as \(k\) grows.
+The [two pole counts](../claims/Yin_C_G0345_v790.md#statement) force any bounded exterior signature to be divisible by six along the subsequence with \(3\mid k\).
+For a factor with exactly two exterior roots, restrict to \(3\nmid k\) and test whether its two real roots can satisfy the required radical degrees over their root fields.
 The [height at each boundary point](../claims/Yin_C_G0345_v779.md#statement) excludes curves with incompatible signs at the poles in each surviving direction, including a [reciprocal curve with four primitive faces](../claims/Yin_C_G0345_v780.md#statement).
 On curves with compatible signs, compare the integer counts of exterior conjugates required by the separate pole masses, as in the [irrational count ratio](../claims/Yin_C_G0345_v781.md#statement).
 For Salem candidates first apply the [powered edge-root and branch-orbit test](../claims/Yin_C_G0345_v785.md#statement), then investigate degrees of the actual irreducible factors on any surviving ray.
@@ -32,7 +33,9 @@ On the unrestricted lower-bound route, a [shrinking representative and all its p
 Pursue constraints with growing term count or a direct degree bound on an actual factor.
 The [simultaneous digit relations](../claims/Yin_C_G0345_v782.md#statement) supply high-rank differences on dense masks, but positive rate at dimension proportional to the inverse measure already requires each coordinate length to be at least of order degree divided by measure.
 At this side length [separate line entropies](../claims/Yin_C_G0345_v786.md#statement) overcount by a factor growing at least logarithmically in the dimension, and a [Gaussian estimate with the full covariance](../claims/Yin_C_G0345_v787.md#statement) also loses that scale.
-Use the [exact parity and sign count](../claims/Yin_C_G0345_v788.md#statement) to test how many moderate-weight binary relations can be signed to vanish over the integers.
+The [size of the largest joint fiber](../claims/Yin_C_G0345_v791.md#statement) now rules out positive entropy per site on any fixed-density mask when the side length is a fixed multiple of dimension times degree.
+Positive rate requires side length at least of order \(Jd\log(2J)\) in dimension \(J\) and degree \(d\).
+At log measure \(m\to0\) and side length of order \(d/m\), test what follows from relations in only order \(1/(m\log(1/m))\) directions, starting with the [lower bound under a root discriminant hypothesis](../claims/Yin_C_G0345_v786.md#discriminant).
 To contribute to a general gap, these joint relations still need to force a contradiction or a restriction on a factor at a controlled one-variable span.
 
 For irreducible polynomials of degree \(d\) and measure tending to one, each coefficient class modulo two contains at most [\((1+o(1))\log_2 d\) candidates](../claims/Yin_C_G0345_v707.md#statement), irrespective of the root signature.

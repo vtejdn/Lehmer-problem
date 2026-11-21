@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v932](Yin_R_G0562_v932.md#finding) The entropy of joint line-sum fibers and the scarcity of signed lifts.
+
+- [R562 v931](Yin_R_G0562_v931.md#finding) Exterior counts, the cubic obstruction and pole radical degrees.
+
 - [R562 v930](Yin_R_G0562_v930.md#finding) Factor degrees and eventual uniqueness on ordinary sections of a plane curve.
 
 - [R562 v929](Yin_R_G0562_v929.md#finding) Signed lifts of binary relations and the joint collision probability.
