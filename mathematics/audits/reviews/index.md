@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v975](Yin_R_G0562_v975.md#finding) Averaged cutoff estimates for the trace discriminant certificate and actual complementary contacts.
+
+- [R562 v974](Yin_R_G0562_v974.md#finding) Cross-pole norm gcd estimates and simultaneous coprime divisors across batches.
+
+- [R562 v973](Yin_R_G0562_v973.md#finding) Large primes and residue orders for each pole and factor on almost all directions in an explicit family.
+
+- [R562 v972](Yin_R_G0562_v972.md#finding) Uniform growth of the denominator at the first integer evaluation of a reversed block.
+
+- [R562 v971](Yin_R_G0562_v971.md#finding) Simultaneous small-prime and small-order exclusion on primitive directions.
+
+- [R562 v970](Yin_R_G0562_v970.md#finding) Fixed horizontal covers, exterior allocations and eventual irreducibility on the cubic cover.
+
 - [R562 v969](Yin_R_G0562_v969.md#finding) Independent reproduction of the finite trace-contact survey through 50,000.
 
 - [R562 v968](Yin_R_G0562_v968.md#finding) A section-only irreducibility certificate, its uniform growth threshold and an exact test on a degree-fourteen section.
