@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v976](Yin_R_G0562_v976.md#finding) Complete trace discriminant factorizations and local splitting tests in seventeen primitive directions.
+
 - [R562 v975](Yin_R_G0562_v975.md#finding) Averaged cutoff estimates for the trace discriminant certificate and actual complementary contacts.
 
 - [R562 v974](Yin_R_G0562_v974.md#finding) Cross-pole norm gcd estimates and simultaneous coprime divisors across batches.

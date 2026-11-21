@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J184, complete trace discriminant factorizations](programs/Yin_J_G0184/readme.md#full-squares) computes the irreducibility bounds at every prime in seventeen primitive directions, with [independent reproduction](../audits/reviews/Yin_R_G0562_v976.md#finding).
+
 - [J184, good-prime trace contacts](programs/Yin_J_G0184/readme.md#trace-survey) checks the octic square bound and the trace-field splitting criterion in 905 primitive directions through the prime cutoff 50,000, with [independent reproduction](../audits/reviews/Yin_R_G0562_v969.md#finding).
 
 - [J184, common factor residues](programs/Yin_J_G0184/readme.md#sieve) gives the exact common zero sets for 85 projective slopes at the first eight primes, with the [independent computation review](../audits/reviews/Yin_R_G0562_v954.md#digits).

@@ -78,3 +78,38 @@ For each linear repeated residue it lifts the unique zero \(z\) of \(Q'\) in its
 Taylor expansion at \(z\) and a unit square-root change of parameter give this radicand, and twice the valuation of the difference between the two roots recovers the contact \(b\).
 A higher-degree repeated factor contributes at least its degree to the discriminant valuation.
 In every candidate case the known linear contributions plus these degree lower bounds sum to the exact discriminant valuation, certifying \(b=1\) for every higher-degree repeated factor encountered.
+
+<a id="full-squares"></a>
+## Complete square divisors in seventeen primitive directions
+
+Take \(\ell=hk+1\) in the following finite ranges with \(h\ge2\).
+The table gives all directions for which the [largest square divisor](../../../claims/Yin_C_G0345_v827.md#statement) \(b(\Delta)\) exceeds one, with \(\Delta=|\operatorname{disc}Q|\).
+It also gives the full integer \(U\) of that criterion and its refinement \(U_{\rm tr}\) obtained by the [trace-field square test](../../../claims/Yin_C_G0345_v823.md#descent) at good primes.
+Among the seventeen directions, the other ten have \(b(\Delta)=U=U_{\rm tr}=1\).
+These values include every rational prime, including the exceptional primes and those above 50,000.
+
+| \(k\) | Range of \(h\) checked | \(\ell\) with \(b(\Delta)>1\) | \(b(\Delta)\) | \(U\) | \(U_{\rm tr}\) |
+| --- | --- | --- | --- | --- | --- |
+| 2 | 2 through 10 | 9, 19 | 25 at both | 25 at both | 25 at both |
+| 2 | 2 through 10 | 21 | \(19^2 47^2\) | \(19^2\) | 1 |
+| 3 | 2 through 6 | 7 | 9 | 9 | 9 |
+| 3 | 2 through 6 | 16 | 25 | 25 | 25 |
+| 3 | 2 through 6 | 19 | \(11^2 13^2\) | \(11^2 13^2\) | \(11^2 13^2\) |
+| 4 | 2 through 3 | 13 | \(5^2 17^2\) | \(5^2 17^2\) | \(5^2 17^2\) |
+| 5 | 2 | None | 1 | 1 | 1 |
+
+For \((2,21)\) the complete square divisor has two prime divisors with different causes.
+At 47 the two repeated trace residues have valuation one each, so their contributions to the discriminant combine into a square while neither orbit enters the octic bound.
+At 19 there is one trace orbit with valuation two and nonsquare unit, as computed in the [good-prime survey](#trace-survey).
+Consequently every reciprocal complementary resultant in this direction has absolute value one even before rational factorization.
+The four finite ranges do not give asymptotic control as both \(k\) and \(\ell/k\) grow.
+
+Run `python -B mathematics/computations/programs/Yin_J_G0184/full_squares.py` from the repository root with SymPy 1.14.0.
+The [verification program](full_squares.py) reconstructs the exact trace discriminant from the recurrence in the preceding survey and compares it with the product of the supplied factors with multiplicities.
+It proves primality of each factor, including a 233-bit factor in direction \((2,19)\).
+Below one million it uses trial division through the integer square root.
+For a larger candidate \(n\) it recursively certifies distinct primes \(q\) dividing \(n-1\), verifies their powers divide \(n-1\) and uses an integer witness \(a\) for each \(q\) with \(a^{n-1}=1\pmod n\) and \(\gcd(a^{(n-1)/q}-1,n)=1\).
+For any prime \(r\mid n\) these conditions force the multiplicative order of the corresponding witness modulo \(r\) to contain the full \(q\)-part of \(n-1\).
+Thus the product of the certified powers divides \(r-1\), and as soon as that product exceeds \(\sqrt n\) the integer \(n\) must be prime.
+The program uses SymPy factorization of \(n-1\) to obtain candidates for the recursive certificates.
+For prime divisors of \(b(\Delta)\) it checks divisibility of the exact exceptional form, and at the remaining primes it verifies every repeated trace orbit and valuation by the same discriminant accounting and lifting as the preceding survey.
