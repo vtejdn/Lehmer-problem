@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v1012](Yin_R_G0562_v1012.md#finding) checks the joint phase field of all minimal vanishing subsums, their normalized widths and both unconditional measure estimates.
+
 - [R562 v1011](Yin_R_G0562_v1011.md#finding) checks arbitrary-dimensional torsion specialization, the root measure bounds and the exact rational degree of sparse sections.
 
 - [R562 v1010](Yin_R_G0562_v1010.md#finding) checks the ternary character at 919, signed Frobenius sums and the two untwisted trace irreducibility certificates.

@@ -25,6 +25,9 @@ Even on an exceptional fiber, every positive root measure is already attained wi
 In any dimension, [torsion fibers on a toric hypersurface](../claims/Yin_C_G0345_v863.md#statement) give the same uniform degree fraction outside finitely many proper torsion cosets of the quotient torus for each primitive direction.
 For a sparse polynomial with \(s\ge3\) distinct exponents and nonzero rational coefficients, the [hyperplane specialization](../claims/Yin_C_G0345_v863.md#sparse) gives exact degree \(gR\varphi(w)\) and \(m(z)\ge b_s\varphi(w)\) for every root there, with \(R\) the primitive exponent span and \(w\) the joint order of the relative phases.
 The explicit constant \(b_s\) is independent of the coefficients, exponents and common dilation \(g\).
+On every exceptional parameter the [joint field of the phase ratios within minimal vanishing subsums](../claims/Yin_C_G0345_v864.md#statement) gives \(m(z)\gg_s\varphi(w_*)(\log\log(5W_*))^3/(\log(2W_*))^3\) for integral roots with \(m(z)\le1\).
+Here \(W_*\) is the least exponent span after dividing the differences in a minimal vanishing subsum by their common divisor, and \(w_*\) is the joint order of the phase ratios from all such subsums.
+An untwisted shrinking sequence with bounded term count would still require \(W_*\to\infty\), and its phase ratios have order one.
 The [freeness and division theorems of Checcoli and Dill](../audits/literature/CD26/Yin_U001.md#cd26-u001) concern division over a fixed saturation field, while the fields of the primitive section roots vary with the direction.
 Determine whether the exceptional invariants can support factors of sublinear degree as the primitive directions vary, starting at the untwisted invariant on the two-pole curve.
 Concentrate the search on curves surviving [torsion-translated inversion](../claims/Yin_C_G0345_v777.md#statement) and on opposite [primitive edges with the required inner and outer roots](../claims/Yin_C_G0345_v778.md#statement).
