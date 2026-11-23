@@ -10,6 +10,7 @@ At short exponent one, the degree-six witness and its sign changes give the [com
 For primitive units with one exterior reciprocal pair, the same sextic gives the [complete degree-44 classification in all directions](salem_directions.md#classification).
 
 For each of Mossinghoff's 10,236 listed small-measure polynomials, the [pole and endpoint norms](pole_catalogue.md#endpoint) exclude its roots and their negatives as short coordinates possessing an integral graph partner at any \(q\ge2\).
+For \(q\ge5\), testing [every admissible short power of the 944 generators through degree 44](power_catalogue.md#coverage) shows that a primitive unit root must have even degree at least 46.
 
 <a id="exclusion"></a>
 ## Exclusion at every coefficient height and dilation

@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J185, primitive unit roots at every \(q\ge5\)](programs/Yin_J_G0185/power_catalogue.md#coverage) gives an even degree of at least 46 for all signs and exponent directions, with an [independent calculation using resultants](../audits/reviews/Yin_R_G0562_v1038.md#finding).
+
 - [J185, integral partners of the 10,236 tabulated short coordinates](programs/Yin_J_G0185/pole_catalogue.md#endpoint) excludes every signed input by the norm at the pole and at minus one, with [independent reproduction](../audits/reviews/Yin_R_G0562_v1037.md#finding).
 
 - [J185, Salem factors through degree 44 in every direction](programs/Yin_J_G0185/salem_directions.md#classification) reduces the remaining directions to 3,034 additional signed parents, with [independent reproduction](../audits/reviews/Yin_R_G0562_v1034.md#finding).

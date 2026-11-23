@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v1039](Yin_R_G0562_v1039.md#finding) checks the uniform Mahler measure bound and short-exponent cutoff at every coefficient height from five.
+
+- [R562 v1038](Yin_R_G0562_v1038.md#finding) reproduces the exclusion of every admissible signed short power of the 944 tabulated generators through degree 44.
+
 - [R562 v1037](Yin_R_G0562_v1037.md#finding) independently verifies both signed norm tests for all 10,236 table rows and every consecutive coefficient height from two.
 
 - [R562 v1036](Yin_R_G0562_v1036.md#finding) checks the integral shifted-power construction and the norm and coefficient obstructions to using its units in a four-term section.
