@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J185, Salem factors through degree 44 in every direction](programs/Yin_J_G0185/salem_directions.md#classification) reduces the remaining directions to 3,034 additional signed parents, with [independent reproduction](../audits/reviews/Yin_R_G0562_v1034.md#finding).
+
 - [J185, classification through primitive degree 44](programs/Yin_J_G0185/short_one.md#classification) finds exactly one sextic up to sign when \(u=1\) and \(q\ge2\), over every long exponent and common dilation, with a [review of the finite reduction and factor search](../audits/reviews/Yin_R_G0562_v1030.md#finding).
 
 - [J185, units in four-term sections with consecutive coefficients](programs/Yin_J_G0185/readme.md) exhibits a sextic Salem factor at \(q=2\), excludes the classical Lehmer unit for all heights and exponents, and finds the sole occurrence among 72 small Salem inputs, with [independent reproduction](../audits/reviews/Yin_R_G0562_v1029.md#finding).

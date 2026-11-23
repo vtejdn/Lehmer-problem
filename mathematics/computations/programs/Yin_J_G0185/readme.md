@@ -7,6 +7,7 @@ author: Yin
 The coefficients \(2,3\) give a nonmonic parent with a degree-six Salem factor. [Exact witness and finite search](witnesses.md#witness)
 The [catalogue test](catalogue.md#catalogue) treats the 72 retained Salem numbers, including a degree-eight witness at \(q=1\), and also examines [parents with short exponent one](catalogue.md#short-one).
 At short exponent one, the degree-six witness and its sign changes give the [complete classification for \(q\ge2\) through primitive degree 44](short_one.md#classification).
+For primitive units with one exterior reciprocal pair, the same sextic gives the [complete degree-44 classification in all directions](salem_directions.md#classification).
 
 <a id="exclusion"></a>
 ## Exclusion at every coefficient height and dilation
