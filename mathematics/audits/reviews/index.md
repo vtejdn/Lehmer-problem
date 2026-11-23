@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v1036](Yin_R_G0562_v1036.md#finding) checks the integral shifted-power construction and the norm and coefficient obstructions to using its units in a four-term section.
+
+- [R562 v1035](Yin_R_G0562_v1035.md#finding) checks the number and locations of the nonreal roots forced on any auxiliary for the signed norm-one Salem trace construction.
+
 - [R562 v1034](Yin_R_G0562_v1034.md#finding) checks the Salem classification at every short exponent and [the sign of the inverse construction](Yin_R_G0562_v1034.md#sign).
 
 - [R562 v1033](Yin_R_G0562_v1033.md#finding) checks the trace criterion, the family of independent unit pairs, and the trace obstruction for the Chebyshev construction.
