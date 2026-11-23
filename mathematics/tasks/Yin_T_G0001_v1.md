@@ -189,7 +189,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-resume-alternating-blocks-2026-11-17)
+[Selected decision](#decision-consecutive-unit-construction-2026-11-23)
 
 ## Lifecycle and completion
 
@@ -688,6 +688,19 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unrestricted Lehmer problem](#contract) | A uniform positive gap or a rigorous proof of arbitrarily small positive total Mahler measures. |
+
+### Decision consecutive-unit-construction-2026-11-23
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-23T07:47 |
+| status | active |
+| authority | Yin explicitly raised the default shared weekly stopping threshold to 99.5 percent and directed continuation of the construction for infinitely many consecutive coefficient heights. |
+| reason | Seek nontorsion algebraic units in the four-term family at unbounded heights under the existing account and monitoring conditions. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unrestricted Lehmer problem](#contract) | The existing exterior-measure estimate would turn such a construction into a sequence of positive measures tending to zero. |
 
 ## Execution boundary
 

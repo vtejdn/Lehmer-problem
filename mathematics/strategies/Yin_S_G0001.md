@@ -16,7 +16,7 @@ author: Yin
 The [current Task instruction](../tasks/Yin_T_G0001_v1.md#strategy-discretion) releases every earlier human-imposed strategy restriction for G0001.
 The following allocation adopts the latest comparison as an initial research judgment, with no fixed effort shares, mandatory proof/counterexample ordering or permanent exclusion of another method.
 The main researcher may change this allocation as mathematical evidence, a concrete new idea or expected information gain warrants, without another strategy-specific approval.
-The [resumed Task](../tasks/Yin_T_G0001_v1.md#decision-resume-alternating-blocks-2026-11-17) selects the inquiries below under its standing execution conditions.
+The [current construction assignment](../tasks/Yin_T_G0001_v1.md#decision-consecutive-unit-construction-2026-11-23) selects the inquiries below under its standing execution conditions.
 Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
 
 The [individual height formula](../claims/Yin_C_G0345_v769.md#statement) reduces the construction on a fixed plane curve to finding a nontorsion irreducible factor of degree \(o(W)\), where \(W\) is the exponent span of the section.
@@ -50,6 +50,8 @@ Writing \(k=v/u\), every remaining direction has \(\log k\gg q^{1/3}\log q\) and
 At \(u=1\) the [signed pole norm](../claims/Yin_C_G0345_v877.md#statement) excludes \(X^v(qX-q-1)-((q+1)X-q)\) for every \(v>1\) and \(q\ge3\).
 The [sextic Salem factor at \(q=2,v=13\)](../computations/programs/Yin_J_G0185/witnesses.md#witness) shows that the threshold \(q\ge3\) for this exclusion is sharp.
 Across all heights and exponents, the [test of 72 small Salem numbers](../computations/programs/Yin_J_G0185/catalogue.md#catalogue) gives just one occurrence, an octic factor at \(q=1,u=3,v=14\).
+All powers, roots and root-of-unity twists of the [sextic seed](../claims/Yin_C_G0345_v881.md#statement) produce only its signed copies and lifts at \(q=2\).
+The [torsion-translate exclusion](../claims/Yin_C_G0345_v882.md#statement) rules out constructions from units in varying totally real or CM fields even after taking roots and multiplying by roots of unity, at every \(q\ge2\).
 The classical degree-ten Lehmer unit is [excluded at every height and dilation](../computations/programs/Yin_J_G0185/readme.md#exclusion).
 For \(u=1\) the [classification through primitive degree 44](../computations/programs/Yin_J_G0185/short_one.md#classification) leaves only the signed copies and lifts of the sextic at \(q=2\) among all \(q\ge2\), with no bound on \(v\).
 For \(u=1,\ q\ge3\), test the surviving normalized sign by asking whether a Salem polynomial \(S\) of degree at least 46 can satisfy \(q^{\deg S}S((q+1)/q)=1\) and the [trace-field and power-sum conditions](../claims/Yin_C_G0345_v877.md#statement) at arbitrarily large \(q\).
