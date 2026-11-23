@@ -57,6 +57,7 @@ For \(u=1\) the [classification through primitive degree 44](../computations/pro
 For any \(u\) the [classification in the Salem case](../computations/programs/Yin_J_G0185/salem_directions.md#classification) leaves the same sextic through primitive degree 44, using the catalogue author's completeness below \(1.3\).
 To construct a Salem example without guessing the exponents, seek an integral trace \(2+w\) with one \(0<w<2/q\), all other shifted traces in \((-4,0)\), and \((2q+1)^2/(1-q(q+1)w)\) integral.
 The [inverse construction](../claims/Yin_C_G0345_v883.md#criterion) then produces a primitive unit and its two coprime powers.
+Testing the [10,236 tabulated small-measure short coordinates](../computations/programs/Yin_J_G0185/pole_catalogue.md#endpoint) at every height \(q\ge2\) and both signs gives no integral second coordinate, even under the weaker divisibility criterion.
 An [explicit family at every \(q\ge6\)](../claims/Yin_C_G0345_v883.md#family) achieves the stronger signed norm one and produces two units, but a second exterior real pair makes them multiplicatively independent.
 For \(u=1\) the [signed pole norm](../claims/Yin_C_G0345_v877.md#statement) forces the norm-one branch, whereas the general Salem construction also permits nonunit pole divisors.
 In the signed norm-one search write \(H(x)=x^n+(q(q+1)x-1)G(x)\) for the minimal polynomial of \(w\).

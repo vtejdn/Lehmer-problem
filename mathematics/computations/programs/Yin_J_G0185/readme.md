@@ -9,6 +9,8 @@ The [catalogue test](catalogue.md#catalogue) treats the 72 retained Salem number
 At short exponent one, the degree-six witness and its sign changes give the [complete classification for \(q\ge2\) through primitive degree 44](short_one.md#classification).
 For primitive units with one exterior reciprocal pair, the same sextic gives the [complete degree-44 classification in all directions](salem_directions.md#classification).
 
+For each of Mossinghoff's 10,236 listed small-measure polynomials, the [pole and endpoint norms](pole_catalogue.md#endpoint) exclude its roots and their negatives as short coordinates possessing an integral graph partner at any \(q\ge2\).
+
 <a id="exclusion"></a>
 ## Exclusion at every coefficient height and dilation
 

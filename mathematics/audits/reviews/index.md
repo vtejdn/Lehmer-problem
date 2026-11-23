@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v1037](Yin_R_G0562_v1037.md#finding) independently verifies both signed norm tests for all 10,236 table rows and every consecutive coefficient height from two.
+
 - [R562 v1036](Yin_R_G0562_v1036.md#finding) checks the integral shifted-power construction and the norm and coefficient obstructions to using its units in a four-term section.
 
 - [R562 v1035](Yin_R_G0562_v1035.md#finding) checks the number and locations of the nonreal roots forced on any auxiliary for the signed norm-one Salem trace construction.
