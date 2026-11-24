@@ -1,5 +1,25 @@
 # Reviews Index
 
+- [R562 v1143](Yin_R_G0562_v1143.md#finding) checks the half-block total-measure transfer and the odd relations among the sign characters.
+
+- [R562 v1142](Yin_R_G0562_v1142.md#finding) checks the integral index bound, generator count and the height consequences for commuting conjugations.
+
+- [R562 v1141](Yin_R_G0562_v1141.md#finding) checks the fixed-space and rational generation conclusions for the conjugation subgroup at its recorded scope.
+
+- [R562 v1140](Yin_R_G0562_v1140.md#finding) checks the infimum over proper-normal-norm kernels and the rank criterion for eligible normal fields.
+
+- [R562 v1139](Yin_R_G0562_v1139.md#finding) checks the constituent fields, spherical packing and the logarithmic rank bound at degree records.
+
+- [R562 v1138](Yin_R_G0562_v1138.md#finding) checks the degree-twelve search independently and the finite exclusion at the plastic-number endpoint.
+
+- [R562 v1137](Yin_R_G0562_v1137.md#finding) checks the reflection-group reduction and the exact all-degree minimum at argument rank at most one.
+
+- [R562 v1136](Yin_R_G0562_v1136.md#finding) checks the short-relation rank, face reciprocity and the number of vertices of the lifted support.
+
+- [R562 v1135](Yin_R_G0562_v1135.md#finding) checks the individual Frobenius lift estimate at the compressed degree across ramified and unramified primes.
+
+- [R562 v1134](Yin_R_G0562_v1134.md#finding) checks the shortest-vector orbit bounds and their archimedean and nonarchimedean consequences.
+
 - [R562 v1133](Yin_R_G0562_v1133.md#finding) checks the all-prime width bound, nonmonic resultant and the single-frequency implication.
 
 - [R562 v1132](Yin_R_G0562_v1132.md#finding) checks the degree-42 and endpoint estimates and independently recomputes the 944 trace counts using Hermite forms.

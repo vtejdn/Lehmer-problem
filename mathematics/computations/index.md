@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J190, the low-degree search at the plastic-number threshold](programs/Yin_J_G0190/readme.md#exhaustion) exhausts reciprocal inputs through degree twelve at a rational cutoff above the plastic number, with an [independent enumeration from trace coefficients](../audits/reviews/Yin_R_G0562_v1138.md#finding).
+
 - [J189, the unit-circle pairs of the 944 small cores](programs/Yin_J_G0189/readme.md#circle) verifies the finite exclusion in the all-degree argument-rank-one bound, with an [independent Hermite-form computation](../audits/reviews/Yin_R_G0562_v1132.md#finding).
 
 - [J188, the degree-55 minimum when all nonzero radial ranks are at least two](programs/Yin_J_G0188/readme.md#cut) certifies the two cutoffs, the fourteen small signatures and the degree-eighteen Galois computation, with an [independent recomputation](../audits/reviews/Yin_R_G0562_v1120.md#finding).
