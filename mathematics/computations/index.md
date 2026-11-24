@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J189, the unit-circle pairs of the 944 small cores](programs/Yin_J_G0189/readme.md#circle) verifies the finite exclusion in the all-degree argument-rank-one bound, with an [independent Hermite-form computation](../audits/reviews/Yin_R_G0562_v1132.md#finding).
+
 - [J188, the degree-55 minimum when all nonzero radial ranks are at least two](programs/Yin_J_G0188/readme.md#cut) certifies the two cutoffs, the fourteen small signatures and the degree-eighteen Galois computation, with an [independent recomputation](../audits/reviews/Yin_R_G0562_v1120.md#finding).
 
 - [J187, the Salem-orthogonal minimum through degree 55](programs/Yin_J_G0187/readme.md#cut) certifies all 1339 catalogue comparisons used in the finite classification, with [independent reproduction](../audits/reviews/Yin_R_G0562_v1113.md#computation).
