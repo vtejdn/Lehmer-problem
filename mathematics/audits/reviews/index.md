@@ -1,5 +1,33 @@
 # Reviews Index
 
+- [R562 v1115](Yin_R_G0562_v1115.md#finding) checks the signed-representation criterion, the integer measure multiplier at all degrees and the bounded-measure dichotomy.
+
+- [R562 v1114](Yin_R_G0562_v1114.md#finding) checks descent of the Salem subfield and detection by the ordinary relative norm for units with totally real trace.
+
+- [R562 v1113](Yin_R_G0562_v1113.md#finding) checks the orthogonal minimum through degree 55, with a [separate integer recomputation](Yin_R_G0562_v1113.md#computation) of the catalogue comparisons and trace signatures.
+
+- [R562 v1112](Yin_R_G0562_v1112.md#finding) checks the commuting-conjugation quotient, exclusion over totally real constants and the exact nonreal-trace witness at degree 18.
+
+- [R562 v1111](Yin_R_G0562_v1111.md#finding) checks the finite sign criterion, the precise ranks and the marked Salem trace-field classification.
+
+- [R562 v1110](Yin_R_G0562_v1110.md#finding) checks algebraic detection and the identification of a large detected strict degree record as a signed primitive Salem conjugate.
+
+- [R562 v1109](Yin_R_G0562_v1109.md#finding) checks the projection bounds for arbitrary units, including the exact decomposition of the unrestricted infimum.
+
+- [R562 v1108](Yin_R_G0562_v1108.md#finding) checks cross-field norm projections, orthogonality and the sharp Mahler lower bound under arbitrary products and radicals of Salem conjugates.
+
+- [R562 v1107](Yin_R_G0562_v1107.md#finding) checks the complete list of bounded-degree trace correspondences and its bounded-measure realizations.
+
+- [R562 v1106](Yin_R_G0562_v1106.md#finding) checks the joint signed permutation groups, abelian intersection and Frobenius densities for the stated Salem trace actions.
+
+- [R562 v1105](Yin_R_G0562_v1105.md#finding) checks quadratic-extension uniqueness over arbitrary large trace fields, lifting of automorphisms and the totally real trace count.
+
+- [R562 v1104](Yin_R_G0562_v1104.md#finding) checks the distinct-field height bound, common Salem trace-field count and uniqueness of the exceptional place.
+
+- [R562 v1103](Yin_R_G0562_v1103.md#finding) checks the bounds for real rays, houses and long coefficient agreement under the indicated real-output hypotheses.
+
+- [R562 v1102](Yin_R_G0562_v1102.md#finding) checks endpoint parity and the construction of even-degree trace fields with a uniform linear Salem lower bound.
+
 - [R562 v1101](Yin_R_G0562_v1101.md#finding) checks the complete positive spectrum below two in a Salem field of degree at least six and both exact rational interpolation bounds.
 
 - [R562 v1100](Yin_R_G0562_v1100.md#finding) checks the saturated unit group, all power degrees, high-degree spectrum, and the trace-field generator bound.
