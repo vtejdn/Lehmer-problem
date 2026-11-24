@@ -1,5 +1,19 @@
 # Reviews Index
 
+- [R562 v1067](Yin_R_G0562_v1067.md#finding) checks the circle deficit for overlapping root neighborhoods, the coefficient and degree inequalities, and the exact multiplicity formulation.
+
+- [R562 v1066](Yin_R_G0562_v1066.md#finding) checks the relative-unit area and index bounds, the explicit exclusion for all radicals of \(T\) and the remaining independent direction.
+
+- [R562 v1065](Yin_R_G0562_v1065.md#finding) checks the coefficient rate when every allowed residue class must occur and the criterion for simultaneous nonzero row values.
+
+- [R562 v1064](Yin_R_G0562_v1064.md#finding) checks simultaneous exact local valuations after enlarging the width and their compatibility with small heights on the original seed.
+
+- [R562 v1063](Yin_R_G0562_v1063.md#finding) checks the local discriminants of the Chebyshev quadratic extension and the resulting bound in terms of generator-field discriminants.
+
+- [R562 v1062](Yin_R_G0562_v1062.md#finding) checks norm descent from radicals to the Chebyshev relative units, the exterior embedding count and the saturation index and parity tests.
+
+- [R562 v1061](Yin_R_G0562_v1061.md#finding) checks the fixed-power coefficient rate and its signed-row characterization of the unrestricted Lehmer infimum.
+
 - [R562 v1060](Yin_R_G0562_v1060.md#finding) checks the uniform count of sparse-contact primes over an entire tail for a varying unit and the prime-window consequence for growing term counts.
 
 - [R562 v1059](Yin_R_G0562_v1059.md#finding) checks the relation-space dimension bound for a repeated-factor obstruction and the reflection forced in the equality case.
