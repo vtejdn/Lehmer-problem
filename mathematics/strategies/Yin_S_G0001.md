@@ -16,6 +16,15 @@ author: Yin
 The [current Task decision](../tasks/Yin_T_G0001_v1.md#current-decision) calls for a complete answer to Lehmer's problem.
 The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
 The main researcher may pursue this construction, investigate a uniform lower bound, or select any other approach as the evidence warrants, including routes currently paused in the allocation.
+Give priority now to the integer conditions on a polynomial of small positive measure and its multiples.
+For the full problem, seek a degree-independent lower bound for [norm-one generators of \(F(i)/F\)](../claims/Yin_C_G0901_v32.md#statement), where \(F=\mathbb Q(\beta+\beta^{-1})\) contains \(\sqrt3\).
+Every sufficiently small positive input supplies such a unit at a cost of at most four in total logarithmic measure, and the quadratic extension is unramified at all finite primes.
+One may also require [splitting above any prescribed finite list of rational primes](../claims/Yin_C_G0901_v33.md#statement), including prescribed divisibility of their residue degrees in the trace field.
+For the integral coordinates \(t,y\) on \(t^2+y^2=4\), the [archimedean formula](../claims/Yin_C_G0901_v34.md#embeddings) expresses the total measure in terms of the imaginary parts of their images at every embedding of \(F\).
+Investigate the conjugates of the associated [positive algebraic integer](../claims/Yin_C_G0901_v34.md#integer) when its degree grows, including the case of at most two nonreal pairs in the trace field arising from Salem inputs.
+The [coefficient formula for finitely many forbidden orders](../claims/Yin_C_G0901_v29.md#statement) isolates the contribution of each tested integer resultant.
+For inputs whose tested resultants are all units, another source of a uniform lower bound is needed.
+On the construction side, [radial perturbations of primitive roots](../claims/Yin_C_G0901_v26.md#matching) pass every bounded-prime conductor test in the stated range but fail the integer resultant test at their own conductor.
 
 The [individual height formula](../claims/Yin_C_G0345_v769.md#statement) reduces the construction on a fixed plane curve to finding a nontorsion irreducible factor of degree \(o(W)\), where \(W\) is the exponent span of the section.
 For each fixed rank-two template, [specialization of its isogeny components](../claims/Yin_C_G0345_v859.md#covers) and [compression of radicals](../claims/Yin_C_G0345_v861.md#statement) give \(m(z)\ge b_F\varphi(w)\) for nontorsion roots off one finite set of torsion invariants for each primitive direction, simultaneously at every common dilation.
@@ -762,8 +771,17 @@ Forbidding order four for Lehmer's degree-ten polynomial raises the coefficient 
 After changing to an [irreducible representative of exactly the same measure](../claims/Yin_C_G0901_v22.md#statement), every prescribed finite forbidden set permits a base below two, with an absolute margin.
 The [joint price for a cyclotomic input](../claims/Yin_C_G0901_v18.md#statement) is the maximum of its normalized tested resultants and zero.
 The [exact multiplicity formula](../claims/Yin_C_G0901_v19.md#statement) also covers shared zeros and quantifies the cost of prescribing positive multiplicities at all exceptional orders.
-For a general input, the remaining issue is the [nonatomic term in the dual formula](../claims/Yin_C_G0901_v21.md#statement).
 The [atomic masses are uniform on each forbidden primitive orbit](../claims/Yin_C_G0901_v23.md#statement), independently of any regularity of the remaining measure.
+The [return estimates for protected orbits](../claims/Yin_C_G0901_v28.md#statement) and the [mean over pairs of large primes](../claims/Yin_C_G0901_v29.md#pairs) identify the entire nonatomic part as a multiple of normalized arc length.
+For a fixed seed and finite forbidden set the resulting coefficient rate is exactly the largest of its log Mahler measure and its orbit averages.
+For the substituted Lehmer polynomials above, all tested resultants have absolute value one, so the full rate equals \(m(L)\) under any cofactor degree budget growing faster than the multiplicity.
+On the original seed, prescribing [any fixed positive rational proportion](../claims/Yin_C_G0901_v27.md#statement) of the fourth factor likewise recovers \(m(L)\).
+At bounded multiplicity the [integer support estimate](../claims/Yin_C_G0901_v30.md#statement) still forces a strictly greater rate if at most five fourth factors occur, even at unrestricted degree.
+In particular for an input of small positive measure \(h\) with \(|P(1)|>1\), attaining the Mahler rate under a fixed bound \(c\) on the multiplicity at one requires \(c+1\ge(\log 2)/h\).
+After taking the infimum over inputs, a [fixed cap of at most three at either sign](../claims/Yin_C_G0901_v31.md#statement) gives exactly the exceptional-unit infimum, even for arbitrary integer cofactors.
+For any fixed cap, [vanishing on inputs of varying degree](../claims/Yin_C_G0901_v31.md#diagonal) under the explicit multiplicity growth condition would already supply exceptional units with positive measures tending to zero.
+For infinite exclusions, [near-minimizing cofactors for each fixed nontorsion unit](../claims/Yin_C_G0901_v24.md#statement) require unbounded normalized degree on the multiples of every fixed order.
+Forbidding all multiples of an order can [recover the full circle maximum along dilations](../claims/Yin_C_G0901_v25.md#statement), even on representatives of arbitrarily small positive measure if the unrestricted gap vanishes.
 For algebraic-unit differences at a finite set of torsion points, [vanishing of the restricted infimum](../claims/Yin_C_G0901_v17.md#statement) is equivalent to vanishing among exceptional units.
 The [primitive radical and its finite list of torsion differences](../claims/Yin_C_G0901_v20.md#statement) characterize existence and give the exact least exceptional measure in the fixed input's divisible group.
 For a fixed input and residue set, [the rate when every row must occur](../claims/Yin_C_G0901_v11.md#statement) is determined by the rank lost on deleting subsets of the allowed powers.

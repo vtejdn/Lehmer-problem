@@ -1,5 +1,27 @@
 # Reviews Index
 
+- [R562 v1091](Yin_R_G0562_v1091.md#finding) checks the algebraic integer from the nonreal embeddings, the norm bound and its Salem specialization.
+
+- [R562 v1090](Yin_R_G0562_v1090.md#finding) checks the unrestricted reduction with all primes over a prescribed list splitting, residue-degree divisibility and the absolute ramification bound.
+
+- [R562 v1089](Yin_R_G0562_v1089.md#finding) checks the unramified quadratic norm-one reduction, its measure cost and the count of complex places for Salem inputs.
+
+- [R562 v1088](Yin_R_G0562_v1088.md#finding) checks the infimum of capped rates, its exact exceptional-unit cases and the varying-degree zero criterion.
+
+- [R562 v1087](Yin_R_G0562_v1087.md#finding) checks the unrestricted-degree lower bound at bounded cyclotomic multiplicity and its dependence on support size.
+
+- [R562 v1086](Yin_R_G0562_v1086.md#finding) checks the two-prime mean, classification of every feasible even measure and the exact coefficient rate with finitely many forbidden orders.
+
+- [R562 v1085](Yin_R_G0562_v1085.md#finding) checks return estimates near primitive fractions and the residual moment classification under finite exceptional integrals.
+
+- [R562 v1084](Yin_R_G0562_v1084.md#finding) checks the short-interval return bound and the full Mahler rate at any fixed positive rational multiplicity profile.
+
+- [R562 v1083](Yin_R_G0562_v1083.md#finding) checks the nonintegral radial family, all power tests with bounded prime count and failure at the matching conductor.
+
+- [R562 v1082](Yin_R_G0562_v1082.md#finding) checks recovery of the circle maximum along dilations when every multiple of a fixed conductor is forbidden.
+
+- [R562 v1081](Yin_R_G0562_v1081.md#finding) checks the necessary multiplicity and degree on the multiples of every conductor in a near-optimal cofactor.
+
 - [R562 v1080](Yin_R_G0562_v1080.md#finding) checks uniform atomic masses on every forbidden orbit, including the finite Fourier transform for imprimitive Dirichlet characters.
 
 - [R562 v1079](Yin_R_G0562_v1079.md#finding) checks the strict below-base-two integer witness, irreducibility of every power substitution and transfer to any finite forbidden set.
