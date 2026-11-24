@@ -726,11 +726,13 @@ Its [source and proof review](../audits/reviews/Yin_R_G0562_v1046.md#finding) di
 On a shrinking sequence the [original-seed estimate](../claims/Yin_C_G0901_v5.md#short) supplies short rows at all primes above any fixed positive fraction of the degree and in a quantified sublinear range.
 The [review of the residue and power-degree bounds](../audits/reviews/Yin_R_G0562_v1047.md#finding) includes the composition obstruction at fixed positive measure.
 The [ordinary row resultant](../claims/Yin_C_G0901_v6.md#statement) is divisible by \(p^{\sum_Cm_C^2}\) at the indicated primes, and the exponent is [sharp on genuine contact rows](../audits/reviews/Yin_R_G0562_v1049.md#finding) when their height and width are unrestricted.
-To obtain a uniform coefficient gap from this calculation one needs additional information at the widths and heights of the minimizing rows.
+At the [least possible width](../claims/Yin_C_G0901_v7.md#statement) both valuations are simultaneously sharp within a height factor \(32\sqrt{e+2}\) of the unconstrained minimum at that width.
+This leaves the absolute height of that minimum and the effect of additional row coefficients to be determined.
 Through five terms the [reciprocal interpolation bound](../claims/Yin_C_G0903_v2.md#statement) already gives \(\log H/p\ge(\log2)/24\).
-At six terms the [power-drop and reflection cases](../claims/Yin_C_G0903_v3.md#statement) and [aligned triangular rows](../claims/Yin_C_G0903_v5.md#statement) give further positive gaps.
-For power-degree-preserving seeds, [six-term witnesses at linear prime scales](../claims/Yin_C_G0903_v4.md#degree) require two bounded relations on the exponent differences at large degree.
-At suitable sublinear primes any witnesses on a shrinking sequence of such seeds must have at least seven terms.
+For every integer \(p\ge3\), [six occupied terms and row width at most twice the input degree](../claims/Yin_C_G0903_v6.md#statement) give both \(m(\alpha)\) and \(\log H/p\) at least \((\log 2)/720000\).
+A shrinking sequence with these widths therefore requires at least seven terms at every qualifying prime.
+For arbitrary six-term reciprocal double contacts, the [pair and triple tests](../claims/Yin_C_G0903_v7.md#statement) determine when the interpolation pencil decomposes.
+When both fail, the normalized power degree is \(O(W^{1/4})\) in the normalized support span \(W\).
 For other bounded-area row templates, determine whether a [repeated geometric factor of the horizontal determinant](../claims/Yin_C_G0903_v5.md#area) can carry the original unit.
 At each prime, use the [two polynomial equations](../claims/Yin_C_G0345_v408.md#factor) to study when the quotient of the rows can recover a unit from its \(p\)-th power with the prescribed derivative.
 The [exact census through degree five](../computations/programs/Yin_J_G0177/readme.md#census) excludes every qualifying pair at the full cutoff through \(p=1009\).

@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v1055](Yin_R_G0562_v1055.md#finding) checks the pair and triple decomposition tests for the six-pole interpolation pencil and the fourth-root estimate when both tests fail.
+
+- [R562 v1054](Yin_R_G0562_v1054.md#finding) checks the six-term uniform gap at near-degree row width, its explicit constants and the fixed higher-multiplicity extension.
+
+- [R562 v1053](Yin_R_G0562_v1053.md#finding) checks simultaneous sharpness of the norm and resultant valuations at the least possible width and the relative height bound.
+
 - [R562 v1052](Yin_R_G0562_v1052.md#finding) checks the degree-six bound for translated or reflected three-point row supports and the mixed-area alternative at higher multiplicity.
 
 - [R562 v1051](Yin_R_G0562_v1051.md#finding) checks the six-term bounds under power-degree loss or support reflection, including the descent to the original measure.
