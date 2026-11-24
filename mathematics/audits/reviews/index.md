@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v1043](Yin_R_G0562_v1043.md#finding) checks the finite-prime estimates, exceptional-prime count and the equivalence of the degree tests to zero gap.
+
+- [R562 v1042](Yin_R_G0562_v1042.md#finding) checks the radial bound for negative trace values, the equality criterion and the exact change of width under power substitution.
+
+- [R562 v1041](Yin_R_G0562_v1041.md#finding) checks the fixed-width two-row estimate, removal of common divisors and the quantifiers of its zero-gap consequence.
+
+- [R562 v1040](Yin_R_G0562_v1040.md#finding) checks the minimum over all integer products of the two Chebyshev units and its uniform growth with coefficient height.
+
 - [R562 v1039](Yin_R_G0562_v1039.md#finding) checks the uniform Mahler measure bound and short-exponent cutoff at every coefficient height from five.
 
 - [R562 v1038](Yin_R_G0562_v1038.md#finding) reproduces the exclusion of every admissible signed short power of the 944 tabulated generators through degree 44.

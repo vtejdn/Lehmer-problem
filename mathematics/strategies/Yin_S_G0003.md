@@ -13,6 +13,9 @@ author: Yin
 **Current allocation.** This route is paused and available for selection under the [current G0001 decision](../tasks/Yin_T_G0001_v1.md#current-decision).
 Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), determinant and Gram mechanisms may be reassessed as proof alternatives or as support for actual constructions, without a fixed ordering behind counterexample work.
 
+For the integral trace form, the [radial estimate](../claims/Yin_C_G0214_v2.md#bound) retains the full measure in the limit exactly when all exterior conjugates have the same modulus.
+The [independently reviewed scaling law](../audits/reviews/Yin_R_G0562_v1042.md#finding) gives the precise width cost of detecting a negative direction after power substitution.
+
 <a id="arithmetic-random-matrix-assessment-2026-11-05"></a>
 ## Arithmetic random-matrix comparison
 
