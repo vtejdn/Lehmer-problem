@@ -1,5 +1,23 @@
 # Reviews Index
 
+- [R562 v1124](Yin_R_G0562_v1124.md#finding) checks the least exterior count in the divisible group under the alternating or symmetric signed action and its degree-eighteen application.
+
+- [R562 v1123](Yin_R_G0562_v1123.md#finding) checks simultaneous real embeddings of independent units and the increasing-rank height bound.
+
+- [R562 v1122](Yin_R_G0562_v1122.md#finding) checks the height lower bound for real conjugates, the relative-degree estimate and the implications for signatures.
+
+- [R562 v1121](Yin_R_G0562_v1121.md#finding) checks the witness degree bound and both finite procedures for testing exterior counts.
+
+- [R562 v1120](Yin_R_G0562_v1120.md#finding) independently recomputes the catalogue cutoffs, signatures and Frobenius evidence for the radial-rank minimum through degree 55.
+
+- [R562 v1119](Yin_R_G0562_v1119.md#finding) checks the rational representation criterion for the least radial rank and the constructed examples at arbitrary ranks.
+
+- [R562 v1118](Yin_R_G0562_v1118.md#finding) checks the three-pair lower bound, specialization costs and the necessary additive relation.
+
+- [R562 v1117](Yin_R_G0562_v1117.md#finding) checks the Artin obstruction for the trace discriminant and the families with a prescribed set of exterior real places.
+
+- [R562 v1116](Yin_R_G0562_v1116.md#finding) checks transfer to bounded exterior counts and the complex Salem consequence.
+
 - [R562 v1115](Yin_R_G0562_v1115.md#finding) checks the signed-representation criterion, the integer measure multiplier at all degrees and the bounded-measure dichotomy.
 
 - [R562 v1114](Yin_R_G0562_v1114.md#finding) checks descent of the Salem subfield and detection by the ordinary relative norm for units with totally real trace.

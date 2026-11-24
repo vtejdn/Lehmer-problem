@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J188, the degree-55 minimum when all nonzero radial ranks are at least two](programs/Yin_J_G0188/readme.md#cut) certifies the two cutoffs, the fourteen small signatures and the degree-eighteen Galois computation, with an [independent recomputation](../audits/reviews/Yin_R_G0562_v1120.md#finding).
+
 - [J187, the Salem-orthogonal minimum through degree 55](programs/Yin_J_G0187/readme.md#cut) certifies all 1339 catalogue comparisons used in the finite classification, with [independent reproduction](../audits/reviews/Yin_R_G0562_v1113.md#computation).
 
 - [J186, a strict bound below base two](programs/Yin_J_G0186/readme.md#below-two) gives an exact integer one-norm at multiplicity 160 for a cofactor nonzero at one, with a [separate computation of the coefficients](../audits/reviews/Yin_R_G0562_v1079.md#finding).
