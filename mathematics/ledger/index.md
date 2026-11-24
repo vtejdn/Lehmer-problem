@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v325](Yin_L_G0462_v325.md#support) | The number of terms in two independent rows at large exponents for a fixed seed | Confluent evaluation minors give a support floor in terms of the least power degree at every sufficiently large exponent for a fixed seed and width. |
 | [Yin_L_G0462_v324](Yin_L_G0462_v324.md#repair) | Prime-power coefficient sums and a trace with no real root below minus four | An unreviewed deformation gives integral units and leaves one nonreal trace pair. The prime-power norm and exponent tests are recorded for comparison. |
 | [Yin_L_G0462_v323](Yin_L_G0462_v323.md#blocks) | Binary block matches in Salem return paths near two | The exact transition weights bound how often collision paths can follow a single prediction for each block. |
 | [Yin_L_G0462_v322](Yin_L_G0462_v322.md#square) | A real extremizer for half-degree squares | The exact excess of an integral approximation identifies where the pointwise construction incurs its cost. |

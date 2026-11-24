@@ -728,12 +728,17 @@ The [review of the residue and power-degree bounds](../audits/reviews/Yin_R_G056
 The [ordinary row resultant](../claims/Yin_C_G0901_v6.md#statement) is divisible by \(p^{\sum_Cm_C^2}\) at the indicated primes, and the exponent is [sharp on genuine contact rows](../audits/reviews/Yin_R_G0562_v1049.md#finding) when their height and width are unrestricted.
 At the [least possible width](../claims/Yin_C_G0901_v7.md#statement) both valuations are simultaneously sharp within a height factor \(32\sqrt{e+2}\) of the unconstrained minimum at that width.
 This leaves the absolute height of that minimum and the effect of additional row coefficients to be determined.
+For arbitrary widths the [asymptotic resultant estimate](../claims/Yin_C_G0901_v8.md#statement) captures four times the logarithm of the entire power index up to \(o_P(p)\) for each fixed seed.
+The [finite collision example](../claims/Yin_C_G0901_v8.md#overlap-example) shows why an error term is necessary for the proposed fourth-power divisor.
 Through five terms the [reciprocal interpolation bound](../claims/Yin_C_G0903_v2.md#statement) already gives \(\log H/p\ge(\log2)/24\).
 For every integer \(p\ge3\), [six occupied terms and row width at most twice the input degree](../claims/Yin_C_G0903_v6.md#statement) give both \(m(\alpha)\) and \(\log H/p\) at least \((\log 2)/720000\).
 A shrinking sequence with these widths therefore requires at least seven terms at every qualifying prime.
 For arbitrary six-term reciprocal double contacts, the [pair and triple tests](../claims/Yin_C_G0903_v7.md#statement) determine when the interpolation pencil decomposes.
 When both fail, the normalized power degree is \(O(W^{1/4})\) in the normalized support span \(W\).
-For other bounded-area row templates, determine whether a [repeated geometric factor of the horizontal determinant](../claims/Yin_C_G0903_v5.md#area) can carry the original unit.
+For each fixed term count and width ratio, the [short horizontal relation](../claims/Yin_C_G0903_v8.md#statement) reduces the remaining case to finitely many exponent patterns on which the horizontal determinant has a repeated geometric factor through the powered point.
+The [mixed-area bound](../claims/Yin_C_G0903_v5.md#area) describes the two-dimensional case.
+For a fixed seed and row width, [independence of the confluent evaluation columns](../ledger/Yin_L_G0462_v325.md#support) forces at least \(2d_*+1\) terms at every sufficiently large exponent, where \(d_*\) is the least degree of any positive power of the seed.
+When \(d_*=d\) and the width is \(d+o(d)\), the required fraction of occupied positions tends to one along these seed-dependent tails.
 At each prime, use the [two polynomial equations](../claims/Yin_C_G0345_v408.md#factor) to study when the quotient of the rows can recover a unit from its \(p\)-th power with the prescribed derivative.
 The [exact census through degree five](../computations/programs/Yin_J_G0177/readme.md#census) excludes every qualifying pair at the full cutoff through \(p=1009\).
 The [norm of one row value](../claims/Yin_C_G0345_v411.md#statement) counts finite-place collisions of powered conjugates with the full prescribed multiplicity, while double vanishing saves one coefficient layer at each archimedean end.

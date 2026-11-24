@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v1058](Yin_R_G0562_v1058.md#finding) checks the entire leading power index in the resultant lower bound for a fixed seed and the finite example where the fourth power fails to divide.
+
+- [R562 v1057](Yin_R_G0562_v1057.md#finding) checks the independent column subsets at a fixed seed and width, the resulting support floor at large exponents and the norm descent.
+
+- [R562 v1056](Yin_R_G0562_v1056.md#finding) checks the first short horizontal relation for any fixed term count and the subsequent repeated-factor alternative on a finite list of substitutions.
+
 - [R562 v1055](Yin_R_G0562_v1055.md#finding) checks the pair and triple decomposition tests for the six-pole interpolation pencil and the fourth-root estimate when both tests fail.
 
 - [R562 v1054](Yin_R_G0562_v1054.md#finding) checks the six-term uniform gap at near-degree row width, its explicit constants and the fixed higher-multiplicity extension.
