@@ -723,7 +723,9 @@ On the original seed, the [local determinant](../claims/Yin_C_G0901_v4.md#determ
 The [reviewed norm divisor](../audits/reviews/Yin_R_G0562_v1045.md#finding) constrains the sum of squared residue multiplicities in any shrinking sequence.
 For bounded term count, the [double-root subsum bound](../claims/Yin_C_G0903_v1.md#statement) controls the degree of the actual power field in a mixed minimal block.
 Its [source and proof review](../audits/reviews/Yin_R_G0562_v1046.md#finding) distinguishes this from a degree bound on the full radical seed of a primitive parent.
-Investigate how far below the original seed degree one may prescribe the prime, and whether a small number of terms can suffice on power-degree-preserving inputs.
+On a shrinking sequence the [original-seed estimate](../claims/Yin_C_G0901_v5.md#short) supplies short rows at all primes above any fixed positive fraction of the degree and in a quantified sublinear range.
+The [review of the residue and power-degree bounds](../audits/reviews/Yin_R_G0562_v1047.md#finding) includes the composition obstruction at fixed positive measure.
+The remaining proof question is whether the arithmetic of the original unit forces a positive lower bound for the normalized coefficient cost at a selectable prime, or supplies a different degree-independent lower bound.
 At each prime, use the [two polynomial equations](../claims/Yin_C_G0345_v408.md#factor) to study when the quotient of the rows can recover a unit from its \(p\)-th power with the prescribed derivative.
 The [exact census through degree five](../computations/programs/Yin_J_G0177/readme.md#census) excludes every qualifying pair at the full cutoff through \(p=1009\).
 The [norm of one row value](../claims/Yin_C_G0345_v411.md#statement) counts finite-place collisions of powered conjugates with the full prescribed multiplicity, while double vanishing saves one coefficient layer at each archimedean end.

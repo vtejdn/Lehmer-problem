@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v1047](Yin_R_G0562_v1047.md#finding) checks the original-seed prime tails, the residue estimate and the explicit obstruction at fixed positive measure.
+
 - [R562 v1046](Yin_R_G0562_v1046.md#finding) checks the sparse mixed-subsum bound for an ordinary double root and the scope of the external torus theorem.
 
 - [R562 v1045](Yin_R_G0562_v1045.md#finding) checks the local determinant valuation, the norm divisor and the row estimate for every prime at least three times the degree.
