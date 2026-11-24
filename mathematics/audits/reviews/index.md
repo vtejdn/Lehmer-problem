@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v1052](Yin_R_G0562_v1052.md#finding) checks the degree-six bound for translated or reflected three-point row supports and the mixed-area alternative at higher multiplicity.
+
+- [R562 v1051](Yin_R_G0562_v1051.md#finding) checks the six-term bounds under power-degree loss or support reflection, including the descent to the original measure.
+
+- [R562 v1050](Yin_R_G0562_v1050.md#finding) checks the bounded-degree interpolation curve, the short character that cuts it and the higher-multiplicity extension.
+
+- [R562 v1049](Yin_R_G0562_v1049.md#finding) checks the local row-resultant and norm bounds, their simultaneous attainability, the local Smith exponents and the Salem-family limitation.
+
+- [R562 v1048](Yin_R_G0562_v1048.md#finding) checks sparse reciprocal multiple-root interpolation, the four-term exclusion and the extremal sextic condition.
+
 - [R562 v1047](Yin_R_G0562_v1047.md#finding) checks the original-seed prime tails, the residue estimate and the explicit obstruction at fixed positive measure.
 
 - [R562 v1046](Yin_R_G0562_v1046.md#finding) checks the sparse mixed-subsum bound for an ordinary double root and the scope of the external torus theorem.
