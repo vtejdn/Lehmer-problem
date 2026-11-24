@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v1060](Yin_R_G0562_v1060.md#finding) checks the uniform count of sparse-contact primes over an entire tail for a varying unit and the prime-window consequence for growing term counts.
+
+- [R562 v1059](Yin_R_G0562_v1059.md#finding) checks the relation-space dimension bound for a repeated-factor obstruction and the reflection forced in the equality case.
+
 - [R562 v1058](Yin_R_G0562_v1058.md#finding) checks the entire leading power index in the resultant lower bound for a fixed seed and the finite example where the fourth power fails to divide.
 
 - [R562 v1057](Yin_R_G0562_v1057.md#finding) checks the independent column subsets at a fixed seed and width, the resulting support floor at large exponents and the norm descent.

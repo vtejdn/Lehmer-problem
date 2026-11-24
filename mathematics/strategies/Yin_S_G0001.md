@@ -736,9 +736,12 @@ A shrinking sequence with these widths therefore requires at least seven terms a
 For arbitrary six-term reciprocal double contacts, the [pair and triple tests](../claims/Yin_C_G0903_v7.md#statement) determine when the interpolation pencil decomposes.
 When both fail, the normalized power degree is \(O(W^{1/4})\) in the normalized support span \(W\).
 For each fixed term count and width ratio, the [short horizontal relation](../claims/Yin_C_G0903_v8.md#statement) reduces the remaining case to finitely many exponent patterns on which the horizontal determinant has a repeated geometric factor through the powered point.
-The [mixed-area bound](../claims/Yin_C_G0903_v5.md#area) describes the two-dimensional case.
+At least [half of the horizontal exponent directions](../claims/Yin_C_G0903_v9.md#statement) are lost in such a pattern for \(p\ge3\).
+For seven terms the remaining repeated factor lies on a two-variable pattern, where the [mixed-area bound](../claims/Yin_C_G0903_v5.md#area) applies away from this obstruction.
 For a fixed seed and row width, [independence of the confluent evaluation columns](../ledger/Yin_L_G0462_v325.md#support) forces at least \(2d_*+1\) terms at every sufficiently large exponent, where \(d_*\) is the least degree of any positive power of the seed.
 When \(d_*=d\) and the width is \(d+o(d)\), the required fraction of occupied positions tends to one along these seed-dependent tails.
+For varying reciprocal seeds with measures tending to zero, the [uniform count of sparse-contact primes](../claims/Yin_C_G0903_v10.md#primes) forces the term count to grow at almost every prime in \([d,2d]\).
+To test the unrestricted coefficient criterion at these primes, seek a lower bound on the height of the rows that applies as their number of occupied positions grows.
 At each prime, use the [two polynomial equations](../claims/Yin_C_G0345_v408.md#factor) to study when the quotient of the rows can recover a unit from its \(p\)-th power with the prescribed derivative.
 The [exact census through degree five](../computations/programs/Yin_J_G0177/readme.md#census) excludes every qualifying pair at the full cutoff through \(p=1009\).
 The [norm of one row value](../claims/Yin_C_G0345_v411.md#statement) counts finite-place collisions of powered conjugates with the full prescribed multiplicity, while double vanishing saves one coefficient layer at each archimedean end.
