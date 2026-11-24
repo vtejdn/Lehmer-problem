@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J186, coefficient certificates for cyclotomic multiples](programs/Yin_J_G0186/readme.md#lehmer-phi4) verifies the exact circle maximum \(729\) for a degree-100 multiple of Lehmer's polynomial avoiding \(\Phi_4\).
+
 - [J185, primitive unit roots at every \(q\ge5\)](programs/Yin_J_G0185/power_catalogue.md#coverage) gives an even degree of at least 46 for all signs and exponent directions, with an [independent calculation using resultants](../audits/reviews/Yin_R_G0562_v1038.md#finding).
 
 - [J185, integral partners of the 10,236 tabulated short coordinates](programs/Yin_J_G0185/pole_catalogue.md#endpoint) excludes every signed input by the norm at the pole and at minus one, with [independent reproduction](../audits/reviews/Yin_R_G0562_v1037.md#finding).

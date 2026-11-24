@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v1072](Yin_R_G0562_v1072.md#finding) checks the exact \(\log3\) fourth-root avoidance rate for Lehmer's polynomial, the deletion bounds, and the exact certificate by a separate Sturm calculation.
+
+- [R562 v1071](Yin_R_G0562_v1071.md#finding) checks the quantitative moment estimates and the uniform conductor, degree and coefficient bounds for a cyclotomic multiple.
+
+- [R562 v1070](Yin_R_G0562_v1070.md#finding) checks the Chebyshev Möbius denominator norms and valuations, both archimedean estimates and the exclusion along the powers-of-three branch.
+
+- [R562 v1069](Yin_R_G0562_v1069.md#finding) checks cyclotomic coefficient balancing, the degree necessity at a fixed input and the single-factor signed square test for the full infimum.
+
+- [R562 v1068](Yin_R_G0562_v1068.md#finding) checks the characterization of normalized arc length by cyclotomic logarithms, including the energy bound used for arithmetic inversion.
+
 - [R562 v1067](Yin_R_G0562_v1067.md#finding) checks the circle deficit for overlapping root neighborhoods, the coefficient and degree inequalities, and the exact multiplicity formulation.
 
 - [R562 v1066](Yin_R_G0562_v1066.md#finding) checks the relative-unit area and index bounds, the explicit exclusion for all radicals of \(T\) and the remaining independent direction.
