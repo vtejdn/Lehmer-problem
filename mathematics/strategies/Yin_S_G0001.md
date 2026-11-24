@@ -21,7 +21,18 @@ For the full problem, seek a degree-independent lower bound for [norm-one genera
 Every sufficiently small positive input supplies such a unit at a cost of at most four in total logarithmic measure, and the quadratic extension is unramified at all finite primes.
 One may also require [splitting above any prescribed finite list of rational primes](../claims/Yin_C_G0901_v33.md#statement), including prescribed divisibility of their residue degrees in the trace field.
 For the integral coordinates \(t,y\) on \(t^2+y^2=4\), the [archimedean formula](../claims/Yin_C_G0901_v34.md#embeddings) expresses the total measure in terms of the imaginary parts of their images at every embedding of \(F\).
-Investigate the conjugates of the associated [positive algebraic integer](../claims/Yin_C_G0901_v34.md#integer) when its degree grows, including the case of at most two nonreal pairs in the trace field arising from Salem inputs.
+The associated [positive algebraic integer](../claims/Yin_C_G0901_v34.md#integer) can approach zero on [radical lifts of the degree-ten example](../claims/Yin_C_G0901_v37.md#statement) at fixed positive measure.
+The [Eisenstein trace family](../claims/Yin_C_G0901_v38.md#statement) gives the same obstruction after every positive power already generates the original input field.
+For a trace field with one nonreal pair, the [exact orbit of the positive real unit](../claims/Yin_C_G0901_v35.md#statement) gives a gap at bounded indices \(\ell\ge3\) over its largest totally real subfield.
+At index two the remaining question concerns Salem numbers whose trace fields contain \(\sqrt3\); at growing indices the available height bound still depends on the degree.
+For a general all-power input field, [saturating the unit group on the line of the input](../claims/Yin_C_G0901_v43.md#statement) determines all its bounded measures above the specified degree threshold, extending the earlier result for strict degree minima.
+The [twisted field automorphism groups](../claims/Yin_C_G0901_v42.md#fields) identify the internal conjugates available in the unramified reduction.
+For a Salem field of degree at least six, [all positive measures below \(\log2\)](../claims/Yin_C_G0901_v44.md#statement) come from the primitive Salem unit and, when present, the golden ratio.
+Seek smaller Salem measures by varying the field and controlling its primitive norm-one generator.
+For the entire conic family, the [sharp cost of its rational parameters](../claims/Yin_C_G0901_v36.md#statement) excludes parameters of bounded total measure even with a varying rational change of coordinate.
+More generally the [fixed-degree rational-map minima](../claims/Yin_C_G0901_v40.md#statement) give the exact asymptotic height cost at the original small units.
+When the degree of the map grows, [good reduction at a prime below the interpolation threshold](../claims/Yin_C_G0901_v41.md#reduction) gives an elementary degree obstruction, and the [relative-height comparison](../claims/Yin_C_G0901_v42.md#dependent) gives the stronger bound for dependent outputs.
+The [prime-power trace comparison](../claims/Yin_C_G0901_v39.md#frobenius) gives an explicit gap for Laurent trace equations and an exact equality test for two powered evaluations at a single input.
 The [coefficient formula for finitely many forbidden orders](../claims/Yin_C_G0901_v29.md#statement) isolates the contribution of each tested integer resultant.
 For inputs whose tested resultants are all units, another source of a uniform lower bound is needed.
 On the construction side, [radial perturbations of primitive roots](../claims/Yin_C_G0901_v26.md#matching) pass every bounded-prime conductor test in the stated range but fail the integer resultant test at their own conductor.
