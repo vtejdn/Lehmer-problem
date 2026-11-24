@@ -1,5 +1,21 @@
 # Reviews Index
 
+- [R562 v1080](Yin_R_G0562_v1080.md#finding) checks uniform atomic masses on every forbidden orbit, including the finite Fourier transform for imprimitive Dirichlet characters.
+
+- [R562 v1079](Yin_R_G0562_v1079.md#finding) checks the strict below-base-two integer witness, irreducibility of every power substitution and transfer to any finite forbidden set.
+
+- [R562 v1078](Yin_R_G0562_v1078.md#finding) checks atom exclusion, mixed multiplicative differences and the conditional description of the nonatomic part of a dual measure.
+
+- [R562 v1077](Yin_R_G0562_v1077.md#finding) checks the complete finite list of exceptional measures in a fixed divisible group and preservation of its minimum under further finite tests.
+
+- [R562 v1076](Yin_R_G0562_v1076.md#finding) checks the shared-root resultant formula and the uniform upper bound at prescribed positive multiplicities.
+
+- [R562 v1075](Yin_R_G0562_v1075.md#finding) checks the Chebyshev parameter count including both field indices and the divergence of the radical minimum at fixed trace degree.
+
+- [R562 v1074](Yin_R_G0562_v1074.md#finding) checks the finite-orbit power average, exact cyclotomic cost for forbidden conductors and the transfer under substitution.
+
+- [R562 v1073](Yin_R_G0562_v1073.md#finding) checks the finite torsion-unit tests, radical-tower stabilization and the explicit obstruction in an entire divisible group.
+
 - [R562 v1072](Yin_R_G0562_v1072.md#finding) checks the exact \(\log3\) fourth-root avoidance rate for Lehmer's polynomial, the deletion bounds, and the exact certificate by a separate Sturm calculation.
 
 - [R562 v1071](Yin_R_G0562_v1071.md#finding) checks the quantitative moment estimates and the uniform conductor, degree and coefficient bounds for a cyclotomic multiple.

@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J186, a strict bound below base two](programs/Yin_J_G0186/readme.md#below-two) gives an exact integer one-norm at multiplicity 160 for a cofactor nonzero at one, with a [separate computation of the coefficients](../audits/reviews/Yin_R_G0562_v1079.md#finding).
+
 - [J186, coefficient certificates for cyclotomic multiples](programs/Yin_J_G0186/readme.md#lehmer-phi4) verifies the exact circle maximum \(729\) for a degree-100 multiple of Lehmer's polynomial avoiding \(\Phi_4\).
 
 - [J185, primitive unit roots at every \(q\ge5\)](programs/Yin_J_G0185/power_catalogue.md#coverage) gives an even degree of at least 46 for all signs and exponent directions, with an [independent calculation using resultants](../audits/reviews/Yin_R_G0562_v1038.md#finding).
