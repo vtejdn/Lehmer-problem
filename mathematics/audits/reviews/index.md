@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v1044](Yin_R_G0562_v1044.md#finding) checks the primitive graph construction and its equivalence to zero gap for every prescribed divergent prime schedule.
+
 - [R562 v1043](Yin_R_G0562_v1043.md#finding) checks the finite-prime estimates, exceptional-prime count and the equivalence of the degree tests to zero gap.
 
 - [R562 v1042](Yin_R_G0562_v1042.md#finding) checks the radial bound for negative trace values, the equality criterion and the exact change of width under power substitution.

@@ -717,7 +717,9 @@ At fixed seed degree \(e\), the [cost with extra coefficients](../claims/Yin_C_G
 Its [independently checked consequence](../audits/reviews/Yin_R_G0562_v1041.md#finding) permits testing every seed at \(e+\lceil\delta e\rceil\) for any fixed \(\delta>0\).
 For the original seed, the [finite estimate](../claims/Yin_C_G0901_v2.md#window) supplies short rows at almost every prime between twice and four times its degree.
 The [independent review](../audits/reviews/Yin_R_G0562_v1043.md#finding) checks the exception count and both finite-score criteria.
-Determine whether changing the representative permits prescribing the prime at each degree.
+The [primitive graph construction](../claims/Yin_C_G0901_v3.md#statement) permits any preassigned divergent odd-prime schedule after changing representatives.
+Its [independent check](../audits/reviews/Yin_R_G0562_v1044.md#finding) includes the distinction between primitive parent support and an irreducible repeated factor obtained by power substitution.
+Determine what can be imposed on the repeated factor itself, or on proper subsums at its roots, while retaining control over the primes.
 At each prime, use the [two polynomial equations](../claims/Yin_C_G0345_v408.md#factor) to study when the quotient of the rows can recover a unit from its \(p\)-th power with the prescribed derivative.
 The [exact census through degree five](../computations/programs/Yin_J_G0177/readme.md#census) excludes every qualifying pair at the full cutoff through \(p=1009\).
 The [norm of one row value](../claims/Yin_C_G0345_v411.md#statement) counts finite-place collisions of powered conjugates with the full prescribed multiplicity, while double vanishing saves one coefficient layer at each archimedean end.
