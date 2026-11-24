@@ -9,7 +9,7 @@ author: Yin
 | --- | --- |
 | [Exact Task contract](../tasks/Yin_T_G0001_v1.md#contract) | Seek generator-sensitive cyclic-norm or local arithmetic coverage with uniform exponent costs on a sufficiently near-one irreducible core. |
 
-**Current allocation.** This route remains paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select it within that resumed authority.
+**Current allocation.** This route is paused and available for selection under the [current G0001 decision](../tasks/Yin_T_G0001_v1.md#current-decision).
 Under the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), cyclic-norm coverage and arithmetic realization may be reassessed as proof alternatives or support for integer constructions, without subordinating their priority to a fixed counterexample-first order.
 
 <a id="matrix-integer-damping-2026-11-05"></a>

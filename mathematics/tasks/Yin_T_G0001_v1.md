@@ -1,7 +1,7 @@
 ---
 author: Yin
 ---
-# Resolve Lehmer's conjecture
+# Answer Lehmer's problem
 
 ## Task coordination
 
@@ -19,8 +19,8 @@ The selected individual decision and its effective execution conditions govern t
 
 ### Original question and authority
 
-On 2026-10-06 Yin requested a new G-series Task to prove Lehmer's conjecture or find a counterexample, initially emphasizing geometric group theory, then explicitly added DGB16's algebraic-entropy formulation and set the order: **algebraic entropy first, linear-group growth second; other directions may be selected and ranked by the agent**.
-This paragraph preserves the original authorization history; its former ordering is superseded by the [current strategy discretion](#strategy-discretion).
+Yin assigned Lehmer's problem on 2026-10-06, initially emphasizing geometric group theory and later giving DGB16's algebraic-entropy formulation priority over linear-group growth.
+The [current decision](#current-decision) leaves the research direction open.
 Yin subsequently clarified that all formulations belong to one Task and that their current ordering belongs to the strategy priorities.
 G is the research-line letter within the numbered T family, not a revival of retired short goal identifiers.
 
@@ -30,7 +30,7 @@ The associated rolling S materials own route priorities, dispositions and next s
 Use the full T/S identifiers to distinguish the objective from its routes.
 Changing a strategy's priority does not change this contract or create another Task.
 
-Resolve the classical **existence of a positive Mahler gap**.
+Give a complete answer to Lehmer's problem for nonzero integer polynomials.
 For a nonzero primitive polynomial
 \(f(t)=a_d\prod_{j=1}^d(t-\alpha_j)\in\mathbb Z[t]\), put
 \[
@@ -38,7 +38,7 @@ M(f)=|a_d|\prod_{j=1}^d\max\{1,|\alpha_j|\},\qquad
 m(f)=\ln M(f),\qquad
 \mathfrak L=\inf\{m(f):m(f)>0\}.
 \]
-The target is to prove \(\mathfrak L>0\), or to prove \(\mathfrak L=0\).
+The question is whether \(\mathfrak L>0\).
 Degree and coefficients are unrestricted.
 Multiplicities count, zero roots contribute zero, and the primitive normalization is essential when passing to a rational companion endomorphism.
 This is not the stronger assertion that Lehmer's degree-ten number gives the optimal positive measure, nor the house/Schinzel--Zassenhaus conjecture.
@@ -130,22 +130,26 @@ Values for varying groups or unrestricted rectangular or singular matrices do no
 Square weak isomorphisms over \(\mathbb Z[\mathbb Z]\) do admit the audited scalar-determinant reduction, with matrix size unrestricted.
 Preserve the canonical group trace and **unnormalized** matrix amplification; dividing by matrix size would change the question.
 
-Arithmetic and certified computation are supporting tools for all routes.
+Arithmetic and certified computation may supply the main argument or support another approach.
 Bounded degree, rank, support, coefficient ranges, or finite-word experiments may test a mechanism but cannot silently replace the universal domain.
 A result conditional on Lehmer positivity, determinant approximation, or another unresolved premise is partial progress unless that premise is separately discharged.
 General solvable-group or entropy analogies require an actual implication back to this contract.
 
 ### Completion criteria
 
-Complete this Task only with a full argument resolving the original gap, together with a covering completion review:
+Completion requires a rigorous answer for the full domain and a review covering the argument.
+The two possible conclusions have the following criteria, which also apply when the question is settled through an equivalent formulation.
 
-1. **Proof:** establish some \(\delta>0\) for every positive \(m(f)\), directly or through one of the exact formulations with all needed bridges checked.
+1. **A uniform gap.** Establish a constant \(\delta>0\) such that \(m(f)\ge\delta\) whenever \(m(f)>0\).
    An explicit numerical optimal value is not required; a rank-dependent lower bound alone is insufficient.
-2. **Refutation:** prove arbitrarily small positive values, for example a family with \(0<m(f_k)<1/k\), or a rigorously justified equivalent existence statement.
+2. **Arbitrarily small positive measures.** Establish that for every \(\varepsilon>0\) there exists an integer polynomial \(f\) with \(0<m(f)<\varepsilon\).
+   A nonconstructive existence argument suffices.
    Exact positive finite algebraic entropies tending to zero also suffice through the checked infimum bridge.
    In the growth formulation, a sequence with \(0<\rho_2(S_k)\to0\) must lie in **one fixed** \(GL_d(\mathbb C)\); a sequence of growing dimensions alone does not negate it.
-3. **Attainment-based resolution:** prove universal finite-set attainment, or construct one flow with \(0<h_{\rm alg}(\phi)<\infty\) and \(H(\phi,F)<h_{\rm alg}(\phi)\) for every nonempty finite \(F\), and verify the precise Lehmer implication being used.
-   A nonattainment example already assuming arbitrarily small positive entropy is not an unconditional counterexample.
+
+For example, the finite-set attainment formulation can settle the question if one proves universal attainment or constructs one flow with \(0<h_{\rm alg}(\phi)<\infty\) and \(H(\phi,F)<h_{\rm alg}(\phi)\) for every nonempty finite \(F\).
+Either argument must verify the precise implication for Lehmer's problem.
+A nonattainment example already assuming arbitrarily small positive entropy is not an unconditional counterexample.
 
 A single polynomial with measure between one and Lehmer's number would only disprove the optimal-bound variant.
 No finite numerical search, failure of a stronger sufficient statement, or reproduction of an equivalence completes this Task.
@@ -169,13 +173,8 @@ Apply the repository's knowledge-reuse and source-check rules before substantial
 <a id="strategy-discretion"></a>
 ## Current strategy discretion
 
-Yin has withdrawn all earlier human-imposed strategy restrictions for G0001 and authorized the main researcher to adopt and adapt the recommended allocation.
-This releases previous requirements about proof versus counterexample priority, route eligibility and ordering, effort shares, agent assignments, prescribed construction families or conductors, and mandatory exploration sequences.
-Those choices in earlier instructions and lifecycle decisions are historical rather than continuing strategic constraints.
-The main researcher may select, combine, replace or reprioritize proof, explicit construction, probabilistic existence and other relevant methods within the unchanged unrestricted contract.
-The [current adaptive allocation](../strategies/Yin_S_G0001.md#adaptive-allocation) is a revisable research judgment, with no fixed proof/counterexample quota or permanent method restriction.
-Actual mathematical exclusions, fixed experimental scopes and evidence retain their stated meaning.
-This strategic discretion leaves the selected Task lifecycle and effective execution limits to their responsible decisions; changing priorities alone grants no resumption or additional allowance.
+The main researcher may choose and combine any methods that advance the [full question](#contract), and may change direction, effort or assignments as the evidence warrants.
+The [current allocation](../strategies/Yin_S_G0001.md#adaptive-allocation) records research priorities, including the consecutive-coefficient construction as one possible approach.
 
 ## Continuation and execution
 
@@ -189,7 +188,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-consecutive-unit-construction-2026-11-23)
+[Selected decision](#decision-answer-lehmer-problem)
 
 ## Lifecycle and completion
 
@@ -701,6 +700,21 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unrestricted Lehmer problem](#contract) | The existing exterior-measure estimate would turn such a construction into a sequence of positive measures tending to zero. |
+
+### Decision answer-lehmer-problem
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-24T17:11 |
+| status | active |
+| authority | Yin directed that G0001 give a complete answer to Lehmer's problem and left the research direction open. |
+| reason | The consecutive-coefficient construction is optional, and the researcher may adopt an approach outside the existing strategies whenever the mathematics warrants it. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Lehmer's problem](#contract) | Determine whether the positive total logarithmic Mahler measures of integer polynomials have a uniform positive lower bound independent of degree and coefficients. |
+
+The [99.5 percent shared weekly usage threshold](#decision-consecutive-unit-construction-2026-11-23) and the [stops on unreliable monitoring or a change of account](#decision-resume-adaptive-research-2026-11-10) continue to apply.
 
 ## Execution boundary
 

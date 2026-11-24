@@ -13,11 +13,9 @@ author: Yin
 <a id="adaptive-allocation"></a>
 ## Current adaptive allocation
 
-The [current Task instruction](../tasks/Yin_T_G0001_v1.md#strategy-discretion) releases every earlier human-imposed strategy restriction for G0001.
-The following allocation adopts the latest comparison as an initial research judgment, with no fixed effort shares, mandatory proof/counterexample ordering or permanent exclusion of another method.
-The main researcher may change this allocation as mathematical evidence, a concrete new idea or expected information gain warrants, without another strategy-specific approval.
-The [current construction assignment](../tasks/Yin_T_G0001_v1.md#decision-consecutive-unit-construction-2026-11-23) selects the inquiries below under its standing execution conditions.
-Other routes remain available for autonomous reassessment; their current priority pauses do not restrict that selection.
+The [current Task decision](../tasks/Yin_T_G0001_v1.md#current-decision) calls for a complete answer to Lehmer's problem.
+The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
+The main researcher may pursue this construction, investigate a uniform lower bound, or select any other approach as the evidence warrants, including routes currently paused in the allocation.
 
 The [individual height formula](../claims/Yin_C_G0345_v769.md#statement) reduces the construction on a fixed plane curve to finding a nontorsion irreducible factor of degree \(o(W)\), where \(W\) is the exponent span of the section.
 For each fixed rank-two template, [specialization of its isogeny components](../claims/Yin_C_G0345_v859.md#covers) and [compression of radicals](../claims/Yin_C_G0345_v861.md#statement) give \(m(z)\ge b_F\varphi(w)\) for nontorsion roots off one finite set of torsion invariants for each primitive direction, simultaneously at every common dilation.
@@ -1217,8 +1215,7 @@ These are allocation reasons under current evidence, not restrictions on future 
 <a id="whole-goal-allocation-2026-11-05"></a>
 ## Retained comparisons after the arithmetic random-matrix inquiry
 
-**Current state.** Yin's [adaptive research resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10) activates G0001, S1 and S4; S10 remains deferred while construction feasibility and structural proof inquiries are compared.
-The previous round's proofs, independent reviews and computation records remain retained at their fixed scopes; the current instruction authorizes new research under the selected execution limits.
+Yin's [November 10 decision](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10) resumed G0001 with S1 and S4 active and S10 deferred while the construction and structural proof approaches were compared.
 **Retained construction question.** Seek a strict excess above the cyclotomic count in arbitrarily small reciprocal coefficient shells, or construct an original trace polynomial realizing such an excess, within the revisable [current allocation](#adaptive-allocation).
 S10 has completed the frozen finite comparison in [J156](../computations/programs/Yin_J_G0156/readme.md#pilot-results); the original adaptive law failed its held-out allocation screen and found no new value below \(6/5\).
 Its [completed reduced-prior live control](../computations/programs/Yin_J_G0156/readme.md#prior-live-results) passes the declared recovery screen while finding the same one known target value as fixed bias, with substantial repeated sampling.

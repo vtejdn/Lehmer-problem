@@ -10,7 +10,7 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state.** S4 is active under Yin's [adaptive research resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10), initially investigating integer feasibility and the scope of structural proof mechanisms.
+**Current state.** S4 investigates integer constructions and structural arguments for a uniform lower bound as part of [G0001](../tasks/Yin_T_G0001_v1.md#current-decision).
 The S10 child remains paused; its completed comparisons and exact local exclusion are retained at their responsible homes.
 The [current Task discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) replaces former human-imposed strategy priorities and method restrictions.
 Under the [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), S4 initially leads actual integer existence and also develops the structural proof interfaces relating complete measure to intrinsic complexity or integer representation.

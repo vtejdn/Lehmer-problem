@@ -18,7 +18,7 @@ author: Yin
 | priority | Use sampling as a supporting diagnostic of integer supply, distinct noncyclotomic cores, distinct measures and complete exterior cost when selected; reassess its scope against other routes from current evidence. |
 | parent | [Arithmetic constructions](Yin_S_G0004.md#route) |
 
-S10 remains paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select sampling within that resumed authority.
+S10 is paused and available for selection under the [current G0001 decision](../tasks/Yin_T_G0001_v1.md#current-decision).
 Its future allocation follows the [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and the [current adaptive allocation](Yin_S_G0001.md#adaptive-allocation), with no fixed human-imposed share or precedence for sampling.
 The [earlier G0001 resumption](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-sampling-2026-11-09) selected the completed first comparison.
 The protocols below retain their actual laws, budgets, ordering, success screens and evidence; those experiment-specific choices do not bind the selection of future protocols.

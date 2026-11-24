@@ -17,7 +17,7 @@ author: Yin
 | disposition | paused |
 | priority | Reassess joint Taylor evaluation and residual Smith divisibility as proof alternatives, scaling effort by mathematical promise and the complete arithmetic and complex-place costs without a fixed quota |
 
-**Current allocation.** This route remains paused by the current allocation while [G0001 is active](../tasks/Yin_T_G0001_v1.md#decision-resume-adaptive-research-2026-11-10); the main researcher may select it within that resumed authority.
+**Current allocation.** This route is paused and available for selection under the [current G0001 decision](../tasks/Yin_T_G0001_v1.md#current-decision).
 The [Task's strategy discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) and [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) remove its former small-effort cap and fixed ordering behind counterexample construction.
 The retained arithmetic and analytic obstructions make a discriminating comparison on specified actual inputs a useful starting choice, while the agent may change the approach, scale or priority as the research judgment develops.
 An early test need not already prove a quadratic gain or the unrestricted return; evidence beyond the explicit Boolean factors and already covered controls would strengthen the case for greater investment.
