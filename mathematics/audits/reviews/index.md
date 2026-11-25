@@ -1,5 +1,19 @@
 # Reviews Index
 
+- [R562 v1162](Yin_R_G0562_v1162.md#finding) checks the joint-degree height estimate for the primitive measure generator and the sufficient test for all positive powers to occur.
+
+- [R562 v1161](Yin_R_G0562_v1161.md#finding) checks the bounded spectra of the block-product chain and of arbitrary families of sufficiently large strict degree records.
+
+- [R562 v1160](Yin_R_G0562_v1160.md#finding) checks the finite description of every attained measure index at radial rank one, including the minimum and eventual divisibility criterion.
+
+- [R562 v1159](Yin_R_G0562_v1159.md#finding) checks the primitive-coordinate indices and the minimum in the two signed block actions for a single nonreal exterior pair.
+
+- [R562 v1158](Yin_R_G0562_v1158.md#finding) checks the field degree and two estimates for loss of total measure at an oriented block norm.
+
+- [R562 v1157](Yin_R_G0562_v1157.md#finding) checks the inertia, pairwise divisibility and local order conditions on the consecutive-coefficient four-term family.
+
+- [R562 v1156](Yin_R_G0562_v1156.md#finding) checks the measure field, the finite-index unit group and the growth of the spectrum across all radicals of conjugate monomials.
+
 - [R562 v1155](Yin_R_G0562_v1155.md#finding) checks the common measure field, the positive powers that occur and the iteration exponent throughout a divisible conjugate group of radial rank one.
 
 - [R562 v1154](Yin_R_G0562_v1154.md#finding) checks the relative norm fields and independently counts exterior conjugates to verify its two exact measure multipliers.
