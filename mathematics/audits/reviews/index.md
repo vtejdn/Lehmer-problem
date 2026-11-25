@@ -1,5 +1,27 @@
 # Reviews Index
 
+- [R562 v1179](Yin_R_G0562_v1179.md#finding) checks the Pisot exclusion and the individual Salem origins of bounded orbits in arbitrary families and integer polynomials.
+
+- [R562 v1178](Yin_R_G0562_v1178.md#finding) checks the inverse bound for Mahler values of reducible polynomials and the equality argument for primitive values.
+
+- [R562 v1177](Yin_R_G0562_v1177.md#finding) checks the growing second-iterate bound, primitive and nonreciprocal exclusions, and the degree restriction on independent preimages.
+
+- [R562 v1176](Yin_R_G0562_v1176.md#finding) independently checks the catalogue root comparisons and the complete square-root classification through degree 45.
+
+- [R562 v1175](Yin_R_G0562_v1175.md#finding) checks descent of both closed-side counts and the resulting gap for arbitrary witnesses in the divisible group.
+
+- [R562 v1174](Yin_R_G0562_v1174.md#finding) checks the iteration growth estimates at strict records and the entire primitive field level.
+
+- [R562 v1173](Yin_R_G0562_v1173.md#finding) checks the individual Pisot exclusion, terminal Salem line and equivalence for bounded Mahler orbits.
+
+- [R562 v1172](Yin_R_G0562_v1172.md#finding) checks the limiting real and complex zero counts, the auxiliary measure cost and the inverse-construction application.
+
+- [R562 v1171](Yin_R_G0562_v1171.md#finding) checks the unit and class-group rank identity, finite ramification bound and realization at a prescribed base field.
+
+- [R562 v1170](Yin_R_G0562_v1170.md#finding) checks the positive four-term branch and the prime-power Frobenius cycles, including the explicit exclusion.
+
+- [R562 v1169](Yin_R_G0562_v1169.md#finding) checks the bounded second-iterate alternatives and the measure-preserving reduction to their exterior patterns.
+
 - [R562 v1168](Yin_R_G0562_v1168.md#finding) checks the relative block degree, the preceding field level and the exterior and radial bounds over all totally real numbers.
 
 - [R562 v1167](Yin_R_G0562_v1167.md#finding) checks the universal fields defined by nonabelian chief-factor ranks and the exact block-count and tower thresholds.
