@@ -232,12 +232,21 @@ For \(2q+1=3^{2s}\) the [five-value construction](../claims/Yin_C_G0345_v890.md#
 At \(q=40\) and degree 3282851794363 a [four-coefficient instance](../claims/Yin_C_G0345_v890.md#progression) meets these conditions although every fully integral polynomial on that grid is excluded.
 For a fixed height and degree, decide the [remaining integer quotient](../claims/Yin_C_G0345_v890.md#completion) across all separating grids using the [Newton sums of the reciprocal lift](../claims/Yin_C_G0345_v892.md#statement).
 Only a bounded initial segment can branch, after which the pole and two moment intervals force each remaining coefficient or discard the prefix.
-This search [excludes every trace degree through 4500 at \(q=40\)](../computations/programs/Yin_J_G0185/free_trace_moments.md#census).
+The [shared discriminant bound](../claims/Yin_C_G0345_v896.md#statement) charges all moments of one prefix against the same bound.
+It [excludes all degrees through 100000 at \(q=40\) and 200000 at \(q=100\)](../computations/programs/Yin_J_G0185/reflected_trace_search.md#census).
 On a prescribed integral grid polynomial, [strict positive definiteness](../claims/Yin_C_G0345_v893.md#residues) decides the complete lattice problem directly from the grid and pole.
 The [one-node deletion obstruction](../claims/Yin_C_G0345_v894.md#delete) bounds \(q\) uniformly whenever the remaining nodes form an integral polynomial.
 For unbounded heights, seek a polynomial by the grid-independent test or use rational grids for which every one-node deletion has a nonintegral coefficient.
+Choose degrees above the [necessary bound](../claims/Yin_C_G0345_v896.md#branch) \(n>\exp((2q)^{1/3})/6\); this rules out polynomial growth in \(q\) along an unbounded sequence.
+Even when every interior node is rational and moved, [rounding the Chebyshev extrema with denominators at least \(c(n-1)^2\)](../claims/Yin_C_G0345_v898.md#statement) admits only finitely many height-degree pairs for each fixed \(c>0\).
+Choose deformations outside the bounded displacement condition in that theorem.
 For specified rational grids the [simultaneous row tests](../claims/Yin_C_G0345_v893.md#blocks) recover a whole block before any coefficient of that block has been chosen.
 For a proposed exponent pair with odd \(v\), impose [divisibility of the full trace cofactor modulo \(2q+1\)](../claims/Yin_C_G0345_v895.md#trace) before lifting to the integer polynomial.
+For even \(v\), [the complementary trace factor](../claims/Yin_C_G0345_v897.md#even) gives a congruence involving the degree and the long exponent.
+For either parity the short exponent is coprime to the trace discriminant, and the short-power order has additive index \(2q+1\).
+Use these relations to select proposed degrees and exponents together before attempting the integral lift.
+The [count over all heights](../claims/Yin_C_G0345_v899.md#heights) bounds the number of realizations through degree \(X\) by \(O((\log X)^5/(\log\log X)^4)\).
+This sparsity estimate gives no locations for surviving degrees; the explicit congruences and moment tests can reject individual proposals.
 
 For the two units of the explicit Chebyshev modification with a nonreal trace pair, the [minimum over all nontrivial integer products and optional torsion](../claims/Yin_C_G0902_v1.md#minimum) grows as \(\log(2q(q+1))+o(1)\), with an [independent check](../audits/reviews/Yin_R_G0562_v1040.md#finding) uniform over the permitted degrees.
 Changing the exponents of these two generators therefore cannot produce a shrinking sequence.

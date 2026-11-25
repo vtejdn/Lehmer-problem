@@ -17,6 +17,7 @@ At \(q=40\) the [original degree sieve](lobatto_digits.md#results) and the [weig
 The [adaptive trial](adaptive_grid.md#trials) passes sixteen coefficients at \(q=5\) and degree 981, while [integer point evaluations](integer_grid_values.md#trials) exclude the full polynomial on every one of the five tested grid neighborhoods.
 The [grid-independent Newton sum search](free_trace_moments.md#census) excludes every trace degree from two through 4500 at \(q=40\) on the first nonunit branch.
 The [two cubic controls](free_trace_moments.md#controls) compare this search with the strict moment matrix test on one integral grid.
+Sharing a [discriminant bound across Newton sums](reflected_trace_search.md#census) extends the all-grid exclusion through trace degree 100000 at height forty and 200000 at height one hundred.
 
 <a id="exclusion"></a>
 ## Exclusion at every coefficient height and dilation

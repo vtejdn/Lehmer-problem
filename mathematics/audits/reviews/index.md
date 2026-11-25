@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v1245](Yin_R_G0562_v1245.md#finding) checks the common resultant divisors, pairwise root separation costs and degree counts over one or all heights.
+
+- [R562 v1244](Yin_R_G0562_v1244.md#finding) checks transfer of residues to nearby reference nodes and finiteness for real perturbations of Chebyshev extrema.
+
+- [R562 v1243](Yin_R_G0562_v1243.md#finding) checks the full and real power orders and the trace cofactor for an even long exponent.
+
+- [R562 v1242](Yin_R_G0562_v1242.md#finding) checks the reflected discriminant bound, coefficient uniqueness and independent exact counts at heights forty and one hundred.
+
 - [R562 v1241](Yin_R_G0562_v1241.md#finding) checks the rank-two factor, endpoint norm and finite-field orders for primitive exponents at the first nonunit pole.
 
 - [R562 v1240](Yin_R_G0562_v1240.md#finding) checks the uniform height obstruction under deletion of one node and finiteness of height-degree pairs on the exact Chebyshev extrema.

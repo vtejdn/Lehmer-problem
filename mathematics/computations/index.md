@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J185, trace degrees under the shared discriminant bound](programs/Yin_J_G0185/reflected_trace_search.md#census) excludes every grid through degree 100000 at height forty and 200000 at height one hundred. [Independent reproduction](../audits/reviews/Yin_R_G0562_v1242.md#finding)
+
 - [J185, Newton sums without prescribed nodes](programs/Yin_J_G0185/free_trace_moments.md#census) excludes all grids through trace degree 4500 at height forty and gives four smaller height ranges. [Independent reproduction](../audits/reviews/Yin_R_G0562_v1238.md#finding)
 
 - [J185, exact moment matrices on integral grids](programs/Yin_J_G0185/free_trace_moments.md#controls) checks a boundary point and a strictly positive cubic control on the same three nodes. [Independent matrix comparisons](../audits/reviews/Yin_R_G0562_v1239.md#finding)
