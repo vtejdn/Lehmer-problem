@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v1185](Yin_R_G0562_v1185.md#finding) checks the negative residue signs, the dyadic ramification denominator and the two-power endpoint exclusions.
+
+- [R562 v1184](Yin_R_G0562_v1184.md#finding) checks the simultaneous finite and real sign estimates, the fourth-power exclusion and the limiting measure.
+
+- [R562 v1183](Yin_R_G0562_v1183.md#finding) checks the coefficient-prime factor degrees, two irreducible families and the simultaneous two-prime exclusion.
+
+- [R562 v1182](Yin_R_G0562_v1182.md#finding) checks the rational Cayley parameter count and the denominator and measure bounds at rational slopes.
+
+- [R562 v1181](Yin_R_G0562_v1181.md#finding) checks the ramified positive-branch degree congruences, exceptional residue disks and pure and mixed long indices.
+
+- [R562 v1180](Yin_R_G0562_v1180.md#finding) checks the low interval of second measures for reducible inputs and the smaller Salem output in its strict interior.
+
 - [R562 v1179](Yin_R_G0562_v1179.md#finding) checks the Pisot exclusion and the individual Salem origins of bounded orbits in arbitrary families and integer polynomials.
 
 - [R562 v1178](Yin_R_G0562_v1178.md#finding) checks the inverse bound for Mahler values of reducible polynomials and the equality argument for primitive values.

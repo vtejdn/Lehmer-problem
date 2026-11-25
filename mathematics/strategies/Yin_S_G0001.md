@@ -22,6 +22,8 @@ The [Pisot exclusion and terminal Salem lines](../claims/Yin_C_G0901_v113.md#sta
 An arbitrary nontorsion witness having few conjugates on either closed side of the unit circle also gives a [uniform lower bound on the original measure](../claims/Yin_C_G0901_v115.md#statement).
 For an individual input near one, a bounded second iterate [is fixed or squares the first value](../claims/Yin_C_G0901_v109.md#statement); outside those two cases the [lower bound on the second log measure grows exponentially](../claims/Yin_C_G0901_v117.md#iterate) in the stated function of the inverse first log measure.
 For reducible polynomial inputs the [inverse bound](../claims/Yin_C_G0901_v118.md#statement) applies to nonreciprocal values and primitive non-Salem values.
+Writing \(A=M(P)\), the [low range for the second iterate of any integer polynomial](../claims/Yin_C_G0901_v120.md#statement) is \(A\le M(A)\le A^2\), with the growing escape estimate outside it.
+A strict interior value produces a real Salem number of smaller value and degree in the divisible conjugate group of one original factor.
 For the remaining unbounded orbits at strict records, [the one- and two-step growth estimates](../claims/Yin_C_G0901_v114.md#statement) isolate the cost of leaving the original coordinate lines.
 For sufficiently small total logarithmic measure, a [chain of products of conjugates](../claims/Yin_C_G0901_v93.md#descent) reaches the least argument rank in the entire divisible group without increasing measure.
 Writing \(k\) for that rank, the [lower bound for the original input](../claims/Yin_C_G0901_v93.md#height) is \(\tfrac14(\log\log(5k)/\log(5k))^3\) for sufficiently large \(k\).
@@ -140,6 +142,11 @@ The [discriminant of the short power](../claims/Yin_C_G0345_v879.md#statement) e
 Writing \(k=v/u\), every remaining direction has \(\log k\gg q^{1/3}\log q\) and \(u\ll(\log k)^4/(q\log q\,(\log\log k)^3)\).
 At \(u=1\) the [signed pole norm](../claims/Yin_C_G0345_v877.md#statement) excludes \(X^v(qX-q-1)-((q+1)X-q)\) for every \(v>1\) and \(q\ge3\).
 On the positive-sign branch the [cycle lengths for prime-power long exponents](../claims/Yin_C_G0901_v110.md#cycles) constrain the trace degree together with the archimedean upper bound; they exclude \(q=3,v=223\) at every common dilation.
+The [three simultaneous local degree congruences](../claims/Yin_C_G0901_v121.md#statement) also rule out \(q=3,v=784\) and the stated pure prime powers at the three endpoints.
+At odd long exponents the [signs of a square root of the pole unit](../claims/Yin_C_G0901_v124.md#statement) must balance at the coefficient primes and at the real places in the stated limits.
+In particular, [negative residue signs exclude \(q=3,\ v=2^a+1\)](../claims/Yin_C_G0901_v125.md#statement) at every common dilation.
+For general short exponents the [coefficient-prime Newton polygons](../claims/Yin_C_G0901_v123.md#statement) give irreducible nonunit families even as the coefficient prime and its exponent grow.
+For a fixed Salem generator, [signed powers with rational Cayley ratio](../claims/Yin_C_G0901_v122.md#statement) occur at only an absolutely bounded number of parameter pairs; the trace fields may still vary across candidates.
 The [sextic Salem factor at \(q=2,v=13\)](../computations/programs/Yin_J_G0185/witnesses.md#witness) shows that the threshold \(q\ge3\) for this exclusion is sharp.
 Across all heights and exponents, the [test of 72 small Salem numbers](../computations/programs/Yin_J_G0185/catalogue.md#catalogue) gives just one occurrence, an octic factor at \(q=1,u=3,v=14\).
 All powers, roots and root-of-unity twists of the [sextic seed](../claims/Yin_C_G0345_v881.md#statement) produce only its signed copies and lifts at \(q=2\).
