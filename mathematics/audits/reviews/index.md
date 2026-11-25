@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v1155](Yin_R_G0562_v1155.md#finding) checks the common measure field, the positive powers that occur and the iteration exponent throughout a divisible conjugate group of radial rank one.
+
+- [R562 v1154](Yin_R_G0562_v1154.md#finding) checks the relative norm fields and independently counts exterior conjugates to verify its two exact measure multipliers.
+
+- [R562 v1153](Yin_R_G0562_v1153.md#finding) checks the constituent descent, attainable argument ranks and degree-dependent height estimate in terms of the least rank in the divisible group.
+
 - [R562 v1152](Yin_R_G0562_v1152.md#finding) checks the exact degree-through-45 minimum at argument rank three and independently recomputes the signed Frobenius certificates.
 
 - [R562 v1151](Yin_R_G0562_v1151.md#finding) checks which alternating factors survive adjoining both the unrelated splitting fields and all totally real numbers.
