@@ -1,5 +1,15 @@
 # Reviews Index
 
+- [R562 v1208](Yin_R_G0562_v1208.md#finding) checks nonreal log mass for all polynomial values on the large second-iterate branch, including the relative degrees and angular estimates in the nested fields.
+
+- [R562 v1207](Yin_R_G0562_v1207.md#finding) checks the two-adic ramification, the fixed odd prime power in the residue period, and the exclusions under arbitrary common dilations.
+
+- [R562 v1206](Yin_R_G0562_v1206.md#finding) checks the exact minimum for the specified cubic trace class and independently verifies the smaller irreducible degree-eighteen square example.
+
+- [R562 v1205](Yin_R_G0562_v1205.md#finding) checks recovery at unbounded powers or conductors, the sign and field conditions, and the intermediate-field spectrum.
+
+- [R562 v1204](Yin_R_G0562_v1204.md#finding) checks the real logarithmic mass estimate for off-coordinate elements, including sparse, dense and two-coordinate orbits.
+
 - [R562 v1203](Yin_R_G0562_v1203.md#finding) checks the one-to-one norm factorization, the precise Salem power and the three endpoint cases at arbitrary coefficient degree.
 
 - [R562 v1202](Yin_R_G0562_v1202.md#finding) checks the vanishing cubic and quadratic averages and the separate lower counts for nonreal exterior and interior conjugates.
