@@ -21,7 +21,9 @@ For the trace construction, bounded support of the reciprocal lift permits [effe
 For dense supports, one finite place already gives [reconstruction and separation criteria](../ledger/Yin_L_G0462_v330.md#results).
 Every open dyadic disk of radius one half contains [at most two conjugates of a true solution](../claims/Yin_C_G0901_v188.md#statement).
 The exact pole with just one extra nonreal exterior pair permits [complete separation even over the integers](../claims/Yin_C_G0901_v187.md#statement).
-Investigate whether the full Salem signature forces too many conjugates of low local degree, or excludes the remaining composite residue orders consistent with the [real period and local degree estimates](../ledger/Yin_L_G0462_v331.md#degrees).
+Forcing positive low-degree density would contradict the [discriminant cost](../claims/Yin_C_G0901_v192.md#statement) even before imposing the graph equation.
+Investigate joint restrictions on the three exponent values at all primes of the consecutive coefficients and their sum, using the [sublinear Frobenius degree bound and fixed-multiple exclusions](../claims/Yin_C_G0901_v197.md#statement).
+The [full even-modulus examples](../ledger/Yin_L_G0462_v332.md#controls) leave the other coefficient modulus and the omitted odd prime as concrete tests.
 The [single-prime examples](../claims/Yin_C_G0901_v172.md#statement) already meet the archimedean capacity tests, a growing integral prefix and the exact pole on one conjugate set.
 The preferred proof question is whether first measures formed by powering the earlier of two adjacent strict degree records can approach 2 strictly from below.
 The allowed power preserves the earlier degree and the later factor stays a strict record. [Adjacent degrees](../claims/Yin_C_G0901_v163.md#rows)

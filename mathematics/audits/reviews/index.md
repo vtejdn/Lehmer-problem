@@ -1,5 +1,12 @@
 # Reviews Index
 
+- [R562 v1276](Yin_R_G0562_v1276.md#finding) checks the sublinear common Frobenius degree bound and fixed-multiple exclusions at all three coefficients.
+- [R562 v1275](Yin_R_G0562_v1275.md#finding) checks the simultaneous full-modulus period and dyadic local degrees in the one-prime models.
+- [R562 v1274](Yin_R_G0562_v1274.md#finding) checks the integral Salem examples at the integer and cubic Pisot poles, their exact evaluations and local degree counts.
+- [R562 v1273](Yin_R_G0562_v1273.md#finding) checks the large prime powers required in nearly all dyadic residue orders and the odd-prime decomposition for prime long exponent.
+- [R562 v1272](Yin_R_G0562_v1272.md#finding) checks the local degree lower bounds and the real and finite-precision estimates of the one-prime construction.
+- [R562 v1271](Yin_R_G0562_v1271.md#finding) checks the discriminant cost of low-degree conjugates and its sharpness in the class of Salem minima.
+
 - [R562 v1270](Yin_R_G0562_v1270.md#finding) checks the restrictions on the least prime divisor of a single Frobenius orbit's order and the number of factors at prime order.
 - [R562 v1269](Yin_R_G0562_v1269.md#finding) checks the uniform count of dyadic roots of bounded local degree and its sharp order for the graph equation.
 - [R562 v1268](Yin_R_G0562_v1268.md#finding) checks separated one-prime controls at the predicted period and prescribed finite precision.
