@@ -1,5 +1,25 @@
 # Reviews Index
 
+- [R562 v1195](Yin_R_G0562_v1195.md#finding) checks the parity of the permissible leading coefficient, division before the norm, the bounded-second-iterate equivalence and the complementary growth bounds.
+
+- [R562 v1194](Yin_R_G0562_v1194.md#finding) checks integral reconstruction of a half polynomial, the exact middle-coefficient obstruction, and the root inequalities at every embedding.
+
+- [R562 v1193](Yin_R_G0562_v1193.md#finding) checks that delay one attains the least exterior root for each relative seed and preserves the sign on shrinking sequences.
+
+- [R562 v1192](Yin_R_G0562_v1192.md#finding) checks the two linear signs, the congruence and factorization tests for Salem targets, and the examples in specified totally real fields.
+
+- [R562 v1191](Yin_R_G0562_v1191.md#finding) checks the exterior-count dichotomy for actual Mahler values and both directions of the Salem-gap equivalence for bounded seed degree.
+
+- [R562 v1190](Yin_R_G0562_v1190.md#finding) checks the plastic-number gap from integral derivatives at the square endpoint, including the count of eligible higher derivative orders.
+
+- [R562 v1189](Yin_R_G0562_v1189.md#finding) checks the square-class ranks of Salem trace differences and the bound on their relative odd ramification support.
+
+- [R562 v1188](Yin_R_G0562_v1188.md#finding) checks the irreducible square-endpoint examples in every degree \(4b\) for \(b\ge3\), the delayed constructions and the power-sum obstruction.
+
+- [R562 v1187](Yin_R_G0562_v1187.md#finding) checks the lower bound for integral positive averages of power traces in a proper subfield and the exact range of signed averages.
+
+- [R562 v1186](Yin_R_G0562_v1186.md#finding) checks strict exterior counts on terminal block products and the minimum on the whole divisible group of a square endpoint.
+
 - [R562 v1185](Yin_R_G0562_v1185.md#finding) checks the negative residue signs, the dyadic ramification denominator and the two-power endpoint exclusions.
 
 - [R562 v1184](Yin_R_G0562_v1184.md#finding) checks the simultaneous finite and real sign estimates, the fourth-power exclusion and the limiting measure.

@@ -24,6 +24,19 @@ For an individual input near one, a bounded second iterate [is fixed or squares 
 For reducible polynomial inputs the [inverse bound](../claims/Yin_C_G0901_v118.md#statement) applies to nonreciprocal values and primitive non-Salem values.
 Writing \(A=M(P)\), the [low range for the second iterate of any integer polynomial](../claims/Yin_C_G0901_v120.md#statement) is \(A\le M(A)\le A^2\), with the growing escape estimate outside it.
 A strict interior value produces a real Salem number of smaller value and degree in the divisible conjugate group of one original factor.
+For the actual value \(A=M(P)\), a [bound on its number of strictly exterior conjugates](../claims/Yin_C_G0901_v131.md#values) forces \(A\) itself to be Salem sufficiently near one, with an exponential threshold in the inverse log measure.
+The [relative construction with bounded seed degree](../claims/Yin_C_G0901_v131.md#delays) therefore reduces to the real Salem gap even when the coefficient fields and delays vary; [every Salem number occurs at delay one](../claims/Yin_C_G0901_v131.md#realization).
+For the square endpoint, [irreducible Perron examples in degrees \(4b\)](../claims/Yin_C_G0901_v128.md#roots) have measures converging to about \(33.91\).
+For each seed, [delay one attains the least exterior root](../claims/Yin_C_G0901_v133.md#ordering), so concentrate the search beyond the real Salem case on delay one with growing seed degree.
+At degree one the [negative-sign test](../claims/Yin_C_G0901_v132.md#minus) asks whether the target Salem trace minus two is a square modulo four in its trace field; [Lehmer's number](../claims/Yin_C_G0901_v132.md#examples) fails this test.
+Conversely the [reconstruction from the actual half polynomial](../claims/Yin_C_G0901_v134.md#statement) covers every odd half degree, and in even degree it identifies the precise middle-coefficient obstruction.
+For the full bounded-second-iterate class, [one delay-one construction suffices](../claims/Yin_C_G0901_v135.md#statement): allow an integral seed of leading coefficient two and divide the output by two when its coefficients satisfy the stated congruence.
+This removes the even middle-coefficient obstruction while preserving the actual endpoint minimum and its measure.
+The other possible shrinking sequences have [rapidly diverging second measures and many exterior conjugates of the first value](../claims/Yin_C_G0901_v135.md#equivalence).
+An [integral first monic derivative of the marked half](../claims/Yin_C_G0901_v130.md#statement) gives a gap at the plastic number, so the unresolved small square case requires genuine denominators in this operation.
+At a large square endpoint the [minimum strict exterior count in its divisible group](../claims/Yin_C_G0901_v126.md#count) is the full block size, attainable on a single conjugate line.
+For a possible shrinking real Salem sequence, every nonzero integral [positive average of power traces in a proper subfield](../claims/Yin_C_G0901_v127.md#positive) yields a lower-degree Salem number whose measure grows without bound.
+The [square classes of differences from cyclotomic traces](../claims/Yin_C_G0901_v129.md#statement) instead impose many independent signs with odd ramification supported on an integer of subexponential size in the trace degree.
 For the remaining unbounded orbits at strict records, [the one- and two-step growth estimates](../claims/Yin_C_G0901_v114.md#statement) isolate the cost of leaving the original coordinate lines.
 For sufficiently small total logarithmic measure, a [chain of products of conjugates](../claims/Yin_C_G0901_v93.md#descent) reaches the least argument rank in the entire divisible group without increasing measure.
 Writing \(k\) for that rank, the [lower bound for the original input](../claims/Yin_C_G0901_v93.md#height) is \(\tfrac14(\log\log(5k)/\log(5k))^3\) for sufficiently large \(k\).
