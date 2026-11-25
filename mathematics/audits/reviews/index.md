@@ -1,5 +1,17 @@
 # Reviews Index
 
+- [R562 v1168](Yin_R_G0562_v1168.md#finding) checks the relative block degree, the preceding field level and the exterior and radial bounds over all totally real numbers.
+
+- [R562 v1167](Yin_R_G0562_v1167.md#finding) checks the universal fields defined by nonabelian chief-factor ranks and the exact block-count and tower thresholds.
+
+- [R562 v1166](Yin_R_G0562_v1166.md#finding) checks the spectrum and alternating-factor obstruction over arbitrary normal bases and families with unrestricted relative degrees.
+
+- [R562 v1165](Yin_R_G0562_v1165.md#finding) checks the signature matrices, norm budgets and conditional Salem gaps for varying totally real trace fields.
+
+- [R562 v1164](Yin_R_G0562_v1164.md#finding) checks the pole-side real root, the coefficient characters and the sign and exponent hypotheses of the four-term exclusions.
+
+- [R562 v1163](Yin_R_G0562_v1163.md#finding) checks the quantitative mixed-measure estimate through small relative joint degrees in both possible orbit ranges.
+
 - [R562 v1162](Yin_R_G0562_v1162.md#finding) checks the joint-degree height estimate for the primitive measure generator and the sufficient test for all positive powers to occur.
 
 - [R562 v1161](Yin_R_G0562_v1161.md#finding) checks the bounded spectra of the block-product chain and of arbitrary families of sufficiently large strict degree records.
