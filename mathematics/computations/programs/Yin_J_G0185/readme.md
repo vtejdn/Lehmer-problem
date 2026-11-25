@@ -4,6 +4,8 @@ author: Yin
 
 # Salem units in the consecutive-coefficient family
 
+For the first nonunit pole the [all-height census](dense_trace_census.md#census) excludes all grids through trace degree forty and gives additional fixed-height ranges.
+
 The coefficients \(2,3\) give a nonmonic parent with a degree-six Salem factor. [Exact witness and finite search](witnesses.md#witness)
 The [catalogue test](catalogue.md#catalogue) treats the 72 retained Salem numbers, including a degree-eight witness at \(q=1\), and also examines [parents with short exponent one](catalogue.md#short-one).
 At short exponent one, the degree-six witness and its sign changes give the [complete classification for \(q\ge2\) through primitive degree 44](short_one.md#classification).
