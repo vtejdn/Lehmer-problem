@@ -16,6 +16,7 @@ author: Yin
 The [current Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-adjacent-and-trace) resumes the adjacent-record investigation and the sign-constrained trace trial on this route.
 The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
 The main researcher may pursue a uniform lower bound, this construction or another approach as the evidence warrants.
+The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
 The preferred proof question is whether first measures formed by powering the earlier of two adjacent strict degree records can approach 2 strictly from below.
 The allowed power preserves the earlier degree and the later factor stays a strict record. [Adjacent degrees](../claims/Yin_C_G0901_v163.md#rows)
 Excluding such an approach suffices for the unrestricted gap.
@@ -217,7 +218,8 @@ The trace trial uses \(M=q(q+1)\) and searches the integer coefficients of \(G\)
 This fixes \(M^nH(1/M)=(2q+1)^2\) throughout the search.
 Screen the leading coefficients using the sum and sum of squares of the desired roots, at degrees compatible with the [existing exclusion](../computations/programs/Yin_J_G0185/power_catalogue.md#coverage).
 Then prescribe alternating nonzero signs at \(n\) increasing rational points from \(-4\) to \(0\), ending with \(H(0)<0\), and test the resulting linear inequalities on the remaining integer coefficients.
-For a feasible polynomial, check the irreducible factor containing the positive root and the [unit criterion](../claims/Yin_C_G0345_v883.md#criterion) exactly.
+On this branch a [lattice point in the open sign simplex](../claims/Yin_C_G0345_v891.md#statement) already gives an irreducible trace and both common-power units.
+When reporting partial matches, specify the coefficient or evaluation map and whether its shared data have an [integral realization on the same grid](../ledger/Yin_L_G0462_v328.md#observations).
 A failed grid excludes only that choice of nodes under the tested restrictions.
 Pursue a separate strategy if a certified example yields a construction that can vary with \(q\), or if the incompatible inequalities give a proof covering a specified family of corrections independently of the grid.
 At any prescribed positive pole value, the [pole-weighted reconstruction](../computations/programs/Yin_J_G0185/trace_grid.md#pole-weights) leaves at most one polynomial on each fixed grid for every integer \(q\ge2\).

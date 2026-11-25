@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v1237](Yin_R_G0562_v1237.md#finding) checks the fixed-grid simplex, rational fibers, integral uniqueness, automatic irreducibility and the return to small Salem units.
+
 - [R562 v1236](Yin_R_G0562_v1236.md#finding) checks simultaneous integer data at all five nodes, the positive realization for prime-power coefficient sums and the fifth-coefficient obstruction in the height-forty example.
 
 - [R562 v1235](Yin_R_G0562_v1235.md#finding) derives the interior integer congruences and independently encloses every ordered grid in the five perturbation boxes.
