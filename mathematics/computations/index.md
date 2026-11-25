@@ -1,5 +1,10 @@
 # Computations Index
 
+- [J185, trace reconstruction from alternating signs](programs/Yin_J_G0185/trace_grid.md#solver) gives obstructions for whole families of grids and [two positive controls and 200 deformed-grid trials](programs/Yin_J_G0185/trace_grid.md#runs). [Independent review](../audits/reviews/Yin_R_G0562_v1230.md#finding)
+  At a fixed positive pole value the [weighted intervals](programs/Yin_J_G0185/trace_grid.md#pole-weights) give uniqueness from height two onward. [Independent weighted calculation](../audits/reviews/Yin_R_G0562_v1231.md#finding)
+
+- [J185, degree lifting at two consecutive integers](programs/Yin_J_G0185/lobatto_digits.md#results) excludes trace degrees from 23 through one trillion at height 40 in the stated neighborhood of the Chebyshev extrema. [Independent enumeration](../audits/reviews/Yin_R_G0562_v1229.md#finding)
+
 - [J193, cubic halves over quadratic bases](programs/Yin_J_G0193/readme.md#quadratic-base) exhausts the irrational coefficient traces in the stated degree-twelve range. The final marked-root test excludes all 40 preliminary candidates. [Independent computation](../audits/reviews/Yin_R_G0562_v1210.md#finding)
 
 - [J192, real exterior squares through degree 45](programs/Yin_J_G0192/readme.md#comparison) compares each of the 427 real exterior squares of the primitive catalogue with the measure and identifies the [27 square-root lifts](programs/Yin_J_G0192/readme.md#lifts). An [independent root-disk calculation](../audits/reviews/Yin_R_G0562_v1176.md#finding) verifies all rows and the 872 resulting units.

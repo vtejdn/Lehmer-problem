@@ -13,14 +13,16 @@ author: Yin
 <a id="adaptive-allocation"></a>
 ## Current adaptive allocation
 
-Research on all routes is paused under the [current Task decision](../tasks/Yin_T_G0001_v1.md#current-decision).
-The following priorities are retained for an explicit resumption by Yin.
+The [current Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-adjacent-and-trace) resumes the adjacent-record investigation and the sign-constrained trace trial on this route.
 The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
-On resumption the main researcher may pursue a uniform lower bound, this construction or another approach as the evidence warrants.
+The main researcher may pursue a uniform lower bound, this construction or another approach as the evidence warrants.
 The preferred proof question is whether first measures formed by powering the earlier of two adjacent strict degree records can approach 2 strictly from below.
 The allowed power preserves the earlier degree and the later factor stays a strict record. [Adjacent degrees](../claims/Yin_C_G0901_v163.md#rows)
 Excluding such an approach suffices for the unrestricted gap.
 Under gap failure the chosen second log measures diverge and the normalized absolute norms of the differences from 2 tend to 2. [One-sided equivalence and integer norms](../claims/Yin_C_G0901_v165.md#statement)
+In a growing window below the nearest power, products of neighboring translates incur a positive height cost per factor even after multiplication by arbitrary units and elements of the earlier record field. [Window and height bound](../ledger/Yin_L_G0462_v326.md#descent)
+For the next descent test, investigate additive expressions across conjugates of the later record, for which taking a relative trace returns an element of the earlier field.
+Such an expression must still be nontrivial and have sufficiently small total measure to contradict the record property.
 For a proof of the unrestricted gap it suffices to rule out [squarefree products of two strict degree records](../claims/Yin_C_G0901_v155.md#statement) with first measures tending to one and second log measures exceeding any one prescribed locally bounded growth target.
 A putative shrinking sequence can be converted to this class with the second factor arbitrarily smaller in log measure and both angular log-mass distributions tending to arclength.
 The resulting values can be chosen to have [minimum positive-measure factor count two](../claims/Yin_C_G0901_v156.md#lehmer).
@@ -210,13 +212,17 @@ An unreviewed [prime-power construction attempt](../ledger/Yin_L_G0462_v324.md#r
 Its [order conditions](../ledger/Yin_L_G0462_v324.md#order) and [coefficient restrictions](../ledger/Yin_L_G0462_v324.md#auxiliary) await verification before use.
 
 <a id="trace-sign-trial"></a>
-On resumption, one proposed trial uses \(M=q(q+1)\) and searches the integer coefficients of \(G\) in the [first nonunit pole branch](../ledger/Yin_L_G0462_v324.md#pole), \(H=x^{n-1}(x+4)+(Mx-1)G\), with \(\deg G\le n-2\).
+The trace trial uses \(M=q(q+1)\) and searches the integer coefficients of \(G\) in the [first nonunit pole branch](../ledger/Yin_L_G0462_v324.md#pole), \(H=x^{n-1}(x+4)+(Mx-1)G\), with \(\deg G\le n-2\).
 This fixes \(M^nH(1/M)=(2q+1)^2\) throughout the search.
 Screen the leading coefficients using the sum and sum of squares of the desired roots, at degrees compatible with the [existing exclusion](../computations/programs/Yin_J_G0185/power_catalogue.md#coverage).
 Then prescribe alternating nonzero signs at \(n\) increasing rational points from \(-4\) to \(0\), ending with \(H(0)<0\), and test the resulting linear inequalities on the remaining integer coefficients.
 For a feasible polynomial, check the irreducible factor containing the positive root and the [unit criterion](../claims/Yin_C_G0345_v883.md#criterion) exactly.
 A failed grid excludes only that choice of nodes under the tested restrictions.
 Pursue a separate strategy if a certified example yields a construction that can vary with \(q\), or if the incompatible inequalities give a proof covering a specified family of corrections independently of the grid.
+At any prescribed positive pole value, the [pole-weighted reconstruction](../computations/programs/Yin_J_G0185/trace_grid.md#pole-weights) leaves at most one polynomial on each fixed grid for every integer \(q\ge2\).
+On the first nonunit branch [all equally spaced grids](../computations/programs/Yin_J_G0185/trace_grid.md#uniform) fail for \(q\ge5\) in trace degrees at least 16, and the second or third coefficient excludes all 200 tested deformations.
+At \(q=40\) the [congruences at 40 and 41](../claims/Yin_C_G0345_v887.md#digits) exclude degrees 23 through \(10^{12}\) whenever the total angular displacement from the Chebyshev extrema is at most \(1/512\).
+Vary the grid moments to satisfy the first two coefficient congruences, then use the next residue moments to test whole ranges of node positions before reconstructing individual candidates.
 
 For the two units of the explicit Chebyshev modification with a nonreal trace pair, the [minimum over all nontrivial integer products and optional torsion](../claims/Yin_C_G0902_v1.md#minimum) grows as \(\log(2q(q+1))+o(1)\), with an [independent check](../audits/reviews/Yin_R_G0562_v1040.md#finding) uniform over the permitted degrees.
 Changing the exponents of these two generators therefore cannot produce a shrinking sequence.
@@ -2994,8 +3000,8 @@ All eight routes and the Task remain paused, with no computation or proof-review
 
 | Field | Value |
 | --- | --- |
-| disposition | paused |
-| priority | On resumption, examine whether the adjacent-record first measures can approach 2 strictly from below. |
+| disposition | active |
+| priority | Examine adjacent-record first measures approaching 2 from below and test sign constraints on the first nonunit trace branch. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v326](Yin_L_G0462_v326.md#descent) | Neighboring translates of strict record measures and the cost of multiplicative descent | Disjoint prime ideal divisors force height and relative degree bounds for products of translates under gap failure. [Independent review](../audits/reviews/Yin_R_G0562_v1228.md#finding) |
 | [Yin_L_G0462_v325](Yin_L_G0462_v325.md#support) | The number of terms in two independent rows at large exponents for a fixed seed | Confluent evaluation minors give a support floor in terms of the least power degree at every sufficiently large exponent for a fixed seed and width. |
 | [Yin_L_G0462_v324](Yin_L_G0462_v324.md#repair) | Prime-power coefficient sums and a trace with no real root below minus four | An unreviewed deformation gives integral units and leaves one nonreal trace pair. The prime-power norm and exponent tests are recorded for comparison. |
 | [Yin_L_G0462_v323](Yin_L_G0462_v323.md#blocks) | Binary block matches in Salem return paths near two | The exact transition weights bound how often collision paths can follow a single prediction for each block. |

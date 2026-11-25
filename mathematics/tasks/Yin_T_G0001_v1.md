@@ -188,7 +188,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-pause-after-adjacent-record-round)
+[Selected decision](#decision-resume-adjacent-and-trace)
 
 ## Lifecycle and completion
 
@@ -728,6 +728,19 @@ The [99.5 percent shared weekly usage threshold](#decision-consecutive-unit-cons
 | Relation | Target | Scope |
 | --- | --- | --- |
 | contract | [Unrestricted Lehmer problem](#contract) | Determine whether the positive total logarithmic Mahler measures of integer polynomials have a uniform positive lower bound independent of degree and coefficients. |
+
+### Decision resume-adjacent-and-trace
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-25T08:41 |
+| status | active |
+| authority | Yin requested that the main research agent resume and advance the Task. |
+| reason | Investigate the adjacent-record criterion and the sign-constrained trace construction under the existing account, monitoring and weekly usage conditions. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Lehmer's problem](#contract) | The unrestricted positive logarithmic Mahler measure gap. |
 
 ## Execution boundary
 

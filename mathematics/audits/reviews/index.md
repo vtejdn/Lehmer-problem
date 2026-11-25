@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v1231](Yin_R_G0562_v1231.md#finding) checks the positive-pole weights, the uniqueness threshold and the second- and third-coefficient failures on the deformed grids.
+
+- [R562 v1230](Yin_R_G0562_v1230.md#finding) checks coefficient reconstruction from trace signs, moment obstructions, equally spaced grids and the rational-grid computations.
+
+- [R562 v1229](Yin_R_G0562_v1229.md#finding) checks the degree bound at the Chebyshev extrema and independently reproduces the exclusion in a neighborhood of these extrema at height 40.
+
+- [R562 v1228](Yin_R_G0562_v1228.md#finding) checks prime ideal separation, the height cost of multiplicative descent and its degree obstruction for neighboring strict records.
+
 - [R562 v1218](Yin_R_G0562_v1218.md#finding) checks the fixed-ceiling finite exceptional monoid, the nonunit integer multipliers and the exact degree formula.
 
 - [R562 v1217](Yin_R_G0562_v1217.md#finding) checks the four lifts over the common trace base, the two-Salem iteration rule and the near-one field-index exclusions.
