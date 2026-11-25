@@ -1,5 +1,21 @@
 # Reviews Index
 
+- [R562 v1253](Yin_R_G0562_v1253.md#finding) checks effective finiteness at bounded support on the integral trace-pole branch.
+
+- [R562 v1252](Yin_R_G0562_v1252.md#finding) checks the two finite-place logarithm estimates for zero prefixes at the trace pole.
+
+- [R562 v1251](Yin_R_G0562_v1251.md#finding) checks the uniform degree restrictions for a growing zero prefix at the exact pole.
+
+- [R562 v1250](Yin_R_G0562_v1250.md#finding) checks simultaneous pole, zero moments, all powered capacity tests and the single-prime cost.
+
+- [R562 v1249](Yin_R_G0562_v1249.md#finding) checks the normalized trace-slice volume, single-prime lifts and cubic controls.
+
+- [R562 v1248](Yin_R_G0562_v1248.md#finding) checks joint quaternion realizations and the product translation lengths of Salem elements.
+
+- [R562 v1247](Yin_R_G0562_v1247.md#finding) checks the irreducible one-prime capacity models and all powered tests.
+
+- [R562 v1246](Yin_R_G0562_v1246.md#finding) checks the spectral cost per occurrence of a prescribed eigenvalue in trees and forests.
+
 - [R562 v1245](Yin_R_G0562_v1245.md#finding) checks the common resultant divisors, pairwise root separation costs and degree counts over one or all heights.
 
 - [R562 v1244](Yin_R_G0562_v1244.md#finding) checks transfer of residues to nearby reference nodes and finiteness for real perturbations of Chebyshev extrema.

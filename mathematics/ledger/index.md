@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v329](Yin_L_G0462_v329.md#core) | What the cross-disciplinary tests detect in the Lehmer problem | Integral units, a joint one-prime construction, finite-place exclusions for genuine trace lifts, and costs in graphs and arithmetic groups. |
 | [Yin_L_G0462_v328](Yin_L_G0462_v328.md#gap) | What an obstruction or a construction establishes about the Lehmer gap | Adjacent-record equivalence, sufficient Salem constructions and the distinction between shared observations and an integral trace realization. |
 | [Yin_L_G0462_v327](Yin_L_G0462_v327.md#scalings) | Relative traces of adjacent record measures and the cost of normalizing them | The earlier field's measure filtration, the heights of translated traces under rational rescaling and the degree growth required by field nesting. [Independent review](../audits/reviews/Yin_R_G0562_v1234.md#finding) |
 | [Yin_L_G0462_v326](Yin_L_G0462_v326.md#descent) | Neighboring translates of strict record measures and the cost of multiplicative descent | Disjoint prime ideal divisors force height and relative degree bounds for products of translates under gap failure. [Independent review](../audits/reviews/Yin_R_G0562_v1228.md#finding) |
