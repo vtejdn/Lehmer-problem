@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J191, argument ranks in the complete small-measure catalogue](programs/Yin_J_G0191/readme.md#exhaustion) excludes rank at most two through degree 45 below 1.3 and [identifies the unique measure at rank at most three](programs/Yin_J_G0191/rank_three.md#winner) in the same range. Independent computations check the [rank-two exclusions](../audits/reviews/Yin_R_G0562_v1150.md#finding) and the [rank-three classification](../audits/reviews/Yin_R_G0562_v1152.md#finding).
+
 - [J190, the low-degree search at the plastic-number threshold](programs/Yin_J_G0190/readme.md#exhaustion) exhausts reciprocal inputs through degree twelve at a rational cutoff above the plastic number, with an [independent enumeration from trace coefficients](../audits/reviews/Yin_R_G0562_v1138.md#finding).
 
 - [J189, the unit-circle pairs of the 944 small cores](programs/Yin_J_G0189/readme.md#circle) verifies the finite exclusion in the all-degree argument-rank-one bound, with an [independent Hermite-form computation](../audits/reviews/Yin_R_G0562_v1132.md#finding).

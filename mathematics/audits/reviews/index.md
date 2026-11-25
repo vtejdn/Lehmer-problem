@@ -1,5 +1,23 @@
 # Reviews Index
 
+- [R562 v1152](Yin_R_G0562_v1152.md#finding) checks the exact degree-through-45 minimum at argument rank three and independently recomputes the signed Frobenius certificates.
+
+- [R562 v1151](Yin_R_G0562_v1151.md#finding) checks which alternating factors survive adjoining both the unrelated splitting fields and all totally real numbers.
+
+- [R562 v1150](Yin_R_G0562_v1150.md#finding) checks the two finite argument-rank bounds and independently recomputes the signatures and finite-field orders.
+
+- [R562 v1149](Yin_R_G0562_v1149.md#finding) checks the transfer from radial rank anywhere in the divisible group to exterior places at no greater measure, including the growing-rank range.
+
+- [R562 v1148](Yin_R_G0562_v1148.md#finding) checks the explicit degree reduction at argument rank two and the sharper bounds in the stated representation types.
+
+- [R562 v1147](Yin_R_G0562_v1147.md#finding) checks the adjunction threshold above all unmatched fields and the resulting finite-spectrum filtration.
+
+- [R562 v1146](Yin_R_G0562_v1146.md#finding) checks the coefficient slices and the lower-tail estimate for the excess support above the box vertices.
+
+- [R562 v1145](Yin_R_G0562_v1145.md#finding) checks the simultaneous prime and depth estimates, the original-field density and the constructed Salem examples.
+
+- [R562 v1144](Yin_R_G0562_v1144.md#finding) checks absolute irreducibility, the linear argument-rank bound and the minimum exterior count in the full divisible group of a strict degree record.
+
 - [R562 v1143](Yin_R_G0562_v1143.md#finding) checks the half-block total-measure transfer and the odd relations among the sign characters.
 
 - [R562 v1142](Yin_R_G0562_v1142.md#finding) checks the integral index bound, generator count and the height consequences for commuting conjugations.
