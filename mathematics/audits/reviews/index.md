@@ -1,5 +1,21 @@
 # Reviews Index
 
+- [R562 v1203](Yin_R_G0562_v1203.md#finding) checks the one-to-one norm factorization, the precise Salem power and the three endpoint cases at arbitrary coefficient degree.
+
+- [R562 v1202](Yin_R_G0562_v1202.md#finding) checks the vanishing cubic and quadratic averages and the separate lower counts for nonreal exterior and interior conjugates.
+
+- [R562 v1201](Yin_R_G0562_v1201.md#finding) checks the quantitative nonreal trace count, including two-label orbits and several active source fields.
+
+- [R562 v1200](Yin_R_G0562_v1200.md#finding) checks the characterization by a totally real trace and the precise radicals on each terminal line.
+
+- [R562 v1199](Yin_R_G0562_v1199.md#finding) checks the terminal criterion and the least first measure in the indicated groups with bounded second iterate.
+
+- [R562 v1198](Yin_R_G0562_v1198.md#finding) checks the evaluation and denominator bounds, the resultant outputs and the family with a larger minimum Salem output.
+
+- [R562 v1197](Yin_R_G0562_v1197.md#finding) checks the uniform gap in the simultaneous extensions by square roots of Salem trace differences.
+
+- [R562 v1196](Yin_R_G0562_v1196.md#finding) checks the Salem defect, the two-factor inverse test and the double-exponential bound on the third iterate.
+
 - [R562 v1195](Yin_R_G0562_v1195.md#finding) checks the parity of the permissible leading coefficient, division before the norm, the bounded-second-iterate equivalence and the complementary growth bounds.
 
 - [R562 v1194](Yin_R_G0562_v1194.md#finding) checks integral reconstruction of a half polynomial, the exact middle-coefficient obstruction, and the root inequalities at every embedding.
