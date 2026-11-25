@@ -208,7 +208,17 @@ Even without the Salem signature, a genuine section on this branch at unbounded 
 Restrict further searches to auxiliaries that satisfy this coefficient condition and test the trace roots or the common powers.
 An unreviewed [prime-power construction attempt](../ledger/Yin_L_G0462_v324.md#repair) removes the real trace below \(-4\) at the cost of a nonreal pair.
 Its [order conditions](../ledger/Yin_L_G0462_v324.md#order) and [coefficient restrictions](../ledger/Yin_L_G0462_v324.md#auxiliary) await verification before use.
-For these two units the [minimum over all nontrivial integer products and optional torsion](../claims/Yin_C_G0902_v1.md#minimum) grows as \(\log(2q(q+1))+o(1)\), with an [independent check](../audits/reviews/Yin_R_G0562_v1040.md#finding) uniform over the permitted degrees.
+
+<a id="trace-sign-trial"></a>
+On resumption, one proposed trial uses \(M=q(q+1)\) and searches the integer coefficients of \(G\) in the [first nonunit pole branch](../ledger/Yin_L_G0462_v324.md#pole), \(H=x^{n-1}(x+4)+(Mx-1)G\), with \(\deg G\le n-2\).
+This fixes \(M^nH(1/M)=(2q+1)^2\) throughout the search.
+Screen the leading coefficients using the sum and sum of squares of the desired roots, at degrees compatible with the [existing exclusion](../computations/programs/Yin_J_G0185/power_catalogue.md#coverage).
+Then prescribe alternating nonzero signs at \(n\) increasing rational points from \(-4\) to \(0\), ending with \(H(0)<0\), and test the resulting linear inequalities on the remaining integer coefficients.
+For a feasible polynomial, check the irreducible factor containing the positive root and the [unit criterion](../claims/Yin_C_G0345_v883.md#criterion) exactly.
+A failed grid excludes only that choice of nodes under the tested restrictions.
+Pursue a separate strategy if a certified example yields a construction that can vary with \(q\), or if the incompatible inequalities give a proof covering a specified family of corrections independently of the grid.
+
+For the two units of the explicit Chebyshev modification with a nonreal trace pair, the [minimum over all nontrivial integer products and optional torsion](../claims/Yin_C_G0902_v1.md#minimum) grows as \(\log(2q(q+1))+o(1)\), with an [independent check](../audits/reviews/Yin_R_G0562_v1040.md#finding) uniform over the permitted degrees.
 Changing the exponents of these two generators therefore cannot produce a shrinking sequence.
 Allowing arbitrary radicals gives exactly the [minimum of the relative norm-one units](../claims/Yin_C_G0902_v2.md#statement).
 The [relative discriminant](../claims/Yin_C_G0902_v3.md#statement) has norm dividing \(4(2n-5)\) when \(2q+1\) is a power of three.
