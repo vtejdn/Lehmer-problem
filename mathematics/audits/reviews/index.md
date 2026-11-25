@@ -1,5 +1,13 @@
 # Reviews Index
 
+- [R562 v1241](Yin_R_G0562_v1241.md#finding) checks the rank-two factor, endpoint norm and finite-field orders for primitive exponents at the first nonunit pole.
+
+- [R562 v1240](Yin_R_G0562_v1240.md#finding) checks the uniform height obstruction under deletion of one node and finiteness of height-degree pairs on the exact Chebyshev extrema.
+
+- [R562 v1239](Yin_R_G0562_v1239.md#finding) checks the integral-grid moment matrix, both arbitrary-grid block bounds and the implementation on exact grids.
+
+- [R562 v1238](Yin_R_G0562_v1238.md#finding) checks the two grid-independent Newton sum intervals, reconstruction, branching and five finite degree enumerations.
+
 - [R562 v1237](Yin_R_G0562_v1237.md#finding) checks the fixed-grid simplex, rational fibers, integral uniqueness, automatic irreducibility and the return to small Salem units.
 
 - [R562 v1236](Yin_R_G0562_v1236.md#finding) checks simultaneous integer data at all five nodes, the positive realization for prime-power coefficient sums and the fifth-coefficient obstruction in the height-forty example.

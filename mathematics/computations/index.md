@@ -1,5 +1,9 @@
 # Computations Index
 
+- [J185, Newton sums without prescribed nodes](programs/Yin_J_G0185/free_trace_moments.md#census) excludes all grids through trace degree 4500 at height forty and gives four smaller height ranges. [Independent reproduction](../audits/reviews/Yin_R_G0562_v1238.md#finding)
+
+- [J185, exact moment matrices on integral grids](programs/Yin_J_G0185/free_trace_moments.md#controls) checks a boundary point and a strictly positive cubic control on the same three nodes. [Independent matrix comparisons](../audits/reviews/Yin_R_G0562_v1239.md#finding)
+
 - [J185, integer values on five grid neighborhoods](programs/Yin_J_G0185/integer_grid_values.md#trials) excludes the full polynomial on boxes about five [adapted rational grids](programs/Yin_J_G0185/adaptive_grid.md#trials), one of which passes sixteen leading coefficients. [Review of the prefix trials](../audits/reviews/Yin_R_G0562_v1233.md#finding) and [independent interval calculation](../audits/reviews/Yin_R_G0562_v1235.md#finding)
 
 - [J185, the weighted moment sieve](programs/Yin_J_G0185/grid_moment_digits.md#census) excludes trace degrees 23 through \(10^{24}\) at height forty for both reference families throughout the stated displacement neighborhoods. [Independent enumeration](../audits/reviews/Yin_R_G0562_v1232.md#finding)

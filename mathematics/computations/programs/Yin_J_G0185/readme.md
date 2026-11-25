@@ -15,6 +15,8 @@ For a prescribed trace grid, the [pole-weighted coefficient bounds](trace_grid.m
 The [signed reconstruction](trace_grid.md#solver) also recovers the known cubic in the [control run](trace_grid.md#runs).
 At \(q=40\) the [original degree sieve](lobatto_digits.md#results) and the [weighted moment sieve](grid_moment_digits.md#census) use both pole congruences; the latter reaches \(10^{24}\) for the two specified families of reference grids and their neighborhoods.
 The [adaptive trial](adaptive_grid.md#trials) passes sixteen coefficients at \(q=5\) and degree 981, while [integer point evaluations](integer_grid_values.md#trials) exclude the full polynomial on every one of the five tested grid neighborhoods.
+The [grid-independent Newton sum search](free_trace_moments.md#census) excludes every trace degree from two through 4500 at \(q=40\) on the first nonunit branch.
+The [two cubic controls](free_trace_moments.md#controls) compare this search with the strict moment matrix test on one integral grid.
 
 <a id="exclusion"></a>
 ## Exclusion at every coefficient height and dilation

@@ -211,7 +211,8 @@ The [rounded shifted powers](../claims/Yin_C_G0345_v885.md#construction) match t
 Even without the Salem signature, a genuine section on this branch at unbounded \(q\) requires \(2B/A=q(q+1)A-3+o(1)\), where \(A,B\) are the first two coefficients of \(G\).
 Restrict further searches to auxiliaries that satisfy this coefficient condition and test the trace roots or the common powers.
 An unreviewed [prime-power construction attempt](../ledger/Yin_L_G0462_v324.md#repair) removes the real trace below \(-4\) at the cost of a nonreal pair.
-Its [order conditions](../ledger/Yin_L_G0462_v324.md#order) and [coefficient restrictions](../ledger/Yin_L_G0462_v324.md#auxiliary) await verification before use.
+Its proposed short exponent \(u=4\) at \(2q+1=3^{2s}\) is excluded at the first nonunit pole by the [local square-root condition](../claims/Yin_C_G0345_v895.md#orders).
+The original [order conditions](../ledger/Yin_L_G0462_v324.md#order) and [coefficient restrictions](../ledger/Yin_L_G0462_v324.md#auxiliary) remain exploratory outside the reviewed conclusions.
 
 <a id="trace-sign-trial"></a>
 The trace trial uses \(M=q(q+1)\) and searches the integer coefficients of \(G\) in the [first nonunit pole branch](../ledger/Yin_L_G0462_v324.md#pole), \(H=x^{n-1}(x+4)+(Mx-1)G\), with \(\deg G\le n-2\).
@@ -229,7 +230,14 @@ With freely chosen nodes the [movable-grid construction](../claims/Yin_C_G0345_v
 The [integer values at interior points](../computations/programs/Yin_J_G0185/integer_grid_values.md#trials) already exclude whole neighborhoods of five grids adjusted to pass leading coefficients.
 For \(2q+1=3^{2s}\) the [five-value construction](../claims/Yin_C_G0345_v890.md#statement) already fits all five integral values and up to \(q/2\) leading integral coefficients on one polynomial with the exact pole and all the root signs.
 At \(q=40\) and degree 3282851794363 a [four-coefficient instance](../claims/Yin_C_G0345_v890.md#progression) meets these conditions although every fully integral polynomial on that grid is excluded.
-Investigate the [remaining integer quotient](../claims/Yin_C_G0345_v890.md#completion) by tracking a number of coupled coefficient or algebraic evaluation constraints that grows with the trace degree.
+For a fixed height and degree, decide the [remaining integer quotient](../claims/Yin_C_G0345_v890.md#completion) across all separating grids using the [Newton sums of the reciprocal lift](../claims/Yin_C_G0345_v892.md#statement).
+Only a bounded initial segment can branch, after which the pole and two moment intervals force each remaining coefficient or discard the prefix.
+This search [excludes every trace degree through 4500 at \(q=40\)](../computations/programs/Yin_J_G0185/free_trace_moments.md#census).
+On a prescribed integral grid polynomial, [strict positive definiteness](../claims/Yin_C_G0345_v893.md#residues) decides the complete lattice problem directly from the grid and pole.
+The [one-node deletion obstruction](../claims/Yin_C_G0345_v894.md#delete) bounds \(q\) uniformly whenever the remaining nodes form an integral polynomial.
+For unbounded heights, seek a polynomial by the grid-independent test or use rational grids for which every one-node deletion has a nonintegral coefficient.
+For specified rational grids the [simultaneous row tests](../claims/Yin_C_G0345_v893.md#blocks) recover a whole block before any coefficient of that block has been chosen.
+For a proposed exponent pair with odd \(v\), impose [divisibility of the full trace cofactor modulo \(2q+1\)](../claims/Yin_C_G0345_v895.md#trace) before lifting to the integer polynomial.
 
 For the two units of the explicit Chebyshev modification with a nonreal trace pair, the [minimum over all nontrivial integer products and optional torsion](../claims/Yin_C_G0902_v1.md#minimum) grows as \(\log(2q(q+1))+o(1)\), with an [independent check](../audits/reviews/Yin_R_G0562_v1040.md#finding) uniform over the permitted degrees.
 Changing the exponents of these two generators therefore cannot produce a shrinking sequence.
