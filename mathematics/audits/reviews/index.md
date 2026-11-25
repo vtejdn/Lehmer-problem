@@ -1,5 +1,25 @@
 # Reviews Index
 
+- [R562 v1218](Yin_R_G0562_v1218.md#finding) checks the fixed-ceiling finite exceptional monoid, the nonunit integer multipliers and the exact degree formula.
+
+- [R562 v1217](Yin_R_G0562_v1217.md#finding) checks the four lifts over the common trace base, the two-Salem iteration rule and the near-one field-index exclusions.
+
+- [R562 v1216](Yin_R_G0562_v1216.md#finding) checks independence of all near-one generators, the factor partitions, and the minimum input degrees and their equality cases.
+
+- [R562 v1215](Yin_R_G0562_v1215.md#finding) checks equivalence of the full gap with the two-record test at any prescribed growth, including the conditional and diagonal angular limits.
+
+- [R562 v1214](Yin_R_G0562_v1214.md#finding) checks the common angular component for both signs and the radial and angular joint limits.
+
+- [R562 v1213](Yin_R_G0562_v1213.md#finding) checks the uniform mass bound on a moving line using affine projection fibers, conditional averages and relative degrees.
+
+- [R562 v1212](Yin_R_G0562_v1212.md#finding) checks the five-term family's exact value degrees, Gaussian radial law, second log measures and compositum gap.
+
+- [R562 v1211](Yin_R_G0562_v1211.md#finding) checks derivative denominators, Salem descent, confinement of the critical roots and integer trace shifts.
+
+- [R562 v1210](Yin_R_G0562_v1210.md#finding) checks the effective cubic gap, the improved unrestricted label-block bound and the exact degree-twelve computation.
+
+- [R562 v1209](Yin_R_G0562_v1209.md#finding) checks weighted angular mass on arcs, first-moment estimates and uniform angles at growing exception count.
+
 - [R562 v1208](Yin_R_G0562_v1208.md#finding) checks nonreal log mass for all polynomial values on the large second-iterate branch, including the relative degrees and angular estimates in the nested fields.
 
 - [R562 v1207](Yin_R_G0562_v1207.md#finding) checks the two-adic ramification, the fixed odd prime power in the residue period, and the exclusions under arbitrary common dilations.

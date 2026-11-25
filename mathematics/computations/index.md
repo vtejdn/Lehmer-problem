@@ -1,5 +1,7 @@
 # Computations Index
 
+- [J193, cubic halves over quadratic bases](programs/Yin_J_G0193/readme.md#quadratic-base) exhausts the irrational coefficient traces in the stated degree-twelve range. The final marked-root test excludes all 40 preliminary candidates. [Independent computation](../audits/reviews/Yin_R_G0562_v1210.md#finding)
+
 - [J192, real exterior squares through degree 45](programs/Yin_J_G0192/readme.md#comparison) compares each of the 427 real exterior squares of the primitive catalogue with the measure and identifies the [27 square-root lifts](programs/Yin_J_G0192/readme.md#lifts). An [independent root-disk calculation](../audits/reviews/Yin_R_G0562_v1176.md#finding) verifies all rows and the 872 resulting units.
 
 - [J191, argument ranks in the complete small-measure catalogue](programs/Yin_J_G0191/readme.md#exhaustion) excludes rank at most two through degree 45 below 1.3 and [identifies the unique measure at rank at most three](programs/Yin_J_G0191/rank_three.md#winner) in the same range. Independent computations check the [rank-two exclusions](../audits/reviews/Yin_R_G0562_v1150.md#finding) and the [rank-three classification](../audits/reviews/Yin_R_G0562_v1152.md#finding).
