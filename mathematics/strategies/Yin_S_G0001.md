@@ -19,7 +19,9 @@ The main researcher may pursue a uniform lower bound, this construction or anoth
 The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
 For the trace construction, bounded support of the reciprocal lift permits [effective finite enumeration across all heights and degrees](../claims/Yin_C_G0901_v175.md#statement).
 For dense supports, one finite place already gives [reconstruction and separation criteria](../ledger/Yin_L_G0462_v330.md#results).
-Test whether the real orbit and the exact pole force a violation of the [single-polynomial dyadic disk bound](../claims/Yin_C_G0901_v183.md#statement) in unbounded degree.
+Every open dyadic disk of radius one half contains [at most two conjugates of a true solution](../claims/Yin_C_G0901_v188.md#statement).
+The exact pole with just one extra nonreal exterior pair permits [complete separation even over the integers](../claims/Yin_C_G0901_v187.md#statement).
+Investigate whether the full Salem signature forces too many conjugates of low local degree, or excludes the remaining composite residue orders consistent with the [real period and local degree estimates](../ledger/Yin_L_G0462_v331.md#degrees).
 The [single-prime examples](../claims/Yin_C_G0901_v172.md#statement) already meet the archimedean capacity tests, a growing integral prefix and the exact pole on one conjugate set.
 The preferred proof question is whether first measures formed by powering the earlier of two adjacent strict degree records can approach 2 strictly from below.
 The allowed power preserves the earlier degree and the later factor stays a strict record. [Adjacent degrees](../claims/Yin_C_G0901_v163.md#rows)

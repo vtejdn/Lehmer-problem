@@ -5,6 +5,7 @@ See the [owning rule](../../framework/rules/ledger.md) for entry content, author
 
 | Material | Title | Subject |
 | --- | --- | --- |
+| [Yin_L_G0462_v331](Yin_L_G0462_v331.md#answer) | Does a real trace pole force a fourth root in a dyadic disk? | Two conjugates per open half-radius disk, an integral control with one additional nonreal pair, and restrictions on local degrees and residue orders. |
 | [Yin_L_G0462_v330](Yin_L_G0462_v330.md#results) | Which joint tests actually restrict dense integral trace polynomials? | Finite-place reconstruction and disk occupancy, sign and recurrence restrictions, single-prime controls, and the all-height finite census. |
 | [Yin_L_G0462_v329](Yin_L_G0462_v329.md#core) | What the cross-disciplinary tests detect in the Lehmer problem | Integral units, a joint one-prime construction, finite-place exclusions for genuine trace lifts, and costs in graphs and arithmetic groups. |
 | [Yin_L_G0462_v328](Yin_L_G0462_v328.md#gap) | What an obstruction or a construction establishes about the Lehmer gap | Adjacent-record equivalence, sufficient Salem constructions and the distinction between shared observations and an integral trace realization. |

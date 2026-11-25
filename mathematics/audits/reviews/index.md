@@ -1,5 +1,14 @@
 # Reviews Index
 
+- [R562 v1270](Yin_R_G0562_v1270.md#finding) checks the restrictions on the least prime divisor of a single Frobenius orbit's order and the number of factors at prime order.
+- [R562 v1269](Yin_R_G0562_v1269.md#finding) checks the uniform count of dyadic roots of bounded local degree and its sharp order for the graph equation.
+- [R562 v1268](Yin_R_G0562_v1268.md#finding) checks separated one-prime controls at the predicted period and prescribed finite precision.
+- [R562 v1267](Yin_R_G0562_v1267.md#finding) checks the two-root bound on open half-radius disks and the exact classification of roots near both signs.
+- [R562 v1266](Yin_R_G0562_v1266.md#finding) checks integral trace poles with a single extra nonreal exterior pair, in unbounded degree and in an explicit degree-eight family.
+- [R562 v1265](Yin_R_G0562_v1265.md#finding) checks the separation of the binary period from low-denominator multiples of the degree.
+- [R562 v1264](Yin_R_G0562_v1264.md#finding) checks dyadic separation and the splitting fields in the specified range of exponents.
+- [R562 v1263](Yin_R_G0562_v1263.md#finding) checks the two-sided real pin and pairwise distinct residues of the one-prime controls.
+
 - [R562 v1262](Yin_R_G0562_v1262.md#finding) checks the three-root dyadic disk bound, its two exceptional residue orders and the single-prime controls.
 
 - [R562 v1261](Yin_R_G0562_v1261.md#finding) checks the exact all-height census through trace degree forty and the two additional fixed-height ranges.
