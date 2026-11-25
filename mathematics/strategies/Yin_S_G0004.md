@@ -10,10 +10,10 @@ author: Yin
 | --- | --- |
 | [Single Lehmer Task](../tasks/Yin_T_G0001_v1.md#contract) | Supply arithmetic inequalities to the algebraic-entropy and affine-growth routes, or certify a small-positive-Mahler family, under the same unrestricted gap objective. |
 
-**Current state.** S4 investigates integer constructions and structural arguments for a uniform lower bound as part of [G0001](../tasks/Yin_T_G0001_v1.md#current-decision).
-The S10 child remains paused; its completed comparisons and exact local exclusion are retained at their responsible homes.
+S4 and its subroutes are paused under the [G0001 decision](../tasks/Yin_T_G0001_v1.md#current-decision).
+On the construction side, the [two plastic Salem–Boyd families](../claims/Yin_C_G0901_v166.md#statement) approach the plastic number from opposite sides and retain their first measures under every common dilation at all delays of at least 2560.
 The [current Task discretion](../tasks/Yin_T_G0001_v1.md#strategy-discretion) replaces former human-imposed strategy priorities and method restrictions.
-Under the [adaptive allocation](Yin_S_G0001.md#adaptive-allocation), S4 initially leads actual integer existence and also develops the structural proof interfaces relating complete measure to intrinsic complexity or integer representation.
+The [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) retains the integer-existence question and the structural proof approaches for a future resumption.
 At \(q=d^2\) the [first-pair bound](../claims/Yin_C_G0345_v346.md#statement) excludes a shrinking Pisot excess when both outer defect coefficients vanish and the first occupied pair has bounded height.
 For a first pair of sublinear height in \(q\), the [next pair must be occupied and satisfy an explicit congruence](../drafts/Yin_D_G0027.md#isolated-pair).
 Test that congruence together with the integral inverse and full Schur stability.
@@ -1096,7 +1096,7 @@ This is preparation for a future explicitly authorized resumption.
 
 | Field | Value |
 | --- | --- |
-| disposition | active |
+| disposition | paused |
 | priority | Seek varying Salem factors at the square constant and enough double-root resultant valuation after subtracting the cost of the other powered factors. |
 
 The current [adaptive allocation](Yin_S_G0001.md#adaptive-allocation) supplies a revisable balance of construction, proof and computational support under the selected research resumption.

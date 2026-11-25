@@ -188,7 +188,7 @@ The Task remains mathematically unresolved.
 The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-route) locates the retained allocation across all routes and their inquiries and review limits; the selected decision below owns lifecycle.
 
 ## Current decision
-[Selected decision](#decision-answer-lehmer-problem)
+[Selected decision](#decision-pause-after-adjacent-record-round)
 
 ## Lifecycle and completion
 
@@ -715,6 +715,19 @@ The [responsible strategy entrance](../strategies/Yin_S_G0001.md#entropy-gap-rou
 | contract | [Lehmer's problem](#contract) | Determine whether the positive total logarithmic Mahler measures of integer polynomials have a uniform positive lower bound independent of degree and coefficients. |
 
 The [99.5 percent shared weekly usage threshold](#decision-consecutive-unit-construction-2026-11-23) and the [stops on unreliable monitoring or a change of account](#decision-resume-adaptive-research-2026-11-10) continue to apply.
+
+### Decision pause-after-adjacent-record-round
+
+| Field | Value |
+| --- | --- |
+| date | 2026-11-25T05:20 |
+| status | paused |
+| authority | Yin instructed the main researcher to finish the current exploration round and then pause. |
+| reason | The adjacent-record criterion and the construction results from the round have received independent review. The unrestricted gap remains unresolved. Research on every route is paused until Yin explicitly resumes the Task. |
+
+| Relation | Target | Scope |
+| --- | --- | --- |
+| contract | [Unrestricted Lehmer problem](#contract) | Determine whether the positive total logarithmic Mahler measures of integer polynomials have a uniform positive lower bound independent of degree and coefficients. |
 
 ## Execution boundary
 
