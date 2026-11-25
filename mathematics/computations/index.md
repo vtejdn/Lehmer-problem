@@ -1,5 +1,9 @@
 # Computations Index
 
+- [J185, integer values on five grid neighborhoods](programs/Yin_J_G0185/integer_grid_values.md#trials) excludes the full polynomial on boxes about five [adapted rational grids](programs/Yin_J_G0185/adaptive_grid.md#trials), one of which passes sixteen leading coefficients. [Review of the prefix trials](../audits/reviews/Yin_R_G0562_v1233.md#finding) and [independent interval calculation](../audits/reviews/Yin_R_G0562_v1235.md#finding)
+
+- [J185, the weighted moment sieve](programs/Yin_J_G0185/grid_moment_digits.md#census) excludes trace degrees 23 through \(10^{24}\) at height forty for both reference families throughout the stated displacement neighborhoods. [Independent enumeration](../audits/reviews/Yin_R_G0562_v1232.md#finding)
+
 - [J185, trace reconstruction from alternating signs](programs/Yin_J_G0185/trace_grid.md#solver) gives obstructions for whole families of grids and [two positive controls and 200 deformed-grid trials](programs/Yin_J_G0185/trace_grid.md#runs). [Independent review](../audits/reviews/Yin_R_G0562_v1230.md#finding)
   At a fixed positive pole value the [weighted intervals](programs/Yin_J_G0185/trace_grid.md#pole-weights) give uniqueness from height two onward. [Independent weighted calculation](../audits/reviews/Yin_R_G0562_v1231.md#finding)
 

@@ -21,8 +21,9 @@ The allowed power preserves the earlier degree and the later factor stays a stri
 Excluding such an approach suffices for the unrestricted gap.
 Under gap failure the chosen second log measures diverge and the normalized absolute norms of the differences from 2 tend to 2. [One-sided equivalence and integer norms](../claims/Yin_C_G0901_v165.md#statement)
 In a growing window below the nearest power, products of neighboring translates incur a positive height cost per factor even after multiplication by arbitrary units and elements of the earlier record field. [Window and height bound](../ledger/Yin_L_G0462_v326.md#descent)
-For the next descent test, investigate additive expressions across conjugates of the later record, for which taking a relative trace returns an element of the earlier field.
-Such an expression must still be nontrivial and have sufficiently small total measure to contradict the record property.
+The [bounded-measure filtration](../claims/Yin_C_G0901_v87.md#filtration) already puts a lower bound of the earlier record on every positive total measure in its field in sufficiently late rows.
+For the tested translates, every nonrational rational multiple of the [relative trace](../ledger/Yin_L_G0462_v327.md#scalings) has divergent absolute height under the stated small-moment hypothesis.
+For centered products investigate whether the [exceptional nesting of the source splitting fields](../ledger/Yin_L_G0462_v327.md#centered) can occur at the degree growth it would require.
 For a proof of the unrestricted gap it suffices to rule out [squarefree products of two strict degree records](../claims/Yin_C_G0901_v155.md#statement) with first measures tending to one and second log measures exceeding any one prescribed locally bounded growth target.
 A putative shrinking sequence can be converted to this class with the second factor arbitrarily smaller in log measure and both angular log-mass distributions tending to arclength.
 The resulting values can be chosen to have [minimum positive-measure factor count two](../claims/Yin_C_G0901_v156.md#lehmer).
@@ -221,8 +222,12 @@ A failed grid excludes only that choice of nodes under the tested restrictions.
 Pursue a separate strategy if a certified example yields a construction that can vary with \(q\), or if the incompatible inequalities give a proof covering a specified family of corrections independently of the grid.
 At any prescribed positive pole value, the [pole-weighted reconstruction](../computations/programs/Yin_J_G0185/trace_grid.md#pole-weights) leaves at most one polynomial on each fixed grid for every integer \(q\ge2\).
 On the first nonunit branch [all equally spaced grids](../computations/programs/Yin_J_G0185/trace_grid.md#uniform) fail for \(q\ge5\) in trace degrees at least 16, and the second or third coefficient excludes all 200 tested deformations.
-At \(q=40\) the [congruences at 40 and 41](../claims/Yin_C_G0345_v887.md#digits) exclude degrees 23 through \(10^{12}\) whenever the total angular displacement from the Chebyshev extrema is at most \(1/512\).
-Vary the grid moments to satisfy the first two coefficient congruences, then use the next residue moments to test whole ranges of node positions before reconstructing individual candidates.
+At \(q=40\) the [weighted moment and degree congruences](../claims/Yin_C_G0345_v888.md#statement) exclude degrees 23 through \(10^{24}\) within total angular displacement \(1/256\) of either specified class of reference grids, including unions of complete cosine level sets of integer orders at least eleven with the two endpoints.
+With freely chosen nodes the [movable-grid construction](../claims/Yin_C_G0345_v889.md#statement) realizes the exact pole and root signature with \(k\) leading integral coefficients at all \(n\ge 2q(q+1)k^2+1\).
+The [integer values at interior points](../computations/programs/Yin_J_G0185/integer_grid_values.md#trials) already exclude whole neighborhoods of five grids adjusted to pass leading coefficients.
+For \(2q+1=3^{2s}\) the [five-value construction](../claims/Yin_C_G0345_v890.md#statement) already fits all five integral values and up to \(q/2\) leading integral coefficients on one polynomial with the exact pole and all the root signs.
+At \(q=40\) and degree 3282851794363 a [four-coefficient instance](../claims/Yin_C_G0345_v890.md#progression) meets these conditions although every fully integral polynomial on that grid is excluded.
+Investigate the [remaining integer quotient](../claims/Yin_C_G0345_v890.md#completion) by tracking a number of coupled coefficient or algebraic evaluation constraints that grows with the trace degree.
 
 For the two units of the explicit Chebyshev modification with a nonreal trace pair, the [minimum over all nontrivial integer products and optional torsion](../claims/Yin_C_G0902_v1.md#minimum) grows as \(\log(2q(q+1))+o(1)\), with an [independent check](../audits/reviews/Yin_R_G0562_v1040.md#finding) uniform over the permitted degrees.
 Changing the exponents of these two generators therefore cannot produce a shrinking sequence.
@@ -3001,7 +3006,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Examine adjacent-record first measures approaching 2 from below and test sign constraints on the first nonunit trace branch. |
+| priority | Test the remaining integer quotient after fixing the trace values and investigate the field nesting required for adjacent records. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

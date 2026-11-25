@@ -13,7 +13,8 @@ For each of Mossinghoff's 10,236 listed small-measure polynomials, the [pole and
 For \(q\ge5\), testing [every admissible short power of the 944 generators through degree 44](power_catalogue.md#coverage) shows that a primitive unit root must have even degree at least 46.
 For a prescribed trace grid, the [pole-weighted coefficient bounds](trace_grid.md#pole-weights) leave at most one candidate for a given positive pole value at every \(q\ge2\).
 The [signed reconstruction](trace_grid.md#solver) also recovers the known cubic in the [control run](trace_grid.md#runs).
-At \(q=40\), [lifting the degree congruences](lobatto_digits.md#results) excludes trace degrees 23 through \(10^{12}\) near the Chebyshev extrema at pole norm \(81^2\).
+At \(q=40\) the [original degree sieve](lobatto_digits.md#results) and the [weighted moment sieve](grid_moment_digits.md#census) use both pole congruences; the latter reaches \(10^{24}\) for the two specified families of reference grids and their neighborhoods.
+The [adaptive trial](adaptive_grid.md#trials) passes sixteen coefficients at \(q=5\) and degree 981, while [integer point evaluations](integer_grid_values.md#trials) exclude the full polynomial on every one of the five tested grid neighborhoods.
 
 <a id="exclusion"></a>
 ## Exclusion at every coefficient height and dilation
