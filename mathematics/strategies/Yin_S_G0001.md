@@ -16,6 +16,11 @@ author: Yin
 The [current Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-adjacent-and-trace) resumes the adjacent-record investigation and the sign-constrained trace trial on this route.
 The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
 The main researcher may pursue a uniform lower bound, this construction or another approach as the evidence warrants.
+Investigate the following questions in parallel under the unrestricted contract.
+For adjacent records, the [prime-ideal mass of a near-integer translate](../drafts/Yin_D_G0034.md#records) identifies relative degree-one primes that a norm argument must address.
+For the trace construction, try to complete a [residue polynomial at the other consecutive coefficient](../drafts/Yin_D_G0034.md#trace) with its exact order and required boundary coefficient on the same row.
+For integral toral automorphisms, investigate [finite-time periodic point characters](../drafts/Yin_D_G0034.md#periodic) on the scale of total measure and [coding laws with controlled central sums](../drafts/Yin_D_G0034.md#dynamics).
+For Salem fields, seek an independent [second element of controlled height](../drafts/Yin_D_G0034.md#geometry) in relative degree at most two over the same trace field, taking account of the obstruction for bounded-degree trace transformations.
 The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
 For the trace construction, bounded support of the reciprocal lift permits [effective finite enumeration across all heights and degrees](../claims/Yin_C_G0901_v175.md#statement).
 For dense supports, one finite place already gives [reconstruction and separation criteria](../ledger/Yin_L_G0462_v330.md#results).
@@ -3033,7 +3038,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test the remaining integer quotient after fixing the trace values and investigate the field nesting required for adjacent records. |
+| priority | Test the second residue period on the trace controls and degree-one prime contributions on adjacent records, alongside periodic point estimates in growing dimension and the second-element height test on Salem fields. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

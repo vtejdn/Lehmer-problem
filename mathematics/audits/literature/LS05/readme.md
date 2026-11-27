@@ -1,6 +1,9 @@
 # LS05: nonexpansive symbolic coding and its central condition
 
-Bibliography, retained v2 and acquisition.
+The [retained preprint](../../../literature/pdf/LS05.pdf) uses the page numbers of [arXiv v2](https://arxiv.org/abs/math/0409257v2).
+In this edition, Corollary 4.2 on p. 10 treats homoclinic points and Proposition 4.6 on p. 13 treats continuous equivariant maps.
+Proposition 5.1(2) on p. 22 gives uniqueness in a finite-support equivalence class inside the beta-shift, and the proof of part (3) on the same page gives the zero-padding rule for finite admissible blocks.
+Theorem 7.1 on p. 28 supplies the invariant beta-shift measures used in the entropy approximation.
 
 - [LS05-U001](Yin_U001.md#ls05-u001) checks the exact positive-time central cocycle, the necessary invariant-lift-to-tightness argument and the hypotheses of the Salem coding theorem.
   The hard converse and the full entropy theorem are not proof-audited.
