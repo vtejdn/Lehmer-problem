@@ -17,7 +17,9 @@ The [local degree estimate](../claims/Yin_C_G0901_v200.md#records) puts asymptot
 ### How much ideal norm can earlier rows recover?
 
 [Comparison across consecutive rows](../claims/Yin_C_G0901_v200.md#across-records) leaves almost all the normalized norm on pairwise coprime ideal divisors over a growing window.
-It remains to control which of these primes can lie above the same rational prime and how deep their valuations can be.
+Above each rational prime, the [largest local depths](../claims/Yin_C_G0901_v202.md#depth) carry almost all the normalized norm when summed over all primes.
+An [irreducible strict Perron unit family](../claims/Yin_C_G0901_v202.md#one-prime) realizes the whole mass above three.
+To rule that behavior out for these translates, use the specific factorization by adjacent record measures.
 
 <a id="trace"></a>
 ## Completing the second residue period on the one-denominator controls
@@ -35,7 +37,8 @@ To complete its word one can test the complementary divisors of \(Z^N-1\) at the
 ### Matching the second period on all but a vanishing fraction of the degree
 
 [The large divisor and the remaining prime-power excess](../claims/Yin_C_G0901_v198.md#period-completion) give exact order \(N\) on degree \(d-o(d)\) while retaining the even-side and real bounds.
-The remaining question is whether the entire quotient can have order \(N\) at every \(r^\nu\parallel q+1\) on the same arbitrarily large rows.
+At \(q+1=3^\nu\) with \(\nu\) even, the [boundary coefficient restriction](../claims/Yin_C_G0901_v201.md#boundary) excludes all but three residue classes.
+On the strengthened zero-boundary rows, look for a full-degree factor satisfying the [finite-field digit test](../claims/Yin_C_G0901_v201.md#digits) and the prescribed exact order.
 
 <a id="dynamics"></a>
 ## Central directions, finite memory and periodic orbit resolution
@@ -83,7 +86,13 @@ A remaining question is whether arithmetic information about the individual neut
 ## Which finite-time measurements could force a gap?
 
 The [periodic median](../claims/Yin_C_G0904_v1.md#finite-time-dynamics) at times of order \(d(\log(2d))^4\) and the [Gaussian estimate at one time](../claims/Yin_C_G0904_v1.md#deterministic) of order \(d^2(\log(2d))^4\) approximate total logarithmic measure as \(d\to\infty\).
-The open problem is to bound either observable below by a positive absolute constant at those scales.
+The [modular criterion](../claims/Yin_C_G0904_v2.md#statement) gives such a constant on a class detected from the polynomial.
+For strict records it suffices to find a fixed positive fraction of the full degree in a [cyclic mod-\(p\) homology return](../claims/Yin_C_G0904_v2.md#return-ranks) at an order \(O(d)\).
+For Lehmer's \(P=X^{10}+X^9-X^7-X^6-X^5-X^4-X^3+X+1\), reduction modulo two gives \(\bar P\mid X^{31}-1\).
+One can check this by multiplying \(\bar P\) by the sum of monomials with exponents \(0,1,2,5,7,9,10,11,12,14,16,19,20,21\) over \(\mathbb F_2\).
+The return inequality at \(a=1\) gives \(\log M(P)\ge(5/31)\log 2\) directly from this congruence.
+For the growing [Salem family with \(s=d+1\)](../claims/Yin_C_G0904_v2.md#statement), the same calculation gives \(\log M(F_d)\ge d\log2/(2(d+1))\).
+On the Salem branch, the [subfield estimate](../claims/Yin_C_G0904_v2.md#salem-subfields) requires consideration of vectors whose relative norms generate the whole trace field.
 The [short-time Salem examples](../claims/Yin_C_G0904_v1.md#salem) and the [initial Gaussian behavior](../claims/Yin_C_G0904_v1.md#heat) constrain attempts to use shorter intervals.
 
 <a id="geometry"></a>
@@ -219,5 +228,7 @@ The [closed mapping-torus construction](../claims/Yin_C_G0883_v2.md#mapping-tori
 ### The unresolved volume range
 
 The [finite-parent and torsion argument](../claims/Yin_C_G0883_v2.md#bounded-volume) gives a gap at each fixed volume ceiling, including zero intersection with filling cores.
-For a record polynomial, seek an upper bound for the least volume of a realization, or a homology estimate that survives as this minimum grows.
+The [cyclotomic support estimate](../claims/Yin_C_G0883_v3.md#statement) bounds that minimum below, while the [coefficient positions](../claims/Yin_C_G0883_v4.md#upper-bound) give a constructive upper bound.
+Even the least location cost in the latter estimate grows logarithmically in the degree for a strict record.
+Test whether a different lift can remove that cost, or use the specific rank and norm conditions of strict records to obtain a lower entropy bound at growing volume.
 A lift can have arbitrarily large volume with every homology group in the original tower fixed.

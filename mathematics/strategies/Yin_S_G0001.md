@@ -17,12 +17,14 @@ The [current Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-adjacent-
 The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
 The main researcher may pursue a uniform lower bound, this construction or another approach as the evidence warrants.
 Investigate the following questions in parallel under the unrestricted contract.
-For adjacent records, determine which rational primes and valuation depths can support the [almost disjoint ideal divisors of different translates](../claims/Yin_C_G0901_v200.md#across-records).
-For the trace construction, eliminate the [remaining prime-power excess in the full finite-ring order](../claims/Yin_C_G0901_v198.md#period-completion) at all primes of the second modulus on the same row.
-For integral toral automorphisms, seek a degree-uniform positive lower bound for the [periodic-character median or the single-time Gaussian dissipation observable](../claims/Yin_C_G0904_v1.md#finite-time-dynamics) in their specified growing time windows.
+For adjacent records, use the two-record factorization to constrain [exceptionally deep local embeddings](../claims/Yin_C_G0901_v202.md#depth), since a single rational prime can carry the entire norm in the wider strict Perron class.
+For the trace construction, seek full-degree factors of the prescribed order on the zero-boundary rows using the [finite-field digit conditions](../claims/Yin_C_G0901_v201.md#digits).
+For integral toral automorphisms, look for a bounded prime and an order \(j=O(d)\) at which the minimal [cyclic mod-\(p\) homology rank](../claims/Yin_C_G0904_v2.md#return-ranks) reaches a fixed fraction of the strict record degree.
+Such a return certifies uniform positive lower bounds for both previously specified observation windows.
 For Salem fields, seek an independent [second element of controlled height](../drafts/Yin_D_G0034.md#geometry) in relative degree at most two over the same trace field, allowing for the [degree required of an integral trace polynomial](../claims/Yin_C_G0901_v199.md#statement).
 The [closed hyperbolic mapping-torus realization](../claims/Yin_C_G0883_v2.md#mapping-tori) also applies to unrestricted strict records.
-Investigate the *least* volume realizing their whole homological polynomial or a lower bound that survives unbounded volume, since the [bounded-volume argument](../claims/Yin_C_G0883_v2.md#bounded-volume) already gives a gap at each fixed ceiling.
+For the least volume realizing the whole polynomial, compare the [lower bound from cyclotomic support](../claims/Yin_C_G0883_v3.md#statement) with the [upper bound from coefficient positions](../claims/Yin_C_G0883_v4.md#upper-bound).
+An upper bound uniform across degrees would force a gap by the [bounded-volume argument](../claims/Yin_C_G0883_v2.md#bounded-volume), while the present construction still pays for the handle positions as genus grows.
 The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
 For the trace construction, bounded support of the reciprocal lift permits [effective finite enumeration across all heights and degrees](../claims/Yin_C_G0901_v175.md#statement).
 For dense supports, one finite place already gives [reconstruction and separation criteria](../ledger/Yin_L_G0462_v330.md#results).
@@ -3040,7 +3042,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test rational-prime support across adjacent records, the remaining prime-power excess in trace periods, uniform lower bounds for finite-time toral observables, and the cost of realizing the whole polynomial in a hyperbolic mapping torus or a second unit over the Salem trace field. |
+| priority | Seek linear-size mod-p homology returns at linear cover degree on strict records and tighter volume bounds from their coefficients, alongside the deep-prime test for adjacent translates, the zero-boundary trace-period test and the Salem trace-field constraint. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

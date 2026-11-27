@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v1283](Yin_R_G0562_v1283.md#finding) checks attainable boundary classes, unavoidable excess period and the finite-field lifting test.
+- [R562 v1282](Yin_R_G0562_v1282.md#finding) checks the valuation-depth bounds above rational primes and the example with all the norm above three.
+- [R562 v1281](Yin_R_G0562_v1281.md#finding) checks the modular window bound, the short cyclic return test and the cost of restricting relative norms on Salem tori.
+- [R562 v1280](Yin_R_G0562_v1280.md#finding) checks the surface realization, its volume cost by coefficient position and the explicit linear upper bound.
+- [R562 v1279](Yin_R_G0562_v1279.md#finding) checks the volume lower bound from cyclotomic completions and the realization minimizing all cyclic homology ranks.
 - [R562 v1278](Yin_R_G0562_v1278.md#finding) checks the finite-time Fourier and heat estimates on companion tori, the Salem examples and the exact substitution laws.
 - [R562 v1277](Yin_R_G0562_v1277.md#finding) checks the realization of record polynomials and the homological Mahler gap for bounded-volume hyperbolic mapping tori.
 - [R562 v1276](Yin_R_G0562_v1276.md#finding) checks the sublinear common Frobenius degree bound and fixed-multiple exclusions at all three coefficients.
