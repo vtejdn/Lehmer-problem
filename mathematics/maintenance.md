@@ -35,3 +35,10 @@ No local original was retained.
 The inspected mechanisms and limits remain in [RS03-U001](audits/literature/RS03/Yin_U001.md#rs03-u001) and [EMRS17-U001](audits/literature/EMRS17/Yin_U001.md#emrs17-u001).
 Check RS03's displayed reciprocal-move index on printed p. 459 and the [supplied contents transcription](literature/contents/RS03--author-upload.md) against the original visual page.
 For EMRS17, preserve the verified 2017 body identity despite its host's mismatched 2019 title, and visually check the selected algorithm and result passages.
+
+## Originals for relative regulators and heights in abelian extensions
+
+- Obtain a legible copy of Friedman and Skoruppa’s *Relative regulators of number fields* (1999), pp. 115–144, from an authorized source.
+  Check the exponents in (0.2) and the normalization in (1.2)–(1.3) against the printed pages before using the bound. [Available sources and transcription limits](audits/literature/FS99/readme.md)
+- Obtain the complete AperTO author manuscript of Amoroso and Dvornicich’s *A lower bound for the height in abelian extensions* (2000) and confirm the pagination used in Yin’s existing source inspection.
+  The repository download required browser verification and the publisher PDF returned HTTP 403. [Author manuscript](https://hdl.handle.net/2318/1944853) · [Edition and inspected passages](audits/literature/AD00/readme.md)
