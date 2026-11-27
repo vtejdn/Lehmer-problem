@@ -17,10 +17,12 @@ The [current Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-adjacent-
 The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
 The main researcher may pursue a uniform lower bound, this construction or another approach as the evidence warrants.
 Investigate the following questions in parallel under the unrestricted contract.
-For adjacent records, the [prime-ideal mass of a near-integer translate](../drafts/Yin_D_G0034.md#records) identifies relative degree-one primes that a norm argument must address.
-For the trace construction, try to complete a [residue polynomial at the other consecutive coefficient](../drafts/Yin_D_G0034.md#trace) with its exact order and required boundary coefficient on the same row.
-For integral toral automorphisms, investigate [finite-time periodic point characters](../drafts/Yin_D_G0034.md#periodic) on the scale of total measure and [coding laws with controlled central sums](../drafts/Yin_D_G0034.md#dynamics).
-For Salem fields, seek an independent [second element of controlled height](../drafts/Yin_D_G0034.md#geometry) in relative degree at most two over the same trace field, taking account of the obstruction for bounded-degree trace transformations.
+For adjacent records, determine which rational primes and valuation depths can support the [almost disjoint ideal divisors of different translates](../claims/Yin_C_G0901_v200.md#across-records).
+For the trace construction, eliminate the [remaining prime-power excess in the full finite-ring order](../claims/Yin_C_G0901_v198.md#period-completion) at all primes of the second modulus on the same row.
+For integral toral automorphisms, seek a degree-uniform positive lower bound for the [periodic-character median or the single-time Gaussian dissipation observable](../claims/Yin_C_G0904_v1.md#finite-time-dynamics) in their specified growing time windows.
+For Salem fields, seek an independent [second element of controlled height](../drafts/Yin_D_G0034.md#geometry) in relative degree at most two over the same trace field, allowing for the [degree required of an integral trace polynomial](../claims/Yin_C_G0901_v199.md#statement).
+The [closed hyperbolic mapping-torus realization](../claims/Yin_C_G0883_v2.md#mapping-tori) also applies to unrestricted strict records.
+Investigate the *least* volume realizing their whole homological polynomial or a lower bound that survives unbounded volume, since the [bounded-volume argument](../claims/Yin_C_G0883_v2.md#bounded-volume) already gives a gap at each fixed ceiling.
 The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
 For the trace construction, bounded support of the reciprocal lift permits [effective finite enumeration across all heights and degrees](../claims/Yin_C_G0901_v175.md#statement).
 For dense supports, one finite place already gives [reconstruction and separation criteria](../ledger/Yin_L_G0462_v330.md#results).
@@ -3038,7 +3040,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test the second residue period on the trace controls and degree-one prime contributions on adjacent records, alongside periodic point estimates in growing dimension and the second-element height test on Salem fields. |
+| priority | Test rational-prime support across adjacent records, the remaining prime-power excess in trace periods, uniform lower bounds for finite-time toral observables, and the cost of realizing the whole polynomial in a hyperbolic mapping torus or a second unit over the Salem trace field. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

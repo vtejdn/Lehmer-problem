@@ -1,5 +1,7 @@
 # Reviews Index
 
+- [R562 v1278](Yin_R_G0562_v1278.md#finding) checks the finite-time Fourier and heat estimates on companion tori, the Salem examples and the exact substitution laws.
+- [R562 v1277](Yin_R_G0562_v1277.md#finding) checks the realization of record polynomials and the homological Mahler gap for bounded-volume hyperbolic mapping tori.
 - [R562 v1276](Yin_R_G0562_v1276.md#finding) checks the sublinear common Frobenius degree bound and fixed-multiple exclusions at all three coefficients.
 - [R562 v1275](Yin_R_G0562_v1275.md#finding) checks the simultaneous full-modulus period and dyadic local degrees in the one-prime models.
 - [R562 v1274](Yin_R_G0562_v1274.md#finding) checks the integral Salem examples at the integer and cubic Pisot poles, their exact evaluations and local degree counts.

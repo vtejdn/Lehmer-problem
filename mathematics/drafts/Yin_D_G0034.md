@@ -11,132 +11,31 @@ The cited source theorems and fixed project results retain their own scopes.
 <a id="records"></a>
 ## Which primes carry the norm of a translate between adjacent records?
 
-Suppose the unrestricted gap is zero.
-Use [two adjacent strict degree records](../claims/Yin_C_G0901_v165.md#statement), put \(A=A_i,\ B=A_{i+1},\ b=\log B,\ K=\mathbb Q(A),\ F=K(B)\), and write \(n=[F:K],\ D=[F:\mathbb Q]\).
-For \(z=2-A^aB\) take the second closest allowed exponent from below.
-The known norm calculation gives \(D^{-1}\log|N_{F/\mathbb Q}z|\to\log 2\).
-We ask where this mass can occur among the primes of \(F\).
+The [local degree estimate](../claims/Yin_C_G0901_v200.md#records) puts asymptotically all the norm at primes of small relative degree.
 
-For a prime ideal \(Q\) of \(F\) over \(\mathfrak p\) of \(K\), let \(s_Q=[F_Q:K_{\mathfrak p}]=e_Q f_Q\), where both local indices are relative to \(K\).
-Give \(Q\) weight \(w_Q=D^{-1}v_Q(z)\log NQ\), using integer ideal valuations and the absolute ideal norm.
-For sufficiently late rows one has
-\[
-   \sum_Q w_Q\,\frac{s_Q-1}{n-1}\ \ll\ \sqrt{b\log(1/b)}. \tag{1}
-\]
-In particular, at any fixed \(\delta>0\) the primes with \(s_Q\ge\delta n\) carry \(o(1)\) mass, while the total mass tends to \(\log 2\).
-Here the [relative degrees](../claims/Yin_C_G0901_v159.md#orbits) tend to infinity.
-The estimate weights each prime by its contribution to this particular translate.
+<a id="across-records"></a>
+### How much ideal norm can earlier rows recover?
 
-To prove (1), take a normal closure of \(F/K\) and list the \(n\) relative images \(B_j\) of \(B\).
-For \(j\ne k\), \(B_j/B_k\) is a nontorsion unit of absolute height at most \(2b\).
-Indeed an embedding taking \(B_j\) to the strictly dominant \(B\) takes \(B_k\) to a different conjugate, and all conjugates of \(B\) have modulus at most \(B\).
-Set \(z_j=2-A^aB_j\).
-The common ideal \((z_j,z_k)\) divides \((B_j/B_k-1)\) since \(A,B_k\) are units.
-The [cyclic norm estimate](../claims/Yin_C_G0345_v730.md#statement) bounds its log norm divided by the absolute degree of the normal field by \(O(\sqrt{b\log(1/b)})\), uniformly in \(j,k,a\).
-This is the same two-conjugate estimate used for the [window of translates](../ledger/Yin_L_G0462_v326.md#descent).
-
-Average over ordered distinct embeddings \(j,k\).
-At a fixed prime of the normal field above \(\mathfrak p\), exactly \(s_Q\) of the \(n\) embeddings induce the place \(Q\).
-This follows by decomposing \(F\otimes_K K_{\mathfrak p}\) into its field factors and counting the embeddings of each factor.
-When both embeddings induce \(Q\), their valuations of the translates are equal, so the common ideal retains their whole local contribution.
-Given the first embedding, the fraction of other embeddings with the same place is \((s_Q-1)/(n-1)\).
-Summing the normalized log norms over the primes upstairs and averaging the first embedding recovers \(w_Q\) by the local degree formula.
-Pairs inducing different places contribute nonnegative terms.
-This proves (1).
-
-The estimate singles out a difficulty in seeking a contradiction by showing that translate norms are large.
-Away from primes dividing the index of \(\mathcal O_K[B]\) in \(\mathcal O_F\), a prime dividing \(z\) already has \(f_Q=1\), since \(B\bmod Q=2A^{-a}\bmod\mathfrak p\) generates its residue field over that of \(K\).
-Away also from the relative discriminant, such primes have \(s_Q=1\) and contribute zero to the left side of (1).
-A comparison between different record rows would need information on these degree-one primes or on the exceptional prime contributions.
-The upper bound (1) supplies neither a positive lower bound on the exceptional mass nor an exclusion of the one-sided record limit.
+[Comparison across consecutive rows](../claims/Yin_C_G0901_v200.md#across-records) leaves almost all the normalized norm on pairwise coprime ideal divisors over a growing window.
+It remains to control which of these primes can lie above the same rational prime and how deep their valuations can be.
 
 <a id="trace"></a>
 ## Completing the second residue period on the one-denominator controls
 
-Fix a sufficiently large row of the [full even-modulus construction](../claims/Yin_C_G0901_v196.md#combine).
-Use its multiple \(q\) of four, \(p=q+1,\ J=q/2+1,\ d=2D,\ u=2^h,\ A=tn\) and \(C=\operatorname{lcm}(q,2^h)\).
-Here \(h\) is the binary precision chosen before the degree and \(t>p\) is the odd prime used for the substitution \(V(Z^t)\).
-Choose the allowed denominator prime \(\ell\) prime to \(Cp\).
-Retain the row's coefficient word modulo \(C\), including its full order \(A=v-u\), pole \(K_0=(2q+1)^2\), real root conditions and zero low and high offsets through \(J\).
-The required order at \(p\) for a [genuine integral solution](../claims/Yin_C_G0901_v177.md#statement) is \(N=A+2u\).
-
-For this row the one-denominator control extends to this second order exactly when there exists a monic reciprocal degree-\(d\) polynomial \(W\) over \(\mathbb Z/p\mathbb Z\) with constant one, zero offsets \(1,\ldots,J\), order \(N\) for \(Z\bmod W\), and coefficient
-\[
- [Z^{J+1}]W\equiv
- q^{-(d-J-1)}\frac{K_0-q^d}{p^{J+1}}\pmod p. \tag{2}
-\]
-The numerator is divisible by \(p^{J+1}\) on the chosen row.
-Expanding \(q^d F(p/q)\) modulo \(p^{J+2}\) proves necessity, since exactly the constant term and offset \(J+1\) can contribute.
-
-For sufficiency glue \(W\) and the given word modulo \(C\) coefficientwise by the Chinese remainder theorem with the endpoints and zero prefix fixed over the integers.
-At the \(q\)-side the stronger modulus \(Cq^{J+1}\) still gives the old pole congruence: changing coefficients by multiples of \(C\) in the free positions changes the evaluation by multiples of \(C(pq)^{J+1}\).
-At the \(p\)-side (2) gives the pole congruence modulo \(p^{J+2}\).
-The two conditions give divisibility of the pole discrepancy by \(Cp(pq)^{J+1}\).
-The [gcd of the values of the free reciprocal basis](../claims/Yin_C_G0901_v172.md#congruences) is \((pq)^{J+1}\).
-Correcting by \(Cp\) times this lattice therefore hits the pole exactly.
-The [one-prime approximation and irreducibility argument](../claims/Yin_C_G0901_v172.md#place) with residue modulus \(Cp\) preserves both words throughout the same nonempty real neighborhood.
-Thus the remaining existence question for this model is a finite-ring question at each specified row.
-Even complete period matching on this construction leaves the denominator at \(\ell\) and the characteristic-zero power relation unresolved for integral solutions.
-
-The substitution used on the even side cannot simply be used on the other side.
-Choose a prime \(r\mid p\).
-If \(W\bmod r=V(Z^t)\) with \(V\) nonconstant and with nonzero constant term, its nonzero roots include \(\alpha,\zeta_t\alpha\) in an algebraic closure, for \(\zeta_t\) of order \(t\), since \(r\ne t\).
-Divisibility by \(Z^N-1\) forces \(t\mid N\), whereas \(N=tn+2u\) is prime to \(t\).
-A second-period word must therefore break this substitution, even after reduction at each prime of \(p\).
-For composite \(p\), a direct test over the entire ring is \(W\mid Z^N-1\) and \(W\nmid Z^{N/s}-1\) for every prime \(s\mid N\), with (2) imposed.
-Single-prime reductions alone can miss the order at a prime power.
+[The rowwise criterion and pole correction](../claims/Yin_C_G0901_v198.md#trace) specify the coefficient at offset \(J+1\) and reduce exact order \(N=A+2u\) to polynomial division over \(\mathbb Z/(q+1)\mathbb Z\).
+The even-side substitution \(V(Z^t)\) fails this test at every prime of \(q+1\).
 
 <a id="short-period-divisor"></a>
 ### A divisor of small degree carrying the entire second period
 
-Fix the eligible \(q,h,\ell,t\) above and \(0<\varepsilon<1\), and put \(\theta=u\log p/\log(p/q)\).
-There are arbitrarily large rows with all the even-modulus, dyadic-degree and real tests above in which the reduction of the same \(F\) modulo \(p\) contains a monic reciprocal divisor of degree less than \(\varepsilon d\) and exact order \(N\).
-Thus \(N\) divides the order of \(Z\) in the full degree-\(d\) quotient modulo \(p\).
-The bound on the real-period error is uniform along each chosen sequence and may depend on \(\varepsilon\).
+[The synchronized rows and short divisor](../claims/Yin_C_G0901_v198.md#short-period-divisor) give exact order \(N\) on a reciprocal divisor of degree less than \(\varepsilon d\).
+To complete its word one can test the complementary divisors of \(Z^N-1\) at the required degree and prefix.
 
-First choose a prime \(\rho>\max(p,t,11,J+1,2\theta/\varepsilon)\) dividing some \(15t\,11^{j_0}-4u\), \(j_0\ge1\).
-Such primes are unbounded: start with any positive value of this expression and keep its valuation at every prime up to the proposed bound fixed by restricting \(j\) to an arithmetic progression.
-For each such prime \(s\ne11\) use the order of \(11\) modulo \(s^{1+v_s(15t\,11^{j_0}-4u)}\) at the starting exponent; the valuation at \(11\) is always zero.
-The values on the progression grow without bound.
-Let \(e=v_\rho(15t\,11^{j_0}-4u)\), \(R=\rho^e\) and \(Q=\rho^{e+1}\).
-Use the [original period construction](../claims/Yin_C_G0901_v196.md#practical), with \(a\equiv-1\) modulo both its prescribed modulus and \(\operatorname{ord}_Q(2)\).
-Also require the original maximal exponents \(j,k\) there to satisfy
-\[
-   j\equiv j_0\bmod \operatorname{ord}_Q(11),\qquad
-   k\equiv0\bmod \operatorname{ord}_Q(7).
-\]
-Since \((2^a-1)(2^{a+2}-1)\equiv-1/2\bmod Q\), these choices give \(2N\equiv4u-15t\,11^{j_0}\bmod Q\).
-Hence \(R\mid N\) and \(\rho\nmid N/R\).
+<a id="period-completion"></a>
+### Matching the second period on all but a vanishing fraction of the degree
 
-To verify that the maximal exponents attain the required residues, write \(a=Hm-1\) in the chosen progression, \(x=a\log2-2\log a-\log100\), \(b_1=\operatorname{ord}_Q(11)\) and \(b_2=\operatorname{ord}_Q(7)\).
-The defining formulas are \(j=1+\lfloor(x-\log10)/\log11\rfloor\) and \(k=1+\lfloor(x-\log3)/\log7\rfloor\).
-The points \((x/(b_1\log11),x/(b_2\log7))\) modulo one are equidistributed with weights \(1/m\).
-Indeed a nontrivial Fourier character has frequency \(\lambda=i/(b_1\log11)+j'/(b_2\log7)\ne0\), since \(7\) and \(11\) are multiplicatively independent.
-If \(\lambda H\log2\notin\mathbb Z\), the geometric sums in \(m\) are bounded and the successive differences of \((Hm-1)^{-4\pi i\lambda}/m\) are summable.
-If \(\lambda H\log2\in\mathbb Z\), the character sum with these weights differs by \(O(1)\) from a constant times \(\int_1^X y^{-1-4\pi i\lambda}\,dy\), which is bounded.
-Thus each nonconstant weighted Fourier mean tends to zero after division by \(\sum_{m\le X}1/m\).
-Trigonometric approximation gives positive limiting mass to the interiors of the intervals specifying both floor residues, so the original block sizes occur on infinitely many such rows.
-
-In the [degree progression](../claims/Yin_C_G0901_v189.md#period) strengthen the endpoint congruence to \((1-p)^D\equiv1-2p\bmod p^{J+2}\).
-The [principal-unit construction](../claims/Yin_C_G0901_v172.md#congruences) still gives a progression \(D_0\bmod P\) whose prime divisors in \(P\) are at most \(p\), and (2) now prescribes zero.
-Choose \(S\) nearest \(n/(2\theta)\) subject to \(tS\equiv D_0\bmod P\) and \(R\mid S\).
-These congruences are compatible and give \(d=2tS\), \(R\mid d\), and \(|A-\theta d|\le\theta tPR\).
-For this fixed \(R\) the additional rounding error is bounded as \(a\) grows, so the original [dyadic block filling](../claims/Yin_C_G0901_v196.md#binary) and [real-period estimate](../claims/Yin_C_G0901_v189.md#arch) apply.
-
-Write \(w=N/R\) and \(E_b(Z)=1+Z+\cdots+Z^{b-1}\).
-The integer reciprocal polynomial \(U=E_wE_R\) divides \(Z^N-1\), since \(\gcd(w,R)=1\) and the two geometric sums have disjoint cyclotomic factors.
-Over \(\mathbb Z/p\mathbb Z\), \(E_b\) has exact order \(b\) for \(b\ge3\): it divides \(Z^b-1\), has degree \(b-1\), and differs from \(Z^{b-1}-1\) in an intermediate coefficient.
-Consequently \(U\bmod p\) has exact order \(N\), even at composite \(p\).
-Its degree is \(w+R-2\), with \((w+R-2)/d\to\theta/R<\varepsilon\).
-For sufficiently large rows choose a monic reciprocal \(G\bmod p\) of the remaining even degree whose coefficients through \(J+1\) agree at zero with \(1/U\).
-This is possible by setting the low coefficients and reflecting them into the disjoint high positions.
-The polynomial \(W=UG\) now has the required zero offsets through \(J+1\).
-The coefficient gluing and exact pole correction above, followed by approximation with denominator prime \(\ell\nmid Cp\), preserve \(W\bmod p\) while retaining the full order \(A\) modulo \(q\).
-
-For this prescribed divisor \(U\), test whether the monic reciprocal factors of \((Z^N-1)/U\bmod p\) include a \(G\) of degree \(d-\deg U\) with those specified low coefficients.
-Such a factor would give the full order \(N\); the free completion just constructed only proves divisibility of the full order by \(N\).
-An additional sufficient test uses \(R\mid d,N\): a monic reciprocal polynomial of degree \(d/R\), constant one and exact order \(N/R\) modulo \(p\) yields a complete word by substituting \(Z^R\).
-Its first \(J+1\) offsets vanish, and the substitution multiplies the order by \(R\), as is seen from the free basis \(1,Z,\ldots,Z^{R-1}\) over the quotient in \(Z^R\).
+[The large divisor and the remaining prime-power excess](../claims/Yin_C_G0901_v198.md#period-completion) give exact order \(N\) on degree \(d-o(d)\) while retaining the even-side and real bounds.
+The remaining question is whether the entire quotient can have order \(N\) at every \(r^\nu\parallel q+1\) on the same arbitrarily large rows.
 
 <a id="dynamics"></a>
 ## Central directions, finite memory and periodic orbit resolution
@@ -176,21 +75,16 @@ In particular, the positive-entropy digit measures of [Theorem 7.1](../literatur
 This conclusion uses the specific digits and the [necessary tightness of their central sums](../audits/literature/LS05/Yin_U001.md#ls05-u001).
 
 <a id="periodic"></a>
-**A finite-time observable for arbitrary irreducible unit companions.**
-Use the convention that \(A^\mathsf T\) acts as multiplication by \(\alpha\) on the power basis of \(\mathbb Z[\alpha]\), where \(P\) is the degree-\(d\) minimum of a nontorsion unit \(\alpha\).
-Write \(N_j=|\det(A^j-I)|\) and \(r_j=\min\{\|k\|_\infty:0\ne k\in ((A^\mathsf T)^j-I)\mathbb Z^d\}\).
-The integer \(r_j\) is the first nonzero Fourier frequency on which averaging over \(\operatorname{Fix}(A^j)\) differs from Haar integration, by finite-group character orthogonality.
-For every \(j\ge1\),
-\[
- \frac{N_j^{1/d}}{d\,M(P)^{1-1/d}}\ \le\ r_j\ \le\ \lfloor N_j^{1/d}\rfloor . \tag{3}
-\]
-The upper bound follows by taking integer vectors in a cube of side \(\lfloor N_j^{1/d}\rfloor+1\) modulo a sublattice of index \(N_j\).
-For a vector in that sublattice, the corresponding polynomial value \(V(\alpha)=\sum_{l<d}k_l\alpha^l\) lies in \((\alpha^j-1)\mathbb Z[\alpha]\).
-For nonzero \(k\), its nonzero absolute field norm is at least \(N_j\) and at most \((d\|k\|_\infty)^d M(P)^{d-1}\), by multiplying the individual archimedean bounds.
-This proves (3).
-The fixed-polynomial periodic point growth formula gives \(\lim_{j\to\infty} j^{-1}\log r_j=(\log M(P))/d\), including algebraic nontorsion eigenvalues on the circle. [Lind, Section 4](../audits/literature/Lin82/readme.md)
-Thus a degree-independent lower bound for the raw rate would already fail for bounded-measure Salem polynomials of growing degree.
-For a finite-time test returning to total measure one must recover the factor \(d\), control the error up to \(d\log d+(d-1)\log M(P)\) in (3), and estimate the neutral factors in \(N_j=\prod_i|\alpha_i^j-1|\) at the chosen time.
+**Periodic Fourier resolution.**
+The [periodic-character estimate](../claims/Yin_C_G0904_v1.md#periodic) compares the shortest nonzero frequency in the annihilator of \(\operatorname{Fix}(A^j)\) with its cardinality \(N_j\).
+A remaining question is whether arithmetic information about the individual neutral factors in \(N_j\) can produce a positive lower bound for total measure across degrees.
+
+<a id="finite-time-dynamics"></a>
+## Which finite-time measurements could force a gap?
+
+The [periodic median](../claims/Yin_C_G0904_v1.md#finite-time-dynamics) at times of order \(d(\log(2d))^4\) and the [Gaussian estimate at one time](../claims/Yin_C_G0904_v1.md#deterministic) of order \(d^2(\log(2d))^4\) approximate total logarithmic measure as \(d\to\infty\).
+The open problem is to bound either observable below by a positive absolute constant at those scales.
+The [short-time Salem examples](../claims/Yin_C_G0904_v1.md#salem) and the [initial Gaussian behavior](../claims/Yin_C_G0904_v1.md#heat) constrain attempts to use shorter intervals.
 
 <a id="geometry"></a>
 ## A second short element in the same arithmetic space
@@ -308,3 +202,22 @@ Its degree is at most \(n/2+3a\).
 Consequently \(a\ge(n/2-2)/3\) and \(r\ge n(n-7)/6\).
 These genuine Salem numbers converge to the plastic number from below, so the obstruction to fast dyadic return reaches that bounded-measure family.
 Whether a degree-linear return, or a different small-height second element, is forced specifically along a sequence tending to one remains open.
+
+<a id="geometric-tools"></a>
+## Degrees of integral trace constructions and return to a reflection group
+
+For a bounded Salem number of degree \(2e\), an integral trace construction of an independent unit at the height scale in (4) requires polynomial degree \(\gg(\log(12e))^{212}\). [Trace-degree statement and proof](../claims/Yin_C_G0901_v199.md#trace-proof)
+A separate [Leech lattice example](../claims/Yin_C_G0901_v199.md#reflection) has a degree-four Salem spectral radius and no positive power in the root-reflection group.
+The remaining question is whether a sequence approaching one supplies either a sufficiently small independent companion of growing trace degree or a Coxeter realization with controlled power.
+
+<a id="mapping-tori"></a>
+## Realizing the whole record polynomial in a hyperbolic three-manifold
+
+The [closed mapping-torus construction](../claims/Yin_C_G0883_v2.md#mapping-tori) realizes every late reciprocal record in the original cyclic homology tower.
+
+<a id="bounded-volume"></a>
+### The unresolved volume range
+
+The [finite-parent and torsion argument](../claims/Yin_C_G0883_v2.md#bounded-volume) gives a gap at each fixed volume ceiling, including zero intersection with filling cores.
+For a record polynomial, seek an upper bound for the least volume of a realization, or a homology estimate that survives as this minimum grows.
+A lift can have arbitrarily large volume with every homology group in the original tower fixed.
