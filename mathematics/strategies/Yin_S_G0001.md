@@ -17,14 +17,20 @@ The [current Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-adjacent-
 The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
 The main researcher may pursue a uniform lower bound, this construction or another approach as the evidence warrants.
 Investigate the following questions in parallel under the unrestricted contract.
-For adjacent records, use the two-record factorization to constrain [exceptionally deep local embeddings](../claims/Yin_C_G0901_v202.md#depth), since a single rational prime can carry the entire norm in the wider strict Perron class.
-For the trace construction, seek full-degree factors of the prescribed order on the zero-boundary rows using the [finite-field digit conditions](../claims/Yin_C_G0901_v201.md#digits).
+For adjacent records, test whether [the selected primes above the relative trace field](../claims/Yin_C_G0901_v204.md#salem) can accumulate above a fixed rational prime when the later record is Salem.
+For the trace construction, seek positivity of the [exact count of full-degree, prescribed-order words](../claims/Yin_C_G0901_v203.md#count) on unbounded zero-boundary rows.
 For integral toral automorphisms, look for a bounded prime and an order \(j=O(d)\) at which the minimal [cyclic mod-\(p\) homology rank](../claims/Yin_C_G0904_v2.md#return-ranks) reaches a fixed fraction of the strict record degree.
 Such a return certifies uniform positive lower bounds for both previously specified observation windows.
+For records with a central coefficient gap and end width \(o(d)\), test whether record minimality forces [reversal up to sign modulo a bounded prime](../claims/Yin_C_G0904_v3.md#statement).
+For more general supports, test which relations of the coefficients evade the [short-relation bound for a two-variable specialization](../claims/Yin_C_G0904_v4.md#torus).
 For Salem fields, seek an independent [second element of controlled height](../drafts/Yin_D_G0034.md#geometry) in relative degree at most two over the same trace field, allowing for the [degree required of an integral trace polynomial](../claims/Yin_C_G0901_v199.md#statement).
 The [closed hyperbolic mapping-torus realization](../claims/Yin_C_G0883_v2.md#mapping-tori) also applies to unrestricted strict records.
 For the least volume realizing the whole polynomial, compare the [lower bound from cyclotomic support](../claims/Yin_C_G0883_v3.md#statement) with the [upper bound from coefficient positions](../claims/Yin_C_G0883_v4.md#upper-bound).
-An upper bound uniform across degrees would force a gap by the [bounded-volume argument](../claims/Yin_C_G0883_v2.md#bounded-volume), while the present construction still pays for the handle positions as genus grows.
+One noncentral coefficient pair already has [uniformly bounded realization volume](../claims/Yin_C_G0883_v5.md#positions) by its invertible index.
+For several pairs use small measure to constrain their simultaneous cyclic distances, since [individual invertibility](../claims/Yin_C_G0883_v6.md#positions) allows a cost of order \(\sqrt g\) already for two.
+For growing supports, investigate a joint realization of several twists, as the [sum of their separate distances](../claims/Yin_C_G0883_v6.md#many) already grows quadratically in the number of positions.
+Also seek whole-polynomial identities with other bounded-volume parents.
+A fixed-parent model can have [vanishing return fractions at every prime](../claims/Yin_C_G0904_v4.md#braid), so each route needs its own transfer to strict records.
 The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
 For the trace construction, bounded support of the reciprocal lift permits [effective finite enumeration across all heights and degrees](../claims/Yin_C_G0901_v175.md#statement).
 For dense supports, one finite place already gives [reconstruction and separation criteria](../ledger/Yin_L_G0462_v330.md#results).
@@ -3042,7 +3048,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Seek linear-size mod-p homology returns at linear cover degree on strict records and tighter volume bounds from their coefficients, alongside the deep-prime test for adjacent translates, the zero-boundary trace-period test and the Salem trace-field constraint. |
+| priority | Test modular reversal of coefficient blocks on strict records and simultaneous cyclic placement of their nonzero indices, alongside split-prime concentration for adjacent Salem translates and positivity of the exact zero-prefix count. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

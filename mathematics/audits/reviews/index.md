@@ -1,5 +1,11 @@
 # Reviews Index
 
+- [R562 v1289](Yin_R_G0562_v1289.md#finding) checks the simultaneous cost of two invertible positions and its arithmetic example.
+- [R562 v1288](Yin_R_G0562_v1288.md#finding) checks the prime-orbit weight bound and the involution over the relative Salem trace field.
+- [R562 v1287](Yin_R_G0562_v1287.md#finding) checks the torus intersection bound and its sharp example on closed braid fibers.
+- [R562 v1286](Yin_R_G0562_v1286.md#finding) checks the exact zero-prefix count and the time of full return on the strengthened model rows.
+- [R562 v1285](Yin_R_G0562_v1285.md#finding) checks the circular arrangement of handles, drilled layers and whole closed-fiber polynomial of the braid exterior.
+- [R562 v1284](Yin_R_G0562_v1284.md#finding) checks the modular reversal criterion, record block width and the decreasing Salem family.
 - [R562 v1283](Yin_R_G0562_v1283.md#finding) checks attainable boundary classes, unavoidable excess period and the finite-field lifting test.
 - [R562 v1282](Yin_R_G0562_v1282.md#finding) checks the valuation-depth bounds above rational primes and the example with all the norm above three.
 - [R562 v1281](Yin_R_G0562_v1281.md#finding) checks the modular window bound, the short cyclic return test and the cost of restricting relative norms on Salem tori.

@@ -19,7 +19,8 @@ The [local degree estimate](../claims/Yin_C_G0901_v200.md#records) puts asymptot
 [Comparison across consecutive rows](../claims/Yin_C_G0901_v200.md#across-records) leaves almost all the normalized norm on pairwise coprime ideal divisors over a growing window.
 Above each rational prime, the [largest local depths](../claims/Yin_C_G0901_v202.md#depth) carry almost all the normalized norm when summed over all primes.
 An [irreducible strict Perron unit family](../claims/Yin_C_G0901_v202.md#one-prime) realizes the whole mass above three.
-To rule that behavior out for these translates, use the specific factorization by adjacent record measures.
+For a later Salem record, the [involution over the relative trace field](../claims/Yin_C_G0901_v204.md#salem) puts almost all this mass on one prime per split pair and bounds the discarded mass explicitly.
+The remaining concentration problem allows arbitrarily many such split primes over the same rational prime.
 
 <a id="trace"></a>
 ## Completing the second residue period on the one-denominator controls
@@ -38,7 +39,8 @@ To complete its word one can test the complementary divisors of \(Z^N-1\) at the
 
 [The large divisor and the remaining prime-power excess](../claims/Yin_C_G0901_v198.md#period-completion) give exact order \(N\) on degree \(d-o(d)\) while retaining the even-side and real bounds.
 At \(q+1=3^\nu\) with \(\nu\) even, the [boundary coefficient restriction](../claims/Yin_C_G0901_v201.md#boundary) excludes all but three residue classes.
-On the strengthened zero-boundary rows, look for a full-degree factor satisfying the [finite-field digit test](../claims/Yin_C_G0901_v201.md#digits) and the prescribed exact order.
+On the strengthened zero-boundary rows, the [finite group calculation](../claims/Yin_C_G0901_v203.md#count) counts full-degree words of exact order, so the existence problem becomes positivity of an integer attached to the row.
+Chosen words on actual rows can have returned fraction tending to one at linear time and [full period arbitrarily close to quadratic on a logarithmic scale](../claims/Yin_C_G0901_v203.md#order).
 
 <a id="dynamics"></a>
 ## Central directions, finite memory and periodic orbit resolution
@@ -92,6 +94,10 @@ For Lehmer's \(P=X^{10}+X^9-X^7-X^6-X^5-X^4-X^3+X+1\), reduction modulo two give
 One can check this by multiplying \(\bar P\) by the sum of monomials with exponents \(0,1,2,5,7,9,10,11,12,14,16,19,20,21\) over \(\mathbb F_2\).
 The return inequality at \(a=1\) gives \(\log M(P)\ge(5/31)\log 2\) directly from this congruence.
 For the growing [Salem family with \(s=d+1\)](../claims/Yin_C_G0904_v2.md#statement), the same calculation gives \(\log M(F_d)\ge d\log2/(2(d+1))\).
+If the polynomial consists of two end blocks of width \(r+1\) with \(r=o(d)\), the [coefficient reversal test](../claims/Yin_C_G0904_v3.md#statement) characterizes exactly when a fixed list of primes works.
+For height one only the support symmetry of the end block modulo two can give the desired rank, and a strict record below the plastic number obeys a [lower bound on its block width](../claims/Yin_C_G0904_v3.md#record-width) at each fixed measure ceiling below that number.
+Along a [decreasing Salem sequence](../claims/Yin_C_G0904_v3.md#salem) even the supremum over all primes has vanishing rank fraction in linear time.
+The [fibers of a fixed hyperbolic exterior](../claims/Yin_C_G0904_v4.md#braid) have the same uniform obstruction by a different calculation, which counts repeated roots as well.
 On the Salem branch, the [subfield estimate](../claims/Yin_C_G0904_v2.md#salem-subfields) requires consideration of vectors whose relative norms generate the whole trace field.
 The [short-time Salem examples](../claims/Yin_C_G0904_v1.md#salem) and the [initial Gaussian behavior](../claims/Yin_C_G0904_v1.md#heat) constrain attempts to use shorter intervals.
 
@@ -229,6 +235,10 @@ The [closed mapping-torus construction](../claims/Yin_C_G0883_v2.md#mapping-tori
 
 The [finite-parent and torsion argument](../claims/Yin_C_G0883_v2.md#bounded-volume) gives a gap at each fixed volume ceiling, including zero intersection with filling cores.
 The [cyclotomic support estimate](../claims/Yin_C_G0883_v3.md#statement) bounds that minimum below, while the [coefficient positions](../claims/Yin_C_G0883_v4.md#upper-bound) give a constructive upper bound.
-Even the least location cost in the latter estimate grows logarithmically in the degree for a strict record.
-Test whether a different lift can remove that cost, or use the specific rank and norm conditions of strict records to obtain a lower entropy bound at growing volume.
+In the [circle-of-handles realization](../claims/Yin_C_G0883_v5.md#positions), a common unit modulo \(g\) can move several active coefficient positions near zero.
+For a single active position, compression makes its residue invertible and this removes the entire logarithmic cost.
+There are [irreducible two-position controls](../claims/Yin_C_G0883_v6.md#positions) with each index invertible and a complete return modulo two whose least sum of cyclic distances is exactly \(\sqrt g\).
+Their measure exceeds two, leaving the small-measure requirement available for a genuine record argument.
+For \(s\) occupied positions, counting the two possible residues at each distance gives a [quadratic lower bound on the sum of separate costs](../claims/Yin_C_G0883_v6.md#many).
+An \(O(s)\) construction for growing supports would therefore have to estimate several twists together or exploit an identity such as the [closed-fiber specialization](../claims/Yin_C_G0883_v5.md#hironaka).
 A lift can have arbitrarily large volume with every homology group in the original tower fixed.
