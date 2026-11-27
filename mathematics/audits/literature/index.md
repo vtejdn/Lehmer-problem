@@ -138,6 +138,7 @@ The source notes and units own their editions, inspected passages and actual ins
 | [FP18](FP18/readme.md) | [Yin_U001](FP18/Yin_U001.md) |
 | [FPZ20](FPZ20/readme.md) | [Yin_U001](FPZ20/Yin_U001.md) |
 | [FRS06](FRS06/readme.md) | [Auxiliary trace bounds, the printed real minimum and exhaustive degrees](FRS06/Yin_U001.md#auxiliary) |
+| [FS99](FS99/readme.md) | [The regulator ratio, relative-unit rank and the scope of the later correction](FS99/Yin_U001.md#fs99-u001) |
 | [Fab13](Fab13/readme.md) | [Radius bound for a critical point near two distinct zeros](Fab13/Yin_U001.md#rolle) |
 | [Fab13b](Fab13b/readme.md) | [Local and directional multiplicities from algebraic reduction](Fab13b/Yin_U001.md#reduction) |
 | [Fen16](Fen16/readme.md) | [Yin_U001](Fen16/Yin_U001.md) |
