@@ -66,7 +66,7 @@ ACME provides two ways to collaborate and share materials.
 When publishing research results, disclose truthfully how you used the ACME framework.
 When posting a preprint on platforms such as [arXiv](https://arxiv.org/) or [Hexagon](https://hexagonmath.org/), or submitting to a journal, we recommend including a link to your public ACME Git repository so that colleagues and reviewers can consult the relevant research materials and complete research record, check arguments, understand the research process and assess the work.
 You can adapt the [example disclosure of AI use](./ai-disclosure-example.md).
-You can also refer to the [example publication page](https://github.com/vtejdn/acme/blob/0.12.0/user-manual/publication-example.md) to describe the human authors' level of understanding and specific contributions, and state your position on sharing and reusing raw agent-generated materials.
+You can also refer to the [example publication page](https://github.com/vtejdn/acme/blob/0.12.1/user-manual/publication-example.md) to describe the human authors' level of understanding and specific contributions, and state your position on sharing and reusing raw agent-generated materials.
 
 ## <a id="setup"></a>Setup
 
@@ -273,7 +273,7 @@ Under construction.
 
 ### Framework version
 
-The current framework version is 0.12.0.
+The current framework version is 0.12.1.
 
 When automatic checks are enabled and network access is permitted,
 the [agent](#notion-agent) checks the [official ACME framework](https://github.com/vtejdn/acme) for a newer version at the start of work, at most once per UTC day.

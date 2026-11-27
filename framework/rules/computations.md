@@ -102,6 +102,10 @@ The README links fixed inputs, shows generated paths as code, and explains input
 Keep an explicit output option when useful, using the responsible J output home in ordinary examples.
 A small control must not replace evidence for a different claimed range.
 Repeated runs at the same scope may overwrite the same replaceable output.
+In the same working copy, coordinate only the generated paths where a write, replacement or removal would overlap another use.
+Use distinct paths under the responsible J output home where the program already supports that choice, accounting for the intermediate files and checkpoints used by each run.
+When runs or checks must share a path, let generation finish before reading or verifying it and let all current readers and writers finish before overwriting or removing it.
+Operations on separate paths and concurrent read-only uses can proceed together.
 Preserve existing necessary local results and their actual provenance, distinguishing receiving-local generation from sending-source facts.
 [J intake](intake.md#computation-programs-and-inputs) receives fixed programs and necessary inputs only; ordinary sending outputs remain excluded, while necessary local recovery uses the actual authorized scope below.
 Ignoring output provides neither a backup nor delivery to another checkout.
@@ -113,7 +117,10 @@ On an authorized request, confirm the current checkout and its exact `mathematic
 An absent directory already satisfies the request, and programs create output directories on use.
 Complete any outstanding [local adaptation](#adapting-outputs-in-an-existing-working-copy) before the first affected clear, including when Git has already brought in the new rules and version metadata.
 Keep the directory intact while a necessary local adaptation remains unresolved.
-Confirm that it is an ordinary directory within that checkout and is idle.
+Confirm that it is an ordinary directory within that checkout.
+An active reader or writer anywhere under the output directory means the directory is in use.
+Coordinate the affected operations so the directory stays idle until the clear finishes.
+If that condition cannot be established, keep the directory intact and report the concrete blocker.
 Clear it in full using ordinary file operations that leave other paths and link targets intact.
 Once the local condition is established, the clear includes logs, temporary data and disposable checkpoints and requires no retention audit or regeneration.
 

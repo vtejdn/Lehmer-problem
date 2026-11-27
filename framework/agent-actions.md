@@ -252,6 +252,7 @@ Retain complete necessary arguments, hypotheses, meaningful failed approaches, n
 
 Before substantial proof investment, apply [knowledge reuse](rules/knowledge-reuse.md#reuse-before-proof); a recognized established result triggers its source-check duty even during exploration.
 An open conjecture or conditional investigation need not already have a proof or completed review, but acceptance requires its real evidence and resolved applicable obligations.
+For materials being finalized for an authorized push, apply [push preparation](rules/identity.md#push-preparation) before fixing new numbers, versions or references.
 Distinguish an actual new statement/contract, a substantive revision, an unchanged-mathematics decision and routine maintenance under the [record rules](rules/records.md#identity-and-versions).
 Choose a family by its actual core mathematical topic and retain versions only for distinct research/evidence that needs separate preservation; pure logical repair may maintain current or older material in place under the [repair rule](rules/records.md#in-place-maintenance-and-logical-repair).
 Register C with its real statement and author without fabricating an initial assessment; actual key C and the adopted completion chain require explicit applicable assessments under the [Claim rule](rules/claims.md#mathematical-assessment-and-review-findings).
@@ -264,6 +265,8 @@ Return the resulting material and its actual status, with any missing evidence e
 ## Close a round
 
 Read the round's changed mathematics, computations, sources and directly affected consumers under the [workflow](rules/workflow.md) and common content decision.
+For a substantive research round, make the [closeout judgment against the original Task](rules/workflow.md#exploration-round-closeout) before deciding what to retain and deliver.
+For outgoing materials being finalized for an authorized push, apply [push preparation](rules/identity.md#push-preparation) before fixing new numbers, versions or references.
 Check the claims being delivered and relevant inputs, reusing adequate existing evidence; retain useful partial results and failures at responsible homes.
 Repair actual references and maintain affected navigation after source edits settle, through ordinary bounded edits or optional rendering.
 Navigation derives actual declarations and selected evidence metadata without checking or restoring native J payloads merely to display them; actual input recovery and mathematical adoption keep their own [computation](rules/computations.md#recovery-of-necessary-fixed-inputs) and [assessment](rules/claims.md#mathematical-assessment-and-review-findings) obligations.
@@ -562,13 +565,18 @@ Use this action for ordinary delivery of an authorized repository writing task w
 Proactively complete necessary scoped commit and push under that default without a separate routine request, choosing actual operations from the work ready for delivery.
 Apply explicit human limits and the actual repository, branch and publishable scope.
 Read [serial delivery](rules/identity.md#submission-checks), the human-registered repository name, selected paths, existing index, actual operator/signature and intended branch/tree.
+For an authorized push, establish the actual target and account/channel under the [connection responsibilities](rules/identity.md#git-and-github-connection-checks) and follow [push preparation](rules/identity.md#push-preparation) before finalizing or staging the batch.
 Coordinate one stable delivery interval, preserve unrelated staged work and contributor identities, stage the intended deliverable, commit and confirm the actual resulting tree.
 Reinspect the affected delivery scope if relevant bytes or the index change; draft work may be committed with truthful status.
-For an authorized push, establish the actual target and account/channel under the [connection responsibilities](rules/identity.md#git-and-github-connection-checks) and verify the remote/base relationship.
-Before publishing, inspect the whole outgoing commit chain, including its scope and contributor identities.
+Before publishing, confirm that the committed tip contains the current target tip when one exists.
+An authorized first push can proceed when the selected branch is confirmed absent under the [push preparation rule](rules/identity.md#push-preparation).
+Defer the affected push while the branch state remains unknown.
+Confirm that affected materials and references agree in the committed tree.
+Inspect the whole outgoing commit chain, including its scope and contributor identities.
+If the target advances, including when a non-fast-forward rejection reveals it, follow the [integration and retry rule](rules/identity.md#submission-checks) before retrying.
+Resolve any unclear publication scope under the same rule, preserving unrelated work and the pending-batch boundary.
 If the operation requires host approval, apply the [permission and refusal rules](rules/workflow.md#workspace-boundaries) using the actual human authority, destination and scope of this delivery.
 Push the authorized tip and verify the remote result.
-Apply the [common integration rule](rules/identity.md#shared-repository-updates-and-integration) and [delivery scope](rules/identity.md#submission-checks) to new remote commits, a rejected push or an unclear publication scope, preserving unrelated work and the existing pending-batch boundary.
 Handle connection failures under the [common recovery responsibility](rules/workflow.md#connection-recovery) within the actual delivery authority.
 At actual project-remote setup, a relevant target change or a remote operation needing fresh facts, apply the [non-blocking name suggestion](rules/identity.md#repository-names-and-use-environments) for that selected GitHub project.
 Keep a differing local name unless the human chooses to update it; official-source, intake-source and reference-only upstream names do not select the repository name.

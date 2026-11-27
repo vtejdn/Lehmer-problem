@@ -313,6 +313,30 @@ Installing a new explicitly chosen receiving family or U position also advances 
 An established imported family keeps its existing receiving correspondence across physical versions, and a next physical revision allocates no new family number.
 Clean bootstrap starts with an empty map and inherits none of another repository's counters.
 
+During [push preparation](#push-preparation) and retry, check the batch's new material identities against issuance on both sides in the affected allocation sequences.
+Include unpublished issuances already fixed or committed, even if the incoming commits have already been integrated.
+The counter bounds future issuance.
+Use the known bounds, actual materials and relevant Git changes as needed to distinguish continued use of an existing family from independent issuance of the same number to different materials.
+Check this distinction even when the bounds agree, retirement leaves the incoming address empty or Git merges cleanly.
+Limit any history inspection to the changes needed to establish the affected issuances.
+
+For each affected `material_next` entry, preserve the larger issued-number bound from both sides and advance it for any further issuance.
+Keep addresses below that bound unavailable for fresh allocation even when empty, subject to the [confirmed Task-number release rule](tasks.md#task-number-reuse).
+Check actual family occupancy across its possible paths, and check the current file, predecessor and relevant slots when preparing a physical version.
+
+If incoming material serves the same purpose, reuse it after checking its mathematics, evidence and applicability to the intended use.
+Give a distinct provisional topic or a candidate that needs a different namespace an available family number under the current bound.
+For a same-family variant, use the next appropriate physical version when [separate retention is warranted](records.md#mathematical-topic-families-and-necessary-versions).
+Apply the ordinary lock and exclusive creation rules where applicable, and use the address actually issued when a writer allocates it.
+Repair affected paths, anchors and consumer references together with their necessary navigation.
+
+When a collision affects already fixed or cited material, read its actual consumers before choosing a resolution, including consumers of an unstaged file or unpublished commit.
+Preserve actual authorship and provenance, [fixed versions](records.md#identity-and-versions), exact source locators, decisions, bindings and evidence on both sides.
+Keep reviews and adoptions tied to their actual versions and inputs.
+Repair an affected reference within existing authority only after establishing its intended object, scope and evidence.
+Use the [conflict rule](#collaboration-maintenance-and-conflicts) for address and counter maintenance and any necessary substantive recheck.
+If the evidence or authority is insufficient to resolve a material conflict, preserve the competing work and report why the affected delivery remains pending.
+
 Revisions and append/select operations protect the actual same-material read, predecessor/current-main check, modification and publication under the short lock.
 Candidate appends preserve fresh history even when the selected decision is unchanged; stale selecting operations fail without silently retrying another predecessor.
 Coordinate direct edits to the same material.
@@ -342,21 +366,32 @@ Without Git or an applicable project remote, complete the authorized local work 
 Honor explicit read-only, local-only, commit-only, offline, postponed-synchronization and publication-scope limits.
 Use the default to proactively complete necessary scoped commit and push for the current writing assignment without a separate first or recurring push grant, operation-by-operation request, mode adoption, permission sentence or authorization record.
 
-Research proceeds in parallel; Git delivery within one human's local worktree proceeds serially.
 Before research writing or delivery in a Git-managed research project, confirm its human-chosen registered name and actual operator binding.
+The responsible main agent chooses a useful coherent batch and its delivery time from the actual assignment and work ready to share.
+Share useful progress earlier when appropriate and assess remaining delivery at task or round closeout, completing the current deliverable within actual limits.
+Include only authorized task changes, necessary integration and bounded repairs, preserving unrelated work, each contribution's authorship and necessary evidence.
+When there is no in-scope change or pending deliverable, make no empty commit or ceremonial push.
+
+<a id="push-preparation"></a>
+
+When preparing an authorized batch for push, establish the selected project branch's state using fresh Git facts before finalizing the batch's new material numbers, versions or fixed references, including those prepared during round closeout.
+Reuse earlier Git facts while they establish the current branch state, including among agents coordinating the same batch in one working copy.
+For an existing target tip, retrieve new commits and complete required integration under the [project integration rule](#shared-repository-updates-and-integration).
+A target tip already contained in the local history needs no merge.
+When a fresh query confirms the selected branch is absent, an authorized first push can proceed through the ordinary delivery checks.
+For ordinary first installation, also apply the separate [empty-target rule](../agent-actions.md#first-install-empty-target) to the actual target repository.
+A connection, permission or query error leaves the branch state unknown unless other current evidence establishes it.
+If the branch state or necessary integration remains unresolved, preserve the prepared work, defer the affected finalization or push and continue independent authorized work.
+Check affected issuances, allocations and references under the [allocation rule](#allocation-and-concurrency) before fixing or delivering the materials.
+Apply this timing to actual push preparation under the explicit delivery limits above.
+
+Research proceeds in parallel; Git delivery within one human's local worktree proceeds serially.
 One responsible agent coordinates each intended batch, index and commit.
 Preserve another agent's staged work; identify actual paths rather than a research-line glob.
 Keep submitted files stable, inspect the exact index, and confirm the completed commit matches the intended deliverable.
 Navigation in a commit must resolve within that same deliverable.
 If relevant files or index change, repeat the affected delivery inspection.
 Ordinary coordination does not establish a new lock, permanent role or research-wide pause.
-
-The responsible main agent chooses a useful coherent batch and its delivery time from the actual assignment and work ready to share.
-Share useful progress earlier when appropriate and assess remaining delivery at task or round closeout, completing the current deliverable within actual limits.
-Include only authorized task changes, necessary integration and bounded repairs, preserving unrelated work, each contribution's authorship and necessary evidence.
-Inspect the actual intended tree and whole outgoing commit chain, including earlier commits the push would make reachable.
-Resolve a concrete outgoing-scope conflict within existing coordination and authority before publication.
-When there is no in-scope change or pending deliverable, make no empty commit or ceremonial push.
 
 Plain commit/push requests perform Git delivery.
 Inspect intended scope, local actor, effective author/committer, actual outgoing commit identities, branch relationship and the intended tree.
@@ -367,15 +402,20 @@ Do not automatically run framework regressions, full material scans, recursive p
 Reuse applicable construction/research verification; repeat it only for relevant changes, repaired failures or uncovered uses.
 
 For public delivery that affects joint Task source addresses, include the affected outgoing commits under the [public joint Task rule](tasks.md#public-joint-task-addresses).
-When a push is authorized by a direct instruction or an applicable activity rule, choose relevant checks for the actual target and account/channel under the [connection responsibilities](#git-and-github-connection-checks), verify the target remote tip and branch relationship, push the authorized local tip and verify the remote result.
+When a push is authorized by a direct instruction or an applicable activity rule, choose relevant checks for the actual target and account/channel under the [connection responsibilities](#git-and-github-connection-checks).
 Apply the [host execution and access boundaries](workflow.md#workspace-boundaries) to any required permission request or execution failure.
 Within an authorized remote-delivery sequence, a pending batch is its already committed, unpublished work for the selected repository, branch, destination and delivery scope.
 Publish that batch before constructing the next delivery batch; a concrete blocker permits only the smallest committed repair and necessary references first.
 Other unpushed commits do not create that sequence; a local-only commit needs neither push authority nor a network check merely because earlier commits remain unpublished.
-A worktree-only fix does not repair committed HEAD.
-Preserve concurrent work and each contribution's authorship.
-Resolve divergence and inspect the affected delivery again if the local or remote tip changes.
-If the remote advances, including after a non-fast-forward rejection, retrieve and integrate under the [common integration rule](#shared-repository-updates-and-integration), then inspect affected changes and retry within existing authority and effective limits.
+
+Before pushing to an existing branch, confirm that the actual intended outgoing tip contains the current target tip.
+For every authorized push, confirm that the affected material and its consumers agree in the committed tree.
+Inspect the whole outgoing commit chain, including earlier commits the push would make reachable, and resolve concrete outgoing-scope conflicts before publication.
+If the target advances during preparation or a push is rejected as non-fast-forward, retrieve and integrate under the [project integration rule](#shared-repository-updates-and-integration), then repeat the affected allocation, material and delivery checks.
+For an already committed batch, preserve its history and make necessary corrections in the integration result or a bounded follow-up commit under the pending-batch rule above.
+Preserve concurrent work and each contribution's authorship, and inspect the corrected committed tree and outgoing chain before retrying.
+If the local tip changes, confirm the new committed tree and inspect the affected delivery again.
+Push the authorized tip and verify the resulting remote tip.
 Handle other rejections according to their actual cause and preserve the existing limits on retries and history rewriting.
 Use the project's actual branch and contribution requirements, which may select its default branch.
 When the platform requires a PR or blocks the selected branch, handle that constraint within the actual authority and report any remaining delivery limit.
@@ -403,15 +443,26 @@ This authority includes a local merge commit needed for the authorized integrati
 Authorized repository writing uses the [common delivery default](#submission-checks) for its actual deliverable.
 
 Choose native Git retrieval and integration from the fresh commit relationship and actual target, without prescribing one command sequence, helper or whole-library check.
-When the remote tip is already contained locally, continue without a merge or push; fast-forward when possible, and use an ordinary merge preserving both histories when both sides have new commits.
+If the local history already contains the target tip, the required integration is complete.
+When integration is needed, fast-forward if possible and use an ordinary merge preserving both histories when the branches have diverged.
 Omit operations without applicable work rather than turn retrieval, integration, commit and push into a fixed command sequence.
 This does not default to rebase, reset, forceful replacement or history rewriting.
 Integration concerns branches and commits, rather than pulling only one Task's files; select the relevant changed content for inspection afterwards.
 Protect uncommitted work, other sessions' staged contents and each contributor's authorship without requiring the entire worktree to be clean or defaulting to whole-tree add, stash, discard, overwrite or rebase.
 Coordinate integration, index and commits serially in this working copy, choosing any necessary native saving or temporary arrangement for the actual state without another permanent role, lock or parallel-copy management system.
 A necessary local merge commit contains the integration result without unrelated staged work or unfinished task changes.
+
+Fetching can proceed while independent work continues.
+Before a fast-forward or merge changes the working copy, compare incoming changes with known active write targets and current inputs in that working copy.
+Under the existing [research coordination rule](workflow.md#research-coordination), protect pending edits and staged work and arrange for only conflicting writes or affected input uses to finish or pause before changing the working copy, including active reading and verification.
+Work on unaffected targets and uses of fixed inputs outside the reach of the merge may continue within their existing scope.
+If coordination cannot protect affected work, preserve it and defer the conflicting integration.
+Apply this coordination whenever integration is needed at work start, during push preparation or on a retry.
+
 Use an appropriately capable model and reasoning configuration for the necessary content judgments under the [delegation duty](workflow.md#integration-capability-and-delegation), preserving author and review authority.
-After Git merges files, inspect affected mathematics, fixed versions, exact inputs, references and review applicability under the existing [conflict rule](#collaboration-maintenance-and-conflicts); a clean text merge certifies neither mathematical agreement nor authority to edit another human's body.
+After integration, recheck only affected materials and their necessary references, including the scope of fixed versions and the applicability of exact inputs and reviews, under the existing [conflict rule](#collaboration-maintenance-and-conflicts).
+Keep prepared work tied to the inputs it actually used and check its applicability to the integrated material under the [prepared-input rule](workflow.md#prepared-work-and-input-applicability).
+Reuse unaffected checks and inspect the full outgoing chain at [delivery](#submission-checks).
 Resolve administrative conflicts within existing authority, preserve competing mathematical evidence, and reuse any applicable scoped recheck approval rather than requesting it again.
 Read relevant incoming content and changed applicable rules under the work-start and [current-rule duties](workflow.md#proportionate-execution) before dependent use.
 Ordinary same-repository integration creates no intake, exact-contract adoption, E activation or resumption, stop reset or fresh allowance.

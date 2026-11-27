@@ -66,7 +66,7 @@ ACME bietet zwei Möglichkeiten zur Zusammenarbeit und zum Austausch von Materia
 Geben Sie bei der Veröffentlichung von Forschungsergebnissen wahrheitsgemäß an, wie Sie das ACME-Rahmenwerk verwendet haben.
 Wenn Sie einen Preprint auf Plattformen wie [arXiv](https://arxiv.org/) oder [Hexagon](https://hexagonmath.org/) veröffentlichen oder einen Beitrag bei einer Fachzeitschrift einreichen, empfehlen wir, einen Link zu Ihrem öffentlichen ACME-Git-Repository anzugeben, damit Fachkollegen und Gutachter die zugehörigen Materialien und vollständigen Forschungsaufzeichnungen einsehen, Argumente prüfen, den Forschungsprozess nachvollziehen und die Arbeit beurteilen können.
 Als Vorlage dient das [Beispiel einer Erklärung zur KI-Nutzung](./ai-disclosure-example.md).
-Sie können sich auch am [Beispiel einer Veröffentlichungsseite](https://github.com/vtejdn/acme/blob/0.12.0/user-manual/publication-example.md) orientieren, um den Grad des Verständnisses und die konkreten Beiträge der menschlichen Autoren darzustellen und Ihre Haltung zum Teilen und Wiederverwenden unbearbeiteter, von Agenten erzeugter Materialien zu erläutern.
+Sie können sich auch am [Beispiel einer Veröffentlichungsseite](https://github.com/vtejdn/acme/blob/0.12.1/user-manual/publication-example.md) orientieren, um den Grad des Verständnisses und die konkreten Beiträge der menschlichen Autoren darzustellen und Ihre Haltung zum Teilen und Wiederverwenden unbearbeiteter, von Agenten erzeugter Materialien zu erläutern.
 
 ## <a id="setup"></a>Einrichtung
 
@@ -282,7 +282,7 @@ In Arbeit.
 
 ### Version des Rahmenwerks
 
-Die aktuelle Version des Rahmenwerks ist 0.12.0.
+Die aktuelle Version des Rahmenwerks ist 0.12.1.
 
 Wenn automatische Prüfungen aktiviert sind und Netzwerkzugriff erlaubt ist,
 prüft der [Agent](#notion-agent) zu Arbeitsbeginn höchstens einmal pro UTC-Tag, ob eine neuere Version des [offiziellen ACME-Rahmenwerks](https://github.com/vtejdn/acme) verfügbar ist.

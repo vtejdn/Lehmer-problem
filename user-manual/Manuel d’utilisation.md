@@ -66,7 +66,7 @@ ACME propose deux façons de collaborer et de partager des documents.
 Lors de la publication de résultats de recherche, déclarez fidèlement la manière dont vous avez utilisé le cadre ACME.
 Lorsque vous déposez une prépublication sur une plateforme telle qu’[arXiv](https://arxiv.org/) ou [Hexagon](https://hexagonmath.org/), ou soumettez un article à une revue, nous recommandons d’y joindre un lien vers votre dépôt Git ACME public afin que les collègues et les évaluateurs puissent consulter les documents pertinents et l’ensemble des enregistrements de recherche, vérifier les arguments, comprendre la démarche et évaluer le travail.
 Vous pouvez vous inspirer de l’[exemple de déclaration d’utilisation de l’IA](./ai-disclosure-example.md).
-Vous pouvez aussi consulter l’[exemple de page de publication](https://github.com/vtejdn/acme/blob/0.12.0/user-manual/publication-example.md) pour préciser le degré de compréhension et les contributions concrètes des auteurs humains, ainsi que votre position sur le partage et la réutilisation des documents bruts produits par les agents.
+Vous pouvez aussi consulter l’[exemple de page de publication](https://github.com/vtejdn/acme/blob/0.12.1/user-manual/publication-example.md) pour préciser le degré de compréhension et les contributions concrètes des auteurs humains, ainsi que votre position sur le partage et la réutilisation des documents bruts produits par les agents.
 
 ## <a id="setup"></a>Configuration
 
@@ -282,7 +282,7 @@ En cours de rédaction.
 
 ### Version du cadre
 
-La version actuelle du cadre est 0.12.0.
+La version actuelle du cadre est 0.12.1.
 
 Lorsque les vérifications automatiques sont activées et que l’accès au réseau est autorisé,
 l’[agent](#notion-agent) vérifie au début du travail, au plus une fois par jour UTC, si une nouvelle version du [cadre ACME officiel](https://github.com/vtejdn/acme) est disponible.

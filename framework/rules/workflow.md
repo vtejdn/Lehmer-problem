@@ -483,8 +483,13 @@ Reviews must evaluate the argument itself rather than merely restating its concl
 
 Each executing ordinary Task has one responsible main agent and one stable E; a joint coordination T has neither direct execution nor an E.
 The main research agent maintains a substantive understanding of the original objective, the central mathematical difficulty, each branch's actual contribution and the key interfaces between branches.
-It uses that understanding, the Task's authority and its actual progress to choose direct work, concentrated delegation or parallel assistance.
-It starts, reuses and adjusts available harness subagents, coordinating dependencies, shared resources, overlapping writes and necessary review.
+For a difficult or complex Task, judge the combined work against the original question, hypotheses and completion criteria.
+Determine what each branch establishes, where it applies and what links are still needed to reach the objective.
+Use that judgment and the effective [Task and E authority](execution.md#responsibility-and-version-boundary) to choose direct work, concentrated delegation or parallel assistance.
+Organize authorized subagents around investigations that can resolve or bypass a decisive gap, test an obstruction or find a counterexample.
+Give each delegate the exact question, applicable inputs and limits, and explain how the possible findings could change the next decision.
+Use ordinary research agents for concrete investigations and [agent-S](agent-S.md#when-to-delegate-and-assignment-boundaries) for alternative mechanisms under the [route-selection criteria](strategies.md#choosing-and-revising-a-route).
+The main agent starts, reuses and adjusts available harness subagents, coordinating dependencies, shared resources, overlapping writes and necessary review.
 It ensures required retention and closeout by doing or explicitly delegating that work, without routinely repeating the subagents' derivations or material operations.
 Internal subagents receive bounded delegated work and coordinated write targets; they share the Task/E authority, limits and stops rather than creating parallel identities or independent allowances.
 Within that scope, subagents autonomously develop and select strategies, continue Draft research, compute or organize materials.
@@ -497,7 +502,7 @@ Assign auxiliary work within that mechanism where the mathematical interfaces ar
 Independent mechanisms may each have a researcher responsible for the complete object and proceed in parallel when their dependencies, discriminating next steps, authority and resources permit.
 Choose the researcher, available model and reasoning effort to suit the key proof, construction or strategy judgment.
 
-Reassess assignments as relevant results arrive, including while other branches are still working.
+Use relevant results to continue, redirect, combine or stop assignments, including while other branches are still working.
 When a needed premise fails, a result is already covered, or an investigation can no longer inform the decision, identify which work still serves a useful purpose.
 Preserve required independent verification and other useful work, including another authorized Task's use of a shared S.
 Narrow, pause or end the affected delegation, computation or search accordingly.
@@ -529,7 +534,7 @@ For a candidate selected for continued work, carry out or explicitly assign the 
 Specify how possible results could change the decision and choose a scope suited to the candidate, such as a short derivation, counterexample probe, source-applicability check, computation or focused conceptual investigation.
 On return, use the evidence to decide whether to expand work, revise the mechanism, investigate a remaining question or defer, and update the actual assignments.
 Keep the decision and necessary reasons in the responsible S, with derivations and computations at their responsible homes.
-Evaluate completion of the delegation separately from adopting a route or obtaining independent mathematical review.
+Evaluate the returned work against the assignment, and apply the responsible rules for route selection, [mathematical adoption](#work-obligations) and [independent review](proof-audits.md#review-arrangements) when those decisions arise.
 Useful strategy exploration may be retained in an existing responsible material.
 
 When [reassessing proof and refutation direction](strategies.md#proof-and-refutation-direction), apply the decision to the selected Task's actual route use, assignments, computations and dependencies within its stable E.
@@ -551,7 +556,19 @@ Agreement between agents is not a substitute for a proof.
 <a id="exploration-round-closeout"></a>
 ### Closing an Exploration Round
 
-At the end of each exploration round, the responsible main agent first applies the [common content decision](records.md#substantive-material-retention) and determines which completed findings require Claim registration or fixed retention under the applicable material rules, and ensures that the necessary material organization, evidence bindings and consumer updates are completed.
+For a round that undertook substantive research, the main agent first judges the round's effect on the original Task.
+State which step toward the Task advanced or which case, implication or mechanism was ruled out, with its actual scope.
+If the round made no such advance or exclusion, state that outcome and any useful information it established.
+Identify the key remaining gap and distinguish a gap in the current route from an established obstruction to the Task.
+State how the branch results fit the original hypotheses and which necessary links remain conditional.
+Explain how that judgment determines what work should continue, change or be assigned next and why.
+For a completed or effectively stopped Task, give the actual outcome or the condition needed to continue.
+Reuse the relevant [strategy judgment](strategies.md#choosing-and-revising-a-route) and maintain the choices, reasons and next steps needed for continuation in the responsible S.
+Communicate the concise judgment in the ordinary reply or handoff, linking to retained mathematics and evidence as needed.
+
+Apply the [common content decision](records.md#substantive-material-retention) to identify completed findings that need Claim registration or fixed retention under the applicable material rules.
+For materials in a batch being prepared for an authorized push, apply [push preparation](identity.md#push-preparation) before fixing new numbers, versions or references.
+Complete the necessary material organization, evidence bindings and consumer updates.
 Preserve the necessary content and repair its consumers before removing redundant drafts.
 A delegation restricted to D/J authoring leaves the main agent responsible for performing or explicitly delegating this fixed-material work after receiving the result.
 Genuinely continuing work remains in D with its actual unresolved scope; any unfinished organization and the responsibility for completing it belong in the existing material or handoff.

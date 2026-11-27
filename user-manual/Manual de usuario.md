@@ -66,7 +66,7 @@ ACME ofrece dos formas de colaborar y compartir materiales.
 Al publicar resultados de investigación, declare con veracidad cómo ha utilizado el marco ACME.
 Al publicar un preprint en plataformas como [arXiv](https://arxiv.org/) o [Hexagon](https://hexagonmath.org/), o al enviar un artículo a una revista, recomendamos incluir un enlace a su repositorio Git ACME público para que los colegas y revisores puedan consultar los materiales pertinentes y los registros completos de investigación, comprobar los argumentos, comprender el proceso y evaluar el trabajo.
 Puede adaptar el [ejemplo de declaración de uso de IA](./ai-disclosure-example.md).
-También puede consultar el [ejemplo de página de publicación](https://github.com/vtejdn/acme/blob/0.12.0/user-manual/publication-example.md) para explicar el grado de comprensión y las contribuciones concretas de los autores humanos, y expresar su postura sobre compartir y reutilizar los materiales en bruto generados por agentes.
+También puede consultar el [ejemplo de página de publicación](https://github.com/vtejdn/acme/blob/0.12.1/user-manual/publication-example.md) para explicar el grado de comprensión y las contribuciones concretas de los autores humanos, y expresar su postura sobre compartir y reutilizar los materiales en bruto generados por agentes.
 
 ## <a id="setup"></a>Configuración
 
@@ -282,7 +282,7 @@ En elaboración.
 
 ### Versión del marco
 
-La versión actual del marco es 0.12.0.
+La versión actual del marco es 0.12.1.
 
 Cuando las comprobaciones automáticas estén activadas y se permita el acceso a la red,
 el [agente](#notion-agent) comprobará al comenzar el trabajo si hay una versión más reciente del [marco ACME oficial](https://github.com/vtejdn/acme), como máximo una vez por día UTC.
