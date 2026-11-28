@@ -1,5 +1,9 @@
 # Reviews Index
 
+- [R562 v1298](Yin_R_G0562_v1298.md#finding) checks the relative discriminant estimate, its simultaneous bounds for Salem translates and the fixed example over 17.
+- [R562 v1297](Yin_R_G0562_v1297.md#finding) checks the quotient frequency obstruction and large multiplicities at roots of growing prime order.
+- [R562 v1296](Yin_R_G0562_v1296.md#finding) checks the boundary period and orbit tests, the six-term minimum and the five-term partial fillings.
+- [R562 v1295](Yin_R_G0562_v1295.md#finding) checks the two-thirds end-width bound and the refinement for support in an arithmetic progression.
 - [R562 v1294](Yin_R_G0562_v1294.md#finding) checks the cyclotomic cofactor deficit, its exact residue multiplicities and the required period of a boundary orbit.
 - [R562 v1293](Yin_R_G0562_v1293.md#finding) checks the absolute local degree estimate, the two Salem inversions and the trace norm equation.
 - [R562 v1292](Yin_R_G0562_v1292.md#finding) checks the orbit-degree restrictions and the construction of large-order roots in a factor of nearly full degree.

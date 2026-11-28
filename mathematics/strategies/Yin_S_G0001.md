@@ -17,18 +17,21 @@ The [current Task decision](../tasks/Yin_T_G0001_v1.md#decision-resume-adjacent-
 The consecutive-coefficient construction below offers one way to seek arbitrarily small positive logarithmic Mahler measures.
 The main researcher may pursue a uniform lower bound, this construction or another approach as the evidence warrants.
 Investigate the following questions in parallel under the unrestricted contract.
-For adjacent Salem records, test how much norm can accumulate on the [explicit trace conic](../claims/Yin_C_G0901_v206.md#conic) at places of small absolute local degree over a fixed rational prime.
+For adjacent Salem records, use the archimedean restriction on the exponent to test whether the [trace conic](../claims/Yin_C_G0901_v206.md#conic) can reach [depth of order \(n/\log n\) at places of relative degree \(O(\log n)\)](../claims/Yin_C_G0901_v208.md#records) over a fixed prime set.
 For the trace construction, seek positivity of the [exact count of full-degree, prescribed-order words](../claims/Yin_C_G0901_v203.md#count) on unbounded zero-boundary rows.
 Use the [residue-degree test](../claims/Yin_C_G0901_v205.md#degrees) for the last degree correction after constructing a factor of degree \(d-o(d)\) with the full prescribed order.
+Restrict the search to rows on which the [known vanishing frequencies miss a nonzero frequency in every nontrivial subgroup](../claims/Yin_C_G0901_v207.md#frequencies).
 For integral toral automorphisms, look for a bounded prime and an order \(j=O(d)\) at which the minimal [cyclic mod-\(p\) homology rank](../claims/Yin_C_G0904_v2.md#return-ranks) reaches a fixed fraction of the strict record degree.
 Such a return certifies uniform positive lower bounds for both previously specified observation windows.
-Determine whether a sequence of strict records can have two separated end blocks of width \(o(d)\), using the [lower bound on exterior roots of a block](../claims/Yin_C_G0904_v5.md#exterior).
+For records with two separated end blocks, the [two-thirds width bound](../claims/Yin_C_G0904_v7.md#width) leaves \(d^{2/3}\ll r=o(d)\).
+Compare \(X^nQ\pm Q^*\) with its shorter noncyclotomic specializations \(X^jQ\pm Q^*\), \(1\le j<n\), using the [small mean radial displacement of the exterior roots](../claims/Yin_C_G0904_v7.md#comparison) forced in this range.
 On such a sequence [every prime fails the positive-fraction linear-time return test](../claims/Yin_C_G0904_v5.md#record).
 For more general supports, test which relations of the coefficients evade the [short-relation bound for a two-variable specialization](../claims/Yin_C_G0904_v4.md#torus).
 For Salem fields, seek an independent [second element of controlled height](../drafts/Yin_D_G0034.md#geometry) in relative degree at most two over the same trace field, allowing for the [degree required of an integral trace polynomial](../claims/Yin_C_G0901_v199.md#statement).
 The [closed hyperbolic mapping-torus realization](../claims/Yin_C_G0883_v2.md#mapping-tori) also applies to unrestricted strict records.
 For the least volume realizing the whole polynomial, compare the [lower bound from cyclotomic support](../claims/Yin_C_G0883_v3.md#statement) with the [upper bound linear in the number of noncentral coefficient pairs](../claims/Yin_C_G0883_v7.md#support).
-Seek realizations from sparse cyclotomic multiples whose boundary action removes the cofactor when the fiber is capped.
+For a sparse cyclotomic multiple, recover the unique [boundary cycle counts](../claims/Yin_C_G0883_v8.md#cycles) and test them against the [orbits certified by the closed polynomial](../claims/Yin_C_G0883_v8.md#orbits).
+Seek a volume estimate for such open bundles on growing records, using the [five-term partial filling family](../claims/Yin_C_G0883_v8.md#partial) as a model.
 When such a multiple contains a large signed binomial modulo a prime, its [boundary periods must supply the missing residue degree](../claims/Yin_C_G0904_v6.md#boundary).
 A fixed-parent model can have [vanishing return fractions at every prime](../claims/Yin_C_G0904_v4.md#braid), so each route needs its own transfer to strict records.
 The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
@@ -3048,7 +3051,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Exclude narrow separated blocks on shrinking strict records, seek closed realizations from sparse cyclotomic multiples, bound valuations of the Salem trace conic above one prime and test positivity of the full-degree zero-prefix count. |
+| priority | Compare shorter specializations in the remaining end-width range, realize admissible boundary cycles with controlled open volume, test deep places at the prescribed Salem exponent and sieve the full-degree trace rows by their missing frequencies. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation
