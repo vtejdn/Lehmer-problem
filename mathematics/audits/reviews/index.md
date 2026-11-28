@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v1294](Yin_R_G0562_v1294.md#finding) checks the cyclotomic cofactor deficit, its exact residue multiplicities and the required period of a boundary orbit.
+- [R562 v1293](Yin_R_G0562_v1293.md#finding) checks the absolute local degree estimate, the two Salem inversions and the trace norm equation.
+- [R562 v1292](Yin_R_G0562_v1292.md#finding) checks the orbit-degree restrictions and the construction of large-order roots in a factor of nearly full degree.
+- [R562 v1291](Yin_R_G0562_v1291.md#finding) checks the measure obstruction to modular reversal and the exterior-root bound for separated end blocks.
+- [R562 v1290](Yin_R_G0562_v1290.md#finding) checks the joint mapping-torus realization with volume linear in the number of active coefficient pairs.
 - [R562 v1289](Yin_R_G0562_v1289.md#finding) checks the simultaneous cost of two invertible positions and its arithmetic example.
 - [R562 v1288](Yin_R_G0562_v1288.md#finding) checks the prime-orbit weight bound and the involution over the relative Salem trace field.
 - [R562 v1287](Yin_R_G0562_v1287.md#finding) checks the torus intersection bound and its sharp example on closed braid fibers.
