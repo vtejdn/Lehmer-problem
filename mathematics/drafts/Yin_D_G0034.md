@@ -26,6 +26,7 @@ If a fixed prime set carries a fixed positive mass and the later record is Salem
 Two [fixed quartic Salem numbers](../claims/Yin_C_G0901_v208.md#example) attain arbitrarily large depth at a smooth conic point over 17 when the exponent is unrestricted.
 For two shrinking Salem records, [all earlier powers in the allowed window](../claims/Yin_C_G0901_v210.md#window) are already separated at depth \(O(\sqrt{D\log D}/\log p)\), where \(D=\deg A\).
 The much deeper congruence to \(2/B\) requires [large multiplicative order](../claims/Yin_C_G0901_v210.md#order) at its actual precision.
+The two units then [generate the same local field](../claims/Yin_C_G0901_v212.md#records) whenever their joint absolute local degree exceeds a fixed power of the logarithm of the later degree.
 
 <a id="trace"></a>
 ## Completing the second residue period on the one-denominator controls
@@ -52,6 +53,8 @@ The [quotient Fourier test](../claims/Yin_C_G0901_v207.md#frequencies) excludes 
 Even bounded multiplicities in each fixed residue field allow [orders of size \(d^{2-o(1)}\)](../claims/Yin_C_G0901_v207.md#repetitions) when the roots of greatest multiplicity have growing prime order.
 At the neighboring period \(A=N-2u\), a [full-degree word of exact order \(A\)](../claims/Yin_C_G0901_v209.md#times) exists on every sufficiently large strengthened row.
 The two possible words on the same row have opposite return behavior at \(A\) and \(N\).
+At a separate [family of periods](../claims/Yin_C_G0901_v211.md#subfields), two proper subfields supply the final \(O(\log d)\) degrees without introducing a power of three into the order.
+The even-side word remains to be constructed on those same rows.
 
 <a id="dynamics"></a>
 ## Central directions, finite memory and periodic orbit resolution
@@ -108,10 +111,8 @@ For the growing [Salem family with \(s=d+1\)](../claims/Yin_C_G0904_v2.md#statem
 If the polynomial consists of two end blocks of width \(r+1\) with \(r=o(d)\), the [coefficient reversal test](../claims/Yin_C_G0904_v3.md#statement) characterizes exactly when a fixed list of primes works.
 For the whole irreducible polynomial, [signed reversal at even one prime forces \(M(P)>\sqrt{3/2}\)](../claims/Yin_C_G0904_v5.md#binomial).
 A strict record from degree ten onward therefore has asymmetric end support modulo two at height one whenever it has this presentation.
-In the regime \(r=o(d)\), such records would have return fraction tending to zero in linear time, uniformly over all primes.
-Whether the records can have these widths remains open, and the [exterior roots of the monic end block](../claims/Yin_C_G0904_v5.md#exterior) give an additional test.
-The [reciprocal resultant estimate](../claims/Yin_C_G0904_v7.md#energy) forces \(r\gg d^{2/3}\), while [matching reflected exterior roots in the disk](../claims/Yin_C_G0904_v8.md#clusters) improves this to \(r\gg d/\log(2d)\).
-In the remaining sublinear range the [mean logarithmic radius of the exterior roots](../claims/Yin_C_G0904_v7.md#comparison) is \(O((r/d)^2)\).
+For complete irreducible record closures the [reciprocal resultant and weighted local zero counts](../claims/Yin_C_G0904_v9.md#width) now force \(r\gg d\).
+Thus the sublinear-width obstruction to returns cannot occur on this class of records.
 Strict minimality also requires every shorter closure \(X^jQ\pm Q^*\), \(1\le j<n\), of positive logarithmic measure to have larger measure than the record.
 On the positive Salem branch there is a [sign and crossing test](../claims/Yin_C_G0904_v8.md#shorter) for a competing closure.
 In a [degree-twenty example](../claims/Yin_C_G0904_v8.md#example), shortening \(j=15\) to \(j=12\) and taking the minus sign gives precisely Lehmer's polynomial times cyclotomic factors.
@@ -267,5 +268,7 @@ The [boundary inversion and orbit test](../claims/Yin_C_G0883_v8.md#cycles) dete
 The [six-term minimum for Lehmer's \(L(x)\)](../claims/Yin_C_G0883_v8.md#lehmer) is attained by puncturing two fixed points, while a [five-term open fiber](../claims/Yin_C_G0883_v8.md#partial) caps to \(L(-x)\).
 For a choice of closed monodromy with the prescribed homological action, [filling orbits and a bounded number of twists per cycle](../claims/Yin_C_G0883_v9.md#filling) realize every boundary profile.
 The open volume is \(O(1+s(P)+t)\) for \(t\) cycles, independently of their lengths.
-The remaining issue is the cost of a dense closed polynomial when its admissible open multiple has much smaller support.
+One can [correct any sparse cyclotomic completion](../claims/Yin_C_G0883_v11.md#correction) by binomials whose number is bounded in terms of the original support.
+When \((x-1)P\) has four terms the [open volume is bounded absolutely](../claims/Yin_C_G0883_v10.md#four), including on an explicit dense Salem family.
+For shrinking records, the admissible support must grow, and volume control linear in that support for dense \(P\) remains open.
 A lift can have arbitrarily large volume with every homology group in the original tower fixed.

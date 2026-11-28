@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v1308](Yin_R_G0562_v1308.md#finding) checks the support bound for correcting all negative boundary counts of a sparse cyclotomic completion.
+- [R562 v1307](Yin_R_G0562_v1307.md#finding) checks the four-term open realizations, their dense Salem examples and extraction of admissible periods from a closed realization.
+- [R562 v1306](Yin_R_G0562_v1306.md#finding) checks when two deep Salem coordinates generate the same local field.
+- [R562 v1305](Yin_R_G0562_v1305.md#finding) checks exact odd-side periods and the two sets of Frobenius orbits that complete the degree.
+- [R562 v1304](Yin_R_G0562_v1304.md#finding) checks the measure comparison that forces linear end width for small complete closures.
 - [R562 v1303](Yin_R_G0562_v1303.md#finding) checks the degree-twenty Salem example and its shorter closure with Lehmer's factor.
 - [R562 v1302](Yin_R_G0562_v1302.md#finding) checks the unique earlier exponent, its order at a deep place and the overlap across multiplicatively related targets.
 - [R562 v1301](Yin_R_G0562_v1301.md#finding) checks full-degree returns at two nearby times and the coverage of the vanishing frequencies.

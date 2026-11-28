@@ -19,23 +19,24 @@ The main researcher may pursue a uniform lower bound, this construction or anoth
 Investigate the following questions in parallel under the unrestricted contract.
 For adjacent Salem records, use the archimedean restriction on the exponent to test whether the [trace conic](../claims/Yin_C_G0901_v206.md#conic) can reach [depth of order \(n/\log n\) at places of relative degree \(O(\log n)\)](../claims/Yin_C_G0901_v208.md#records) over a fixed prime set.
 The [separation of earlier powers](../claims/Yin_C_G0901_v210.md#window) identifies the only possible exponent at a much smaller depth.
-Test whether \(2/B\) can still agree with that power after the [required growth of its order](../claims/Yin_C_G0901_v210.md#order).
+Test the remaining deep match separately on [coincident local fields and composita of polylogarithmic absolute degree](../claims/Yin_C_G0901_v212.md#records), using the [order at full precision](../claims/Yin_C_G0901_v210.md#order).
 For the trace construction, seek positivity of the [exact count of full-degree, prescribed-order words](../claims/Yin_C_G0901_v203.md#count) on unbounded zero-boundary rows.
 Use the [residue-degree test](../claims/Yin_C_G0901_v205.md#degrees) for the last degree correction after constructing a factor of degree \(d-o(d)\) with the full prescribed order.
 The [known missing-frequency test](../claims/Yin_C_G0901_v209.md#sieve) passes on unbounded synchronized rows.
-Seek an exact-order divisor at \(N\) using the [construction attaining full degree at \(N-2u\)](../claims/Yin_C_G0901_v209.md#divisors) to identify the needed degree coverage of divisors at \(N\).
+Test the [two-subfield degree correction](../claims/Yin_C_G0901_v211.md#criterion) on the prescribed periods, or realize the binary word at the [periods already filled on the odd side](../claims/Yin_C_G0901_v211.md#congruences).
 For integral toral automorphisms, look for a bounded prime and an order \(j=O(d)\) at which the minimal [cyclic mod-\(p\) homology rank](../claims/Yin_C_G0904_v2.md#return-ranks) reaches a fixed fraction of the strict record degree.
 Such a return certifies uniform positive lower bounds for both previously specified observation windows.
-For records with two separated end blocks, the [root separation estimate](../claims/Yin_C_G0904_v8.md#width) leaves \(d/\log(2d)\ll r=o(d)\).
-In the squarefree case compare the [necessary discriminant deficit](../claims/Yin_C_G0904_v8.md#squarefree) with the [phase crossings](../claims/Yin_C_G0904_v8.md#shorter) that would produce a shorter closure on the positive Salem branch.
-On such a sequence [every prime fails the positive-fraction linear-time return test](../claims/Yin_C_G0904_v5.md#record).
+For complete irreducible separated closures below the plastic number, [averaging the local zero counts](../claims/Yin_C_G0904_v9.md#width) forces \(r\gg d\) at a fixed measure ceiling.
+Test the positive-fraction linear-time return on blocks of linear width or on presentations with additional occupied positions in the middle.
+For finite positive Salem candidates, the [phase-crossing test](../claims/Yin_C_G0904_v8.md#shorter) still seeks an explicit lower-degree competitor.
 For more general supports, test which relations of the coefficients evade the [short-relation bound for a two-variable specialization](../claims/Yin_C_G0904_v4.md#torus).
 For Salem fields, seek an independent [second element of controlled height](../drafts/Yin_D_G0034.md#geometry) in relative degree at most two over the same trace field, allowing for the [degree required of an integral trace polynomial](../claims/Yin_C_G0901_v199.md#statement).
 The [closed hyperbolic mapping-torus realization](../claims/Yin_C_G0883_v2.md#mapping-tori) also applies to unrestricted strict records.
 For the least volume realizing the whole polynomial, compare the [lower bound from cyclotomic support](../claims/Yin_C_G0883_v3.md#statement) with the [upper bound linear in the number of noncentral coefficient pairs](../claims/Yin_C_G0883_v7.md#support).
 For a sparse cyclotomic multiple, the unique [boundary cycle counts](../claims/Yin_C_G0883_v8.md#cycles) determine realizability when the lift can be chosen.
 The [open construction](../claims/Yin_C_G0883_v9.md#volume) costs \(O(1+s(P)+t)\) for \(t\) cycles.
-Seek a bound from the support of the open polynomial alone when the closed support is much larger, as in the [five-term partial fillings](../claims/Yin_C_G0883_v8.md#partial).
+An [arbitrary sparse cyclotomic completion](../claims/Yin_C_G0883_v11.md#transfer) can be made admissible at a cost bounded in terms of its own support.
+Seek periods and closed-homology realizations with cost linear in the growing open support, extending the [four-term fixed-puncture construction](../claims/Yin_C_G0883_v10.md#four) and the [five-term partial fillings](../claims/Yin_C_G0883_v8.md#partial).
 When such a multiple contains a large signed binomial modulo a prime, its [boundary periods must supply the missing residue degree](../claims/Yin_C_G0904_v6.md#boundary).
 A fixed-parent model can have [vanishing return fractions at every prime](../claims/Yin_C_G0904_v4.md#braid), so each route needs its own transfer to strict records.
 The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
@@ -3055,7 +3056,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Relate the end-block discriminant to shorter Salem closures, control open volume by the support of the cyclotomic multiple, test the single locally eligible Salem exponent and fill the exact target degree at the second trace period. |
+| priority | Test toral returns on end blocks of linear width, extend the four-term volume construction to growing support, test deep Salem matches on the remaining local field types and synchronize the two exact modular periods. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation
