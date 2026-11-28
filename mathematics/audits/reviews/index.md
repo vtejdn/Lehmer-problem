@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v1303](Yin_R_G0562_v1303.md#finding) checks the degree-twenty Salem example and its shorter closure with Lehmer's factor.
+- [R562 v1302](Yin_R_G0562_v1302.md#finding) checks the unique earlier exponent, its order at a deep place and the overlap across multiplicatively related targets.
+- [R562 v1301](Yin_R_G0562_v1301.md#finding) checks full-degree returns at two nearby times and the coverage of the vanishing frequencies.
+- [R562 v1300](Yin_R_G0562_v1300.md#finding) checks the prescribed boundary cycles, trivial closed homology of the added twists and the open-volume estimate.
+- [R562 v1299](Yin_R_G0562_v1299.md#finding) checks the logarithmic width bound, its discriminant refinement and the test for shorter Salem closures.
 - [R562 v1298](Yin_R_G0562_v1298.md#finding) checks the relative discriminant estimate, its simultaneous bounds for Salem translates and the fixed example over 17.
 - [R562 v1297](Yin_R_G0562_v1297.md#finding) checks the quotient frequency obstruction and large multiplicities at roots of growing prime order.
 - [R562 v1296](Yin_R_G0562_v1296.md#finding) checks the boundary period and orbit tests, the six-term minimum and the five-term partial fillings.
