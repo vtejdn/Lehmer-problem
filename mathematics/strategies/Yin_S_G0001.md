@@ -19,15 +19,18 @@ The main researcher may pursue a uniform lower bound, this construction or anoth
 Investigate the following questions in parallel under the unrestricted contract.
 For adjacent Salem records, use the archimedean restriction on the exponent to test whether the [trace conic](../claims/Yin_C_G0901_v206.md#conic) can reach [depth of order \(n/\log n\) at places of relative degree \(O(\log n)\)](../claims/Yin_C_G0901_v208.md#records) over a fixed prime set.
 The [separation of earlier powers](../claims/Yin_C_G0901_v210.md#window) identifies the only possible exponent at a much smaller depth.
-Test the remaining deep match separately on [coincident local fields and composita of polylogarithmic absolute degree](../claims/Yin_C_G0901_v212.md#records), using the [order at full precision](../claims/Yin_C_G0901_v210.md#order).
+At a fixed prime the [simultaneously nonsplit places have negligible mass](../claims/Yin_C_G0901_v214.md#mass).
+Test concentration along the remaining directed paths of matched factors and in the [composita of polylogarithmic absolute degree](../claims/Yin_C_G0901_v212.md#records).
 For the trace construction, seek positivity of the [exact count of full-degree, prescribed-order words](../claims/Yin_C_G0901_v203.md#count) on unbounded zero-boundary rows.
 Use the [residue-degree test](../claims/Yin_C_G0901_v205.md#degrees) for the last degree correction after constructing a factor of degree \(d-o(d)\) with the full prescribed order.
 The [known missing-frequency test](../claims/Yin_C_G0901_v209.md#sieve) passes on unbounded synchronized rows.
-Test the [two-subfield degree correction](../claims/Yin_C_G0901_v211.md#criterion) on the prescribed periods, or realize the binary word at the [periods already filled on the odd side](../claims/Yin_C_G0901_v211.md#congruences).
+The [one-denominator models with two exact orders](../claims/Yin_C_G0901_v213.md#periods) synchronize the full degrees at the cost of a bounded-degree binary factor.
+Seek synchronization with all dyadic local degrees growing on the original prescribed periods.
 For integral toral automorphisms, look for a bounded prime and an order \(j=O(d)\) at which the minimal [cyclic mod-\(p\) homology rank](../claims/Yin_C_G0904_v2.md#return-ranks) reaches a fixed fraction of the strict record degree.
 Such a return certifies uniform positive lower bounds for both previously specified observation windows.
 For complete irreducible separated closures below the plastic number, [averaging the local zero counts](../claims/Yin_C_G0904_v9.md#width) forces \(r\gg d\) at a fixed measure ceiling.
-Test the positive-fraction linear-time return on blocks of linear width or on presentations with additional occupied positions in the middle.
+At linear width a [decreasing Salem family](../claims/Yin_C_G0904_v10.md#salem) avoids any preassigned finite prime list.
+For a sparse reduction test whether strict minimality forces [a binomial divisor whose degree is retained by the record](../claims/Yin_C_G0904_v10.md#cosets), using the measure ceiling to distinguish actual records from that family.
 For finite positive Salem candidates, the [phase-crossing test](../claims/Yin_C_G0904_v8.md#shorter) still seeks an explicit lower-degree competitor.
 For more general supports, test which relations of the coefficients evade the [short-relation bound for a two-variable specialization](../claims/Yin_C_G0904_v4.md#torus).
 For Salem fields, seek an independent [second element of controlled height](../drafts/Yin_D_G0034.md#geometry) in relative degree at most two over the same trace field, allowing for the [degree required of an integral trace polynomial](../claims/Yin_C_G0901_v199.md#statement).
@@ -36,7 +39,8 @@ For the least volume realizing the whole polynomial, compare the [lower bound fr
 For a sparse cyclotomic multiple, the unique [boundary cycle counts](../claims/Yin_C_G0883_v8.md#cycles) determine realizability when the lift can be chosen.
 The [open construction](../claims/Yin_C_G0883_v9.md#volume) costs \(O(1+s(P)+t)\) for \(t\) cycles.
 An [arbitrary sparse cyclotomic completion](../claims/Yin_C_G0883_v11.md#transfer) can be made admissible at a cost bounded in terms of its own support.
-Seek periods and closed-homology realizations with cost linear in the growing open support, extending the [four-term fixed-puncture construction](../claims/Yin_C_G0883_v10.md#four) and the [five-term partial fillings](../claims/Yin_C_G0883_v8.md#partial).
+The [rotation with disjoint twists](../claims/Yin_C_G0883_v12.md#rotation) attains linear cost at growing support on dense polynomials, and its uniform mod-two return imposes a positive measure gap.
+Use the [finite search for admissible periods](../claims/Yin_C_G0883_v13.md#search) and the [period deletion criterion](../claims/Yin_C_G0883_v12.md#trimming) to select record multiples, then seek a volume bound that also covers profiles outside the disjoint-twist construction.
 When such a multiple contains a large signed binomial modulo a prime, its [boundary periods must supply the missing residue degree](../claims/Yin_C_G0904_v6.md#boundary).
 A fixed-parent model can have [vanishing return fractions at every prime](../claims/Yin_C_G0904_v4.md#braid), so each route needs its own transfer to strict records.
 The [scope of the two routes](../ledger/Yin_L_G0462_v328.md#gap) distinguishes the equivalent record criterion from the sufficient trace construction and its partial data tests.
@@ -3056,7 +3060,7 @@ All eight routes and the Task remain paused, with no computation or proof-review
 | Field | Value |
 | --- | --- |
 | disposition | active |
-| priority | Test toral returns on end blocks of linear width, extend the four-term volume construction to growing support, test deep Salem matches on the remaining local field types and synchronize the two exact modular periods. |
+| priority | Test binomial divisors on actual record reductions, realize economical admissible multiples outside the disjoint-twist family, test mass on the remaining local factor paths and impose growing dyadic degrees at the synchronized periods. |
 
 <a id="parallel-algebraic-haar-2026-10-15"></a>
 ## Parallel algebraic and single-Haar continuation

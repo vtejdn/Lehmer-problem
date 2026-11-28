@@ -1,5 +1,10 @@
 # Reviews Index
 
+- [R562 v1313](Yin_R_G0562_v1313.md#finding) checks the synchronized exact periods, pole and retained binary factor in the one-denominator models.
+- [R562 v1312](Yin_R_G0562_v1312.md#finding) checks the grading of deep factor incidences and the negligible mass of places nonsplit over both individual trace fields.
+- [R562 v1311](Yin_R_G0562_v1311.md#finding) checks the finite boundary-period bounds and exact support minima at degrees eight and ten.
+- [R562 v1310](Yin_R_G0562_v1310.md#finding) checks the disjoint twists, growing open support, binary return and deletion of a boundary period.
+- [R562 v1309](Yin_R_G0562_v1309.md#finding) checks binomial cosets at arbitrary observation times and the Salem family avoiding a prescribed prime set.
 - [R562 v1308](Yin_R_G0562_v1308.md#finding) checks the support bound for correcting all negative boundary counts of a sparse cyclotomic completion.
 - [R562 v1307](Yin_R_G0562_v1307.md#finding) checks the four-term open realizations, their dense Salem examples and extraction of admissible periods from a closed realization.
 - [R562 v1306](Yin_R_G0562_v1306.md#finding) checks when two deep Salem coordinates generate the same local field.

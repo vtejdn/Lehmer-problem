@@ -27,6 +27,7 @@ Two [fixed quartic Salem numbers](../claims/Yin_C_G0901_v208.md#example) attain 
 For two shrinking Salem records, [all earlier powers in the allowed window](../claims/Yin_C_G0901_v210.md#window) are already separated at depth \(O(\sqrt{D\log D}/\log p)\), where \(D=\deg A\).
 The much deeper congruence to \(2/B\) requires [large multiplicative order](../claims/Yin_C_G0901_v210.md#order) at its actual precision.
 The two units then [generate the same local field](../claims/Yin_C_G0901_v212.md#records) whenever their joint absolute local degree exceeds a fixed power of the logarithm of the later degree.
+At large local degree the [factor incidences are disjoint directed paths](../claims/Yin_C_G0901_v214.md#matching), and places nonsplit over both individual trace fields have negligible mass.
 
 <a id="trace"></a>
 ## Completing the second residue period on the one-denominator controls
@@ -54,7 +55,8 @@ Even bounded multiplicities in each fixed residue field allow [orders of size \(
 At the neighboring period \(A=N-2u\), a [full-degree word of exact order \(A\)](../claims/Yin_C_G0901_v209.md#times) exists on every sufficiently large strengthened row.
 The two possible words on the same row have opposite return behavior at \(A\) and \(N\).
 At a separate [family of periods](../claims/Yin_C_G0901_v211.md#subfields), two proper subfields supply the final \(O(\log d)\) degrees without introducing a power of three into the order.
-The even-side word remains to be constructed on those same rows.
+On another [one-denominator family](../claims/Yin_C_G0901_v213.md#periods), both full-degree words now have the prescribed difference of orders at the exact pole.
+At least one dyadic factor there has bounded degree, leaving synchronization under the original large-degree requirement open.
 
 <a id="dynamics"></a>
 ## Central directions, finite memory and periodic orbit resolution
@@ -113,6 +115,8 @@ For the whole irreducible polynomial, [signed reversal at even one prime forces 
 A strict record from degree ten onward therefore has asymmetric end support modulo two at height one whenever it has this presentation.
 For complete irreducible record closures the [reciprocal resultant and weighted local zero counts](../claims/Yin_C_G0904_v9.md#width) now force \(r\gg d\).
 Thus the sublinear-width obstruction to returns cannot occur on this class of records.
+At width \(d/2-1\), the [prime-avoidance examples](../claims/Yin_C_G0904_v10.md#salem) show why fixed height and decreasing Salem measure give insufficient information about a prescribed prime list.
+For a sparse reduction the [binomial extraction test](../claims/Yin_C_G0904_v10.md#cosets) also measures how much of the returning factor survives capping.
 Strict minimality also requires every shorter closure \(X^jQ\pm Q^*\), \(1\le j<n\), of positive logarithmic measure to have larger measure than the record.
 On the positive Salem branch there is a [sign and crossing test](../claims/Yin_C_G0904_v8.md#shorter) for a competing closure.
 In a [degree-twenty example](../claims/Yin_C_G0904_v8.md#example), shortening \(j=15\) to \(j=12\) and taking the minus sign gives precisely Lehmer's polynomial times cyclotomic factors.
@@ -270,5 +274,8 @@ For a choice of closed monodromy with the prescribed homological action, [fillin
 The open volume is \(O(1+s(P)+t)\) for \(t\) cycles, independently of their lengths.
 One can [correct any sparse cyclotomic completion](../claims/Yin_C_G0883_v11.md#correction) by binomials whose number is bounded in terms of the original support.
 When \((x-1)P\) has four terms the [open volume is bounded absolutely](../claims/Yin_C_G0883_v10.md#four), including on an explicit dense Salem family.
-For shrinking records, the admissible support must grow, and volume control linear in that support for dense \(P\) remains open.
+For [many disjoint twists](../claims/Yin_C_G0883_v12.md#rotation), the open volume is linear in the support even for dense polynomials of unbounded degree.
+At two the same construction returns at least half the closed degree in linear time.
+The [period search](../claims/Yin_C_G0883_v13.md#search) finds the minimal admissible support for any given record and proves optimality of the five-term open multiple of \(L(-X)\).
+For a shrinking record sequence, existence of a saving in support and linear volume control for those multiples remain open.
 A lift can have arbitrarily large volume with every homology group in the original tower fixed.
